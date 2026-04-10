@@ -111,3 +111,48 @@ For a given target author, the system aims to rank candidate collaborators based
 - **network proximity**: how close two authors are in the collaboration graph;
 - **semantic similarity**: how similar their research topics are based on paper abstracts or keywords;
 - **cross-community potential**: whether a collaboration could connect different research communities.
+
+## DBLP AI Author Graph
+
+If you want a coauthor graph under the definition:
+
+`AI author = an author who published at least one paper in AAAI, IJCAI, ICML, NeurIPS, or ICLR during a chosen year range`
+
+you can run:
+
+```bash
+python scripts/fetch_dblp_ai_coauthor_graph.py
+```
+
+By default, the script fetches `AAAI`, `IJCAI`, `ICML`, `NeurIPS`, and `ICLR`
+from `2015` to the current year. It writes:
+
+- `data/dblp_ai_authors_<start>_<end>/authors.csv`
+- `data/dblp_ai_authors_<start>_<end>/edges.csv`
+- `data/dblp_ai_authors_<start>_<end>/papers.csv`
+- `data/dblp_ai_authors_<start>_<end>/graph.graphml`
+- `data/dblp_ai_authors_<start>_<end>/summary.json`
+
+The constructed graph is an undirected weighted coauthor graph where edge weight equals the number of qualifying papers coauthored inside this venue/year slice.
+
+The script works by:
+
+- fetching each proceedings record from `https://dblp.org/rec/conf/<venue>/<year>.xml`;
+- reading the per-year table-of-contents path from the record;
+- converting that path to a TOC XML endpoint under `https://dblp.org/db/conf/...`;
+- extracting paper-level `<inproceedings>` entries and their authors.
+
+Example: fetch only `2015-2025` for the five flagship venues:
+
+```bash
+python scripts/fetch_dblp_ai_coauthor_graph.py --start-year 2015 --end-year 2025
+```
+
+Example: fetch only `ICML` and `NeurIPS`:
+
+```bash
+python scripts/fetch_dblp_ai_coauthor_graph.py --venues icml nips --start-year 2015 --end-year 2025
+```
+
+Because DBLP rate limits frequent requests, the script includes a polite delay and
+automatic retry logic for `429 Too Many Requests`.

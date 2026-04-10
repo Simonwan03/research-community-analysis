@@ -1,0 +1,25 @@
+{
+  "generated_at": "2026-04-10T16:34:16.267278",
+  "source": "DBLP proceedings XML",
+  "dblp_base_url": "https://dblp.org/",
+  "venues": {
+    "aaai": "AAAI"
+  },
+  "year_range": {
+    "start": 2025,
+    "end": 2025
+  },
+  "counts": {
+    "papers": 3486,
+    "authors": 14357,
+    "edges": 45030
+  },
+  "paper_counts_by_venue": {
+    "AAAI": 3486
+  },
+  "notes": [
+    "DBLP venue streams provide metadata only; paper-level records are fetched from per-year proceedings TOC XML.",
+    "Author identity uses DBLP pid when available, otherwise a normalized name key.",
+    "The output graph is an undirected weighted coauthor graph where edge weight equals the number of qualifying papers."
+  ]
+}
