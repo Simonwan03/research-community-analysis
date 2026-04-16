@@ -1,0 +1,287 @@
+{
+  "total": 17,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "402c047bf6636ff784aa51b83c8ac64d18b67918",
+      "externalIds": {
+        "DBLP": "conf/icml/ManoelKTZ15",
+        "MAG": "1855388283",
+        "CorpusId": 13613285
+      },
+      "url": "https://www.semanticscholar.org/paper/402c047bf6636ff784aa51b83c8ac64d18b67918",
+      "title": "Swept Approximate Message Passing for Sparse Estimation",
+      "venue": "International Conference on Machine Learning",
+      "year": 2015,
+      "referenceCount": 31,
+      "citationCount": 48,
+      "authors": [
+        {
+          "authorId": "145580422",
+          "name": "Andre Manoel"
+        },
+        {
+          "authorId": "2909402",
+          "name": "Florent Krzakala"
+        },
+        {
+          "authorId": "2433727",
+          "name": "Eric W. Tramel"
+        },
+        {
+          "authorId": "2546601",
+          "name": "L. Zdeborová"
+        }
+      ]
+    },
+    {
+      "paperId": "086d45df78a2b39468531f761d45fe60586b5046",
+      "externalIds": {
+        "MAG": "2334894471",
+        "DBLP": "conf/iccchina/LiCYH15",
+        "DOI": "10.1109/ICCChina.2015.7448726",
+        "CorpusId": 37219775
+      },
+      "url": "https://www.semanticscholar.org/paper/086d45df78a2b39468531f761d45fe60586b5046",
+      "title": "Approximate message passing for sparse recovering of spatially and temporally correlated data",
+      "venue": "2015 IEEE/CIC International Conference on Communications in China (ICCC)",
+      "year": 2015,
+      "referenceCount": 15,
+      "citationCount": 4,
+      "authors": [
+        {
+          "authorId": "3381879",
+          "name": "Yangqing Li"
+        },
+        {
+          "authorId": "38244645",
+          "name": "Wei Chen"
+        },
+        {
+          "authorId": "1768333",
+          "name": "Changchuan Yin"
+        },
+        {
+          "authorId": "145169163",
+          "name": "Zhu Han"
+        }
+      ]
+    },
+    {
+      "paperId": "31fe0ed4e938b451d6f984ac8b15f11bc6ba3ea8",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-1507-08726",
+        "MAG": "2962720125",
+        "ArXiv": "1507.08726",
+        "CorpusId": 28043263
+      },
+      "url": "https://www.semanticscholar.org/paper/31fe0ed4e938b451d6f984ac8b15f11bc6ba3ea8",
+      "title": "Robustness in sparse linear models: relative efficiency based on robust approximate message passing",
+      "venue": "arXiv.org",
+      "year": 2015,
+      "referenceCount": 53,
+      "citationCount": 12,
+      "authors": [
+        {
+          "authorId": "2999816",
+          "name": "Jelena Bradic"
+        }
+      ]
+    },
+    {
+      "paperId": "4d8cd730dc3e864cdbe8d2cd90c6e2294a6fd083",
+      "externalIds": {
+        "MAG": "2522905910",
+        "CorpusId": 64266971
+      },
+      "url": "https://www.semanticscholar.org/paper/4d8cd730dc3e864cdbe8d2cd90c6e2294a6fd083",
+      "title": "Empirical-Bayes Approaches to Recovery of Structured Sparse Signals via Approximate Message Passing",
+      "venue": "",
+      "year": 2015,
+      "referenceCount": 120,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "8346203",
+          "name": "Jeremy P. Vila"
+        }
+      ]
+    },
+    {
+      "paperId": "eb9100e87486a9a19e56d982cf759ad4e7843b1c",
+      "externalIds": {
+        "DBLP": "conf/icassp/HamzeheiD15",
+        "MAG": "1606559753",
+        "DOI": "10.1109/ICASSP.2015.7178587",
+        "CorpusId": 2627522
+      },
+      "url": "https://www.semanticscholar.org/paper/eb9100e87486a9a19e56d982cf759ad4e7843b1c",
+      "title": "Compressive parameter estimation via approximate message passing",
+      "venue": "IEEE International Conference on Acoustics, Speech, and Signal Processing",
+      "year": 2015,
+      "referenceCount": 44,
+      "citationCount": 4,
+      "authors": [
+        {
+          "authorId": "3425734",
+          "name": "Shermin Hamzehei"
+        },
+        {
+          "authorId": "1888626",
+          "name": "Marco F. Duarte"
+        }
+      ]
+    },
+    {
+      "paperId": "e0d5eb63ef3022c09a1d62574f46eb580c7d984e",
+      "externalIds": {
+        "DBLP": "conf/spawc/MusaG15",
+        "MAG": "1512231839",
+        "DOI": "10.1109/SPAWC.2015.7227090",
+        "CorpusId": 16161778
+      },
+      "url": "https://www.semanticscholar.org/paper/e0d5eb63ef3022c09a1d62574f46eb580c7d984e",
+      "title": "Quantization of compressed sensing measurements using Analysis-by-Synthesis with Bayesian-optimal Approximate Message Passing",
+      "venue": "International Workshop on Signal Processing Advances in Wireless Communications",
+      "year": 2015,
+      "referenceCount": 19,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "2092946969",
+          "name": "O. Musa"
+        },
+        {
+          "authorId": "1775374",
+          "name": "N. Goertz"
+        }
+      ]
+    },
+    {
+      "paperId": "fc7f12e745bb2154c930754679b4dadb50d324fc",
+      "externalIds": {
+        "ArXiv": "1511.08238",
+        "MAG": "2270712863",
+        "DBLP": "journals/corr/HannakMMG15",
+        "CorpusId": 13875076
+      },
+      "url": "https://www.semanticscholar.org/paper/fc7f12e745bb2154c930754679b4dadb50d324fc",
+      "title": "An Approach to Complex Bayesian-optimal Approximate Message Passing",
+      "venue": "arXiv.org",
+      "year": 2015,
+      "referenceCount": 15,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "1858777",
+          "name": "Gabor Hannak"
+        },
+        {
+          "authorId": "144130667",
+          "name": "M. Mayer"
+        },
+        {
+          "authorId": "1788303",
+          "name": "G. Matz"
+        },
+        {
+          "authorId": "1775374",
+          "name": "N. Goertz"
+        }
+      ]
+    },
+    {
+      "paperId": "9f0dd5398593500843e39b3b9eadbc115cf20803",
+      "externalIds": {
+        "MAG": "2290236773",
+        "DBLP": "conf/socc/ChenHWZH15",
+        "DOI": "10.1109/SOCC.2015.7406998",
+        "CorpusId": 25910656
+      },
+      "url": "https://www.semanticscholar.org/paper/9f0dd5398593500843e39b3b9eadbc115cf20803",
+      "title": "EM independent Gaussian approximate message passing and its application in OFDM impulsive noise mitigation",
+      "venue": "ACM Symposium on Cloud Computing",
+      "year": 2015,
+      "referenceCount": 10,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2144862179",
+          "name": "Yun Chen"
+        },
+        {
+          "authorId": "2587059",
+          "name": "Yuanzhou Hu"
+        },
+        {
+          "authorId": "2107971219",
+          "name": "Yizhi Wang"
+        },
+        {
+          "authorId": "145462529",
+          "name": "Xiaoyang Zeng"
+        },
+        {
+          "authorId": "25861542",
+          "name": "David Huang"
+        }
+      ]
+    },
+    {
+      "paperId": "be8cd7c30cf066409b292328e940efe62aeaf00c",
+      "externalIds": {
+        "MAG": "1604314845",
+        "DBLP": "conf/spawc/KimL15",
+        "DOI": "10.1109/SPAWC.2015.7227017",
+        "CorpusId": 7832339
+      },
+      "url": "https://www.semanticscholar.org/paper/be8cd7c30cf066409b292328e940efe62aeaf00c",
+      "title": "Virtual AoA and AoD estimation for sparse millimeter wave MIMO channels",
+      "venue": "International Workshop on Signal Processing Advances in Wireless Communications",
+      "year": 2015,
+      "referenceCount": 21,
+      "citationCount": 81,
+      "authors": [
+        {
+          "authorId": "145207438",
+          "name": "Taejoon Kim"
+        },
+        {
+          "authorId": "1678418",
+          "name": "D. Love"
+        }
+      ]
+    },
+    {
+      "paperId": "0b599c4e90837f38ed931124e46c702f24004952",
+      "externalIds": {
+        "MAG": "1700527341",
+        "DBLP": "conf/isit/LesieurKZ15",
+        "ArXiv": "1503.00338",
+        "DOI": "10.1109/ISIT.2015.7282733",
+        "CorpusId": 2319561
+      },
+      "url": "https://www.semanticscholar.org/paper/0b599c4e90837f38ed931124e46c702f24004952",
+      "title": "Phase transitions in sparse PCA",
+      "venue": "International Symposium on Information Theory",
+      "year": 2015,
+      "referenceCount": 17,
+      "citationCount": 85,
+      "authors": [
+        {
+          "authorId": "3352779",
+          "name": "T. Lesieur"
+        },
+        {
+          "authorId": "2909402",
+          "name": "Florent Krzakala"
+        },
+        {
+          "authorId": "2546601",
+          "name": "L. Zdeborová"
+        }
+      ]
+    }
+  ]
+}

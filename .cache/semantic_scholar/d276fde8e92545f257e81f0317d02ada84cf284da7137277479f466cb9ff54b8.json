@@ -1,0 +1,289 @@
+{
+  "total": 15,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "7696acd368c86a7591fee77f156b401103c03f74",
+      "externalIds": {
+        "DBLP": "conf/icml/YouV15",
+        "MAG": "1826223126",
+        "CorpusId": 17929434
+      },
+      "url": "https://www.semanticscholar.org/paper/7696acd368c86a7591fee77f156b401103c03f74",
+      "title": "Geometric Conditions for Subspace-Sparse Recovery",
+      "venue": "International Conference on Machine Learning",
+      "year": 2015,
+      "referenceCount": 25,
+      "citationCount": 51,
+      "authors": [
+        {
+          "authorId": "1878841",
+          "name": "Chong You"
+        },
+        {
+          "authorId": "144020730",
+          "name": "R. Vidal"
+        }
+      ]
+    },
+    {
+      "paperId": "23c43ad0bbaba03fe433f623eb5203614808923c",
+      "externalIds": {
+        "ArXiv": "1507.01307",
+        "DBLP": "journals/corr/YouV15a",
+        "MAG": "2258058088",
+        "CorpusId": 8650707
+      },
+      "url": "https://www.semanticscholar.org/paper/23c43ad0bbaba03fe433f623eb5203614808923c",
+      "title": "Subspace-Sparse Representation",
+      "venue": "arXiv.org",
+      "year": 2015,
+      "referenceCount": 54,
+      "citationCount": 6,
+      "authors": [
+        {
+          "authorId": "1878841",
+          "name": "Chong You"
+        },
+        {
+          "authorId": "144020730",
+          "name": "R. Vidal"
+        }
+      ]
+    },
+    {
+      "paperId": "151b8e9562f4f98dfd8fb4f353fd398793e65642",
+      "externalIds": {
+        "DBLP": "journals/corr/YeKB15",
+        "ArXiv": "1503.06679",
+        "MAG": "1733556918",
+        "DOI": "10.1109/TSP.2015.2477049",
+        "CorpusId": 43567
+      },
+      "url": "https://www.semanticscholar.org/paper/151b8e9562f4f98dfd8fb4f353fd398793e65642",
+      "title": "Improving M-SBL for Joint Sparse Recovery Using a Subspace Penalty",
+      "venue": "IEEE Transactions on Signal Processing",
+      "year": 2015,
+      "referenceCount": 26,
+      "citationCount": 16,
+      "authors": [
+        {
+          "authorId": "2998762",
+          "name": "J. C. Ye"
+        },
+        {
+          "authorId": "2109228343",
+          "name": "Jongmin Kim"
+        },
+        {
+          "authorId": "1724132",
+          "name": "Y. Bresler"
+        }
+      ]
+    },
+    {
+      "paperId": "daa8393147c817e67475ff5de1c8d289939384cd",
+      "externalIds": {
+        "DBLP": "journals/spl/BiswasAJDM15",
+        "MAG": "1541239191",
+        "DOI": "10.1109/LSP.2015.2447455",
+        "CorpusId": 11592173
+      },
+      "url": "https://www.semanticscholar.org/paper/daa8393147c817e67475ff5de1c8d289939384cd",
+      "title": "Recovery of Low Rank and Jointly Sparse Matrices with Two Sampling Matrices",
+      "venue": "IEEE Signal Processing Letters",
+      "year": 2015,
+      "referenceCount": 13,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "1868014",
+          "name": "Sampurna Biswas"
+        },
+        {
+          "authorId": "2438709",
+          "name": "H. Achanta"
+        },
+        {
+          "authorId": "145004655",
+          "name": "M. Jacob"
+        },
+        {
+          "authorId": "1737530",
+          "name": "S. Dasgupta"
+        },
+        {
+          "authorId": "5801919",
+          "name": "R. Mudumbai"
+        }
+      ]
+    },
+    {
+      "paperId": "d664f317c68c510f36d47ea608682da36af77d13",
+      "externalIds": {
+        "MAG": "1198001218",
+        "DOI": "10.1007/s40305-015-0089-8",
+        "CorpusId": 117043704
+      },
+      "url": "https://www.semanticscholar.org/paper/d664f317c68c510f36d47ea608682da36af77d13",
+      "title": "Convex Relaxation Algorithm for a Structured Simultaneous Low-Rank and Sparse Recovery Problem",
+      "venue": "Journal of the Operations Research Society of China",
+      "year": 2015,
+      "referenceCount": 23,
+      "citationCount": 7,
+      "authors": [
+        {
+          "authorId": "145402054",
+          "name": "L. Han"
+        },
+        {
+          "authorId": "2109321532",
+          "name": "Xiaolan Liu"
+        }
+      ]
+    },
+    {
+      "paperId": "8dbb81ceac324975bf4c2cbc80b08ed3c91ad932",
+      "externalIds": {
+        "MAG": "2051253084",
+        "DBLP": "journals/tgrs/HeLLW15",
+        "DOI": "10.1109/TGRS.2014.2363682",
+        "CorpusId": 2785835
+      },
+      "url": "https://www.semanticscholar.org/paper/8dbb81ceac324975bf4c2cbc80b08ed3c91ad932",
+      "title": "Spectral–Spatial Classification of Hyperspectral Images via Spatial Translation-Invariant Wavelet-Based Sparse Representation",
+      "venue": "IEEE Transactions on Geoscience and Remote Sensing",
+      "year": 2015,
+      "referenceCount": 55,
+      "citationCount": 50,
+      "authors": [
+        {
+          "authorId": "144045304",
+          "name": "Lin He"
+        },
+        {
+          "authorId": "48514757",
+          "name": "Yuanqing Li"
+        },
+        {
+          "authorId": "2144456269",
+          "name": "Xiaoxin Li"
+        },
+        {
+          "authorId": "39533001",
+          "name": "Wei Wu"
+        }
+      ]
+    },
+    {
+      "paperId": "59edcf6b9af62687f66026294e5df64c705fb3bf",
+      "externalIds": {
+        "MAG": "2964034664",
+        "DBLP": "conf/allerton/AeronK15",
+        "ArXiv": "1510.04356",
+        "DOI": "10.1109/ALLERTON.2015.7447068",
+        "CorpusId": 8653711
+      },
+      "url": "https://www.semanticscholar.org/paper/59edcf6b9af62687f66026294e5df64c705fb3bf",
+      "title": "Group-invariant Subspace Clustering",
+      "venue": "Allerton Conference on Communication, Control, and Computing",
+      "year": 2015,
+      "referenceCount": 18,
+      "citationCount": 7,
+      "authors": [
+        {
+          "authorId": "1980683",
+          "name": "S. Aeron"
+        },
+        {
+          "authorId": "2691324",
+          "name": "Eric Kernfeld"
+        }
+      ]
+    },
+    {
+      "paperId": "32e38114fc38f4c2818df7ba7e8b72bbb034f0ef",
+      "externalIds": {
+        "MAG": "1520437812",
+        "DOI": "10.1109/SAMPTA.2015.7148955",
+        "CorpusId": 16288950
+      },
+      "url": "https://www.semanticscholar.org/paper/32e38114fc38f4c2818df7ba7e8b72bbb034f0ef",
+      "title": "Uniqueness in bilinear inverse problems with applications to subspace and joint sparsity models",
+      "venue": "International Conference on Sampling Theory and Applications",
+      "year": 2015,
+      "referenceCount": 12,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "2110500676",
+          "name": "Yanjun Li"
+        },
+        {
+          "authorId": "3152279",
+          "name": "Kiryung Lee"
+        },
+        {
+          "authorId": "1724132",
+          "name": "Y. Bresler"
+        }
+      ]
+    },
+    {
+      "paperId": "923e3ac69f141942490e8227d79220d47474dd04",
+      "externalIds": {
+        "MAG": "2564776074",
+        "DBLP": "journals/corr/LiLB15",
+        "ArXiv": "1501.06120",
+        "CorpusId": 18017366
+      },
+      "url": "https://www.semanticscholar.org/paper/923e3ac69f141942490e8227d79220d47474dd04",
+      "title": "A Unified Framework for Identifiability Analysis in Bilinear Inverse Problems with Applications to Subspace and Sparsity Models",
+      "venue": "arXiv.org",
+      "year": 2015,
+      "referenceCount": 23,
+      "citationCount": 32,
+      "authors": [
+        {
+          "authorId": "2110500676",
+          "name": "Yanjun Li"
+        },
+        {
+          "authorId": "3152279",
+          "name": "Kiryung Lee"
+        },
+        {
+          "authorId": "1724132",
+          "name": "Y. Bresler"
+        }
+      ]
+    },
+    {
+      "paperId": "f1911c7160d106c851b9872cf8619075eac24b6d",
+      "externalIds": {
+        "CorpusId": 8369628
+      },
+      "url": "https://www.semanticscholar.org/paper/f1911c7160d106c851b9872cf8619075eac24b6d",
+      "title": "Framework for Identi ability Analysis in Bilinear Inverse Problems with Applications to Subspace and Sparsity Models ∗",
+      "venue": "",
+      "year": 2015,
+      "referenceCount": 1,
+      "citationCount": 12,
+      "authors": [
+        {
+          "authorId": "2110500676",
+          "name": "Yanjun Li"
+        },
+        {
+          "authorId": "3152279",
+          "name": "Kiryung Lee"
+        },
+        {
+          "authorId": "1724132",
+          "name": "Y. Bresler"
+        }
+      ]
+    }
+  ]
+}

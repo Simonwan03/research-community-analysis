@@ -1,0 +1,96 @@
+{
+  "total": 3,
+  "offset": 0,
+  "data": [
+    {
+      "paperId": "767d0625c4767c6b8afa0b1b30deafed7e0e8f08",
+      "externalIds": {
+        "DBLP": "conf/icml/WilsonN15",
+        "MAG": "1702387805",
+        "ArXiv": "1503.01057",
+        "CorpusId": 16784849
+      },
+      "url": "https://www.semanticscholar.org/paper/767d0625c4767c6b8afa0b1b30deafed7e0e8f08",
+      "title": "Kernel Interpolation for Scalable Structured Gaussian Processes (KISS-GP)",
+      "venue": "International Conference on Machine Learning",
+      "year": 2015,
+      "referenceCount": 31,
+      "citationCount": 558,
+      "authors": [
+        {
+          "authorId": "145771261",
+          "name": "A. Wilson"
+        },
+        {
+          "authorId": "1748758",
+          "name": "H. Nickisch"
+        }
+      ]
+    },
+    {
+      "paperId": "1f9edb5d2779bbee8d99dcbb8d13c2a836a8e7b7",
+      "externalIds": {
+        "MAG": "2137135057",
+        "ArXiv": "1511.01870",
+        "DBLP": "journals/corr/WilsonDN15",
+        "CorpusId": 11198138
+      },
+      "url": "https://www.semanticscholar.org/paper/1f9edb5d2779bbee8d99dcbb8d13c2a836a8e7b7",
+      "title": "Thoughts on Massively Scalable Gaussian Processes",
+      "venue": "arXiv.org",
+      "year": 2015,
+      "referenceCount": 29,
+      "citationCount": 113,
+      "authors": [
+        {
+          "authorId": "145771261",
+          "name": "A. Wilson"
+        },
+        {
+          "authorId": "2160071",
+          "name": "Christoph Dann"
+        },
+        {
+          "authorId": "1748758",
+          "name": "H. Nickisch"
+        }
+      ]
+    },
+    {
+      "paperId": "f208870f73174fb4eb59d8ba18ae6fd9130c027b",
+      "externalIds": {
+        "MAG": "1917966882",
+        "DBLP": "conf/icml/FlaxmanWNNS15",
+        "CorpusId": 1482528
+      },
+      "url": "https://www.semanticscholar.org/paper/f208870f73174fb4eb59d8ba18ae6fd9130c027b",
+      "title": "Fast Kronecker Inference in Gaussian Processes with non-Gaussian Likelihoods",
+      "venue": "International Conference on Machine Learning",
+      "year": 2015,
+      "referenceCount": 28,
+      "citationCount": 92,
+      "authors": [
+        {
+          "authorId": "2127497",
+          "name": "S. Flaxman"
+        },
+        {
+          "authorId": "145771261",
+          "name": "A. Wilson"
+        },
+        {
+          "authorId": "2181848",
+          "name": "Daniel B. Neill"
+        },
+        {
+          "authorId": "1748758",
+          "name": "H. Nickisch"
+        },
+        {
+          "authorId": "46234526",
+          "name": "Alex Smola"
+        }
+      ]
+    }
+  ]
+}

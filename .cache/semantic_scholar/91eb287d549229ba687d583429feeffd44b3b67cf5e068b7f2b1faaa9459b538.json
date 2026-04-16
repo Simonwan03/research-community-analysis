@@ -1,0 +1,163 @@
+{
+  "total": 7,
+  "offset": 0,
+  "data": [
+    {
+      "paperId": "617ea1c4778bc6bc6286509eba4521cada701394",
+      "externalIds": {
+        "DBLP": "conf/icml/CarpentierV15",
+        "MAG": "246157401",
+        "ArXiv": "1505.04627",
+        "CorpusId": 1296488
+      },
+      "url": "https://www.semanticscholar.org/paper/617ea1c4778bc6bc6286509eba4521cada701394",
+      "title": "Simple regret for infinitely many armed bandits",
+      "venue": "International Conference on Machine Learning",
+      "year": 2015,
+      "referenceCount": 23,
+      "citationCount": 93,
+      "authors": [
+        {
+          "authorId": "37178915",
+          "name": "A. Carpentier"
+        },
+        {
+          "authorId": "1806291",
+          "name": "Michal Valko"
+        }
+      ]
+    },
+    {
+      "paperId": "ea9c2c3e7540ed23110f2bf2fc95aed19c883893",
+      "externalIds": {
+        "MAG": "1856268569",
+        "DBLP": "conf/pkdd/DavidS15",
+        "DOI": "10.1007/978-3-319-23528-8_29",
+        "CorpusId": 28445914
+      },
+      "url": "https://www.semanticscholar.org/paper/ea9c2c3e7540ed23110f2bf2fc95aed19c883893",
+      "title": "Refined Algorithms for Infinitely Many-Armed Bandits with Deterministic Rewards",
+      "venue": "ECML/PKDD",
+      "year": 2015,
+      "referenceCount": 11,
+      "citationCount": 7,
+      "authors": [
+        {
+          "authorId": "31638231",
+          "name": "Y. David"
+        },
+        {
+          "authorId": "1742179",
+          "name": "N. Shimkin"
+        }
+      ]
+    },
+    {
+      "paperId": "f1a8c6ec6d9e54cbc0bb96ec73a5f47a49189b86",
+      "externalIds": {
+        "MAG": "2951371685",
+        "ArXiv": "1506.03271",
+        "DBLP": "journals/corr/Neu15a",
+        "CorpusId": 5846129
+      },
+      "url": "https://www.semanticscholar.org/paper/f1a8c6ec6d9e54cbc0bb96ec73a5f47a49189b86",
+      "title": "Explore no more: Improved high-probability regret bounds for non-stochastic bandits",
+      "venue": "Neural Information Processing Systems",
+      "year": 2015,
+      "referenceCount": 29,
+      "citationCount": 204,
+      "authors": [
+        {
+          "authorId": "1741549",
+          "name": "Gergely Neu"
+        }
+      ]
+    },
+    {
+      "paperId": "247b8e57d013b17abf1fc1593a4540691ca39947",
+      "externalIds": {
+        "CorpusId": 53369936
+      },
+      "url": "https://www.semanticscholar.org/paper/247b8e57d013b17abf1fc1593a4540691ca39947",
+      "title": "Explore no more : Simple and tight high-probability bounds for non-stochastic bandits",
+      "venue": "",
+      "year": 2015,
+      "referenceCount": 14,
+      "citationCount": 0,
+      "authors": []
+    },
+    {
+      "paperId": "7ad6336ac5898204ee8d652b68a9ef6b755c981e",
+      "externalIds": {
+        "CorpusId": 46903365
+      },
+      "url": "https://www.semanticscholar.org/paper/7ad6336ac5898204ee8d652b68a9ef6b755c981e",
+      "title": "Discover Relevant Sources : A Multi-Armed Bandit Approach",
+      "venue": "",
+      "year": 2015,
+      "referenceCount": 8,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2562953",
+          "name": "Onur Atan"
+        },
+        {
+          "authorId": "1729969",
+          "name": "M. Schaar"
+        }
+      ]
+    },
+    {
+      "paperId": "f6fb576d08fb8edb50d3bde135dc6d82703bb4d3",
+      "externalIds": {
+        "DBLP": "conf/icdl-epirob/OberlinT15",
+        "MAG": "2185355389",
+        "DOI": "10.1109/DEVLRN.2015.7346151",
+        "CorpusId": 11582959
+      },
+      "url": "https://www.semanticscholar.org/paper/f6fb576d08fb8edb50d3bde135dc6d82703bb4d3",
+      "title": "Learning to pick up objects through active exploration",
+      "venue": "Joint IEEE International Conference on Development and Learning and on Epigenetic Robotics",
+      "year": 2015,
+      "referenceCount": 6,
+      "citationCount": 5,
+      "authors": [
+        {
+          "authorId": "144971987",
+          "name": "John G. Oberlin"
+        },
+        {
+          "authorId": "2913681",
+          "name": "Stefanie Tellex"
+        }
+      ]
+    },
+    {
+      "paperId": "e73b0211ea8a440832b2bf3b3c9b7510feb25ed8",
+      "externalIds": {
+        "MAG": "2949890540",
+        "DBLP": "journals/jstsp/TekinS15",
+        "ArXiv": "1502.01418",
+        "DOI": "10.1109/JSTSP.2015.2402646",
+        "CorpusId": 643013
+      },
+      "url": "https://www.semanticscholar.org/paper/e73b0211ea8a440832b2bf3b3c9b7510feb25ed8",
+      "title": "RELEAF: An Algorithm for Learning and Exploiting Relevance",
+      "venue": "IEEE Journal on Selected Topics in Signal Processing",
+      "year": 2015,
+      "referenceCount": 39,
+      "citationCount": 31,
+      "authors": [
+        {
+          "authorId": "145840398",
+          "name": "C. Tekin"
+        },
+        {
+          "authorId": "1729969",
+          "name": "M. Schaar"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,290 @@
+{
+  "total": 46,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "0d866bb24a94bd24d7fad4b8b65c7aad45226f4e",
+      "externalIds": {
+        "DBLP": "conf/icml/GongZSTG15",
+        "MAG": "1790336448",
+        "CorpusId": 17016789
+      },
+      "url": "https://www.semanticscholar.org/paper/0d866bb24a94bd24d7fad4b8b65c7aad45226f4e",
+      "title": "Discovering Temporal Causal Relations from Subsampled Data",
+      "venue": "International Conference on Machine Learning",
+      "year": 2015,
+      "referenceCount": 35,
+      "citationCount": 96,
+      "authors": [
+        {
+          "authorId": "29393235",
+          "name": "Mingming Gong"
+        },
+        {
+          "authorId": "37844380",
+          "name": "Kun Zhang"
+        },
+        {
+          "authorId": "1707625",
+          "name": "B. Scholkopf"
+        },
+        {
+          "authorId": "143719920",
+          "name": "D. Tao"
+        },
+        {
+          "authorId": "38176985",
+          "name": "Philipp Geiger"
+        }
+      ]
+    },
+    {
+      "paperId": "31779a3166bcc72392a86f07e78f19948fe51291",
+      "externalIds": {
+        "ACL": "R15-1091",
+        "DBLP": "conf/ranlp/Yordanova15",
+        "MAG": "2404161517",
+        "CorpusId": 14456180
+      },
+      "url": "https://www.semanticscholar.org/paper/31779a3166bcc72392a86f07e78f19948fe51291",
+      "title": "Discovering Causal Relations in Textual Instructions",
+      "venue": "Recent Advances in Natural Language Processing",
+      "year": 2015,
+      "referenceCount": 17,
+      "citationCount": 13,
+      "authors": [
+        {
+          "authorId": "3294082",
+          "name": "Kristina Yordanova"
+        }
+      ]
+    },
+    {
+      "paperId": "8da4f6a776d99ab99b31d5191bc773cc0473d34f",
+      "externalIds": {
+        "DBLP": "conf/ausai/LuoLKC15",
+        "MAG": "2294577888",
+        "DOI": "10.1007/978-3-319-26350-2_32",
+        "CorpusId": 18932746
+      },
+      "url": "https://www.semanticscholar.org/paper/8da4f6a776d99ab99b31d5191bc773cc0473d34f",
+      "title": "Discovering Causal Structures from Time Series Data via Enhanced Granger Causality",
+      "venue": "Australasian Conference on Artificial Intelligence",
+      "year": 2015,
+      "referenceCount": 15,
+      "citationCount": 9,
+      "authors": [
+        {
+          "authorId": "2087070160",
+          "name": "Ling Luo"
+        },
+        {
+          "authorId": null,
+          "name": "Wei Liu"
+        },
+        {
+          "authorId": "1751995",
+          "name": "I. Koprinska"
+        },
+        {
+          "authorId": "145093625",
+          "name": "Fang Chen"
+        }
+      ]
+    },
+    {
+      "paperId": "4d04e36bf3a9476788b0e6452181085e1221fd64",
+      "externalIds": {
+        "CorpusId": 13968899
+      },
+      "url": "https://www.semanticscholar.org/paper/4d04e36bf3a9476788b0e6452181085e1221fd64",
+      "title": "Causal networks as the backbone for temporal data-to-text",
+      "venue": "",
+      "year": 2015,
+      "referenceCount": 11,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "2112254",
+          "name": "Pierre-Luc Vaudry"
+        }
+      ]
+    },
+    {
+      "paperId": "b2935b8188b0ff79c8dd9281e283be2b5d8334c7",
+      "externalIds": {
+        "MAG": "2295768612",
+        "DBLP": "conf/icebe/Wang15",
+        "DOI": "10.1109/ICEBE.2015.11",
+        "CorpusId": 12728479
+      },
+      "url": "https://www.semanticscholar.org/paper/b2935b8188b0ff79c8dd9281e283be2b5d8334c7",
+      "title": "Discovering the Causal Network of Terms from the Text Corpus",
+      "venue": "IEEE International Conference on e-Business Engineering",
+      "year": 2015,
+      "referenceCount": 17,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2118461694",
+          "name": "Yue Wang"
+        }
+      ]
+    },
+    {
+      "paperId": "858f1fa5f9cfcdfb1ca6feb8c3457a85f3ee9a46",
+      "externalIds": {
+        "MAG": "2314386270",
+        "CorpusId": 59271299
+      },
+      "url": "https://www.semanticscholar.org/paper/858f1fa5f9cfcdfb1ca6feb8c3457a85f3ee9a46",
+      "title": "Discovering network relations in big time series with application to bioinformatics",
+      "venue": "",
+      "year": 2015,
+      "referenceCount": 4,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "3296286",
+          "name": "M. Rubiolo"
+        },
+        {
+          "authorId": "7417872",
+          "name": "Diego H. Milone"
+        },
+        {
+          "authorId": "2565447",
+          "name": "G. Stegmayer"
+        }
+      ]
+    },
+    {
+      "paperId": "e465923498ffc9ffc133a3262b6bb292df16e666",
+      "externalIds": {
+        "DBLP": "journals/jmlr/StatnikovMHLEPA15",
+        "MAG": "2266375225",
+        "DOI": "10.5555/2789272.2912102",
+        "CorpusId": 9274045
+      },
+      "url": "https://www.semanticscholar.org/paper/e465923498ffc9ffc133a3262b6bb292df16e666",
+      "title": "Ultra-scalable and efficient methods for hybrid observational and experimental local causal pathway discovery",
+      "venue": "Journal of machine learning research",
+      "year": 2015,
+      "referenceCount": 45,
+      "citationCount": 26,
+      "authors": [
+        {
+          "authorId": "1702228",
+          "name": "A. Statnikov"
+        },
+        {
+          "authorId": "2116462411",
+          "name": "Sisi Ma"
+        },
+        {
+          "authorId": "39713408",
+          "name": "Mikael Henaff"
+        },
+        {
+          "authorId": "1955872",
+          "name": "N. Lytkin"
+        },
+        {
+          "authorId": "35200463",
+          "name": "Efstratios Efstathiadis"
+        },
+        {
+          "authorId": "36995615",
+          "name": "E. Peskin"
+        },
+        {
+          "authorId": "1803212",
+          "name": "C. Aliferis"
+        }
+      ]
+    },
+    {
+      "paperId": "da52ac5d97caba0f0c32b78b8478f930ece3d598",
+      "externalIds": {
+        "DBLP": "conf/bcb/LiangM15",
+        "MAG": "1965543392",
+        "DOI": "10.1145/2808719.2816983",
+        "CorpusId": 1541674
+      },
+      "url": "https://www.semanticscholar.org/paper/da52ac5d97caba0f0c32b78b8478f930ece3d598",
+      "title": "Learning causal structures with background knowledge in health data",
+      "venue": "ACM International Conference on Bioinformatics, Computational Biology and Biomedicine",
+      "year": 2015,
+      "referenceCount": 0,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "48503752",
+          "name": "Yiheng Liang"
+        },
+        {
+          "authorId": "1806619",
+          "name": "Armin R. Mikler"
+        }
+      ]
+    },
+    {
+      "paperId": "ce8c3c6ebcfdda5cbeb11da94b951c05e62284d1",
+      "externalIds": {
+        "DBLP": "conf/aistats/ChenMT15",
+        "MAG": "269710793",
+        "CorpusId": 15551987
+      },
+      "url": "https://www.semanticscholar.org/paper/ce8c3c6ebcfdda5cbeb11da94b951c05e62284d1",
+      "title": "Exact Bayesian Learning of Ancestor Relations in Bayesian Networks",
+      "venue": "International Conference on Artificial Intelligence and Statistics",
+      "year": 2015,
+      "referenceCount": 21,
+      "citationCount": 4,
+      "authors": [
+        {
+          "authorId": "2246668",
+          "name": "Yetian Chen"
+        },
+        {
+          "authorId": "2154847744",
+          "name": "Lingjiang Meng"
+        },
+        {
+          "authorId": "47068849",
+          "name": "Jin Tian"
+        }
+      ]
+    },
+    {
+      "paperId": "8eb3d60f9b46ec533d810246e43040d0bb018077",
+      "externalIds": {
+        "DBLP": "conf/sbp/BuiYH15",
+        "MAG": "302380900",
+        "DOI": "10.1007/978-3-319-16268-3_2",
+        "CorpusId": 149479
+      },
+      "url": "https://www.semanticscholar.org/paper/8eb3d60f9b46ec533d810246e43040d0bb018077",
+      "title": "Temporal Causality of Social Support in an Online Community for Cancer Survivors",
+      "venue": "Social Computing, Behavioral Modeling, and Prediction",
+      "year": 2015,
+      "referenceCount": 23,
+      "citationCount": 7,
+      "authors": [
+        {
+          "authorId": "1846426",
+          "name": "N. Bui"
+        },
+        {
+          "authorId": "144204102",
+          "name": "J. Yen"
+        },
+        {
+          "authorId": "145513516",
+          "name": "Vasant G Honavar"
+        }
+      ]
+    }
+  ]
+}

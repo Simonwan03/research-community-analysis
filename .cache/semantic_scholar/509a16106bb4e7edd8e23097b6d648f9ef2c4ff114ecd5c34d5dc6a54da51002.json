@@ -1,0 +1,2360 @@
+{
+  "total": 14,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "37ae35efd37be2dbdd26b48d2d14f9304e7e3188",
+      "externalIds": {
+        "MAG": "2139800297",
+        "DBLP": "journals/corr/HazanLM15",
+        "ArXiv": "1501.03273",
+        "CorpusId": 6005875
+      },
+      "url": "https://www.semanticscholar.org/paper/37ae35efd37be2dbdd26b48d2d14f9304e7e3188",
+      "title": "Classification with Low Rank and Missing Data",
+      "venue": "International Conference on Machine Learning",
+      "year": 2015,
+      "referenceCount": 29,
+      "citationCount": 40,
+      "authors": [
+        {
+          "authorId": "34840427",
+          "name": "Elad Hazan"
+        },
+        {
+          "authorId": "2679024",
+          "name": "Roi Livni"
+        },
+        {
+          "authorId": "144830983",
+          "name": "Y. Mansour"
+        }
+      ]
+    },
+    {
+      "paperId": "9287ec8448db6e27b08f3bd8ebfc8ce193ecd951",
+      "externalIds": {
+        "DBLP": "conf/cvpr/JingYYN15",
+        "MAG": "1892074770",
+        "DOI": "10.1109/CVPR.2015.7298755",
+        "CorpusId": 14922382
+      },
+      "url": "https://www.semanticscholar.org/paper/9287ec8448db6e27b08f3bd8ebfc8ce193ecd951",
+      "title": "Semi-supervised low-rank mapping learning for multi-label classification",
+      "venue": "Computer Vision and Pattern Recognition",
+      "year": 2015,
+      "referenceCount": 37,
+      "citationCount": 75,
+      "authors": [
+        {
+          "authorId": "144889532",
+          "name": "L. Jing"
+        },
+        {
+          "authorId": "2288488984",
+          "name": "Liu Yang"
+        },
+        {
+          "authorId": "1740321",
+          "name": "Jian Yu"
+        },
+        {
+          "authorId": "2391161804",
+          "name": "M. Ng"
+        }
+      ]
+    },
+    {
+      "paperId": "5b10fa6b4c0921af7b36a58f4fd2d8fca6e3c9b1",
+      "externalIds": {
+        "MAG": "2296034168",
+        "DBLP": "conf/aaai/LiuLTXW15",
+        "DOI": "10.1609/aaai.v29i1.9547",
+        "CorpusId": 18120440
+      },
+      "url": "https://www.semanticscholar.org/paper/5b10fa6b4c0921af7b36a58f4fd2d8fca6e3c9b1",
+      "title": "Low-Rank Multi-View Learning in Matrix Completion for Multi-Label Image Classification",
+      "venue": "AAAI Conference on Artificial Intelligence",
+      "year": 2015,
+      "referenceCount": 36,
+      "citationCount": 128,
+      "authors": [
+        {
+          "authorId": "145356408",
+          "name": "Meng Liu"
+        },
+        {
+          "authorId": "143610445",
+          "name": "Yong Luo"
+        },
+        {
+          "authorId": "143719920",
+          "name": "D. Tao"
+        },
+        {
+          "authorId": "31796215",
+          "name": "Chao Xu"
+        },
+        {
+          "authorId": "145868454",
+          "name": "Yonggang Wen"
+        }
+      ]
+    },
+    {
+      "paperId": "545fa71c9e015f305b68c42a09d6e136be40dc8a",
+      "externalIds": {
+        "DBLP": "conf/fgr/ShaoDF15",
+        "MAG": "2116268653",
+        "DOI": "10.1109/FG.2015.7163103",
+        "CorpusId": 10752203
+      },
+      "url": "https://www.semanticscholar.org/paper/545fa71c9e015f305b68c42a09d6e136be40dc8a",
+      "title": "Sparse low-rank fusion based deep features for missing modality face recognition",
+      "venue": "IEEE International Conference on Automatic Face & Gesture Recognition",
+      "year": 2015,
+      "referenceCount": 29,
+      "citationCount": 14,
+      "authors": [
+        {
+          "authorId": "144197068",
+          "name": "Ming Shao"
+        },
+        {
+          "authorId": "2788685",
+          "name": "Zhengming Ding"
+        },
+        {
+          "authorId": "46956675",
+          "name": "Y. Fu"
+        }
+      ]
+    },
+    {
+      "paperId": "d0549acb117b42fff9d64d0b1c0b4f0637615066",
+      "externalIds": {
+        "DBLP": "journals/tist/ZhangLZ15",
+        "MAG": "1995711748",
+        "DOI": "10.1145/2601408",
+        "CorpusId": 14818018
+      },
+      "url": "https://www.semanticscholar.org/paper/d0549acb117b42fff9d64d0b1c0b4f0637615066",
+      "title": "A Sparse Projection and Low-Rank Recovery Framework for Handwriting Representation and Salient Stroke Feature Extraction",
+      "venue": "ACM Transactions on Intelligent Systems and Technology",
+      "year": 2015,
+      "referenceCount": 57,
+      "citationCount": 17,
+      "authors": [
+        {
+          "authorId": "72871365",
+          "name": "Zhao Zhang"
+        },
+        {
+          "authorId": "1689269",
+          "name": "Chenglin Liu"
+        },
+        {
+          "authorId": "2482149",
+          "name": "Mingbo Zhao"
+        }
+      ]
+    },
+    {
+      "paperId": "8aad7701abf902d287c4aeb4458084c76149328b",
+      "externalIds": {
+        "DBLP": "conf/ciss/SheikholesalmiG15",
+        "MAG": "2042451363",
+        "DOI": "10.1109/CISS.2015.7086881",
+        "CorpusId": 11327388
+      },
+      "url": "https://www.semanticscholar.org/paper/8aad7701abf902d287c4aeb4458084c76149328b",
+      "title": "Online subspace learning and nonlinear classification of Big Data with misses",
+      "venue": "Annual Conference on Information Sciences and Systems",
+      "year": 2015,
+      "referenceCount": 12,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "3077443",
+          "name": "Fatemeh Sheikholeslami"
+        },
+        {
+          "authorId": "144321300",
+          "name": "G. Giannakis"
+        }
+      ]
+    },
+    {
+      "paperId": "8091567fb53a5509e92f302a5590b843c52e1a7e",
+      "externalIds": {
+        "MAG": "2173116068",
+        "DOI": "10.1007/s00429-015-1140-6",
+        "CorpusId": 20122531,
+        "PubMed": "26603378"
+      },
+      "url": "https://www.semanticscholar.org/paper/8091567fb53a5509e92f302a5590b843c52e1a7e",
+      "title": "Identification of progressive mild cognitive impairment patients using incomplete longitudinal MRI scans",
+      "venue": "Brain Structure and Function",
+      "year": 2015,
+      "referenceCount": 81,
+      "citationCount": 46,
+      "authors": [
+        {
+          "authorId": "40426796",
+          "name": "Kimhan Thung"
+        },
+        {
+          "authorId": "145191237",
+          "name": "Chong-Yaw Wee"
+        },
+        {
+          "authorId": "144931047",
+          "name": "P. Yap"
+        },
+        {
+          "authorId": "144986260",
+          "name": "D. Shen"
+        }
+      ]
+    },
+    {
+      "paperId": "3d6943f1573f992d6897489b73ec46df983d776c",
+      "externalIds": {
+        "MAG": "1183017340",
+        "DBLP": "phd/us/Cabral18",
+        "DOI": "10.1184/r1/6724160.v1",
+        "CorpusId": 117310956
+      },
+      "url": "https://www.semanticscholar.org/paper/3d6943f1573f992d6897489b73ec46df983d776c",
+      "title": "Unifying Low-Rank Models for Visual Learning",
+      "venue": "",
+      "year": 2015,
+      "referenceCount": 178,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "1838640",
+          "name": "R. Cabral"
+        }
+      ]
+    },
+    {
+      "paperId": "a0bb93bacc859a49fadfa9d517c609d3371f58bd",
+      "externalIds": {
+        "MAG": "2073246129",
+        "DOI": "10.7326/M14-1030",
+        "CorpusId": 26553724,
+        "PubMed": "25383558"
+      },
+      "url": "https://www.semanticscholar.org/paper/a0bb93bacc859a49fadfa9d517c609d3371f58bd",
+      "title": "Multitarget Therapy for Induction Treatment of Lupus Nephritis",
+      "venue": "Annals of Internal Medicine",
+      "year": 2015,
+      "referenceCount": 41,
+      "citationCount": 269,
+      "authors": [
+        {
+          "authorId": "2109407722",
+          "name": "Zhihong Liu"
+        },
+        {
+          "authorId": "2116009605",
+          "name": "Haitao Zhang"
+        },
+        {
+          "authorId": "2118391339",
+          "name": "Zhangsuo Liu"
+        },
+        {
+          "authorId": "143961856",
+          "name": "C. Xing"
+        },
+        {
+          "authorId": "144447475",
+          "name": "P. Fu"
+        },
+        {
+          "authorId": "1918397",
+          "name": "Z. Ni"
+        },
+        {
+          "authorId": "51223185",
+          "name": "Jianghua Chen"
+        },
+        {
+          "authorId": "8171073",
+          "name": "Hongli Lin"
+        },
+        {
+          "authorId": "47185889",
+          "name": "Fuyou Liu"
+        },
+        {
+          "authorId": "2145948871",
+          "name": "Yongcheng He"
+        },
+        {
+          "authorId": "7737416",
+          "name": "Ya-ni He"
+        },
+        {
+          "authorId": "4809558",
+          "name": "Lining Miao"
+        },
+        {
+          "authorId": "144598772",
+          "name": "N. Chen"
+        },
+        {
+          "authorId": "1687893",
+          "name": "Y. Li"
+        },
+        {
+          "authorId": "2136093841",
+          "name": "Yong Gu"
+        },
+        {
+          "authorId": "144261470",
+          "name": "W. Shi"
+        },
+        {
+          "authorId": "6828710",
+          "name": "Weixin Hu"
+        },
+        {
+          "authorId": "46270811",
+          "name": "Zhengzhao Liu"
+        },
+        {
+          "authorId": "6437163",
+          "name": "H. Bao"
+        },
+        {
+          "authorId": "13012484",
+          "name": "C. Zeng"
+        },
+        {
+          "authorId": "36168606",
+          "name": "Minlin Zhou"
+        }
+      ]
+    },
+    {
+      "paperId": "5fe48fb71cdf0689fc12fe3f35b4012fffd56e68",
+      "externalIds": {
+        "MAG": "1716877641",
+        "DOI": "10.1007/JHEP11(2015)189",
+        "CorpusId": 118435732
+      },
+      "url": "https://www.semanticscholar.org/paper/5fe48fb71cdf0689fc12fe3f35b4012fffd56e68",
+      "title": "Search for supersymmetry in the vector-boson fusion topology in proton-proton collisions at s=8$$ \\sqrt{s}=8 $$ TeV",
+      "venue": "",
+      "year": 2015,
+      "referenceCount": 61,
+      "citationCount": 11,
+      "authors": [
+        {
+          "authorId": "152494973",
+          "name": "V. Khachatryan"
+        },
+        {
+          "authorId": "39669631",
+          "name": "A. Sirunyan"
+        },
+        {
+          "authorId": "92060614",
+          "name": "A. Tumasyan"
+        },
+        {
+          "authorId": "39705248",
+          "name": "W. Adam"
+        },
+        {
+          "authorId": "152596995",
+          "name": "E. Asilar"
+        },
+        {
+          "authorId": "117391215",
+          "name": "T. Bergauer"
+        },
+        {
+          "authorId": "94702800",
+          "name": "J. Brandstetter"
+        },
+        {
+          "authorId": "103863188",
+          "name": "E. Brondolin"
+        },
+        {
+          "authorId": "118199806",
+          "name": "M. Dragicevic"
+        },
+        {
+          "authorId": "91502840",
+          "name": "J. Erö"
+        },
+        {
+          "authorId": "104489382",
+          "name": "M. Flechl"
+        },
+        {
+          "authorId": "35963858",
+          "name": "M. Friedl"
+        },
+        {
+          "authorId": "4692563",
+          "name": "R. Frühwirth"
+        },
+        {
+          "authorId": "103028361",
+          "name": "V. Ghete"
+        },
+        {
+          "authorId": "25535923",
+          "name": "C. Hartl"
+        },
+        {
+          "authorId": "6679979",
+          "name": "N. Hörmann"
+        },
+        {
+          "authorId": "152174469",
+          "name": "J. Hrubec"
+        },
+        {
+          "authorId": "144359623",
+          "name": "M. Jeitler"
+        },
+        {
+          "authorId": "82397998",
+          "name": "V. Knünz"
+        },
+        {
+          "authorId": "94953366",
+          "name": "A. König"
+        },
+        {
+          "authorId": "31013010",
+          "name": "M. Krammer"
+        },
+        {
+          "authorId": "104075398",
+          "name": "I. Krätschmer"
+        },
+        {
+          "authorId": "40955724",
+          "name": "D. Liko"
+        },
+        {
+          "authorId": "46612624",
+          "name": "T. Matsushita"
+        },
+        {
+          "authorId": "2264501221",
+          "name": "I. Mikulec"
+        },
+        {
+          "authorId": "145914202",
+          "name": "D. Rabady"
+        },
+        {
+          "authorId": "104072891",
+          "name": "B. Rahbaran"
+        },
+        {
+          "authorId": "103915477",
+          "name": "H. Rohringer"
+        },
+        {
+          "authorId": "2264551876",
+          "name": "J. Schieck"
+        },
+        {
+          "authorId": "144760893",
+          "name": "R. Schöfbeck"
+        },
+        {
+          "authorId": "144512508",
+          "name": "J. Strauss"
+        },
+        {
+          "authorId": "1382867524",
+          "name": "W. Treberer-treberspurg"
+        },
+        {
+          "authorId": "144050681",
+          "name": "W. Waltenberger"
+        },
+        {
+          "authorId": "104225051",
+          "name": "C. Wulz"
+        },
+        {
+          "authorId": "104233709",
+          "name": "V. Mossolov"
+        },
+        {
+          "authorId": "145609281",
+          "name": "N. Shumeiko"
+        },
+        {
+          "authorId": "2219670989",
+          "name": "J. Gonzalez"
+        },
+        {
+          "authorId": "153492956",
+          "name": "S. Alderweireldt"
+        },
+        {
+          "authorId": "145682426",
+          "name": "T. Cornelis"
+        },
+        {
+          "authorId": "152180142",
+          "name": "E. Wolf"
+        },
+        {
+          "authorId": "153493848",
+          "name": "X. Janssen"
+        },
+        {
+          "authorId": "145393173",
+          "name": "A. Knutsson"
+        },
+        {
+          "authorId": "49867722",
+          "name": "J. Lauwers"
+        },
+        {
+          "authorId": "145005052",
+          "name": "S. Luyckx"
+        },
+        {
+          "authorId": "113628874",
+          "name": "S. Ochesanu"
+        },
+        {
+          "authorId": "48816532",
+          "name": "R. Rougny"
+        },
+        {
+          "authorId": "4424998",
+          "name": "M. Klundert"
+        },
+        {
+          "authorId": "5994609",
+          "name": "H. Haevermaet"
+        },
+        {
+          "authorId": "2232461982",
+          "name": "P. Mechelen"
+        },
+        {
+          "authorId": "78608935",
+          "name": "N. Remortel"
+        },
+        {
+          "authorId": "4830782",
+          "name": "A. Spilbeeck"
+        },
+        {
+          "authorId": "103896756",
+          "name": "S. Zeid"
+        },
+        {
+          "authorId": "117926956",
+          "name": "F. Blekman"
+        },
+        {
+          "authorId": "1394528556",
+          "name": "J. D’Hondt"
+        },
+        {
+          "authorId": "104057100",
+          "name": "N. Daci"
+        },
+        {
+          "authorId": "7369419",
+          "name": "I. Bruyn"
+        },
+        {
+          "authorId": "152519290",
+          "name": "K. Deroover"
+        },
+        {
+          "authorId": "145156877",
+          "name": "N. Heracleous"
+        },
+        {
+          "authorId": "145840430",
+          "name": "J. Keaveney"
+        },
+        {
+          "authorId": "2769326",
+          "name": "S. Lowette"
+        },
+        {
+          "authorId": "153160905",
+          "name": "L. Moreels"
+        },
+        {
+          "authorId": "152527600",
+          "name": "A. Olbrechts"
+        },
+        {
+          "authorId": "6675300",
+          "name": "Q. Python"
+        },
+        {
+          "authorId": "2264557069",
+          "name": "D. Strom"
+        },
+        {
+          "authorId": "103301881",
+          "name": "S. Tavernier"
+        },
+        {
+          "authorId": "46858564",
+          "name": "W. Doninck"
+        },
+        {
+          "authorId": "143937755",
+          "name": "P. Mulders"
+        },
+        {
+          "authorId": "145667665",
+          "name": "G. Onsem"
+        },
+        {
+          "authorId": "5878097",
+          "name": "I. Parijs"
+        },
+        {
+          "authorId": "120664793",
+          "name": "P. Barria"
+        },
+        {
+          "authorId": "152359451",
+          "name": "C. Caillol"
+        },
+        {
+          "authorId": "6461728",
+          "name": "B. Clerbaux"
+        },
+        {
+          "authorId": "10326669",
+          "name": "G. Lentdecker"
+        },
+        {
+          "authorId": "152151881",
+          "name": "H. Delannoy"
+        },
+        {
+          "authorId": "96736628",
+          "name": "G. Fasanella"
+        },
+        {
+          "authorId": "104511254",
+          "name": "L. Favart"
+        },
+        {
+          "authorId": "92053647",
+          "name": "A. Grebenyuk"
+        },
+        {
+          "authorId": "104387869",
+          "name": "G. Karapostoli"
+        },
+        {
+          "authorId": "5488435",
+          "name": "T. Lenzi"
+        },
+        {
+          "authorId": "123061745",
+          "name": "A. Léonard"
+        },
+        {
+          "authorId": "103860472",
+          "name": "T. Maerschalk"
+        },
+        {
+          "authorId": "152315212",
+          "name": "A. Marinov"
+        },
+        {
+          "authorId": "152422416",
+          "name": "L. Perniè"
+        },
+        {
+          "authorId": "2175710404",
+          "name": "A. Randle-conde"
+        },
+        {
+          "authorId": "145319541",
+          "name": "T. Reis"
+        },
+        {
+          "authorId": "104305168",
+          "name": "T. Ševa"
+        },
+        {
+          "authorId": "5520686",
+          "name": "C. Velde"
+        },
+        {
+          "authorId": "2227222277",
+          "name": "P. Vanlaer"
+        },
+        {
+          "authorId": "145604566",
+          "name": "R. Yonamine"
+        },
+        {
+          "authorId": "104143964",
+          "name": "F. Zenoni"
+        },
+        {
+          "authorId": "34398354",
+          "name": "Fengwangdong Zhang"
+        },
+        {
+          "authorId": "34398354",
+          "name": "Fengwangdong Zhang"
+        },
+        {
+          "authorId": "121052049",
+          "name": "K. Beernaert"
+        },
+        {
+          "authorId": "117064275",
+          "name": "L. Benucci"
+        },
+        {
+          "authorId": "145932014",
+          "name": "A. Cimmino"
+        },
+        {
+          "authorId": "4624107",
+          "name": "S. Crucy"
+        },
+        {
+          "authorId": "2264563132",
+          "name": "D. Dobur"
+        },
+        {
+          "authorId": "116221782",
+          "name": "A. Fagot"
+        },
+        {
+          "authorId": "40294384",
+          "name": "G. Garcia"
+        },
+        {
+          "authorId": "48239827",
+          "name": "M. Gul"
+        },
+        {
+          "authorId": "5389190",
+          "name": "J. Mccartin"
+        },
+        {
+          "authorId": "123717126",
+          "name": "A. A. O. Rios"
+        },
+        {
+          "authorId": "104124385",
+          "name": "D. Poyraz"
+        },
+        {
+          "authorId": "100736779",
+          "name": "D. Ryckbosch"
+        },
+        {
+          "authorId": "66059816",
+          "name": "S. Salva"
+        },
+        {
+          "authorId": "2246191180",
+          "name": "M. Sigamani"
+        },
+        {
+          "authorId": "2226871450",
+          "name": "N. Strobbe"
+        },
+        {
+          "authorId": "31089513",
+          "name": "M. Tytgat"
+        },
+        {
+          "authorId": "144271534",
+          "name": "W. Driessche"
+        },
+        {
+          "authorId": "2226869318",
+          "name": "E. Yazgan"
+        },
+        {
+          "authorId": "144073138",
+          "name": "N. Zaganidis"
+        },
+        {
+          "authorId": "112849558",
+          "name": "S. Başeğmez"
+        },
+        {
+          "authorId": "144325984",
+          "name": "C. Beluffi"
+        },
+        {
+          "authorId": "144325984",
+          "name": "C. Beluffi"
+        },
+        {
+          "authorId": "2227358748",
+          "name": "O. Bondu"
+        },
+        {
+          "authorId": "145770121",
+          "name": "S. Brochet"
+        },
+        {
+          "authorId": "35487722",
+          "name": "G. Bruno"
+        },
+        {
+          "authorId": "49234470",
+          "name": "R. Castello"
+        },
+        {
+          "authorId": "143703329",
+          "name": "A. Caudron"
+        },
+        {
+          "authorId": "5201098",
+          "name": "L. Ceard"
+        },
+        {
+          "authorId": "4405906",
+          "name": "G. G. Silveira"
+        },
+        {
+          "authorId": "118547314",
+          "name": "C. Delaere"
+        },
+        {
+          "authorId": "49850923",
+          "name": "D. Favart"
+        },
+        {
+          "authorId": "3511672",
+          "name": "L. Forthomme"
+        },
+        {
+          "authorId": "47505831",
+          "name": "A. Giammanco"
+        },
+        {
+          "authorId": "47505831",
+          "name": "A. Giammanco"
+        },
+        {
+          "authorId": "6626827",
+          "name": "J. Hollar"
+        },
+        {
+          "authorId": "2388813185",
+          "name": "A. Jafari"
+        },
+        {
+          "authorId": "143966816",
+          "name": "P. Jež"
+        },
+        {
+          "authorId": "144554937",
+          "name": "M. Komm"
+        },
+        {
+          "authorId": "30189558",
+          "name": "V. Lemaitre"
+        },
+        {
+          "authorId": "49631579",
+          "name": "A. Mertens"
+        },
+        {
+          "authorId": "143899401",
+          "name": "C. Nuttens"
+        },
+        {
+          "authorId": "80840181",
+          "name": "L. Perrini"
+        },
+        {
+          "authorId": "153337923",
+          "name": "A. Pin"
+        },
+        {
+          "authorId": "5122694",
+          "name": "K. Piotrzkowski"
+        },
+        {
+          "authorId": "46343794",
+          "name": "A. Popov"
+        },
+        {
+          "authorId": "46343794",
+          "name": "A. Popov"
+        },
+        {
+          "authorId": "103549340",
+          "name": "L. Quertenmont"
+        },
+        {
+          "authorId": "121349276",
+          "name": "M. Selvaggi"
+        },
+        {
+          "authorId": "143779764",
+          "name": "M. Marono"
+        },
+        {
+          "authorId": "2263008299",
+          "name": "N. Beliy"
+        },
+        {
+          "authorId": "34455219",
+          "name": "G. Hammad"
+        },
+        {
+          "authorId": "1388819549",
+          "name": "W. L. A. Júnior"
+        },
+        {
+          "authorId": "2226868016",
+          "name": "G. Alves"
+        },
+        {
+          "authorId": "2228105568",
+          "name": "L. Brito"
+        },
+        {
+          "authorId": "6429720",
+          "name": "M. Junior"
+        },
+        {
+          "authorId": "152460912",
+          "name": "M. Hamer"
+        },
+        {
+          "authorId": "12549536",
+          "name": "C. Hensel"
+        },
+        {
+          "authorId": "31405632",
+          "name": "C. M. Herrera"
+        },
+        {
+          "authorId": "12411229",
+          "name": "A. Moraes"
+        },
+        {
+          "authorId": "144320351",
+          "name": "M. Pol"
+        },
+        {
+          "authorId": "40659591",
+          "name": "P. Teles"
+        },
+        {
+          "authorId": "71109303",
+          "name": "E. B. D. Chagas"
+        },
+        {
+          "authorId": "2228146831",
+          "name": "W. Carvalho"
+        },
+        {
+          "authorId": "2226924642",
+          "name": "J. Chinellato"
+        },
+        {
+          "authorId": "2226924642",
+          "name": "J. Chinellato"
+        },
+        {
+          "authorId": "2226831164",
+          "name": "A. Custódio"
+        },
+        {
+          "authorId": "2227348319",
+          "name": "E. Costa"
+        },
+        {
+          "authorId": "9660597",
+          "name": "D. J. Damião"
+        },
+        {
+          "authorId": "49366473",
+          "name": "C. Martins"
+        },
+        {
+          "authorId": "2228349325",
+          "name": "S. F. Souza"
+        },
+        {
+          "authorId": "2574922",
+          "name": "L. H. Guativa"
+        },
+        {
+          "authorId": "152509262",
+          "name": "H. Malbouisson"
+        },
+        {
+          "authorId": "121535494",
+          "name": "D. Figueiredo"
+        },
+        {
+          "authorId": "2223267695",
+          "name": "L. Mundim"
+        },
+        {
+          "authorId": "2223267620",
+          "name": "H. Nogima"
+        },
+        {
+          "authorId": "103574733",
+          "name": "W. D. Silva"
+        },
+        {
+          "authorId": "145276710",
+          "name": "A. Santoro"
+        },
+        {
+          "authorId": "5293648",
+          "name": "A. Sznajder"
+        },
+        {
+          "authorId": "82765227",
+          "name": "E. Manganote"
+        },
+        {
+          "authorId": "82765227",
+          "name": "E. Manganote"
+        },
+        {
+          "authorId": "2107599466",
+          "name": "A. Pereira"
+        },
+        {
+          "authorId": "2227569992",
+          "name": "S. Ahuja"
+        },
+        {
+          "authorId": "2226927766",
+          "name": "C. Bernardes"
+        },
+        {
+          "authorId": "2219308656",
+          "name": "A. Santos"
+        },
+        {
+          "authorId": "145663972",
+          "name": "S. Dogra"
+        },
+        {
+          "authorId": "118521042",
+          "name": "T. Tomei"
+        },
+        {
+          "authorId": "143901197",
+          "name": "E. Gregores"
+        },
+        {
+          "authorId": "6848305",
+          "name": "P. Mercadante"
+        },
+        {
+          "authorId": "46464732",
+          "name": "C. Moon"
+        },
+        {
+          "authorId": "46464732",
+          "name": "C. Moon"
+        },
+        {
+          "authorId": "104089673",
+          "name": "S. Novaes"
+        },
+        {
+          "authorId": "145898930",
+          "name": "S. Padula"
+        },
+        {
+          "authorId": "6173041",
+          "name": "D. R. Abad"
+        },
+        {
+          "authorId": "2058917398",
+          "name": "J. Vargas"
+        },
+        {
+          "authorId": "145846796",
+          "name": "A. Aleksandrov"
+        },
+        {
+          "authorId": "145012681",
+          "name": "V. Genchev"
+        },
+        {
+          "authorId": "2227590289",
+          "name": "R. Hadjiiska"
+        },
+        {
+          "authorId": "2223267982",
+          "name": "P. Iaydjiev"
+        },
+        {
+          "authorId": "2226927706",
+          "name": "M. Rodozov"
+        },
+        {
+          "authorId": "144108422",
+          "name": "S. Stoykova"
+        },
+        {
+          "authorId": "96199606",
+          "name": "G. Sultanov"
+        },
+        {
+          "authorId": "121668698",
+          "name": "M. Vutova"
+        },
+        {
+          "authorId": "32400290",
+          "name": "A. Dimitrov"
+        },
+        {
+          "authorId": "153882046",
+          "name": "I. Glushkov"
+        },
+        {
+          "authorId": "145656548",
+          "name": "L. Litov"
+        },
+        {
+          "authorId": "48493584",
+          "name": "B. Pavlov"
+        },
+        {
+          "authorId": "102558988",
+          "name": "P. Petkov"
+        },
+        {
+          "authorId": "9328989",
+          "name": "M. Ahmad"
+        },
+        {
+          "authorId": "145919958",
+          "name": "J. Bian"
+        },
+        {
+          "authorId": "49901663",
+          "name": "G. Chen"
+        },
+        {
+          "authorId": "50689328",
+          "name": "H. Chen"
+        },
+        {
+          "authorId": "116014000",
+          "name": "M. Chen"
+        },
+        {
+          "authorId": "2255360167",
+          "name": "T. Cheng"
+        },
+        {
+          "authorId": "48824896",
+          "name": "R. Du"
+        },
+        {
+          "authorId": "2107193987",
+          "name": "C. Jiang"
+        },
+        {
+          "authorId": "144524793",
+          "name": "R. Plestina"
+        },
+        {
+          "authorId": "46411340",
+          "name": "F. Romeo"
+        },
+        {
+          "authorId": "152337307",
+          "name": "S. Shaheen"
+        },
+        {
+          "authorId": "2262949314",
+          "name": "J. Tao"
+        },
+        {
+          "authorId": "102839408",
+          "name": "C. Wang"
+        },
+        {
+          "authorId": "1424711555",
+          "name": "Z. Wang"
+        },
+        {
+          "authorId": "49723897",
+          "name": "H. Zhang"
+        },
+        {
+          "authorId": "145842882",
+          "name": "C. Asawatangtrakuldee"
+        },
+        {
+          "authorId": "2264589176",
+          "name": "Y. Ban"
+        },
+        {
+          "authorId": "2227922763",
+          "name": "Q. Li"
+        },
+        {
+          "authorId": "2227204673",
+          "name": "S. Liu"
+        },
+        {
+          "authorId": "2427902009",
+          "name": "Y. Mao"
+        },
+        {
+          "authorId": "2388808634",
+          "name": "S. Qian"
+        },
+        {
+          "authorId": "2234517307",
+          "name": "D. Wang"
+        },
+        {
+          "authorId": "1390848419",
+          "name": "Z. Xu"
+        },
+        {
+          "authorId": "2227578187",
+          "name": "W. Zou"
+        },
+        {
+          "authorId": "2256606618",
+          "name": "C. Avila"
+        },
+        {
+          "authorId": "2226868076",
+          "name": "A. Cabrera"
+        },
+        {
+          "authorId": "102613972",
+          "name": "L. Sierra"
+        },
+        {
+          "authorId": "2227588671",
+          "name": "C. Florez"
+        },
+        {
+          "authorId": "2107550674",
+          "name": "J. Gomez"
+        },
+        {
+          "authorId": "143793671",
+          "name": "B. Moreno"
+        },
+        {
+          "authorId": "33257154",
+          "name": "J. Sanabria"
+        },
+        {
+          "authorId": "145281504",
+          "name": "N. Godinovic"
+        },
+        {
+          "authorId": "118366322",
+          "name": "D. Lelas"
+        },
+        {
+          "authorId": "2290631",
+          "name": "D. Polic"
+        },
+        {
+          "authorId": "2264586940",
+          "name": "I. Puljak"
+        },
+        {
+          "authorId": "2057801625",
+          "name": "P. Cipriano"
+        },
+        {
+          "authorId": "145305802",
+          "name": "Z. Antunović"
+        },
+        {
+          "authorId": "2226924702",
+          "name": "M. Kovač"
+        },
+        {
+          "authorId": "145357135",
+          "name": "V. Brigljevic"
+        },
+        {
+          "authorId": "145712251",
+          "name": "K. Kadija"
+        },
+        {
+          "authorId": "143837932",
+          "name": "J. Luetić"
+        },
+        {
+          "authorId": "104214963",
+          "name": "S. Mićanović"
+        },
+        {
+          "authorId": "144812226",
+          "name": "L. Sudić"
+        },
+        {
+          "authorId": "103024965",
+          "name": "A. Attikis"
+        },
+        {
+          "authorId": "144289947",
+          "name": "G. Mavromanolakis"
+        },
+        {
+          "authorId": "2226869363",
+          "name": "J. Mousa"
+        },
+        {
+          "authorId": "2227602767",
+          "name": "C. Nicolaou"
+        },
+        {
+          "authorId": "2226924527",
+          "name": "F. Ptochos"
+        },
+        {
+          "authorId": "144289948",
+          "name": "P. Razis"
+        },
+        {
+          "authorId": "9823350",
+          "name": "H. Rykaczewski"
+        },
+        {
+          "authorId": "144244049",
+          "name": "M. Bodlák"
+        },
+        {
+          "authorId": "52195533",
+          "name": "M. Finger"
+        },
+        {
+          "authorId": "52195533",
+          "name": "M. Finger"
+        },
+        {
+          "authorId": "83808681",
+          "name": "A. Abdelalim"
+        },
+        {
+          "authorId": "1453576412",
+          "name": "A. Awad"
+        },
+        {
+          "authorId": "1453576412",
+          "name": "A. Awad"
+        },
+        {
+          "authorId": "50283785",
+          "name": "A. Mahrous"
+        },
+        {
+          "authorId": "144672179",
+          "name": "A. Radi"
+        },
+        {
+          "authorId": "144672179",
+          "name": "A. Radi"
+        },
+        {
+          "authorId": "144004115",
+          "name": "B. Calpas"
+        },
+        {
+          "authorId": "116522899",
+          "name": "M. Kadastik"
+        },
+        {
+          "authorId": "144681594",
+          "name": "M. Murumaa"
+        },
+        {
+          "authorId": "145618985",
+          "name": "M. Raidal"
+        },
+        {
+          "authorId": "2227578070",
+          "name": "A. Tiko"
+        },
+        {
+          "authorId": "6422198",
+          "name": "C. Veelken"
+        },
+        {
+          "authorId": "152533052",
+          "name": "P. Eerola"
+        },
+        {
+          "authorId": "102616003",
+          "name": "J. Pekkanen"
+        },
+        {
+          "authorId": "102804226",
+          "name": "M. Voutilainen"
+        },
+        {
+          "authorId": "144892759",
+          "name": "J. Härkönen"
+        },
+        {
+          "authorId": "2228129263",
+          "name": "V. Karimäki"
+        },
+        {
+          "authorId": "2226868111",
+          "name": "R. Kinnunen"
+        },
+        {
+          "authorId": "143970692",
+          "name": "T. Lampén"
+        },
+        {
+          "authorId": "1383163066",
+          "name": "K. Lassila-Perini"
+        },
+        {
+          "authorId": "2226867296",
+          "name": "S. Lehti"
+        },
+        {
+          "authorId": "144275113",
+          "name": "T. Lindén"
+        },
+        {
+          "authorId": "103531428",
+          "name": "P. Luukka"
+        },
+        {
+          "authorId": "103453843",
+          "name": "T. Mäenpää"
+        },
+        {
+          "authorId": "50201700",
+          "name": "T. Peltola"
+        },
+        {
+          "authorId": "145777501",
+          "name": "E. Tuominen"
+        },
+        {
+          "authorId": "103067557",
+          "name": "J. Tuominiemi"
+        },
+        {
+          "authorId": "113764574",
+          "name": "E. Tuovinen"
+        },
+        {
+          "authorId": "145979754",
+          "name": "L. Wendland"
+        },
+        {
+          "authorId": "38508251",
+          "name": "J. Talvitie"
+        },
+        {
+          "authorId": "4232200",
+          "name": "T. Tuuva"
+        },
+        {
+          "authorId": "4482617",
+          "name": "M. Besançon"
+        },
+        {
+          "authorId": "2226863768",
+          "name": "F. Couderc"
+        },
+        {
+          "authorId": "143703166",
+          "name": "M. Dejardin"
+        },
+        {
+          "authorId": "144611868",
+          "name": "D. Denegri"
+        },
+        {
+          "authorId": "145160069",
+          "name": "B. Fabbro"
+        },
+        {
+          "authorId": "2226741206",
+          "name": "J. Faure"
+        },
+        {
+          "authorId": "152184984",
+          "name": "C. Favaro"
+        },
+        {
+          "authorId": "2227578178",
+          "name": "F. Ferri"
+        },
+        {
+          "authorId": "2264582901",
+          "name": "S. Ganjour"
+        },
+        {
+          "authorId": "5936945",
+          "name": "A. Givernaud"
+        },
+        {
+          "authorId": "41175935",
+          "name": "P. Gras"
+        },
+        {
+          "authorId": "5792211",
+          "name": "G. H. Monchenault"
+        },
+        {
+          "authorId": "103415785",
+          "name": "P. Jarry"
+        },
+        {
+          "authorId": "2255356128",
+          "name": "E. Locci"
+        },
+        {
+          "authorId": "103076906",
+          "name": "M. Machet"
+        },
+        {
+          "authorId": "2264568184",
+          "name": "J. Malcles"
+        },
+        {
+          "authorId": "2226869405",
+          "name": "J. Rander"
+        },
+        {
+          "authorId": "2227578022",
+          "name": "A. Rosowsky"
+        },
+        {
+          "authorId": "2255343992",
+          "name": "M. Titov"
+        },
+        {
+          "authorId": "2226869359",
+          "name": "A. Zghiche"
+        },
+        {
+          "authorId": "102224506",
+          "name": "I. Antropov"
+        },
+        {
+          "authorId": "4961086",
+          "name": "S. Baffioni"
+        },
+        {
+          "authorId": "92845509",
+          "name": "F. Beaudette"
+        },
+        {
+          "authorId": "145005957",
+          "name": "P. Busson"
+        },
+        {
+          "authorId": "2255356409",
+          "name": "L. Cadamuro"
+        },
+        {
+          "authorId": "48900413",
+          "name": "E. Chapon"
+        },
+        {
+          "authorId": "2227603800",
+          "name": "C. Charlot"
+        },
+        {
+          "authorId": "46429511",
+          "name": "T. Dahms"
+        },
+        {
+          "authorId": "2228127740",
+          "name": "O. Davignon"
+        },
+        {
+          "authorId": "103192064",
+          "name": "N. Filipovic"
+        },
+        {
+          "authorId": "152339353",
+          "name": "A. Florent"
+        },
+        {
+          "authorId": "41215238",
+          "name": "R. D. Cassagnac"
+        },
+        {
+          "authorId": "145012804",
+          "name": "S. Lisniak"
+        },
+        {
+          "authorId": "5248894",
+          "name": "L. Mastrolorenzo"
+        },
+        {
+          "authorId": "145992555",
+          "name": "P. Miné"
+        },
+        {
+          "authorId": "123420188",
+          "name": "I. Naranjo"
+        },
+        {
+          "authorId": "2228029002",
+          "name": "M. Nguyen"
+        },
+        {
+          "authorId": "2223256779",
+          "name": "C. Ochando"
+        },
+        {
+          "authorId": "2232613678",
+          "name": "G. Ortona"
+        },
+        {
+          "authorId": "2227358714",
+          "name": "P. Paganini"
+        },
+        {
+          "authorId": "144433832",
+          "name": "S. Regnard"
+        },
+        {
+          "authorId": "2227223550",
+          "name": "R. Salerno"
+        },
+        {
+          "authorId": "3934445",
+          "name": "J. Sauvan"
+        },
+        {
+          "authorId": "144161107",
+          "name": "Y. Sirois"
+        },
+        {
+          "authorId": "104326578",
+          "name": "T. Strebler"
+        },
+        {
+          "authorId": "102374428",
+          "name": "Y. Yilmaz"
+        },
+        {
+          "authorId": "2264584117",
+          "name": "A. Zabi"
+        },
+        {
+          "authorId": "144643975",
+          "name": "J. Agram"
+        },
+        {
+          "authorId": "144848298",
+          "name": "J. Andrea"
+        },
+        {
+          "authorId": "145886174",
+          "name": "A. Aubin"
+        },
+        {
+          "authorId": "2262937190",
+          "name": "D. Bloch"
+        },
+        {
+          "authorId": "2420968492",
+          "name": "J. Brom"
+        },
+        {
+          "authorId": "5294187",
+          "name": "M. Buttignol"
+        },
+        {
+          "authorId": "2235085176",
+          "name": "E. Chabert"
+        },
+        {
+          "authorId": "143774139",
+          "name": "N. Chanon"
+        },
+        {
+          "authorId": "2228129905",
+          "name": "C. Collard"
+        },
+        {
+          "authorId": "144415747",
+          "name": "É. Conte"
+        },
+        {
+          "authorId": "2388808977",
+          "name": "X. Coubez"
+        },
+        {
+          "authorId": "2118621378",
+          "name": "J. Fontaine"
+        },
+        {
+          "authorId": "2232613964",
+          "name": "D. Gelé"
+        },
+        {
+          "authorId": "2255356300",
+          "name": "U. Goerlach"
+        },
+        {
+          "authorId": "144947043",
+          "name": "C. Goetzmann"
+        },
+        {
+          "authorId": "152108047",
+          "name": "A. Bihan"
+        },
+        {
+          "authorId": "100665208",
+          "name": "J. Merlin"
+        },
+        {
+          "authorId": "100665208",
+          "name": "J. Merlin"
+        },
+        {
+          "authorId": "2226867483",
+          "name": "K. Skovpen"
+        },
+        {
+          "authorId": "145127797",
+          "name": "P. Hove"
+        },
+        {
+          "authorId": "144553355",
+          "name": "S. Gadrat"
+        },
+        {
+          "authorId": "2264559757",
+          "name": "S. Beauceron"
+        },
+        {
+          "authorId": "144284133",
+          "name": "C. Bernet"
+        },
+        {
+          "authorId": "2264587851",
+          "name": "G. Boudoul"
+        },
+        {
+          "authorId": "103633614",
+          "name": "E. Bouvier"
+        },
+        {
+          "authorId": "97044807",
+          "name": "C. Montoya"
+        },
+        {
+          "authorId": "144609705",
+          "name": "J. Chasserat"
+        },
+        {
+          "authorId": "143952578",
+          "name": "R. Chierici"
+        },
+        {
+          "authorId": "2226867959",
+          "name": "D. Contardo"
+        },
+        {
+          "authorId": "152465975",
+          "name": "B. Courbon"
+        },
+        {
+          "authorId": "2223256700",
+          "name": "P. Depasse"
+        },
+        {
+          "authorId": "16574951",
+          "name": "H. Mamouni"
+        },
+        {
+          "authorId": "2272176303",
+          "name": "Jiawei Fan"
+        },
+        {
+          "authorId": "2228030931",
+          "name": "J. Fay"
+        },
+        {
+          "authorId": "2264587749",
+          "name": "S. Gascon"
+        },
+        {
+          "authorId": "2245917775",
+          "name": "M. Gouzevitch"
+        },
+        {
+          "authorId": "2226867965",
+          "name": "B. Ille"
+        },
+        {
+          "authorId": "145694572",
+          "name": "F. Lagarde"
+        },
+        {
+          "authorId": "2264558380",
+          "name": "I. Laktineh"
+        },
+        {
+          "authorId": "145495405",
+          "name": "M. Lethuillier"
+        },
+        {
+          "authorId": "145694574",
+          "name": "L. Mirabito"
+        },
+        {
+          "authorId": "2235269117",
+          "name": "A. Pequegnot"
+        },
+        {
+          "authorId": "104168059",
+          "name": "S. Perriès"
+        },
+        {
+          "authorId": "50120187",
+          "name": "J. D. R. Alvarez"
+        },
+        {
+          "authorId": "118363127",
+          "name": "D. Sabes"
+        },
+        {
+          "authorId": "144375807",
+          "name": "L. Sgandurra"
+        },
+        {
+          "authorId": "2183720112",
+          "name": "V. Sordini"
+        },
+        {
+          "authorId": "2061755787",
+          "name": "M. Donckt"
+        },
+        {
+          "authorId": "152455450",
+          "name": "P. Verdier"
+        },
+        {
+          "authorId": "145230252",
+          "name": "S. Viret"
+        },
+        {
+          "authorId": "103774828",
+          "name": "H. Xiao"
+        },
+        {
+          "authorId": "6121722",
+          "name": "T. Toriashvili"
+        },
+        {
+          "authorId": "6121722",
+          "name": "T. Toriashvili"
+        },
+        {
+          "authorId": "104290986",
+          "name": "Z. Tsamalaidze"
+        },
+        {
+          "authorId": "104290986",
+          "name": "Z. Tsamalaidze"
+        },
+        {
+          "authorId": "145016215",
+          "name": "C. Autermann"
+        },
+        {
+          "authorId": "2227588581",
+          "name": "S. Beranek"
+        },
+        {
+          "authorId": "113564719",
+          "name": "M. Edelhoff"
+        },
+        {
+          "authorId": "2226867956",
+          "name": "L. Feld"
+        },
+        {
+          "authorId": "70575596",
+          "name": "A. Heister"
+        },
+        {
+          "authorId": "145993138",
+          "name": "M. K. Kiesel"
+        },
+        {
+          "authorId": "2226867553",
+          "name": "K. Klein"
+        },
+        {
+          "authorId": "2235269953",
+          "name": "M. Lipinski"
+        },
+        {
+          "authorId": "103906738",
+          "name": "A. Ostapchuk"
+        },
+        {
+          "authorId": "152299514",
+          "name": "M. Preuten"
+        },
+        {
+          "authorId": "144070490",
+          "name": "F. Raupach"
+        },
+        {
+          "authorId": "145307784",
+          "name": "S. Schael"
+        },
+        {
+          "authorId": "117797913",
+          "name": "J. Schulte"
+        },
+        {
+          "authorId": "103682152",
+          "name": "T. Verlage"
+        },
+        {
+          "authorId": "7640266",
+          "name": "H. Weber"
+        },
+        {
+          "authorId": "145386081",
+          "name": "B. Wittmer"
+        },
+        {
+          "authorId": "2265897977",
+          "name": "V. Zhukov"
+        },
+        {
+          "authorId": "2265897977",
+          "name": "V. Zhukov"
+        },
+        {
+          "authorId": "145394435",
+          "name": "M. Ata"
+        },
+        {
+          "authorId": "113183231",
+          "name": "M. Brodski"
+        },
+        {
+          "authorId": "1382867248",
+          "name": "E. Dietz-Laursonn"
+        },
+        {
+          "authorId": "119971834",
+          "name": "D. Duchardt"
+        },
+        {
+          "authorId": "145825324",
+          "name": "M. Endres"
+        },
+        {
+          "authorId": "2264476557",
+          "name": "M. Erdmann"
+        },
+        {
+          "authorId": "145623032",
+          "name": "S. Erdweg"
+        },
+        {
+          "authorId": "2235269332",
+          "name": "T. Esch"
+        },
+        {
+          "authorId": "2255360757",
+          "name": "R. Fischer"
+        },
+        {
+          "authorId": "152504358",
+          "name": "A. Güth"
+        },
+        {
+          "authorId": "2226924712",
+          "name": "T. Hebbeker"
+        },
+        {
+          "authorId": "144615954",
+          "name": "C. Heidemann"
+        },
+        {
+          "authorId": "2227363649",
+          "name": "K. Hoepfner"
+        },
+        {
+          "authorId": "71363978",
+          "name": "D. Klingebiel"
+        },
+        {
+          "authorId": "144520063",
+          "name": "S. Knutzen"
+        },
+        {
+          "authorId": "40559947",
+          "name": "P. Kreuzer"
+        },
+        {
+          "authorId": "115829870",
+          "name": "M. Merschmeyer"
+        },
+        {
+          "authorId": "36083688",
+          "name": "A. Meyer"
+        },
+        {
+          "authorId": "120563734",
+          "name": "P. Millet"
+        },
+        {
+          "authorId": "144350658",
+          "name": "M. Olschewski"
+        },
+        {
+          "authorId": "2227035495",
+          "name": "K. Padeken"
+        },
+        {
+          "authorId": "112896017",
+          "name": "P. Papacz"
+        },
+        {
+          "authorId": "144120129",
+          "name": "T. Pook"
+        },
+        {
+          "authorId": "144350653",
+          "name": "M. Radziej"
+        },
+        {
+          "authorId": "2264587143",
+          "name": "H. Reithler"
+        },
+        {
+          "authorId": "145832209",
+          "name": "M. Rieger"
+        },
+        {
+          "authorId": "145271669",
+          "name": "F. Scheuch"
+        },
+        {
+          "authorId": "100781915",
+          "name": "L. Sonnenschein"
+        },
+        {
+          "authorId": "39985686",
+          "name": "D. Teyssier"
+        },
+        {
+          "authorId": "145832210",
+          "name": "S. Thüer"
+        },
+        {
+          "authorId": "152399167",
+          "name": "V. Cherepanov"
+        },
+        {
+          "authorId": "1799430",
+          "name": "Y. Erdogan"
+        },
+        {
+          "authorId": "2226869958",
+          "name": "G. Flügge"
+        },
+        {
+          "authorId": "103891057",
+          "name": "H. Geenen"
+        },
+        {
+          "authorId": "2246173766",
+          "name": "M. Geisler"
+        },
+        {
+          "authorId": "145441239",
+          "name": "F. Hoehle"
+        },
+        {
+          "authorId": "143754212",
+          "name": "B. Kargoll"
+        },
+        {
+          "authorId": "145586417",
+          "name": "T. Kress"
+        },
+        {
+          "authorId": "145275379",
+          "name": "Y. Kuessel"
+        },
+        {
+          "authorId": "3566047",
+          "name": "A. Künsken"
+        },
+        {
+          "authorId": "6900271",
+          "name": "J. Lingemann"
+        },
+        {
+          "authorId": "6900271",
+          "name": "J. Lingemann"
+        },
+        {
+          "authorId": "143754211",
+          "name": "A. Nehrkorn"
+        },
+        {
+          "authorId": "2223267998",
+          "name": "A. Nowack"
+        },
+        {
+          "authorId": "143726886",
+          "name": "I. Nugent"
+        },
+        {
+          "authorId": "145863469",
+          "name": "C. Pistone"
+        },
+        {
+          "authorId": "2227577998",
+          "name": "O. Pooth"
+        },
+        {
+          "authorId": "2264582907",
+          "name": "A. Stahl"
+        },
+        {
+          "authorId": "2157824034",
+          "name": "M. Martin"
+        },
+        {
+          "authorId": "120909978",
+          "name": "I. Asin"
+        },
+        {
+          "authorId": "5605268",
+          "name": "N. Bartosik"
+        },
+        {
+          "authorId": "102490900",
+          "name": "O. Behnke"
+        },
+        {
+          "authorId": "2288732360",
+          "name": "U. Behrens"
+        },
+        {
+          "authorId": "2249257867",
+          "name": "A. Bell"
+        },
+        {
+          "authorId": "2262771794",
+          "name": "K. Borras"
+        },
+        {
+          "authorId": "144980367",
+          "name": "A. Burgmeier"
+        },
+        {
+          "authorId": "2227586774",
+          "name": "A. Cakir"
+        },
+        {
+          "authorId": "47253435",
+          "name": "L. Calligaris"
+        },
+        {
+          "authorId": "2388822610",
+          "name": "A. Campbell"
+        },
+        {
+          "authorId": "103278547",
+          "name": "S. Choudhury"
+        },
+        {
+          "authorId": "145782553",
+          "name": "F. Costanza"
+        },
+        {
+          "authorId": "103196221",
+          "name": "C. D. Pardos"
+        },
+        {
+          "authorId": "143880609",
+          "name": "G. Dolinska"
+        },
+        {
+          "authorId": "103027629",
+          "name": "S. Dooling"
+        },
+        {
+          "authorId": "145534967",
+          "name": "T. Dorland"
+        },
+        {
+          "authorId": "2235085109",
+          "name": "G. Eckerlin"
+        },
+        {
+          "authorId": "2226869885",
+          "name": "D. Eckstein"
+        },
+        {
+          "authorId": "144180040",
+          "name": "T. Eichhorn"
+        },
+        {
+          "authorId": "143798888",
+          "name": "G. Flucke"
+        },
+        {
+          "authorId": "2255361704",
+          "name": "E. Gallo"
+        },
+        {
+          "authorId": "144121614",
+          "name": "J. García"
+        },
+        {
+          "authorId": "2226868069",
+          "name": "A. Geiser"
+        },
+        {
+          "authorId": "145716361",
+          "name": "A. Gizhko"
+        },
+        {
+          "authorId": "50333318",
+          "name": "P. Gunnellini"
+        },
+        {
+          "authorId": "152284153",
+          "name": "J. Hauk"
+        },
+        {
+          "authorId": "144427645",
+          "name": "M. Hempel"
+        },
+        {
+          "authorId": "103166902",
+          "name": "H. Jung"
+        },
+        {
+          "authorId": "145419727",
+          "name": "A. Kalogeropoulos"
+        },
+        {
+          "authorId": "104233274",
+          "name": "O. Karacheban"
+        },
+        {
+          "authorId": "6378594",
+          "name": "M. Kasemann"
+        },
+        {
+          "authorId": "70166470",
+          "name": "P. Katsas"
+        },
+        {
+          "authorId": "2226869902",
+          "name": "J. Kieseler"
+        },
+        {
+          "authorId": "2249473749",
+          "name": "C. Kleinwort"
+        },
+        {
+          "authorId": "145909925",
+          "name": "I. Korol"
+        },
+        {
+          "authorId": "143670057",
+          "name": "W. Lange"
+        },
+        {
+          "authorId": "2262939996",
+          "name": "J. Leonard"
+        },
+        {
+          "authorId": "2226868097",
+          "name": "K. Lipka"
+        },
+        {
+          "authorId": "2223278914",
+          "name": "A. Lobanov"
+        },
+        {
+          "authorId": "2235085173",
+          "name": "W. Lohmann"
+        },
+        {
+          "authorId": "2264584167",
+          "name": "R. Mankel"
+        },
+        {
+          "authorId": "144419666",
+          "name": "I. Marfin"
+        },
+        {
+          "authorId": "1382867150",
+          "name": "I. Melzer-Pellmann"
+        },
+        {
+          "authorId": "2264615552",
+          "name": "A. Meyer"
+        },
+        {
+          "authorId": "153614268",
+          "name": "G. Mittag"
+        },
+        {
+          "authorId": "145675620",
+          "name": "J. Mnich"
+        },
+        {
+          "authorId": "2226868072",
+          "name": "A. Mussgiller"
+        },
+        {
+          "authorId": "1382867598",
+          "name": "S. Naumann-Emme"
+        }
+      ]
+    }
+  ]
+}

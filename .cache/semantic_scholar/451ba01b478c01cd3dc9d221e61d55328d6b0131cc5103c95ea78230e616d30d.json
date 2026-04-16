@@ -1,0 +1,304 @@
+{
+  "total": 170,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "bee0492a5433c6a5e99bcf72849fe29c9e6c0b99",
+      "externalIds": {
+        "MAG": "1878947057",
+        "DBLP": "conf/icml/XuRYLJ15",
+        "CorpusId": 6678342
+      },
+      "url": "https://www.semanticscholar.org/paper/bee0492a5433c6a5e99bcf72849fe29c9e6c0b99",
+      "title": "Deep Edge-Aware Filters",
+      "venue": "International Conference on Machine Learning",
+      "year": 2015,
+      "referenceCount": 36,
+      "citationCount": 199,
+      "authors": [
+        {
+          "authorId": "144574904",
+          "name": "Li Xu"
+        },
+        {
+          "authorId": "145335572",
+          "name": "Jimmy S. J. Ren"
+        },
+        {
+          "authorId": "144479026",
+          "name": "Qiong Yan"
+        },
+        {
+          "authorId": "2246396",
+          "name": "Renjie Liao"
+        },
+        {
+          "authorId": "1729056",
+          "name": "Jiaya Jia"
+        }
+      ]
+    },
+    {
+      "paperId": "96030f9f73a22ab313d2e9413862a64be8095196",
+      "externalIds": {
+        "DBLP": "conf/cvpr/Cigla15",
+        "MAG": "1961764877",
+        "DOI": "10.1109/CVPRW.2015.7301363",
+        "CorpusId": 8171315
+      },
+      "url": "https://www.semanticscholar.org/paper/96030f9f73a22ab313d2e9413862a64be8095196",
+      "title": "Recursive edge-aware filters for stereo matching",
+      "venue": "2015 IEEE Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)",
+      "year": 2015,
+      "referenceCount": 19,
+      "citationCount": 19,
+      "authors": [
+        {
+          "authorId": "2241823",
+          "name": "C. Çigla"
+        }
+      ]
+    },
+    {
+      "paperId": "c77ac54282276f9617af69f439bdbc1999b54c3d",
+      "externalIds": {
+        "DBLP": "journals/sivp/RzeszutekA15",
+        "MAG": "1854231432",
+        "DOI": "10.1007/s11760-015-0833-x",
+        "CorpusId": 42642584
+      },
+      "url": "https://www.semanticscholar.org/paper/c77ac54282276f9617af69f439bdbc1999b54c3d",
+      "title": "Propagating sparse labels through edge-aware filters",
+      "venue": "Signal, Image and Video Processing",
+      "year": 2015,
+      "referenceCount": 27,
+      "citationCount": 4,
+      "authors": [
+        {
+          "authorId": "1936506",
+          "name": "Richard Rzeszutek"
+        },
+        {
+          "authorId": "1717060",
+          "name": "D. Androutsos"
+        }
+      ]
+    },
+    {
+      "paperId": "5ff577266f1574366b010aa0f6afdab883772409",
+      "externalIds": {
+        "DBLP": "journals/tvcg/BadriYA15",
+        "MAG": "2049997153",
+        "DOI": "10.1109/TVCG.2015.2396064",
+        "CorpusId": 17335436,
+        "PubMed": "26357238"
+      },
+      "url": "https://www.semanticscholar.org/paper/5ff577266f1574366b010aa0f6afdab883772409",
+      "title": "Fast Edge-Aware Processing via First Order Proximal Approximation",
+      "venue": "IEEE Transactions on Visualization and Computer Graphics",
+      "year": 2015,
+      "referenceCount": 33,
+      "citationCount": 25,
+      "authors": [
+        {
+          "authorId": "3016410",
+          "name": "Hicham Badri"
+        },
+        {
+          "authorId": "2981669",
+          "name": "H. Yahia"
+        },
+        {
+          "authorId": "1725069",
+          "name": "D. Aboutajdine"
+        }
+      ]
+    },
+    {
+      "paperId": "68fe49acba59550ab532682079aaf1b4d107338e",
+      "externalIds": {
+        "CorpusId": 11399771
+      },
+      "url": "https://www.semanticscholar.org/paper/68fe49acba59550ab532682079aaf1b4d107338e",
+      "title": "Supplementary material for the paper “Brushables: Example-based Edge-aware Directional Texture Painting\"",
+      "venue": "",
+      "year": 2015,
+      "referenceCount": 4,
+      "citationCount": 36,
+      "authors": [
+        {
+          "authorId": "38589587",
+          "name": "M. Lukác"
+        },
+        {
+          "authorId": "2798088",
+          "name": "J. Fiser"
+        },
+        {
+          "authorId": "2934421",
+          "name": "P. Asente"
+        },
+        {
+          "authorId": "2054975",
+          "name": "Jingwan Lu"
+        },
+        {
+          "authorId": "2177801",
+          "name": "Eli Shechtman"
+        },
+        {
+          "authorId": "7997286",
+          "name": "D. Sýkora"
+        }
+      ]
+    },
+    {
+      "paperId": "acbc3cd5cd42fc4ba020d99773cbaf8a898a7960",
+      "externalIds": {
+        "DBLP": "journals/jei/ZhuCWJ15",
+        "MAG": "2154536551",
+        "DOI": "10.1117/1.JEI.24.4.043016",
+        "CorpusId": 26948219
+      },
+      "url": "https://www.semanticscholar.org/paper/acbc3cd5cd42fc4ba020d99773cbaf8a898a7960",
+      "title": "Edge-aware dynamic programming-based cost aggregation for robust stereo matching",
+      "venue": "J. Electronic Imaging",
+      "year": 2015,
+      "referenceCount": 18,
+      "citationCount": 4,
+      "authors": [
+        {
+          "authorId": "153893607",
+          "name": "Songjin Zhu"
+        },
+        {
+          "authorId": "46690645",
+          "name": "Danhua Cao"
+        },
+        {
+          "authorId": "1390683843",
+          "name": "Yubin Wu"
+        },
+        {
+          "authorId": "3639714",
+          "name": "Shixiong Jiang"
+        }
+      ]
+    },
+    {
+      "paperId": "b102c0dc33c362032c6254f65725a3eb425cd5fe",
+      "externalIds": {
+        "MAG": "2370217146",
+        "CorpusId": 62997928
+      },
+      "url": "https://www.semanticscholar.org/paper/b102c0dc33c362032c6254f65725a3eb425cd5fe",
+      "title": "Edge-aware Editing Based on Adaptive Manifolds Filtering",
+      "venue": "",
+      "year": 2015,
+      "referenceCount": 0,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "72926207",
+          "name": "Zhou Guanli"
+        }
+      ]
+    },
+    {
+      "paperId": "72b34d03a3957a1dfa44b58e032a59eb34bca386",
+      "externalIds": {
+        "DBLP": "journals/cgf/WangT015",
+        "MAG": "1558708235",
+        "DOI": "10.1111/cgf.12625",
+        "CorpusId": 28917831
+      },
+      "url": "https://www.semanticscholar.org/paper/72b34d03a3957a1dfa44b58e032a59eb34bca386",
+      "title": "Edge‐Aware Volume Smoothing Using L0 Gradient Minimization",
+      "venue": "Computer graphics forum (Print)",
+      "year": 2015,
+      "referenceCount": 35,
+      "citationCount": 12,
+      "authors": [
+        {
+          "authorId": "50621200",
+          "name": "Qichao Wang"
+        },
+        {
+          "authorId": "38845619",
+          "name": "Y. Tao"
+        },
+        {
+          "authorId": "2152781643",
+          "name": "Hai Lin"
+        }
+      ]
+    },
+    {
+      "paperId": "21c0974e1e1ca75f7b8dd5175d3f23d927bfe07f",
+      "externalIds": {
+        "MAG": "2295549597",
+        "DBLP": "conf/icip/ZhouLHWWS15",
+        "DOI": "10.1109/ICIP.2015.7351009",
+        "CorpusId": 18217051
+      },
+      "url": "https://www.semanticscholar.org/paper/21c0974e1e1ca75f7b8dd5175d3f23d927bfe07f",
+      "title": "Efficient O(1) edge-aware filter",
+      "venue": "International Conference on Information Photonics",
+      "year": 2015,
+      "referenceCount": 16,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "1699794",
+          "name": "Mingcai Zhou"
+        },
+        {
+          "authorId": "2109408420",
+          "name": "Zhihua Liu"
+        },
+        {
+          "authorId": "2066927526",
+          "name": "Tao Hong"
+        },
+        {
+          "authorId": "8415711",
+          "name": "Xiying Wang"
+        },
+        {
+          "authorId": "2109611165",
+          "name": "Haitao Wang"
+        },
+        {
+          "authorId": "2116528646",
+          "name": "Xun Sun"
+        }
+      ]
+    },
+    {
+      "paperId": "dfb23424e6d829bde81266b9dd75fe6773608a74",
+      "externalIds": {
+        "MAG": "2295770584",
+        "DBLP": "conf/icira/BuF15",
+        "DOI": "10.1007/978-3-319-22873-0_27",
+        "CorpusId": 32461818
+      },
+      "url": "https://www.semanticscholar.org/paper/dfb23424e6d829bde81266b9dd75fe6773608a74",
+      "title": "Parallel Stereo Matching Based on Edge-Aware Filter",
+      "venue": "International Conference on Intelligent Robotics and Applications",
+      "year": 2015,
+      "referenceCount": 13,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "79532852",
+          "name": "Fan-liang Bu"
+        },
+        {
+          "authorId": "9399859",
+          "name": "C. Fan"
+        }
+      ]
+    }
+  ]
+}

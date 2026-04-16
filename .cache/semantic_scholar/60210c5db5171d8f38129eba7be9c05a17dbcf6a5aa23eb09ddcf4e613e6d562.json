@@ -1,0 +1,307 @@
+{
+  "total": 11,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "eef6fbc2a9f27e9aeccd4ac2119fd66a67726c5f",
+      "externalIds": {
+        "MAG": "2950701726",
+        "ArXiv": "1502.06531",
+        "DBLP": "journals/corr/DjolongaK15",
+        "CorpusId": 1832772
+      },
+      "url": "https://www.semanticscholar.org/paper/eef6fbc2a9f27e9aeccd4ac2119fd66a67726c5f",
+      "title": "Scalable Variational Inference in Log-supermodular Models",
+      "venue": "International Conference on Machine Learning",
+      "year": 2015,
+      "referenceCount": 33,
+      "citationCount": 28,
+      "authors": [
+        {
+          "authorId": "2941141",
+          "name": "J. Djolonga"
+        },
+        {
+          "authorId": "145343838",
+          "name": "Andreas Krause"
+        }
+      ]
+    },
+    {
+      "paperId": "19915c018109a89a7be038b278db201922b32de8",
+      "externalIds": {
+        "DBLP": "conf/iccv/ZhangDK15",
+        "MAG": "2197535571",
+        "DOI": "10.1109/ICCV.2015.216",
+        "CorpusId": 10673805
+      },
+      "url": "https://www.semanticscholar.org/paper/19915c018109a89a7be038b278db201922b32de8",
+      "title": "Higher-Order Inference for Multi-class Log-Supermodular Models",
+      "venue": "IEEE International Conference on Computer Vision",
+      "year": 2015,
+      "referenceCount": 51,
+      "citationCount": 18,
+      "authors": [
+        {
+          "authorId": "1679327",
+          "name": "Jian Zhang"
+        },
+        {
+          "authorId": "2941141",
+          "name": "J. Djolonga"
+        },
+        {
+          "authorId": "145343838",
+          "name": "Andreas Krause"
+        }
+      ]
+    },
+    {
+      "paperId": "33c02f5463bf6be0c472c1b2cd23dd6e0fdc89ff",
+      "externalIds": {
+        "DBLP": "conf/nips/DezfouliB15",
+        "MAG": "2185068657",
+        "CorpusId": 14109476
+      },
+      "url": "https://www.semanticscholar.org/paper/33c02f5463bf6be0c472c1b2cd23dd6e0fdc89ff",
+      "title": "Scalable Inference for Gaussian Process Models with Black-Box Likelihoods",
+      "venue": "Neural Information Processing Systems",
+      "year": 2015,
+      "referenceCount": 29,
+      "citationCount": 66,
+      "authors": [
+        {
+          "authorId": "145587089",
+          "name": "A. Dezfouli"
+        },
+        {
+          "authorId": "30561807",
+          "name": "Edwin V. Bonilla"
+        }
+      ]
+    },
+    {
+      "paperId": "a964da3eabc16e41ab869f7e70b4c9430af74dd6",
+      "externalIds": {
+        "MAG": "2951406859",
+        "DBLP": "journals/corr/MaclaurinDA15a",
+        "ArXiv": "1504.01344",
+        "CorpusId": 8250878
+      },
+      "url": "https://www.semanticscholar.org/paper/a964da3eabc16e41ab869f7e70b4c9430af74dd6",
+      "title": "Early Stopping is Nonparametric Variational Inference",
+      "venue": "arXiv.org",
+      "year": 2015,
+      "referenceCount": 19,
+      "citationCount": 99,
+      "authors": [
+        {
+          "authorId": "1683298",
+          "name": "D. Maclaurin"
+        },
+        {
+          "authorId": "1704657",
+          "name": "D. Duvenaud"
+        },
+        {
+          "authorId": "1722180",
+          "name": "Ryan P. Adams"
+        }
+      ]
+    },
+    {
+      "paperId": "087db3a5982b7b6a0d22e5bfa8692534446946fa",
+      "externalIds": {
+        "ArXiv": "1509.01631",
+        "MAG": "1919588359",
+        "CorpusId": 88515836
+      },
+      "url": "https://www.semanticscholar.org/paper/087db3a5982b7b6a0d22e5bfa8692534446946fa",
+      "title": "Stochastic gradient variational Bayes for gamma approximating distributions",
+      "venue": "",
+      "year": 2015,
+      "referenceCount": 31,
+      "citationCount": 53,
+      "authors": [
+        {
+          "authorId": "3250170",
+          "name": "David A. Knowles"
+        }
+      ]
+    },
+    {
+      "paperId": "4780ba3bcbd87dc5ddb0284fe18050912330098f",
+      "externalIds": {
+        "DBLP": "phd/basesearch/Gotovos19",
+        "MAG": "2185386567",
+        "DOI": "10.3929/ETHZ-B-000333042",
+        "CorpusId": 6044541
+      },
+      "url": "https://www.semanticscholar.org/paper/4780ba3bcbd87dc5ddb0284fe18050912330098f",
+      "title": "Sampling from Probabilistic Submodular Models",
+      "venue": "Neural Information Processing Systems",
+      "year": 2015,
+      "referenceCount": 29,
+      "citationCount": 36,
+      "authors": [
+        {
+          "authorId": "1709051",
+          "name": "Alkis Gotovos"
+        },
+        {
+          "authorId": "144488580",
+          "name": "S. Hassani"
+        },
+        {
+          "authorId": "145343838",
+          "name": "Andreas Krause"
+        }
+      ]
+    },
+    {
+      "paperId": "0ac2b379fe9b2bf9d5b8129d6117adbb0ab595fb",
+      "externalIds": {
+        "MAG": "2951244767",
+        "ArXiv": "1509.07087",
+        "DBLP": "journals/corr/GanLHCC15",
+        "CorpusId": 9880391
+      },
+      "url": "https://www.semanticscholar.org/paper/0ac2b379fe9b2bf9d5b8129d6117adbb0ab595fb",
+      "title": "Deep Temporal Sigmoid Belief Networks for Sequence Modeling",
+      "venue": "Neural Information Processing Systems",
+      "year": 2015,
+      "referenceCount": 33,
+      "citationCount": 89,
+      "authors": [
+        {
+          "authorId": "144702900",
+          "name": "Zhe Gan"
+        },
+        {
+          "authorId": "2109737569",
+          "name": "Chunyuan Li"
+        },
+        {
+          "authorId": "145153424",
+          "name": "Ricardo Henao"
+        },
+        {
+          "authorId": "144752689",
+          "name": "David Edwin Carlson"
+        },
+        {
+          "authorId": "145006560",
+          "name": "L. Carin"
+        }
+      ]
+    },
+    {
+      "paperId": "aacfbaea28b42dbb0361bf1749a097ceaa3c8044",
+      "externalIds": {
+        "ArXiv": "1505.02434",
+        "MAG": "2221391831",
+        "DBLP": "journals/corr/DaiHL15",
+        "CorpusId": 14971433
+      },
+      "url": "https://www.semanticscholar.org/paper/aacfbaea28b42dbb0361bf1749a097ceaa3c8044",
+      "title": "Spike and Slab Gaussian Process Latent Variable Models",
+      "venue": "arXiv.org",
+      "year": 2015,
+      "referenceCount": 26,
+      "citationCount": 7,
+      "authors": [
+        {
+          "authorId": "2024189708",
+          "name": "Zhenwen Dai"
+        },
+        {
+          "authorId": "3166500",
+          "name": "J. Hensman"
+        },
+        {
+          "authorId": "145306271",
+          "name": "Neil D. Lawrence"
+        }
+      ]
+    },
+    {
+      "paperId": "89485a4f88e31dd39a46b4096111bb3471682ce2",
+      "externalIds": {
+        "MAG": "2128839442",
+        "DOI": "10.1890/14-0959.1",
+        "CorpusId": 13799289
+      },
+      "url": "https://www.semanticscholar.org/paper/89485a4f88e31dd39a46b4096111bb3471682ce2",
+      "title": "Using spatiotemporal statistical models to estimate animal abundance and infer ecological dynamics from survey counts",
+      "venue": "",
+      "year": 2015,
+      "referenceCount": 53,
+      "citationCount": 49,
+      "authors": [
+        {
+          "authorId": "144041785",
+          "name": "P. B. Conn"
+        },
+        {
+          "authorId": "48645617",
+          "name": "Devin S. Johnson"
+        },
+        {
+          "authorId": "16216980",
+          "name": "J. Hoef"
+        },
+        {
+          "authorId": "2578093",
+          "name": "M. Hooten"
+        },
+        {
+          "authorId": "27364178",
+          "name": "J. M. London"
+        },
+        {
+          "authorId": "5518742",
+          "name": "P. Boveng"
+        }
+      ]
+    },
+    {
+      "paperId": "155e666fc636d03bcdb8cb0714ea74139e84e4aa",
+      "externalIds": {
+        "PubMedCentral": "4315301",
+        "MAG": "2091030271",
+        "DOI": "10.1101/gr.173641.114",
+        "CorpusId": 19291597,
+        "PubMed": "25273070"
+      },
+      "url": "https://www.semanticscholar.org/paper/155e666fc636d03bcdb8cb0714ea74139e84e4aa",
+      "title": "Parente2: a fast and accurate method for detecting identity by descent",
+      "venue": "Genome Research",
+      "year": 2015,
+      "referenceCount": 40,
+      "citationCount": 24,
+      "authors": [
+        {
+          "authorId": "2116862933",
+          "name": "Jesse M. Rodriguez"
+        },
+        {
+          "authorId": "35360518",
+          "name": "S. Bercovici"
+        },
+        {
+          "authorId": "2111398795",
+          "name": "Lin Huang"
+        },
+        {
+          "authorId": "34765463",
+          "name": "Roy Frostig"
+        },
+        {
+          "authorId": "2552403",
+          "name": "S. Batzoglou"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,322 @@
+{
+  "total": 433,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "4639569731f62e274be70a9181194531eaf52241",
+      "externalIds": {
+        "MAG": "2951257262",
+        "ArXiv": "1502.02536",
+        "DBLP": "conf/icml/NaessethLS15",
+        "CorpusId": 16247251
+      },
+      "url": "https://www.semanticscholar.org/paper/4639569731f62e274be70a9181194531eaf52241",
+      "title": "Nested Sequential Monte Carlo Methods",
+      "venue": "International Conference on Machine Learning",
+      "year": 2015,
+      "referenceCount": 51,
+      "citationCount": 86,
+      "authors": [
+        {
+          "authorId": "2328322",
+          "name": "C. A. Naesseth"
+        },
+        {
+          "authorId": "1759780",
+          "name": "F. Lindsten"
+        },
+        {
+          "authorId": "1802623",
+          "name": "Thomas Bo Schön"
+        }
+      ]
+    },
+    {
+      "paperId": "d84240a3c6342ebbbaa73e8ac96444933819188a",
+      "externalIds": {
+        "MAG": "2951996139",
+        "ArXiv": "1503.06058",
+        "DOI": "10.1016/j.ifacol.2015.12.224",
+        "CorpusId": 11396163
+      },
+      "url": "https://www.semanticscholar.org/paper/d84240a3c6342ebbbaa73e8ac96444933819188a",
+      "title": "Sequential Monte Carlo Methods for System Identification",
+      "venue": "",
+      "year": 2015,
+      "referenceCount": 56,
+      "citationCount": 82,
+      "authors": [
+        {
+          "authorId": "2608035",
+          "name": "T. Schon"
+        },
+        {
+          "authorId": "1759780",
+          "name": "F. Lindsten"
+        },
+        {
+          "authorId": "2659036",
+          "name": "J. Dahlin"
+        },
+        {
+          "authorId": "117615119",
+          "name": "Johan Waagberg"
+        },
+        {
+          "authorId": "2328322",
+          "name": "C. A. Naesseth"
+        },
+        {
+          "authorId": "2079614632",
+          "name": "Andreas Svensson"
+        },
+        {
+          "authorId": "48980784",
+          "name": "L. Dai"
+        }
+      ]
+    },
+    {
+      "paperId": "5cb27bb57cc496a2d4b6edd3411a0f8971276588",
+      "externalIds": {
+        "DBLP": "journals/tr/OrchardLOSPESCC15",
+        "MAG": "2150111797",
+        "DOI": "10.1109/TR.2015.2394356",
+        "CorpusId": 9105842
+      },
+      "url": "https://www.semanticscholar.org/paper/5cb27bb57cc496a2d4b6edd3411a0f8971276588",
+      "title": "Information-Theoretic Measures and Sequential Monte Carlo Methods for Detection of Regeneration Phenomena in the Degradation of Lithium-Ion Battery Cells",
+      "venue": "IEEE Transactions on Reliability",
+      "year": 2015,
+      "referenceCount": 21,
+      "citationCount": 36,
+      "authors": [
+        {
+          "authorId": "49647632",
+          "name": "M. Orchard"
+        },
+        {
+          "authorId": "40483498",
+          "name": "Matias S. Lacalle"
+        },
+        {
+          "authorId": "3074259",
+          "name": "Benjamín E. Olivares"
+        },
+        {
+          "authorId": "2111120634",
+          "name": "Jorge F. Silva"
+        },
+        {
+          "authorId": "1398549492",
+          "name": "R. Palma-Behnke"
+        },
+        {
+          "authorId": "3115364",
+          "name": "P. Estévez"
+        },
+        {
+          "authorId": "32218157",
+          "name": "Bernardo Severino"
+        },
+        {
+          "authorId": "1400844001",
+          "name": "W. Calderón-Muñoz"
+        },
+        {
+          "authorId": "1400844023",
+          "name": "M. Cortes-Carmona"
+        }
+      ]
+    },
+    {
+      "paperId": "f9a0641ec83d994002c51fa7e430eb571ceaa89f",
+      "externalIds": {
+        "MAG": "2047949424",
+        "DBLP": "journals/tr/CorbettaSMG15",
+        "DOI": "10.1109/TR.2014.2366759",
+        "CorpusId": 6659167
+      },
+      "url": "https://www.semanticscholar.org/paper/f9a0641ec83d994002c51fa7e430eb571ceaa89f",
+      "title": "Real-Time Prognosis of Crack Growth Evolution Using Sequential Monte Carlo Methods and Statistical Model Parameters",
+      "venue": "IEEE Transactions on Reliability",
+      "year": 2015,
+      "referenceCount": 37,
+      "citationCount": 47,
+      "authors": [
+        {
+          "authorId": "23151125",
+          "name": "Matteo Corbetta"
+        },
+        {
+          "authorId": "2392198",
+          "name": "C. Sbarufatti"
+        },
+        {
+          "authorId": "46884022",
+          "name": "A. Manes"
+        },
+        {
+          "authorId": "49993878",
+          "name": "M. Giglio"
+        }
+      ]
+    },
+    {
+      "paperId": "3f27b66078030efa6d7a173db321c113cce4b1a4",
+      "externalIds": {
+        "DBLP": "journals/tsp/ElviraMD17",
+        "MAG": "2341285855",
+        "ArXiv": "1509.04879",
+        "DOI": "10.1109/TSP.2016.2637324",
+        "CorpusId": 10625542
+      },
+      "url": "https://www.semanticscholar.org/paper/3f27b66078030efa6d7a173db321c113cce4b1a4",
+      "title": "Adapting the Number of Particles in Sequential Monte Carlo Methods Through an Online Scheme for Convergence Assessment",
+      "venue": "IEEE Transactions on Signal Processing",
+      "year": 2015,
+      "referenceCount": 45,
+      "citationCount": 75,
+      "authors": [
+        {
+          "authorId": "145303926",
+          "name": "V. Elvira"
+        },
+        {
+          "authorId": "143686416",
+          "name": "J. Míguez"
+        },
+        {
+          "authorId": "1785325",
+          "name": "P. Djurić"
+        }
+      ]
+    },
+    {
+      "paperId": "25505dde8483a95a3302637411c0f0c178adad5e",
+      "externalIds": {
+        "DOI": "10.1007/s11222-015-9556-7",
+        "CorpusId": 255074506
+      },
+      "url": "https://www.semanticscholar.org/paper/25505dde8483a95a3302637411c0f0c178adad5e",
+      "title": "Sequential Monte Carlo methods for Bayesian elliptic inverse problems",
+      "venue": "Statistics and computing",
+      "year": 2015,
+      "referenceCount": 27,
+      "citationCount": 8,
+      "authors": [
+        {
+          "authorId": "3054763",
+          "name": "A. Beskos"
+        },
+        {
+          "authorId": "3011741",
+          "name": "A. Jasra"
+        },
+        {
+          "authorId": "49841427",
+          "name": "Ege A. Muzaffer"
+        },
+        {
+          "authorId": "4662911",
+          "name": "A. Stuart"
+        }
+      ]
+    },
+    {
+      "paperId": "8a3d613e4774985de31a9e34154cb6ffbb73e4b8",
+      "externalIds": {
+        "MAG": "1641111845",
+        "DOI": "10.1007/s10463-015-0524-y",
+        "CorpusId": 18011331
+      },
+      "url": "https://www.semanticscholar.org/paper/8a3d613e4774985de31a9e34154cb6ffbb73e4b8",
+      "title": "Antithetic sampling for sequential Monte Carlo methods with application to state-space models",
+      "venue": "Annals of the Institute of Statistical Mathematics",
+      "year": 2015,
+      "referenceCount": 23,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "2513357",
+          "name": "Svetlana Bizjajeva"
+        },
+        {
+          "authorId": "2992325",
+          "name": "J. Olsson"
+        }
+      ]
+    },
+    {
+      "paperId": "4158e55326846d08b9b15ae05fb987401baed7f4",
+      "externalIds": {
+        "MAG": "2268004661",
+        "CorpusId": 61358877
+      },
+      "url": "https://www.semanticscholar.org/paper/4158e55326846d08b9b15ae05fb987401baed7f4",
+      "title": "Estimating rational stock-market bubbles with sequential Monte Carlo methods",
+      "venue": "",
+      "year": 2015,
+      "referenceCount": 48,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "70182240",
+          "name": "Benedikt Rotermann"
+        },
+        {
+          "authorId": "46211671",
+          "name": "Bernd Wilfling"
+        }
+      ]
+    },
+    {
+      "paperId": "64f540a06664c4fb39cbbb2f604aed74cc6f61d4",
+      "externalIds": {
+        "DOI": "10.1007/s11222-015-9612-3",
+        "CorpusId": 255074045
+      },
+      "url": "https://www.semanticscholar.org/paper/64f540a06664c4fb39cbbb2f604aed74cc6f61d4",
+      "title": "Sequential Monte Carlo methods for mixtures with normalized random measures with independent increments priors",
+      "venue": "Statistics and computing",
+      "year": 2015,
+      "referenceCount": 42,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "36130539",
+          "name": "J. Griffin"
+        }
+      ]
+    },
+    {
+      "paperId": "520e9234e2cdf77df08028ea091a7d628b43201f",
+      "externalIds": {
+        "MAG": "2028450146",
+        "DOI": "10.2991/IIICEC-15.2015.385",
+        "CorpusId": 62174382
+      },
+      "url": "https://www.semanticscholar.org/paper/520e9234e2cdf77df08028ea091a7d628b43201f",
+      "title": "Traffic Flow Signal based Traffic Event Reconstruction using Sequential Monte Carlo Methods",
+      "venue": "",
+      "year": 2015,
+      "referenceCount": 8,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "153633576",
+          "name": "Xiang-Wen Feng"
+        },
+        {
+          "authorId": "103104804",
+          "name": "Song Xu"
+        },
+        {
+          "authorId": "2144473808",
+          "name": "Xuefeng Yan"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,268 @@
+{
+  "total": 15,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "a06dd6e6bebed30b1ad9b406a370ba5934bbef89",
+      "externalIds": {
+        "MAG": "1836483694",
+        "DBLP": "conf/icml/ShethWK15",
+        "CorpusId": 27577327
+      },
+      "url": "https://www.semanticscholar.org/paper/a06dd6e6bebed30b1ad9b406a370ba5934bbef89",
+      "title": "Sparse Variational Inference for Generalized GP Models",
+      "venue": "International Conference on Machine Learning",
+      "year": 2015,
+      "referenceCount": 0,
+      "citationCount": 27,
+      "authors": [
+        {
+          "authorId": "2607233",
+          "name": "Rishit Sheth"
+        },
+        {
+          "authorId": "49416149",
+          "name": "Bernie Wang"
+        },
+        {
+          "authorId": "1746048",
+          "name": "R. Khardon"
+        }
+      ]
+    },
+    {
+      "paperId": "1dde015c383a400d8d56b29a9f9536cf6602ded0",
+      "externalIds": {
+        "MAG": "2728803307",
+        "CorpusId": 16216140
+      },
+      "url": "https://www.semanticscholar.org/paper/1dde015c383a400d8d56b29a9f9536cf6602ded0",
+      "title": "Sparse variational inference for generalized Gaussian process models",
+      "venue": "International Conference on Machine Learning",
+      "year": 2015,
+      "referenceCount": 27,
+      "citationCount": 17,
+      "authors": [
+        {
+          "authorId": "2607233",
+          "name": "Rishit Sheth"
+        },
+        {
+          "authorId": "49416149",
+          "name": "Bernie Wang"
+        },
+        {
+          "authorId": "1746048",
+          "name": "R. Khardon"
+        }
+      ]
+    },
+    {
+      "paperId": "14a643fdcdcbcc1a2473ea27a3efc45b1767d268",
+      "externalIds": {
+        "MAG": "1513910483",
+        "CorpusId": 118748995
+      },
+      "url": "https://www.semanticscholar.org/paper/14a643fdcdcbcc1a2473ea27a3efc45b1767d268",
+      "title": "Variational Inference for Sparse Spectrum Approximation in Gaussian Process Regression",
+      "venue": "",
+      "year": 2015,
+      "referenceCount": 29,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2681954",
+          "name": "Y. Gal"
+        },
+        {
+          "authorId": "145369890",
+          "name": "Richard E. Turner"
+        }
+      ]
+    },
+    {
+      "paperId": "33c02f5463bf6be0c472c1b2cd23dd6e0fdc89ff",
+      "externalIds": {
+        "DBLP": "conf/nips/DezfouliB15",
+        "MAG": "2185068657",
+        "CorpusId": 14109476
+      },
+      "url": "https://www.semanticscholar.org/paper/33c02f5463bf6be0c472c1b2cd23dd6e0fdc89ff",
+      "title": "Scalable Inference for Gaussian Process Models with Black-Box Likelihoods",
+      "venue": "Neural Information Processing Systems",
+      "year": 2015,
+      "referenceCount": 29,
+      "citationCount": 66,
+      "authors": [
+        {
+          "authorId": "145587089",
+          "name": "A. Dezfouli"
+        },
+        {
+          "authorId": "30561807",
+          "name": "Edwin V. Bonilla"
+        }
+      ]
+    },
+    {
+      "paperId": "00fc2686bb8478feab08aae7feed9f4e8caeda30",
+      "externalIds": {
+        "MAG": "2219006791",
+        "DBLP": "conf/eusipco/ThemelisRK15",
+        "DOI": "10.1109/EUSIPCO.2015.7362671",
+        "CorpusId": 15005961
+      },
+      "url": "https://www.semanticscholar.org/paper/00fc2686bb8478feab08aae7feed9f4e8caeda30",
+      "title": "Online Bayesian group sparse parameter estimation using a generalized inverse Gaussian Markov chain",
+      "venue": "European Signal Processing Conference",
+      "year": 2015,
+      "referenceCount": 10,
+      "citationCount": 4,
+      "authors": [
+        {
+          "authorId": "2323622",
+          "name": "K. Themelis"
+        },
+        {
+          "authorId": "2324888",
+          "name": "A. Rontogiannis"
+        },
+        {
+          "authorId": "1758377",
+          "name": "K. Koutroumbas"
+        }
+      ]
+    },
+    {
+      "paperId": "3b941fb8827a4436474b202eba28cfef4ac446c7",
+      "externalIds": {
+        "MAG": "622188676",
+        "ArXiv": "1506.02236",
+        "CorpusId": 88520690
+      },
+      "url": "https://www.semanticscholar.org/paper/3b941fb8827a4436474b202eba28cfef4ac446c7",
+      "title": "Generalized Spectral Kernels",
+      "venue": "",
+      "year": 2015,
+      "referenceCount": 28,
+      "citationCount": 59,
+      "authors": [
+        {
+          "authorId": "2338329",
+          "name": "Yves-Laurent Kom Samo"
+        },
+        {
+          "authorId": "145029236",
+          "name": "S. Roberts"
+        }
+      ]
+    },
+    {
+      "paperId": "5cae1d73fc56ab806ebfb2c0eb6af5309c8e4921",
+      "externalIds": {
+        "MAG": "2951060109",
+        "ArXiv": "1503.02424",
+        "DBLP": "conf/icml/GalT15",
+        "CorpusId": 1351470
+      },
+      "url": "https://www.semanticscholar.org/paper/5cae1d73fc56ab806ebfb2c0eb6af5309c8e4921",
+      "title": "Improving the Gaussian Process Sparse Spectrum Approximation by Representing Uncertainty in Frequency Inputs",
+      "venue": "International Conference on Machine Learning",
+      "year": 2015,
+      "referenceCount": 33,
+      "citationCount": 81,
+      "authors": [
+        {
+          "authorId": "2681954",
+          "name": "Y. Gal"
+        },
+        {
+          "authorId": "145369890",
+          "name": "Richard E. Turner"
+        }
+      ]
+    },
+    {
+      "paperId": "e2e81c568ac0aa067e32fbc9ca9396824fa04d66",
+      "externalIds": {
+        "MAG": "1911299338",
+        "DBLP": "conf/icml/DeisenrothN15",
+        "ArXiv": "1502.02843",
+        "CorpusId": 17686175
+      },
+      "url": "https://www.semanticscholar.org/paper/e2e81c568ac0aa067e32fbc9ca9396824fa04d66",
+      "title": "Distributed Gaussian Processes",
+      "venue": "International Conference on Machine Learning",
+      "year": 2015,
+      "referenceCount": 33,
+      "citationCount": 377,
+      "authors": [
+        {
+          "authorId": "2261881",
+          "name": "M. Deisenroth"
+        },
+        {
+          "authorId": "2359200",
+          "name": "Jun Wei Ng"
+        }
+      ]
+    },
+    {
+      "paperId": "ae815a9dbdb8679d55e610cb660bb6a61cf6a81f",
+      "externalIds": {
+        "MAG": "1565218558",
+        "DOI": "10.5075/EPFL-THESIS-6545",
+        "CorpusId": 119036758
+      },
+      "url": "https://www.semanticscholar.org/paper/ae815a9dbdb8679d55e610cb660bb6a61cf6a81f",
+      "title": "Sparsity-Driven Statistical Inference for Inverse Problems",
+      "venue": "",
+      "year": 2015,
+      "referenceCount": 150,
+      "citationCount": 5,
+      "authors": [
+        {
+          "authorId": "2802415",
+          "name": "U. Kamilov"
+        }
+      ]
+    },
+    {
+      "paperId": "aa6c644ce16fa178b3ef838336ad3e2f3e53dc8b",
+      "externalIds": {
+        "DBLP": "conf/icml/LianHRLC15",
+        "MAG": "2165291667",
+        "CorpusId": 15492288
+      },
+      "url": "https://www.semanticscholar.org/paper/aa6c644ce16fa178b3ef838336ad3e2f3e53dc8b",
+      "title": "A Multitask Point Process Predictive Model",
+      "venue": "International Conference on Machine Learning",
+      "year": 2015,
+      "referenceCount": 22,
+      "citationCount": 64,
+      "authors": [
+        {
+          "authorId": "39749922",
+          "name": "Wenzhao Lian"
+        },
+        {
+          "authorId": "145153424",
+          "name": "Ricardo Henao"
+        },
+        {
+          "authorId": "144208693",
+          "name": "Vinayak A. Rao"
+        },
+        {
+          "authorId": "1816731",
+          "name": "J. Lucas"
+        },
+        {
+          "authorId": "145006560",
+          "name": "L. Carin"
+        }
+      ]
+    }
+  ]
+}
