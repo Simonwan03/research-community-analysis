@@ -161,7 +161,7 @@ automatic retry logic for `429 Too Many Requests`.
 `rec/conf/<venue>/<year>.xml`：proceedings record
 example: https://dblp.org/rec/conf/iclr/2025.xml
 the structures are like:
-```
+```xml
 <dblp>
   <proceedings key="conf/iclr/2025" mdate="2025-05-12">
     <title>The Thirteenth International Conference on Learning Representations, ICLR 2025, Singapore, April 24-28, 2025</title>
@@ -173,3 +173,57 @@ the structures are like:
   </proceedings>
 </dblp>
 ```
+
+`db/conf/.../<venue><year>.xml`：TOC / paper list
+The list of all the papers in one conference 
+
+Example: `https://dblp.org/db/conf/iclr/iclr2025.xml`
+
+The structure:
+```XML
+<bht key="db/conf/iclr/iclr2025.bht" title="ICLR 2025">
+  <h1>13th ICLR 2025: Singapore</h1>
+
+  <dblpcites>
+    <r>
+      <proceedings key="conf/iclr/2025">
+        ...
+      </proceedings>
+    </r>
+  </dblpcites>
+
+  <h2>Accept (Oral)</h2>
+
+  <dblpcites>
+    <r style="ee">
+      <inproceedings key="conf/iclr/KranNKJPJ25" mdate="2025-06-13">
+        <author pid="345/8444">Esben Kran</author>
+        <author pid="407/2861">Jord Nguyen</author>
+        <title>DarkBench: Benchmarking Dark Patterns in Large Language Models.</title>
+        <year>2025</year>
+        <booktitle>ICLR</booktitle>
+        <ee type="oa">https://openreview.net/forum?id=...</ee>
+        <crossref>conf/iclr/2025</crossref>
+        <url>db/conf/iclr/iclr2025.html#KranNKJPJ25</url>
+      </inproceedings>
+    </r>
+  </dblpcites>
+</bht>
+
+```
+
+Each `<inproceedings>` record usually contains:
+
+| Field | Description |
+| --- | --- |
+| key | DBLP paper key, for example `conf/iclr/KranNKJPJ25` |
+| mdate | Last modification date of this DBLP record |
+| author | Author; the `pid` attribute is the DBLP author ID |
+| title | Paper title |
+| year | Publication year |
+| booktitle | Conference abbreviation |
+| ee | External electronic edition link, such as OpenReview / PMLR / DOI |
+| crossref | Reference to the proceedings key |
+| url | DBLP page anchor |
+| pages | Page numbers, missing for some conferences |
+
