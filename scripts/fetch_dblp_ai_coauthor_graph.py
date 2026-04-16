@@ -73,6 +73,7 @@ class PaperRecord:
     toc_url: str
     author_ids: list[str]
     author_names: list[str]
+    author_orcids: list[str]
 
 
 def parse_args() -> argparse.Namespace:
@@ -110,8 +111,8 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument(
         "--sleep-seconds",
         type=float,
-        default=1.2,
-        help="Delay between successful DBLP requests. Default: 1.2",
+        default=10.0,
+        help="Delay between successful DBLP requests. Default: 10.0",
     )
     parser.add_argument(
         "--timeout-seconds",
@@ -249,11 +250,19 @@ def graphml_escape(value: str) -> str:
     )
 
 
-def author_identity(author_elem: ET.Element) -> tuple[str, str, str]:
+def normalize_orcid(orcid: str | None) -> str:
+    value = normalized_text(orcid)
+    value = value.removeprefix("https://orcid.org/")
+    value = value.removeprefix("http://orcid.org/")
+    return value
+
+
+def author_identity(author_elem: ET.Element) -> tuple[str, str, str, str]:
     name = normalized_text(author_elem.text)
     pid = author_elem.attrib.get("pid", "").strip()
+    orcid = normalize_orcid(author_elem.attrib.get("orcid", ""))
     author_id = f"pid:{pid}" if pid else f"name:{name.casefold()}"
-    return author_id, name, pid
+    return author_id, name, pid, orcid
 
 
 def extract_toc_url(client: DblpClient, venue_key: str, year: int) -> str | None:
@@ -292,10 +301,12 @@ def iter_papers_from_toc(
 
         authors: list[str] = []
         author_names: list[str] = []
+        author_orcids: list[str] = []
         for author_elem in entry.findall("author"):
-            author_id, author_name, _ = author_identity(author_elem)
+            author_id, author_name, _, author_orcid = author_identity(author_elem)
             authors.append(author_id)
             author_names.append(author_name)
+            author_orcids.append(author_orcid)
 
         if not authors:
             continue
@@ -320,6 +331,7 @@ def iter_papers_from_toc(
             toc_url=toc_url,
             author_ids=authors,
             author_names=author_names,
+            author_orcids=author_orcids,
         )
 
 
@@ -350,7 +362,11 @@ def collect_dataset(args: argparse.Namespace) -> tuple[list[PaperRecord], dict[s
             venue_counts[venue_name] += len(year_papers)
 
             for paper in year_papers:
-                for author_id, author_name in zip(paper.author_ids, paper.author_names):
+                for author_id, author_name, author_orcid in zip(
+                    paper.author_ids,
+                    paper.author_names,
+                    paper.author_orcids,
+                ):
                     author = authors.setdefault(
                         author_id,
                         {
@@ -359,11 +375,14 @@ def collect_dataset(args: argparse.Namespace) -> tuple[list[PaperRecord], dict[s
                             "dblp_pid": author_id.removeprefix("pid:")
                             if author_id.startswith("pid:")
                             else "",
+                            "orcid": author_orcid,
                             "paper_ids": [],
                             "venues": set(),
                             "years": set(),
                         },
                     )
+                    if author_orcid and not author["orcid"]:
+                        author["orcid"] = author_orcid
                     author["paper_ids"].append(paper.paper_id)
                     author["venues"].add(paper.venue_name)
                     author["years"].add(paper.year)
@@ -409,6 +428,7 @@ def write_graphml(path: Path, author_rows: list[dict], edge_rows: list[dict]) ->
                 f'    <node id="{graphml_escape(row["author_id"])}">\n'
                 f'      <data key="name">{graphml_escape(row["name"])}</data>\n'
                 f'      <data key="dblp_pid">{graphml_escape(row["dblp_pid"])}</data>\n'
+                f'      <data key="orcid">{graphml_escape(row["orcid"])}</data>\n'
                 f'      <data key="paper_count">{row["paper_count"]}</data>\n'
                 f'      <data key="venues">{graphml_escape(row["venues"])}</data>\n'
                 f'      <data key="years">{graphml_escape(row["years"])}</data>\n'
@@ -438,6 +458,7 @@ def write_graphml(path: Path, author_rows: list[dict], edge_rows: list[dict]) ->
             '         http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">',
             '  <key id="name" for="node" attr.name="name" attr.type="string"/>',
             '  <key id="dblp_pid" for="node" attr.name="dblp_pid" attr.type="string"/>',
+            '  <key id="orcid" for="node" attr.name="orcid" attr.type="string"/>',
             '  <key id="paper_count" for="node" attr.name="paper_count" attr.type="int"/>',
             '  <key id="venues" for="node" attr.name="venues" attr.type="string"/>',
             '  <key id="years" for="node" attr.name="years" attr.type="string"/>',
@@ -482,6 +503,7 @@ def main() -> None:
                 "author_id": author["author_id"],
                 "name": author["name"],
                 "dblp_pid": author["dblp_pid"],
+                "orcid": author["orcid"],
                 "paper_count": len(author["paper_ids"]),
                 "paper_ids": "|".join(author["paper_ids"]),
                 "venues": "|".join(sorted(author["venues"])),
@@ -505,6 +527,7 @@ def main() -> None:
             "toc_url": paper.toc_url,
             "author_ids": "|".join(paper.author_ids),
             "author_names": "|".join(paper.author_names),
+            "author_orcids": "|".join(paper.author_orcids),
             "author_count": len(paper.author_ids),
         }
         for paper in papers
@@ -528,6 +551,7 @@ def main() -> None:
             "toc_url",
             "author_ids",
             "author_names",
+            "author_orcids",
             "author_count",
         ],
     )
@@ -538,6 +562,7 @@ def main() -> None:
             "author_id",
             "name",
             "dblp_pid",
+            "orcid",
             "paper_count",
             "paper_ids",
             "venues",
