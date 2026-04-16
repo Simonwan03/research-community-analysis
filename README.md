@@ -227,3 +227,353 @@ Each `<inproceedings>` record usually contains:
 | url | DBLP page anchor |
 | pages | Page numbers, missing for some conferences |
 
+## Current Pipeline
+
+### 1. DBLP Data Collection Pipeline
+
+The DBLP data collection pipeline is implemented in:
+
+```bash
+scripts/fetch_dblp_ai_coauthor_graph.py
+```
+
+Its goal is to build a co-authorship graph for authors who published in the selected AI venues during the selected year range.
+
+The default venue set is:
+
+```text
+AAAI, IJCAI, ICML, NeurIPS, ICLR
+```
+
+In DBLP venue keys, NeurIPS is represented as `nips`.
+
+The pipeline works as follows:
+
+1. Read the selected venue keys and year range.
+2. For each venue-year pair, request the DBLP proceedings record:
+
+```text
+https://dblp.org/rec/conf/<venue>/<year>.xml
+```
+
+3. Extract the DBLP table-of-contents path from the `<url>` field in the proceedings record.
+4. Convert the TOC path from `.html` to `.xml`.
+5. Request the DBLP TOC XML file:
+
+```text
+https://dblp.org/db/conf/.../<venue><year>.xml
+```
+
+6. Iterate over every `<inproceedings>` entry in the TOC XML.
+7. Keep only entries whose `<year>` matches the requested year.
+8. Extract paper metadata, including title, venue, DBLP key, external link, and author list.
+9. Use DBLP `pid` values as stable author IDs when available.
+10. Build an undirected weighted coauthor graph:
+
+```text
+node = author
+edge = two authors coauthored at least one qualifying paper
+edge weight = number of qualifying papers coauthored by the two authors
+```
+
+The pipeline exports the following files:
+
+| File | Description |
+| --- | --- |
+| `papers.csv` | Paper-level metadata extracted from DBLP |
+| `authors.csv` | Author-level metadata and publication counts |
+| `edges.csv` | Weighted coauthor edges |
+| `graph.graphml` | GraphML version of the coauthor graph |
+| `summary.json` | Dataset summary and venue/year counts |
+
+The paper-level fields exported in `papers.csv` are:
+
+| Field | Description |
+| --- | --- |
+| `paper_id` | Locally generated paper ID |
+| `dblp_key` | Original DBLP paper key |
+| `title` | Paper title |
+| `year` | Publication year |
+| `venue_key` | DBLP venue key, such as `nips`, `icml`, or `aaai` |
+| `venue_name` | Display name of the venue, such as `NeurIPS` or `ICML` |
+| `booktitle` | Conference or proceedings abbreviation |
+| `ee` | External electronic edition link |
+| `pages` | Page numbers |
+| `crossref` | Reference to the proceedings key |
+| `dblp_url` | DBLP page URL |
+| `toc_url` | DBLP table-of-contents XML URL where the paper was found |
+| `author_ids` | List of author IDs |
+| `author_names` | List of author names |
+| `author_count` | Number of authors |
+
+Example command:
+
+```bash
+python scripts/fetch_dblp_ai_coauthor_graph.py --start-year 2015 --end-year 2025
+```
+
+Using the `modal` conda environment:
+
+```bash
+conda run -n modal python scripts/fetch_dblp_ai_coauthor_graph.py --start-year 2015 --end-year 2025
+```
+
+### 2. Coauthor Graph Visualization Pipeline
+
+The coauthor graph visualization pipeline is implemented in:
+
+```bash
+scripts/visualize_coauthor_graph.py
+```
+
+It visualizes a manageable subgraph from the exported DBLP coauthor data. It does not draw the full graph by default, because the full graph can contain tens of thousands of authors and hundreds of thousands of edges.
+
+The visualization pipeline uses:
+
+```text
+authors.csv
+edges.csv
+```
+
+from an exported DBLP data directory.
+
+The default input directory is:
+
+```text
+data/dblp_ai_authors_2025_2025
+```
+
+The pipeline works as follows:
+
+1. Read `authors.csv` and `edges.csv`.
+2. Build a NetworkX undirected weighted graph.
+3. Add one node for each author.
+4. Add one edge for each coauthor pair.
+5. Store the coauthorship count as the edge `weight`.
+6. Compute weighted degree for each author:
+
+```text
+weighted degree = total weighted collaboration strength of an author
+```
+
+7. Select the top-k authors by:
+
+```text
+weighted_degree descending
+paper_count descending
+name ascending
+```
+
+8. Build a subgraph induced by those top-k authors.
+9. Remove edges with weight lower than `--min-edge-weight`.
+10. Remove isolated nodes after edge filtering.
+11. Keep only the largest connected component.
+12. Detect communities using greedy modularity community detection.
+13. Compute a spring layout for the selected subgraph.
+14. Draw the graph:
+
+```text
+node = author
+node size = weighted degree
+node color = detected community
+edge width = coauthorship weight
+label = top authors by weighted degree
+```
+
+15. Save the final PNG image.
+
+By default, the visualization keeps the top 120 authors:
+
+```text
+--top-k 120
+```
+
+and labels the top 20 authors:
+
+```text
+--label-top-k 20
+```
+
+The default output path is:
+
+```text
+<input-dir>/coauthor_top120.png
+```
+
+Example command for the 2015-2025 dataset:
+
+```bash
+python scripts/visualize_coauthor_graph.py --input-dir data/dblp_ai_authors_2015_2025
+```
+
+Using the `modal` conda environment:
+
+```bash
+conda run -n modal python scripts/visualize_coauthor_graph.py --input-dir data/dblp_ai_authors_2015_2025
+```
+
+Example with custom visualization parameters:
+
+```bash
+python scripts/visualize_coauthor_graph.py \
+  --input-dir data/dblp_ai_authors_2015_2025 \
+  --top-k 200 \
+  --label-top-k 40 \
+  --min-edge-weight 2
+```
+
+This visualization is intended as a high-level overview of the most connected authors and their collaboration communities. It is not a full-network visualization and it is not the bridge-author visualization. Bridge-author analysis is handled separately by:
+
+```bash
+scripts/visualize_bridge_authors.py
+```
+
+### 3. Bridge Author Visualization Pipeline
+
+The bridge-author visualization pipeline is implemented in:
+
+```bash
+scripts/visualize_bridge_authors.py
+```
+
+This pipeline focuses on identifying and visualizing authors who connect different collaboration communities. These authors are treated as potential bridge authors because they have substantial coauthorship links across community boundaries.
+
+The pipeline uses the same exported DBLP coauthor data as the general coauthor visualization:
+
+```text
+authors.csv
+edges.csv
+```
+
+The default input directory is:
+
+```text
+data/dblp_ai_authors_2025_2025
+```
+
+The pipeline works as follows:
+
+1. Read `authors.csv` and `edges.csv`.
+2. Build a NetworkX undirected weighted coauthor graph.
+3. Add one node for each author.
+4. Add one edge for each coauthor pair.
+5. Store the coauthorship count as the edge `weight`.
+6. Keep only the largest connected component of the graph.
+7. Detect collaboration communities using Louvain community detection:
+
+```text
+nx.community.louvain_communities(component, weight="weight", seed=seed)
+```
+
+8. Assign each author in the largest component to a community.
+9. For each author, compute bridge-related metrics:
+
+| Metric | Description |
+| --- | --- |
+| `weighted_degree` | Total weighted collaboration strength of the author |
+| `internal_weight` | Total collaboration weight with authors in the same community |
+| `external_weight` | Total collaboration weight with authors in other communities |
+| `external_ratio` | Share of collaboration weight going outside the author's own community |
+| `community_span` | Number of distinct external communities connected by the author |
+| `bridge_score` | Composite score used to rank bridge authors |
+
+The bridge score is computed as:
+
+```text
+bridge_score = external_weight * (1 + log1p(community_span)) * external_ratio
+```
+
+This score rewards authors who:
+
+```text
+1. Have strong cross-community collaborations
+2. Send a large share of their collaboration weight outside their own community
+3. Connect to multiple external communities
+```
+
+This is different from simply ranking authors by degree. A highly connected author may have many collaborations inside a single community, while a bridge author connects otherwise separated communities.
+
+10. Rank authors by:
+
+```text
+bridge_score descending
+external_weight descending
+paper_count descending
+name ascending
+```
+
+11. Select the top bridge authors. By default:
+
+```text
+--top-bridge-k 25
+```
+
+12. For each selected bridge author, keep the strongest cross-community neighbors. By default:
+
+```text
+--cross-neighbors-per-bridge 3
+```
+
+13. For each selected bridge author, also keep a small number of same-community neighbors for context. By default:
+
+```text
+--same-neighbors-per-bridge 1
+```
+
+14. Build a plot subgraph from the selected bridge authors and their selected neighbors.
+15. Remove plotted edges with weight lower than `--min-edge-weight`.
+16. Remove isolated context nodes, while keeping selected bridge authors.
+17. Compute a spring layout for the plot graph.
+18. Draw the bridge-author visualization:
+
+```text
+node = author
+node color = detected community
+dark node outline = selected bridge author
+orange edge = cross-community collaboration
+gray edge = same-community collaboration
+bridge node size = bridge_score
+edge width = coauthorship weight
+label = selected bridge author name
+```
+
+19. Add a small text summary of the top bridge authors to the plot.
+20. Save the bridge-author PNG and CSV ranking.
+
+The default output files are:
+
+| File | Description |
+| --- | --- |
+| `bridge_authors.png` | Bridge-author network visualization |
+| `bridge_authors.csv` | Ranking table of the top bridge authors |
+
+Example command for the 2015-2025 dataset:
+
+```bash
+python scripts/visualize_bridge_authors.py --input-dir data/dblp_ai_authors_2015_2025
+```
+
+Using the `modal` conda environment:
+
+```bash
+conda run -n modal python scripts/visualize_bridge_authors.py --input-dir data/dblp_ai_authors_2015_2025
+```
+
+Example with custom bridge visualization parameters:
+
+```bash
+python scripts/visualize_bridge_authors.py \
+  --input-dir data/dblp_ai_authors_2015_2025 \
+  --top-bridge-k 40 \
+  --cross-neighbors-per-bridge 4 \
+  --same-neighbors-per-bridge 2 \
+  --min-edge-weight 2
+```
+
+The bridge-author visualization is designed to answer:
+
+```text
+Who connects otherwise separate collaboration communities?
+```
+
+It complements `visualize_coauthor_graph.py`, which provides a high-level overview of the most connected part of the collaboration network.
