@@ -156,3 +156,20 @@ python scripts/fetch_dblp_ai_coauthor_graph.py --venues icml nips --start-year 2
 
 Because DBLP rate limits frequent requests, the script includes a polite delay and
 automatic retry logic for `429 Too Many Requests`.
+
+### The data we can fetch from dblp
+`rec/conf/<venue>/<year>.xml`：proceedings record
+example: https://dblp.org/rec/conf/iclr/2025.xml
+the structures are like:
+```
+<dblp>
+  <proceedings key="conf/iclr/2025" mdate="2025-05-12">
+    <title>The Thirteenth International Conference on Learning Representations, ICLR 2025, Singapore, April 24-28, 2025</title>
+    <booktitle>ICLR</booktitle>
+    <publisher>OpenReview.net</publisher>
+    <year>2025</year>
+    <ee type="oa">https://openreview.net/group?id=ICLR.cc/2025/Conference</ee>
+    <url>db/conf/iclr/iclr2025.html</url>
+  </proceedings>
+</dblp>
+```

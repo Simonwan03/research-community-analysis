@@ -1,0 +1,29 @@
+{
+  "generated_at": "2026-04-16T13:50:56.801626",
+  "source": "DBLP proceedings XML",
+  "dblp_base_url": "https://dblp.org/",
+  "venues": {
+    "icml": "ICML",
+    "nips": "NeurIPS",
+    "iclr": "ICLR"
+  },
+  "year_range": {
+    "start": 2015,
+    "end": 2025
+  },
+  "counts": {
+    "papers": 44123,
+    "authors": 67224,
+    "edges": 407230
+  },
+  "paper_counts_by_venue": {
+    "ICML": 13617,
+    "NeurIPS": 19181,
+    "ICLR": 11325
+  },
+  "notes": [
+    "DBLP venue streams provide metadata only; paper-level records are fetched from per-year proceedings TOC XML.",
+    "Author identity uses DBLP pid when available, otherwise a normalized name key.",
+    "The output graph is an undirected weighted coauthor graph where edge weight equals the number of qualifying papers."
+  ]
+}
