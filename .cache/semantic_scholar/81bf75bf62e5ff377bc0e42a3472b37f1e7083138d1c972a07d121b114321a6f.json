@@ -1,0 +1,306 @@
+{
+  "total": 12,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "5b82f5465490de2f5905d15788104eab994ba4ec",
+      "externalIds": {
+        "MAG": "2963177480",
+        "DBLP": "conf/icml/ChenS15",
+        "ArXiv": "1504.07218",
+        "CorpusId": 16239576
+      },
+      "url": "https://www.semanticscholar.org/paper/5b82f5465490de2f5905d15788104eab994ba4ec",
+      "title": "Spectral MLE: Top-K Rank Aggregation from Pairwise Comparisons",
+      "venue": "International Conference on Machine Learning",
+      "year": 2015,
+      "referenceCount": 56,
+      "citationCount": 146,
+      "authors": [
+        {
+          "authorId": "47557914",
+          "name": "Yuxin Chen"
+        },
+        {
+          "authorId": "1788941",
+          "name": "Changho Suh"
+        }
+      ]
+    },
+    {
+      "paperId": "b933ec1d480259faa92d4ba5c121a7d1e9ad6378",
+      "externalIds": {
+        "MAG": "2299975870",
+        "ArXiv": "1603.04153",
+        "DBLP": "journals/corr/JangKSO16",
+        "CorpusId": 2907853
+      },
+      "url": "https://www.semanticscholar.org/paper/b933ec1d480259faa92d4ba5c121a7d1e9ad6378",
+      "title": "Top-K Ranking from Pairwise Comparisons: When Spectral Ranking is Optimal",
+      "venue": "arXiv.org",
+      "year": 2016,
+      "referenceCount": 36,
+      "citationCount": 38,
+      "authors": [
+        {
+          "authorId": "3359557",
+          "name": "Minje Jang"
+        },
+        {
+          "authorId": "2118021346",
+          "name": "Sunghyun Kim"
+        },
+        {
+          "authorId": "1788941",
+          "name": "Changho Suh"
+        },
+        {
+          "authorId": "34184418",
+          "name": "Sewoong Oh"
+        }
+      ]
+    },
+    {
+      "paperId": "b0153e519e892a0209b66e2e7a52c5c24c9454a9",
+      "externalIds": {
+        "MAG": "2739848020",
+        "DBLP": "journals/corr/ChenFMW17",
+        "ArXiv": "1707.09971",
+        "DOI": "10.1214/18-AOS1745",
+        "CorpusId": 1614767,
+        "PubMed": "31598016"
+      },
+      "url": "https://www.semanticscholar.org/paper/b0153e519e892a0209b66e2e7a52c5c24c9454a9",
+      "title": "Spectral Method and Regularized MLE Are Both Optimal for Top-$K$ Ranking",
+      "venue": "Annals of Statistics",
+      "year": 2017,
+      "referenceCount": 78,
+      "citationCount": 127,
+      "authors": [
+        {
+          "authorId": "47557914",
+          "name": "Yuxin Chen"
+        },
+        {
+          "authorId": "144958605",
+          "name": "Jianqing Fan"
+        },
+        {
+          "authorId": "143731041",
+          "name": "Cong Ma"
+        },
+        {
+          "authorId": "48884593",
+          "name": "Kaizheng Wang"
+        }
+      ]
+    },
+    {
+      "paperId": "c2da30254cdce676d61919f555923f2590acb395",
+      "externalIds": {
+        "ArXiv": "2402.07445",
+        "DBLP": "conf/colt/YangCOM24",
+        "DOI": "10.48550/arXiv.2402.07445",
+        "CorpusId": 267627010
+      },
+      "url": "https://www.semanticscholar.org/paper/c2da30254cdce676d61919f555923f2590acb395",
+      "title": "Top-K ranking with a monotone adversary",
+      "venue": "Annual Conference Computational Learning Theory",
+      "year": 2024,
+      "referenceCount": 52,
+      "citationCount": 4,
+      "authors": [
+        {
+          "authorId": "2176151862",
+          "name": "Yuepeng Yang"
+        },
+        {
+          "authorId": "2693987",
+          "name": "Antares Chen"
+        },
+        {
+          "authorId": "2399389151",
+          "name": "Lorenzo Orecchia"
+        },
+        {
+          "authorId": "2257349810",
+          "name": "Cong Ma"
+        }
+      ]
+    },
+    {
+      "paperId": "0dd225de55aa71597badc34486e274fdce05bc14",
+      "externalIds": {
+        "ArXiv": "2309.03808",
+        "DBLP": "journals/corr/abs-2309-03808",
+        "DOI": "10.48550/arXiv.2309.03808",
+        "CorpusId": 261582699
+      },
+      "url": "https://www.semanticscholar.org/paper/0dd225de55aa71597badc34486e274fdce05bc14",
+      "title": "Improved theoretical guarantee for rank aggregation via spectral method",
+      "venue": "Information and Inference A Journal of the IMA",
+      "year": 2023,
+      "referenceCount": 39,
+      "citationCount": 4,
+      "authors": [
+        {
+          "authorId": "2238312265",
+          "name": "Z. Zhong"
+        },
+        {
+          "authorId": "2238210373",
+          "name": "Shuyang Ling"
+        }
+      ]
+    },
+    {
+      "paperId": "b030e83c6afa0d2699bd392ec90dda0131ad688b",
+      "externalIds": {
+        "DBLP": "journals/jstsp/JangKS18",
+        "DOI": "10.1109/JSTSP.2018.2834864",
+        "CorpusId": 217241320
+      },
+      "url": "https://www.semanticscholar.org/paper/b030e83c6afa0d2699bd392ec90dda0131ad688b",
+      "title": "Top-<inline-formula><tex-math notation=\"LaTeX\">$K$</tex-math></inline-formula> Rank Aggregation From <inline-formula><tex-math notation=\"LaTeX\">$M$</tex-math></inline-formula>-Wise Comparisons",
+      "venue": "IEEE Journal on Selected Topics in Signal Processing",
+      "year": 2018,
+      "referenceCount": 41,
+      "citationCount": 4,
+      "authors": [
+        {
+          "authorId": "3359557",
+          "name": "Minje Jang"
+        },
+        {
+          "authorId": "2118021346",
+          "name": "Sunghyun Kim"
+        },
+        {
+          "authorId": "47808468",
+          "name": "Changho Suh"
+        }
+      ]
+    },
+    {
+      "paperId": "4f5bff03aad8a71ed96014148126768cd57633ae",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2402-16792",
+        "ArXiv": "2402.16792",
+        "DOI": "10.1080/01621459.2025.2484843",
+        "CorpusId": 268031966
+      },
+      "url": "https://www.semanticscholar.org/paper/4f5bff03aad8a71ed96014148126768cd57633ae",
+      "title": "Rate-Optimal Rank Aggregation with Private Pairwise Rankings",
+      "venue": "Journal of the American Statistical Association",
+      "year": 2024,
+      "referenceCount": 51,
+      "citationCount": 4,
+      "authors": [
+        {
+          "authorId": "2110943713",
+          "name": "Shi Xu"
+        },
+        {
+          "authorId": "46912312",
+          "name": "W. Sun"
+        },
+        {
+          "authorId": "2268330755",
+          "name": "Guang Cheng"
+        }
+      ]
+    },
+    {
+      "paperId": "ed21139be8092f1d0008bf9a77c69adb5cbb8532",
+      "externalIds": {
+        "DBLP": "conf/nips/JangKSO17",
+        "MAG": "2751900749",
+        "CorpusId": 30118552
+      },
+      "url": "https://www.semanticscholar.org/paper/ed21139be8092f1d0008bf9a77c69adb5cbb8532",
+      "title": "Optimal Sample Complexity of M-wise Data for Top-K Ranking",
+      "venue": "Neural Information Processing Systems",
+      "year": 2017,
+      "referenceCount": 46,
+      "citationCount": 29,
+      "authors": [
+        {
+          "authorId": "3359557",
+          "name": "Minje Jang"
+        },
+        {
+          "authorId": "2118021346",
+          "name": "Sunghyun Kim"
+        },
+        {
+          "authorId": "1788941",
+          "name": "Changho Suh"
+        },
+        {
+          "authorId": "34184418",
+          "name": "Sewoong Oh"
+        }
+      ]
+    },
+    {
+      "paperId": "bf9ad3f2c0e2175846957a9f067c0596eb1eee97",
+      "externalIds": {
+        "MAG": "2964305024",
+        "ArXiv": "1707.08238",
+        "DBLP": "conf/soda/ChenLM18",
+        "DOI": "10.1137/1.9781611975031.160",
+        "CorpusId": 7440589
+      },
+      "url": "https://www.semanticscholar.org/paper/bf9ad3f2c0e2175846957a9f067c0596eb1eee97",
+      "title": "A Nearly Instance Optimal Algorithm for Top-k Ranking under the Multinomial Logit Model",
+      "venue": "ACM-SIAM Symposium on Discrete Algorithms",
+      "year": 2017,
+      "referenceCount": 31,
+      "citationCount": 44,
+      "authors": [
+        {
+          "authorId": "46772427",
+          "name": "Xi Chen"
+        },
+        {
+          "authorId": "2340566597",
+          "name": "Yuanzhi Li"
+        },
+        {
+          "authorId": "2041605",
+          "name": "Jieming Mao"
+        }
+      ]
+    },
+    {
+      "paperId": "d8b5448c6ef1e7e51d9aec37ea66fc7bb364cce9",
+      "externalIds": {
+        "DBLP": "conf/colt/BravermanMP19",
+        "MAG": "2952883616",
+        "ArXiv": "1906.05208",
+        "CorpusId": 186207042
+      },
+      "url": "https://www.semanticscholar.org/paper/d8b5448c6ef1e7e51d9aec37ea66fc7bb364cce9",
+      "title": "Sorted Top-k in Rounds",
+      "venue": "Annual Conference Computational Learning Theory",
+      "year": 2019,
+      "referenceCount": 59,
+      "citationCount": 11,
+      "authors": [
+        {
+          "authorId": "143803467",
+          "name": "M. Braverman"
+        },
+        {
+          "authorId": "2041605",
+          "name": "Jieming Mao"
+        },
+        {
+          "authorId": "145613463",
+          "name": "Y. Peres"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,333 @@
+{
+  "total": 13,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "ee48df2adefe61db307918fa7510b1f67a72d317",
+      "externalIds": {
+        "MAG": "2728468721",
+        "DBLP": "conf/icml/SunDK17",
+        "CorpusId": 28409560
+      },
+      "url": "https://www.semanticscholar.org/paper/ee48df2adefe61db307918fa7510b1f67a72d317",
+      "title": "Safety-Aware Algorithms for Adversarial Contextual Bandit",
+      "venue": "International Conference on Machine Learning",
+      "year": 2017,
+      "referenceCount": 19,
+      "citationCount": 80,
+      "authors": [
+        {
+          "authorId": "144426657",
+          "name": "Wen Sun"
+        },
+        {
+          "authorId": "1780951",
+          "name": "Debadeepta Dey"
+        },
+        {
+          "authorId": "2189118",
+          "name": "Ashish Kapoor"
+        }
+      ]
+    },
+    {
+      "paperId": "0ce80d60c8b17d5924be64e201cc7cb89decb9be",
+      "externalIds": {
+        "DBLP": "journals/corr/SunDK16",
+        "MAG": "2534277863",
+        "ArXiv": "1610.05129",
+        "CorpusId": 10643966
+      },
+      "url": "https://www.semanticscholar.org/paper/0ce80d60c8b17d5924be64e201cc7cb89decb9be",
+      "title": "Risk-Aware Algorithms for Adversarial Contextual Bandits",
+      "venue": "arXiv.org",
+      "year": 2016,
+      "referenceCount": 22,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "144426657",
+          "name": "Wen Sun"
+        },
+        {
+          "authorId": "1780951",
+          "name": "Debadeepta Dey"
+        },
+        {
+          "authorId": "2189118",
+          "name": "Ashish Kapoor"
+        }
+      ]
+    },
+    {
+      "paperId": "e8d2786fc13203bdc84271525e663d3a8c1561e8",
+      "externalIds": {
+        "DBLP": "conf/eicc/Ma0W24",
+        "DOI": "10.1145/3655693.3660252",
+        "CorpusId": 270259108
+      },
+      "url": "https://www.semanticscholar.org/paper/e8d2786fc13203bdc84271525e663d3a8c1561e8",
+      "title": "An Enhanced Combinatorial Contextual Neural Bandit Approach for Client Selection in Federated Learning",
+      "venue": "European Interdisciplinary Cybersecurity Conference",
+      "year": 2024,
+      "referenceCount": 25,
+      "citationCount": 5,
+      "authors": [
+        {
+          "authorId": "1628169516",
+          "name": "Xiangyu Ma"
+        },
+        {
+          "authorId": "2262418353",
+          "name": "Wei Shi"
+        },
+        {
+          "authorId": "2305264031",
+          "name": "Junfeng Wen"
+        }
+      ]
+    },
+    {
+      "paperId": "7c8803e90a51af3eb37504839be6a63552eed971",
+      "externalIds": {
+        "MAG": "2986540800",
+        "ArXiv": "1911.00638",
+        "DBLP": "journals/corr/abs-1911-00638",
+        "CorpusId": 207870059
+      },
+      "url": "https://www.semanticscholar.org/paper/7c8803e90a51af3eb37504839be6a63552eed971",
+      "title": "Thompson Sampling for Contextual Bandit Problems with Auxiliary Safety Constraints",
+      "venue": "arXiv.org",
+      "year": 2019,
+      "referenceCount": 23,
+      "citationCount": 15,
+      "authors": [
+        {
+          "authorId": "1380273392",
+          "name": "Sam Daulton"
+        },
+        {
+          "authorId": "2108406693",
+          "name": "Shaun Singh"
+        },
+        {
+          "authorId": "2066259",
+          "name": "Vashist Avadhanula"
+        },
+        {
+          "authorId": "90810256",
+          "name": "Drew Dimmery"
+        },
+        {
+          "authorId": "3071703",
+          "name": "E. Bakshy"
+        }
+      ]
+    },
+    {
+      "paperId": "e4a65edc2d4fd598d663da9b3cffcdac8ebfc513",
+      "externalIds": {
+        "ArXiv": "2110.12615",
+        "DBLP": "journals/corr/abs-2110-12615",
+        "CorpusId": 239768576
+      },
+      "url": "https://www.semanticscholar.org/paper/e4a65edc2d4fd598d663da9b3cffcdac8ebfc513",
+      "title": "Linear Contextual Bandits with Adversarial Corruptions",
+      "venue": "arXiv.org",
+      "year": 2021,
+      "referenceCount": 38,
+      "citationCount": 25,
+      "authors": [
+        {
+          "authorId": "2141339020",
+          "name": "Heyang Zhao"
+        },
+        {
+          "authorId": "2116323342",
+          "name": "Dongruo Zhou"
+        },
+        {
+          "authorId": "9937103",
+          "name": "Quanquan Gu"
+        }
+      ]
+    },
+    {
+      "paperId": "884433a99c92acf97792d7b870b3f9a8965c0ced",
+      "externalIds": {
+        "DBLP": "journals/vc/ZhaoHYZLW25",
+        "DOI": "10.1007/s00371-025-04160-9",
+        "CorpusId": 281284492
+      },
+      "url": "https://www.semanticscholar.org/paper/884433a99c92acf97792d7b870b3f9a8965c0ced",
+      "title": "Towards accurate context-aware user simulation for algorithm auditing",
+      "venue": "The Visual Computer",
+      "year": 2025,
+      "referenceCount": 36,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2283195307",
+          "name": "Yunwei Zhao"
+        },
+        {
+          "authorId": "2112454239",
+          "name": "Han Han"
+        },
+        {
+          "authorId": "2331796474",
+          "name": "Wenhao Yang"
+        },
+        {
+          "authorId": "2320524709",
+          "name": "Lixin Zou"
+        },
+        {
+          "authorId": "2283279202",
+          "name": "Meichen Liu"
+        },
+        {
+          "authorId": "2283452341",
+          "name": "Luhua Wang"
+        }
+      ]
+    },
+    {
+      "paperId": "05f688cc6d3fdd0e356272677176801d7a42af99",
+      "externalIds": {
+        "ArXiv": "2409.15682",
+        "DBLP": "journals/corr/abs-2409-15682",
+        "DOI": "10.48550/arXiv.2409.15682",
+        "CorpusId": 272831828
+      },
+      "url": "https://www.semanticscholar.org/paper/05f688cc6d3fdd0e356272677176801d7a42af99",
+      "title": "Linear Contextual Bandits with Interference",
+      "venue": "International Conference on Machine Learning",
+      "year": 2024,
+      "referenceCount": 30,
+      "citationCount": 4,
+      "authors": [
+        {
+          "authorId": "2199013111",
+          "name": "Yang Xu"
+        },
+        {
+          "authorId": "2286373853",
+          "name": "Wenbin Lu"
+        },
+        {
+          "authorId": "2319357024",
+          "name": "Rui Song"
+        }
+      ]
+    },
+    {
+      "paperId": "23ceee9371037071a6cddc1acc6aa88099248e0c",
+      "externalIds": {
+        "DOI": "10.1109/ICCWS56285.2022.9998440",
+        "CorpusId": 255267933
+      },
+      "url": "https://www.semanticscholar.org/paper/23ceee9371037071a6cddc1acc6aa88099248e0c",
+      "title": "Network Intrusion Detection for Smart Infrastructure using Multi-armed Bandit based Reinforcement Learning in Adversarial Environment",
+      "venue": "2022 International Conference on Cyber Warfare and Security (ICCWS)",
+      "year": 2022,
+      "referenceCount": 19,
+      "citationCount": 7,
+      "authors": [
+        {
+          "authorId": "2066404159",
+          "name": "Z. Tariq"
+        },
+        {
+          "authorId": "2943771",
+          "name": "Emna Baccour"
+        },
+        {
+          "authorId": "2884607",
+          "name": "A. Erbad"
+        },
+        {
+          "authorId": "2065439840",
+          "name": "M. Guizani"
+        },
+        {
+          "authorId": "153521546",
+          "name": "Mounir Hamdi"
+        }
+      ]
+    },
+    {
+      "paperId": "af53e576b1c61cd5bd31ce659b79df0b1e1783d4",
+      "externalIds": {
+        "ArXiv": "2410.19705",
+        "DBLP": "journals/corr/abs-2410-19705",
+        "DOI": "10.48550/arXiv.2410.19705",
+        "CorpusId": 273638651
+      },
+      "url": "https://www.semanticscholar.org/paper/af53e576b1c61cd5bd31ce659b79df0b1e1783d4",
+      "title": "Robust Thompson Sampling Algorithms Against Reward Poisoning Attacks",
+      "venue": "arXiv.org",
+      "year": 2024,
+      "referenceCount": 33,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2167048941",
+          "name": "Yinglun Xu"
+        },
+        {
+          "authorId": "2261678013",
+          "name": "Zhiwei Wang"
+        },
+        {
+          "authorId": "2277578582",
+          "name": "Gagandeep Singh"
+        }
+      ]
+    },
+    {
+      "paperId": "c26d8271cd6b6b20b2a62f090569f71407c7422a",
+      "externalIds": {
+        "ArXiv": "2603.13292",
+        "CorpusId": 286568584
+      },
+      "url": "https://www.semanticscholar.org/paper/c26d8271cd6b6b20b2a62f090569f71407c7422a",
+      "title": "Pragma-VL: Towards a Pragmatic Arbitration of Safety and Helpfulness in MLLMs",
+      "venue": "",
+      "year": 2026,
+      "referenceCount": 28,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2293454670",
+          "name": "Ming Wen"
+        },
+        {
+          "authorId": "2408595919",
+          "name": "Kun Yang"
+        },
+        {
+          "authorId": "2293425845",
+          "name": "Xin Chen"
+        },
+        {
+          "authorId": "2395635447",
+          "name": "Jingyu Zhang"
+        },
+        {
+          "authorId": "2352068743",
+          "name": "Dingding Han"
+        },
+        {
+          "authorId": "2357987111",
+          "name": "Shiwen Cui"
+        },
+        {
+          "authorId": "2293563520",
+          "name": "Yuedong Xu"
+        }
+      ]
+    }
+  ]
+}

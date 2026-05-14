@@ -1,0 +1,95 @@
+{
+  "total": 3,
+  "offset": 0,
+  "data": [
+    {
+      "paperId": "3d0b96767d7285b7ce8ecca9715aef9b020fafd9",
+      "externalIds": {
+        "MAG": "2963409219",
+        "DBLP": "conf/icml/ZhuY16",
+        "ArXiv": "1506.01972",
+        "CorpusId": 5492886
+      },
+      "url": "https://www.semanticscholar.org/paper/3d0b96767d7285b7ce8ecca9715aef9b020fafd9",
+      "title": "Improved SVRG for Non-Strongly-Convex or Sum-of-Non-Convex Objectives",
+      "venue": "International Conference on Machine Learning",
+      "year": 2015,
+      "referenceCount": 37,
+      "citationCount": 209,
+      "authors": [
+        {
+          "authorId": "1388725932",
+          "name": "Zeyuan Allen-Zhu"
+        },
+        {
+          "authorId": "145155436",
+          "name": "Yang Yuan"
+        }
+      ]
+    },
+    {
+      "paperId": "34c2892fafc99badaaf59dada20912b8053dff56",
+      "externalIds": {
+        "MAG": "2890096867",
+        "ArXiv": "1809.06754",
+        "CorpusId": 53579175
+      },
+      "url": "https://www.semanticscholar.org/paper/34c2892fafc99badaaf59dada20912b8053dff56",
+      "title": "A Variance Reduction Method for Non-Convex Optimization with Improved Convergence under Large Condition Number",
+      "venue": "",
+      "year": 2018,
+      "referenceCount": 11,
+      "citationCount": 12,
+      "authors": [
+        {
+          "authorId": "2424252",
+          "name": "Zaiyi Chen"
+        },
+        {
+          "authorId": "2110289529",
+          "name": "Yi Xu"
+        },
+        {
+          "authorId": "2289099028",
+          "name": "Haoyuan Hu"
+        },
+        {
+          "authorId": "40381920",
+          "name": "Tianbao Yang"
+        }
+      ]
+    },
+    {
+      "paperId": "ffa12e0f4879ddd3e382f5aced868bee26358f34",
+      "externalIds": {
+        "MAG": "2950019067",
+        "DBLP": "conf/icml/ChenXHY19",
+        "CorpusId": 119735969
+      },
+      "url": "https://www.semanticscholar.org/paper/ffa12e0f4879ddd3e382f5aced868bee26358f34",
+      "title": "Katalyst: Boosting Convex Katayusha for Non-Convex Problems with a Large Condition Number",
+      "venue": "International Conference on Machine Learning",
+      "year": 2018,
+      "referenceCount": 28,
+      "citationCount": 4,
+      "authors": [
+        {
+          "authorId": "2424252",
+          "name": "Zaiyi Chen"
+        },
+        {
+          "authorId": "2110289529",
+          "name": "Yi Xu"
+        },
+        {
+          "authorId": "14724015",
+          "name": "Haoyuan Hu"
+        },
+        {
+          "authorId": "40381920",
+          "name": "Tianbao Yang"
+        }
+      ]
+    }
+  ]
+}

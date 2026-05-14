@@ -1,0 +1,544 @@
+{
+  "offset": 0,
+  "citingPaperInfo": {
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/1603.01860, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "title": "Generalization error bounds for learning to rank: Does the length of document lists matter?",
+    "authors": [
+      {
+        "authorId": "3064914",
+        "name": "Ambuj Tewari"
+      },
+      {
+        "authorId": "2460488",
+        "name": "Sougata Chaudhuri"
+      }
+    ]
+  },
+  "data": [
+    {
+      "citedPaper": {
+        "paperId": "158e620f88139acdd4571b06dbd35b180481ffa9",
+        "externalIds": {
+          "MAG": "3013820469",
+          "DBLP": "conf/nips/SrebroST10",
+          "ArXiv": "1009.3896",
+          "CorpusId": 1984524
+        },
+        "url": "https://www.semanticscholar.org/paper/158e620f88139acdd4571b06dbd35b180481ffa9",
+        "title": "Smoothness, Low Noise and Fast Rates",
+        "venue": "Neural Information Processing Systems",
+        "year": 2010,
+        "referenceCount": 35,
+        "citationCount": 302,
+        "authors": [
+          {
+            "authorId": "1706280",
+            "name": "N. Srebro"
+          },
+          {
+            "authorId": "37564609",
+            "name": "Karthik Sridharan"
+          },
+          {
+            "authorId": "3064914",
+            "name": "Ambuj Tewari"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "f8289114b2aa2cb97b3020b9aaf6c570af68cda2",
+        "externalIds": {
+          "MAG": "2785025356",
+          "DBLP": "journals/jmlr/ChapelleCL11",
+          "CorpusId": 9058099
+        },
+        "url": "https://www.semanticscholar.org/paper/f8289114b2aa2cb97b3020b9aaf6c570af68cda2",
+        "title": "Future directions in learning to rank",
+        "venue": "Yahoo! Learning to Rank Challenge",
+        "year": 2010,
+        "referenceCount": 35,
+        "citationCount": 82,
+        "authors": [
+          {
+            "authorId": "1730609",
+            "name": "O. Chapelle"
+          },
+          {
+            "authorId": "145882798",
+            "name": "Yi Chang"
+          },
+          {
+            "authorId": "2110264337",
+            "name": "Tie-Yan Liu"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "37c415efb77e1d24da9f4350f3a93bb271cdba20",
+        "externalIds": {
+          "MAG": "2051928158",
+          "DBLP": "journals/ir/ChapelleW10",
+          "DOI": "10.1007/s10791-009-9110-3",
+          "CorpusId": 2671644
+        },
+        "url": "https://www.semanticscholar.org/paper/37c415efb77e1d24da9f4350f3a93bb271cdba20",
+        "title": "Gradient descent optimization of smoothed information retrieval metrics",
+        "venue": "Information retrieval (Boston)",
+        "year": 2010,
+        "referenceCount": 36,
+        "citationCount": 214,
+        "authors": [
+          {
+            "authorId": "1730609",
+            "name": "O. Chapelle"
+          },
+          {
+            "authorId": "2703148",
+            "name": "Mingrui Wu"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "7e3cf6492128f915112ca01dcb77c766129e65cb",
+        "externalIds": {
+          "DBLP": "conf/cikm/ChapelleMZG09",
+          "MAG": "2113640060",
+          "DOI": "10.1145/1645953.1646033",
+          "CorpusId": 207176455
+        },
+        "url": "https://www.semanticscholar.org/paper/7e3cf6492128f915112ca01dcb77c766129e65cb",
+        "title": "Expected reciprocal rank for graded relevance",
+        "venue": "International Conference on Information and Knowledge Management",
+        "year": 2009,
+        "referenceCount": 35,
+        "citationCount": 918,
+        "authors": [
+          {
+            "authorId": "1730609",
+            "name": "O. Chapelle"
+          },
+          {
+            "authorId": "1398919793",
+            "name": "D. Metlzer"
+          },
+          {
+            "authorId": "2108037077",
+            "name": "Ya Zhang"
+          },
+          {
+            "authorId": "3176173",
+            "name": "P. Grinspan"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "3f702b349cd104ea39426eeaa90aec41f46b8903",
+        "externalIds": {
+          "DBLP": "conf/icml/LanLML09",
+          "MAG": "2047778511",
+          "DOI": "10.1145/1553374.1553449",
+          "CorpusId": 13328668
+        },
+        "url": "https://www.semanticscholar.org/paper/3f702b349cd104ea39426eeaa90aec41f46b8903",
+        "title": "Generalization analysis of listwise learning-to-rank algorithms",
+        "venue": "International Conference on Machine Learning",
+        "year": 2009,
+        "referenceCount": 16,
+        "citationCount": 64,
+        "authors": [
+          {
+            "authorId": "37510256",
+            "name": "Yanyan Lan"
+          },
+          {
+            "authorId": "2110264337",
+            "name": "Tie-Yan Liu"
+          },
+          {
+            "authorId": "2873524",
+            "name": "Zhiming Ma"
+          },
+          {
+            "authorId": "49404233",
+            "name": "Hang Li"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "69bb66a58b9fd64fc9e339b332c29f4a87881ef3",
+        "externalIds": {
+          "DBLP": "conf/icml/LanLQML08",
+          "MAG": "1998068185",
+          "DOI": "10.1145/1390156.1390221",
+          "CorpusId": 13969616
+        },
+        "url": "https://www.semanticscholar.org/paper/69bb66a58b9fd64fc9e339b332c29f4a87881ef3",
+        "title": "Query-level stability and generalization in learning to rank",
+        "venue": "International Conference on Machine Learning",
+        "year": 2008,
+        "referenceCount": 14,
+        "citationCount": 37,
+        "authors": [
+          {
+            "authorId": "37510256",
+            "name": "Yanyan Lan"
+          },
+          {
+            "authorId": "2110264337",
+            "name": "Tie-Yan Liu"
+          },
+          {
+            "authorId": "143826491",
+            "name": "Tao Qin"
+          },
+          {
+            "authorId": "2873524",
+            "name": "Zhiming Ma"
+          },
+          {
+            "authorId": "49404233",
+            "name": "Hang Li"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "094ce8379a16030a7a993b2f70af46916f7ea99b",
+        "externalIds": {
+          "MAG": "2127176025",
+          "DBLP": "conf/sigir/YueFRJ07",
+          "DOI": "10.1145/1277741.1277790",
+          "CorpusId": 7423459
+        },
+        "url": "https://www.semanticscholar.org/paper/094ce8379a16030a7a993b2f70af46916f7ea99b",
+        "title": "A support vector method for optimizing average precision",
+        "venue": "Annual International ACM SIGIR Conference on Research and Development in Information Retrieval",
+        "year": 2007,
+        "referenceCount": 21,
+        "citationCount": 775,
+        "authors": [
+          {
+            "authorId": "1740159",
+            "name": "Yisong Yue"
+          },
+          {
+            "authorId": "50256971",
+            "name": "Thomas Finley"
+          },
+          {
+            "authorId": "1803571",
+            "name": "Filip Radlinski"
+          },
+          {
+            "authorId": "1680188",
+            "name": "T. Joachims"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "db196fd70f0b54d72aedc75bd74c9b2f826925d7",
+        "externalIds": {
+          "DBLP": "conf/icml/CaoQLTL07",
+          "MAG": "2108862644",
+          "DOI": "10.1145/1273496.1273513",
+          "CorpusId": 207163577
+        },
+        "url": "https://www.semanticscholar.org/paper/db196fd70f0b54d72aedc75bd74c9b2f826925d7",
+        "title": "Learning to rank: from pairwise approach to listwise approach",
+        "venue": "International Conference on Machine Learning",
+        "year": 2007,
+        "referenceCount": 27,
+        "citationCount": 2363,
+        "authors": [
+          {
+            "authorId": "2113999576",
+            "name": "Zhe Cao"
+          },
+          {
+            "authorId": "2265984980",
+            "name": "Tao Qin"
+          },
+          {
+            "authorId": "2256760771",
+            "name": "Tie-Yan Liu"
+          },
+          {
+            "authorId": "2257249370",
+            "name": "Ming-Feng Tsai"
+          },
+          {
+            "authorId": "2265994866",
+            "name": "Hang Li"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "009f35c0e453f2435efd8d8ef8086b76b294967a",
+        "externalIds": {
+          "DBLP": "conf/colt/BartlettM01",
+          "MAG": "2178357350",
+          "DOI": "10.1007/3-540-44581-1_15",
+          "CorpusId": 463216
+        },
+        "url": "https://www.semanticscholar.org/paper/009f35c0e453f2435efd8d8ef8086b76b294967a",
+        "title": "Rademacher and Gaussian Complexities: Risk Bounds and Structural Results",
+        "venue": "Journal of machine learning research",
+        "year": 2003,
+        "referenceCount": 25,
+        "citationCount": 3161,
+        "authors": [
+          {
+            "authorId": "1745169",
+            "name": "P. Bartlett"
+          },
+          {
+            "authorId": "2266267",
+            "name": "S. Mendelson"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "a5c8ca9177054499e43898ac73d1c1b6e2a45928",
+        "externalIds": {
+          "MAG": "1505356468",
+          "CorpusId": 116961013
+        },
+        "url": "https://www.semanticscholar.org/paper/a5c8ca9177054499e43898ac73d1c1b6e2a45928",
+        "title": "Concentration Inequalities and Empirical Processes Theory Applied to the Analysis of Learning Algorithms",
+        "venue": "",
+        "year": 2002,
+        "referenceCount": 0,
+        "citationCount": 114,
+        "authors": [
+          {
+            "authorId": "1698617",
+            "name": "O. Bousquet"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "8490234d79b47e459824dcf87c1e288211a3c964",
+        "externalIds": {
+          "DBLP": "journals/tois/JarvelinK02",
+          "MAG": "2069870183",
+          "DOI": "10.1145/582415.582418",
+          "CorpusId": 1981391
+        },
+        "url": "https://www.semanticscholar.org/paper/8490234d79b47e459824dcf87c1e288211a3c964",
+        "title": "Cumulated gain-based evaluation of IR techniques",
+        "venue": "TOIS",
+        "year": 2002,
+        "referenceCount": 45,
+        "citationCount": 5390,
+        "authors": [
+          {
+            "authorId": "2768186",
+            "name": "K. Järvelin"
+          },
+          {
+            "authorId": "2732839",
+            "name": "Jaana Kekäläinen"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "00aa844c4b3a8f44c0f1d02874fcbe69b310897b",
+        "externalIds": {
+          "MAG": "2112528242",
+          "DBLP": "journals/tit/Mendelson02",
+          "DOI": "10.1109/18.971753",
+          "CorpusId": 6129718
+        },
+        "url": "https://www.semanticscholar.org/paper/00aa844c4b3a8f44c0f1d02874fcbe69b310897b",
+        "title": "Rademacher averages and phase transitions in Glivenko-Cantelli classes",
+        "venue": "IEEE Transactions on Information Theory",
+        "year": 2002,
+        "referenceCount": 24,
+        "citationCount": 93,
+        "authors": [
+          {
+            "authorId": "2266267",
+            "name": "S. Mendelson"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "cfd4259d305a00f13d5f08841230389f61322422",
+        "externalIds": {
+          "MAG": "2047221353",
+          "DBLP": "conf/kdd/Joachims02",
+          "DOI": "10.1145/775047.775067",
+          "CorpusId": 207605508
+        },
+        "url": "https://www.semanticscholar.org/paper/cfd4259d305a00f13d5f08841230389f61322422",
+        "title": "Optimizing search engines using clickthrough data",
+        "venue": "Knowledge Discovery and Data Mining",
+        "year": 2002,
+        "referenceCount": 30,
+        "citationCount": 4634,
+        "authors": [
+          {
+            "authorId": "1680188",
+            "name": "T. Joachims"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "0a38c0c06dab47df19b7d0bee5c81ae27fe7e441",
+        "externalIds": {
+          "ArXiv": "math/0405342",
+          "MAG": "2963212885",
+          "DOI": "10.1214/ECP.V7-1047",
+          "CorpusId": 10111295
+        },
+        "url": "https://www.semanticscholar.org/paper/0a38c0c06dab47df19b7d0bee5c81ae27fe7e441",
+        "title": "Some Extensions of an Inequality of Vapnik and Chervonenkis",
+        "venue": "",
+        "year": 2002,
+        "referenceCount": 18,
+        "citationCount": 42,
+        "authors": [
+          {
+            "authorId": "144611154",
+            "name": "D. Panchenko"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "e442218643570755880de25030670c15f78c5e68",
+        "externalIds": {
+          "MAG": "88685657",
+          "DBLP": "conf/colt/Shalev-ShwartzSSS09",
+          "CorpusId": 1016397
+        },
+        "url": "https://www.semanticscholar.org/paper/e442218643570755880de25030670c15f78c5e68",
+        "title": "Stochastic Convex Optimization",
+        "venue": "Annual Conference Computational Learning Theory",
+        "year": 2009,
+        "referenceCount": 17,
+        "citationCount": 343,
+        "authors": [
+          {
+            "authorId": "1389955537",
+            "name": "S. Shalev-Shwartz"
+          },
+          {
+            "authorId": "1768909",
+            "name": "Ohad Shamir"
+          },
+          {
+            "authorId": "1706280",
+            "name": "N. Srebro"
+          },
+          {
+            "authorId": "37564609",
+            "name": "Karthik Sridharan"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "Applying “expectation version",
+        "venue": "",
+        "year": 2009,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "dbcd79bd7edcdcbb5912a50796fc3c2746729eb5",
+        "externalIds": {
+          "MAG": "2129245267",
+          "CorpusId": 14596754
+        },
+        "url": "https://www.semanticscholar.org/paper/dbcd79bd7edcdcbb5912a50796fc3c2746729eb5",
+        "title": "LETOR: Benchmark Dataset for Research on Learning to Rank for Information Retrieval",
+        "venue": "",
+        "year": 2007,
+        "referenceCount": 36,
+        "citationCount": 527,
+        "authors": [
+          {
+            "authorId": "2110264337",
+            "name": "Tie-Yan Liu"
+          },
+          {
+            "authorId": "2150635498",
+            "name": "Jun Xu"
+          },
+          {
+            "authorId": "143826491",
+            "name": "Tao Qin"
+          },
+          {
+            "authorId": "8574112",
+            "name": "Wen-Ying Xiong"
+          },
+          {
+            "authorId": "2145572104",
+            "name": "Hang Li"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "23afab3f249477d086819e890ac4aa417998568c",
+        "externalIds": {
+          "DBLP": "journals/jmlr/Zhang02",
+          "CorpusId": 10983659
+        },
+        "url": "https://www.semanticscholar.org/paper/23afab3f249477d086819e890ac4aa417998568c",
+        "title": "Covering Number Bounds of Certain Regularized Linear Function Classes",
+        "venue": "Journal of machine learning research",
+        "year": 2002,
+        "referenceCount": 40,
+        "citationCount": 302,
+        "authors": [
+          {
+            "authorId": "2117881943",
+            "name": "Tong Zhang"
+          }
+        ]
+      }
+    }
+  ]
+}

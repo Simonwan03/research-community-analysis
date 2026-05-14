@@ -1,0 +1,300 @@
+{
+  "total": 10,
+  "offset": 0,
+  "data": [
+    {
+      "paperId": "ca9f84c3922004ec6133aa9c2048ceeb17702fee",
+      "externalIds": {
+        "MAG": "2950803263",
+        "ArXiv": "1610.04794",
+        "DBLP": "conf/icml/YangFSH17",
+        "CorpusId": 6128905
+      },
+      "url": "https://www.semanticscholar.org/paper/ca9f84c3922004ec6133aa9c2048ceeb17702fee",
+      "title": "Towards K-means-friendly Spaces: Simultaneous Deep Learning and Clustering",
+      "venue": "International Conference on Machine Learning",
+      "year": 2016,
+      "referenceCount": 46,
+      "citationCount": 975,
+      "authors": [
+        {
+          "authorId": "2119657980",
+          "name": "Bo Yang"
+        },
+        {
+          "authorId": "144406546",
+          "name": "Xiao Fu"
+        },
+        {
+          "authorId": "73776482",
+          "name": "N. Sidiropoulos"
+        },
+        {
+          "authorId": "1793717",
+          "name": "Mingyi Hong"
+        }
+      ]
+    },
+    {
+      "paperId": "d89a27a5282ed916202356c8431a816698ed555e",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2411-19496",
+        "ArXiv": "2411.19496",
+        "DOI": "10.1007/978-3-031-78166-7_6",
+        "CorpusId": 274422783
+      },
+      "url": "https://www.semanticscholar.org/paper/d89a27a5282ed916202356c8431a816698ed555e",
+      "title": "An Approach Towards Learning K-Means-Friendly Deep Latent Representation",
+      "venue": "International Conference on Pattern Recognition",
+      "year": 2024,
+      "referenceCount": 13,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2352426129",
+          "name": "D. Roy"
+        }
+      ]
+    },
+    {
+      "paperId": "0b7501703000bf0b8f46dae74ea21749efd56cbf",
+      "externalIds": {
+        "DBLP": "journals/tkde/DooK24",
+        "DOI": "10.1109/TKDE.2023.3323580",
+        "CorpusId": 264069300
+      },
+      "url": "https://www.semanticscholar.org/paper/0b7501703000bf0b8f46dae74ea21749efd56cbf",
+      "title": "Simultaneous Deep Clustering and Feature Selection via K-Concrete Autoencoder",
+      "venue": "IEEE Transactions on Knowledge and Data Engineering",
+      "year": 2024,
+      "referenceCount": 47,
+      "citationCount": 10,
+      "authors": [
+        {
+          "authorId": "81712252",
+          "name": "Woojin Doo"
+        },
+        {
+          "authorId": "2144347906",
+          "name": "Hee-Tea Kim"
+        }
+      ]
+    },
+    {
+      "paperId": "c0f6cb61c45af20040a692cb8e72cd36e1e5423f",
+      "externalIds": {
+        "DBLP": "conf/icde/DooK24",
+        "DOI": "10.1109/ICDE60146.2024.00506",
+        "CorpusId": 271407465
+      },
+      "url": "https://www.semanticscholar.org/paper/c0f6cb61c45af20040a692cb8e72cd36e1e5423f",
+      "title": "Simultaneous Deep Clustering and Feature Selection via K-concrete Autoencoder (Extended abstract)",
+      "venue": "IEEE International Conference on Data Engineering",
+      "year": 2024,
+      "referenceCount": 3,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "81712252",
+          "name": "Woojin Doo"
+        },
+        {
+          "authorId": "2144347906",
+          "name": "Hee-Tea Kim"
+        }
+      ]
+    },
+    {
+      "paperId": "2e2c66f199bf42630d19f8fc3b4704eaff2fb4e3",
+      "externalIds": {
+        "DBLP": "journals/tfs/GongZLQXLLL23",
+        "DOI": "10.1109/TFUZZ.2023.3283046",
+        "CorpusId": 259823791
+      },
+      "url": "https://www.semanticscholar.org/paper/2e2c66f199bf42630d19f8fc3b4704eaff2fb4e3",
+      "title": "Deep Fuzzy Variable C-Means Clustering Incorporated With Curriculum Learning",
+      "venue": "IEEE transactions on fuzzy systems",
+      "year": 2023,
+      "referenceCount": 55,
+      "citationCount": 15,
+      "authors": [
+        {
+          "authorId": "2052304304",
+          "name": "Maoguo Gong"
+        },
+        {
+          "authorId": "152621421",
+          "name": "Yue Zhao"
+        },
+        {
+          "authorId": null,
+          "name": "Hao Li"
+        },
+        {
+          "authorId": "2166500540",
+          "name": "A. K. Qin"
+        },
+        {
+          "authorId": "3221314",
+          "name": "Lining Xing"
+        },
+        {
+          "authorId": "2130167832",
+          "name": "Jianzhao Li"
+        },
+        {
+          "authorId": "2130193930",
+          "name": "Yiting Liu"
+        },
+        {
+          "authorId": "2218007936",
+          "name": "Yuhao Liu"
+        }
+      ]
+    },
+    {
+      "paperId": "8e83a569490cf17abccac80c2db0b3cbcc9c17a6",
+      "externalIds": {
+        "DBLP": "conf/kdd/LeiberBSBP21",
+        "DOI": "10.1145/3447548.3467316",
+        "CorpusId": 236980202
+      },
+      "url": "https://www.semanticscholar.org/paper/8e83a569490cf17abccac80c2db0b3cbcc9c17a6",
+      "title": "Dip-based Deep Embedded Clustering with k-Estimation",
+      "venue": "Knowledge Discovery and Data Mining",
+      "year": 2021,
+      "referenceCount": 29,
+      "citationCount": 28,
+      "authors": [
+        {
+          "authorId": "2123019789",
+          "name": "Collin Leiber"
+        },
+        {
+          "authorId": "104355799",
+          "name": "L. G. M. Bauer"
+        },
+        {
+          "authorId": "8847346",
+          "name": "B. Schelling"
+        },
+        {
+          "authorId": "2057274375",
+          "name": "Christian Böhm"
+        },
+        {
+          "authorId": "144372623",
+          "name": "C. Plant"
+        }
+      ]
+    },
+    {
+      "paperId": "89f5bda44bb99bbe333ade0eff658437e4f108fc",
+      "externalIds": {
+        "MAG": "2912759868",
+        "DBLP": "conf/bigdataconf/Dahal18",
+        "DOI": "10.1109/BigData.2018.8622629",
+        "CorpusId": 59236345
+      },
+      "url": "https://www.semanticscholar.org/paper/89f5bda44bb99bbe333ade0eff658437e4f108fc",
+      "title": "Learning Embedding Space for Clustering From Deep Representations",
+      "venue": "2018 IEEE International Conference on Big Data (Big Data)",
+      "year": 2018,
+      "referenceCount": 31,
+      "citationCount": 22,
+      "authors": [
+        {
+          "authorId": "2342728525",
+          "name": "Paras Dahal"
+        }
+      ]
+    },
+    {
+      "paperId": "0bc8849275aec0559b45afd2490f8e42f1502742",
+      "externalIds": {
+        "MAG": "2911594054",
+        "DBLP": "journals/corr/abs-1901-10254",
+        "ArXiv": "1901.10254",
+        "CorpusId": 59336122
+      },
+      "url": "https://www.semanticscholar.org/paper/0bc8849275aec0559b45afd2490f8e42f1502742",
+      "title": "Learning for Multi-Model and Multi-Type Fitting",
+      "venue": "arXiv.org",
+      "year": 2019,
+      "referenceCount": 61,
+      "citationCount": 5,
+      "authors": [
+        {
+          "authorId": "2038457977",
+          "name": "Xun Xu"
+        },
+        {
+          "authorId": "6835136",
+          "name": "L. Cheong"
+        },
+        {
+          "authorId": "3119455",
+          "name": "Zhuwen Li"
+        }
+      ]
+    },
+    {
+      "paperId": "baa84c32476281ab119ec1449b8727a92636bdb3",
+      "externalIds": {
+        "ArXiv": "2107.03852",
+        "DBLP": "journals/corr/abs-2107-03852",
+        "CorpusId": 235765528
+      },
+      "url": "https://www.semanticscholar.org/paper/baa84c32476281ab119ec1449b8727a92636bdb3",
+      "title": "Augmented Data as an Auxiliary Plug-in Towards Categorization of Crowdsourced Heritage Data",
+      "venue": "arXiv.org",
+      "year": 2021,
+      "referenceCount": 19,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "2117637866",
+          "name": "S. V. Kudari"
+        },
+        {
+          "authorId": "2117637834",
+          "name": "Akshaykumar Gunari"
+        },
+        {
+          "authorId": "2078869536",
+          "name": "Adarsh Jamadandi"
+        },
+        {
+          "authorId": "9141151",
+          "name": "R. Tabib"
+        },
+        {
+          "authorId": "2938896",
+          "name": "U. Mudenagudi"
+        }
+      ]
+    },
+    {
+      "paperId": "38efd9d1578a0ae75fa98eea90962a6afeaad155",
+      "externalIds": {
+        "CorpusId": 18856993
+      },
+      "url": "https://www.semanticscholar.org/paper/38efd9d1578a0ae75fa98eea90962a6afeaad155",
+      "title": "Production Rates and Spin Temperatures of Volatiles in Comet C / 2007 N 3 ( Lulin )",
+      "venue": "",
+      "year": 2011,
+      "referenceCount": 5,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2072960706",
+          "name": "M. Dennis"
+        },
+        {
+          "authorId": "5947496",
+          "name": "E. Gibb"
+        }
+      ]
+    }
+  ]
+}

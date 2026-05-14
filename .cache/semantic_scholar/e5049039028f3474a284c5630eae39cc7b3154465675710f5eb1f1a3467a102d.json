@@ -1,0 +1,313 @@
+{
+  "total": 86,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "57fae54a8252e6a2acb211616a3a0d66553a758e",
+      "externalIds": {
+        "MAG": "2626580042",
+        "ArXiv": "1609.08326",
+        "DBLP": "conf/icml/ZhengMWCYML17",
+        "CorpusId": 3713670
+      },
+      "url": "https://www.semanticscholar.org/paper/57fae54a8252e6a2acb211616a3a0d66553a758e",
+      "title": "Asynchronous Stochastic Gradient Descent with Delay Compensation",
+      "venue": "International Conference on Machine Learning",
+      "year": 2016,
+      "referenceCount": 41,
+      "citationCount": 346,
+      "authors": [
+        {
+          "authorId": "150311931",
+          "name": "Shuxin Zheng"
+        },
+        {
+          "authorId": "47580728",
+          "name": "Qi Meng"
+        },
+        {
+          "authorId": null,
+          "name": "Taifeng Wang"
+        },
+        {
+          "authorId": null,
+          "name": "Wei Chen"
+        },
+        {
+          "authorId": "1708598",
+          "name": "Nenghai Yu"
+        },
+        {
+          "authorId": "2873524",
+          "name": "Zhiming Ma"
+        },
+        {
+          "authorId": "2110264337",
+          "name": "Tie-Yan Liu"
+        }
+      ]
+    },
+    {
+      "paperId": "037b399b25b89c3b61acab93807479a799d880cd",
+      "externalIds": {
+        "CorpusId": 35401215
+      },
+      "url": "https://www.semanticscholar.org/paper/037b399b25b89c3b61acab93807479a799d880cd",
+      "title": "Material : Asynchronous Stochastic Gradient Descent with Delay Compensation",
+      "venue": "",
+      "year": 2017,
+      "referenceCount": 5,
+      "citationCount": 1,
+      "authors": []
+    },
+    {
+      "paperId": "a0a5fe00a4bf64124e94574d7450158e07aa280c",
+      "externalIds": {
+        "DOI": "10.1109/IAICT55358.2022.9887513",
+        "CorpusId": 252312044
+      },
+      "url": "https://www.semanticscholar.org/paper/a0a5fe00a4bf64124e94574d7450158e07aa280c",
+      "title": "A Stochastic Asynchronous Gradient Descent Algorithm with Delay Compensation Mechanism",
+      "venue": "2022 IEEE International Conference on Industry 4.0, Artificial Intelligence, and Communications Technology (IAICT)",
+      "year": 2022,
+      "referenceCount": 23,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2185267710",
+          "name": "Tianyu Zhang"
+        },
+        {
+          "authorId": "2156842556",
+          "name": "Tianhan Gao"
+        },
+        {
+          "authorId": "1412854279",
+          "name": "Qingwei Mi"
+        }
+      ]
+    },
+    {
+      "paperId": "eb1b73c2b2cec40749094e15d40d5145a4be6ef6",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2101-07259",
+        "ArXiv": "2101.07259",
+        "DOI": "10.1016/j.asoc.2021.107084",
+        "CorpusId": 231639465
+      },
+      "url": "https://www.semanticscholar.org/paper/eb1b73c2b2cec40749094e15d40d5145a4be6ef6",
+      "title": "Guided parallelized stochastic gradient descent for delay compensation",
+      "venue": "Applied Soft Computing",
+      "year": 2021,
+      "referenceCount": 34,
+      "citationCount": 28,
+      "authors": [
+        {
+          "authorId": "2109669813",
+          "name": "Anuraganand Sharma"
+        }
+      ]
+    },
+    {
+      "paperId": "7d0cef4a6ba92544964ea1393f33f2f1ab810317",
+      "externalIds": {
+        "DBLP": "conf/icpp/LiHRM20",
+        "MAG": "3048338200",
+        "DOI": "10.1145/3404397.3404432",
+        "CorpusId": 221106129
+      },
+      "url": "https://www.semanticscholar.org/paper/7d0cef4a6ba92544964ea1393f33f2f1ab810317",
+      "title": "Developing a Loss Prediction-based Asynchronous Stochastic Gradient Descent Algorithm for Distributed Training of Deep Neural Networks",
+      "venue": "International Conference on Parallel Processing",
+      "year": 2020,
+      "referenceCount": 31,
+      "citationCount": 4,
+      "authors": [
+        {
+          "authorId": "2108933569",
+          "name": "Junyu Li"
+        },
+        {
+          "authorId": "1683219",
+          "name": "Ligang He"
+        },
+        {
+          "authorId": "9872674",
+          "name": "Shenyuan Ren"
+        },
+        {
+          "authorId": "151498912",
+          "name": "Rui Mao"
+        }
+      ]
+    },
+    {
+      "paperId": "e34d881180e918a71a68c45a3bfe08a3781203a8",
+      "externalIds": {
+        "DBLP": "conf/ispa/GuanSYXZ17",
+        "MAG": "2806991962",
+        "DOI": "10.1109/ISPA/IUCC.2017.00130",
+        "CorpusId": 44135725
+      },
+      "url": "https://www.semanticscholar.org/paper/e34d881180e918a71a68c45a3bfe08a3781203a8",
+      "title": "Delay Compensated Asynchronous Adam Algorithm for Deep Neural Networks",
+      "venue": "2017 IEEE International Symposium on Parallel and Distributed Processing with Applications and 2017 IEEE International Conference on Ubiquitous Computing and Communications (ISPA/IUCC)",
+      "year": 2017,
+      "referenceCount": 20,
+      "citationCount": 11,
+      "authors": [
+        {
+          "authorId": "145542203",
+          "name": "Naiyang Guan"
+        },
+        {
+          "authorId": "2075460295",
+          "name": "Lei Shan"
+        },
+        {
+          "authorId": "1806026",
+          "name": "Canqun Yang"
+        },
+        {
+          "authorId": "2228830382",
+          "name": "Weixia Xu"
+        },
+        {
+          "authorId": "2141543204",
+          "name": "Minxu Zhang"
+        }
+      ]
+    },
+    {
+      "paperId": "4958c663e74ad7da812bab31b8bd404c848fac4f",
+      "externalIds": {
+        "DBLP": "journals/tsg/LinM022",
+        "DOI": "10.1109/tsg.2021.3125677",
+        "CorpusId": 243953827
+      },
+      "url": "https://www.semanticscholar.org/paper/4958c663e74ad7da812bab31b8bd404c848fac4f",
+      "title": "Privacy-Preserving Household Characteristic Identification With Federated Learning Method",
+      "venue": "IEEE Transactions on Smart Grid",
+      "year": 2022,
+      "referenceCount": 0,
+      "citationCount": 32,
+      "authors": [
+        {
+          "authorId": "2144488477",
+          "name": "Jun Lin"
+        },
+        {
+          "authorId": "2158083255",
+          "name": "Jin Ma"
+        },
+        {
+          "authorId": "2146281461",
+          "name": "Jianguo Zhu"
+        }
+      ]
+    },
+    {
+      "paperId": "215554249ec669538abcbc2adb4305edf7c79acc",
+      "externalIds": {
+        "DBLP": "journals/tsp/YuCP25",
+        "ArXiv": "2406.11159",
+        "DOI": "10.1109/TSP.2025.3546574",
+        "CorpusId": 270560349
+      },
+      "url": "https://www.semanticscholar.org/paper/215554249ec669538abcbc2adb4305edf7c79acc",
+      "title": "Distributed Stochastic Gradient Descent With Staleness: A Stochastic Delay Differential Equation Based Framework",
+      "venue": "IEEE Transactions on Signal Processing",
+      "year": 2024,
+      "referenceCount": 73,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2276746592",
+          "name": "Si‐cong Yu"
+        },
+        {
+          "authorId": "2227117369",
+          "name": "L. F. I. H. Vincent Poor"
+        },
+        {
+          "authorId": "2322707265",
+          "name": "Wei Chen"
+        },
+        {
+          "authorId": "2379562031",
+          "name": "AsynchronousSGD"
+        }
+      ]
+    },
+    {
+      "paperId": "c0917c59b30844a56b0452e13fbb7c2855ce9a12",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2106-10796",
+        "ArXiv": "2106.10796",
+        "DOI": "10.1145/3472456.3472508",
+        "CorpusId": 235489786
+      },
+      "url": "https://www.semanticscholar.org/paper/c0917c59b30844a56b0452e13fbb7c2855ce9a12",
+      "title": "CD-SGD: Distributed Stochastic Gradient Descent with Compression and Delay Compensation",
+      "venue": "International Conference on Parallel Processing",
+      "year": 2021,
+      "referenceCount": 44,
+      "citationCount": 6,
+      "authors": [
+        {
+          "authorId": "2113956524",
+          "name": "Enda Yu"
+        },
+        {
+          "authorId": "39891717",
+          "name": "Dezun Dong"
+        },
+        {
+          "authorId": "3450366",
+          "name": "Yemao Xu"
+        },
+        {
+          "authorId": "2074816662",
+          "name": "Shuo Ouyang"
+        },
+        {
+          "authorId": "144078016",
+          "name": "Xiangke Liao"
+        }
+      ]
+    },
+    {
+      "paperId": "cf1f730e25a066a811779c9385738312f78d8a7e",
+      "externalIds": {
+        "DBLP": "conf/infocom/AhmedGWS25",
+        "DOI": "10.1109/INFOCOM55648.2025.11044686",
+        "CorpusId": 279801590
+      },
+      "url": "https://www.semanticscholar.org/paper/cf1f730e25a066a811779c9385738312f78d8a7e",
+      "title": "Communication Efficient Asynchronous Stochastic Gradient Descent",
+      "venue": "IEEE Conference on Computer Communications",
+      "year": 2025,
+      "referenceCount": 39,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "144736087",
+          "name": "Youssef Ahmed"
+        },
+        {
+          "authorId": "2301118583",
+          "name": "Arnob Ghosh"
+        },
+        {
+          "authorId": "2276738934",
+          "name": "Chih-Chun Wang"
+        },
+        {
+          "authorId": "2283793894",
+          "name": "N. Shroff"
+        }
+      ]
+    }
+  ]
+}

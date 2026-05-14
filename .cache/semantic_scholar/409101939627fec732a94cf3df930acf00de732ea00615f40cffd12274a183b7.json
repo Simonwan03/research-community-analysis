@@ -1,0 +1,300 @@
+{
+  "total": 36,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "085c001e87f1d6a5d2a91371135ada990024db70",
+      "externalIds": {
+        "MAG": "2395737356",
+        "DBLP": "journals/corr/AroraGKMM16",
+        "ArXiv": "1605.08491",
+        "CorpusId": 11206025
+      },
+      "url": "https://www.semanticscholar.org/paper/085c001e87f1d6a5d2a91371135ada990024db70",
+      "title": "Provable Algorithms for Inference in Topic Models",
+      "venue": "International Conference on Machine Learning",
+      "year": 2016,
+      "referenceCount": 19,
+      "citationCount": 30,
+      "authors": [
+        {
+          "authorId": "145563465",
+          "name": "Sanjeev Arora"
+        },
+        {
+          "authorId": "144804200",
+          "name": "Rong Ge"
+        },
+        {
+          "authorId": "16491765",
+          "name": "Frederic Koehler"
+        },
+        {
+          "authorId": "1901958",
+          "name": "Tengyu Ma"
+        },
+        {
+          "authorId": "1690962",
+          "name": "Ankur Moitra"
+        }
+      ]
+    },
+    {
+      "paperId": "1253738b07a51a2b1ac6af5e15e228f3b589825a",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2506-07747",
+        "ArXiv": "2506.07747",
+        "DOI": "10.48550/arXiv.2506.07747",
+        "CorpusId": 279250403
+      },
+      "url": "https://www.semanticscholar.org/paper/1253738b07a51a2b1ac6af5e15e228f3b589825a",
+      "title": "E-LDA: Toward Interpretable LDA Topic Models with Strong Guarantees in Logarithmic Parallel Time",
+      "venue": "International Conference on Machine Learning",
+      "year": 2025,
+      "referenceCount": 86,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2366066927",
+          "name": "Adam Breuer"
+        }
+      ]
+    },
+    {
+      "paperId": "6e60bad5c1d7ca0f47bbe8bc93cf5ca540e0d15c",
+      "externalIds": {
+        "DBLP": "conf/aistats/LeeBM20",
+        "MAG": "3037345026",
+        "CorpusId": 220093124
+      },
+      "url": "https://www.semanticscholar.org/paper/6e60bad5c1d7ca0f47bbe8bc93cf5ca540e0d15c",
+      "title": "Prior-aware Composition Inference for Spectral Topic Models",
+      "venue": "International Conference on Artificial Intelligence and Statistics",
+      "year": 2020,
+      "referenceCount": 36,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "3056520",
+          "name": "Moontae Lee"
+        },
+        {
+          "authorId": "1752264",
+          "name": "D. Bindel"
+        },
+        {
+          "authorId": "38917723",
+          "name": "David M. Mimno"
+        }
+      ]
+    },
+    {
+      "paperId": "d0740c972f379f0cd3b21562eb0efe8568d47706",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-1711-07065",
+        "ArXiv": "1711.07065",
+        "MAG": "2770143306",
+        "CorpusId": 5638501
+      },
+      "url": "https://www.semanticscholar.org/paper/d0740c972f379f0cd3b21562eb0efe8568d47706",
+      "title": "Prior-aware Dual Decomposition: Document-specific Topic Inference for Spectral Topic Models",
+      "venue": "arXiv.org",
+      "year": 2017,
+      "referenceCount": 34,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "3056520",
+          "name": "Moontae Lee"
+        },
+        {
+          "authorId": "1752264",
+          "name": "D. Bindel"
+        },
+        {
+          "authorId": "1705700",
+          "name": "David Mimno"
+        }
+      ]
+    },
+    {
+      "paperId": "0b18c653f299bc4633f07e5000cd593b28249a90",
+      "externalIds": {
+        "MAG": "2145793605",
+        "DOI": "10.1109/SSP.2011.5967677",
+        "CorpusId": 17538297
+      },
+      "url": "https://www.semanticscholar.org/paper/0b18c653f299bc4633f07e5000cd593b28249a90",
+      "title": "On provable exact low-rank recovery in topic models",
+      "venue": "Symposium on Software Performance",
+      "year": 2011,
+      "referenceCount": 9,
+      "citationCount": 9,
+      "authors": [
+        {
+          "authorId": "2476091",
+          "name": "Behrouz Behmardi"
+        },
+        {
+          "authorId": "1911921",
+          "name": "R. Raich"
+        }
+      ]
+    },
+    {
+      "paperId": "5f5583a71d5ce4f8d529a5e5385c2686dfe6b929",
+      "externalIds": {
+        "MAG": "2952923260",
+        "ArXiv": "1602.06025",
+        "DBLP": "journals/pami/RenWZ18",
+        "DOI": "10.1109/TPAMI.2017.2682085",
+        "CorpusId": 3399406,
+        "PubMed": "28320652"
+      },
+      "url": "https://www.semanticscholar.org/paper/5f5583a71d5ce4f8d529a5e5385c2686dfe6b929",
+      "title": "Spectral Learning for Supervised Topic Models",
+      "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+      "year": 2016,
+      "referenceCount": 35,
+      "citationCount": 12,
+      "authors": [
+        {
+          "authorId": "2335619764",
+          "name": "Yong Ren"
+        },
+        {
+          "authorId": "2389969549",
+          "name": "Yining Wang"
+        },
+        {
+          "authorId": "145254043",
+          "name": "Jun Zhu"
+        }
+      ]
+    },
+    {
+      "paperId": "b2701e9dbf744275d5717b0a66ca8973f3fbb6c2",
+      "externalIds": {
+        "CorpusId": 9054538
+      },
+      "url": "https://www.semanticscholar.org/paper/b2701e9dbf744275d5717b0a66ca8973f3fbb6c2",
+      "title": "From Correlation to Hierarchy : Practical Topic Modeling via Spectral Inference",
+      "venue": "",
+      "year": 2017,
+      "referenceCount": 28,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "3056520",
+          "name": "Moontae Lee"
+        }
+      ]
+    },
+    {
+      "paperId": "b535a37fe6c1ebde98fad91ddc339f6ba09c5532",
+      "externalIds": {
+        "MAG": "2952307387",
+        "ArXiv": "1212.4777",
+        "DBLP": "conf/icml/AroraGHMMSWZ13",
+        "CorpusId": 9220219
+      },
+      "url": "https://www.semanticscholar.org/paper/b535a37fe6c1ebde98fad91ddc339f6ba09c5532",
+      "title": "A Practical Algorithm for Topic Modeling with Provable Guarantees",
+      "venue": "International Conference on Machine Learning",
+      "year": 2012,
+      "referenceCount": 32,
+      "citationCount": 457,
+      "authors": [
+        {
+          "authorId": "145563465",
+          "name": "Sanjeev Arora"
+        },
+        {
+          "authorId": "144804200",
+          "name": "Rong Ge"
+        },
+        {
+          "authorId": "46641130",
+          "name": "Yoni Halpern"
+        },
+        {
+          "authorId": "1705700",
+          "name": "David Mimno"
+        },
+        {
+          "authorId": "1690962",
+          "name": "Ankur Moitra"
+        },
+        {
+          "authorId": "1746662",
+          "name": "D. Sontag"
+        },
+        {
+          "authorId": "2107976275",
+          "name": "Yichen Wu"
+        },
+        {
+          "authorId": "144298114",
+          "name": "Michael Zhu"
+        }
+      ]
+    },
+    {
+      "paperId": "6ff97ebb250d3136d99558a8721b7b84811c72c2",
+      "externalIds": {
+        "MAG": "188727147",
+        "DBLP": "conf/pkdd/WangLSH14",
+        "DOI": "10.1007/978-3-662-44845-8_19",
+        "CorpusId": 338183
+      },
+      "url": "https://www.semanticscholar.org/paper/6ff97ebb250d3136d99558a8721b7b84811c72c2",
+      "title": "Scalable Moment-Based Inference for Latent Dirichlet Allocation",
+      "venue": "ECML/PKDD",
+      "year": 2014,
+      "referenceCount": 27,
+      "citationCount": 7,
+      "authors": [
+        {
+          "authorId": "2116625588",
+          "name": "Chi Wang"
+        },
+        {
+          "authorId": "1908282",
+          "name": "Xueqing Liu"
+        },
+        {
+          "authorId": "1947447",
+          "name": "Yanglei Song"
+        },
+        {
+          "authorId": "145325584",
+          "name": "Jiawei Han"
+        }
+      ]
+    },
+    {
+      "paperId": "f9eaeb446e24831122cc01d358ef7803788f0029",
+      "externalIds": {
+        "MAG": "2214164640",
+        "CorpusId": 124463767
+      },
+      "url": "https://www.semanticscholar.org/paper/f9eaeb446e24831122cc01d358ef7803788f0029",
+      "title": "Guaranteed algorithms for inference in topic models",
+      "venue": "",
+      "year": 2015,
+      "referenceCount": 19,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "38685176",
+          "name": "Khoat Than"
+        },
+        {
+          "authorId": "2119515",
+          "name": "Tung Doan"
+        }
+      ]
+    }
+  ]
+}

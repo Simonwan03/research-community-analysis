@@ -1,0 +1,302 @@
+{
+  "total": 239,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "7696acd368c86a7591fee77f156b401103c03f74",
+      "externalIds": {
+        "DBLP": "conf/icml/YouV15",
+        "MAG": "1826223126",
+        "CorpusId": 17929434
+      },
+      "url": "https://www.semanticscholar.org/paper/7696acd368c86a7591fee77f156b401103c03f74",
+      "title": "Geometric Conditions for Subspace-Sparse Recovery",
+      "venue": "International Conference on Machine Learning",
+      "year": 2015,
+      "referenceCount": 25,
+      "citationCount": 51,
+      "authors": [
+        {
+          "authorId": "1878841",
+          "name": "Chong You"
+        },
+        {
+          "authorId": "144020730",
+          "name": "R. Vidal"
+        }
+      ]
+    },
+    {
+      "paperId": "b79f9b17a70965aeded41f2d9283b37e38b17804",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-1808-05965",
+        "MAG": "2886216085",
+        "ArXiv": "1808.05965",
+        "DOI": "10.1109/JSTSP.2018.2867446",
+        "CorpusId": 52046188
+      },
+      "url": "https://www.semanticscholar.org/paper/b79f9b17a70965aeded41f2d9283b37e38b17804",
+      "title": "On Geometric Analysis of Affine Sparse Subspace Clustering",
+      "venue": "IEEE Journal on Selected Topics in Signal Processing",
+      "year": 2018,
+      "referenceCount": 55,
+      "citationCount": 35,
+      "authors": [
+        {
+          "authorId": "9171002",
+          "name": "Chun-Guang Li"
+        },
+        {
+          "authorId": "1878841",
+          "name": "Chong You"
+        },
+        {
+          "authorId": "144020730",
+          "name": "R. Vidal"
+        }
+      ]
+    },
+    {
+      "paperId": "801d146e2d87cc1b32c665bbe21574c70a52ca32",
+      "externalIds": {
+        "DBLP": "conf/icml/KabaYRMV21",
+        "CorpusId": 234599016
+      },
+      "url": "https://www.semanticscholar.org/paper/801d146e2d87cc1b32c665bbe21574c70a52ca32",
+      "title": "A Nullspace Property for Subspace-Preserving Recovery",
+      "venue": "International Conference on Machine Learning",
+      "year": 2021,
+      "referenceCount": 28,
+      "citationCount": 6,
+      "authors": [
+        {
+          "authorId": "143732881",
+          "name": "M. Kaba"
+        },
+        {
+          "authorId": "1878841",
+          "name": "Chong You"
+        },
+        {
+          "authorId": "1780452",
+          "name": "Daniel P. Robinson"
+        },
+        {
+          "authorId": "1706983",
+          "name": "Enrique Mallada"
+        },
+        {
+          "authorId": "144020730",
+          "name": "R. Vidal"
+        }
+      ]
+    },
+    {
+      "paperId": "d321103a74e727faa7f0f99c0b54a83058af323c",
+      "externalIds": {
+        "ArXiv": "2203.04886",
+        "CorpusId": 247318880
+      },
+      "url": "https://www.semanticscholar.org/paper/d321103a74e727faa7f0f99c0b54a83058af323c",
+      "title": "Reverse Engineering $\\ell_p$ attacks: A block-sparse optimization approach with recovery guarantees",
+      "venue": "",
+      "year": 2022,
+      "referenceCount": 60,
+      "citationCount": 9,
+      "authors": [
+        {
+          "authorId": "40494989",
+          "name": "D. Thaker"
+        },
+        {
+          "authorId": "3449986",
+          "name": "Paris V. Giampouras"
+        },
+        {
+          "authorId": "144020730",
+          "name": "R. Vidal"
+        }
+      ]
+    },
+    {
+      "paperId": "23c43ad0bbaba03fe433f623eb5203614808923c",
+      "externalIds": {
+        "ArXiv": "1507.01307",
+        "DBLP": "journals/corr/YouV15a",
+        "MAG": "2258058088",
+        "CorpusId": 8650707
+      },
+      "url": "https://www.semanticscholar.org/paper/23c43ad0bbaba03fe433f623eb5203614808923c",
+      "title": "Subspace-Sparse Representation",
+      "venue": "arXiv.org",
+      "year": 2015,
+      "referenceCount": 54,
+      "citationCount": 6,
+      "authors": [
+        {
+          "authorId": "1878841",
+          "name": "Chong You"
+        },
+        {
+          "authorId": "144020730",
+          "name": "R. Vidal"
+        }
+      ]
+    },
+    {
+      "paperId": "0823b64ca94acb249143b98ce2f7012a8ab3cf98",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2006-05158",
+        "MAG": "3034425757",
+        "ArXiv": "2006.05158",
+        "DOI": "10.1016/j.acha.2021.06.008",
+        "CorpusId": 219558414
+      },
+      "url": "https://www.semanticscholar.org/paper/0823b64ca94acb249143b98ce2f7012a8ab3cf98",
+      "title": "Homomorphic Sensing of Subspace Arrangements",
+      "venue": "arXiv.org",
+      "year": 2020,
+      "referenceCount": 70,
+      "citationCount": 13,
+      "authors": [
+        {
+          "authorId": "51464026",
+          "name": "Liangzu Peng"
+        },
+        {
+          "authorId": "7425689",
+          "name": "Boshi Wang"
+        },
+        {
+          "authorId": "2900173",
+          "name": "M. Tsakiris"
+        }
+      ]
+    },
+    {
+      "paperId": "5fa8fd1a0ede9e9cb6c9452bf998f0d194f054a3",
+      "externalIds": {
+        "ArXiv": "2407.07436",
+        "CorpusId": 271088653
+      },
+      "url": "https://www.semanticscholar.org/paper/5fa8fd1a0ede9e9cb6c9452bf998f0d194f054a3",
+      "title": "Alternating Subspace Method for Sparse Recovery of Signals",
+      "venue": "",
+      "year": 2024,
+      "referenceCount": 39,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2406183833",
+          "name": "Xu Zhu"
+        },
+        {
+          "authorId": "2292121299",
+          "name": "Yufei Ma"
+        },
+        {
+          "authorId": "2108181939",
+          "name": "Xiaoguang Li"
+        },
+        {
+          "authorId": "2310653645",
+          "name": "Tiejun Li"
+        }
+      ]
+    },
+    {
+      "paperId": "4fdfbaf8b6d36942c12ae72a68cf4d3bbef40c2e",
+      "externalIds": {
+        "DOI": "10.1109/SPCT68223.2025.11406827",
+        "CorpusId": 286133621
+      },
+      "url": "https://www.semanticscholar.org/paper/4fdfbaf8b6d36942c12ae72a68cf4d3bbef40c2e",
+      "title": "STAP Algorithm Based on Subspace Sparse Bayesian Learning",
+      "venue": "2025 International Conference on Signal Processing and Communication Technology (SPCT)",
+      "year": 2025,
+      "referenceCount": 18,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2363286202",
+          "name": "Huihan Wang"
+        },
+        {
+          "authorId": "2395598328",
+          "name": "Bosen Jiang"
+        },
+        {
+          "authorId": "2356995624",
+          "name": "Bin Liu"
+        },
+        {
+          "authorId": "2287982184",
+          "name": "Pan-long Wu"
+        }
+      ]
+    },
+    {
+      "paperId": "19c83137746239ecc1d0842a9a4a31ab4b7be95f",
+      "externalIds": {
+        "DOI": "10.1109/EIT67313.2025.11231838",
+        "CorpusId": 283014946
+      },
+      "url": "https://www.semanticscholar.org/paper/19c83137746239ecc1d0842a9a4a31ab4b7be95f",
+      "title": "Sparse Recovery Algorithm Based on Array Manifold Knowledge",
+      "venue": "IEEE International Conference on Electro/Information Technology",
+      "year": 2025,
+      "referenceCount": 5,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2379368714",
+          "name": "Hao Xu"
+        },
+        {
+          "authorId": "2281105577",
+          "name": "Aifang Liu"
+        },
+        {
+          "authorId": "2281125983",
+          "name": "Chaowei Zhou"
+        },
+        {
+          "authorId": "2111142312",
+          "name": "Long Huang"
+        }
+      ]
+    },
+    {
+      "paperId": "482fac47ed42a92fc6195258c14cf09de98f2a2d",
+      "externalIds": {
+        "DOI": "10.1088/1402-4896/ae19aa",
+        "CorpusId": 282678616
+      },
+      "url": "https://www.semanticscholar.org/paper/482fac47ed42a92fc6195258c14cf09de98f2a2d",
+      "title": "Blind weighted fusion and overlapping subband methods for cooperative sparse recovery in compressed sensing",
+      "venue": "Physica Scripta",
+      "year": 2025,
+      "referenceCount": 0,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "119665084",
+          "name": "Hadj Abdelkader BENZATER"
+        },
+        {
+          "authorId": "2157368797",
+          "name": "D. Teguig"
+        },
+        {
+          "authorId": "28102966",
+          "name": "Nacerredine Lassami"
+        },
+        {
+          "authorId": "2003258737",
+          "name": "Hamza Zeraoula"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,340 @@
+{
+  "total": 3394,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "73e8633886dc380a46fc02f2e1ec5bf68dba0734",
+      "externalIds": {
+        "MAG": "2173681125",
+        "DBLP": "journals/corr/MiaoYB15",
+        "ArXiv": "1511.06038",
+        "CorpusId": 10796
+      },
+      "url": "https://www.semanticscholar.org/paper/73e8633886dc380a46fc02f2e1ec5bf68dba0734",
+      "title": "Neural Variational Inference for Text Processing",
+      "venue": "International Conference on Machine Learning",
+      "year": 2015,
+      "referenceCount": 51,
+      "citationCount": 671,
+      "authors": [
+        {
+          "authorId": "2666898",
+          "name": "Yishu Miao"
+        },
+        {
+          "authorId": "2109352263",
+          "name": "Lei Yu"
+        },
+        {
+          "authorId": "1685771",
+          "name": "Phil Blunsom"
+        }
+      ]
+    },
+    {
+      "paperId": "e938c9fadb33447327998d3323b12f0ac4450743",
+      "externalIds": {
+        "DBLP": "conf/emnlp/SerbanOPC17",
+        "ACL": "W17-4308",
+        "DOI": "10.18653/v1/W17-4308",
+        "CorpusId": 20995314
+      },
+      "url": "https://www.semanticscholar.org/paper/e938c9fadb33447327998d3323b12f0ac4450743",
+      "title": "Piecewise Latent Variables for Neural Variational Text Processing",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2017,
+      "referenceCount": 58,
+      "citationCount": 33,
+      "authors": [
+        {
+          "authorId": "35224828",
+          "name": "Iulian Serban"
+        },
+        {
+          "authorId": "3038767",
+          "name": "Alexander Ororbia"
+        },
+        {
+          "authorId": "145134886",
+          "name": "Joelle Pineau"
+        },
+        {
+          "authorId": "1760871",
+          "name": "Aaron C. Courville"
+        }
+      ]
+    },
+    {
+      "paperId": "eed3ef82e31ffca85163501ea3f0fac331e3c0bc",
+      "externalIds": {
+        "ArXiv": "1612.00377",
+        "MAG": "2950958503",
+        "ACL": "D17-1043",
+        "DOI": "10.18653/v1/D17-1043",
+        "CorpusId": 267864006
+      },
+      "url": "https://www.semanticscholar.org/paper/eed3ef82e31ffca85163501ea3f0fac331e3c0bc",
+      "title": "Piecewise Latent Variables for Neural Variational Text Processing",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2016,
+      "referenceCount": 62,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "35224828",
+          "name": "Iulian Serban"
+        },
+        {
+          "authorId": "3038767",
+          "name": "Alexander Ororbia"
+        },
+        {
+          "authorId": "2281941987",
+          "name": "J. Pineau"
+        },
+        {
+          "authorId": "2285877959",
+          "name": "Aaron Courville"
+        }
+      ]
+    },
+    {
+      "paperId": "f382e3be7b13eb319ba982dac599a315699d39b7",
+      "externalIds": {
+        "MAG": "3006292500",
+        "DBLP": "conf/ictai/LiTJZ19",
+        "DOI": "10.1109/ICTAI.2019.00195",
+        "CorpusId": 211208741
+      },
+      "url": "https://www.semanticscholar.org/paper/f382e3be7b13eb319ba982dac599a315699d39b7",
+      "title": "A New Effective Neural Variational Model with Mixture-of-Gaussians Prior for Text Clustering",
+      "venue": "IEEE International Conference on Tools with Artificial Intelligence",
+      "year": 2019,
+      "referenceCount": 17,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "2143544766",
+          "name": "Miao Li"
+        },
+        {
+          "authorId": "3449368",
+          "name": "Hongyin Tang"
+        },
+        {
+          "authorId": "145982322",
+          "name": "Beihong Jin"
+        },
+        {
+          "authorId": "2423168",
+          "name": "Chengqing Zong"
+        }
+      ]
+    },
+    {
+      "paperId": "2f14e3b459dc78868851c372ae00a74519c3e1f4",
+      "externalIds": {
+        "MAG": "2144148101",
+        "DBLP": "conf/nips/WangB09",
+        "CorpusId": 9893225
+      },
+      "url": "https://www.semanticscholar.org/paper/2f14e3b459dc78868851c372ae00a74519c3e1f4",
+      "title": "Variational Inference for the Nested Chinese Restaurant Process",
+      "venue": "Neural Information Processing Systems",
+      "year": 2009,
+      "referenceCount": 29,
+      "citationCount": 71,
+      "authors": [
+        {
+          "authorId": "2108881999",
+          "name": "Chong Wang"
+        },
+        {
+          "authorId": "1796335",
+          "name": "D. Blei"
+        }
+      ]
+    },
+    {
+      "paperId": "d3349e112c57d6517922ff14022700a92b8d16c5",
+      "externalIds": {
+        "DBLP": "conf/iconip/SuYGFX18",
+        "MAG": "2901514383",
+        "DOI": "10.1007/978-3-030-04221-9_49",
+        "CorpusId": 54445182
+      },
+      "url": "https://www.semanticscholar.org/paper/d3349e112c57d6517922ff14022700a92b8d16c5",
+      "title": "Integrating Topic Information into VAE for Text Semantic Similarity",
+      "venue": "International Conference on Neural Information Processing",
+      "year": 2018,
+      "referenceCount": 29,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2106353648",
+          "name": "Xiangdong Su"
+        },
+        {
+          "authorId": "2055862923",
+          "name": "Rong Yan"
+        },
+        {
+          "authorId": "2053584575",
+          "name": "Zheng Gong"
+        },
+        {
+          "authorId": "49978809",
+          "name": "Yujiao Fu"
+        },
+        {
+          "authorId": "2116817554",
+          "name": "Heng Xu"
+        }
+      ]
+    },
+    {
+      "paperId": "fb3a2ba6cedaeb56a8cac9c61be8fee58efe6de3",
+      "externalIds": {
+        "DBLP": "conf/emnlp/LiLBW17",
+        "MAG": "2953168555",
+        "ArXiv": "1708.00625",
+        "ACL": "D17-1222",
+        "DOI": "10.18653/v1/D17-1222",
+        "CorpusId": 1508909
+      },
+      "url": "https://www.semanticscholar.org/paper/fb3a2ba6cedaeb56a8cac9c61be8fee58efe6de3",
+      "title": "Deep Recurrent Generative Decoder for Abstractive Text Summarization",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2017,
+      "referenceCount": 43,
+      "citationCount": 217,
+      "authors": [
+        {
+          "authorId": "2193560",
+          "name": "Piji Li"
+        },
+        {
+          "authorId": "144594306",
+          "name": "Wai Lam"
+        },
+        {
+          "authorId": "1996394",
+          "name": "Lidong Bing"
+        },
+        {
+          "authorId": "1390879204",
+          "name": "Zihao Wang"
+        }
+      ]
+    },
+    {
+      "paperId": "2e152759fcd505fcbd914243411b005b51edee22",
+      "externalIds": {
+        "DBLP": "conf/nips/RezaeeF20",
+        "ArXiv": "2010.12055",
+        "MAG": "3098196265",
+        "CorpusId": 225062256
+      },
+      "url": "https://www.semanticscholar.org/paper/2e152759fcd505fcbd914243411b005b51edee22",
+      "title": "A Discrete Variational Recurrent Topic Model without the Reparametrization Trick",
+      "venue": "Neural Information Processing Systems",
+      "year": 2020,
+      "referenceCount": 53,
+      "citationCount": 30,
+      "authors": [
+        {
+          "authorId": "151496851",
+          "name": "Mehdi Rezaee"
+        },
+        {
+          "authorId": "2034063",
+          "name": "Francis Ferraro"
+        }
+      ]
+    },
+    {
+      "paperId": "8c1d1c1cb110e62cb807b0e56faf5a29d4671638",
+      "externalIds": {
+        "MAG": "2970397832",
+        "ACL": "D19-1350",
+        "DBLP": "conf/emnlp/GuiLPZXH19",
+        "DOI": "10.18653/v1/D19-1350",
+        "CorpusId": 202790039
+      },
+      "url": "https://www.semanticscholar.org/paper/8c1d1c1cb110e62cb807b0e56faf5a29d4671638",
+      "title": "Neural Topic Model with Reinforcement Learning",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2019,
+      "referenceCount": 20,
+      "citationCount": 45,
+      "authors": [
+        {
+          "authorId": "145096580",
+          "name": "Lin Gui"
+        },
+        {
+          "authorId": "1814313",
+          "name": "Jiancai Leng"
+        },
+        {
+          "authorId": "46922295",
+          "name": "Gabriele Pergola"
+        },
+        {
+          "authorId": "2110631789",
+          "name": "Yu Zhou"
+        },
+        {
+          "authorId": "1753529",
+          "name": "Ruifeng Xu"
+        },
+        {
+          "authorId": "1704133",
+          "name": "Yulan He"
+        }
+      ]
+    },
+    {
+      "paperId": "3e4dcfbd8595ef2dec4651cf8a837b956874ef45",
+      "externalIds": {
+        "DBLP": "journals/isci/SuWZWQX18",
+        "MAG": "2762058688",
+        "DOI": "10.1016/j.ins.2017.09.070",
+        "CorpusId": 42714563
+      },
+      "url": "https://www.semanticscholar.org/paper/3e4dcfbd8595ef2dec4651cf8a837b956874ef45",
+      "title": "A neural generative autoencoder for bilingual word embeddings",
+      "venue": "Information Sciences",
+      "year": 2018,
+      "referenceCount": 53,
+      "citationCount": 26,
+      "authors": [
+        {
+          "authorId": "34739384",
+          "name": "Jinsong Su"
+        },
+        {
+          "authorId": "48914934",
+          "name": "Shan Wu"
+        },
+        {
+          "authorId": "48335426",
+          "name": "Biao Zhang"
+        },
+        {
+          "authorId": "7513763",
+          "name": "Changxing Wu"
+        },
+        {
+          "authorId": "2112482346",
+          "name": "Yue Qin"
+        },
+        {
+          "authorId": "2694222",
+          "name": "Deyi Xiong"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,289 @@
+{
+  "total": 9,
+  "offset": 0,
+  "data": [
+    {
+      "paperId": "31f8806397907e197ca1d3676f598fd197087ad6",
+      "externalIds": {
+        "MAG": "2964261056",
+        "ArXiv": "1803.09877",
+        "DBLP": "conf/icml/ChenWCP18",
+        "CorpusId": 49397275
+      },
+      "url": "https://www.semanticscholar.org/paper/31f8806397907e197ca1d3676f598fd197087ad6",
+      "title": "DRACO: Byzantine-resilient Distributed Training via Redundant Gradients",
+      "venue": "International Conference on Machine Learning",
+      "year": 2018,
+      "referenceCount": 49,
+      "citationCount": 269,
+      "authors": [
+        {
+          "authorId": "2119322954",
+          "name": "Lingjiao Chen"
+        },
+        {
+          "authorId": "2109798334",
+          "name": "Hongyi Wang"
+        },
+        {
+          "authorId": "143676545",
+          "name": "Zachary B. Charles"
+        },
+        {
+          "authorId": "1740595",
+          "name": "Dimitris Papailiopoulos"
+        }
+      ]
+    },
+    {
+      "paperId": "240502a2ab6f4b4ca69482ce401f432556aecbde",
+      "externalIds": {
+        "CorpusId": 260548955
+      },
+      "url": "https://www.semanticscholar.org/paper/240502a2ab6f4b4ca69482ce401f432556aecbde",
+      "title": "DRACO: Byzantine-resilient Distributed Training via Redundant Gradients",
+      "venue": "",
+      "year": 2018,
+      "referenceCount": 0,
+      "citationCount": 5,
+      "authors": []
+    },
+    {
+      "paperId": "c9a05b859454810c6474129cda0393f6d588ad22",
+      "externalIds": {
+        "ArXiv": "2110.01595",
+        "DBLP": "journals/corr/abs-2110-01595",
+        "CorpusId": 238259847
+      },
+      "url": "https://www.semanticscholar.org/paper/c9a05b859454810c6474129cda0393f6d588ad22",
+      "title": "Solon: Communication-efficient Byzantine-resilient Distributed Training via Redundant Gradients",
+      "venue": "arXiv.org",
+      "year": 2021,
+      "referenceCount": 56,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2119322954",
+          "name": "Lingjiao Chen"
+        },
+        {
+          "authorId": "21023662",
+          "name": "Leshang Chen"
+        },
+        {
+          "authorId": "2109798334",
+          "name": "Hongyi Wang"
+        },
+        {
+          "authorId": "49702692",
+          "name": "S. Davidson"
+        },
+        {
+          "authorId": "2694895",
+          "name": "Edgar Dobriban"
+        }
+      ]
+    },
+    {
+      "paperId": "29be974da1d1129f4a53294c4718ada71c518b99",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-1803-09877",
+        "MAG": "2950051948",
+        "CorpusId": 195346759
+      },
+      "url": "https://www.semanticscholar.org/paper/29be974da1d1129f4a53294c4718ada71c518b99",
+      "title": "DRACO: Robust Distributed Training via Redundant Gradients",
+      "venue": "International Conference on Machine Learning",
+      "year": 2018,
+      "referenceCount": 46,
+      "citationCount": 23,
+      "authors": [
+        {
+          "authorId": "2119322954",
+          "name": "Lingjiao Chen"
+        },
+        {
+          "authorId": "2109798334",
+          "name": "Hongyi Wang"
+        },
+        {
+          "authorId": "143676545",
+          "name": "Zachary B. Charles"
+        },
+        {
+          "authorId": "1740595",
+          "name": "Dimitris Papailiopoulos"
+        }
+      ]
+    },
+    {
+      "paperId": "68024f7786cde2755be40ce302c5d5953ab6da6d",
+      "externalIds": {
+        "DBLP": "journals/tifs/DongDGZFS26",
+        "DOI": "10.1109/TIFS.2026.3674690",
+        "CorpusId": 286654732
+      },
+      "url": "https://www.semanticscholar.org/paper/68024f7786cde2755be40ce302c5d5953ab6da6d",
+      "title": "FORCE: Byzantine-Resilient Decentralized Federated Learning via Game-Theoretic Contribution Aggregation",
+      "venue": "IEEE Transactions on Information Forensics and Security",
+      "year": 2026,
+      "referenceCount": 43,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2215731193",
+          "name": "Qihao Dong"
+        },
+        {
+          "authorId": "151498397",
+          "name": "Zhiyang Dai"
+        },
+        {
+          "authorId": "2326507849",
+          "name": "Yansong Gao"
+        },
+        {
+          "authorId": "2349618212",
+          "name": "Yifeng Zheng"
+        },
+        {
+          "authorId": "2303257271",
+          "name": "Anmin Fu"
+        },
+        {
+          "authorId": "2330083348",
+          "name": "Willy Susilo"
+        }
+      ]
+    },
+    {
+      "paperId": "9dcda661a050040c9681a34c24c773b3ef8a429b",
+      "externalIds": {
+        "DBLP": "journals/tcyb/WangSYS26",
+        "DOI": "10.1109/TCYB.2025.3628486",
+        "CorpusId": 282937738,
+        "PubMed": "41217912"
+      },
+      "url": "https://www.semanticscholar.org/paper/9dcda661a050040c9681a34c24c773b3ef8a429b",
+      "title": "Order-Optimal Byzantine-Robust Learning Under Heterogeneity via Fair Gradient Clipping",
+      "venue": "IEEE Transactions on Cybernetics",
+      "year": 2025,
+      "referenceCount": 54,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2188005787",
+          "name": "Zhi-yong Wang"
+        },
+        {
+          "authorId": "2391943000",
+          "name": "Hao Nan Sheng"
+        },
+        {
+          "authorId": "2254886336",
+          "name": "Qiushi Yang"
+        },
+        {
+          "authorId": "1712247167",
+          "name": "Hing Cheung So"
+        }
+      ]
+    },
+    {
+      "paperId": "e44bf435b0cbd958e4f6a61057301bf357cb970d",
+      "externalIds": {
+        "DBLP": "conf/bigdataconf/CoxMCD25",
+        "DOI": "10.1109/BigData66926.2025.11402147",
+        "CorpusId": 286329120
+      },
+      "url": "https://www.semanticscholar.org/paper/e44bf435b0cbd958e4f6a61057301bf357cb970d",
+      "title": "Catalyst: Asynchronous Byzantine-Robust Federated Learning",
+      "venue": "BigData Congress [Services Society]",
+      "year": 2025,
+      "referenceCount": 49,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2105726749",
+          "name": "Bart Cox"
+        },
+        {
+          "authorId": "2299780675",
+          "name": "Abele Malan"
+        },
+        {
+          "authorId": "2303323929",
+          "name": "Lydia Y. Chen"
+        },
+        {
+          "authorId": "2303257390",
+          "name": "Jérémie Decouchant"
+        }
+      ]
+    },
+    {
+      "paperId": "b095aa6d345981ad33c11da17744e04f99ff2339",
+      "externalIds": {
+        "PubMedCentral": "12768379",
+        "DOI": "10.1371/journal.pone.0339881",
+        "CorpusId": 284510127,
+        "PubMed": "41490270"
+      },
+      "url": "https://www.semanticscholar.org/paper/b095aa6d345981ad33c11da17744e04f99ff2339",
+      "title": "FedGraphHE: A privacy-preserving federated graph neural network framework with dynamic homomorphic encryption and robust aggregation",
+      "venue": "PLoS ONE",
+      "year": 2026,
+      "referenceCount": 35,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2402866127",
+          "name": "Aocheng Zuo"
+        },
+        {
+          "authorId": "2335445671",
+          "name": "Zhanshen Feng"
+        },
+        {
+          "authorId": "2376725458",
+          "name": "Yuan Ping"
+        },
+        {
+          "authorId": "2147350534",
+          "name": "Shaohua Tao"
+        },
+        {
+          "authorId": "2366058805",
+          "name": "Haonan Sun"
+        },
+        {
+          "authorId": "2385327894",
+          "name": "Yange Chen"
+        }
+      ]
+    },
+    {
+      "paperId": "aac05dce773bcffdc5053be655bfe8cfcf8a4f81",
+      "externalIds": {
+        "MAG": "2252783200",
+        "CorpusId": 61745541
+      },
+      "url": "https://www.semanticscholar.org/paper/aac05dce773bcffdc5053be655bfe8cfcf8a4f81",
+      "title": "High performance computing and communications : second international conference, HPCC 2006, Munich, Germany, September 13-15, 2006, proceedings",
+      "venue": "",
+      "year": 2006,
+      "referenceCount": 0,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "3240465",
+          "name": "M. Gerndt"
+        },
+        {
+          "authorId": "1687880",
+          "name": "D. Kranzlmüller"
+        }
+      ]
+    }
+  ]
+}

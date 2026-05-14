@@ -1,0 +1,944 @@
+{
+  "offset": 0,
+  "citingPaperInfo": {
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/1505.04984, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "title": "Risk and Regret of Hierarchical Bayesian Learners",
+    "authors": [
+      {
+        "authorId": "39256289",
+        "name": "Jonathan Huggins"
+      },
+      {
+        "authorId": "1763295",
+        "name": "J. Tenenbaum"
+      }
+    ]
+  },
+  "data": [
+    {
+      "citedPaper": {
+        "paperId": "d0d08bc641d5b78d534946af4134f77fb6f240e0",
+        "externalIds": {
+          "MAG": "1981299323",
+          "ArXiv": "1405.6545",
+          "DOI": "10.1214/14-AOS1207",
+          "CorpusId": 88520285
+        },
+        "url": "https://www.semanticscholar.org/paper/d0d08bc641d5b78d534946af4134f77fb6f240e0",
+        "title": "Bayesian variable selection with shrinking and diffusing priors",
+        "venue": "",
+        "year": 2014,
+        "referenceCount": 35,
+        "citationCount": 238,
+        "authors": [
+          {
+            "authorId": "152966960",
+            "name": "N. Narisetty"
+          },
+          {
+            "authorId": "47023604",
+            "name": "Xuming He"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "e2714d2ccab7c4f3ec375f6c856e62eff32cf6d1",
+        "externalIds": {
+          "MAG": "2069112257",
+          "DOI": "10.1214/14-STS467",
+          "CorpusId": 122767962
+        },
+        "url": "https://www.semanticscholar.org/paper/e2714d2ccab7c4f3ec375f6c856e62eff32cf6d1",
+        "title": "Big Bayes Stories—Foreword",
+        "venue": "",
+        "year": 2014,
+        "referenceCount": 0,
+        "citationCount": 2,
+        "authors": [
+          {
+            "authorId": "3069617",
+            "name": "K. Mengersen"
+          },
+          {
+            "authorId": "145155783",
+            "name": "C. Robert"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "899746ba46279cf2b842615ed38d998f9c4654df",
+        "externalIds": {
+          "DBLP": "conf/icml/PentinaL14",
+          "ArXiv": "1311.2838",
+          "MAG": "2950002632",
+          "CorpusId": 16067027
+        },
+        "url": "https://www.semanticscholar.org/paper/899746ba46279cf2b842615ed38d998f9c4654df",
+        "title": "A PAC-Bayesian bound for Lifelong Learning",
+        "venue": "International Conference on Machine Learning",
+        "year": 2013,
+        "referenceCount": 32,
+        "citationCount": 217,
+        "authors": [
+          {
+            "authorId": "2989149",
+            "name": "Anastasia Pentina"
+          },
+          {
+            "authorId": "1787591",
+            "name": "Christoph H. Lampert"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "6c9dd5cdc711e63bdca77a22072b098f3a23fec7",
+        "externalIds": {
+          "MAG": "2138030815",
+          "DOI": "10.1111/AJPS.12004",
+          "CorpusId": 6925574
+        },
+        "url": "https://www.semanticscholar.org/paper/6c9dd5cdc711e63bdca77a22072b098f3a23fec7",
+        "title": "Deep Interactions with MRP: Election Turnout and Voting Patterns Among Small Electoral Subgroups",
+        "venue": "",
+        "year": 2013,
+        "referenceCount": 58,
+        "citationCount": 180,
+        "authors": [
+          {
+            "authorId": "2621402",
+            "name": "Yair Ghitza"
+          },
+          {
+            "authorId": "144389145",
+            "name": "A. Gelman"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "cae1907302ae27a4e6077b938736caa7e40f711f",
+        "externalIds": {
+          "MAG": "2109692581",
+          "DOI": "10.1007/s13524-012-0193-x",
+          "CorpusId": 15421426,
+          "PubMed": "23494599"
+        },
+        "url": "https://www.semanticscholar.org/paper/cae1907302ae27a4e6077b938736caa7e40f711f",
+        "title": "Bayesian Probabilistic Projections of Life Expectancy for All Countries",
+        "venue": "Demography",
+        "year": 2013,
+        "referenceCount": 73,
+        "citationCount": 201,
+        "authors": [
+          {
+            "authorId": "1804386",
+            "name": "A. Raftery"
+          },
+          {
+            "authorId": "49113393",
+            "name": "J. Chunn"
+          },
+          {
+            "authorId": "2929365",
+            "name": "P. Gerland"
+          },
+          {
+            "authorId": "145042813",
+            "name": "H. Ševčíková"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "6a473caa1de469d2bf5a54d6dd91607de4f8c3a9",
+        "externalIds": {
+          "MAG": "2009009684",
+          "DOI": "10.1073/pnas.1211452109",
+          "CorpusId": 12771371,
+          "PubMed": "22908249"
+        },
+        "url": "https://www.semanticscholar.org/paper/6a473caa1de469d2bf5a54d6dd91607de4f8c3a9",
+        "title": "Bayesian probabilistic population projections for all countries",
+        "venue": "Proceedings of the National Academy of Sciences of the United States of America",
+        "year": 2012,
+        "referenceCount": 51,
+        "citationCount": 266,
+        "authors": [
+          {
+            "authorId": "1804386",
+            "name": "A. Raftery"
+          },
+          {
+            "authorId": "50599161",
+            "name": "Nan Li"
+          },
+          {
+            "authorId": "145042813",
+            "name": "H. Ševčíková"
+          },
+          {
+            "authorId": "2929365",
+            "name": "P. Gerland"
+          },
+          {
+            "authorId": "40399884",
+            "name": "G. Heilig"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "47d588f746949b066af6957a524d82ca3c6c961b",
+        "externalIds": {
+          "MAG": "2010132303",
+          "DBLP": "conf/cvpr/SalakhutdinovTT11",
+          "DOI": "10.1109/CVPR.2011.5995720",
+          "CorpusId": 9920696
+        },
+        "url": "https://www.semanticscholar.org/paper/47d588f746949b066af6957a524d82ca3c6c961b",
+        "title": "Learning to share visual appearance for multiclass object detection",
+        "venue": "Computer Vision and Pattern Recognition",
+        "year": 2011,
+        "referenceCount": 61,
+        "citationCount": 360,
+        "authors": [
+          {
+            "authorId": "145124475",
+            "name": "R. Salakhutdinov"
+          },
+          {
+            "authorId": "143805211",
+            "name": "A. Torralba"
+          },
+          {
+            "authorId": "1763295",
+            "name": "J. Tenenbaum"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "4e2f43dab69d690dc86422949e410ebf37f522d4",
+        "externalIds": {
+          "MAG": "1977234485",
+          "DOI": "10.1002/wcs.72",
+          "CorpusId": 7101807,
+          "PubMed": "26271651"
+        },
+        "url": "https://www.semanticscholar.org/paper/4e2f43dab69d690dc86422949e410ebf37f522d4",
+        "title": "Bayesian data analysis.",
+        "venue": "Wiley Interdisciplinary Reviews: Cognitive Science",
+        "year": 2010,
+        "referenceCount": 74,
+        "citationCount": 11329,
+        "authors": [
+          {
+            "authorId": "2887861",
+            "name": "J. Kruschke"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "7d9c0546ca72c8fb5e54f4a9ee4a2aa4a89649f1",
+        "externalIds": {
+          "MAG": "2165421558",
+          "DOI": "10.18637/JSS.V030.B03",
+          "CorpusId": 61817962
+        },
+        "url": "https://www.semanticscholar.org/paper/7d9c0546ca72c8fb5e54f4a9ee4a2aa4a89649f1",
+        "title": "Data Analysis Using Regression and Multilevel/Hierarchical Models",
+        "venue": "",
+        "year": 2009,
+        "referenceCount": 0,
+        "citationCount": 7494,
+        "authors": [
+          {
+            "authorId": "8359988",
+            "name": "J. Hilbe"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "785ede21535ff3a4ccc75daa990e45363db3a363",
+        "externalIds": {
+          "MAG": "1982652137",
+          "DOI": "10.1198/016214508000000337",
+          "CorpusId": 11797924
+        },
+        "url": "https://www.semanticscholar.org/paper/785ede21535ff3a4ccc75daa990e45363db3a363",
+        "title": "The Bayesian Lasso",
+        "venue": "",
+        "year": 2008,
+        "referenceCount": 37,
+        "citationCount": 3222,
+        "authors": [
+          {
+            "authorId": "143982131",
+            "name": "Trevor Park"
+          },
+          {
+            "authorId": "144898907",
+            "name": "G. Casella"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "f8348741ca22058f9955f932bd9d63ccd9e81319",
+        "externalIds": {
+          "DBLP": "journals/tit/SeegerKF08",
+          "MAG": "2133255100",
+          "DOI": "10.1109/TIT.2007.915707",
+          "CorpusId": 2197379
+        },
+        "url": "https://www.semanticscholar.org/paper/f8348741ca22058f9955f932bd9d63ccd9e81319",
+        "title": "Information Consistency of Nonparametric Gaussian Process Methods",
+        "venue": "IEEE Transactions on Information Theory",
+        "year": 2008,
+        "referenceCount": 29,
+        "citationCount": 101,
+        "authors": [
+          {
+            "authorId": "1680574",
+            "name": "M. Seeger"
+          },
+          {
+            "authorId": "144695232",
+            "name": "S. Kakade"
+          },
+          {
+            "authorId": "145346319",
+            "name": "Dean Phillips Foster"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "3f63cdc711a4f42a65d3b2b3cbe9e2b919a995f5",
+        "externalIds": {
+          "MAG": "2165347833",
+          "DBLP": "conf/nips/MahmudR07",
+          "CorpusId": 717220
+        },
+        "url": "https://www.semanticscholar.org/paper/3f63cdc711a4f42a65d3b2b3cbe9e2b919a995f5",
+        "title": "Transfer Learning using Kolmogorov Complexity: Basic Theory and Empirical Evaluations",
+        "venue": "Neural Information Processing Systems",
+        "year": 2007,
+        "referenceCount": 19,
+        "citationCount": 69,
+        "authors": [
+          {
+            "authorId": "144774720",
+            "name": "M. H. Mahmud"
+          },
+          {
+            "authorId": "1874339",
+            "name": "S. Ray"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "a6c908e5846a905628e4b652b28f3e788aa57b7b",
+        "externalIds": {
+          "MAG": "136535678",
+          "DBLP": "conf/sdm/Banerjee07",
+          "DOI": "10.1137/1.9781611972771.19",
+          "CorpusId": 5878209
+        },
+        "url": "https://www.semanticscholar.org/paper/a6c908e5846a905628e4b652b28f3e788aa57b7b",
+        "title": "An Analysis of Logistic Models: Exponential Family Connections and Online Performance",
+        "venue": "SDM",
+        "year": 2007,
+        "referenceCount": 42,
+        "citationCount": 36,
+        "authors": [
+          {
+            "authorId": "144205696",
+            "name": "A. Banerjee"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "08b74486974c2e0ae8ef11ec9bf83d05a6bd28c2",
+        "externalIds": {
+          "MAG": "2180896286",
+          "DBLP": "journals/tcs/Mahmud09",
+          "DOI": "10.1016/j.tcs.2009.01.013",
+          "CorpusId": 7803839
+        },
+        "url": "https://www.semanticscholar.org/paper/08b74486974c2e0ae8ef11ec9bf83d05a6bd28c2",
+        "title": "On universal transfer learning",
+        "venue": "Theoretical Computer Science",
+        "year": 2007,
+        "referenceCount": 86,
+        "citationCount": 38,
+        "authors": [
+          {
+            "authorId": "2379232834",
+            "name": "M. Mahmud"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "598b49e0b8e6a4c9a38b8e92164397fb83df7ce8",
+        "externalIds": {
+          "ArXiv": "0712.0248",
+          "MAG": "1859987214",
+          "DOI": "10.1214/074921707000000391",
+          "CorpusId": 88517530
+        },
+        "url": "https://www.semanticscholar.org/paper/598b49e0b8e6a4c9a38b8e92164397fb83df7ce8",
+        "title": "PAC-BAYESIAN SUPERVISED CLASSIFICATION: The Thermodynamics of Statistical Learning",
+        "venue": "",
+        "year": 2007,
+        "referenceCount": 41,
+        "citationCount": 514,
+        "authors": [
+          {
+            "authorId": "2322407",
+            "name": "O. Catoni"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "2ffbf4c750304d17c864f1f2d6812155501bf36c",
+        "externalIds": {
+          "DBLP": "journals/jmlr/AudibertB07",
+          "MAG": "2129278264",
+          "DOI": "10.5555/1314498.1314530",
+          "CorpusId": 17591405
+        },
+        "url": "https://www.semanticscholar.org/paper/2ffbf4c750304d17c864f1f2d6812155501bf36c",
+        "title": "Combining PAC-Bayesian and Generic Chaining Bounds",
+        "venue": "Journal of machine learning research",
+        "year": 2007,
+        "referenceCount": 36,
+        "citationCount": 51,
+        "authors": [
+          {
+            "authorId": "3015507",
+            "name": "Jean-Yves Audibert"
+          },
+          {
+            "authorId": "1698617",
+            "name": "O. Bousquet"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "8acf6797593352a4c9ce718665c1868cc2a67c96",
+        "externalIds": {
+          "MAG": "32508012",
+          "DOI": "10.7551/mitpress/4643.001.0001",
+          "CorpusId": 119390683
+        },
+        "url": "https://www.semanticscholar.org/paper/8acf6797593352a4c9ce718665c1868cc2a67c96",
+        "title": "The Minimum Description Length Principle (Adaptive Computation and Machine Learning)",
+        "venue": "",
+        "year": 2007,
+        "referenceCount": 6,
+        "citationCount": 885,
+        "authors": [
+          {
+            "authorId": "144729640",
+            "name": "P. Grünwald"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "668b1277fbece28c4841eeab1c97e4ebd0079700",
+        "externalIds": {
+          "MAG": "2009086942",
+          "DBLP": "journals/technometrics/Neal07",
+          "DOI": "10.1007/978-0-387-45528-0",
+          "CorpusId": 31993898
+        },
+        "url": "https://www.semanticscholar.org/paper/668b1277fbece28c4841eeab1c97e4ebd0079700",
+        "title": "Pattern Recognition and Machine Learning",
+        "venue": "Technometrics",
+        "year": 2006,
+        "referenceCount": 361,
+        "citationCount": 39236,
+        "authors": [
+          {
+            "authorId": "1764325",
+            "name": "Radford M. Neal"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "79b8b874f5604c75460494543d0f4398d4c62097",
+        "externalIds": {
+          "DBLP": "conf/icml/Banerjee06",
+          "MAG": "2060092029",
+          "DOI": "10.1145/1143844.1143855",
+          "CorpusId": 6618209
+        },
+        "url": "https://www.semanticscholar.org/paper/79b8b874f5604c75460494543d0f4398d4c62097",
+        "title": "On Bayesian bounds",
+        "venue": "International Conference on Machine Learning",
+        "year": 2006,
+        "referenceCount": 37,
+        "citationCount": 91,
+        "authors": [
+          {
+            "authorId": "144205696",
+            "name": "A. Banerjee"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "e405a104716c2146af98eb0de61549d389e508e3",
+        "externalIds": {
+          "DBLP": "conf/icml/Juba06",
+          "MAG": "2114586169",
+          "DOI": "10.1145/1143844.1143900",
+          "CorpusId": 10419296
+        },
+        "url": "https://www.semanticscholar.org/paper/e405a104716c2146af98eb0de61549d389e508e3",
+        "title": "Estimating relatedness via data compression",
+        "venue": "International Conference on Machine Learning",
+        "year": 2006,
+        "referenceCount": 14,
+        "citationCount": 45,
+        "authors": [
+          {
+            "authorId": "9578863",
+            "name": "Brendan Juba"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "0538e399046c74d95124c715760aa51ab4716dce",
+        "externalIds": {
+          "MAG": "2966891380",
+          "DBLP": "books/daglib/0016248",
+          "DOI": "10.1017/CBO9780511546921",
+          "CorpusId": 28709420
+        },
+        "url": "https://www.semanticscholar.org/paper/0538e399046c74d95124c715760aa51ab4716dce",
+        "title": "Prediction, learning, and games",
+        "venue": "",
+        "year": 2006,
+        "referenceCount": 301,
+        "citationCount": 4335,
+        "authors": [
+          {
+            "authorId": "1388387856",
+            "name": "N. Cesa-Bianchi"
+          },
+          {
+            "authorId": "1755694",
+            "name": "G. Lugosi"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "29119a67e5a88e9c5822d9e651f55c6d4ec2f325",
+        "externalIds": {
+          "DBLP": "conf/nips/KakadeSF05",
+          "MAG": "2151242073",
+          "CorpusId": 7081744
+        },
+        "url": "https://www.semanticscholar.org/paper/29119a67e5a88e9c5822d9e651f55c6d4ec2f325",
+        "title": "Worst-Case Bounds for Gaussian Process Models",
+        "venue": "Neural Information Processing Systems",
+        "year": 2005,
+        "referenceCount": 14,
+        "citationCount": 26,
+        "authors": [
+          {
+            "authorId": "144695232",
+            "name": "S. Kakade"
+          },
+          {
+            "authorId": "1680574",
+            "name": "M. Seeger"
+          },
+          {
+            "authorId": "145346319",
+            "name": "Dean Phillips Foster"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "17a076aa8b9451757ab36488891c3962c4f9563b",
+        "externalIds": {
+          "MAG": "1969415786",
+          "ArXiv": "math/0505633",
+          "DOI": "10.1214/009053604000001147",
+          "CorpusId": 9004248
+        },
+        "url": "https://www.semanticscholar.org/paper/17a076aa8b9451757ab36488891c3962c4f9563b",
+        "title": "Spike and slab variable selection: Frequentist and Bayesian strategies",
+        "venue": "",
+        "year": 2005,
+        "referenceCount": 38,
+        "citationCount": 1155,
+        "authors": [
+          {
+            "authorId": "2227939210",
+            "name": "BY Hemant Ishwaran"
+          },
+          {
+            "authorId": null,
+            "name": "J."
+          },
+          {
+            "authorId": "2109320898",
+            "name": "Sunil Rao"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "744e7239c7e466468dd928feb3d265ebdd097b40",
+        "externalIds": {
+          "DBLP": "conf/nips/KakadeN04",
+          "MAG": "2096772472",
+          "CorpusId": 942059
+        },
+        "url": "https://www.semanticscholar.org/paper/744e7239c7e466468dd928feb3d265ebdd097b40",
+        "title": "Online Bounds for Bayesian Algorithms",
+        "venue": "Neural Information Processing Systems",
+        "year": 2004,
+        "referenceCount": 13,
+        "citationCount": 64,
+        "authors": [
+          {
+            "authorId": "144695232",
+            "name": "S. Kakade"
+          },
+          {
+            "authorId": "34699434",
+            "name": "A. Ng"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "845fc005ca1a4e46927325c4dcec2f1540b936a5",
+        "externalIds": {
+          "MAG": "1976424187",
+          "DOI": "10.1016/J.JSPI.2003.09.009",
+          "CorpusId": 119694870
+        },
+        "url": "https://www.semanticscholar.org/paper/845fc005ca1a4e46927325c4dcec2f1540b936a5",
+        "title": "Perfect sampling for Bayesian variable selection in a linear regression model",
+        "venue": "",
+        "year": 2004,
+        "referenceCount": 13,
+        "citationCount": 14,
+        "authors": [
+          {
+            "authorId": "2055339284",
+            "name": "Ulrike Schneider"
+          },
+          {
+            "authorId": "40023580",
+            "name": "J. Corcoran"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "11335fd1a9e28c00b2e92c1be97b0a81b62e4ffa",
+        "externalIds": {
+          "MAG": "2139716865",
+          "DOI": "10.1111/j.1751-5823.2001.tb00457.x",
+          "CorpusId": 15491633
+        },
+        "url": "https://www.semanticscholar.org/paper/11335fd1a9e28c00b2e92c1be97b0a81b62e4ffa",
+        "title": "Competitive On‐line Statistics",
+        "venue": "",
+        "year": 2001,
+        "referenceCount": 87,
+        "citationCount": 305,
+        "authors": [
+          {
+            "authorId": "2071868178",
+            "name": "V. Vovk"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "727e1e16ede6eaad241bad11c525da07b154c688",
+        "externalIds": {
+          "MAG": "2162888803",
+          "ArXiv": "1106.0245",
+          "DBLP": "journals/corr/abs-1106-0245",
+          "DOI": "10.1613/jair.731",
+          "CorpusId": 9803204
+        },
+        "url": "https://www.semanticscholar.org/paper/727e1e16ede6eaad241bad11c525da07b154c688",
+        "title": "A Model of Inductive Bias Learning",
+        "venue": "Journal of Artificial Intelligence Research",
+        "year": 2000,
+        "referenceCount": 53,
+        "citationCount": 1284,
+        "authors": [
+          {
+            "authorId": "47392513",
+            "name": "Jonathan Baxter"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "ac841dcc4b7a34b3d0c0628c89d7fac614a8c736",
+        "externalIds": {
+          "MAG": "2094853078",
+          "DOI": "10.2307/3318616",
+          "CorpusId": 18653935
+        },
+        "url": "https://www.semanticscholar.org/paper/ac841dcc4b7a34b3d0c0628c89d7fac614a8c736",
+        "title": "Prequential probability: principles and properties",
+        "venue": "",
+        "year": 1999,
+        "referenceCount": 27,
+        "citationCount": 169,
+        "authors": [
+          {
+            "authorId": "2237983757",
+            "name": "A. P. Dawid"
+          },
+          {
+            "authorId": "2257240382",
+            "name": "V. G. London"
+          },
+          {
+            "authorId": "2406108013",
+            "name": "R. Vovk"
+          },
+          {
+            "authorId": "2085287949",
+            "name": "Holloway"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "1bd6e929ed8384ea2212d50ab3c103ec018cc9fd",
+        "externalIds": {
+          "MAG": "2143419558",
+          "DBLP": "journals/ml/Baxter97",
+          "DOI": "10.1023/A:1007327622663",
+          "CorpusId": 12565208
+        },
+        "url": "https://www.semanticscholar.org/paper/1bd6e929ed8384ea2212d50ab3c103ec018cc9fd",
+        "title": "A Bayesian/Information Theoretic Model of Learning to Learn via Multiple Task Sampling",
+        "venue": "Machine-mediated learning",
+        "year": 1997,
+        "referenceCount": 24,
+        "citationCount": 510,
+        "authors": [
+          {
+            "authorId": "47392513",
+            "name": "Jonathan Baxter"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "b9dd05b69d6906fff6ea6c4ba3609a6d97c9b8a3",
+        "externalIds": {
+          "DBLP": "books/sp/Berger85",
+          "MAG": "1988520084",
+          "DOI": "10.1007/978-1-4757-4286-2",
+          "CorpusId": 120366929
+        },
+        "url": "https://www.semanticscholar.org/paper/b9dd05b69d6906fff6ea6c4ba3609a6d97c9b8a3",
+        "title": "Statistical Decision Theory and Bayesian Analysis, Second Edition",
+        "venue": "",
+        "year": 1993,
+        "referenceCount": 1,
+        "citationCount": 7998,
+        "authors": [
+          {
+            "authorId": "39201543",
+            "name": "J. Berger"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "8e3c872076750bcce868808f9d4d7a038f950040",
+        "externalIds": {
+          "MAG": "2512499575",
+          "CorpusId": 268095720
+        },
+        "url": "https://www.semanticscholar.org/paper/8e3c872076750bcce868808f9d4d7a038f950040",
+        "title": "Pattern Recognition And Machine Learning",
+        "venue": "",
+        "year": 2016,
+        "referenceCount": 1,
+        "citationCount": 6508,
+        "authors": [
+          {
+            "authorId": "2334288972",
+            "name": "L. Strauss"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "3da41d52415966902093e5a1a9714c7996218891",
+        "externalIds": {
+          "MAG": "2552720424",
+          "DOI": "10.1002/0471667196.ess1641",
+          "CorpusId": 26228557
+        },
+        "url": "https://www.semanticscholar.org/paper/3da41d52415966902093e5a1a9714c7996218891",
+        "title": "Minimum Description Length Principle.",
+        "venue": "",
+        "year": 2010,
+        "referenceCount": 0,
+        "citationCount": 1347,
+        "authors": [
+          {
+            "authorId": "2516166",
+            "name": "J. Rissanen"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "7e252a389eedc07622bf6d90159dae2fa496cb53",
+        "externalIds": {
+          "MAG": "1607832978",
+          "DBLP": "conf/colt/McAllester03",
+          "DOI": "10.1007/978-3-540-45167-9_16",
+          "CorpusId": 14620324
+        },
+        "url": "https://www.semanticscholar.org/paper/7e252a389eedc07622bf6d90159dae2fa496cb53",
+        "title": "Simplified PAC-Bayesian Margin Bounds",
+        "venue": "Annual Conference Computational Learning Theory",
+        "year": 2003,
+        "referenceCount": 21,
+        "citationCount": 240,
+        "authors": [
+          {
+            "authorId": "145689002",
+            "name": "David A. McAllester"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "3a4551508f84a3f5447d3490b2db95b4d87a7969",
+        "externalIds": {
+          "MAG": "2036043322",
+          "DBLP": "conf/colt/Ben-DavidS03",
+          "DOI": "10.1007/978-3-540-45167-9_41",
+          "CorpusId": 13967968
+        },
+        "url": "https://www.semanticscholar.org/paper/3a4551508f84a3f5447d3490b2db95b4d87a7969",
+        "title": "Exploiting Task Relatedness for Mulitple Task Learning",
+        "venue": "Annual Conference Computational Learning Theory",
+        "year": 2003,
+        "referenceCount": 11,
+        "citationCount": 492,
+        "authors": [
+          {
+            "authorId": "1401829700",
+            "name": "Shai Ben-David"
+          },
+          {
+            "authorId": "2260473901",
+            "name": "Reba Schuller Borbely"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "Conference on Learning Theory",
+        "venue": "Conference on Learning Theory",
+        "year": 2003,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "b365b8e45b7d81f081de44ac8f9eadf9144f3ca5",
+        "externalIds": {
+          "MAG": "2135046866",
+          "DOI": "10.1111/J.2517-6161.1996.TB02080.X",
+          "CorpusId": 16162039
+        },
+        "url": "https://www.semanticscholar.org/paper/b365b8e45b7d81f081de44ac8f9eadf9144f3ca5",
+        "title": "Regression Shrinkage and Selection via the Lasso",
+        "venue": "",
+        "year": 1996,
+        "referenceCount": 25,
+        "citationCount": 51233,
+        "authors": [
+          {
+            "authorId": "1761784",
+            "name": "R. Tibshirani"
+          }
+        ]
+      }
+    }
+  ]
+}

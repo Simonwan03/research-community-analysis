@@ -1,0 +1,67 @@
+{
+  "total": 2,
+  "offset": 0,
+  "data": [
+    {
+      "paperId": "1358cdd96280cd546c4d1e120c1d4b7faf04edc9",
+      "externalIds": {
+        "MAG": "2951611001",
+        "DBLP": "journals/corr/MitrovicST16",
+        "ArXiv": "1602.04805",
+        "CorpusId": 1237235
+      },
+      "url": "https://www.semanticscholar.org/paper/1358cdd96280cd546c4d1e120c1d4b7faf04edc9",
+      "title": "DR-ABC: Approximate Bayesian Computation with Kernel-Based Distribution Regression",
+      "venue": "International Conference on Machine Learning",
+      "year": 2016,
+      "referenceCount": 44,
+      "citationCount": 33,
+      "authors": [
+        {
+          "authorId": "37955812",
+          "name": "Jovana Mitrovic"
+        },
+        {
+          "authorId": "1698032",
+          "name": "D. Sejdinovic"
+        },
+        {
+          "authorId": "1725303",
+          "name": "Y. Teh"
+        }
+      ]
+    },
+    {
+      "paperId": "8ca1d49bfc19b98946e34ec2e509104f73f2bd82",
+      "externalIds": {
+        "DBLP": "conf/nips/YangDKH18",
+        "MAG": "2889613111",
+        "CorpusId": 54081458
+      },
+      "url": "https://www.semanticscholar.org/paper/8ca1d49bfc19b98946e34ec2e509104f73f2bd82",
+      "title": "Predictive Approximate Bayesian Computation via Saddle Points",
+      "venue": "Neural Information Processing Systems",
+      "year": 2018,
+      "referenceCount": 40,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "2432528",
+          "name": "Yingxiang Yang"
+        },
+        {
+          "authorId": "144445933",
+          "name": "Bo Dai"
+        },
+        {
+          "authorId": "1801295",
+          "name": "N. Kiyavash"
+        },
+        {
+          "authorId": "2903347",
+          "name": "Niao He"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,286 @@
+{
+  "total": 105582,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "5dc2a215bd7cd5bdd3a0baa8c967575632696fac",
+      "externalIds": {
+        "MAG": "2787658090",
+        "DBLP": "conf/icml/SchaulHGS15",
+        "CorpusId": 15897963
+      },
+      "url": "https://www.semanticscholar.org/paper/5dc2a215bd7cd5bdd3a0baa8c967575632696fac",
+      "title": "Universal Value Function Approximators",
+      "venue": "International Conference on Machine Learning",
+      "year": 2015,
+      "referenceCount": 26,
+      "citationCount": 1180,
+      "authors": [
+        {
+          "authorId": "1725157",
+          "name": "T. Schaul"
+        },
+        {
+          "authorId": "48257711",
+          "name": "Dan Horgan"
+        },
+        {
+          "authorId": "144717963",
+          "name": "Karol Gregor"
+        },
+        {
+          "authorId": "145824029",
+          "name": "David Silver"
+        }
+      ]
+    },
+    {
+      "paperId": "9bbf5bd3f17f7ff73bcc0525f82e5987a55748c5",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2410-08997",
+        "ArXiv": "2410.08997",
+        "DOI": "10.48550/arXiv.2410.08997",
+        "CorpusId": 273323279
+      },
+      "url": "https://www.semanticscholar.org/paper/9bbf5bd3f17f7ff73bcc0525f82e5987a55748c5",
+      "title": "Hierarchical Universal Value Function Approximators",
+      "venue": "arXiv.org",
+      "year": 2024,
+      "referenceCount": 11,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2175361122",
+          "name": "Rushiv Arora"
+        }
+      ]
+    },
+    {
+      "paperId": "5a0a7d711d8ce9dfc840d3c109b15449d08ba18c",
+      "externalIds": {
+        "CorpusId": 7940374
+      },
+      "url": "https://www.semanticscholar.org/paper/5a0a7d711d8ce9dfc840d3c109b15449d08ba18c",
+      "title": "Universal Value Function Approximators A. Ground Truth Evaluation B. Neural Network Details C. Ms Pacman Experiment Details",
+      "venue": "",
+      "year": null,
+      "referenceCount": 0,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2081765542",
+          "name": "D. S. Embeddings"
+        }
+      ]
+    },
+    {
+      "paperId": "9a8058d5d083ed70ed9194b87a599c368aba370a",
+      "externalIds": {
+        "ArXiv": "2302.13122",
+        "DOI": "10.5802/crmeca.199",
+        "CorpusId": 261900377
+      },
+      "url": "https://www.semanticscholar.org/paper/9a8058d5d083ed70ed9194b87a599c368aba370a",
+      "title": "Optimal feedback control of dynamical systems via value-function approximation",
+      "venue": "Comptes rendus. Mecanique",
+      "year": 2023,
+      "referenceCount": 28,
+      "citationCount": 9,
+      "authors": [
+        {
+          "authorId": "2263667141",
+          "name": "Karl Kunisch"
+        },
+        {
+          "authorId": "2286512723",
+          "name": "Daniel Walter"
+        }
+      ]
+    },
+    {
+      "paperId": "f9a39048da5823869a64b1e2f02a45d50e77fd17",
+      "externalIds": {
+        "DBLP": "journals/tnn/KimK24",
+        "ArXiv": "2201.06298",
+        "DOI": "10.1109/TNNLS.2022.3190198",
+        "CorpusId": 250492697,
+        "PubMed": "35857729"
+      },
+      "url": "https://www.semanticscholar.org/paper/f9a39048da5823869a64b1e2f02a45d50e77fd17",
+      "title": "Parameterized Convex Universal Approximators for Decision-Making Problems",
+      "venue": "IEEE Transactions on Neural Networks and Learning Systems",
+      "year": 2022,
+      "referenceCount": 35,
+      "citationCount": 8,
+      "authors": [
+        {
+          "authorId": "97649668",
+          "name": "Jinrae Kim"
+        },
+        {
+          "authorId": "123634078",
+          "name": "Youdan Kim"
+        }
+      ]
+    },
+    {
+      "paperId": "3e1b1b9459ca9ca31b7d2a8209a54d5ed962f461",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2201-06298",
+        "CorpusId": 246015702
+      },
+      "url": "https://www.semanticscholar.org/paper/3e1b1b9459ca9ca31b7d2a8209a54d5ed962f461",
+      "title": "Parametrized Convex Universal Approximators for Decision-Making Problems",
+      "venue": "arXiv.org",
+      "year": 2022,
+      "referenceCount": 28,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "97649668",
+          "name": "Jinrae Kim"
+        },
+        {
+          "authorId": "2154520043",
+          "name": "Youdan Kim"
+        }
+      ]
+    },
+    {
+      "paperId": "894536f2ac4728850bc18705daeeda6e88f3d6f1",
+      "externalIds": {
+        "MAG": "2904339729",
+        "DBLP": "journals/corr/abs-1812-07626",
+        "ArXiv": "1812.07626",
+        "CorpusId": 56475997
+      },
+      "url": "https://www.semanticscholar.org/paper/894536f2ac4728850bc18705daeeda6e88f3d6f1",
+      "title": "Universal Successor Features Approximators",
+      "venue": "International Conference on Learning Representations",
+      "year": 2018,
+      "referenceCount": 33,
+      "citationCount": 136,
+      "authors": [
+        {
+          "authorId": "2311858",
+          "name": "Diana Borsa"
+        },
+        {
+          "authorId": "1689289",
+          "name": "André Barreto"
+        },
+        {
+          "authorId": "34660073",
+          "name": "John Quan"
+        },
+        {
+          "authorId": "3187297",
+          "name": "D. Mankowitz"
+        },
+        {
+          "authorId": "1708654",
+          "name": "R. Munos"
+        },
+        {
+          "authorId": "7634925",
+          "name": "H. V. Hasselt"
+        },
+        {
+          "authorId": "145824029",
+          "name": "David Silver"
+        },
+        {
+          "authorId": "1725157",
+          "name": "T. Schaul"
+        }
+      ]
+    },
+    {
+      "paperId": "b1cdd73c39fbe7b4e9b758389554efc51d121447",
+      "externalIds": {
+        "DBLP": "journals/finr/LiTPMW22",
+        "PubMedCentral": "9868235",
+        "DOI": "10.3389/fnbot.2022.1081242",
+        "CorpusId": 249642286,
+        "PubMed": "36699950"
+      },
+      "url": "https://www.semanticscholar.org/paper/b1cdd73c39fbe7b4e9b758389554efc51d121447",
+      "title": "Realistic Actor-Critic: A framework for balance between value overestimation and underestimation",
+      "venue": "Frontiers in Neurorobotics",
+      "year": 2023,
+      "referenceCount": 68,
+      "citationCount": 9,
+      "authors": [
+        {
+          "authorId": "2143204744",
+          "name": "Sicen Li"
+        },
+        {
+          "authorId": "2151875551",
+          "name": "Qinyun Tang"
+        },
+        {
+          "authorId": "46767237",
+          "name": "Yiming Pang"
+        },
+        {
+          "authorId": "2170236920",
+          "name": "Xinmeng Ma"
+        },
+        {
+          "authorId": "2096527",
+          "name": "G. Wang"
+        }
+      ]
+    },
+    {
+      "paperId": "f57ad283f8d55c3f49d36dcc4673243ec352f6c7",
+      "externalIds": {
+        "ArXiv": "2206.04672",
+        "DBLP": "journals/corr/abs-2206-04672",
+        "DOI": "10.48550/arXiv.2206.04672",
+        "CorpusId": 249538529
+      },
+      "url": "https://www.semanticscholar.org/paper/f57ad283f8d55c3f49d36dcc4673243ec352f6c7",
+      "title": "Overcoming the Spectral Bias of Neural Value Approximation",
+      "venue": "International Conference on Learning Representations",
+      "year": 2022,
+      "referenceCount": 73,
+      "citationCount": 30,
+      "authors": [
+        {
+          "authorId": "145703741",
+          "name": "Ge Yang"
+        },
+        {
+          "authorId": "150004828",
+          "name": "A. Ajay"
+        },
+        {
+          "authorId": "33932184",
+          "name": "Pulkit Agrawal"
+        }
+      ]
+    },
+    {
+      "paperId": "2ed2c760f29c0388f02924668c3074bea4c70946",
+      "externalIds": {
+        "MAG": "2374344369",
+        "CorpusId": 124862827
+      },
+      "url": "https://www.semanticscholar.org/paper/2ed2c760f29c0388f02924668c3074bea4c70946",
+      "title": "Performance analysis of fuzzy universal approximator based on Gauss-type membership function",
+      "venue": "",
+      "year": 2014,
+      "referenceCount": 0,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2089501527",
+          "name": "Xiao Lin-li"
+        }
+      ]
+    }
+  ]
+}

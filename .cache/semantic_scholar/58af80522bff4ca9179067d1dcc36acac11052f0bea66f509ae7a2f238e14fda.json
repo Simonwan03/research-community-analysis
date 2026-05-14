@@ -1,0 +1,267 @@
+{
+  "total": 11,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "99d1d9367879c5f3adc3aa78a2e68b5b165176cd",
+      "externalIds": {
+        "MAG": "2963383839",
+        "DBLP": "journals/corr/abs-1712-08968",
+        "ArXiv": "1712.08968",
+        "CorpusId": 3157317
+      },
+      "url": "https://www.semanticscholar.org/paper/99d1d9367879c5f3adc3aa78a2e68b5b165176cd",
+      "title": "Spurious Local Minima are Common in Two-Layer ReLU Neural Networks",
+      "venue": "International Conference on Machine Learning",
+      "year": 2017,
+      "referenceCount": 31,
+      "citationCount": 283,
+      "authors": [
+        {
+          "authorId": "3306459",
+          "name": "Itay Safran"
+        },
+        {
+          "authorId": "1768909",
+          "name": "Ohad Shamir"
+        }
+      ]
+    },
+    {
+      "paperId": "7543a7f8729efa90f4b0f7e82215e692d8669b64",
+      "externalIds": {
+        "CorpusId": 260547771
+      },
+      "url": "https://www.semanticscholar.org/paper/7543a7f8729efa90f4b0f7e82215e692d8669b64",
+      "title": "Spurious Local Minima are Common in Two-Layer ReLU Neural Networks",
+      "venue": "",
+      "year": 2018,
+      "referenceCount": 0,
+      "citationCount": 5,
+      "authors": []
+    },
+    {
+      "paperId": "7e3614191373b0bb8e17ec0d7ecdb1e9e8fd11b2",
+      "externalIds": {
+        "ArXiv": "2604.09412",
+        "CorpusId": 287352128
+      },
+      "url": "https://www.semanticscholar.org/paper/7e3614191373b0bb8e17ec0d7ecdb1e9e8fd11b2",
+      "title": "Sharp description of local minima in the loss landscape of high-dimensional two-layer ReLU neural networks",
+      "venue": "",
+      "year": 2026,
+      "referenceCount": 61,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2362441710",
+          "name": "Jie Huang"
+        },
+        {
+          "authorId": "2326988160",
+          "name": "Bruno Loureiro"
+        },
+        {
+          "authorId": "114860583",
+          "name": "Stefano Sarao Mannelli"
+        }
+      ]
+    },
+    {
+      "paperId": "79972c93d02d1a37f72b3d9a85c23ab55d438b9b",
+      "externalIds": {
+        "MAG": "3035267860",
+        "DBLP": "journals/corr/abs-2006-05900",
+        "CorpusId": 219558284
+      },
+      "url": "https://www.semanticscholar.org/paper/79972c93d02d1a37f72b3d9a85c23ab55d438b9b",
+      "title": "All Local Minima are Global for Two-Layer ReLU Neural Networks: The Hidden Convex Optimization Landscape",
+      "venue": "arXiv.org",
+      "year": 2020,
+      "referenceCount": 28,
+      "citationCount": 23,
+      "authors": [
+        {
+          "authorId": "37669328",
+          "name": "Jonathan Lacotte"
+        },
+        {
+          "authorId": "3173667",
+          "name": "Mert Pilanci"
+        }
+      ]
+    },
+    {
+      "paperId": "b8449fd89c88fbf4a9a0130dd7b39a894f5d10d8",
+      "externalIds": {
+        "ArXiv": "2107.10370",
+        "DBLP": "conf/nips/ArjevaniF21",
+        "CorpusId": 236171036
+      },
+      "url": "https://www.semanticscholar.org/paper/b8449fd89c88fbf4a9a0130dd7b39a894f5d10d8",
+      "title": "Analytic Study of Families of Spurious Minima in Two-Layer ReLU Neural Networks",
+      "venue": "Neural Information Processing Systems",
+      "year": 2021,
+      "referenceCount": 70,
+      "citationCount": 21,
+      "authors": [
+        {
+          "authorId": "2864002",
+          "name": "Yossi Arjevani"
+        },
+        {
+          "authorId": "2056168145",
+          "name": "M. Field"
+        }
+      ]
+    },
+    {
+      "paperId": "4a8c79e5412af493ee8dafd5ef9134a297640c4e",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2410-02348",
+        "ArXiv": "2410.02348",
+        "DOI": "10.48550/arXiv.2410.02348",
+        "CorpusId": 273098178
+      },
+      "url": "https://www.semanticscholar.org/paper/4a8c79e5412af493ee8dafd5ef9134a297640c4e",
+      "title": "Simplicity bias and optimization threshold in two-layer ReLU networks",
+      "venue": "International Conference on Machine Learning",
+      "year": 2024,
+      "referenceCount": 70,
+      "citationCount": 8,
+      "authors": [
+        {
+          "authorId": "51219265",
+          "name": "Etienne Boursier"
+        },
+        {
+          "authorId": "2874440",
+          "name": "Nicolas Flammarion"
+        }
+      ]
+    },
+    {
+      "paperId": "63664d0ef6c8d0b8f7768e9e5535cb911e565fcb",
+      "externalIds": {
+        "DBLP": "journals/simods/BaiGS23",
+        "ArXiv": "2201.01965",
+        "DOI": "10.1137/21m1467134",
+        "CorpusId": 245769685
+      },
+      "url": "https://www.semanticscholar.org/paper/63664d0ef6c8d0b8f7768e9e5535cb911e565fcb",
+      "title": "Efficient Global Optimization of Two-layer ReLU Networks: Quadratic-time Algorithms and Adversarial Training",
+      "venue": "SIAM Journal on Mathematics of Data Science",
+      "year": 2022,
+      "referenceCount": 54,
+      "citationCount": 19,
+      "authors": [
+        {
+          "authorId": "2115297196",
+          "name": "Yatong Bai"
+        },
+        {
+          "authorId": "2105612963",
+          "name": "Tanmay Gautam"
+        },
+        {
+          "authorId": "1685407",
+          "name": "S. Sojoudi"
+        }
+      ]
+    },
+    {
+      "paperId": "f91248a4f587f89f1d1d8e557cee08b8114686d9",
+      "externalIds": {
+        "MAG": "2774044172",
+        "DBLP": "conf/icml/DuLTSP18",
+        "ArXiv": "1712.00779",
+        "CorpusId": 3461537
+      },
+      "url": "https://www.semanticscholar.org/paper/f91248a4f587f89f1d1d8e557cee08b8114686d9",
+      "title": "Gradient Descent Learns One-hidden-layer CNN: Don't be Afraid of Spurious Local Minima",
+      "venue": "International Conference on Machine Learning",
+      "year": 2017,
+      "referenceCount": 65,
+      "citationCount": 241,
+      "authors": [
+        {
+          "authorId": "145697585",
+          "name": "S. Du"
+        },
+        {
+          "authorId": "2421201",
+          "name": "J. Lee"
+        },
+        {
+          "authorId": "39402399",
+          "name": "Yuandong Tian"
+        },
+        {
+          "authorId": "1719347",
+          "name": "B. Póczos"
+        },
+        {
+          "authorId": "2403534211",
+          "name": "Aarti Singh"
+        }
+      ]
+    },
+    {
+      "paperId": "f051e3d78164cb10283e3fd893c6266641eb8fea",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2505-22578",
+        "ArXiv": "2505.22578",
+        "DOI": "10.48550/arXiv.2505.22578",
+        "CorpusId": 278959765
+      },
+      "url": "https://www.semanticscholar.org/paper/f051e3d78164cb10283e3fd893c6266641eb8fea",
+      "title": "Benignity of loss landscape with weight decay requires both large overparametrization and initialization",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "referenceCount": 59,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2363876554",
+          "name": "Etienne Boursier"
+        },
+        {
+          "authorId": "2363873955",
+          "name": "Matthew Bowditch"
+        },
+        {
+          "authorId": "2286029364",
+          "name": "Matthias Englert"
+        },
+        {
+          "authorId": "2053196751",
+          "name": "Ranko Lazic"
+        }
+      ]
+    },
+    {
+      "paperId": "2684d0e5bd5d0f154b93e5a452f3264a09883468",
+      "externalIds": {
+        "MAG": "122910057",
+        "CorpusId": 115233504
+      },
+      "url": "https://www.semanticscholar.org/paper/2684d0e5bd5d0f154b93e5a452f3264a09883468",
+      "title": "Improving convergence in neural networks",
+      "venue": "",
+      "year": 1989,
+      "referenceCount": 0,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "4260148",
+          "name": "J. Meany"
+        },
+        {
+          "authorId": "2493625",
+          "name": "R. Pimmel"
+        }
+      ]
+    }
+  ]
+}

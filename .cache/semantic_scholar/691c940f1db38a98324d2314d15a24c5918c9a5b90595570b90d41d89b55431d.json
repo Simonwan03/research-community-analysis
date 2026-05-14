@@ -1,0 +1,308 @@
+{
+  "total": 8547,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "06f894cdf4acf080f73d3d0a0b924bfc70c66c71",
+      "externalIds": {
+        "MAG": "2803323821",
+        "DBLP": "conf/icml/ChenXCY18",
+        "CorpusId": 51825781
+      },
+      "url": "https://www.semanticscholar.org/paper/06f894cdf4acf080f73d3d0a0b924bfc70c66c71",
+      "title": "SADAGRAD: Strongly Adaptive Stochastic Gradient Methods",
+      "venue": "International Conference on Machine Learning",
+      "year": 2018,
+      "referenceCount": 18,
+      "citationCount": 30,
+      "authors": [
+        {
+          "authorId": "2424252",
+          "name": "Zaiyi Chen"
+        },
+        {
+          "authorId": "2110289529",
+          "name": "Yi Xu"
+        },
+        {
+          "authorId": "2227868312",
+          "name": "Enhong Chen"
+        },
+        {
+          "authorId": "40381920",
+          "name": "Tianbao Yang"
+        }
+      ]
+    },
+    {
+      "paperId": "4baabe81670772edb9952d6c15381a814af8d2a8",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2407-08100",
+        "ArXiv": "2407.08100",
+        "DOI": "10.48550/arXiv.2407.08100",
+        "CorpusId": 271097389
+      },
+      "url": "https://www.semanticscholar.org/paper/4baabe81670772edb9952d6c15381a814af8d2a8",
+      "title": "Non-convergence of Adam and other adaptive stochastic gradient descent optimization methods for non-vanishing learning rates",
+      "venue": "arXiv.org",
+      "year": 2024,
+      "referenceCount": 0,
+      "citationCount": 9,
+      "authors": [
+        {
+          "authorId": "2307468824",
+          "name": "Steffen Dereich"
+        },
+        {
+          "authorId": "2148654888",
+          "name": "R. Graeber"
+        },
+        {
+          "authorId": "3151729",
+          "name": "Arnulf Jentzen"
+        }
+      ]
+    },
+    {
+      "paperId": "aea1c31a472fcf8779f7e7f1e2053b063be5868d",
+      "externalIds": {
+        "ArXiv": "2508.04950",
+        "DBLP": "journals/corr/abs-2508-04950",
+        "DOI": "10.48550/arXiv.2508.04950",
+        "CorpusId": 280545843
+      },
+      "url": "https://www.semanticscholar.org/paper/aea1c31a472fcf8779f7e7f1e2053b063be5868d",
+      "title": "Compressed Decentralized Momentum Stochastic Gradient Methods for Nonconvex Optimization",
+      "venue": "Trans. Mach. Learn. Res.",
+      "year": 2025,
+      "referenceCount": 59,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "2267088086",
+          "name": "Wei Liu"
+        },
+        {
+          "authorId": "2375136564",
+          "name": "Anweshit Panda"
+        },
+        {
+          "authorId": "2296697741",
+          "name": "Ujwal Pandey"
+        },
+        {
+          "authorId": "1845912658",
+          "name": "Christopher Brissette"
+        },
+        {
+          "authorId": "2286135662",
+          "name": "Yikang Shen"
+        },
+        {
+          "authorId": "2874809",
+          "name": "George M. Slota"
+        },
+        {
+          "authorId": "2291075164",
+          "name": "Naigang Wang"
+        },
+        {
+          "authorId": "2155098483",
+          "name": "Jiewei Chen"
+        },
+        {
+          "authorId": "2320765124",
+          "name": "Yangyang Xu"
+        }
+      ]
+    },
+    {
+      "paperId": "8f3249d6306c2f0e2df45e5d907dc0d13d7c6427",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2208-05287",
+        "ArXiv": "2208.05287",
+        "DOI": "10.48550/arXiv.2208.05287",
+        "CorpusId": 251468099
+      },
+      "url": "https://www.semanticscholar.org/paper/8f3249d6306c2f0e2df45e5d907dc0d13d7c6427",
+      "title": "Adaptive Learning Rates for Faster Stochastic Gradient Methods",
+      "venue": "arXiv.org",
+      "year": 2022,
+      "referenceCount": 54,
+      "citationCount": 13,
+      "authors": [
+        {
+          "authorId": "65876806",
+          "name": "Samuel Horváth"
+        },
+        {
+          "authorId": "144950781",
+          "name": "Konstantin Mishchenko"
+        },
+        {
+          "authorId": "2662221",
+          "name": "Peter Richtárik"
+        }
+      ]
+    },
+    {
+      "paperId": "bc9b799d50bf14f3b5b3af87a137a748be1854ef",
+      "externalIds": {
+        "ArXiv": "2308.06703",
+        "DBLP": "journals/corr/abs-2308-06703",
+        "DOI": "10.48550/arXiv.2308.06703",
+        "CorpusId": 260887371
+      },
+      "url": "https://www.semanticscholar.org/paper/bc9b799d50bf14f3b5b3af87a137a748be1854ef",
+      "title": "Understanding the robustness difference between stochastic gradient descent and adaptive gradient methods",
+      "venue": "Trans. Mach. Learn. Res.",
+      "year": 2023,
+      "referenceCount": 78,
+      "citationCount": 9,
+      "authors": [
+        {
+          "authorId": "17852969",
+          "name": "A. Ma"
+        },
+        {
+          "authorId": "7303313",
+          "name": "Yangchen Pan"
+        },
+        {
+          "authorId": "5689899",
+          "name": "Amir-massoud Farahmand"
+        }
+      ]
+    },
+    {
+      "paperId": "e08e71820c09043b92b4614f4038e8da71e0e427",
+      "externalIds": {
+        "ArXiv": "2301.11235",
+        "CorpusId": 256275003
+      },
+      "url": "https://www.semanticscholar.org/paper/e08e71820c09043b92b4614f4038e8da71e0e427",
+      "title": "Handbook of Convergence Theorems for (Stochastic) Gradient Methods",
+      "venue": "",
+      "year": 2023,
+      "referenceCount": 44,
+      "citationCount": 211,
+      "authors": [
+        {
+          "authorId": "2533918",
+          "name": "Guillaume Garrigos"
+        },
+        {
+          "authorId": "11043660",
+          "name": "Robert Mansel Gower"
+        }
+      ]
+    },
+    {
+      "paperId": "c511751d38c694dde8047eea08d83db65e64a19f",
+      "externalIds": {
+        "DBLP": "journals/jmlr/0015024",
+        "CorpusId": 273426547
+      },
+      "url": "https://www.semanticscholar.org/paper/c511751d38c694dde8047eea08d83db65e64a19f",
+      "title": "Almost Sure Convergence Rates Analysis and Saddle Avoidance of Stochastic Gradient Methods",
+      "venue": "Journal of machine learning research",
+      "year": 2024,
+      "referenceCount": 68,
+      "citationCount": 9,
+      "authors": [
+        {
+          "authorId": "2265651726",
+          "name": "Jun Liu"
+        },
+        {
+          "authorId": "2112461482",
+          "name": "Ye Yuan"
+        }
+      ]
+    },
+    {
+      "paperId": "c6b6255afa79f14482e7d2dfc97278fe92ce1f41",
+      "externalIds": {
+        "DBLP": "journals/tsp/ChenSY21a",
+        "DOI": "10.1109/TSP.2021.3099977",
+        "CorpusId": 237247046
+      },
+      "url": "https://www.semanticscholar.org/paper/c6b6255afa79f14482e7d2dfc97278fe92ce1f41",
+      "title": "Communication-Adaptive Stochastic Gradient Methods for Distributed Learning",
+      "venue": "IEEE Transactions on Signal Processing",
+      "year": 2021,
+      "referenceCount": 0,
+      "citationCount": 19,
+      "authors": [
+        {
+          "authorId": "143874667",
+          "name": "Tianyi Chen"
+        },
+        {
+          "authorId": "2116969719",
+          "name": "Yuejiao Sun"
+        },
+        {
+          "authorId": "6833606",
+          "name": "W. Yin"
+        }
+      ]
+    },
+    {
+      "paperId": "b2e7fbe58257e8bc7f2db5f1aa5dd0ebcedf6a62",
+      "externalIds": {
+        "ArXiv": "2303.01370",
+        "DBLP": "journals/tmlr/Godichon-Baggioni25",
+        "CorpusId": 257280142
+      },
+      "url": "https://www.semanticscholar.org/paper/b2e7fbe58257e8bc7f2db5f1aa5dd0ebcedf6a62",
+      "title": "Non asymptotic analysis of Adaptive stochastic gradient algorithms and applications",
+      "venue": "Trans. Mach. Learn. Res.",
+      "year": 2023,
+      "referenceCount": 29,
+      "citationCount": 5,
+      "authors": [
+        {
+          "authorId": "1411064617",
+          "name": "Antoine Godichon-Baggioni"
+        },
+        {
+          "authorId": "101481318",
+          "name": "Pierre Tarrago"
+        }
+      ]
+    },
+    {
+      "paperId": "466a489d9f21a64f331120660b6a5c8c456192cf",
+      "externalIds": {
+        "DBLP": "journals/tmlr/WeissmannKAD25",
+        "CorpusId": 277742674
+      },
+      "url": "https://www.semanticscholar.org/paper/466a489d9f21a64f331120660b6a5c8c456192cf",
+      "title": "Almost Sure Convergence of Stochastic Gradient Methods under Gradient Domination",
+      "venue": "Trans. Mach. Learn. Res.",
+      "year": 2025,
+      "referenceCount": 64,
+      "citationCount": 7,
+      "authors": [
+        {
+          "authorId": "2275590700",
+          "name": "Simon Weissmann"
+        },
+        {
+          "authorId": "2253510501",
+          "name": "Sara Klein"
+        },
+        {
+          "authorId": "1469119618",
+          "name": "Waïss Azizian"
+        },
+        {
+          "authorId": "2261749036",
+          "name": "Leif Döring"
+        }
+      ]
+    }
+  ]
+}

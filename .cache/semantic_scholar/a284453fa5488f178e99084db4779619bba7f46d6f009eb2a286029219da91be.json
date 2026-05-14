@@ -1,0 +1,323 @@
+{
+  "total": 66,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "5a4312d668a9588c8ddc00fb7cf227a5240bce46",
+      "externalIds": {
+        "MAG": "2951239022",
+        "ArXiv": "1803.01088",
+        "DBLP": "conf/icml/FosterADLS18",
+        "CorpusId": 3677096
+      },
+      "url": "https://www.semanticscholar.org/paper/5a4312d668a9588c8ddc00fb7cf227a5240bce46",
+      "title": "Practical Contextual Bandits with Regression Oracles",
+      "venue": "International Conference on Machine Learning",
+      "year": 2018,
+      "referenceCount": 29,
+      "citationCount": 142,
+      "authors": [
+        {
+          "authorId": "26198391",
+          "name": "Dylan J. Foster"
+        },
+        {
+          "authorId": "40333747",
+          "name": "Alekh Agarwal"
+        },
+        {
+          "authorId": "144652072",
+          "name": "Miroslav Dudík"
+        },
+        {
+          "authorId": "2131127",
+          "name": "Haipeng Luo"
+        },
+        {
+          "authorId": "1716301",
+          "name": "R. Schapire"
+        }
+      ]
+    },
+    {
+      "paperId": "7fea97947532e9300e0d1a62908c45478ae2540b",
+      "externalIds": {
+        "DBLP": "conf/kdd/HarshaSASBRG025",
+        "DOI": "10.1145/3711896.3737086",
+        "CorpusId": 280477002
+      },
+      "url": "https://www.semanticscholar.org/paper/7fea97947532e9300e0d1a62908c45478ae2540b",
+      "title": "Practical Contextual Bandits for Large-Scale Structured Discrete Constrained Optimization Problems",
+      "venue": "Knowledge Discovery and Data Mining",
+      "year": 2025,
+      "referenceCount": 39,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2320469271",
+          "name": "Pavithra Harsha"
+        },
+        {
+          "authorId": "144315538",
+          "name": "C. Subramanian"
+        },
+        {
+          "authorId": "2181335316",
+          "name": "Naoki Abe"
+        },
+        {
+          "authorId": "2260387235",
+          "name": "Shivaram Subramanian"
+        },
+        {
+          "authorId": "2319830614",
+          "name": "Amadou Ba"
+        },
+        {
+          "authorId": "2387922375",
+          "name": "Kevin Arturo Fernández Román"
+        },
+        {
+          "authorId": "2387925113",
+          "name": "Mauricio Longinos Garrido"
+        },
+        {
+          "authorId": "2226460052",
+          "name": "Chandra Narayanaswami"
+        }
+      ]
+    },
+    {
+      "paperId": "d6df028e78951dd8f0cd3f606bae914f1a5bfddd",
+      "externalIds": {
+        "DBLP": "conf/icml/FosterR20",
+        "MAG": "3034274776",
+        "ArXiv": "2002.04926",
+        "CorpusId": 211082940
+      },
+      "url": "https://www.semanticscholar.org/paper/d6df028e78951dd8f0cd3f606bae914f1a5bfddd",
+      "title": "Beyond UCB: Optimal and Efficient Contextual Bandits with Regression Oracles",
+      "venue": "International Conference on Machine Learning",
+      "year": 2020,
+      "referenceCount": 67,
+      "citationCount": 241,
+      "authors": [
+        {
+          "authorId": "26198391",
+          "name": "Dylan J. Foster"
+        },
+        {
+          "authorId": "1680046",
+          "name": "A. Rakhlin"
+        }
+      ]
+    },
+    {
+      "paperId": "c055306f050dcb02f6f2ff9ebdc9ccd90c8ac934",
+      "externalIds": {
+        "ArXiv": "2210.11834",
+        "DBLP": "journals/corr/abs-2210-11834",
+        "DOI": "10.48550/arXiv.2210.11834",
+        "CorpusId": 253080419
+      },
+      "url": "https://www.semanticscholar.org/paper/c055306f050dcb02f6f2ff9ebdc9ccd90c8ac934",
+      "title": "Optimal Contextual Bandits with Knapsacks under Realizibility via Regression Oracles",
+      "venue": "International Conference on Artificial Intelligence and Statistics",
+      "year": 2022,
+      "referenceCount": 42,
+      "citationCount": 15,
+      "authors": [
+        {
+          "authorId": "2112895644",
+          "name": "Yuxuan Han"
+        },
+        {
+          "authorId": "2188711768",
+          "name": "Jialin Zeng"
+        },
+        {
+          "authorId": "2155652986",
+          "name": "Yang Wang"
+        },
+        {
+          "authorId": "40844475",
+          "name": "Yangzhen Xiang"
+        },
+        {
+          "authorId": "34821501",
+          "name": "Jiheng Zhang"
+        }
+      ]
+    },
+    {
+      "paperId": "6c4f209e2a378d3bc0b33bdb81906a6e6725e2f8",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2102-13240",
+        "ArXiv": "2102.13240",
+        "CorpusId": 232068647
+      },
+      "url": "https://www.semanticscholar.org/paper/6c4f209e2a378d3bc0b33bdb81906a6e6725e2f8",
+      "title": "Adapting to misspecification in contextual bandits with offline regression oracles",
+      "venue": "International Conference on Machine Learning",
+      "year": 2021,
+      "referenceCount": 19,
+      "citationCount": 26,
+      "authors": [
+        {
+          "authorId": "47318645",
+          "name": "Sanath Kumar Krishnamurthy"
+        },
+        {
+          "authorId": "1388505341",
+          "name": "Vitor Hadad"
+        },
+        {
+          "authorId": "2631417",
+          "name": "S. Athey"
+        }
+      ]
+    },
+    {
+      "paperId": "0a820808217feffbe8ba180c46b79c706c226e7a",
+      "externalIds": {
+        "DBLP": "conf/nips/ZhangZVLM23",
+        "ArXiv": "2302.08631",
+        "DOI": "10.52202/075280-1334",
+        "CorpusId": 259203521
+      },
+      "url": "https://www.semanticscholar.org/paper/0a820808217feffbe8ba180c46b79c706c226e7a",
+      "title": "Practical Contextual Bandits with Feedback Graphs",
+      "venue": "Neural Information Processing Systems",
+      "year": 2023,
+      "referenceCount": 37,
+      "citationCount": 10,
+      "authors": [
+        {
+          "authorId": "1988285293",
+          "name": "Mengxiao Zhang"
+        },
+        {
+          "authorId": "2108543360",
+          "name": "Yuheng Zhang"
+        },
+        {
+          "authorId": "3390712",
+          "name": "Olga Vrousgou"
+        },
+        {
+          "authorId": "2131127",
+          "name": "Haipeng Luo"
+        },
+        {
+          "authorId": "3040175",
+          "name": "Paul Mineiro"
+        }
+      ]
+    },
+    {
+      "paperId": "f5cf5c6a32159de8cdad514437c03fe94b09cc4c",
+      "externalIds": {
+        "CorpusId": 236771464
+      },
+      "url": "https://www.semanticscholar.org/paper/f5cf5c6a32159de8cdad514437c03fe94b09cc4c",
+      "title": "Adapting to Misspecification in Contextual Bandits with Offline Regression Oracles",
+      "venue": "",
+      "year": 2021,
+      "referenceCount": 0,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "146151665",
+          "name": "A. Outline"
+        }
+      ]
+    },
+    {
+      "paperId": "01d6751b642cf7b216a124dd9d69c45aa3801d28",
+      "externalIds": {
+        "ArXiv": "2602.05019",
+        "DBLP": "journals/corr/abs-2602-05019",
+        "DOI": "10.48550/arXiv.2602.05019",
+        "CorpusId": 285303587
+      },
+      "url": "https://www.semanticscholar.org/paper/01d6751b642cf7b216a124dd9d69c45aa3801d28",
+      "title": "A Simple Reduction Scheme for Constrained Contextual Bandits with Adversarial Contexts via Regression",
+      "venue": "arXiv.org",
+      "year": 2026,
+      "referenceCount": 56,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2342503986",
+          "name": "Dhruv Sarkar"
+        },
+        {
+          "authorId": "2261282574",
+          "name": "A. Sinha"
+        }
+      ]
+    },
+    {
+      "paperId": "d082a02baab9ec980a7cea3576f3249639875759",
+      "externalIds": {
+        "ArXiv": "2211.07484",
+        "DBLP": "journals/jmlr/SlivkinsZSF24",
+        "CorpusId": 257637225
+      },
+      "url": "https://www.semanticscholar.org/paper/d082a02baab9ec980a7cea3576f3249639875759",
+      "title": "Contextual Bandits with Packing and Covering Constraints: A Modular Lagrangian Approach via Regression",
+      "venue": "Annual Conference Computational Learning Theory",
+      "year": 2022,
+      "referenceCount": 82,
+      "citationCount": 29,
+      "authors": [
+        {
+          "authorId": "2158559",
+          "name": "Aleksandrs Slivkins"
+        },
+        {
+          "authorId": "2178963",
+          "name": "Karthik Abinav Sankararaman"
+        },
+        {
+          "authorId": "26198391",
+          "name": "Dylan J. Foster"
+        }
+      ]
+    },
+    {
+      "paperId": "8c19a8c623c76210e55d2a78c439ffdf8736b015",
+      "externalIds": {
+        "DBLP": "conf/icml/ZhuF0M22",
+        "ArXiv": "2207.05836",
+        "DOI": "10.48550/arXiv.2207.05836",
+        "CorpusId": 250360843
+      },
+      "url": "https://www.semanticscholar.org/paper/8c19a8c623c76210e55d2a78c439ffdf8736b015",
+      "title": "Contextual Bandits with Large Action Spaces: Made Practical",
+      "venue": "International Conference on Machine Learning",
+      "year": 2022,
+      "referenceCount": 78,
+      "citationCount": 34,
+      "authors": [
+        {
+          "authorId": "31997644",
+          "name": "Yinglun Zhu"
+        },
+        {
+          "authorId": "26198391",
+          "name": "Dylan J. Foster"
+        },
+        {
+          "authorId": "144162125",
+          "name": "J. Langford"
+        },
+        {
+          "authorId": "3040175",
+          "name": "Paul Mineiro"
+        }
+      ]
+    }
+  ]
+}

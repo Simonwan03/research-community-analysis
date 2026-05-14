@@ -1,0 +1,303 @@
+{
+  "total": 20,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "249ac07c5b87f44b85500e2d26b68a7edb93e83d",
+      "externalIds": {
+        "MAG": "2963168530",
+        "DBLP": "conf/icml/MiconiSC18",
+        "ArXiv": "1804.02464",
+        "CorpusId": 4714955
+      },
+      "url": "https://www.semanticscholar.org/paper/249ac07c5b87f44b85500e2d26b68a7edb93e83d",
+      "title": "Differentiable plasticity: training plastic neural networks with backpropagation",
+      "venue": "International Conference on Machine Learning",
+      "year": 2018,
+      "referenceCount": 34,
+      "citationCount": 181,
+      "authors": [
+        {
+          "authorId": "1934321",
+          "name": "Thomas Miconi"
+        },
+        {
+          "authorId": "2552141",
+          "name": "J. Clune"
+        },
+        {
+          "authorId": "1846883",
+          "name": "Kenneth O. Stanley"
+        }
+      ]
+    },
+    {
+      "paperId": "77cac74a0dddc42c8ed77277ec10510635747aae",
+      "externalIds": {
+        "DBLP": "journals/ijon/GerlinghoffLGW23",
+        "ArXiv": "2211.05412",
+        "DOI": "10.48550/arXiv.2211.05412",
+        "CorpusId": 253446993
+      },
+      "url": "https://www.semanticscholar.org/paper/77cac74a0dddc42c8ed77277ec10510635747aae",
+      "title": "Desire Backpropagation: A Lightweight Training Algorithm for Multi-Layer Spiking Neural Networks based on Spike-Timing-Dependent Plasticity",
+      "venue": "Neurocomputing",
+      "year": 2022,
+      "referenceCount": 83,
+      "citationCount": 6,
+      "authors": [
+        {
+          "authorId": "2122580007",
+          "name": "Daniel Gerlinghoff"
+        },
+        {
+          "authorId": null,
+          "name": "Tao Luo"
+        },
+        {
+          "authorId": "2092816365",
+          "name": "R. Goh"
+        },
+        {
+          "authorId": "3339059",
+          "name": "W. Wong"
+        }
+      ]
+    },
+    {
+      "paperId": "146c231532d4e38de95e63368dcd09d0f8cea291",
+      "externalIds": {
+        "MAG": "2906841252",
+        "DBLP": "conf/iclr/MiconiRCS19",
+        "ArXiv": "2002.10585",
+        "CorpusId": 53474174
+      },
+      "url": "https://www.semanticscholar.org/paper/146c231532d4e38de95e63368dcd09d0f8cea291",
+      "title": "Backpropamine: training self-modifying neural networks with differentiable neuromodulated plasticity",
+      "venue": "International Conference on Learning Representations",
+      "year": 2018,
+      "referenceCount": 54,
+      "citationCount": 100,
+      "authors": [
+        {
+          "authorId": "1934321",
+          "name": "Thomas Miconi"
+        },
+        {
+          "authorId": "2064309559",
+          "name": "Aditya Rawal"
+        },
+        {
+          "authorId": "2552141",
+          "name": "J. Clune"
+        },
+        {
+          "authorId": "1846883",
+          "name": "Kenneth O. Stanley"
+        }
+      ]
+    },
+    {
+      "paperId": "a079513d80268f8c3d45f668161abb508b5a97da",
+      "externalIds": {
+        "DBLP": "conf/commnet/WeiNWB24",
+        "DOI": "10.1109/CommNet63022.2024.10793336",
+        "CorpusId": 274827530
+      },
+      "url": "https://www.semanticscholar.org/paper/a079513d80268f8c3d45f668161abb508b5a97da",
+      "title": "A Comparative Study of Supervised Learning Algorithms for Spiking Neural Networks",
+      "venue": "International Conference on Advanced Communication Technologies and Networking",
+      "year": 2024,
+      "referenceCount": 21,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "2276004088",
+          "name": "Yongtao Wei"
+        },
+        {
+          "authorId": "2279843601",
+          "name": "Farid Naït-Abdesselam"
+        },
+        {
+          "authorId": "2186747229",
+          "name": "Siqi Wang"
+        },
+        {
+          "authorId": "2340972279",
+          "name": "Aziz Benlarbi-Delaï"
+        }
+      ]
+    },
+    {
+      "paperId": "654f471921e8097ab3e954103f9997ceaec60494",
+      "externalIds": {
+        "DBLP": "journals/mlst/HildebrandK24",
+        "ArXiv": "2403.01776",
+        "DOI": "10.1088/2632-2153/ad95da",
+        "CorpusId": 268248949
+      },
+      "url": "https://www.semanticscholar.org/paper/654f471921e8097ab3e954103f9997ceaec60494",
+      "title": "Hybrid data-driven and physics-informed regularized learning of cyclic plasticity with neural networks",
+      "venue": "Machine Learning: Science and Technology",
+      "year": 2024,
+      "referenceCount": 59,
+      "citationCount": 5,
+      "authors": [
+        {
+          "authorId": "2221207702",
+          "name": "Stefan Hildebrand"
+        },
+        {
+          "authorId": "2332392682",
+          "name": "Sandra Klinge"
+        }
+      ]
+    },
+    {
+      "paperId": "d8ae657488796ea943d1eb61feb55deb4d4537ec",
+      "externalIds": {
+        "PubMedCentral": "8603828",
+        "DOI": "10.3389/fnins.2021.756876",
+        "CorpusId": 241601564,
+        "PubMed": "34803591"
+      },
+      "url": "https://www.semanticscholar.org/paper/d8ae657488796ea943d1eb61feb55deb4d4537ec",
+      "title": "SSTDP: Supervised Spike Timing Dependent Plasticity for Efficient Spiking Neural Network Training",
+      "venue": "Frontiers in Neuroscience",
+      "year": 2021,
+      "referenceCount": 56,
+      "citationCount": 71,
+      "authors": [
+        {
+          "authorId": "1491233985",
+          "name": "Fangxin Liu"
+        },
+        {
+          "authorId": "1902008743",
+          "name": "Wenbo Zhao"
+        },
+        {
+          "authorId": "1730776446",
+          "name": "Yongbiao Chen"
+        },
+        {
+          "authorId": "2108184060",
+          "name": "Zongwu Wang"
+        },
+        {
+          "authorId": "2122900858",
+          "name": "Tao Yang"
+        },
+        {
+          "authorId": "2148655643",
+          "name": "Li Jiang"
+        }
+      ]
+    },
+    {
+      "paperId": "5134ee18dd9d4fc0e71eb9529231041e1c79f47f",
+      "externalIds": {
+        "CorpusId": 195728332
+      },
+      "url": "https://www.semanticscholar.org/paper/5134ee18dd9d4fc0e71eb9529231041e1c79f47f",
+      "title": "Backpropamine : meta-training self-modifying neural networks with gradient descent",
+      "venue": "",
+      "year": 2018,
+      "referenceCount": 32,
+      "citationCount": 1,
+      "authors": []
+    },
+    {
+      "paperId": "31489a5e72341c6656878039f8f4337f2ce619fe",
+      "externalIds": {
+        "DOI": "10.31026/j.eng.2022.04.03",
+        "CorpusId": 247875178
+      },
+      "url": "https://www.semanticscholar.org/paper/31489a5e72341c6656878039f8f4337f2ce619fe",
+      "title": "Prediction of Shear Strength Parameters of Gypseous Soil using Artificial Neural Networks",
+      "venue": "Jurnal Engineering",
+      "year": 2022,
+      "referenceCount": 17,
+      "citationCount": 7,
+      "authors": [
+        {
+          "authorId": "2161061429",
+          "name": "Dunya S. Al-zubaidy"
+        },
+        {
+          "authorId": "2103887409",
+          "name": "Khalid R. Aljanabi"
+        },
+        {
+          "authorId": "98167854",
+          "name": "Zeyad S. M. Khaled"
+        }
+      ]
+    },
+    {
+      "paperId": "a5894112956ff24d4c67ccd5a928b3d25c96afa1",
+      "externalIds": {
+        "MAG": "2977185073",
+        "ArXiv": "1812.06574",
+        "DBLP": "journals/corr/abs-1812-06574",
+        "DOI": "10.1016/j.neunet.2019.09.007",
+        "CorpusId": 56387285,
+        "PubMed": "31593843"
+      },
+      "url": "https://www.semanticscholar.org/paper/a5894112956ff24d4c67ccd5a928b3d25c96afa1",
+      "title": "A Biologically Plausible Supervised Learning Method for Spiking Neural Networks Using the Symmetric STDP Rule",
+      "venue": "Neural Networks",
+      "year": 2018,
+      "referenceCount": 74,
+      "citationCount": 184,
+      "authors": [
+        {
+          "authorId": "49897672",
+          "name": "Yunzhe Hao"
+        },
+        {
+          "authorId": "145004602",
+          "name": "Xuhui Huang"
+        },
+        {
+          "authorId": "2069777295",
+          "name": "Meng Dong"
+        },
+        {
+          "authorId": "2109511511",
+          "name": "Bo Xu"
+        }
+      ]
+    },
+    {
+      "paperId": "3c1fe58716a3277f79724ff869d29d1f0b7b8b6d",
+      "externalIds": {
+        "DBLP": "conf/icmi/XuLP22",
+        "DOI": "10.1145/3536220.3563690",
+        "CorpusId": 253304183
+      },
+      "url": "https://www.semanticscholar.org/paper/3c1fe58716a3277f79724ff869d29d1f0b7b8b6d",
+      "title": "Endowing Spiking Neural Networks with Homeostatic Adaptivity for APS-DVS Bimodal Scenarios",
+      "venue": "ICMI Companion",
+      "year": 2022,
+      "referenceCount": 22,
+      "citationCount": 5,
+      "authors": [
+        {
+          "authorId": "47723421",
+          "name": "M. Xu"
+        },
+        {
+          "authorId": "2146423004",
+          "name": "Faqiang Liu"
+        },
+        {
+          "authorId": "47624604",
+          "name": "Jing Pei"
+        }
+      ]
+    }
+  ]
+}

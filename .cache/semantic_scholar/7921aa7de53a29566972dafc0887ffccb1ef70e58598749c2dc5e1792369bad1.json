@@ -1,0 +1,345 @@
+{
+  "total": 37002,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "04034bd69fe6c7ecbdfd670fcac3a5ae12aab02f",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-1802-06891",
+        "ArXiv": "1802.06891",
+        "MAG": "2963945817",
+        "CorpusId": 3409333
+      },
+      "url": "https://www.semanticscholar.org/paper/04034bd69fe6c7ecbdfd670fcac3a5ae12aab02f",
+      "title": "Fourier Policy Gradients",
+      "venue": "International Conference on Machine Learning",
+      "year": 2018,
+      "referenceCount": 41,
+      "citationCount": 15,
+      "authors": [
+        {
+          "authorId": "8616063",
+          "name": "M. Fellows"
+        },
+        {
+          "authorId": "2474449",
+          "name": "K. Ciosek"
+        },
+        {
+          "authorId": "1766767",
+          "name": "Shimon Whiteson"
+        }
+      ]
+    },
+    {
+      "paperId": "0a492d169d8e926509961c089c509d7c6318d8e1",
+      "externalIds": {
+        "ArXiv": "2107.04235",
+        "DOI": "10.3390/signals2040039",
+        "CorpusId": 236957415
+      },
+      "url": "https://www.semanticscholar.org/paper/0a492d169d8e926509961c089c509d7c6318d8e1",
+      "title": "Blind Source Separation in Polyphonic Music Recordings Using Deep Neural Networks Trained via Policy Gradients",
+      "venue": "Signals",
+      "year": 2021,
+      "referenceCount": 44,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2071436505",
+          "name": "S. Schulze"
+        },
+        {
+          "authorId": "113649682",
+          "name": "Johannes Leuschner"
+        },
+        {
+          "authorId": "2756844",
+          "name": "E. King"
+        }
+      ]
+    },
+    {
+      "paperId": "a0d3bb9ac50cf1f8a9cfcfbd2c3c80efd4131cb1",
+      "externalIds": {
+        "MAG": "2962940941",
+        "CorpusId": 199584292
+      },
+      "url": "https://www.semanticscholar.org/paper/a0d3bb9ac50cf1f8a9cfcfbd2c3c80efd4131cb1",
+      "title": "Model-Based Bayesian Sparse Sampling for Data Efficient Control",
+      "venue": "",
+      "year": 2019,
+      "referenceCount": 38,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "49005542",
+          "name": "T. Tse"
+        }
+      ]
+    },
+    {
+      "paperId": "7ca474640bff78efcf74e44e1d394c6d0ad8d6f9",
+      "externalIds": {
+        "CorpusId": 21739237
+      },
+      "url": "https://www.semanticscholar.org/paper/7ca474640bff78efcf74e44e1d394c6d0ad8d6f9",
+      "title": "Reinforcement Learning for tactile-based finger gaiting",
+      "venue": "",
+      "year": 2016,
+      "referenceCount": 21,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2104161369",
+          "name": "Lena Mareike Plage"
+        },
+        {
+          "authorId": "145197867",
+          "name": "Jan Peters"
+        },
+        {
+          "authorId": "4338399",
+          "name": "Daniel Tanneberg"
+        },
+        {
+          "authorId": "2095226111",
+          "name": "Mareike Plage"
+        }
+      ]
+    },
+    {
+      "paperId": "a962042acdb211745df8d5fc1c2398cc82f6ca7b",
+      "externalIds": {
+        "CorpusId": 284488909
+      },
+      "url": "https://www.semanticscholar.org/paper/a962042acdb211745df8d5fc1c2398cc82f6ca7b",
+      "title": "Temporally Smoothed Incremental Heuristic Dynamic Programming for Command-filtered Cascaded Online Learning Flight Control System",
+      "venue": "",
+      "year": null,
+      "referenceCount": 27,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2110489103",
+          "name": "Yifei Li"
+        },
+        {
+          "authorId": "2347253781",
+          "name": "Erik-Jan van Kampen"
+        }
+      ]
+    },
+    {
+      "paperId": "cc1658260272b8deb85fd4de7edba36ca83ccc95",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2509-09265",
+        "ArXiv": "2509.09265",
+        "DOI": "10.48550/arXiv.2509.09265",
+        "CorpusId": 281252591
+      },
+      "url": "https://www.semanticscholar.org/paper/cc1658260272b8deb85fd4de7edba36ca83ccc95",
+      "title": "Harnessing Uncertainty: Entropy-Modulated Policy Gradients for Long-Horizon LLM Agents",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "referenceCount": 49,
+      "citationCount": 25,
+      "authors": [
+        {
+          "authorId": "2187553093",
+          "name": "Jiawei Wang"
+        },
+        {
+          "authorId": "2380082851",
+          "name": "Jiacai Liu"
+        },
+        {
+          "authorId": "2363909834",
+          "name": "Yu Fu"
+        },
+        {
+          "authorId": "2375394837",
+          "name": "Yingru Li"
+        },
+        {
+          "authorId": "2381407516",
+          "name": "Xintao Wang"
+        },
+        {
+          "authorId": "2268547458",
+          "name": "Yuan Lin"
+        },
+        {
+          "authorId": "2348516170",
+          "name": "Yu Yue"
+        },
+        {
+          "authorId": "2404638412",
+          "name": "Lin Zhang"
+        },
+        {
+          "authorId": "2380465924",
+          "name": "Yang Wang"
+        },
+        {
+          "authorId": "2380195450",
+          "name": "Ke Wang"
+        }
+      ]
+    },
+    {
+      "paperId": "16cf8e8b67b5a2a2c03c93d4b398404c2436687e",
+      "externalIds": {
+        "ArXiv": "2507.21053",
+        "DBLP": "journals/corr/abs-2507-21053",
+        "DOI": "10.48550/arXiv.2507.21053",
+        "CorpusId": 280323254
+      },
+      "url": "https://www.semanticscholar.org/paper/16cf8e8b67b5a2a2c03c93d4b398404c2436687e",
+      "title": "Flow Matching Policy Gradients",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "referenceCount": 75,
+      "citationCount": 44,
+      "authors": [
+        {
+          "authorId": "2306066645",
+          "name": "David McAllister"
+        },
+        {
+          "authorId": "2338889811",
+          "name": "Songwei Ge"
+        },
+        {
+          "authorId": "2242880086",
+          "name": "Brent Yi"
+        },
+        {
+          "authorId": "2359652583",
+          "name": "Chung Min Kim"
+        },
+        {
+          "authorId": "2271523560",
+          "name": "Ethan Weber"
+        },
+        {
+          "authorId": "2337083924",
+          "name": "Hongsuk Choi"
+        },
+        {
+          "authorId": "2374431266",
+          "name": "Haiwen Feng"
+        },
+        {
+          "authorId": "20615377",
+          "name": "Angjoo Kanazawa"
+        }
+      ]
+    },
+    {
+      "paperId": "eb2d6aa65b31077bf02ac4bf045515ad3167b4b4",
+      "externalIds": {
+        "ArXiv": "2407.20230",
+        "DBLP": "journals/corr/abs-2407-20230",
+        "DOI": "10.48550/arXiv.2407.20230",
+        "CorpusId": 271533995
+      },
+      "url": "https://www.semanticscholar.org/paper/eb2d6aa65b31077bf02ac4bf045515ad3167b4b4",
+      "title": "SAPG: Split and Aggregate Policy Gradients",
+      "venue": "International Conference on Machine Learning",
+      "year": 2024,
+      "referenceCount": 32,
+      "citationCount": 19,
+      "authors": [
+        {
+          "authorId": "2313635546",
+          "name": "Jayesh Singla"
+        },
+        {
+          "authorId": "2107063491",
+          "name": "Ananye Agarwal"
+        },
+        {
+          "authorId": "2269734979",
+          "name": "Deepak Pathak"
+        }
+      ]
+    },
+    {
+      "paperId": "2b292ff89d808fba10579871591a22f1649cd039",
+      "externalIds": {
+        "ArXiv": "1705.08926",
+        "DBLP": "journals/corr/FoersterFANW17",
+        "MAG": "2617547828",
+        "DOI": "10.1609/aaai.v32i1.11794",
+        "CorpusId": 19141434
+      },
+      "url": "https://www.semanticscholar.org/paper/2b292ff89d808fba10579871591a22f1649cd039",
+      "title": "Counterfactual Multi-Agent Policy Gradients",
+      "venue": "AAAI Conference on Artificial Intelligence",
+      "year": 2017,
+      "referenceCount": 52,
+      "citationCount": 2500,
+      "authors": [
+        {
+          "authorId": "145356667",
+          "name": "Jakob N. Foerster"
+        },
+        {
+          "authorId": "38698094",
+          "name": "Gregory Farquhar"
+        },
+        {
+          "authorId": "2285516",
+          "name": "Triantafyllos Afouras"
+        },
+        {
+          "authorId": "39683441",
+          "name": "Nantas Nardelli"
+        },
+        {
+          "authorId": "1766767",
+          "name": "Shimon Whiteson"
+        }
+      ]
+    },
+    {
+      "paperId": "4dfa18924c945620e25418f43fbf6fb08275bdc8",
+      "externalIds": {
+        "DBLP": "conf/icml/MaNGDB24",
+        "ArXiv": "2402.05290",
+        "DOI": "10.48550/arXiv.2402.05290",
+        "CorpusId": 267548115
+      },
+      "url": "https://www.semanticscholar.org/paper/4dfa18924c945620e25418f43fbf6fb08275bdc8",
+      "title": "Do Transformer World Models Give Better Policy Gradients?",
+      "venue": "International Conference on Machine Learning",
+      "year": 2024,
+      "referenceCount": 67,
+      "citationCount": 7,
+      "authors": [
+        {
+          "authorId": "2221642624",
+          "name": "Michel Ma"
+        },
+        {
+          "authorId": "2283309189",
+          "name": "Tianwei Ni"
+        },
+        {
+          "authorId": "2261387505",
+          "name": "Clement Gehring"
+        },
+        {
+          "authorId": "1410392725",
+          "name": "P. D'Oro"
+        },
+        {
+          "authorId": "145180695",
+          "name": "Pierre-Luc Bacon"
+        }
+      ]
+    }
+  ]
+}

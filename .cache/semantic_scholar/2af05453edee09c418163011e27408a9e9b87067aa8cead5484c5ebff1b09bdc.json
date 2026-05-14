@@ -1,0 +1,261 @@
+{
+  "total": 18,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "cb9ddcb36a02ad8e70d32f099984bdd04fa21989",
+      "externalIds": {
+        "DBLP": "conf/icml/TokuiS17",
+        "MAG": "2740840795",
+        "CorpusId": 27599679
+      },
+      "url": "https://www.semanticscholar.org/paper/cb9ddcb36a02ad8e70d32f099984bdd04fa21989",
+      "title": "Evaluating the Variance of Likelihood-Ratio Gradient Estimators",
+      "venue": "International Conference on Machine Learning",
+      "year": 2017,
+      "referenceCount": 35,
+      "citationCount": 15,
+      "authors": [
+        {
+          "authorId": "3117618",
+          "name": "Seiya Tokui"
+        },
+        {
+          "authorId": "73355331",
+          "name": "Issei Sato"
+        }
+      ]
+    },
+    {
+      "paperId": "28146afb4e983349aab0f03955f145e59ec72093",
+      "externalIds": {
+        "DBLP": "journals/ml/HannaNS21",
+        "DOI": "10.1007/s10994-020-05938-9",
+        "CorpusId": 235614216
+      },
+      "url": "https://www.semanticscholar.org/paper/28146afb4e983349aab0f03955f145e59ec72093",
+      "title": "Importance sampling in reinforcement learning with an estimated behavior policy",
+      "venue": "Machine-mediated learning",
+      "year": 2021,
+      "referenceCount": 66,
+      "citationCount": 35,
+      "authors": [
+        {
+          "authorId": "34719248",
+          "name": "Josiah P. Hanna"
+        },
+        {
+          "authorId": "2791038",
+          "name": "S. Niekum"
+        },
+        {
+          "authorId": "144848112",
+          "name": "P. Stone"
+        }
+      ]
+    },
+    {
+      "paperId": "d10012a1d8656374d2cae8dcd15a4d680cbf0490",
+      "externalIds": {
+        "MAG": "2950161752",
+        "ArXiv": "1804.01116",
+        "DBLP": "conf/cdc/SubramanianM18",
+        "DOI": "10.1109/CDC.2018.8619180",
+        "CorpusId": 4611682
+      },
+      "url": "https://www.semanticscholar.org/paper/d10012a1d8656374d2cae8dcd15a4d680cbf0490",
+      "title": "Renewal Monte Carlo: Renewal Theory Based Reinforcement Learning",
+      "venue": "IEEE Conference on Decision and Control",
+      "year": 2018,
+      "referenceCount": 43,
+      "citationCount": 13,
+      "authors": [
+        {
+          "authorId": "19234491",
+          "name": "Jayakumar Subramanian"
+        },
+        {
+          "authorId": "1811910",
+          "name": "Aditya Mahajan"
+        }
+      ]
+    },
+    {
+      "paperId": "d8778f909eb027bcb7c5122bca23acb680ded647",
+      "externalIds": {
+        "MAG": "2963446624",
+        "DBLP": "conf/iclr/TuckerLGM19",
+        "CorpusId": 260492776
+      },
+      "url": "https://www.semanticscholar.org/paper/d8778f909eb027bcb7c5122bca23acb680ded647",
+      "title": "Doubly Reparameterized Gradient Estimators for Monte Carlo Objectives",
+      "venue": "International Conference on Learning Representations",
+      "year": 2019,
+      "referenceCount": 24,
+      "citationCount": 31,
+      "authors": [
+        {
+          "authorId": "145499435",
+          "name": "G. Tucker"
+        },
+        {
+          "authorId": "36119458",
+          "name": "Dieterich Lawson"
+        },
+        {
+          "authorId": "2046135",
+          "name": "S. Gu"
+        },
+        {
+          "authorId": "2772217",
+          "name": "Chris J. Maddison"
+        }
+      ]
+    },
+    {
+      "paperId": "7b197888e56de97825f35f7490c0ae70bdeb9079",
+      "externalIds": {
+        "ArXiv": "2505.17300",
+        "DBLP": "journals/corr/abs-2505-17300",
+        "DOI": "10.48550/arXiv.2505.17300",
+        "CorpusId": 278886729
+      },
+      "url": "https://www.semanticscholar.org/paper/7b197888e56de97825f35f7490c0ae70bdeb9079",
+      "title": "Statistical Inference for Online Algorithms",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "referenceCount": 71,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2226156097",
+          "name": "Selina Carter"
+        },
+        {
+          "authorId": "115518779",
+          "name": "A. Kuchibhotla"
+        }
+      ]
+    },
+    {
+      "paperId": "856a0a02ab1bf6614a95bfe5e548447a41fa4c47",
+      "externalIds": {
+        "DBLP": "conf/wsc/RubinsteinS92",
+        "MAG": "2061843190",
+        "DOI": "10.1145/167293.167632",
+        "CorpusId": 16790034
+      },
+      "url": "https://www.semanticscholar.org/paper/856a0a02ab1bf6614a95bfe5e548447a41fa4c47",
+      "title": "On optimal choice of reference parameters in the likelihood ratio method",
+      "venue": "Online World Conference on Soft Computing in Industrial Applications",
+      "year": 1992,
+      "referenceCount": 4,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "35064932",
+          "name": "R. Rubinstein"
+        },
+        {
+          "authorId": "31474779",
+          "name": "A. Shapiro"
+        }
+      ]
+    },
+    {
+      "paperId": "ce4b3eec1d2eb8e26e434e9210efdc310585b9b1",
+      "externalIds": {
+        "CorpusId": 265099329
+      },
+      "url": "https://www.semanticscholar.org/paper/ce4b3eec1d2eb8e26e434e9210efdc310585b9b1",
+      "title": "On Signal-to-Noise Ratio Issues in Variational Inference for Deep Gaussian Processes",
+      "venue": "",
+      "year": 2021,
+      "referenceCount": 0,
+      "citationCount": 0,
+      "authors": []
+    },
+    {
+      "paperId": "8f1eb8941f4a229a52bd122f4a8928922375e946",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2107-09359",
+        "ArXiv": "2107.09359",
+        "DOI": "10.1109/IJCNN52387.2021.9533642",
+        "CorpusId": 235416745
+      },
+      "url": "https://www.semanticscholar.org/paper/8f1eb8941f4a229a52bd122f4a8928922375e946",
+      "title": "An Empirical Analysis of Measure-Valued Derivatives for Policy Gradients",
+      "venue": "IEEE International Joint Conference on Neural Network",
+      "year": 2021,
+      "referenceCount": 34,
+      "citationCount": 7,
+      "authors": [
+        {
+          "authorId": "2067739440",
+          "name": "João Carvalho"
+        },
+        {
+          "authorId": "35387097",
+          "name": "Davide Tateo"
+        },
+        {
+          "authorId": "81555516",
+          "name": "F. Muratore"
+        },
+        {
+          "authorId": "145197867",
+          "name": "Jan Peters"
+        }
+      ]
+    },
+    {
+      "paperId": "097de33325b16e727fe498d4cd85d7178924a852",
+      "externalIds": {
+        "MAG": "292060696",
+        "CorpusId": 55104822
+      },
+      "url": "https://www.semanticscholar.org/paper/097de33325b16e727fe498d4cd85d7178924a852",
+      "title": "A Comparison Of Gradient Estimation Techniques For European Call Options",
+      "venue": "",
+      "year": 2012,
+      "referenceCount": 17,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "50260668",
+          "name": "Lingyan Cao"
+        },
+        {
+          "authorId": "144161482",
+          "name": "Zhengfeng Guo"
+        }
+      ]
+    },
+    {
+      "paperId": "615886b1994cc79965ad3701cb146eeb1a9e0b2c",
+      "externalIds": {
+        "ArXiv": "2203.03917",
+        "DBLP": "journals/corr/abs-2203-03917",
+        "DOI": "10.48550/arXiv.2203.03917",
+        "CorpusId": 247315478
+      },
+      "url": "https://www.semanticscholar.org/paper/615886b1994cc79965ad3701cb146eeb1a9e0b2c",
+      "title": "An Analysis of Measure-Valued Derivatives for Policy Gradients",
+      "venue": "arXiv.org",
+      "year": 2022,
+      "referenceCount": 10,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2067739440",
+          "name": "João Carvalho"
+        },
+        {
+          "authorId": "2107720654",
+          "name": "Jan Peters"
+        }
+      ]
+    }
+  ]
+}

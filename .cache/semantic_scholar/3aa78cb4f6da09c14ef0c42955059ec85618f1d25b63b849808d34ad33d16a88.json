@@ -1,0 +1,320 @@
+{
+  "total": 8219,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "5121abd2c4acb21ca6295c8cf0299f6e5e2db21b",
+      "externalIds": {
+        "MAG": "2803335843",
+        "DBLP": "conf/icml/SuW18",
+        "CorpusId": 51881402
+      },
+      "url": "https://www.semanticscholar.org/paper/5121abd2c4acb21ca6295c8cf0299f6e5e2db21b",
+      "title": "Learning Low-Dimensional Temporal Representations",
+      "venue": "International Conference on Machine Learning",
+      "year": 2018,
+      "referenceCount": 37,
+      "citationCount": 9,
+      "authors": [
+        {
+          "authorId": "48274587",
+          "name": "Bing Su"
+        },
+        {
+          "authorId": "2259480275",
+          "name": "Y. Wu"
+        }
+      ]
+    },
+    {
+      "paperId": "69946fbd310a60e3fe938654e8571a92ef4ffa67",
+      "externalIds": {
+        "DBLP": "journals/pami/SuW20",
+        "MAG": "2946924028",
+        "DOI": "10.1109/TPAMI.2019.2919303",
+        "CorpusId": 169038623,
+        "PubMed": "31144626"
+      },
+      "url": "https://www.semanticscholar.org/paper/69946fbd310a60e3fe938654e8571a92ef4ffa67",
+      "title": "Learning Low-Dimensional Temporal Representations with Latent Alignments",
+      "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+      "year": 2020,
+      "referenceCount": 88,
+      "citationCount": 4,
+      "authors": [
+        {
+          "authorId": "48274587",
+          "name": "Bing Su"
+        },
+        {
+          "authorId": "50118130",
+          "name": "Ying Wu"
+        }
+      ]
+    },
+    {
+      "paperId": "97c8f926b8cae527edca9789e5b22c2be8934596",
+      "externalIds": {
+        "ArXiv": "2604.12958",
+        "DBLP": "conf/mass/DaiZRZWL25",
+        "DOI": "10.1109/MASS66014.2025.00030",
+        "CorpusId": 282762050
+      },
+      "url": "https://www.semanticscholar.org/paper/97c8f926b8cae527edca9789e5b22c2be8934596",
+      "title": "Learning Low-Dimensional Representation for O-RAN Testing via Transformer-ESN",
+      "venue": "IEEE International Conference on Mobile Adhoc and Sensor Systems",
+      "year": 2025,
+      "referenceCount": 19,
+      "citationCount": 4,
+      "authors": [
+        {
+          "authorId": "2274015947",
+          "name": "Jiongyu Dai"
+        },
+        {
+          "authorId": "2376422594",
+          "name": "Raymond Zhao"
+        },
+        {
+          "authorId": "2266752316",
+          "name": "Farhad Rezazadeh"
+        },
+        {
+          "authorId": "2257125418",
+          "name": "Lizhong Zheng"
+        },
+        {
+          "authorId": "2326551996",
+          "name": "Haining Wang"
+        },
+        {
+          "authorId": "2257201192",
+          "name": "Lingjia Liu"
+        }
+      ]
+    },
+    {
+      "paperId": "720925de9426bd5fd61c2e772b7151a40905d039",
+      "externalIds": {
+        "DBLP": "journals/access/HoK23",
+        "DOI": "10.1109/ACCESS.2023.3258540",
+        "CorpusId": 257615615
+      },
+      "url": "https://www.semanticscholar.org/paper/720925de9426bd5fd61c2e772b7151a40905d039",
+      "title": "CST-RL: Contrastive Spatio-Temporal Representations for Reinforcement Learning",
+      "venue": "IEEE Access",
+      "year": 2023,
+      "referenceCount": 40,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "31826341",
+          "name": "Chih-Kai Ho"
+        },
+        {
+          "authorId": "1718490",
+          "name": "C. King"
+        }
+      ]
+    },
+    {
+      "paperId": "f70a60e9327986ec89570ddc8272b78b089a50ff",
+      "externalIds": {
+        "DBLP": "journals/make/NietoMoraDM25",
+        "DOI": "10.3390/make7040109",
+        "CorpusId": 281530735
+      },
+      "url": "https://www.semanticscholar.org/paper/f70a60e9327986ec89570ddc8272b78b089a50ff",
+      "title": "Enhancing Soundscape Characterization and Pattern Analysis Using Low-Dimensional Deep Embeddings on a Large-Scale Dataset",
+      "venue": "Machine Learning and Knowledge Extraction",
+      "year": 2025,
+      "referenceCount": 69,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "1411465575",
+          "name": "D. A. Nieto-Mora"
+        },
+        {
+          "authorId": "1403066343",
+          "name": "L. Duque-Muñoz"
+        },
+        {
+          "authorId": "1395919111",
+          "name": "J. D. Martínez-Vargas"
+        }
+      ]
+    },
+    {
+      "paperId": "83f5b041a8d9d1dd5d2b40a9ed7cf80b1e76e84e",
+      "externalIds": {
+        "ArXiv": "2407.20198",
+        "DBLP": "conf/miccai/WangFGG24",
+        "DOI": "10.48550/arXiv.2407.20198",
+        "CorpusId": 271533527
+      },
+      "url": "https://www.semanticscholar.org/paper/83f5b041a8d9d1dd5d2b40a9ed7cf80b1e76e84e",
+      "title": "SpaER: Learning Spatio-temporal Equivariant Representations for Fetal Brain Motion Tracking",
+      "venue": "PIPPI@MICCAI",
+      "year": 2024,
+      "referenceCount": 33,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "2313880830",
+          "name": "Jian Wang"
+        },
+        {
+          "authorId": "1780680828",
+          "name": "Razieh Faghihpirayesh"
+        },
+        {
+          "authorId": "2307007601",
+          "name": "Polina Golland"
+        },
+        {
+          "authorId": "2313861733",
+          "name": "Ali Gholipour"
+        }
+      ]
+    },
+    {
+      "paperId": "7d3e892b2d100c0e82041db97dbb8041dcb68e80",
+      "externalIds": {
+        "DBLP": "conf/icpram/SatoBSLKF24",
+        "DOI": "10.5220/0012577000003654",
+        "CorpusId": 268101660
+      },
+      "url": "https://www.semanticscholar.org/paper/7d3e892b2d100c0e82041db97dbb8041dcb68e80",
+      "title": "Sign Language Recognition Based on Subspace Representations in the Spatio-Temporal Frequency Domain",
+      "venue": "International Conference on Pattern Recognition Applications and Methods",
+      "year": 2024,
+      "referenceCount": 27,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2288633114",
+          "name": "Ryota Sato"
+        },
+        {
+          "authorId": "2051456781",
+          "name": "S. R. A. Beleza"
+        },
+        {
+          "authorId": "9174641",
+          "name": "Erica K. Shimomoto"
+        },
+        {
+          "authorId": "2294893272",
+          "name": "Matheus Silva de Lima"
+        },
+        {
+          "authorId": "2288646768",
+          "name": "Nobuko Kato"
+        },
+        {
+          "authorId": "2288641018",
+          "name": "Kazuhiro Fukui"
+        }
+      ]
+    },
+    {
+      "paperId": "c9947cc6a7c82ab44b1b973642f851ac29a80752",
+      "externalIds": {
+        "ArXiv": "2505.03825",
+        "DBLP": "journals/corr/abs-2505-03825",
+        "DOI": "10.1016/j.eswa.2025.127889",
+        "CorpusId": 278367760
+      },
+      "url": "https://www.semanticscholar.org/paper/c9947cc6a7c82ab44b1b973642f851ac29a80752",
+      "title": "Intelligently Augmented Contrastive Tensor Factorization: Empowering Multi-dimensional Time Series Classification in Low-Data Environments",
+      "venue": "Expert systems with applications",
+      "year": 2025,
+      "referenceCount": 62,
+      "citationCount": 5,
+      "authors": [
+        {
+          "authorId": "2003299",
+          "name": "Anushiya Arunan"
+        },
+        {
+          "authorId": "2143595563",
+          "name": "Yan Qin"
+        },
+        {
+          "authorId": "2278775809",
+          "name": "Xiaoli Li"
+        },
+        {
+          "authorId": "2240201374",
+          "name": "Chau Yuen"
+        }
+      ]
+    },
+    {
+      "paperId": "a160a44a6211f1abc8adedc29d63c386baccf1e4",
+      "externalIds": {
+        "DBLP": "conf/pkdd/FaruqueNCSZW23",
+        "ArXiv": "2304.14541",
+        "DOI": "10.48550/arXiv.2304.14541",
+        "CorpusId": 258418145
+      },
+      "url": "https://www.semanticscholar.org/paper/a160a44a6211f1abc8adedc29d63c386baccf1e4",
+      "title": "Deep Spatiotemporal Clustering: A Temporal Clustering Approach for Multi-dimensional Climate Data",
+      "venue": "ECML/PKDD",
+      "year": 2023,
+      "referenceCount": 29,
+      "citationCount": 9,
+      "authors": [
+        {
+          "authorId": "2047939629",
+          "name": "Omar Faruque"
+        },
+        {
+          "authorId": "2215777858",
+          "name": "Francis Ndikum Nji"
+        },
+        {
+          "authorId": "1506757389",
+          "name": "Mostafa Cham"
+        },
+        {
+          "authorId": "2390022916",
+          "name": "Rohan Salvi"
+        },
+        {
+          "authorId": "2215820122",
+          "name": "Xue Zheng"
+        },
+        {
+          "authorId": "1926440628",
+          "name": "Jianwu Wang"
+        }
+      ]
+    },
+    {
+      "paperId": "99bdb64bddb5ccad002d7f8ab74ef0d53443cf90",
+      "externalIds": {
+        "DOI": "10.1145/3757929",
+        "CorpusId": 280875787
+      },
+      "url": "https://www.semanticscholar.org/paper/99bdb64bddb5ccad002d7f8ab74ef0d53443cf90",
+      "title": "Trajectory Representation Learning on Grids and Road Networks with Spatio-Temporal Dynamics",
+      "venue": "ACM Transactions on Intelligent Systems and Technology",
+      "year": 2025,
+      "referenceCount": 60,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "2042705041",
+          "name": "Stefan Schestakov"
+        },
+        {
+          "authorId": "2331616222",
+          "name": "Simon Gottschalk"
+        }
+      ]
+    }
+  ]
+}

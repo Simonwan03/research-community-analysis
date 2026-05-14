@@ -1,0 +1,837 @@
+{
+  "offset": 0,
+  "citingPaperInfo": {
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/1501.03273, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "title": "Classification with Low Rank and Missing Data",
+    "authors": [
+      {
+        "authorId": "34840427",
+        "name": "Elad Hazan"
+      },
+      {
+        "authorId": "2679024",
+        "name": "Roi Livni"
+      },
+      {
+        "authorId": "144830983",
+        "name": "Y. Mansour"
+      }
+    ]
+  },
+  "data": [
+    {
+      "citedPaper": {
+        "paperId": "195043e4c13a635555c28dfab7ac534d10d78c12",
+        "externalIds": {
+          "DBLP": "journals/corr/abs-1909-05207",
+          "ArXiv": "1909.05207",
+          "MAG": "2513180554",
+          "DOI": "10.1561/2400000013",
+          "CorpusId": 30482768
+        },
+        "url": "https://www.semanticscholar.org/paper/195043e4c13a635555c28dfab7ac534d10d78c12",
+        "title": "Introduction to Online Convex Optimization",
+        "venue": "Found. Trends Optim.",
+        "year": 2016,
+        "referenceCount": 105,
+        "citationCount": 2201,
+        "authors": [
+          {
+            "authorId": "34840427",
+            "name": "Elad Hazan"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "7f811730da189856ca87c164756e7c19ddbb0c57",
+        "externalIds": {
+          "DBLP": "conf/icml/EbanMG14",
+          "MAG": "2156005874",
+          "CorpusId": 6295454
+        },
+        "url": "https://www.semanticscholar.org/paper/7f811730da189856ca87c164756e7c19ddbb0c57",
+        "title": "Discrete Chebyshev Classifiers",
+        "venue": "International Conference on Machine Learning",
+        "year": 2014,
+        "referenceCount": 28,
+        "citationCount": 16,
+        "authors": [
+          {
+            "authorId": "2740527",
+            "name": "Elad Eban"
+          },
+          {
+            "authorId": "2773280",
+            "name": "Elad Mezuman"
+          },
+          {
+            "authorId": "1786843",
+            "name": "A. Globerson"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "60372ae980918690edbdbd59e0d3c552a40eb0f9",
+        "externalIds": {
+          "MAG": "58673994",
+          "DBLP": "conf/colt/BerthetR13",
+          "CorpusId": 16329323
+        },
+        "url": "https://www.semanticscholar.org/paper/60372ae980918690edbdbd59e0d3c552a40eb0f9",
+        "title": "Complexity Theoretic Lower Bounds for Sparse Principal Component Detection",
+        "venue": "Annual Conference Computational Learning Theory",
+        "year": 2013,
+        "referenceCount": 49,
+        "citationCount": 261,
+        "authors": [
+          {
+            "authorId": "3169833",
+            "name": "Quentin Berthet"
+          },
+          {
+            "authorId": "2352281",
+            "name": "P. Rigollet"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "faf446cf71349c65e348744ee7798282c13de94d",
+        "externalIds": {
+          "MAG": "2294596448",
+          "DBLP": "journals/jmlr/ShamirS11",
+          "CorpusId": 8478984
+        },
+        "url": "https://www.semanticscholar.org/paper/faf446cf71349c65e348744ee7798282c13de94d",
+        "title": "Collaborative Filtering with the Trace Norm: Learning, Bounding, and Transducing",
+        "venue": "Annual Conference Computational Learning Theory",
+        "year": 2011,
+        "referenceCount": 24,
+        "citationCount": 44,
+        "authors": [
+          {
+            "authorId": "1768909",
+            "name": "Ohad Shamir"
+          },
+          {
+            "authorId": "1389955537",
+            "name": "S. Shalev-Shwartz"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "3f4916f97b21943e38d34f3f8c1b0cc6df858f0d",
+        "externalIds": {
+          "DBLP": "journals/tit/Cesa-BianchiSS11",
+          "MAG": "1989888201",
+          "DOI": "10.1109/TIT.2011.2164053",
+          "CorpusId": 15183370
+        },
+        "url": "https://www.semanticscholar.org/paper/3f4916f97b21943e38d34f3f8c1b0cc6df858f0d",
+        "title": "Online Learning of Noisy Data",
+        "venue": "IEEE Transactions on Information Theory",
+        "year": 2011,
+        "referenceCount": 23,
+        "citationCount": 54,
+        "authors": [
+          {
+            "authorId": "1388387856",
+            "name": "N. Cesa-Bianchi"
+          },
+          {
+            "authorId": "1389955537",
+            "name": "S. Shalev-Shwartz"
+          },
+          {
+            "authorId": "1768909",
+            "name": "Ohad Shamir"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "e93899c8f8e6cc5dd8f5b0a2f51d48025e6ba2cc",
+        "externalIds": {
+          "DBLP": "conf/icml/HazanK12a",
+          "MAG": "2950153148",
+          "ArXiv": "1206.4678",
+          "CorpusId": 10222106
+        },
+        "url": "https://www.semanticscholar.org/paper/e93899c8f8e6cc5dd8f5b0a2f51d48025e6ba2cc",
+        "title": "Linear Regression with Limited Observation",
+        "venue": "International Conference on Machine Learning",
+        "year": 2011,
+        "referenceCount": 14,
+        "citationCount": 48,
+        "authors": [
+          {
+            "authorId": "34840427",
+            "name": "Elad Hazan"
+          },
+          {
+            "authorId": "1711492",
+            "name": "Tomer Koren"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "04e4134c41e95ec7654f3adc3651b373f038a682",
+        "externalIds": {
+          "MAG": "2102138843",
+          "DBLP": "conf/nips/LeeRSST10",
+          "CorpusId": 712550
+        },
+        "url": "https://www.semanticscholar.org/paper/04e4134c41e95ec7654f3adc3651b373f038a682",
+        "title": "Practical Large-Scale Optimization for Max-norm Regularization",
+        "venue": "Neural Information Processing Systems",
+        "year": 2010,
+        "referenceCount": 19,
+        "citationCount": 166,
+        "authors": [
+          {
+            "authorId": "2421201",
+            "name": "J. Lee"
+          },
+          {
+            "authorId": "9229182",
+            "name": "B. Recht"
+          },
+          {
+            "authorId": "145124475",
+            "name": "R. Salakhutdinov"
+          },
+          {
+            "authorId": "1706280",
+            "name": "N. Srebro"
+          },
+          {
+            "authorId": "1788107",
+            "name": "J. Tropp"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "9b2a46afb792ad6a5cbc44765eedb573d6300503",
+        "externalIds": {
+          "MAG": "2160569988",
+          "DBLP": "conf/nips/GoldbergZRXN10",
+          "CorpusId": 8011610
+        },
+        "url": "https://www.semanticscholar.org/paper/9b2a46afb792ad6a5cbc44765eedb573d6300503",
+        "title": "Transduction with Matrix Completion: Three Birds with One Stone",
+        "venue": "Neural Information Processing Systems",
+        "year": 2010,
+        "referenceCount": 17,
+        "citationCount": 221,
+        "authors": [
+          {
+            "authorId": "2417893",
+            "name": "A. Goldberg"
+          },
+          {
+            "authorId": "1832364",
+            "name": "Xiaojin Zhu"
+          },
+          {
+            "authorId": "9229182",
+            "name": "B. Recht"
+          },
+          {
+            "authorId": "2150636897",
+            "name": "Jun-Ming Xu"
+          },
+          {
+            "authorId": "50033772",
+            "name": "R. Nowak"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "51d95ba525185d8bb817473f6e7f2da08d251086",
+        "externalIds": {
+          "MAG": "3021382045",
+          "DBLP": "journals/jmlr/Cesa-BianchiSS11",
+          "ArXiv": "1004.4421",
+          "DOI": "10.5555/1953048.2078197",
+          "CorpusId": 302422
+        },
+        "url": "https://www.semanticscholar.org/paper/51d95ba525185d8bb817473f6e7f2da08d251086",
+        "title": "Efficient Learning with Partially Observed Attributes",
+        "venue": "International Conference on Machine Learning",
+        "year": 2010,
+        "referenceCount": 33,
+        "citationCount": 93,
+        "authors": [
+          {
+            "authorId": "1388387856",
+            "name": "N. Cesa-Bianchi"
+          },
+          {
+            "authorId": "1389955537",
+            "name": "S. Shalev-Shwartz"
+          },
+          {
+            "authorId": "1768909",
+            "name": "Ohad Shamir"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "ec20b7f0bac3878b42d5a47258da899bc829d1e0",
+        "externalIds": {
+          "DBLP": "conf/nips/SalakhutdinovS10",
+          "MAG": "2953186933",
+          "ArXiv": "1002.2780",
+          "CorpusId": 2200455
+        },
+        "url": "https://www.semanticscholar.org/paper/ec20b7f0bac3878b42d5a47258da899bc829d1e0",
+        "title": "Collaborative Filtering in a Non-Uniform World: Learning with the Weighted Trace Norm",
+        "venue": "Neural Information Processing Systems",
+        "year": 2010,
+        "referenceCount": 22,
+        "citationCount": 242,
+        "authors": [
+          {
+            "authorId": "145124475",
+            "name": "R. Salakhutdinov"
+          },
+          {
+            "authorId": "1706280",
+            "name": "N. Srebro"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "a4cf35b6772b57aa838f7d6d0daad83d3e36cbb6",
+        "externalIds": {
+          "MAG": "2114609025",
+          "DBLP": "conf/nips/SridharanSS08",
+          "CorpusId": 7065301
+        },
+        "url": "https://www.semanticscholar.org/paper/a4cf35b6772b57aa838f7d6d0daad83d3e36cbb6",
+        "title": "Fast Rates for Regularized Objectives",
+        "venue": "Neural Information Processing Systems",
+        "year": 2008,
+        "referenceCount": 15,
+        "citationCount": 142,
+        "authors": [
+          {
+            "authorId": "37564609",
+            "name": "Karthik Sridharan"
+          },
+          {
+            "authorId": "1389955537",
+            "name": "S. Shalev-Shwartz"
+          },
+          {
+            "authorId": "1706280",
+            "name": "N. Srebro"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "c0d05cac959f07f924786d68f32f7a3c0d19f22b",
+        "externalIds": {
+          "MAG": "2198288948",
+          "DBLP": "journals/ml/DekelSX10",
+          "DOI": "10.1007/s10994-009-5124-8",
+          "CorpusId": 259138
+        },
+        "url": "https://www.semanticscholar.org/paper/c0d05cac959f07f924786d68f32f7a3c0d19f22b",
+        "title": "Learning to classify with missing and corrupted features",
+        "venue": "International Conference on Machine Learning",
+        "year": 2008,
+        "referenceCount": 27,
+        "citationCount": 176,
+        "authors": [
+          {
+            "authorId": "1716876",
+            "name": "O. Dekel"
+          },
+          {
+            "authorId": "1768909",
+            "name": "Ohad Shamir"
+          },
+          {
+            "authorId": "145942106",
+            "name": "Lin Xiao"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "3554953715a4d7af3d4c9201d4080899b84fbad7",
+        "externalIds": {
+          "MAG": "2128884519",
+          "DBLP": "journals/jmlr/ChechikHEAK08",
+          "DOI": "10.5555/1390681.1390682",
+          "CorpusId": 9738714
+        },
+        "url": "https://www.semanticscholar.org/paper/3554953715a4d7af3d4c9201d4080899b84fbad7",
+        "title": "Max-margin Classification of Data with Absent Features",
+        "venue": "Journal of machine learning research",
+        "year": 2008,
+        "referenceCount": 52,
+        "citationCount": 145,
+        "authors": [
+          {
+            "authorId": "1732280",
+            "name": "Gal Chechik"
+          },
+          {
+            "authorId": "1728179",
+            "name": "Geremy Heitz"
+          },
+          {
+            "authorId": "1684677",
+            "name": "G. Elidan"
+          },
+          {
+            "authorId": "1689992",
+            "name": "P. Abbeel"
+          },
+          {
+            "authorId": "1736370",
+            "name": "D. Koller"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "040c161f21e0fa57ac192ac826310f55d60277b0",
+        "externalIds": {
+          "DBLP": "journals/focm/CandesR09",
+          "MAG": "2124608575",
+          "ArXiv": "0805.4471",
+          "DOI": "10.1145/2184319.2184343",
+          "CorpusId": 8061516
+        },
+        "url": "https://www.semanticscholar.org/paper/040c161f21e0fa57ac192ac826310f55d60277b0",
+        "title": "Exact Matrix Completion via Convex Optimization",
+        "venue": "Foundations of Computational Mathematics",
+        "year": 2008,
+        "referenceCount": 73,
+        "citationCount": 6272,
+        "authors": [
+          {
+            "authorId": "2006869",
+            "name": "E. Candès"
+          },
+          {
+            "authorId": "9229182",
+            "name": "B. Recht"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "6dd9bb6b38e5b84616e207f00a181dbadce06937",
+        "externalIds": {
+          "MAG": "2114296159",
+          "DBLP": "conf/icml/GlobersonR06",
+          "DOI": "10.1145/1143844.1143889",
+          "CorpusId": 2116006
+        },
+        "url": "https://www.semanticscholar.org/paper/6dd9bb6b38e5b84616e207f00a181dbadce06937",
+        "title": "Nightmare at test time: robust learning by feature deletion",
+        "venue": "International Conference on Machine Learning",
+        "year": 2006,
+        "referenceCount": 13,
+        "citationCount": 365,
+        "authors": [
+          {
+            "authorId": "1786843",
+            "name": "A. Globerson"
+          },
+          {
+            "authorId": "9330607",
+            "name": "S. Roweis"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "64edd2c5c41e856695e1dcb950c0512c3a87edec",
+        "externalIds": {
+          "MAG": "2155912844",
+          "DBLP": "conf/www/ZieglerMKL05",
+          "DOI": "10.1145/1060745.1060754",
+          "CorpusId": 655375
+        },
+        "url": "https://www.semanticscholar.org/paper/64edd2c5c41e856695e1dcb950c0512c3a87edec",
+        "title": "Improving recommendation lists through topic diversification",
+        "venue": "The Web Conference",
+        "year": 2005,
+        "referenceCount": 35,
+        "citationCount": 2094,
+        "authors": [
+          {
+            "authorId": "3247247",
+            "name": "Cai-Nicolas Ziegler"
+          },
+          {
+            "authorId": "3039934",
+            "name": "S. McNee"
+          },
+          {
+            "authorId": "2478310",
+            "name": "J. Konstan"
+          },
+          {
+            "authorId": "1809410",
+            "name": "G. Lausen"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "cedf154c28178370d95510112413dc8cb48120a8",
+        "externalIds": {
+          "MAG": "2122090912",
+          "DBLP": "conf/nips/SrebroRJ04",
+          "CorpusId": 5048382
+        },
+        "url": "https://www.semanticscholar.org/paper/cedf154c28178370d95510112413dc8cb48120a8",
+        "title": "Maximum-Margin Matrix Factorization",
+        "venue": "Neural Information Processing Systems",
+        "year": 2004,
+        "referenceCount": 14,
+        "citationCount": 1226,
+        "authors": [
+          {
+            "authorId": "1706280",
+            "name": "N. Srebro"
+          },
+          {
+            "authorId": "35211659",
+            "name": "Jason D. M. Rennie"
+          },
+          {
+            "authorId": "35132120",
+            "name": "T. Jaakkola"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "cfc6d0c8260594ebc5dd20ee558d29b1014ed41a",
+        "externalIds": {
+          "MAG": "2157791002",
+          "DBLP": "journals/jmlr/CrammerS01",
+          "CorpusId": 10151608
+        },
+        "url": "https://www.semanticscholar.org/paper/cfc6d0c8260594ebc5dd20ee558d29b1014ed41a",
+        "title": "On the Algorithmic Implementation of Multiclass Kernel-based Vector Machines",
+        "venue": "Journal of machine learning research",
+        "year": 2002,
+        "referenceCount": 29,
+        "citationCount": 2369,
+        "authors": [
+          {
+            "authorId": "1693407",
+            "name": "K. Crammer"
+          },
+          {
+            "authorId": "1740765",
+            "name": "Y. Singer"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "c6ca4c2912db0708f6df1ad1525746915d392a45",
+        "externalIds": {
+          "DBLP": "journals/ir/GoldbergRGP01",
+          "MAG": "2117354486",
+          "DOI": "10.1023/A:1011419012209",
+          "CorpusId": 2851591
+        },
+        "url": "https://www.semanticscholar.org/paper/c6ca4c2912db0708f6df1ad1525746915d392a45",
+        "title": "Eigentaste: A Constant Time Collaborative Filtering Algorithm",
+        "venue": "Information retrieval (Boston)",
+        "year": 2001,
+        "referenceCount": 43,
+        "citationCount": 1678,
+        "authors": [
+          {
+            "authorId": "144344283",
+            "name": "Ken Goldberg"
+          },
+          {
+            "authorId": "47012025",
+            "name": "T. Roeder"
+          },
+          {
+            "authorId": "143701259",
+            "name": "Dhruv Gupta"
+          },
+          {
+            "authorId": "144846471",
+            "name": "Chris Perkins"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "6f813eee02c6cd3914cf0e4d1c3a77fe91368697",
+        "externalIds": {
+          "MAG": "2010549883",
+          "DBLP": "journals/jcss/Ben-DavidD98",
+          "DOI": "10.1145/168304.168353",
+          "CorpusId": 16623814
+        },
+        "url": "https://www.semanticscholar.org/paper/6f813eee02c6cd3914cf0e4d1c3a77fe91368697",
+        "title": "Learning with restricted focus of attention",
+        "venue": "Annual Conference Computational Learning Theory",
+        "year": 1993,
+        "referenceCount": 30,
+        "citationCount": 89,
+        "authors": [
+          {
+            "authorId": "1401829700",
+            "name": "Shai Ben-David"
+          },
+          {
+            "authorId": "2185919",
+            "name": "Eli Dichterman"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "f13987663364e399e7d9890088122fe60278f681",
+        "externalIds": {
+          "MAG": "2802099056",
+          "DOI": "10.2307/2349029",
+          "CorpusId": 125113713
+        },
+        "url": "https://www.semanticscholar.org/paper/f13987663364e399e7d9890088122fe60278f681",
+        "title": "Statistical Analysis with Missing Data.",
+        "venue": "",
+        "year": 1989,
+        "referenceCount": 0,
+        "citationCount": 8371,
+        "authors": [
+          {
+            "authorId": "2248961990",
+            "name": "M. Gibson"
+          },
+          {
+            "authorId": "145382036",
+            "name": "R. Little"
+          },
+          {
+            "authorId": "2235217",
+            "name": "D. Rubin"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "a29685354dab74d6a2e53031dfe32e05f84afd21",
+        "externalIds": {
+          "MAG": "2001947543",
+          "DOI": "10.1080/01621459.1952.10483446",
+          "CorpusId": 120274071
+        },
+        "url": "https://www.semanticscholar.org/paper/a29685354dab74d6a2e53031dfe32e05f84afd21",
+        "title": "A Generalization of Sampling Without Replacement from a Finite Universe",
+        "venue": "",
+        "year": 1952,
+        "referenceCount": 8,
+        "citationCount": 4786,
+        "authors": [
+          {
+            "authorId": "46630008",
+            "name": "D. Horvitz"
+          },
+          {
+            "authorId": "2107258175",
+            "name": "D. Thompson"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "Classification with low rank and missing data",
+        "venue": "arXiv preprint arXiv:1501.03273,",
+        "year": 2015,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "8c18aac3a5207bb98ce80d106f449128fdc6cd55",
+        "externalIds": {
+          "MAG": "2182722412",
+          "DBLP": "journals/mvl/Alcala-FdezFLDG11",
+          "CorpusId": 262474338
+        },
+        "url": "https://www.semanticscholar.org/paper/8c18aac3a5207bb98ce80d106f449128fdc6cd55",
+        "title": "KEEL Data-Mining Software Tool: Data Set Repository, Integration of Algorithms and Experimental Analysis Framework",
+        "venue": "J. Multiple Valued Log. Soft Comput.",
+        "year": 2011,
+        "referenceCount": 48,
+        "citationCount": 2392,
+        "authors": [
+          {
+            "authorId": "1398799093",
+            "name": "J. Alcalá-Fdez"
+          },
+          {
+            "authorId": "2160471634",
+            "name": "Alberto Fernández"
+          },
+          {
+            "authorId": "145748883",
+            "name": "Julián Luengo"
+          },
+          {
+            "authorId": "1736080",
+            "name": "J. Derrac"
+          },
+          {
+            "authorId": "39558258",
+            "name": "S. García"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "16c65bc854666bb0fe19631061d13a07734d2465",
+        "externalIds": {
+          "DBLP": "conf/aistats/SmolaVH05",
+          "MAG": "2215815030",
+          "CorpusId": 17096229
+        },
+        "url": "https://www.semanticscholar.org/paper/16c65bc854666bb0fe19631061d13a07734d2465",
+        "title": "Kernel Methods for Missing Variables",
+        "venue": "International Conference on Artificial Intelligence and Statistics",
+        "year": 2005,
+        "referenceCount": 16,
+        "citationCount": 286,
+        "authors": [
+          {
+            "authorId": "46234526",
+            "name": "Alex Smola"
+          },
+          {
+            "authorId": "145713876",
+            "name": "S. Vishwanathan"
+          },
+          {
+            "authorId": "143936663",
+            "name": "Thomas Hofmann"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "e39054d8b3c10aaa50e716230ef27db40f2f0c5c",
+        "externalIds": {
+          "DBLP": "phd/ndltd/Srebro04",
+          "MAG": "2119556711",
+          "CorpusId": 1841097
+        },
+        "url": "https://www.semanticscholar.org/paper/e39054d8b3c10aaa50e716230ef27db40f2f0c5c",
+        "title": "Learning with matrix factorizations",
+        "venue": "",
+        "year": 2004,
+        "referenceCount": 88,
+        "citationCount": 264,
+        "authors": [
+          {
+            "authorId": "1706280",
+            "name": "N. Srebro"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "0bf1e1a615f1c2c8097efb92f9f6f2732b4e861b",
+        "externalIds": {
+          "CorpusId": 8608209
+        },
+        "url": "https://www.semanticscholar.org/paper/0bf1e1a615f1c2c8097efb92f9f6f2732b4e861b",
+        "title": "25th Annual Conference on Learning Theory Near-Optimal Algorithms for Online Matrix Prediction",
+        "venue": "",
+        "year": null,
+        "referenceCount": 0,
+        "citationCount": 69,
+        "authors": []
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "86b7edea21cb82af9c0c04e53c66d7ad55e419b4",
+        "externalIds": {
+          "CorpusId": 53306004
+        },
+        "url": "https://www.semanticscholar.org/paper/86b7edea21cb82af9c0c04e53c66d7ad55e419b4",
+        "title": "Mathematical Programming manuscript No. (will be inserted by the editor) Pegasos: Primal Estimated sub-GrAdient SOlver for SVM",
+        "venue": "",
+        "year": null,
+        "referenceCount": 0,
+        "citationCount": 2340,
+        "authors": []
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "RL is a recipient of the Google Europe Fellowship in Learning Theory, and this research is supported in part by this Google Fellowship",
+        "venue": "RL is a recipient of the Google Europe Fellowship in Learning Theory, and this research is supported in part by this Google Fellowship",
+        "year": null,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    }
+  ]
+}

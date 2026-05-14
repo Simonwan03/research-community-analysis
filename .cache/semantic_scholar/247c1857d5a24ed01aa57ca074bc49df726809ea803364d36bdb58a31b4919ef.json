@@ -1,0 +1,434 @@
+{
+  "offset": 0,
+  "citingPaperInfo": {
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/1502.07073, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "title": "Strongly Adaptive Online Learning",
+    "authors": [
+      {
+        "authorId": "2898312",
+        "name": "Amit Daniely"
+      },
+      {
+        "authorId": "40048435",
+        "name": "Alon Gonen"
+      },
+      {
+        "authorId": "1389955537",
+        "name": "S. Shalev-Shwartz"
+      }
+    ]
+  },
+  "data": [
+    {
+      "citedPaper": {
+        "paperId": "9a749aba832571877efc3c0853bc7535e8f1b098",
+        "externalIds": {
+          "DOI": "10.1287/orms.2004.02.13",
+          "CorpusId": 64929134
+        },
+        "url": "https://www.semanticscholar.org/paper/9a749aba832571877efc3c0853bc7535e8f1b098",
+        "title": "Online Optimization",
+        "venue": "Volume 31, Number 2, April 2004",
+        "year": 2020,
+        "referenceCount": 30,
+        "citationCount": 20,
+        "authors": [
+          {
+            "authorId": "1805753",
+            "name": "Patrick Jaillet"
+          },
+          {
+            "authorId": "48996339",
+            "name": "Michael R. Wagner"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "f5bb67dc8e2c433aa594c53b38890f32d9729f19",
+        "externalIds": {
+          "MAG": "2143343660",
+          "ArXiv": "1311.1869",
+          "DBLP": "journals/corr/RakhlinS13",
+          "CorpusId": 9795289
+        },
+        "url": "https://www.semanticscholar.org/paper/f5bb67dc8e2c433aa594c53b38890f32d9729f19",
+        "title": "Optimization, Learning, and Games with Predictable Sequences",
+        "venue": "Neural Information Processing Systems",
+        "year": 2013,
+        "referenceCount": 11,
+        "citationCount": 418,
+        "authors": [
+          {
+            "authorId": "1680046",
+            "name": "A. Rakhlin"
+          },
+          {
+            "authorId": "37564609",
+            "name": "Karthik Sridharan"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "76526ed5867eafc077c0eaf40f514bf17dbce886",
+        "externalIds": {
+          "ArXiv": "1307.5944",
+          "DBLP": "journals/corr/HallW13",
+          "MAG": "1938299008",
+          "CorpusId": 15864187
+        },
+        "url": "https://www.semanticscholar.org/paper/76526ed5867eafc077c0eaf40f514bf17dbce886",
+        "title": "Online Optimization in Dynamic Environments",
+        "venue": "arXiv.org",
+        "year": 2013,
+        "referenceCount": 58,
+        "citationCount": 29,
+        "authors": [
+          {
+            "authorId": "1914480",
+            "name": "Eric C. Hall"
+          },
+          {
+            "authorId": "145952380",
+            "name": "R. Willett"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "bcce96a2a074448953fc61a29a84afbdfc8db55a",
+        "externalIds": {
+          "DBLP": "journals/ftml/Shalev-Shwartz12",
+          "MAG": "2077723394",
+          "DOI": "10.1561/2200000018",
+          "CorpusId": 51730029
+        },
+        "url": "https://www.semanticscholar.org/paper/bcce96a2a074448953fc61a29a84afbdfc8db55a",
+        "title": "Online Learning and Online Convex Optimization",
+        "venue": "Found. Trends Mach. Learn.",
+        "year": 2012,
+        "referenceCount": 48,
+        "citationCount": 2414,
+        "authors": [
+          {
+            "authorId": "1389955537",
+            "name": "S. Shalev-Shwartz"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "3aa4dba3d0ac0a3171ac8ee01469d608940d1c3b",
+        "externalIds": {
+          "MAG": "2400173518",
+          "DBLP": "journals/corr/abs-1202-3323",
+          "CorpusId": 9445375
+        },
+        "url": "https://www.semanticscholar.org/paper/3aa4dba3d0ac0a3171ac8ee01469d608940d1c3b",
+        "title": "A new look at shifting regret",
+        "venue": "arXiv.org",
+        "year": 2012,
+        "referenceCount": 12,
+        "citationCount": 32,
+        "authors": [
+          {
+            "authorId": "1388387856",
+            "name": "N. Cesa-Bianchi"
+          },
+          {
+            "authorId": "145555618",
+            "name": "P. Gaillard"
+          },
+          {
+            "authorId": "1755694",
+            "name": "G. Lugosi"
+          },
+          {
+            "authorId": "1806997",
+            "name": "Gilles Stoltz"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "5f2f2c848397b4619eeaf61b649881f4df88cb9b",
+        "externalIds": {
+          "MAG": "2805337148",
+          "DBLP": "journals/jmlr/BlumM07",
+          "DOI": "10.5555/1314498.1314543",
+          "CorpusId": 2100810
+        },
+        "url": "https://www.semanticscholar.org/paper/5f2f2c848397b4619eeaf61b649881f4df88cb9b",
+        "title": "From External to Internal Regret",
+        "venue": "Journal of machine learning research",
+        "year": 2005,
+        "referenceCount": 31,
+        "citationCount": 399,
+        "authors": [
+          {
+            "authorId": "1690967",
+            "name": "Avrim Blum"
+          },
+          {
+            "authorId": "144830983",
+            "name": "Y. Mansour"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "e1f153c6df86d1ca8ecb9561daddfe7a54f901e7",
+        "externalIds": {
+          "MAG": "2148825261",
+          "DBLP": "conf/icml/Zinkevich03",
+          "CorpusId": 553962
+        },
+        "url": "https://www.semanticscholar.org/paper/e1f153c6df86d1ca8ecb9561daddfe7a54f901e7",
+        "title": "Online Convex Programming and Generalized Infinitesimal Gradient Ascent",
+        "venue": "International Conference on Machine Learning",
+        "year": 2003,
+        "referenceCount": 32,
+        "citationCount": 2743,
+        "authors": [
+          {
+            "authorId": "8195063",
+            "name": "Martin A. Zinkevich"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "21c93521467706a81c0b166b68a070b6f7e361c5",
+        "externalIds": {
+          "MAG": "2115193820",
+          "DBLP": "conf/colt/BousquetW01",
+          "DOI": "10.1007/3-540-44581-1_3",
+          "CorpusId": 1391305
+        },
+        "url": "https://www.semanticscholar.org/paper/21c93521467706a81c0b166b68a070b6f7e361c5",
+        "title": "Tracking a Small Set of Experts by Mixing Past Posteriors",
+        "venue": "Journal of machine learning research",
+        "year": 2003,
+        "referenceCount": 20,
+        "citationCount": 194,
+        "authors": [
+          {
+            "authorId": "1698617",
+            "name": "O. Bousquet"
+          },
+          {
+            "authorId": "1794034",
+            "name": "Manfred K. Warmuth"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "3cd2676dfc34f3a7963a93604576ebf0adda4959",
+        "externalIds": {
+          "DBLP": "conf/stoc/FreundSSW97",
+          "MAG": "2046934276",
+          "DOI": "10.1145/258533.258616",
+          "CorpusId": 156255
+        },
+        "url": "https://www.semanticscholar.org/paper/3cd2676dfc34f3a7963a93604576ebf0adda4959",
+        "title": "Using and combining predictors that specialize",
+        "venue": "Symposium on the Theory of Computing",
+        "year": 1997,
+        "referenceCount": 27,
+        "citationCount": 294,
+        "authors": [
+          {
+            "authorId": "1703537",
+            "name": "Y. Freund"
+          },
+          {
+            "authorId": "1716301",
+            "name": "R. Schapire"
+          },
+          {
+            "authorId": "1740765",
+            "name": "Y. Singer"
+          },
+          {
+            "authorId": "1794034",
+            "name": "Manfred K. Warmuth"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "27ed61309cb8558181dc6158b052f0270ed49cc6",
+        "externalIds": {
+          "DBLP": "journals/ml/HerbsterW98",
+          "MAG": "2894639411",
+          "DOI": "10.1023/A:1007424614876",
+          "CorpusId": 12409091
+        },
+        "url": "https://www.semanticscholar.org/paper/27ed61309cb8558181dc6158b052f0270ed49cc6",
+        "title": "Tracking the Best Expert",
+        "venue": "Machine-mediated learning",
+        "year": 1995,
+        "referenceCount": 24,
+        "citationCount": 637,
+        "authors": [
+          {
+            "authorId": "1839746",
+            "name": "M. Herbster"
+          },
+          {
+            "authorId": "1794034",
+            "name": "Manfred K. Warmuth"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "239ae23dc2f934cfa005261ade01023fe7950b82",
+        "externalIds": {
+          "DBLP": "conf/stoc/Cesa-BianchiFHHSW93",
+          "MAG": "2050660892",
+          "DOI": "10.1145/167088.167198",
+          "CorpusId": 124263
+        },
+        "url": "https://www.semanticscholar.org/paper/239ae23dc2f934cfa005261ade01023fe7950b82",
+        "title": "How to use expert advice",
+        "venue": "Symposium on the Theory of Computing",
+        "year": 1993,
+        "referenceCount": 57,
+        "citationCount": 706,
+        "authors": [
+          {
+            "authorId": "1388387856",
+            "name": "N. Cesa-Bianchi"
+          },
+          {
+            "authorId": "1703537",
+            "name": "Y. Freund"
+          },
+          {
+            "authorId": "1772099",
+            "name": "D. Helmbold"
+          },
+          {
+            "authorId": "1733689",
+            "name": "D. Haussler"
+          },
+          {
+            "authorId": "1716301",
+            "name": "R. Schapire"
+          },
+          {
+            "authorId": "1794034",
+            "name": "Manfred K. Warmuth"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "26e17f6b62a7caec660b3356d49e879e6e0eeabc",
+        "externalIds": {
+          "MAG": "2098339418",
+          "DBLP": "journals/siamcomp/AuerCFS02",
+          "DOI": "10.1137/S0097539701398375",
+          "CorpusId": 13209702
+        },
+        "url": "https://www.semanticscholar.org/paper/26e17f6b62a7caec660b3356d49e879e6e0eeabc",
+        "title": "The Nonstochastic Multiarmed Bandit Problem",
+        "venue": "SIAM journal on computing (Print)",
+        "year": 2002,
+        "referenceCount": 26,
+        "citationCount": 2689,
+        "authors": [
+          {
+            "authorId": "144543541",
+            "name": "P. Auer"
+          },
+          {
+            "authorId": "1388387856",
+            "name": "N. Cesa-Bianchi"
+          },
+          {
+            "authorId": "1703537",
+            "name": "Y. Freund"
+          },
+          {
+            "authorId": "1716301",
+            "name": "R. Schapire"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "6431c8e9bcb17396dbaad50e263fb6f19f8e7375",
+        "externalIds": {
+          "CorpusId": 58362
+        },
+        "url": "https://www.semanticscholar.org/paper/6431c8e9bcb17396dbaad50e263fb6f19f8e7375",
+        "title": "Electronic Colloquium on Computational Complexity, Report No. 88 (2007) Adaptive Algorithms for Online Decision Problems",
+        "venue": "",
+        "year": null,
+        "referenceCount": 0,
+        "citationCount": 133,
+        "authors": []
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "For every j P N Y t 0 u , the left endpoint of the leftmost interval I whose size is 2 j is 2 j .",
+        "venue": "",
+        "year": null,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "Let I “ r q, s s P I be an interval and let I 1 “ r s ` 1 , s 1 s be a consecutive interval of size 2 j I for some j 0 .",
+        "venue": "",
+        "year": null,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": ", Shahin , and Sridharan , Karthik . Online optimization : Competing with dynamic comparators",
+        "venue": "",
+        "year": null,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "total": 2,
+  "offset": 0,
+  "data": [
+    {
+      "paperId": "411837ee33b53a44db20f60427960b6001d8711c",
+      "externalIds": {
+        "MAG": "2803656225",
+        "DBLP": "conf/icml/BoracchiCCM18",
+        "CorpusId": 51882938
+      },
+      "url": "https://www.semanticscholar.org/paper/411837ee33b53a44db20f60427960b6001d8711c",
+      "title": "QuantTree: Histograms for Change Detection in Multivariate Data Streams",
+      "venue": "International Conference on Machine Learning",
+      "year": 2018,
+      "referenceCount": 25,
+      "citationCount": 45,
+      "authors": [
+        {
+          "authorId": "2772474",
+          "name": "G. Boracchi"
+        },
+        {
+          "authorId": "145931074",
+          "name": "Diego Carrera"
+        },
+        {
+          "authorId": "2123613",
+          "name": "C. Cervellera"
+        },
+        {
+          "authorId": "2682459",
+          "name": "Danilo Macciò"
+        }
+      ]
+    },
+    {
+      "paperId": "9ea27f5af233b0fabfbdeccb5e96cc89e56e138d",
+      "externalIds": {
+        "ArXiv": "2410.13778",
+        "DBLP": "conf/aaltd/NotarianniLSFB24",
+        "DOI": "10.1007/978-3-031-77066-1_7",
+        "CorpusId": 273403781
+      },
+      "url": "https://www.semanticscholar.org/paper/9ea27f5af233b0fabfbdeccb5e96cc89e56e138d",
+      "title": "Change Detection in Multivariate data streams: Online Analysis with Kernel-QuantTree",
+      "venue": "AALTD@ECML/PKDD",
+      "year": 2024,
+      "referenceCount": 15,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2326298231",
+          "name": "Michelangelo Olmo Nogara Notarianni"
+        },
+        {
+          "authorId": "2088845657",
+          "name": "Filippo Leveni"
+        },
+        {
+          "authorId": "2091643202",
+          "name": "Diego Stucchi"
+        },
+        {
+          "authorId": "1788584596",
+          "name": "Luca Frittoli"
+        },
+        {
+          "authorId": "2319130369",
+          "name": "Giacomo Boracchi"
+        }
+      ]
+    }
+  ]
+}

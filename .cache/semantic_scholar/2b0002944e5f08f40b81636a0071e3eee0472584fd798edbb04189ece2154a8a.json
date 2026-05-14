@@ -1,0 +1,324 @@
+{
+  "total": 21860,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "2fe465b7beffa6687452b3ef80f555d8bd8ec0c0",
+      "externalIds": {
+        "MAG": "2952135494",
+        "DBLP": "conf/icml/HammCB16",
+        "ArXiv": "1602.03552",
+        "CorpusId": 28404
+      },
+      "url": "https://www.semanticscholar.org/paper/2fe465b7beffa6687452b3ef80f555d8bd8ec0c0",
+      "title": "Learning privately from multiparty data",
+      "venue": "International Conference on Machine Learning",
+      "year": 2016,
+      "referenceCount": 23,
+      "citationCount": 167,
+      "authors": [
+        {
+          "authorId": "4832622",
+          "name": "Jihun Hamm"
+        },
+        {
+          "authorId": "2112866951",
+          "name": "Yingjun Cao"
+        },
+        {
+          "authorId": "145520115",
+          "name": "Mikhail Belkin"
+        }
+      ]
+    },
+    {
+      "paperId": "20e1b99a1e13bfba18ad17f4308b14e8edcd0f84",
+      "externalIds": {
+        "CorpusId": 15060906
+      },
+      "url": "https://www.semanticscholar.org/paper/20e1b99a1e13bfba18ad17f4308b14e8edcd0f84",
+      "title": "Learning Privately from Multiparty Data: Supplementary Material",
+      "venue": "",
+      "year": 2016,
+      "referenceCount": 3,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2079343239",
+          "name": "A. Proofs"
+        }
+      ]
+    },
+    {
+      "paperId": "a73decebe28796cb4da93a2b93e949d436cea24a",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2402-16087",
+        "ArXiv": "2402.16087",
+        "DOI": "10.48550/arXiv.2402.16087",
+        "CorpusId": 267938803
+      },
+      "url": "https://www.semanticscholar.org/paper/a73decebe28796cb4da93a2b93e949d436cea24a",
+      "title": "How to Privately Tune Hyperparameters in Federated Learning? Insights from a Benchmark Study",
+      "venue": "arXiv.org",
+      "year": 2024,
+      "referenceCount": 89,
+      "citationCount": 4,
+      "authors": [
+        {
+          "authorId": "2286877349",
+          "name": "Natalija Mitic"
+        },
+        {
+          "authorId": "2179442733",
+          "name": "Apostolos Pyrgelis"
+        },
+        {
+          "authorId": "40409722",
+          "name": "Sinem Sav"
+        }
+      ]
+    },
+    {
+      "paperId": "c8fc82fe2d692a00561a625662b0a340ddfdcb19",
+      "externalIds": {
+        "DBLP": "journals/jnca/MaJZWLLC20",
+        "MAG": "2972653719",
+        "DOI": "10.1016/J.JNCA.2020.102754",
+        "CorpusId": 202640003
+      },
+      "url": "https://www.semanticscholar.org/paper/c8fc82fe2d692a00561a625662b0a340ddfdcb19",
+      "title": "Secure multiparty learning from the aggregation of locally trained models",
+      "venue": "Journal of Network and Computer Applications",
+      "year": 2020,
+      "referenceCount": 43,
+      "citationCount": 23,
+      "authors": [
+        {
+          "authorId": "1797896",
+          "name": "Xu Ma"
+        },
+        {
+          "authorId": "153224884",
+          "name": "Cunmei Ji"
+        },
+        {
+          "authorId": "2109108321",
+          "name": "Xiaoyu Zhang"
+        },
+        {
+          "authorId": "2168541752",
+          "name": "Jianfeng Wang"
+        },
+        {
+          "authorId": "2118398574",
+          "name": "Jin Li"
+        },
+        {
+          "authorId": "69486668",
+          "name": "Kuan Ching Li"
+        }
+      ]
+    },
+    {
+      "paperId": "302d6e253b448072cb5e2a99b0d397e75458d170",
+      "externalIds": {
+        "MAG": "3041759557",
+        "DBLP": "conf/ml4cs/MaJZWLL19",
+        "DOI": "10.1007/978-3-030-30619-9_13",
+        "CorpusId": 271711050
+      },
+      "url": "https://www.semanticscholar.org/paper/302d6e253b448072cb5e2a99b0d397e75458d170",
+      "title": "Secure Multiparty Learning from Aggregation of Locally Trained Models",
+      "venue": "International Conference on Machine Learning for Cyber Security",
+      "year": 2019,
+      "referenceCount": 18,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2336921645",
+          "name": "Xu Ma"
+        },
+        {
+          "authorId": "153224884",
+          "name": "Cunmei Ji"
+        },
+        {
+          "authorId": "2315070152",
+          "name": "Xiaoyu Zhang"
+        },
+        {
+          "authorId": "2314885693",
+          "name": "Jianfeng Wang"
+        },
+        {
+          "authorId": "2314891333",
+          "name": "Jin Li"
+        },
+        {
+          "authorId": "2314664684",
+          "name": "Kuan-Ching Li"
+        }
+      ]
+    },
+    {
+      "paperId": "a59d3453b82e3b4692be85c262c05e73ae39dc22",
+      "externalIds": {
+        "CorpusId": 218529337
+      },
+      "url": "https://www.semanticscholar.org/paper/a59d3453b82e3b4692be85c262c05e73ae39dc22",
+      "title": "Privately computing inﬂuence in regression models",
+      "venue": "",
+      "year": 2020,
+      "referenceCount": 12,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "120788928",
+          "name": "A. Richardson"
+        },
+        {
+          "authorId": "2101905514",
+          "name": "Ljubomir Rokvic"
+        },
+        {
+          "authorId": "1403863711",
+          "name": "Aris Filos-Ratsikas"
+        },
+        {
+          "authorId": "1735128",
+          "name": "B. Faltings"
+        }
+      ]
+    },
+    {
+      "paperId": "bc95284ee2abe91ad36f571a60ef71b2f1aad7f0",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2010-10640",
+        "ArXiv": "2010.10640",
+        "MAG": "3093995819",
+        "DOI": "10.1109/tcns.2021.3094788",
+        "CorpusId": 224814122
+      },
+      "url": "https://www.semanticscholar.org/paper/bc95284ee2abe91ad36f571a60ef71b2f1aad7f0",
+      "title": "Private Weighted Sum Aggregation",
+      "venue": "IEEE Transactions on Control of Network Systems",
+      "year": 2020,
+      "referenceCount": 44,
+      "citationCount": 23,
+      "authors": [
+        {
+          "authorId": "3468747",
+          "name": "A. Alexandru"
+        },
+        {
+          "authorId": "143770945",
+          "name": "George Pappas"
+        }
+      ]
+    },
+    {
+      "paperId": "3b8e6ba088ffb8b5a9fdc5f66475e6fdf10c00a6",
+      "externalIds": {
+        "DBLP": "journals/jcst/ZhaoWMHSL22",
+        "DOI": "10.1007/s11390-021-1754-5",
+        "CorpusId": 246946661
+      },
+      "url": "https://www.semanticscholar.org/paper/3b8e6ba088ffb8b5a9fdc5f66475e6fdf10c00a6",
+      "title": "Correlated Differential Privacy of Multiparty Data Release in Machine Learning",
+      "venue": "Journal of Computational Science and Technology",
+      "year": 2022,
+      "referenceCount": 52,
+      "citationCount": 8,
+      "authors": [
+        {
+          "authorId": "2130418902",
+          "name": "Jiangbo Zhao"
+        },
+        {
+          "authorId": "2157203726",
+          "name": "Xingwei Wang"
+        },
+        {
+          "authorId": "2154957150",
+          "name": "Ke-Ming Mao"
+        },
+        {
+          "authorId": "2150609360",
+          "name": "Chenxi Huang"
+        },
+        {
+          "authorId": "50087147",
+          "name": "Yu-Kai Su"
+        },
+        {
+          "authorId": "2287400520",
+          "name": "Yu-Chen Li"
+        }
+      ]
+    },
+    {
+      "paperId": "d63ea69ebc3d134119374b593fb3edffa64d1eb7",
+      "externalIds": {
+        "DBLP": "journals/iacr/NguyenRNT25",
+        "DOI": "10.56553/popets-2025-0088",
+        "CorpusId": 276938813
+      },
+      "url": "https://www.semanticscholar.org/paper/d63ea69ebc3d134119374b593fb3edffa64d1eb7",
+      "title": "Achieving Data Reconstruction Hardness and Efficient Computation in Multiparty Minimax Training",
+      "venue": "IACR Cryptology ePrint Archive",
+      "year": 2025,
+      "referenceCount": 66,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2314674410",
+          "name": "Truong Son Nguyen"
+        },
+        {
+          "authorId": "2350525689",
+          "name": "Yi Ren"
+        },
+        {
+          "authorId": "2060225919",
+          "name": "Guangyu Nie"
+        },
+        {
+          "authorId": "2321144230",
+          "name": "Ni Trieu"
+        }
+      ]
+    },
+    {
+      "paperId": "ba5c0ed4293f9a231b85178a77e6d6a9a28d6ee6",
+      "externalIds": {
+        "DOI": "10.64751/ajmimc.2025.v4.n3.pp92-96",
+        "CorpusId": 284009092
+      },
+      "url": "https://www.semanticscholar.org/paper/ba5c0ed4293f9a231b85178a77e6d6a9a28d6ee6",
+      "title": "Secure Multiparty Computation For Data Sharing",
+      "venue": "American Journal of Management and IOT Medical Computing",
+      "year": 2025,
+      "referenceCount": 1,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2399738728",
+          "name": "Mrs. Durgabhavani Battu"
+        },
+        {
+          "authorId": "2399730144",
+          "name": "Bhavana Singh Chouhan"
+        },
+        {
+          "authorId": "2426187091",
+          "name": "Are Varshini"
+        },
+        {
+          "authorId": "2425798282",
+          "name": "B. Sravanthi"
+        }
+      ]
+    }
+  ]
+}

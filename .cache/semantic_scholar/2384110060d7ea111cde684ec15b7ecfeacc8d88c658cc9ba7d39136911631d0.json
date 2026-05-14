@@ -1,0 +1,954 @@
+{
+  "offset": 0,
+  "citingPaperInfo": {
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/1506.00779, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "title": "Optimal Regret Analysis of Thompson Sampling in Stochastic Multi-armed Bandit Problem with Multiple Plays",
+    "authors": [
+      {
+        "authorId": "2762536",
+        "name": "Junpei Komiyama"
+      },
+      {
+        "authorId": "2367521",
+        "name": "J. Honda"
+      },
+      {
+        "authorId": "153510134",
+        "name": "H. Nakagawa"
+      }
+    ]
+  },
+  "data": [
+    {
+      "citedPaper": {
+        "paperId": "e56ed2424d9949e4562ede144d3a2cf41e685f45",
+        "externalIds": {
+          "DBLP": "conf/aaai/KocakVMA14",
+          "ArXiv": "2604.13739",
+          "MAG": "2187199744",
+          "DOI": "10.1609/aaai.v28i1.9011",
+          "CorpusId": 15942713
+        },
+        "url": "https://www.semanticscholar.org/paper/e56ed2424d9949e4562ede144d3a2cf41e685f45",
+        "title": "Spectral Thompson Sampling",
+        "venue": "AAAI Conference on Artificial Intelligence",
+        "year": 2014,
+        "referenceCount": 24,
+        "citationCount": 40,
+        "authors": [
+          {
+            "authorId": "2889720",
+            "name": "Tomás Kocák"
+          },
+          {
+            "authorId": "1806291",
+            "name": "Michal Valko"
+          },
+          {
+            "authorId": "1708654",
+            "name": "R. Munos"
+          },
+          {
+            "authorId": "1703744",
+            "name": "Shipra Agrawal"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "1957dca265000310291082de6d3fbde7113d02d2",
+        "externalIds": {
+          "MAG": "2112925200",
+          "DBLP": "conf/colt/GuhaM14",
+          "CorpusId": 6413119
+        },
+        "url": "https://www.semanticscholar.org/paper/1957dca265000310291082de6d3fbde7113d02d2",
+        "title": "Stochastic Regret Minimization via Thompson Sampling",
+        "venue": "Annual Conference Computational Learning Theory",
+        "year": 2014,
+        "referenceCount": 27,
+        "citationCount": 15,
+        "authors": [
+          {
+            "authorId": "144392463",
+            "name": "S. Guha"
+          },
+          {
+            "authorId": "1679666",
+            "name": "Kamesh Munagala"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "fa2c136d526d7445b02e802ff9601ea9e9663fcb",
+        "externalIds": {
+          "MAG": "2163840227",
+          "DBLP": "conf/nips/RussoR13",
+          "CorpusId": 7949594
+        },
+        "url": "https://www.semanticscholar.org/paper/fa2c136d526d7445b02e802ff9601ea9e9663fcb",
+        "title": "Eluder Dimension and the Sample Complexity of Optimistic Exploration",
+        "venue": "Neural Information Processing Systems",
+        "year": 2013,
+        "referenceCount": 26,
+        "citationCount": 272,
+        "authors": [
+          {
+            "authorId": "145751896",
+            "name": "Daniel Russo"
+          },
+          {
+            "authorId": "1731282",
+            "name": "Benjamin Van Roy"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "18e1b0bad513365d85baf1502471efd956c50368",
+        "externalIds": {
+          "MAG": "2964143446",
+          "ArXiv": "1311.1894",
+          "DBLP": "conf/aistats/HondaT14",
+          "CorpusId": 9548416
+        },
+        "url": "https://www.semanticscholar.org/paper/18e1b0bad513365d85baf1502471efd956c50368",
+        "title": "Optimality of Thompson Sampling for Gaussian Bandits Depends on Priors",
+        "venue": "International Conference on Artificial Intelligence and Statistics",
+        "year": 2013,
+        "referenceCount": 21,
+        "citationCount": 66,
+        "authors": [
+          {
+            "authorId": "2367521",
+            "name": "J. Honda"
+          },
+          {
+            "authorId": "1722771",
+            "name": "A. Takemura"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "5aeb3a2e00a854219fea5d42ba246bce74bd289d",
+        "externalIds": {
+          "MAG": "1808410902",
+          "DBLP": "journals/corr/GopalanMM13",
+          "CorpusId": 45738902
+        },
+        "url": "https://www.semanticscholar.org/paper/5aeb3a2e00a854219fea5d42ba246bce74bd289d",
+        "title": "Thompson Sampling for Complex Bandit Problems",
+        "venue": "arXiv.org",
+        "year": 2013,
+        "referenceCount": 14,
+        "citationCount": 13,
+        "authors": [
+          {
+            "authorId": "2226401",
+            "name": "Aditya Gopalan"
+          },
+          {
+            "authorId": "1712535",
+            "name": "Shie Mannor"
+          },
+          {
+            "authorId": "144830983",
+            "name": "Y. Mansour"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "47f77ba1b0bd629de3b8c6c1b7c95849228afd63",
+        "externalIds": {
+          "MAG": "2951081543",
+          "DBLP": "conf/nips/KordaKM13",
+          "ArXiv": "1307.3400",
+          "CorpusId": 7462917
+        },
+        "url": "https://www.semanticscholar.org/paper/47f77ba1b0bd629de3b8c6c1b7c95849228afd63",
+        "title": "Thompson Sampling for 1-Dimensional Exponential Family Bandits",
+        "venue": "Neural Information Processing Systems",
+        "year": 2013,
+        "referenceCount": 21,
+        "citationCount": 161,
+        "authors": [
+          {
+            "authorId": "33656309",
+            "name": "N. Korda"
+          },
+          {
+            "authorId": "2578263",
+            "name": "E. Kaufmann"
+          },
+          {
+            "authorId": "1708654",
+            "name": "R. Munos"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "789783016fb708abbc061790612ebe91273c05d3",
+        "externalIds": {
+          "MAG": "2951592473",
+          "DBLP": "conf/nips/OsbandRR13",
+          "ArXiv": "1306.0940",
+          "CorpusId": 674335
+        },
+        "url": "https://www.semanticscholar.org/paper/789783016fb708abbc061790612ebe91273c05d3",
+        "title": "(More) Efficient Reinforcement Learning via Posterior Sampling",
+        "venue": "Neural Information Processing Systems",
+        "year": 2013,
+        "referenceCount": 25,
+        "citationCount": 580,
+        "authors": [
+          {
+            "authorId": "2561924",
+            "name": "Ian Osband"
+          },
+          {
+            "authorId": "145751896",
+            "name": "Daniel Russo"
+          },
+          {
+            "authorId": "1731282",
+            "name": "Benjamin Van Roy"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "a4170ea1b56ea9681162092b6fbc6e5ccfa33661",
+        "externalIds": {
+          "MAG": "35251828",
+          "DBLP": "conf/icml/ChenWY13",
+          "CorpusId": 35053251
+        },
+        "url": "https://www.semanticscholar.org/paper/a4170ea1b56ea9681162092b6fbc6e5ccfa33661",
+        "title": "Combinatorial Multi-Armed Bandit: General Framework and Applications",
+        "venue": "International Conference on Machine Learning",
+        "year": 2013,
+        "referenceCount": 0,
+        "citationCount": 644,
+        "authors": [
+          {
+            "authorId": null,
+            "name": "Wei Chen"
+          },
+          {
+            "authorId": "2115646925",
+            "name": "Yajun Wang"
+          },
+          {
+            "authorId": "145155436",
+            "name": "Yang Yuan"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "161c91acafc365ab0b131dd7e2043a52a68972e3",
+        "externalIds": {
+          "MAG": "2077148472",
+          "ArXiv": "1210.1136",
+          "DOI": "10.1214/13-AOS1119",
+          "CorpusId": 29464186
+        },
+        "url": "https://www.semanticscholar.org/paper/161c91acafc365ab0b131dd7e2043a52a68972e3",
+        "title": "Kullback–Leibler upper confidence bounds for optimal sequential allocation",
+        "venue": "",
+        "year": 2012,
+        "referenceCount": 49,
+        "citationCount": 416,
+        "authors": [
+          {
+            "authorId": "2065678523",
+            "name": "Olivier Capp'e"
+          },
+          {
+            "authorId": "2927057",
+            "name": "Aurélien Garivier"
+          },
+          {
+            "authorId": "1794867",
+            "name": "Odalric-Ambrym Maillard"
+          },
+          {
+            "authorId": "1708654",
+            "name": "R. Munos"
+          },
+          {
+            "authorId": "1806997",
+            "name": "Gilles Stoltz"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "a81b723308fbfd494ca68a73a89a8b10cb3d1f53",
+        "externalIds": {
+          "ArXiv": "1209.3353",
+          "DBLP": "journals/corr/abs-1209-3353",
+          "MAG": "2953128025",
+          "CorpusId": 5839932
+        },
+        "url": "https://www.semanticscholar.org/paper/a81b723308fbfd494ca68a73a89a8b10cb3d1f53",
+        "title": "Further Optimal Regret Bounds for Thompson Sampling",
+        "venue": "International Conference on Artificial Intelligence and Statistics",
+        "year": 2012,
+        "referenceCount": 29,
+        "citationCount": 461,
+        "authors": [
+          {
+            "authorId": "1703744",
+            "name": "Shipra Agrawal"
+          },
+          {
+            "authorId": "144260125",
+            "name": "Navin Goyal"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "f26f1a3c034b96514fc092dee99acacedd9c380b",
+        "externalIds": {
+          "DBLP": "conf/icml/AgrawalG13",
+          "MAG": "2166253248",
+          "ArXiv": "1209.3352",
+          "CorpusId": 96146
+        },
+        "url": "https://www.semanticscholar.org/paper/f26f1a3c034b96514fc092dee99acacedd9c380b",
+        "title": "Thompson Sampling for Contextual Bandits with Linear Payoffs",
+        "venue": "International Conference on Machine Learning",
+        "year": 2012,
+        "referenceCount": 34,
+        "citationCount": 1114,
+        "authors": [
+          {
+            "authorId": "1703744",
+            "name": "Shipra Agrawal"
+          },
+          {
+            "authorId": "144260125",
+            "name": "Navin Goyal"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "28d59cf3630d3a891b41e9c63210cafd2fc25633",
+        "externalIds": {
+          "ArXiv": "1405.2484",
+          "MAG": "1537740239",
+          "DBLP": "journals/corr/GattiLRT14",
+          "DOI": "10.1016/j.artint.2015.05.012",
+          "CorpusId": 3219869
+        },
+        "url": "https://www.semanticscholar.org/paper/28d59cf3630d3a891b41e9c63210cafd2fc25633",
+        "title": "Truthful learning mechanisms for multi-slot sponsored search auctions with externalities",
+        "venue": "Artificial Intelligence",
+        "year": 2012,
+        "referenceCount": 49,
+        "citationCount": 26,
+        "authors": [
+          {
+            "authorId": "145407749",
+            "name": "N. Gatti"
+          },
+          {
+            "authorId": "3254390",
+            "name": "A. Lazaric"
+          },
+          {
+            "authorId": "38316800",
+            "name": "M. Rocco"
+          },
+          {
+            "authorId": "2403022",
+            "name": "F. Trovò"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "2e96fc720aabb0039f1e9819f4b78259924965ae",
+        "externalIds": {
+          "ArXiv": "1205.4217",
+          "MAG": "2952446394",
+          "DBLP": "conf/alt/KaufmannKM12",
+          "DOI": "10.1007/978-3-642-34106-9_18",
+          "CorpusId": 14803226
+        },
+        "url": "https://www.semanticscholar.org/paper/2e96fc720aabb0039f1e9819f4b78259924965ae",
+        "title": "Thompson Sampling: An Asymptotically Optimal Finite-Time Analysis",
+        "venue": "International Conference on Algorithmic Learning Theory",
+        "year": 2012,
+        "referenceCount": 14,
+        "citationCount": 609,
+        "authors": [
+          {
+            "authorId": "2578263",
+            "name": "E. Kaufmann"
+          },
+          {
+            "authorId": "33656309",
+            "name": "N. Korda"
+          },
+          {
+            "authorId": "1708654",
+            "name": "R. Munos"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "ab867c140d2947511979c87e7ae580d9d3f0aeab",
+        "externalIds": {
+          "DBLP": "conf/nips/ChapelleL11",
+          "MAG": "2108738385",
+          "CorpusId": 6002655
+        },
+        "url": "https://www.semanticscholar.org/paper/ab867c140d2947511979c87e7ae580d9d3f0aeab",
+        "title": "An Empirical Evaluation of Thompson Sampling",
+        "venue": "Neural Information Processing Systems",
+        "year": 2011,
+        "referenceCount": 23,
+        "citationCount": 1597,
+        "authors": [
+          {
+            "authorId": "1730609",
+            "name": "O. Chapelle"
+          },
+          {
+            "authorId": "47681372",
+            "name": "Lihong Li"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "a7a481032045284382dffa1be4ba90029d14eb41",
+        "externalIds": {
+          "MAG": "1501823362",
+          "DBLP": "journals/jmlr/GarivierC11",
+          "ArXiv": "1102.2490",
+          "CorpusId": 6345726
+        },
+        "url": "https://www.semanticscholar.org/paper/a7a481032045284382dffa1be4ba90029d14eb41",
+        "title": "The KL-UCB Algorithm for Bounded Stochastic Bandits and Beyond",
+        "venue": "Annual Conference Computational Learning Theory",
+        "year": 2011,
+        "referenceCount": 18,
+        "citationCount": 655,
+        "authors": [
+          {
+            "authorId": "2927057",
+            "name": "Aurélien Garivier"
+          },
+          {
+            "authorId": "1769551",
+            "name": "O. Cappé"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "03230c3c83dbb013c3e610702c6f650307f0ce5c",
+        "externalIds": {
+          "MAG": "2158125716",
+          "DOI": "10.1002/ASMB.874",
+          "CorpusId": 573750
+        },
+        "url": "https://www.semanticscholar.org/paper/03230c3c83dbb013c3e610702c6f650307f0ce5c",
+        "title": "A modern Bayesian look at the multi-armed bandit",
+        "venue": "",
+        "year": 2010,
+        "referenceCount": 33,
+        "citationCount": 485,
+        "authors": [
+          {
+            "authorId": "3124107",
+            "name": "S. L. Scott"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "d72d258c6dc86680c2fe8a44bfe61f4bd648a306",
+        "externalIds": {
+          "MAG": "1569127318",
+          "DBLP": "conf/alt/UchiyaNK10",
+          "DOI": "10.1007/978-3-642-16108-7_30",
+          "CorpusId": 14435208
+        },
+        "url": "https://www.semanticscholar.org/paper/d72d258c6dc86680c2fe8a44bfe61f4bd648a306",
+        "title": "Algorithms for Adversarial Bandit Problems with Multiple Plays",
+        "venue": "International Conference on Algorithmic Learning Theory",
+        "year": 2010,
+        "referenceCount": 19,
+        "citationCount": 94,
+        "authors": [
+          {
+            "authorId": "40428428",
+            "name": "Taishi Uchiya"
+          },
+          {
+            "authorId": "34572361",
+            "name": "Atsuyoshi Nakamura"
+          },
+          {
+            "authorId": "1773173",
+            "name": "Mineichi Kudo"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "0d345ed808bc44832375ce189a469521e5a3f4d9",
+        "externalIds": {
+          "MAG": "2123110149",
+          "DBLP": "conf/wine/KempeM08",
+          "DOI": "10.1007/978-3-540-92185-1_65",
+          "CorpusId": 3161280
+        },
+        "url": "https://www.semanticscholar.org/paper/0d345ed808bc44832375ce189a469521e5a3f4d9",
+        "title": "A Cascade Model for Externalities in Sponsored Search",
+        "venue": "Workshop on Internet and Network Economics",
+        "year": 2008,
+        "referenceCount": 29,
+        "citationCount": 174,
+        "authors": [
+          {
+            "authorId": "1765196",
+            "name": "D. Kempe"
+          },
+          {
+            "authorId": "145967611",
+            "name": "Mohammad Mahdian"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "21317afdbf13b9941e16041c5ec6847211600336",
+        "externalIds": {
+          "MAG": "2950454988",
+          "ArXiv": "0805.0766",
+          "DBLP": "journals/corr/abs-0805-0766",
+          "DOI": "10.1007/978-3-540-92185-1_68",
+          "CorpusId": 11726810
+        },
+        "url": "https://www.semanticscholar.org/paper/21317afdbf13b9941e16041c5ec6847211600336",
+        "title": "Sponsored Search Auctions with Markovian Users",
+        "venue": "Workshop on Internet and Network Economics",
+        "year": 2008,
+        "referenceCount": 34,
+        "citationCount": 159,
+        "authors": [
+          {
+            "authorId": "2513840",
+            "name": "Gagan Aggarwal"
+          },
+          {
+            "authorId": "38838239",
+            "name": "J. Feldman"
+          },
+          {
+            "authorId": "144963537",
+            "name": "S. Muthukrishnan"
+          },
+          {
+            "authorId": "2659979",
+            "name": "Martin Pál"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "ebef3940a7173229bc1414766a363dbea271f9e4",
+        "externalIds": {
+          "MAG": "2153831889",
+          "DBLP": "conf/ijcnn/LiL08a",
+          "DOI": "10.1109/IJCNN.2008.4634283",
+          "CorpusId": 9718217
+        },
+        "url": "https://www.semanticscholar.org/paper/ebef3940a7173229bc1414766a363dbea271f9e4",
+        "title": "Opportunistic Spectrum Access in Cognitive Radio Networks",
+        "venue": "IEEE INFOCOM 2008 - The 27th Conference on Computer Communications",
+        "year": 2008,
+        "referenceCount": 25,
+        "citationCount": 411,
+        "authors": [
+          {
+            "authorId": "1821131",
+            "name": "Senhua Huang"
+          },
+          {
+            "authorId": "2120099632",
+            "name": "Xin Liu"
+          },
+          {
+            "authorId": "145283850",
+            "name": "Z. Ding"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "1ba36a2a1609cf09e2a08eb4712555848d5d728c",
+        "externalIds": {
+          "DBLP": "conf/wsdm/CraswellZTR08",
+          "MAG": "1992549066",
+          "DOI": "10.1145/1341531.1341545",
+          "CorpusId": 2625350
+        },
+        "url": "https://www.semanticscholar.org/paper/1ba36a2a1609cf09e2a08eb4712555848d5d728c",
+        "title": "An experimental comparison of click position-bias models",
+        "venue": "Web Search and Data Mining",
+        "year": 2008,
+        "referenceCount": 9,
+        "citationCount": 1049,
+        "authors": [
+          {
+            "authorId": "1703980",
+            "name": "Nick Craswell"
+          },
+          {
+            "authorId": "1769092",
+            "name": "O. Zoeter"
+          },
+          {
+            "authorId": "2116741026",
+            "name": "Michael J. Taylor"
+          },
+          {
+            "authorId": "40217575",
+            "name": "Bill Ramsey"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "1e1d35136b1bf3b13ef6b53f6039f39d9ee820e3",
+        "externalIds": {
+          "MAG": "2168405694",
+          "DBLP": "journals/ml/AuerCF02",
+          "DOI": "10.1023/A:1013689704352",
+          "CorpusId": 207609497
+        },
+        "url": "https://www.semanticscholar.org/paper/1e1d35136b1bf3b13ef6b53f6039f39d9ee820e3",
+        "title": "Finite-time Analysis of the Multiarmed Bandit Problem",
+        "venue": "Machine-mediated learning",
+        "year": 2002,
+        "referenceCount": 17,
+        "citationCount": 7346,
+        "authors": [
+          {
+            "authorId": "144543541",
+            "name": "P. Auer"
+          },
+          {
+            "authorId": "1388387856",
+            "name": "N. Cesa-Bianchi"
+          },
+          {
+            "authorId": "152702481",
+            "name": "P. Fischer"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "2fa3f78bd544c4bdb7986b5dd9feda47492b1e34",
+        "externalIds": {
+          "MAG": "1983962754",
+          "DOI": "10.1006/AAMA.1996.0007",
+          "CorpusId": 4751501
+        },
+        "url": "https://www.semanticscholar.org/paper/2fa3f78bd544c4bdb7986b5dd9feda47492b1e34",
+        "title": "Optimal Adaptive Policies for Sequential Allocation Problems",
+        "venue": "",
+        "year": 1996,
+        "referenceCount": 36,
+        "citationCount": 282,
+        "authors": [
+          {
+            "authorId": "2211588",
+            "name": "A. Burnetas"
+          },
+          {
+            "authorId": "2645126",
+            "name": "M. Katehakis"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "2fa7c63ee5484c688e8ec62846ed7137c4924607",
+        "externalIds": {
+          "MAG": "2125724988",
+          "DOI": "10.1109/TAC.1987.1104491",
+          "CorpusId": 7160551
+        },
+        "url": "https://www.semanticscholar.org/paper/2fa7c63ee5484c688e8ec62846ed7137c4924607",
+        "title": "Asymptotically efficient allocation rules for the multiarmed bandit problem with multiple plays-Part II: Markovian rewards",
+        "venue": "",
+        "year": 1987,
+        "referenceCount": 11,
+        "citationCount": 375,
+        "authors": [
+          {
+            "authorId": "145785241",
+            "name": "V. Anantharam"
+          },
+          {
+            "authorId": "1713762",
+            "name": "P. Varaiya"
+          },
+          {
+            "authorId": "1754424",
+            "name": "J. Walrand"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "4c9e36a0dbdc3e7b20e38bd288a804c05c77e9fa",
+        "externalIds": {
+          "MAG": "2009551863",
+          "DOI": "10.1016/0196-8858(85)90002-8",
+          "CorpusId": 121166589
+        },
+        "url": "https://www.semanticscholar.org/paper/4c9e36a0dbdc3e7b20e38bd288a804c05c77e9fa",
+        "title": "Asymptotically efficient adaptive allocation rules",
+        "venue": "",
+        "year": 1985,
+        "referenceCount": 3,
+        "citationCount": 1868,
+        "authors": [
+          {
+            "authorId": "2818025",
+            "name": "T. Lai"
+          },
+          {
+            "authorId": "145648751",
+            "name": "H. Robbins"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "ee2cd1d17f833d3c157a1016a778c7c22af555a2",
+        "externalIds": {
+          "MAG": "2039522160",
+          "DOI": "10.1093/BIOMET/25.3-4.285",
+          "CorpusId": 120462794
+        },
+        "url": "https://www.semanticscholar.org/paper/ee2cd1d17f833d3c157a1016a778c7c22af555a2",
+        "title": "ON THE LIKELIHOOD THAT ONE UNKNOWN PROBABILITY EXCEEDS ANOTHER IN VIEW OF THE EVIDENCE OF TWO SAMPLES",
+        "venue": "",
+        "year": 1933,
+        "referenceCount": 0,
+        "citationCount": 3602,
+        "authors": [
+          {
+            "authorId": "144301316",
+            "name": "W. R. Thompson"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "9cc52cea162e5a7a364eca39626d596ebfb91886",
+        "externalIds": {
+          "CorpusId": 1191553
+        },
+        "url": "https://www.semanticscholar.org/paper/9cc52cea162e5a7a364eca39626d596ebfb91886",
+        "title": "Optimal Regret Analysis of Thompson Sampling in Stochastic Multi-armed Bandit Problem with Multiple Plays",
+        "venue": "",
+        "year": 2015,
+        "referenceCount": 0,
+        "citationCount": 11,
+        "authors": [
+          {
+            "authorId": "83064111",
+            "name": "A. Appendix"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "2012), we define the discount factor γl(i) for l ≥ 2 as the probability that a user observing ad i in position l − 1 will observe the",
+        "venue": "",
+        "year": 2012,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "22f6fab63391ed703dbb661de57733b7f49886d0",
+        "externalIds": {
+          "MAG": "1699297496",
+          "CorpusId": 120162138
+        },
+        "url": "https://www.semanticscholar.org/paper/22f6fab63391ed703dbb661de57733b7f49886d0",
+        "title": "An Asymptotically Optimal Bandit Algorithm for Bounded Support Models.",
+        "venue": "Annual Conference Computational Learning Theory",
+        "year": 2010,
+        "referenceCount": 22,
+        "citationCount": 184,
+        "authors": [
+          {
+            "authorId": "2367521",
+            "name": "J. Honda"
+          },
+          {
+            "authorId": "1722771",
+            "name": "A. Takemura"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "A dynamic allocation index for the sequential design of experiments",
+        "venue": "Progress in Statistics,",
+        "year": 1974,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "fbee727620d135b521f2b5a261065f063b5c9407",
+        "externalIds": {
+          "CorpusId": 512579
+        },
+        "url": "https://www.semanticscholar.org/paper/fbee727620d135b521f2b5a261065f063b5c9407",
+        "title": "25th Annual Conference on Learning Theory Analysis of Thompson Sampling for the Multi-armed Bandit Problem",
+        "venue": "",
+        "year": null,
+        "referenceCount": 0,
+        "citationCount": 856,
+        "authors": []
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "572379c1d56e7e19422ae38218ee228c61aefb2f",
+        "externalIds": {
+          "CorpusId": 18456561
+        },
+        "url": "https://www.semanticscholar.org/paper/572379c1d56e7e19422ae38218ee228c61aefb2f",
+        "title": "Asymptotically Efficient Adaptive Allocation Rules",
+        "venue": "",
+        "year": null,
+        "referenceCount": 4,
+        "citationCount": 2415,
+        "authors": [
+          {
+            "authorId": "2097739937",
+            "name": "T. L. Lai Andherbertrobbins"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "A j (t), C i,j (t), N i (t) = n",
+        "venue": "",
+        "year": null,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "(i) if { ˜ µ k ( t ) ≥ z } , S ( t ) , and T ( t ) occurred then the arm k is drawn at round t",
+        "venue": "",
+        "year": null,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "(cid:34) T (cid:88) t =1 1 { ˜ µ k ( t ) < z, S ( t ) , U ( t ) , N k ( t ) < N c } (cid:12)(cid:12)(cid:12)(cid:12)(cid:12) ˆ µ k,",
+        "venue": "n",
+        "year": null,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "The event U ( t ) is deterministic given { ˆ µ i ( t ) } Ki =1 and { N i ( t ) } Ki =1",
+        "venue": "",
+        "year": null,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    }
+  ]
+}

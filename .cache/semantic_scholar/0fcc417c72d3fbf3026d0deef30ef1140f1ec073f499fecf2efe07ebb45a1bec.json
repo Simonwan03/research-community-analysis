@@ -1,0 +1,302 @@
+{
+  "total": 15659,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "f0878730b29b416ea4ef112804fcd2d33f8981c7",
+      "externalIds": {
+        "ArXiv": "1806.02775",
+        "MAG": "2949170140",
+        "DBLP": "conf/icml/HanL18",
+        "CorpusId": 46960373
+      },
+      "url": "https://www.semanticscholar.org/paper/f0878730b29b416ea4ef112804fcd2d33f8981c7",
+      "title": "Stein Variational Gradient Descent Without Gradient",
+      "venue": "International Conference on Machine Learning",
+      "year": 2018,
+      "referenceCount": 31,
+      "citationCount": 48,
+      "authors": [
+        {
+          "authorId": "145401247",
+          "name": "J. Han"
+        },
+        {
+          "authorId": "47362268",
+          "name": "Qiang Liu"
+        }
+      ]
+    },
+    {
+      "paperId": "b2cbc20fa78164a26175889dce7b7abb9331f5fd",
+      "externalIds": {
+        "ArXiv": "2506.00589",
+        "DBLP": "journals/corr/abs-2506-00589",
+        "DOI": "10.48550/arXiv.2506.00589",
+        "CorpusId": 279075613
+      },
+      "url": "https://www.semanticscholar.org/paper/b2cbc20fa78164a26175889dce7b7abb9331f5fd",
+      "title": "Constrained Stein Variational Gradient Descent for Robot Perception, Planning, and Identification",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "referenceCount": 44,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "153403531",
+          "name": "G. Tabor"
+        },
+        {
+          "authorId": "145767346",
+          "name": "Tucker Hermans"
+        }
+      ]
+    },
+    {
+      "paperId": "4b8ea5276d7da8bfaaaf0519bf2091b53bc2b895",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2101-09815",
+        "MAG": "3122034064",
+        "ArXiv": "2101.09815",
+        "CorpusId": 231698586
+      },
+      "url": "https://www.semanticscholar.org/paper/4b8ea5276d7da8bfaaaf0519bf2091b53bc2b895",
+      "title": "Annealed Stein Variational Gradient Descent",
+      "venue": "arXiv.org",
+      "year": 2021,
+      "referenceCount": 21,
+      "citationCount": 34,
+      "authors": [
+        {
+          "authorId": "1422504701",
+          "name": "Francesco D'Angelo"
+        },
+        {
+          "authorId": "41031794",
+          "name": "Vincent Fortuin"
+        }
+      ]
+    },
+    {
+      "paperId": "5da713752fbf588016fae7e793b954f09bb9415e",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2107-09338",
+        "CorpusId": 236134026
+      },
+      "url": "https://www.semanticscholar.org/paper/5da713752fbf588016fae7e793b954f09bb9415e",
+      "title": "Kernel Selection for Stein Variational Gradient Descent",
+      "venue": "arXiv.org",
+      "year": 2021,
+      "referenceCount": 32,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2120149872",
+          "name": "Qingzhong Ai"
+        },
+        {
+          "authorId": "1491626698",
+          "name": "Shiyu Liu"
+        },
+        {
+          "authorId": "1683510",
+          "name": "Zenglin Xu"
+        }
+      ]
+    },
+    {
+      "paperId": "35e4e5b8f5697e5771a06e923bda8e40e663b6c5",
+      "externalIds": {
+        "CorpusId": 14946786
+      },
+      "url": "https://www.semanticscholar.org/paper/35e4e5b8f5697e5771a06e923bda8e40e663b6c5",
+      "title": "Stein Variational Gradient Descent: Theory and Applications",
+      "venue": "",
+      "year": 2016,
+      "referenceCount": 18,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "47362268",
+          "name": "Qiang Liu"
+        }
+      ]
+    },
+    {
+      "paperId": "c90aea1b701da12afbba6e8c4bb119b930b8f9f8",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2410-10390",
+        "ArXiv": "2410.10390",
+        "DOI": "10.48550/arXiv.2410.10390",
+        "CorpusId": 273346162
+      },
+      "url": "https://www.semanticscholar.org/paper/c90aea1b701da12afbba6e8c4bb119b930b8f9f8",
+      "title": "Stein Variational Evolution Strategies",
+      "venue": "Conference on Uncertainty in Artificial Intelligence",
+      "year": 2024,
+      "referenceCount": 68,
+      "citationCount": 6,
+      "authors": [
+        {
+          "authorId": "2132869976",
+          "name": "Cornelius V. Braun"
+        },
+        {
+          "authorId": "2266838849",
+          "name": "R. Lange"
+        },
+        {
+          "authorId": "2325906422",
+          "name": "M. Toussaint"
+        }
+      ]
+    },
+    {
+      "paperId": "3ae619ba3ea7fc9dbfaf0ba64a4cdc3a07024541",
+      "externalIds": {
+        "ArXiv": "2410.21021",
+        "CorpusId": 273654861
+      },
+      "url": "https://www.semanticscholar.org/paper/3ae619ba3ea7fc9dbfaf0ba64a4cdc3a07024541",
+      "title": "A Stein Gradient Descent Approach for Doubly Intractable Distributions",
+      "venue": "",
+      "year": 2024,
+      "referenceCount": 0,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2279826640",
+          "name": "Heesang Lee"
+        },
+        {
+          "authorId": "2328018657",
+          "name": "Songhee Kim"
+        },
+        {
+          "authorId": "2147193299",
+          "name": "Bokgyeong Kang"
+        },
+        {
+          "authorId": "2328095862",
+          "name": "Jaewoo Park"
+        }
+      ]
+    },
+    {
+      "paperId": "1f3f37d63f56d08c508ce34d357d42add86b8212",
+      "externalIds": {
+        "DBLP": "conf/icra/0002ASAHO024",
+        "ArXiv": "2309.11040",
+        "DOI": "10.1109/ICRA57147.2024.10611021",
+        "CorpusId": 262066656
+      },
+      "url": "https://www.semanticscholar.org/paper/1f3f37d63f56d08c508ce34d357d42add86b8212",
+      "title": "Stein Variational Guided Model Predictive Path Integral Control: Proposal and Experiments with Fast Maneuvering Vehicles",
+      "venue": "IEEE International Conference on Robotics and Automation",
+      "year": 2023,
+      "referenceCount": 36,
+      "citationCount": 24,
+      "authors": [
+        {
+          "authorId": "2056888569",
+          "name": "Kohei Honda"
+        },
+        {
+          "authorId": "2243286837",
+          "name": "Naoki Akai"
+        },
+        {
+          "authorId": "2187178839",
+          "name": "Kosuke Suzuki"
+        },
+        {
+          "authorId": "2142445796",
+          "name": "Mizuho Aoki"
+        },
+        {
+          "authorId": "2171757326",
+          "name": "H. Hosogaya"
+        },
+        {
+          "authorId": "35086390",
+          "name": "H. Okuda"
+        },
+        {
+          "authorId": "2148273447",
+          "name": "Tatsuya Suzuki"
+        }
+      ]
+    },
+    {
+      "paperId": "c9df87828b255895ad9bc6e3f7620538c88ed8f3",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2301-11294",
+        "ArXiv": "2301.11294",
+        "DOI": "10.48550/arXiv.2301.11294",
+        "CorpusId": 256274633
+      },
+      "url": "https://www.semanticscholar.org/paper/c9df87828b255895ad9bc6e3f7620538c88ed8f3",
+      "title": "Coin Sampling: Gradient-Based Bayesian Inference without Learning Rates",
+      "venue": "International Conference on Machine Learning",
+      "year": 2023,
+      "referenceCount": 109,
+      "citationCount": 10,
+      "authors": [
+        {
+          "authorId": "2288281765",
+          "name": "Louis Sharrock"
+        },
+        {
+          "authorId": "2064196771",
+          "name": "C. Nemeth"
+        }
+      ]
+    },
+    {
+      "paperId": "435d459eee226fc08e6d00b08f2e61b10f40502f",
+      "externalIds": {
+        "DBLP": "conf/iclr/MessaoudMXP0CC24",
+        "ArXiv": "2405.00987",
+        "DOI": "10.48550/arXiv.2405.00987",
+        "CorpusId": 269502711
+      },
+      "url": "https://www.semanticscholar.org/paper/435d459eee226fc08e6d00b08f2e61b10f40502f",
+      "title": "S2AC: Energy-Based Reinforcement Learning with Stein Soft Actor Critic",
+      "venue": "International Conference on Learning Representations",
+      "year": 2024,
+      "referenceCount": 99,
+      "citationCount": 19,
+      "authors": [
+        {
+          "authorId": "144210171",
+          "name": "Safa Messaoud"
+        },
+        {
+          "authorId": "2299330233",
+          "name": "Billel Mokeddem"
+        },
+        {
+          "authorId": "2293617858",
+          "name": "Zhenghai Xue"
+        },
+        {
+          "authorId": "2373834",
+          "name": "L. Pang"
+        },
+        {
+          "authorId": "2293512840",
+          "name": "Bo An"
+        },
+        {
+          "authorId": "39674336",
+          "name": "Haipeng Chen"
+        },
+        {
+          "authorId": "2299329058",
+          "name": "Sanjay Chawla"
+        }
+      ]
+    }
+  ]
+}

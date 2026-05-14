@@ -1,0 +1,356 @@
+{
+  "total": 1199,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "5c22e93e1b6fe23880bd7a83419ab3dd1b4e9bec",
+      "externalIds": {
+        "DBLP": "conf/icml/RosenfeldBGS18",
+        "MAG": "2886548888",
+        "CorpusId": 49251605
+      },
+      "url": "https://www.semanticscholar.org/paper/5c22e93e1b6fe23880bd7a83419ab3dd1b4e9bec",
+      "title": "Learning to Optimize Combinatorial Functions",
+      "venue": "International Conference on Machine Learning",
+      "year": 2018,
+      "referenceCount": 30,
+      "citationCount": 19,
+      "authors": [
+        {
+          "authorId": "3138200",
+          "name": "Nir Rosenfeld"
+        },
+        {
+          "authorId": "1837833",
+          "name": "Eric Balkanski"
+        },
+        {
+          "authorId": "1786843",
+          "name": "A. Globerson"
+        },
+        {
+          "authorId": "1778763",
+          "name": "Yaron Singer"
+        }
+      ]
+    },
+    {
+      "paperId": "7d59fd4cde78419c8f4a17a6e2d28786c1a2c4ed",
+      "externalIds": {
+        "DOI": "10.3390/stats9020028",
+        "CorpusId": 286476201
+      },
+      "url": "https://www.semanticscholar.org/paper/7d59fd4cde78419c8f4a17a6e2d28786c1a2c4ed",
+      "title": "Combinatorial Game Theory and Reinforcement Learning in Cumulative Tic-Tac-Toe via Evaluation Functions",
+      "venue": "Stats",
+      "year": 2026,
+      "referenceCount": 77,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2314864208",
+          "name": "Kai Li"
+        },
+        {
+          "authorId": "2264598842",
+          "name": "Wei Zhu"
+        }
+      ]
+    },
+    {
+      "paperId": "695ea601f5eda0d35e4d4c72920dec9d4987038c",
+      "externalIds": {
+        "ArXiv": "2505.20972",
+        "DBLP": "journals/corr/abs-2505-20972",
+        "DOI": "10.48550/arXiv.2505.20972",
+        "CorpusId": 278911165
+      },
+      "url": "https://www.semanticscholar.org/paper/695ea601f5eda0d35e4d4c72920dec9d4987038c",
+      "title": "Deep k-grouping: An Unsupervised Learning Framework for Combinatorial Optimization on Graphs and Hypergraphs",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "referenceCount": 42,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2052829681",
+          "name": "Sen Bai"
+        },
+        {
+          "authorId": "2363706905",
+          "name": "Chunqi Yang"
+        },
+        {
+          "authorId": "2363669646",
+          "name": "Xin Bai"
+        },
+        {
+          "authorId": "2363562386",
+          "name": "Xin Zhang"
+        },
+        {
+          "authorId": "2363617375",
+          "name": "Zhengang Jiang"
+        }
+      ]
+    },
+    {
+      "paperId": "d1148a3a137a6108c4f808ae2995330e8eb2dc13",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2409-03811",
+        "DOI": "10.48550/arXiv.2409.03811",
+        "CorpusId": 276185019
+      },
+      "url": "https://www.semanticscholar.org/paper/d1148a3a137a6108c4f808ae2995330e8eb2dc13",
+      "title": "PARCO: Learning Parallel Autoregressive Policies for Efficient Multi-Agent Combinatorial Optimization",
+      "venue": "arXiv.org",
+      "year": 2024,
+      "referenceCount": 96,
+      "citationCount": 9,
+      "authors": [
+        {
+          "authorId": "2133376851",
+          "name": "Federico Berto"
+        },
+        {
+          "authorId": "2176834016",
+          "name": "Chuanbo Hua"
+        },
+        {
+          "authorId": "2047491141",
+          "name": "Laurin Luttmann"
+        },
+        {
+          "authorId": "2193478191",
+          "name": "Jiwoo Son"
+        },
+        {
+          "authorId": "1491104517",
+          "name": "Junyoung Park"
+        },
+        {
+          "authorId": "1560394962",
+          "name": "Kyuree Ahn"
+        },
+        {
+          "authorId": "2261284283",
+          "name": "Changhyun Kwon"
+        },
+        {
+          "authorId": "2304302488",
+          "name": "Lin Xie"
+        },
+        {
+          "authorId": "2247981158",
+          "name": "Jinkyoo Park"
+        }
+      ]
+    },
+    {
+      "paperId": "3768b9a516aca3f63f2703eae93d805f759b9a74",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2112-03609",
+        "CorpusId": 244920590
+      },
+      "url": "https://www.semanticscholar.org/paper/3768b9a516aca3f63f2703eae93d805f759b9a74",
+      "title": "Predict and Optimize: Through the Lens of Learning to Rank",
+      "venue": "arXiv.org",
+      "year": 2021,
+      "referenceCount": 28,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "73768412",
+          "name": "Jayanta Mandi"
+        },
+        {
+          "authorId": "3402949",
+          "name": "Víctor Bucarey"
+        },
+        {
+          "authorId": "1587635783",
+          "name": "Maxime Mulamba"
+        },
+        {
+          "authorId": "1834512",
+          "name": "Tias Guns"
+        }
+      ]
+    },
+    {
+      "paperId": "7fb82bcdf7b539155ad9eec2c7d955b933128277",
+      "externalIds": {
+        "DBLP": "journals/ton/LiuDWJHL26",
+        "DOI": "10.1109/TON.2026.3663325",
+        "CorpusId": 285522208
+      },
+      "url": "https://www.semanticscholar.org/paper/7fb82bcdf7b539155ad9eec2c7d955b933128277",
+      "title": "Combinatorial Logistic Online Learning and Its Applications in Nonlinear Networked Systems",
+      "venue": "IEEE Transactions on Networking",
+      "year": 2026,
+      "referenceCount": 83,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2345092011",
+          "name": "Xutong Liu"
+        },
+        {
+          "authorId": "2303941298",
+          "name": "Xiangxiang Dai"
+        },
+        {
+          "authorId": "2163841378",
+          "name": "Xuchuang Wang"
+        },
+        {
+          "authorId": "1393650147",
+          "name": "Carlee Joe-Wong"
+        },
+        {
+          "authorId": "2358260511",
+          "name": "Mohammad H. Hajiesmaili"
+        },
+        {
+          "authorId": "2259080083",
+          "name": "John C. S. Lui"
+        }
+      ]
+    },
+    {
+      "paperId": "d98be762a69fbe8eac21637de4b80a6ad91c09ec",
+      "externalIds": {
+        "DBLP": "conf/icml/MandiBTG22",
+        "ArXiv": "2112.03609",
+        "CorpusId": 249847756
+      },
+      "url": "https://www.semanticscholar.org/paper/d98be762a69fbe8eac21637de4b80a6ad91c09ec",
+      "title": "Decision-Focused Learning: Through the Lens of Learning to Rank",
+      "venue": "International Conference on Machine Learning",
+      "year": 2021,
+      "referenceCount": 26,
+      "citationCount": 71,
+      "authors": [
+        {
+          "authorId": "73768412",
+          "name": "Jayanta Mandi"
+        },
+        {
+          "authorId": "3402949",
+          "name": "Víctor Bucarey"
+        },
+        {
+          "authorId": "2175276030",
+          "name": "Maxime Mulamba Ke Tchomba"
+        },
+        {
+          "authorId": "1834512",
+          "name": "Tias Guns"
+        }
+      ]
+    },
+    {
+      "paperId": "2dbabd8e36d1ca75954c43f6c3f04a6bd1f4847c",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2410-17075",
+        "ArXiv": "2410.17075",
+        "DOI": "10.1145/3744970.3727279",
+        "CorpusId": 273507069
+      },
+      "url": "https://www.semanticscholar.org/paper/2dbabd8e36d1ca75954c43f6c3f04a6bd1f4847c",
+      "title": "Combinatorial Logistic Bandits",
+      "venue": "Measurement and Modeling of Computer Systems",
+      "year": 2024,
+      "referenceCount": 4,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "2202278",
+          "name": "Xutong Liu"
+        },
+        {
+          "authorId": "2303941298",
+          "name": "Xiangxiang Dai"
+        },
+        {
+          "authorId": "2163841378",
+          "name": "Xuchuang Wang"
+        },
+        {
+          "authorId": "2358260511",
+          "name": "Mohammad H. Hajiesmaili"
+        },
+        {
+          "authorId": "2253686436",
+          "name": "John C. S. Lui"
+        }
+      ]
+    },
+    {
+      "paperId": "9ff482deaa5a4833595abfae6ff4130bdba66a75",
+      "externalIds": {
+        "DBLP": "journals/jmemcom/KangLW25",
+        "DOI": "10.1007/s41965-024-00170-z",
+        "CorpusId": 272631952
+      },
+      "url": "https://www.semanticscholar.org/paper/9ff482deaa5a4833595abfae6ff4130bdba66a75",
+      "title": "A survey on pareto front learning for multi-objective optimization",
+      "venue": "Journal of Membrane Computing",
+      "year": 2024,
+      "referenceCount": 42,
+      "citationCount": 24,
+      "authors": [
+        {
+          "authorId": "2321047238",
+          "name": "Shida Kang"
+        },
+        {
+          "authorId": "50754299",
+          "name": "Kaiwen Li"
+        },
+        {
+          "authorId": "2321122876",
+          "name": "Rui Wang"
+        }
+      ]
+    },
+    {
+      "paperId": "bb853506040eac1971a5cf0a7be835bd5f9a48a6",
+      "externalIds": {
+        "PubMedCentral": "13014801",
+        "DOI": "10.1002/psp4.70214",
+        "CorpusId": 286458981,
+        "PubMed": "41806166"
+      },
+      "url": "https://www.semanticscholar.org/paper/bb853506040eac1971a5cf0a7be835bd5f9a48a6",
+      "title": "Learning Covariate Relations in Disease Progression Models Using Symbolic Neural Networks",
+      "venue": "CPT: Pharmacometrics & Systems Pharmacology",
+      "year": 2026,
+      "referenceCount": 21,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2261087715",
+          "name": "Jesper Sundell"
+        },
+        {
+          "authorId": "1581323555",
+          "name": "Y. Wahlquist"
+        },
+        {
+          "authorId": "48047580",
+          "name": "M. Kjellsson"
+        },
+        {
+          "authorId": "2281046819",
+          "name": "M. O. Karlsson"
+        },
+        {
+          "authorId": "2261962082",
+          "name": "Kristian Soltesz"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,296 @@
+{
+  "total": 5247,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "d639ba2d4d45666f73960a7c4fc2fe242296152c",
+      "externalIds": {
+        "MAG": "2426900979",
+        "DBLP": "conf/icml/LiCLYSC16",
+        "CorpusId": 12888800
+      },
+      "url": "https://www.semanticscholar.org/paper/d639ba2d4d45666f73960a7c4fc2fe242296152c",
+      "title": "Low-Rank Matrix Approximation with Stability",
+      "venue": "International Conference on Machine Learning",
+      "year": 2016,
+      "referenceCount": 27,
+      "citationCount": 48,
+      "authors": [
+        {
+          "authorId": "2108481070",
+          "name": "Dongsheng Li"
+        },
+        {
+          "authorId": "2145763884",
+          "name": "Chao Chen"
+        },
+        {
+          "authorId": "1569105854",
+          "name": "Q. Lv"
+        },
+        {
+          "authorId": "3063894",
+          "name": "Junchi Yan"
+        },
+        {
+          "authorId": "144456482",
+          "name": "L. Shang"
+        },
+        {
+          "authorId": "1731014",
+          "name": "Stephen M. Chu"
+        }
+      ]
+    },
+    {
+      "paperId": "2f3dfe17bfdd8b25cce81b9f6d343e32562e84d0",
+      "externalIds": {
+        "DBLP": "journals/na/WanC23",
+        "DOI": "10.1007/s11075-023-01513-0",
+        "CorpusId": 257785905
+      },
+      "url": "https://www.semanticscholar.org/paper/2f3dfe17bfdd8b25cce81b9f6d343e32562e84d0",
+      "title": "Weighted hybrid truncated norm regularization method for low-rank matrix completion",
+      "venue": "Numerical Algorithms",
+      "year": 2023,
+      "referenceCount": 25,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2212774434",
+          "name": "Xiying Wan"
+        },
+        {
+          "authorId": "2326636818",
+          "name": "Guanghui Cheng"
+        }
+      ]
+    },
+    {
+      "paperId": "2b0d96b3d1785b515a8f8d447af3306f3d4ea312",
+      "externalIds": {
+        "DOI": "10.23919/CCC64809.2025.11179660",
+        "CorpusId": 281968823
+      },
+      "url": "https://www.semanticscholar.org/paper/2b0d96b3d1785b515a8f8d447af3306f3d4ea312",
+      "title": "Robust Control and Control Allocation for Multi-Modal Over-Actuated Switched Systems Based on Low-Rank Approximation Techniques",
+      "venue": "Cybersecurity and Cyberforensics Conference",
+      "year": 2025,
+      "referenceCount": 15,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2384890002",
+          "name": "Maixiang Li"
+        },
+        {
+          "authorId": "2242936591",
+          "name": "Jie Lian"
+        },
+        {
+          "authorId": "46583415",
+          "name": "Feiyue Wu"
+        }
+      ]
+    },
+    {
+      "paperId": "ded5089c34a7c7c6caf8b2248a217b9eef5c7887",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2506-08535",
+        "ArXiv": "2506.08535",
+        "DOI": "10.48550/arXiv.2506.08535",
+        "CorpusId": 279260645
+      },
+      "url": "https://www.semanticscholar.org/paper/ded5089c34a7c7c6caf8b2248a217b9eef5c7887",
+      "title": "Structured Variational D-Decomposition for Accurate and Stable Low-Rank Approximation",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "referenceCount": 27,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2320723318",
+          "name": "Ronald Katende"
+        }
+      ]
+    },
+    {
+      "paperId": "67d3f29ccd85a17a1069516c1aac7ffc5429711a",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2403-14958",
+        "ArXiv": "2403.14958",
+        "DOI": "10.48550/arXiv.2403.14958",
+        "CorpusId": 268667194
+      },
+      "url": "https://www.semanticscholar.org/paper/67d3f29ccd85a17a1069516c1aac7ffc5429711a",
+      "title": "Adapprox: Adaptive Approximation in Adam Optimization via Randomized Low-Rank Matrices",
+      "venue": "arXiv.org",
+      "year": 2024,
+      "referenceCount": 34,
+      "citationCount": 9,
+      "authors": [
+        {
+          "authorId": "2114873379",
+          "name": "Pengxiang Zhao"
+        },
+        {
+          "authorId": "2293474362",
+          "name": "Ping Li"
+        },
+        {
+          "authorId": "2293325634",
+          "name": "Yingjie Gu"
+        },
+        {
+          "authorId": "2293396844",
+          "name": "Yi Zheng"
+        },
+        {
+          "authorId": "2395151708",
+          "name": "S. Kölker"
+        },
+        {
+          "authorId": "2293231668",
+          "name": "Zhefeng Wang"
+        },
+        {
+          "authorId": "2283433779",
+          "name": "Xiaoming Yuan"
+        }
+      ]
+    },
+    {
+      "paperId": "66f9a233c36d49909fa517bba3e64e28f68f0332",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2407-11959",
+        "ArXiv": "2407.11959",
+        "DOI": "10.48550/arXiv.2407.11959",
+        "CorpusId": 271218340
+      },
+      "url": "https://www.semanticscholar.org/paper/66f9a233c36d49909fa517bba3e64e28f68f0332",
+      "title": "Faster Algorithms for Schatten-p Low Rank Approximation",
+      "venue": "International Workshop and International Workshop on Approximation, Randomization, and Combinatorial Optimization. Algorithms and Techniques",
+      "year": 2024,
+      "referenceCount": 16,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2311506957",
+          "name": "Praneeth Kacham"
+        },
+        {
+          "authorId": "2268673251",
+          "name": "David P. Woodruff"
+        }
+      ]
+    },
+    {
+      "paperId": "43cfc6e8aef76bccc07e0eb7037ea513cabe7731",
+      "externalIds": {
+        "DBLP": "journals/access/KwonP24",
+        "DOI": "10.1109/ACCESS.2023.3347928",
+        "CorpusId": 266645689
+      },
+      "url": "https://www.semanticscholar.org/paper/43cfc6e8aef76bccc07e0eb7037ea513cabe7731",
+      "title": "Data Dissemination Framework Using Low-Rank Approximation in Edge Networks",
+      "venue": "IEEE Access",
+      "year": 2024,
+      "referenceCount": 44,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "9132284",
+          "name": "Jungmin Kwon"
+        },
+        {
+          "authorId": "2276844547",
+          "name": "Hyunggon Park"
+        }
+      ]
+    },
+    {
+      "paperId": "884ed530affc460e6abae15ac1e315aa82c03560",
+      "externalIds": {
+        "ArXiv": "2410.21829",
+        "DBLP": "journals/corr/abs-2410-21829",
+        "DOI": "10.48550/arXiv.2410.21829",
+        "CorpusId": 273662025
+      },
+      "url": "https://www.semanticscholar.org/paper/884ed530affc460e6abae15ac1e315aa82c03560",
+      "title": "A generalized Nystrom method with column sketching for low-rank approximation of nonsymmetric matrices",
+      "venue": "arXiv.org",
+      "year": 2024,
+      "referenceCount": 56,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2180351207",
+          "name": "Yatian Wang"
+        },
+        {
+          "authorId": "2328081136",
+          "name": "Hua Xiang"
+        },
+        {
+          "authorId": "2274622070",
+          "name": "Chi Zhang"
+        },
+        {
+          "authorId": "2322609487",
+          "name": "Songling Zhang"
+        }
+      ]
+    },
+    {
+      "paperId": "a14cb0fb7a3640e9d773594882ec86f40bf6f42a",
+      "externalIds": {
+        "DBLP": "conf/icmla/AlelyaniL12",
+        "MAG": "1988746684",
+        "DOI": "10.1109/ICMLA.2012.61",
+        "CorpusId": 12950406
+      },
+      "url": "https://www.semanticscholar.org/paper/a14cb0fb7a3640e9d773594882ec86f40bf6f42a",
+      "title": "Supervised Low Rank Matrix Approximation for Stable Feature Selection",
+      "venue": "International Conference on Machine Learning and Applications",
+      "year": 2012,
+      "referenceCount": 14,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2188162366",
+          "name": "Salem Alelyani"
+        },
+        {
+          "authorId": "2264008469",
+          "name": "Huan Liu"
+        }
+      ]
+    },
+    {
+      "paperId": "56819a71217d16955b5de034723d1ea1114fc3f4",
+      "externalIds": {
+        "ArXiv": "2309.02877",
+        "DBLP": "journals/corr/abs-2309-02877",
+        "DOI": "10.48550/arXiv.2309.02877",
+        "CorpusId": 261557056
+      },
+      "url": "https://www.semanticscholar.org/paper/56819a71217d16955b5de034723d1ea1114fc3f4",
+      "title": "A multilinear Nyström algorithm for low-rank approximation of tensors in Tucker format",
+      "venue": "arXiv.org",
+      "year": 2023,
+      "referenceCount": 35,
+      "citationCount": 4,
+      "authors": [
+        {
+          "authorId": "2237988664",
+          "name": "Alberto Bucci"
+        },
+        {
+          "authorId": "3032177",
+          "name": "L. Robol"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,794 @@
+{
+  "offset": 0,
+  "citingPaperInfo": {
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/1410.2455, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "title": "BilBOWA: Fast Bilingual Distributed Representations without Word Alignments",
+    "authors": [
+      {
+        "authorId": "2776283",
+        "name": "Stephan Gouws"
+      },
+      {
+        "authorId": "1751762",
+        "name": "Yoshua Bengio"
+      },
+      {
+        "authorId": "32131713",
+        "name": "G. Corrado"
+      }
+    ]
+  },
+  "data": [
+    {
+      "citedPaper": {
+        "paperId": "f37e1b62a767a307c046404ca96bc140b3e68cb5",
+        "externalIds": {
+          "DBLP": "conf/emnlp/PenningtonSM14",
+          "ACL": "D14-1162",
+          "MAG": "2250539671",
+          "DOI": "10.3115/v1/D14-1162",
+          "CorpusId": 1957433
+        },
+        "url": "https://www.semanticscholar.org/paper/f37e1b62a767a307c046404ca96bc140b3e68cb5",
+        "title": "GloVe: Global Vectors for Word Representation",
+        "venue": "Conference on Empirical Methods in Natural Language Processing",
+        "year": 2014,
+        "referenceCount": 32,
+        "citationCount": 34321,
+        "authors": [
+          {
+            "authorId": "143845796",
+            "name": "Jeffrey Pennington"
+          },
+          {
+            "authorId": "2166511",
+            "name": "R. Socher"
+          },
+          {
+            "authorId": "144783904",
+            "name": "Christopher D. Manning"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "9d3aaa919c78c06f24588d97ed1028d51860b321",
+        "externalIds": {
+          "DBLP": "conf/eacl/FaruquiD14",
+          "ACL": "E14-1049",
+          "MAG": "342285082",
+          "DOI": "10.3115/v1/E14-1049",
+          "CorpusId": 3792324
+        },
+        "url": "https://www.semanticscholar.org/paper/9d3aaa919c78c06f24588d97ed1028d51860b321",
+        "title": "Improving Vector Space Word Representations Using Multilingual Correlation",
+        "venue": "Conference of the European Chapter of the Association for Computational Linguistics",
+        "year": 2014,
+        "referenceCount": 45,
+        "citationCount": 613,
+        "authors": [
+          {
+            "authorId": "1779225",
+            "name": "Manaal Faruqui"
+          },
+          {
+            "authorId": "1745899",
+            "name": "Chris Dyer"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "2012f32199adc88747d5a1b47c7b4ba1cb3cb995",
+        "externalIds": {
+          "DBLP": "journals/corr/GoldbergL14",
+          "MAG": "2131571251",
+          "ArXiv": "1402.3722",
+          "CorpusId": 12890187
+        },
+        "url": "https://www.semanticscholar.org/paper/2012f32199adc88747d5a1b47c7b4ba1cb3cb995",
+        "title": "word2vec Explained: deriving Mikolov et al.'s negative-sampling word-embedding method",
+        "venue": "arXiv.org",
+        "year": 2014,
+        "referenceCount": 3,
+        "citationCount": 1704,
+        "authors": [
+          {
+            "authorId": "2089067",
+            "name": "Yoav Goldberg"
+          },
+          {
+            "authorId": "39455775",
+            "name": "Omer Levy"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "70600593f870f460624c56c2a57b9a03b94f94a5",
+        "externalIds": {
+          "MAG": "2950682695",
+          "DBLP": "journals/corr/PLLKRRS14",
+          "ArXiv": "1402.1454",
+          "CorpusId": 217774
+        },
+        "url": "https://www.semanticscholar.org/paper/70600593f870f460624c56c2a57b9a03b94f94a5",
+        "title": "An Autoencoder Approach to Learning Bilingual Word Representations",
+        "venue": "Neural Information Processing Systems",
+        "year": 2014,
+        "referenceCount": 31,
+        "citationCount": 347,
+        "authors": [
+          {
+            "authorId": "144631588",
+            "name": "A. Chandar"
+          },
+          {
+            "authorId": "2159456",
+            "name": "Stanislas Lauly"
+          },
+          {
+            "authorId": "1777528",
+            "name": "H. Larochelle"
+          },
+          {
+            "authorId": "2361078",
+            "name": "Mitesh M. Khapra"
+          },
+          {
+            "authorId": "1723632",
+            "name": "Balaraman Ravindran"
+          },
+          {
+            "authorId": "145769639",
+            "name": "V. Raykar"
+          },
+          {
+            "authorId": "2909575",
+            "name": "Amrita Saha"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "c20ed3a1600122e6cf03b8ed74d3d2920ad0a8c6",
+        "externalIds": {
+          "ArXiv": "1312.6173",
+          "MAG": "1562955078",
+          "CorpusId": 13805769
+        },
+        "url": "https://www.semanticscholar.org/paper/c20ed3a1600122e6cf03b8ed74d3d2920ad0a8c6",
+        "title": "Multilingual Distributed Representations without Word Alignment",
+        "venue": "International Conference on Learning Representations",
+        "year": 2013,
+        "referenceCount": 30,
+        "citationCount": 161,
+        "authors": [
+          {
+            "authorId": "2910877",
+            "name": "Karl Moritz Hermann"
+          },
+          {
+            "authorId": "1685771",
+            "name": "Phil Blunsom"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "87f40e6f3022adbc1f1905e3e506abad05a9964f",
+        "externalIds": {
+          "ArXiv": "1310.4546",
+          "MAG": "2950133940",
+          "DBLP": "conf/nips/MikolovSCCD13",
+          "CorpusId": 16447573
+        },
+        "url": "https://www.semanticscholar.org/paper/87f40e6f3022adbc1f1905e3e506abad05a9964f",
+        "title": "Distributed Representations of Words and Phrases and their Compositionality",
+        "venue": "Neural Information Processing Systems",
+        "year": 2013,
+        "referenceCount": 24,
+        "citationCount": 35080,
+        "authors": [
+          {
+            "authorId": "2047446108",
+            "name": "Tomas Mikolov"
+          },
+          {
+            "authorId": "1701686",
+            "name": "I. Sutskever"
+          },
+          {
+            "authorId": "2118440152",
+            "name": "Kai Chen"
+          },
+          {
+            "authorId": "32131713",
+            "name": "G. Corrado"
+          },
+          {
+            "authorId": "49959210",
+            "name": "J. Dean"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "0d3233d858660aff451a6c2561a05378ed09725a",
+        "externalIds": {
+          "MAG": "2118090838",
+          "ACL": "D13-1141",
+          "DBLP": "conf/emnlp/ZouSCM13",
+          "DOI": "10.18653/v1/d13-1141",
+          "CorpusId": 931054
+        },
+        "url": "https://www.semanticscholar.org/paper/0d3233d858660aff451a6c2561a05378ed09725a",
+        "title": "Bilingual Word Embeddings for Phrase-Based Machine Translation",
+        "venue": "Conference on Empirical Methods in Natural Language Processing",
+        "year": 2013,
+        "referenceCount": 42,
+        "citationCount": 582,
+        "authors": [
+          {
+            "authorId": "2860351",
+            "name": "Will Y. Zou"
+          },
+          {
+            "authorId": "2166511",
+            "name": "R. Socher"
+          },
+          {
+            "authorId": "46724030",
+            "name": "Daniel Matthew Cer"
+          },
+          {
+            "authorId": "144783904",
+            "name": "Christopher D. Manning"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "0157dcd6122c20b5afc359a799b2043453471f7f",
+        "externalIds": {
+          "DBLP": "journals/corr/MikolovLS13",
+          "ArXiv": "1309.4168",
+          "MAG": "2126725946",
+          "CorpusId": 1966640
+        },
+        "url": "https://www.semanticscholar.org/paper/0157dcd6122c20b5afc359a799b2043453471f7f",
+        "title": "Exploiting Similarities among Languages for Machine Translation",
+        "venue": "arXiv.org",
+        "year": 2013,
+        "referenceCount": 19,
+        "citationCount": 1642,
+        "authors": [
+          {
+            "authorId": "2047446108",
+            "name": "Tomas Mikolov"
+          },
+          {
+            "authorId": "2827616",
+            "name": "Quoc V. Le"
+          },
+          {
+            "authorId": "1701686",
+            "name": "I. Sutskever"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "8e3f0f7a761f18cb91c11764d8d6cb3b1e9c5731",
+        "externalIds": {
+          "MAG": "2953327864",
+          "DBLP": "journals/corr/Al-RfouPS13",
+          "ACL": "W13-3520",
+          "ArXiv": "1307.1662",
+          "CorpusId": 11332377
+        },
+        "url": "https://www.semanticscholar.org/paper/8e3f0f7a761f18cb91c11764d8d6cb3b1e9c5731",
+        "title": "Polyglot: Distributed Word Representations for Multilingual NLP",
+        "venue": "Conference on Computational Natural Language Learning",
+        "year": 2013,
+        "referenceCount": 44,
+        "citationCount": 492,
+        "authors": [
+          {
+            "authorId": "1388360943",
+            "name": "Rami Al-Rfou"
+          },
+          {
+            "authorId": "2271808",
+            "name": "Bryan Perozzi"
+          },
+          {
+            "authorId": "1721948",
+            "name": "S. Skiena"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "7b5e31257f01aba987f16e175a3e49e00a5bd3bb",
+        "externalIds": {
+          "MAG": "2148708890",
+          "DBLP": "conf/naacl/DyerCS13",
+          "ACL": "N13-1073",
+          "CorpusId": 8476273
+        },
+        "url": "https://www.semanticscholar.org/paper/7b5e31257f01aba987f16e175a3e49e00a5bd3bb",
+        "title": "A Simple, Fast, and Effective Reparameterization of IBM Model 2",
+        "venue": "North American Chapter of the Association for Computational Linguistics",
+        "year": 2013,
+        "referenceCount": 9,
+        "citationCount": 1106,
+        "authors": [
+          {
+            "authorId": "1745899",
+            "name": "Chris Dyer"
+          },
+          {
+            "authorId": "2730654",
+            "name": "Victor Chahuneau"
+          },
+          {
+            "authorId": "144365875",
+            "name": "Noah A. Smith"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "d1f37d9cab68eb8cda669cc949394732f33264b4",
+        "externalIds": {
+          "MAG": "2251033195",
+          "ACL": "C12-1089",
+          "DBLP": "conf/coling/KlementievTB12",
+          "CorpusId": 6758088
+        },
+        "url": "https://www.semanticscholar.org/paper/d1f37d9cab68eb8cda669cc949394732f33264b4",
+        "title": "Inducing Crosslingual Distributed Representations of Words",
+        "venue": "International Conference on Computational Linguistics",
+        "year": 2012,
+        "referenceCount": 34,
+        "citationCount": 390,
+        "authors": [
+          {
+            "authorId": "2393075",
+            "name": "A. Klementiev"
+          },
+          {
+            "authorId": "144889265",
+            "name": "Ivan Titov"
+          },
+          {
+            "authorId": "48467774",
+            "name": "Binod Bhattarai"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "5b0d644f5c4b9880cbaf79932c0a4fa98996f068",
+        "externalIds": {
+          "MAG": "2120861206",
+          "ArXiv": "1206.6426",
+          "DBLP": "conf/icml/MnihT12",
+          "CorpusId": 6633369
+        },
+        "url": "https://www.semanticscholar.org/paper/5b0d644f5c4b9880cbaf79932c0a4fa98996f068",
+        "title": "A fast and simple algorithm for training neural probabilistic language models",
+        "venue": "International Conference on Machine Learning",
+        "year": 2012,
+        "referenceCount": 25,
+        "citationCount": 586,
+        "authors": [
+          {
+            "authorId": "1714004",
+            "name": "A. Mnih"
+          },
+          {
+            "authorId": "1725303",
+            "name": "Y. Teh"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "bc1022b031dc6c7019696492e8116598097a8c12",
+        "externalIds": {
+          "MAG": "2158899491",
+          "DBLP": "journals/jmlr/CollobertWBKKK11",
+          "ArXiv": "1103.0398",
+          "DOI": "10.5555/1953048.2078186",
+          "CorpusId": 351666
+        },
+        "url": "https://www.semanticscholar.org/paper/bc1022b031dc6c7019696492e8116598097a8c12",
+        "title": "Natural Language Processing (Almost) from Scratch",
+        "venue": "Journal of machine learning research",
+        "year": 2011,
+        "referenceCount": 101,
+        "citationCount": 7890,
+        "authors": [
+          {
+            "authorId": "2939803",
+            "name": "R. Collobert"
+          },
+          {
+            "authorId": "145183709",
+            "name": "J. Weston"
+          },
+          {
+            "authorId": "52184096",
+            "name": "L. Bottou"
+          },
+          {
+            "authorId": "21432929",
+            "name": "Michael Karlen"
+          },
+          {
+            "authorId": "2645384",
+            "name": "K. Kavukcuoglu"
+          },
+          {
+            "authorId": "46283650",
+            "name": "Pavel P. Kuksa"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "a25fbcbbae1e8f79c4360d26aa11a3abf1a11972",
+        "externalIds": {
+          "DBLP": "journals/tkde/PanY10",
+          "MAG": "2165698076",
+          "DOI": "10.1109/TKDE.2009.191",
+          "CorpusId": 740063
+        },
+        "url": "https://www.semanticscholar.org/paper/a25fbcbbae1e8f79c4360d26aa11a3abf1a11972",
+        "title": "A Survey on Transfer Learning",
+        "venue": "IEEE Transactions on Knowledge and Data Engineering",
+        "year": 2010,
+        "referenceCount": 97,
+        "citationCount": 23003,
+        "authors": [
+          {
+            "authorId": "1746914",
+            "name": "Sinno Jialin Pan"
+          },
+          {
+            "authorId": "152290618",
+            "name": "Qiang Yang"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "8492070dc4031ed825e95e4803781752bb5e909f",
+        "externalIds": {
+          "ACL": "P10-1040",
+          "MAG": "2158139315",
+          "DBLP": "conf/acl/TurianRB10",
+          "CorpusId": 629094
+        },
+        "url": "https://www.semanticscholar.org/paper/8492070dc4031ed825e95e4803781752bb5e909f",
+        "title": "Word Representations: A Simple and General Method for Semi-Supervised Learning",
+        "venue": "Annual Meeting of the Association for Computational Linguistics",
+        "year": 2010,
+        "referenceCount": 52,
+        "citationCount": 2342,
+        "authors": [
+          {
+            "authorId": "153160559",
+            "name": "Joseph P. Turian"
+          },
+          {
+            "authorId": "2335225",
+            "name": "Lev-Arie Ratinov"
+          },
+          {
+            "authorId": "1751762",
+            "name": "Yoshua Bengio"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "699d5ab38deee78b1fd17cc8ad233c74196d16e9",
+        "externalIds": {
+          "DBLP": "journals/tnn/BengioS08",
+          "MAG": "2152808281",
+          "DOI": "10.1109/TNN.2007.912312",
+          "CorpusId": 9147661,
+          "PubMed": "18390314"
+        },
+        "url": "https://www.semanticscholar.org/paper/699d5ab38deee78b1fd17cc8ad233c74196d16e9",
+        "title": "Adaptive Importance Sampling to Accelerate Training of a Neural Probabilistic Language Model",
+        "venue": "IEEE Transactions on Neural Networks",
+        "year": 2008,
+        "referenceCount": 34,
+        "citationCount": 259,
+        "authors": [
+          {
+            "authorId": "1751762",
+            "name": "Yoshua Bengio"
+          },
+          {
+            "authorId": "30345804",
+            "name": "J. Senecal"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "9f62067945d991cd78a62cf647de17f01d1b54d3",
+        "externalIds": {
+          "ACL": "P07-1033",
+          "DBLP": "conf/acl/Daume07",
+          "ArXiv": "0907.1815",
+          "MAG": "2952362487",
+          "CorpusId": 5360764
+        },
+        "url": "https://www.semanticscholar.org/paper/9f62067945d991cd78a62cf647de17f01d1b54d3",
+        "title": "Frustratingly Easy Domain Adaptation",
+        "venue": "Annual Meeting of the Association for Computational Linguistics",
+        "year": 2007,
+        "referenceCount": 15,
+        "citationCount": 1841,
+        "authors": [
+          {
+            "authorId": "1722360",
+            "name": "Hal Daumé"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "9fa8d73e572c3ca824a04a5f551b602a17831bc5",
+        "externalIds": {
+          "DBLP": "conf/emnlp/BlitzerMP06",
+          "MAG": "2158108973",
+          "ACL": "W06-1615",
+          "DOI": "10.3115/1610075.1610094",
+          "CorpusId": 15978939
+        },
+        "url": "https://www.semanticscholar.org/paper/9fa8d73e572c3ca824a04a5f551b602a17831bc5",
+        "title": "Domain Adaptation with Structural Correspondence Learning",
+        "venue": "Conference on Empirical Methods in Natural Language Processing",
+        "year": 2006,
+        "referenceCount": 25,
+        "citationCount": 1734,
+        "authors": [
+          {
+            "authorId": "2116927",
+            "name": "John Blitzer"
+          },
+          {
+            "authorId": "143957226",
+            "name": "Ryan T. McDonald"
+          },
+          {
+            "authorId": "145366908",
+            "name": "Fernando C Pereira"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "2abe6b9ea1b13653b7384e9c8ef14b0d87e20cfc",
+        "externalIds": {
+          "DBLP": "journals/jmlr/LewisYRL04",
+          "MAG": "2150102617",
+          "CorpusId": 11027141
+        },
+        "url": "https://www.semanticscholar.org/paper/2abe6b9ea1b13653b7384e9c8ef14b0d87e20cfc",
+        "title": "RCV1: A New Benchmark Collection for Text Categorization Research",
+        "venue": "Journal of machine learning research",
+        "year": 2004,
+        "referenceCount": 51,
+        "citationCount": 3175,
+        "authors": [
+          {
+            "authorId": "35153517",
+            "name": "D. Lewis"
+          },
+          {
+            "authorId": "35729970",
+            "name": "Yiming Yang"
+          },
+          {
+            "authorId": "32440409",
+            "name": "T. Rose"
+          },
+          {
+            "authorId": "2146329150",
+            "name": "Fan Li"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "de2df29b0a0312de7270c3f5a0af6af5645cf91a",
+        "externalIds": {
+          "MAG": "2156985047",
+          "DBLP": "journals/coling/OchN03",
+          "ACL": "J03-1002",
+          "DOI": "10.1162/089120103321337421",
+          "CorpusId": 5219389
+        },
+        "url": "https://www.semanticscholar.org/paper/de2df29b0a0312de7270c3f5a0af6af5645cf91a",
+        "title": "A Systematic Comparison of Various Statistical Alignment Models",
+        "venue": "International Conference on Computational Logic",
+        "year": 2003,
+        "referenceCount": 40,
+        "citationCount": 4646,
+        "authors": [
+          {
+            "authorId": "2002316",
+            "name": "F. Och"
+          },
+          {
+            "authorId": "145322333",
+            "name": "H. Ney"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "6c2b28f9354f667cd5bd07afc0471d8334430da7",
+        "externalIds": {
+          "MAG": "2140679639",
+          "DBLP": "conf/nips/BengioDV00",
+          "CorpusId": 221275765
+        },
+        "url": "https://www.semanticscholar.org/paper/6c2b28f9354f667cd5bd07afc0471d8334430da7",
+        "title": "A Neural Probabilistic Language Model",
+        "venue": "Journal of machine learning research",
+        "year": 2003,
+        "referenceCount": 40,
+        "citationCount": 7752,
+        "authors": [
+          {
+            "authorId": "1751762",
+            "name": "Yoshua Bengio"
+          },
+          {
+            "authorId": "36037226",
+            "name": "Réjean Ducharme"
+          },
+          {
+            "authorId": "120247189",
+            "name": "Pascal Vincent"
+          },
+          {
+            "authorId": "1909943744",
+            "name": "Christian Janvin"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "cd0488f6270559806f96f03cf8597b62239211b1",
+        "externalIds": {
+          "MAG": "2057552436",
+          "DBLP": "journals/tkde/Ramamoorthy89",
+          "DOI": "10.1109/69.43400",
+          "CorpusId": 38427757
+        },
+        "url": "https://www.semanticscholar.org/paper/cd0488f6270559806f96f03cf8597b62239211b1",
+        "title": "Knowledge and Data Engineering",
+        "venue": "IEEE Transactions on Knowledge and Data Engineering",
+        "year": 1989,
+        "referenceCount": 5,
+        "citationCount": 654,
+        "authors": [
+          {
+            "authorId": "144957665",
+            "name": "C. Ramamoorthy"
+          },
+          {
+            "authorId": "1730303",
+            "name": "B. Wah"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "8c63a34854f1c9b6051b6b89cadb16e7dba3365f",
+        "externalIds": {
+          "MAG": "2065221212",
+          "DBLP": "journals/toms/Walker77",
+          "DOI": "10.1145/355744.355749",
+          "CorpusId": 4522588
+        },
+        "url": "https://www.semanticscholar.org/paper/8c63a34854f1c9b6051b6b89cadb16e7dba3365f",
+        "title": "An Efficient Method for Generating Discrete Random Variables with General Distributions",
+        "venue": "ACM Transactions on Mathematical Software",
+        "year": 1977,
+        "referenceCount": 7,
+        "citationCount": 585,
+        "authors": [
+          {
+            "authorId": "145434588",
+            "name": "A. J. Walker"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "694b3c58712deefb59502847ba1b52b192c413e5",
+        "externalIds": {
+          "ACL": "2005.mtsummit-papers.11",
+          "MAG": "29184969",
+          "DBLP": "conf/mtsummit/Koehn05",
+          "CorpusId": 38407095
+        },
+        "url": "https://www.semanticscholar.org/paper/694b3c58712deefb59502847ba1b52b192c413e5",
+        "title": "Europarl: A Parallel Corpus for Statistical Machine Translation",
+        "venue": "Machine Translation Summit",
+        "year": 2005,
+        "referenceCount": 13,
+        "citationCount": 4040,
+        "authors": [
+          {
+            "authorId": "1755162",
+            "name": "Philipp Koehn"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "9374019e86b7e97260b240bbcc98671c7d8976ec",
+        "externalIds": {
+          "CorpusId": 16100994
+        },
+        "url": "https://www.semanticscholar.org/paper/9374019e86b7e97260b240bbcc98671c7d8976ec",
+        "title": "on Knowledge and Data Engineering,",
+        "venue": "",
+        "year": 1990,
+        "referenceCount": 0,
+        "citationCount": 554,
+        "authors": [
+          {
+            "authorId": "2087101751",
+            "name": "James Parker"
+          },
+          {
+            "authorId": "1696519",
+            "name": "R. Rastogi"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,204 @@
+{
+  "total": 7,
+  "offset": 0,
+  "data": [
+    {
+      "paperId": "7e6d1f211060ef09bd3f2e0e00fbb2ce40357c60",
+      "externalIds": {
+        "MAG": "2592807864",
+        "DBLP": "conf/icml/XuLZ17",
+        "ArXiv": "1702.07013",
+        "CorpusId": 11146614
+      },
+      "url": "https://www.semanticscholar.org/paper/7e6d1f211060ef09bd3f2e0e00fbb2ce40357c60",
+      "title": "Learning Hawkes Processes from Short Doubly-Censored Event Sequences",
+      "venue": "International Conference on Machine Learning",
+      "year": 2017,
+      "referenceCount": 36,
+      "citationCount": 60,
+      "authors": [
+        {
+          "authorId": "2468306",
+          "name": "Hongteng Xu"
+        },
+        {
+          "authorId": "38463326",
+          "name": "Dixin Luo"
+        },
+        {
+          "authorId": "145203884",
+          "name": "H. Zha"
+        }
+      ]
+    },
+    {
+      "paperId": "6e7b2aa22a037963e6726a4e0a8382c1084b0001",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-1911-00292",
+        "ArXiv": "1911.00292",
+        "MAG": "2983972640",
+        "CorpusId": 202776549
+      },
+      "url": "https://www.semanticscholar.org/paper/6e7b2aa22a037963e6726a4e0a8382c1084b0001",
+      "title": "Learning Hawkes Processes from a Handful of Events",
+      "venue": "Neural Information Processing Systems",
+      "year": 2019,
+      "referenceCount": 37,
+      "citationCount": 43,
+      "authors": [
+        {
+          "authorId": "10661595",
+          "name": "Farnood Salehi"
+        },
+        {
+          "authorId": "3440091",
+          "name": "W. Trouleau"
+        },
+        {
+          "authorId": "2052174",
+          "name": "M. Grossglauser"
+        },
+        {
+          "authorId": "3250409",
+          "name": "Patrick Thiran"
+        }
+      ]
+    },
+    {
+      "paperId": "66200b4a38011ccd1a5092b67b32a42992413d7d",
+      "externalIds": {
+        "MAG": "2949748581",
+        "DBLP": "journals/corr/AlaaHS17",
+        "ArXiv": "1705.05267",
+        "CorpusId": 6776031
+      },
+      "url": "https://www.semanticscholar.org/paper/66200b4a38011ccd1a5092b67b32a42992413d7d",
+      "title": "Learning from Clinical Judgments: Semi-Markov-Modulated Marked Hawkes Processes for Risk Prognosis",
+      "venue": "International Conference on Machine Learning",
+      "year": 2017,
+      "referenceCount": 44,
+      "citationCount": 52,
+      "authors": [
+        {
+          "authorId": "145629795",
+          "name": "Ahmed M. Alaa"
+        },
+        {
+          "authorId": "2838362",
+          "name": "Scott Hu"
+        },
+        {
+          "authorId": "1729969",
+          "name": "M. Schaar"
+        }
+      ]
+    },
+    {
+      "paperId": "c15d29cd13a94e10b5ae9d3823016e82642f3c22",
+      "externalIds": {
+        "ArXiv": "1909.02105",
+        "DBLP": "conf/nips/XieJLZZ19",
+        "MAG": "2972271268",
+        "CorpusId": 202541246
+      },
+      "url": "https://www.semanticscholar.org/paper/c15d29cd13a94e10b5ae9d3823016e82642f3c22",
+      "title": "Meta Learning with Relational Information for Short Sequences",
+      "venue": "Neural Information Processing Systems",
+      "year": 2019,
+      "referenceCount": 57,
+      "citationCount": 15,
+      "authors": [
+        {
+          "authorId": "7767755",
+          "name": "Yujia Xie"
+        },
+        {
+          "authorId": "5795999",
+          "name": "Haoming Jiang"
+        },
+        {
+          "authorId": "2218961489",
+          "name": "Feng Liu"
+        },
+        {
+          "authorId": "36345161",
+          "name": "T. Zhao"
+        },
+        {
+          "authorId": "145203884",
+          "name": "H. Zha"
+        }
+      ]
+    },
+    {
+      "paperId": "26611ff204e56e42185de4b97f43148f87edf262",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2404-08007",
+        "ArXiv": "2404.08007",
+        "DOI": "10.48550/arXiv.2404.08007",
+        "CorpusId": 269137211
+      },
+      "url": "https://www.semanticscholar.org/paper/26611ff204e56e42185de4b97f43148f87edf262",
+      "title": "Interpretable Neural Temporal Point Processes for Modelling Electronic Health Records",
+      "venue": "arXiv.org",
+      "year": 2024,
+      "referenceCount": 30,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "2334735182",
+          "name": "Bingqing Liu"
+        }
+      ]
+    },
+    {
+      "paperId": "58d6ec5706b2fbf007eadc10730f469d088dd332",
+      "externalIds": {
+        "DBLP": "journals/ploscb/VercruysseNS21",
+        "PubMedCentral": "8575278",
+        "DOI": "10.1371/journal.pcbi.1009478",
+        "CorpusId": 232485058,
+        "PubMed": "34748532"
+      },
+      "url": "https://www.semanticscholar.org/paper/58d6ec5706b2fbf007eadc10730f469d088dd332",
+      "title": "Self-organization of a doubly asynchronous irregular network state for spikes and bursts",
+      "venue": "bioRxiv",
+      "year": 2021,
+      "referenceCount": 79,
+      "citationCount": 7,
+      "authors": [
+        {
+          "authorId": "7226917",
+          "name": "Filip Vercruysse"
+        },
+        {
+          "authorId": "2886128",
+          "name": "Richard Naud"
+        },
+        {
+          "authorId": "2593439",
+          "name": "Henning Sprekeler"
+        }
+      ]
+    },
+    {
+      "paperId": "e39f15933e0ac75c401ac90aff21761958598d66",
+      "externalIds": {
+        "MAG": "613235559",
+        "CorpusId": 60236860
+      },
+      "url": "https://www.semanticscholar.org/paper/e39f15933e0ac75c401ac90aff21761958598d66",
+      "title": "COMPSTAT : proceedings in computational statistics, 12th symposium held in Barcelona, Spain, 1996",
+      "venue": "",
+      "year": 1996,
+      "referenceCount": 0,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2070500",
+          "name": "A. Prat"
+        }
+      ]
+    }
+  ]
+}

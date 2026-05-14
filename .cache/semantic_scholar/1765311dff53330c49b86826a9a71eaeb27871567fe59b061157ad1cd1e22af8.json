@@ -1,0 +1,108 @@
+{
+  "total": 3,
+  "offset": 0,
+  "data": [
+    {
+      "paperId": "e3ff0c111844a0f7f341a6177cc923a6724d563b",
+      "externalIds": {
+        "MAG": "2789058484",
+        "ArXiv": "1802.06307",
+        "DBLP": "conf/icml/LevinRMP18",
+        "CorpusId": 51873591
+      },
+      "url": "https://www.semanticscholar.org/paper/e3ff0c111844a0f7f341a6177cc923a6724d563b",
+      "title": "Out-of-sample extension of graph adjacency spectral embedding",
+      "venue": "International Conference on Machine Learning",
+      "year": 2018,
+      "referenceCount": 41,
+      "citationCount": 19,
+      "authors": [
+        {
+          "authorId": "37796390",
+          "name": "Keith D. Levin"
+        },
+        {
+          "authorId": "1404348727",
+          "name": "Farbod Roosta-Khorasani"
+        },
+        {
+          "authorId": "143884206",
+          "name": "Michael W. Mahoney"
+        },
+        {
+          "authorId": "1693972",
+          "name": "C. Priebe"
+        }
+      ]
+    },
+    {
+      "paperId": "761e66565bb80b8ba9599872c284b63326633810",
+      "externalIds": {
+        "MAG": "2978057828",
+        "DBLP": "journals/corr/abs-1910-00423",
+        "ArXiv": "1910.00423",
+        "CorpusId": 203610268
+      },
+      "url": "https://www.semanticscholar.org/paper/761e66565bb80b8ba9599872c284b63326633810",
+      "title": "Limit theorems for out-of-sample extensions of the adjacency and Laplacian spectral embeddings",
+      "venue": "Journal of machine learning research",
+      "year": 2019,
+      "referenceCount": 55,
+      "citationCount": 8,
+      "authors": [
+        {
+          "authorId": "37796390",
+          "name": "Keith D. Levin"
+        },
+        {
+          "authorId": "40910139",
+          "name": "Fred Roosta"
+        },
+        {
+          "authorId": "37384516",
+          "name": "M. Tang"
+        },
+        {
+          "authorId": "143884206",
+          "name": "Michael W. Mahoney"
+        },
+        {
+          "authorId": "1693972",
+          "name": "C. Priebe"
+        }
+      ]
+    },
+    {
+      "paperId": "d854ace25438f0e6af948f68db9e9fc3e1527d65",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2106-02154",
+        "ArXiv": "2106.02154",
+        "CorpusId": 235352579
+      },
+      "url": "https://www.semanticscholar.org/paper/d854ace25438f0e6af948f68db9e9fc3e1527d65",
+      "title": "Laplacian-Based Dimensionality Reduction Including Spectral Clustering, Laplacian Eigenmap, Locality Preserving Projection, Graph Embedding, and Diffusion Map: Tutorial and Survey",
+      "venue": "arXiv.org",
+      "year": 2021,
+      "referenceCount": 114,
+      "citationCount": 12,
+      "authors": [
+        {
+          "authorId": "24033665",
+          "name": "Benyamin Ghojogh"
+        },
+        {
+          "authorId": "38565890",
+          "name": "A. Ghodsi"
+        },
+        {
+          "authorId": "1696863",
+          "name": "F. Karray"
+        },
+        {
+          "authorId": "32755716",
+          "name": "Mark Crowley"
+        }
+      ]
+    }
+  ]
+}

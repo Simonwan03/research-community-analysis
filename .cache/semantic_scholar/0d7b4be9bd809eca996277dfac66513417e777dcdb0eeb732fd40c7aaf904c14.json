@@ -1,0 +1,330 @@
+{
+  "total": 10,
+  "offset": 0,
+  "data": [
+    {
+      "paperId": "c43cb828e05c23e78ac05a870ace8c2eb323e501",
+      "externalIds": {
+        "MAG": "2963473589",
+        "ArXiv": "1802.05098",
+        "DBLP": "conf/iclr/FoersterFARXW18",
+        "CorpusId": 3608728
+      },
+      "url": "https://www.semanticscholar.org/paper/c43cb828e05c23e78ac05a870ace8c2eb323e501",
+      "title": "DiCE: The Infinitely Differentiable Monte-Carlo Estimator",
+      "venue": "International Conference on Machine Learning",
+      "year": 2018,
+      "referenceCount": 24,
+      "citationCount": 105,
+      "authors": [
+        {
+          "authorId": "145356667",
+          "name": "Jakob N. Foerster"
+        },
+        {
+          "authorId": "38698094",
+          "name": "Gregory Farquhar"
+        },
+        {
+          "authorId": "1401178735",
+          "name": "Maruan Al-Shedivat"
+        },
+        {
+          "authorId": "2620211",
+          "name": "Tim Rocktäschel"
+        },
+        {
+          "authorId": "143977260",
+          "name": "E. Xing"
+        },
+        {
+          "authorId": "1766767",
+          "name": "Shimon Whiteson"
+        }
+      ]
+    },
+    {
+      "paperId": "225180ca02ed6285677e02d1d2df507c4650b0e5",
+      "externalIds": {
+        "MAG": "2945960213",
+        "DBLP": "conf/icml/MaoFRAFW19",
+        "CorpusId": 157060081
+      },
+      "url": "https://www.semanticscholar.org/paper/225180ca02ed6285677e02d1d2df507c4650b0e5",
+      "title": "A Baseline for Any Order Gradient Estimation in Stochastic Computation Graphs",
+      "venue": "International Conference on Machine Learning",
+      "year": 2019,
+      "referenceCount": 12,
+      "citationCount": 13,
+      "authors": [
+        {
+          "authorId": "103847260",
+          "name": "Jingkai Mao"
+        },
+        {
+          "authorId": "145356667",
+          "name": "Jakob N. Foerster"
+        },
+        {
+          "authorId": "2620211",
+          "name": "Tim Rocktäschel"
+        },
+        {
+          "authorId": "1401178735",
+          "name": "Maruan Al-Shedivat"
+        },
+        {
+          "authorId": "38698094",
+          "name": "Gregory Farquhar"
+        },
+        {
+          "authorId": "1766767",
+          "name": "Shimon Whiteson"
+        }
+      ]
+    },
+    {
+      "paperId": "ea05fd972f4b5562f0d9f9cbcfb83eba81ac5968",
+      "externalIds": {
+        "MAG": "2925054972",
+        "CorpusId": 96441117
+      },
+      "url": "https://www.semanticscholar.org/paper/ea05fd972f4b5562f0d9f9cbcfb83eba81ac5968",
+      "title": "A Better Baseline for Second Order Gradient Estimation in Stochastic Computation Graphs",
+      "venue": "",
+      "year": 2018,
+      "referenceCount": 10,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "103847260",
+          "name": "Jingkai Mao"
+        },
+        {
+          "authorId": "145356667",
+          "name": "Jakob N. Foerster"
+        },
+        {
+          "authorId": "2620211",
+          "name": "Tim Rocktäschel"
+        },
+        {
+          "authorId": "38698094",
+          "name": "Gregory Farquhar"
+        },
+        {
+          "authorId": "1401178735",
+          "name": "Maruan Al-Shedivat"
+        },
+        {
+          "authorId": "1766767",
+          "name": "Shimon Whiteson"
+        }
+      ]
+    },
+    {
+      "paperId": "204dec34365123a4ac4c1c1ade244232f303343a",
+      "externalIds": {
+        "CorpusId": 51790974
+      },
+      "url": "https://www.semanticscholar.org/paper/204dec34365123a4ac4c1c1ade244232f303343a",
+      "title": "DICE: THE INFINITELY DIFFERENTIABLE MONTE",
+      "venue": "",
+      "year": 2018,
+      "referenceCount": 18,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "38698094",
+          "name": "Gregory Farquhar"
+        },
+        {
+          "authorId": "144697953",
+          "name": "Tim Rocktäschel"
+        },
+        {
+          "authorId": "1766767",
+          "name": "Shimon Whiteson"
+        },
+        {
+          "authorId": "143977260",
+          "name": "E. Xing"
+        }
+      ]
+    },
+    {
+      "paperId": "1da41286722a5215031909c35bfa2006541133f1",
+      "externalIds": {
+        "ArXiv": "2504.19138",
+        "DBLP": "journals/corr/abs-2504-19138",
+        "DOI": "10.48550/arXiv.2504.19138",
+        "CorpusId": 278165591
+      },
+      "url": "https://www.semanticscholar.org/paper/1da41286722a5215031909c35bfa2006541133f1",
+      "title": "Quasi-Monte Carlo confidence intervals using quantiles of randomized nets",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "referenceCount": 23,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2343274044",
+          "name": "Zexin Pan"
+        }
+      ]
+    },
+    {
+      "paperId": "89cd570ec24a59d581aefc5fe48f81d1ef44b04a",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2408-06878",
+        "ArXiv": "2408.06878",
+        "DOI": "10.48550/arXiv.2408.06878",
+        "CorpusId": 271859773
+      },
+      "url": "https://www.semanticscholar.org/paper/89cd570ec24a59d581aefc5fe48f81d1ef44b04a",
+      "title": "PBIR-NIE: Glossy Object Capture under Non-Distant Lighting",
+      "venue": "arXiv.org",
+      "year": 2024,
+      "referenceCount": 54,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "2055943145",
+          "name": "Guangyan Cai"
+        },
+        {
+          "authorId": "13981526",
+          "name": "Fujun Luan"
+        },
+        {
+          "authorId": "2278821333",
+          "name": "M. Hašan"
+        },
+        {
+          "authorId": "2265847064",
+          "name": "Kai Zhang"
+        },
+        {
+          "authorId": "2265648463",
+          "name": "Sai Bi"
+        },
+        {
+          "authorId": "2615346",
+          "name": "Zexiang Xu"
+        },
+        {
+          "authorId": "2269741184",
+          "name": "Iliyan Georgiev"
+        },
+        {
+          "authorId": "2353312476",
+          "name": "Shuang Zhao"
+        }
+      ]
+    },
+    {
+      "paperId": "ea69b585b48098c2d2d5063ee496e34755667157",
+      "externalIds": {
+        "ArXiv": "2403.17609",
+        "DOI": "10.1007/s42081-026-00337-1",
+        "CorpusId": 268691778
+      },
+      "url": "https://www.semanticscholar.org/paper/ea69b585b48098c2d2d5063ee496e34755667157",
+      "title": "Estimation method under three-parameter generalized exponential model: consistency, uniqueness and its applications",
+      "venue": "Japanese Journal of Statistics and Data Science",
+      "year": 2024,
+      "referenceCount": 23,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2100677989",
+          "name": "Kiran Prajapat"
+        },
+        {
+          "authorId": "34327443",
+          "name": "Sharmishtha Mitra"
+        },
+        {
+          "authorId": "2261864071",
+          "name": "Debasis Kundu"
+        }
+      ]
+    },
+    {
+      "paperId": "d77c66ecc5a961c26f3e8d2afda896ecfe33a673",
+      "externalIds": {
+        "MAG": "2309644578",
+        "DOI": "10.1214/17-AAP1281",
+        "CorpusId": 32411327
+      },
+      "url": "https://www.semanticscholar.org/paper/d77c66ecc5a961c26f3e8d2afda896ecfe33a673",
+      "title": "Unbiased simulation of stochastic differential equations",
+      "venue": "",
+      "year": 2015,
+      "referenceCount": 28,
+      "citationCount": 33,
+      "authors": [
+        {
+          "authorId": "1403080734",
+          "name": "P. Henry-Labordère"
+        },
+        {
+          "authorId": "2265231",
+          "name": "Xiaolu Tan"
+        },
+        {
+          "authorId": "1735242",
+          "name": "N. Touzi"
+        }
+      ]
+    },
+    {
+      "paperId": "6f846d90c9b031621ab741781bad58a33edbc323",
+      "externalIds": {
+        "MAG": "2979363950",
+        "DBLP": "phd/ethos/Foerster18",
+        "CorpusId": 208120480
+      },
+      "url": "https://www.semanticscholar.org/paper/6f846d90c9b031621ab741781bad58a33edbc323",
+      "title": "Deep multi-agent reinforcement learning",
+      "venue": "",
+      "year": 2018,
+      "referenceCount": 0,
+      "citationCount": 39,
+      "authors": [
+        {
+          "authorId": "145356667",
+          "name": "Jakob N. Foerster"
+        }
+      ]
+    },
+    {
+      "paperId": "9b738bb0cf822988a12e95cfa61ec1448a9d2bdc",
+      "externalIds": {
+        "MAG": "2265068890",
+        "DOI": "10.1007/BF00047141",
+        "CorpusId": 117636406
+      },
+      "url": "https://www.semanticscholar.org/paper/9b738bb0cf822988a12e95cfa61ec1448a9d2bdc",
+      "title": "Random processes for classical equations of mathematical physics",
+      "venue": "Acta Applicandae Mathematicae - An International Survey Journal on Applying Mathematics and Mathematical Applications",
+      "year": 1991,
+      "referenceCount": 0,
+      "citationCount": 98,
+      "authors": [
+        {
+          "authorId": "46209289",
+          "name": "S. Ermakov"
+        },
+        {
+          "authorId": "3010213",
+          "name": "V. Nekrutkin"
+        },
+        {
+          "authorId": "3924900",
+          "name": "A. Sipin"
+        }
+      ]
+    }
+  ]
+}

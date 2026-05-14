@@ -1,0 +1,1514 @@
+{
+  "offset": 0,
+  "citingPaperInfo": {
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/1502.02536, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "title": "Nested Sequential Monte Carlo Methods",
+    "authors": [
+      {
+        "authorId": "2328322",
+        "name": "C. A. Naesseth"
+      },
+      {
+        "authorId": "1759780",
+        "name": "F. Lindsten"
+      },
+      {
+        "authorId": "1802623",
+        "name": "Thomas Bo Schön"
+      }
+    ]
+  },
+  "data": [
+    {
+      "citedPaper": {
+        "paperId": "ba4b54f986e5b3739e9376e4215f28b5ad0dce5c",
+        "externalIds": {
+          "MAG": "1741551153",
+          "ArXiv": "1412.3501",
+          "CorpusId": 88520343
+        },
+        "url": "https://www.semanticscholar.org/paper/ba4b54f986e5b3739e9376e4215f28b5ad0dce5c",
+        "title": "A Stable Particle Filter in High-Dimensions",
+        "venue": "",
+        "year": 2014,
+        "referenceCount": 19,
+        "citationCount": 35,
+        "authors": [
+          {
+            "authorId": "3054763",
+            "name": "A. Beskos"
+          },
+          {
+            "authorId": "2166076",
+            "name": "D. Crisan"
+          },
+          {
+            "authorId": "3011741",
+            "name": "A. Jasra"
+          },
+          {
+            "authorId": "145977234",
+            "name": "K. Kamatani"
+          },
+          {
+            "authorId": "47942918",
+            "name": "Yan Zhou"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "9db78d97af1f60e448b228317adf38aa1107e052",
+        "externalIds": {
+          "MAG": "2157197146",
+          "ArXiv": "1405.0102",
+          "DBLP": "journals/corr/NaessethLS14",
+          "DOI": "10.1109/ITW.2014.6970868",
+          "CorpusId": 8390953
+        },
+        "url": "https://www.semanticscholar.org/paper/9db78d97af1f60e448b228317adf38aa1107e052",
+        "title": "Capacity estimation of two-dimensional channels using Sequential Monte Carlo",
+        "venue": "Information Theory Workshop",
+        "year": 2014,
+        "referenceCount": 19,
+        "citationCount": 6,
+        "authors": [
+          {
+            "authorId": "2328322",
+            "name": "C. A. Naesseth"
+          },
+          {
+            "authorId": "1759780",
+            "name": "F. Lindsten"
+          },
+          {
+            "authorId": "1802623",
+            "name": "Thomas Bo Schön"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "865fb9fbbcbcf9f65135463931daa3eeae5d9390",
+        "externalIds": {
+          "MAG": "2207484592",
+          "DOI": "10.1080/09332480.2014.914769",
+          "CorpusId": 61467849
+        },
+        "url": "https://www.semanticscholar.org/paper/865fb9fbbcbcf9f65135463931daa3eeae5d9390",
+        "title": "Statistics for Spatio-Temporal Data",
+        "venue": "",
+        "year": 2014,
+        "referenceCount": 0,
+        "citationCount": 1381,
+        "authors": [
+          {
+            "authorId": "145155783",
+            "name": "C. Robert"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "fa492b28301fe8bd22a08fa36d275eb4a4193aeb",
+        "externalIds": {
+          "ArXiv": "1402.0330",
+          "MAG": "2137532396",
+          "DBLP": "conf/nips/NaessethLS14",
+          "CorpusId": 13312207
+        },
+        "url": "https://www.semanticscholar.org/paper/fa492b28301fe8bd22a08fa36d275eb4a4193aeb",
+        "title": "Sequential Monte Carlo for Graphical Models",
+        "venue": "Neural Information Processing Systems",
+        "year": 2014,
+        "referenceCount": 37,
+        "citationCount": 49,
+        "authors": [
+          {
+            "authorId": "2328322",
+            "name": "C. A. Naesseth"
+          },
+          {
+            "authorId": "1759780",
+            "name": "F. Lindsten"
+          },
+          {
+            "authorId": "1802623",
+            "name": "Thomas Bo Schön"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "de278652097ed13231ca7e1d6d9f218fb5e13915",
+        "externalIds": {
+          "ArXiv": "1401.0604",
+          "MAG": "2951416778",
+          "DBLP": "journals/jmlr/LindstenJS14",
+          "DOI": "10.5555/2627435.2670320",
+          "CorpusId": 18467558
+        },
+        "url": "https://www.semanticscholar.org/paper/de278652097ed13231ca7e1d6d9f218fb5e13915",
+        "title": "Particle gibbs with ancestor sampling",
+        "venue": "Journal of machine learning research",
+        "year": 2014,
+        "referenceCount": 70,
+        "citationCount": 272,
+        "authors": [
+          {
+            "authorId": "1759780",
+            "name": "F. Lindsten"
+          },
+          {
+            "authorId": "1694621",
+            "name": "Michael I. Jordan"
+          },
+          {
+            "authorId": "1802623",
+            "name": "Thomas Bo Schön"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "e224347988991cdbf1ac6ffba9883ff7dbf406b8",
+        "externalIds": {
+          "MAG": "2040975855",
+          "DBLP": "conf/camsap/DjuricB13",
+          "DOI": "10.1109/CAMSAP.2013.6714080",
+          "CorpusId": 7264513
+        },
+        "url": "https://www.semanticscholar.org/paper/e224347988991cdbf1ac6ffba9883ff7dbf406b8",
+        "title": "Particle filtering for high-dimensional systems",
+        "venue": "IEEE International Workshop on Computational Advances in Multi-Sensor Adaptive Processing",
+        "year": 2013,
+        "referenceCount": 18,
+        "citationCount": 43,
+        "authors": [
+          {
+            "authorId": "1785325",
+            "name": "P. Djurić"
+          },
+          {
+            "authorId": "1754456",
+            "name": "M. Bugallo"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "c0256f16586e91ce3a1cfb673c7d9ff6bc14263d",
+        "externalIds": {
+          "ArXiv": "1309.3339",
+          "MAG": "1628238970",
+          "DOI": "10.2139/SSRN.2386371",
+          "CorpusId": 58897374
+        },
+        "url": "https://www.semanticscholar.org/paper/c0256f16586e91ce3a1cfb673c7d9ff6bc14263d",
+        "title": "Importance Sampling Squared for Bayesian Inference in Latent Variable Models",
+        "venue": "",
+        "year": 2013,
+        "referenceCount": 33,
+        "citationCount": 57,
+        "authors": [
+          {
+            "authorId": "2941842",
+            "name": "Minh-Ngoc Tran"
+          },
+          {
+            "authorId": "3316269",
+            "name": "Marcel Scharth"
+          },
+          {
+            "authorId": "2054579",
+            "name": "M. Pitt"
+          },
+          {
+            "authorId": "144402257",
+            "name": "R. Kohn"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "2f2a51afeeef614d8bfa6d84ff25e29a123ea05d",
+        "externalIds": {
+          "MAG": "2055711980",
+          "DBLP": "journals/ftml/LindstenS13",
+          "DOI": "10.1561/2200000045",
+          "CorpusId": 50840732
+        },
+        "url": "https://www.semanticscholar.org/paper/2f2a51afeeef614d8bfa6d84ff25e29a123ea05d",
+        "title": "Backward Simulation Methods for Monte Carlo Statistical Inference",
+        "venue": "Found. Trends Mach. Learn.",
+        "year": 2013,
+        "referenceCount": 160,
+        "citationCount": 161,
+        "authors": [
+          {
+            "authorId": "1759780",
+            "name": "F. Lindsten"
+          },
+          {
+            "authorId": "1802623",
+            "name": "Thomas Bo Schön"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "d8e0e28988d20a266ed249431209c34839e32ecf",
+        "externalIds": {
+          "MAG": "2951759817",
+          "DBLP": "journals/sac/VergeDMM15",
+          "ArXiv": "1306.3911",
+          "DOI": "10.1007/s11222-013-9429-x",
+          "CorpusId": 39379264
+        },
+        "url": "https://www.semanticscholar.org/paper/d8e0e28988d20a266ed249431209c34839e32ecf",
+        "title": "On parallel implementation of sequential Monte Carlo methods: the island particle model",
+        "venue": "Statistics and computing",
+        "year": 2013,
+        "referenceCount": 18,
+        "citationCount": 99,
+        "authors": [
+          {
+            "authorId": "1413961235",
+            "name": "C. Vergé"
+          },
+          {
+            "authorId": "2680592",
+            "name": "Cyrille Dubarry"
+          },
+          {
+            "authorId": "40014328",
+            "name": "P. Moral"
+          },
+          {
+            "authorId": "2313661",
+            "name": "É. Moulines"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "8e221ded4064ecec0e2591aef924243fc1c2c03d",
+        "externalIds": {
+          "DBLP": "books/tf/13/YCS2013",
+          "MAG": "1515799921",
+          "DOI": "10.1201/B14799",
+          "CorpusId": 109359342
+        },
+        "url": "https://www.semanticscholar.org/paper/8e221ded4064ecec0e2591aef924243fc1c2c03d",
+        "title": "Computational Intelligent Data Analysis for Sustainable Development",
+        "venue": "",
+        "year": 2013,
+        "referenceCount": 0,
+        "citationCount": 26,
+        "authors": [
+          {
+            "authorId": "2117900433",
+            "name": "Ting Yu"
+          },
+          {
+            "authorId": "144539424",
+            "name": "N. Chawla"
+          },
+          {
+            "authorId": "2638499",
+            "name": "S. Simoff"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "a8767908e81946b48555e6da3fe9b5bf2d3002ee",
+        "externalIds": {
+          "MAG": "1860382590",
+          "DOI": "10.1002/env.2184",
+          "CorpusId": 120873734
+        },
+        "url": "https://www.semanticscholar.org/paper/a8767908e81946b48555e6da3fe9b5bf2d3002ee",
+        "title": "Data assimilation for large‐scale spatio‐temporal systems using a location particle smoother",
+        "venue": "",
+        "year": 2013,
+        "referenceCount": 43,
+        "citationCount": 13,
+        "authors": [
+          {
+            "authorId": "2061233567",
+            "name": "Jonathan Briggs"
+          },
+          {
+            "authorId": "145608564",
+            "name": "M. Dowd"
+          },
+          {
+            "authorId": "144210622",
+            "name": "R. Meyer"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "ce02872fb28b1638c4f3aa516eb8395797ffd3c0",
+        "externalIds": {
+          "MAG": "1822984620",
+          "ArXiv": "1301.6585",
+          "DOI": "10.1214/14-AAP1061",
+          "CorpusId": 8708440
+        },
+        "url": "https://www.semanticscholar.org/paper/ce02872fb28b1638c4f3aa516eb8395797ffd3c0",
+        "title": "Can local particle filters beat the curse of dimensionality",
+        "venue": "",
+        "year": 2013,
+        "referenceCount": 22,
+        "citationCount": 252,
+        "authors": [
+          {
+            "authorId": "2494252",
+            "name": "Patrick Rebeschini"
+          },
+          {
+            "authorId": "1917229",
+            "name": "R. Handel"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "860bfe3e28ab5d7b9a13bb6e4417cfc7965d4424",
+        "externalIds": {
+          "DBLP": "conf/sdm/FuBLS12",
+          "MAG": "2402011568",
+          "DOI": "10.1137/1.9781611972825.3",
+          "CorpusId": 12078591
+        },
+        "url": "https://www.semanticscholar.org/paper/860bfe3e28ab5d7b9a13bb6e4417cfc7965d4424",
+        "title": "Drought Detection of the Last Century: An MRF-based Approach",
+        "venue": "SDM",
+        "year": 2012,
+        "referenceCount": 23,
+        "citationCount": 28,
+        "authors": [
+          {
+            "authorId": "2113771602",
+            "name": "Qiang Fu"
+          },
+          {
+            "authorId": "144205696",
+            "name": "A. Banerjee"
+          },
+          {
+            "authorId": "2600519",
+            "name": "S. Liess"
+          },
+          {
+            "authorId": "2320952",
+            "name": "P. Snyder"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "b28781771fd9f2f9e7cbc82a28d3483153227fac",
+        "externalIds": {
+          "MAG": "1982370455",
+          "DOI": "10.3182/20120711-3-BE-2027.00183",
+          "CorpusId": 14320222
+        },
+        "url": "https://www.semanticscholar.org/paper/b28781771fd9f2f9e7cbc82a28d3483153227fac",
+        "title": "Exact approximation of Rao-Blackwellised particle filters",
+        "venue": "",
+        "year": 2012,
+        "referenceCount": 25,
+        "citationCount": 18,
+        "authors": [
+          {
+            "authorId": "2729416",
+            "name": "A. M. Johansen"
+          },
+          {
+            "authorId": "31917752",
+            "name": "N. Whiteley"
+          },
+          {
+            "authorId": "1701800",
+            "name": "A. Doucet"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "a3130f3b3d1604b7547c1ef0cd5a7e157c0f1070",
+        "externalIds": {
+          "MAG": "2953295449",
+          "ArXiv": "1103.3965",
+          "DOI": "10.1214/13-AAP951",
+          "CorpusId": 31768598
+        },
+        "url": "https://www.semanticscholar.org/paper/a3130f3b3d1604b7547c1ef0cd5a7e157c0f1070",
+        "title": "On the stability of sequential Monte Carlo methods in high dimensions",
+        "venue": "",
+        "year": 2011,
+        "referenceCount": 68,
+        "citationCount": 185,
+        "authors": [
+          {
+            "authorId": "3054763",
+            "name": "A. Beskos"
+          },
+          {
+            "authorId": "2166076",
+            "name": "D. Crisan"
+          },
+          {
+            "authorId": "3011741",
+            "name": "A. Jasra"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "1dbc5fc615c68c99c356746e5f74d769eb34e003",
+        "externalIds": {
+          "DBLP": "journals/tsp/ChenSOL11",
+          "MAG": "2152159624",
+          "DOI": "10.1109/tsp.2010.2091639",
+          "CorpusId": 7023680
+        },
+        "url": "https://www.semanticscholar.org/paper/1dbc5fc615c68c99c356746e5f74d769eb34e003",
+        "title": "Decentralized Particle Filter With Arbitrary State Decomposition",
+        "venue": "IEEE Transactions on Signal Processing",
+        "year": 2011,
+        "referenceCount": 27,
+        "citationCount": 47,
+        "authors": [
+          {
+            "authorId": "7934735",
+            "name": "Tianshi Chen"
+          },
+          {
+            "authorId": "1802623",
+            "name": "Thomas Bo Schön"
+          },
+          {
+            "authorId": "47834095",
+            "name": "Henrik Ohlsson"
+          },
+          {
+            "authorId": "1699388",
+            "name": "L. Ljung"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "7e30999e876d51d219ff0e4871f1787e58f164cb",
+        "externalIds": {
+          "MAG": "2259698952",
+          "ArXiv": "1101.1528",
+          "DOI": "10.1111/j.1467-9868.2012.01046.x",
+          "CorpusId": 88519015
+        },
+        "url": "https://www.semanticscholar.org/paper/7e30999e876d51d219ff0e4871f1787e58f164cb",
+        "title": "SMC2: an efficient algorithm for sequential analysis of state space models",
+        "venue": "",
+        "year": 2011,
+        "referenceCount": 61,
+        "citationCount": 377,
+        "authors": [
+          {
+            "authorId": "2593810",
+            "name": "N. Chopin"
+          },
+          {
+            "authorId": "32746783",
+            "name": "P. Jacob"
+          },
+          {
+            "authorId": "2660689",
+            "name": "O. Papaspiliopoulos"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "27056831c0551630a750f849ebcc00fb1fb549ad",
+        "externalIds": {
+          "MAG": "81502470",
+          "DBLP": "books/daglib/0018553",
+          "DOI": "10.1007/0-387-28982-8",
+          "CorpusId": 120064925
+        },
+        "url": "https://www.semanticscholar.org/paper/27056831c0551630a750f849ebcc00fb1fb549ad",
+        "title": "Inference in hidden Markov models",
+        "venue": "Springer Series in Statistics",
+        "year": 2010,
+        "referenceCount": 154,
+        "citationCount": 1340,
+        "authors": [
+          {
+            "authorId": "1769551",
+            "name": "O. Cappé"
+          },
+          {
+            "authorId": "2313661",
+            "name": "É. Moulines"
+          },
+          {
+            "authorId": "30762848",
+            "name": "T. Rydén"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "d7f31d38db2e40792af3b70eb91e34aafe67d6d5",
+        "externalIds": {
+          "MAG": "2509128531",
+          "DOI": "10.1111/j.1467-9868.2010.00744.x",
+          "CorpusId": 56233100
+        },
+        "url": "https://www.semanticscholar.org/paper/d7f31d38db2e40792af3b70eb91e34aafe67d6d5",
+        "title": "Random‐weight particle filtering of continuous time processes",
+        "venue": "",
+        "year": 2010,
+        "referenceCount": 26,
+        "citationCount": 68,
+        "authors": [
+          {
+            "authorId": "3246901",
+            "name": "P. Fearnhead"
+          },
+          {
+            "authorId": "2660689",
+            "name": "O. Papaspiliopoulos"
+          },
+          {
+            "authorId": "3264000",
+            "name": "G. Roberts"
+          },
+          {
+            "authorId": "4662911",
+            "name": "A. Stuart"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "42ff3a20486a9076d4d2eb1967e5c625dc9eace4",
+        "externalIds": {
+          "MAG": "2149532992",
+          "DOI": "10.1093/BIOMET/ASQ013",
+          "CorpusId": 10730153
+        },
+        "url": "https://www.semanticscholar.org/paper/42ff3a20486a9076d4d2eb1967e5c625dc9eace4",
+        "title": "A sequential smoothing algorithm with linear computational cost.",
+        "venue": "",
+        "year": 2010,
+        "referenceCount": 27,
+        "citationCount": 162,
+        "authors": [
+          {
+            "authorId": "3246901",
+            "name": "P. Fearnhead"
+          },
+          {
+            "authorId": "3371494",
+            "name": "D. Wyncoll"
+          },
+          {
+            "authorId": "2153469",
+            "name": "J. Tawn"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "c52a9ee60e0c809a2cfafde72a0ced7ef694bcd6",
+        "externalIds": {
+          "MAG": "1501586228",
+          "DOI": "10.1111/j.1467-9868.2009.00736.x",
+          "CorpusId": 13962777
+        },
+        "url": "https://www.semanticscholar.org/paper/c52a9ee60e0c809a2cfafde72a0ced7ef694bcd6",
+        "title": "Particle Markov chain Monte Carlo methods",
+        "venue": "",
+        "year": 2010,
+        "referenceCount": 147,
+        "citationCount": 2156,
+        "authors": [
+          {
+            "authorId": "49630843",
+            "name": "C. Andrieu"
+          },
+          {
+            "authorId": "1701800",
+            "name": "A. Doucet"
+          },
+          {
+            "authorId": "2119543",
+            "name": "R. Holenstein"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "92f247640868fac88ec40abcda1f9b6dc680ee6e",
+        "externalIds": {
+          "MAG": "2091860746",
+          "ArXiv": "0903.5480",
+          "DOI": "10.1214/07-AOS574",
+          "CorpusId": 15661729
+        },
+        "url": "https://www.semanticscholar.org/paper/92f247640868fac88ec40abcda1f9b6dc680ee6e",
+        "title": "The pseudo-marginal approach for efficient Monte Carlo computations",
+        "venue": "",
+        "year": 2009,
+        "referenceCount": 11,
+        "citationCount": 935,
+        "authors": [
+          {
+            "authorId": "49630843",
+            "name": "C. Andrieu"
+          },
+          {
+            "authorId": "3264000",
+            "name": "G. Roberts"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "d98d0d1900b13b87aa4ffd6b69c046beb63f0434",
+        "externalIds": {
+          "DBLP": "journals/ftml/WainwrightJ08",
+          "MAG": "2120340025",
+          "DOI": "10.1561/2200000001",
+          "CorpusId": 207178945
+        },
+        "url": "https://www.semanticscholar.org/paper/d98d0d1900b13b87aa4ffd6b69c046beb63f0434",
+        "title": "Graphical Models, Exponential Families, and Variational Inference",
+        "venue": "Found. Trends Mach. Learn.",
+        "year": 2008,
+        "referenceCount": 277,
+        "citationCount": 4743,
+        "authors": [
+          {
+            "authorId": "1721860",
+            "name": "M. Wainwright"
+          },
+          {
+            "authorId": "1694621",
+            "name": "Michael I. Jordan"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "a7e3a169a6e5a866d959c6138bd44fe85c51acf4",
+        "externalIds": {
+          "MAG": "2163587350",
+          "DOI": "10.1016/J.SPL.2008.01.032",
+          "CorpusId": 1767339
+        },
+        "url": "https://www.semanticscholar.org/paper/a7e3a169a6e5a866d959c6138bd44fe85c51acf4",
+        "title": "A note on auxiliary particle filters",
+        "venue": "",
+        "year": 2008,
+        "referenceCount": 15,
+        "citationCount": 173,
+        "authors": [
+          {
+            "authorId": "2729416",
+            "name": "A. M. Johansen"
+          },
+          {
+            "authorId": "1701800",
+            "name": "A. Doucet"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "923b47a55b49c9ad54cf8ebb50740ebf0e3e64e3",
+        "externalIds": {
+          "ArXiv": "0805.3287",
+          "MAG": "1670531616",
+          "DOI": "10.1214/074921708000000228",
+          "CorpusId": 10520181
+        },
+        "url": "https://www.semanticscholar.org/paper/923b47a55b49c9ad54cf8ebb50740ebf0e3e64e3",
+        "title": "Sharp failure rates for the bootstrap particle filter in high dimensions",
+        "venue": "",
+        "year": 2008,
+        "referenceCount": 17,
+        "citationCount": 214,
+        "authors": [
+          {
+            "authorId": "1678771",
+            "name": "P. Bickel"
+          },
+          {
+            "authorId": "2151287846",
+            "name": "Bo Li"
+          },
+          {
+            "authorId": "47668021",
+            "name": "T. Bengtsson"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "138b154a6192b549cacd7fec210843a6fe3c098f",
+        "externalIds": {
+          "MAG": "1525891324",
+          "DOI": "10.1198/jasa.2007.s209",
+          "CorpusId": 119065357
+        },
+        "url": "https://www.semanticscholar.org/paper/138b154a6192b549cacd7fec210843a6fe3c098f",
+        "title": "Time Series Analysis and Its Applications: With R Examples",
+        "venue": "",
+        "year": 2007,
+        "referenceCount": 5,
+        "citationCount": 496,
+        "authors": [
+          {
+            "authorId": "144726824",
+            "name": "R. Lund"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "7799293a1560ce8143fa2a3d9ffbaac6cd359242",
+        "externalIds": {
+          "DBLP": "journals/technometrics/Nagaraja06",
+          "MAG": "1999428284",
+          "DOI": "10.1198/tech.2006.s440",
+          "CorpusId": 30946335
+        },
+        "url": "https://www.semanticscholar.org/paper/7799293a1560ce8143fa2a3d9ffbaac6cd359242",
+        "title": "Inference in Hidden Markov Models",
+        "venue": "Technometrics",
+        "year": 2006,
+        "referenceCount": 97,
+        "citationCount": 1453,
+        "authors": [
+          {
+            "authorId": "3099610",
+            "name": "H. Nagaraja"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "c8f260f7693cfb2b0122324240533ecc6297944c",
+        "externalIds": {
+          "MAG": "2141098380",
+          "DOI": "10.1175/JCLI3842.1",
+          "CorpusId": 4022489
+        },
+        "url": "https://www.semanticscholar.org/paper/c8f260f7693cfb2b0122324240533ecc6297944c",
+        "title": "Detection and Attribution of Twentieth-Century Northern and Southern African Rainfall Change",
+        "venue": "",
+        "year": 2006,
+        "referenceCount": 41,
+        "citationCount": 504,
+        "authors": [
+          {
+            "authorId": "5600661",
+            "name": "M. Hoerling"
+          },
+          {
+            "authorId": "4054686",
+            "name": "J. Hurrell"
+          },
+          {
+            "authorId": "4632441",
+            "name": "J. Eischeid"
+          },
+          {
+            "authorId": "32139692",
+            "name": "A. Phillips"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "5b7f476782d52a472fb68de2ab3e19c5e2dc560d",
+        "externalIds": {
+          "MAG": "2034103227",
+          "ArXiv": "math/0507042",
+          "DOI": "10.1051/PROC:071913",
+          "CorpusId": 9207174
+        },
+        "url": "https://www.semanticscholar.org/paper/5b7f476782d52a472fb68de2ab3e19c5e2dc560d",
+        "title": "Limit theorems for weighted samples with applications to sequential Monte Carlo methods",
+        "venue": "",
+        "year": 2005,
+        "referenceCount": 44,
+        "citationCount": 193,
+        "authors": [
+          {
+            "authorId": "1756670",
+            "name": "R. Douc"
+          },
+          {
+            "authorId": "2313661",
+            "name": "É. Moulines"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "f714b82aff5370bec8990671b30b9af743b147ba",
+        "externalIds": {
+          "MAG": "1520053542",
+          "DOI": "10.1201/9780203492024",
+          "CorpusId": 60632241
+        },
+        "url": "https://www.semanticscholar.org/paper/f714b82aff5370bec8990671b30b9af743b147ba",
+        "title": "Gaussian Markov Random Fields: Theory and Applications",
+        "venue": "",
+        "year": 2005,
+        "referenceCount": 1,
+        "citationCount": 2487,
+        "authors": [
+          {
+            "authorId": "2194841",
+            "name": "H. Rue"
+          },
+          {
+            "authorId": "144433364",
+            "name": "L. Held"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "6bf48ed4e7b4f1300012d1fef89b7923b5bd3537",
+        "externalIds": {
+          "ArXiv": "math/0508594",
+          "MAG": "2081741802",
+          "DOI": "10.1214/009053604000000698",
+          "CorpusId": 14515878
+        },
+        "url": "https://www.semanticscholar.org/paper/6bf48ed4e7b4f1300012d1fef89b7923b5bd3537",
+        "title": "Central limit theorem for sequential Monte Carlo methods and its application to Bayesian inference",
+        "venue": "",
+        "year": 2004,
+        "referenceCount": 34,
+        "citationCount": 479,
+        "authors": [
+          {
+            "authorId": "2593810",
+            "name": "N. Chopin"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "e995078660f734127ba0e310c3e290ce29c554cb",
+        "externalIds": {
+          "DBLP": "journals/csur/Cohen04",
+          "MAG": "1975975525",
+          "DOI": "10.1145/1031120.1031122",
+          "CorpusId": 16066492
+        },
+        "url": "https://www.semanticscholar.org/paper/e995078660f734127ba0e310c3e290ce29c554cb",
+        "title": "Bioinformatics—an introduction for computer scientists",
+        "venue": "CSUR",
+        "year": 2004,
+        "referenceCount": 69,
+        "citationCount": 241,
+        "authors": [
+          {
+            "authorId": "50065247",
+            "name": "Jacques Cohen"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "b76051add4f2ffb97d28be2e146e3a66a7ac5bea",
+        "externalIds": {
+          "MAG": "277831955",
+          "CorpusId": 116944314
+        },
+        "url": "https://www.semanticscholar.org/paper/b76051add4f2ffb97d28be2e146e3a66a7ac5bea",
+        "title": "Feynman-Kac Formulae: Genealogical and Interacting Particle Systems with Applications",
+        "venue": "",
+        "year": 2004,
+        "referenceCount": 0,
+        "citationCount": 1136,
+        "authors": [
+          {
+            "authorId": "40014328",
+            "name": "P. Moral"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "12868106e6d7a375150bda4bfe54d29225a33ba2",
+        "externalIds": {
+          "MAG": "1989272559",
+          "DOI": "10.1126/science.1095048",
+          "CorpusId": 36152330,
+          "PubMed": "15031502"
+        },
+        "url": "https://www.semanticscholar.org/paper/12868106e6d7a375150bda4bfe54d29225a33ba2",
+        "title": "On the Cause of the 1930s Dust Bowl",
+        "venue": "Science",
+        "year": 2004,
+        "referenceCount": 19,
+        "citationCount": 516,
+        "authors": [
+          {
+            "authorId": "33854560",
+            "name": "S. Schubert"
+          },
+          {
+            "authorId": "14555200",
+            "name": "M. Suárez"
+          },
+          {
+            "authorId": "4116983",
+            "name": "P. Pegion"
+          },
+          {
+            "authorId": "2414858",
+            "name": "R. Koster"
+          },
+          {
+            "authorId": "101873698",
+            "name": "J. Bacmeister"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "6fe3de760657c10e99f192733aeb68a42824e81f",
+        "externalIds": {
+          "MAG": "1988827501",
+          "DOI": "10.1198/016214504000000151",
+          "CorpusId": 7353913
+        },
+        "url": "https://www.semanticscholar.org/paper/6fe3de760657c10e99f192733aeb68a42824e81f",
+        "title": "Monte Carlo Smoothing for Nonlinear Time Series",
+        "venue": "Journal of the American Statistical Association",
+        "year": 2004,
+        "referenceCount": 45,
+        "citationCount": 635,
+        "authors": [
+          {
+            "authorId": "1708961",
+            "name": "S. Godsill"
+          },
+          {
+            "authorId": "1701800",
+            "name": "A. Doucet"
+          },
+          {
+            "authorId": "2656437",
+            "name": "M. West"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "84630194aa50214f99d3219838d34ed89456008d",
+        "externalIds": {
+          "MAG": "2050146119",
+          "DOI": "10.1046/J.1467-9884.2003.T01-6-00383_8.X",
+          "CorpusId": 121192529
+        },
+        "url": "https://www.semanticscholar.org/paper/84630194aa50214f99d3219838d34ed89456008d",
+        "title": "An Introduction to Sequential Monte Carlo Methods",
+        "venue": "",
+        "year": 2003,
+        "referenceCount": 0,
+        "citationCount": 234,
+        "authors": [
+          {
+            "authorId": "94978451",
+            "name": "Freda Kemp"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "2a3c1d2ea24b689371ff1c9b31599d12bfc04689",
+        "externalIds": {
+          "MAG": "2106014472",
+          "DOI": "10.1007/s10021-002-0227-0",
+          "CorpusId": 12698952
+        },
+        "url": "https://www.semanticscholar.org/paper/2a3c1d2ea24b689371ff1c9b31599d12bfc04689",
+        "title": "\nRegime Shifts in the Sahara and Sahel: Interactions between Ecological and Climatic Systems in Northern Africa\n",
+        "venue": "Ecosystems",
+        "year": 2003,
+        "referenceCount": 99,
+        "citationCount": 270,
+        "authors": [
+          {
+            "authorId": "152190260",
+            "name": "J. Foley"
+          },
+          {
+            "authorId": "3476221",
+            "name": "M. Coe"
+          },
+          {
+            "authorId": "145644167",
+            "name": "M. Scheffer"
+          },
+          {
+            "authorId": "144149560",
+            "name": "Guiling Wang"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "47ba51a5913a6f2be8ab874a5f2d246735c89614",
+        "externalIds": {
+          "DBLP": "journals/technometrics/Hesterberg02",
+          "MAG": "2089657469",
+          "DOI": "10.1198/tech.2002.s85",
+          "CorpusId": 6552928
+        },
+        "url": "https://www.semanticscholar.org/paper/47ba51a5913a6f2be8ab874a5f2d246735c89614",
+        "title": "Monte Carlo Strategies in Scientific Computing",
+        "venue": "Technometrics",
+        "year": 2002,
+        "referenceCount": 3,
+        "citationCount": 2321,
+        "authors": [
+          {
+            "authorId": "9194763",
+            "name": "Tim Hesterberg"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "34ab10d1b07d8416ab4184098ad5f2ea2b29ad63",
+        "externalIds": {
+          "MAG": "2131598171",
+          "DOI": "10.1080/01621459.1999.10474153",
+          "CorpusId": 8736789
+        },
+        "url": "https://www.semanticscholar.org/paper/34ab10d1b07d8416ab4184098ad5f2ea2b29ad63",
+        "title": "Filtering via Simulation: Auxiliary Particle Filters",
+        "venue": "",
+        "year": 1999,
+        "referenceCount": 70,
+        "citationCount": 2788,
+        "authors": [
+          {
+            "authorId": "2054579",
+            "name": "M. Pitt"
+          },
+          {
+            "authorId": "50275561",
+            "name": "N. Shephard"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "0f7fc9899feb00fc46cbcfee6232877a94335b18",
+        "externalIds": {
+          "MAG": "2082542916",
+          "DOI": "10.1049/IP-RSN:19990255",
+          "CorpusId": 122476255
+        },
+        "url": "https://www.semanticscholar.org/paper/0f7fc9899feb00fc46cbcfee6232877a94335b18",
+        "title": "Improved particle filter for nonlinear problems",
+        "venue": "",
+        "year": 1999,
+        "referenceCount": 17,
+        "citationCount": 937,
+        "authors": [
+          {
+            "authorId": "69470098",
+            "name": "J. Carpenter"
+          },
+          {
+            "authorId": "145578421",
+            "name": "P. Clifford"
+          },
+          {
+            "authorId": "3246901",
+            "name": "P. Fearnhead"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "14883689d4972608acdc486999f4f3c445ea635e",
+        "externalIds": {
+          "MAG": "2057487175",
+          "DOI": "10.1080/01621459.1994.10476469",
+          "CorpusId": 45904944
+        },
+        "url": "https://www.semanticscholar.org/paper/14883689d4972608acdc486999f4f3c445ea635e",
+        "title": "Sequential Imputations and Bayesian Missing Data Problems",
+        "venue": "",
+        "year": 1994,
+        "referenceCount": 25,
+        "citationCount": 1216,
+        "authors": [
+          {
+            "authorId": "49504816",
+            "name": "A. Kong"
+          },
+          {
+            "authorId": "50740237",
+            "name": "Jun S. Liu"
+          },
+          {
+            "authorId": "143725639",
+            "name": "W. Wong"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "5794f07b2ce5a04241198d42e81623380d2c7e2e",
+        "externalIds": {
+          "MAG": "2098613108",
+          "DOI": "10.1049/IP-F-2.1993.0015",
+          "CorpusId": 12644877
+        },
+        "url": "https://www.semanticscholar.org/paper/5794f07b2ce5a04241198d42e81623380d2c7e2e",
+        "title": "Novel approach to nonlinear/non-Gaussian Bayesian state estimation",
+        "venue": "",
+        "year": 1993,
+        "referenceCount": 17,
+        "citationCount": 8702,
+        "authors": [
+          {
+            "authorId": "144998829",
+            "name": "N. Gordon"
+          },
+          {
+            "authorId": "144775895",
+            "name": "D. Salmond"
+          },
+          {
+            "authorId": "2109352679",
+            "name": "Adrian F. M. Smith"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "00fa0aee379af1148ef3d6cb5527ab24ac709f50",
+        "externalIds": {
+          "MAG": "143236119",
+          "CorpusId": 115781440
+        },
+        "url": "https://www.semanticscholar.org/paper/00fa0aee379af1148ef3d6cb5527ab24ac709f50",
+        "title": "Gaussian Markov random fields",
+        "venue": "",
+        "year": 1979,
+        "referenceCount": 3,
+        "citationCount": 441,
+        "authors": [
+          {
+            "authorId": "102568231",
+            "name": "H. Künsch"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "56d4cea4ce8ac124404001d6f73ed1608f51310f",
+        "externalIds": {
+          "MAG": "2021830477",
+          "DOI": "10.1002/wics.1341",
+          "CorpusId": 2427710
+        },
+        "url": "https://www.semanticscholar.org/paper/56d4cea4ce8ac124404001d6f73ed1608f51310f",
+        "title": "Modern perspectives on statistics for spatio‐temporal data",
+        "venue": "",
+        "year": 2015,
+        "referenceCount": 34,
+        "citationCount": 71,
+        "authors": [
+          {
+            "authorId": "2119158",
+            "name": "C. Wikle"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "78fa027c7bd1493220112d41369d82006ebdac18",
+        "externalIds": {
+          "DBLP": "books/tf/13/MonteleoniSANST0BGST13",
+          "DOI": "10.1201/b14799-8",
+          "CorpusId": 9514581
+        },
+        "url": "https://www.semanticscholar.org/paper/78fa027c7bd1493220112d41369d82006ebdac18",
+        "title": "Climate Informatics",
+        "venue": "Computational Intelligent Data Analysis for Sustainable Development",
+        "year": 2013,
+        "referenceCount": 116,
+        "citationCount": 24,
+        "authors": [
+          {
+            "authorId": "1806678",
+            "name": "C. Monteleoni"
+          },
+          {
+            "authorId": "37931449",
+            "name": "G. Schmidt"
+          },
+          {
+            "authorId": "21060755",
+            "name": "F. Alexander"
+          },
+          {
+            "authorId": "1399048849",
+            "name": "Alexandru Niculescu-Mizil"
+          },
+          {
+            "authorId": "1700639",
+            "name": "K. Steinhaeuser"
+          },
+          {
+            "authorId": "69416706",
+            "name": "M. Tippett"
+          },
+          {
+            "authorId": "144205696",
+            "name": "A. Banerjee"
+          },
+          {
+            "authorId": "2072256821",
+            "name": "M. Blumenthal"
+          },
+          {
+            "authorId": "143669775",
+            "name": "A. Ganguly"
+          },
+          {
+            "authorId": "6706001",
+            "name": "J. Smerdon"
+          },
+          {
+            "authorId": "2106197116",
+            "name": "M. Tedesco"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "CRU TS3.21: Climatic research unit (CRU) time-series (ts) version 3.21 of high resolution gridded data of month-by-month variation in climate (jan",
+        "venue": "dec",
+        "year": 2012,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "9d7b4bea5f92c29613a0a3a34de9df061d9704f2",
+        "externalIds": {
+          "MAG": "2300327263",
+          "CorpusId": 124363992
+        },
+        "url": "https://www.semanticscholar.org/paper/9d7b4bea5f92c29613a0a3a34de9df061d9704f2",
+        "title": "Optimality of the auxiliary particle filter",
+        "venue": "",
+        "year": 2009,
+        "referenceCount": 12,
+        "citationCount": 58,
+        "authors": [
+          {
+            "authorId": "1756670",
+            "name": "R. Douc"
+          },
+          {
+            "authorId": "2313661",
+            "name": "É. Moulines"
+          },
+          {
+            "authorId": "2992325",
+            "name": "J. Olsson"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "1cd44dd4f1b0b1c0499b1dc9637010c6d63d445c",
+        "externalIds": {
+          "MAG": "2111787305",
+          "CorpusId": 122725027
+        },
+        "url": "https://www.semanticscholar.org/paper/1cd44dd4f1b0b1c0499b1dc9637010c6d63d445c",
+        "title": "A Tutorial on Particle Filtering and Smoothing: Fifteen years later",
+        "venue": "",
+        "year": 2008,
+        "referenceCount": 40,
+        "citationCount": 2191,
+        "authors": [
+          {
+            "authorId": "1701800",
+            "name": "A. Doucet"
+          },
+          {
+            "authorId": "2729416",
+            "name": "A. M. Johansen"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "470c02501e7caf415eb2b37fab35bd5631363a55",
+        "externalIds": {
+          "CorpusId": 18689178
+        },
+        "url": "https://www.semanticscholar.org/paper/470c02501e7caf415eb2b37fab35bd5631363a55",
+        "title": "On the Cause of the 1930 s Dust Bowl",
+        "venue": "",
+        "year": 2004,
+        "referenceCount": 11,
+        "citationCount": 206,
+        "authors": [
+          {
+            "authorId": "2070596395",
+            "name": "S. Schubert"
+          },
+          {
+            "authorId": "2060780077",
+            "name": "Max"
+          },
+          {
+            "authorId": "93823282",
+            "name": "Suárez"
+          },
+          {
+            "authorId": "4116983",
+            "name": "P. Pegion"
+          },
+          {
+            "authorId": "2414858",
+            "name": "R. Koster"
+          },
+          {
+            "authorId": "2076227189",
+            "name": "Júlio"
+          },
+          {
+            "authorId": "1409511276",
+            "name": "T."
+          },
+          {
+            "authorId": "133731169",
+            "name": "Bacmeister"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "255a77422b1da74da05d1714b7875356187385bd",
+        "externalIds": {
+          "CorpusId": 1242324
+        },
+        "url": "https://www.semanticscholar.org/paper/255a77422b1da74da05d1714b7875356187385bd",
+        "title": "A New Approach to Linear Filtering and Prediction Problems",
+        "venue": "",
+        "year": 2002,
+        "referenceCount": 25,
+        "citationCount": 27419,
+        "authors": []
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "fee539841d1346f65b47bc920463141fc72bcea7",
+        "externalIds": {
+          "MAG": "1786529921",
+          "DOI": "10.1109/9780470544334.CH9",
+          "CorpusId": 263146377
+        },
+        "url": "https://www.semanticscholar.org/paper/fee539841d1346f65b47bc920463141fc72bcea7",
+        "title": "A New Approach to Linear Filtering and Prediction Problems",
+        "venue": "",
+        "year": 2001,
+        "referenceCount": 25,
+        "citationCount": 919,
+        "authors": [
+          {
+            "authorId": "2243689",
+            "name": "T. Başar"
+          }
+        ]
+      }
+    }
+  ]
+}

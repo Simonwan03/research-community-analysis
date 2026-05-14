@@ -1,0 +1,304 @@
+{
+  "total": 6336,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "9b8e2fa4e104cbe0c270eb0d01d7d06e2d479493",
+      "externalIds": {
+        "DBLP": "conf/icml/SivakumarB17",
+        "MAG": "2739815925",
+        "CorpusId": 9989691
+      },
+      "url": "https://www.semanticscholar.org/paper/9b8e2fa4e104cbe0c270eb0d01d7d06e2d479493",
+      "title": "High-Dimensional Structured Quantile Regression",
+      "venue": "International Conference on Machine Learning",
+      "year": 2017,
+      "referenceCount": 31,
+      "citationCount": 10,
+      "authors": [
+        {
+          "authorId": "40648461",
+          "name": "V. Sivakumar"
+        },
+        {
+          "authorId": "144205696",
+          "name": "A. Banerjee"
+        }
+      ]
+    },
+    {
+      "paperId": "f99c5177a1d31bb641e8ab991fbbb1b7302dcab7",
+      "externalIds": {
+        "DOI": "10.1080/00949655.2025.2562167",
+        "CorpusId": 281654893
+      },
+      "url": "https://www.semanticscholar.org/paper/f99c5177a1d31bb641e8ab991fbbb1b7302dcab7",
+      "title": "Gaussian variational Bayesian inference for mixed effect quantile regression model with grouped data",
+      "venue": "Journal of Statistical Computation and Simulation",
+      "year": 2025,
+      "referenceCount": 42,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2369832549",
+          "name": "Zhiqiang Wang"
+        },
+        {
+          "authorId": "2116796963",
+          "name": "W. Cheng"
+        },
+        {
+          "authorId": "2370148989",
+          "name": "Ying Wu"
+        }
+      ]
+    },
+    {
+      "paperId": "ce1f1d48a9142a9f3a1aeaec4b0b2885cabc6d22",
+      "externalIds": {
+        "MAG": "2078269124",
+        "DOI": "10.1080/01621459.2013.836975",
+        "CorpusId": 122867559
+      },
+      "url": "https://www.semanticscholar.org/paper/ce1f1d48a9142a9f3a1aeaec4b0b2885cabc6d22",
+      "title": "Model Selection via Bayesian Information Criterion for Quantile Regression Models",
+      "venue": "",
+      "year": 2014,
+      "referenceCount": 43,
+      "citationCount": 186,
+      "authors": [
+        {
+          "authorId": "47266203",
+          "name": "Eun Ryung Lee"
+        },
+        {
+          "authorId": "36166927",
+          "name": "Hohsuk Noh"
+        },
+        {
+          "authorId": "32643219",
+          "name": "B. Park"
+        }
+      ]
+    },
+    {
+      "paperId": "5c8356039ff11f40b37c8b3f3860f64f4cadad48",
+      "externalIds": {
+        "ArXiv": "2411.10982",
+        "DBLP": "journals/corr/abs-2411-10982",
+        "DOI": "10.48550/arXiv.2411.10982",
+        "CorpusId": 274131324
+      },
+      "url": "https://www.semanticscholar.org/paper/5c8356039ff11f40b37c8b3f3860f64f4cadad48",
+      "title": "Towards a framework on tabular synthetic data generation: a minimalist approach: theory, use cases, and limitations",
+      "venue": "arXiv.org",
+      "year": 2024,
+      "referenceCount": 44,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "2395297372",
+          "name": "Yueyang Shen"
+        },
+        {
+          "authorId": "2275212865",
+          "name": "Agus Sudjianto"
+        },
+        {
+          "authorId": "2331323208",
+          "name": "R. ArunPrakash"
+        },
+        {
+          "authorId": "28576395",
+          "name": "A. Bhattacharyya"
+        },
+        {
+          "authorId": "2331492079",
+          "name": "Maorong Rao"
+        },
+        {
+          "authorId": "2331377265",
+          "name": "Yaqun Wang"
+        },
+        {
+          "authorId": "2294855156",
+          "name": "Joel Vaughan"
+        },
+        {
+          "authorId": "2052884931",
+          "name": "Neng-Zhi Zhou"
+        }
+      ]
+    },
+    {
+      "paperId": "5788a32b3e72b71bcb81de8eb7dea0f1afafcfb3",
+      "externalIds": {
+        "MAG": "636590678",
+        "CorpusId": 60147425
+      },
+      "url": "https://www.semanticscholar.org/paper/5788a32b3e72b71bcb81de8eb7dea0f1afafcfb3",
+      "title": "Robustness and complex data structures : Festschrift in honour of Ursula Gather",
+      "venue": "",
+      "year": 2013,
+      "referenceCount": 330,
+      "citationCount": 36,
+      "authors": [
+        {
+          "authorId": "47241255",
+          "name": "C. Becker"
+        },
+        {
+          "authorId": "1706246",
+          "name": "R. Fried"
+        },
+        {
+          "authorId": "35112676",
+          "name": "S. Kuhnt"
+        }
+      ]
+    },
+    {
+      "paperId": "febeefc34025d94b137f9dcde6d493729554a770",
+      "externalIds": {
+        "DBLP": "journals/sac/WuGLZ25",
+        "ArXiv": "2501.07035",
+        "DOI": "10.1007/s11222-025-10631-9",
+        "CorpusId": 275470483
+      },
+      "url": "https://www.semanticscholar.org/paper/febeefc34025d94b137f9dcde6d493729554a770",
+      "title": "Parallel ADMM Algorithm with Gaussian Back Substitution for High-Dimensional Quantile Regression and Classification",
+      "venue": "Statistics and computing",
+      "year": 2025,
+      "referenceCount": 58,
+      "citationCount": 4,
+      "authors": [
+        {
+          "authorId": "2154606520",
+          "name": "Xiaofei Wu"
+        },
+        {
+          "authorId": "2364562030",
+          "name": "Dingzi Guo"
+        },
+        {
+          "authorId": "17855784",
+          "name": "Rongmei Liang"
+        },
+        {
+          "authorId": "2267357357",
+          "name": "Zhimin Zhang"
+        }
+      ]
+    },
+    {
+      "paperId": "44ed573a46f6b6a859871ca27f38e8ac5f262005",
+      "externalIds": {
+        "DOI": "10.1080/00949655.2025.2542977",
+        "CorpusId": 280760718
+      },
+      "url": "https://www.semanticscholar.org/paper/44ed573a46f6b6a859871ca27f38e8ac5f262005",
+      "title": "Composite quantile regression for high-dimensional linear mixed effects models",
+      "venue": "Journal of Statistical Computation and Simulation",
+      "year": 2025,
+      "referenceCount": 38,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "2356126147",
+          "name": "Yiping Yang"
+        },
+        {
+          "authorId": "2152914532",
+          "name": "Jing Li"
+        },
+        {
+          "authorId": "48320235",
+          "name": "Xiaogang Duan"
+        },
+        {
+          "authorId": "2258682806",
+          "name": "Gaorong Li"
+        }
+      ]
+    },
+    {
+      "paperId": "5a26498247666602bac1365b0a62422afa1be690",
+      "externalIds": {
+        "DBLP": "journals/apin/CaoS24",
+        "DOI": "10.1007/s10489-023-05232-w",
+        "CorpusId": 266761573
+      },
+      "url": "https://www.semanticscholar.org/paper/5a26498247666602bac1365b0a62422afa1be690",
+      "title": "Robust transfer learning for high-dimensional quantile regression model with linear constraints",
+      "venue": "Applied intelligence (Boston)",
+      "year": 2024,
+      "referenceCount": 26,
+      "citationCount": 9,
+      "authors": [
+        {
+          "authorId": "2278216339",
+          "name": "Longjie Cao"
+        },
+        {
+          "authorId": "2265654362",
+          "name": "Yunquan Song"
+        }
+      ]
+    },
+    {
+      "paperId": "415cb47fbf410449668b70a7ebae1516e52a66dd",
+      "externalIds": {
+        "DOI": "10.1080/00949655.2024.2329969",
+        "CorpusId": 268579269
+      },
+      "url": "https://www.semanticscholar.org/paper/415cb47fbf410449668b70a7ebae1516e52a66dd",
+      "title": "Transfer learning with high dimensional composite quantile regression",
+      "venue": "Journal of Statistical Computation and Simulation",
+      "year": 2024,
+      "referenceCount": 25,
+      "citationCount": 7,
+      "authors": [
+        {
+          "authorId": "2293136096",
+          "name": "Jie Li"
+        },
+        {
+          "authorId": "2268201816",
+          "name": "Yunquan Song"
+        }
+      ]
+    },
+    {
+      "paperId": "813619503de0a8c2ea59ee280a6ac7bf85cfb638",
+      "externalIds": {
+        "DOI": "10.1080/01621459.2024.2392903",
+        "CorpusId": 272062224
+      },
+      "url": "https://www.semanticscholar.org/paper/813619503de0a8c2ea59ee280a6ac7bf85cfb638",
+      "title": "Efficient Multiple Change Point Detection and Localization For High-Dimensional Quantile Regression with Heteroscedasticity",
+      "venue": "Journal of the American Statistical Association",
+      "year": 2024,
+      "referenceCount": 46,
+      "citationCount": 7,
+      "authors": [
+        {
+          "authorId": "2108247391",
+          "name": "Xianru Wang"
+        },
+        {
+          "authorId": "2279772409",
+          "name": "Bin Liu"
+        },
+        {
+          "authorId": "2279770644",
+          "name": "Xinsheng Zhang"
+        },
+        {
+          "authorId": "2279761692",
+          "name": "Yufeng Liu"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1362 @@
+{
+  "offset": 0,
+  "citingPaperInfo": {
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/1804.07933, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "title": "Is Feature Selection Secure against Training Data Poisoning?",
+    "authors": [
+      {
+        "authorId": "2114239129",
+        "name": "Huang Xiao"
+      },
+      {
+        "authorId": "1684175",
+        "name": "B. Biggio"
+      },
+      {
+        "authorId": "145485821",
+        "name": "Gavin Brown"
+      },
+      {
+        "authorId": "1716261",
+        "name": "G. Fumera"
+      },
+      {
+        "authorId": "49601001",
+        "name": "C. Eckert"
+      },
+      {
+        "authorId": "1710171",
+        "name": "F. Roli"
+      }
+    ]
+  },
+  "data": [
+    {
+      "citedPaper": {
+        "paperId": "e24b8a9531573d284647239affc6c855505b0de4",
+        "externalIds": {
+          "MAG": "2946331775",
+          "DBLP": "conf/ccs/HuangJNRT11",
+          "DOI": "10.1145/2046684.2046692",
+          "CorpusId": 623013
+        },
+        "url": "https://www.semanticscholar.org/paper/e24b8a9531573d284647239affc6c855505b0de4",
+        "title": "Adversarial machine learning",
+        "venue": "Security and Artificial Intelligence",
+        "year": 2019,
+        "referenceCount": 199,
+        "citationCount": 1549,
+        "authors": [
+          {
+            "authorId": "50055322",
+            "name": "Ling Huang"
+          },
+          {
+            "authorId": "1687701",
+            "name": "A. Joseph"
+          },
+          {
+            "authorId": "39743720",
+            "name": "B. Nelson"
+          },
+          {
+            "authorId": "2064046776",
+            "name": "Benjamin I. P. Rubinstein"
+          },
+          {
+            "authorId": "1787610",
+            "name": "J. D. Tygar"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "4ce74d486d6a76bf0bc5ed9437f5eee8ee5aa221",
+        "externalIds": {
+          "DBLP": "journals/tcyb/ZhangCBYR16",
+          "ArXiv": "2005.12154",
+          "MAG": "2095195675",
+          "DOI": "10.1109/TCYB.2015.2415032",
+          "CorpusId": 21163749,
+          "PubMed": "25910268"
+        },
+        "url": "https://www.semanticscholar.org/paper/4ce74d486d6a76bf0bc5ed9437f5eee8ee5aa221",
+        "title": "Adversarial Feature Selection Against Evasion Attacks",
+        "venue": "IEEE Transactions on Cybernetics",
+        "year": 2016,
+        "referenceCount": 72,
+        "citationCount": 237,
+        "authors": [
+          {
+            "authorId": "145680173",
+            "name": "Fei Zhang"
+          },
+          {
+            "authorId": "1724815",
+            "name": "P. Chan"
+          },
+          {
+            "authorId": "1684175",
+            "name": "B. Biggio"
+          },
+          {
+            "authorId": "143784081",
+            "name": "D. Yeung"
+          },
+          {
+            "authorId": "1710171",
+            "name": "F. Roli"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "462800db4dfcf666b580765bb1399cee9d85674c",
+        "externalIds": {
+          "MAG": "290150691",
+          "DBLP": "conf/aistats/MeiZ15",
+          "CorpusId": 9969658
+        },
+        "url": "https://www.semanticscholar.org/paper/462800db4dfcf666b580765bb1399cee9d85674c",
+        "title": "The Security of Latent Dirichlet Allocation",
+        "venue": "International Conference on Artificial Intelligence and Statistics",
+        "year": 2015,
+        "referenceCount": 29,
+        "citationCount": 73,
+        "authors": [
+          {
+            "authorId": "2121022",
+            "name": "Shike Mei"
+          },
+          {
+            "authorId": "1832364",
+            "name": "Xiaojin Zhu"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "3da2e9dd965992f83a1ef7354c0f46f5abbdfb5e",
+        "externalIds": {
+          "DBLP": "conf/icdm/WangLC14",
+          "MAG": "2030611346",
+          "DOI": "10.1109/ICDM.2014.117",
+          "CorpusId": 13746123
+        },
+        "url": "https://www.semanticscholar.org/paper/3da2e9dd965992f83a1ef7354c0f46f5abbdfb5e",
+        "title": "Sparse Feature Attacks in Adversarial Learning",
+        "venue": "IEEE Transactions on Knowledge and Data Engineering",
+        "year": 2014,
+        "referenceCount": 29,
+        "citationCount": 59,
+        "authors": [
+          {
+            "authorId": "41016116",
+            "name": "Zhizhou Yin"
+          },
+          {
+            "authorId": "1682816",
+            "name": "Fei Wang"
+          },
+          {
+            "authorId": "2157221073",
+            "name": "Wei Liu"
+          },
+          {
+            "authorId": "50793091",
+            "name": "S. Chawla"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "9bd967844a40318e3d3f4a34680bf4a1816656a1",
+        "externalIds": {
+          "MAG": "2128155976",
+          "DBLP": "conf/nips/LiV14",
+          "CorpusId": 838319
+        },
+        "url": "https://www.semanticscholar.org/paper/9bd967844a40318e3d3f4a34680bf4a1816656a1",
+        "title": "Feature Cross-Substitution in Adversarial Classification",
+        "venue": "Neural Information Processing Systems",
+        "year": 2014,
+        "referenceCount": 25,
+        "citationCount": 124,
+        "authors": [
+          {
+            "authorId": "143771567",
+            "name": "Bo Li"
+          },
+          {
+            "authorId": "1699600",
+            "name": "Yevgeniy Vorobeychik"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "2d319e2f19306e5fde837afac4e214209f42deb1",
+        "externalIds": {
+          "MAG": "2596299032",
+          "ArXiv": "1709.00609",
+          "DBLP": "journals/corr/abs-1709-00609",
+          "DOI": "10.1109/TKDE.2013.57",
+          "CorpusId": 10022042
+        },
+        "url": "https://www.semanticscholar.org/paper/2d319e2f19306e5fde837afac4e214209f42deb1",
+        "title": "Security Evaluation of Pattern Classifiers under Attack",
+        "venue": "IEEE Transactions on Knowledge and Data Engineering",
+        "year": 2014,
+        "referenceCount": 55,
+        "citationCount": 449,
+        "authors": [
+          {
+            "authorId": "1684175",
+            "name": "B. Biggio"
+          },
+          {
+            "authorId": "1716261",
+            "name": "G. Fumera"
+          },
+          {
+            "authorId": "1710171",
+            "name": "F. Roli"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "c46ff777ade986eb56c57ae2e5d9a2039d4847ae",
+        "externalIds": {
+          "DBLP": "conf/ccs/BiggioPBAPR13",
+          "ArXiv": "1811.09982",
+          "MAG": "2089103284",
+          "DOI": "10.1145/2517312.2517321",
+          "CorpusId": 6397074
+        },
+        "url": "https://www.semanticscholar.org/paper/c46ff777ade986eb56c57ae2e5d9a2039d4847ae",
+        "title": "Is data clustering in adversarial settings secure?",
+        "venue": "Security and Artificial Intelligence",
+        "year": 2013,
+        "referenceCount": 31,
+        "citationCount": 135,
+        "authors": [
+          {
+            "authorId": "1684175",
+            "name": "B. Biggio"
+          },
+          {
+            "authorId": "3333380",
+            "name": "I. Pillai"
+          },
+          {
+            "authorId": "2145174",
+            "name": "S. R. Bulò"
+          },
+          {
+            "authorId": "2455275",
+            "name": "Davide Ariu"
+          },
+          {
+            "authorId": "8111020",
+            "name": "M. Pelillo"
+          },
+          {
+            "authorId": "1710171",
+            "name": "F. Roli"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "033c08ca48aaed2d5ab0a17d668d410538678ed8",
+        "externalIds": {
+          "DBLP": "conf/pkdd/BiggioCMNSLGR13",
+          "MAG": "3103836116",
+          "ArXiv": "1708.06131",
+          "DOI": "10.1007/978-3-642-40994-3_25",
+          "CorpusId": 18716873
+        },
+        "url": "https://www.semanticscholar.org/paper/033c08ca48aaed2d5ab0a17d668d410538678ed8",
+        "title": "Evasion Attacks against Machine Learning at Test Time",
+        "venue": "ECML/PKDD",
+        "year": 2013,
+        "referenceCount": 27,
+        "citationCount": 2297,
+        "authors": [
+          {
+            "authorId": "1684175",
+            "name": "B. Biggio"
+          },
+          {
+            "authorId": "2338858",
+            "name": "Igino Corona"
+          },
+          {
+            "authorId": "3248803",
+            "name": "Davide Maiorca"
+          },
+          {
+            "authorId": "39743720",
+            "name": "B. Nelson"
+          },
+          {
+            "authorId": "2118348",
+            "name": "Nedim Srndic"
+          },
+          {
+            "authorId": "1754215",
+            "name": "P. Laskov"
+          },
+          {
+            "authorId": "1779484",
+            "name": "G. Giacinto"
+          },
+          {
+            "authorId": "1710171",
+            "name": "F. Roli"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "4916e5e3cbe648f99cfba6067dd6593effdfd3f8",
+        "externalIds": {
+          "DBLP": "conf/ccs/MaiorcaCG13",
+          "MAG": "2014466911",
+          "DOI": "10.1145/2484313.2484327",
+          "CorpusId": 18836392
+        },
+        "url": "https://www.semanticscholar.org/paper/4916e5e3cbe648f99cfba6067dd6593effdfd3f8",
+        "title": "Looking at the bag is not enough to find the bomb: an evasion of structural methods for malicious PDF files detection",
+        "venue": "ASIA CCS '13",
+        "year": 2013,
+        "referenceCount": 36,
+        "citationCount": 151,
+        "authors": [
+          {
+            "authorId": "3248803",
+            "name": "Davide Maiorca"
+          },
+          {
+            "authorId": "2338858",
+            "name": "Igino Corona"
+          },
+          {
+            "authorId": "1779484",
+            "name": "G. Giacinto"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "dca41be5cd98174c8aa64ddcb1f3114f48f98e11",
+        "externalIds": {
+          "MAG": "2082190528",
+          "DBLP": "conf/acsac/SmutzS12",
+          "DOI": "10.1145/2420950.2420987",
+          "CorpusId": 8101476
+        },
+        "url": "https://www.semanticscholar.org/paper/dca41be5cd98174c8aa64ddcb1f3114f48f98e11",
+        "title": "Malicious PDF detection using metadata and structural features",
+        "venue": "Asia-Pacific Computer Systems Architecture Conference",
+        "year": 2012,
+        "referenceCount": 30,
+        "citationCount": 304,
+        "authors": [
+          {
+            "authorId": "2194873",
+            "name": "Charles Smutz"
+          },
+          {
+            "authorId": "1709571",
+            "name": "A. Stavrou"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "96296e8a5db32308ae55654b384501ba51369f35",
+        "externalIds": {
+          "DBLP": "conf/mldm/MaiorcaGC12",
+          "MAG": "1519407765",
+          "DOI": "10.1007/978-3-642-31537-4_40",
+          "CorpusId": 30804510
+        },
+        "url": "https://www.semanticscholar.org/paper/96296e8a5db32308ae55654b384501ba51369f35",
+        "title": "A Pattern Recognition System for Malicious PDF Files Detection",
+        "venue": "IAPR International Conference on Machine Learning and Data Mining in Pattern Recognition",
+        "year": 2012,
+        "referenceCount": 8,
+        "citationCount": 130,
+        "authors": [
+          {
+            "authorId": "3248803",
+            "name": "Davide Maiorca"
+          },
+          {
+            "authorId": "1779484",
+            "name": "G. Giacinto"
+          },
+          {
+            "authorId": "2338858",
+            "name": "Igino Corona"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "990a02f20529f5ce3b382f1d54648afaab391179",
+        "externalIds": {
+          "DBLP": "conf/icml/BiggioNL12",
+          "ArXiv": "1206.6389",
+          "MAG": "2949506549",
+          "CorpusId": 9089716
+        },
+        "url": "https://www.semanticscholar.org/paper/990a02f20529f5ce3b382f1d54648afaab391179",
+        "title": "Poisoning Attacks against Support Vector Machines",
+        "venue": "International Conference on Machine Learning",
+        "year": 2012,
+        "referenceCount": 23,
+        "citationCount": 1802,
+        "authors": [
+          {
+            "authorId": "1684175",
+            "name": "B. Biggio"
+          },
+          {
+            "authorId": "39743720",
+            "name": "B. Nelson"
+          },
+          {
+            "authorId": "1754215",
+            "name": "P. Laskov"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "1733957f16b9502d190c051fbf64aa475c7e6ccb",
+        "externalIds": {
+          "DBLP": "conf/nips/NguyenNT11",
+          "MAG": "2124918466",
+          "ArXiv": "1112.0391",
+          "DOI": "10.1109/TIT.2012.2232347",
+          "CorpusId": 15691159
+        },
+        "url": "https://www.semanticscholar.org/paper/1733957f16b9502d190c051fbf64aa475c7e6ccb",
+        "title": "Robust Lasso With Missing and Grossly Corrupted Observations",
+        "venue": "IEEE Transactions on Information Theory",
+        "year": 2011,
+        "referenceCount": 52,
+        "citationCount": 165,
+        "authors": [
+          {
+            "authorId": "39061724",
+            "name": "Nam H. Nguyen"
+          },
+          {
+            "authorId": "1709073",
+            "name": "T. Tran"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "f34f684f7a4210db05a852da446e5aa3d8b0bd58",
+        "externalIds": {
+          "MAG": "1974314988",
+          "DBLP": "journals/internet/Tygar11",
+          "DOI": "10.1109/MIC.2011.112",
+          "CorpusId": 260444932
+        },
+        "url": "https://www.semanticscholar.org/paper/f34f684f7a4210db05a852da446e5aa3d8b0bd58",
+        "title": "Adversarial Machine Learning",
+        "venue": "IEEE Internet Computing",
+        "year": 2011,
+        "referenceCount": 0,
+        "citationCount": 269,
+        "authors": [
+          {
+            "authorId": "1787610",
+            "name": "J. D. Tygar"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "ad4fd2c149f220a62441576af92a8a669fe81246",
+        "externalIds": {
+          "DBLP": "journals/jmlr/PedregosaVGMTGBPWDVPCBPD11",
+          "ArXiv": "1201.0490",
+          "MAG": "2101234009",
+          "DOI": "10.5555/1953048.2078195",
+          "CorpusId": 10659969
+        },
+        "url": "https://www.semanticscholar.org/paper/ad4fd2c149f220a62441576af92a8a669fe81246",
+        "title": "Scikit-learn: Machine Learning in Python",
+        "venue": "Journal of machine learning research",
+        "year": 2011,
+        "referenceCount": 17,
+        "citationCount": 88067,
+        "authors": [
+          {
+            "authorId": "2570016",
+            "name": "Fabian Pedregosa"
+          },
+          {
+            "authorId": "3025780",
+            "name": "G. Varoquaux"
+          },
+          {
+            "authorId": "1797840",
+            "name": "Alexandre Gramfort"
+          },
+          {
+            "authorId": "52200573",
+            "name": "V. Michel"
+          },
+          {
+            "authorId": "8493461",
+            "name": "B. Thirion"
+          },
+          {
+            "authorId": "2958756",
+            "name": "O. Grisel"
+          },
+          {
+            "authorId": "27257992",
+            "name": "Mathieu Blondel"
+          },
+          {
+            "authorId": "1881041",
+            "name": "Gilles Louppe"
+          },
+          {
+            "authorId": "2780213",
+            "name": "P. Prettenhofer"
+          },
+          {
+            "authorId": "2067827437",
+            "name": "Ron Weiss"
+          },
+          {
+            "authorId": "39571582",
+            "name": "Ron J. Weiss"
+          },
+          {
+            "authorId": "2081469",
+            "name": "J. Vanderplas"
+          },
+          {
+            "authorId": "144720379",
+            "name": "Alexandre Passos"
+          },
+          {
+            "authorId": "3084321",
+            "name": "D. Cournapeau"
+          },
+          {
+            "authorId": "2423884",
+            "name": "M. Brucher"
+          },
+          {
+            "authorId": "35243423",
+            "name": "M. Perrot"
+          },
+          {
+            "authorId": "1710398",
+            "name": "E. Duchesnay"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "afd0859a858481d2f36109f68090aebd77456b7f",
+        "externalIds": {
+          "MAG": "2125908420",
+          "DBLP": "journals/ml/BarrenoNJT10",
+          "DOI": "10.1007/s10994-010-5188-5",
+          "CorpusId": 2304759
+        },
+        "url": "https://www.semanticscholar.org/paper/afd0859a858481d2f36109f68090aebd77456b7f",
+        "title": "The security of machine learning",
+        "venue": "Machine-mediated learning",
+        "year": 2010,
+        "referenceCount": 45,
+        "citationCount": 921,
+        "authors": [
+          {
+            "authorId": "145140480",
+            "name": "Marco Barreno"
+          },
+          {
+            "authorId": "39743720",
+            "name": "B. Nelson"
+          },
+          {
+            "authorId": "1687701",
+            "name": "A. Joseph"
+          },
+          {
+            "authorId": "46245628",
+            "name": "Doug J. Tygar"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "c641fb8f6ff1ac0c6d0d4ad9fbb7d50d8464729b",
+        "externalIds": {
+          "DBLP": "journals/jmlr/KloftL10",
+          "MAG": "1513231349",
+          "CorpusId": 6508749
+        },
+        "url": "https://www.semanticscholar.org/paper/c641fb8f6ff1ac0c6d0d4ad9fbb7d50d8464729b",
+        "title": "Online Anomaly Detection under Adversarial Impact",
+        "venue": "International Conference on Artificial Intelligence and Statistics",
+        "year": 2010,
+        "referenceCount": 22,
+        "citationCount": 157,
+        "authors": [
+          {
+            "authorId": "2749512",
+            "name": "M. Kloft"
+          },
+          {
+            "authorId": "1754215",
+            "name": "P. Laskov"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "0a14824290453b95d051ec9cc299d0f61ad82b23",
+        "externalIds": {
+          "MAG": "2097360283",
+          "DOI": "10.18637/JSS.V033.I01",
+          "CorpusId": 42639,
+          "PubMed": "20808728"
+        },
+        "url": "https://www.semanticscholar.org/paper/0a14824290453b95d051ec9cc299d0f61ad82b23",
+        "title": "Regularization Paths for Generalized Linear Models via Coordinate Descent.",
+        "venue": "Journal of Statistical Software",
+        "year": 2010,
+        "referenceCount": 54,
+        "citationCount": 18030,
+        "authors": [
+          {
+            "authorId": "3056361",
+            "name": "J. Friedman"
+          },
+          {
+            "authorId": "1784682",
+            "name": "T. Hastie"
+          },
+          {
+            "authorId": "1761784",
+            "name": "R. Tibshirani"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "1bd10813ade534b5500e92600d909bacb514138d",
+        "externalIds": {
+          "DBLP": "conf/imc/RubinsteinNHJLRTT09",
+          "MAG": "2007562169",
+          "DOI": "10.1145/1644893.1644895",
+          "CorpusId": 1553099
+        },
+        "url": "https://www.semanticscholar.org/paper/1bd10813ade534b5500e92600d909bacb514138d",
+        "title": "ANTIDOTE: understanding and defending against poisoning of anomaly detectors",
+        "venue": "ACM/SIGCOMM Internet Measurement Conference",
+        "year": 2009,
+        "referenceCount": 33,
+        "citationCount": 426,
+        "authors": [
+          {
+            "authorId": "1868067",
+            "name": "Benjamin I. P. Rubinstein"
+          },
+          {
+            "authorId": "39743720",
+            "name": "B. Nelson"
+          },
+          {
+            "authorId": "50055322",
+            "name": "Ling Huang"
+          },
+          {
+            "authorId": "1687701",
+            "name": "A. Joseph"
+          },
+          {
+            "authorId": "145167938",
+            "name": "S. Lau"
+          },
+          {
+            "authorId": "145074802",
+            "name": "Satish Rao"
+          },
+          {
+            "authorId": "2703784",
+            "name": "N. Taft"
+          },
+          {
+            "authorId": "1787610",
+            "name": "J. D. Tygar"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "a84f4fe31fcfb4ad92c995dba0fc09ed8fe6a4f4",
+        "externalIds": {
+          "MAG": "2162552722",
+          "DBLP": "conf/nsdi/NelsonBCJRSSTX08",
+          "CorpusId": 15667091
+        },
+        "url": "https://www.semanticscholar.org/paper/a84f4fe31fcfb4ad92c995dba0fc09ed8fe6a4f4",
+        "title": "Exploiting Machine Learning to Subvert Your Spam Filter",
+        "venue": "USENIX Workshop on Large-Scale Exploits and Emergent Threats",
+        "year": 2008,
+        "referenceCount": 20,
+        "citationCount": 396,
+        "authors": [
+          {
+            "authorId": "39743720",
+            "name": "B. Nelson"
+          },
+          {
+            "authorId": "145140480",
+            "name": "Marco Barreno"
+          },
+          {
+            "authorId": "1852911",
+            "name": "F. J. Chi"
+          },
+          {
+            "authorId": "1687701",
+            "name": "A. Joseph"
+          },
+          {
+            "authorId": "1868067",
+            "name": "Benjamin I. P. Rubinstein"
+          },
+          {
+            "authorId": "39708572",
+            "name": "Udam Saini"
+          },
+          {
+            "authorId": "37210858",
+            "name": "Charles Sutton"
+          },
+          {
+            "authorId": "1787610",
+            "name": "J. D. Tygar"
+          },
+          {
+            "authorId": "2065015702",
+            "name": "Kai Xia"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "08cbed1690fb778b06343450ebe4f33057d5742a",
+        "externalIds": {
+          "DBLP": "conf/nips/TeoGRS07",
+          "MAG": "2142992973",
+          "CorpusId": 1421864
+        },
+        "url": "https://www.semanticscholar.org/paper/08cbed1690fb778b06343450ebe4f33057d5742a",
+        "title": "Convex Learning with Invariances",
+        "venue": "Neural Information Processing Systems",
+        "year": 2007,
+        "referenceCount": 16,
+        "citationCount": 113,
+        "authors": [
+          {
+            "authorId": "37077406",
+            "name": "C. Teo"
+          },
+          {
+            "authorId": "1786843",
+            "name": "A. Globerson"
+          },
+          {
+            "authorId": "9330607",
+            "name": "S. Roweis"
+          },
+          {
+            "authorId": "46234526",
+            "name": "Alex Smola"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "9c4f006d5547cddecef588e66ab6b33e6845b33a",
+        "externalIds": {
+          "DBLP": "conf/aia/Kuncheva07",
+          "MAG": "144440563",
+          "CorpusId": 14612454
+        },
+        "url": "https://www.semanticscholar.org/paper/9c4f006d5547cddecef588e66ab6b33e6845b33a",
+        "title": "A stability index for feature selection",
+        "venue": "Artificial Intelligence and Applications",
+        "year": 2007,
+        "referenceCount": 16,
+        "citationCount": 450,
+        "authors": [
+          {
+            "authorId": "1743073",
+            "name": "L. Kuncheva"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "6dd9bb6b38e5b84616e207f00a181dbadce06937",
+        "externalIds": {
+          "MAG": "2114296159",
+          "DBLP": "conf/icml/GlobersonR06",
+          "DOI": "10.1145/1143844.1143889",
+          "CorpusId": 2116006
+        },
+        "url": "https://www.semanticscholar.org/paper/6dd9bb6b38e5b84616e207f00a181dbadce06937",
+        "title": "Nightmare at test time: robust learning by feature deletion",
+        "venue": "International Conference on Machine Learning",
+        "year": 2006,
+        "referenceCount": 13,
+        "citationCount": 365,
+        "authors": [
+          {
+            "authorId": "1786843",
+            "name": "A. Globerson"
+          },
+          {
+            "authorId": "9330607",
+            "name": "S. Roweis"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "5f198e9f1a6cace1fcee5ec53f5d35d9d83af6b7",
+        "externalIds": {
+          "DBLP": "conf/ccs/BarrenoNSJT06",
+          "MAG": "2151298633",
+          "DOI": "10.1145/1128817.1128824",
+          "CorpusId": 15523031
+        },
+        "url": "https://www.semanticscholar.org/paper/5f198e9f1a6cace1fcee5ec53f5d35d9d83af6b7",
+        "title": "Can machine learning be secure?",
+        "venue": "ACM Asia Conference on Computer and Communications Security",
+        "year": 2006,
+        "referenceCount": 44,
+        "citationCount": 1003,
+        "authors": [
+          {
+            "authorId": "145140480",
+            "name": "Marco Barreno"
+          },
+          {
+            "authorId": "39743720",
+            "name": "B. Nelson"
+          },
+          {
+            "authorId": "145879573",
+            "name": "Russell Sears"
+          },
+          {
+            "authorId": "1687701",
+            "name": "A. Joseph"
+          },
+          {
+            "authorId": "1787610",
+            "name": "J. D. Tygar"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "e9fde5617b15623d1151d152671626df06aa5c2a",
+        "externalIds": {
+          "MAG": "1993273815",
+          "DOI": "10.1111/j.1467-9868.2005.00527.x",
+          "CorpusId": 14134075
+        },
+        "url": "https://www.semanticscholar.org/paper/e9fde5617b15623d1151d152671626df06aa5c2a",
+        "title": "Addendum: Regularization and variable selection via the elastic net",
+        "venue": "",
+        "year": 2005,
+        "referenceCount": 2,
+        "citationCount": 9655,
+        "authors": [
+          {
+            "authorId": "48861660",
+            "name": "H. Zou"
+          },
+          {
+            "authorId": "1784682",
+            "name": "T. Hastie"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "6f006a3895dd8fb24f83235a67f2fe72418aa800",
+        "externalIds": {
+          "MAG": "2296452361",
+          "DBLP": "conf/kdd/LowdM05",
+          "DOI": "10.1145/1081870.1081950",
+          "CorpusId": 6259400
+        },
+        "url": "https://www.semanticscholar.org/paper/6f006a3895dd8fb24f83235a67f2fe72418aa800",
+        "title": "Adversarial learning",
+        "venue": "Knowledge Discovery and Data Mining",
+        "year": 2005,
+        "referenceCount": 7,
+        "citationCount": 911,
+        "authors": [
+          {
+            "authorId": "3021654",
+            "name": "Daniel Lowd"
+          },
+          {
+            "authorId": "50004012",
+            "name": "Christopher Meek"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "d94f56e7ef07b6e785b830e41da30c257b9a6ece",
+        "externalIds": {
+          "DBLP": "conf/kdd/DalviDMSV04",
+          "MAG": "2293768274",
+          "DOI": "10.1145/1014052.1014066",
+          "CorpusId": 14134514
+        },
+        "url": "https://www.semanticscholar.org/paper/d94f56e7ef07b6e785b830e41da30c257b9a6ece",
+        "title": "Adversarial classification",
+        "venue": "Knowledge Discovery and Data Mining",
+        "year": 2004,
+        "referenceCount": 32,
+        "citationCount": 1063,
+        "authors": [
+          {
+            "authorId": "1923209",
+            "name": "Nilesh N. Dalvi"
+          },
+          {
+            "authorId": "1740213",
+            "name": "Pedro M. Domingos"
+          },
+          {
+            "authorId": "2674444",
+            "name": "Mausam"
+          },
+          {
+            "authorId": "144074891",
+            "name": "Sumit K. Sanghai"
+          },
+          {
+            "authorId": "144130626",
+            "name": "D. Verma"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "07fd3e62d2d6eaa6e65da15ceecc9bec067e1c5b",
+        "externalIds": {
+          "MAG": "1605925311",
+          "CorpusId": 60902641
+        },
+        "url": "https://www.semanticscholar.org/paper/07fd3e62d2d6eaa6e65da15ceecc9bec067e1c5b",
+        "title": "A statistical approach to the spam problem",
+        "venue": "",
+        "year": 2003,
+        "referenceCount": 0,
+        "citationCount": 147,
+        "authors": [
+          {
+            "authorId": "2058542881",
+            "name": "Gary Robinson"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "669d5738698653184b345b4e6fd2e13529aadba4",
+        "externalIds": {
+          "MAG": "1517527854",
+          "CorpusId": 109423857
+        },
+        "url": "https://www.semanticscholar.org/paper/669d5738698653184b345b4e6fd2e13529aadba4",
+        "title": "Honeypots: Tracking Hackers",
+        "venue": "",
+        "year": 2002,
+        "referenceCount": 12,
+        "citationCount": 855,
+        "authors": [
+          {
+            "authorId": "3201217",
+            "name": "L. Spitzner"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "1473110f6c33b483251ade10b79416d3efee2da4",
+        "externalIds": {
+          "MAG": "150485590",
+          "DBLP": "journals/technometrics/HoerlK00",
+          "DOI": "10.1080/00401706.2000.10485983",
+          "CorpusId": 28142999
+        },
+        "url": "https://www.semanticscholar.org/paper/1473110f6c33b483251ade10b79416d3efee2da4",
+        "title": "Ridge Regression: Biased Estimation for Nonorthogonal Problems",
+        "venue": "Technometrics",
+        "year": 2000,
+        "referenceCount": 21,
+        "citationCount": 12104,
+        "authors": [
+          {
+            "authorId": "32183271",
+            "name": "A. E. Hoerl"
+          },
+          {
+            "authorId": "94158926",
+            "name": "R. Kennard"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "916177807ecbf0d78f2f64d756d4cecbaa3102a3",
+        "externalIds": {
+          "MAG": "1648885110",
+          "CorpusId": 5301578
+        },
+        "url": "https://www.semanticscholar.org/paper/916177807ecbf0d78f2f64d756d4cecbaa3102a3",
+        "title": "A Bayesian Approach to Filtering Junk E-Mail",
+        "venue": "AAAI Conference on Artificial Intelligence",
+        "year": 1998,
+        "referenceCount": 21,
+        "citationCount": 1672,
+        "authors": [
+          {
+            "authorId": "1764547",
+            "name": "M. Sahami"
+          },
+          {
+            "authorId": "1728602",
+            "name": "S. Dumais"
+          },
+          {
+            "authorId": "48099028",
+            "name": "D. Heckerman"
+          },
+          {
+            "authorId": "145479841",
+            "name": "E. Horvitz"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "f6295fd69d76d606f66cc15f58767a8161d60335",
+        "externalIds": {
+          "DBLP": "journals/siamcomp/Natarajan95",
+          "MAG": "2028781966",
+          "DOI": "10.1137/S0097539792240406",
+          "CorpusId": 2072045
+        },
+        "url": "https://www.semanticscholar.org/paper/f6295fd69d76d606f66cc15f58767a8161d60335",
+        "title": "Sparse Approximate Solutions to Linear Systems",
+        "venue": "SIAM journal on computing (Print)",
+        "year": 1995,
+        "referenceCount": 10,
+        "citationCount": 2967,
+        "authors": [
+          {
+            "authorId": "39419622",
+            "name": "B. Natarajan"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "3600e01abb8e3a05fdd7a52207f3f875ebabe47b",
+        "externalIds": {
+          "DBLP": "conf/ndss/SrndicL13",
+          "MAG": "2401293755",
+          "CorpusId": 1458246
+        },
+        "url": "https://www.semanticscholar.org/paper/3600e01abb8e3a05fdd7a52207f3f875ebabe47b",
+        "title": "Detection of Malicious PDF Files Based on Hierarchical Document Structure",
+        "venue": "Network and Distributed System Security Symposium",
+        "year": 2013,
+        "referenceCount": 43,
+        "citationCount": 212,
+        "authors": [
+          {
+            "authorId": "2118348",
+            "name": "Nedim Srndic"
+          },
+          {
+            "authorId": "1754215",
+            "name": "P. Laskov"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "4850442c8db48500ada13a060c4d1584a575de81",
+        "externalIds": {
+          "MAG": "2097860933",
+          "DBLP": "journals/jmlr/BrucknerKS12",
+          "DOI": "10.5555/2503308.2503326",
+          "CorpusId": 119150
+        },
+        "url": "https://www.semanticscholar.org/paper/4850442c8db48500ada13a060c4d1584a575de81",
+        "title": "Static prediction games for adversarial learning problems",
+        "venue": "Journal of machine learning research",
+        "year": 2012,
+        "referenceCount": 20,
+        "citationCount": 215,
+        "authors": [
+          {
+            "authorId": "2057847091",
+            "name": "Michael Brückner"
+          },
+          {
+            "authorId": "1740448",
+            "name": "C. Kanzow"
+          },
+          {
+            "authorId": "1751348",
+            "name": "T. Scheffer"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "2bf64ef156ad46ea94c8b84bd106bc07ad11f7d6",
+        "externalIds": {
+          "DBLP": "journals/jmlr/BrownPZL12",
+          "MAG": "2156504490",
+          "DOI": "10.5555/2503308.2188387",
+          "CorpusId": 6621217
+        },
+        "url": "https://www.semanticscholar.org/paper/2bf64ef156ad46ea94c8b84bd106bc07ad11f7d6",
+        "title": "Conditional Likelihood Maximisation: A Unifying Framework for Information Theoretic Feature Selection",
+        "venue": "Journal of machine learning research",
+        "year": 2012,
+        "referenceCount": 45,
+        "citationCount": 1233,
+        "authors": [
+          {
+            "authorId": "145485821",
+            "name": "Gavin Brown"
+          },
+          {
+            "authorId": "3058661",
+            "name": "Adam Craig Pocock"
+          },
+          {
+            "authorId": "2025190",
+            "name": "Ming-Jie Zhao"
+          },
+          {
+            "authorId": "145141724",
+            "name": "M. Luján"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "A plan for spam",
+        "venue": "http:// paulgraham.com/spam.html",
+        "year": 2002,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "e3948c28d605e0d90e88e160556cfc14fbba57c8",
+        "externalIds": {
+          "MAG": "2108807072",
+          "DBLP": "conf/nips/CauwenberghsP00",
+          "CorpusId": 2235233
+        },
+        "url": "https://www.semanticscholar.org/paper/e3948c28d605e0d90e88e160556cfc14fbba57c8",
+        "title": "Incremental and Decremental Support Vector Machine Learning",
+        "venue": "Neural Information Processing Systems",
+        "year": 2000,
+        "referenceCount": 16,
+        "citationCount": 1418,
+        "authors": [
+          {
+            "authorId": "2702388",
+            "name": "G. Cauwenberghs"
+          },
+          {
+            "authorId": "1685292",
+            "name": "T. Poggio"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "04ce064505b1635583fa0d9cc07cac7e9ea993cc",
+        "externalIds": {
+          "MAG": "1550206324",
+          "CorpusId": 7311285
+        },
+        "url": "https://www.semanticscholar.org/paper/04ce064505b1635583fa0d9cc07cac7e9ea993cc",
+        "title": "A comparison of event models for naive bayes text classification",
+        "venue": "AAAI Conference on Artificial Intelligence",
+        "year": 1998,
+        "referenceCount": 37,
+        "citationCount": 4364,
+        "authors": [
+          {
+            "authorId": "143753639",
+            "name": "A. McCallum"
+          },
+          {
+            "authorId": "145172877",
+            "name": "K. Nigam"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "b365b8e45b7d81f081de44ac8f9eadf9144f3ca5",
+        "externalIds": {
+          "MAG": "2135046866",
+          "DOI": "10.1111/J.2517-6161.1996.TB02080.X",
+          "CorpusId": 16162039
+        },
+        "url": "https://www.semanticscholar.org/paper/b365b8e45b7d81f081de44ac8f9eadf9144f3ca5",
+        "title": "Regression Shrinkage and Selection via the Lasso",
+        "venue": "",
+        "year": 1996,
+        "referenceCount": 25,
+        "citationCount": 51233,
+        "authors": [
+          {
+            "authorId": "1761784",
+            "name": "R. Tibshirani"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "Is Feature Selection Secure against Training Data Poisoning?",
+        "venue": "",
+        "year": null,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "Lowd , Daniel and Meek , Christopher . Adversarial learn",
+        "venue": "Proc . 11 th ACM SIGKDD Int ’ l Conf . on Knowl . Disc . and Data Mining",
+        "year": null,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "1033d175510a18040ab0eb5042fb735b8c91ca55",
+        "externalIds": {
+          "CorpusId": 33305321
+        },
+        "url": "https://www.semanticscholar.org/paper/1033d175510a18040ab0eb5042fb735b8c91ca55",
+        "title": "Report from Dagstuhl Perpectives Workshop 12371 Machine Learning Methods for Computer Security Edited by",
+        "venue": "",
+        "year": null,
+        "referenceCount": 0,
+        "citationCount": 52,
+        "authors": []
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "IBM. The X-Force threat and risk report",
+        "venue": "IBM. The X-Force threat and risk report",
+        "year": null,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    }
+  ]
+}

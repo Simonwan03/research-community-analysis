@@ -1,0 +1,429 @@
+{
+  "total": 63,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "3ff0af64279929a952ee340e645256b7e0580f65",
+      "externalIds": {
+        "DBLP": "conf/icml/DevlinUBSMK17",
+        "MAG": "2601273560",
+        "ArXiv": "1703.07469",
+        "CorpusId": 6933074
+      },
+      "url": "https://www.semanticscholar.org/paper/3ff0af64279929a952ee340e645256b7e0580f65",
+      "title": "RobustFill: Neural Program Learning under Noisy I/O",
+      "venue": "International Conference on Machine Learning",
+      "year": 2017,
+      "referenceCount": 36,
+      "citationCount": 411,
+      "authors": [
+        {
+          "authorId": "39172707",
+          "name": "Jacob Devlin"
+        },
+        {
+          "authorId": "9960452",
+          "name": "Jonathan Uesato"
+        },
+        {
+          "authorId": "9692128",
+          "name": "Surya Bhupatiraju"
+        },
+        {
+          "authorId": "50631599",
+          "name": "Rishabh Singh"
+        },
+        {
+          "authorId": "40360972",
+          "name": "Abdel-rahman Mohamed"
+        },
+        {
+          "authorId": "143967473",
+          "name": "Pushmeet Kohli"
+        }
+      ]
+    },
+    {
+      "paperId": "08ac634a294a1720208d5ea33b531ef430914df0",
+      "externalIds": {
+        "CorpusId": 48799169
+      },
+      "url": "https://www.semanticscholar.org/paper/08ac634a294a1720208d5ea33b531ef430914df0",
+      "title": "Supplementary Material for RobustFill: Neural Program Learning under Noisy I/O",
+      "venue": "",
+      "year": 2017,
+      "referenceCount": 0,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2053629198",
+          "name": "Mason Smith Mason"
+        }
+      ]
+    },
+    {
+      "paperId": "fdd23bd4c3b8122ae15eeab2a1bffada076d9672",
+      "externalIds": {
+        "MAG": "3104702295",
+        "DBLP": "conf/nips/Dang-Nhu20",
+        "CorpusId": 227276505
+      },
+      "url": "https://www.semanticscholar.org/paper/fdd23bd4c3b8122ae15eeab2a1bffada076d9672",
+      "title": "PLANS: Neuro-Symbolic Program Learning from Videos",
+      "venue": "Neural Information Processing Systems",
+      "year": 2020,
+      "referenceCount": 49,
+      "citationCount": 18,
+      "authors": [
+        {
+          "authorId": "1410212716",
+          "name": "Raphaël Dang-Nhu"
+        }
+      ]
+    },
+    {
+      "paperId": "568361dfdf2534bd08edef34c295142fa5c7fd81",
+      "externalIds": {
+        "MAG": "3033883717",
+        "DBLP": "journals/corr/abs-2006-03312",
+        "ArXiv": "2006.03312",
+        "CorpusId": 219401804
+      },
+      "url": "https://www.semanticscholar.org/paper/568361dfdf2534bd08edef34c295142fa5c7fd81",
+      "title": "PLANS: Robust Program Learning from Neurally Inferred Specifications",
+      "venue": "arXiv.org",
+      "year": 2020,
+      "referenceCount": 52,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "1410212716",
+          "name": "Raphaël Dang-Nhu"
+        }
+      ]
+    },
+    {
+      "paperId": "bfb50819f9ec3b5f0f0eb6c8dd876ea8e807cf10",
+      "externalIds": {
+        "DOI": "10.1109/TC.2026.3661114",
+        "CorpusId": 285373897
+      },
+      "url": "https://www.semanticscholar.org/paper/bfb50819f9ec3b5f0f0eb6c8dd876ea8e807cf10",
+      "title": "Efficient Memristor Neural Networks for Edge AI: On-Chip Learning, Noise Robustness, Device-Variation Tolerance, and Sublinear Energy and Time Scaling",
+      "venue": "IEEE transactions on computers",
+      "year": 2026,
+      "referenceCount": 47,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2317008749",
+          "name": "M. Eslami"
+        },
+        {
+          "authorId": "2300723785",
+          "name": "Dhiman Biswas"
+        },
+        {
+          "authorId": "2280502997",
+          "name": "Soheib Takhtardeshir"
+        },
+        {
+          "authorId": "2291628095",
+          "name": "S. Sharif"
+        },
+        {
+          "authorId": "2223595637",
+          "name": "Y. Banad"
+        }
+      ]
+    },
+    {
+      "paperId": "0c253bb9aee9aa1ae7909700eda845bd3124197f",
+      "externalIds": {
+        "ArXiv": "1710.04157",
+        "MAG": "2963220331",
+        "DBLP": "journals/corr/abs-1710-04157",
+        "CorpusId": 19504559
+      },
+      "url": "https://www.semanticscholar.org/paper/0c253bb9aee9aa1ae7909700eda845bd3124197f",
+      "title": "Neural Program Meta-Induction",
+      "venue": "Neural Information Processing Systems",
+      "year": 2017,
+      "referenceCount": 22,
+      "citationCount": 74,
+      "authors": [
+        {
+          "authorId": "39172707",
+          "name": "Jacob Devlin"
+        },
+        {
+          "authorId": "3407947",
+          "name": "Rudy Bunel"
+        },
+        {
+          "authorId": "50631599",
+          "name": "Rishabh Singh"
+        },
+        {
+          "authorId": "3308897",
+          "name": "Matthew J. Hausknecht"
+        },
+        {
+          "authorId": "143967473",
+          "name": "Pushmeet Kohli"
+        }
+      ]
+    },
+    {
+      "paperId": "dd21f3602898d4510ecf5bf0053cf4e131887c71",
+      "externalIds": {
+        "ArXiv": "2603.16365",
+        "CorpusId": 286584164
+      },
+      "url": "https://www.semanticscholar.org/paper/dd21f3602898d4510ecf5bf0053cf4e131887c71",
+      "title": "FactorEngine: A Program-level Knowledge-Infused Factor Mining Framework for Quantitative Investment",
+      "venue": "",
+      "year": 2026,
+      "referenceCount": 27,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2330762498",
+          "name": "Qinhong Lin"
+        },
+        {
+          "authorId": "2370789877",
+          "name": "Ruitao Feng"
+        },
+        {
+          "authorId": "2351252167",
+          "name": "Yinglun Feng"
+        },
+        {
+          "authorId": "2374085352",
+          "name": "Zhen-li Huang"
+        },
+        {
+          "authorId": "2323857898",
+          "name": "Yukun Chen"
+        },
+        {
+          "authorId": "2351321913",
+          "name": "Zhongliang Yang"
+        },
+        {
+          "authorId": "2300029622",
+          "name": "Linna Zhou"
+        },
+        {
+          "authorId": "2366076487",
+          "name": "Binjie Fei"
+        },
+        {
+          "authorId": "2366145767",
+          "name": "Jiaqi Liu"
+        },
+        {
+          "authorId": "2403242603",
+          "name": "Yu Li"
+        }
+      ]
+    },
+    {
+      "paperId": "dc241442ddfa91434c2bc2adf2c9788a9c4fc4ae",
+      "externalIds": {
+        "CorpusId": 259769287
+      },
+      "url": "https://www.semanticscholar.org/paper/dc241442ddfa91434c2bc2adf2c9788a9c4fc4ae",
+      "title": "Symbolic Regression using a Transformer Neural Network trained with Supervised and Reinforcement Learning",
+      "venue": "",
+      "year": 2022,
+      "referenceCount": 65,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2222832358",
+          "name": "Alex Ferrando de las Morenas"
+        },
+        {
+          "authorId": "2168378923",
+          "name": "R. Braatz"
+        }
+      ]
+    },
+    {
+      "paperId": "4f962c18dfa8ccda502e3dd94531bc9a7ef303c7",
+      "externalIds": {
+        "DBLP": "conf/xsede/HoangR23",
+        "DOI": "10.1145/3569951.3597581",
+        "CorpusId": 261661681
+      },
+      "url": "https://www.semanticscholar.org/paper/4f962c18dfa8ccda502e3dd94531bc9a7ef303c7",
+      "title": "Machine Learning Potential Function Generation for ab initio Electronic Structure Calculations",
+      "venue": "Practice and Experience in Advanced Research Computing",
+      "year": 2023,
+      "referenceCount": 4,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2238633957",
+          "name": "Duong Thuy Hoang"
+        },
+        {
+          "authorId": "12155653",
+          "name": "P. Rulis"
+        }
+      ]
+    },
+    {
+      "paperId": "3b0b3adeba9637018a660b1dc5882cb6de0721b3",
+      "externalIds": {
+        "MAG": "3016082253",
+        "DBLP": "conf/isscc/JiaoHJSHYLCCLHY20",
+        "DOI": "10.1109/ISSCC19947.2020.9062984",
+        "CorpusId": 215800128
+      },
+      "url": "https://www.semanticscholar.org/paper/3b0b3adeba9637018a660b1dc5882cb6de0721b3",
+      "title": "7.2 A 12nm Programmable Convolution-Efficient Neural-Processing-Unit Chip Achieving 825TOPS",
+      "venue": "IEEE International Solid-State Circuits Conference",
+      "year": 2020,
+      "referenceCount": 10,
+      "citationCount": 44,
+      "authors": [
+        {
+          "authorId": "2055181577",
+          "name": "Yang Jiao"
+        },
+        {
+          "authorId": "2118503263",
+          "name": "Liang Han"
+        },
+        {
+          "authorId": "144723884",
+          "name": "Rong Jin"
+        },
+        {
+          "authorId": "2176720629",
+          "name": "Yigang Su"
+        },
+        {
+          "authorId": "1637414655",
+          "name": "Chiente Ho"
+        },
+        {
+          "authorId": "2114017873",
+          "name": "Li Yin"
+        },
+        {
+          "authorId": "2117015693",
+          "name": "Yun Li"
+        },
+        {
+          "authorId": "2145116578",
+          "name": "Long Chen"
+        },
+        {
+          "authorId": "2117102546",
+          "name": "Zhen Chen"
+        },
+        {
+          "authorId": "2118467676",
+          "name": "Lu Liu"
+        },
+        {
+          "authorId": "1637960392",
+          "name": "Zhuyu He"
+        },
+        {
+          "authorId": "2289090394",
+          "name": "Yuanmeng Yan"
+        },
+        {
+          "authorId": "2158107462",
+          "name": "Junying He"
+        },
+        {
+          "authorId": "153273597",
+          "name": "Jun Mao"
+        },
+        {
+          "authorId": "1637946570",
+          "name": "Xiaotao Zai"
+        },
+        {
+          "authorId": "2210623084",
+          "name": "Xue Wu"
+        },
+        {
+          "authorId": "47943127",
+          "name": "Yongquan Zhou"
+        },
+        {
+          "authorId": "1638031768",
+          "name": "M. Gu"
+        },
+        {
+          "authorId": "2114036258",
+          "name": "Guocai Zhu"
+        },
+        {
+          "authorId": "1637410020",
+          "name": "Rong Zhong"
+        },
+        {
+          "authorId": "2115704249",
+          "name": "Wenyuan Lee"
+        },
+        {
+          "authorId": "2154414983",
+          "name": "Ping Chen"
+        },
+        {
+          "authorId": "2109381771",
+          "name": "Yiping Chen"
+        },
+        {
+          "authorId": "2108746853",
+          "name": "Weiliang Li"
+        },
+        {
+          "authorId": "2365131823",
+          "name": "D. Xiao"
+        },
+        {
+          "authorId": "2072780563",
+          "name": "Qing Yan"
+        },
+        {
+          "authorId": "2106064963",
+          "name": "Mingyuan Zhuang"
+        },
+        {
+          "authorId": "2155101614",
+          "name": "Jiejun Chen"
+        },
+        {
+          "authorId": "2157708412",
+          "name": "Yun Tian"
+        },
+        {
+          "authorId": "2117033591",
+          "name": "Yingzi Lin"
+        },
+        {
+          "authorId": "47203086",
+          "name": "Wei Wu"
+        },
+        {
+          "authorId": "2157147022",
+          "name": "Hao Li"
+        },
+        {
+          "authorId": "1637947036",
+          "name": "Zesheng Dou"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,272 @@
+{
+  "total": 2539,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "9612f93438f9deb865f19f9bbbfa069029c81fbe",
+      "externalIds": {
+        "MAG": "2949422405",
+        "DBLP": "conf/icml/KrishnamurthyWS18",
+        "ArXiv": "1803.04204",
+        "CorpusId": 3884028
+      },
+      "url": "https://www.semanticscholar.org/paper/9612f93438f9deb865f19f9bbbfa069029c81fbe",
+      "title": "Semiparametric Contextual Bandits",
+      "venue": "International Conference on Machine Learning",
+      "year": 2018,
+      "referenceCount": 37,
+      "citationCount": 47,
+      "authors": [
+        {
+          "authorId": "37019006",
+          "name": "A. Krishnamurthy"
+        },
+        {
+          "authorId": "1768074",
+          "name": "Zhiwei Steven Wu"
+        },
+        {
+          "authorId": "3043674",
+          "name": "Vasilis Syrgkanis"
+        }
+      ]
+    },
+    {
+      "paperId": "7748524ccb36834b94806671302d8ca3dd9817eb",
+      "externalIds": {
+        "CorpusId": 265100462
+      },
+      "url": "https://www.semanticscholar.org/paper/7748524ccb36834b94806671302d8ca3dd9817eb",
+      "title": "Semiparametric Contextual Bandits",
+      "venue": "",
+      "year": 2018,
+      "referenceCount": 0,
+      "citationCount": 0,
+      "authors": []
+    },
+    {
+      "paperId": "8a69919888420871699119ab829a713f4c1fcc75",
+      "externalIds": {
+        "ArXiv": "2603.18938",
+        "CorpusId": 286673372
+      },
+      "url": "https://www.semanticscholar.org/paper/8a69919888420871699119ab829a713f4c1fcc75",
+      "title": "Kernel Single-Index Bandits: Estimation, Inference, and Learning",
+      "venue": "",
+      "year": 2026,
+      "referenceCount": 0,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2348265924",
+          "name": "Sakshi Arya"
+        },
+        {
+          "authorId": "2257506365",
+          "name": "Satarupa Bhattacharjee"
+        },
+        {
+          "authorId": "3313411",
+          "name": "Bharath K. Sriperumbudur"
+        }
+      ]
+    },
+    {
+      "paperId": "baf8acffd7472b9155a6cab71f83d750ad6fdbd1",
+      "externalIds": {
+        "ArXiv": "2404.01830",
+        "DBLP": "journals/corr/abs-2404-01830",
+        "DOI": "10.48550/arXiv.2404.01830",
+        "CorpusId": 268856509
+      },
+      "url": "https://www.semanticscholar.org/paper/baf8acffd7472b9155a6cab71f83d750ad6fdbd1",
+      "title": "Doubly-Robust Off-Policy Evaluation with Estimated Logging Policy",
+      "venue": "arXiv.org",
+      "year": 2024,
+      "referenceCount": 21,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "71486814",
+          "name": "Kyungbok Lee"
+        },
+        {
+          "authorId": "1893021",
+          "name": "M. Paik"
+        }
+      ]
+    },
+    {
+      "paperId": "e60e0bbbd2d5c853c0aaae04ed6a9531122ba1ca",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-1906-03735",
+        "MAG": "2970045071",
+        "ArXiv": "1906.03735",
+        "CorpusId": 182952756
+      },
+      "url": "https://www.semanticscholar.org/paper/e60e0bbbd2d5c853c0aaae04ed6a9531122ba1ca",
+      "title": "Intrinsically Efficient, Stable, and Bounded Off-Policy Evaluation for Reinforcement Learning",
+      "venue": "Neural Information Processing Systems",
+      "year": 2019,
+      "referenceCount": 37,
+      "citationCount": 60,
+      "authors": [
+        {
+          "authorId": "3174388",
+          "name": "Nathan Kallus"
+        },
+        {
+          "authorId": "51228100",
+          "name": "Masatoshi Uehara"
+        }
+      ]
+    },
+    {
+      "paperId": "7f68c2635ccec4ba3b625961b9ed40d2aff95ce5",
+      "externalIds": {
+        "DOI": "10.1145/3785706.3785956",
+        "CorpusId": 284861440
+      },
+      "url": "https://www.semanticscholar.org/paper/7f68c2635ccec4ba3b625961b9ed40d2aff95ce5",
+      "title": "Real-Time Fair-Exposure Ad Allocation for SMBs and Underserved Creators via Contextual Bandits-with-Knapsacks",
+      "venue": "Proceedings of the 2025 2nd International Conference on Digital Economy and Computer Science",
+      "year": 2025,
+      "referenceCount": 14,
+      "citationCount": 15,
+      "authors": [
+        {
+          "authorId": "2405422968",
+          "name": "Xiongsheng Yi"
+        }
+      ]
+    },
+    {
+      "paperId": "413be1e55823c5443b2c94f8e1b24d6195da67f6",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2506-17670",
+        "ArXiv": "2506.17670",
+        "DOI": "10.48550/arXiv.2506.17670",
+        "CorpusId": 280000235
+      },
+      "url": "https://www.semanticscholar.org/paper/413be1e55823c5443b2c94f8e1b24d6195da67f6",
+      "title": "Online Multi-LLM Selection via Contextual Bandits under Unstructured Context Evolution",
+      "venue": "AAAI Conference on Artificial Intelligence",
+      "year": 2025,
+      "referenceCount": 24,
+      "citationCount": 10,
+      "authors": [
+        {
+          "authorId": "120767685",
+          "name": "M. Poon"
+        },
+        {
+          "authorId": "2303941298",
+          "name": "Xiangxiang Dai"
+        },
+        {
+          "authorId": "2202278",
+          "name": "Xutong Liu"
+        },
+        {
+          "authorId": "2112394890",
+          "name": "Fang-yuan Kong"
+        },
+        {
+          "authorId": "2253686436",
+          "name": "John C. S. Lui"
+        },
+        {
+          "authorId": "3399139",
+          "name": "Jinhang Zuo"
+        }
+      ]
+    },
+    {
+      "paperId": "447df28a2096ace10ca6e7ac7d849a0130c308ad",
+      "externalIds": {
+        "ArXiv": "2505.21393",
+        "DBLP": "journals/corr/abs-2505-21393",
+        "DOI": "10.1145/3711896.3737025",
+        "CorpusId": 278911619
+      },
+      "url": "https://www.semanticscholar.org/paper/447df28a2096ace10ca6e7ac7d849a0130c308ad",
+      "title": "Leveraging the Power of Conversations: Optimal Key Term Selection in Conversational Contextual Bandits",
+      "venue": "Knowledge Discovery and Data Mining",
+      "year": 2025,
+      "referenceCount": 32,
+      "citationCount": 4,
+      "authors": [
+        {
+          "authorId": "2192334582",
+          "name": "Maoli Liu"
+        },
+        {
+          "authorId": "2128032002",
+          "name": "Zhuohua Li"
+        },
+        {
+          "authorId": "2303941298",
+          "name": "Xiangxiang Dai"
+        },
+        {
+          "authorId": "2273096112",
+          "name": "John C. S. Lui"
+        }
+      ]
+    },
+    {
+      "paperId": "9f47eac19074e446dfe1d39d301b3d5cb3a527e9",
+      "externalIds": {
+        "DOI": "10.1080/10543406.2025.2469877",
+        "CorpusId": 276673140,
+        "PubMed": "40017226"
+      },
+      "url": "https://www.semanticscholar.org/paper/9f47eac19074e446dfe1d39d301b3d5cb3a527e9",
+      "title": "Optimal dose selection in phase I/II dose finding trial with contextual bandits: a case study and practical recommendations",
+      "venue": "Journal of Biopharmaceutical Statistics",
+      "year": 2025,
+      "referenceCount": 28,
+      "citationCount": 4,
+      "authors": [
+        {
+          "authorId": "2314073895",
+          "name": "Jixian Wang"
+        },
+        {
+          "authorId": "2313918547",
+          "name": "Ram Tiwari"
+        }
+      ]
+    },
+    {
+      "paperId": "f11d33f72629683c326922726ab1089df6d0602e",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2502-20153",
+        "ArXiv": "2502.20153",
+        "DOI": "10.48550/arXiv.2502.20153",
+        "CorpusId": 276647255
+      },
+      "url": "https://www.semanticscholar.org/paper/f11d33f72629683c326922726ab1089df6d0602e",
+      "title": "Transfer Learning in Latent Contextual Bandits with Covariate Shift Through Causal Transportability",
+      "venue": "CLEaR",
+      "year": 2025,
+      "referenceCount": 45,
+      "citationCount": 4,
+      "authors": [
+        {
+          "authorId": "2054419315",
+          "name": "M. Deng"
+        },
+        {
+          "authorId": "2264334751",
+          "name": "Ville Kyrki"
+        },
+        {
+          "authorId": "2347533341",
+          "name": "Dominik Baumann"
+        }
+      ]
+    }
+  ]
+}

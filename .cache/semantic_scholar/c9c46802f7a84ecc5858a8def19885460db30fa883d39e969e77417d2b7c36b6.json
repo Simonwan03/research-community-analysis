@@ -1,0 +1,330 @@
+{
+  "total": 15,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "7c09540a9c6489bb250f80918c6bde7d7fa24f3f",
+      "externalIds": {
+        "MAG": "2740573360",
+        "DBLP": "conf/icml/BarmannPS17",
+        "CorpusId": 224094
+      },
+      "url": "https://www.semanticscholar.org/paper/7c09540a9c6489bb250f80918c6bde7d7fa24f3f",
+      "title": "Emulating the Expert: Inverse Optimization through Online Learning",
+      "venue": "International Conference on Machine Learning",
+      "year": 2017,
+      "referenceCount": 43,
+      "citationCount": 45,
+      "authors": [
+        {
+          "authorId": "1715050",
+          "name": "Andreas Bärmann"
+        },
+        {
+          "authorId": "145729210",
+          "name": "S. Pokutta"
+        },
+        {
+          "authorId": "20680989",
+          "name": "Oskar Schneider"
+        }
+      ]
+    },
+    {
+      "paperId": "7d1125a055e39ca340bfec7d14d46cc600e4a756",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2506-06793",
+        "ArXiv": "2506.06793",
+        "DOI": "10.48550/arXiv.2506.06793",
+        "CorpusId": 279251444
+      },
+      "url": "https://www.semanticscholar.org/paper/7d1125a055e39ca340bfec7d14d46cc600e4a756",
+      "title": "Is Optimal Transport Necessary for Inverse Reinforcement Learning?",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "referenceCount": 23,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2256465605",
+          "name": "Zixuan Dong"
+        },
+        {
+          "authorId": "2366076684",
+          "name": "Yumi Omori"
+        },
+        {
+          "authorId": "2253397883",
+          "name": "Keith Ross"
+        }
+      ]
+    },
+    {
+      "paperId": "e6679c7907feaaf50e09029179f51f7729e91221",
+      "externalIds": {
+        "DBLP": "conf/nips/GhasemipourGZ19",
+        "MAG": "2971218263",
+        "CorpusId": 202776458
+      },
+      "url": "https://www.semanticscholar.org/paper/e6679c7907feaaf50e09029179f51f7729e91221",
+      "title": "SMILe: Scalable Meta Inverse Reinforcement Learning through Context-Conditional Policies",
+      "venue": "Neural Information Processing Systems",
+      "year": 2019,
+      "referenceCount": 35,
+      "citationCount": 45,
+      "authors": [
+        {
+          "authorId": "81419386",
+          "name": "Seyed Kamyar Seyed Ghasemipour"
+        },
+        {
+          "authorId": "2046135",
+          "name": "S. Gu"
+        },
+        {
+          "authorId": "1804104",
+          "name": "R. Zemel"
+        }
+      ]
+    },
+    {
+      "paperId": "e17d62a57c1cf51d549f282031525f6303b0c59b",
+      "externalIds": {
+        "ArXiv": "2501.05673",
+        "DBLP": "conf/infocom/ZhangA025",
+        "DOI": "10.1109/INFOCOM55648.2025.11044702",
+        "CorpusId": 275458504
+      },
+      "url": "https://www.semanticscholar.org/paper/e17d62a57c1cf51d549f282031525f6303b0c59b",
+      "title": "Network Diffuser for Placing-Scheduling Service Function Chains with Inverse Demonstration",
+      "venue": "IEEE Conference on Computer Communications",
+      "year": 2025,
+      "referenceCount": 50,
+      "citationCount": 10,
+      "authors": [
+        {
+          "authorId": "2293220962",
+          "name": "Zuyuan Zhang"
+        },
+        {
+          "authorId": "2244620674",
+          "name": "Vaneet Aggarwal"
+        },
+        {
+          "authorId": "48445858",
+          "name": "Tian Lan"
+        }
+      ]
+    },
+    {
+      "paperId": "5b5c03667055aae101ba6d57399457732a6fae99",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2305-16498",
+        "ArXiv": "2305.16498",
+        "DOI": "10.48550/arXiv.2305.16498",
+        "CorpusId": 258947488
+      },
+      "url": "https://www.semanticscholar.org/paper/5b5c03667055aae101ba6d57399457732a6fae99",
+      "title": "Coherent Soft Imitation Learning",
+      "venue": "Neural Information Processing Systems",
+      "year": 2023,
+      "referenceCount": 97,
+      "citationCount": 20,
+      "authors": [
+        {
+          "authorId": "31349388",
+          "name": "Joe Watson"
+        },
+        {
+          "authorId": "2064588",
+          "name": "Sandy H. Huang"
+        },
+        {
+          "authorId": "2218455469",
+          "name": "Nicholas Heess"
+        }
+      ]
+    },
+    {
+      "paperId": "c56d1a83529880f6c3e55687838731821bae4b36",
+      "externalIds": {
+        "DBLP": "journals/ijcisys/ChenKRWL25",
+        "DOI": "10.1007/s44196-025-01064-3",
+        "CorpusId": 283699485
+      },
+      "url": "https://www.semanticscholar.org/paper/c56d1a83529880f6c3e55687838731821bae4b36",
+      "title": "Optimizing Reinforcement Learning with Limited HRI Demonstrations: A Task-Oriented Weight Update Method with Analysis of Multi-head and Layer Feature Combinations",
+      "venue": "International Journal of Computational Intelligence Systems",
+      "year": 2025,
+      "referenceCount": 50,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2186820956",
+          "name": "Qinghua Chen"
+        },
+        {
+          "authorId": "119436995",
+          "name": "Jessica Korneder"
+        },
+        {
+          "authorId": "2277038",
+          "name": "O. Rawashdeh"
+        },
+        {
+          "authorId": "2365966593",
+          "name": "Yanfeng Wang"
+        },
+        {
+          "authorId": "1867074",
+          "name": "W. Louie"
+        }
+      ]
+    },
+    {
+      "paperId": "33830bd330ce7a4a5f6b361b282fdc814e3bfaef",
+      "externalIds": {
+        "ArXiv": "2312.07896",
+        "CorpusId": 266191833
+      },
+      "url": "https://www.semanticscholar.org/paper/33830bd330ce7a4a5f6b361b282fdc814e3bfaef",
+      "title": "From Classification to Optimization: Slicing and Resource Management with TRACTOR",
+      "venue": "",
+      "year": 2023,
+      "referenceCount": 38,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "2261546540",
+          "name": "Joshua Groen"
+        },
+        {
+          "authorId": "2143505295",
+          "name": "Zixi Yang"
+        },
+        {
+          "authorId": "2349458340",
+          "name": "Divyadharshini Muruganandham"
+        },
+        {
+          "authorId": "52220816",
+          "name": "M. Belgiovine"
+        },
+        {
+          "authorId": "2292031163",
+          "name": "Lei Ying"
+        },
+        {
+          "authorId": "2261500977",
+          "name": "Kaushik R. Chowdhury"
+        }
+      ]
+    },
+    {
+      "paperId": "bd73a558eab7e4108f133d9862feaf30cc30ebe2",
+      "externalIds": {
+        "ArXiv": "2406.00888",
+        "DBLP": "conf/iclr/ShaikhLHSCBY25",
+        "CorpusId": 270222089
+      },
+      "url": "https://www.semanticscholar.org/paper/bd73a558eab7e4108f133d9862feaf30cc30ebe2",
+      "title": "Aligning Language Models with Demonstrated Feedback",
+      "venue": "International Conference on Learning Representations",
+      "year": 2024,
+      "referenceCount": 67,
+      "citationCount": 43,
+      "authors": [
+        {
+          "authorId": "2266753706",
+          "name": "Omar Shaikh"
+        },
+        {
+          "authorId": "2244295379",
+          "name": "Michelle Lam"
+        },
+        {
+          "authorId": "2122700519",
+          "name": "Joey Hejna"
+        },
+        {
+          "authorId": "2305603644",
+          "name": "Yijia Shao"
+        },
+        {
+          "authorId": "91009922",
+          "name": "Hyundong Justin Cho"
+        },
+        {
+          "authorId": "2243334585",
+          "name": "Michael S. Bernstein"
+        },
+        {
+          "authorId": "2267015753",
+          "name": "Diyi Yang"
+        }
+      ]
+    },
+    {
+      "paperId": "ae28f5ecbae4cc65d8c109edeca7c7265dc3fcf3",
+      "externalIds": {
+        "ArXiv": "2112.14004",
+        "DBLP": "journals/corr/abs-2112-14004",
+        "CorpusId": 235826247
+      },
+      "url": "https://www.semanticscholar.org/paper/ae28f5ecbae4cc65d8c109edeca7c7265dc3fcf3",
+      "title": "Efficient Performance Bounds for Primal-Dual Reinforcement Learning from Demonstrations",
+      "venue": "International Conference on Machine Learning",
+      "year": 2021,
+      "referenceCount": 81,
+      "citationCount": 9,
+      "authors": [
+        {
+          "authorId": "30891860",
+          "name": "Angeliki Kamoutsi"
+        },
+        {
+          "authorId": "145023893",
+          "name": "G. Banjac"
+        },
+        {
+          "authorId": "1681053",
+          "name": "J. Lygeros"
+        }
+      ]
+    },
+    {
+      "paperId": "badf5d00486111d936b056e52f13c26c1bbbd573",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2411-04983",
+        "ArXiv": "2411.04983",
+        "DOI": "10.48550/arXiv.2411.04983",
+        "CorpusId": 273878040
+      },
+      "url": "https://www.semanticscholar.org/paper/badf5d00486111d936b056e52f13c26c1bbbd573",
+      "title": "DINO-WM: World Models on Pre-trained Visual Features enable Zero-shot Planning",
+      "venue": "International Conference on Machine Learning",
+      "year": 2024,
+      "referenceCount": 64,
+      "citationCount": 171,
+      "authors": [
+        {
+          "authorId": "2257386929",
+          "name": "Gaoyue Zhou"
+        },
+        {
+          "authorId": "2323521814",
+          "name": "Hengkai Pan"
+        },
+        {
+          "authorId": "2270469816",
+          "name": "Yann LeCun"
+        },
+        {
+          "authorId": "2253567347",
+          "name": "Lerrel Pinto"
+        }
+      ]
+    }
+  ]
+}

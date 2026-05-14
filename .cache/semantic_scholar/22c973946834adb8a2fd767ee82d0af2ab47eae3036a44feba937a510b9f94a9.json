@@ -1,0 +1,921 @@
+{
+  "offset": 0,
+  "citingPaperInfo": {
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/1503.01299, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "title": "Telling cause from effect in deterministic linear dynamical systems",
+    "authors": [
+      {
+        "authorId": "2927131",
+        "name": "Naji Shajarisales"
+      },
+      {
+        "authorId": "1700657",
+        "name": "D. Janzing"
+      },
+      {
+        "authorId": "1707625",
+        "name": "B. Scholkopf"
+      },
+      {
+        "authorId": "2599082",
+        "name": "M. Besserve"
+      }
+    ]
+  },
+  "data": [
+    {
+      "citedPaper": {
+        "paperId": "4e3f8b31a60cd9377bb39ef778aad5652d39c2de",
+        "externalIds": {
+          "DBLP": "conf/aistats/SgouritsaJHS15",
+          "MAG": "235810693",
+          "CorpusId": 381545
+        },
+        "url": "https://www.semanticscholar.org/paper/4e3f8b31a60cd9377bb39ef778aad5652d39c2de",
+        "title": "Inference of Cause and Effect with Unsupervised Inverse Regression",
+        "venue": "International Conference on Artificial Intelligence and Statistics",
+        "year": 2015,
+        "referenceCount": 18,
+        "citationCount": 80,
+        "authors": [
+          {
+            "authorId": "1894256",
+            "name": "Eleni Sgouritsa"
+          },
+          {
+            "authorId": "1700657",
+            "name": "D. Janzing"
+          },
+          {
+            "authorId": "2517795",
+            "name": "Philipp Hennig"
+          },
+          {
+            "authorId": "1707625",
+            "name": "B. Scholkopf"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "9555703290dd5e1f3b0802ff83d5a88515e12bd9",
+        "externalIds": {
+          "MAG": "426428649",
+          "DOI": "10.1142/9036",
+          "CorpusId": 117678978
+        },
+        "url": "https://www.semanticscholar.org/paper/9555703290dd5e1f3b0802ff83d5a88515e12bd9",
+        "title": "Problems And Proofs In Real Analysis: Theory Of Measure And Integration",
+        "venue": "",
+        "year": 2014,
+        "referenceCount": 0,
+        "citationCount": 69,
+        "authors": [
+          {
+            "authorId": "145728967",
+            "name": "J. Yeh"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "62f46f7fbcb8263a76e46c4a808c80953ddae8b1",
+        "externalIds": {
+          "DBLP": "conf/nips/PetersJS13",
+          "MAG": "2135631431",
+          "CorpusId": 7421872
+        },
+        "url": "https://www.semanticscholar.org/paper/62f46f7fbcb8263a76e46c4a808c80953ddae8b1",
+        "title": "Causal Inference on Time Series using Restricted Structural Equation Models",
+        "venue": "Neural Information Processing Systems",
+        "year": 2013,
+        "referenceCount": 35,
+        "citationCount": 190,
+        "authors": [
+          {
+            "authorId": "31443876",
+            "name": "J. Peters"
+          },
+          {
+            "authorId": "1700657",
+            "name": "D. Janzing"
+          },
+          {
+            "authorId": "1707625",
+            "name": "B. Scholkopf"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "80050cc9090cb42e5b26a8d0f11a1ce19d2b0fc8",
+        "externalIds": {
+          "MAG": "3011632096",
+          "DOI": "10.1007/978-1-4419-0320-4",
+          "CorpusId": 121901473
+        },
+        "url": "https://www.semanticscholar.org/paper/80050cc9090cb42e5b26a8d0f11a1ce19d2b0fc8",
+        "title": "Time Series: Theory and Methods",
+        "venue": "",
+        "year": 2013,
+        "referenceCount": 3,
+        "citationCount": 7340,
+        "authors": [
+          {
+            "authorId": "2642898",
+            "name": "P. Brockwell"
+          },
+          {
+            "authorId": "2247827609",
+            "name": "R. Davis"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "f1bb50162b731dfd41bdd3648ba5239579420ac0",
+        "externalIds": {
+          "DBLP": "conf/icml/ScholkopfJPSZM12",
+          "ArXiv": "1206.6471",
+          "MAG": "2144020560",
+          "CorpusId": 17675972
+        },
+        "url": "https://www.semanticscholar.org/paper/f1bb50162b731dfd41bdd3648ba5239579420ac0",
+        "title": "On causal and anticausal learning",
+        "venue": "International Conference on Machine Learning",
+        "year": 2012,
+        "referenceCount": 21,
+        "citationCount": 667,
+        "authors": [
+          {
+            "authorId": "1707625",
+            "name": "B. Scholkopf"
+          },
+          {
+            "authorId": "1700657",
+            "name": "D. Janzing"
+          },
+          {
+            "authorId": "31443876",
+            "name": "J. Peters"
+          },
+          {
+            "authorId": "1894256",
+            "name": "Eleni Sgouritsa"
+          },
+          {
+            "authorId": "37844380",
+            "name": "Kun Zhang"
+          },
+          {
+            "authorId": "1696158",
+            "name": "J. Mooij"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "30019ea37294e99e83d1c7f9f244fb69aeea0993",
+        "externalIds": {
+          "MAG": "2147881172",
+          "DBLP": "journals/ai/JanzingMZLZDSS12",
+          "DOI": "10.1016/j.artint.2012.01.002",
+          "CorpusId": 14352457
+        },
+        "url": "https://www.semanticscholar.org/paper/30019ea37294e99e83d1c7f9f244fb69aeea0993",
+        "title": "Information-geometric approach to inferring causal directions",
+        "venue": "Artificial Intelligence",
+        "year": 2012,
+        "referenceCount": 28,
+        "citationCount": 309,
+        "authors": [
+          {
+            "authorId": "1700657",
+            "name": "D. Janzing"
+          },
+          {
+            "authorId": "1696158",
+            "name": "J. Mooij"
+          },
+          {
+            "authorId": "37844380",
+            "name": "Kun Zhang"
+          },
+          {
+            "authorId": "1700177",
+            "name": "J. Lemeire"
+          },
+          {
+            "authorId": "2423949",
+            "name": "J. Zscheischler"
+          },
+          {
+            "authorId": "2160423",
+            "name": "P. Daniušis"
+          },
+          {
+            "authorId": "1780900",
+            "name": "Bastian Steudel"
+          },
+          {
+            "authorId": "1707625",
+            "name": "B. Scholkopf"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "3ad93106d9377de82363050b8382ae6df301fafb",
+        "externalIds": {
+          "ArXiv": "1202.3779",
+          "MAG": "1900965308",
+          "DBLP": "journals/corr/abs-1202-3779",
+          "CorpusId": 992594
+        },
+        "url": "https://www.semanticscholar.org/paper/3ad93106d9377de82363050b8382ae6df301fafb",
+        "title": "Testing whether linear equations are causal: A free probability theory approach",
+        "venue": "Conference on Uncertainty in Artificial Intelligence",
+        "year": 2011,
+        "referenceCount": 16,
+        "citationCount": 41,
+        "authors": [
+          {
+            "authorId": "2423949",
+            "name": "J. Zscheischler"
+          },
+          {
+            "authorId": "1700657",
+            "name": "D. Janzing"
+          },
+          {
+            "authorId": "37844380",
+            "name": "Kun Zhang"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "4e35f81e9f814a5b3d4627eaf50f02111ed77882",
+        "externalIds": {
+          "CorpusId": 60095580
+        },
+        "url": "https://www.semanticscholar.org/paper/4e35f81e9f814a5b3d4627eaf50f02111ed77882",
+        "title": "System Identification: An Introduction",
+        "venue": "",
+        "year": 2011,
+        "referenceCount": 0,
+        "citationCount": 180,
+        "authors": []
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "ab209b6d2391b9758d5b4128ddd247b76b417162",
+        "externalIds": {
+          "DBLP": "conf/nips/MooijSJZS10",
+          "MAG": "2164001983",
+          "CorpusId": 14141390
+        },
+        "url": "https://www.semanticscholar.org/paper/ab209b6d2391b9758d5b4128ddd247b76b417162",
+        "title": "Probabilistic latent variable models for distinguishing between cause and effect",
+        "venue": "Neural Information Processing Systems",
+        "year": 2010,
+        "referenceCount": 20,
+        "citationCount": 142,
+        "authors": [
+          {
+            "authorId": "1696158",
+            "name": "J. Mooij"
+          },
+          {
+            "authorId": "152423211",
+            "name": "O. Stegle"
+          },
+          {
+            "authorId": "1700657",
+            "name": "D. Janzing"
+          },
+          {
+            "authorId": "37844380",
+            "name": "Kun Zhang"
+          },
+          {
+            "authorId": "1707625",
+            "name": "B. Scholkopf"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "3116e6214682e86de4f14f3f964f221e5a807a4f",
+        "externalIds": {
+          "MAG": "2132676847",
+          "DOI": "10.1038/nn.2631",
+          "CorpusId": 16280316,
+          "PubMed": "20818384"
+        },
+        "url": "https://www.semanticscholar.org/paper/3116e6214682e86de4f14f3f964f221e5a807a4f",
+        "title": "The effects of electrical microstimulation on cortical signal propagation",
+        "venue": "Nature Neuroscience",
+        "year": 2010,
+        "referenceCount": 52,
+        "citationCount": 344,
+        "authors": [
+          {
+            "authorId": "31772450",
+            "name": "N. Logothetis"
+          },
+          {
+            "authorId": "1916253",
+            "name": "M. Augath"
+          },
+          {
+            "authorId": "2606802",
+            "name": "Y. Murayama"
+          },
+          {
+            "authorId": "47954970",
+            "name": "Alexander Rauch"
+          },
+          {
+            "authorId": "1688442",
+            "name": "F. Sultan"
+          },
+          {
+            "authorId": "46301804",
+            "name": "J. Goense"
+          },
+          {
+            "authorId": "2619976",
+            "name": "A. Oeltermann"
+          },
+          {
+            "authorId": "48123252",
+            "name": "H. Merkle"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "5d0c137c25282c88de7987a6577f2cde59f38844",
+        "externalIds": {
+          "MAG": "1482778976",
+          "DBLP": "journals/corr/abs-1203-3475",
+          "ArXiv": "1203.3475",
+          "CorpusId": 2776940
+        },
+        "url": "https://www.semanticscholar.org/paper/5d0c137c25282c88de7987a6577f2cde59f38844",
+        "title": "Inferring deterministic causal relations",
+        "venue": "Conference on Uncertainty in Artificial Intelligence",
+        "year": 2010,
+        "referenceCount": 10,
+        "citationCount": 202,
+        "authors": [
+          {
+            "authorId": "2160423",
+            "name": "P. Daniušis"
+          },
+          {
+            "authorId": "1700657",
+            "name": "D. Janzing"
+          },
+          {
+            "authorId": "1696158",
+            "name": "J. Mooij"
+          },
+          {
+            "authorId": "2423949",
+            "name": "J. Zscheischler"
+          },
+          {
+            "authorId": "1780900",
+            "name": "Bastian Steudel"
+          },
+          {
+            "authorId": "37844380",
+            "name": "Kun Zhang"
+          },
+          {
+            "authorId": "1707625",
+            "name": "B. Scholkopf"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "9a5d94e0718bbce71eee71925e90fd26264b9574",
+        "externalIds": {
+          "MAG": "1967396602",
+          "DOI": "10.1016/j.jneumeth.2010.03.007",
+          "CorpusId": 36249796,
+          "PubMed": "20304005"
+        },
+        "url": "https://www.semanticscholar.org/paper/9a5d94e0718bbce71eee71925e90fd26264b9574",
+        "title": "Granger causality relationships between local field potentials in an animal model of temporal lobe epilepsy.",
+        "venue": "Journal of Neuroscience Methods",
+        "year": 2010,
+        "referenceCount": 42,
+        "citationCount": 49,
+        "authors": [
+          {
+            "authorId": "34673621",
+            "name": "A. Cadotte"
+          },
+          {
+            "authorId": "3095336",
+            "name": "T. DeMarse"
+          },
+          {
+            "authorId": "116723665",
+            "name": "T. Mareci"
+          },
+          {
+            "authorId": "2007865",
+            "name": "M. Parekh"
+          },
+          {
+            "authorId": "2390504",
+            "name": "S. Talathi"
+          },
+          {
+            "authorId": "49222971",
+            "name": "D. Hwang"
+          },
+          {
+            "authorId": "3067672",
+            "name": "W. Ditto"
+          },
+          {
+            "authorId": "3338101",
+            "name": "M. Ding"
+          },
+          {
+            "authorId": "1888455",
+            "name": "P. Carney"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "3e568fb5a3ce754abe9f029aa80610f16b9f9f92",
+        "externalIds": {
+          "MAG": "2141964964",
+          "DOI": "10.1016/j.neuron.2009.08.037",
+          "CorpusId": 8530490,
+          "PubMed": "19874793"
+        },
+        "url": "https://www.semanticscholar.org/paper/3e568fb5a3ce754abe9f029aa80610f16b9f9f92",
+        "title": "Theta oscillations provide temporal windows for local circuit computation in the entorhinal-hippocampal loop.",
+        "venue": "Neuron",
+        "year": 2009,
+        "referenceCount": 114,
+        "citationCount": 706,
+        "authors": [
+          {
+            "authorId": "3275016",
+            "name": "K. Mizuseki"
+          },
+          {
+            "authorId": "122479081",
+            "name": "A. Sirota"
+          },
+          {
+            "authorId": "4210713",
+            "name": "E. Pastalkova"
+          },
+          {
+            "authorId": "144128278",
+            "name": "G. Buzsáki"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "534dd063d02f13ae3416e7cd4d9ee937b352f7c2",
+        "externalIds": {
+          "MAG": "1603640438",
+          "ArXiv": "0909.4386",
+          "DBLP": "conf/icml/JanzingHS10",
+          "CorpusId": 209127
+        },
+        "url": "https://www.semanticscholar.org/paper/534dd063d02f13ae3416e7cd4d9ee937b352f7c2",
+        "title": "Telling cause from effect based on high-dimensional observations",
+        "venue": "International Conference on Machine Learning",
+        "year": 2009,
+        "referenceCount": 15,
+        "citationCount": 80,
+        "authors": [
+          {
+            "authorId": "1700657",
+            "name": "D. Janzing"
+          },
+          {
+            "authorId": "35211061",
+            "name": "P. Hoyer"
+          },
+          {
+            "authorId": "1707625",
+            "name": "B. Scholkopf"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "be39071e4bb4e182169b29ec3e3039b88ab4858d",
+        "externalIds": {
+          "MAG": "2951791067",
+          "DBLP": "journals/tit/JanzingS10",
+          "ArXiv": "0804.3678",
+          "DOI": "10.1109/TIT.2010.2060095",
+          "CorpusId": 11867432
+        },
+        "url": "https://www.semanticscholar.org/paper/be39071e4bb4e182169b29ec3e3039b88ab4858d",
+        "title": "Causal Inference Using the Algorithmic Markov Condition",
+        "venue": "IEEE Transactions on Information Theory",
+        "year": 2008,
+        "referenceCount": 66,
+        "citationCount": 338,
+        "authors": [
+          {
+            "authorId": "1700657",
+            "name": "D. Janzing"
+          },
+          {
+            "authorId": "1707625",
+            "name": "B. Scholkopf"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "79d1b330f0ef51f63ecb9b291dd5a05de5a858c0",
+        "externalIds": {
+          "DBLP": "journals/ftcit/Gray05",
+          "MAG": "2132105090",
+          "DOI": "10.1561/0100000006",
+          "CorpusId": 51861878
+        },
+        "url": "https://www.semanticscholar.org/paper/79d1b330f0ef51f63ecb9b291dd5a05de5a858c0",
+        "title": "Toeplitz and Circulant Matrices: A Review",
+        "venue": "Foundations and Trends in Communications and Information Theory",
+        "year": 2005,
+        "referenceCount": 34,
+        "citationCount": 2597,
+        "authors": [
+          {
+            "authorId": "144790332",
+            "name": "R. Gray"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "cb086d392d924271fabe4d1724766ba0efdc86c2",
+        "externalIds": {
+          "MAG": "1604591429",
+          "CorpusId": 261315156
+        },
+        "url": "https://www.semanticscholar.org/paper/cb086d392d924271fabe4d1724766ba0efdc86c2",
+        "title": "Matrices: Theory and Applications",
+        "venue": "",
+        "year": 2002,
+        "referenceCount": 34,
+        "citationCount": 602,
+        "authors": [
+          {
+            "authorId": "3254718",
+            "name": "D. Serre"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "eb17cacecf533349d6bfbd19fba7d0351ac11705",
+        "externalIds": {
+          "MAG": "194523672",
+          "DOI": "10.2307/2347385",
+          "CorpusId": 117100983
+        },
+        "url": "https://www.semanticscholar.org/paper/eb17cacecf533349d6bfbd19fba7d0351ac11705",
+        "title": "A look at some data on the old faithful geyser",
+        "venue": "",
+        "year": 1990,
+        "referenceCount": 9,
+        "citationCount": 350,
+        "authors": [
+          {
+            "authorId": "2180185",
+            "name": "A. Azzalini"
+          },
+          {
+            "authorId": "33596206",
+            "name": "A. Bowman"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "95f3a22272b0ce87f6cf85dd6e1026e4a5c0aeba",
+        "externalIds": {
+          "MAG": "2798058877",
+          "DOI": "10.2307/2988198",
+          "CorpusId": 62556607
+        },
+        "url": "https://www.semanticscholar.org/paper/95f3a22272b0ce87f6cf85dd6e1026e4a5c0aeba",
+        "title": "Time Series Analysis: Forecasting and Control",
+        "venue": "",
+        "year": 1978,
+        "referenceCount": 0,
+        "citationCount": 17526,
+        "authors": [
+          {
+            "authorId": "145948621",
+            "name": "G. Box"
+          },
+          {
+            "authorId": "143782658",
+            "name": "G. Jenkins"
+          },
+          {
+            "authorId": "69887967",
+            "name": "G. Reinsel"
+          },
+          {
+            "authorId": "13338923",
+            "name": "G. Ljung"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "6a7c63a73724c0ca68b1675e256bb8b9a35c94f4",
+        "externalIds": {
+          "MAG": "2178225550",
+          "DOI": "10.1017/CBO9780511753978.002",
+          "CorpusId": 41012146
+        },
+        "url": "https://www.semanticscholar.org/paper/6a7c63a73724c0ca68b1675e256bb8b9a35c94f4",
+        "title": "Investigating causal relations by econometric models and cross-spectral methods",
+        "venue": "",
+        "year": 1969,
+        "referenceCount": 8,
+        "citationCount": 25241,
+        "authors": [
+          {
+            "authorId": "49566894",
+            "name": "C. Granger"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "e63345b4243e2376720a4e66373fdffe7a7d6be0",
+        "externalIds": {
+          "MAG": "2106822551",
+          "DOI": "10.1109/TAU.1967.1161901",
+          "CorpusId": 13900622
+        },
+        "url": "https://www.semanticscholar.org/paper/e63345b4243e2376720a4e66373fdffe7a7d6be0",
+        "title": "The use of fast Fourier transform for the estimation of power spectra: A method based on time averaging over short, modified periodograms",
+        "venue": "",
+        "year": 1967,
+        "referenceCount": 3,
+        "citationCount": 11382,
+        "authors": [
+          {
+            "authorId": "31821767",
+            "name": "P. Welch"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "b14f4269f09ef77ad310581ea82d502402d90fb9",
+        "externalIds": {
+          "MAG": "2020018978",
+          "DOI": "10.1080/01621459.1927.10502953",
+          "CorpusId": 121572396
+        },
+        "url": "https://www.semanticscholar.org/paper/b14f4269f09ef77ad310581ea82d502402d90fb9",
+        "title": "Probable Inference, the Law of Succession, and Statistical Inference",
+        "venue": "",
+        "year": 1927,
+        "referenceCount": 0,
+        "citationCount": 3943,
+        "authors": [
+          {
+            "authorId": "144824788",
+            "name": "E. B. Wilson"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "2eae2935841029505e8bae7a3da929d90210e746",
+        "externalIds": {
+          "MAG": "2466287092",
+          "CorpusId": 64463712
+        },
+        "url": "https://www.semanticscholar.org/paper/2eae2935841029505e8bae7a3da929d90210e746",
+        "title": "The Hippocampus Book",
+        "venue": "",
+        "year": 2016,
+        "referenceCount": 0,
+        "citationCount": 453,
+        "authors": [
+          {
+            "authorId": "72920781",
+            "name": "A. Klug"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "09b028e77aa5f3d3175c4059e4ba57326c317e48",
+        "externalIds": {
+          "MAG": "2291948167",
+          "CorpusId": 62062125
+        },
+        "url": "https://www.semanticscholar.org/paper/09b028e77aa5f3d3175c4059e4ba57326c317e48",
+        "title": "Toeplitz And Circulant Matrices: A Review (Foundations and Trends(R) in Communications and Information Theory)",
+        "venue": "",
+        "year": 2006,
+        "referenceCount": 0,
+        "citationCount": 460,
+        "authors": [
+          {
+            "authorId": "144790332",
+            "name": "R. Gray"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "Multiple single unit recordings from different rat hippocampal and entorhinal regions while the animals were performing multiple behavioral tasks",
+        "venue": "",
+        "year": 2006,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "4efc01de9930cdeda4aa195f1ce15edcf78c29ba",
+        "externalIds": {
+          "MAG": "2019002733",
+          "DOI": "10.1007/S005290050005",
+          "CorpusId": 120493659
+        },
+        "url": "https://www.semanticscholar.org/paper/4efc01de9930cdeda4aa195f1ce15edcf78c29ba",
+        "title": "Studying the Interaction Between Brain Structures via Directed Coherence and Granger Causality",
+        "venue": "",
+        "year": 1998,
+        "referenceCount": 0,
+        "citationCount": 131,
+        "authors": [
+          {
+            "authorId": "2637345",
+            "name": "L. Baccalá"
+          },
+          {
+            "authorId": "35631145",
+            "name": "K. Sameshima"
+          },
+          {
+            "authorId": "145446658",
+            "name": "G. Ballester"
+          },
+          {
+            "authorId": "2058947846",
+            "name": "A. C. Valle"
+          },
+          {
+            "authorId": "1398725081",
+            "name": "C. Timo-iaria"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "beb48f1698da08c6f990feb8efb77b6bc122aaab",
+        "externalIds": {
+          "MAG": "1506809288",
+          "CorpusId": 265828805
+        },
+        "url": "https://www.semanticscholar.org/paper/beb48f1698da08c6f990feb8efb77b6bc122aaab",
+        "title": "Digital Signal Processing: Principles, Algorithms, and Applications",
+        "venue": "",
+        "year": 1992,
+        "referenceCount": 0,
+        "citationCount": 934,
+        "authors": [
+          {
+            "authorId": "1991940",
+            "name": "J. Proakis"
+          },
+          {
+            "authorId": "2380724",
+            "name": "D. Manolakis"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "404d1df16b673659f52a8017bde4ba00f901e8bd",
+        "externalIds": {
+          "DOI": "10.5860/choice.47-3771",
+          "CorpusId": 12575481
+        },
+        "url": "https://www.semanticscholar.org/paper/404d1df16b673659f52a8017bde4ba00f901e8bd",
+        "title": "Causality : Models , Reasoning , and Inference",
+        "venue": "",
+        "year": null,
+        "referenceCount": 1,
+        "citationCount": 12241,
+        "authors": []
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "78aa78ecf1de1f566242cce3d76c5c8b22f719df",
+        "externalIds": {
+          "CorpusId": 15645027
+        },
+        "url": "https://www.semanticscholar.org/paper/78aa78ecf1de1f566242cce3d76c5c8b22f719df",
+        "title": "Noname manuscript No. (will be inserted by the editor) Replacing Causal Faithfulness with Algorithmic Independence of Conditionals.",
+        "venue": "",
+        "year": null,
+        "referenceCount": 0,
+        "citationCount": 52,
+        "authors": []
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "3594d4b17dfa440a1046dc3191dc109753420876",
+        "externalIds": {
+          "CorpusId": 277773086
+        },
+        "url": "https://www.semanticscholar.org/paper/3594d4b17dfa440a1046dc3191dc109753420876",
+        "title": "Lecture Notes on Statistics",
+        "venue": "",
+        "year": null,
+        "referenceCount": 0,
+        "citationCount": 171,
+        "authors": [
+          {
+            "authorId": "2356383132",
+            "name": "Kevin Zhou"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "Causal Inference for Deterministic Linear Systems",
+        "venue": "Causal Inference for Deterministic Linear Systems",
+        "year": null,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    }
+  ]
+}

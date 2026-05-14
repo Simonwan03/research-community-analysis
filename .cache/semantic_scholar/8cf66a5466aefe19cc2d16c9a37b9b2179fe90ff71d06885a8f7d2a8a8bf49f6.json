@@ -1,0 +1,255 @@
+{
+  "total": 67,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "70450753646398013bd7f94518a05821ba403ad2",
+      "externalIds": {
+        "MAG": "2462186911",
+        "DBLP": "conf/icml/PiatkowskiM16",
+        "CorpusId": 14835449
+      },
+      "url": "https://www.semanticscholar.org/paper/70450753646398013bd7f94518a05821ba403ad2",
+      "title": "Stochastic Discrete Clenshaw-Curtis Quadrature",
+      "venue": "International Conference on Machine Learning",
+      "year": 2016,
+      "referenceCount": 36,
+      "citationCount": 6,
+      "authors": [
+        {
+          "authorId": "2374206",
+          "name": "N. Piatkowski"
+        },
+        {
+          "authorId": "1752599",
+          "name": "K. Morik"
+        }
+      ]
+    },
+    {
+      "paperId": "4972c8a6f0559da31addb59801ce7d8d606829e1",
+      "externalIds": {
+        "CorpusId": 505607
+      },
+      "url": "https://www.semanticscholar.org/paper/4972c8a6f0559da31addb59801ce7d8d606829e1",
+      "title": "Probabilistic Inference with Stochastic Discrete Clenshaw-Curtis Quadrature",
+      "venue": "",
+      "year": 2016,
+      "referenceCount": 1,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2374206",
+          "name": "N. Piatkowski"
+        }
+      ]
+    },
+    {
+      "paperId": "3775886f2f9354dff2d88778c00a1c0f10aac6ce",
+      "externalIds": {
+        "MAG": "2089755800",
+        "DOI": "10.1007/S10543-006-0045-4",
+        "CorpusId": 39182552
+      },
+      "url": "https://www.semanticscholar.org/paper/3775886f2f9354dff2d88778c00a1c0f10aac6ce",
+      "title": "Fast Construction of the Fejér and Clenshaw–Curtis Quadrature Rules",
+      "venue": "",
+      "year": 2006,
+      "referenceCount": 17,
+      "citationCount": 184,
+      "authors": [
+        {
+          "authorId": "1856966",
+          "name": "J. Waldvogel"
+        }
+      ]
+    },
+    {
+      "paperId": "a37307be4d56b71a8bebb4cab6082914ff5e4a21",
+      "externalIds": {
+        "DBLP": "journals/toms/Geddes79a",
+        "MAG": "2069455746",
+        "DOI": "10.1145/355826.355838",
+        "CorpusId": 12303182
+      },
+      "url": "https://www.semanticscholar.org/paper/a37307be4d56b71a8bebb4cab6082914ff5e4a21",
+      "title": "Remark on “Algorithm 424: Clenshaw-Curtis Quadrature [O1]”",
+      "venue": "ACM Transactions on Mathematical Software",
+      "year": 1979,
+      "referenceCount": 2,
+      "citationCount": 5,
+      "authors": [
+        {
+          "authorId": "2524283",
+          "name": "K. Geddes"
+        }
+      ]
+    },
+    {
+      "paperId": "0121a92f00f6356a1479f79f138abac1fef3d002",
+      "externalIds": {
+        "MAG": "3105634655",
+        "ArXiv": "1712.07223",
+        "DOI": "10.1615/Int.J.UncertaintyQuantification.2018025234",
+        "CorpusId": 52914627
+      },
+      "url": "https://www.semanticscholar.org/paper/0121a92f00f6356a1479f79f138abac1fef3d002",
+      "title": "ASSESSING THE PERFORMANCE OF LEJA AND CLENSHAW-CURTIS COLLOCATION FOR COMPUTATIONAL ELECTROMAGNETICS WITH RANDOM INPUT DATA",
+      "venue": "International Journal for Uncertainty Quantification",
+      "year": 2017,
+      "referenceCount": 49,
+      "citationCount": 19,
+      "authors": [
+        {
+          "authorId": "31537314",
+          "name": "Dimitrios Loukrezis"
+        },
+        {
+          "authorId": "9240391",
+          "name": "U. Romer"
+        },
+        {
+          "authorId": "1800901",
+          "name": "H. Gersem"
+        }
+      ]
+    },
+    {
+      "paperId": "126327ba75def94514456057463b21ab38d3278e",
+      "externalIds": {
+        "DBLP": "journals/moc/WuGMZ24",
+        "ArXiv": "2208.10078",
+        "DOI": "10.48550/arXiv.2208.10078",
+        "CorpusId": 251719087
+      },
+      "url": "https://www.semanticscholar.org/paper/126327ba75def94514456057463b21ab38d3278e",
+      "title": "A Filon-Clenshaw-Curtis-Smolyak rule for multi-dimensional oscillatory integrals with application to a UQ problem for the Helmholtz equation",
+      "venue": "Mathematics of Computation",
+      "year": 2022,
+      "referenceCount": 45,
+      "citationCount": 4,
+      "authors": [
+        {
+          "authorId": "3412134",
+          "name": "Zhizhang Wu"
+        },
+        {
+          "authorId": "2031603",
+          "name": "I. Graham"
+        },
+        {
+          "authorId": "102477814",
+          "name": "Dingjiong Ma"
+        },
+        {
+          "authorId": "2109194323",
+          "name": "Zhiwen Zhang"
+        }
+      ]
+    },
+    {
+      "paperId": "8b2882a871062dc4b36c4256399db11df72c5bcc",
+      "externalIds": {
+        "MAG": "2230896716",
+        "DOI": "10.1007/978-3-0348-8871-4_13",
+        "CorpusId": 124615587
+      },
+      "url": "https://www.semanticscholar.org/paper/8b2882a871062dc4b36c4256399db11df72c5bcc",
+      "title": "Integration Methods of Clenshaw-Curtis Type, Based on Four Kinds of Chebyshev Polynomials",
+      "venue": "",
+      "year": 1997,
+      "referenceCount": 6,
+      "citationCount": 4,
+      "authors": [
+        {
+          "authorId": "145848456",
+          "name": "J. Mason"
+        },
+        {
+          "authorId": "2343509",
+          "name": "E. Venturino"
+        }
+      ]
+    },
+    {
+      "paperId": "9dc865b2d6ffc68df3500a7423cd8fda77079e1c",
+      "externalIds": {
+        "DOI": "10.56714/bjrs.51.2.12",
+        "CorpusId": 284421535
+      },
+      "url": "https://www.semanticscholar.org/paper/9dc865b2d6ffc68df3500a7423cd8fda77079e1c",
+      "title": "Discrete WRM using Tau and Galerkin Techniques to Solve Multi-Higher Fractional Order Integro-Differential Equations of the Fredholm type",
+      "venue": "Basrah Researches Sciences",
+      "year": 2025,
+      "referenceCount": 24,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "1381458570",
+          "name": "Dashne Chapuk Zahir"
+        },
+        {
+          "authorId": "32380905",
+          "name": "S. Ahmed"
+        },
+        {
+          "authorId": "2144958697",
+          "name": "S. J. Mohammedfaeq"
+        },
+        {
+          "authorId": "2181852707",
+          "name": "Hiwa Abdullah Rasol"
+        }
+      ]
+    },
+    {
+      "paperId": "8ae0f0d5253711a0c3183d4c86348aeb98d1152e",
+      "externalIds": {
+        "MAG": "2063258851",
+        "DOI": "10.1142/S0129183108012534",
+        "CorpusId": 120807930
+      },
+      "url": "https://www.semanticscholar.org/paper/8ae0f0d5253711a0c3183d4c86348aeb98d1152e",
+      "title": "APPLICATION OF CLENSHAW–CURTIS METHOD IN CONFINED TIME OF ARRIVAL OPERATOR EIGENVALUE PROBLEM",
+      "venue": "",
+      "year": 2008,
+      "referenceCount": 14,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "89876111",
+          "name": "Roberto S. Vitancol"
+        },
+        {
+          "authorId": "10110809",
+          "name": "E. Galapon"
+        }
+      ]
+    },
+    {
+      "paperId": "9370559bf263d3fc126a7724d122ce664f2b6105",
+      "externalIds": {
+        "MAG": "2949155876",
+        "DOI": "10.21914/ANZIAMJ.V60I0.14060",
+        "CorpusId": 197496616
+      },
+      "url": "https://www.semanticscholar.org/paper/9370559bf263d3fc126a7724d122ce664f2b6105",
+      "title": "The application of sparse grid quadrature in solving stochastic optimisation problems",
+      "venue": "ANZIAM Journal",
+      "year": 2019,
+      "referenceCount": 10,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2116568400",
+          "name": "Yuancheng Zhou"
+        },
+        {
+          "authorId": "1723872",
+          "name": "M. Hegland"
+        }
+      ]
+    }
+  ]
+}

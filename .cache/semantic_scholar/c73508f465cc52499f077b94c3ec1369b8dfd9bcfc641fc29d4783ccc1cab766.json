@@ -1,0 +1,59 @@
+{
+  "total": 2,
+  "offset": 0,
+  "data": [
+    {
+      "paperId": "48d1b5ed94042e1886a23d781eee5a2665aa7b58",
+      "externalIds": {
+        "DBLP": "conf/icml/WalderB17",
+        "MAG": "2614438268",
+        "ArXiv": "1701.03535",
+        "CorpusId": 42655868
+      },
+      "url": "https://www.semanticscholar.org/paper/48d1b5ed94042e1886a23d781eee5a2665aa7b58",
+      "title": "Fast Bayesian Intensity Estimation for the Permanental Process",
+      "venue": "International Conference on Machine Learning",
+      "year": 2017,
+      "referenceCount": 34,
+      "citationCount": 29,
+      "authors": [
+        {
+          "authorId": "3093246",
+          "name": "Christian J. Walder"
+        },
+        {
+          "authorId": "39634761",
+          "name": "A. Bishop"
+        }
+      ]
+    },
+    {
+      "paperId": "06acfcdddb3eb0257f5e0df9439099403d5a501f",
+      "externalIds": {
+        "DBLP": "conf/nips/KimAT22",
+        "DOI": "10.52202/068431-1864",
+        "CorpusId": 258509649
+      },
+      "url": "https://www.semanticscholar.org/paper/06acfcdddb3eb0257f5e0df9439099403d5a501f",
+      "title": "Fast Bayesian Estimation of Point Process Intensity as Function of Covariates",
+      "venue": "Neural Information Processing Systems",
+      "year": 2022,
+      "referenceCount": 56,
+      "citationCount": 7,
+      "authors": [
+        {
+          "authorId": "2110169044",
+          "name": "Hideaki Kim"
+        },
+        {
+          "authorId": "2028651593",
+          "name": "Taichi Asami"
+        },
+        {
+          "authorId": "101066079",
+          "name": "Hiro Y. Toda"
+        }
+      ]
+    }
+  ]
+}

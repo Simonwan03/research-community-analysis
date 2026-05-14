@@ -1,0 +1,453 @@
+{
+  "total": 62,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "b01114b48fd2b027649dce64d5fe50b93328f5e1",
+      "externalIds": {
+        "DBLP": "conf/icml/JiHS17",
+        "MAG": "2741138480",
+        "CorpusId": 1452730
+      },
+      "url": "https://www.semanticscholar.org/paper/b01114b48fd2b027649dce64d5fe50b93328f5e1",
+      "title": "From Patches to Images: A Nonparametric Generative Model",
+      "venue": "International Conference on Machine Learning",
+      "year": 2017,
+      "referenceCount": 19,
+      "citationCount": 8,
+      "authors": [
+        {
+          "authorId": "47933901",
+          "name": "Geng Ji"
+        },
+        {
+          "authorId": "2169240",
+          "name": "M. Hughes"
+        },
+        {
+          "authorId": "1799035",
+          "name": "Erik B. Sudderth"
+        }
+      ]
+    },
+    {
+      "paperId": "97386820d54e19313bc8be2305429d1cb71ee12e",
+      "externalIds": {
+        "CorpusId": 36620217
+      },
+      "url": "https://www.semanticscholar.org/paper/97386820d54e19313bc8be2305429d1cb71ee12e",
+      "title": "From Patches to Natural Images via Hierarchical Dirichlet Processes",
+      "venue": "",
+      "year": 2016,
+      "referenceCount": 14,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "47933901",
+          "name": "Geng Ji"
+        },
+        {
+          "authorId": "2169240",
+          "name": "M. Hughes"
+        },
+        {
+          "authorId": "1799035",
+          "name": "Erik B. Sudderth"
+        }
+      ]
+    },
+    {
+      "paperId": "6ef29b65535e96961ff1941613473f182c629c58",
+      "externalIds": {
+        "DOI": "10.3847/1538-4365/ae47d9",
+        "CorpusId": 287434859
+      },
+      "url": "https://www.semanticscholar.org/paper/6ef29b65535e96961ff1941613473f182c629c58",
+      "title": "A Deep Generative Model that Uses Physical Quantities to Generate and Retrieve Solar Magnetic Active Regions",
+      "venue": "Astrophysical Journal Supplement Series",
+      "year": 2026,
+      "referenceCount": 10,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2237175427",
+          "name": "Subhamoy Chatterjee"
+        },
+        {
+          "authorId": "2330708645",
+          "name": "Andrés Muñoz-Jaramillo"
+        },
+        {
+          "authorId": "51126567",
+          "name": "A. Malanushenko"
+        }
+      ]
+    },
+    {
+      "paperId": "9f5807b6c42fd4bd274fb0898b44db5c2a2a4bc6",
+      "externalIds": {
+        "DBLP": "journals/cbm/KossenSMHHHSLGK21",
+        "DOI": "10.1016/j.compbiomed.2021.104254",
+        "CorpusId": 232018234,
+        "PubMed": "33618105"
+      },
+      "url": "https://www.semanticscholar.org/paper/9f5807b6c42fd4bd274fb0898b44db5c2a2a4bc6",
+      "title": "Synthesizing anonymized and labeled TOF-MRA patches for brain vessel segmentation using generative adversarial networks",
+      "venue": "Comput. Biol. Medicine",
+      "year": 2021,
+      "referenceCount": 16,
+      "citationCount": 50,
+      "authors": [
+        {
+          "authorId": "12433044",
+          "name": "Tabea Kossen"
+        },
+        {
+          "authorId": "1932384882",
+          "name": "Pooja Subramaniam"
+        },
+        {
+          "authorId": "5556806",
+          "name": "V. Madai"
+        },
+        {
+          "authorId": "2880484",
+          "name": "A. Hennemuth"
+        },
+        {
+          "authorId": "37560378",
+          "name": "Kristian Hildebrand"
+        },
+        {
+          "authorId": "51321770",
+          "name": "A. Hilbert"
+        },
+        {
+          "authorId": "5294008",
+          "name": "J. Sobesky"
+        },
+        {
+          "authorId": "35227876",
+          "name": "Michelle Livne"
+        },
+        {
+          "authorId": "2429673",
+          "name": "Ivana Galinovic"
+        },
+        {
+          "authorId": "145761938",
+          "name": "A. Khalil"
+        },
+        {
+          "authorId": "2676985",
+          "name": "J. Fiebach"
+        },
+        {
+          "authorId": "32410009",
+          "name": "D. Frey"
+        }
+      ]
+    },
+    {
+      "paperId": "081c9565d686df5ec207b86f9741716056aed0de",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2512-18161",
+        "ArXiv": "2512.18161",
+        "DOI": "10.48550/arXiv.2512.18161",
+        "CorpusId": 284078265
+      },
+      "url": "https://www.semanticscholar.org/paper/081c9565d686df5ec207b86f9741716056aed0de",
+      "title": "Local Patches Meet Global Context: Scalable 3D Diffusion Priors for Computed Tomography Reconstruction",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "referenceCount": 45,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2400430782",
+          "name": "Taewon Yang"
+        },
+        {
+          "authorId": "2257379716",
+          "name": "Jason Hu"
+        },
+        {
+          "authorId": "2253483964",
+          "name": "Jeffrey A. Fessler"
+        },
+        {
+          "authorId": "2258119034",
+          "name": "Liyue Shen"
+        }
+      ]
+    },
+    {
+      "paperId": "7009df0cff99167ee59b39ade3373bf0c9dd975d",
+      "externalIds": {
+        "DBLP": "journals/cmig/ThomasLBH21",
+        "DOI": "10.1016/j.compmedimag.2021.101998",
+        "CorpusId": 239018273,
+        "PubMed": "34656812"
+      },
+      "url": "https://www.semanticscholar.org/paper/7009df0cff99167ee59b39ade3373bf0c9dd975d",
+      "title": "Characterization of tissue types in basal cell carcinoma images via generative modeling and concept vectors",
+      "venue": "Comput. Medical Imaging Graph.",
+      "year": 2021,
+      "referenceCount": 27,
+      "citationCount": 7,
+      "authors": [
+        {
+          "authorId": "2030920879",
+          "name": "S. Thomas"
+        },
+        {
+          "authorId": "152619260",
+          "name": "J. Lefevre"
+        },
+        {
+          "authorId": "2059446585",
+          "name": "Glenn W. Baxter"
+        },
+        {
+          "authorId": "1805361",
+          "name": "N. Hamilton"
+        }
+      ]
+    },
+    {
+      "paperId": "98dda4239f007436a539b8fbe5041e6dc8735edc",
+      "externalIds": {
+        "DOI": "10.1017/cjn.2021.91",
+        "CorpusId": 235258626
+      },
+      "url": "https://www.semanticscholar.org/paper/98dda4239f007436a539b8fbe5041e6dc8735edc",
+      "title": "Synthesis of glioma histopathology images using generative adversarial networks",
+      "venue": "Canadian Journal of Neurological Sciences / Journal Canadien des Sciences Neurologiques",
+      "year": 2021,
+      "referenceCount": 0,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2107661883",
+          "name": "K. Yang"
+        },
+        {
+          "authorId": "2243758382",
+          "name": "K. Reddy"
+        },
+        {
+          "authorId": "2242396131",
+          "name": "Bh Wang"
+        },
+        {
+          "authorId": "2242381816",
+          "name": "A. Cenic"
+        },
+        {
+          "authorId": "2242386625",
+          "name": "LC Ang"
+        },
+        {
+          "authorId": "2242377284",
+          "name": "J. Provias"
+        },
+        {
+          "authorId": "2242344390",
+          "name": "WH Yong"
+        },
+        {
+          "authorId": "2243332447",
+          "name": "JQ Lu"
+        }
+      ]
+    },
+    {
+      "paperId": "a81c9344d778aa60998a973599af1e678d812f8d",
+      "externalIds": {
+        "PubMedCentral": "9108458",
+        "DBLP": "journals/frai/KossenHMBHHPSHS22",
+        "DOI": "10.3389/frai.2022.813842",
+        "CorpusId": 248479204,
+        "PubMed": "35586223"
+      },
+      "url": "https://www.semanticscholar.org/paper/a81c9344d778aa60998a973599af1e678d812f8d",
+      "title": "Toward Sharing Brain Images: Differentially Private TOF-MRA Images With Segmentation Labels Using Generative Adversarial Networks",
+      "venue": "Frontiers in Artificial Intelligence",
+      "year": 2022,
+      "referenceCount": 51,
+      "citationCount": 12,
+      "authors": [
+        {
+          "authorId": "12433044",
+          "name": "Tabea Kossen"
+        },
+        {
+          "authorId": "2163966580",
+          "name": "Manuel A. Hirzel"
+        },
+        {
+          "authorId": "5556806",
+          "name": "V. Madai"
+        },
+        {
+          "authorId": "2257349158",
+          "name": "Franziska Boenisch"
+        },
+        {
+          "authorId": "2880484",
+          "name": "A. Hennemuth"
+        },
+        {
+          "authorId": "37560378",
+          "name": "Kristian Hildebrand"
+        },
+        {
+          "authorId": "145729210",
+          "name": "S. Pokutta"
+        },
+        {
+          "authorId": "2114156769",
+          "name": "Kartikey Sharma"
+        },
+        {
+          "authorId": "51321770",
+          "name": "A. Hilbert"
+        },
+        {
+          "authorId": "5294008",
+          "name": "J. Sobesky"
+        },
+        {
+          "authorId": "2429673",
+          "name": "Ivana Galinovic"
+        },
+        {
+          "authorId": "145761938",
+          "name": "A. Khalil"
+        },
+        {
+          "authorId": "2676985",
+          "name": "J. Fiebach"
+        },
+        {
+          "authorId": "32410009",
+          "name": "D. Frey"
+        }
+      ]
+    },
+    {
+      "paperId": "75434cb79bf19b8859a2a1eb85d75b2861d5f25a",
+      "externalIds": {
+        "DBLP": "conf/sipaim/BarreroRPMGGGR25",
+        "DOI": "10.1109/SIPAIM67325.2025.11283414",
+        "CorpusId": 284022914
+      },
+      "url": "https://www.semanticscholar.org/paper/75434cb79bf19b8859a2a1eb85d75b2861d5f25a",
+      "title": "A Realistic Synthetic Endoscopy Dataset from CT-Stomachs with Gastric Wall Textures learned from Endoscopy Images",
+      "venue": "Symposium on Medical Information Processing and Analysis",
+      "year": 2025,
+      "referenceCount": 16,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2399623644",
+          "name": "Diana Y. Barrero"
+        },
+        {
+          "authorId": "2165746360",
+          "name": "Josué Ruano-Balseca"
+        },
+        {
+          "authorId": "2146735473",
+          "name": "Jean C. Polo"
+        },
+        {
+          "authorId": "113958007",
+          "name": "L. Muñoz"
+        },
+        {
+          "authorId": "2399632814",
+          "name": "Cristian Gualdrón"
+        },
+        {
+          "authorId": "150212042",
+          "name": "Martín Gómez"
+        },
+        {
+          "authorId": "2237131831",
+          "name": "Fabio A. González"
+        },
+        {
+          "authorId": "2120955310",
+          "name": "Eduardo Romero"
+        }
+      ]
+    },
+    {
+      "paperId": "a68e7938e3c4d64a89daa5231165eb651b1cec48",
+      "externalIds": {
+        "ArXiv": "2009.04227",
+        "MAG": "3084192242",
+        "DBLP": "journals/corr/abs-2009-04227",
+        "CorpusId": 221553700
+      },
+      "url": "https://www.semanticscholar.org/paper/a68e7938e3c4d64a89daa5231165eb651b1cec48",
+      "title": "Anonymization of labeled TOF-MRA images for brain vessel segmentation using generative adversarial networks",
+      "venue": "arXiv.org",
+      "year": 2020,
+      "referenceCount": 44,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "12433044",
+          "name": "Tabea Kossen"
+        },
+        {
+          "authorId": "1932384882",
+          "name": "Pooja Subramaniam"
+        },
+        {
+          "authorId": "5556806",
+          "name": "V. Madai"
+        },
+        {
+          "authorId": "2880484",
+          "name": "A. Hennemuth"
+        },
+        {
+          "authorId": "37560378",
+          "name": "Kristian Hildebrand"
+        },
+        {
+          "authorId": "51321770",
+          "name": "A. Hilbert"
+        },
+        {
+          "authorId": "5294008",
+          "name": "J. Sobesky"
+        },
+        {
+          "authorId": "35227876",
+          "name": "Michelle Livne"
+        },
+        {
+          "authorId": "2429673",
+          "name": "Ivana Galinovic"
+        },
+        {
+          "authorId": "145761938",
+          "name": "A. Khalil"
+        },
+        {
+          "authorId": "2676985",
+          "name": "J. Fiebach"
+        },
+        {
+          "authorId": "32410009",
+          "name": "D. Frey"
+        }
+      ]
+    }
+  ]
+}

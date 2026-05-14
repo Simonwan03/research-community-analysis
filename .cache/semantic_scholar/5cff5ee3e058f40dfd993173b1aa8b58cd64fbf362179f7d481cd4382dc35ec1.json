@@ -1,0 +1,2667 @@
+{
+  "offset": 0,
+  "citingPaperInfo": {
+    "openAccessPdf": {
+      "url": "https://dl.acm.org/doi/pdf/10.1145/3396863",
+      "status": "BRONZE",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/1502.05696, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "title": "Approval Voting and Incentives in Crowdsourcing",
+    "authors": [
+      {
+        "authorId": "1737249",
+        "name": "Nihar B. Shah"
+      },
+      {
+        "authorId": "24982365",
+        "name": "Dengyong Zhou"
+      },
+      {
+        "authorId": "145613463",
+        "name": "Y. Peres"
+      }
+    ]
+  },
+  "data": [
+    {
+      "citedPaper": {
+        "paperId": "1f93a1990b493a15a6e689e898c88cb304bb3836",
+        "externalIds": {
+          "MAG": "2260597827",
+          "DBLP": "journals/corr/KhetanO16a",
+          "CorpusId": 14776082
+        },
+        "url": "https://www.semanticscholar.org/paper/1f93a1990b493a15a6e689e898c88cb304bb3836",
+        "title": "Reliable Crowdsourcing under the Generalized Dawid-Skene Model",
+        "venue": "arXiv.org",
+        "year": 2016,
+        "referenceCount": 25,
+        "citationCount": 18,
+        "authors": [
+          {
+            "authorId": "3083159",
+            "name": "A. Khetan"
+          },
+          {
+            "authorId": "34184418",
+            "name": "Sewoong Oh"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "41b67b23ccbe77e642c59970d91a9a9cf8d45e09",
+        "externalIds": {
+          "MAG": "1170623329",
+          "DBLP": "conf/nips/ProcacciaS15",
+          "CorpusId": 13941505
+        },
+        "url": "https://www.semanticscholar.org/paper/41b67b23ccbe77e642c59970d91a9a9cf8d45e09",
+        "title": "Is Approval Voting Optimal Given Approval Votes?",
+        "venue": "Neural Information Processing Systems",
+        "year": 2015,
+        "referenceCount": 27,
+        "citationCount": 21,
+        "authors": [
+          {
+            "authorId": "1689184",
+            "name": "Ariel D. Procaccia"
+          },
+          {
+            "authorId": "39195827",
+            "name": "Nisarg Shah"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "78220407b707a19c03fa202d1a6bc1cf8f45add4",
+        "externalIds": {
+          "MAG": "2150597317",
+          "DBLP": "conf/chi/GadirajuKDD15",
+          "DOI": "10.1145/2702123.2702443",
+          "CorpusId": 11861607
+        },
+        "url": "https://www.semanticscholar.org/paper/78220407b707a19c03fa202d1a6bc1cf8f45add4",
+        "title": "Understanding Malicious Behavior in Crowdsourcing Platforms: The Case of Online Surveys",
+        "venue": "International Conference on Human Factors in Computing Systems",
+        "year": 2015,
+        "referenceCount": 32,
+        "citationCount": 266,
+        "authors": [
+          {
+            "authorId": "2516584",
+            "name": "U. Gadiraju"
+          },
+          {
+            "authorId": "1727722",
+            "name": "Ricardo Kawase"
+          },
+          {
+            "authorId": "3081683",
+            "name": "S. Dietze"
+          },
+          {
+            "authorId": "1694274",
+            "name": "Gianluca Demartini"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "2c3d02ce8780cc6648caf4ee996d9628c6388751",
+        "externalIds": {
+          "MAG": "1814633089",
+          "DBLP": "journals/corr/ZhouLPMS15",
+          "ArXiv": "1503.07240",
+          "CorpusId": 15842027
+        },
+        "url": "https://www.semanticscholar.org/paper/2c3d02ce8780cc6648caf4ee996d9628c6388751",
+        "title": "Regularized Minimax Conditional Entropy for Crowdsourcing",
+        "venue": "arXiv.org",
+        "year": 2015,
+        "referenceCount": 46,
+        "citationCount": 72,
+        "authors": [
+          {
+            "authorId": "24982365",
+            "name": "Dengyong Zhou"
+          },
+          {
+            "authorId": "47362268",
+            "name": "Qiang Liu"
+          },
+          {
+            "authorId": "144189092",
+            "name": "John C. Platt"
+          },
+          {
+            "authorId": "50004012",
+            "name": "Christopher Meek"
+          },
+          {
+            "authorId": "1737249",
+            "name": "Nihar B. Shah"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "da1f22dd6d834e031eb733d2b70320f34ef9458f",
+        "externalIds": {
+          "DBLP": "conf/aistats/ShahBBPRW15",
+          "MAG": "2951836260",
+          "ArXiv": "1505.01462",
+          "CorpusId": 6474018
+        },
+        "url": "https://www.semanticscholar.org/paper/da1f22dd6d834e031eb733d2b70320f34ef9458f",
+        "title": "Estimation from Pairwise Comparisons: Sharp Minimax Bounds with Topology Dependence",
+        "venue": "Journal of machine learning research",
+        "year": 2015,
+        "referenceCount": 81,
+        "citationCount": 179,
+        "authors": [
+          {
+            "authorId": "1737249",
+            "name": "Nihar B. Shah"
+          },
+          {
+            "authorId": "3261943",
+            "name": "Sivaraman Balakrishnan"
+          },
+          {
+            "authorId": "1798270",
+            "name": "Joseph K. Bradley"
+          },
+          {
+            "authorId": "1750527",
+            "name": "Abhay K. Parekh"
+          },
+          {
+            "authorId": "144161012",
+            "name": "K. Ramchandran"
+          },
+          {
+            "authorId": "1721860",
+            "name": "M. Wainwright"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "e0a2fb19e05d1788d85301edebd68e4529a7f6ff",
+        "externalIds": {
+          "DBLP": "conf/aaai/FrongilloCK15",
+          "MAG": "2141127269",
+          "ArXiv": "1410.0375",
+          "DOI": "10.1609/aaai.v29i1.9315",
+          "CorpusId": 1141878
+        },
+        "url": "https://www.semanticscholar.org/paper/e0a2fb19e05d1788d85301edebd68e4529a7f6ff",
+        "title": "Elicitation for Aggregation",
+        "venue": "AAAI Conference on Artificial Intelligence",
+        "year": 2014,
+        "referenceCount": 31,
+        "citationCount": 30,
+        "authors": [
+          {
+            "authorId": "1970694",
+            "name": "Rafael M. Frongillo"
+          },
+          {
+            "authorId": "117745152",
+            "name": "Yiling Chen"
+          },
+          {
+            "authorId": "2532501",
+            "name": "Ian A. Kash"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "45f759c3d7c2becc27f2e1bcf086d5e61bce36e8",
+        "externalIds": {
+          "MAG": "1595524969",
+          "DBLP": "conf/hcomp/FaltingsJPT14",
+          "DOI": "10.1609/hcomp.v2i1.13145",
+          "CorpusId": 14978614
+        },
+        "url": "https://www.semanticscholar.org/paper/45f759c3d7c2becc27f2e1bcf086d5e61bce36e8",
+        "title": "Incentives to Counter Bias in Human Computation",
+        "venue": "AAAI Conference on Human Computation & Crowdsourcing",
+        "year": 2014,
+        "referenceCount": 30,
+        "citationCount": 67,
+        "authors": [
+          {
+            "authorId": "1735128",
+            "name": "B. Faltings"
+          },
+          {
+            "authorId": "2565197",
+            "name": "R. Jurca"
+          },
+          {
+            "authorId": "1781996",
+            "name": "P. Pu"
+          },
+          {
+            "authorId": "48937548",
+            "name": "B. Tran"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "e74f9b7f8eec6ba4704c206b93bc8079af3da4bd",
+        "externalIds": {
+          "ArXiv": "1409.0575",
+          "DBLP": "journals/corr/RussakovskyDSKSMHKKBBF14",
+          "MAG": "2546241758",
+          "DOI": "10.1007/s11263-015-0816-y",
+          "CorpusId": 2930547
+        },
+        "url": "https://www.semanticscholar.org/paper/e74f9b7f8eec6ba4704c206b93bc8079af3da4bd",
+        "title": "ImageNet Large Scale Visual Recognition Challenge",
+        "venue": "International Journal of Computer Vision",
+        "year": 2014,
+        "referenceCount": 124,
+        "citationCount": 42377,
+        "authors": [
+          {
+            "authorId": "2314850892",
+            "name": "Olga Russakovsky"
+          },
+          {
+            "authorId": "153302678",
+            "name": "Jia Deng"
+          },
+          {
+            "authorId": "144914140",
+            "name": "Hao Su"
+          },
+          {
+            "authorId": "2285165",
+            "name": "J. Krause"
+          },
+          {
+            "authorId": "145031342",
+            "name": "S. Satheesh"
+          },
+          {
+            "authorId": "2261887230",
+            "name": "Sean Ma"
+          },
+          {
+            "authorId": "3109481",
+            "name": "Zhiheng Huang"
+          },
+          {
+            "authorId": "2354728",
+            "name": "A. Karpathy"
+          },
+          {
+            "authorId": "2556428",
+            "name": "A. Khosla"
+          },
+          {
+            "authorId": "145879842",
+            "name": "Michael S. Bernstein"
+          },
+          {
+            "authorId": "39668247",
+            "name": "A. Berg"
+          },
+          {
+            "authorId": "48004138",
+            "name": "Li Fei-Fei"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "5469f2dba8f9afbb82e19abae93ff27e3c116c85",
+        "externalIds": {
+          "ArXiv": "1408.2539",
+          "MAG": "2963246254",
+          "DBLP": "journals/corr/CaiDP14",
+          "CorpusId": 1647632
+        },
+        "url": "https://www.semanticscholar.org/paper/5469f2dba8f9afbb82e19abae93ff27e3c116c85",
+        "title": "Optimum Statistical Estimation with Strategic Data Sources",
+        "venue": "Annual Conference Computational Learning Theory",
+        "year": 2014,
+        "referenceCount": 52,
+        "citationCount": 153,
+        "authors": [
+          {
+            "authorId": "2258335040",
+            "name": "Yang Cai"
+          },
+          {
+            "authorId": "3806712",
+            "name": "C. Daskalakis"
+          },
+          {
+            "authorId": "2192395983",
+            "name": "Christos H. Papadimitriou"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "a54019645dd8e9cfd8d71ab60155449307de3d83",
+        "externalIds": {
+          "DBLP": "journals/jmlr/ShahZ16",
+          "MAG": "2952598059",
+          "ArXiv": "1408.1387",
+          "CorpusId": 9236768
+        },
+        "url": "https://www.semanticscholar.org/paper/a54019645dd8e9cfd8d71ab60155449307de3d83",
+        "title": "Double or Nothing: Multiplicative Incentive Mechanisms for Crowdsourcing",
+        "venue": "Journal of machine learning research",
+        "year": 2014,
+        "referenceCount": 87,
+        "citationCount": 110,
+        "authors": [
+          {
+            "authorId": "1737249",
+            "name": "Nihar B. Shah"
+          },
+          {
+            "authorId": "24982365",
+            "name": "Dengyong Zhou"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "6234b5c32af28df2eef3f39ed7948839f6f17bb4",
+        "externalIds": {
+          "MAG": "2952628653",
+          "DBLP": "conf/focs/AnariGN14",
+          "ArXiv": "1405.2452",
+          "DOI": "10.1109/FOCS.2014.36",
+          "CorpusId": 7381564
+        },
+        "url": "https://www.semanticscholar.org/paper/6234b5c32af28df2eef3f39ed7948839f6f17bb4",
+        "title": "Mechanism Design for Crowdsourcing: An Optimal 1-1/e Competitive Budget-Feasible Mechanism for Large Markets",
+        "venue": "IEEE Annual Symposium on Foundations of Computer Science",
+        "year": 2014,
+        "referenceCount": 19,
+        "citationCount": 85,
+        "authors": [
+          {
+            "authorId": "3162610",
+            "name": "Nima Anari"
+          },
+          {
+            "authorId": "35127877",
+            "name": "G. Goel"
+          },
+          {
+            "authorId": "3139725",
+            "name": "Afshin Nikzad"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "6b110666ba753c6f4b785a7dde2d2d5754133038",
+        "externalIds": {
+          "DBLP": "journals/corr/JurcaF14",
+          "MAG": "2164890430",
+          "ArXiv": "1401.3451",
+          "DOI": "10.1613/jair.2621",
+          "CorpusId": 1525658
+        },
+        "url": "https://www.semanticscholar.org/paper/6b110666ba753c6f4b785a7dde2d2d5754133038",
+        "title": "Mechanisms for Making Crowds Truthful",
+        "venue": "Journal of Artificial Intelligence Research",
+        "year": 2014,
+        "referenceCount": 48,
+        "citationCount": 140,
+        "authors": [
+          {
+            "authorId": "2565197",
+            "name": "R. Jurca"
+          },
+          {
+            "authorId": "1735128",
+            "name": "B. Faltings"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "bf1d55ac5f92bd634b0ed7ec5a17045fb4258376",
+        "externalIds": {
+          "ArXiv": "1309.3330",
+          "DBLP": "journals/jstsp/VempatyVV14",
+          "MAG": "1989645203",
+          "DOI": "10.1109/JSTSP.2014.2316116",
+          "CorpusId": 8130520
+        },
+        "url": "https://www.semanticscholar.org/paper/bf1d55ac5f92bd634b0ed7ec5a17045fb4258376",
+        "title": "Reliable Crowdsourcing for Multi-Class Labeling Using Coding Theory",
+        "venue": "IEEE Journal on Selected Topics in Signal Processing",
+        "year": 2013,
+        "referenceCount": 27,
+        "citationCount": 70,
+        "authors": [
+          {
+            "authorId": "2513113",
+            "name": "Aditya Vempaty"
+          },
+          {
+            "authorId": "1697944",
+            "name": "L. Varshney"
+          },
+          {
+            "authorId": "1925309",
+            "name": "P. Varshney"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "743a4a699ef01786a7321291ff8ca94b7bde7780",
+        "externalIds": {
+          "MAG": "1497882404",
+          "DBLP": "conf/icml/HoJV13",
+          "CorpusId": 18164644
+        },
+        "url": "https://www.semanticscholar.org/paper/743a4a699ef01786a7321291ff8ca94b7bde7780",
+        "title": "Adaptive Task Assignment for Crowdsourced Classification",
+        "venue": "International Conference on Machine Learning",
+        "year": 2013,
+        "referenceCount": 26,
+        "citationCount": 292,
+        "authors": [
+          {
+            "authorId": "40029912",
+            "name": "Chien-Ju Ho"
+          },
+          {
+            "authorId": "1775136",
+            "name": "S. Jabbari"
+          },
+          {
+            "authorId": "4006636",
+            "name": "Jennifer Wortman Vaughan"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "462f18b6d18ae06b36972ee7be2dabdc1a99dd9a",
+        "externalIds": {
+          "MAG": "2275289469",
+          "DOI": "10.1177/2158244013489691",
+          "CorpusId": 147139732
+        },
+        "url": "https://www.semanticscholar.org/paper/462f18b6d18ae06b36972ee7be2dabdc1a99dd9a",
+        "title": "Optimal Number of Questionnaire Response Categories",
+        "venue": "",
+        "year": 2013,
+        "referenceCount": 25,
+        "citationCount": 31,
+        "authors": [
+          {
+            "authorId": "143852846",
+            "name": "W. Jones"
+          },
+          {
+            "authorId": "40182629",
+            "name": "S. Loe"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "6c3c36fbc2cf24baf2301e80da57ed68cab97cd6",
+        "externalIds": {
+          "MAG": "2147687736",
+          "DBLP": "journals/datamine/IpeirotisPSW14",
+          "DOI": "10.1007/s10618-013-0306-1",
+          "CorpusId": 14745201
+        },
+        "url": "https://www.semanticscholar.org/paper/6c3c36fbc2cf24baf2301e80da57ed68cab97cd6",
+        "title": "Repeated labeling using multiple noisy labelers",
+        "venue": "Data mining and knowledge discovery",
+        "year": 2013,
+        "referenceCount": 64,
+        "citationCount": 203,
+        "authors": [
+          {
+            "authorId": "2942126",
+            "name": "Panagiotis G. Ipeirotis"
+          },
+          {
+            "authorId": "1752722",
+            "name": "F. Provost"
+          },
+          {
+            "authorId": "2278313975",
+            "name": "Victor S. Sheng"
+          },
+          {
+            "authorId": "2152453484",
+            "name": "Jing Wang"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "3364475df602dc3e75d4969a969cdc26a479d5c5",
+        "externalIds": {
+          "DBLP": "journals/corr/abs-1303-0799",
+          "MAG": "2120898858",
+          "ArXiv": "1303.0799",
+          "DOI": "10.1145/2488388.2488417",
+          "CorpusId": 10481184
+        },
+        "url": "https://www.semanticscholar.org/paper/3364475df602dc3e75d4969a969cdc26a479d5c5",
+        "title": "Crowdsourced judgement elicitation with endogenous proficiency",
+        "venue": "The Web Conference",
+        "year": 2013,
+        "referenceCount": 19,
+        "citationCount": 230,
+        "authors": [
+          {
+            "authorId": "30654921",
+            "name": "Anirban Dasgupta"
+          },
+          {
+            "authorId": "1740273",
+            "name": "Arpita Ghosh"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "199dcbb1e5287eedb458c867b171cc83c06b0d2a",
+        "externalIds": {
+          "MAG": "2164545125",
+          "DBLP": "conf/wsdm/ChenBCH13",
+          "DOI": "10.1145/2433396.2433420",
+          "CorpusId": 6647354
+        },
+        "url": "https://www.semanticscholar.org/paper/199dcbb1e5287eedb458c867b171cc83c06b0d2a",
+        "title": "Pairwise ranking aggregation in a crowdsourced setting",
+        "venue": "Web Search and Data Mining",
+        "year": 2013,
+        "referenceCount": 32,
+        "citationCount": 363,
+        "authors": [
+          {
+            "authorId": "2145307038",
+            "name": "Xi Chen"
+          },
+          {
+            "authorId": "144609235",
+            "name": "Paul N. Bennett"
+          },
+          {
+            "authorId": "1403434962",
+            "name": "K. Collins-Thompson"
+          },
+          {
+            "authorId": "145479841",
+            "name": "E. Horvitz"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "b2eef3c281b15461f141035aa9a778062b5723fd",
+        "externalIds": {
+          "DBLP": "conf/nips/ZhouPBM12",
+          "MAG": "2152009989",
+          "CorpusId": 15908955
+        },
+        "url": "https://www.semanticscholar.org/paper/b2eef3c281b15461f141035aa9a778062b5723fd",
+        "title": "Learning from the Wisdom of Crowds by Minimax Entropy",
+        "venue": "Neural Information Processing Systems",
+        "year": 2012,
+        "referenceCount": 19,
+        "citationCount": 390,
+        "authors": [
+          {
+            "authorId": "24982365",
+            "name": "Dengyong Zhou"
+          },
+          {
+            "authorId": "144189092",
+            "name": "John C. Platt"
+          },
+          {
+            "authorId": "8611534",
+            "name": "S. Basu"
+          },
+          {
+            "authorId": "145469202",
+            "name": "Yi Mao"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "221eb399fff1ab8d5d260de0cd2809ca46652164",
+        "externalIds": {
+          "MAG": "2129345386",
+          "DBLP": "conf/nips/LiuPI12",
+          "CorpusId": 2942989
+        },
+        "url": "https://www.semanticscholar.org/paper/221eb399fff1ab8d5d260de0cd2809ca46652164",
+        "title": "Variational Inference for Crowdsourcing",
+        "venue": "Neural Information Processing Systems",
+        "year": 2012,
+        "referenceCount": 22,
+        "citationCount": 374,
+        "authors": [
+          {
+            "authorId": "47362268",
+            "name": "Qiang Liu"
+          },
+          {
+            "authorId": "2122806621",
+            "name": "Jian Peng"
+          },
+          {
+            "authorId": "1740137",
+            "name": "A. Ihler"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "abd1c342495432171beb7ca8fd9551ef13cbd0ff",
+        "externalIds": {
+          "DBLP": "conf/nips/KrizhevskySH12",
+          "MAG": "2618530766",
+          "DOI": "10.1145/3065386",
+          "CorpusId": 195908774
+        },
+        "url": "https://www.semanticscholar.org/paper/abd1c342495432171beb7ca8fd9551ef13cbd0ff",
+        "title": "ImageNet classification with deep convolutional neural networks",
+        "venue": "Communications of the ACM",
+        "year": 2012,
+        "referenceCount": 71,
+        "citationCount": 128331,
+        "authors": [
+          {
+            "authorId": "2064160",
+            "name": "A. Krizhevsky"
+          },
+          {
+            "authorId": "1701686",
+            "name": "I. Sutskever"
+          },
+          {
+            "authorId": "1695689",
+            "name": "Geoffrey E. Hinton"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "57619d0962814f38a447fe9e26e8bcc74b5fc1bb",
+        "externalIds": {
+          "DBLP": "conf/aamas/KamarHH12",
+          "MAG": "2109021302",
+          "DOI": "10.65109/hmcs1623",
+          "CorpusId": 6950702
+        },
+        "url": "https://www.semanticscholar.org/paper/57619d0962814f38a447fe9e26e8bcc74b5fc1bb",
+        "title": "Combining human and machine intelligence in large-scale crowdsourcing",
+        "venue": "Adaptive Agents and Multi-Agent Systems",
+        "year": 2012,
+        "referenceCount": 13,
+        "citationCount": 402,
+        "authors": [
+          {
+            "authorId": "1783184",
+            "name": "Ece Kamar"
+          },
+          {
+            "authorId": "21748312",
+            "name": "Severin Hacker"
+          },
+          {
+            "authorId": "145479841",
+            "name": "E. Horvitz"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "6b0960e4c66debc2d7e3e6f39572bb2ed434f506",
+        "externalIds": {
+          "DBLP": "conf/nips/WauthierJ11",
+          "MAG": "2168396085",
+          "CorpusId": 9256947
+        },
+        "url": "https://www.semanticscholar.org/paper/6b0960e4c66debc2d7e3e6f39572bb2ed434f506",
+        "title": "Bayesian Bias Mitigation for Crowdsourcing",
+        "venue": "Neural Information Processing Systems",
+        "year": 2011,
+        "referenceCount": 19,
+        "citationCount": 138,
+        "authors": [
+          {
+            "authorId": "2624567",
+            "name": "Fabian L. Wauthier"
+          },
+          {
+            "authorId": "1694621",
+            "name": "Michael I. Jordan"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "d355bf0e65a0f15cdbaec326b2894d90ab4c0d44",
+        "externalIds": {
+          "DBLP": "conf/nips/KargerOS11",
+          "MAG": "2140890285",
+          "CorpusId": 2963746
+        },
+        "url": "https://www.semanticscholar.org/paper/d355bf0e65a0f15cdbaec326b2894d90ab4c0d44",
+        "title": "Iterative Learning for Reliable Crowdsourcing Systems",
+        "venue": "Neural Information Processing Systems",
+        "year": 2011,
+        "referenceCount": 16,
+        "citationCount": 235,
+        "authors": [
+          {
+            "authorId": "1743286",
+            "name": "David R Karger"
+          },
+          {
+            "authorId": "34184418",
+            "name": "Sewoong Oh"
+          },
+          {
+            "authorId": "145081804",
+            "name": "Devavrat Shah"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "789f6e91a0917ec2648b64dfd2d3d063abf38caf",
+        "externalIds": {
+          "MAG": "2089050785",
+          "DBLP": "conf/ithings/YuenKL11",
+          "DOI": "10.1109/iThings/CPSCom.2011.128",
+          "CorpusId": 9309068
+        },
+        "url": "https://www.semanticscholar.org/paper/789f6e91a0917ec2648b64dfd2d3d063abf38caf",
+        "title": "Task Matching in Crowdsourcing",
+        "venue": "2011 International Conference on Internet of Things and 4th International Conference on Cyber, Physical and Social Computing",
+        "year": 2011,
+        "referenceCount": 10,
+        "citationCount": 85,
+        "authors": [
+          {
+            "authorId": "30781135",
+            "name": "Man-Ching Yuen"
+          },
+          {
+            "authorId": "145310663",
+            "name": "Irwin King"
+          },
+          {
+            "authorId": "144446033",
+            "name": "K. Leung"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "bf426577c520fad1d21ecc386355dc0a7a5ae3c0",
+        "externalIds": {
+          "MAG": "2952607996",
+          "DBLP": "journals/corr/abs-1108-2096",
+          "ArXiv": "1108.2096",
+          "DOI": "10.1109/INFCOM.2012.6195597",
+          "CorpusId": 4852574
+        },
+        "url": "https://www.semanticscholar.org/paper/bf426577c520fad1d21ecc386355dc0a7a5ae3c0",
+        "title": "Reputation-based incentive protocols in crowdsourcing applications",
+        "venue": "2012 Proceedings IEEE INFOCOM",
+        "year": 2011,
+        "referenceCount": 16,
+        "citationCount": 297,
+        "authors": [
+          {
+            "authorId": "2153632560",
+            "name": "Yu Zhang"
+          },
+          {
+            "authorId": "1729969",
+            "name": "M. Schaar"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "1146a176d04178c5e22ffd5dc1558b1db4421fe6",
+        "externalIds": {
+          "MAG": "1979483312",
+          "DBLP": "conf/sigir/KazaiKKM11",
+          "DOI": "10.1145/2009916.2009947",
+          "CorpusId": 574026
+        },
+        "url": "https://www.semanticscholar.org/paper/1146a176d04178c5e22ffd5dc1558b1db4421fe6",
+        "title": "Crowdsourcing for book search evaluation: impact of hit design on comparative system ranking",
+        "venue": "Annual International ACM SIGIR Conference on Research and Development in Information Retrieval",
+        "year": 2011,
+        "referenceCount": 31,
+        "citationCount": 159,
+        "authors": [
+          {
+            "authorId": "1688470",
+            "name": "G. Kazai"
+          },
+          {
+            "authorId": "1753628",
+            "name": "J. Kamps"
+          },
+          {
+            "authorId": "1781703",
+            "name": "M. Koolen"
+          },
+          {
+            "authorId": "1398136050",
+            "name": "Natasa Milic-Frayling"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "905092baffc4388c55cf0747b56367d919b7eabc",
+        "externalIds": {
+          "MAG": "132136377",
+          "DBLP": "conf/aaai/CaragiannisKM10",
+          "DOI": "10.1609/aaai.v24i1.7615",
+          "CorpusId": 14666174
+        },
+        "url": "https://www.semanticscholar.org/paper/905092baffc4388c55cf0747b56367d919b7eabc",
+        "title": "Approximation Algorithms and Mechanism Design for Minimax Approval Voting",
+        "venue": "AAAI Conference on Artificial Intelligence",
+        "year": 2010,
+        "referenceCount": 10,
+        "citationCount": 39,
+        "authors": [
+          {
+            "authorId": "1709029",
+            "name": "I. Caragiannis"
+          },
+          {
+            "authorId": "2081922477",
+            "name": "Dimitris Kalaitzis"
+          },
+          {
+            "authorId": "1737120",
+            "name": "E. Markakis"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "ca426381758a702ddca0a620344af709db0db0bd",
+        "externalIds": {
+          "MAG": "2132421331",
+          "DOI": "10.2139/SSRN.1608051",
+          "CorpusId": 155070269
+        },
+        "url": "https://www.semanticscholar.org/paper/ca426381758a702ddca0a620344af709db0db0bd",
+        "title": "Satisfaction Approval Voting",
+        "venue": "",
+        "year": 2010,
+        "referenceCount": 19,
+        "citationCount": 70,
+        "authors": [
+          {
+            "authorId": "2270665776",
+            "name": "Steven J. Brams"
+          },
+          {
+            "authorId": "2270665776",
+            "name": "Steven J. Brams"
+          },
+          {
+            "authorId": "2241642143",
+            "name": "D. M. Kilgour"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "dc88d84afc20fcc9d3f627eec537c903871f880e",
+        "externalIds": {
+          "MAG": "2134305421",
+          "DBLP": "journals/jmlr/RaykarYZVFBM10",
+          "DOI": "10.5555/1756006.1859894",
+          "CorpusId": 10189684
+        },
+        "url": "https://www.semanticscholar.org/paper/dc88d84afc20fcc9d3f627eec537c903871f880e",
+        "title": "Learning From Crowds",
+        "venue": "Journal of machine learning research",
+        "year": 2010,
+        "referenceCount": 30,
+        "citationCount": 1523,
+        "authors": [
+          {
+            "authorId": "145769639",
+            "name": "V. Raykar"
+          },
+          {
+            "authorId": "1911562",
+            "name": "Shipeng Yu"
+          },
+          {
+            "authorId": "3093607",
+            "name": "Linda H. Zhao"
+          },
+          {
+            "authorId": "3146182",
+            "name": "G. Hermosillo"
+          },
+          {
+            "authorId": "144357497",
+            "name": "Charles Florin"
+          },
+          {
+            "authorId": "1829720",
+            "name": "L. Bogoni"
+          },
+          {
+            "authorId": "145717702",
+            "name": "Linda Moy"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "df3196bd230e23a86fbf8254daa78c7be9df028a",
+        "externalIds": {
+          "MAG": "2132655161",
+          "DBLP": "conf/wsdm/CarlsonBWHM10",
+          "DOI": "10.1145/1718487.1718501",
+          "CorpusId": 8145753
+        },
+        "url": "https://www.semanticscholar.org/paper/df3196bd230e23a86fbf8254daa78c7be9df028a",
+        "title": "Coupled semi-supervised learning for information extraction",
+        "venue": "Web Search and Data Mining",
+        "year": 2010,
+        "referenceCount": 32,
+        "citationCount": 489,
+        "authors": [
+          {
+            "authorId": "143818235",
+            "name": "Andrew Carlson"
+          },
+          {
+            "authorId": "31779043",
+            "name": "J. Betteridge"
+          },
+          {
+            "authorId": "2108772203",
+            "name": "Richard C. Wang"
+          },
+          {
+            "authorId": "1842532",
+            "name": "Estevam Hruschka"
+          },
+          {
+            "authorId": "40975594",
+            "name": "Tom Michael Mitchell"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "6953420c593842697dd09bc2cf7ffbbaf67a6e8e",
+        "externalIds": {
+          "MAG": "2142518823",
+          "DBLP": "conf/nips/WhitehillRWBM09",
+          "CorpusId": 2332622
+        },
+        "url": "https://www.semanticscholar.org/paper/6953420c593842697dd09bc2cf7ffbbaf67a6e8e",
+        "title": "Whose Vote Should Count More: Optimal Integration of Labels from Labelers of Unknown Expertise",
+        "venue": "Neural Information Processing Systems",
+        "year": 2009,
+        "referenceCount": 17,
+        "citationCount": 1321,
+        "authors": [
+          {
+            "authorId": "143973061",
+            "name": "J. Whitehill"
+          },
+          {
+            "authorId": "12114845",
+            "name": "P. Ruvolo"
+          },
+          {
+            "authorId": "4072965",
+            "name": "Tingfan Wu"
+          },
+          {
+            "authorId": "153807404",
+            "name": "J. Bergsma"
+          },
+          {
+            "authorId": "1741200",
+            "name": "J. Movellan"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "0a9b5527f47bb8921feb928b3a9934e0447f5099",
+        "externalIds": {
+          "DBLP": "conf/sigecom/LambertS09",
+          "MAG": "2153837137",
+          "DOI": "10.1145/1566374.1566391",
+          "CorpusId": 17247998
+        },
+        "url": "https://www.semanticscholar.org/paper/0a9b5527f47bb8921feb928b3a9934e0447f5099",
+        "title": "Eliciting truthful answers to multiple-choice questions",
+        "venue": "ACM Conference on Economics and Computation",
+        "year": 2009,
+        "referenceCount": 12,
+        "citationCount": 65,
+        "authors": [
+          {
+            "authorId": "1784519",
+            "name": "Nicolas S. Lambert"
+          },
+          {
+            "authorId": "1701353",
+            "name": "Y. Shoham"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "269fe54c09db717e7827a9111c63e3d1ef5c4d2b",
+        "externalIds": {
+          "DBLP": "conf/sigecom/JainCP09",
+          "MAG": "2124810512",
+          "DOI": "10.1145/1566374.1566393",
+          "CorpusId": 268118032
+        },
+        "url": "https://www.semanticscholar.org/paper/269fe54c09db717e7827a9111c63e3d1ef5c4d2b",
+        "title": "Designing incentives for online question and answer forums",
+        "venue": "ACM Conference on Economics and Computation",
+        "year": 2009,
+        "referenceCount": 33,
+        "citationCount": 15,
+        "authors": [
+          {
+            "authorId": "39720946",
+            "name": "Shaili Jain"
+          },
+          {
+            "authorId": "2285093212",
+            "name": "Yiling Chen"
+          },
+          {
+            "authorId": "2247897869",
+            "name": "David C. Parkes"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "9c7ba55a210a454c787499aadc73ce708db3fe4b",
+        "externalIds": {
+          "MAG": "2784604119",
+          "CorpusId": 56348826
+        },
+        "url": "https://www.semanticscholar.org/paper/9c7ba55a210a454c787499aadc73ce708db3fe4b",
+        "title": "Does Coarse Thinking Matter for Option Pricing? Evidence from an Experiment",
+        "venue": "",
+        "year": 2009,
+        "referenceCount": 16,
+        "citationCount": 29,
+        "authors": [
+          {
+            "authorId": "13538814",
+            "name": "Hammad Siddiqi"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "adcb09926f1c524b9402c33e5b6ca4e39478a198",
+        "externalIds": {
+          "MAG": "2912219781",
+          "DBLP": "conf/wine/LambertS08",
+          "DOI": "10.1007/978-3-540-92185-1_23",
+          "CorpusId": 9331245
+        },
+        "url": "https://www.semanticscholar.org/paper/adcb09926f1c524b9402c33e5b6ca4e39478a198",
+        "title": "Truthful Surveys",
+        "venue": "Workshop on Internet and Network Economics",
+        "year": 2008,
+        "referenceCount": 10,
+        "citationCount": 25,
+        "authors": [
+          {
+            "authorId": "1784519",
+            "name": "Nicolas S. Lambert"
+          },
+          {
+            "authorId": "1701353",
+            "name": "Y. Shoham"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "14a1401d48b11314ce801092ba4b30565fee2892",
+        "externalIds": {
+          "MAG": "2890005476",
+          "DOI": "10.1162/QJEC.2008.123.2.577",
+          "CorpusId": 9201596
+        },
+        "url": "https://www.semanticscholar.org/paper/14a1401d48b11314ce801092ba4b30565fee2892",
+        "title": "Coarse Thinking and Persuasion",
+        "venue": "",
+        "year": 2008,
+        "referenceCount": 85,
+        "citationCount": 404,
+        "authors": [
+          {
+            "authorId": "2062143",
+            "name": "S. Mullainathan"
+          },
+          {
+            "authorId": "40998264",
+            "name": "Joshua Schwartzstein"
+          },
+          {
+            "authorId": "145279878",
+            "name": "A. Shleifer"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "752ada7158bf4339262a20d0157c70541801b00b",
+        "externalIds": {
+          "MAG": "2299417033",
+          "DOI": "10.1007/S10683-006-9149-6",
+          "CorpusId": 153531883
+        },
+        "url": "https://www.semanticscholar.org/paper/752ada7158bf4339262a20d0157c70541801b00b",
+        "title": "A live experiment on approval voting",
+        "venue": "",
+        "year": 2008,
+        "referenceCount": 18,
+        "citationCount": 87,
+        "authors": [
+          {
+            "authorId": "3096947",
+            "name": "J. Laslier"
+          },
+          {
+            "authorId": "1843966",
+            "name": "K. Straeten"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "d063e3a560dd376e06058ec5fd0eff24e4067777",
+        "externalIds": {
+          "DBLP": "journals/jcss/DekelFP10",
+          "MAG": "2158539414",
+          "DOI": "10.1016/j.jcss.2010.03.003",
+          "CorpusId": 141455
+        },
+        "url": "https://www.semanticscholar.org/paper/d063e3a560dd376e06058ec5fd0eff24e4067777",
+        "title": "Incentive compatible regression learning",
+        "venue": "ACM-SIAM Symposium on Discrete Algorithms",
+        "year": 2008,
+        "referenceCount": 40,
+        "citationCount": 191,
+        "authors": [
+          {
+            "authorId": "1716876",
+            "name": "O. Dekel"
+          },
+          {
+            "authorId": "145646057",
+            "name": "Felix A. Fischer"
+          },
+          {
+            "authorId": "1689184",
+            "name": "Ariel D. Procaccia"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "714cfd2d228d0757a0fbf7755d994de792b99055",
+        "externalIds": {
+          "MAG": "2029155746",
+          "DOI": "10.2202/1446-9022.1118",
+          "CorpusId": 153500953
+        },
+        "url": "https://www.semanticscholar.org/paper/714cfd2d228d0757a0fbf7755d994de792b99055",
+        "title": "\"Putting Your Money Where Your Mouth Is\" - A Betting Platform for Better Prediction",
+        "venue": "",
+        "year": 2007,
+        "referenceCount": 20,
+        "citationCount": 24,
+        "authors": [
+          {
+            "authorId": "38557052",
+            "name": "Fang Fang"
+          },
+          {
+            "authorId": "2964655",
+            "name": "M. Stinchcombe"
+          },
+          {
+            "authorId": "71837670",
+            "name": "Andrew Whinston"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "6bbd8fc39487249bd1b6886e4dc763550877b758",
+        "externalIds": {
+          "MAG": "2025720061",
+          "DOI": "10.1198/016214506000001437",
+          "CorpusId": 1878582
+        },
+        "url": "https://www.semanticscholar.org/paper/6bbd8fc39487249bd1b6886e4dc763550877b758",
+        "title": "Strictly Proper Scoring Rules, Prediction, and Estimation",
+        "venue": "",
+        "year": 2007,
+        "referenceCount": 138,
+        "citationCount": 6234,
+        "authors": [
+          {
+            "authorId": "1839473",
+            "name": "T. Gneiting"
+          },
+          {
+            "authorId": "1804386",
+            "name": "A. Raftery"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "7a1ed340077ee3eedf99633278cba39b1734bcd2",
+        "externalIds": {
+          "MAG": "1977504368",
+          "DOI": "10.1007/S00199-007-0263-2",
+          "CorpusId": 12303920
+        },
+        "url": "https://www.semanticscholar.org/paper/7a1ed340077ee3eedf99633278cba39b1734bcd2",
+        "title": "Weighted approval voting",
+        "venue": "",
+        "year": 2006,
+        "referenceCount": 24,
+        "citationCount": 25,
+        "authors": [
+          {
+            "authorId": "144591307",
+            "name": "Jordi Massó"
+          },
+          {
+            "authorId": "3084824",
+            "name": "M. Vorsatz"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "653459e3fd788e7209e90265b81857a7d98a5e37",
+        "externalIds": {
+          "MAG": "2109304399",
+          "DBLP": "series/hci/MillerRZ09",
+          "DOI": "10.1287/mnsc.1050.0379",
+          "CorpusId": 7291027
+        },
+        "url": "https://www.semanticscholar.org/paper/653459e3fd788e7209e90265b81857a7d98a5e37",
+        "title": "Eliciting Informative Feedback: The Peer-Prediction Method",
+        "venue": "Management Sciences",
+        "year": 2005,
+        "referenceCount": 48,
+        "citationCount": 587,
+        "authors": [
+          {
+            "authorId": "2712854",
+            "name": "Nolan Miller"
+          },
+          {
+            "authorId": "144741762",
+            "name": "P. Resnick"
+          },
+          {
+            "authorId": "2698333",
+            "name": "R. Zeckhauser"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "7ac596cd717617117dff46e446381285ab57b7f0",
+        "externalIds": {
+          "DBLP": "conf/icdm/ChuWZ04",
+          "MAG": "1579812256",
+          "DOI": "10.1109/ICDM.2004.10049",
+          "CorpusId": 2572948
+        },
+        "url": "https://www.semanticscholar.org/paper/7ac596cd717617117dff46e446381285ab57b7f0",
+        "title": "An adaptive learning approach for noisy data streams",
+        "venue": "Industrial Conference on Data Mining",
+        "year": 2004,
+        "referenceCount": 22,
+        "citationCount": 61,
+        "authors": [
+          {
+            "authorId": "144680044",
+            "name": "Fang Chu"
+          },
+          {
+            "authorId": "2143470643",
+            "name": "Yizhou Wang"
+          },
+          {
+            "authorId": "1712630",
+            "name": "C. Zaniolo"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "52c9e15facda9999e54b8876d8ad5f2edd885d9f",
+        "externalIds": {
+          "MAG": "2063782051",
+          "DOI": "10.1126/SCIENCE.1102081",
+          "CorpusId": 15872065,
+          "PubMed": "15486294"
+        },
+        "url": "https://www.semanticscholar.org/paper/52c9e15facda9999e54b8876d8ad5f2edd885d9f",
+        "title": "A Bayesian Truth Serum for Subjective Data",
+        "venue": "Science",
+        "year": 2004,
+        "referenceCount": 37,
+        "citationCount": 571,
+        "authors": [
+          {
+            "authorId": "2909986",
+            "name": "D. Prélec"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "e0752a3902ad5d92f897d543b6a8b8d94f5d2985",
+        "externalIds": {
+          "DBLP": "conf/icalp/GuruswamiI04",
+          "MAG": "171939419",
+          "DOI": "10.1007/978-3-540-27836-8_59",
+          "CorpusId": 41799634
+        },
+        "url": "https://www.semanticscholar.org/paper/e0752a3902ad5d92f897d543b6a8b8d94f5d2985",
+        "title": "Linear-Time List Decoding in Error-Free Settings: (Extended Abstract)",
+        "venue": "International Colloquium on Automata, Languages and Programming",
+        "year": 2004,
+        "referenceCount": 15,
+        "citationCount": 32,
+        "authors": [
+          {
+            "authorId": "1721077",
+            "name": "V. Guruswami"
+          },
+          {
+            "authorId": "1688317",
+            "name": "P. Indyk"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "7c13ecb1ae7598fbd1249c3ed244a4b856adedeb",
+        "externalIds": {
+          "DBLP": "journals/scw/RegenwetterT04",
+          "MAG": "1994050299",
+          "DOI": "10.1007/s00355-003-0232-z",
+          "CorpusId": 16226738
+        },
+        "url": "https://www.semanticscholar.org/paper/7c13ecb1ae7598fbd1249c3ed244a4b856adedeb",
+        "title": "Approval voting and positional voting methods: Inference, relationship, examples",
+        "venue": "Social Choice and Welfare",
+        "year": 2004,
+        "referenceCount": 31,
+        "citationCount": 32,
+        "authors": [
+          {
+            "authorId": "3051373",
+            "name": "Michel Regenwetter"
+          },
+          {
+            "authorId": "3108393",
+            "name": "I. Tsetlin"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "7e4464ba831f994fb68f44b9e3389ec43d44ba6f",
+        "externalIds": {
+          "MAG": "2165199752",
+          "DBLP": "journals/tsmc/LeeLYL04",
+          "DOI": "10.1109/TSMCB.2003.818440",
+          "CorpusId": 7897464,
+          "PubMed": "15376842"
+        },
+        "url": "https://www.semanticscholar.org/paper/7e4464ba831f994fb68f44b9e3389ec43d44ba6f",
+        "title": "A hybrid neural network model for noisy data regression",
+        "venue": "IEEE Transactions on Systems, Man, and Cybernetics, Part B (Cybernetics)",
+        "year": 2004,
+        "referenceCount": 37,
+        "citationCount": 77,
+        "authors": [
+          {
+            "authorId": "31885116",
+            "name": "E. Lee"
+          },
+          {
+            "authorId": "1747138",
+            "name": "C. Lim"
+          },
+          {
+            "authorId": "48530634",
+            "name": "R. Yuen"
+          },
+          {
+            "authorId": "2240997529",
+            "name": "Siuming Lo"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "c4619a44efee9bc962e72bfc64b785f62533fe0f",
+        "externalIds": {
+          "MAG": "2046265151",
+          "DOI": "10.1007/BF02295838",
+          "CorpusId": 121991040
+        },
+        "url": "https://www.semanticscholar.org/paper/c4619a44efee9bc962e72bfc64b785f62533fe0f",
+        "title": "The repeated insertion model for rankings: Missing link between two subset choice models",
+        "venue": "",
+        "year": 2004,
+        "referenceCount": 40,
+        "citationCount": 104,
+        "authors": [
+          {
+            "authorId": "27480813",
+            "name": "Jean-Paul Doignon"
+          },
+          {
+            "authorId": "1762639",
+            "name": "A. Pekec"
+          },
+          {
+            "authorId": "3051373",
+            "name": "Michel Regenwetter"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "0215397a615b3a671c29f3c73c9978c9408c8652",
+        "externalIds": {
+          "MAG": "2002161907",
+          "DOI": "10.1016/S0895-7177(03)90083-5",
+          "CorpusId": 120451264
+        },
+        "url": "https://www.semanticscholar.org/paper/0215397a615b3a671c29f3c73c9978c9408c8652",
+        "title": "Why the magic number seven plus or minus two",
+        "venue": "",
+        "year": 2003,
+        "referenceCount": 6,
+        "citationCount": 633,
+        "authors": [
+          {
+            "authorId": "144127051",
+            "name": "T. Saaty"
+          },
+          {
+            "authorId": "36873187",
+            "name": "M. S. Özdemir"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "4f6fbe86ca84633974f899571078cc7abdeb8a2b",
+        "externalIds": {
+          "DBLP": "journals/nn/IzquierdoDGC01",
+          "MAG": "1977501201",
+          "DOI": "10.1016/S0893-6080(01)00031-4",
+          "CorpusId": 7052578,
+          "PubMed": "11411629"
+        },
+        "url": "https://www.semanticscholar.org/paper/4f6fbe86ca84633974f899571078cc7abdeb8a2b",
+        "title": "Learning from noisy information in FasArt and FasBack neuro-fuzzy systems",
+        "venue": "Neural Networks",
+        "year": 2001,
+        "referenceCount": 62,
+        "citationCount": 60,
+        "authors": [
+          {
+            "authorId": "2271996521",
+            "name": "JoseÂ Manuel Cano Izquierdoa"
+          },
+          {
+            "authorId": "2272161318",
+            "name": "Yannis A. Dimitriadisb"
+          },
+          {
+            "authorId": "2271877177",
+            "name": "Eduardo GoÂmez SaÂnchezb"
+          },
+          {
+            "authorId": "2271877169",
+            "name": "Juan LoÂpez Coronadoa"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "054b680165a7325569ca6e63028ca9cee7f3ac9a",
+        "externalIds": {
+          "MAG": "2163525631",
+          "DOI": "10.1038/35051009",
+          "CorpusId": 4362012,
+          "PubMed": "11343107"
+        },
+        "url": "https://www.semanticscholar.org/paper/054b680165a7325569ca6e63028ca9cee7f3ac9a",
+        "title": "A scheme for efficient quantum computation with linear optics",
+        "venue": "Nature",
+        "year": 2001,
+        "referenceCount": 45,
+        "citationCount": 5362,
+        "authors": [
+          {
+            "authorId": "1692215",
+            "name": "E. Knill"
+          },
+          {
+            "authorId": "1693669",
+            "name": "R. Laflamme"
+          },
+          {
+            "authorId": "1755744",
+            "name": "G. Milburn"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "e909e0961e49f40a5851a8a8628d6855562a5568",
+        "externalIds": {
+          "MAG": "1964862385",
+          "DOI": "10.1006/JMPS.1996.0014",
+          "CorpusId": 120171466
+        },
+        "url": "https://www.semanticscholar.org/paper/e909e0961e49f40a5851a8a8628d6855562a5568",
+        "title": "A random utility model for approval voting",
+        "venue": "",
+        "year": 1996,
+        "referenceCount": 0,
+        "citationCount": 51,
+        "authors": [
+          {
+            "authorId": "119670168",
+            "name": "J. Falmagne"
+          },
+          {
+            "authorId": "3051373",
+            "name": "Michel Regenwetter"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "422d2ab360b3e2724af9c96942760f836f06968d",
+        "externalIds": {
+          "MAG": "2069291209",
+          "DOI": "10.1037/0033-295X.101.2.357",
+          "CorpusId": 32453543,
+          "PubMed": "8022968"
+        },
+        "url": "https://www.semanticscholar.org/paper/422d2ab360b3e2724af9c96942760f836f06968d",
+        "title": "Seven plus or minus two: a commentary on capacity limitations.",
+        "venue": "Psychology Review",
+        "year": 1994,
+        "referenceCount": 44,
+        "citationCount": 202,
+        "authors": [
+          {
+            "authorId": "2355175",
+            "name": "R. Shiffrin"
+          },
+          {
+            "authorId": "2974669",
+            "name": "R. Nosofsky"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "3d0f8912f7781dd29f10c5d34a7e049f2a9561fa",
+        "externalIds": {
+          "MAG": "2107189314",
+          "DOI": "10.1023/A:1022873112823",
+          "CorpusId": 5508562
+        },
+        "url": "https://www.semanticscholar.org/paper/3d0f8912f7781dd29f10c5d34a7e049f2a9561fa",
+        "title": "Learning From Noisy Examples",
+        "venue": "Machine-mediated learning",
+        "year": 1988,
+        "referenceCount": 12,
+        "citationCount": 712,
+        "authors": [
+          {
+            "authorId": "2911738",
+            "name": "D. Angluin"
+          },
+          {
+            "authorId": "29961301",
+            "name": "P. Laird"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "840c24ce9bbaa8def589e238c6f69ff3bfed761d",
+        "externalIds": {
+          "MAG": "2029343680",
+          "DOI": "10.1007/BF02294692",
+          "CorpusId": 120481285
+        },
+        "url": "https://www.semanticscholar.org/paper/840c24ce9bbaa8def589e238c6f69ff3bfed761d",
+        "title": "A subset selection technique for scoring items on a multiple choice test",
+        "venue": "",
+        "year": 1979,
+        "referenceCount": 11,
+        "citationCount": 26,
+        "authors": [
+          {
+            "authorId": "69056502",
+            "name": "J. Gibbons"
+          },
+          {
+            "authorId": "2584560",
+            "name": "I. Olkin"
+          },
+          {
+            "authorId": "28691985",
+            "name": "M. Sobel"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "c80c7ab615b2fad5148a7848dbdd26a2dc50dd3d",
+        "externalIds": {
+          "MAG": "9014458",
+          "DOI": "10.2307/2346806",
+          "CorpusId": 45813168
+        },
+        "url": "https://www.semanticscholar.org/paper/c80c7ab615b2fad5148a7848dbdd26a2dc50dd3d",
+        "title": "Maximum Likelihood Estimation of Observer Error‐Rates Using the EM Algorithm",
+        "venue": "",
+        "year": 1979,
+        "referenceCount": 7,
+        "citationCount": 1997,
+        "authors": [
+          {
+            "authorId": "144845491",
+            "name": "A. Dawid"
+          },
+          {
+            "authorId": "1909853",
+            "name": "A. Skene"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "01b41bbbe70d998fbd0e6b634b1e59420e10683f",
+        "externalIds": {
+          "DOI": "10.2307/1955105",
+          "CorpusId": 154191938
+        },
+        "url": "https://www.semanticscholar.org/paper/01b41bbbe70d998fbd0e6b634b1e59420e10683f",
+        "title": "Approval Voting",
+        "venue": "American Political Science Review",
+        "year": 1978,
+        "referenceCount": 34,
+        "citationCount": 619,
+        "authors": [
+          {
+            "authorId": "3050903",
+            "name": "S. Brams"
+          },
+          {
+            "authorId": "2255952218",
+            "name": "Peter C. Fishburn"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "ceaa56ff6e6bffad594529c570b985e3faa9f5e3",
+        "externalIds": {
+          "MAG": "2324713466",
+          "DOI": "10.2307/3234329",
+          "CorpusId": 147539108
+        },
+        "url": "https://www.semanticscholar.org/paper/ceaa56ff6e6bffad594529c570b985e3faa9f5e3",
+        "title": "Presidential Primaries: Measuring Popular Choice",
+        "venue": "Polity",
+        "year": 1977,
+        "referenceCount": 6,
+        "citationCount": 33,
+        "authors": [
+          {
+            "authorId": "145983043",
+            "name": "John Kellett"
+          },
+          {
+            "authorId": "121125437",
+            "name": "Kenneth Mott"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "0763865ef0555d4b24c3802f8110313a3abedb6c",
+        "externalIds": {
+          "MAG": "1998274472",
+          "DOI": "10.1080/01621459.1971.10482346",
+          "CorpusId": 120427654
+        },
+        "url": "https://www.semanticscholar.org/paper/0763865ef0555d4b24c3802f8110313a3abedb6c",
+        "title": "Elicitation of Personal Probabilities and Expectations",
+        "venue": "",
+        "year": 1971,
+        "referenceCount": 43,
+        "citationCount": 1272,
+        "authors": [
+          {
+            "authorId": "48700578",
+            "name": "L. Savage"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "d3ebcb6b0b10d18f720b57c027ad2f6d8f251706",
+        "externalIds": {
+          "MAG": "1977624385",
+          "DOI": "10.1111/J.1745-3984.1971.TB00927.X",
+          "CorpusId": 120427968
+        },
+        "url": "https://www.semanticscholar.org/paper/d3ebcb6b0b10d18f720b57c027ad2f6d8f251706",
+        "title": "Elimination Scoring: An Empirical Evaluation.",
+        "venue": "",
+        "year": 1971,
+        "referenceCount": 14,
+        "citationCount": 32,
+        "authors": [
+          {
+            "authorId": "16594660",
+            "name": "Leverne S. Collet"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "5181134424115e6f094e1c87c5d5cc7323f72ba4",
+        "externalIds": {
+          "MAG": "1996344021",
+          "DOI": "10.1177/001316445601600102",
+          "CorpusId": 143743667
+        },
+        "url": "https://www.semanticscholar.org/paper/5181134424115e6f094e1c87c5d5cc7323f72ba4",
+        "title": "The Assessment of Partial Knowledge1",
+        "venue": "",
+        "year": 1956,
+        "referenceCount": 9,
+        "citationCount": 126,
+        "authors": [
+          {
+            "authorId": "70246157",
+            "name": "C. Coombs"
+          },
+          {
+            "authorId": "28197118",
+            "name": "J. Milholland"
+          },
+          {
+            "authorId": "66496557",
+            "name": "F. B. Womer"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "3df155b1bf0a7b803f29e794254c10ce588e54fb",
+        "externalIds": {
+          "MAG": "2019197088",
+          "DOI": "10.1177/001316445301300214",
+          "CorpusId": 143834803
+        },
+        "url": "https://www.semanticscholar.org/paper/3df155b1bf0a7b803f29e794254c10ce588e54fb",
+        "title": "On the Use of Objective Examinations",
+        "venue": "",
+        "year": 1953,
+        "referenceCount": 1,
+        "citationCount": 42,
+        "authors": [
+          {
+            "authorId": "114295767",
+            "name": "C. H. Coombs"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": ", Behzad Tabibian , Krikamol Muandet , Isabelle Guyon , and Ulrike Von Luxburg . 2018 . Design and analysis of the Advances in Neural Information Processing Systems NIPS 2016 review process",
+        "venue": "J . Mach . Learn . Res .",
+        "year": 2016,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "Received September",
+        "venue": "ACM Transactions on Economics and Computation",
+        "year": 2015,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "Bing Has Human Search Quality Raters & Heres How They Judge Web Pages Yes",
+        "venue": "http://searchengineland.com/bing-search-quality-rating-guidelines-130592",
+        "year": 2015,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "fffce7d4fa86a45ddbd0ccec2904743a330a40df",
+        "externalIds": {
+          "MAG": "1879921948",
+          "CorpusId": 3356116
+        },
+        "url": "https://www.semanticscholar.org/paper/fffce7d4fa86a45ddbd0ccec2904743a330a40df",
+        "title": "Approval Voting Behavior in Doodle Polls",
+        "venue": "",
+        "year": 2014,
+        "referenceCount": 24,
+        "citationCount": 5,
+        "authors": [
+          {
+            "authorId": "2114312765",
+            "name": "James Y. Zou"
+          },
+          {
+            "authorId": "39506910",
+            "name": "R. Meir"
+          },
+          {
+            "authorId": "30907562",
+            "name": "D. Parkes"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "44710535624ab6b5ff02738f00995553b3390ff1",
+        "externalIds": {
+          "DBLP": "journals/geb/JainCP14",
+          "DOI": "10.1016/j.geb.2012.11.003",
+          "CorpusId": 2881505
+        },
+        "url": "https://www.semanticscholar.org/paper/44710535624ab6b5ff02738f00995553b3390ff1",
+        "title": "Designing incentives for online question-and-answer forums",
+        "venue": "Games Econ. Behav.",
+        "year": 2014,
+        "referenceCount": 28,
+        "citationCount": 121,
+        "authors": [
+          {
+            "authorId": "39720946",
+            "name": "Shaili Jain"
+          },
+          {
+            "authorId": "117745152",
+            "name": "Yiling Chen"
+          },
+          {
+            "authorId": "30907562",
+            "name": "D. Parkes"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "ba24bd33caaa38127664f86d1bb486ac508b8a47",
+        "externalIds": {
+          "CorpusId": 1767643
+        },
+        "url": "https://www.semanticscholar.org/paper/ba24bd33caaa38127664f86d1bb486ac508b8a47",
+        "title": "Iterative Learning for Reliable Crowdsourcing Systems",
+        "venue": "",
+        "year": 2012,
+        "referenceCount": 3,
+        "citationCount": 477,
+        "authors": [
+          {
+            "authorId": "2555622",
+            "name": "Bin Bi"
+          },
+          {
+            "authorId": "2108119129",
+            "name": "Chen Liu"
+          },
+          {
+            "authorId": "2116487134",
+            "name": "Yuchen Liu"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "96fec1221a735e06642f1db351155f87ce1b06db",
+        "externalIds": {
+          "DBLP": "conf/hcomp/HoZVS12",
+          "MAG": "2188732456",
+          "CorpusId": 3656530
+        },
+        "url": "https://www.semanticscholar.org/paper/96fec1221a735e06642f1db351155f87ce1b06db",
+        "title": "Towards Social Norm Design for Crowdsourcing Markets",
+        "venue": "HCOMP@AAAI",
+        "year": 2012,
+        "referenceCount": 13,
+        "citationCount": 41,
+        "authors": [
+          {
+            "authorId": "40029912",
+            "name": "Chien-Ju Ho"
+          },
+          {
+            "authorId": "2153632560",
+            "name": "Yu Zhang"
+          },
+          {
+            "authorId": "4006636",
+            "name": "Jennifer Wortman Vaughan"
+          },
+          {
+            "authorId": "1729969",
+            "name": "M. Schaar"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "02227c94dd41fe0b439e050d377b0beb5d427cda",
+        "externalIds": {
+          "MAG": "2335728318",
+          "CorpusId": 16852518
+        },
+        "url": "https://www.semanticscholar.org/paper/02227c94dd41fe0b439e050d377b0beb5d427cda",
+        "title": "Reading Digits in Natural Images with Unsupervised Feature Learning",
+        "venue": "",
+        "year": 2011,
+        "referenceCount": 29,
+        "citationCount": 7880,
+        "authors": [
+          {
+            "authorId": "34180232",
+            "name": "Yuval Netzer"
+          },
+          {
+            "authorId": "2156632012",
+            "name": "Tao Wang"
+          },
+          {
+            "authorId": "144638694",
+            "name": "A. Coates"
+          },
+          {
+            "authorId": "1726358",
+            "name": "A. Bissacco"
+          },
+          {
+            "authorId": "144397975",
+            "name": "Bo Wu"
+          },
+          {
+            "authorId": "34699434",
+            "name": "A. Ng"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "7ac791e0237d4c84b4df17570cf190ed1ab776d5",
+        "externalIds": {
+          "CorpusId": 199552369
+        },
+        "url": "https://www.semanticscholar.org/paper/7ac791e0237d4c84b4df17570cf190ed1ab776d5",
+        "title": "How Much Spam Can You Take? An Analysis of Crowdsourcing Results to Increase Accuracy",
+        "venue": "",
+        "year": 2011,
+        "referenceCount": 15,
+        "citationCount": 157,
+        "authors": [
+          {
+            "authorId": "1685137",
+            "name": "Jeroen B. P. Vuurens"
+          },
+          {
+            "authorId": "1764160",
+            "name": "Carsten Eickhoff"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "957b9ca02dd6421213b6fdecd1217f7b984b9c32",
+        "externalIds": {
+          "CorpusId": 11458069
+        },
+        "url": "https://www.semanticscholar.org/paper/957b9ca02dd6421213b6fdecd1217f7b984b9c32",
+        "title": "Towards Building a High-Quality Workforce with Mechanical",
+        "venue": "",
+        "year": 2010,
+        "referenceCount": 9,
+        "citationCount": 69,
+        "authors": [
+          {
+            "authorId": "2076983284",
+            "name": "T. Wais"
+          },
+          {
+            "authorId": "46211887",
+            "name": "Shivaram Lingamneni"
+          },
+          {
+            "authorId": "2070637643",
+            "name": "Duncan Cook"
+          },
+          {
+            "authorId": "33989941",
+            "name": "J. Fennell"
+          },
+          {
+            "authorId": "2080212485",
+            "name": "Benjamin Goldenberg"
+          },
+          {
+            "authorId": "2081985006",
+            "name": "Daniel Lubarov"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "80e4ed021fad42a405d28e87b70bb861f46b74d3",
+        "externalIds": {
+          "MAG": "96685448",
+          "CorpusId": 59804997
+        },
+        "url": "https://www.semanticscholar.org/paper/80e4ed021fad42a405d28e87b70bb861f46b74d3",
+        "title": "On the feasibility of software FEC",
+        "venue": "",
+        "year": 1997,
+        "referenceCount": 0,
+        "citationCount": 119,
+        "authors": [
+          {
+            "authorId": "145249481",
+            "name": "L. Rizzo"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "c3b565613db193cd05d14572505075537cf593eb",
+        "externalIds": {
+          "CorpusId": 7075855
+        },
+        "url": "https://www.semanticscholar.org/paper/c3b565613db193cd05d14572505075537cf593eb",
+        "title": "On the feasibility of software",
+        "venue": "",
+        "year": 1997,
+        "referenceCount": 24,
+        "citationCount": 6,
+        "authors": [
+          {
+            "authorId": "145249481",
+            "name": "L. Rizzo"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "e4ac03624362efeddabceb384c75cd5267593cc8",
+        "externalIds": {
+          "MAG": "18570351",
+          "DOI": "10.1007/978-1-4612-2738-0_12",
+          "CorpusId": 117329258
+        },
+        "url": "https://www.semanticscholar.org/paper/e4ac03624362efeddabceb384c75cd5267593cc8",
+        "title": "Aggregation Theorems and the Combination of Probabilistic Rank Orders",
+        "venue": "",
+        "year": 1993,
+        "referenceCount": 29,
+        "citationCount": 24,
+        "authors": [
+          {
+            "authorId": "2285582687",
+            "name": "A. A. J. Marley"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "Comparison of voting systems",
+        "venue": "New Haven: Cowles Foundation Discussion paper A,",
+        "year": 1977,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "The arthmetic of voting",
+        "venue": "In defence of variety,",
+        "year": 1977,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "The arithmetic of voting. In Defence of Variety (1977)",
+        "venue": "http://www",
+        "year": 1977,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "a15174ed603bae1b101c4655111bb511787b95b4",
+        "externalIds": {
+          "MAG": "1984314602",
+          "DOI": "10.1037/h0043158",
+          "CorpusId": 15654531,
+          "PubMed": "13310704"
+        },
+        "url": "https://www.semanticscholar.org/paper/a15174ed603bae1b101c4655111bb511787b95b4",
+        "title": "The magical number seven plus or minus two: some limits on our capacity for processing information.",
+        "venue": "Psychology Review",
+        "year": 1956,
+        "referenceCount": 28,
+        "citationCount": 24039,
+        "authors": [
+          {
+            "authorId": "2114422629",
+            "name": "G. A. Miller"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "5a2cc037be8110be5c920797d5bd1bf6476aee27",
+        "externalIds": {
+          "MAG": "1613195705",
+          "CorpusId": 44845865
+        },
+        "url": "https://www.semanticscholar.org/paper/5a2cc037be8110be5c920797d5bd1bf6476aee27",
+        "title": "A Generalized T Test and Measure of Multivariate Dispersion",
+        "venue": "",
+        "year": 1951,
+        "referenceCount": 3,
+        "citationCount": 291,
+        "authors": [
+          {
+            "authorId": "47652868",
+            "name": "H. Hotelling"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "feee6551179612b9691f021b583d8a99b81b9b86",
+        "externalIds": {
+          "MAG": "2073241381",
+          "DOI": "10.1175/1520-0493(1950)078<0001:VOFEIT>2.0.CO;2",
+          "CorpusId": 122906757
+        },
+        "url": "https://www.semanticscholar.org/paper/feee6551179612b9691f021b583d8a99b81b9b86",
+        "title": "VERIFICATION OF FORECASTS EXPRESSED IN TERMS OF PROBABILITY",
+        "venue": "",
+        "year": 1950,
+        "referenceCount": 4,
+        "citationCount": 5659,
+        "authors": [
+          {
+            "authorId": "40318103",
+            "name": "G. Brier"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "60eb0ed58db35bce7502fa2400aaff3433a24476",
+        "externalIds": {
+          "MAG": "1984947160",
+          "DOI": "10.1080/00221309.1932.9711866",
+          "CorpusId": 144067784
+        },
+        "url": "https://www.semanticscholar.org/paper/60eb0ed58db35bce7502fa2400aaff3433a24476",
+        "title": "The Chance Element in the Multiple Choice Test Item",
+        "venue": "",
+        "year": 1932,
+        "referenceCount": 0,
+        "citationCount": 11,
+        "authors": [
+          {
+            "authorId": "4691091",
+            "name": "P. Horst"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "Minimum,possible,expenditure,on,freeloaders Selec9ng\"all\"op9ons",
+        "venue": "Minimum,possible,expenditure,on,freeloaders Selec9ng\"all\"op9ons",
+        "year": null,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "Now consider any evaluation (x 1 , . . . , x G ) which has at least one incorrect answer. Suppose without loss of generality that the first question is the one answered incorrectly, i.e",
+        "venue": "Now consider any evaluation (x 1 , . . . , x G ) which has at least one incorrect answer. Suppose without loss of generality that the first question is the one answered incorrectly, i.e",
+        "year": null,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "Our,mechanism:,analy<cal,guarantees",
+        "venue": "Our,mechanism:,analy<cal,guarantees",
+        "year": null,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "Substituting f (1, . . . , 1) = α, we get the desired answer. We now return to complete the proof of Lemma A",
+        "venue": "Substituting f (1, . . . , 1) = α, we get the desired answer. We now return to complete the proof of Lemma A",
+        "year": null,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "Interface\"does\"not\"allow\"workers\"to\"convey\"their\"knowledge\"accurately",
+        "venue": "Example",
+        "year": null,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "Our\" mechanism\" is\" incen9ve\\compa9ble\" under\" the\" coarse\\beliefs\"assump9on",
+        "venue": "Our\" mechanism\" is\" incen9ve\\compa9ble\" under\" the\" coarse\\beliefs\"assump9on",
+        "year": null,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "Among\" all\" possible\" incen9ve\\compa9ble\" mechanisms,\" our\" mechanism\"makes\"the\"strictly\"smallest\"payment\"to\"a\"freeloader",
+        "venue": "Among\" all\" possible\" incen9ve\\compa9ble\" mechanisms,\" our\" mechanism\"makes\"the\"strictly\"smallest\"payment\"to\"a\"freeloader",
+        "year": null,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "This\"is\"a\"weak\"requirement:\"no\"restric9on\"if\"even\"one\"of\"the\"answers",
+        "venue": "This\"is\"a\"weak\"requirement:\"no\"restric9on\"if\"even\"one\"of\"the\"answers",
+        "year": null,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "Con9nues\"to\"do\"something\"desirable\"even\"when\"beliefs\"are\"not\"coarse \" (ask\"me\"offline)",
+        "venue": "Con9nues\"to\"do\"something\"desirable\"even\"when\"beliefs\"are\"not\"coarse \" (ask\"me\"offline)",
+        "year": null,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "Approval\"vo9ng \" \"interface\"for\"crowdsourcing\" @BULLET Design\"mechanism:\" ⁻ Incen9ve\\compa9ble\" ⁻ Strictly\"minimum\"payment\"to\"freeloaders\" ⁻ Only\"one\"to\"sa9sfy\"a\"natural",
+        "venue": "Approval\"vo9ng \" \"interface\"for\"crowdsourcing\" @BULLET Design\"mechanism:\" ⁻ Incen9ve\\compa9ble\" ⁻ Strictly\"minimum\"payment\"to\"freeloaders\" ⁻ Only\"one\"to\"sa9sfy\"a\"natural",
+        "year": null,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "There,could,be,many,other,incen<ve6compa<ble,mechanisms, Why,use,this,mechanism?",
+        "venue": "There,could,be,many,other,incen<ve6compa<ble,mechanisms, Why,use,this,mechanism?",
+        "year": null,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "3d31a631ddb34572875706e7fe321633d0d43fef",
+        "externalIds": {
+          "CorpusId": 250121168
+        },
+        "url": "https://www.semanticscholar.org/paper/3d31a631ddb34572875706e7fe321633d0d43fef",
+        "title": "Discrete Mathematics and Probability Theory",
+        "venue": "",
+        "year": null,
+        "referenceCount": 11,
+        "citationCount": 3,
+        "authors": [
+          {
+            "authorId": "2107345994",
+            "name": "S. Rao"
+          },
+          {
+            "authorId": "2412010522",
+            "name": "Walrand Hw"
+          },
+          {
+            "authorId": "2412017496",
+            "name": "Kevin A. Bryan"
+          },
+          {
+            "authorId": "2412018640",
+            "name": "J. Bryan"
+          },
+          {
+            "authorId": "2412020108",
+            "name": "Jimmy Kevin"
+          },
+          {
+            "authorId": "2239780234",
+            "name": "Michael"
+          },
+          {
+            "authorId": "2412020108",
+            "name": "Jimmy Kevin"
+          },
+          {
+            "authorId": "2070997432",
+            "name": "Bryan"
+          },
+          {
+            "authorId": "2412030960",
+            "name": "Michael Kevin"
+          },
+          {
+            "authorId": "2412006823",
+            "name": "Bryan Jimmy"
+          },
+          {
+            "authorId": "2412017496",
+            "name": "Kevin A. Bryan"
+          },
+          {
+            "authorId": "2067400968",
+            "name": "Michael A. Bryan"
+          },
+          {
+            "authorId": "2258909496",
+            "name": "Jimmy"
+          },
+          {
+            "authorId": "2412016372",
+            "name": "Michael Jimmy"
+          },
+          {
+            "authorId": "2239967663",
+            "name": "Kevin"
+          },
+          {
+            "authorId": "2412030960",
+            "name": "Michael Kevin"
+          },
+          {
+            "authorId": "2412030625",
+            "name": "Kevin Rejects / Crosses Off Jimmy"
+          },
+          {
+            "authorId": "2412016950",
+            "name": "Kevin Jimmy"
+          },
+          {
+            "authorId": "2412006486",
+            "name": "Bryan Rejects / Crosses Off Kevin"
+          },
+          {
+            "authorId": "71003620",
+            "name": "B. Kevin"
+          },
+          {
+            "authorId": "2412006218",
+            "name": "Michael Crosses Off Bryan"
+          },
+          {
+            "authorId": "2412018640",
+            "name": "J. Bryan"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "Unique,under,a,no6free6lunch,requirement doesn't\"select\"all\"op9ons\" If,all,aZempted,answers,are,wrong, then,payment,must,be,zero",
+        "venue": "Unique,under,a,no6free6lunch,requirement doesn't\"select\"all\"op9ons\" If,all,aZempted,answers,are,wrong, then,payment,must,be,zero",
+        "year": null,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    }
+  ]
+}

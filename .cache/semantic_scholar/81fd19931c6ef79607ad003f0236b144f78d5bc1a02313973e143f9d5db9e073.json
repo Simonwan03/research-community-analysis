@@ -1,0 +1,298 @@
+{
+  "total": 22,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "767d0625c4767c6b8afa0b1b30deafed7e0e8f08",
+      "externalIds": {
+        "DBLP": "conf/icml/WilsonN15",
+        "MAG": "1702387805",
+        "ArXiv": "1503.01057",
+        "CorpusId": 16784849
+      },
+      "url": "https://www.semanticscholar.org/paper/767d0625c4767c6b8afa0b1b30deafed7e0e8f08",
+      "title": "Kernel Interpolation for Scalable Structured Gaussian Processes (KISS-GP)",
+      "venue": "International Conference on Machine Learning",
+      "year": 2015,
+      "referenceCount": 31,
+      "citationCount": 558,
+      "authors": [
+        {
+          "authorId": "145771261",
+          "name": "A. Wilson"
+        },
+        {
+          "authorId": "1748758",
+          "name": "H. Nickisch"
+        }
+      ]
+    },
+    {
+      "paperId": "44de866e0ab2a01b0aadd522f3d14ffaf71a9079",
+      "externalIds": {
+        "DOI": "10.1109/ICSP54964.2022.9778760",
+        "CorpusId": 249049050
+      },
+      "url": "https://www.semanticscholar.org/paper/44de866e0ab2a01b0aadd522f3d14ffaf71a9079",
+      "title": "Structured Kernel Interpolation for Scalable Mixture of Gaussian Processes",
+      "venue": "International Conference on the Software Process",
+      "year": 2022,
+      "referenceCount": 0,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "2401341956",
+          "name": "Yu Guo"
+        },
+        {
+          "authorId": "2072804539",
+          "name": "Ning Xu"
+        },
+        {
+          "authorId": "2152843669",
+          "name": "Zhenzhou Jin"
+        }
+      ]
+    },
+    {
+      "paperId": "82f21619b70bd408722c722c69e66a9105128f60",
+      "externalIds": {
+        "MAG": "3038640146",
+        "ArXiv": "2007.02795",
+        "CorpusId": 220363428
+      },
+      "url": "https://www.semanticscholar.org/paper/82f21619b70bd408722c722c69e66a9105128f60",
+      "title": "Scalable Gaussian Processes for Predicting the Properties of Inorganic Glasses with Large Datasets",
+      "venue": "",
+      "year": 2020,
+      "referenceCount": 21,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "15675757",
+          "name": "S. Bishnoi"
+        },
+        {
+          "authorId": "90453046",
+          "name": "R. Ravinder"
+        },
+        {
+          "authorId": "143731417",
+          "name": "Hargun Singh"
+        },
+        {
+          "authorId": "30456292",
+          "name": "H. Kodamana"
+        },
+        {
+          "authorId": "46382871",
+          "name": "N. Krishnan"
+        }
+      ]
+    },
+    {
+      "paperId": "1f3057a8f6dc5acc6cec1f99577e43b906aac4e9",
+      "externalIds": {
+        "DBLP": "conf/eusipco/BanRR24",
+        "DOI": "10.23919/eusipco63174.2024.10715101",
+        "CorpusId": 273533455
+      },
+      "url": "https://www.semanticscholar.org/paper/1f3057a8f6dc5acc6cec1f99577e43b906aac4e9",
+      "title": "Malleable Kernel Interpolation for Scalable Structured Gaussian Process",
+      "venue": "European Signal Processing Conference",
+      "year": 2024,
+      "referenceCount": 23,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2327226967",
+          "name": "Hanyuan Ban"
+        },
+        {
+          "authorId": "151364872",
+          "name": "Ellen H. J. Riemens"
+        },
+        {
+          "authorId": "2140453821",
+          "name": "R. Rajan"
+        }
+      ]
+    },
+    {
+      "paperId": "88e8a49f9893ce482fc1735ea34ef3a03a8d5456",
+      "externalIds": {
+        "ArXiv": "2103.01454",
+        "DBLP": "conf/aistats/StantonMDW21",
+        "CorpusId": 232092817
+      },
+      "url": "https://www.semanticscholar.org/paper/88e8a49f9893ce482fc1735ea34ef3a03a8d5456",
+      "title": "Kernel Interpolation for Scalable Online Gaussian Processes",
+      "venue": "International Conference on Artificial Intelligence and Statistics",
+      "year": 2021,
+      "referenceCount": 43,
+      "citationCount": 36,
+      "authors": [
+        {
+          "authorId": "2067201658",
+          "name": "S. Stanton"
+        },
+        {
+          "authorId": "151254077",
+          "name": "Wesley J. Maddox"
+        },
+        {
+          "authorId": "1471886408",
+          "name": "Ian A. Delbridge"
+        },
+        {
+          "authorId": "145771261",
+          "name": "A. Wilson"
+        }
+      ]
+    },
+    {
+      "paperId": "dc0e4d499ea4e73dca2fd381fdf0d3bd99f0193c",
+      "externalIds": {
+        "ArXiv": "2106.06695",
+        "DBLP": "conf/icml/KapoorFWW21",
+        "CorpusId": 235422445
+      },
+      "url": "https://www.semanticscholar.org/paper/dc0e4d499ea4e73dca2fd381fdf0d3bd99f0193c",
+      "title": "SKIing on Simplices: Kernel Interpolation on the Permutohedral Lattice for Scalable Gaussian Processes",
+      "venue": "International Conference on Machine Learning",
+      "year": 2021,
+      "referenceCount": 44,
+      "citationCount": 12,
+      "authors": [
+        {
+          "authorId": "153936584",
+          "name": "Sanyam Kapoor"
+        },
+        {
+          "authorId": "51007156",
+          "name": "Marc Finzi"
+        },
+        {
+          "authorId": "2133843034",
+          "name": "K. Wang"
+        },
+        {
+          "authorId": "145771261",
+          "name": "A. Wilson"
+        }
+      ]
+    },
+    {
+      "paperId": "4550c817a1bb81a2e7827bf70bab11b744523937",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2101-11751",
+        "ArXiv": "2101.11751",
+        "CorpusId": 231719429
+      },
+      "url": "https://www.semanticscholar.org/paper/4550c817a1bb81a2e7827bf70bab11b744523937",
+      "title": "Faster Kernel Interpolation for Gaussian Processes",
+      "venue": "International Conference on Artificial Intelligence and Statistics",
+      "year": 2021,
+      "referenceCount": 37,
+      "citationCount": 13,
+      "authors": [
+        {
+          "authorId": "2015202856",
+          "name": "Mohit Yadav"
+        },
+        {
+          "authorId": "144799908",
+          "name": "D. Sheldon"
+        },
+        {
+          "authorId": "2301311186",
+          "name": "Cameron Musco"
+        }
+      ]
+    },
+    {
+      "paperId": "fd20b2d1958d68346966467f1bdf1736c8686a3b",
+      "externalIds": {
+        "ArXiv": "2410.21419",
+        "DBLP": "journals/corr/abs-2410-21419",
+        "DOI": "10.48550/arXiv.2410.21419",
+        "CorpusId": 273661932
+      },
+      "url": "https://www.semanticscholar.org/paper/fd20b2d1958d68346966467f1bdf1736c8686a3b",
+      "title": "High-Dimensional Gaussian Process Regression with Soft Kernel Interpolation",
+      "venue": "Trans. Mach. Learn. Res.",
+      "year": 2024,
+      "referenceCount": 33,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "108298299",
+          "name": "Christian Camaño"
+        },
+        {
+          "authorId": "2361726218",
+          "name": "Daniel Huang"
+        }
+      ]
+    },
+    {
+      "paperId": "0bd0b000e3264b6084adb497869ace6afb314b3b",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2310-16574",
+        "ArXiv": "2310.16574",
+        "DOI": "10.23919/FUSION52260.2023.10224210",
+        "CorpusId": 261127797
+      },
+      "url": "https://www.semanticscholar.org/paper/0bd0b000e3264b6084adb497869ace6afb314b3b",
+      "title": "Large-scale magnetic field maps using structured kernel interpolation for Gaussian process regression",
+      "venue": "Fusion",
+      "year": 2023,
+      "referenceCount": 42,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2039906624",
+          "name": "Clara Menzen"
+        },
+        {
+          "authorId": "2233501414",
+          "name": "Marnix Fetter"
+        },
+        {
+          "authorId": "145921968",
+          "name": "M. Kok"
+        }
+      ]
+    },
+    {
+      "paperId": "45c9c5542f25062012c04f9ca53a383020412098",
+      "externalIds": {
+        "DBLP": "conf/icml/MorenoXM25",
+        "ArXiv": "2502.00298",
+        "DOI": "10.48550/arXiv.2502.00298",
+        "CorpusId": 276094746
+      },
+      "url": "https://www.semanticscholar.org/paper/45c9c5542f25062012c04f9ca53a383020412098",
+      "title": "The Price of Linear Time: Error Analysis of Structured Kernel Interpolation",
+      "venue": "International Conference on Machine Learning",
+      "year": 2025,
+      "referenceCount": 0,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2281385131",
+          "name": "Alexander Moreno"
+        },
+        {
+          "authorId": "100982575",
+          "name": "Justin Xiao"
+        },
+        {
+          "authorId": "2355079407",
+          "name": "Jonathan Mei"
+        }
+      ]
+    }
+  ]
+}

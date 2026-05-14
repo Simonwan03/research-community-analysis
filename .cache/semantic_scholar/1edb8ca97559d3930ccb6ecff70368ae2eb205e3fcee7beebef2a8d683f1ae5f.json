@@ -1,0 +1,317 @@
+{
+  "total": 20487,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "168b7d0ab57a331a228ce21ffd1becbb93066f79",
+      "externalIds": {
+        "DBLP": "conf/icml/BelloZVL17",
+        "ArXiv": "1709.07417",
+        "MAG": "2962716258",
+        "CorpusId": 29535948
+      },
+      "url": "https://www.semanticscholar.org/paper/168b7d0ab57a331a228ce21ffd1becbb93066f79",
+      "title": "Neural Optimizer Search with Reinforcement Learning",
+      "venue": "International Conference on Machine Learning",
+      "year": 2017,
+      "referenceCount": 49,
+      "citationCount": 404,
+      "authors": [
+        {
+          "authorId": "4689792",
+          "name": "Irwan Bello"
+        },
+        {
+          "authorId": "2368067",
+          "name": "Barret Zoph"
+        },
+        {
+          "authorId": "2053781980",
+          "name": "Vijay Vasudevan"
+        },
+        {
+          "authorId": "2827616",
+          "name": "Quoc V. Le"
+        }
+      ]
+    },
+    {
+      "paperId": "8404df59479984074a7a333b03638e2ab8441929",
+      "externalIds": {
+        "MAG": "3205764667",
+        "DBLP": "journals/kbs/PangLG21",
+        "DOI": "10.1016/J.KNOSYS.2021.107585",
+        "CorpusId": 244618301
+      },
+      "url": "https://www.semanticscholar.org/paper/8404df59479984074a7a333b03638e2ab8441929",
+      "title": "RL-DARTS: Differentiable neural architecture search via reinforcement-learning-based meta-optimizer",
+      "venue": "Knowledge-Based Systems",
+      "year": 2021,
+      "referenceCount": 44,
+      "citationCount": 18,
+      "authors": [
+        {
+          "authorId": "2055652581",
+          "name": "Dong Pang"
+        },
+        {
+          "authorId": "2348730",
+          "name": "Xinyi Le"
+        },
+        {
+          "authorId": "2150495200",
+          "name": "Xinping Guan"
+        }
+      ]
+    },
+    {
+      "paperId": "e8b22993efec83105daae948878a2c2ec0358c85",
+      "externalIds": {
+        "DBLP": "conf/iclr/SubramanianGG23",
+        "CorpusId": 259951693
+      },
+      "url": "https://www.semanticscholar.org/paper/e8b22993efec83105daae948878a2c2ec0358c85",
+      "title": "Learned Learning Rate Schedules for Deep Neural Network Training Using Reinforcement Learning",
+      "venue": "Tiny Papers @ ICLR",
+      "year": 2023,
+      "referenceCount": 13,
+      "citationCount": 4,
+      "authors": [
+        {
+          "authorId": "3437931",
+          "name": "S. Subramanian"
+        },
+        {
+          "authorId": "7194698",
+          "name": "Vignesh Ganapathiraman"
+        },
+        {
+          "authorId": "2418564",
+          "name": "A. E. Gamal"
+        }
+      ]
+    },
+    {
+      "paperId": "d352ae74153c57cc9190982f12ab5bce5fc987ad",
+      "externalIds": {
+        "MAG": "3137738592",
+        "DBLP": "journals/cacie/LiSW21",
+        "DOI": "10.1111/mice.12655",
+        "CorpusId": 233687752
+      },
+      "url": "https://www.semanticscholar.org/paper/d352ae74153c57cc9190982f12ab5bce5fc987ad",
+      "title": "A knowledge‐enhanced deep reinforcement learning‐based shape optimizer for aerodynamic mitigation of wind‐sensitive structures",
+      "venue": "Comput. Aided Civ. Infrastructure Eng.",
+      "year": 2021,
+      "referenceCount": 52,
+      "citationCount": 72,
+      "authors": [
+        {
+          "authorId": "31317770",
+          "name": "Shaopeng Li"
+        },
+        {
+          "authorId": "100849634",
+          "name": "Reda Snaiki"
+        },
+        {
+          "authorId": "145049776",
+          "name": "Teng Wu"
+        }
+      ]
+    },
+    {
+      "paperId": "18bcef5ad12592c6437d7f9dd35bce6a23227559",
+      "externalIds": {
+        "CorpusId": 35842175
+      },
+      "url": "https://www.semanticscholar.org/paper/18bcef5ad12592c6437d7f9dd35bce6a23227559",
+      "title": "Experienced Grey Wolf Optimizer through Reinforcement Learning and Neural Networks",
+      "venue": "",
+      "year": 2016,
+      "referenceCount": 28,
+      "citationCount": 12,
+      "authors": [
+        {
+          "authorId": "3236277",
+          "name": "E. Emary"
+        },
+        {
+          "authorId": "2872536",
+          "name": "Hossam M. Zawbaa"
+        },
+        {
+          "authorId": "1725250",
+          "name": "C. Grosan"
+        }
+      ]
+    },
+    {
+      "paperId": "57c2749d1eaf47f6e223b48b689f1a04f0886c4b",
+      "externalIds": {
+        "DOI": "10.1088/1361-6501/acec06",
+        "CorpusId": 260396984
+      },
+      "url": "https://www.semanticscholar.org/paper/57c2749d1eaf47f6e223b48b689f1a04f0886c4b",
+      "title": "A reinforcement neural architecture search convolutional neural network for rolling bearing fault diagnosis",
+      "venue": "Measurement science and technology",
+      "year": 2023,
+      "referenceCount": 32,
+      "citationCount": 5,
+      "authors": [
+        {
+          "authorId": "47681623",
+          "name": "Lin Li"
+        },
+        {
+          "authorId": "9280369",
+          "name": "Hongkai Jiang"
+        },
+        {
+          "authorId": "2283041790",
+          "name": "Ruixin Wang"
+        },
+        {
+          "authorId": "2140195740",
+          "name": "Qiao Yang"
+        }
+      ]
+    },
+    {
+      "paperId": "06a2b416f0b9d6e4c4e42b2f208dedb4ed4404ac",
+      "externalIds": {
+        "DOI": "10.22190/fume231011044z",
+        "CorpusId": 267119476
+      },
+      "url": "https://www.semanticscholar.org/paper/06a2b416f0b9d6e4c4e42b2f208dedb4ed4404ac",
+      "title": "Q-LEARNING, POLICY ITERATION AND ACTOR-CRITIC REINFORCEMENT LEARNING COMBINED WITH METAHEURISTIC ALGORITHMS IN SERVO SYSTEM CONTROL",
+      "venue": "Facta Universitatis, Series: Mechanical Engineering",
+      "year": 2023,
+      "referenceCount": 41,
+      "citationCount": 44,
+      "authors": [
+        {
+          "authorId": "151505554",
+          "name": "Iuliu Alexandru Zamfirache"
+        },
+        {
+          "authorId": "1694319",
+          "name": "Radu-Emil Precup"
+        },
+        {
+          "authorId": "1745632",
+          "name": "E. Petriu"
+        }
+      ]
+    },
+    {
+      "paperId": "8610810e7b2f06d4493f43959950d6f93819a97e",
+      "externalIds": {
+        "DBLP": "journals/pacmpl/LiPMLWPJ24",
+        "ArXiv": "2307.10120",
+        "DOI": "10.1145/3649831",
+        "CorpusId": 259982860
+      },
+      "url": "https://www.semanticscholar.org/paper/8610810e7b2f06d4493f43959950d6f93819a97e",
+      "title": "Quarl: A Learning-Based Quantum Circuit Optimizer",
+      "venue": "Proc. ACM Program. Lang.",
+      "year": 2023,
+      "referenceCount": 39,
+      "citationCount": 38,
+      "authors": [
+        {
+          "authorId": "1891173586",
+          "name": "Zikun Li"
+        },
+        {
+          "authorId": "49430332",
+          "name": "Jinjun Peng"
+        },
+        {
+          "authorId": "2185970139",
+          "name": "Yixuan Mei"
+        },
+        {
+          "authorId": "3349220",
+          "name": "Sina Lin"
+        },
+        {
+          "authorId": "2220914443",
+          "name": "Yi Wu"
+        },
+        {
+          "authorId": "2381030",
+          "name": "Oded Padon"
+        },
+        {
+          "authorId": "2200176178",
+          "name": "Zhi-Long Jia"
+        }
+      ]
+    },
+    {
+      "paperId": "116fa20505d9f463490e96cfb868ec5d2c786dc3",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2406-01414",
+        "ArXiv": "2406.01414",
+        "DOI": "10.48550/arXiv.2406.01414",
+        "CorpusId": 270213987
+      },
+      "url": "https://www.semanticscholar.org/paper/116fa20505d9f463490e96cfb868ec5d2c786dc3",
+      "title": "CE-NAS: An End-to-End Carbon-Efficient Neural Architecture Search Framework",
+      "venue": "Neural Information Processing Systems",
+      "year": 2024,
+      "referenceCount": 110,
+      "citationCount": 7,
+      "authors": [
+        {
+          "authorId": "2109893289",
+          "name": "Yiyang Zhao"
+        },
+        {
+          "authorId": "2136340270",
+          "name": "Yunzhuo Liu"
+        },
+        {
+          "authorId": "2306921376",
+          "name": "Bo Jiang"
+        },
+        {
+          "authorId": "2181911513",
+          "name": "Tian Guo"
+        }
+      ]
+    },
+    {
+      "paperId": "9313e3695dbec21ed410d31ee98b209d3511c70b",
+      "externalIds": {
+        "PubMedCentral": "9371413",
+        "DBLP": "journals/sensors/HuangZZ22",
+        "DOI": "10.3390/s22155930",
+        "CorpusId": 251476420,
+        "PubMed": "35957487"
+      },
+      "url": "https://www.semanticscholar.org/paper/9313e3695dbec21ed410d31ee98b209d3511c70b",
+      "title": "A Novel Reinforcement Learning Approach for Spark Configuration Parameter Optimization",
+      "venue": "Italian National Conference on Sensors",
+      "year": 2022,
+      "referenceCount": 29,
+      "citationCount": 10,
+      "authors": [
+        {
+          "authorId": "2171780681",
+          "name": "Xu Huang"
+        },
+        {
+          "authorId": "46197387",
+          "name": "Hong Zhang"
+        },
+        {
+          "authorId": "2171698394",
+          "name": "Xiaomeng Zhai"
+        }
+      ]
+    }
+  ]
+}

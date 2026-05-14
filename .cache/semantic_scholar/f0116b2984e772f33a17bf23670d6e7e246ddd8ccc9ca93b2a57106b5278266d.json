@@ -1,0 +1,374 @@
+{
+  "total": 17,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "b4e669bae43216cb0e77836a411b88dea4bb6034",
+      "externalIds": {
+        "MAG": "2962954781",
+        "DBLP": "conf/icml/GreydanusKDF18",
+        "ArXiv": "1711.00138",
+        "CorpusId": 27585435
+      },
+      "url": "https://www.semanticscholar.org/paper/b4e669bae43216cb0e77836a411b88dea4bb6034",
+      "title": "Visualizing and Understanding Atari Agents",
+      "venue": "International Conference on Machine Learning",
+      "year": 2017,
+      "referenceCount": 30,
+      "citationCount": 392,
+      "authors": [
+        {
+          "authorId": "14851288",
+          "name": "S. Greydanus"
+        },
+        {
+          "authorId": "40135938",
+          "name": "Anurag Koul"
+        },
+        {
+          "authorId": "1519478862",
+          "name": "Jonathan Dodge"
+        },
+        {
+          "authorId": "145841336",
+          "name": "Alan Fern"
+        }
+      ]
+    },
+    {
+      "paperId": "a01aa16ba8f8b9541577e49f54f701df5bfb6105",
+      "externalIds": {
+        "MAG": "2904398858",
+        "DBLP": "journals/corr/abs-1812-07069",
+        "ArXiv": "1812.07069",
+        "DOI": "10.24963/ijcai.2019/452",
+        "CorpusId": 56175683
+      },
+      "url": "https://www.semanticscholar.org/paper/a01aa16ba8f8b9541577e49f54f701df5bfb6105",
+      "title": "An Atari Model Zoo for Analyzing, Visualizing, and Comparing Deep Reinforcement Learning Agents",
+      "venue": "International Joint Conference on Artificial Intelligence",
+      "year": 2018,
+      "referenceCount": 59,
+      "citationCount": 54,
+      "authors": [
+        {
+          "authorId": "9927844",
+          "name": "F. Such"
+        },
+        {
+          "authorId": "8309711",
+          "name": "Vashisht Madhavan"
+        },
+        {
+          "authorId": "48757909",
+          "name": "Rosanne Liu"
+        },
+        {
+          "authorId": "2151036122",
+          "name": "Rui Wang"
+        },
+        {
+          "authorId": "39163115",
+          "name": "P. S. Castro"
+        },
+        {
+          "authorId": "2111353738",
+          "name": "Yulun Li"
+        },
+        {
+          "authorId": "3005407",
+          "name": "Ludwig Schubert"
+        },
+        {
+          "authorId": "1792298",
+          "name": "Marc G. Bellemare"
+        },
+        {
+          "authorId": "2552141",
+          "name": "J. Clune"
+        },
+        {
+          "authorId": "39799304",
+          "name": "J. Lehman"
+        }
+      ]
+    },
+    {
+      "paperId": "32dd5923675e9ca64c613d065a2a1810811b9314",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2309-03651",
+        "ArXiv": "2309.03651",
+        "DOI": "10.48550/arXiv.2309.03651",
+        "CorpusId": 261582928
+      },
+      "url": "https://www.semanticscholar.org/paper/32dd5923675e9ca64c613d065a2a1810811b9314",
+      "title": "Learning of Generalizable and Interpretable Knowledge in Grid-Based Reinforcement Learning Environments",
+      "venue": "Artificial Intelligence and Interactive Digital Entertainment Conference",
+      "year": 2023,
+      "referenceCount": 39,
+      "citationCount": 7,
+      "authors": [
+        {
+          "authorId": "2202418971",
+          "name": "Manuel Eberhardinger"
+        },
+        {
+          "authorId": "2275975277",
+          "name": "Johannes Maucher"
+        },
+        {
+          "authorId": "1822482",
+          "name": "Setareh Maghsudi"
+        }
+      ]
+    },
+    {
+      "paperId": "ef58d0447069ef916003f9897502fc78af740609",
+      "externalIds": {
+        "MAG": "2996274873",
+        "DBLP": "journals/corr/abs-1904-01318",
+        "ArXiv": "1904.01318",
+        "CorpusId": 91184200
+      },
+      "url": "https://www.semanticscholar.org/paper/ef58d0447069ef916003f9897502fc78af740609",
+      "title": "Finding and Visualizing Weaknesses of Deep Reinforcement Learning Agents",
+      "venue": "International Conference on Learning Representations",
+      "year": 2019,
+      "referenceCount": 56,
+      "citationCount": 36,
+      "authors": [
+        {
+          "authorId": "49359942",
+          "name": "C. Rupprecht"
+        },
+        {
+          "authorId": "90399096",
+          "name": "Cyril Ibrahim"
+        },
+        {
+          "authorId": "1972076",
+          "name": "C. Pal"
+        }
+      ]
+    },
+    {
+      "paperId": "dd7d5d545e91882df043022b8965c147cf28af23",
+      "externalIds": {
+        "DBLP": "conf/iclr/PuriVGKDK020",
+        "MAG": "3029567494",
+        "ArXiv": "1912.12191",
+        "CorpusId": 214701125
+      },
+      "url": "https://www.semanticscholar.org/paper/dd7d5d545e91882df043022b8965c147cf28af23",
+      "title": "Explain Your Move: Understanding Agent Actions Using Specific and Relevant Feature Attribution",
+      "venue": "International Conference on Learning Representations",
+      "year": 2019,
+      "referenceCount": 32,
+      "citationCount": 98,
+      "authors": [
+        {
+          "authorId": "29921329",
+          "name": "Nikaash Puri"
+        },
+        {
+          "authorId": "19257454",
+          "name": "Sukriti Verma"
+        },
+        {
+          "authorId": "2122334891",
+          "name": "P. Gupta"
+        },
+        {
+          "authorId": "1471662273",
+          "name": "Dhruv Kayastha"
+        },
+        {
+          "authorId": "1471140401",
+          "name": "Shripad Deshmukh"
+        },
+        {
+          "authorId": "145846953",
+          "name": "Balaji Krishnamurthy"
+        },
+        {
+          "authorId": "34650964",
+          "name": "Sameer Singh"
+        }
+      ]
+    },
+    {
+      "paperId": "6d686def2dd5e4b885b8bba81d3d89589e2954f7",
+      "externalIds": {
+        "MAG": "3195848640",
+        "DOI": "10.3997/2214-4609.202120140",
+        "CorpusId": 238971549
+      },
+      "url": "https://www.semanticscholar.org/paper/6d686def2dd5e4b885b8bba81d3d89589e2954f7",
+      "title": "Cross-borehole electrical monitoring in groundwater remediation projects: understanding the flow path of remediation agents",
+      "venue": "NSG2021 1st Conference on Hydrogeophysics",
+      "year": 2021,
+      "referenceCount": 8,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "103761559",
+          "name": "L. Lévy"
+        },
+        {
+          "authorId": "104128847",
+          "name": "T. Bording"
+        },
+        {
+          "authorId": "33260830",
+          "name": "A. Christiansen"
+        },
+        {
+          "authorId": "2104347180",
+          "name": "R. Thalund‐Hansen"
+        },
+        {
+          "authorId": "6507117",
+          "name": "P. L. Bjerg"
+        }
+      ]
+    },
+    {
+      "paperId": "66bc87d78df80501f84b560bcd86e7ed604eb897",
+      "externalIds": {
+        "DOI": "10.1109/PRAI59366.2023.10332079",
+        "CorpusId": 265699345
+      },
+      "url": "https://www.semanticscholar.org/paper/66bc87d78df80501f84b560bcd86e7ed604eb897",
+      "title": "A Visual Analytics Approach to Understanding Proximal Policy Optimization",
+      "venue": "2023 IEEE 6th International Conference on Pattern Recognition and Artificial Intelligence (PRAI)",
+      "year": 2023,
+      "referenceCount": 17,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2271245606",
+          "name": "Jinlun Zhang"
+        },
+        {
+          "authorId": "2270275045",
+          "name": "Hanlin Lan"
+        },
+        {
+          "authorId": "2270544138",
+          "name": "Boyang Gao"
+        },
+        {
+          "authorId": "2270192410",
+          "name": "Yunbo Rao"
+        },
+        {
+          "authorId": "145679419",
+          "name": "J. Pu"
+        }
+      ]
+    },
+    {
+      "paperId": "75a2b63f3d1d6e025302fbf1e5a832ca235df8cd",
+      "externalIds": {
+        "MAG": "2995372147",
+        "DBLP": "journals/corr/abs-1912-12191",
+        "CorpusId": 209485245
+      },
+      "url": "https://www.semanticscholar.org/paper/75a2b63f3d1d6e025302fbf1e5a832ca235df8cd",
+      "title": "Explain Your Move: Understanding Agent Actions Using Focused Feature Saliency",
+      "venue": "International Conference on Learning Representations",
+      "year": 2019,
+      "referenceCount": 31,
+      "citationCount": 18,
+      "authors": [
+        {
+          "authorId": "2122334891",
+          "name": "P. Gupta"
+        },
+        {
+          "authorId": "29921329",
+          "name": "Nikaash Puri"
+        },
+        {
+          "authorId": "19257454",
+          "name": "Sukriti Verma"
+        },
+        {
+          "authorId": "1471662273",
+          "name": "Dhruv Kayastha"
+        },
+        {
+          "authorId": "1471140401",
+          "name": "Shripad Deshmukh"
+        },
+        {
+          "authorId": "145846953",
+          "name": "Balaji Krishnamurthy"
+        },
+        {
+          "authorId": "34650964",
+          "name": "Sameer Singh"
+        }
+      ]
+    },
+    {
+      "paperId": "20ebdebed47aecb57623d2ee6d127db98efbd262",
+      "externalIds": {
+        "DBLP": "journals/access/ItayaYHYFS25",
+        "DOI": "10.1109/ACCESS.2025.3554493",
+        "CorpusId": 277362726
+      },
+      "url": "https://www.semanticscholar.org/paper/20ebdebed47aecb57623d2ee6d127db98efbd262",
+      "title": "Visual Explanation With Action Query Transformer in Deep Reinforcement Learning and Visual Feedback via Augmented Reality",
+      "venue": "IEEE Access",
+      "year": 2025,
+      "referenceCount": 55,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "1382246301",
+          "name": "Hidenori Itaya"
+        },
+        {
+          "authorId": "2352364504",
+          "name": "Wantao Yin"
+        },
+        {
+          "authorId": "134790239",
+          "name": "Tsubasa Hirakawa"
+        },
+        {
+          "authorId": "1687819",
+          "name": "Takayoshi Yamashita"
+        },
+        {
+          "authorId": "1687968",
+          "name": "H. Fujiyoshi"
+        },
+        {
+          "authorId": "2265582244",
+          "name": "Komei Sugiura"
+        }
+      ]
+    },
+    {
+      "paperId": "bd41b6ddfc26ee004c2e8ef5d15b8f60c93e8e4f",
+      "externalIds": {
+        "CorpusId": 211092327
+      },
+      "url": "https://www.semanticscholar.org/paper/bd41b6ddfc26ee004c2e8ef5d15b8f60c93e8e4f",
+      "title": "DEEP REINFORCEMENT LEARNING AGENTS",
+      "venue": "",
+      "year": 2019,
+      "referenceCount": 46,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2101379417",
+          "name": "Visualizing Weaknesses"
+        }
+      ]
+    }
+  ]
+}

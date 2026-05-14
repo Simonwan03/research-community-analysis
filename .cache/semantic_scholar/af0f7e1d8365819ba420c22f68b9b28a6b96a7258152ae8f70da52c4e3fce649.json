@@ -1,0 +1,288 @@
+{
+  "total": 283,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "0f899b92b7fb03b609fee887e4b6f3b633eaf30d",
+      "externalIds": {
+        "MAG": "299440670",
+        "ArXiv": "1505.05770",
+        "DBLP": "journals/corr/RezendeM15",
+        "CorpusId": 12554042
+      },
+      "url": "https://www.semanticscholar.org/paper/0f899b92b7fb03b609fee887e4b6f3b633eaf30d",
+      "title": "Variational Inference with Normalizing Flows",
+      "venue": "International Conference on Machine Learning",
+      "year": 2015,
+      "referenceCount": 40,
+      "citationCount": 4834,
+      "authors": [
+        {
+          "authorId": "1748523",
+          "name": "Danilo Jimenez Rezende"
+        },
+        {
+          "authorId": "14594344",
+          "name": "S. Mohamed"
+        }
+      ]
+    },
+    {
+      "paperId": "682ca607a85849f5aacaa09461f99d5a529943f9",
+      "externalIds": {
+        "DBLP": "journals/jcam/WuZZ24",
+        "DOI": "10.1016/j.cam.2023.115659",
+        "CorpusId": 265392322
+      },
+      "url": "https://www.semanticscholar.org/paper/682ca607a85849f5aacaa09461f99d5a529943f9",
+      "title": "Reduced-order model-based variational inference with normalizing flows for Bayesian elliptic inverse problems",
+      "venue": "Journal of Computational and Applied Mathematics",
+      "year": 2023,
+      "referenceCount": 51,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "3412134",
+          "name": "Zhizhang Wu"
+        },
+        {
+          "authorId": "2238090423",
+          "name": "Chengjian Zhang"
+        },
+        {
+          "authorId": "2237395956",
+          "name": "Zhiwen Zhang"
+        }
+      ]
+    },
+    {
+      "paperId": "d057816f0fce8319aed87ada08e4dc6f864ec55a",
+      "externalIds": {
+        "ArXiv": "2512.12742",
+        "CorpusId": 283896655
+      },
+      "url": "https://www.semanticscholar.org/paper/d057816f0fce8319aed87ada08e4dc6f864ec55a",
+      "title": "A Novel Framework Using Variational Inference with Normalizing Flows to Train Transport Reversible Jump Proposals",
+      "venue": "",
+      "year": 2025,
+      "referenceCount": 31,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "145569120",
+          "name": "P. Yin"
+        },
+        {
+          "authorId": "2261381654",
+          "name": "Xiyun Jiao"
+        }
+      ]
+    },
+    {
+      "paperId": "648fa7a3dab6acb04c31df5f084097d6e9d1f137",
+      "externalIds": {
+        "DOI": "10.1029/2024MS004547",
+        "CorpusId": 280945922
+      },
+      "url": "https://www.semanticscholar.org/paper/648fa7a3dab6acb04c31df5f084097d6e9d1f137",
+      "title": "A Framework for Variational Inference and Data Assimilation of Soil Biogeochemical Models Using Normalizing Flows",
+      "venue": "",
+      "year": 2025,
+      "referenceCount": 115,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2148790852",
+          "name": "H. Xie"
+        },
+        {
+          "authorId": "20479351",
+          "name": "D. Sujono"
+        },
+        {
+          "authorId": "2240459307",
+          "name": "T. Ryder"
+        },
+        {
+          "authorId": "1799035",
+          "name": "Erik B. Sudderth"
+        },
+        {
+          "authorId": "2240455239",
+          "name": "S. Allison"
+        }
+      ]
+    },
+    {
+      "paperId": "e99620594af3712aac9966c0e1c358e9b554a675",
+      "externalIds": {
+        "MAG": "3107593647",
+        "DBLP": "conf/nips/Zhang20a",
+        "ArXiv": "2012.00459",
+        "CorpusId": 227238781
+      },
+      "url": "https://www.semanticscholar.org/paper/e99620594af3712aac9966c0e1c358e9b554a675",
+      "title": "Improved Variational Bayesian Phylogenetic Inference with Normalizing Flows",
+      "venue": "Neural Information Processing Systems",
+      "year": 2020,
+      "referenceCount": 50,
+      "citationCount": 29,
+      "authors": [
+        {
+          "authorId": "2155988857",
+          "name": "Cheng Zhang"
+        }
+      ]
+    },
+    {
+      "paperId": "8073952aa87b4f516de397e864d7366e3d4fcef2",
+      "externalIds": {
+        "ArXiv": "2510.07965",
+        "DBLP": "journals/corr/abs-2510-07965",
+        "DOI": "10.48550/arXiv.2510.07965",
+        "CorpusId": 281951574
+      },
+      "url": "https://www.semanticscholar.org/paper/8073952aa87b4f516de397e864d7366e3d4fcef2",
+      "title": "Stick-Breaking Mixture Normalizing Flows with Component-Wise Tail Adaptation for Variational Inference",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "referenceCount": 26,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2311079635",
+          "name": "Seungsu Han"
+        },
+        {
+          "authorId": "2116463793",
+          "name": "Juyoung Hwang"
+        },
+        {
+          "authorId": "2148241567",
+          "name": "Won Chang"
+        }
+      ]
+    },
+    {
+      "paperId": "859133d9f1fd44dc1e6515c5525d94d8811e105d",
+      "externalIds": {
+        "ArXiv": "2405.08857",
+        "DOI": "10.1103/p3f7-rbmv",
+        "CorpusId": 269772880,
+        "PubMed": "40929189"
+      },
+      "url": "https://www.semanticscholar.org/paper/859133d9f1fd44dc1e6515c5525d94d8811e105d",
+      "title": "Rapid Parameter Estimation for Pulsar-Timing-Array Datasets with Variational Inference and Normalizing Flows.",
+      "venue": "Physical Review Letters",
+      "year": 2024,
+      "referenceCount": 65,
+      "citationCount": 8,
+      "authors": [
+        {
+          "authorId": "2319048",
+          "name": "M. Vallisneri"
+        },
+        {
+          "authorId": "88741069",
+          "name": "M. Crisostomi"
+        },
+        {
+          "authorId": "2115786435",
+          "name": "A. Johnson"
+        },
+        {
+          "authorId": "2238632400",
+          "name": "P. M. Meyers"
+        }
+      ]
+    },
+    {
+      "paperId": "a18909a725283f95f060b0c8ba0e1e5610d65341",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2402-16408",
+        "ArXiv": "2402.16408",
+        "DOI": "10.48550/arXiv.2402.16408",
+        "CorpusId": 268032395
+      },
+      "url": "https://www.semanticscholar.org/paper/a18909a725283f95f060b0c8ba0e1e5610d65341",
+      "title": "Stable Training of Normalizing Flows for High-dimensional Variational Inference",
+      "venue": "arXiv.org",
+      "year": 2024,
+      "referenceCount": 41,
+      "citationCount": 6,
+      "authors": [
+        {
+          "authorId": "2287844918",
+          "name": "Daniel Andrade"
+        }
+      ]
+    },
+    {
+      "paperId": "c8c6f137d2254d2c5717b7ae64e90bba11e71f79",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2302-05787",
+        "ArXiv": "2302.05787",
+        "DOI": "10.48550/arXiv.2302.05787",
+        "CorpusId": 256827699
+      },
+      "url": "https://www.semanticscholar.org/paper/c8c6f137d2254d2c5717b7ae64e90bba11e71f79",
+      "title": "Differentially Private Normalizing Flows for Density Estimation, Data Synthesis, and Variational Inference with Application to Electronic Health Records",
+      "venue": "arXiv.org",
+      "year": 2023,
+      "referenceCount": 73,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "1397930446",
+          "name": "Bingyue Su"
+        },
+        {
+          "authorId": "113310344",
+          "name": "Yu Wang"
+        },
+        {
+          "authorId": "2366171137",
+          "name": "Daniele E. Schiavazzi"
+        },
+        {
+          "authorId": "2170732488",
+          "name": "Fang Liu"
+        }
+      ]
+    },
+    {
+      "paperId": "533e651177354d6687e8d0a24217a6bf65692bcc",
+      "externalIds": {
+        "MAG": "2791004381",
+        "DBLP": "journals/corr/abs-1803-05649",
+        "ArXiv": "1803.05649",
+        "CorpusId": 3934196
+      },
+      "url": "https://www.semanticscholar.org/paper/533e651177354d6687e8d0a24217a6bf65692bcc",
+      "title": "Sylvester Normalizing Flows for Variational Inference",
+      "venue": "Conference on Uncertainty in Artificial Intelligence",
+      "year": 2018,
+      "referenceCount": 27,
+      "citationCount": 259,
+      "authors": [
+        {
+          "authorId": "9965217",
+          "name": "Rianne van den Berg"
+        },
+        {
+          "authorId": "40401956",
+          "name": "Leonard Hasenclever"
+        },
+        {
+          "authorId": "1849327",
+          "name": "J. Tomczak"
+        },
+        {
+          "authorId": "1678311",
+          "name": "M. Welling"
+        }
+      ]
+    }
+  ]
+}

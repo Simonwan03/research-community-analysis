@@ -1,0 +1,298 @@
+{
+  "total": 199,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "a2d1aaedb70777d1fa047af6db30e84c55b81023",
+      "externalIds": {
+        "MAG": "2952915436",
+        "DBLP": "journals/corr/abs-1806-08838",
+        "ArXiv": "1806.08838",
+        "CorpusId": 49421213
+      },
+      "url": "https://www.semanticscholar.org/paper/a2d1aaedb70777d1fa047af6db30e84c55b81023",
+      "title": "Bayesian Optimization of Combinatorial Structures",
+      "venue": "International Conference on Machine Learning",
+      "year": 2018,
+      "referenceCount": 50,
+      "citationCount": 156,
+      "authors": [
+        {
+          "authorId": "145539374",
+          "name": "R. Baptista"
+        },
+        {
+          "authorId": "31925701",
+          "name": "Matthias Poloczek"
+        }
+      ]
+    },
+    {
+      "paperId": "a4a9ba497b79226449a6452b864365cdbd8bbca9",
+      "externalIds": {
+        "CorpusId": 53368501
+      },
+      "url": "https://www.semanticscholar.org/paper/a4a9ba497b79226449a6452b864365cdbd8bbca9",
+      "title": "Bayesian Optimization of Combinatorial Structures Bayesian Optimization of Combinatorial Structures",
+      "venue": "",
+      "year": 2018,
+      "referenceCount": 0,
+      "citationCount": 0,
+      "authors": []
+    },
+    {
+      "paperId": "d8ab02aa3246d8dffbc06a8225018d521bd991c3",
+      "externalIds": {
+        "DBLP": "journals/make/SabbatellaPCA24",
+        "DOI": "10.3390/make6040110",
+        "CorpusId": 273195001
+      },
+      "url": "https://www.semanticscholar.org/paper/d8ab02aa3246d8dffbc06a8225018d521bd991c3",
+      "title": "Bayesian Optimization Using Simulation-Based Multiple Information Sources over Combinatorial Structures",
+      "venue": "Machine Learning and Knowledge Extraction",
+      "year": 2024,
+      "referenceCount": 42,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "2269149066",
+          "name": "Antonio Sabbatella"
+        },
+        {
+          "authorId": "2046873142",
+          "name": "Andrea Ponti"
+        },
+        {
+          "authorId": "48697039",
+          "name": "Antonio Candelieri"
+        },
+        {
+          "authorId": "3277480",
+          "name": "F. Archetti"
+        }
+      ]
+    },
+    {
+      "paperId": "00bb3148c2df49953a9f3682627e5bf45c404551",
+      "externalIds": {
+        "DBLP": "journals/tmlr/RathRSTC24",
+        "CorpusId": 268955729
+      },
+      "url": "https://www.semanticscholar.org/paper/00bb3148c2df49953a9f3682627e5bf45c404551",
+      "title": "Discovering Model Structure of Dynamical Systems with Combinatorial Bayesian Optimization",
+      "venue": "Trans. Mach. Learn. Res.",
+      "year": 2024,
+      "referenceCount": 51,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2146967910",
+          "name": "Lucas Rath"
+        },
+        {
+          "authorId": "51449268",
+          "name": "Alexander von Rohr"
+        },
+        {
+          "authorId": "96375946",
+          "name": "Andreas Schultze"
+        },
+        {
+          "authorId": "2715093",
+          "name": "Sebastian Trimpe"
+        },
+        {
+          "authorId": "2754908",
+          "name": "B. Corves"
+        }
+      ]
+    },
+    {
+      "paperId": "e5209efa4bc34a46a60fe068cf7d0e9aea7cfe2a",
+      "externalIds": {
+        "PubMedCentral": "9850731",
+        "DOI": "10.1021/acsomega.2c05145",
+        "CorpusId": 255335559,
+        "PubMed": "36687084"
+      },
+      "url": "https://www.semanticscholar.org/paper/e5209efa4bc34a46a60fe068cf7d0e9aea7cfe2a",
+      "title": "Initial Sample Selection in Bayesian Optimization for Combinatorial Optimization of Chemical Compounds",
+      "venue": "ACS Omega",
+      "year": 2022,
+      "referenceCount": 15,
+      "citationCount": 10,
+      "authors": [
+        {
+          "authorId": "92232363",
+          "name": "Toshiharu Morishita"
+        },
+        {
+          "authorId": "2053822551",
+          "name": "Hiromasa Kaneko"
+        }
+      ]
+    },
+    {
+      "paperId": "68500e037f95d21e2d169f81e696e1e0461546bb",
+      "externalIds": {
+        "ArXiv": "2303.01774",
+        "DBLP": "journals/corr/abs-2303-01774",
+        "DOI": "10.48550/arXiv.2303.01774",
+        "CorpusId": 257353800
+      },
+      "url": "https://www.semanticscholar.org/paper/68500e037f95d21e2d169f81e696e1e0461546bb",
+      "title": "Bayesian Optimization over High-Dimensional Combinatorial Spaces via Dictionary-based Embeddings",
+      "venue": "International Conference on Artificial Intelligence and Statistics",
+      "year": 2023,
+      "referenceCount": 59,
+      "citationCount": 36,
+      "authors": [
+        {
+          "authorId": "151474453",
+          "name": "Aryan Deshwal"
+        },
+        {
+          "authorId": "5966892",
+          "name": "Sebastian Ament"
+        },
+        {
+          "authorId": "2065597122",
+          "name": "M. Balandat"
+        },
+        {
+          "authorId": "3071703",
+          "name": "E. Bakshy"
+        },
+        {
+          "authorId": "2089333",
+          "name": "J. Doppa"
+        },
+        {
+          "authorId": "152534486",
+          "name": "David Eriksson"
+        }
+      ]
+    },
+    {
+      "paperId": "5c32edcfbd4a4345693819cdafc807aae4abbbdc",
+      "externalIds": {
+        "ArXiv": "2503.05642",
+        "CorpusId": 276884947
+      },
+      "url": "https://www.semanticscholar.org/paper/5c32edcfbd4a4345693819cdafc807aae4abbbdc",
+      "title": "BoGrape: Bayesian optimization over graphs with shortest-path encoded",
+      "venue": "",
+      "year": 2025,
+      "referenceCount": 72,
+      "citationCount": 6,
+      "authors": [
+        {
+          "authorId": "2327881240",
+          "name": "Yilin Xie"
+        },
+        {
+          "authorId": "2243551337",
+          "name": "Shiqiang Zhang"
+        },
+        {
+          "authorId": "2304550387",
+          "name": "Jixiang Qing"
+        },
+        {
+          "authorId": "2268493557",
+          "name": "Ruth Misener"
+        },
+        {
+          "authorId": "2269147138",
+          "name": "Calvin Tsay"
+        }
+      ]
+    },
+    {
+      "paperId": "c10a28812649d0482672485621b2d3ae59e90eca",
+      "externalIds": {
+        "DBLP": "conf/nips/DeshwalD21",
+        "ArXiv": "2111.01186",
+        "CorpusId": 240420012
+      },
+      "url": "https://www.semanticscholar.org/paper/c10a28812649d0482672485621b2d3ae59e90eca",
+      "title": "Combining Latent Space and Structured Kernels for Bayesian Optimization over Combinatorial Spaces",
+      "venue": "Neural Information Processing Systems",
+      "year": 2021,
+      "referenceCount": 89,
+      "citationCount": 61,
+      "authors": [
+        {
+          "authorId": "151474453",
+          "name": "Aryan Deshwal"
+        },
+        {
+          "authorId": "2089333",
+          "name": "J. Doppa"
+        }
+      ]
+    },
+    {
+      "paperId": "0fe589d100806afdaaff574e76616242ad9f13da",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2012-07762",
+        "ArXiv": "2012.07762",
+        "DOI": "10.1609/aaai.v35i8.16886",
+        "CorpusId": 229158637
+      },
+      "url": "https://www.semanticscholar.org/paper/0fe589d100806afdaaff574e76616242ad9f13da",
+      "title": "Mercer Features for Efficient Combinatorial Bayesian Optimization",
+      "venue": "AAAI Conference on Artificial Intelligence",
+      "year": 2020,
+      "referenceCount": 41,
+      "citationCount": 39,
+      "authors": [
+        {
+          "authorId": "151474453",
+          "name": "Aryan Deshwal"
+        },
+        {
+          "authorId": "11631312",
+          "name": "Syrine Belakaria"
+        },
+        {
+          "authorId": "2089333",
+          "name": "J. Doppa"
+        }
+      ]
+    },
+    {
+      "paperId": "3e9eff4492956745b33315dde1fcef95dc09d9e4",
+      "externalIds": {
+        "MAG": "2914348296",
+        "DBLP": "journals/corr/abs-1902-00448",
+        "CorpusId": 59553510
+      },
+      "url": "https://www.semanticscholar.org/paper/3e9eff4492956745b33315dde1fcef95dc09d9e4",
+      "title": "Combinatorial Bayesian Optimization using Graph Representations",
+      "venue": "arXiv.org",
+      "year": 2019,
+      "referenceCount": 32,
+      "citationCount": 18,
+      "authors": [
+        {
+          "authorId": "145915461",
+          "name": "Changyong Oh"
+        },
+        {
+          "authorId": "1849327",
+          "name": "J. Tomczak"
+        },
+        {
+          "authorId": "2304222",
+          "name": "E. Gavves"
+        },
+        {
+          "authorId": "1678311",
+          "name": "M. Welling"
+        }
+      ]
+    }
+  ]
+}

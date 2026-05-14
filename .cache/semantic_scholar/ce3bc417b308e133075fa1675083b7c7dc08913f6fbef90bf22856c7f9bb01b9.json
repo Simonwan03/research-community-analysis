@@ -1,0 +1,283 @@
+{
+  "total": 321,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "1389772b8a0f9c7fc43057f9da41a7d0ebf0308b",
+      "externalIds": {
+        "MAG": "2962767126",
+        "ArXiv": "1402.0635",
+        "DBLP": "conf/icml/OsbandRW16",
+        "CorpusId": 11789392
+      },
+      "url": "https://www.semanticscholar.org/paper/1389772b8a0f9c7fc43057f9da41a7d0ebf0308b",
+      "title": "Generalization and Exploration via Randomized Value Functions",
+      "venue": "International Conference on Machine Learning",
+      "year": 2014,
+      "referenceCount": 47,
+      "citationCount": 335,
+      "authors": [
+        {
+          "authorId": "2561924",
+          "name": "Ian Osband"
+        },
+        {
+          "authorId": "1731282",
+          "name": "Benjamin Van Roy"
+        },
+        {
+          "authorId": "39761651",
+          "name": "Zheng Wen"
+        }
+      ]
+    },
+    {
+      "paperId": "83b911f45231081af0e85b3861d86e080dcceb49",
+      "externalIds": {
+        "CorpusId": 261370859
+      },
+      "url": "https://www.semanticscholar.org/paper/83b911f45231081af0e85b3861d86e080dcceb49",
+      "title": "Generalization and Exploration via Randomized Value Functions",
+      "venue": "",
+      "year": 2016,
+      "referenceCount": 0,
+      "citationCount": 0,
+      "authors": []
+    },
+    {
+      "paperId": "a441728f9fd6af1946368240162a72c2028c8cb1",
+      "externalIds": {
+        "MAG": "2974778612",
+        "DBLP": "journals/corr/Osband0WR17",
+        "ArXiv": "1703.07608",
+        "CorpusId": 15264404
+      },
+      "url": "https://www.semanticscholar.org/paper/a441728f9fd6af1946368240162a72c2028c8cb1",
+      "title": "Deep Exploration via Randomized Value Functions",
+      "venue": "Journal of machine learning research",
+      "year": 2017,
+      "referenceCount": 89,
+      "citationCount": 328,
+      "authors": [
+        {
+          "authorId": "2561924",
+          "name": "Ian Osband"
+        },
+        {
+          "authorId": "145751896",
+          "name": "Daniel Russo"
+        },
+        {
+          "authorId": "39761651",
+          "name": "Zheng Wen"
+        },
+        {
+          "authorId": "1731282",
+          "name": "Benjamin Van Roy"
+        }
+      ]
+    },
+    {
+      "paperId": "e5e440562aa293b43cd95a5b52dd705fbf88115b",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-1906-02870",
+        "MAG": "2948080528",
+        "ArXiv": "1906.02870",
+        "CorpusId": 174801686
+      },
+      "url": "https://www.semanticscholar.org/paper/e5e440562aa293b43cd95a5b52dd705fbf88115b",
+      "title": "Worst-Case Regret Bounds for Exploration via Randomized Value Functions",
+      "venue": "Neural Information Processing Systems",
+      "year": 2019,
+      "referenceCount": 30,
+      "citationCount": 95,
+      "authors": [
+        {
+          "authorId": "145751896",
+          "name": "Daniel Russo"
+        }
+      ]
+    },
+    {
+      "paperId": "6879ecec797cd0f1319b54a963f91abb5f7325de",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-1806-02315",
+        "ArXiv": "1806.02315",
+        "MAG": "2964630631",
+        "CorpusId": 46950225
+      },
+      "url": "https://www.semanticscholar.org/paper/6879ecec797cd0f1319b54a963f91abb5f7325de",
+      "title": "Randomized Value Functions via Multiplicative Normalizing Flows",
+      "venue": "Conference on Uncertainty in Artificial Intelligence",
+      "year": 2018,
+      "referenceCount": 48,
+      "citationCount": 40,
+      "authors": [
+        {
+          "authorId": "145046554",
+          "name": "Ahmed Touati"
+        },
+        {
+          "authorId": "41017677",
+          "name": "Harsh Satija"
+        },
+        {
+          "authorId": "8365320",
+          "name": "Joshua Romoff"
+        },
+        {
+          "authorId": "145134886",
+          "name": "Joelle Pineau"
+        },
+        {
+          "authorId": "145467703",
+          "name": "P. Vincent"
+        }
+      ]
+    },
+    {
+      "paperId": "4b63e34276aa98d5345efa7fe09bb06d8a9d8f52",
+      "externalIds": {
+        "MAG": "2950112945",
+        "ArXiv": "1602.04621",
+        "DBLP": "journals/corr/OsbandBPR16",
+        "CorpusId": 5865729
+      },
+      "url": "https://www.semanticscholar.org/paper/4b63e34276aa98d5345efa7fe09bb06d8a9d8f52",
+      "title": "Deep Exploration via Bootstrapped DQN",
+      "venue": "Neural Information Processing Systems",
+      "year": 2016,
+      "referenceCount": 51,
+      "citationCount": 1487,
+      "authors": [
+        {
+          "authorId": "2561924",
+          "name": "Ian Osband"
+        },
+        {
+          "authorId": "1723876",
+          "name": "C. Blundell"
+        },
+        {
+          "authorId": "1863250",
+          "name": "A. Pritzel"
+        },
+        {
+          "authorId": "1731282",
+          "name": "Benjamin Van Roy"
+        }
+      ]
+    },
+    {
+      "paperId": "98d73ffdc4bcf91fa902e9a32a8249917e6ad946",
+      "externalIds": {
+        "ArXiv": "2302.14518",
+        "CorpusId": 259982571
+      },
+      "url": "https://www.semanticscholar.org/paper/98d73ffdc4bcf91fa902e9a32a8249917e6ad946",
+      "title": "Generalization Error Bounds for Noisy, Iterative Algorithms via Maximal Leakage",
+      "venue": "",
+      "year": 2023,
+      "referenceCount": 36,
+      "citationCount": 5,
+      "authors": [
+        {
+          "authorId": "145722360",
+          "name": "Ibrahim Issa"
+        },
+        {
+          "authorId": "145808907",
+          "name": "A. Esposito"
+        },
+        {
+          "authorId": "1792424",
+          "name": "M. Gastpar"
+        }
+      ]
+    },
+    {
+      "paperId": "8652f560860cdad3b6866f06614e64a04c66cee6",
+      "externalIds": {
+        "DOI": "10.1109/WAMS64402.2025.11158892",
+        "CorpusId": 281509374
+      },
+      "url": "https://www.semanticscholar.org/paper/8652f560860cdad3b6866f06614e64a04c66cee6",
+      "title": "The Role of Environment Complexity in Exploration Strategies: A Comparative Analysis of CartPole and Lunar Lander",
+      "venue": "2025 IEEE Wireless Antenna and Microwave Symposium (WAMS)",
+      "year": 2025,
+      "referenceCount": 9,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2381869031",
+          "name": "Atin Chowdhury"
+        },
+        {
+          "authorId": "2279722760",
+          "name": "Piyush Joshi"
+        }
+      ]
+    },
+    {
+      "paperId": "6940a8a314d43b6d2cad0b17e72194651e6d491c",
+      "externalIds": {
+        "DBLP": "conf/isit/SefidgaranZ24",
+        "DOI": "10.1109/ISIT57864.2024.10619654",
+        "CorpusId": 271941045
+      },
+      "url": "https://www.semanticscholar.org/paper/6940a8a314d43b6d2cad0b17e72194651e6d491c",
+      "title": "Data-Dependent Generalization Bounds via Variable-Size Compressibility",
+      "venue": "International Symposium on Information Theory",
+      "year": 2024,
+      "referenceCount": 47,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "1942106",
+          "name": "Milad Sefidgaran"
+        },
+        {
+          "authorId": "2282532184",
+          "name": "Abdellatif Zaidi"
+        }
+      ]
+    },
+    {
+      "paperId": "d8a2969f5b193cba8e8e4382722c9560ead052fd",
+      "externalIds": {
+        "DBLP": "journals/ejwcn/ZhangCMAM25",
+        "DOI": "10.1186/s13638-025-02533-1",
+        "CorpusId": 283281538
+      },
+      "url": "https://www.semanticscholar.org/paper/d8a2969f5b193cba8e8e4382722c9560ead052fd",
+      "title": "Task-oriented efficient communication in federated learning via regularized sparse randomized networks and NLQ",
+      "venue": "EURASIP Journal on Wireless Communications and Networking",
+      "year": 2025,
+      "referenceCount": 29,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2343999831",
+          "name": "Liyuan Zhang"
+        },
+        {
+          "authorId": "2293427108",
+          "name": "Zhaoli Chen"
+        },
+        {
+          "authorId": "2330988382",
+          "name": "Zhipeng Meng"
+        },
+        {
+          "authorId": "2293474289",
+          "name": "Xuhua Ai"
+        },
+        {
+          "authorId": "2329916024",
+          "name": "Qi Meng"
+        }
+      ]
+    }
+  ]
+}

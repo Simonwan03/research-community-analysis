@@ -1,0 +1,250 @@
+{
+  "total": 1735,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "805188f5c03e5432eba9b868bf0e901cc51ca5cb",
+      "externalIds": {
+        "MAG": "2963072698",
+        "DBLP": "conf/icml/BraunPZ17",
+        "ArXiv": "1610.05120",
+        "CorpusId": 3670166
+      },
+      "url": "https://www.semanticscholar.org/paper/805188f5c03e5432eba9b868bf0e901cc51ca5cb",
+      "title": "Lazifying Conditional Gradient Algorithms",
+      "venue": "International Conference on Machine Learning",
+      "year": 2016,
+      "referenceCount": 34,
+      "citationCount": 59,
+      "authors": [
+        {
+          "authorId": "51282037",
+          "name": "G. Braun"
+        },
+        {
+          "authorId": "145729210",
+          "name": "S. Pokutta"
+        },
+        {
+          "authorId": "143825751",
+          "name": "Daniel Zink"
+        }
+      ]
+    },
+    {
+      "paperId": "8fad212fbcf50f20a05e94a914ecad8283ea46e7",
+      "externalIds": {
+        "DBLP": "phd/basesearch/Diego22",
+        "CorpusId": 278205625
+      },
+      "url": "https://www.semanticscholar.org/paper/8fad212fbcf50f20a05e94a914ecad8283ea46e7",
+      "title": "Faster Conditional Gradient Algorithms for Machine Learning",
+      "venue": "",
+      "year": 2022,
+      "referenceCount": 0,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "146035065",
+          "name": "Alejandro Carderera"
+        }
+      ]
+    },
+    {
+      "paperId": "593697b799fb76da9fb8482a5572b1635cdb6f50",
+      "externalIds": {
+        "MAG": "2938978969",
+        "ArXiv": "1904.09218",
+        "DOI": "10.1051/COCV/2021042",
+        "CorpusId": 125946094
+      },
+      "url": "https://www.semanticscholar.org/paper/593697b799fb76da9fb8482a5572b1635cdb6f50",
+      "title": "Linear convergence of accelerated conditional gradient algorithms in spaces of measures",
+      "venue": "E S A I M: Control, Optimisation and Calculus of Variations",
+      "year": 2019,
+      "referenceCount": 70,
+      "citationCount": 29,
+      "authors": [
+        {
+          "authorId": "21400053",
+          "name": "Konstantin Pieper"
+        },
+        {
+          "authorId": "2064416603",
+          "name": "Daniel Walter"
+        }
+      ]
+    },
+    {
+      "paperId": "45b9111b65bac52f58579e3566c8850d33206323",
+      "externalIds": {
+        "ArXiv": "2510.11440",
+        "CorpusId": 282057046
+      },
+      "url": "https://www.semanticscholar.org/paper/45b9111b65bac52f58579e3566c8850d33206323",
+      "title": "Adaptive Conditional Gradient Descent",
+      "venue": "",
+      "year": 2025,
+      "referenceCount": 53,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "3172529",
+          "name": "Abbas KHADEMI"
+        },
+        {
+          "authorId": "2391699698",
+          "name": "Antonio José Silveti-Falls"
+        }
+      ]
+    },
+    {
+      "paperId": "6f0aef1646a83f81029204794c1950d61388ab9f",
+      "externalIds": {
+        "DBLP": "conf/icml/BachLO12",
+        "MAG": "2123602290",
+        "ArXiv": "1203.4523",
+        "CorpusId": 3815860
+      },
+      "url": "https://www.semanticscholar.org/paper/6f0aef1646a83f81029204794c1950d61388ab9f",
+      "title": "On the Equivalence between Herding and Conditional Gradient Algorithms",
+      "venue": "International Conference on Machine Learning",
+      "year": 2012,
+      "referenceCount": 19,
+      "citationCount": 176,
+      "authors": [
+        {
+          "authorId": "144570279",
+          "name": "F. Bach"
+        },
+        {
+          "authorId": "1388317459",
+          "name": "Simon Lacoste-Julien"
+        },
+        {
+          "authorId": "2533906",
+          "name": "G. Obozinski"
+        }
+      ]
+    },
+    {
+      "paperId": "bb24cb18793a2dcc98406103cabbe954262ecf4b",
+      "externalIds": {
+        "MAG": "2097970385",
+        "DOI": "10.1137/0317015",
+        "CorpusId": 32745015
+      },
+      "url": "https://www.semanticscholar.org/paper/bb24cb18793a2dcc98406103cabbe954262ecf4b",
+      "title": "Rates of convergence for conditional gradient algorithms near singular and nonsingular extremals",
+      "venue": "1978 IEEE Conference on Decision and Control including the 17th Symposium on Adaptive Processes",
+      "year": 1979,
+      "referenceCount": 0,
+      "citationCount": 108,
+      "authors": [
+        {
+          "authorId": "144581556",
+          "name": "J. Dunn"
+        }
+      ]
+    },
+    {
+      "paperId": "aa5abe9700d533d0f4c800e3ecbd419ba82b2899",
+      "externalIds": {
+        "ArXiv": "2412.19427",
+        "DBLP": "journals/cam/ChenF26",
+        "DOI": "10.1007/s40314-025-03496-1",
+        "CorpusId": 275119367
+      },
+      "url": "https://www.semanticscholar.org/paper/aa5abe9700d533d0f4c800e3ecbd419ba82b2899",
+      "title": "Riemannian conditional gradient methods for composite optimization problems",
+      "venue": "Computational and Applied Mathematics",
+      "year": 2024,
+      "referenceCount": 35,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2292008963",
+          "name": "Kangming Chen"
+        },
+        {
+          "authorId": "2426989",
+          "name": "E. H. Fukuda"
+        }
+      ]
+    },
+    {
+      "paperId": "80216d7ae014fe9325857f4f2bb541230ae7afee",
+      "externalIds": {
+        "MAG": "2105864171",
+        "DOI": "10.1016/0022-247X(78)90137-3",
+        "CorpusId": 123098843
+      },
+      "url": "https://www.semanticscholar.org/paper/80216d7ae014fe9325857f4f2bb541230ae7afee",
+      "title": "Conditional gradient algorithms with open loop step size rules",
+      "venue": "",
+      "year": 1978,
+      "referenceCount": 26,
+      "citationCount": 133,
+      "authors": [
+        {
+          "authorId": "144581556",
+          "name": "J. Dunn"
+        },
+        {
+          "authorId": "47419399",
+          "name": "P. Lax"
+        }
+      ]
+    },
+    {
+      "paperId": "9e590a97b1b9f29ad1b34800b2652da9adca40e5",
+      "externalIds": {
+        "MAG": "2341954556",
+        "CorpusId": 15702367
+      },
+      "url": "https://www.semanticscholar.org/paper/9e590a97b1b9f29ad1b34800b2652da9adca40e5",
+      "title": "Conditional gradient algorithms for machine learning",
+      "venue": "",
+      "year": 2013,
+      "referenceCount": 21,
+      "citationCount": 27,
+      "authors": [
+        {
+          "authorId": "1753355",
+          "name": "Z. Harchaoui"
+        }
+      ]
+    },
+    {
+      "paperId": "c6e1b894c33369679815bf4b1ce3362c05c60b7f",
+      "externalIds": {
+        "MAG": "2949605370",
+        "ArXiv": "1302.2325",
+        "DBLP": "journals/mp/HarchaouiJN15",
+        "DOI": "10.1007/s10107-014-0778-9",
+        "CorpusId": 1443080
+      },
+      "url": "https://www.semanticscholar.org/paper/c6e1b894c33369679815bf4b1ce3362c05c60b7f",
+      "title": "Conditional gradient algorithms for norm-regularized smooth convex optimization",
+      "venue": "Mathematical programming",
+      "year": 2013,
+      "referenceCount": 45,
+      "citationCount": 193,
+      "authors": [
+        {
+          "authorId": "1753355",
+          "name": "Z. Harchaoui"
+        },
+        {
+          "authorId": "1754887",
+          "name": "A. Juditsky"
+        },
+        {
+          "authorId": "145853268",
+          "name": "A. Nemirovski"
+        }
+      ]
+    }
+  ]
+}

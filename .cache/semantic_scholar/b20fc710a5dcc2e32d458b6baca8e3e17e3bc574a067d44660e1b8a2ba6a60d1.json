@@ -1,0 +1,274 @@
+{
+  "total": 2354,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "e9c771197a6564762754e48c1daafb066f449f2e",
+      "externalIds": {
+        "DBLP": "conf/icml/ArjovskySB16",
+        "MAG": "2175402905",
+        "ArXiv": "1511.06464",
+        "CorpusId": 812047
+      },
+      "url": "https://www.semanticscholar.org/paper/e9c771197a6564762754e48c1daafb066f449f2e",
+      "title": "Unitary Evolution Recurrent Neural Networks",
+      "venue": "International Conference on Machine Learning",
+      "year": 2015,
+      "referenceCount": 29,
+      "citationCount": 868,
+      "authors": [
+        {
+          "authorId": "2877311",
+          "name": "Martín Arjovsky"
+        },
+        {
+          "authorId": "2244796",
+          "name": "Amar Shah"
+        },
+        {
+          "authorId": "1751762",
+          "name": "Yoshua Bengio"
+        }
+      ]
+    },
+    {
+      "paperId": "c9f6231cdfdb49c50e7e6858373a0ecd70476d0d",
+      "externalIds": {
+        "ArXiv": "1906.02246",
+        "MAG": "2951551819",
+        "DBLP": "conf/icassp/ShafranBS18",
+        "DOI": "10.1109/ICASSP.2018.8462556",
+        "CorpusId": 52288437
+      },
+      "url": "https://www.semanticscholar.org/paper/c9f6231cdfdb49c50e7e6858373a0ecd70476d0d",
+      "title": "Complex Evolution Recurrent Neural Networks (ceRNNs)",
+      "venue": "IEEE International Conference on Acoustics, Speech, and Signal Processing",
+      "year": 2018,
+      "referenceCount": 13,
+      "citationCount": 10,
+      "authors": [
+        {
+          "authorId": "1697494",
+          "name": "Izhak Shafran"
+        },
+        {
+          "authorId": "31542736",
+          "name": "Tom Bagby"
+        },
+        {
+          "authorId": "1380248814",
+          "name": "R. Skerry-Ryan"
+        }
+      ]
+    },
+    {
+      "paperId": "5e43dbe739424aff8ab9f91016daa062645aeb5d",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2510-25557",
+        "ArXiv": "2510.25557",
+        "DOI": "10.48550/arXiv.2510.25557",
+        "CorpusId": 282574809
+      },
+      "url": "https://www.semanticscholar.org/paper/5e43dbe739424aff8ab9f91016daa062645aeb5d",
+      "title": "Hybrid Quantum-Classical Recurrent Neural Networks",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "referenceCount": 59,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2268431252",
+          "name": "Wenduan Xu"
+        }
+      ]
+    },
+    {
+      "paperId": "12f8eeac2dafebf8b78c02c4b6ec3cadb8d2aacb",
+      "externalIds": {
+        "MAG": "2999601328",
+        "ArXiv": "1811.12420",
+        "DOI": "10.1103/PhysRevX.10.011006",
+        "CorpusId": 119000369
+      },
+      "url": "https://www.semanticscholar.org/paper/12f8eeac2dafebf8b78c02c4b6ec3cadb8d2aacb",
+      "title": "Using a Recurrent Neural Network to Reconstruct Quantum Dynamics of a Superconducting Qubit from Physical Observations",
+      "venue": "Physical Review X",
+      "year": 2018,
+      "referenceCount": 43,
+      "citationCount": 96,
+      "authors": [
+        {
+          "authorId": "4003409",
+          "name": "E. Flurin"
+        },
+        {
+          "authorId": "144341253",
+          "name": "Leigh S. Martin"
+        },
+        {
+          "authorId": "1398461886",
+          "name": "S. Hacohen-Gourgy"
+        },
+        {
+          "authorId": "31580381",
+          "name": "I. Siddiqi"
+        }
+      ]
+    },
+    {
+      "paperId": "d2933496a330a3b5421babea4e14c0f01bce640e",
+      "externalIds": {
+        "ArXiv": "2508.13455",
+        "DOI": "10.1016/j.aop.2026.170362",
+        "CorpusId": 280685971
+      },
+      "url": "https://www.semanticscholar.org/paper/d2933496a330a3b5421babea4e14c0f01bce640e",
+      "title": "Autoregressive typical thermal states",
+      "venue": "Annals of Physics",
+      "year": 2025,
+      "referenceCount": 48,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2376370926",
+          "name": "Tarun Advaith Kumar"
+        },
+        {
+          "authorId": "4019888",
+          "name": "L. Balents"
+        },
+        {
+          "authorId": "2258553136",
+          "name": "Timothy H. Hsieh"
+        },
+        {
+          "authorId": "3422513",
+          "name": "R. Melko"
+        }
+      ]
+    },
+    {
+      "paperId": "e85148f2a5821477bd03e8531a3a4bd7e05d9f21",
+      "externalIds": {
+        "ArXiv": "1710.09537",
+        "MAG": "2949385996",
+        "DBLP": "conf/iclr/DangovskiJS18",
+        "CorpusId": 11428611
+      },
+      "url": "https://www.semanticscholar.org/paper/e85148f2a5821477bd03e8531a3a4bd7e05d9f21",
+      "title": "Rotational Unit of Memory",
+      "venue": "International Conference on Learning Representations",
+      "year": 2017,
+      "referenceCount": 27,
+      "citationCount": 7,
+      "authors": [
+        {
+          "authorId": "26916003",
+          "name": "Rumen Dangovski"
+        },
+        {
+          "authorId": "2113522253",
+          "name": "L. Jing"
+        },
+        {
+          "authorId": "1973666",
+          "name": "M. Soljačić"
+        }
+      ]
+    },
+    {
+      "paperId": "aa23e183b527098f83ce426e72e70bc7800e71ec",
+      "externalIds": {
+        "CorpusId": 51810913
+      },
+      "url": "https://www.semanticscholar.org/paper/aa23e183b527098f83ce426e72e70bc7800e71ec",
+      "title": "ROTATION PLANE DOUBLY ORTHOGONAL RECUR-",
+      "venue": "",
+      "year": 2016,
+      "referenceCount": 21,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2064652049",
+          "name": "Andrew Bai"
+        },
+        {
+          "authorId": "2145306869",
+          "name": "Xi Chen"
+        },
+        {
+          "authorId": "1689992",
+          "name": "P. Abbeel"
+        }
+      ]
+    },
+    {
+      "paperId": "a0c032c88fa1ffed2d6d35928285b51fdadf38fd",
+      "externalIds": {
+        "DOI": "10.20517/jmi.2025.23",
+        "CorpusId": 279667240
+      },
+      "url": "https://www.semanticscholar.org/paper/a0c032c88fa1ffed2d6d35928285b51fdadf38fd",
+      "title": "Accelerating phase-field simulation of coupled microstructural evolution using autoencoder-based recurrent neural networks",
+      "venue": "Journal of Materials Informatics",
+      "year": 2025,
+      "referenceCount": 66,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "2369054061",
+          "name": "Aidan Gesch"
+        },
+        {
+          "authorId": "11578024",
+          "name": "Chongze Hu"
+        }
+      ]
+    },
+    {
+      "paperId": "ca4447c9bd682d3e5e46bce638953a47b044e43a",
+      "externalIds": {
+        "ArXiv": "2302.07396",
+        "DBLP": "journals/corr/abs-2302-07396",
+        "DOI": "10.48550/arXiv.2302.07396",
+        "CorpusId": 256868332
+      },
+      "url": "https://www.semanticscholar.org/paper/ca4447c9bd682d3e5e46bce638953a47b044e43a",
+      "title": "Convolutional unitary or orthogonal recurrent neural networks",
+      "venue": "arXiv.org",
+      "year": 2023,
+      "referenceCount": 22,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "2239538",
+          "name": "M. Magnasco"
+        }
+      ]
+    },
+    {
+      "paperId": "93ba73e01868184434cbb7fba4de1af91c2f6173",
+      "externalIds": {
+        "DOI": "10.1016/j.actamat.2023.119295",
+        "CorpusId": 261193887
+      },
+      "url": "https://www.semanticscholar.org/paper/93ba73e01868184434cbb7fba4de1af91c2f6173",
+      "title": "Prediction of microstructure evolution at the atomic scale by deep generative model in combination with recurrent neural networks",
+      "venue": "Acta Materialia",
+      "year": 2023,
+      "referenceCount": 44,
+      "citationCount": 13,
+      "authors": [
+        {
+          "authorId": "22241184",
+          "name": "K. Sase"
+        },
+        {
+          "authorId": "5905380",
+          "name": "Y. Shibuta"
+        }
+      ]
+    }
+  ]
+}

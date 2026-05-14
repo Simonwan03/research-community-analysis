@@ -1,0 +1,307 @@
+{
+  "total": 91,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "8a3c80c49bc2f0496bdb1450123bb06f5daf8864",
+      "externalIds": {
+        "DBLP": "conf/icml/LinMY18",
+        "MAG": "2804727826",
+        "CorpusId": 51772523
+      },
+      "url": "https://www.semanticscholar.org/paper/8a3c80c49bc2f0496bdb1450123bb06f5daf8864",
+      "title": "Level-Set Methods for Finite-Sum Constrained Convex Optimization",
+      "venue": "International Conference on Machine Learning",
+      "year": 2018,
+      "referenceCount": 38,
+      "citationCount": 32,
+      "authors": [
+        {
+          "authorId": "39436683",
+          "name": "Qihang Lin"
+        },
+        {
+          "authorId": "51131732",
+          "name": "Runchao Ma"
+        },
+        {
+          "authorId": "40381920",
+          "name": "Tianbao Yang"
+        }
+      ]
+    },
+    {
+      "paperId": "fe2171545e8d971d895620f6fb44cfc014cb6fcd",
+      "externalIds": {
+        "ArXiv": "2401.10616",
+        "DOI": "10.1080/02331934.2023.2189015",
+        "CorpusId": 257571423
+      },
+      "url": "https://www.semanticscholar.org/paper/fe2171545e8d971d895620f6fb44cfc014cb6fcd",
+      "title": "Mini-batch stochastic subgradient for functional constrained optimization",
+      "venue": "Optimization",
+      "year": 2023,
+      "referenceCount": 37,
+      "citationCount": 9,
+      "authors": [
+        {
+          "authorId": "47256243",
+          "name": "N. Singh"
+        },
+        {
+          "authorId": "2039290",
+          "name": "I. Necoara"
+        },
+        {
+          "authorId": "2268758899",
+          "name": "V. Kungurtsev"
+        }
+      ]
+    },
+    {
+      "paperId": "82f1d5008147efb12da7001d98e0948bcabb3467",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2506-02504",
+        "ArXiv": "2506.02504",
+        "DOI": "10.48550/arXiv.2506.02504",
+        "CorpusId": 279118913
+      },
+      "url": "https://www.semanticscholar.org/paper/82f1d5008147efb12da7001d98e0948bcabb3467",
+      "title": "Stochastic Momentum Methods for Non-smooth Non-Convex Finite-Sum Coupled Compositional Optimization",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "referenceCount": 53,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2309527798",
+          "name": "Xingyu Chen"
+        },
+        {
+          "authorId": "30296838",
+          "name": "Bokun Wang"
+        },
+        {
+          "authorId": "2150428780",
+          "name": "Minghao Yang"
+        },
+        {
+          "authorId": "2156351438",
+          "name": "Quanqi Hu"
+        },
+        {
+          "authorId": "2268435983",
+          "name": "Qihang Lin"
+        },
+        {
+          "authorId": "2258952200",
+          "name": "Tianbao Yang"
+        }
+      ]
+    },
+    {
+      "paperId": "b1887459adbd3cd9149ee701dac62340c3400e2b",
+      "externalIds": {
+        "ArXiv": "2508.02299",
+        "CorpusId": 280421968
+      },
+      "url": "https://www.semanticscholar.org/paper/b1887459adbd3cd9149ee701dac62340c3400e2b",
+      "title": "ASPEN: An Additional Sampling Penalty Method for Finite-Sum Optimization Problems with Nonlinear Equality Constraints",
+      "venue": "",
+      "year": 2025,
+      "referenceCount": 32,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "1846783041",
+          "name": "Natavsa Kreji'c"
+        },
+        {
+          "authorId": "1399746763",
+          "name": "Natavsa Krklec Jerinki'c"
+        },
+        {
+          "authorId": "2182430626",
+          "name": "Tijana Ostoji'c"
+        },
+        {
+          "authorId": "2374483763",
+          "name": "Nemanja Vuvci'cevi'c"
+        }
+      ]
+    },
+    {
+      "paperId": "b7b198f42bba877b9805f77e48c9b89dce88db52",
+      "externalIds": {
+        "MAG": "2776541899",
+        "DOI": "10.11606/T.55.2017.TDE-14112017-150512",
+        "CorpusId": 86505828
+      },
+      "url": "https://www.semanticscholar.org/paper/b7b198f42bba877b9805f77e48c9b89dce88db52",
+      "title": "String-averaging incremental subgradient methods for constrained convex optimization problems",
+      "venue": "",
+      "year": 2017,
+      "referenceCount": 101,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "88971891",
+          "name": "Rafael M. Oliveira"
+        }
+      ]
+    },
+    {
+      "paperId": "62fdc0034392c7e59e99b4462be4589317b2719b",
+      "externalIds": {
+        "DBLP": "journals/tac/JiangZXSC25",
+        "DOI": "10.1109/TAC.2024.3481040",
+        "CorpusId": 273385985
+      },
+      "url": "https://www.semanticscholar.org/paper/62fdc0034392c7e59e99b4462be4589317b2719b",
+      "title": "Distributed Stochastic Projection-Free Algorithm for Constrained Optimization",
+      "venue": "IEEE Transactions on Automatic Control",
+      "year": 2025,
+      "referenceCount": 56,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "2139348642",
+          "name": "Xia Jiang"
+        },
+        {
+          "authorId": "145432985",
+          "name": "Xianlin Zeng"
+        },
+        {
+          "authorId": "2239754272",
+          "name": "Lihua Xie"
+        },
+        {
+          "authorId": "2273566510",
+          "name": "Jian Sun"
+        },
+        {
+          "authorId": "2324043627",
+          "name": "Jie Chen"
+        }
+      ]
+    },
+    {
+      "paperId": "d5536f4090cedfe2d89d1b39ee39f923815dff00",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2308-07536",
+        "ArXiv": "2308.07536",
+        "DOI": "10.48550/arXiv.2308.07536",
+        "CorpusId": 260899906
+      },
+      "url": "https://www.semanticscholar.org/paper/d5536f4090cedfe2d89d1b39ee39f923815dff00",
+      "title": "Projection-Free Methods for Stochastic Simple Bilevel Optimization with Convex Lower-level Problem",
+      "venue": "Neural Information Processing Systems",
+      "year": 2023,
+      "referenceCount": 46,
+      "citationCount": 16,
+      "authors": [
+        {
+          "authorId": "2284187019",
+          "name": "Jincheng Cao"
+        },
+        {
+          "authorId": "2051263313",
+          "name": "Ruichen Jiang"
+        },
+        {
+          "authorId": "2171107359",
+          "name": "Nazanin Abolfazli"
+        },
+        {
+          "authorId": "7783772",
+          "name": "E. Y. Hamedani"
+        },
+        {
+          "authorId": "2706423",
+          "name": "Aryan Mokhtari"
+        }
+      ]
+    },
+    {
+      "paperId": "926e1a39f8c729cf49db54aa6bad8eccd11b547b",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2601-07715",
+        "ArXiv": "2601.07715",
+        "DOI": "10.48550/arXiv.2601.07715",
+        "CorpusId": 284647191
+      },
+      "url": "https://www.semanticscholar.org/paper/926e1a39f8c729cf49db54aa6bad8eccd11b547b",
+      "title": "Safe Navigation under Uncertain Obstacle Dynamics using Control Barrier Functions and Constrained Convex Generators",
+      "venue": "arXiv.org",
+      "year": 2026,
+      "referenceCount": 64,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "2290849151",
+          "name": "Hugo Matias"
+        },
+        {
+          "authorId": "2352259441",
+          "name": "Daniel Silvestre"
+        }
+      ]
+    },
+    {
+      "paperId": "cb100f740cb52abad66028526ba532d60b012949",
+      "externalIds": {
+        "ArXiv": "2205.08011",
+        "DBLP": "journals/mp/BoobDL25",
+        "DOI": "10.1007/s10107-024-02057-4",
+        "CorpusId": 248834081
+      },
+      "url": "https://www.semanticscholar.org/paper/cb100f740cb52abad66028526ba532d60b012949",
+      "title": "Level constrained first order methods for function constrained optimization",
+      "venue": "Mathematical programming",
+      "year": 2022,
+      "referenceCount": 35,
+      "citationCount": 35,
+      "authors": [
+        {
+          "authorId": "27640659",
+          "name": "Digvijay Boob"
+        },
+        {
+          "authorId": "2056197498",
+          "name": "Qi Deng"
+        },
+        {
+          "authorId": "2070945",
+          "name": "Guanghui Lan"
+        }
+      ]
+    },
+    {
+      "paperId": "3a722cc82e8e0120cf8991c62c513c4b9027760e",
+      "externalIds": {
+        "MAG": "2972412391",
+        "ArXiv": "1909.05060",
+        "DOI": "10.1080/02331934.2020.1846188",
+        "CorpusId": 202558406
+      },
+      "url": "https://www.semanticscholar.org/paper/3a722cc82e8e0120cf8991c62c513c4b9027760e",
+      "title": "Incremental proximal gradient scheme with penalization for constrained composite convex optimization problems",
+      "venue": "Optimization",
+      "year": 2019,
+      "referenceCount": 39,
+      "citationCount": 4,
+      "authors": [
+        {
+          "authorId": "1776499",
+          "name": "N. Petrot"
+        },
+        {
+          "authorId": "2503416",
+          "name": "Nimit Nimana"
+        }
+      ]
+    }
+  ]
+}

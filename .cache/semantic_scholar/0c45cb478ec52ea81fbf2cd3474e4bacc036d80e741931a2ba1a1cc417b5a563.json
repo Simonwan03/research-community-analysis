@@ -1,0 +1,287 @@
+{
+  "total": 246,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "53147c20a2499f3ca2820996f72b9f09cc6f7bbf",
+      "externalIds": {
+        "ArXiv": "1804.01016",
+        "MAG": "2963511894",
+        "DBLP": "conf/icml/JohnH18",
+        "CorpusId": 4626119
+      },
+      "url": "https://www.semanticscholar.org/paper/53147c20a2499f3ca2820996f72b9f09cc6f7bbf",
+      "title": "Large-Scale Cox Process Inference using Variational Fourier Features",
+      "venue": "International Conference on Machine Learning",
+      "year": 2018,
+      "referenceCount": 20,
+      "citationCount": 32,
+      "authors": [
+        {
+          "authorId": "144104356",
+          "name": "S. T. John"
+        },
+        {
+          "authorId": "3166500",
+          "name": "J. Hensman"
+        }
+      ]
+    },
+    {
+      "paperId": "3b0f66f2cd56bec2d0bf1e79f47b4f909a8c5c42",
+      "externalIds": {
+        "DBLP": "journals/tmlr/CheemaR24",
+        "ArXiv": "2308.14142",
+        "DOI": "10.48550/arXiv.2308.14142",
+        "CorpusId": 261244254
+      },
+      "url": "https://www.semanticscholar.org/paper/3b0f66f2cd56bec2d0bf1e79f47b4f909a8c5c42",
+      "title": "Integrated Variational Fourier Features for Fast Spatial Modelling with Gaussian Processes",
+      "venue": "Trans. Mach. Learn. Res.",
+      "year": 2023,
+      "referenceCount": 31,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "2122989188",
+          "name": "Talay M Cheema"
+        },
+        {
+          "authorId": "3472959",
+          "name": "C. Rasmussen"
+        }
+      ]
+    },
+    {
+      "paperId": "922d3589306044c8bed2e67ba2e7cb987c8c9e55",
+      "externalIds": {
+        "ArXiv": "2306.00849",
+        "DOI": "10.1063/5.0162619",
+        "CorpusId": 258999982,
+        "PubMed": "37594070"
+      },
+      "url": "https://www.semanticscholar.org/paper/922d3589306044c8bed2e67ba2e7cb987c8c9e55",
+      "title": "Efficient approximation of molecular kinetics using random Fourier features.",
+      "venue": "Journal of Chemical Physics",
+      "year": 2023,
+      "referenceCount": 47,
+      "citationCount": 24,
+      "authors": [
+        {
+          "authorId": "2436644",
+          "name": "F. Nüske"
+        },
+        {
+          "authorId": "2090812",
+          "name": "Stefan Klus"
+        }
+      ]
+    },
+    {
+      "paperId": "bf7d5e3f0e8c01dd5f5a524748b6bf025a5d9c0c",
+      "externalIds": {
+        "DBLP": "journals/tnn/LiuHSYS20",
+        "MAG": "2972538304",
+        "DOI": "10.1109/TNNLS.2019.2934729",
+        "CorpusId": 202568497,
+        "PubMed": "31514157"
+      },
+      "url": "https://www.semanticscholar.org/paper/bf7d5e3f0e8c01dd5f5a524748b6bf025a5d9c0c",
+      "title": "A Double-Variational Bayesian Framework in Random Fourier Features for Indefinite Kernels",
+      "venue": "IEEE Transactions on Neural Networks and Learning Systems",
+      "year": 2020,
+      "referenceCount": 65,
+      "citationCount": 15,
+      "authors": [
+        {
+          "authorId": "2803059",
+          "name": "Fanghui Liu"
+        },
+        {
+          "authorId": "47932717",
+          "name": "Xiaolin Huang"
+        },
+        {
+          "authorId": "2117205218",
+          "name": "Lei Shi"
+        },
+        {
+          "authorId": "2146104027",
+          "name": "Jie Yang"
+        },
+        {
+          "authorId": "1744439",
+          "name": "J. Suykens"
+        }
+      ]
+    },
+    {
+      "paperId": "e24fab118c022fb3502e93cdae32bbaa429e4a1a",
+      "externalIds": {
+        "DBLP": "journals/tnn/YaoSG21",
+        "MAG": "2997100287",
+        "DOI": "10.1109/tnnls.2019.2958184",
+        "CorpusId": 209895908,
+        "PubMed": "31902781"
+      },
+      "url": "https://www.semanticscholar.org/paper/e24fab118c022fb3502e93cdae32bbaa429e4a1a",
+      "title": "Hierarchical Quality Monitoring for Large-Scale Industrial Plants With Big Process Data",
+      "venue": "IEEE Transactions on Neural Networks and Learning Systems",
+      "year": 2019,
+      "referenceCount": 0,
+      "citationCount": 30,
+      "authors": [
+        {
+          "authorId": "48028582",
+          "name": "Le Yao"
+        },
+        {
+          "authorId": "7930775",
+          "name": "Weiming Shao"
+        },
+        {
+          "authorId": "145619185",
+          "name": "Zhiqiang Ge"
+        }
+      ]
+    },
+    {
+      "paperId": "bafa7e2d586e7bfe77d9a55ac1cff4eb2f6ff292",
+      "externalIds": {
+        "MAG": "2535102319",
+        "CorpusId": 31036408
+      },
+      "url": "https://www.semanticscholar.org/paper/bafa7e2d586e7bfe77d9a55ac1cff4eb2f6ff292",
+      "title": "Practical learning of deep gaussian processes via random Fourier features",
+      "venue": "",
+      "year": 2016,
+      "referenceCount": 39,
+      "citationCount": 14,
+      "authors": [
+        {
+          "authorId": "3428811",
+          "name": "Kurt Cutajar"
+        }
+      ]
+    },
+    {
+      "paperId": "e1ad0c99558c45a520ca58525ec7fbe8ff740d3b",
+      "externalIds": {
+        "DBLP": "journals/tim/ZhangDZP23",
+        "DOI": "10.1109/TIM.2023.3308224",
+        "CorpusId": 261204717
+      },
+      "url": "https://www.semanticscholar.org/paper/e1ad0c99558c45a520ca58525ec7fbe8ff740d3b",
+      "title": "Distributed Quality-Related Process Monitoring Framework Using Parallel DVIB-VAE-mRMR for Large-Scale Processes",
+      "venue": "IEEE Transactions on Instrumentation and Measurement",
+      "year": 2023,
+      "referenceCount": 32,
+      "citationCount": 16,
+      "authors": [
+        {
+          "authorId": "2111386825",
+          "name": "Cuicui Zhang"
+        },
+        {
+          "authorId": "152531225",
+          "name": "Jie Dong"
+        },
+        {
+          "authorId": "2233975859",
+          "name": "Hongjun Zhang"
+        },
+        {
+          "authorId": "3281419",
+          "name": "Kai-xiang Peng"
+        }
+      ]
+    },
+    {
+      "paperId": "561a46284d2e09dfe8da3e7c49e18abb5fb70bfe",
+      "externalIds": {
+        "CorpusId": 55122557
+      },
+      "url": "https://www.semanticscholar.org/paper/561a46284d2e09dfe8da3e7c49e18abb5fb70bfe",
+      "title": "Point process models for spatio-temporal distance sampling data from a large-scale survey of blue whales",
+      "venue": "",
+      "year": 2017,
+      "referenceCount": 69,
+      "citationCount": 55,
+      "authors": [
+        {
+          "authorId": "69858679",
+          "name": "Avid"
+        },
+        {
+          "authorId": "2416733939",
+          "name": "B. L."
+        },
+        {
+          "authorId": "2098212383",
+          "name": "Orchers"
+        }
+      ]
+    },
+    {
+      "paperId": "688c49e28c9802f220e8c5d1b6702efaec1e491e",
+      "externalIds": {
+        "DBLP": "journals/jcgs/JungP22",
+        "DOI": "10.1080/10618600.2021.2023021",
+        "CorpusId": 245730025
+      },
+      "url": "https://www.semanticscholar.org/paper/688c49e28c9802f220e8c5d1b6702efaec1e491e",
+      "title": "Scalable Inference for Hybrid Bayesian Hidden Markov Model Using Gaussian Process Emission",
+      "venue": "Journal of Computational And Graphical Statistics",
+      "year": 2022,
+      "referenceCount": 57,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "48896078",
+          "name": "Yohan Jung"
+        },
+        {
+          "authorId": "2294562330",
+          "name": "Jinkyoo Park"
+        }
+      ]
+    },
+    {
+      "paperId": "615406ad5f22d011f3cc5eb766d55c21cb21a9a5",
+      "externalIds": {
+        "ArXiv": "2507.23130",
+        "DOI": "10.1103/6yhz-9vr6",
+        "CorpusId": 280401355
+      },
+      "url": "https://www.semanticscholar.org/paper/615406ad5f22d011f3cc5eb766d55c21cb21a9a5",
+      "title": "Multi-dimensional quantum estimation and model learning framework based on variational Bayesian inference",
+      "venue": "PRX Quantum",
+      "year": 2025,
+      "referenceCount": 178,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "2374150751",
+          "name": "F. Belliardo"
+        },
+        {
+          "authorId": "6679959",
+          "name": "E. Gauger"
+        },
+        {
+          "authorId": "6489917",
+          "name": "T. Taminiau"
+        },
+        {
+          "authorId": "2327212133",
+          "name": "Yoann Altmann"
+        },
+        {
+          "authorId": "2277264601",
+          "name": "C. Bonato"
+        }
+      ]
+    }
+  ]
+}

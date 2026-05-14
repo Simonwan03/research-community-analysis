@@ -1,0 +1,355 @@
+{
+  "total": 15,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "1870746054db5757a556920e0898ed6c1ae6bd41",
+      "externalIds": {
+        "MAG": "2949437961",
+        "DBLP": "conf/icml/WangSDNSX16",
+        "ArXiv": "1409.6086",
+        "CorpusId": 13157581
+      },
+      "url": "https://www.semanticscholar.org/paper/1870746054db5757a556920e0898ed6c1ae6bd41",
+      "title": "Parallel and Distributed Block-Coordinate Frank-Wolfe Algorithms",
+      "venue": "International Conference on Machine Learning",
+      "year": 2014,
+      "referenceCount": 51,
+      "citationCount": 44,
+      "authors": [
+        {
+          "authorId": "2040617",
+          "name": "Yu-Xiang Wang"
+        },
+        {
+          "authorId": "3148908",
+          "name": "Veeranjaneyulu Sadhanala"
+        },
+        {
+          "authorId": "143716171",
+          "name": "Wei Dai"
+        },
+        {
+          "authorId": "2934259",
+          "name": "Willie Neiswanger"
+        },
+        {
+          "authorId": "3072326",
+          "name": "S. Sra"
+        },
+        {
+          "authorId": "143977260",
+          "name": "E. Xing"
+        }
+      ]
+    },
+    {
+      "paperId": "40a12ed6e1ddfa7fca258f303ad52e26b15d8948",
+      "externalIds": {
+        "DBLP": "journals/ccs/LiWZZGZ20",
+        "MAG": "3017070314",
+        "DOI": "10.1049/ccs.2020.0007",
+        "CorpusId": 218811463
+      },
+      "url": "https://www.semanticscholar.org/paper/40a12ed6e1ddfa7fca258f303ad52e26b15d8948",
+      "title": "Randomised block-coordinate Frank-Wolfe algorithm for distributed online learning over networks",
+      "venue": "Cognitive Computation and Systems",
+      "year": 2020,
+      "referenceCount": 31,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "2394094371",
+          "name": "Jingchao Li"
+        },
+        {
+          "authorId": "1701108",
+          "name": "Qingtao Wu"
+        },
+        {
+          "authorId": "1710272",
+          "name": "R. Zheng"
+        },
+        {
+          "authorId": "144646645",
+          "name": "Junlong Zhu"
+        },
+        {
+          "authorId": "2989925",
+          "name": "Quanbo Ge"
+        },
+        {
+          "authorId": "1680884",
+          "name": "Mingchuan Zhang"
+        }
+      ]
+    },
+    {
+      "paperId": "b35af16009ebbd91c240c71db9dd3ac8671171d0",
+      "externalIds": {
+        "MAG": "2160570933",
+        "CorpusId": 61724549
+      },
+      "url": "https://www.semanticscholar.org/paper/b35af16009ebbd91c240c71db9dd3ac8671171d0",
+      "title": "Asynchronous Parallel Block-Coordinate Frank-Wolfe",
+      "venue": "",
+      "year": 2014,
+      "referenceCount": 35,
+      "citationCount": 6,
+      "authors": [
+        {
+          "authorId": "2040617",
+          "name": "Yu-Xiang Wang"
+        },
+        {
+          "authorId": "3148908",
+          "name": "Veeranjaneyulu Sadhanala"
+        },
+        {
+          "authorId": "143716171",
+          "name": "Wei Dai"
+        },
+        {
+          "authorId": "2934259",
+          "name": "Willie Neiswanger"
+        },
+        {
+          "authorId": "3072326",
+          "name": "S. Sra"
+        },
+        {
+          "authorId": "143977260",
+          "name": "E. Xing"
+        }
+      ]
+    },
+    {
+      "paperId": "3bf08404c279738385027ed6f0dcd34daba0043c",
+      "externalIds": {
+        "ArXiv": "2409.06931",
+        "CorpusId": 272593235
+      },
+      "url": "https://www.semanticscholar.org/paper/3bf08404c279738385027ed6f0dcd34daba0043c",
+      "title": "Flexible block-iterative analysis for the Frank-Wolfe algorithm",
+      "venue": "",
+      "year": 2024,
+      "referenceCount": 37,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "51282037",
+          "name": "G. Braun"
+        },
+        {
+          "authorId": "2342283692",
+          "name": "Jannis Halbey"
+        },
+        {
+          "authorId": "145729210",
+          "name": "S. Pokutta"
+        },
+        {
+          "authorId": "3414766",
+          "name": "Zev Woodstock"
+        }
+      ]
+    },
+    {
+      "paperId": "d5d49a62fbc1fb8f0def16d2acf10ad7f86ae764",
+      "externalIds": {
+        "DBLP": "journals/comintsys/ZhuWZLW23",
+        "DOI": "10.1007/s40747-022-00785-8",
+        "CorpusId": 250140115
+      },
+      "url": "https://www.semanticscholar.org/paper/d5d49a62fbc1fb8f0def16d2acf10ad7f86ae764",
+      "title": "A distributed gradient algorithm based on randomized block-coordinate and projection-free over networks",
+      "venue": "Complex & Intelligent Systems",
+      "year": 2022,
+      "referenceCount": 67,
+      "citationCount": 4,
+      "authors": [
+        {
+          "authorId": "144646645",
+          "name": "Junlong Zhu"
+        },
+        {
+          "authorId": "2153690665",
+          "name": "Xin Wang"
+        },
+        {
+          "authorId": "1680884",
+          "name": "Mingchuan Zhang"
+        },
+        {
+          "authorId": "46668564",
+          "name": "Muhua Liu"
+        },
+        {
+          "authorId": "1701108",
+          "name": "Qingtao Wu"
+        }
+      ]
+    },
+    {
+      "paperId": "ee78f22c1b49f24dbfb6d8a32e009392ead347e9",
+      "externalIds": {
+        "MAG": "2114161025",
+        "DBLP": "conf/icml/SchwingHPU14",
+        "CorpusId": 2298689
+      },
+      "url": "https://www.semanticscholar.org/paper/ee78f22c1b49f24dbfb6d8a32e009392ead347e9",
+      "title": "Globally Convergent Parallel MAP LP Relaxation Solver using the Frank-Wolfe Algorithm",
+      "venue": "International Conference on Machine Learning",
+      "year": 2014,
+      "referenceCount": 29,
+      "citationCount": 20,
+      "authors": [
+        {
+          "authorId": "2068227",
+          "name": "A. Schwing"
+        },
+        {
+          "authorId": "1918412",
+          "name": "Tamir Hazan"
+        },
+        {
+          "authorId": "1742208",
+          "name": "M. Pollefeys"
+        },
+        {
+          "authorId": "2422559",
+          "name": "R. Urtasun"
+        }
+      ]
+    },
+    {
+      "paperId": "0e8916f1b7c95a6cbd8c31524701e952fdb61053",
+      "externalIds": {
+        "MAG": "2237201002",
+        "CorpusId": 15661269
+      },
+      "url": "https://www.semanticscholar.org/paper/0e8916f1b7c95a6cbd8c31524701e952fdb61053",
+      "title": "Parallel and Distributed Methods for Nonconvex Optimization-Part I: Theory",
+      "venue": "",
+      "year": 2014,
+      "referenceCount": 54,
+      "citationCount": 50,
+      "authors": [
+        {
+          "authorId": "1690788",
+          "name": "G. Scutari"
+        },
+        {
+          "authorId": "1774235",
+          "name": "F. Facchinei"
+        },
+        {
+          "authorId": "2414686",
+          "name": "Lorenzo Lampariello"
+        },
+        {
+          "authorId": "40310555",
+          "name": "Peiran Song"
+        }
+      ]
+    },
+    {
+      "paperId": "e35e5f81f6e8f6c1217abd730c3d7ecb11847edb",
+      "externalIds": {
+        "DBLP": "conf/icassp/ScutariFLS14",
+        "MAG": "2004488800",
+        "DOI": "10.1109/ICASSP.2014.6853715",
+        "CorpusId": 1265861
+      },
+      "url": "https://www.semanticscholar.org/paper/e35e5f81f6e8f6c1217abd730c3d7ecb11847edb",
+      "title": "Parallel and distributed methods for nonconvex optimization",
+      "venue": "IEEE International Conference on Acoustics, Speech, and Signal Processing",
+      "year": 2014,
+      "referenceCount": 36,
+      "citationCount": 46,
+      "authors": [
+        {
+          "authorId": "1690788",
+          "name": "G. Scutari"
+        },
+        {
+          "authorId": "1774235",
+          "name": "F. Facchinei"
+        },
+        {
+          "authorId": "2414686",
+          "name": "Lorenzo Lampariello"
+        },
+        {
+          "authorId": "40310555",
+          "name": "Peiran Song"
+        }
+      ]
+    },
+    {
+      "paperId": "d2f8f20bb839e074f1a73472784e1041913eae3e",
+      "externalIds": {
+        "MAG": "3087053033",
+        "DBLP": "journals/tnn/LouC21",
+        "DOI": "10.1109/TNNLS.2020.3020955",
+        "CorpusId": 221787372,
+        "PubMed": "32941159"
+      },
+      "url": "https://www.semanticscholar.org/paper/d2f8f20bb839e074f1a73472784e1041913eae3e",
+      "title": "An Uplink Communication-Efficient Approach to Featurewise Distributed Sparse Optimization With Differential Privacy",
+      "venue": "IEEE Transactions on Neural Networks and Learning Systems",
+      "year": 2020,
+      "referenceCount": 0,
+      "citationCount": 15,
+      "authors": [
+        {
+          "authorId": "145643321",
+          "name": "Jian Lou"
+        },
+        {
+          "authorId": "120082097",
+          "name": "Y. Cheung"
+        }
+      ]
+    },
+    {
+      "paperId": "d9392944772f0c6f11e9fdfaff477012137c6f5e",
+      "externalIds": {
+        "MAG": "1974661392",
+        "ArXiv": "1302.0756",
+        "DBLP": "journals/tsp/ScutariFSPP14",
+        "DOI": "10.1109/TSP.2013.2293126",
+        "CorpusId": 6970354
+      },
+      "url": "https://www.semanticscholar.org/paper/d9392944772f0c6f11e9fdfaff477012137c6f5e",
+      "title": "Decomposition by Partial Linearization: Parallel Optimization of Multi-Agent Systems",
+      "venue": "IEEE Transactions on Signal Processing",
+      "year": 2013,
+      "referenceCount": 50,
+      "citationCount": 315,
+      "authors": [
+        {
+          "authorId": "1690788",
+          "name": "G. Scutari"
+        },
+        {
+          "authorId": "1774235",
+          "name": "F. Facchinei"
+        },
+        {
+          "authorId": "40310555",
+          "name": "Peiran Song"
+        },
+        {
+          "authorId": "1743931",
+          "name": "D. Palomar"
+        },
+        {
+          "authorId": "1784816",
+          "name": "J. Pang"
+        }
+      ]
+    }
+  ]
+}

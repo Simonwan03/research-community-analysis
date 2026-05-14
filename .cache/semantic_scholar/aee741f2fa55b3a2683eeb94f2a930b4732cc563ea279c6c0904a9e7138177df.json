@@ -1,0 +1,318 @@
+{
+  "total": 14820,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "71c978c5ee8420ce928ab94656df2cffd2ae824e",
+      "externalIds": {
+        "MAG": "2952935464",
+        "ArXiv": "1706.03469",
+        "DBLP": "conf/icml/HannaTSN17",
+        "CorpusId": 267283
+      },
+      "url": "https://www.semanticscholar.org/paper/71c978c5ee8420ce928ab94656df2cffd2ae824e",
+      "title": "Data-Efficient Policy Evaluation Through Behavior Policy Search",
+      "venue": "International Conference on Machine Learning",
+      "year": 2017,
+      "referenceCount": 26,
+      "citationCount": 50,
+      "authors": [
+        {
+          "authorId": "34719248",
+          "name": "Josiah P. Hanna"
+        },
+        {
+          "authorId": "143640165",
+          "name": "P. Thomas"
+        },
+        {
+          "authorId": "144848112",
+          "name": "P. Stone"
+        },
+        {
+          "authorId": "2791038",
+          "name": "S. Niekum"
+        }
+      ]
+    },
+    {
+      "paperId": "55e7ddbff1ac24e3dbc3fb36bb2163dbc6179044",
+      "externalIds": {
+        "DBLP": "conf/icml/LiuZ24a",
+        "ArXiv": "2301.13734",
+        "CorpusId": 267409441
+      },
+      "url": "https://www.semanticscholar.org/paper/55e7ddbff1ac24e3dbc3fb36bb2163dbc6179044",
+      "title": "Efficient Policy Evaluation with Offline Data Informed Behavior Policy Design",
+      "venue": "International Conference on Machine Learning",
+      "year": 2023,
+      "referenceCount": 73,
+      "citationCount": 7,
+      "authors": [
+        {
+          "authorId": "2135194248",
+          "name": "S. Liu"
+        },
+        {
+          "authorId": "2279599626",
+          "name": "Shangtong Zhang"
+        }
+      ]
+    },
+    {
+      "paperId": "956b91873de1d54b4be305b35a4ed00e08247046",
+      "externalIds": {
+        "DBLP": "conf/nips/ZhongZ0AH22",
+        "ArXiv": "2111.14552",
+        "DOI": "10.52202/068431-2709",
+        "CorpusId": 252815873
+      },
+      "url": "https://www.semanticscholar.org/paper/956b91873de1d54b4be305b35a4ed00e08247046",
+      "title": "Robust On-Policy Sampling for Data-Efficient Policy Evaluation in Reinforcement Learning",
+      "venue": "Neural Information Processing Systems",
+      "year": 2021,
+      "referenceCount": 46,
+      "citationCount": 16,
+      "authors": [
+        {
+          "authorId": "2090317112",
+          "name": "Rujie Zhong"
+        },
+        {
+          "authorId": "2109577836",
+          "name": "Duohan Zhang"
+        },
+        {
+          "authorId": "2111681830",
+          "name": "Lukas Schafer"
+        },
+        {
+          "authorId": "1961238",
+          "name": "Stefano V. Albrecht"
+        },
+        {
+          "authorId": "34719248",
+          "name": "Josiah P. Hanna"
+        }
+      ]
+    },
+    {
+      "paperId": "60b7d47758a71978e74edff6dd8dea4d9c791d7a",
+      "externalIds": {
+        "DBLP": "conf/icml/DeisenrothR11",
+        "MAG": "2140135625",
+        "CorpusId": 14273320
+      },
+      "url": "https://www.semanticscholar.org/paper/60b7d47758a71978e74edff6dd8dea4d9c791d7a",
+      "title": "PILCO: A Model-Based and Data-Efficient Approach to Policy Search",
+      "venue": "International Conference on Machine Learning",
+      "year": 2011,
+      "referenceCount": 27,
+      "citationCount": 1776,
+      "authors": [
+        {
+          "authorId": "2261881",
+          "name": "M. Deisenroth"
+        },
+        {
+          "authorId": "3472959",
+          "name": "C. Rasmussen"
+        }
+      ]
+    },
+    {
+      "paperId": "9947e7632411188273c382897572be86cdb4fb1c",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2410-05655",
+        "ArXiv": "2410.05655",
+        "DOI": "10.48550/arXiv.2410.05655",
+        "CorpusId": 273228515
+      },
+      "url": "https://www.semanticscholar.org/paper/9947e7632411188273c382897572be86cdb4fb1c",
+      "title": "Efficient Policy Evaluation with Safety Constraint for Reinforcement Learning",
+      "venue": "arXiv.org",
+      "year": 2024,
+      "referenceCount": 57,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2324074342",
+          "name": "Claire Chen"
+        },
+        {
+          "authorId": "2135194248",
+          "name": "S. Liu"
+        },
+        {
+          "authorId": "2279599626",
+          "name": "Shangtong Zhang"
+        }
+      ]
+    },
+    {
+      "paperId": "e080e1d25dd2b6b0d805f3d9e77b267334ca78cd",
+      "externalIds": {
+        "DBLP": "conf/icar/RongHR21",
+        "DOI": "10.1109/ICAR53236.2021.9659410",
+        "CorpusId": 245708455
+      },
+      "url": "https://www.semanticscholar.org/paper/e080e1d25dd2b6b0d805f3d9e77b267334ca78cd",
+      "title": "Sparse Gaussian Processes-based Black-Box Data-efficient Policy Search for Robotics",
+      "venue": "International Conference on Advanced Robotics",
+      "year": 2021,
+      "referenceCount": 0,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "1490775577",
+          "name": "Chunyan Rong"
+        },
+        {
+          "authorId": "2145739871",
+          "name": "Jingyi Huang"
+        },
+        {
+          "authorId": "143944778",
+          "name": "A. Rosendo"
+        }
+      ]
+    },
+    {
+      "paperId": "15cb52fbcd38bb6785c83f745591190479b0108f",
+      "externalIds": {
+        "DBLP": "conf/iros/SaverianoYFL17",
+        "MAG": "2771827793",
+        "DOI": "10.1109/IROS.2017.8206343",
+        "CorpusId": 7159355
+      },
+      "url": "https://www.semanticscholar.org/paper/15cb52fbcd38bb6785c83f745591190479b0108f",
+      "title": "Data-efficient control policy search using residual dynamics learning",
+      "venue": "IEEE/RJS International Conference on Intelligent RObots and Systems",
+      "year": 2017,
+      "referenceCount": 17,
+      "citationCount": 57,
+      "authors": [
+        {
+          "authorId": "2888271",
+          "name": "Matteo Saveriano"
+        },
+        {
+          "authorId": "31808488",
+          "name": "Yuchao Yin"
+        },
+        {
+          "authorId": "144407954",
+          "name": "Pietro Falco"
+        },
+        {
+          "authorId": "1690977",
+          "name": "Dongheui Lee"
+        }
+      ]
+    },
+    {
+      "paperId": "ce5139cad170b3c50327571c554f4e88999b93bc",
+      "externalIds": {
+        "ArXiv": "2403.00929",
+        "DBLP": "journals/ral/GaoNLYZ24",
+        "DOI": "10.1109/LRA.2024.3443610",
+        "CorpusId": 268230714
+      },
+      "url": "https://www.semanticscholar.org/paper/ce5139cad170b3c50327571c554f4e88999b93bc",
+      "title": "PRIME: Scaffolding Manipulation Tasks With Behavior Primitives for Data-Efficient Imitation Learning",
+      "venue": "IEEE Robotics and Automation Letters",
+      "year": 2024,
+      "referenceCount": 61,
+      "citationCount": 15,
+      "authors": [
+        {
+          "authorId": "2293430358",
+          "name": "Tian Gao"
+        },
+        {
+          "authorId": "3457048",
+          "name": "Soroush Nasiriany"
+        },
+        {
+          "authorId": "2261750576",
+          "name": "Huihan Liu"
+        },
+        {
+          "authorId": "108587997",
+          "name": "Quantao Yang"
+        },
+        {
+          "authorId": "2261935147",
+          "name": "Yuke Zhu"
+        }
+      ]
+    },
+    {
+      "paperId": "4874a7e4673f27e3eceb8afa34339c364fe7cc8f",
+      "externalIds": {
+        "DBLP": "conf/kdd/KunjirCCJR23",
+        "DOI": "10.1145/3580305.3599459",
+        "CorpusId": 260499439
+      },
+      "url": "https://www.semanticscholar.org/paper/4874a7e4673f27e3eceb8afa34339c364fe7cc8f",
+      "title": "Optimizing Traffic Control with Model-Based Learning: A Pessimistic Approach to Data-Efficient Policy Inference",
+      "venue": "Knowledge Discovery and Data Mining",
+      "year": 2023,
+      "referenceCount": 31,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "3094459",
+          "name": "Mayuresh Kunjir"
+        },
+        {
+          "authorId": "2180253530",
+          "name": "Sanjay Chawla"
+        },
+        {
+          "authorId": "2221323707",
+          "name": "Siddarth Chandrasekar"
+        },
+        {
+          "authorId": "38310189",
+          "name": "Devika Jay"
+        },
+        {
+          "authorId": "1723632",
+          "name": "Balaraman Ravindran"
+        }
+      ]
+    },
+    {
+      "paperId": "ab68bd6f47bfa8744f0f39be8c163d28203eefa2",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-1709-06919",
+        "ArXiv": "1709.06919",
+        "MAG": "2963930274",
+        "DOI": "10.1109/ICRA.2018.8463197",
+        "CorpusId": 3841474
+      },
+      "url": "https://www.semanticscholar.org/paper/ab68bd6f47bfa8744f0f39be8c163d28203eefa2",
+      "title": "Bayesian Optimization with Automatic Prior Selection for Data-Efficient Direct Policy Search",
+      "venue": "IEEE International Conference on Robotics and Automation",
+      "year": 2017,
+      "referenceCount": 45,
+      "citationCount": 44,
+      "authors": [
+        {
+          "authorId": "5284848",
+          "name": "Rémi Pautrat"
+        },
+        {
+          "authorId": "2075619",
+          "name": "Konstantinos Chatzilygeroudis"
+        },
+        {
+          "authorId": "145312416",
+          "name": "Jean-Baptiste Mouret"
+        }
+      ]
+    }
+  ]
+}

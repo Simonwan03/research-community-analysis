@@ -1,0 +1,323 @@
+{
+  "total": 5288,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "5fe51e428f6a2d10ca7642feb3724bd9b8c9f06d",
+      "externalIds": {
+        "DBLP": "conf/icml/LengWCZL15",
+        "MAG": "1922778857",
+        "CorpusId": 14283511
+      },
+      "url": "https://www.semanticscholar.org/paper/5fe51e428f6a2d10ca7642feb3724bd9b8c9f06d",
+      "title": "Hashing for Distributed Data",
+      "venue": "International Conference on Machine Learning",
+      "year": 2015,
+      "referenceCount": 27,
+      "citationCount": 31,
+      "authors": [
+        {
+          "authorId": "3259574",
+          "name": "Cong Leng"
+        },
+        {
+          "authorId": "2321921828",
+          "name": "Jiaxiang Wu"
+        },
+        {
+          "authorId": "143949499",
+          "name": "Jian Cheng"
+        },
+        {
+          "authorId": "2125437856",
+          "name": "Xi Zhang"
+        },
+        {
+          "authorId": "1694235",
+          "name": "Hanqing Lu"
+        }
+      ]
+    },
+    {
+      "paperId": "0bf6fae2113f264157177dd45366b8d7525e5442",
+      "externalIds": {
+        "DBLP": "conf/icws/LiZSZ17",
+        "MAG": "2754607325",
+        "DOI": "10.1109/ICWS.2017.99",
+        "CorpusId": 4705185
+      },
+      "url": "https://www.semanticscholar.org/paper/0bf6fae2113f264157177dd45366b8d7525e5442",
+      "title": "SES-LSH: Shuffle-Efficient Locality Sensitive Hashing for Distributed Similarity Search",
+      "venue": "2017 IEEE International Conference on Web Services (ICWS)",
+      "year": 2017,
+      "referenceCount": 28,
+      "citationCount": 16,
+      "authors": [
+        {
+          "authorId": "144032853",
+          "name": "Dongsheng Li"
+        },
+        {
+          "authorId": "2108277380",
+          "name": "Wanxin Zhang"
+        },
+        {
+          "authorId": "2959135",
+          "name": "S. Shen"
+        },
+        {
+          "authorId": "1908353",
+          "name": "Yiming Zhang"
+        }
+      ]
+    },
+    {
+      "paperId": "4f5782ab1e3dc4bfb31e81d72219310b61337049",
+      "externalIds": {
+        "DBLP": "conf/ipps/XieC17",
+        "MAG": "2734094241",
+        "DOI": "10.1109/IPDPS.2017.88",
+        "CorpusId": 22200357
+      },
+      "url": "https://www.semanticscholar.org/paper/4f5782ab1e3dc4bfb31e81d72219310b61337049",
+      "title": "Elastic Consistent Hashing for Distributed Storage Systems",
+      "venue": "IEEE International Parallel and Distributed Processing Symposium",
+      "year": 2017,
+      "referenceCount": 21,
+      "citationCount": 14,
+      "authors": [
+        {
+          "authorId": "2113722364",
+          "name": "Wei Xie"
+        },
+        {
+          "authorId": "47557631",
+          "name": "Yong Chen"
+        }
+      ]
+    },
+    {
+      "paperId": "8b64528022f29636cf6f5fb27a85d4dc4f84858f",
+      "externalIds": {
+        "MAG": "2049049080",
+        "DBLP": "conf/pods/Ellis83",
+        "DOI": "10.1145/588058.588072",
+        "CorpusId": 37257602
+      },
+      "url": "https://www.semanticscholar.org/paper/8b64528022f29636cf6f5fb27a85d4dc4f84858f",
+      "title": "Extendible hashing for concurrent operations and distributed data",
+      "venue": "ACM SIGACT-SIGMOD-SIGART Symposium on Principles of Database Systems",
+      "year": 1983,
+      "referenceCount": 10,
+      "citationCount": 67,
+      "authors": [
+        {
+          "authorId": "1743503",
+          "name": "C. Ellis"
+        }
+      ]
+    },
+    {
+      "paperId": "734c5516fc4c6ffe1da50438aaedbd002b444e5f",
+      "externalIds": {
+        "DBLP": "journals/tcsv/ShenTZYS22",
+        "DOI": "10.1109/TCSVT.2022.3197849",
+        "CorpusId": 251509472
+      },
+      "url": "https://www.semanticscholar.org/paper/734c5516fc4c6ffe1da50438aaedbd002b444e5f",
+      "title": "Unsupervised Multiview Distributed Hashing for Large-Scale Retrieval",
+      "venue": "IEEE transactions on circuits and systems for video technology (Print)",
+      "year": 2022,
+      "referenceCount": 47,
+      "citationCount": 22,
+      "authors": [
+        {
+          "authorId": "2685045",
+          "name": "Xiaobo Shen"
+        },
+        {
+          "authorId": "2119310036",
+          "name": "Yunpeng Tang"
+        },
+        {
+          "authorId": "46323585",
+          "name": "Yuhui Zheng"
+        },
+        {
+          "authorId": "143870880",
+          "name": "Yunhao Yuan"
+        },
+        {
+          "authorId": "31085136",
+          "name": "Quansen Sun"
+        }
+      ]
+    },
+    {
+      "paperId": "9a920b8e7d954c39896c960821209ad47ea34d93",
+      "externalIds": {
+        "DBLP": "journals/tip/CaoLQGLYL22",
+        "DOI": "10.1109/TIP.2021.3130528",
+        "CorpusId": 244953872,
+        "PubMed": "34874853"
+      },
+      "url": "https://www.semanticscholar.org/paper/9a920b8e7d954c39896c960821209ad47ea34d93",
+      "title": "Scalable Distributed Hashing for Approximate Nearest Neighbor Search",
+      "venue": "IEEE Transactions on Image Processing",
+      "year": 2021,
+      "referenceCount": 0,
+      "citationCount": 6,
+      "authors": [
+        {
+          "authorId": "2112823916",
+          "name": "Yuan Cao"
+        },
+        {
+          "authorId": "2145468904",
+          "name": "Junwei Liu"
+        },
+        {
+          "authorId": "2002488",
+          "name": "Heng Qi"
+        },
+        {
+          "authorId": "143987790",
+          "name": "Jie Gui"
+        },
+        {
+          "authorId": "143668329",
+          "name": "Keqiu Li"
+        },
+        {
+          "authorId": "144030870",
+          "name": "Jieping Ye"
+        },
+        {
+          "authorId": "2152505785",
+          "name": "Chao Liu"
+        }
+      ]
+    },
+    {
+      "paperId": "12d3e76a0302c8e59db4fcafc96f68324a1bbc9a",
+      "externalIds": {
+        "MAG": "3082649529",
+        "DOI": "10.36548/jitdw.2020.3.003",
+        "CorpusId": 225237628
+      },
+      "url": "https://www.semanticscholar.org/paper/12d3e76a0302c8e59db4fcafc96f68324a1bbc9a",
+      "title": "A Novel Information retrieval system for distributed cloud using Hybrid Deep Fuzzy Hashing Algorithm",
+      "venue": "September 2020",
+      "year": 2020,
+      "referenceCount": 19,
+      "citationCount": 38,
+      "authors": [
+        {
+          "authorId": "2327871616",
+          "name": "Dr. Suma"
+        }
+      ]
+    },
+    {
+      "paperId": "5d95b7e23dba1785583d1c0b90ea8bb592e3ae47",
+      "externalIds": {
+        "DBLP": "journals/jsac/QiZDN17",
+        "MAG": "2763314014",
+        "DOI": "10.1109/JSAC.2017.2760458",
+        "CorpusId": 24640425
+      },
+      "url": "https://www.semanticscholar.org/paper/5d95b7e23dba1785583d1c0b90ea8bb592e3ae47",
+      "title": "A Distributed Locality-Sensitive Hashing-Based Approach for Cloud Service Recommendation From Multi-Source Data",
+      "venue": "IEEE Journal on Selected Areas in Communications",
+      "year": 2017,
+      "referenceCount": 31,
+      "citationCount": 190,
+      "authors": [
+        {
+          "authorId": "1782044",
+          "name": "Lianyong Qi"
+        },
+        {
+          "authorId": "1992681025",
+          "name": "Xuyun Zhang"
+        },
+        {
+          "authorId": "1768772",
+          "name": "Wanchun Dou"
+        },
+        {
+          "authorId": "143710669",
+          "name": "Q. Ni"
+        }
+      ]
+    },
+    {
+      "paperId": "1b92889346d71ce803a6a618a24554a6eabf778a",
+      "externalIds": {
+        "DBLP": "conf/sisap/SilvaTTV14",
+        "MAG": "2135779989",
+        "DOI": "10.1007/978-3-319-11988-5_8",
+        "CorpusId": 17836515
+      },
+      "url": "https://www.semanticscholar.org/paper/1b92889346d71ce803a6a618a24554a6eabf778a",
+      "title": "Large-Scale Distributed Locality-Sensitive Hashing for General Metric Data",
+      "venue": "Similarity Search and Applications",
+      "year": 2014,
+      "referenceCount": 20,
+      "citationCount": 10,
+      "authors": [
+        {
+          "authorId": "10282855",
+          "name": "Eliezer de Souza da Silva"
+        },
+        {
+          "authorId": "145429122",
+          "name": "Thiago Teixeira"
+        },
+        {
+          "authorId": "2711977",
+          "name": "George Teodoro"
+        },
+        {
+          "authorId": "145487017",
+          "name": "Eduardo Valle"
+        }
+      ]
+    },
+    {
+      "paperId": "fc9e8e96908a112c07a0c27f26092d9e51a89622",
+      "externalIds": {
+        "PubMedCentral": "9695188",
+        "DBLP": "journals/sensors/VangipuramMKR22a",
+        "DOI": "10.3390/s22228725",
+        "CorpusId": 253534111,
+        "PubMed": "36433322"
+      },
+      "url": "https://www.semanticscholar.org/paper/fc9e8e96908a112c07a0c27f26092d9e51a89622",
+      "title": "G-DaM: A Distributed Data Storage with Blockchain Framework for Management of Groundwater Quality Data",
+      "venue": "Italian National Conference on Sensors",
+      "year": 2022,
+      "referenceCount": 45,
+      "citationCount": 8,
+      "authors": [
+        {
+          "authorId": "2114453829",
+          "name": "Sukrutha L. T. Vangipuram"
+        },
+        {
+          "authorId": "1710189",
+          "name": "S. Mohanty"
+        },
+        {
+          "authorId": "1921834",
+          "name": "E. Kougianos"
+        },
+        {
+          "authorId": "144445992",
+          "name": "C. Ray"
+        }
+      ]
+    }
+  ]
+}

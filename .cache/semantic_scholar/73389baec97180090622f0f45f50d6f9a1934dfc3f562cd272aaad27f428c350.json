@@ -1,0 +1,396 @@
+{
+  "total": 241697,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "b01871c114b122340209562972ff515b86b16ccf",
+      "externalIds": {
+        "MAG": "2963629403",
+        "DBLP": "journals/corr/KalchbrennerOSD16",
+        "ArXiv": "1610.00527",
+        "CorpusId": 14278057
+      },
+      "url": "https://www.semanticscholar.org/paper/b01871c114b122340209562972ff515b86b16ccf",
+      "title": "Video Pixel Networks",
+      "venue": "International Conference on Machine Learning",
+      "year": 2016,
+      "referenceCount": 21,
+      "citationCount": 443,
+      "authors": [
+        {
+          "authorId": "2583391",
+          "name": "Nal Kalchbrenner"
+        },
+        {
+          "authorId": "3422336",
+          "name": "Aäron van den Oord"
+        },
+        {
+          "authorId": "34838386",
+          "name": "K. Simonyan"
+        },
+        {
+          "authorId": "1841008",
+          "name": "Ivo Danihelka"
+        },
+        {
+          "authorId": "1689108",
+          "name": "O. Vinyals"
+        },
+        {
+          "authorId": "1753223",
+          "name": "Alex Graves"
+        },
+        {
+          "authorId": "2645384",
+          "name": "K. Kavukcuoglu"
+        }
+      ]
+    },
+    {
+      "paperId": "03a5b2aac53443e6078f0f63b35d4f95d6d54c5d",
+      "externalIds": {
+        "MAG": "2949128343",
+        "DBLP": "conf/cvpr/ShiCHTABRW16",
+        "ArXiv": "1609.05158",
+        "DOI": "10.1109/CVPR.2016.207",
+        "CorpusId": 7037846
+      },
+      "url": "https://www.semanticscholar.org/paper/03a5b2aac53443e6078f0f63b35d4f95d6d54c5d",
+      "title": "Real-Time Single Image and Video Super-Resolution Using an Efficient Sub-Pixel Convolutional Neural Network",
+      "venue": "Computer Vision and Pattern Recognition",
+      "year": 2016,
+      "referenceCount": 57,
+      "citationCount": 5878,
+      "authors": [
+        {
+          "authorId": "46810836",
+          "name": "Wenzhe Shi"
+        },
+        {
+          "authorId": "145372820",
+          "name": "Jose Caballero"
+        },
+        {
+          "authorId": "3108066",
+          "name": "Ferenc Huszár"
+        },
+        {
+          "authorId": "1853456",
+          "name": "J. Totz"
+        },
+        {
+          "authorId": "49931957",
+          "name": "Andrew P. Aitken"
+        },
+        {
+          "authorId": "2073899761",
+          "name": "Rob Bishop"
+        },
+        {
+          "authorId": "1717710",
+          "name": "D. Rueckert"
+        },
+        {
+          "authorId": "34627233",
+          "name": "Zehan Wang"
+        }
+      ]
+    },
+    {
+      "paperId": "49b0e4c5558233431d8babc547d2aeac679adc78",
+      "externalIds": {
+        "MAG": "2951853095",
+        "DBLP": "conf/iccv/YoonRKLSK17",
+        "ArXiv": "1708.05137",
+        "DOI": "10.1109/ICCV.2017.238",
+        "CorpusId": 574347
+      },
+      "url": "https://www.semanticscholar.org/paper/49b0e4c5558233431d8babc547d2aeac679adc78",
+      "title": "Pixel-Level Matching for Video Object Segmentation Using Convolutional Neural Networks",
+      "venue": "IEEE International Conference on Computer Vision",
+      "year": 2017,
+      "referenceCount": 36,
+      "citationCount": 167,
+      "authors": [
+        {
+          "authorId": "9222620",
+          "name": "Jae Shin Yoon"
+        },
+        {
+          "authorId": "2771818",
+          "name": "François Rameau"
+        },
+        {
+          "authorId": "3053231",
+          "name": "Junsik Kim"
+        },
+        {
+          "authorId": "1820776",
+          "name": "Seokju Lee"
+        },
+        {
+          "authorId": "1882750",
+          "name": "Seunghak Shin"
+        },
+        {
+          "authorId": "2398271",
+          "name": "In-So Kweon"
+        }
+      ]
+    },
+    {
+      "paperId": "9c8676057110a0c0178c509f0def601e7f19b681",
+      "externalIds": {
+        "MAG": "2975147889",
+        "DBLP": "journals/corr/abs-1909-13247",
+        "ArXiv": "1909.13247",
+        "DOI": "10.1109/WACV45572.2020.9093294",
+        "CorpusId": 203594032
+      },
+      "url": "https://www.semanticscholar.org/paper/9c8676057110a0c0178c509f0def601e7f19b681",
+      "title": "RPM-Net: Robust Pixel-Level Matching Networks for Self-Supervised Video Object Segmentation",
+      "venue": "IEEE Workshop/Winter Conference on Applications of Computer Vision",
+      "year": 2019,
+      "referenceCount": 42,
+      "citationCount": 12,
+      "authors": [
+        {
+          "authorId": "1992946926",
+          "name": "Youngeun Kim"
+        },
+        {
+          "authorId": "66406598",
+          "name": "Hankyeol Lee"
+        },
+        {
+          "authorId": "31335213",
+          "name": "Seokeon Choi"
+        },
+        {
+          "authorId": "2110993359",
+          "name": "Taekyung Kim"
+        },
+        {
+          "authorId": "145568138",
+          "name": "Changick Kim"
+        }
+      ]
+    },
+    {
+      "paperId": "842b24b04ef2b142d655c7b50cd6ab0835d89330",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-1904-00607",
+        "ArXiv": "1904.00607",
+        "MAG": "2933875464",
+        "DOI": "10.1109/ICCV.2019.00932",
+        "CorpusId": 90262243
+      },
+      "url": "https://www.semanticscholar.org/paper/842b24b04ef2b142d655c7b50cd6ab0835d89330",
+      "title": "Video Object Segmentation Using Space-Time Memory Networks",
+      "venue": "IEEE International Conference on Computer Vision",
+      "year": 2019,
+      "referenceCount": 51,
+      "citationCount": 843,
+      "authors": [
+        {
+          "authorId": "3451982",
+          "name": "Seoung Wug Oh"
+        },
+        {
+          "authorId": "1926578",
+          "name": "Joon-Young Lee"
+        },
+        {
+          "authorId": "145857599",
+          "name": "N. Xu"
+        },
+        {
+          "authorId": "2248551752",
+          "name": "Seon Joo Kim"
+        }
+      ]
+    },
+    {
+      "paperId": "4c379cf37b936d43767e4e3a6bdde7f5022446a3",
+      "externalIds": {
+        "MAG": "3034863454",
+        "DBLP": "journals/tip/XuLSY20",
+        "ArXiv": "2101.10760",
+        "DOI": "10.1109/TIP.2020.2999209",
+        "CorpusId": 220472169
+      },
+      "url": "https://www.semanticscholar.org/paper/4c379cf37b936d43767e4e3a6bdde7f5022446a3",
+      "title": "Learning Spatial and Spatio-Temporal Pixel Aggregations for Image and Video Denoising",
+      "venue": "IEEE Transactions on Image Processing",
+      "year": 2020,
+      "referenceCount": 54,
+      "citationCount": 47,
+      "authors": [
+        {
+          "authorId": "48669892",
+          "name": "Xiangyu Xu"
+        },
+        {
+          "authorId": "2692368",
+          "name": "Muchen Li"
+        },
+        {
+          "authorId": "8397576",
+          "name": "Wenxiu Sun"
+        },
+        {
+          "authorId": "37144787",
+          "name": "Ming-Hsuan Yang"
+        }
+      ]
+    },
+    {
+      "paperId": "58d5ddf51cb2e95cbe76fd4798a6ba0fa318995d",
+      "externalIds": {
+        "PubMedCentral": "8069996",
+        "DBLP": "journals/sensors/MatusGJZJ21",
+        "DOI": "10.3390/s21082739",
+        "CorpusId": 233395907,
+        "PubMed": "33924508"
+      },
+      "url": "https://www.semanticscholar.org/paper/58d5ddf51cb2e95cbe76fd4798a6ba0fa318995d",
+      "title": "Wireless Sensor Networks Using Sub-Pixel Optical Camera Communications: Advances in Experimental Channel Evaluation",
+      "venue": "Italian National Conference on Sensors",
+      "year": 2021,
+      "referenceCount": 55,
+      "citationCount": 17,
+      "authors": [
+        {
+          "authorId": "35563371",
+          "name": "V. Matus"
+        },
+        {
+          "authorId": "145644530",
+          "name": "V. Guerra"
+        },
+        {
+          "authorId": "1411021512",
+          "name": "Cristo Jurado-Verdú"
+        },
+        {
+          "authorId": "2936222",
+          "name": "S. Zvánovec"
+        },
+        {
+          "authorId": "27031575",
+          "name": "R. P. Jiménez"
+        }
+      ]
+    },
+    {
+      "paperId": "b508ccff3c9d902dd14db199dfec613d6c17c0ec",
+      "externalIds": {
+        "ArXiv": "2305.15692",
+        "DBLP": "journals/corr/abs-2305-15692",
+        "DOI": "10.48550/arXiv.2305.15692",
+        "CorpusId": 258887932
+      },
+      "url": "https://www.semanticscholar.org/paper/b508ccff3c9d902dd14db199dfec613d6c17c0ec",
+      "title": "Deep Neural Networks in Video Human Action Recognition: A Review",
+      "venue": "arXiv.org",
+      "year": 2023,
+      "referenceCount": 175,
+      "citationCount": 10,
+      "authors": [
+        {
+          "authorId": "2189474881",
+          "name": "Zihan Wang"
+        },
+        {
+          "authorId": "2152917235",
+          "name": "Yang Yang"
+        },
+        {
+          "authorId": "2157183705",
+          "name": "Zhi Liu"
+        },
+        {
+          "authorId": "153697517",
+          "name": "Y. Zheng"
+        }
+      ]
+    },
+    {
+      "paperId": "4e4260101a962c339a37e3b3273ea30ba6c5b563",
+      "externalIds": {
+        "DBLP": "journals/tip/LinQLYXZ23",
+        "DOI": "10.1109/TIP.2023.3321462",
+        "CorpusId": 263801803,
+        "PubMed": "37812538"
+      },
+      "url": "https://www.semanticscholar.org/paper/4e4260101a962c339a37e3b3273ea30ba6c5b563",
+      "title": "Prototypical Matching Networks for Video Object Segmentation",
+      "venue": "IEEE Transactions on Image Processing",
+      "year": 2023,
+      "referenceCount": 88,
+      "citationCount": 10,
+      "authors": [
+        {
+          "authorId": "151481635",
+          "name": "Fanchao Lin"
+        },
+        {
+          "authorId": "3430743",
+          "name": "Zhaofan Qiu"
+        },
+        {
+          "authorId": "151506524",
+          "name": "Chuanbin Liu"
+        },
+        {
+          "authorId": "2256757277",
+          "name": "Ting Yao"
+        },
+        {
+          "authorId": "143994657",
+          "name": "Hongtao Xie"
+        },
+        {
+          "authorId": "2244112150",
+          "name": "Yongdong Zhang"
+        }
+      ]
+    },
+    {
+      "paperId": "59b2064b29b06d2cea6c19dc764bf14e78573fa9",
+      "externalIds": {
+        "PubMedCentral": "5799195",
+        "MAG": "2788109278",
+        "DOI": "10.1038/s41598-018-20521-y",
+        "CorpusId": 3316921,
+        "PubMed": "29403059"
+      },
+      "url": "https://www.semanticscholar.org/paper/59b2064b29b06d2cea6c19dc764bf14e78573fa9",
+      "title": "Deep learning for real-time single-pixel video",
+      "venue": "Scientific Reports",
+      "year": 2018,
+      "referenceCount": 25,
+      "citationCount": 261,
+      "authors": [
+        {
+          "authorId": "3126761",
+          "name": "Catherine F. Higham"
+        },
+        {
+          "authorId": "1402170019",
+          "name": "R. Murray-Smith"
+        },
+        {
+          "authorId": "1870015",
+          "name": "M. Padgett"
+        },
+        {
+          "authorId": "145089552",
+          "name": "M. Edgar"
+        }
+      ]
+    }
+  ]
+}

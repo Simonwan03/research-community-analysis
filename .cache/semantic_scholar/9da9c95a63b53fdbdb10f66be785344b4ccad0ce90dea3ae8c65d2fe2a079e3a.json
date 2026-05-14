@@ -1,0 +1,956 @@
+{
+  "offset": 0,
+  "citingPaperInfo": {
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/1502.06531, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "title": "Scalable Variational Inference in Log-supermodular Models",
+    "authors": [
+      {
+        "authorId": "2941141",
+        "name": "J. Djolonga"
+      },
+      {
+        "authorId": "145343838",
+        "name": "Andreas Krause"
+      }
+    ]
+  },
+  "data": [
+    {
+      "citedPaper": {
+        "paperId": "020cd5a9b3cfc991b43867b30b51d316a9486839",
+        "externalIds": {
+          "MAG": "2383884484",
+          "DBLP": "conf/aistats/IyerB15",
+          "CorpusId": 5654585
+        },
+        "url": "https://www.semanticscholar.org/paper/020cd5a9b3cfc991b43867b30b51d316a9486839",
+        "title": "Submodular Point Processes with Applications to Machine learning",
+        "venue": "International Conference on Artificial Intelligence and Statistics",
+        "year": 2015,
+        "referenceCount": 56,
+        "citationCount": 25,
+        "authors": [
+          {
+            "authorId": "145074006",
+            "name": "Rishabh K. Iyer"
+          },
+          {
+            "authorId": "1748118",
+            "name": "J. Bilmes"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "b52b3eab25998417dcb1063775c995dabc0deb0d",
+        "externalIds": {
+          "DBLP": "conf/nips/DjolongaK14",
+          "MAG": "2147716762",
+          "CorpusId": 7566173
+        },
+        "url": "https://www.semanticscholar.org/paper/b52b3eab25998417dcb1063775c995dabc0deb0d",
+        "title": "From MAP to Marginals: Variational Inference in Bayesian Submodular Models",
+        "venue": "Neural Information Processing Systems",
+        "year": 2014,
+        "referenceCount": 40,
+        "citationCount": 79,
+        "authors": [
+          {
+            "authorId": "2941141",
+            "name": "J. Djolonga"
+          },
+          {
+            "authorId": "145343838",
+            "name": "Andreas Krause"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "cc95eb163ccf311068554368020c99321918f152",
+        "externalIds": {
+          "ArXiv": "1411.0095",
+          "MAG": "2951534041",
+          "DBLP": "journals/corr/Chakrabarty0K14",
+          "CorpusId": 6850268
+        },
+        "url": "https://www.semanticscholar.org/paper/cc95eb163ccf311068554368020c99321918f152",
+        "title": "Provable Submodular Minimization using Wolfe's Algorithm",
+        "venue": "Neural Information Processing Systems",
+        "year": 2014,
+        "referenceCount": 25,
+        "citationCount": 65,
+        "authors": [
+          {
+            "authorId": "1731029",
+            "name": "Deeparnab Chakrabarty"
+          },
+          {
+            "authorId": "48964143",
+            "name": "Prateek Jain"
+          },
+          {
+            "authorId": "145879521",
+            "name": "Pravesh Kothari"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "67b485d2bbf627108949121d577dcc1d265bc33e",
+        "externalIds": {
+          "MAG": "2165464496",
+          "ArXiv": "1406.6474",
+          "DBLP": "journals/corr/NishiharaJJ14",
+          "CorpusId": 5608979
+        },
+        "url": "https://www.semanticscholar.org/paper/67b485d2bbf627108949121d577dcc1d265bc33e",
+        "title": "On the Convergence Rate of Decomposable Submodular Function Minimization",
+        "venue": "Neural Information Processing Systems",
+        "year": 2014,
+        "referenceCount": 40,
+        "citationCount": 43,
+        "authors": [
+          {
+            "authorId": "34994156",
+            "name": "Robert Nishihara"
+          },
+          {
+            "authorId": "2594093",
+            "name": "S. Jegelka"
+          },
+          {
+            "authorId": "1694621",
+            "name": "Michael I. Jordan"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "bba961a96d1cddfc88c790c950499118a2efc51b",
+        "externalIds": {
+          "ArXiv": "1311.4296",
+          "MAG": "2134220221",
+          "DBLP": "journals/corr/JegelkaBS13",
+          "CorpusId": 220623774
+        },
+        "url": "https://www.semanticscholar.org/paper/bba961a96d1cddfc88c790c950499118a2efc51b",
+        "title": "Reflection methods for user-friendly submodular optimization",
+        "venue": "Neural Information Processing Systems",
+        "year": 2013,
+        "referenceCount": 48,
+        "citationCount": 78,
+        "authors": [
+          {
+            "authorId": "2594093",
+            "name": "S. Jegelka"
+          },
+          {
+            "authorId": "144570279",
+            "name": "F. Bach"
+          },
+          {
+            "authorId": "3072326",
+            "name": "S. Sra"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "48a17d25d76f9bdf90fdd86d2b3e2739e5bb8016",
+        "externalIds": {
+          "MAG": "2138779671",
+          "DBLP": "journals/ftml/KuleszaT12",
+          "ArXiv": "1207.6083",
+          "DOI": "10.1561/2200000044",
+          "CorpusId": 51975610
+        },
+        "url": "https://www.semanticscholar.org/paper/48a17d25d76f9bdf90fdd86d2b3e2739e5bb8016",
+        "title": "Determinantal Point Processes for Machine Learning",
+        "venue": "Found. Trends Mach. Learn.",
+        "year": 2012,
+        "referenceCount": 161,
+        "citationCount": 1288,
+        "authors": [
+          {
+            "authorId": "145500336",
+            "name": "Alex Kulesza"
+          },
+          {
+            "authorId": "1685978",
+            "name": "B. Taskar"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "5a0d9f3ccea86ed6fb573ec86b9698e1a72667b5",
+        "externalIds": {
+          "MAG": "2088408727",
+          "DOI": "10.1007/s13160-012-0083-z",
+          "CorpusId": 123093080
+        },
+        "url": "https://www.semanticscholar.org/paper/5a0d9f3ccea86ed6fb573ec86b9698e1a72667b5",
+        "title": "Equivalence of convex minimization problems over base polytopes",
+        "venue": "Japan journal of industrial and applied mathematics",
+        "year": 2012,
+        "referenceCount": 31,
+        "citationCount": 20,
+        "authors": [
+          {
+            "authorId": "1803092",
+            "name": "Kiyohito Nagano"
+          },
+          {
+            "authorId": "144384790",
+            "name": "K. Aihara"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "5dd170f0705f0e1a657021b5427ca983cccd7a59",
+        "externalIds": {
+          "MAG": "3099890586",
+          "DBLP": "journals/tit/ErvenH14",
+          "ArXiv": "1206.2459",
+          "DOI": "10.1109/TIT.2014.2320500",
+          "CorpusId": 17522805
+        },
+        "url": "https://www.semanticscholar.org/paper/5dd170f0705f0e1a657021b5427ca983cccd7a59",
+        "title": "Rényi Divergence and Kullback-Leibler Divergence",
+        "venue": "IEEE Transactions on Information Theory",
+        "year": 2012,
+        "referenceCount": 67,
+        "citationCount": 1528,
+        "authors": [
+          {
+            "authorId": "1775951",
+            "name": "T. Erven"
+          },
+          {
+            "authorId": "2621446",
+            "name": "P. Harremoës"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "ccfaba27ca7bce5b95dde407e9df568e5902b218",
+        "externalIds": {
+          "MAG": "2086058123",
+          "DBLP": "journals/ftml/Bach13",
+          "ArXiv": "1111.6453",
+          "DOI": "10.1561/2200000039",
+          "CorpusId": 219936243
+        },
+        "url": "https://www.semanticscholar.org/paper/ccfaba27ca7bce5b95dde407e9df568e5902b218",
+        "title": "Learning with Submodular Functions: A Convex Optimization Perspective",
+        "venue": "Found. Trends Mach. Learn.",
+        "year": 2011,
+        "referenceCount": 223,
+        "citationCount": 510,
+        "authors": [
+          {
+            "authorId": "144570279",
+            "name": "F. Bach"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "3156dcaa81d45efb14e7587665180dea06af4a63",
+        "externalIds": {
+          "MAG": "2113393671",
+          "DBLP": "journals/jstsp/CevherK11",
+          "DOI": "10.1109/JSTSP.2011.2161862",
+          "CorpusId": 14147707
+        },
+        "url": "https://www.semanticscholar.org/paper/3156dcaa81d45efb14e7587665180dea06af4a63",
+        "title": "Greedy Dictionary Selection for Sparse Representation",
+        "venue": "IEEE Journal on Selected Topics in Signal Processing",
+        "year": 2011,
+        "referenceCount": 19,
+        "citationCount": 62,
+        "authors": [
+          {
+            "authorId": "1678641",
+            "name": "V. Cevher"
+          },
+          {
+            "authorId": "145343838",
+            "name": "Andreas Krause"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "59ceefcf26a6981f73097d2b5842731800559392",
+        "externalIds": {
+          "DBLP": "conf/icml/JimenezS11",
+          "MAG": "2206218737",
+          "CorpusId": 14665505
+        },
+        "url": "https://www.semanticscholar.org/paper/59ceefcf26a6981f73097d2b5842731800559392",
+        "title": "Fast Newton-type Methods for Total Variation Regularization",
+        "venue": "International Conference on Machine Learning",
+        "year": 2011,
+        "referenceCount": 34,
+        "citationCount": 94,
+        "authors": [
+          {
+            "authorId": "1766570",
+            "name": "Á. Jiménez"
+          },
+          {
+            "authorId": "3072326",
+            "name": "S. Sra"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "beb514c85e1af9b01f7b07af61d9e0490ec22c69",
+        "externalIds": {
+          "MAG": "2061958803",
+          "DBLP": "conf/cvpr/JegelkaB11",
+          "DOI": "10.1109/CVPR.2011.5995589",
+          "CorpusId": 348684
+        },
+        "url": "https://www.semanticscholar.org/paper/beb514c85e1af9b01f7b07af61d9e0490ec22c69",
+        "title": "Submodularity beyond submodular energies: Coupling edges in graph cuts",
+        "venue": "Computer Vision and Pattern Recognition",
+        "year": 2011,
+        "referenceCount": 39,
+        "citationCount": 219,
+        "authors": [
+          {
+            "authorId": "2594093",
+            "name": "S. Jegelka"
+          },
+          {
+            "authorId": "1748118",
+            "name": "J. Bilmes"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "ad4fd2c149f220a62441576af92a8a669fe81246",
+        "externalIds": {
+          "DBLP": "journals/jmlr/PedregosaVGMTGBPWDVPCBPD11",
+          "ArXiv": "1201.0490",
+          "MAG": "2101234009",
+          "DOI": "10.5555/1953048.2078195",
+          "CorpusId": 10659969
+        },
+        "url": "https://www.semanticscholar.org/paper/ad4fd2c149f220a62441576af92a8a669fe81246",
+        "title": "Scikit-learn: Machine Learning in Python",
+        "venue": "Journal of machine learning research",
+        "year": 2011,
+        "referenceCount": 17,
+        "citationCount": 88067,
+        "authors": [
+          {
+            "authorId": "2570016",
+            "name": "Fabian Pedregosa"
+          },
+          {
+            "authorId": "3025780",
+            "name": "G. Varoquaux"
+          },
+          {
+            "authorId": "1797840",
+            "name": "Alexandre Gramfort"
+          },
+          {
+            "authorId": "52200573",
+            "name": "V. Michel"
+          },
+          {
+            "authorId": "8493461",
+            "name": "B. Thirion"
+          },
+          {
+            "authorId": "2958756",
+            "name": "O. Grisel"
+          },
+          {
+            "authorId": "27257992",
+            "name": "Mathieu Blondel"
+          },
+          {
+            "authorId": "1881041",
+            "name": "Gilles Louppe"
+          },
+          {
+            "authorId": "2780213",
+            "name": "P. Prettenhofer"
+          },
+          {
+            "authorId": "2067827437",
+            "name": "Ron Weiss"
+          },
+          {
+            "authorId": "39571582",
+            "name": "Ron J. Weiss"
+          },
+          {
+            "authorId": "2081469",
+            "name": "J. Vanderplas"
+          },
+          {
+            "authorId": "144720379",
+            "name": "Alexandre Passos"
+          },
+          {
+            "authorId": "3084321",
+            "name": "D. Cournapeau"
+          },
+          {
+            "authorId": "2423884",
+            "name": "M. Brucher"
+          },
+          {
+            "authorId": "35243423",
+            "name": "M. Perrot"
+          },
+          {
+            "authorId": "1710398",
+            "name": "E. Duchesnay"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "41eba6edf9d13b6cb5aa87e0d0b609ca6d709f88",
+        "externalIds": {
+          "MAG": "2118544668",
+          "ArXiv": "1010.5511",
+          "DBLP": "journals/corr/abs-1010-5511",
+          "CorpusId": 18235
+        },
+        "url": "https://www.semanticscholar.org/paper/41eba6edf9d13b6cb5aa87e0d0b609ca6d709f88",
+        "title": "Efficient Minimization of Decomposable Submodular Functions",
+        "venue": "Neural Information Processing Systems",
+        "year": 2010,
+        "referenceCount": 24,
+        "citationCount": 127,
+        "authors": [
+          {
+            "authorId": "32849160",
+            "name": "Peter Stobbe"
+          },
+          {
+            "authorId": "145343838",
+            "name": "Andreas Krause"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "236fe55519aa360239cfce703b686550744a8b2f",
+        "externalIds": {
+          "MAG": "2953028742",
+          "DBLP": "conf/nips/Bach10",
+          "ArXiv": "1008.4220",
+          "CorpusId": 2044768
+        },
+        "url": "https://www.semanticscholar.org/paper/236fe55519aa360239cfce703b686550744a8b2f",
+        "title": "Structured sparsity-inducing norms through submodular functions",
+        "venue": "Neural Information Processing Systems",
+        "year": 2010,
+        "referenceCount": 76,
+        "citationCount": 198,
+        "authors": [
+          {
+            "authorId": "144570279",
+            "name": "F. Bach"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "595451ffef985ed4ff0ee71d476611c56ef7d9ba",
+        "externalIds": {
+          "DBLP": "journals/jmlr/Mooij10",
+          "MAG": "2169447051",
+          "DOI": "10.5555/1756006.1859925",
+          "CorpusId": 42043931
+        },
+        "url": "https://www.semanticscholar.org/paper/595451ffef985ed4ff0ee71d476611c56ef7d9ba",
+        "title": "libDAI: A Free and Open Source C++ Library for Discrete Approximate Inference in Graphical Models",
+        "venue": "Journal of machine learning research",
+        "year": 2010,
+        "referenceCount": 11,
+        "citationCount": 308,
+        "authors": [
+          {
+            "authorId": "1696158",
+            "name": "J. Mooij"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "d98d0d1900b13b87aa4ffd6b69c046beb63f0434",
+        "externalIds": {
+          "DBLP": "journals/ftml/WainwrightJ08",
+          "MAG": "2120340025",
+          "DOI": "10.1561/2200000001",
+          "CorpusId": 207178945
+        },
+        "url": "https://www.semanticscholar.org/paper/d98d0d1900b13b87aa4ffd6b69c046beb63f0434",
+        "title": "Graphical Models, Exponential Families, and Variational Inference",
+        "venue": "Found. Trends Mach. Learn.",
+        "year": 2008,
+        "referenceCount": 277,
+        "citationCount": 4743,
+        "authors": [
+          {
+            "authorId": "1721860",
+            "name": "M. Wainwright"
+          },
+          {
+            "authorId": "1694621",
+            "name": "Michael I. Jordan"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "87073fd45685b78cb5a68e5eae331d88f2a2be63",
+        "externalIds": {
+          "MAG": "2116877738",
+          "DBLP": "conf/cvpr/KohliLT08",
+          "DOI": "10.1007/s11263-008-0202-0",
+          "CorpusId": 690715
+        },
+        "url": "https://www.semanticscholar.org/paper/87073fd45685b78cb5a68e5eae331d88f2a2be63",
+        "title": "Robust Higher Order Potentials for Enforcing Label Consistency",
+        "venue": "2008 IEEE Conference on Computer Vision and Pattern Recognition",
+        "year": 2008,
+        "referenceCount": 51,
+        "citationCount": 1038,
+        "authors": [
+          {
+            "authorId": "143967473",
+            "name": "Pushmeet Kohli"
+          },
+          {
+            "authorId": "1728641",
+            "name": "Lubor Ladicky"
+          },
+          {
+            "authorId": "143635540",
+            "name": "Philip H. S. Torr"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "d066dcccf868a5e74c0635d41803c9a013290e3c",
+        "externalIds": {
+          "MAG": "2050511894",
+          "DBLP": "journals/mp/Orlin09",
+          "DOI": "10.1007/s10107-007-0189-2",
+          "CorpusId": 8262228
+        },
+        "url": "https://www.semanticscholar.org/paper/d066dcccf868a5e74c0635d41803c9a013290e3c",
+        "title": "A faster strongly polynomial time algorithm for submodular function minimization",
+        "venue": "Mathematical programming",
+        "year": 2007,
+        "referenceCount": 14,
+        "citationCount": 321,
+        "authors": [
+          {
+            "authorId": "1795576",
+            "name": "J. Orlin"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "965cc9066454ec1e73e3056dc74e7f2b5f9d10b7",
+        "externalIds": {
+          "DBLP": "journals/cpc/GoldbergJ07",
+          "MAG": "1977162457",
+          "DOI": "10.1017/S096354830600767X",
+          "CorpusId": 16859050
+        },
+        "url": "https://www.semanticscholar.org/paper/965cc9066454ec1e73e3056dc74e7f2b5f9d10b7",
+        "title": "The Complexity of Ferromagnetic Ising with Local Fields",
+        "venue": "Combinatorics, probability & computing",
+        "year": 2006,
+        "referenceCount": 17,
+        "citationCount": 80,
+        "authors": [
+          {
+            "authorId": "34715859",
+            "name": "L. A. Goldberg"
+          },
+          {
+            "authorId": "2875953",
+            "name": "M. Jerrum"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "f9c8e1c490dfa632c9d3ad67037b333e71c06bd8",
+        "externalIds": {
+          "DBLP": "conf/nips/NarasimhanJB05",
+          "MAG": "2293768704",
+          "CorpusId": 208936118
+        },
+        "url": "https://www.semanticscholar.org/paper/f9c8e1c490dfa632c9d3ad67037b333e71c06bd8",
+        "title": "Q-Clustering",
+        "venue": "Neural Information Processing Systems",
+        "year": 2005,
+        "referenceCount": 8,
+        "citationCount": 65,
+        "authors": [
+          {
+            "authorId": "1820690",
+            "name": "Mukund Narasimhan"
+          },
+          {
+            "authorId": "1698689",
+            "name": "N. Jojic"
+          },
+          {
+            "authorId": "1748118",
+            "name": "J. Bilmes"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "2b80b93ddfa9fbaf1d9c7d580664e91626066db5",
+        "externalIds": {
+          "MAG": "1486950299",
+          "DBLP": "journals/corr/abs-1207-1394",
+          "ArXiv": "1207.1394",
+          "CorpusId": 15969222
+        },
+        "url": "https://www.semanticscholar.org/paper/2b80b93ddfa9fbaf1d9c7d580664e91626066db5",
+        "title": "Near-optimal Nonmyopic Value of Information in Graphical Models",
+        "venue": "Conference on Uncertainty in Artificial Intelligence",
+        "year": 2005,
+        "referenceCount": 20,
+        "citationCount": 478,
+        "authors": [
+          {
+            "authorId": "145343838",
+            "name": "Andreas Krause"
+          },
+          {
+            "authorId": "1730156",
+            "name": "Carlos Guestrin"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "4f607f03272e4d62708f5b2441355f9e005cb452",
+        "externalIds": {
+          "MAG": "2296319761",
+          "DBLP": "books/crc/99/Vavasis99",
+          "DOI": "10.1017/CBO9780511804441.005",
+          "CorpusId": 268925835
+        },
+        "url": "https://www.semanticscholar.org/paper/4f607f03272e4d62708f5b2441355f9e005cb452",
+        "title": "Convex Optimization",
+        "venue": "IEEE Transactions on Automatic Control",
+        "year": 2004,
+        "referenceCount": 7,
+        "citationCount": 4413,
+        "authors": [
+          {
+            "authorId": "2256659919",
+            "name": "Stephen P. Boyd"
+          },
+          {
+            "authorId": "2014414",
+            "name": "L. Vandenberghe"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "74f4ecc3e4e5b91fbb54330b285ed5214afe2001",
+        "externalIds": {
+          "DBLP": "journals/pami/ComaniciuM02",
+          "MAG": "2067191022",
+          "DOI": "10.1109/34.1000236",
+          "CorpusId": 691081
+        },
+        "url": "https://www.semanticscholar.org/paper/74f4ecc3e4e5b91fbb54330b285ed5214afe2001",
+        "title": "Mean Shift: A Robust Approach Toward Feature Space Analysis",
+        "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+        "year": 2002,
+        "referenceCount": 86,
+        "citationCount": 12853,
+        "authors": [
+          {
+            "authorId": "1685020",
+            "name": "D. Comaniciu"
+          },
+          {
+            "authorId": "145776090",
+            "name": "P. Meer"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "181eba118d1be4a6c90069f9f008712b5e82074a",
+        "externalIds": {
+          "MAG": "1573538478",
+          "DBLP": "conf/icalp/JerrumS90",
+          "DOI": "10.1137/0222066",
+          "CorpusId": 52866623
+        },
+        "url": "https://www.semanticscholar.org/paper/181eba118d1be4a6c90069f9f008712b5e82074a",
+        "title": "Polynomial-Time Approximation Algorithms for the Ising Model",
+        "venue": "SIAM journal on computing (Print)",
+        "year": 1990,
+        "referenceCount": 30,
+        "citationCount": 603,
+        "authors": [
+          {
+            "authorId": "2875953",
+            "name": "M. Jerrum"
+          },
+          {
+            "authorId": "2153936",
+            "name": "A. Sinclair"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "bb0419bccc2244ed33c9c42341f342511262daa3",
+        "externalIds": {
+          "DBLP": "journals/ai/Pearl86",
+          "MAG": "2143075689",
+          "DOI": "10.1145/3501714.3501728",
+          "CorpusId": 13723620
+        },
+        "url": "https://www.semanticscholar.org/paper/bb0419bccc2244ed33c9c42341f342511262daa3",
+        "title": "Fusion, Propagation, and Structuring in Belief Networks",
+        "venue": "Artificial Intelligence",
+        "year": 1986,
+        "referenceCount": 42,
+        "citationCount": 2330,
+        "authors": [
+          {
+            "authorId": "145430701",
+            "name": "J. Pearl"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "87fdcf36384eda8b4dc6cc98b2293fa56cb7b851",
+        "externalIds": {
+          "MAG": "2170569385",
+          "DBLP": "journals/mor/Fujishige80",
+          "DOI": "10.1287/moor.5.2.186",
+          "CorpusId": 40068897
+        },
+        "url": "https://www.semanticscholar.org/paper/87fdcf36384eda8b4dc6cc98b2293fa56cb7b851",
+        "title": "Lexicographically Optimal Base of a Polymatroid with Respect to a Weight Vector",
+        "venue": "Mathematics of Operations Research",
+        "year": 1980,
+        "referenceCount": 6,
+        "citationCount": 202,
+        "authors": [
+          {
+            "authorId": "1713424",
+            "name": "S. Fujishige"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "To compute the Friedrich’s angle we are interested in the singular values of ST (Nishihara et al., 2014)[Lemma",
+        "venue": "",
+        "year": 2014,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "c4a3370b312a1a88205aff0adbdc4ef040f9ee25",
+        "externalIds": {
+          "CorpusId": 15184468
+        },
+        "url": "https://www.semanticscholar.org/paper/c4a3370b312a1a88205aff0adbdc4ef040f9ee25",
+        "title": "Submodular Point Processes",
+        "venue": "",
+        "year": 2014,
+        "referenceCount": 33,
+        "citationCount": 9,
+        "authors": [
+          {
+            "authorId": "145074006",
+            "name": "Rishabh K. Iyer"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "a912be1031c08cb21d5bf65a7240d3ca2aee51eb",
+        "externalIds": {
+          "MAG": "1530235965",
+          "CorpusId": 7585417
+        },
+        "url": "https://www.semanticscholar.org/paper/a912be1031c08cb21d5bf65a7240d3ca2aee51eb",
+        "title": "Divergence measures and message passing",
+        "venue": "",
+        "year": 2005,
+        "referenceCount": 32,
+        "citationCount": 649,
+        "authors": [
+          {
+            "authorId": "52626911",
+            "name": "T. Minka"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "4416e09f9ab450ad16f655d1ccbf79ef1f0a7da1",
+        "externalIds": {
+          "MAG": "2107547393",
+          "DBLP": "conf/aussois/Edmonds01",
+          "DOI": "10.1007/3-540-36478-1_2",
+          "CorpusId": 14909675
+        },
+        "url": "https://www.semanticscholar.org/paper/4416e09f9ab450ad16f655d1ccbf79ef1f0a7da1",
+        "title": "Submodular Functions, Matroids, and Certain Polyhedra",
+        "venue": "Combinatorial Optimization",
+        "year": 2001,
+        "referenceCount": 18,
+        "citationCount": 1336,
+        "authors": [
+          {
+            "authorId": "145884132",
+            "name": "J. Edmonds"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "de1c1e1f63160ac0d73604e9afcc0a265e34a85a",
+        "externalIds": {
+          "MAG": "1589208139",
+          "DOI": "10.1016/s0167-5060(08)x7004-9",
+          "CorpusId": 116933222
+        },
+        "url": "https://www.semanticscholar.org/paper/de1c1e1f63160ac0d73604e9afcc0a265e34a85a",
+        "title": "Submodular functions and optimization",
+        "venue": "",
+        "year": 1991,
+        "referenceCount": 0,
+        "citationCount": 967,
+        "authors": [
+          {
+            "authorId": "101871587",
+            "name": "藤重 悟"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "cd7af69ced80de692b8bbc71868f29932bb41dcc",
+        "externalIds": {
+          "MAG": "2122882636",
+          "CorpusId": 123056571
+        },
+        "url": "https://www.semanticscholar.org/paper/cd7af69ced80de692b8bbc71868f29932bb41dcc",
+        "title": "On Measures of Entropy and Information",
+        "venue": "",
+        "year": 1961,
+        "referenceCount": 27,
+        "citationCount": 2365,
+        "authors": [
+          {
+            "authorId": "69571730",
+            "name": "A. Rényi"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "05826ef7bb09d87cf76873df04fc46164b1f41de",
+        "externalIds": {
+          "CorpusId": 282205053
+        },
+        "url": "https://www.semanticscholar.org/paper/05826ef7bb09d87cf76873df04fc46164b1f41de",
+        "title": "Reﬂection methods for user-friendly submodular optimization",
+        "venue": "",
+        "year": null,
+        "referenceCount": 44,
+        "citationCount": 15,
+        "authors": [
+          {
+            "authorId": "2594093",
+            "name": "S. Jegelka"
+          },
+          {
+            "authorId": "2387348118",
+            "name": "Francis Bach"
+          },
+          {
+            "authorId": "3072326",
+            "name": "S. Sra"
+          }
+        ]
+      }
+    }
+  ]
+}

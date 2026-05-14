@@ -1,0 +1,338 @@
+{
+  "total": 223012,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "7c6de5a9e02a779e24504619050c6118f4eac181",
+      "externalIds": {
+        "MAG": "2951153836",
+        "DBLP": "journals/corr/NiepertAK16",
+        "ArXiv": "1605.05273",
+        "CorpusId": 1430801
+      },
+      "url": "https://www.semanticscholar.org/paper/7c6de5a9e02a779e24504619050c6118f4eac181",
+      "title": "Learning Convolutional Neural Networks for Graphs",
+      "venue": "International Conference on Machine Learning",
+      "year": 2016,
+      "referenceCount": 49,
+      "citationCount": 2270,
+      "authors": [
+        {
+          "authorId": "2780262",
+          "name": "Mathias Niepert"
+        },
+        {
+          "authorId": "24931083",
+          "name": "Mohamed Ahmed"
+        },
+        {
+          "authorId": "1712289",
+          "name": "Konstantin Kutzkov"
+        }
+      ]
+    },
+    {
+      "paperId": "c41eb895616e453dcba1a70c9b942c5063cc656c",
+      "externalIds": {
+        "MAG": "2468907370",
+        "DBLP": "journals/corr/DefferrardBV16",
+        "ArXiv": "1606.09375",
+        "CorpusId": 3016223
+      },
+      "url": "https://www.semanticscholar.org/paper/c41eb895616e453dcba1a70c9b942c5063cc656c",
+      "title": "Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering",
+      "venue": "Neural Information Processing Systems",
+      "year": 2016,
+      "referenceCount": 47,
+      "citationCount": 8478,
+      "authors": [
+        {
+          "authorId": "3422350",
+          "name": "Michaël Defferrard"
+        },
+        {
+          "authorId": "2549032",
+          "name": "X. Bresson"
+        },
+        {
+          "authorId": "1697397",
+          "name": "P. Vandergheynst"
+        }
+      ]
+    },
+    {
+      "paperId": "72edcb3788f9c141a3ed28e6d36f75ca4977d27e",
+      "externalIds": {
+        "MAG": "2756203131",
+        "ArXiv": "1709.04875",
+        "DBLP": "journals/corr/abs-1709-04875",
+        "DOI": "10.24963/ijcai.2018/505",
+        "CorpusId": 4972291
+      },
+      "url": "https://www.semanticscholar.org/paper/72edcb3788f9c141a3ed28e6d36f75ca4977d27e",
+      "title": "Spatio-temporal Graph Convolutional Neural Network: A Deep Learning Framework for Traffic Forecasting",
+      "venue": "International Joint Conference on Artificial Intelligence",
+      "year": 2017,
+      "referenceCount": 38,
+      "citationCount": 4824,
+      "authors": [
+        {
+          "authorId": "46806278",
+          "name": "Ting Yu"
+        },
+        {
+          "authorId": "26379330",
+          "name": "Haoteng Yin"
+        },
+        {
+          "authorId": "1703952",
+          "name": "Zhanxing Zhu"
+        }
+      ]
+    },
+    {
+      "paperId": "89e05f63114aeb323d8137a2394d0cd5c9eb4753",
+      "externalIds": {
+        "MAG": "2860192827",
+        "DBLP": "journals/bioinformatics/TsubakiTS19",
+        "DOI": "10.1093/bioinformatics/bty535",
+        "CorpusId": 51602254,
+        "PubMed": "29982330"
+      },
+      "url": "https://www.semanticscholar.org/paper/89e05f63114aeb323d8137a2394d0cd5c9eb4753",
+      "title": "Compound‐protein interaction prediction with end‐to‐end learning of neural networks for graphs and sequences",
+      "venue": "Bioinform.",
+      "year": 2018,
+      "referenceCount": 39,
+      "citationCount": 598,
+      "authors": [
+        {
+          "authorId": "33150940",
+          "name": "Masashi Tsubaki"
+        },
+        {
+          "authorId": "9849943",
+          "name": "K. Tomii"
+        },
+        {
+          "authorId": "49304367",
+          "name": "J. Sese"
+        }
+      ]
+    },
+    {
+      "paperId": "1a39bb2caa151d15efd6718f3a80d9f4bff95af2",
+      "externalIds": {
+        "DBLP": "journals/corr/SimonovskyK17",
+        "ArXiv": "1704.02901",
+        "MAG": "2606202972",
+        "DOI": "10.1109/CVPR.2017.11",
+        "CorpusId": 17648673
+      },
+      "url": "https://www.semanticscholar.org/paper/1a39bb2caa151d15efd6718f3a80d9f4bff95af2",
+      "title": "Dynamic Edge-Conditioned Filters in Convolutional Neural Networks on Graphs",
+      "venue": "Computer Vision and Pattern Recognition",
+      "year": 2017,
+      "referenceCount": 45,
+      "citationCount": 1330,
+      "authors": [
+        {
+          "authorId": "3451689",
+          "name": "Martin Simonovsky"
+        },
+        {
+          "authorId": "2505902",
+          "name": "N. Komodakis"
+        }
+      ]
+    },
+    {
+      "paperId": "490132b25e5ca9dcb0dd9036f1b80275ee0ae511",
+      "externalIds": {
+        "DBLP": "journals/tkde/LuoLYLW17",
+        "MAG": "2725719541",
+        "DOI": "10.1109/TKDE.2017.2720734",
+        "CorpusId": 26736528
+      },
+      "url": "https://www.semanticscholar.org/paper/490132b25e5ca9dcb0dd9036f1b80275ee0ae511",
+      "title": "Deep Learning of Graphs with Ngram Convolutional Neural Networks",
+      "venue": "IEEE Transactions on Knowledge and Data Engineering",
+      "year": 2017,
+      "referenceCount": 36,
+      "citationCount": 54,
+      "authors": [
+        {
+          "authorId": "2043516",
+          "name": "Zhiling Luo"
+        },
+        {
+          "authorId": "46458150",
+          "name": "Ling Liu"
+        },
+        {
+          "authorId": "1734105",
+          "name": "Jianwei Yin"
+        },
+        {
+          "authorId": "2153643203",
+          "name": "Ying Li"
+        },
+        {
+          "authorId": "144437322",
+          "name": "Zhaohui Wu"
+        }
+      ]
+    },
+    {
+      "paperId": "b54a8f7825204b5886f73b9e67649836e378721c",
+      "externalIds": {
+        "ArXiv": "2202.03580",
+        "DBLP": "conf/nips/HeWW22",
+        "DOI": "10.52202/068431-0527",
+        "CorpusId": 246652363
+      },
+      "url": "https://www.semanticscholar.org/paper/b54a8f7825204b5886f73b9e67649836e378721c",
+      "title": "Convolutional Neural Networks on Graphs with Chebyshev Approximation, Revisited",
+      "venue": "Neural Information Processing Systems",
+      "year": 2022,
+      "referenceCount": 58,
+      "citationCount": 188,
+      "authors": [
+        {
+          "authorId": "2116976451",
+          "name": "Mingguo He"
+        },
+        {
+          "authorId": "12457830",
+          "name": "Zhewei Wei"
+        },
+        {
+          "authorId": "153693432",
+          "name": "Ji-rong Wen"
+        }
+      ]
+    },
+    {
+      "paperId": "62ed9bf1d83c8db1f9cbf92ea2f57ea90ef683d9",
+      "externalIds": {
+        "MAG": "2950468517",
+        "ArXiv": "1810.00826",
+        "DBLP": "journals/corr/abs-1810-00826",
+        "CorpusId": 52895589
+      },
+      "url": "https://www.semanticscholar.org/paper/62ed9bf1d83c8db1f9cbf92ea2f57ea90ef683d9",
+      "title": "How Powerful are Graph Neural Networks?",
+      "venue": "International Conference on Learning Representations",
+      "year": 2018,
+      "referenceCount": 45,
+      "citationCount": 9574,
+      "authors": [
+        {
+          "authorId": "3360632",
+          "name": "Keyulu Xu"
+        },
+        {
+          "authorId": "48594758",
+          "name": "Weihua Hu"
+        },
+        {
+          "authorId": "1702139",
+          "name": "J. Leskovec"
+        },
+        {
+          "authorId": "2594093",
+          "name": "S. Jegelka"
+        }
+      ]
+    },
+    {
+      "paperId": "5d1bfeed240709725c78bc72ea40e55410b373dc",
+      "externalIds": {
+        "DBLP": "journals/corr/DuvenaudMAGHAA15",
+        "MAG": "2173027866",
+        "ArXiv": "1509.09292",
+        "CorpusId": 1690180
+      },
+      "url": "https://www.semanticscholar.org/paper/5d1bfeed240709725c78bc72ea40e55410b373dc",
+      "title": "Convolutional Networks on Graphs for Learning Molecular Fingerprints",
+      "venue": "Neural Information Processing Systems",
+      "year": 2015,
+      "referenceCount": 31,
+      "citationCount": 3592,
+      "authors": [
+        {
+          "authorId": "1704657",
+          "name": "D. Duvenaud"
+        },
+        {
+          "authorId": "1683298",
+          "name": "D. Maclaurin"
+        },
+        {
+          "authorId": "1422175619",
+          "name": "J. Aguilera-Iparraguirre"
+        },
+        {
+          "authorId": "2344011563",
+          "name": "Rafael Gómez-Bombarelli"
+        },
+        {
+          "authorId": "145916942",
+          "name": "Timothy D. Hirzel"
+        },
+        {
+          "authorId": "1380248954",
+          "name": "Alán Aspuru-Guzik"
+        },
+        {
+          "authorId": "1722180",
+          "name": "Ryan P. Adams"
+        }
+      ]
+    },
+    {
+      "paperId": "81a4fd3004df0eb05d6c1cef96ad33d5407820df",
+      "externalIds": {
+        "DBLP": "journals/tnn/WuPCLZY21",
+        "MAG": "2907492528",
+        "ArXiv": "1901.00596",
+        "DOI": "10.1109/TNNLS.2020.2978386",
+        "CorpusId": 57375753,
+        "PubMed": "32217482"
+      },
+      "url": "https://www.semanticscholar.org/paper/81a4fd3004df0eb05d6c1cef96ad33d5407820df",
+      "title": "A Comprehensive Survey on Graph Neural Networks",
+      "venue": "IEEE Transactions on Neural Networks and Learning Systems",
+      "year": 2019,
+      "referenceCount": 207,
+      "citationCount": 10916,
+      "authors": [
+        {
+          "authorId": "2109557884",
+          "name": "Zonghan Wu"
+        },
+        {
+          "authorId": "2585415",
+          "name": "Shirui Pan"
+        },
+        {
+          "authorId": "31370754",
+          "name": "Fengwen Chen"
+        },
+        {
+          "authorId": "2062835",
+          "name": "Guodong Long"
+        },
+        {
+          "authorId": "48934799",
+          "name": "Chengqi Zhang"
+        },
+        {
+          "authorId": "144019071",
+          "name": "Philip S. Yu"
+        }
+      ]
+    }
+  ]
+}

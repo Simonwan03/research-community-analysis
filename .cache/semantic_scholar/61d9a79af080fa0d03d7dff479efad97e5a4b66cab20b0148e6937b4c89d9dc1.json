@@ -1,0 +1,270 @@
+{
+  "total": 9,
+  "offset": 0,
+  "data": [
+    {
+      "paperId": "bceccaddb385bb6613562d776eefbd04bfdd1572",
+      "externalIds": {
+        "MAG": "2953330839",
+        "DBLP": "conf/icml/WangZ018",
+        "CorpusId": 3338503
+      },
+      "url": "https://www.semanticscholar.org/paper/bceccaddb385bb6613562d776eefbd04bfdd1572",
+      "title": "Stein Variational Message Passing for Continuous Graphical Models",
+      "venue": "International Conference on Machine Learning",
+      "year": 2017,
+      "referenceCount": 26,
+      "citationCount": 53,
+      "authors": [
+        {
+          "authorId": "2848320",
+          "name": "Dilin Wang"
+        },
+        {
+          "authorId": "2047081394",
+          "name": "Zhe Zeng"
+        },
+        {
+          "authorId": "47362268",
+          "name": "Qiang Liu"
+        }
+      ]
+    },
+    {
+      "paperId": "1151b587baaa8cdae2806d0b629328fda72578ed",
+      "externalIds": {
+        "MAG": "2769671561",
+        "ArXiv": "1711.07168",
+        "DBLP": "journals/corr/abs-1711-07168",
+        "CorpusId": 28924187
+      },
+      "url": "https://www.semanticscholar.org/paper/1151b587baaa8cdae2806d0b629328fda72578ed",
+      "title": "Structured Stein Variational Inference for Continuous Graphical Models",
+      "venue": "arXiv.org",
+      "year": 2017,
+      "referenceCount": 27,
+      "citationCount": 4,
+      "authors": [
+        {
+          "authorId": "2848320",
+          "name": "Dilin Wang"
+        },
+        {
+          "authorId": "2047081394",
+          "name": "Zhe Zeng"
+        },
+        {
+          "authorId": "47362268",
+          "name": "Qiang Liu"
+        }
+      ]
+    },
+    {
+      "paperId": "f27e8595732b893dfa66dcb86ec2c4a99a504b18",
+      "externalIds": {
+        "MAG": "2953313806",
+        "DBLP": "conf/icml/ZhuoLSZCZ18",
+        "ArXiv": "1711.04425",
+        "CorpusId": 51877948
+      },
+      "url": "https://www.semanticscholar.org/paper/f27e8595732b893dfa66dcb86ec2c4a99a504b18",
+      "title": "Message Passing Stein Variational Gradient Descent",
+      "venue": "International Conference on Machine Learning",
+      "year": 2017,
+      "referenceCount": 38,
+      "citationCount": 102,
+      "authors": [
+        {
+          "authorId": "1883787",
+          "name": "Jingwei Zhuo"
+        },
+        {
+          "authorId": "2118485516",
+          "name": "Chang Liu"
+        },
+        {
+          "authorId": "1840138221",
+          "name": "Jiaxin Shi"
+        },
+        {
+          "authorId": "145254043",
+          "name": "Jun Zhu"
+        },
+        {
+          "authorId": "1406245631",
+          "name": "Ning Chen"
+        },
+        {
+          "authorId": null,
+          "name": "Bo Zhang"
+        }
+      ]
+    },
+    {
+      "paperId": "e4d97e1d1120e2126e7c6c6cb2894fa1ebe6f27c",
+      "externalIds": {
+        "MAG": "2184346291",
+        "CorpusId": 61207968
+      },
+      "url": "https://www.semanticscholar.org/paper/e4d97e1d1120e2126e7c6c6cb2894fa1ebe6f27c",
+      "title": "Variational message-passing: extension to continuous variables and applications in multi-target tracking",
+      "venue": "",
+      "year": 2013,
+      "referenceCount": 73,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "1740137",
+          "name": "A. Ihler"
+        },
+        {
+          "authorId": "50860274",
+          "name": "Padhraic Smyth"
+        },
+        {
+          "authorId": "2387177",
+          "name": "A. Frank"
+        }
+      ]
+    },
+    {
+      "paperId": "238b52a1ade952847be8b9f4dd4e0eae59256d9e",
+      "externalIds": {
+        "MAG": "600611274",
+        "ArXiv": "1506.03537",
+        "CorpusId": 88520054
+      },
+      "url": "https://www.semanticscholar.org/paper/238b52a1ade952847be8b9f4dd4e0eae59256d9e",
+      "title": "Exponential Series Approaches for Nonparametric Graphical Models",
+      "venue": "",
+      "year": 2015,
+      "referenceCount": 82,
+      "citationCount": 9,
+      "authors": [
+        {
+          "authorId": "30732241",
+          "name": "Eric Janofsky"
+        }
+      ]
+    },
+    {
+      "paperId": "1c167b1ce9928d46259937bb13dbc2c6ef7aed8f",
+      "externalIds": {
+        "PubMedCentral": "5798592",
+        "MAG": "2623066203",
+        "DOI": "10.1162/NETN_a_00018",
+        "CorpusId": 852931,
+        "PubMed": "29417960"
+      },
+      "url": "https://www.semanticscholar.org/paper/1c167b1ce9928d46259937bb13dbc2c6ef7aed8f",
+      "title": "The graphical brain: Belief propagation and active inference",
+      "venue": "Network Neuroscience",
+      "year": 2017,
+      "referenceCount": 118,
+      "citationCount": 377,
+      "authors": [
+        {
+          "authorId": "1737497",
+          "name": "Karl J. Friston"
+        },
+        {
+          "authorId": "47363526",
+          "name": "Thomas Parr"
+        },
+        {
+          "authorId": "121455925",
+          "name": "B. de Vries"
+        }
+      ]
+    },
+    {
+      "paperId": "476786dcdd5a3538dcf2bf3b2d2164c103aaec9a",
+      "externalIds": {
+        "DBLP": "phd/au/Li17b",
+        "MAG": "2809613443",
+        "CorpusId": 65507432
+      },
+      "url": "https://www.semanticscholar.org/paper/476786dcdd5a3538dcf2bf3b2d2164c103aaec9a",
+      "title": "Learning sparse graphical models for data restoration and multi-label classification",
+      "venue": "",
+      "year": 2017,
+      "referenceCount": 156,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2146262520",
+          "name": "Qiang Li"
+        }
+      ]
+    },
+    {
+      "paperId": "c4b67bf87d89fa7af1d12a04df2a0f1ea34937c6",
+      "externalIds": {
+        "MAG": "2606286888",
+        "ArXiv": "1704.01427",
+        "DBLP": "journals/corr/MasegosaMRCSNLM17",
+        "DOI": "10.1016/j.knosys.2018.09.019",
+        "CorpusId": 15212112
+      },
+      "url": "https://www.semanticscholar.org/paper/c4b67bf87d89fa7af1d12a04df2a0f1ea34937c6",
+      "title": "AMIDST: a Java Toolbox for Scalable Probabilistic Machine Learning",
+      "venue": "Knowledge-Based Systems",
+      "year": 2017,
+      "referenceCount": 30,
+      "citationCount": 21,
+      "authors": [
+        {
+          "authorId": "2687928",
+          "name": "A. Masegosa"
+        },
+        {
+          "authorId": "2202033112",
+          "name": "A. M. Mart'inez"
+        },
+        {
+          "authorId": "2082175143",
+          "name": "Dar'io Ramos-L'opez"
+        },
+        {
+          "authorId": "145902446",
+          "name": "Rafael Cabañas"
+        },
+        {
+          "authorId": "2064031694",
+          "name": "Antonio Salmer'on"
+        },
+        {
+          "authorId": "145830646",
+          "name": "Thomas D. Nielsen"
+        },
+        {
+          "authorId": "3310967",
+          "name": "H. Langseth"
+        },
+        {
+          "authorId": "144880939",
+          "name": "A. Madsen"
+        }
+      ]
+    },
+    {
+      "paperId": "14b61d19ef8193c0eb9cba33501f9e667fc33008",
+      "externalIds": {
+        "MAG": "2104914820",
+        "CorpusId": 15872032
+      },
+      "url": "https://www.semanticscholar.org/paper/14b61d19ef8193c0eb9cba33501f9e667fc33008",
+      "title": "Expectation Propagation in Factor Graphs: A Tutorial",
+      "venue": "",
+      "year": 2005,
+      "referenceCount": 8,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "37210858",
+          "name": "Charles Sutton"
+        }
+      ]
+    }
+  ]
+}

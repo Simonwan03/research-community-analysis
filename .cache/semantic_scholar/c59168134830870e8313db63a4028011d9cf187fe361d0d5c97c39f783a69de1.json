@@ -1,0 +1,322 @@
+{
+  "total": 10,
+  "offset": 0,
+  "data": [
+    {
+      "paperId": "4d8f2d14af5991d4f0d050d22216825cac3157bd",
+      "externalIds": {
+        "MAG": "2950178297",
+        "DBLP": "conf/icml/XuBKCCSZB15",
+        "ArXiv": "1502.03044",
+        "CorpusId": 1055111
+      },
+      "url": "https://www.semanticscholar.org/paper/4d8f2d14af5991d4f0d050d22216825cac3157bd",
+      "title": "Show, Attend and Tell: Neural Image Caption Generation with Visual Attention",
+      "venue": "International Conference on Machine Learning",
+      "year": 2015,
+      "referenceCount": 54,
+      "citationCount": 10743,
+      "authors": [
+        {
+          "authorId": "2117101253",
+          "name": "Ke Xu"
+        },
+        {
+          "authorId": "2503659",
+          "name": "Jimmy Ba"
+        },
+        {
+          "authorId": "3450996",
+          "name": "Ryan Kiros"
+        },
+        {
+          "authorId": "1979489",
+          "name": "Kyunghyun Cho"
+        },
+        {
+          "authorId": "1760871",
+          "name": "Aaron C. Courville"
+        },
+        {
+          "authorId": "145124475",
+          "name": "R. Salakhutdinov"
+        },
+        {
+          "authorId": "1804104",
+          "name": "R. Zemel"
+        },
+        {
+          "authorId": "1751762",
+          "name": "Yoshua Bengio"
+        }
+      ]
+    },
+    {
+      "paperId": "410f59b810e2a4d18ca04b1411fc7805e0d6bc37",
+      "externalIds": {
+        "DOI": "10.1088/1742-6596/2589/1/012012",
+        "CorpusId": 262709905
+      },
+      "url": "https://www.semanticscholar.org/paper/410f59b810e2a4d18ca04b1411fc7805e0d6bc37",
+      "title": "Reproducing “Show, Attend and Tell: Neural Image Caption Generation with Visual Attention”",
+      "venue": "Journal of Physics: Conference Series",
+      "year": 2023,
+      "referenceCount": 14,
+      "citationCount": 11,
+      "authors": [
+        {
+          "authorId": "2246696076",
+          "name": "Haixia Liu"
+        },
+        {
+          "authorId": "2246899105",
+          "name": "Tim J. Brailsford"
+        }
+      ]
+    },
+    {
+      "paperId": "b8d7621409084f74bb00fdd2d5881b7c8b4e8497",
+      "externalIds": {
+        "ArXiv": "2307.07370",
+        "DBLP": "journals/corr/abs-2307-07370",
+        "DOI": "10.48550/arXiv.2307.07370",
+        "CorpusId": 259924632
+      },
+      "url": "https://www.semanticscholar.org/paper/b8d7621409084f74bb00fdd2d5881b7c8b4e8497",
+      "title": "AIC-AB NET: A Neural Network for Image Captioning with Spatial Attention and Text Attributes",
+      "venue": "arXiv.org",
+      "year": 2023,
+      "referenceCount": 23,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "2134743596",
+          "name": "Guoyun Tu"
+        },
+        {
+          "authorId": "2155355840",
+          "name": "Ying Liu"
+        },
+        {
+          "authorId": "145852480",
+          "name": "Vladimir Vlassov"
+        }
+      ]
+    },
+    {
+      "paperId": "814cfb898aa0bd011a97ebcf1774e42c32cf469e",
+      "externalIds": {
+        "DBLP": "journals/mta/ZhangTSXZ21",
+        "MAG": "3014001464",
+        "DOI": "10.1007/s11042-020-08832-7",
+        "CorpusId": 214647826
+      },
+      "url": "https://www.semanticscholar.org/paper/814cfb898aa0bd011a97ebcf1774e42c32cf469e",
+      "title": "Tell and guess: cooperative learning for natural image caption generation with hierarchical refined attention",
+      "venue": "Multimedia tools and applications",
+      "year": 2020,
+      "referenceCount": 50,
+      "citationCount": 26,
+      "authors": [
+        {
+          "authorId": "2108125912",
+          "name": "Wenqiao Zhang"
+        },
+        {
+          "authorId": "1774936",
+          "name": "Siliang Tang"
+        },
+        {
+          "authorId": "2152771604",
+          "name": "Jiajie Su"
+        },
+        {
+          "authorId": "145974111",
+          "name": "Jun Xiao"
+        },
+        {
+          "authorId": "2125211",
+          "name": "Yueting Zhuang"
+        }
+      ]
+    },
+    {
+      "paperId": "b4ae889c38444939ae4312ab38bf7036f6df739f",
+      "externalIds": {
+        "DBLP": "conf/ijcai/ChenDLZH18",
+        "MAG": "2808138519",
+        "DOI": "10.24963/ijcai.2018/84",
+        "CorpusId": 51605937
+      },
+      "url": "https://www.semanticscholar.org/paper/b4ae889c38444939ae4312ab38bf7036f6df739f",
+      "title": "Show, Observe and Tell: Attribute-driven Attention Model for Image Captioning",
+      "venue": "International Joint Conference on Artificial Intelligence",
+      "year": 2018,
+      "referenceCount": 27,
+      "citationCount": 65,
+      "authors": [
+        {
+          "authorId": "2155552964",
+          "name": "Hui Chen"
+        },
+        {
+          "authorId": "38329336",
+          "name": "Guiguang Ding"
+        },
+        {
+          "authorId": "1818920",
+          "name": "Zijia Lin"
+        },
+        {
+          "authorId": "1755487",
+          "name": "Sicheng Zhao"
+        },
+        {
+          "authorId": "1783847",
+          "name": "J. Han"
+        }
+      ]
+    },
+    {
+      "paperId": "2c5f164f2f5321e8ab197dbf2d2e3cb011368eee",
+      "externalIds": {
+        "CorpusId": 250185113
+      },
+      "url": "https://www.semanticscholar.org/paper/2c5f164f2f5321e8ab197dbf2d2e3cb011368eee",
+      "title": "FORCED ATTENTION FOR IMAGE CAPTIONING",
+      "venue": "",
+      "year": 2018,
+      "referenceCount": 68,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "1396885222",
+          "name": "H. Devarapalli"
+        }
+      ]
+    },
+    {
+      "paperId": "31c8f1f728df2cfea5d0a9dda67a27de82f5a879",
+      "externalIds": {
+        "MAG": "2559780844",
+        "DBLP": "conf/aaai/LiuFMC17",
+        "DOI": "10.1609/aaai.v31i1.10760",
+        "CorpusId": 11665838
+      },
+      "url": "https://www.semanticscholar.org/paper/31c8f1f728df2cfea5d0a9dda67a27de82f5a879",
+      "title": "Let Your Photos Talk: Generating Narrative Paragraph for Photo Stream via Bidirectional Attention Recurrent Neural Networks",
+      "venue": "AAAI Conference on Artificial Intelligence",
+      "year": 2017,
+      "referenceCount": 33,
+      "citationCount": 68,
+      "authors": [
+        {
+          "authorId": "2146401839",
+          "name": "Yu Liu"
+        },
+        {
+          "authorId": "3247966",
+          "name": "Jianlong Fu"
+        },
+        {
+          "authorId": "144025741",
+          "name": "Tao Mei"
+        },
+        {
+          "authorId": "2118430214",
+          "name": "C. Chen"
+        }
+      ]
+    },
+    {
+      "paperId": "b4d9b7960495f5218cc7a612bc579d214fad6e0b",
+      "externalIds": {
+        "DOI": "10.51244/ijrsi.2023.1011054",
+        "CorpusId": 266530771
+      },
+      "url": "https://www.semanticscholar.org/paper/b4d9b7960495f5218cc7a612bc579d214fad6e0b",
+      "title": "A Deep Learning Model to Generate Image Captions",
+      "venue": "International journal of research and scientific innovation",
+      "year": 2023,
+      "referenceCount": 0,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2220783264",
+          "name": "Shashank Parmar"
+        },
+        {
+          "authorId": "2276240340",
+          "name": "Raman Tyagi"
+        },
+        {
+          "authorId": "2276272928",
+          "name": "Prince Kumar Dhankar"
+        }
+      ]
+    },
+    {
+      "paperId": "e6b2728a7d0677e045a50203b574ea569a20cdf2",
+      "externalIds": {
+        "DBLP": "journals/cogcom/KhurramFSR21",
+        "MAG": "2990158537",
+        "DOI": "10.1007/s12559-019-09697-1",
+        "CorpusId": 211574169
+      },
+      "url": "https://www.semanticscholar.org/paper/e6b2728a7d0677e045a50203b574ea569a20cdf2",
+      "title": "Dense-CaptionNet: a Sentence Generation Architecture for Fine-grained Description of Image Semantics",
+      "venue": "Cognitive Computation",
+      "year": 2020,
+      "referenceCount": 52,
+      "citationCount": 14,
+      "authors": [
+        {
+          "authorId": "2065272062",
+          "name": "I. Khurram"
+        },
+        {
+          "authorId": "1756409",
+          "name": "M. Fraz"
+        },
+        {
+          "authorId": "1380493607",
+          "name": "M. Shahzad"
+        },
+        {
+          "authorId": "2229652",
+          "name": "N. Rajpoot"
+        }
+      ]
+    },
+    {
+      "paperId": "b2e65f5dc2889845706555bc6b66aa42f60346a9",
+      "externalIds": {
+        "CorpusId": 41571261
+      },
+      "url": "https://www.semanticscholar.org/paper/b2e65f5dc2889845706555bc6b66aa42f60346a9",
+      "title": "Talk : Generating Narrative Paragraph for Photo Stream via Bidirectional Attention Recurrent Neural Networks",
+      "venue": "",
+      "year": null,
+      "referenceCount": 32,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2146401839",
+          "name": "Yu Liu"
+        },
+        {
+          "authorId": "3247966",
+          "name": "Jianlong Fu"
+        },
+        {
+          "authorId": "144025741",
+          "name": "Tao Mei"
+        },
+        {
+          "authorId": "2118430214",
+          "name": "C. Chen"
+        }
+      ]
+    }
+  ]
+}

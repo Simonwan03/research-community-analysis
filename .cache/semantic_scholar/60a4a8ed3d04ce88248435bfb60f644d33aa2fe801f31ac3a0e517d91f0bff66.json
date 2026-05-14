@@ -1,0 +1,325 @@
+{
+  "total": 2064,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "4bdf72818dd7235637c01f0964c56776e54fd9bb",
+      "externalIds": {
+        "MAG": "2765170276",
+        "DBLP": "conf/icml/LianZZL18",
+        "ArXiv": "1710.06952",
+        "CorpusId": 22451897
+      },
+      "url": "https://www.semanticscholar.org/paper/4bdf72818dd7235637c01f0964c56776e54fd9bb",
+      "title": "Asynchronous Decentralized Parallel Stochastic Gradient Descent",
+      "venue": "International Conference on Machine Learning",
+      "year": 2017,
+      "referenceCount": 59,
+      "citationCount": 548,
+      "authors": [
+        {
+          "authorId": "2922996",
+          "name": "Xiangru Lian"
+        },
+        {
+          "authorId": null,
+          "name": "Wei Zhang"
+        },
+        {
+          "authorId": "1776014",
+          "name": "Ce Zhang"
+        },
+        {
+          "authorId": "40478933",
+          "name": "Ji Liu"
+        }
+      ]
+    },
+    {
+      "paperId": "c3e4d69db3c10121d2e0bf33f3faad9d29dbd58d",
+      "externalIds": {
+        "MAG": "3080615639",
+        "DBLP": "journals/corr/abs-2008-09246",
+        "ArXiv": "2008.09246",
+        "DOI": "10.1109/TPAMI.2021.3107796",
+        "CorpusId": 221246251,
+        "PubMed": "34449356"
+      },
+      "url": "https://www.semanticscholar.org/paper/c3e4d69db3c10121d2e0bf33f3faad9d29dbd58d",
+      "title": "A(DP)<inline-formula><tex-math notation=\"LaTeX\">$^2$</tex-math><alternatives><mml:math><mml:msup><mml:mrow/><mml:mn>2</mml:mn></mml:msup></mml:math><inline-graphic xlink:href=\"xu-ieq1-3107796.gif\"/></alternatives></inline-formula>SGD: Asynchronous Decentralized Parallel Stochastic Gradient Descent W",
+      "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+      "year": 2020,
+      "referenceCount": 48,
+      "citationCount": 12,
+      "authors": [
+        {
+          "authorId": "2111063005",
+          "name": "Jie Xu"
+        },
+        {
+          "authorId": "31765881",
+          "name": "Wei Zhang"
+        },
+        {
+          "authorId": "2148956216",
+          "name": "Fei Wang"
+        }
+      ]
+    },
+    {
+      "paperId": "869844d655435d6f2ad12c73297f3bab050dcd84",
+      "externalIds": {
+        "CorpusId": 260426167
+      },
+      "url": "https://www.semanticscholar.org/paper/869844d655435d6f2ad12c73297f3bab050dcd84",
+      "title": "Asynchronous Decentralized Parallel Stochastic Gradient Descent A Wait-free ( continuous ) training and communication",
+      "venue": "",
+      "year": null,
+      "referenceCount": 0,
+      "citationCount": 0,
+      "authors": []
+    },
+    {
+      "paperId": "eef3fe88086ed955d17033538ac1cbdbcd7187f6",
+      "externalIds": {
+        "DBLP": "journals/kbs/BuyukkayaKA24",
+        "DOI": "10.1016/j.knosys.2023.111176",
+        "CorpusId": 259855454
+      },
+      "url": "https://www.semanticscholar.org/paper/eef3fe88086ed955d17033538ac1cbdbcd7187f6",
+      "title": "Stochastic Gradient Descent for matrix completion: Hybrid parallelization on shared- and distributed-memory systems",
+      "venue": "Knowledge-Based Systems",
+      "year": 2024,
+      "referenceCount": 51,
+      "citationCount": 5,
+      "authors": [
+        {
+          "authorId": "2223039829",
+          "name": "Kemal Büyükkaya"
+        },
+        {
+          "authorId": "3401573",
+          "name": "M. O. Karsavuran"
+        },
+        {
+          "authorId": "1731638",
+          "name": "C. Aykanat"
+        }
+      ]
+    },
+    {
+      "paperId": "48dfe11a38b0c13542ac3d94953ec7a7c44b89ff",
+      "externalIds": {
+        "DBLP": "journals/tpds/LiPGLY22",
+        "DOI": "10.1109/TPDS.2022.3151739",
+        "CorpusId": 246909023
+      },
+      "url": "https://www.semanticscholar.org/paper/48dfe11a38b0c13542ac3d94953ec7a7c44b89ff",
+      "title": "Predicting Throughput of Distributed Stochastic Gradient Descent",
+      "venue": "IEEE Transactions on Parallel and Distributed Systems",
+      "year": 2022,
+      "referenceCount": 42,
+      "citationCount": 4,
+      "authors": [
+        {
+          "authorId": "22224102",
+          "name": "Zhuojin Li"
+        },
+        {
+          "authorId": "1767205",
+          "name": "Marco Paolieri"
+        },
+        {
+          "authorId": "1752576",
+          "name": "L. Golubchik"
+        },
+        {
+          "authorId": "2718589",
+          "name": "Sung-Han Lin"
+        },
+        {
+          "authorId": "1406067220",
+          "name": "Wumo Yan"
+        }
+      ]
+    },
+    {
+      "paperId": "6dbccce17e46b15b3f49cb37170f92bf0984275b",
+      "externalIds": {
+        "DBLP": "journals/taslp/CuiZKLFKSK21",
+        "ArXiv": "2110.11199",
+        "DOI": "10.1109/taslp.2021.3122349",
+        "CorpusId": 239049851
+      },
+      "url": "https://www.semanticscholar.org/paper/6dbccce17e46b15b3f49cb37170f92bf0984275b",
+      "title": "Asynchronous Decentralized Distributed Training of Acoustic Models",
+      "venue": "IEEE/ACM Transactions on Audio Speech and Language Processing",
+      "year": 2021,
+      "referenceCount": 47,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "2114347016",
+          "name": "Xiaodong Cui"
+        },
+        {
+          "authorId": "31765881",
+          "name": "Wei Zhang"
+        },
+        {
+          "authorId": "1759245",
+          "name": "Abdullah Kayi"
+        },
+        {
+          "authorId": "2369218515",
+          "name": "Mingrui Liu"
+        },
+        {
+          "authorId": "1727959",
+          "name": "Ulrich Finkler"
+        },
+        {
+          "authorId": "144707379",
+          "name": "Brian Kingsbury"
+        },
+        {
+          "authorId": "1698208",
+          "name": "G. Saon"
+        },
+        {
+          "authorId": "40831427",
+          "name": "David S. Kung"
+        }
+      ]
+    },
+    {
+      "paperId": "08c9200e6bc8e2cfe380fafa577e06d96b952e9f",
+      "externalIds": {
+        "ArXiv": "2210.14026",
+        "DBLP": "journals/corr/abs-2210-14026",
+        "DOI": "10.48550/arXiv.2210.14026",
+        "CorpusId": 253107515
+      },
+      "url": "https://www.semanticscholar.org/paper/08c9200e6bc8e2cfe380fafa577e06d96b952e9f",
+      "title": "SWIFT: Rapid Decentralized Federated Learning via Wait-Free Model Communication",
+      "venue": "International Conference on Learning Representations",
+      "year": 2022,
+      "referenceCount": 39,
+      "citationCount": 29,
+      "authors": [
+        {
+          "authorId": "104055943",
+          "name": "Marco Bornstein"
+        },
+        {
+          "authorId": "71520803",
+          "name": "Tahseen Rabbani"
+        },
+        {
+          "authorId": "153581393",
+          "name": "Evana Wang"
+        },
+        {
+          "authorId": "3387859",
+          "name": "A. S. Bedi"
+        },
+        {
+          "authorId": "2117426487",
+          "name": "Furong Huang"
+        }
+      ]
+    },
+    {
+      "paperId": "2770af2c74f9b82f2167cf5773ccc94d482ac8d4",
+      "externalIds": {
+        "ArXiv": "1611.09726",
+        "MAG": "2558946687",
+        "DBLP": "journals/corr/BlotPCT16",
+        "CorpusId": 11058126
+      },
+      "url": "https://www.semanticscholar.org/paper/2770af2c74f9b82f2167cf5773ccc94d482ac8d4",
+      "title": "Gossip training for deep learning",
+      "venue": "arXiv.org",
+      "year": 2016,
+      "referenceCount": 15,
+      "citationCount": 119,
+      "authors": [
+        {
+          "authorId": "34804229",
+          "name": "Michael Blot"
+        },
+        {
+          "authorId": "145897899",
+          "name": "David Picard"
+        },
+        {
+          "authorId": "51021910",
+          "name": "M. Cord"
+        },
+        {
+          "authorId": "1728523",
+          "name": "Nicolas Thomé"
+        }
+      ]
+    },
+    {
+      "paperId": "330df87a8af02ad03584ab1c58982d5c82639650",
+      "externalIds": {
+        "MAG": "3031701359",
+        "DOI": "10.1007/978-981-15-2910-8_6",
+        "CorpusId": 219885097
+      },
+      "url": "https://www.semanticscholar.org/paper/330df87a8af02ad03584ab1c58982d5c82639650",
+      "title": "Accelerated Parallel Algorithms",
+      "venue": "",
+      "year": 2020,
+      "referenceCount": 25,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "33383055",
+          "name": "Zhouchen Lin"
+        },
+        {
+          "authorId": "3092681",
+          "name": "Huan Li"
+        },
+        {
+          "authorId": "47967033",
+          "name": "Cong Fang"
+        }
+      ]
+    },
+    {
+      "paperId": "dcd206eb55da934f996b7ab5740f2a3630e1501e",
+      "externalIds": {
+        "MAG": "2795530494",
+        "ArXiv": "1804.01852",
+        "DBLP": "journals/corr/abs-1804-01852",
+        "DOI": "10.1016/J.NEUCOM.2018.11.002",
+        "CorpusId": 4663702
+      },
+      "url": "https://www.semanticscholar.org/paper/dcd206eb55da934f996b7ab5740f2a3630e1501e",
+      "title": "GoSGD: Distributed Optimization for Deep Learning with Gossip Exchange",
+      "venue": "Neurocomputing",
+      "year": 2018,
+      "referenceCount": 27,
+      "citationCount": 47,
+      "authors": [
+        {
+          "authorId": "34804229",
+          "name": "Michael Blot"
+        },
+        {
+          "authorId": "145897899",
+          "name": "David Picard"
+        },
+        {
+          "authorId": "51021910",
+          "name": "M. Cord"
+        }
+      ]
+    }
+  ]
+}

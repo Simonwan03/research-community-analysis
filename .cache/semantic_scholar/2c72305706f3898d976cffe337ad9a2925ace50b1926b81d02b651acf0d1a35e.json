@@ -1,0 +1,356 @@
+{
+  "total": 140,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "217d17ea1d304981782976aefbe295f0ebb77213",
+      "externalIds": {
+        "DBLP": "conf/icml/SharchilevUSR18",
+        "MAG": "2789025669",
+        "ArXiv": "1802.06640",
+        "CorpusId": 3616082
+      },
+      "url": "https://www.semanticscholar.org/paper/217d17ea1d304981782976aefbe295f0ebb77213",
+      "title": "Finding Influential Training Samples for Gradient Boosted Decision Trees",
+      "venue": "International Conference on Machine Learning",
+      "year": 2018,
+      "referenceCount": 24,
+      "citationCount": 63,
+      "authors": [
+        {
+          "authorId": "3414812",
+          "name": "B. Sharchilev"
+        },
+        {
+          "authorId": "2361592",
+          "name": "Yury Ustinovsky"
+        },
+        {
+          "authorId": "1708801",
+          "name": "P. Serdyukov"
+        },
+        {
+          "authorId": "1696030",
+          "name": "M. de Rijke"
+        }
+      ]
+    },
+    {
+      "paperId": "dbd5284625dff489b35fa65f3574a97d78db8b7f",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2205-00359",
+        "ArXiv": "2205.00359",
+        "DOI": "10.48550/arXiv.2205.00359",
+        "CorpusId": 248496149
+      },
+      "url": "https://www.semanticscholar.org/paper/dbd5284625dff489b35fa65f3574a97d78db8b7f",
+      "title": "Adapting and Evaluating Influence-Estimation Methods for Gradient-Boosted Decision Trees",
+      "venue": "Journal of machine learning research",
+      "year": 2022,
+      "referenceCount": 90,
+      "citationCount": 30,
+      "authors": [
+        {
+          "authorId": "2086165914",
+          "name": "Jonathan Brophy"
+        },
+        {
+          "authorId": "37882247",
+          "name": "Zayd Hammoudeh"
+        },
+        {
+          "authorId": "3021654",
+          "name": "Daniel Lowd"
+        }
+      ]
+    },
+    {
+      "paperId": "7de096f1a274456c53f2e0fc68e7d7ecd09efa0d",
+      "externalIds": {
+        "DBLP": "conf/iccae/CapoquianGC25",
+        "DOI": "10.1109/ICCAE64891.2025.10980599",
+        "CorpusId": 278431924
+      },
+      "url": "https://www.semanticscholar.org/paper/7de096f1a274456c53f2e0fc68e7d7ecd09efa0d",
+      "title": "Classification of Animal and Plant-Based Edible Oils with Electronic Nose Using Extreme Gradient-Boosted Decision Tree",
+      "venue": "International Conference on Computer and Automation Engineering",
+      "year": 2025,
+      "referenceCount": 12,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2359829116",
+          "name": "Reji T. Capoquian"
+        },
+        {
+          "authorId": "2364884041",
+          "name": "Rance Jacob L. De Guzman"
+        },
+        {
+          "authorId": "83302931",
+          "name": "M. V. Caya"
+        }
+      ]
+    },
+    {
+      "paperId": "8e2a5bc375d62e186a99d2729b550465835e9e29",
+      "externalIds": {
+        "DOI": "10.3390/bs16040576",
+        "CorpusId": 287452115
+      },
+      "url": "https://www.semanticscholar.org/paper/8e2a5bc375d62e186a99d2729b550465835e9e29",
+      "title": "Random Forest Predicts Human Ratings of Creative Stories Using Very Small Training Samples",
+      "venue": "Behavioral Science",
+      "year": 2026,
+      "referenceCount": 40,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "3473862",
+          "name": "B. Barbot"
+        },
+        {
+          "authorId": "2429503532",
+          "name": "Thomas Calogero Kiekens"
+        }
+      ]
+    },
+    {
+      "paperId": "6cd28b985ee802df8d2ca49fe7c0f8c49faff07c",
+      "externalIds": {
+        "DOI": "10.1016/j.egyr.2022.02.244",
+        "CorpusId": 247391816
+      },
+      "url": "https://www.semanticscholar.org/paper/6cd28b985ee802df8d2ca49fe7c0f8c49faff07c",
+      "title": "Output prediction of alpha-type Stirling engines using gradient boosted regression trees and corresponding heat recovery system optimization based on improved NSGA-II",
+      "venue": "Energy Reports",
+      "year": 2022,
+      "referenceCount": 28,
+      "citationCount": 7,
+      "authors": [
+        {
+          "authorId": "2144171047",
+          "name": "Jiying Chen"
+        },
+        {
+          "authorId": "2158516667",
+          "name": "Zedong Chu"
+        },
+        {
+          "authorId": "2114011882",
+          "name": "Rui Zhao"
+        },
+        {
+          "authorId": "2158541997",
+          "name": "Alexander F. Luo"
+        },
+        {
+          "authorId": "5547141",
+          "name": "K. Luo"
+        }
+      ]
+    },
+    {
+      "paperId": "c6d7d467a361f1e734f4e273ea8d4dad9653238a",
+      "externalIds": {
+        "PubMedCentral": "12660672",
+        "DOI": "10.1038/s41598-025-26344-y",
+        "CorpusId": 283282853,
+        "PubMed": "41309801"
+      },
+      "url": "https://www.semanticscholar.org/paper/c6d7d467a361f1e734f4e273ea8d4dad9653238a",
+      "title": "Construction of the prediction model and analysis of key winning factors in world women’s volleyball using gradient boosting decision tree",
+      "venue": "Scientific Reports",
+      "year": 2025,
+      "referenceCount": 60,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2394529265",
+          "name": "Zhi Ming"
+        },
+        {
+          "authorId": "2376058262",
+          "name": "Zongqiang Jin"
+        }
+      ]
+    },
+    {
+      "paperId": "497e4b08279d69513e4d2313a7fd9a55dfb73273",
+      "externalIds": {
+        "DBLP": "conf/nips/KeMFWCMYL17",
+        "MAG": "2753094203",
+        "CorpusId": 3815895
+      },
+      "url": "https://www.semanticscholar.org/paper/497e4b08279d69513e4d2313a7fd9a55dfb73273",
+      "title": "LightGBM: A Highly Efficient Gradient Boosting Decision Tree",
+      "venue": "Neural Information Processing Systems",
+      "year": 2017,
+      "referenceCount": 32,
+      "citationCount": 14090,
+      "authors": [
+        {
+          "authorId": "35286545",
+          "name": "Guolin Ke"
+        },
+        {
+          "authorId": "47580728",
+          "name": "Qi Meng"
+        },
+        {
+          "authorId": "50256971",
+          "name": "Thomas Finley"
+        },
+        {
+          "authorId": null,
+          "name": "Taifeng Wang"
+        },
+        {
+          "authorId": null,
+          "name": "Wei Chen"
+        },
+        {
+          "authorId": "3029546",
+          "name": "Weidong Ma"
+        },
+        {
+          "authorId": "3006308",
+          "name": "Qiwei Ye"
+        },
+        {
+          "authorId": "2110264337",
+          "name": "Tie-Yan Liu"
+        }
+      ]
+    },
+    {
+      "paperId": "bc9645667348431db7da250600cf1fc396c5ff4d",
+      "externalIds": {
+        "DOI": "10.1177/01445987251359321",
+        "CorpusId": 280310060
+      },
+      "url": "https://www.semanticscholar.org/paper/bc9645667348431db7da250600cf1fc396c5ff4d",
+      "title": "Accurate modeling of biochar yield based on proximate analysis",
+      "venue": "Energy Exploration &amp; Exploitation",
+      "year": 2025,
+      "referenceCount": 77,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2362135042",
+          "name": "Walid Abdelfattah"
+        },
+        {
+          "authorId": "2326050644",
+          "name": "M. Abosaoda"
+        },
+        {
+          "authorId": "9315737",
+          "name": "Krunal Vaghela"
+        },
+        {
+          "authorId": "2228575711",
+          "name": "Gowrishankar J"
+        },
+        {
+          "authorId": "3121172",
+          "name": "P. Sahu"
+        },
+        {
+          "authorId": "70501211",
+          "name": "K. Singh"
+        },
+        {
+          "authorId": "2363070030",
+          "name": "R. Sivaranjani"
+        },
+        {
+          "authorId": "2345556837",
+          "name": "Samim Sherzod"
+        }
+      ]
+    },
+    {
+      "paperId": "b9a3b95ee3e21f7f5ca287fd52dea3ff2ed85c75",
+      "externalIds": {
+        "DOI": "10.1109/ICCCE66530.2025.11474094",
+        "CorpusId": 287546508
+      },
+      "url": "https://www.semanticscholar.org/paper/b9a3b95ee3e21f7f5ca287fd52dea3ff2ed85c75",
+      "title": "Advanced Uses of Generative Adversarial Networks (GANs) for Class Imbalance in Machine Learning",
+      "venue": "International Conference on Computer and Communication Engineering",
+      "year": 2025,
+      "referenceCount": 34,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2361532326",
+          "name": "R. Ruslan"
+        },
+        {
+          "authorId": "2430083983",
+          "name": "Nureize Arabiy"
+        },
+        {
+          "authorId": "2257965032",
+          "name": "Pei-Chun Lin"
+        }
+      ]
+    },
+    {
+      "paperId": "66f422bc6790544840ecf75dadc6a9a7861dcb4c",
+      "externalIds": {
+        "DBLP": "journals/midm/LiuKMPWCPEE25",
+        "PubMedCentral": "12661835",
+        "DOI": "10.1186/s12911-025-03266-3",
+        "CorpusId": 283293396,
+        "PubMed": "41316099"
+      },
+      "url": "https://www.semanticscholar.org/paper/66f422bc6790544840ecf75dadc6a9a7861dcb4c",
+      "title": "Augmenting small tabular health data for training prognostic ensemble machine learning models using generative models",
+      "venue": "BMC Medical Informatics and Decision Making",
+      "year": 2025,
+      "referenceCount": 168,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2344196085",
+          "name": "Dan Liu"
+        },
+        {
+          "authorId": "116837255",
+          "name": "Samer El Kababji"
+        },
+        {
+          "authorId": "2268474248",
+          "name": "Nicholas Mitsakakis"
+        },
+        {
+          "authorId": "2336221565",
+          "name": "Lisa Pilgram"
+        },
+        {
+          "authorId": "2343502203",
+          "name": "Thomas Walters"
+        },
+        {
+          "authorId": "2343504964",
+          "name": "Mark Clemons"
+        },
+        {
+          "authorId": "2255760399",
+          "name": "G. Pond"
+        },
+        {
+          "authorId": "2289675926",
+          "name": "Alaa El-Hussuna"
+        },
+        {
+          "authorId": "2239231778",
+          "name": "K. E. Emam"
+        }
+      ]
+    }
+  ]
+}

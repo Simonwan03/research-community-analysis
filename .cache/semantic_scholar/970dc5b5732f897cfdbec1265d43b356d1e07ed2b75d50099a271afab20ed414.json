@@ -1,0 +1,252 @@
+{
+  "total": 15,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "8ec6ccaea6dd637c7ae3dbb0660988e1f06af894",
+      "externalIds": {
+        "MAG": "2950066488",
+        "ArXiv": "1703.02721",
+        "DBLP": "conf/icml/KhannaEDGN17",
+        "CorpusId": 3052602
+      },
+      "url": "https://www.semanticscholar.org/paper/8ec6ccaea6dd637c7ae3dbb0660988e1f06af894",
+      "title": "On Approximation Guarantees for Greedy Low Rank Optimization",
+      "venue": "International Conference on Machine Learning",
+      "year": 2017,
+      "referenceCount": 37,
+      "citationCount": 24,
+      "authors": [
+        {
+          "authorId": "6812421",
+          "name": "Rajiv Khanna"
+        },
+        {
+          "authorId": "2157209",
+          "name": "Ethan R. Elenberg"
+        },
+        {
+          "authorId": "1718469",
+          "name": "A. Dimakis"
+        },
+        {
+          "authorId": "1379535322",
+          "name": "J. Ghosh"
+        },
+        {
+          "authorId": "145537739",
+          "name": "S. Negahban"
+        }
+      ]
+    },
+    {
+      "paperId": "f352ef372010a86288c666d8f2fbba14a215729c",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2507-01841",
+        "ArXiv": "2507.01841",
+        "DOI": "10.1109/TSP.2026.3671460",
+        "CorpusId": 280069827
+      },
+      "url": "https://www.semanticscholar.org/paper/f352ef372010a86288c666d8f2fbba14a215729c",
+      "title": "Automatic Rank Determination for Low-Rank Adaptation via Submodular Function Maximization",
+      "venue": "IEEE Transactions on Signal Processing",
+      "year": 2025,
+      "referenceCount": 59,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2325234734",
+          "name": "Yihang Gao"
+        },
+        {
+          "authorId": "2325149458",
+          "name": "Vincent Y. F. Tan"
+        }
+      ]
+    },
+    {
+      "paperId": "3a73ff6f17d351c9811bd45c11055bd66169f7aa",
+      "externalIds": {
+        "MAG": "2997453817",
+        "DBLP": "journals/corr/abs-1912-11931",
+        "ArXiv": "1912.11931",
+        "CorpusId": 209501120
+      },
+      "url": "https://www.semanticscholar.org/paper/3a73ff6f17d351c9811bd45c11055bd66169f7aa",
+      "title": "Sparse Optimization on General Atomic Sets: Greedy and Forward-Backward Algorithms",
+      "venue": "arXiv.org",
+      "year": 2019,
+      "referenceCount": 36,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2109987266",
+          "name": "Thomas Zhang"
+        }
+      ]
+    },
+    {
+      "paperId": "e186852d867a28cd7d486251cbf9a212b224d93e",
+      "externalIds": {
+        "MAG": "2952715633",
+        "DBLP": "journals/corr/abs-1106-1622",
+        "ArXiv": "1106.1622",
+        "CorpusId": 10218794
+      },
+      "url": "https://www.semanticscholar.org/paper/e186852d867a28cd7d486251cbf9a212b224d93e",
+      "title": "Large-Scale Convex Minimization with a Low-Rank Constraint",
+      "venue": "International Conference on Machine Learning",
+      "year": 2011,
+      "referenceCount": 30,
+      "citationCount": 160,
+      "authors": [
+        {
+          "authorId": "1389955537",
+          "name": "S. Shalev-Shwartz"
+        },
+        {
+          "authorId": "40048435",
+          "name": "Alon Gonen"
+        },
+        {
+          "authorId": "1768909",
+          "name": "Ohad Shamir"
+        }
+      ]
+    },
+    {
+      "paperId": "882ad3ac5c0f35ae6e7366bf243767e3b4da25da",
+      "externalIds": {
+        "MAG": "2741193109",
+        "CorpusId": 126063224
+      },
+      "url": "https://www.semanticscholar.org/paper/882ad3ac5c0f35ae6e7366bf243767e3b4da25da",
+      "title": "Convex Optimization without Projection Steps with Applications to Sparse and Low Rank Approximation",
+      "venue": "",
+      "year": 2011,
+      "referenceCount": 67,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2456863",
+          "name": "Martin Jaggi"
+        }
+      ]
+    },
+    {
+      "paperId": "73e754d163af1cbd7b60a123add16ce3b0c55a30",
+      "externalIds": {
+        "MAG": "2952893801",
+        "ArXiv": "1407.0088",
+        "DBLP": "journals/tit/NguyenNW17",
+        "DOI": "10.1109/TIT.2017.2749330",
+        "CorpusId": 11058559
+      },
+      "url": "https://www.semanticscholar.org/paper/73e754d163af1cbd7b60a123add16ce3b0c55a30",
+      "title": "Linear Convergence of Stochastic Iterative Greedy Algorithms With Sparse Constraints",
+      "venue": "IEEE Transactions on Information Theory",
+      "year": 2014,
+      "referenceCount": 60,
+      "citationCount": 106,
+      "authors": [
+        {
+          "authorId": "39061724",
+          "name": "Nam H. Nguyen"
+        },
+        {
+          "authorId": "8256323",
+          "name": "D. Needell"
+        },
+        {
+          "authorId": "35858693",
+          "name": "T. Woolf"
+        }
+      ]
+    },
+    {
+      "paperId": "5f33aef8f66e67c90300b662026108ee2311222c",
+      "externalIds": {
+        "MAG": "1940064195",
+        "DBLP": "books/daglib/0024690",
+        "CorpusId": 36548751
+      },
+      "url": "https://www.semanticscholar.org/paper/5f33aef8f66e67c90300b662026108ee2311222c",
+      "title": "Combinatorial aspects of low-rank matrix factorization and two applications in bioinformatics",
+      "venue": "",
+      "year": 2009,
+      "referenceCount": 61,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2176435",
+          "name": "Epameinondas Fritzilas"
+        }
+      ]
+    },
+    {
+      "paperId": "b7c763e0d300abe83e32c4b69764a6a9a4451330",
+      "externalIds": {
+        "MAG": "2428799182",
+        "CorpusId": 63253439
+      },
+      "url": "https://www.semanticscholar.org/paper/b7c763e0d300abe83e32c4b69764a6a9a4451330",
+      "title": "On exploiting low-dimensional structure in data recovery and data approximation",
+      "venue": "",
+      "year": 2012,
+      "referenceCount": 0,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "1709073",
+          "name": "T. Tran"
+        },
+        {
+          "authorId": "39061724",
+          "name": "Nam H. Nguyen"
+        }
+      ]
+    },
+    {
+      "paperId": "a0ed5261ddce22f4e764111b41ec7571e1b76173",
+      "externalIds": {
+        "MAG": "1464850230",
+        "DBLP": "phd/basesearch/Jaggi11",
+        "DOI": "10.3929/ETHZ-A-007050453",
+        "CorpusId": 60530784
+      },
+      "url": "https://www.semanticscholar.org/paper/a0ed5261ddce22f4e764111b41ec7571e1b76173",
+      "title": "Sparse Convex Optimization Methods for Machine Learning",
+      "venue": "",
+      "year": 2011,
+      "referenceCount": 169,
+      "citationCount": 89,
+      "authors": [
+        {
+          "authorId": "2456863",
+          "name": "Martin Jaggi"
+        }
+      ]
+    },
+    {
+      "paperId": "77b947f96c291d9e0c510d5f097db02715699299",
+      "externalIds": {
+        "MAG": "1534563416",
+        "DOI": "10.1109/SAMPTA.2015.7148924",
+        "CorpusId": 17778464
+      },
+      "url": "https://www.semanticscholar.org/paper/77b947f96c291d9e0c510d5f097db02715699299",
+      "title": "Some results concerning rank-one truncated steepest descent directions in tensor spaces",
+      "venue": "International Conference on Sampling Theory and Applications",
+      "year": 2015,
+      "referenceCount": 23,
+      "citationCount": 6,
+      "authors": [
+        {
+          "authorId": "2159091",
+          "name": "A. Uschmajew"
+        }
+      ]
+    }
+  ]
+}

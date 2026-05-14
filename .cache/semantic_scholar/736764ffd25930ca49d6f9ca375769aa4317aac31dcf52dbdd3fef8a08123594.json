@@ -1,0 +1,344 @@
+{
+  "total": 22312,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "9172cd6c253edf7c3a1568e03577db20648ad0c4",
+      "externalIds": {
+        "MAG": "2594103415",
+        "ArXiv": "1702.08165",
+        "DBLP": "conf/icml/HaarnojaTAL17",
+        "CorpusId": 11227891
+      },
+      "url": "https://www.semanticscholar.org/paper/9172cd6c253edf7c3a1568e03577db20648ad0c4",
+      "title": "Reinforcement Learning with Deep Energy-Based Policies",
+      "venue": "International Conference on Machine Learning",
+      "year": 2017,
+      "referenceCount": 52,
+      "citationCount": 1560,
+      "authors": [
+        {
+          "authorId": "2587648",
+          "name": "Tuomas Haarnoja"
+        },
+        {
+          "authorId": "4990833",
+          "name": "Haoran Tang"
+        },
+        {
+          "authorId": "1689992",
+          "name": "P. Abbeel"
+        },
+        {
+          "authorId": "1736651",
+          "name": "S. Levine"
+        }
+      ]
+    },
+    {
+      "paperId": "39ea534a51337daddacf77048b5c973862de86d4",
+      "externalIds": {
+        "DOI": "10.1109/ICCIKE51210.2021.9410756",
+        "CorpusId": 233435441
+      },
+      "url": "https://www.semanticscholar.org/paper/39ea534a51337daddacf77048b5c973862de86d4",
+      "title": "Maximum Information Measure Policies in Reinforcement Learning with Deep Energy-Based Model",
+      "venue": "2021 International Conference on Computational Intelligence and Knowledge Economy (ICCIKE)",
+      "year": 2021,
+      "referenceCount": 17,
+      "citationCount": 33,
+      "authors": [
+        {
+          "authorId": "7657665",
+          "name": "K. Sharma"
+        },
+        {
+          "authorId": "73593586",
+          "name": "Bhopendra Singh"
+        },
+        {
+          "authorId": "1380282613",
+          "name": "Edwin Hernan Ramirez Asis"
+        },
+        {
+          "authorId": "2086795380",
+          "name": "R. Regine"
+        },
+        {
+          "authorId": "1580956814",
+          "name": "Suman Rajest S"
+        },
+        {
+          "authorId": "13687347",
+          "name": "V. Mishra"
+        }
+      ]
+    },
+    {
+      "paperId": "6da8c2e4ea0a862c524708d181582b601bec00ff",
+      "externalIds": {
+        "DOI": "10.3390/electronics13183647",
+        "CorpusId": 272674317
+      },
+      "url": "https://www.semanticscholar.org/paper/6da8c2e4ea0a862c524708d181582b601bec00ff",
+      "title": "Blockchain-Assisted Secure Energy Trading in Electricity Markets: A Tiny Deep Reinforcement Learning-Based Stackelberg Game Approach",
+      "venue": "Electronics",
+      "year": 2024,
+      "referenceCount": 51,
+      "citationCount": 8,
+      "authors": [
+        {
+          "authorId": "2301420047",
+          "name": "Yong Xiao"
+        },
+        {
+          "authorId": "2243973937",
+          "name": "Xiaoming Lin"
+        },
+        {
+          "authorId": "2321324302",
+          "name": "Yiyong Lei"
+        },
+        {
+          "authorId": "2321329136",
+          "name": "Yanzhang Gu"
+        },
+        {
+          "authorId": "2244132114",
+          "name": "Jianlin Tang"
+        },
+        {
+          "authorId": "2244864699",
+          "name": "Fan Zhang"
+        },
+        {
+          "authorId": "2265315180",
+          "name": "Bin Qian"
+        }
+      ]
+    },
+    {
+      "paperId": "a11a0c9e952ae4e8d4d43b6bbdddcbc5d0ebcf74",
+      "externalIds": {
+        "DBLP": "journals/tits/ZhangCZGM25",
+        "DOI": "10.1109/TITS.2024.3524673",
+        "CorpusId": 275596064
+      },
+      "url": "https://www.semanticscholar.org/paper/a11a0c9e952ae4e8d4d43b6bbdddcbc5d0ebcf74",
+      "title": "Coordinated Battery Charging and Swapping Scheduling of EVs Based on Multilevel Deep Reinforcement Learning for Urban Governance",
+      "venue": "IEEE transactions on intelligent transportation systems (Print)",
+      "year": 2025,
+      "referenceCount": 45,
+      "citationCount": 11,
+      "authors": [
+        {
+          "authorId": "2318890148",
+          "name": "Bo Zhang"
+        },
+        {
+          "authorId": "2144309383",
+          "name": "Zhihua Chen"
+        },
+        {
+          "authorId": "2317347902",
+          "name": "Linlin Zang"
+        },
+        {
+          "authorId": "2075394762",
+          "name": "Peng Guo"
+        },
+        {
+          "authorId": "2273036371",
+          "name": "Rui Miao"
+        }
+      ]
+    },
+    {
+      "paperId": "118769e316c843c43508637d8c8dcf547e66d0cf",
+      "externalIds": {
+        "PubMedCentral": "10048603",
+        "DBLP": "journals/entropy/GaoL23",
+        "DOI": "10.3390/e25030544",
+        "CorpusId": 257701575,
+        "PubMed": "36981432"
+      },
+      "url": "https://www.semanticscholar.org/paper/118769e316c843c43508637d8c8dcf547e66d0cf",
+      "title": "Energy Dispatch for CCHP System in Summer Based on Deep Reinforcement Learning",
+      "venue": "Entropy",
+      "year": 2023,
+      "referenceCount": 45,
+      "citationCount": 9,
+      "authors": [
+        {
+          "authorId": "2153706197",
+          "name": "Wenzhong Gao"
+        },
+        {
+          "authorId": "2272023283",
+          "name": "Yifan Lin"
+        }
+      ]
+    },
+    {
+      "paperId": "1ad8ddbdc5ed602638f893cd157f984a12cc497e",
+      "externalIds": {
+        "ArXiv": "2202.03771",
+        "DBLP": "journals/corr/abs-2202-03771",
+        "DOI": "10.1016/j.apenergy.2022.118636",
+        "CorpusId": 246652142
+      },
+      "url": "https://www.semanticscholar.org/paper/1ad8ddbdc5ed602638f893cd157f984a12cc497e",
+      "title": "Energy Management Based on Multi-Agent Deep Reinforcement Learning for A Multi-Energy Industrial Park",
+      "venue": "Applied Energy",
+      "year": 2022,
+      "referenceCount": 40,
+      "citationCount": 71,
+      "authors": [
+        {
+          "authorId": "152867106",
+          "name": "Dafeng Zhu"
+        },
+        {
+          "authorId": "2356843505",
+          "name": "Bo Yang"
+        },
+        {
+          "authorId": "2108135748",
+          "name": "Yuxiang Liu"
+        },
+        {
+          "authorId": "122244294",
+          "name": "Zhaojian Wang"
+        },
+        {
+          "authorId": "143915557",
+          "name": "Kai Ma"
+        },
+        {
+          "authorId": "2066614902",
+          "name": "Xinping Guan"
+        }
+      ]
+    },
+    {
+      "paperId": "37716e213c6276dff2146ff6880b4b7c980fc9fb",
+      "externalIds": {
+        "DBLP": "journals/twc/LeeKL22",
+        "DOI": "10.1109/TWC.2022.3140731",
+        "CorpusId": 246310364
+      },
+      "url": "https://www.semanticscholar.org/paper/37716e213c6276dff2146ff6880b4b7c980fc9fb",
+      "title": "Radio and Energy Resource Management in Renewable Energy-Powered Wireless Networks with Deep Reinforcement Learning",
+      "venue": "IEEE Transactions on Wireless Communications",
+      "year": 2022,
+      "referenceCount": 32,
+      "citationCount": 30,
+      "authors": [
+        {
+          "authorId": "2110055240",
+          "name": "Hyun-Suk Lee"
+        },
+        {
+          "authorId": "40994059",
+          "name": "Do-Yup Kim"
+        },
+        {
+          "authorId": "4133403",
+          "name": "Jang-Won Lee"
+        }
+      ]
+    },
+    {
+      "paperId": "14a1547fe0b9c4a2749e0beb8fc89eb44e2c53d8",
+      "externalIds": {
+        "DBLP": "journals/tcom/XiaoHXYJ22",
+        "DOI": "10.1109/tcomm.2022.3169813",
+        "CorpusId": 248350236
+      },
+      "url": "https://www.semanticscholar.org/paper/14a1547fe0b9c4a2749e0beb8fc89eb44e2c53d8",
+      "title": "IRS-Aided Energy-Efficient Secure WBAN Transmission Based on Deep Reinforcement Learning",
+      "venue": "IEEE Transactions on Communications",
+      "year": 2022,
+      "referenceCount": 0,
+      "citationCount": 41,
+      "authors": [
+        {
+          "authorId": "33821409",
+          "name": "Liang Xiao"
+        },
+        {
+          "authorId": "2292208438",
+          "name": "Siyuan Hong"
+        },
+        {
+          "authorId": "2110940595",
+          "name": "Shiyu Xu"
+        },
+        {
+          "authorId": "2109768865",
+          "name": "Helin Yang"
+        },
+        {
+          "authorId": "2152001711",
+          "name": "Xiangyang Ji"
+        }
+      ]
+    },
+    {
+      "paperId": "509598165e9acd31436f2898a4001bdecb091bce",
+      "externalIds": {
+        "DOI": "10.35833/mpce.2023.000213",
+        "CorpusId": 270082598
+      },
+      "url": "https://www.semanticscholar.org/paper/509598165e9acd31436f2898a4001bdecb091bce",
+      "title": "Real-time Operation Optimization in Active Distribution Networks Based on Multi-agent Deep Reinforcement Learning",
+      "venue": "Journal of Modern Power Systems and Clean Energy",
+      "year": 2024,
+      "referenceCount": 34,
+      "citationCount": 27,
+      "authors": [
+        {
+          "authorId": "2302889308",
+          "name": "Jie Xu"
+        },
+        {
+          "authorId": "50200986",
+          "name": "Hongjun Gao"
+        },
+        {
+          "authorId": "2244570060",
+          "name": "Renjun Wang"
+        },
+        {
+          "authorId": "2242513464",
+          "name": "Junyong Liu"
+        }
+      ]
+    },
+    {
+      "paperId": "ba23164f2daaa43771454184a8ae9aa83b8a687d",
+      "externalIds": {
+        "MAG": "3201970852",
+        "DOI": "10.1016/j.ijepes.2021.107625",
+        "CorpusId": 244225763
+      },
+      "url": "https://www.semanticscholar.org/paper/ba23164f2daaa43771454184a8ae9aa83b8a687d",
+      "title": "Model-based deep reinforcement learning for wind energy bidding",
+      "venue": "International Journal of Electrical Power & Energy Systems",
+      "year": 2022,
+      "referenceCount": 44,
+      "citationCount": 27,
+      "authors": [
+        {
+          "authorId": "31026233",
+          "name": "Manassakan Sanayha"
+        },
+        {
+          "authorId": "1715851",
+          "name": "P. Vateekul"
+        }
+      ]
+    }
+  ]
+}

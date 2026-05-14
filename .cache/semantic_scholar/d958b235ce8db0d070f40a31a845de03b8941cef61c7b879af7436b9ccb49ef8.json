@@ -1,0 +1,383 @@
+{
+  "offset": 0,
+  "citingPaperInfo": {
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/1505.05117, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "title": "Vector-Space Markov Random Fields via Exponential Families",
+    "authors": [
+      {
+        "authorId": "145305182",
+        "name": "Wesley Tansey"
+      },
+      {
+        "authorId": "2527891",
+        "name": "Oscar Hernan Madrid Padilla"
+      },
+      {
+        "authorId": "2170091",
+        "name": "A. Suggala"
+      },
+      {
+        "authorId": "145969795",
+        "name": "Pradeep Ravikumar"
+      }
+    ]
+  },
+  "data": [
+    {
+      "citedPaper": {
+        "paperId": "de887b3547a6a774563100a28b9390d394b90132",
+        "externalIds": {
+          "MAG": "2913535645",
+          "DBLP": "journals/ftopt/ParikhB14",
+          "DOI": "10.1561/2400000003",
+          "CorpusId": 51791656
+        },
+        "url": "https://www.semanticscholar.org/paper/de887b3547a6a774563100a28b9390d394b90132",
+        "title": "Proximal Algorithms",
+        "venue": "Found. Trends Optim.",
+        "year": 2013,
+        "referenceCount": 207,
+        "citationCount": 4691,
+        "authors": [
+          {
+            "authorId": "46822591",
+            "name": "Neal Parikh"
+          },
+          {
+            "authorId": "1843103",
+            "name": "Stephen P. Boyd"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "829b659f96771f2076ab325b1202b26085b300b4",
+        "externalIds": {
+          "MAG": "1987371344",
+          "DOI": "10.1080/10618600.2012.681250",
+          "CorpusId": 2208574
+        },
+        "url": "https://www.semanticscholar.org/paper/829b659f96771f2076ab325b1202b26085b300b4",
+        "title": "A Sparse-Group Lasso",
+        "venue": "",
+        "year": 2013,
+        "referenceCount": 16,
+        "citationCount": 1441,
+        "authors": [
+          {
+            "authorId": "2057553634",
+            "name": "Noah Simon"
+          },
+          {
+            "authorId": "2061987275",
+            "name": "Jerome H. Friedman"
+          },
+          {
+            "authorId": "2067061451",
+            "name": "Trevor J. Hastie"
+          },
+          {
+            "authorId": "2066160895",
+            "name": "Robert Tibshirani"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "adf9fb1f5db63cb7232d7e6778b0ebab8f396011",
+        "externalIds": {
+          "MAG": "2154290889",
+          "DBLP": "conf/nips/YangRAL12",
+          "CorpusId": 2860283
+        },
+        "url": "https://www.semanticscholar.org/paper/adf9fb1f5db63cb7232d7e6778b0ebab8f396011",
+        "title": "Graphical Models via Generalized Linear Models",
+        "venue": "Neural Information Processing Systems",
+        "year": 2012,
+        "referenceCount": 25,
+        "citationCount": 149,
+        "authors": [
+          {
+            "authorId": "1720494",
+            "name": "Eunho Yang"
+          },
+          {
+            "authorId": "145969795",
+            "name": "Pradeep Ravikumar"
+          },
+          {
+            "authorId": "2302572",
+            "name": "Genevera I. Allen"
+          },
+          {
+            "authorId": "2235247905",
+            "name": "Zhandong Liu"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "0d20e91014ceb867a13d24d83f9d60431c70d1be",
+        "externalIds": {
+          "DBLP": "journals/tsp/VatsM12",
+          "ArXiv": "1107.4067",
+          "MAG": "2086857504",
+          "DOI": "10.1109/TSP.2012.2214216",
+          "CorpusId": 9582950
+        },
+        "url": "https://www.semanticscholar.org/paper/0d20e91014ceb867a13d24d83f9d60431c70d1be",
+        "title": "Finding Non-Overlapping Clusters for Generalized Inference Over Graphical Models",
+        "venue": "IEEE Transactions on Signal Processing",
+        "year": 2011,
+        "referenceCount": 79,
+        "citationCount": 5,
+        "authors": [
+          {
+            "authorId": "2429303",
+            "name": "Divyanshu Vats"
+          },
+          {
+            "authorId": "144915495",
+            "name": "José M. F. Moura"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "c8aa00798de8f4dfce2226f79507929cf172841a",
+        "externalIds": {
+          "DBLP": "journals/jmlr/JalaliRVS11",
+          "MAG": "2290703437",
+          "CorpusId": 9914712
+        },
+        "url": "https://www.semanticscholar.org/paper/c8aa00798de8f4dfce2226f79507929cf172841a",
+        "title": "On Learning Discrete Graphical Models using Group-Sparse Regularization",
+        "venue": "International Conference on Artificial Intelligence and Statistics",
+        "year": 2011,
+        "referenceCount": 37,
+        "citationCount": 95,
+        "authors": [
+          {
+            "authorId": "143602278",
+            "name": "A. Jalali"
+          },
+          {
+            "authorId": "145969795",
+            "name": "Pradeep Ravikumar"
+          },
+          {
+            "authorId": "35057544",
+            "name": "Vishvas Vasuki"
+          },
+          {
+            "authorId": "1701677",
+            "name": "S. Sanghavi"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "0b14178e7d79ac426d0a39700e1ac8b2c6f2e752",
+        "externalIds": {
+          "DBLP": "journals/corr/abs-2106-01946",
+          "MAG": "2913411363",
+          "ArXiv": "2106.01946",
+          "DOI": "10.1007/978-1-4614-5257-7_6",
+          "CorpusId": 37925315
+        },
+        "url": "https://www.semanticscholar.org/paper/0b14178e7d79ac426d0a39700e1ac8b2c6f2e752",
+        "title": "Convex optimization",
+        "venue": "Computer Vision",
+        "year": 2010,
+        "referenceCount": 397,
+        "citationCount": 39426,
+        "authors": [
+          {
+            "authorId": "1843103",
+            "name": "Stephen P. Boyd"
+          },
+          {
+            "authorId": "2014414",
+            "name": "L. Vandenberghe"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "c8430c5d13834e46631960469d86f7ed4577b0e2",
+        "externalIds": {
+          "MAG": "2113328646",
+          "ArXiv": "1001.0736",
+          "CorpusId": 14601089
+        },
+        "url": "https://www.semanticscholar.org/paper/c8430c5d13834e46631960469d86f7ed4577b0e2",
+        "title": "A note on the group lasso and a sparse group lasso",
+        "venue": "",
+        "year": 2010,
+        "referenceCount": 6,
+        "citationCount": 865,
+        "authors": [
+          {
+            "authorId": "3056361",
+            "name": "J. Friedman"
+          },
+          {
+            "authorId": "1784682",
+            "name": "T. Hastie"
+          },
+          {
+            "authorId": "1761784",
+            "name": "R. Tibshirani"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "c59c6afcfd5d03eb2c8fb5d1665afacc077771b9",
+        "externalIds": {
+          "MAG": "2127300249",
+          "DBLP": "journals/tit/Wainwright09",
+          "DOI": "10.1109/TIT.2009.2016018",
+          "CorpusId": 11046646
+        },
+        "url": "https://www.semanticscholar.org/paper/c59c6afcfd5d03eb2c8fb5d1665afacc077771b9",
+        "title": "Sharp Thresholds for High-Dimensional and Noisy Sparsity Recovery Using $\\ell _{1}$ -Constrained Quadratic Programming (Lasso)",
+        "venue": "IEEE Transactions on Information Theory",
+        "year": 2009,
+        "referenceCount": 43,
+        "citationCount": 1333,
+        "authors": [
+          {
+            "authorId": "1721860",
+            "name": "M. Wainwright"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "d98d0d1900b13b87aa4ffd6b69c046beb63f0434",
+        "externalIds": {
+          "DBLP": "journals/ftml/WainwrightJ08",
+          "MAG": "2120340025",
+          "DOI": "10.1561/2200000001",
+          "CorpusId": 207178945
+        },
+        "url": "https://www.semanticscholar.org/paper/d98d0d1900b13b87aa4ffd6b69c046beb63f0434",
+        "title": "Graphical Models, Exponential Families, and Variational Inference",
+        "venue": "Found. Trends Mach. Learn.",
+        "year": 2008,
+        "referenceCount": 277,
+        "citationCount": 4744,
+        "authors": [
+          {
+            "authorId": "1721860",
+            "name": "M. Wainwright"
+          },
+          {
+            "authorId": "1694621",
+            "name": "Michael I. Jordan"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "047134b44dadb9859d1bcb19d589bcfaf1d0cd62",
+        "externalIds": {
+          "DBLP": "conf/cvpr/SudderthIFW03",
+          "MAG": "2167947196",
+          "DOI": "10.1145/1831407.1831431",
+          "CorpusId": 39032320
+        },
+        "url": "https://www.semanticscholar.org/paper/047134b44dadb9859d1bcb19d589bcfaf1d0cd62",
+        "title": "Nonparametric belief propagation",
+        "venue": "2003 IEEE Computer Society Conference on Computer Vision and Pattern Recognition, 2003. Proceedings.",
+        "year": 2003,
+        "referenceCount": 64,
+        "citationCount": 612,
+        "authors": [
+          {
+            "authorId": "1799035",
+            "name": "Erik B. Sudderth"
+          },
+          {
+            "authorId": "1740137",
+            "name": "A. Ihler"
+          },
+          {
+            "authorId": "1768236",
+            "name": "W. Freeman"
+          },
+          {
+            "authorId": "1701607",
+            "name": "A. Willsky"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "380ac364206d18786288911e8079f4e869cf53fe",
+        "externalIds": {
+          "MAG": "206906224",
+          "DBLP": "conf/aistats/YangBRAL14",
+          "CorpusId": 10019388
+        },
+        "url": "https://www.semanticscholar.org/paper/380ac364206d18786288911e8079f4e869cf53fe",
+        "title": "Mixed Graphical Models via Exponential Families",
+        "venue": "International Conference on Artificial Intelligence and Statistics",
+        "year": 2014,
+        "referenceCount": 25,
+        "citationCount": 113,
+        "authors": [
+          {
+            "authorId": "1720494",
+            "name": "Eunho Yang"
+          },
+          {
+            "authorId": "13097574",
+            "name": "Yulia Baker"
+          },
+          {
+            "authorId": "145969795",
+            "name": "Pradeep Ravikumar"
+          },
+          {
+            "authorId": "2302572",
+            "name": "Genevera I. Allen"
+          },
+          {
+            "authorId": "2235247905",
+            "name": "Zhandong Liu"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "Borja, and 5 https://github.com/tansey/vsmrfs Vector-Space MRFs via Exponential Families",
+        "venue": "Borja, and 5 https://github.com/tansey/vsmrfs Vector-Space MRFs via Exponential Families",
+        "year": null,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    }
+  ]
+}

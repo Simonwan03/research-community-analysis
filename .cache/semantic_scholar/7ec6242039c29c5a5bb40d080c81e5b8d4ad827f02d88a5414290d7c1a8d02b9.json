@@ -1,0 +1,300 @@
+{
+  "total": 19165,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "459cdfa379bffc07dd963610132f22421b9a0659",
+      "externalIds": {
+        "MAG": "2952560675",
+        "DBLP": "journals/corr/RavanbakhshSP17",
+        "ArXiv": "1702.08389",
+        "CorpusId": 7423862
+      },
+      "url": "https://www.semanticscholar.org/paper/459cdfa379bffc07dd963610132f22421b9a0659",
+      "title": "Equivariance Through Parameter-Sharing",
+      "venue": "International Conference on Machine Learning",
+      "year": 2017,
+      "referenceCount": 33,
+      "citationCount": 284,
+      "authors": [
+        {
+          "authorId": "2111187",
+          "name": "Siamak Ravanbakhsh"
+        },
+        {
+          "authorId": "1753432",
+          "name": "J. Schneider"
+        },
+        {
+          "authorId": "1719347",
+          "name": "B. Póczos"
+        }
+      ]
+    },
+    {
+      "paperId": "c487dd8dabfdc6cd3aed6c03c5d8cddef4980ed7",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2204-03640",
+        "ArXiv": "2204.03640",
+        "DOI": "10.48550/arXiv.2204.03640",
+        "CorpusId": 248006267
+      },
+      "url": "https://www.semanticscholar.org/paper/c487dd8dabfdc6cd3aed6c03c5d8cddef4980ed7",
+      "title": "Equivariance Discovery by Learned Parameter-Sharing",
+      "venue": "International Conference on Artificial Intelligence and Statistics",
+      "year": 2022,
+      "referenceCount": 47,
+      "citationCount": 21,
+      "authors": [
+        {
+          "authorId": "28919105",
+          "name": "Raymond A. Yeh"
+        },
+        {
+          "authorId": "2484223",
+          "name": "Yuan-Ting Hu"
+        },
+        {
+          "authorId": "1399115926",
+          "name": "M. Hasegawa-Johnson"
+        },
+        {
+          "authorId": "2068227",
+          "name": "A. Schwing"
+        }
+      ]
+    },
+    {
+      "paperId": "8c705bdf56d07acc024bf7d6cca6b37959e7d4e3",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2410-06665",
+        "ArXiv": "2410.06665",
+        "DOI": "10.48550/arXiv.2410.06665",
+        "CorpusId": 273228377
+      },
+      "url": "https://www.semanticscholar.org/paper/8c705bdf56d07acc024bf7d6cca6b37959e7d4e3",
+      "title": "Revisiting Multi-Permutation Equivariance through the Lens of Irreducible Representations",
+      "venue": "International Conference on Learning Representations",
+      "year": 2024,
+      "referenceCount": 40,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "2268410834",
+          "name": "Yonatan Sverdlov"
+        },
+        {
+          "authorId": "2325094598",
+          "name": "I. Springer"
+        },
+        {
+          "authorId": "3046344",
+          "name": "Nadav Dym"
+        }
+      ]
+    },
+    {
+      "paperId": "0110357e5f2c44a6cf90ec208692b3c356f94560",
+      "externalIds": {
+        "DBLP": "conf/globecom/GeLHY25",
+        "ArXiv": "2503.09398",
+        "DOI": "10.1109/GLOBECOM59602.2025.11432657",
+        "CorpusId": 276938331
+      },
+      "url": "https://www.semanticscholar.org/paper/0110357e5f2c44a6cf90ec208692b3c356f94560",
+      "title": "Precoder Learning by Leveraging Unitary Equivariance Property",
+      "venue": "Global Communications Conference",
+      "year": 2025,
+      "referenceCount": 20,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2349966796",
+          "name": "Yilun Ge"
+        },
+        {
+          "authorId": "2350147776",
+          "name": "Shuyao Liao"
+        },
+        {
+          "authorId": "1679228",
+          "name": "Shengqian Han"
+        },
+        {
+          "authorId": "2263942288",
+          "name": "Chenyang Yang"
+        }
+      ]
+    },
+    {
+      "paperId": "b0ad55013adf142a6191583761642adb632a879f",
+      "externalIds": {
+        "DBLP": "conf/3dim/WeijlerH25",
+        "ArXiv": "2502.07505",
+        "DOI": "10.1109/3DV66043.2025.00130",
+        "CorpusId": 276259187
+      },
+      "url": "https://www.semanticscholar.org/paper/b0ad55013adf142a6191583761642adb632a879f",
+      "title": "Efficient Continuous Group Convolutions for Local SE(3) Equivariance in 3D Point Clouds",
+      "venue": "International Conference on 3D Vision",
+      "year": 2025,
+      "referenceCount": 48,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "2088844110",
+          "name": "Lisa Weijler"
+        },
+        {
+          "authorId": "2265580715",
+          "name": "Pedro Hermosilla"
+        }
+      ]
+    },
+    {
+      "paperId": "af0213dd9e806a26bcce85b4ed8c71eb001a2996",
+      "externalIds": {
+        "DOI": "10.23919/CCC64809.2025.11179540",
+        "CorpusId": 282004408
+      },
+      "url": "https://www.semanticscholar.org/paper/af0213dd9e806a26bcce85b4ed8c71eb001a2996",
+      "title": "ReVP: Incorporating Rotation Equivariance to Boost Spatio-Temporal Swarm Motion Prediction",
+      "venue": "Cybersecurity and Cyberforensics Conference",
+      "year": 2025,
+      "referenceCount": 32,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2308011364",
+          "name": "Yuchen Ji"
+        },
+        {
+          "authorId": "2243084610",
+          "name": "Xiuxian Li"
+        },
+        {
+          "authorId": "2112156922",
+          "name": "Min Meng"
+        },
+        {
+          "authorId": "2322261373",
+          "name": "Zhen Dong"
+        }
+      ]
+    },
+    {
+      "paperId": "18339c53580dca0529681f43b75e088bc058f606",
+      "externalIds": {
+        "ArXiv": "2406.09022",
+        "DBLP": "journals/twc/WangHYWJ25",
+        "DOI": "10.1109/TWC.2025.3580321",
+        "CorpusId": 270440479
+      },
+      "url": "https://www.semanticscholar.org/paper/18339c53580dca0529681f43b75e088bc058f606",
+      "title": "Toward Unified AI Models for MU-MIMO Communications: A Tensor Equivariance Framework",
+      "venue": "IEEE Transactions on Wireless Communications",
+      "year": 2024,
+      "referenceCount": 66,
+      "citationCount": 18,
+      "authors": [
+        {
+          "authorId": "2257099802",
+          "name": "Yafei Wang"
+        },
+        {
+          "authorId": "49032151",
+          "name": "Hongwei Hou"
+        },
+        {
+          "authorId": "2257043168",
+          "name": "Xinping Yi"
+        },
+        {
+          "authorId": "2257130827",
+          "name": "Wenjin Wang"
+        },
+        {
+          "authorId": "2258769752",
+          "name": "Shi Jin"
+        }
+      ]
+    },
+    {
+      "paperId": "42b62910c4a147b9aac0d346ca7e2ab65969c080",
+      "externalIds": {
+        "ArXiv": "2204.07178",
+        "DBLP": "journals/corr/abs-2204-07178",
+        "DOI": "10.48550/arXiv.2204.07178",
+        "CorpusId": 248218609
+      },
+      "url": "https://www.semanticscholar.org/paper/42b62910c4a147b9aac0d346ca7e2ab65969c080",
+      "title": "Relaxing Equivariance Constraints with Non-stationary Continuous Filters",
+      "venue": "Neural Information Processing Systems",
+      "year": 2022,
+      "referenceCount": 44,
+      "citationCount": 46,
+      "authors": [
+        {
+          "authorId": "68975405",
+          "name": "Tycho F. A. van der Ouderaa"
+        },
+        {
+          "authorId": "2064243209",
+          "name": "David W. Romero"
+        },
+        {
+          "authorId": "33567216",
+          "name": "Mark van der Wilk"
+        }
+      ]
+    },
+    {
+      "paperId": "e6e72e21161dd7ed36e144b7ca7c68ccbfe4e2ee",
+      "externalIds": {
+        "CorpusId": 231896364
+      },
+      "url": "https://www.semanticscholar.org/paper/e6e72e21161dd7ed36e144b7ca7c68ccbfe4e2ee",
+      "title": "Towards a Better Understanding of Reverse-Complement Equivariance for Deep Learning Models in Regulatory Genomics",
+      "venue": "",
+      "year": 2021,
+      "referenceCount": 31,
+      "citationCount": 9,
+      "authors": [
+        {
+          "authorId": "2024855331",
+          "name": "Hannah Zhou"
+        }
+      ]
+    },
+    {
+      "paperId": "b2e8f988e4c4ef0b38f6c8766aca7f2e5a2575db",
+      "externalIds": {
+        "MAG": "2259303769",
+        "ArXiv": "1602.02660",
+        "DBLP": "conf/icml/DielemanFK16",
+        "CorpusId": 8569309
+      },
+      "url": "https://www.semanticscholar.org/paper/b2e8f988e4c4ef0b38f6c8766aca7f2e5a2575db",
+      "title": "Exploiting Cyclic Symmetry in Convolutional Neural Networks",
+      "venue": "International Conference on Machine Learning",
+      "year": 2016,
+      "referenceCount": 30,
+      "citationCount": 377,
+      "authors": [
+        {
+          "authorId": "48373216",
+          "name": "S. Dieleman"
+        },
+        {
+          "authorId": "3364908",
+          "name": "J. Fauw"
+        },
+        {
+          "authorId": "2645384",
+          "name": "K. Kavukcuoglu"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,326 @@
+{
+  "total": 3268,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "dcd5b17b26c028b574cfcadd0d4e47b8d169ce5c",
+      "externalIds": {
+        "DBLP": "conf/icml/BojchevskiSZG18",
+        "MAG": "2964271403",
+        "ArXiv": "1803.00816",
+        "CorpusId": 3671269
+      },
+      "url": "https://www.semanticscholar.org/paper/dcd5b17b26c028b574cfcadd0d4e47b8d169ce5c",
+      "title": "NetGAN: Generating Graphs via Random Walks",
+      "venue": "International Conference on Machine Learning",
+      "year": 2018,
+      "referenceCount": 45,
+      "citationCount": 400,
+      "authors": [
+        {
+          "authorId": "11754930",
+          "name": "Aleksandar Bojchevski"
+        },
+        {
+          "authorId": "32724677",
+          "name": "Oleksandr Shchur"
+        },
+        {
+          "authorId": "3156540",
+          "name": "Daniel Zügner"
+        },
+        {
+          "authorId": "2241501445",
+          "name": "Stephan Günnemann"
+        }
+      ]
+    },
+    {
+      "paperId": "2f721d5de850ec31c9a3d3c4812dea47e853516a",
+      "externalIds": {
+        "MAG": "2997446797",
+        "ArXiv": "1905.05298",
+        "DBLP": "conf/bracis/CaridaJMC19",
+        "DOI": "10.1109/BRACIS.2019.00121",
+        "CorpusId": 208883986
+      },
+      "url": "https://www.semanticscholar.org/paper/2f721d5de850ec31c9a3d3c4812dea47e853516a",
+      "title": "Can NetGAN be Improved on Short Random Walks?",
+      "venue": "Brazilian Conference on Intelligent Systems",
+      "year": 2019,
+      "referenceCount": 21,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "2067082521",
+          "name": "Vinicius Fernandes Caridá"
+        },
+        {
+          "authorId": "8350433",
+          "name": "Amir Jalilifard"
+        },
+        {
+          "authorId": "144566251",
+          "name": "Alex F. Mansano"
+        },
+        {
+          "authorId": "51252120",
+          "name": "Rogers Cristo"
+        }
+      ]
+    },
+    {
+      "paperId": "956f9466ad8b39d26eeebb83b7751aed07e8c766",
+      "externalIds": {
+        "MAG": "2946529263",
+        "DBLP": "journals/corr/abs-1905-05298",
+        "CorpusId": 153312998
+      },
+      "url": "https://www.semanticscholar.org/paper/956f9466ad8b39d26eeebb83b7751aed07e8c766",
+      "title": "Can NetGAN be improved by short random walks originated from dense vertices?",
+      "venue": "arXiv.org",
+      "year": 2019,
+      "referenceCount": 21,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "8350433",
+          "name": "Amir Jalilifard"
+        },
+        {
+          "authorId": "2067082521",
+          "name": "Vinicius Fernandes Caridá"
+        },
+        {
+          "authorId": "144566251",
+          "name": "Alex F. Mansano"
+        },
+        {
+          "authorId": "51252120",
+          "name": "Rogers Cristo"
+        }
+      ]
+    },
+    {
+      "paperId": "6585b81a2fa87282626ae0586c0d38f79bea7a72",
+      "externalIds": {
+        "MAG": "2786552636",
+        "CorpusId": 125918742
+      },
+      "url": "https://www.semanticscholar.org/paper/6585b81a2fa87282626ae0586c0d38f79bea7a72",
+      "title": "GraphGAN: Generating Graphs via Random Walks",
+      "venue": "",
+      "year": 2018,
+      "referenceCount": 0,
+      "citationCount": 5,
+      "authors": [
+        {
+          "authorId": "11754930",
+          "name": "Aleksandar Bojchevski"
+        },
+        {
+          "authorId": "32724677",
+          "name": "Oleksandr Shchur"
+        },
+        {
+          "authorId": "3156540",
+          "name": "Daniel Zügner"
+        },
+        {
+          "authorId": "3075189",
+          "name": "Stephan Günnemann"
+        }
+      ]
+    },
+    {
+      "paperId": "0702ac9db3ea20810ffdb9f35bde85cdfaf27a3d",
+      "externalIds": {
+        "ArXiv": "2406.03386",
+        "DBLP": "conf/iclr/ChenSB25",
+        "DOI": "10.48550/arXiv.2406.03386",
+        "CorpusId": 270258192
+      },
+      "url": "https://www.semanticscholar.org/paper/0702ac9db3ea20810ffdb9f35bde85cdfaf27a3d",
+      "title": "Learning Long Range Dependencies on Graphs via Random Walks",
+      "venue": "International Conference on Learning Representations",
+      "year": 2024,
+      "referenceCount": 71,
+      "citationCount": 21,
+      "authors": [
+        {
+          "authorId": "81299639",
+          "name": "Dexiong Chen"
+        },
+        {
+          "authorId": "2304749126",
+          "name": "Till Hendrik Schulz"
+        },
+        {
+          "authorId": "2268189981",
+          "name": "Karsten M. Borgwardt"
+        }
+      ]
+    },
+    {
+      "paperId": "f468973db8d14620c8c436bcce3fe7b059830c1f",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2502-19030",
+        "ArXiv": "2502.19030",
+        "DOI": "10.1007/s41109-025-00704-z",
+        "CorpusId": 276617753
+      },
+      "url": "https://www.semanticscholar.org/paper/f468973db8d14620c8c436bcce3fe7b059830c1f",
+      "title": "Sampling nodes and hyperedges via random walks on large hypergraphs",
+      "venue": "Applied Network Science",
+      "year": 2025,
+      "referenceCount": 66,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2276524097",
+          "name": "Kazuki Nakajima"
+        },
+        {
+          "authorId": "2347356596",
+          "name": "Masanao Kodakari"
+        },
+        {
+          "authorId": "2347353239",
+          "name": "Masaki Aida"
+        }
+      ]
+    },
+    {
+      "paperId": "ed40dc0a1065692fbe85962b9c5feaa2701e7d9c",
+      "externalIds": {
+        "ArXiv": "2501.09693",
+        "DOI": "10.1214/25-ejp1414",
+        "CorpusId": 275570736
+      },
+      "url": "https://www.semanticscholar.org/paper/ed40dc0a1065692fbe85962b9c5feaa2701e7d9c",
+      "title": "Faber–Krahn inequality for the heat content on quantum graphs via random walk expansion",
+      "venue": "Electronic Journal of Probability",
+      "year": 2025,
+      "referenceCount": 31,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2184140901",
+          "name": "P. Bifulco"
+        },
+        {
+          "authorId": "2292031706",
+          "name": "Matthias Taufer"
+        }
+      ]
+    },
+    {
+      "paperId": "23fe306712ea9fe53e2993731c62bf5f8c086742",
+      "externalIds": {
+        "ArXiv": "2604.13968",
+        "CorpusId": 287480574
+      },
+      "url": "https://www.semanticscholar.org/paper/23fe306712ea9fe53e2993731c62bf5f8c086742",
+      "title": "Divisible sandpiles via random walks in random scenery",
+      "venue": "",
+      "year": 2026,
+      "referenceCount": 33,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "1411572655",
+          "name": "Ahmed Bou-Rabee"
+        },
+        {
+          "authorId": "2273928985",
+          "name": "Yuval Peres"
+        },
+        {
+          "authorId": "1405539678",
+          "name": "Ecaterina Sava-Huss"
+        }
+      ]
+    },
+    {
+      "paperId": "4d1efa9fe3425bc9d1479e1d8c0df7374ceccfe5",
+      "externalIds": {
+        "DBLP": "journals/tos/WangLXXLH22",
+        "DOI": "10.1145/3533579",
+        "CorpusId": 252532956
+      },
+      "url": "https://www.semanticscholar.org/paper/4d1efa9fe3425bc9d1479e1d8c0df7374ceccfe5",
+      "title": "Toward Fast and Scalable Random Walks over Disk-Resident Graphs via Efficient I/O Management",
+      "venue": "ACM Transactions on Storage",
+      "year": 2022,
+      "referenceCount": 64,
+      "citationCount": 6,
+      "authors": [
+        {
+          "authorId": "2151039223",
+          "name": "Rui Wang"
+        },
+        {
+          "authorId": "2110412112",
+          "name": "Yongkun Li"
+        },
+        {
+          "authorId": "145497649",
+          "name": "Hong Xie"
+        },
+        {
+          "authorId": "2145205129",
+          "name": "Yinlong Xu"
+        },
+        {
+          "authorId": "145462046",
+          "name": "John C.S. Lui"
+        },
+        {
+          "authorId": "2099857",
+          "name": "Shuibing He"
+        }
+      ]
+    },
+    {
+      "paperId": "781dd30efcf54688bfd40f816c22ffb570e71de9",
+      "externalIds": {
+        "DBLP": "journals/tmm/GuoWLXCW25",
+        "DOI": "10.1109/TMM.2023.3330338",
+        "CorpusId": 265166289
+      },
+      "url": "https://www.semanticscholar.org/paper/781dd30efcf54688bfd40f816c22ffb570e71de9",
+      "title": "Steerable Graph Neural Network on Point Clouds via Second-Order Random Walks",
+      "venue": "IEEE transactions on multimedia",
+      "year": 2025,
+      "referenceCount": 64,
+      "citationCount": 6,
+      "authors": [
+        {
+          "authorId": "144918724",
+          "name": "Xianglin Guo"
+        },
+        {
+          "authorId": "2266748343",
+          "name": "Yifan Wang"
+        },
+        {
+          "authorId": "2266745769",
+          "name": "Heng Liu"
+        },
+        {
+          "authorId": "2148948525",
+          "name": "Haoran Xie"
+        },
+        {
+          "authorId": "2153217395",
+          "name": "Gary Cheng"
+        },
+        {
+          "authorId": "52140967",
+          "name": "F. Wang"
+        }
+      ]
+    }
+  ]
+}

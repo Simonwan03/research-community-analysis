@@ -1,0 +1,276 @@
+{
+  "total": 36,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "638b5d8b713ef4a6ef0aed15c1b21f9ea121662f",
+      "externalIds": {
+        "DBLP": "conf/icml/FazelniaP18",
+        "MAG": "2804596990",
+        "CorpusId": 46991317
+      },
+      "url": "https://www.semanticscholar.org/paper/638b5d8b713ef4a6ef0aed15c1b21f9ea121662f",
+      "title": "CRVI: Convex Relaxation for Variational Inference",
+      "venue": "International Conference on Machine Learning",
+      "year": 2018,
+      "referenceCount": 29,
+      "citationCount": 6,
+      "authors": [
+        {
+          "authorId": "2854892",
+          "name": "G. Fazelnia"
+        },
+        {
+          "authorId": "143855009",
+          "name": "J. Paisley"
+        }
+      ]
+    },
+    {
+      "paperId": "37be89b2ccebb7db7138f79044e849182aa6c3f7",
+      "externalIds": {
+        "DBLP": "conf/nips/OrecchiaHHMY0G24",
+        "DOI": "10.52202/079017-2042",
+        "CorpusId": 276248863
+      },
+      "url": "https://www.semanticscholar.org/paper/37be89b2ccebb7db7138f79044e849182aa6c3f7",
+      "title": "Training Binary Neural Networks via Gaussian Variational Inference and Low-Rank Semidefinite Programming",
+      "venue": "Neural Information Processing Systems",
+      "year": 2024,
+      "referenceCount": 83,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "2399389180",
+          "name": "L. Orecchia"
+        },
+        {
+          "authorId": "2267278500",
+          "name": "Jiawei Hu"
+        },
+        {
+          "authorId": "2344953018",
+          "name": "Xue He"
+        },
+        {
+          "authorId": "2344744446",
+          "name": "W. Mark"
+        },
+        {
+          "authorId": "2301137047",
+          "name": "Xulei Yang"
+        },
+        {
+          "authorId": "2309247319",
+          "name": "Min Wu"
+        },
+        {
+          "authorId": "2309248783",
+          "name": "Xue Geng"
+        }
+      ]
+    },
+    {
+      "paperId": "f78005731b4e65bf0ba60c71c4bc1a6e742b6e97",
+      "externalIds": {
+        "ArXiv": "2206.13285",
+        "DBLP": "journals/corr/abs-2206-13285",
+        "DOI": "10.1007/s10208-024-09651-0",
+        "CorpusId": 250073192
+      },
+      "url": "https://www.semanticscholar.org/paper/f78005731b4e65bf0ba60c71c4bc1a6e742b6e97",
+      "title": "Sum-of-Squares Relaxations for Information Theory and Variational Inference",
+      "venue": "Foundations of Computational Mathematics",
+      "year": 2022,
+      "referenceCount": 80,
+      "citationCount": 14,
+      "authors": [
+        {
+          "authorId": "144570279",
+          "name": "F. Bach"
+        }
+      ]
+    },
+    {
+      "paperId": "f8e879dd8e10a277031443486336dcdf990da1e4",
+      "externalIds": {
+        "CorpusId": 39621351
+      },
+      "url": "https://www.semanticscholar.org/paper/f8e879dd8e10a277031443486336dcdf990da1e4",
+      "title": "A Unifying Approximate Inference Framework from Variational Free Energy Relaxation",
+      "venue": "",
+      "year": 2016,
+      "referenceCount": 25,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2672661",
+          "name": "Yingzhen Li"
+        }
+      ]
+    },
+    {
+      "paperId": "846fed4262128de34c899f5f9be1cf08de32d438",
+      "externalIds": {
+        "MAG": "2139057955",
+        "DBLP": "conf/icml/NickischS09",
+        "DOI": "10.1145/1553374.1553472",
+        "CorpusId": 15146855
+      },
+      "url": "https://www.semanticscholar.org/paper/846fed4262128de34c899f5f9be1cf08de32d438",
+      "title": "Convex variational Bayesian inference for large scale generalized linear models",
+      "venue": "International Conference on Machine Learning",
+      "year": 2009,
+      "referenceCount": 12,
+      "citationCount": 33,
+      "authors": [
+        {
+          "authorId": "1748758",
+          "name": "H. Nickisch"
+        },
+        {
+          "authorId": "1680574",
+          "name": "M. Seeger"
+        }
+      ]
+    },
+    {
+      "paperId": "12892b4cdd0795b6bb5b034b7db33466ae27bf68",
+      "externalIds": {
+        "DBLP": "journals/corr/BuiHS14",
+        "MAG": "2953220235",
+        "ArXiv": "1406.4200",
+        "CorpusId": 96928
+      },
+      "url": "https://www.semanticscholar.org/paper/12892b4cdd0795b6bb5b034b7db33466ae27bf68",
+      "title": "Lifted Tree-Reweighted Variational Inference",
+      "venue": "Conference on Uncertainty in Artificial Intelligence",
+      "year": 2014,
+      "referenceCount": 29,
+      "citationCount": 10,
+      "authors": [
+        {
+          "authorId": "145365341",
+          "name": "H. Bui"
+        },
+        {
+          "authorId": "1770643",
+          "name": "Tuyen N. Huynh"
+        },
+        {
+          "authorId": "1746662",
+          "name": "D. Sontag"
+        }
+      ]
+    },
+    {
+      "paperId": "7026ee413e89e409cecb9a73c35dbf0c41219a43",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2205-13098",
+        "ArXiv": "2205.13098",
+        "DOI": "10.48550/arXiv.2205.13098",
+        "CorpusId": 249097968
+      },
+      "url": "https://www.semanticscholar.org/paper/7026ee413e89e409cecb9a73c35dbf0c41219a43",
+      "title": "Optimal Neural Network Approximation of Wasserstein Gradient Direction via Convex Optimization",
+      "venue": "SIAM Journal on Mathematics of Data Science",
+      "year": 2022,
+      "referenceCount": 44,
+      "citationCount": 10,
+      "authors": [
+        {
+          "authorId": "2115568564",
+          "name": "Yifei Wang"
+        },
+        {
+          "authorId": "2149069664",
+          "name": "Peng Chen"
+        },
+        {
+          "authorId": "3173667",
+          "name": "Mert Pilanci"
+        },
+        {
+          "authorId": "2217054",
+          "name": "Wuchen Li"
+        }
+      ]
+    },
+    {
+      "paperId": "24ab1b561ce6f4729b65f88387cac6c737b5de3a",
+      "externalIds": {
+        "MAG": "1674372427",
+        "DBLP": "conf/dagstuhl/SeegerN09",
+        "ArXiv": "0810.0901",
+        "CorpusId": 8424615
+      },
+      "url": "https://www.semanticscholar.org/paper/24ab1b561ce6f4729b65f88387cac6c737b5de3a",
+      "title": "Large Scale Variational Inference and Experimental Design for Sparse Generalized Linear Models",
+      "venue": "Sampling-based Optimization in the Presence of Uncertainty",
+      "year": 2008,
+      "referenceCount": 77,
+      "citationCount": 23,
+      "authors": [
+        {
+          "authorId": "1680574",
+          "name": "M. Seeger"
+        },
+        {
+          "authorId": "1748758",
+          "name": "H. Nickisch"
+        }
+      ]
+    },
+    {
+      "paperId": "b06256170161420718983aedd9f3dafcb39a6e42",
+      "externalIds": {
+        "DBLP": "conf/acl/BurkettK13",
+        "MAG": "2251937247",
+        "ACL": "P13-5006",
+        "CorpusId": 263886112
+      },
+      "url": "https://www.semanticscholar.org/paper/b06256170161420718983aedd9f3dafcb39a6e42",
+      "title": "Variational Inference for Structured NLP Models",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2013,
+      "referenceCount": 30,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "145920702",
+          "name": "David Burkett"
+        },
+        {
+          "authorId": "2321178236",
+          "name": "Dan Klein"
+        }
+      ]
+    },
+    {
+      "paperId": "3e95f2d1986f097599e39070dde4228d9e814733",
+      "externalIds": {
+        "MAG": "2175676527",
+        "DBLP": "conf/naacl/BurkettK12a",
+        "ACL": "N12-4005",
+        "CorpusId": 219301150
+      },
+      "url": "https://www.semanticscholar.org/paper/3e95f2d1986f097599e39070dde4228d9e814733",
+      "title": "Variational Inference for Structured NLP Models",
+      "venue": "North American Chapter of the Association for Computational Linguistics",
+      "year": 2012,
+      "referenceCount": 2,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "145920702",
+          "name": "David Burkett"
+        },
+        {
+          "authorId": "38666915",
+          "name": "D. Klein"
+        }
+      ]
+    }
+  ]
+}

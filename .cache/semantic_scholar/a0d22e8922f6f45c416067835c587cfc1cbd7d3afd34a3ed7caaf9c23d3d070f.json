@@ -1,0 +1,304 @@
+{
+  "total": 31,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "75359c49a6abdd5fba642f46ec44812ed8e8a648",
+      "externalIds": {
+        "MAG": "1948582444",
+        "ArXiv": "1409.3257",
+        "DBLP": "journals/jmlr/ZhangX17",
+        "CorpusId": 13451663
+      },
+      "url": "https://www.semanticscholar.org/paper/75359c49a6abdd5fba642f46ec44812ed8e8a648",
+      "title": "Stochastic Primal-Dual Coordinate Method for Regularized Empirical Risk Minimization",
+      "venue": "International Conference on Machine Learning",
+      "year": 2014,
+      "referenceCount": 73,
+      "citationCount": 269,
+      "authors": [
+        {
+          "authorId": "2108471978",
+          "name": "Yuchen Zhang"
+        },
+        {
+          "authorId": "143724437",
+          "name": "Xiao Lin"
+        }
+      ]
+    },
+    {
+      "paperId": "0f77c6d8c5459061dbd933140c7ee3f1e494f20e",
+      "externalIds": {
+        "MAG": "2230377353",
+        "DBLP": "journals/corr/YuLY15",
+        "CorpusId": 18651909
+      },
+      "url": "https://www.semanticscholar.org/paper/0f77c6d8c5459061dbd933140c7ee3f1e494f20e",
+      "title": "Doubly Stochastic Primal-Dual Coordinate Method for Regularized Empirical Risk Minimization with Factorized Data",
+      "venue": "arXiv.org",
+      "year": 2015,
+      "referenceCount": 39,
+      "citationCount": 16,
+      "authors": [
+        {
+          "authorId": "40625240",
+          "name": "Adams Wei Yu"
+        },
+        {
+          "authorId": "39436683",
+          "name": "Qihang Lin"
+        },
+        {
+          "authorId": "40381920",
+          "name": "Tianbao Yang"
+        }
+      ]
+    },
+    {
+      "paperId": "586b0563734be533de41a23c858d948873d6da1c",
+      "externalIds": {
+        "DBLP": "conf/pkdd/ZhuS15",
+        "ArXiv": "1506.04093",
+        "MAG": "1762223960",
+        "DOI": "10.1007/978-3-319-23528-8_40",
+        "CorpusId": 1370603
+      },
+      "url": "https://www.semanticscholar.org/paper/586b0563734be533de41a23c858d948873d6da1c",
+      "title": "Adaptive Stochastic Primal-Dual Coordinate Descent for Separable Saddle Point Problems",
+      "venue": "ECML/PKDD",
+      "year": 2015,
+      "referenceCount": 17,
+      "citationCount": 19,
+      "authors": [
+        {
+          "authorId": "1703952",
+          "name": "Zhanxing Zhu"
+        },
+        {
+          "authorId": "1728216",
+          "name": "A. Storkey"
+        }
+      ]
+    },
+    {
+      "paperId": "69a49e9aa15963f3341ea888ebd434b9d83079bd",
+      "externalIds": {
+        "ArXiv": "1502.02268",
+        "DBLP": "conf/icml/QuRTF16",
+        "MAG": "134812657",
+        "CorpusId": 8273423
+      },
+      "url": "https://www.semanticscholar.org/paper/69a49e9aa15963f3341ea888ebd434b9d83079bd",
+      "title": "SDNA: Stochastic Dual Newton Ascent for Empirical Risk Minimization",
+      "venue": "International Conference on Machine Learning",
+      "year": 2015,
+      "referenceCount": 40,
+      "citationCount": 105,
+      "authors": [
+        {
+          "authorId": "38862887",
+          "name": "Zheng Qu"
+        },
+        {
+          "authorId": "2662221",
+          "name": "Peter Richtárik"
+        },
+        {
+          "authorId": "144696183",
+          "name": "Martin Takác"
+        },
+        {
+          "authorId": "2442024",
+          "name": "Olivier Fercoq"
+        }
+      ]
+    },
+    {
+      "paperId": "998dcbd4fa83e3f54905b3366de987834442ad2f",
+      "externalIds": {
+        "MAG": "2340159948",
+        "CorpusId": 16264178
+      },
+      "url": "https://www.semanticscholar.org/paper/998dcbd4fa83e3f54905b3366de987834442ad2f",
+      "title": "Doubly Stochastic Primal-Dual Coordinate Method for Empirical Risk Minimization and Bilinear Saddle-Point Problem",
+      "venue": "",
+      "year": 2015,
+      "referenceCount": 57,
+      "citationCount": 13,
+      "authors": [
+        {
+          "authorId": "40625240",
+          "name": "Adams Wei Yu"
+        },
+        {
+          "authorId": "39436683",
+          "name": "Qihang Lin"
+        },
+        {
+          "authorId": "40381920",
+          "name": "Tianbao Yang"
+        }
+      ]
+    },
+    {
+      "paperId": "3bb0fbe66c51fcf48aa02a5175c3d11bd41b3ee8",
+      "externalIds": {
+        "MAG": "2950572950",
+        "ArXiv": "1811.01182",
+        "DBLP": "conf/nips/TanZML18",
+        "CorpusId": 53781826
+      },
+      "url": "https://www.semanticscholar.org/paper/3bb0fbe66c51fcf48aa02a5175c3d11bd41b3ee8",
+      "title": "Stochastic Primal-Dual Method for Empirical Risk Minimization with O(1) Per-Iteration Complexity",
+      "venue": "Neural Information Processing Systems",
+      "year": 2018,
+      "referenceCount": 19,
+      "citationCount": 32,
+      "authors": [
+        {
+          "authorId": "3407754",
+          "name": "Conghui Tan"
+        },
+        {
+          "authorId": "38144094",
+          "name": "T. Zhang"
+        },
+        {
+          "authorId": "51152107",
+          "name": "Shiqian Ma"
+        },
+        {
+          "authorId": "40478933",
+          "name": "Ji Liu"
+        }
+      ]
+    },
+    {
+      "paperId": "1a6079f22ac0850d81b8f35cad96be17a946614b",
+      "externalIds": {
+        "MAG": "2606563496",
+        "ArXiv": "1508.03390",
+        "CorpusId": 9511695
+      },
+      "url": "https://www.semanticscholar.org/paper/1a6079f22ac0850d81b8f35cad96be17a946614b",
+      "title": "Doubly Stochastic Primal-Dual Coordinate Method for Bilinear Saddle-Point Problem",
+      "venue": "",
+      "year": 2015,
+      "referenceCount": 57,
+      "citationCount": 7,
+      "authors": [
+        {
+          "authorId": "40625240",
+          "name": "Adams Wei Yu"
+        },
+        {
+          "authorId": "39436683",
+          "name": "Qihang Lin"
+        },
+        {
+          "authorId": "40381920",
+          "name": "Tianbao Yang"
+        }
+      ]
+    },
+    {
+      "paperId": "69e61c45b47974a6f6fcc332c4a7424e9729e1f1",
+      "externalIds": {
+        "DOI": "10.3390/electronics11152382",
+        "CorpusId": 251262631
+      },
+      "url": "https://www.semanticscholar.org/paper/69e61c45b47974a6f6fcc332c4a7424e9729e1f1",
+      "title": "ASPDC: Accelerated SPDC Regularized Empirical Risk Minimization for Ill-Conditioned Problems in Large-Scale Machine Learning",
+      "venue": "Electronics",
+      "year": 2022,
+      "referenceCount": 0,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2180170576",
+          "name": "Haobang Liang"
+        },
+        {
+          "authorId": "2117843124",
+          "name": "Hao Cai"
+        },
+        {
+          "authorId": "2150914778",
+          "name": "Hejun Wu"
+        },
+        {
+          "authorId": "3062185",
+          "name": "Fanhua Shang"
+        },
+        {
+          "authorId": "2116502293",
+          "name": "James Cheng"
+        },
+        {
+          "authorId": "2108791014",
+          "name": "Xiying Li"
+        }
+      ]
+    },
+    {
+      "paperId": "695c5ab980cbf410320f1bccb686e2c3a6155a41",
+      "externalIds": {
+        "ArXiv": "2306.12498",
+        "DBLP": "journals/corr/abs-2306-12498",
+        "DOI": "10.48550/arXiv.2306.12498",
+        "CorpusId": 259224456
+      },
+      "url": "https://www.semanticscholar.org/paper/695c5ab980cbf410320f1bccb686e2c3a6155a41",
+      "title": "Empirical Risk Minimization with Shuffled SGD: A Primal-Dual Perspective and Improved Bounds",
+      "venue": "arXiv.org",
+      "year": 2023,
+      "referenceCount": 47,
+      "citationCount": 7,
+      "authors": [
+        {
+          "authorId": "2145065552",
+          "name": "Xu Cai"
+        },
+        {
+          "authorId": "2050154245",
+          "name": "C. Lin"
+        },
+        {
+          "authorId": "9727549",
+          "name": "Jelena Diakonikolas"
+        }
+      ]
+    },
+    {
+      "paperId": "44886ebfe750eca800a530ece9ed71608db718f9",
+      "externalIds": {
+        "MAG": "3171848598",
+        "DBLP": "journals/itor/LiuWS22",
+        "DOI": "10.1111/ITOR.13011",
+        "CorpusId": 236277766
+      },
+      "url": "https://www.semanticscholar.org/paper/44886ebfe750eca800a530ece9ed71608db718f9",
+      "title": "Adaptive coordinate sampling for stochastic primal-dual optimization",
+      "venue": "International Transactions in Operational Research",
+      "year": 2021,
+      "referenceCount": 44,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2561459",
+          "name": "Huikang Liu"
+        },
+        {
+          "authorId": "2145748177",
+          "name": "Xiaolu Wang"
+        },
+        {
+          "authorId": "1734000",
+          "name": "A. M. So"
+        }
+      ]
+    }
+  ]
+}

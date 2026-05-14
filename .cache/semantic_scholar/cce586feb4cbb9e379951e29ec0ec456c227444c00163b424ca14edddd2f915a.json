@@ -1,0 +1,62 @@
+{
+  "total": 2,
+  "offset": 0,
+  "data": [
+    {
+      "paperId": "8811f7052f65d39601e8d2b81da40db487302f24",
+      "externalIds": {
+        "DBLP": "conf/icml/Suzuki15",
+        "MAG": "600157613",
+        "CorpusId": 1014569
+      },
+      "url": "https://www.semanticscholar.org/paper/8811f7052f65d39601e8d2b81da40db487302f24",
+      "title": "Convergence rate of Bayesian tensor estimator and its minimax optimality",
+      "venue": "International Conference on Machine Learning",
+      "year": 2015,
+      "referenceCount": 39,
+      "citationCount": 35,
+      "authors": [
+        {
+          "authorId": "2026193813",
+          "name": "Taiji Suzuki"
+        }
+      ]
+    },
+    {
+      "paperId": "a210ef10db9cbbc1481df1452bcee6593370e4f5",
+      "externalIds": {
+        "MAG": "2462875204",
+        "DBLP": "conf/icml/KanagawaSKST16",
+        "CorpusId": 3116402
+      },
+      "url": "https://www.semanticscholar.org/paper/a210ef10db9cbbc1481df1452bcee6593370e4f5",
+      "title": "Gaussian process nonparametric tensor estimator and its minimax optimality",
+      "venue": "International Conference on Machine Learning",
+      "year": 2016,
+      "referenceCount": 46,
+      "citationCount": 21,
+      "authors": [
+        {
+          "authorId": "41209062",
+          "name": "Heishiro Kanagawa"
+        },
+        {
+          "authorId": "2026193813",
+          "name": "Taiji Suzuki"
+        },
+        {
+          "authorId": "145111241",
+          "name": "Hayato Kobayashi"
+        },
+        {
+          "authorId": "3037066",
+          "name": "N. Shimizu"
+        },
+        {
+          "authorId": "2638884",
+          "name": "Yukihiro Tagami"
+        }
+      ]
+    }
+  ]
+}

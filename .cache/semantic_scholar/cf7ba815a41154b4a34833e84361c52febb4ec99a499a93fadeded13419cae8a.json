@@ -1,0 +1,335 @@
+{
+  "total": 825,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "3a21ef1a4761fd90eb2092dee455d8da5dc8f317",
+      "externalIds": {
+        "ArXiv": "1502.03255",
+        "DBLP": "conf/icml/HallakSMM15",
+        "MAG": "1859820673",
+        "CorpusId": 262143399
+      },
+      "url": "https://www.semanticscholar.org/paper/3a21ef1a4761fd90eb2092dee455d8da5dc8f317",
+      "title": "Off-policy Model-based Learning under Unknown Factored Dynamics",
+      "venue": "International Conference on Machine Learning",
+      "year": 2015,
+      "referenceCount": 30,
+      "citationCount": 28,
+      "authors": [
+        {
+          "authorId": "21062872",
+          "name": "Assaf Hallak"
+        },
+        {
+          "authorId": "2244097655",
+          "name": "François Schnitzler"
+        },
+        {
+          "authorId": "2554720",
+          "name": "Timothy A. Mann"
+        },
+        {
+          "authorId": "49185899",
+          "name": "Shie Mannor"
+        }
+      ]
+    },
+    {
+      "paperId": "cbf3316877abc240edd5794ab9b26f424905a05b",
+      "externalIds": {
+        "DBLP": "journals/tmlr/StarreKCLO25",
+        "CorpusId": 280027814
+      },
+      "url": "https://www.semanticscholar.org/paper/cbf3316877abc240edd5794ab9b26f424905a05b",
+      "title": "Abstraction for Bayesian Reinforcement Learning in Factored POMDPs",
+      "venue": "Trans. Mach. Learn. Res.",
+      "year": 2025,
+      "referenceCount": 68,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "74186242",
+          "name": "Rolf A. N. Starre"
+        },
+        {
+          "authorId": "3442798",
+          "name": "S. Katt"
+        },
+        {
+          "authorId": "51440946",
+          "name": "M. Çelikok"
+        },
+        {
+          "authorId": "143888579",
+          "name": "M. Loog"
+        },
+        {
+          "authorId": "1799949",
+          "name": "F. Oliehoek"
+        }
+      ]
+    },
+    {
+      "paperId": "da860e2ed8e380f55d0cb5f5b38045a88f2b2cad",
+      "externalIds": {
+        "DBLP": "conf/aaai/SchnitzerAP26",
+        "ArXiv": "2508.00707",
+        "DOI": "10.48550/arXiv.2508.00707",
+        "CorpusId": 280416882
+      },
+      "url": "https://www.semanticscholar.org/paper/da860e2ed8e380f55d0cb5f5b38045a88f2b2cad",
+      "title": "Efficient Solution and Learning of Robust Factored MDPs",
+      "venue": "AAAI Conference on Artificial Intelligence",
+      "year": 2025,
+      "referenceCount": 41,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2057556984",
+          "name": "Yannik Schnitzer"
+        },
+        {
+          "authorId": "2303258176",
+          "name": "Alessandro Abate"
+        },
+        {
+          "authorId": "2314918613",
+          "name": "David Parker"
+        }
+      ]
+    },
+    {
+      "paperId": "647928af2708ea6ed6206415eeeba894c6bbd8df",
+      "externalIds": {
+        "DOI": "10.1002/eqe.4299",
+        "CorpusId": 275530959
+      },
+      "url": "https://www.semanticscholar.org/paper/647928af2708ea6ed6206415eeeba894c6bbd8df",
+      "title": "Application of an Off‐Policy Reinforcement Learning Algorithm for H∞${{H}_\\infty }$ Control Design of Nonlinear Structural Systems With Completely Unknown Dynamics",
+      "venue": "Earthquake Engineering &amp; Structural Dynamics",
+      "year": 2025,
+      "referenceCount": 38,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2327439886",
+          "name": "M. Amirmojahedi"
+        },
+        {
+          "authorId": "104383184",
+          "name": "A. Mojoodi"
+        },
+        {
+          "authorId": "2268594910",
+          "name": "S. Shojaee"
+        },
+        {
+          "authorId": "1410654753",
+          "name": "S. Hamzehei‐Javaran"
+        }
+      ]
+    },
+    {
+      "paperId": "f93c5403c9a901e1ba7220decd4f0b238784f108",
+      "externalIds": {
+        "DBLP": "journals/tcasII/WangMSPS24",
+        "DOI": "10.1109/TCSII.2023.3345637",
+        "CorpusId": 266485168
+      },
+      "url": "https://www.semanticscholar.org/paper/f93c5403c9a901e1ba7220decd4f0b238784f108",
+      "title": "Optimal Control for Interconnected Multi-Area Power Systems With Unknown Dynamics: An Off-Policy Q-Learning Method",
+      "venue": "IEEE Transactions on Circuits and Systems - II - Express Briefs",
+      "year": 2024,
+      "referenceCount": 12,
+      "citationCount": 8,
+      "authors": [
+        {
+          "authorId": "2152441245",
+          "name": "Jing Wang"
+        },
+        {
+          "authorId": "2235620360",
+          "name": "Xuanrui Mi"
+        },
+        {
+          "authorId": "2238540913",
+          "name": "Hao Shen"
+        },
+        {
+          "authorId": "2238146811",
+          "name": "Ju H. Park"
+        },
+        {
+          "authorId": "2238671808",
+          "name": "K. Shi"
+        }
+      ]
+    },
+    {
+      "paperId": "a194cb429a9746f864c0ca8f9b7769d6a575333d",
+      "externalIds": {
+        "DOI": "10.1002/oca.2916",
+        "CorpusId": 249653760
+      },
+      "url": "https://www.semanticscholar.org/paper/a194cb429a9746f864c0ca8f9b7769d6a575333d",
+      "title": "Off‐policy integral reinforcement learning‐based optimal tracking control for a class of nonzero‐sum game systems with unknown dynamics",
+      "venue": "Optimal control applications & methods",
+      "year": 2022,
+      "referenceCount": 62,
+      "citationCount": 20,
+      "authors": [
+        {
+          "authorId": "153198931",
+          "name": "Jinglou Zhao"
+        },
+        {
+          "authorId": "2158097967",
+          "name": "Fangting Chen"
+        }
+      ]
+    },
+    {
+      "paperId": "85675549e1f903961a68b017e5d084a5268302e8",
+      "externalIds": {
+        "DBLP": "journals/tcyb/WangYCRS25",
+        "DOI": "10.1109/TCYB.2025.3572104",
+        "CorpusId": 279156798,
+        "PubMed": "40465438"
+      },
+      "url": "https://www.semanticscholar.org/paper/85675549e1f903961a68b017e5d084a5268302e8",
+      "title": "Reinforcement-Learning-Based Fuzzy Bipartite Consensus for Multiagent Systems: A Novel Scaling Off-Policy Learning Scheme",
+      "venue": "IEEE Transactions on Cybernetics",
+      "year": 2025,
+      "referenceCount": 49,
+      "citationCount": 4,
+      "authors": [
+        {
+          "authorId": "2261863497",
+          "name": "Jing Wang"
+        },
+        {
+          "authorId": "2308982814",
+          "name": "Qing Yang"
+        },
+        {
+          "authorId": "2282770683",
+          "name": "Jinde Cao"
+        },
+        {
+          "authorId": "2264818446",
+          "name": "Leszek Rutkowski"
+        },
+        {
+          "authorId": "2334820348",
+          "name": "Hao Shen"
+        }
+      ]
+    },
+    {
+      "paperId": "21e6c765cc443ec611f3bb19426f633305988273",
+      "externalIds": {
+        "DOI": "10.1002/rnc.7021",
+        "CorpusId": 263282332
+      },
+      "url": "https://www.semanticscholar.org/paper/21e6c765cc443ec611f3bb19426f633305988273",
+      "title": "Non‐zero‐sum games of discrete‐time Markov jump systems with unknown dynamics: An off‐policy reinforcement learning method",
+      "venue": "International Journal of Robust and Nonlinear Control",
+      "year": 2023,
+      "referenceCount": 48,
+      "citationCount": 7,
+      "authors": [
+        {
+          "authorId": "2218897237",
+          "name": "Xuewen Zhang"
+        },
+        {
+          "authorId": "2238540913",
+          "name": "Hao Shen"
+        },
+        {
+          "authorId": "2146311310",
+          "name": "Feng Li"
+        },
+        {
+          "authorId": "2152441245",
+          "name": "Jing Wang"
+        }
+      ]
+    },
+    {
+      "paperId": "df4142340ea45400f01cc435205a5e3010aac331",
+      "externalIds": {
+        "DBLP": "journals/tii/LiD24",
+        "DOI": "10.1109/TII.2024.3435576",
+        "CorpusId": 272229391
+      },
+      "url": "https://www.semanticscholar.org/paper/df4142340ea45400f01cc435205a5e3010aac331",
+      "title": "Off-Policy Learning $H_{\\infty }$ Cooperative Optimal Output Regulation for Unknown Multiagent Systems Without Initial Stabilizing Gains",
+      "venue": "IEEE Transactions on Industrial Informatics",
+      "year": 2024,
+      "referenceCount": 34,
+      "citationCount": 7,
+      "authors": [
+        {
+          "authorId": "2172793806",
+          "name": "Dongdong Li"
+        },
+        {
+          "authorId": "2260722463",
+          "name": "Jiuxiang Dong"
+        }
+      ]
+    },
+    {
+      "paperId": "ca04f862b96766a9ff139a6a570fe11fbc5c583b",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2510-25529",
+        "ArXiv": "2510.25529",
+        "DOI": "10.48550/arXiv.2510.25529",
+        "CorpusId": 282574089
+      },
+      "url": "https://www.semanticscholar.org/paper/ca04f862b96766a9ff139a6a570fe11fbc5c583b",
+      "title": "Off-policy Reinforcement Learning with Model-based Exploration Augmentation",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "referenceCount": 70,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2303323557",
+          "name": "Likun Wang"
+        },
+        {
+          "authorId": "2051687896",
+          "name": "Xiangteng Zhang"
+        },
+        {
+          "authorId": "2303298329",
+          "name": "Yinuo Wang"
+        },
+        {
+          "authorId": "2134672998",
+          "name": "Guojian Zhan"
+        },
+        {
+          "authorId": "2257134911",
+          "name": "Wenxuan Wang"
+        },
+        {
+          "authorId": "2332528623",
+          "name": "Haoyu Gao"
+        },
+        {
+          "authorId": "23637596",
+          "name": "Jingliang Duan"
+        },
+        {
+          "authorId": "2239370549",
+          "name": "S. Li"
+        }
+      ]
+    }
+  ]
+}

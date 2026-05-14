@@ -1,0 +1,302 @@
+{
+  "total": 14246,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "c5d5a374a8c0c032b683075474eb1b2da6fa70cd",
+      "externalIds": {
+        "DBLP": "journals/corr/ChenC0Z17",
+        "MAG": "2953118516",
+        "ArXiv": "1706.01026",
+        "CorpusId": 19197702
+      },
+      "url": "https://www.semanticscholar.org/paper/c5d5a374a8c0c032b683075474eb1b2da6fa70cd",
+      "title": "Adaptive Multiple-Arm Identification",
+      "venue": "International Conference on Machine Learning",
+      "year": 2017,
+      "referenceCount": 27,
+      "citationCount": 17,
+      "authors": [
+        {
+          "authorId": "2809410",
+          "name": "Jiecao Chen"
+        },
+        {
+          "authorId": "2145306917",
+          "name": "Xi Chen"
+        },
+        {
+          "authorId": "1833768674",
+          "name": "Qin Zhang"
+        },
+        {
+          "authorId": "2046913376",
+          "name": "Yuanshuo Zhou"
+        }
+      ]
+    },
+    {
+      "paperId": "39e65b3218bd559762905e078450c39d8770f6a1",
+      "externalIds": {
+        "DBLP": "conf/atal/ReymondBRN24",
+        "DOI": "10.5555/3635637.3663022",
+        "CorpusId": 269527672
+      },
+      "url": "https://www.semanticscholar.org/paper/39e65b3218bd559762905e078450c39d8770f6a1",
+      "title": "Interactively Learning the User's Utility for Best-Arm Identification in Multi-Objective Multi-Armed Bandits",
+      "venue": "Adaptive Agents and Multi-Agent Systems",
+      "year": 2024,
+      "referenceCount": 53,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2076788502",
+          "name": "Mathieu Reymond"
+        },
+        {
+          "authorId": "51126811",
+          "name": "Eugenio Bargiacchi"
+        },
+        {
+          "authorId": "1917202",
+          "name": "D. Roijers"
+        },
+        {
+          "authorId": "2287940549",
+          "name": "Ann Nowé"
+        }
+      ]
+    },
+    {
+      "paperId": "f5efd1eadc409fc3168f595b118d5e35d6f79aca",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2312-12741",
+        "ArXiv": "2312.12741",
+        "DOI": "10.48550/arXiv.2312.12741",
+        "CorpusId": 266374584
+      },
+      "url": "https://www.semanticscholar.org/paper/f5efd1eadc409fc3168f595b118d5e35d6f79aca",
+      "title": "Locally Optimal Fixed-Budget Best Arm Identification in Two-Armed Gaussian Bandits with Unknown Variances",
+      "venue": "arXiv.org",
+      "year": 2023,
+      "referenceCount": 48,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "2263451524",
+          "name": "Masahiro Kato"
+        }
+      ]
+    },
+    {
+      "paperId": "4d84c35c9cf4934c979bf96c867d8b6064d5c32f",
+      "externalIds": {
+        "ArXiv": "2302.02988",
+        "CorpusId": 259833451
+      },
+      "url": "https://www.semanticscholar.org/paper/4d84c35c9cf4934c979bf96c867d8b6064d5c32f",
+      "title": "Asymptotically Optimal Fixed-Budget Best Arm Identification with Variance-Dependent Bounds",
+      "venue": "",
+      "year": 2023,
+      "referenceCount": 90,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "144397047",
+          "name": "Masahiro Kato"
+        },
+        {
+          "authorId": "3429139",
+          "name": "M. Imaizumi"
+        },
+        {
+          "authorId": "46624200",
+          "name": "Takuya Ishihara"
+        },
+        {
+          "authorId": "6496635",
+          "name": "T. Kitagawa"
+        }
+      ]
+    },
+    {
+      "paperId": "c33c03aba76592dbde875f7c9aabd0e083d88d09",
+      "externalIds": {
+        "DOI": "10.1155/2022/1413952",
+        "CorpusId": 252190472
+      },
+      "url": "https://www.semanticscholar.org/paper/c33c03aba76592dbde875f7c9aabd0e083d88d09",
+      "title": "An Improved Inverse Kinematics Solution for a Robot Arm Trajectory Using Multiple Adaptive Neuro-Fuzzy Inference Systems",
+      "venue": "Advances in Materials Science and Engineering",
+      "year": 2022,
+      "referenceCount": 34,
+      "citationCount": 8,
+      "authors": [
+        {
+          "authorId": "2100822442",
+          "name": "M. R. A. Refaai"
+        }
+      ]
+    },
+    {
+      "paperId": "396e56b1816278b0c312558c1db22d4e60d55d4e",
+      "externalIds": {
+        "MAG": "2947495126",
+        "CorpusId": 51305645
+      },
+      "url": "https://www.semanticscholar.org/paper/396e56b1816278b0c312558c1db22d4e60d55d4e",
+      "title": "CSE 599 i : Online and Adaptive Machine Learning Winter 2018 Lecture 6 : Non-stochastic best arm identification",
+      "venue": "",
+      "year": 2018,
+      "referenceCount": 3,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "145420950",
+          "name": "Anran Wang"
+        },
+        {
+          "authorId": "3369602",
+          "name": "Beibin Li"
+        },
+        {
+          "authorId": "2054420610",
+          "name": "Brian M. Chan"
+        },
+        {
+          "authorId": "2784877",
+          "name": "Shiqing Yu"
+        }
+      ]
+    },
+    {
+      "paperId": "bbd00bf9fb9fcbf1c83a04eaa92e3f7f7237aaf3",
+      "externalIds": {
+        "DOI": "10.1177/1729881416677695",
+        "CorpusId": 208256654
+      },
+      "url": "https://www.semanticscholar.org/paper/bbd00bf9fb9fcbf1c83a04eaa92e3f7f7237aaf3",
+      "title": "Robot manipulator identification based on adaptive multiple-input and multiple-output neural model optimized by advanced differential evolution algorithm",
+      "venue": "",
+      "year": 2016,
+      "referenceCount": 24,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "2327416449",
+          "name": "Nguyen Ngoc Son"
+        },
+        {
+          "authorId": "2406824345",
+          "name": "Ho Pham Huy Anh"
+        },
+        {
+          "authorId": "2291268307",
+          "name": "Nguyen Thanh Nam"
+        }
+      ]
+    },
+    {
+      "paperId": "1789fe991f9143f49eb06c45c80f6bb3650fda29",
+      "externalIds": {
+        "DOI": "10.1080/19466315.2023.2298961",
+        "CorpusId": 266865046
+      },
+      "url": "https://www.semanticscholar.org/paper/1789fe991f9143f49eb06c45c80f6bb3650fda29",
+      "title": "Effects of Allocation Method and Time Trends on Identification of the Best Arm in Multi-Arm Trials",
+      "venue": "Statistics in Biopharmaceutical Research",
+      "year": 2024,
+      "referenceCount": 46,
+      "citationCount": 6,
+      "authors": [
+        {
+          "authorId": "2276773585",
+          "name": "Lindsay R Berry"
+        },
+        {
+          "authorId": "2278556654",
+          "name": "Elizabeth Lorenzi"
+        },
+        {
+          "authorId": "2330260631",
+          "name": "Nicholas S. Berry"
+        },
+        {
+          "authorId": "2061447747",
+          "name": "Amy Crawford"
+        },
+        {
+          "authorId": "2240852450",
+          "name": "Peter Jacko"
+        },
+        {
+          "authorId": "49344788",
+          "name": "K. Viele"
+        }
+      ]
+    },
+    {
+      "paperId": "0b6f28055ea2288be93adb6f92853be69d413c1e",
+      "externalIds": {
+        "DBLP": "journals/tcst/BrendFF15",
+        "MAG": "1485063186",
+        "DOI": "10.1109/TCST.2015.2394508",
+        "CorpusId": 25026643
+      },
+      "url": "https://www.semanticscholar.org/paper/0b6f28055ea2288be93adb6f92853be69d413c1e",
+      "title": "Multiple-Model Adaptive Control of Functional Electrical Stimulation",
+      "venue": "IEEE Transactions on Control Systems Technology",
+      "year": 2015,
+      "referenceCount": 35,
+      "citationCount": 37,
+      "authors": [
+        {
+          "authorId": "3302155",
+          "name": "O. Brend"
+        },
+        {
+          "authorId": "73303981",
+          "name": "C. Freeman"
+        },
+        {
+          "authorId": "1716184",
+          "name": "M. French"
+        }
+      ]
+    },
+    {
+      "paperId": "d8de5a1422bf1c59c6409b06ad90296df0f98e2d",
+      "externalIds": {
+        "MAG": "3012362453",
+        "DOI": "10.1002/pst.2015",
+        "CorpusId": 214600514,
+        "PubMed": "32198968"
+      },
+      "url": "https://www.semanticscholar.org/paper/d8de5a1422bf1c59c6409b06ad90296df0f98e2d",
+      "title": "Comparison of response adaptive randomization features in multiarm clinical trials with control",
+      "venue": "Pharmaceutical statistics",
+      "year": 2020,
+      "referenceCount": 28,
+      "citationCount": 25,
+      "authors": [
+        {
+          "authorId": "49344788",
+          "name": "K. Viele"
+        },
+        {
+          "authorId": "3610074",
+          "name": "B. Saville"
+        },
+        {
+          "authorId": "11656441",
+          "name": "A. McGlothlin"
+        },
+        {
+          "authorId": "5482134",
+          "name": "K. Broglio"
+        }
+      ]
+    }
+  ]
+}

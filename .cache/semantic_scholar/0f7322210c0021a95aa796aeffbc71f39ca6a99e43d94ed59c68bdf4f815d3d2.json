@@ -1,0 +1,606 @@
+{
+  "offset": 0,
+  "citingPaperInfo": {
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/1505.04413, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "title": "Harmonic Exponential Families on Manifolds",
+    "authors": [
+      {
+        "authorId": "2244769925",
+        "name": "Taco Cohen"
+      },
+      {
+        "authorId": "2238638174",
+        "name": "Max Welling"
+      }
+    ]
+  },
+  "data": [
+    {
+      "citedPaper": {
+        "paperId": "061131b770f41acdd07ed36c7802a69bf1631195",
+        "externalIds": {
+          "MAG": "3032390595",
+          "DBLP": "conf/icml/CohenW14",
+          "ArXiv": "1402.4437",
+          "CorpusId": 216077517
+        },
+        "url": "https://www.semanticscholar.org/paper/061131b770f41acdd07ed36c7802a69bf1631195",
+        "title": "Learning the Irreducible Representations of Commutative Lie Groups",
+        "venue": "International Conference on Machine Learning",
+        "year": 2014,
+        "referenceCount": 21,
+        "citationCount": 123,
+        "authors": [
+          {
+            "authorId": "2056266",
+            "name": "Taco Cohen"
+          },
+          {
+            "authorId": "1678311",
+            "name": "M. Welling"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "474885b0ea7a9d501b876b1982d6bd34c12c2599",
+        "externalIds": {
+          "MAG": "1574941790",
+          "DOI": "10.1002/0471667196.ESS7149",
+          "CorpusId": 118017260
+        },
+        "url": "https://www.semanticscholar.org/paper/474885b0ea7a9d501b876b1982d6bd34c12c2599",
+        "title": "Directional Statistics, I",
+        "venue": "",
+        "year": 2011,
+        "referenceCount": 3,
+        "citationCount": 2283,
+        "authors": [
+          {
+            "authorId": "1877358",
+            "name": "S. Jammalamadaka"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "43689b700e1ab5ee9affcef15899c04250b490fc",
+        "externalIds": {
+          "MAG": "2131768055",
+          "DBLP": "journals/toms/KeinerKP09",
+          "DOI": "10.1145/1555386.1555388",
+          "CorpusId": 208247
+        },
+        "url": "https://www.semanticscholar.org/paper/43689b700e1ab5ee9affcef15899c04250b490fc",
+        "title": "Using NFFT 3---A Software Library for Various Nonequispaced Fast Fourier Transforms",
+        "venue": "TOMS",
+        "year": 2009,
+        "referenceCount": 80,
+        "citationCount": 376,
+        "authors": [
+          {
+            "authorId": "1898999",
+            "name": "J. Keiner"
+          },
+          {
+            "authorId": "2424912",
+            "name": "Stefan Kunis"
+          },
+          {
+            "authorId": "145661718",
+            "name": "D. Potts"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "4f681b620a19fecf0a67bebeae0e43a936fc9e64",
+        "externalIds": {
+          "MAG": "1502291261",
+          "DOI": "10.1007/978-0-387-79852-3",
+          "CorpusId": 18376245
+        },
+        "url": "https://www.semanticscholar.org/paper/4f681b620a19fecf0a67bebeae0e43a936fc9e64",
+        "title": "Symmetry, Representations, and Invariants",
+        "venue": "",
+        "year": 2009,
+        "referenceCount": 10,
+        "citationCount": 652,
+        "authors": [
+          {
+            "authorId": "30436890",
+            "name": "R. Goodman"
+          },
+          {
+            "authorId": "46756735",
+            "name": "N. Wallach"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "15fdeb775bf3e78eeeea73c5d41501039515a7f3",
+        "externalIds": {
+          "MAG": "2064936877",
+          "DBLP": "journals/na/PottsPV09",
+          "DOI": "10.1007/s11075-009-9277-0",
+          "CorpusId": 8557761
+        },
+        "url": "https://www.semanticscholar.org/paper/15fdeb775bf3e78eeeea73c5d41501039515a7f3",
+        "title": "A fast algorithm for nonequispaced Fourier transforms on the rotation group",
+        "venue": "Numerical Algorithms",
+        "year": 2009,
+        "referenceCount": 32,
+        "citationCount": 51,
+        "authors": [
+          {
+            "authorId": "145661718",
+            "name": "D. Potts"
+          },
+          {
+            "authorId": "1726202",
+            "name": "Jürgen Prestin"
+          },
+          {
+            "authorId": "2638605",
+            "name": "A. Vollrath"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "d98d0d1900b13b87aa4ffd6b69c046beb63f0434",
+        "externalIds": {
+          "DBLP": "journals/ftml/WainwrightJ08",
+          "MAG": "2120340025",
+          "DOI": "10.1561/2200000001",
+          "CorpusId": 207178945
+        },
+        "url": "https://www.semanticscholar.org/paper/d98d0d1900b13b87aa4ffd6b69c046beb63f0434",
+        "title": "Graphical Models, Exponential Families, and Variational Inference",
+        "venue": "Found. Trends Mach. Learn.",
+        "year": 2008,
+        "referenceCount": 277,
+        "citationCount": 4743,
+        "authors": [
+          {
+            "authorId": "1721860",
+            "name": "M. Wainwright"
+          },
+          {
+            "authorId": "1694621",
+            "name": "Michael I. Jordan"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "01300a1a06c4bf514b16ac7d761b4ee04369234d",
+        "externalIds": {
+          "MAG": "1986655361",
+          "DOI": "10.1007/S00041-008-9013-5",
+          "CorpusId": 16103293
+        },
+        "url": "https://www.semanticscholar.org/paper/01300a1a06c4bf514b16ac7d761b4ee04369234d",
+        "title": "FFTs on the Rotation Group",
+        "venue": "",
+        "year": 2008,
+        "referenceCount": 45,
+        "citationCount": 243,
+        "authors": [
+          {
+            "authorId": "2748571",
+            "name": "P. J. Kostelec"
+          },
+          {
+            "authorId": "1923670",
+            "name": "D. Rockmore"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "5b6684e8df8ea9c440a99cd124e6d0cf078de6a9",
+        "externalIds": {
+          "MAG": "2029278515",
+          "DOI": "10.1016/J.STAMET.2006.11.003",
+          "CorpusId": 7004749
+        },
+        "url": "https://www.semanticscholar.org/paper/5b6684e8df8ea9c440a99cd124e6d0cf078de6a9",
+        "title": "The generalized von Mises distribution",
+        "venue": "",
+        "year": 2007,
+        "referenceCount": 19,
+        "citationCount": 155,
+        "authors": [
+          {
+            "authorId": "20281940",
+            "name": "R. Gatto"
+          },
+          {
+            "authorId": "1877358",
+            "name": "S. Jammalamadaka"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "d471c95ae5fcb840827ede748db1272995be3afd",
+        "externalIds": {
+          "MAG": "1994547096",
+          "DOI": "10.1088/1751-8113/40/7/011",
+          "CorpusId": 14759863
+        },
+        "url": "https://www.semanticscholar.org/paper/d471c95ae5fcb840827ede748db1272995be3afd",
+        "title": "Rotation matrices for real spherical harmonics: general rotations of atomic orbitals in space-fixed axes",
+        "venue": "",
+        "year": 2007,
+        "referenceCount": 11,
+        "citationCount": 56,
+        "authors": [
+          {
+            "authorId": "2275877",
+            "name": "D. Pinchon"
+          },
+          {
+            "authorId": "14543562",
+            "name": "P. Hoggan"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "72feec8b2325de957101dcfca11ecd8954178c87",
+        "externalIds": {
+          "MAG": "1967374108",
+          "DOI": "10.1016/S0377-0427(03)00546-6",
+          "CorpusId": 119643074
+        },
+        "url": "https://www.semanticscholar.org/paper/72feec8b2325de957101dcfca11ecd8954178c87",
+        "title": "Fast spherical Fourier algorithms",
+        "venue": "",
+        "year": 2003,
+        "referenceCount": 28,
+        "citationCount": 146,
+        "authors": [
+          {
+            "authorId": "2424912",
+            "name": "Stefan Kunis"
+          },
+          {
+            "authorId": "145661718",
+            "name": "D. Potts"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "ae27275b88d87914c29968a906d771083a8bab9b",
+        "externalIds": {
+          "MAG": "2152658906",
+          "DOI": "10.1198/016214501750332974",
+          "CorpusId": 11667311
+        },
+        "url": "https://www.semanticscholar.org/paper/ae27275b88d87914c29968a906d771083a8bab9b",
+        "title": "Fitting Mixtures of Kent Distributions to Aid in Joint Set Identification",
+        "venue": "",
+        "year": 2001,
+        "referenceCount": 26,
+        "citationCount": 92,
+        "authors": [
+          {
+            "authorId": "2091184399",
+            "name": "D. Peel"
+          },
+          {
+            "authorId": "2045272",
+            "name": "W. J. Whiten"
+          },
+          {
+            "authorId": "1690163",
+            "name": "G. McLachlan"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "4dfa8bd5b96c94ea7b451588a868bfbc6bd4a6ae",
+        "externalIds": {
+          "MAG": "2056653204",
+          "DOI": "10.1006/ACHA.2000.0321",
+          "CorpusId": 121158926
+        },
+        "url": "https://www.semanticscholar.org/paper/4dfa8bd5b96c94ea7b451588a868bfbc6bd4a6ae",
+        "title": "Algorithms for Fast Convolutions on Motion Groups",
+        "venue": "",
+        "year": 2000,
+        "referenceCount": 33,
+        "citationCount": 32,
+        "authors": [
+          {
+            "authorId": "2347770",
+            "name": "A. Kyatkin"
+          },
+          {
+            "authorId": "1778107",
+            "name": "G. Chirikjian"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "dbe7f60bda91e13bedb8a4835b978a0f27a7e36e",
+        "externalIds": {
+          "MAG": "2076514469",
+          "DBLP": "journals/ijcv/MaSKS00",
+          "DOI": "10.1023/A:1008143307025",
+          "CorpusId": 716079
+        },
+        "url": "https://www.semanticscholar.org/paper/dbe7f60bda91e13bedb8a4835b978a0f27a7e36e",
+        "title": "Euclidean Reconstruction and Reprojection Up to Subgroups",
+        "venue": "Proceedings of the Seventh IEEE International Conference on Computer Vision",
+        "year": 1999,
+        "referenceCount": 30,
+        "citationCount": 54,
+        "authors": [
+          {
+            "authorId": "2240463492",
+            "name": "Yi Ma"
+          },
+          {
+            "authorId": "2252311577",
+            "name": "Stefano Soatto"
+          },
+          {
+            "authorId": "2257237133",
+            "name": "Jana Kosecka"
+          },
+          {
+            "authorId": "2259078493",
+            "name": "S. Sastry"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "41103b78c1cdf0e9e30f71fbef3d2a5cc055233f",
+        "externalIds": {
+          "MAG": "2011249371",
+          "DBLP": "journals/ijrr/KyatkinC99",
+          "DOI": "10.1177/02783649922066420",
+          "CorpusId": 16067141
+        },
+        "url": "https://www.semanticscholar.org/paper/41103b78c1cdf0e9e30f71fbef3d2a5cc055233f",
+        "title": "Computation of Robot Configuration and Workspaces via the Fourier Transform on the Discrete-Motion Group",
+        "venue": "Int. J. Robotics Res.",
+        "year": 1999,
+        "referenceCount": 41,
+        "citationCount": 27,
+        "authors": [
+          {
+            "authorId": "2347770",
+            "name": "A. Kyatkin"
+          },
+          {
+            "authorId": "1778107",
+            "name": "G. Chirikjian"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "cc9d149de3077ff8bd2712ffd07dc64a561561a7",
+        "externalIds": {
+          "MAG": "2160615084",
+          "DOI": "10.1006/AAMA.1994.1008",
+          "CorpusId": 122817218
+        },
+        "url": "https://www.semanticscholar.org/paper/cc9d149de3077ff8bd2712ffd07dc64a561561a7",
+        "title": "Computing Fourier Transforms and Convolutions on the 2-Sphere",
+        "venue": "",
+        "year": 1994,
+        "referenceCount": 37,
+        "citationCount": 1013,
+        "authors": [
+          {
+            "authorId": "153565250",
+            "name": "James R. Driscoll"
+          },
+          {
+            "authorId": "33886466",
+            "name": "D. Healy"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "3102127ea003b38a2027b80a6b44f4dc5e5e6595",
+        "externalIds": {
+          "MAG": "2764342511",
+          "CorpusId": 125157695
+        },
+        "url": "https://www.semanticscholar.org/paper/3102127ea003b38a2027b80a6b44f4dc5e5e6595",
+        "title": "Unitary Representations and Harmonic Analysis",
+        "venue": "",
+        "year": 1990,
+        "referenceCount": 0,
+        "citationCount": 200,
+        "authors": [
+          {
+            "authorId": "2056390292",
+            "name": "M. Sugiura"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "f99689d5a47f37ec614dd29473746d00539dfd66",
+        "externalIds": {
+          "MAG": "2084368593",
+          "DOI": "10.1214/AOS/1176344838",
+          "CorpusId": 122937948
+        },
+        "url": "https://www.semanticscholar.org/paper/f99689d5a47f37ec614dd29473746d00539dfd66",
+        "title": "Exponential Models for Directional Data",
+        "venue": "",
+        "year": 1979,
+        "referenceCount": 0,
+        "citationCount": 96,
+        "authors": [
+          {
+            "authorId": "145024674",
+            "name": "R. Beran"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "Significant Earthquake Database",
+        "venue": "NGDC. National Geophysical Data Center / World Data Service",
+        "year": 2015,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "Kent mixture model for scikit-learn, 2014. URL https://github.com/shoefer/ scikit-learn",
+        "venue": "",
+        "year": 2014,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "18cdeafb700a259a4c98154c3843b13cf0276457",
+        "externalIds": {
+          "MAG": "2145860534",
+          "CorpusId": 264605777
+        },
+        "url": "https://www.semanticscholar.org/paper/18cdeafb700a259a4c98154c3843b13cf0276457",
+        "title": "Group theoretical methods in machine learning",
+        "venue": "",
+        "year": 2008,
+        "referenceCount": 69,
+        "citationCount": 120,
+        "authors": [
+          {
+            "authorId": "1768120",
+            "name": "Tony Jebara"
+          },
+          {
+            "authorId": "32448864",
+            "name": "I. Kondor"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "047900782344b49170b1588f07fa2cc12304e3c4",
+        "externalIds": {
+          "CorpusId": 261460548
+        },
+        "url": "https://www.semanticscholar.org/paper/047900782344b49170b1588f07fa2cc12304e3c4",
+        "title": "GENERALIZED FFTS - A SURVEY OF SOME RECENT RESULTS DAVID K. MASLEN AND DANIEL N. ROCKMORE",
+        "venue": "",
+        "year": 1999,
+        "referenceCount": 77,
+        "citationCount": 47,
+        "authors": [
+          {
+            "authorId": "1923670",
+            "name": "D. Rockmore"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "193ce4b02779669aaff037f8f04781f1b6be7605",
+        "externalIds": {
+          "MAG": "2504166533",
+          "DOI": "10.1017/CBO9780511623660.005",
+          "CorpusId": 124413412
+        },
+        "url": "https://www.semanticscholar.org/paper/193ce4b02779669aaff037f8f04781f1b6be7605",
+        "title": "Representations and Invariants",
+        "venue": "",
+        "year": 1999,
+        "referenceCount": 0,
+        "citationCount": 47,
+        "authors": [
+          {
+            "authorId": "1684821",
+            "name": "P. Olver"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "d1ccb1fa7dc12d24c21151b88673fb24bfe9fe6a",
+        "externalIds": {
+          "MAG": "1596709027",
+          "CorpusId": 118750811
+        },
+        "url": "https://www.semanticscholar.org/paper/d1ccb1fa7dc12d24c21151b88673fb24bfe9fe6a",
+        "title": "Group representations in probability and statistics",
+        "venue": "",
+        "year": 1988,
+        "referenceCount": 247,
+        "citationCount": 1616,
+        "authors": [
+          {
+            "authorId": "2796350",
+            "name": "P. Diaconis"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "National Geophysical Data Center / World Data Service: Significant Earthquake Database. [accessed 01- 18-2015], 2015",
+        "venue": "National Geophysical Data Center / World Data Service: Significant Earthquake Database. [accessed 01- 18-2015], 2015",
+        "year": null,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    }
+  ]
+}

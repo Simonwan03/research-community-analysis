@@ -1,0 +1,343 @@
+{
+  "total": 415,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "dd76be92fbe574786c4be3f3973482779f17dcaf",
+      "externalIds": {
+        "MAG": "2696385650",
+        "DBLP": "conf/icml/RanaL0NV17",
+        "CorpusId": 26184595
+      },
+      "url": "https://www.semanticscholar.org/paper/dd76be92fbe574786c4be3f3973482779f17dcaf",
+      "title": "High Dimensional Bayesian Optimization with Elastic Gaussian Process",
+      "venue": "International Conference on Machine Learning",
+      "year": 2017,
+      "referenceCount": 28,
+      "citationCount": 107,
+      "authors": [
+        {
+          "authorId": "2285720075",
+          "name": "Santu Rana"
+        },
+        {
+          "authorId": "2133092260",
+          "name": "Cheng Li"
+        },
+        {
+          "authorId": "46415033",
+          "name": "Sunil Gupta"
+        },
+        {
+          "authorId": "143885433",
+          "name": "Vu Nguyen"
+        },
+        {
+          "authorId": "143761093",
+          "name": "S. Venkatesh"
+        }
+      ]
+    },
+    {
+      "paperId": "c07fe613ee8a5ef234c6bc4278ed335f181a964c",
+      "externalIds": {
+        "ArXiv": "2402.02746",
+        "DBLP": "conf/iclr/Xu0PZ25",
+        "DOI": "10.48550/arXiv.2402.02746",
+        "CorpusId": 267412460
+      },
+      "url": "https://www.semanticscholar.org/paper/c07fe613ee8a5ef234c6bc4278ed335f181a964c",
+      "title": "Standard Gaussian Process is All You Need for High-Dimensional Bayesian Optimization",
+      "venue": "International Conference on Learning Representations",
+      "year": 2024,
+      "referenceCount": 38,
+      "citationCount": 31,
+      "authors": [
+        {
+          "authorId": "2282619970",
+          "name": "Zhitong Xu"
+        },
+        {
+          "authorId": "2390798",
+          "name": "Shandian Zhe"
+        }
+      ]
+    },
+    {
+      "paperId": "869828d6b92e40db27422955424968fc1fd6c6d8",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2312-16983",
+        "ArXiv": "2312.16983",
+        "DOI": "10.48550/arXiv.2312.16983",
+        "CorpusId": 266574002
+      },
+      "url": "https://www.semanticscholar.org/paper/869828d6b92e40db27422955424968fc1fd6c6d8",
+      "title": "PG-LBO: Enhancing High-Dimensional Bayesian Optimization with Pseudo-Label and Gaussian Process Guidance",
+      "venue": "AAAI Conference on Artificial Intelligence",
+      "year": 2023,
+      "referenceCount": 34,
+      "citationCount": 12,
+      "authors": [
+        {
+          "authorId": "2276672397",
+          "name": "Taicai Chen"
+        },
+        {
+          "authorId": "2160539812",
+          "name": "Yue Duan"
+        },
+        {
+          "authorId": "2276821413",
+          "name": "Dong Li"
+        },
+        {
+          "authorId": "1785352346",
+          "name": "Lei Qi"
+        },
+        {
+          "authorId": "2475959",
+          "name": "Yinghuan Shi"
+        },
+        {
+          "authorId": "2256635942",
+          "name": "Yang Gao"
+        }
+      ]
+    },
+    {
+      "paperId": "a3d5a32500fbd35bcde740923c697859d2cef04f",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2502-09198",
+        "ArXiv": "2502.09198",
+        "DOI": "10.48550/arXiv.2502.09198",
+        "CorpusId": 276317998
+      },
+      "url": "https://www.semanticscholar.org/paper/a3d5a32500fbd35bcde740923c697859d2cef04f",
+      "title": "Understanding High-Dimensional Bayesian Optimization",
+      "venue": "International Conference on Machine Learning",
+      "year": 2025,
+      "referenceCount": 56,
+      "citationCount": 12,
+      "authors": [
+        {
+          "authorId": "2198501856",
+          "name": "Leonard Papenmeier"
+        },
+        {
+          "authorId": "31925701",
+          "name": "Matthias Poloczek"
+        },
+        {
+          "authorId": "2343505718",
+          "name": "Luigi Nardi"
+        }
+      ]
+    },
+    {
+      "paperId": "9eb3455f9ba9f142bf3c3c7fb0412527646e41cc",
+      "externalIds": {
+        "DBLP": "journals/tcad/GuLZBLYYHZCLZZ24",
+        "DOI": "10.1109/TCAD.2023.3314519",
+        "CorpusId": 261785898
+      },
+      "url": "https://www.semanticscholar.org/paper/9eb3455f9ba9f142bf3c3c7fb0412527646e41cc",
+      "title": "BBGP-sDFO: Batch Bayesian and Gaussian Process Enhanced Subspace Derivative Free Optimization for High-Dimensional Analog Circuit Synthesis",
+      "venue": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems",
+      "year": 2024,
+      "referenceCount": 39,
+      "citationCount": 19,
+      "authors": [
+        {
+          "authorId": "1994525688",
+          "name": "Tianchen Gu"
+        },
+        {
+          "authorId": "2240282366",
+          "name": "Wangzhen Li"
+        },
+        {
+          "authorId": "2240025422",
+          "name": "Aidong Zhao"
+        },
+        {
+          "authorId": "2469908",
+          "name": "Zhaori Bi"
+        },
+        {
+          "authorId": "2240214449",
+          "name": "Xudong Li"
+        },
+        {
+          "authorId": "145338224",
+          "name": "F. Yang"
+        },
+        {
+          "authorId": "1808363",
+          "name": "Changhao Yan"
+        },
+        {
+          "authorId": "2240303747",
+          "name": "W. Hu"
+        },
+        {
+          "authorId": "46385775",
+          "name": "Dian Zhou"
+        },
+        {
+          "authorId": "2240141409",
+          "name": "Tao Cui"
+        },
+        {
+          "authorId": "2120101900",
+          "name": "Xin Liu"
+        },
+        {
+          "authorId": "2240254155",
+          "name": "Zaikun Zhang"
+        },
+        {
+          "authorId": "2125062994",
+          "name": "Xuan Zeng"
+        }
+      ]
+    },
+    {
+      "paperId": "7a291c8a6e4e2c012d336b75fd81695cc0ed813d",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2510-01471",
+        "ArXiv": "2510.01471",
+        "DOI": "10.48550/arXiv.2510.01471",
+        "CorpusId": 281725045
+      },
+      "url": "https://www.semanticscholar.org/paper/7a291c8a6e4e2c012d336b75fd81695cc0ed813d",
+      "title": "Fine-tuning LLMs with variational Bayesian last layer for high-dimensional Bayesian optimization",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "referenceCount": 72,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "2373604753",
+          "name": "Haotian Xiang"
+        },
+        {
+          "authorId": "2325111499",
+          "name": "Jinwen Xu"
+        },
+        {
+          "authorId": "2383971288",
+          "name": "Qin Lu"
+        }
+      ]
+    },
+    {
+      "paperId": "f40fc1b6d5bd8d1c3cca729cc1a25a75ea393329",
+      "externalIds": {
+        "ArXiv": "2504.01743",
+        "DBLP": "conf/aistats/HoangTGN25",
+        "DOI": "10.48550/arXiv.2504.01743",
+        "CorpusId": 277502109
+      },
+      "url": "https://www.semanticscholar.org/paper/f40fc1b6d5bd8d1c3cca729cc1a25a75ea393329",
+      "title": "High Dimensional Bayesian Optimization using Lasso Variable Selection",
+      "venue": "International Conference on Artificial Intelligence and Statistics",
+      "year": 2025,
+      "referenceCount": 56,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "152173756",
+          "name": "Vu Viet Hoang"
+        },
+        {
+          "authorId": "2282572913",
+          "name": "H. Tran"
+        },
+        {
+          "authorId": "2282608213",
+          "name": "Sunil Gupta"
+        },
+        {
+          "authorId": "2304024464",
+          "name": "Vu Nguyen"
+        }
+      ]
+    },
+    {
+      "paperId": "9e5419e93fc57dd93f1fb5e7786a7cc3acc7d0ec",
+      "externalIds": {
+        "DOI": "10.1109/IEEECONF67917.2025.11443913",
+        "CorpusId": 286875487
+      },
+      "url": "https://www.semanticscholar.org/paper/9e5419e93fc57dd93f1fb5e7786a7cc3acc7d0ec",
+      "title": "Adapting LLMs for High-Dimensional Bayesian Optimization",
+      "venue": "Asilomar Conference on Signals, Systems and Computers",
+      "year": 2025,
+      "referenceCount": 33,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2373604753",
+          "name": "Haotian Xiang"
+        },
+        {
+          "authorId": "2367599082",
+          "name": "Qin Lu"
+        }
+      ]
+    },
+    {
+      "paperId": "c8e3f88a03c89ac22054b48b88346cf6fd39e7bb",
+      "externalIds": {
+        "DBLP": "journals/telo/BinoisW22",
+        "ArXiv": "2111.05040",
+        "DOI": "10.1145/3545611",
+        "CorpusId": 243861085
+      },
+      "url": "https://www.semanticscholar.org/paper/c8e3f88a03c89ac22054b48b88346cf6fd39e7bb",
+      "title": "A Survey on High-dimensional Gaussian Process Modeling with Application to Bayesian Optimization",
+      "venue": "ACM Transactions on Evolutionary Learning and Optimization",
+      "year": 2021,
+      "referenceCount": 169,
+      "citationCount": 196,
+      "authors": [
+        {
+          "authorId": "71200495",
+          "name": "M. Binois"
+        },
+        {
+          "authorId": "2791837",
+          "name": "Nathan Wycoff"
+        }
+      ]
+    },
+    {
+      "paperId": "8b01770dc590936cdfcb1997e95f1176ec3b5f1a",
+      "externalIds": {
+        "ArXiv": "2505.20685",
+        "CorpusId": 286255936
+      },
+      "url": "https://www.semanticscholar.org/paper/8b01770dc590936cdfcb1997e95f1176ec3b5f1a",
+      "title": "GIT-BO: High-Dimensional Bayesian Optimization with Tabular Foundation Models",
+      "venue": "",
+      "year": 2025,
+      "referenceCount": 69,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2295685438",
+          "name": "Rosen Yu"
+        },
+        {
+          "authorId": "2267485884",
+          "name": "Cyril Picard"
+        },
+        {
+          "authorId": "2260964767",
+          "name": "Faez Ahmed"
+        }
+      ]
+    }
+  ]
+}

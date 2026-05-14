@@ -1,0 +1,262 @@
+{
+  "total": 34,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "37a06ae1b05b4491e4f3063e592a673e505a142c",
+      "externalIds": {
+        "DBLP": "conf/icml/ZhaoAGA16",
+        "MAG": "2420777250",
+        "CorpusId": 12479757
+      },
+      "url": "https://www.semanticscholar.org/paper/37a06ae1b05b4491e4f3063e592a673e505a142c",
+      "title": "Collapsed Variational Inference for Sum-Product Networks",
+      "venue": "International Conference on Machine Learning",
+      "year": 2016,
+      "referenceCount": 25,
+      "citationCount": 49,
+      "authors": [
+        {
+          "authorId": "51209090",
+          "name": "H. Zhao"
+        },
+        {
+          "authorId": "2373407132",
+          "name": "T. Adel"
+        },
+        {
+          "authorId": "21889436",
+          "name": "Geoffrey J. Gordon"
+        },
+        {
+          "authorId": "1773498",
+          "name": "Brandon Amos"
+        }
+      ]
+    },
+    {
+      "paperId": "be7990050697b676f3b302ef39be9973e33dbb7e",
+      "externalIds": {
+        "MAG": "2962744734",
+        "DBLP": "conf/isipta/WitCCR19",
+        "CorpusId": 195785202
+      },
+      "url": "https://www.semanticscholar.org/paper/be7990050697b676f3b302ef39be9973e33dbb7e",
+      "title": "Robustness in Sum-Product Networks with Continuous and Categorical Data",
+      "venue": "International Symposium on Imprecise Probabilities and Their Applications",
+      "year": 2019,
+      "referenceCount": 11,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "150287418",
+          "name": "R. Wit"
+        },
+        {
+          "authorId": null,
+          "name": "Cassio Polpo de Campos"
+        },
+        {
+          "authorId": "19215812",
+          "name": "Diarmaid Conaty"
+        },
+        {
+          "authorId": "2248667",
+          "name": "J. M. D. Rincón"
+        }
+      ]
+    },
+    {
+      "paperId": "0e9c60bbb3532205b03c70722ee64ea0107e924d",
+      "externalIds": {
+        "DBLP": "conf/pgm/ConatyRC18",
+        "MAG": "2881696115",
+        "CorpusId": 52965085
+      },
+      "url": "https://www.semanticscholar.org/paper/0e9c60bbb3532205b03c70722ee64ea0107e924d",
+      "title": "Cascading Sum-Product Networks using Robustness",
+      "venue": "European Workshop on Probabilistic Graphical Models",
+      "year": 2018,
+      "referenceCount": 26,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "19215812",
+          "name": "Diarmaid Conaty"
+        },
+        {
+          "authorId": "2248667",
+          "name": "J. M. D. Rincón"
+        },
+        {
+          "authorId": null,
+          "name": "Cassio Polpo de Campos"
+        }
+      ]
+    },
+    {
+      "paperId": "63b2399d5e8c86c7200166fcd1c54f280f4b3e6e",
+      "externalIds": {
+        "MAG": "2195655738",
+        "ArXiv": "1512.01665",
+        "CorpusId": 88514298
+      },
+      "url": "https://www.semanticscholar.org/paper/63b2399d5e8c86c7200166fcd1c54f280f4b3e6e",
+      "title": "Stochastic Collapsed Variational Inference for Hidden Markov Models",
+      "venue": "",
+      "year": 2015,
+      "referenceCount": 20,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2297143250",
+          "name": "Pengyu Wang"
+        },
+        {
+          "authorId": "1685771",
+          "name": "Phil Blunsom"
+        }
+      ]
+    },
+    {
+      "paperId": "3a653ec9c6b19dda9eb8b6ec2f011dfd7eadb559",
+      "externalIds": {
+        "DBLP": "conf/nips/ShihE20",
+        "ArXiv": "2010.11446",
+        "MAG": "3093888319",
+        "CorpusId": 225041122
+      },
+      "url": "https://www.semanticscholar.org/paper/3a653ec9c6b19dda9eb8b6ec2f011dfd7eadb559",
+      "title": "Probabilistic Circuits for Variational Inference in Discrete Graphical Models",
+      "venue": "Neural Information Processing Systems",
+      "year": 2020,
+      "referenceCount": 46,
+      "citationCount": 26,
+      "authors": [
+        {
+          "authorId": "145117953",
+          "name": "Andy Shih"
+        },
+        {
+          "authorId": "2490652",
+          "name": "Stefano Ermon"
+        }
+      ]
+    },
+    {
+      "paperId": "0c25e5f544167840756950e0ff3edd238a19cfd1",
+      "externalIds": {
+        "MAG": "2594155836",
+        "DBLP": "conf/iclr/SrivastavaS17",
+        "ArXiv": "1703.01488",
+        "CorpusId": 29842525
+      },
+      "url": "https://www.semanticscholar.org/paper/0c25e5f544167840756950e0ff3edd238a19cfd1",
+      "title": "Autoencoding Variational Inference For Topic Models",
+      "venue": "International Conference on Learning Representations",
+      "year": 2017,
+      "referenceCount": 37,
+      "citationCount": 660,
+      "authors": [
+        {
+          "authorId": "2018087",
+          "name": "Akash Srivastava"
+        },
+        {
+          "authorId": "37210858",
+          "name": "Charles Sutton"
+        }
+      ]
+    },
+    {
+      "paperId": "54f5ef1d0afa9bfbe74360704a5670d0cd5b1212",
+      "externalIds": {
+        "CorpusId": 28146608
+      },
+      "url": "https://www.semanticscholar.org/paper/54f5ef1d0afa9bfbe74360704a5670d0cd5b1212",
+      "title": "Neural Variational Inference For Topic Models",
+      "venue": "",
+      "year": 2016,
+      "referenceCount": 28,
+      "citationCount": 14,
+      "authors": [
+        {
+          "authorId": "2018087",
+          "name": "Akash Srivastava"
+        },
+        {
+          "authorId": "37210858",
+          "name": "Charles Sutton"
+        }
+      ]
+    },
+    {
+      "paperId": "5f2dfdea9c21aeb297ba47d8a3524d0a16e5d48e",
+      "externalIds": {
+        "MAG": "2196348858",
+        "DBLP": "conf/pkdd/VergariME15",
+        "DOI": "10.1007/978-3-319-23525-7_21",
+        "CorpusId": 17130094
+      },
+      "url": "https://www.semanticscholar.org/paper/5f2dfdea9c21aeb297ba47d8a3524d0a16e5d48e",
+      "title": "Simplifying, Regularizing and Strengthening Sum-Product Network Structure Learning",
+      "venue": "ECML/PKDD",
+      "year": 2015,
+      "referenceCount": 27,
+      "citationCount": 114,
+      "authors": [
+        {
+          "authorId": "14341992",
+          "name": "Antonio Vergari"
+        },
+        {
+          "authorId": "1718594",
+          "name": "Nicola Di Mauro"
+        },
+        {
+          "authorId": "1700821",
+          "name": "F. Esposito"
+        }
+      ]
+    },
+    {
+      "paperId": "7fa66acf7831839d17ccda3d8495102d2eaed8a1",
+      "externalIds": {
+        "ArXiv": "2603.15670",
+        "CorpusId": 286579670
+      },
+      "url": "https://www.semanticscholar.org/paper/7fa66acf7831839d17ccda3d8495102d2eaed8a1",
+      "title": "I Know What I Don't Know: Latent Posterior Factor Models for Multi-Evidence Probabilistic Reasoning",
+      "venue": "",
+      "year": 2026,
+      "referenceCount": 0,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2199318811",
+          "name": "A. Alege"
+        }
+      ]
+    },
+    {
+      "paperId": "5bdb391331356a4ad0a0009073c0c6c7393e7b55",
+      "externalIds": {
+        "ArXiv": "2603.15674",
+        "CorpusId": 286579781
+      },
+      "url": "https://www.semanticscholar.org/paper/5bdb391331356a4ad0a0009073c0c6c7393e7b55",
+      "title": "Theoretical Foundations of Latent Posterior Factors: Formal Guarantees for Multi-Evidence Reasoning",
+      "venue": "",
+      "year": 2026,
+      "referenceCount": 26,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2199318811",
+          "name": "A. Alege"
+        }
+      ]
+    }
+  ]
+}

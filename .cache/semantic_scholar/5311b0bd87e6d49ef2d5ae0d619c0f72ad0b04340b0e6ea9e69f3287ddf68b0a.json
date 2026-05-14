@@ -1,0 +1,328 @@
+{
+  "total": 201992,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "8e4c698a277b369fd5632eb8893d76b7b22f9942",
+      "externalIds": {
+        "DBLP": "conf/ijcnn/KaparinosPT25",
+        "DOI": "10.1109/IJCNN64981.2025.11228950",
+        "CorpusId": 283015222
+      },
+      "url": "https://www.semanticscholar.org/paper/8e4c698a277b369fd5632eb8893d76b7b22f9942",
+      "title": "Single Pass Uncertainty Estimation in Q-Learning via Dropout Distillation",
+      "venue": "IEEE International Joint Conference on Neural Network",
+      "year": 2025,
+      "referenceCount": 36,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2392427969",
+          "name": "Nikolaos Kaparinos"
+        },
+        {
+          "authorId": "3200630",
+          "name": "Nikolaos Passalis"
+        },
+        {
+          "authorId": "2269144866",
+          "name": "A. Tefas"
+        }
+      ]
+    },
+    {
+      "paperId": "197eb7c83842139117efc7f1fa1e281fff4fa753",
+      "externalIds": {
+        "DBLP": "conf/icml/BuloPK16",
+        "MAG": "2913543596",
+        "CorpusId": 15776580
+      },
+      "url": "https://www.semanticscholar.org/paper/197eb7c83842139117efc7f1fa1e281fff4fa753",
+      "title": "Dropout distillation",
+      "venue": "International Conference on Machine Learning",
+      "year": 2016,
+      "referenceCount": 24,
+      "citationCount": 48,
+      "authors": [
+        {
+          "authorId": "2145174",
+          "name": "S. R. Bulò"
+        },
+        {
+          "authorId": "3202308",
+          "name": "L. Porzi"
+        },
+        {
+          "authorId": "2049889",
+          "name": "P. Kontschieder"
+        }
+      ]
+    },
+    {
+      "paperId": "a22b6aa079c07229d813c53663db689f34290d4d",
+      "externalIds": {
+        "ArXiv": "1809.10562",
+        "MAG": "2894335577",
+        "DBLP": "journals/corr/abs-1809-10562",
+        "CorpusId": 52024033
+      },
+      "url": "https://www.semanticscholar.org/paper/a22b6aa079c07229d813c53663db689f34290d4d",
+      "title": "Dropout Distillation for Efficiently Estimating Model Confidence",
+      "venue": "arXiv.org",
+      "year": 2018,
+      "referenceCount": 28,
+      "citationCount": 24,
+      "authors": [
+        {
+          "authorId": "31618584",
+          "name": "Corina Gurau"
+        },
+        {
+          "authorId": "2319408788",
+          "name": "A. Bewley"
+        },
+        {
+          "authorId": "1834086",
+          "name": "I. Posner"
+        }
+      ]
+    },
+    {
+      "paperId": "6d01899075bdc76c0a1a90027fb4271e255c6d9e",
+      "externalIds": {
+        "DBLP": "journals/access/MenaIDID25",
+        "DOI": "10.1109/ACCESS.2025.3568706",
+        "CorpusId": 278460944
+      },
+      "url": "https://www.semanticscholar.org/paper/6d01899075bdc76c0a1a90027fb4271e255c6d9e",
+      "title": "Multi-Sensor Model for Earth Observation Robust to Missing Data via Sensor Dropout and Mutual Distillation",
+      "venue": "IEEE Access",
+      "year": 2025,
+      "referenceCount": 52,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2260697942",
+          "name": "F. Mena"
+        },
+        {
+          "authorId": "2243268263",
+          "name": "Dino Ienco"
+        },
+        {
+          "authorId": "10373561",
+          "name": "C. Dantas"
+        },
+        {
+          "authorId": "2125780",
+          "name": "R. Interdonato"
+        },
+        {
+          "authorId": "2248061971",
+          "name": "A. Dengel"
+        }
+      ]
+    },
+    {
+      "paperId": "e472c1410b8908d0b65e1680b9614e42be33e072",
+      "externalIds": {
+        "DOI": "10.1109/MAPR67746.2025.11133957",
+        "CorpusId": 280975857
+      },
+      "url": "https://www.semanticscholar.org/paper/e472c1410b8908d0b65e1680b9614e42be33e072",
+      "title": "Dropout Attacks on Knowledge Distillation",
+      "venue": "International Conference on Multimedia Analysis and Pattern Recognition",
+      "year": 2025,
+      "referenceCount": 14,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2379280851",
+          "name": "Duc-Tai Nguyen"
+        },
+        {
+          "authorId": "2377978550",
+          "name": "Tra-My Le-Doan"
+        },
+        {
+          "authorId": "2377977600",
+          "name": "Hoang-Trung Le-Pham"
+        },
+        {
+          "authorId": "27006912",
+          "name": "Kim-Hung Le"
+        }
+      ]
+    },
+    {
+      "paperId": "b75cf8de1e888bec53333f5f06bc8c6eb9bb685f",
+      "externalIds": {
+        "DBLP": "conf/wacv/LeeHSKK25",
+        "DOI": "10.1109/WACV61041.2025.00809",
+        "CorpusId": 277194939
+      },
+      "url": "https://www.semanticscholar.org/paper/b75cf8de1e888bec53333f5f06bc8c6eb9bb685f",
+      "title": "Dropout Connects Transformers and CNNs: Transfer General Knowledge for Knowledge Distillation",
+      "venue": "IEEE Workshop/Winter Conference on Applications of Computer Vision",
+      "year": 2025,
+      "referenceCount": 51,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "1666418119",
+          "name": "Bokyeung Lee"
+        },
+        {
+          "authorId": "2149084558",
+          "name": "Jonghwan Hong"
+        },
+        {
+          "authorId": "2282262289",
+          "name": "Hyunuk Shin"
+        },
+        {
+          "authorId": "1861248",
+          "name": "Bonhwa Ku"
+        },
+        {
+          "authorId": "2281782637",
+          "name": "Hanseok Ko"
+        }
+      ]
+    },
+    {
+      "paperId": "f9b476eed31c9ef58e980d6b0e745ed1aca4d94f",
+      "externalIds": {
+        "DBLP": "journals/access/YoonLKK24",
+        "DOI": "10.1109/ACCESS.2024.3457859",
+        "CorpusId": 272615845
+      },
+      "url": "https://www.semanticscholar.org/paper/f9b476eed31c9ef58e980d6b0e745ed1aca4d94f",
+      "title": "Cons-KD: Dropout-Robust Knowledge Distillation for CTC-Based Automatic Speech Recognition",
+      "venue": "IEEE Access",
+      "year": 2024,
+      "referenceCount": 42,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "2118100265",
+          "name": "J. Yoon"
+        },
+        {
+          "authorId": "2118421538",
+          "name": "Hyeonseung Lee"
+        },
+        {
+          "authorId": "2321042242",
+          "name": "Ju Yeon Kang"
+        },
+        {
+          "authorId": "2152143246",
+          "name": "N. Kim"
+        }
+      ]
+    },
+    {
+      "paperId": "c3e2e28c50e249384c19e87c92a1ea303cd90a41",
+      "externalIds": {
+        "DBLP": "journals/comintsys/ChenCZWZY25",
+        "DOI": "10.1007/s40747-024-01705-8",
+        "CorpusId": 274955653
+      },
+      "url": "https://www.semanticscholar.org/paper/c3e2e28c50e249384c19e87c92a1ea303cd90a41",
+      "title": "A dynamic dropout self-distillation method for object segmentation",
+      "venue": "Complex & Intelligent Systems",
+      "year": 2024,
+      "referenceCount": 38,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "2333275968",
+          "name": "Lei Chen"
+        },
+        {
+          "authorId": "2239278904",
+          "name": "Tieyong Cao"
+        },
+        {
+          "authorId": "2258305100",
+          "name": "Yunfei Zheng"
+        },
+        {
+          "authorId": "2155654683",
+          "name": "Yang Wang"
+        },
+        {
+          "authorId": "2208121189",
+          "name": "Bo Zhang"
+        },
+        {
+          "authorId": "2306836161",
+          "name": "Jibin Yang"
+        }
+      ]
+    },
+    {
+      "paperId": "9c9a529bbcc6b90557cf61ffc4a24dd804b6fdb7",
+      "externalIds": {
+        "DBLP": "conf/iwis/ZhouTJ23",
+        "DOI": "10.1109/IWIS58789.2023.10284595",
+        "CorpusId": 264479308
+      },
+      "url": "https://www.semanticscholar.org/paper/9c9a529bbcc6b90557cf61ffc4a24dd804b6fdb7",
+      "title": "Knowledge Distillation for Human Pose Estimation Using Channel Dropout Strategy",
+      "venue": "2023 International Workshop on Intelligent Systems (IWIS)",
+      "year": 2023,
+      "referenceCount": 25,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2343785788",
+          "name": "Guangyao Zhou"
+        },
+        {
+          "authorId": "2261550138",
+          "name": "Xiluo Teng"
+        },
+        {
+          "authorId": "2237999594",
+          "name": "Kanghyun Jo"
+        }
+      ]
+    },
+    {
+      "paperId": "9556d2d5d8178265c576662f342adca2e4cac14e",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2208-05642",
+        "ArXiv": "2208.05642",
+        "DOI": "10.48550/arXiv.2208.05642",
+        "CorpusId": 251493147
+      },
+      "url": "https://www.semanticscholar.org/paper/9556d2d5d8178265c576662f342adca2e4cac14e",
+      "title": "Self-Knowledge Distillation via Dropout",
+      "venue": "Computer Vision and Image Understanding",
+      "year": 2022,
+      "referenceCount": 50,
+      "citationCount": 27,
+      "authors": [
+        {
+          "authorId": "2181205795",
+          "name": "Hyoje Lee"
+        },
+        {
+          "authorId": "1388732668",
+          "name": "Yeachan Park"
+        },
+        {
+          "authorId": "2065450823",
+          "name": "Hyun Seo"
+        },
+        {
+          "authorId": "2259103",
+          "name": "Myung-joo Kang"
+        }
+      ]
+    }
+  ]
+}

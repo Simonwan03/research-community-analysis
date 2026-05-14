@@ -1,0 +1,424 @@
+{
+  "total": 579,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "13cabc82f93f87c029c8db95db1c12a744e16b67",
+      "externalIds": {
+        "DBLP": "conf/icml/PadSCTU17",
+        "MAG": "2740763524",
+        "CorpusId": 864629
+      },
+      "url": "https://www.semanticscholar.org/paper/13cabc82f93f87c029c8db95db1c12a744e16b67",
+      "title": "Dictionary Learning Based on Sparse Distribution Tomography",
+      "venue": "International Conference on Machine Learning",
+      "year": 2017,
+      "referenceCount": 33,
+      "citationCount": 9,
+      "authors": [
+        {
+          "authorId": "2745276",
+          "name": "P. Pad"
+        },
+        {
+          "authorId": "10661595",
+          "name": "Farnood Salehi"
+        },
+        {
+          "authorId": "144776615",
+          "name": "L. E. Celis"
+        },
+        {
+          "authorId": "3250409",
+          "name": "Patrick Thiran"
+        },
+        {
+          "authorId": "51027413",
+          "name": "M. Unser"
+        }
+      ]
+    },
+    {
+      "paperId": "0f712e8b08d6bdf676f700dd6ee309ef63bbf523",
+      "externalIds": {
+        "PubMedCentral": "9823807",
+        "DBLP": "journals/sensors/WeiYZ23",
+        "DOI": "10.3390/s23010208",
+        "CorpusId": 255207820,
+        "PubMed": "36616804"
+      },
+      "url": "https://www.semanticscholar.org/paper/0f712e8b08d6bdf676f700dd6ee309ef63bbf523",
+      "title": "Temperature Field Reconstruction Method for Acoustic Tomography Based on Multi-Dictionary Learning",
+      "venue": "Italian National Conference on Sensors",
+      "year": 2022,
+      "referenceCount": 39,
+      "citationCount": 6,
+      "authors": [
+        {
+          "authorId": "2108057836",
+          "name": "Yuankun Wei"
+        },
+        {
+          "authorId": "1924725",
+          "name": "Hua Yan"
+        },
+        {
+          "authorId": "26443508",
+          "name": "Yinggang Zhou"
+        }
+      ]
+    },
+    {
+      "paperId": "581467a1a0745e714fe1b2a86f50e1e5b62c3a5c",
+      "externalIds": {
+        "DBLP": "journals/siamis/RudzusikaKO22",
+        "ArXiv": "2108.11730",
+        "DOI": "10.1137/21M1445697",
+        "CorpusId": 237304292
+      },
+      "url": "https://www.semanticscholar.org/paper/581467a1a0745e714fe1b2a86f50e1e5b62c3a5c",
+      "title": "Deep learning based dictionary learning and tomographic image reconstruction",
+      "venue": "SIAM Journal of Imaging Sciences",
+      "year": 2021,
+      "referenceCount": 88,
+      "citationCount": 4,
+      "authors": [
+        {
+          "authorId": "2090610132",
+          "name": "Jevgenija Rudzusika"
+        },
+        {
+          "authorId": "36708473",
+          "name": "T. Koehler"
+        },
+        {
+          "authorId": "46200292",
+          "name": "O. Öktem"
+        }
+      ]
+    },
+    {
+      "paperId": "063ecfb8c600123fd86b185f2087b6138a6fbb37",
+      "externalIds": {
+        "PubMedCentral": "10890869",
+        "DOI": "10.1364/BOE.507831",
+        "CorpusId": 266367758,
+        "PubMed": "38404320"
+      },
+      "url": "https://www.semanticscholar.org/paper/063ecfb8c600123fd86b185f2087b6138a6fbb37",
+      "title": "Convolutional sparse coding for compressed sensing photoacoustic CT reconstruction with partially known support",
+      "venue": "Biomedical Optics Express",
+      "year": 2023,
+      "referenceCount": 31,
+      "citationCount": 5,
+      "authors": [
+        {
+          "authorId": "2099588191",
+          "name": "Zezheng Qin"
+        },
+        {
+          "authorId": "2146275834",
+          "name": "Yiming Ma"
+        },
+        {
+          "authorId": "2261070009",
+          "name": "Lingyu Ma"
+        },
+        {
+          "authorId": "2152757034",
+          "name": "Guangxing Liu"
+        },
+        {
+          "authorId": "2261277470",
+          "name": "Mingjian Sun"
+        }
+      ]
+    },
+    {
+      "paperId": "cc159158a3debd918a8f5f666966507e21545b91",
+      "externalIds": {
+        "DOI": "10.1109/EMBC58623.2025.11254730",
+        "CorpusId": 283478022,
+        "PubMed": "41337351"
+      },
+      "url": "https://www.semanticscholar.org/paper/cc159158a3debd918a8f5f666966507e21545b91",
+      "title": "Sparse Reconstruction based on K-Sparse Dictionary Learning Method for Bioluminescence Tomography",
+      "venue": "Annual International Conference of the IEEE Engineering in Medicine and Biology Society",
+      "year": 2025,
+      "referenceCount": 24,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2158262723",
+          "name": "Kang Li"
+        },
+        {
+          "authorId": "2382551389",
+          "name": "Bianbian Yang"
+        },
+        {
+          "authorId": "2127628327",
+          "name": "Yi Chen"
+        },
+        {
+          "authorId": "2069855335",
+          "name": "Linzhi Su"
+        },
+        {
+          "authorId": "2342068649",
+          "name": "Chenyang Zhang"
+        },
+        {
+          "authorId": "46350775",
+          "name": "Fengjun Zhao"
+        },
+        {
+          "authorId": "2297464282",
+          "name": "Yansong Wu"
+        },
+        {
+          "authorId": "2383191708",
+          "name": "Yiting He"
+        },
+        {
+          "authorId": "2169427694",
+          "name": "Xin Cao"
+        }
+      ]
+    },
+    {
+      "paperId": "27e7c9a6dfe5400dd0a33104e4ff39869d888da6",
+      "externalIds": {
+        "DOI": "10.1002/jbio.202400308",
+        "CorpusId": 273188227,
+        "PubMed": "39375540"
+      },
+      "url": "https://www.semanticscholar.org/paper/27e7c9a6dfe5400dd0a33104e4ff39869d888da6",
+      "title": "Dictionary Learning Method Based on K‐Sparse Approximation and Orthogonal Procrustes Analysis for Reconstruction in Bioluminescence Tomography",
+      "venue": "Journal of Biophotonics",
+      "year": 2024,
+      "referenceCount": 47,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2069855335",
+          "name": "Linzhi Su"
+        },
+        {
+          "authorId": "2324836479",
+          "name": "Limin Chen"
+        },
+        {
+          "authorId": "2315059521",
+          "name": "Wenlong Tang"
+        },
+        {
+          "authorId": "2315079887",
+          "name": "Huimin Gao"
+        },
+        {
+          "authorId": "2127628327",
+          "name": "Yi Chen"
+        },
+        {
+          "authorId": "2315106308",
+          "name": "Chengyi Gao"
+        },
+        {
+          "authorId": "11425534",
+          "name": "Huangjian Yi"
+        },
+        {
+          "authorId": "2169427694",
+          "name": "Xin Cao"
+        }
+      ]
+    },
+    {
+      "paperId": "e1f02cdd586d50ad889505fdbbdcd9a06085886f",
+      "externalIds": {
+        "DOI": "10.1088/1361-6560/ad7223",
+        "CorpusId": 271921594,
+        "PubMed": "39168153"
+      },
+      "url": "https://www.semanticscholar.org/paper/e1f02cdd586d50ad889505fdbbdcd9a06085886f",
+      "title": "SBL-LCGL: sparse Bayesian learning based on Laplace distribution for robust cone-beam x-ray luminescence computed tomography",
+      "venue": "Physics in Medicine and Biology",
+      "year": 2024,
+      "referenceCount": 39,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2310604832",
+          "name": "Yifan Wang"
+        },
+        {
+          "authorId": "2309437481",
+          "name": "Haoyu Wang"
+        },
+        {
+          "authorId": "2304126481",
+          "name": "Qiuquan Zhu"
+        },
+        {
+          "authorId": "2127628327",
+          "name": "Yi Chen"
+        },
+        {
+          "authorId": "2069855335",
+          "name": "Linzhi Su"
+        },
+        {
+          "authorId": "11425534",
+          "name": "Huangjian Yi"
+        },
+        {
+          "authorId": "2315106308",
+          "name": "Chengyi Gao"
+        },
+        {
+          "authorId": "2169427694",
+          "name": "Xin Cao"
+        }
+      ]
+    },
+    {
+      "paperId": "ebb7ab46ffd71a60de37925dc53de25248d592e1",
+      "externalIds": {
+        "DOI": "10.1364/oe.493797",
+        "CorpusId": 259485807,
+        "PubMed": "37475302"
+      },
+      "url": "https://www.semanticscholar.org/paper/ebb7ab46ffd71a60de37925dc53de25248d592e1",
+      "title": "Sparse reconstruction based on dictionary learning and group structure strategy for cone-beam X-ray luminescence computed tomography.",
+      "venue": "Optics Express",
+      "year": 2023,
+      "referenceCount": 48,
+      "citationCount": 4,
+      "authors": [
+        {
+          "authorId": "2127628327",
+          "name": "Yi Chen"
+        },
+        {
+          "authorId": "147453995",
+          "name": "Mengfei Du"
+        },
+        {
+          "authorId": "2143853629",
+          "name": "Gege Zhang"
+        },
+        {
+          "authorId": "2155659315",
+          "name": "Jun Zhang"
+        },
+        {
+          "authorId": "2158262723",
+          "name": "Kang Li"
+        },
+        {
+          "authorId": "2069855335",
+          "name": "Linzhi Su"
+        },
+        {
+          "authorId": "46350775",
+          "name": "Fengjun Zhao"
+        },
+        {
+          "authorId": "11425534",
+          "name": "Huangjian Yi"
+        },
+        {
+          "authorId": "2169427694",
+          "name": "Xin Cao"
+        }
+      ]
+    },
+    {
+      "paperId": "446385f576ca3bcdc0d946d05d00d7966d1deb8a",
+      "externalIds": {
+        "DBLP": "journals/artmed/ArianVKPR25",
+        "DOI": "10.1016/j.artmed.2024.103060",
+        "CorpusId": 266239388,
+        "PubMed": "39798181"
+      },
+      "url": "https://www.semanticscholar.org/paper/446385f576ca3bcdc0d946d05d00d7966d1deb8a",
+      "title": "CircWaveDL: Modeling of optical coherence tomography images based on a new supervised tensor-based dictionary learning for classification of macular abnormalities",
+      "venue": "Artif. Intell. Medicine",
+      "year": 2024,
+      "referenceCount": 65,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2237574679",
+          "name": "R. Arian"
+        },
+        {
+          "authorId": "2252735077",
+          "name": "Alireza Vard"
+        },
+        {
+          "authorId": "2475965",
+          "name": "R. Kafieh"
+        },
+        {
+          "authorId": "1401615831",
+          "name": "G. Plonka-Hoch"
+        },
+        {
+          "authorId": "1405351344",
+          "name": "H. Rabbani"
+        }
+      ]
+    },
+    {
+      "paperId": "4b6c969c80893e4b90819924f145d43cb794e7d8",
+      "externalIds": {
+        "DOI": "10.1088/1361-6560/ae0c51",
+        "CorpusId": 281614716,
+        "PubMed": "41005351"
+      },
+      "url": "https://www.semanticscholar.org/paper/4b6c969c80893e4b90819924f145d43cb794e7d8",
+      "title": "Adaptive k-sparse constrained dictionary learning strategy for bioluminescence tomography reconstruction",
+      "venue": "Physics in Medicine and Biology",
+      "year": 2025,
+      "referenceCount": 42,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2382551389",
+          "name": "Bianbian Yang"
+        },
+        {
+          "authorId": "2383191708",
+          "name": "Yiting He"
+        },
+        {
+          "authorId": "2382210676",
+          "name": "Nannan Cai"
+        },
+        {
+          "authorId": "2127628327",
+          "name": "Yi Chen"
+        },
+        {
+          "authorId": "11425534",
+          "name": "Huangjian Yi"
+        },
+        {
+          "authorId": "2386788432",
+          "name": "Xingxing Hao"
+        },
+        {
+          "authorId": "2315106308",
+          "name": "Chengyi Gao"
+        },
+        {
+          "authorId": "2169427694",
+          "name": "Xin Cao"
+        }
+      ]
+    }
+  ]
+}

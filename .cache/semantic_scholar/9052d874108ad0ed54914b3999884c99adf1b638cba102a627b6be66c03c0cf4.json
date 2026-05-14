@@ -1,0 +1,332 @@
+{
+  "total": 243,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "17bf878ea3dfd246547c525792c14a98e9a2e9ab",
+      "externalIds": {
+        "DBLP": "journals/corr/XuFZ16",
+        "MAG": "2963918231",
+        "ArXiv": "1602.04511",
+        "CorpusId": 15050943
+      },
+      "url": "https://www.semanticscholar.org/paper/17bf878ea3dfd246547c525792c14a98e9a2e9ab",
+      "title": "Learning Granger Causality for Hawkes Processes",
+      "venue": "International Conference on Machine Learning",
+      "year": 2016,
+      "referenceCount": 48,
+      "citationCount": 247,
+      "authors": [
+        {
+          "authorId": "2468306",
+          "name": "Hongteng Xu"
+        },
+        {
+          "authorId": "1682124",
+          "name": "Mehrdad Farajtabar"
+        },
+        {
+          "authorId": "145203884",
+          "name": "H. Zha"
+        }
+      ]
+    },
+    {
+      "paperId": "5fcd8a50ae8ad279ebfe2566956815155b32a891",
+      "externalIds": {
+        "DBLP": "conf/aistats/WuIK0LAMY24",
+        "ArXiv": "2402.03726",
+        "DOI": "10.48550/arXiv.2402.03726",
+        "CorpusId": 267500086
+      },
+      "url": "https://www.semanticscholar.org/paper/5fcd8a50ae8ad279ebfe2566956815155b32a891",
+      "title": "Learning Granger Causality from Instance-wise Self-attentive Hawkes Processes",
+      "venue": "International Conference on Artificial Intelligence and Statistics",
+      "year": 2024,
+      "referenceCount": 31,
+      "citationCount": 8,
+      "authors": [
+        {
+          "authorId": "2151076702",
+          "name": "D. Wu"
+        },
+        {
+          "authorId": "2067233793",
+          "name": "Tsuyoshi Id'e"
+        },
+        {
+          "authorId": "2261751130",
+          "name": "Aurélie C. Lozano"
+        },
+        {
+          "authorId": "2282965905",
+          "name": "Georgios Kollias"
+        },
+        {
+          "authorId": "2282971115",
+          "name": "Jivr'i Navr'atil"
+        },
+        {
+          "authorId": "2282961911",
+          "name": "Naoki Abe"
+        },
+        {
+          "authorId": "2257127582",
+          "name": "Yian Ma"
+        },
+        {
+          "authorId": "2253245279",
+          "name": "Rose Yu"
+        }
+      ]
+    },
+    {
+      "paperId": "dcb73eda76822374b57b256aa7f8722db1cdba17",
+      "externalIds": {
+        "DBLP": "journals/ijon/ChenCCLH22",
+        "DOI": "10.1016/j.neucom.2021.10.030",
+        "CorpusId": 241539308
+      },
+      "url": "https://www.semanticscholar.org/paper/dcb73eda76822374b57b256aa7f8722db1cdba17",
+      "title": "Learning granger causality for non-stationary Hawkes processes",
+      "venue": "Neurocomputing",
+      "year": 2021,
+      "referenceCount": 0,
+      "citationCount": 13,
+      "authors": [
+        {
+          "authorId": "2154941589",
+          "name": "Wei Chen"
+        },
+        {
+          "authorId": "2136184451",
+          "name": "Jibin Chen"
+        },
+        {
+          "authorId": "1856374",
+          "name": "Ruichu Cai"
+        },
+        {
+          "authorId": "2145578798",
+          "name": "Yuequn Liu"
+        },
+        {
+          "authorId": "145586380",
+          "name": "Z. Hao"
+        }
+      ]
+    },
+    {
+      "paperId": "fa28bd7d3da4e32a8acb67e62332f1e1d502627d",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2105-10884",
+        "CorpusId": 235166553
+      },
+      "url": "https://www.semanticscholar.org/paper/fa28bd7d3da4e32a8acb67e62332f1e1d502627d",
+      "title": "THP: Topological Hawkes Processes for Learning Granger Causality on Event Sequences",
+      "venue": "arXiv.org",
+      "year": 2021,
+      "referenceCount": 29,
+      "citationCount": 5,
+      "authors": [
+        {
+          "authorId": "39913331",
+          "name": "Ruichu Cai"
+        },
+        {
+          "authorId": "2112452925",
+          "name": "Siyu Wu"
+        },
+        {
+          "authorId": "2054649406",
+          "name": "Jie Qiao"
+        },
+        {
+          "authorId": "145586380",
+          "name": "Z. Hao"
+        },
+        {
+          "authorId": "2119058743",
+          "name": "Keli Zhang"
+        },
+        {
+          "authorId": "2108286275",
+          "name": "Xi Zhang"
+        }
+      ]
+    },
+    {
+      "paperId": "a8025d2ecd9030b01a33a110e6d5fa592369e413",
+      "externalIds": {
+        "ArXiv": "2305.05986",
+        "DBLP": "journals/corr/abs-2305-05986",
+        "DOI": "10.48550/arXiv.2305.05986",
+        "CorpusId": 258588187
+      },
+      "url": "https://www.semanticscholar.org/paper/a8025d2ecd9030b01a33a110e6d5fa592369e413",
+      "title": "Structural Hawkes Processes for Learning Causal Structure from Discrete-Time Event Sequences",
+      "venue": "International Joint Conference on Artificial Intelligence",
+      "year": 2023,
+      "referenceCount": 67,
+      "citationCount": 18,
+      "authors": [
+        {
+          "authorId": "2054649406",
+          "name": "Jie Qiao"
+        },
+        {
+          "authorId": "39913331",
+          "name": "Ruichu Cai"
+        },
+        {
+          "authorId": "2217519546",
+          "name": "Siyu Wu"
+        },
+        {
+          "authorId": "2068340258",
+          "name": "Yu Xiang"
+        },
+        {
+          "authorId": "2119058743",
+          "name": "Keli Zhang"
+        },
+        {
+          "authorId": "145586380",
+          "name": "Z. Hao"
+        }
+      ]
+    },
+    {
+      "paperId": "d2a505be17d2b3c2bc642676ce688037b7d4736b",
+      "externalIds": {
+        "CorpusId": 265038238
+      },
+      "url": "https://www.semanticscholar.org/paper/d2a505be17d2b3c2bc642676ce688037b7d4736b",
+      "title": "CAUSE: Learning Granger Causality from Event Sequences using Attribution Methods",
+      "venue": "",
+      "year": 2020,
+      "referenceCount": 0,
+      "citationCount": 0,
+      "authors": []
+    },
+    {
+      "paperId": "10f9f341e03e6e4759de9b3f69cbc0cf305d017a",
+      "externalIds": {
+        "ArXiv": "2206.06124",
+        "DBLP": "conf/aaai/JalaldoustHP22",
+        "DOI": "10.48550/arXiv.2206.06124",
+        "CorpusId": 249625891
+      },
+      "url": "https://www.semanticscholar.org/paper/10f9f341e03e6e4759de9b3f69cbc0cf305d017a",
+      "title": "Causal Discovery in Hawkes Processes by Minimum Description Length",
+      "venue": "AAAI Conference on Artificial Intelligence",
+      "year": 2022,
+      "referenceCount": 30,
+      "citationCount": 13,
+      "authors": [
+        {
+          "authorId": "2170074286",
+          "name": "Amirkasra Jalaldoust"
+        },
+        {
+          "authorId": "1405538111",
+          "name": "Katerina Hlaváčková-Schindler"
+        },
+        {
+          "authorId": "144372623",
+          "name": "C. Plant"
+        }
+      ]
+    },
+    {
+      "paperId": "3b6407d6570c1db4bdaeaa274e0d11f71e749709",
+      "externalIds": {
+        "ArXiv": "2102.02741",
+        "DBLP": "journals/corr/abs-2102-02741",
+        "CorpusId": 231802144
+      },
+      "url": "https://www.semanticscholar.org/paper/3b6407d6570c1db4bdaeaa274e0d11f71e749709",
+      "title": "Hawkes Processes on Graphons",
+      "venue": "arXiv.org",
+      "year": 2021,
+      "referenceCount": 62,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2468306",
+          "name": "Hongteng Xu"
+        },
+        {
+          "authorId": "38463326",
+          "name": "Dixin Luo"
+        },
+        {
+          "authorId": "145203884",
+          "name": "H. Zha"
+        }
+      ]
+    },
+    {
+      "paperId": "43d176c38a0494bda1c97ae8fb428282d5b1ca25",
+      "externalIds": {
+        "ArXiv": "2308.06106",
+        "DBLP": "journals/corr/abs-2308-06106",
+        "DOI": "10.48550/arXiv.2308.06106",
+        "CorpusId": 260866132
+      },
+      "url": "https://www.semanticscholar.org/paper/43d176c38a0494bda1c97ae8fb428282d5b1ca25",
+      "title": "Hawkes Processes with Delayed Granger Causality",
+      "venue": "arXiv.org",
+      "year": 2023,
+      "referenceCount": 40,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2220433094",
+          "name": "Chao Yang"
+        },
+        {
+          "authorId": "2008259537",
+          "name": "Hengyuan Miao"
+        },
+        {
+          "authorId": "2228313627",
+          "name": "Shuang Li"
+        }
+      ]
+    },
+    {
+      "paperId": "fde7954afed3c492622f9adb2263f4cdd244e425",
+      "externalIds": {
+        "DBLP": "journals/iotj/ChangCCY26",
+        "DOI": "10.1109/JIOT.2025.3647868",
+        "CorpusId": 284279840
+      },
+      "url": "https://www.semanticscholar.org/paper/fde7954afed3c492622f9adb2263f4cdd244e425",
+      "title": "ANHP: Adaptive Neural Hawkes Processes for Causal Structure Learning on Event Sequences",
+      "venue": "IEEE Internet of Things Journal",
+      "year": 2026,
+      "referenceCount": 50,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "11579374",
+          "name": "Yongjian Chang"
+        },
+        {
+          "authorId": "24304611",
+          "name": "Duxin Chen"
+        },
+        {
+          "authorId": "2111261196",
+          "name": "Yujin Cai"
+        },
+        {
+          "authorId": "2316834285",
+          "name": "Wenwu Yu"
+        }
+      ]
+    }
+  ]
+}

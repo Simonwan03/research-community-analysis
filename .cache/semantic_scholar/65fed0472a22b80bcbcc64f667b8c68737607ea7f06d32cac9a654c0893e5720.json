@@ -1,0 +1,337 @@
+{
+  "total": 265,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "814b36fedfe7f7ce10eaa72bddb3c7ea7a663f37",
+      "externalIds": {
+        "MAG": "2740210681",
+        "DBLP": "conf/icml/BaramACM17",
+        "CorpusId": 19562686
+      },
+      "url": "https://www.semanticscholar.org/paper/814b36fedfe7f7ce10eaa72bddb3c7ea7a663f37",
+      "title": "End-to-End Differentiable Adversarial Imitation Learning",
+      "venue": "International Conference on Machine Learning",
+      "year": 2017,
+      "referenceCount": 34,
+      "citationCount": 112,
+      "authors": [
+        {
+          "authorId": "35712547",
+          "name": "Nir Baram"
+        },
+        {
+          "authorId": "8412923",
+          "name": "Oron Anschel"
+        },
+        {
+          "authorId": "39954258",
+          "name": "I. Caspi"
+        },
+        {
+          "authorId": "1712535",
+          "name": "Shie Mannor"
+        }
+      ]
+    },
+    {
+      "paperId": "b5638030dfd0e17b603831d68e91763bdf5f239f",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2203-01696",
+        "DOI": "10.48550/arXiv.2203.01696",
+        "CorpusId": 247222711
+      },
+      "url": "https://www.semanticscholar.org/paper/b5638030dfd0e17b603831d68e91763bdf5f239f",
+      "title": "Fail-Safe Generative Adversarial Imitation Learning",
+      "venue": "arXiv.org",
+      "year": 2022,
+      "referenceCount": 63,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "38176985",
+          "name": "Philipp Geiger"
+        },
+        {
+          "authorId": "145486652",
+          "name": "C. Straehle"
+        }
+      ]
+    },
+    {
+      "paperId": "a9096ad8421627edcfcf849964eddd853f1303c5",
+      "externalIds": {
+        "MAG": "2560678327",
+        "DBLP": "journals/corr/BaramAM16",
+        "ArXiv": "1612.02179",
+        "CorpusId": 12454348
+      },
+      "url": "https://www.semanticscholar.org/paper/a9096ad8421627edcfcf849964eddd853f1303c5",
+      "title": "Model-based Adversarial Imitation Learning",
+      "venue": "arXiv.org",
+      "year": 2016,
+      "referenceCount": 22,
+      "citationCount": 46,
+      "authors": [
+        {
+          "authorId": "35712547",
+          "name": "Nir Baram"
+        },
+        {
+          "authorId": "8412923",
+          "name": "Oron Anschel"
+        },
+        {
+          "authorId": "1712535",
+          "name": "Shie Mannor"
+        }
+      ]
+    },
+    {
+      "paperId": "8d9de5bd53cb0cb40f2736c658bffef5fa7795fb",
+      "externalIds": {
+        "ArXiv": "1903.03234",
+        "DBLP": "journals/corr/abs-1903-03234",
+        "MAG": "2921997616",
+        "CorpusId": 72940989
+      },
+      "url": "https://www.semanticscholar.org/paper/8d9de5bd53cb0cb40f2736c658bffef5fa7795fb",
+      "title": "Dyna-AIL : Adversarial Imitation Learning by Planning",
+      "venue": "arXiv.org",
+      "year": 2019,
+      "referenceCount": 13,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "40292355",
+          "name": "Vaibhav Saxena"
+        },
+        {
+          "authorId": "38786477",
+          "name": "Srinivasan Sivanandan"
+        },
+        {
+          "authorId": "2067519615",
+          "name": "Pulkit Mathur"
+        }
+      ]
+    },
+    {
+      "paperId": "016534668843e051058efe58806f095364ee12ae",
+      "externalIds": {
+        "ArXiv": "2104.01390",
+        "DBLP": "conf/icra/LinLZWM21",
+        "DOI": "10.1109/ICRA48506.2021.9561635",
+        "CorpusId": 233025044
+      },
+      "url": "https://www.semanticscholar.org/paper/016534668843e051058efe58806f095364ee12ae",
+      "title": "No Need for Interactions: Robust Model-Based Imitation Learning using Neural ODE",
+      "venue": "IEEE International Conference on Robotics and Automation",
+      "year": 2021,
+      "referenceCount": 35,
+      "citationCount": 8,
+      "authors": [
+        {
+          "authorId": "2152783173",
+          "name": "HaoChih Lin"
+        },
+        {
+          "authorId": "2118423812",
+          "name": "Baopu Li"
+        },
+        {
+          "authorId": "2148927983",
+          "name": "Xin Zhou"
+        },
+        {
+          "authorId": "51068901",
+          "name": "Jiankun Wang"
+        },
+        {
+          "authorId": "1735045",
+          "name": "M. Meng"
+        }
+      ]
+    },
+    {
+      "paperId": "dd70fff7974c676439847a1a404e7822e200e077",
+      "externalIds": {
+        "DBLP": "conf/smc/ParkYK21",
+        "DOI": "10.1109/SMC52423.2021.9658875",
+        "CorpusId": 245803289
+      },
+      "url": "https://www.semanticscholar.org/paper/dd70fff7974c676439847a1a404e7822e200e077",
+      "title": "A Model-Based Method for Learning Locomotion Skills from Demonstration",
+      "venue": "IEEE International Conference on Systems, Man and Cybernetics",
+      "year": 2021,
+      "referenceCount": 32,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2110354994",
+          "name": "Hyunseong Park"
+        },
+        {
+          "authorId": "2639691",
+          "name": "Sukmin Yoon"
+        },
+        {
+          "authorId": "2129531153",
+          "name": "Yong-Duk Kim"
+        }
+      ]
+    },
+    {
+      "paperId": "d8566fc124d53f341a20b7e0336b88f95c9cd686",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2512-05335",
+        "ArXiv": "2512.05335",
+        "DOI": "10.48550/arXiv.2512.05335",
+        "CorpusId": 283672659
+      },
+      "url": "https://www.semanticscholar.org/paper/d8566fc124d53f341a20b7e0336b88f95c9cd686",
+      "title": "State-Conditional Adversarial Learning: An Off-Policy Visual Domain Transfer Method for End-to-End Imitation Learning",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "referenceCount": 31,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2278400180",
+          "name": "Yuxiang Liu"
+        },
+        {
+          "authorId": "2350440842",
+          "name": "Shengfan Cao"
+        }
+      ]
+    },
+    {
+      "paperId": "42e320993d6a5cdeac3a46f3b5dba3e1734c5773",
+      "externalIds": {
+        "PubMedCentral": "12946375",
+        "DOI": "10.1038/s41598-026-38367-0",
+        "CorpusId": 285400709,
+        "PubMed": "41654653"
+      },
+      "url": "https://www.semanticscholar.org/paper/42e320993d6a5cdeac3a46f3b5dba3e1734c5773",
+      "title": "DT-aided resource allocation via generative adversarial imitation learning in complex cloud-edge-end scenarios",
+      "venue": "Scientific Reports",
+      "year": 2026,
+      "referenceCount": 40,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2409783092",
+          "name": "Xiaoqi Zhang"
+        },
+        {
+          "authorId": "2059603719",
+          "name": "Mingyang Xin"
+        },
+        {
+          "authorId": "2295115428",
+          "name": "Yuqiong Li"
+        },
+        {
+          "authorId": "2276208041",
+          "name": "Qiang Fu"
+        }
+      ]
+    },
+    {
+      "paperId": "2b2b3d60f491489e0142471b2c8975ac3b61a677",
+      "externalIds": {
+        "DBLP": "journals/tie/YangLTL25",
+        "DOI": "10.1109/TIE.2024.3468636",
+        "CorpusId": 273268321
+      },
+      "url": "https://www.semanticscholar.org/paper/2b2b3d60f491489e0142471b2c8975ac3b61a677",
+      "title": "Long-Term Active Object Detection for Service Robots: Using Generative Adversarial Imitation Learning With Contextualized Memory Graph",
+      "venue": "IEEE transactions on industrial electronics (1982. Print)",
+      "year": 2025,
+      "referenceCount": 35,
+      "citationCount": 8,
+      "authors": [
+        {
+          "authorId": "2276199931",
+          "name": "Ning Yang"
+        },
+        {
+          "authorId": "2262294971",
+          "name": "Fei Lu"
+        },
+        {
+          "authorId": "2275909004",
+          "name": "Guohui Tian"
+        },
+        {
+          "authorId": "2264141953",
+          "name": "Jun Liu"
+        }
+      ]
+    },
+    {
+      "paperId": "316f9f5ef0e570cd8d1542951bf01d9531765691",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2507-21533",
+        "ArXiv": "2507.21533",
+        "DOI": "10.48550/arXiv.2507.21533",
+        "CorpusId": 280337890
+      },
+      "url": "https://www.semanticscholar.org/paper/316f9f5ef0e570cd8d1542951bf01d9531765691",
+      "title": "Model Predictive Adversarial Imitation Learning for Planning from Observation",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "referenceCount": 67,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "2267489132",
+          "name": "Tyler Han"
+        },
+        {
+          "authorId": "2345693084",
+          "name": "Yanda Bao"
+        },
+        {
+          "authorId": "2344832766",
+          "name": "Bhaumik Mehta"
+        },
+        {
+          "authorId": "2344834583",
+          "name": "Gabriel Guo"
+        },
+        {
+          "authorId": "2140362109",
+          "name": "Anubhav Vishwakarma"
+        },
+        {
+          "authorId": "2373727892",
+          "name": "Emily Kang"
+        },
+        {
+          "authorId": "2344968528",
+          "name": "Sanghun Jung"
+        },
+        {
+          "authorId": "2315511167",
+          "name": "Rosario Scalise"
+        },
+        {
+          "authorId": "2238919743",
+          "name": "J. Zhou"
+        },
+        {
+          "authorId": "2344890191",
+          "name": "Bryan Xu"
+        },
+        {
+          "authorId": "2292033603",
+          "name": "Byron Boots"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,377 @@
+{
+  "total": 18737,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "49b16d485d19466b34a3191c3368df6e41eea2a1",
+      "externalIds": {
+        "MAG": "2951774052",
+        "DBLP": "journals/corr/KhasanovaF17",
+        "ArXiv": "1703.00356",
+        "CorpusId": 906304
+      },
+      "url": "https://www.semanticscholar.org/paper/49b16d485d19466b34a3191c3368df6e41eea2a1",
+      "title": "Graph-based Isometry Invariant Representation Learning",
+      "venue": "International Conference on Machine Learning",
+      "year": 2017,
+      "referenceCount": 38,
+      "citationCount": 55,
+      "authors": [
+        {
+          "authorId": "145284164",
+          "name": "R. Khasanova"
+        },
+        {
+          "authorId": "1703189",
+          "name": "P. Frossard"
+        }
+      ]
+    },
+    {
+      "paperId": "dcae929ae714f4c04b1ee87598f5e610dc394e4f",
+      "externalIds": {
+        "DBLP": "journals/tmm/NiuYMXLCTL24",
+        "DOI": "10.1109/TMM.2023.3263549",
+        "CorpusId": 258001195
+      },
+      "url": "https://www.semanticscholar.org/paper/dcae929ae714f4c04b1ee87598f5e610dc394e4f",
+      "title": "Knowledge Distillation-Based Domain-Invariant Representation Learning for Domain Generalization",
+      "venue": "IEEE transactions on multimedia",
+      "year": 2024,
+      "referenceCount": 61,
+      "citationCount": 53,
+      "authors": [
+        {
+          "authorId": "2213475590",
+          "name": "Ziwei Niu"
+        },
+        {
+          "authorId": "2304610230",
+          "name": "Junkun Yuan"
+        },
+        {
+          "authorId": "2141122566",
+          "name": "Xu Ma"
+        },
+        {
+          "authorId": "40399497",
+          "name": "Yingying Xu"
+        },
+        {
+          "authorId": "2153468095",
+          "name": "Jing Liu"
+        },
+        {
+          "authorId": "2156086562",
+          "name": "Yen-Wei Chen"
+        },
+        {
+          "authorId": "3128157",
+          "name": "Ruofeng Tong"
+        },
+        {
+          "authorId": "2940227",
+          "name": "Lanfen Lin"
+        }
+      ]
+    },
+    {
+      "paperId": "a15de2653c2750a09eaf4e252aa700b50b694c2e",
+      "externalIds": {
+        "DBLP": "conf/aaai/LiuQC0Y24",
+        "DOI": "10.1609/aaai.v38i12.29314",
+        "CorpusId": 268704940
+      },
+      "url": "https://www.semanticscholar.org/paper/a15de2653c2750a09eaf4e252aa700b50b694c2e",
+      "title": "Causality-Inspired Invariant Representation Learning for Text-Based Person Retrieval",
+      "venue": "AAAI Conference on Artificial Intelligence",
+      "year": 2024,
+      "referenceCount": 37,
+      "citationCount": 43,
+      "authors": [
+        {
+          "authorId": "2293442824",
+          "name": "Yu Liu"
+        },
+        {
+          "authorId": "2293454954",
+          "name": "Guihe Qin"
+        },
+        {
+          "authorId": "2293491436",
+          "name": "Haipeng Chen"
+        },
+        {
+          "authorId": "2260362058",
+          "name": "Zhiyong Cheng"
+        },
+        {
+          "authorId": "2238337235",
+          "name": "Xun Yang"
+        }
+      ]
+    },
+    {
+      "paperId": "7ddf86e3640ccbca0213d757aa0d99cc5470c9f6",
+      "externalIds": {
+        "DOI": "10.1109/TNNLS.2025.3625660",
+        "CorpusId": 283288165,
+        "PubMed": "41296975"
+      },
+      "url": "https://www.semanticscholar.org/paper/7ddf86e3640ccbca0213d757aa0d99cc5470c9f6",
+      "title": "SKIP: A Prototype-Based Scalable Knowledge Graph Representation Learning Method",
+      "venue": "IEEE Transactions on Neural Networks and Learning Systems",
+      "year": 2025,
+      "referenceCount": 93,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2288243883",
+          "name": "Yue Liu"
+        },
+        {
+          "authorId": "2024445866",
+          "name": "K. Liang"
+        },
+        {
+          "authorId": "2239016316",
+          "name": "Jun Xia"
+        },
+        {
+          "authorId": "2293946144",
+          "name": "Meng Liu"
+        },
+        {
+          "authorId": "2154476091",
+          "name": "Xihong Yang"
+        },
+        {
+          "authorId": "2130021053",
+          "name": "Xinwang Liu"
+        },
+        {
+          "authorId": "2516087",
+          "name": "Sihang Zhou"
+        },
+        {
+          "authorId": "2325101715",
+          "name": "Stan Z. Li"
+        }
+      ]
+    },
+    {
+      "paperId": "c8c64512056a4269a9190a0d2d9cf816ad088412",
+      "externalIds": {
+        "DOI": "10.1016/j.knosys.2026.115987",
+        "CorpusId": 287431278
+      },
+      "url": "https://www.semanticscholar.org/paper/c8c64512056a4269a9190a0d2d9cf816ad088412",
+      "title": "VTGCN: Graph-based structural representation learning for visual-tactile multimodal fusion",
+      "venue": "Knowledge-Based Systems",
+      "year": 2026,
+      "referenceCount": 55,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2298043979",
+          "name": "Liang Li"
+        },
+        {
+          "authorId": "2242227285",
+          "name": "Guochu Chen"
+        },
+        {
+          "authorId": "2398789009",
+          "name": "Manliang Cao"
+        },
+        {
+          "authorId": "2118425321",
+          "name": "Baojiang Li"
+        },
+        {
+          "authorId": "2175961382",
+          "name": "Haiyan Wang"
+        },
+        {
+          "authorId": "2298015115",
+          "name": "Bin Wang"
+        },
+        {
+          "authorId": "2370156037",
+          "name": "Zizhen Yi"
+        }
+      ]
+    },
+    {
+      "paperId": "dcaa7fda8092de56ae614c3c337c3c9d121cb217",
+      "externalIds": {
+        "DOI": "10.51219/urforum.2025.zhenmei-wang",
+        "CorpusId": 283311399
+      },
+      "url": "https://www.semanticscholar.org/paper/dcaa7fda8092de56ae614c3c337c3c9d121cb217",
+      "title": "Exploring potential circRNA biomarkers for cancers based on double-lineheterogeneous graph representation learning",
+      "venue": "5th International Conference on Artificial Intelligence &amp; Machine Learning",
+      "year": 2025,
+      "referenceCount": 0,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2108046480",
+          "name": "Zhenmei Wang"
+        }
+      ]
+    },
+    {
+      "paperId": "9497c616e08722e60f7982f67398051b2e0d0565",
+      "externalIds": {
+        "DBLP": "conf/kes/ZayaniMMB25",
+        "DOI": "10.1016/j.procs.2025.09.542",
+        "CorpusId": 283031884
+      },
+      "url": "https://www.semanticscholar.org/paper/9497c616e08722e60f7982f67398051b2e0d0565",
+      "title": "Graph Representation Learning on 3D Mesh-Based Protein Structures",
+      "venue": "International Conference on Knowledge-Based Intelligent Information & Engineering Systems",
+      "year": 2025,
+      "referenceCount": 13,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2392538729",
+          "name": "Najla Zayani"
+        },
+        {
+          "authorId": "9297364",
+          "name": "N. Medimegh"
+        },
+        {
+          "authorId": "3026769",
+          "name": "H. Mohamed"
+        },
+        {
+          "authorId": "50482123",
+          "name": "Samir Belaid"
+        }
+      ]
+    },
+    {
+      "paperId": "e8a51640e2f49cd9246e8b370d8832320fc516ed",
+      "externalIds": {
+        "ArXiv": "2207.04869",
+        "DBLP": "conf/ijcai/GuoGN0IMW0WZC23",
+        "DOI": "10.48550/arXiv.2207.04869",
+        "CorpusId": 250426584
+      },
+      "url": "https://www.semanticscholar.org/paper/e8a51640e2f49cd9246e8b370d8832320fc516ed",
+      "title": "Graph-based Molecular Representation Learning",
+      "venue": "International Joint Conference on Artificial Intelligence",
+      "year": 2022,
+      "referenceCount": 70,
+      "citationCount": 98,
+      "authors": [
+        {
+          "authorId": "2109411071",
+          "name": "Zhichun Guo"
+        },
+        {
+          "authorId": "2133509770",
+          "name": "B. Nan"
+        },
+        {
+          "authorId": "46879986",
+          "name": "Yijun Tian"
+        },
+        {
+          "authorId": "3222580",
+          "name": "O. Wiest"
+        },
+        {
+          "authorId": "2117879943",
+          "name": "Chuxu Zhang"
+        },
+        {
+          "authorId": "144539424",
+          "name": "N. Chawla"
+        }
+      ]
+    },
+    {
+      "paperId": "30d341bd433878c792e67d66209468795b8e9656",
+      "externalIds": {
+        "DBLP": "journals/tnn/ZhangOLLY25",
+        "ArXiv": "2409.01367",
+        "DOI": "10.1109/TNNLS.2024.3492055",
+        "CorpusId": 272366726,
+        "PubMed": "40030377"
+      },
+      "url": "https://www.semanticscholar.org/paper/30d341bd433878c792e67d66209468795b8e9656",
+      "title": "Debiasing Graph Representation Learning Based on Information Bottleneck",
+      "venue": "IEEE Transactions on Neural Networks and Learning Systems",
+      "year": 2024,
+      "referenceCount": 64,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "2319488447",
+          "name": "Ziyi Zhang"
+        },
+        {
+          "authorId": "2319402673",
+          "name": "Mingxuan Ouyang"
+        },
+        {
+          "authorId": "2308570043",
+          "name": "Wanyu Lin"
+        },
+        {
+          "authorId": "2309604017",
+          "name": "Hao Lan"
+        },
+        {
+          "authorId": "2237082071",
+          "name": "Lei Yang"
+        }
+      ]
+    },
+    {
+      "paperId": "88f8dcbcd575ba491d4d9e82075c2aad7a651082",
+      "externalIds": {
+        "DBLP": "journals/kbs/ZhangKCLDH24",
+        "DOI": "10.1016/j.knosys.2024.111455",
+        "CorpusId": 267474778
+      },
+      "url": "https://www.semanticscholar.org/paper/88f8dcbcd575ba491d4d9e82075c2aad7a651082",
+      "title": "AIVR-Net: Attribute-based invariant visual representation learning for vehicle re-identification",
+      "venue": "Knowledge-Based Systems",
+      "year": 2024,
+      "referenceCount": 32,
+      "citationCount": 18,
+      "authors": [
+        {
+          "authorId": "2279262523",
+          "name": "Hongyang Zhang"
+        },
+        {
+          "authorId": "1720959990",
+          "name": "Zhenyu Kuang"
+        },
+        {
+          "authorId": "2279219003",
+          "name": "Lidong Cheng"
+        },
+        {
+          "authorId": "2282755009",
+          "name": "Yinhao Liu"
+        },
+        {
+          "authorId": "2262201427",
+          "name": "Xinghao Ding"
+        },
+        {
+          "authorId": "1950637",
+          "name": "Yue Huang"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,333 @@
+{
+  "total": 116,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "bbb2d7075141f6d638dd41c3ffe0d6bfb3d2dba9",
+      "externalIds": {
+        "ArXiv": "1806.07297",
+        "MAG": "2803992439",
+        "DBLP": "conf/icml/LacroixUO18",
+        "CorpusId": 49310354
+      },
+      "url": "https://www.semanticscholar.org/paper/bbb2d7075141f6d638dd41c3ffe0d6bfb3d2dba9",
+      "title": "Canonical Tensor Decomposition for Knowledge Base Completion",
+      "venue": "International Conference on Machine Learning",
+      "year": 2018,
+      "referenceCount": 37,
+      "citationCount": 429,
+      "authors": [
+        {
+          "authorId": "47733973",
+          "name": "Timothée Lacroix"
+        },
+        {
+          "authorId": "1746841",
+          "name": "Nicolas Usunier"
+        },
+        {
+          "authorId": "2533906",
+          "name": "G. Obozinski"
+        }
+      ]
+    },
+    {
+      "paperId": "b6263f7ab737c7a790dbf818a1bb2255449db6e8",
+      "externalIds": {
+        "ArXiv": "2004.04926",
+        "DBLP": "conf/iclr/LacroixOU20",
+        "MAG": "3015509945",
+        "CorpusId": 214390104
+      },
+      "url": "https://www.semanticscholar.org/paper/b6263f7ab737c7a790dbf818a1bb2255449db6e8",
+      "title": "Tensor Decompositions for temporal knowledge base completion",
+      "venue": "International Conference on Learning Representations",
+      "year": 2020,
+      "referenceCount": 31,
+      "citationCount": 338,
+      "authors": [
+        {
+          "authorId": "47733973",
+          "name": "Timothée Lacroix"
+        },
+        {
+          "authorId": "2533906",
+          "name": "G. Obozinski"
+        },
+        {
+          "authorId": "1746841",
+          "name": "Nicolas Usunier"
+        }
+      ]
+    },
+    {
+      "paperId": "a6bc04059b1d662bff688167ccaba6fa4181d8d6",
+      "externalIds": {
+        "CorpusId": 232238010
+      },
+      "url": "https://www.semanticscholar.org/paper/a6bc04059b1d662bff688167ccaba6fa4181d8d6",
+      "title": "Multiary Relational Knowledge Base Completion via Tensor Decomposition",
+      "venue": "",
+      "year": 2020,
+      "referenceCount": 15,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2363333269",
+          "name": "Yu Liu"
+        },
+        {
+          "authorId": "3259992",
+          "name": "Quanming Yao"
+        },
+        {
+          "authorId": "2154403289",
+          "name": "Yong Li"
+        }
+      ]
+    },
+    {
+      "paperId": "bc5c438b32fed57e18b1147bd5dcf3d4919bf0c1",
+      "externalIds": {
+        "DOI": "10.1109/TIM.2025.3617412",
+        "CorpusId": 281848017
+      },
+      "url": "https://www.semanticscholar.org/paper/bc5c438b32fed57e18b1147bd5dcf3d4919bf0c1",
+      "title": "Electricity Measurement Missing Data Recovery Method Based on Low-Rank Tensor Completion With Triangular Canonical Polyadic Decomposition",
+      "venue": "IEEE Transactions on Instrumentation and Measurement",
+      "year": 2025,
+      "referenceCount": 43,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "2283342538",
+          "name": "Ting Yang"
+        },
+        {
+          "authorId": "2283300924",
+          "name": "Zhenning Yang"
+        },
+        {
+          "authorId": "2102877",
+          "name": "Haibo Pen"
+        }
+      ]
+    },
+    {
+      "paperId": "15a39d9177fc33efbbda32fa18872370d5266d82",
+      "externalIds": {
+        "MAG": "2996891737",
+        "CorpusId": 214150067
+      },
+      "url": "https://www.semanticscholar.org/paper/15a39d9177fc33efbbda32fa18872370d5266d82",
+      "title": "Projected Canonical Decomposition for Knowledge Base Completion",
+      "venue": "",
+      "year": 2019,
+      "referenceCount": 0,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "47733973",
+          "name": "Timothée Lacroix"
+        },
+        {
+          "authorId": "2533906",
+          "name": "G. Obozinski"
+        },
+        {
+          "authorId": "1589786778",
+          "name": "Joan Bruna"
+        },
+        {
+          "authorId": "1746841",
+          "name": "Nicolas Usunier"
+        }
+      ]
+    },
+    {
+      "paperId": "fa786458c13693743574bee48aa1755470a1117c",
+      "externalIds": {
+        "MAG": "2810112645",
+        "DBLP": "journals/cogcom/HeLLSWX18",
+        "DOI": "10.1007/s12559-018-9565-x",
+        "CorpusId": 49482375
+      },
+      "url": "https://www.semanticscholar.org/paper/fa786458c13693743574bee48aa1755470a1117c",
+      "title": "Knowledge Base Completion by Variational Bayesian Neural Tensor Decomposition",
+      "venue": "Cognitive Computation",
+      "year": 2018,
+      "referenceCount": 36,
+      "citationCount": 25,
+      "authors": [
+        {
+          "authorId": "144741785",
+          "name": "Lirong He"
+        },
+        {
+          "authorId": null,
+          "name": "Bin Liu"
+        },
+        {
+          "authorId": "2012447178",
+          "name": "Guangxi Li"
+        },
+        {
+          "authorId": "20587739",
+          "name": "Yongpan Sheng"
+        },
+        {
+          "authorId": "2115550906",
+          "name": "Yafang Wang"
+        },
+        {
+          "authorId": "1683510",
+          "name": "Zenglin Xu"
+        }
+      ]
+    },
+    {
+      "paperId": "db54cb1802e544d1065f5dbf6a8cb52d6f139ddd",
+      "externalIds": {
+        "PubMedCentral": "11888843",
+        "DBLP": "journals/peerj-cs/ZhangSunYZPX25",
+        "DOI": "10.7717/peerj-cs.2522",
+        "CorpusId": 276496735,
+        "PubMed": "40062244"
+      },
+      "url": "https://www.semanticscholar.org/paper/db54cb1802e544d1065f5dbf6a8cb52d6f139ddd",
+      "title": "Tuck-KGC: based on tensor decomposition for diabetes knowledge graph completion model integrating Chinese and Western medicine",
+      "venue": "PeerJ Computer Science",
+      "year": 2025,
+      "referenceCount": 31,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2346375058",
+          "name": "Jiangtao ZhangSun"
+        },
+        {
+          "authorId": "2116467210",
+          "name": "Yu Yang"
+        },
+        {
+          "authorId": "2315701535",
+          "name": "Beiji Zou"
+        },
+        {
+          "authorId": "2237232502",
+          "name": "Qinghua Peng"
+        },
+        {
+          "authorId": "2290971086",
+          "name": "Xiaoxia Xiao"
+        }
+      ]
+    },
+    {
+      "paperId": "3d37a64ae391a4c002a27a354221b02c9d5cb8fe",
+      "externalIds": {
+        "DBLP": "conf/icaart/00040L25a",
+        "DOI": "10.5220/0013130500003890",
+        "CorpusId": 276716639
+      },
+      "url": "https://www.semanticscholar.org/paper/3d37a64ae391a4c002a27a354221b02c9d5cb8fe",
+      "title": "Improving Temporal Knowledge Graph Completion via Tensor Decomposition with Relation-Time Context and Multi-Time Perspective",
+      "venue": "International Conference on Agents and Artificial Intelligence",
+      "year": 2025,
+      "referenceCount": 24,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2347955511",
+          "name": "Nam Le"
+        },
+        {
+          "authorId": "2348075006",
+          "name": "Thanh Le"
+        },
+        {
+          "authorId": "2305624933",
+          "name": "Hoai Bac Le"
+        }
+      ]
+    },
+    {
+      "paperId": "11985c1dc626d70499d66826356b0c665e34638d",
+      "externalIds": {
+        "DBLP": "journals/ci/XieZZL25",
+        "DOI": "10.1111/coin.70097",
+        "CorpusId": 280196337
+      },
+      "url": "https://www.semanticscholar.org/paper/11985c1dc626d70499d66826356b0c665e34638d",
+      "title": "SparseMult: A Sparse Tensor Decomposition Model for Knowledge Graph Link Prediction",
+      "venue": "International Conference on Climate Informatics",
+      "year": 2025,
+      "referenceCount": 20,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "3408236",
+          "name": "Zhiwen Xie"
+        },
+        {
+          "authorId": "3852723",
+          "name": "Runjie Zhu"
+        },
+        {
+          "authorId": "2159773904",
+          "name": "Meng Zhang"
+        },
+        {
+          "authorId": "2186402844",
+          "name": "Jin Liu"
+        }
+      ]
+    },
+    {
+      "paperId": "2ad489bae27f5446e31098b2d0ae869bd1246bbc",
+      "externalIds": {
+        "ArXiv": "2302.09335",
+        "DBLP": "journals/corr/abs-2302-09335",
+        "DOI": "10.48550/arXiv.2302.09335",
+        "CorpusId": 257038008
+      },
+      "url": "https://www.semanticscholar.org/paper/2ad489bae27f5446e31098b2d0ae869bd1246bbc",
+      "title": "Knowledge Graph Completion based on Tensor Decomposition for Disease Gene Prediction",
+      "venue": "arXiv.org",
+      "year": 2023,
+      "referenceCount": 69,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "2144707113",
+          "name": "Xinyan Wang"
+        },
+        {
+          "authorId": "2056067669",
+          "name": "Ting Jia"
+        },
+        {
+          "authorId": "2146309957",
+          "name": "Chong Wang"
+        },
+        {
+          "authorId": "2153294025",
+          "name": "Kuan Xu"
+        },
+        {
+          "authorId": "35742927",
+          "name": "Zixin Shu"
+        },
+        {
+          "authorId": "24384460",
+          "name": "Kuo Yang"
+        },
+        {
+          "authorId": "4363150",
+          "name": "Xuezhong Zhou"
+        }
+      ]
+    }
+  ]
+}

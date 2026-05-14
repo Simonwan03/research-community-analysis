@@ -1,0 +1,314 @@
+{
+  "total": 2282,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "0c4646b611023901d0fda28c52660e40caf7e72c",
+      "externalIds": {
+        "DBLP": "conf/icml/HoGE16",
+        "MAG": "2963014947",
+        "ArXiv": "1605.08478",
+        "CorpusId": 6448021
+      },
+      "url": "https://www.semanticscholar.org/paper/0c4646b611023901d0fda28c52660e40caf7e72c",
+      "title": "Model-Free Imitation Learning with Policy Optimization",
+      "venue": "International Conference on Machine Learning",
+      "year": 2016,
+      "referenceCount": 28,
+      "citationCount": 154,
+      "authors": [
+        {
+          "authorId": "2126278",
+          "name": "Jonathan Ho"
+        },
+        {
+          "authorId": "38303675",
+          "name": "Jayesh K. Gupta"
+        },
+        {
+          "authorId": "2490652",
+          "name": "Stefano Ermon"
+        }
+      ]
+    },
+    {
+      "paperId": "6907f079f18480217d9bad0e138055d246b5804f",
+      "externalIds": {
+        "DBLP": "conf/kdd/ShaoSGL24",
+        "ArXiv": "2406.12550",
+        "DOI": "10.1145/3637528.3672059",
+        "CorpusId": 270562298
+      },
+      "url": "https://www.semanticscholar.org/paper/6907f079f18480217d9bad0e138055d246b5804f",
+      "title": "Offline Imitation Learning with Model-based Reverse Augmentation",
+      "venue": "Knowledge Discovery and Data Mining",
+      "year": 2024,
+      "referenceCount": 49,
+      "citationCount": 10,
+      "authors": [
+        {
+          "authorId": "50878225",
+          "name": "Jiejing Shao"
+        },
+        {
+          "authorId": "2257452761",
+          "name": "Haoran Shi"
+        },
+        {
+          "authorId": "30414295",
+          "name": "Lan-Zhe Guo"
+        },
+        {
+          "authorId": "2243007810",
+          "name": "Yu-Feng Li"
+        }
+      ]
+    },
+    {
+      "paperId": "49599235d998e3828603f0271a324dcad625cb32",
+      "externalIds": {
+        "DOI": "10.1109/TPAMI.2026.3657578",
+        "CorpusId": 285069381,
+        "PubMed": "41587257"
+      },
+      "url": "https://www.semanticscholar.org/paper/49599235d998e3828603f0271a324dcad625cb32",
+      "title": "Adversarial Imitation Learning with General Function Approximation: Theoretical Analysis and Practical Algorithms.",
+      "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+      "year": 2026,
+      "referenceCount": 0,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "40084973",
+          "name": "Tian Xu"
+        },
+        {
+          "authorId": "2303416475",
+          "name": "Zhilong Zhang"
+        },
+        {
+          "authorId": "2283266027",
+          "name": "Zexuan Chen"
+        },
+        {
+          "authorId": "2329200808",
+          "name": "Ruishuo Chen"
+        },
+        {
+          "authorId": "2276179937",
+          "name": "Yihao Sun"
+        },
+        {
+          "authorId": "2303817639",
+          "name": "Yang Yu"
+        }
+      ]
+    },
+    {
+      "paperId": "58d13aa6e099edeeb8167caad86480e5642c4e18",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2410-14081",
+        "ArXiv": "2410.14081",
+        "DOI": "10.48550/arXiv.2410.14081",
+        "CorpusId": 273482052
+      },
+      "url": "https://www.semanticscholar.org/paper/58d13aa6e099edeeb8167caad86480e5642c4e18",
+      "title": "Reward-free World Models for Online Imitation Learning",
+      "venue": "International Conference on Machine Learning",
+      "year": 2024,
+      "referenceCount": 40,
+      "citationCount": 6,
+      "authors": [
+        {
+          "authorId": "2282370543",
+          "name": "Shangzhe Li"
+        },
+        {
+          "authorId": "18036051",
+          "name": "Zhiao Huang"
+        },
+        {
+          "authorId": "2273885279",
+          "name": "Hao Su"
+        }
+      ]
+    },
+    {
+      "paperId": "38a63d95a5c5d6749254b22fe9f52925b0cb1abc",
+      "externalIds": {
+        "DOI": "10.1007/s42235-023-00472-5",
+        "CorpusId": 267350305
+      },
+      "url": "https://www.semanticscholar.org/paper/38a63d95a5c5d6749254b22fe9f52925b0cb1abc",
+      "title": "Bionic Hand Motion Control Method Based on Imitation of Human Hand Movements and Reinforcement Learning",
+      "venue": "Journal of Bionic Engineering",
+      "year": 2024,
+      "referenceCount": 47,
+      "citationCount": 12,
+      "authors": [
+        {
+          "authorId": "2175861969",
+          "name": "Jibo Bai"
+        },
+        {
+          "authorId": "2118425321",
+          "name": "Baojiang Li"
+        },
+        {
+          "authorId": "2243357672",
+          "name": "Xichao Wang"
+        },
+        {
+          "authorId": "2175961382",
+          "name": "Haiyan Wang"
+        },
+        {
+          "authorId": "2366314347",
+          "name": "Yuting Guo"
+        }
+      ]
+    },
+    {
+      "paperId": "37e9c0b36a8f2d9ca14fb109559e8aecb8698fce",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2509-19023",
+        "ArXiv": "2509.19023",
+        "DOI": "10.48550/arXiv.2509.19023",
+        "CorpusId": 281496103
+      },
+      "url": "https://www.semanticscholar.org/paper/37e9c0b36a8f2d9ca14fb109559e8aecb8698fce",
+      "title": "Reduced-Order Model-Guided Reinforcement Learning for Demonstration-Free Humanoid Locomotion",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "referenceCount": 24,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2108590549",
+          "name": "Shuai Liu"
+        },
+        {
+          "authorId": "2385788914",
+          "name": "Meng Cheng Lau"
+        }
+      ]
+    },
+    {
+      "paperId": "e77339cd662e0ae95bee93074a5698b714c6f2fe",
+      "externalIds": {
+        "DBLP": "journals/tiv/XuWW25",
+        "DOI": "10.1109/TIV.2024.3413731",
+        "CorpusId": 270507992
+      },
+      "url": "https://www.semanticscholar.org/paper/e77339cd662e0ae95bee93074a5698b714c6f2fe",
+      "title": "Adaptive Learning-Based Path-Tracking Control for Unknown Vehicle Systems Under Performance Optimization",
+      "venue": "IEEE Transactions on Intelligent Vehicles",
+      "year": 2025,
+      "referenceCount": 34,
+      "citationCount": 4,
+      "authors": [
+        {
+          "authorId": "2146647231",
+          "name": "Yong Xu"
+        },
+        {
+          "authorId": "2294002230",
+          "name": "Meng-Ying Wan"
+        },
+        {
+          "authorId": "2238158518",
+          "name": "Zhengguang Wu"
+        }
+      ]
+    },
+    {
+      "paperId": "72b97f98a354e7352ba218be16f601610387f5b2",
+      "externalIds": {
+        "DBLP": "conf/cvpr/YuJHS25",
+        "ArXiv": "2504.09927",
+        "DOI": "10.1109/CVPRW67362.2025.00401",
+        "CorpusId": 277781044
+      },
+      "url": "https://www.semanticscholar.org/paper/72b97f98a354e7352ba218be16f601610387f5b2",
+      "title": "Efficient Task-Specific Conditional Diffusion Policies: Shortcut Model Acceleration and SO(3) Optimization",
+      "venue": "2025 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)",
+      "year": 2025,
+      "referenceCount": 57,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "2337278285",
+          "name": "Haiyong Yu"
+        },
+        {
+          "authorId": "2122755819",
+          "name": "Yanqiong Jin"
+        },
+        {
+          "authorId": "2336250303",
+          "name": "Yonghao He"
+        },
+        {
+          "authorId": "2243336441",
+          "name": "Wei Sui"
+        }
+      ]
+    },
+    {
+      "paperId": "d12e383d3058fa5edcb5591723a7247a8837d687",
+      "externalIds": {
+        "CorpusId": 240288955
+      },
+      "url": "https://www.semanticscholar.org/paper/d12e383d3058fa5edcb5591723a7247a8837d687",
+      "title": "Hybrid Adversarial Imitation Learning",
+      "venue": "",
+      "year": 2021,
+      "referenceCount": 17,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "1477769637",
+          "name": "Mingqi Yuan"
+        },
+        {
+          "authorId": "144305489",
+          "name": "M. Pun"
+        }
+      ]
+    },
+    {
+      "paperId": "f868fd492c566c0ec2087ee545a4ac2e10f19149",
+      "externalIds": {
+        "MAG": "2896070594",
+        "DBLP": "conf/icml/ChengYRB19",
+        "ArXiv": "1810.06509",
+        "CorpusId": 53107069
+      },
+      "url": "https://www.semanticscholar.org/paper/f868fd492c566c0ec2087ee545a4ac2e10f19149",
+      "title": "Predictor-Corrector Policy Optimization",
+      "venue": "International Conference on Machine Learning",
+      "year": 2018,
+      "referenceCount": 72,
+      "citationCount": 24,
+      "authors": [
+        {
+          "authorId": "1978613",
+          "name": "Ching-An Cheng"
+        },
+        {
+          "authorId": "8073235",
+          "name": "Xinyan Yan"
+        },
+        {
+          "authorId": "13693897",
+          "name": "Nathan D. Ratliff"
+        },
+        {
+          "authorId": "3288815",
+          "name": "Byron Boots"
+        }
+      ]
+    }
+  ]
+}

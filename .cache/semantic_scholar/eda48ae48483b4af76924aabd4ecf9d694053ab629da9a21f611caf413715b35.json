@@ -1,0 +1,449 @@
+{
+  "total": 19,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "07c45ee71fef4015ca1e90e4750d59f7c2a40831",
+      "externalIds": {
+        "MAG": "2594094561",
+        "DBLP": "conf/icml/GentileLKKZE17",
+        "ArXiv": "1608.03544",
+        "CorpusId": 7338570
+      },
+      "url": "https://www.semanticscholar.org/paper/07c45ee71fef4015ca1e90e4750d59f7c2a40831",
+      "title": "On Context-Dependent Clustering of Bandits",
+      "venue": "International Conference on Machine Learning",
+      "year": 2016,
+      "referenceCount": 43,
+      "citationCount": 146,
+      "authors": [
+        {
+          "authorId": "1895207",
+          "name": "C. Gentile"
+        },
+        {
+          "authorId": "2133435913",
+          "name": "Shuai Li"
+        },
+        {
+          "authorId": "39746893",
+          "name": "Purushottam Kar"
+        },
+        {
+          "authorId": "1713164",
+          "name": "Alexandros Karatzoglou"
+        },
+        {
+          "authorId": "3024156",
+          "name": "Giovanni Zappella"
+        },
+        {
+          "authorId": "20510379",
+          "name": "Evans Etrue"
+        }
+      ]
+    },
+    {
+      "paperId": "d07f0c323cd07bd1fb9865211b4b40e3b5d85eb5",
+      "externalIds": {
+        "MAG": "1938936242",
+        "DBLP": "journals/corr/LiGKZ16",
+        "CorpusId": 487089
+      },
+      "url": "https://www.semanticscholar.org/paper/d07f0c323cd07bd1fb9865211b4b40e3b5d85eb5",
+      "title": "Online Context-Dependent Clustering in Recommendations based on Exploration-Exploitation Algorithms",
+      "venue": "arXiv.org",
+      "year": 2016,
+      "referenceCount": 42,
+      "citationCount": 5,
+      "authors": [
+        {
+          "authorId": "2133435913",
+          "name": "Shuai Li"
+        },
+        {
+          "authorId": "1895207",
+          "name": "C. Gentile"
+        },
+        {
+          "authorId": "1713164",
+          "name": "Alexandros Karatzoglou"
+        },
+        {
+          "authorId": "3024156",
+          "name": "Giovanni Zappella"
+        }
+      ]
+    },
+    {
+      "paperId": "10e08280ef2ac3d7a463faae7aa23f0b958617d0",
+      "externalIds": {
+        "MAG": "2895215501",
+        "CorpusId": 271860546
+      },
+      "url": "https://www.semanticscholar.org/paper/10e08280ef2ac3d7a463faae7aa23f0b958617d0",
+      "title": "M ay 2 01 5 Online Context-Dependent Clustering in Recommendations based on Exploration-Exploitation Algorithms",
+      "venue": "",
+      "year": 2015,
+      "referenceCount": 31,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2256947862",
+          "name": "Shuai Li"
+        },
+        {
+          "authorId": "2304746364",
+          "name": "Claudio Gentile"
+        },
+        {
+          "authorId": "2257295049",
+          "name": "Alexandros Karatzoglou"
+        },
+        {
+          "authorId": "3024156",
+          "name": "Giovanni Zappella"
+        }
+      ]
+    },
+    {
+      "paperId": "27f74ae5731862fb5f58f4396d161682e2dee1b1",
+      "externalIds": {
+        "ArXiv": "2408.05586",
+        "DBLP": "conf/kdd/BanQWLH24",
+        "DOI": "10.1145/3637528.3671691",
+        "CorpusId": 271854745
+      },
+      "url": "https://www.semanticscholar.org/paper/27f74ae5731862fb5f58f4396d161682e2dee1b1",
+      "title": "Meta Clustering of Neural Bandits",
+      "venue": "Knowledge Discovery and Data Mining",
+      "year": 2024,
+      "referenceCount": 64,
+      "citationCount": 13,
+      "authors": [
+        {
+          "authorId": "51280934",
+          "name": "Yikun Ban"
+        },
+        {
+          "authorId": "1515533409",
+          "name": "Yunzhe Qi"
+        },
+        {
+          "authorId": "2068207615",
+          "name": "Tianxin Wei"
+        },
+        {
+          "authorId": "2315945392",
+          "name": "Lihui Liu"
+        },
+        {
+          "authorId": "2273658099",
+          "name": "Jingrui He"
+        }
+      ]
+    },
+    {
+      "paperId": "f7a7adc42f1ecaddf8a7c5738107be09b38e9195",
+      "externalIds": {
+        "ArXiv": "1605.00596",
+        "DBLP": "journals/corr/LiGK16",
+        "MAG": "2345750043",
+        "CorpusId": 3110729
+      },
+      "url": "https://www.semanticscholar.org/paper/f7a7adc42f1ecaddf8a7c5738107be09b38e9195",
+      "title": "Graph Clustering Bandits for Recommendation",
+      "venue": "arXiv.org",
+      "year": 2016,
+      "referenceCount": 17,
+      "citationCount": 15,
+      "authors": [
+        {
+          "authorId": "2133435913",
+          "name": "Shuai Li"
+        },
+        {
+          "authorId": "1895207",
+          "name": "C. Gentile"
+        },
+        {
+          "authorId": "1713164",
+          "name": "Alexandros Karatzoglou"
+        }
+      ]
+    },
+    {
+      "paperId": "492df51ab3c22e391033b706fad880920f81ed82",
+      "externalIds": {
+        "ArXiv": "2502.16362",
+        "CorpusId": 276575545
+      },
+      "url": "https://www.semanticscholar.org/paper/492df51ab3c22e391033b706fad880920f81ed82",
+      "title": "Including an infrequently measured time-dependent error-prone covariate in survival analyses: a simulation-based comparison of methods",
+      "venue": "",
+      "year": 2025,
+      "referenceCount": 27,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2346980811",
+          "name": "V. Philipps"
+        },
+        {
+          "authorId": "2360754784",
+          "name": "L. Freedman"
+        },
+        {
+          "authorId": "2346980470",
+          "name": "V. Deffner"
+        },
+        {
+          "authorId": "2346982605",
+          "name": "C. Helmer"
+        },
+        {
+          "authorId": "2755460",
+          "name": "H. Boshuizen"
+        },
+        {
+          "authorId": "2346982592",
+          "name": "Anne C.M. Thi'ebaut"
+        },
+        {
+          "authorId": "2346980752",
+          "name": "C'ecile Proust-Lima on behalf of Measurement Error"
+        },
+        {
+          "authorId": "2346980364",
+          "name": "Misclassification Topic Group of the Stratos Initiative"
+        }
+      ]
+    },
+    {
+      "paperId": "ddf8ca3fccd3e301ed96600391b889004d0b4690",
+      "externalIds": {
+        "MAG": "2964217698",
+        "DBLP": "journals/corr/abs-1708-03058",
+        "ArXiv": "1708.03058",
+        "DOI": "10.1109/TKDE.2018.2866041",
+        "CorpusId": 26654921
+      },
+      "url": "https://www.semanticscholar.org/paper/ddf8ca3fccd3e301ed96600391b889004d0b4690",
+      "title": "Online Interactive Collaborative Filtering Using Multi-Armed Bandit with Dependent Arms",
+      "venue": "IEEE Transactions on Knowledge and Data Engineering",
+      "year": 2017,
+      "referenceCount": 64,
+      "citationCount": 77,
+      "authors": [
+        {
+          "authorId": "5578955",
+          "name": "Qing Wang"
+        },
+        {
+          "authorId": "1787131",
+          "name": "Chunqiu Zeng"
+        },
+        {
+          "authorId": "2447204",
+          "name": "Wubai Zhou"
+        },
+        {
+          "authorId": "50289773",
+          "name": "Tao Li"
+        },
+        {
+          "authorId": "144356993",
+          "name": "S. S. Iyengar"
+        },
+        {
+          "authorId": "1828069",
+          "name": "L. Shwartz"
+        },
+        {
+          "authorId": "29935018",
+          "name": "G. Grabarnik"
+        }
+      ]
+    },
+    {
+      "paperId": "6160dac8b9b2281559ad811eb61e000712713bd9",
+      "externalIds": {
+        "PubMedCentral": "12112559",
+        "DOI": "10.3390/ijms26104810",
+        "CorpusId": 278761211,
+        "PubMed": "40429951"
+      },
+      "url": "https://www.semanticscholar.org/paper/6160dac8b9b2281559ad811eb61e000712713bd9",
+      "title": "Sex-Associated Cerebellar and Hippocampal Volume Reduction in Alzheimer’s Disease: Insights from the Clinical ADNI Cohort and STZ Animal Model",
+      "venue": "International Journal of Molecular Sciences",
+      "year": 2025,
+      "referenceCount": 84,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "2305493111",
+          "name": "Krista M. Wartchow"
+        },
+        {
+          "authorId": "144977119",
+          "name": "L. Rodrigues"
+        },
+        {
+          "authorId": "2290874919",
+          "name": "W. Dartora"
+        },
+        {
+          "authorId": "6184787",
+          "name": "Regina Biasibetti"
+        },
+        {
+          "authorId": "8420936",
+          "name": "N. G. Selistre"
+        },
+        {
+          "authorId": "2056496727",
+          "name": "Artur Lazarian"
+        },
+        {
+          "authorId": "2362474933",
+          "name": "Carmen Barrios-Castellanos"
+        },
+        {
+          "authorId": "2295892910",
+          "name": "Nicholas Bartelo"
+        },
+        {
+          "authorId": "1395589745",
+          "name": "C. Gonçalves"
+        },
+        {
+          "authorId": "2290892074",
+          "name": "L. B. McIntire"
+        },
+        {
+          "authorId": null,
+          "name": "On Behalf Of Alzheimer's Disease Neuroimaging Init"
+        }
+      ]
+    },
+    {
+      "paperId": "07503b6fa32459203e176ce880c2a5ba23f0f8e5",
+      "externalIds": {
+        "MAG": "3092052458",
+        "ArXiv": "2010.05637",
+        "DBLP": "conf/nips/HabibBK20",
+        "CorpusId": 222291205
+      },
+      "url": "https://www.semanticscholar.org/paper/07503b6fa32459203e176ce880c2a5ba23f0f8e5",
+      "title": "Learning to Decode: Reinforcement Learning for Decoding of Sparse Graph-Based Channel Codes",
+      "venue": "Neural Information Processing Systems",
+      "year": 2020,
+      "referenceCount": 33,
+      "citationCount": 14,
+      "authors": [
+        {
+          "authorId": "49916135",
+          "name": "Salman Habib"
+        },
+        {
+          "authorId": "93037496",
+          "name": "Allison Beemer"
+        },
+        {
+          "authorId": "2064748249",
+          "name": "J. Kliewer"
+        }
+      ]
+    },
+    {
+      "paperId": "a43fefad3a0cc4ab2f97d152402a34c9d78a6eeb",
+      "externalIds": {
+        "PubMedCentral": "10743799",
+        "DOI": "10.3390/jcm12247641",
+        "CorpusId": 266300120,
+        "PubMed": "38137711"
+      },
+      "url": "https://www.semanticscholar.org/paper/a43fefad3a0cc4ab2f97d152402a34c9d78a6eeb",
+      "title": "Multimodality Imaging in Advanced Heart Failure for Diagnosis, Management and Follow-Up: A Comprehensive Review",
+      "venue": "Journal of Clinical Medicine",
+      "year": 2023,
+      "referenceCount": 113,
+      "citationCount": 8,
+      "authors": [
+        {
+          "authorId": "2122365703",
+          "name": "V. Pergola"
+        },
+        {
+          "authorId": "2235806512",
+          "name": "M. Cameli"
+        },
+        {
+          "authorId": "4735605",
+          "name": "G. Mattesi"
+        },
+        {
+          "authorId": "49466509",
+          "name": "S. Mushtaq"
+        },
+        {
+          "authorId": "2266921161",
+          "name": "A. D’Andrea"
+        },
+        {
+          "authorId": "4878690",
+          "name": "A. Guaricci"
+        },
+        {
+          "authorId": "34401346",
+          "name": "M. C. Pastore"
+        },
+        {
+          "authorId": "2196773181",
+          "name": "Filippo Amato"
+        },
+        {
+          "authorId": "2024639866",
+          "name": "C. M. Dellino"
+        },
+        {
+          "authorId": "2247949713",
+          "name": "Raffaella Motta"
+        },
+        {
+          "authorId": "7344377",
+          "name": "M. Perazzolo Marra"
+        },
+        {
+          "authorId": "6749843",
+          "name": "S. Dellegrottaglie"
+        },
+        {
+          "authorId": "2274666169",
+          "name": "Roberto Pedrinelli"
+        },
+        {
+          "authorId": "2266318765",
+          "name": "S. Iliceto"
+        },
+        {
+          "authorId": "5592889",
+          "name": "S. Nodari"
+        },
+        {
+          "authorId": "144832086",
+          "name": "P. Perrone Filardi"
+        },
+        {
+          "authorId": "3680638",
+          "name": "G. Pontone"
+        },
+        {
+          "authorId": null,
+          "name": "On Behalf Of The Cluster Imaging Of Italian Societ"
+        }
+      ]
+    }
+  ]
+}

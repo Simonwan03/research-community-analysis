@@ -1,0 +1,296 @@
+{
+  "total": 52,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "e49d542882126fc6f5a94fd154ea095505bd876a",
+      "externalIds": {
+        "MAG": "2470101972",
+        "DBLP": "conf/icml/Kasiviswanathan16",
+        "CorpusId": 8048177
+      },
+      "url": "https://www.semanticscholar.org/paper/e49d542882126fc6f5a94fd154ea095505bd876a",
+      "title": "Efficient Private Empirical Risk Minimization for High-dimensional Learning",
+      "venue": "International Conference on Machine Learning",
+      "year": 2016,
+      "referenceCount": 48,
+      "citationCount": 70,
+      "authors": [
+        {
+          "authorId": "7993151",
+          "name": "S. Kasiviswanathan"
+        },
+        {
+          "authorId": "1705713",
+          "name": "Hongxia Jin"
+        }
+      ]
+    },
+    {
+      "paperId": "78ed3ff44265d045a791b6108cb4b2fe0010e1b4",
+      "externalIds": {
+        "DBLP": "conf/aistats/MangoldBST23",
+        "ArXiv": "2207.01560",
+        "DOI": "10.48550/arXiv.2207.01560",
+        "CorpusId": 250264761
+      },
+      "url": "https://www.semanticscholar.org/paper/78ed3ff44265d045a791b6108cb4b2fe0010e1b4",
+      "title": "High-Dimensional Private Empirical Risk Minimization by Greedy Coordinate Descent",
+      "venue": "International Conference on Artificial Intelligence and Statistics",
+      "year": 2022,
+      "referenceCount": 63,
+      "citationCount": 6,
+      "authors": [
+        {
+          "authorId": "102977733",
+          "name": "Paul Mangold"
+        },
+        {
+          "authorId": "1702915",
+          "name": "A. Bellet"
+        },
+        {
+          "authorId": "143627573",
+          "name": "J. Salmon"
+        },
+        {
+          "authorId": "144640325",
+          "name": "M. Tommasi"
+        }
+      ]
+    },
+    {
+      "paperId": "8e19f59156276a825cc4368d74473a0d39247241",
+      "externalIds": {
+        "MAG": "2182267394",
+        "DBLP": "journals/jmlr/KiferST12",
+        "CorpusId": 14305556
+      },
+      "url": "https://www.semanticscholar.org/paper/8e19f59156276a825cc4368d74473a0d39247241",
+      "title": "Private Convex Optimization for Empirical Risk Minimization with Applications to High-dimensional Regression",
+      "venue": "Annual Conference Computational Learning Theory",
+      "year": 2012,
+      "referenceCount": 25,
+      "citationCount": 301,
+      "authors": [
+        {
+          "authorId": "1852261",
+          "name": "Daniel Kifer"
+        },
+        {
+          "authorId": "39765787",
+          "name": "Adam D. Smith"
+        },
+        {
+          "authorId": "2623159",
+          "name": "Abhradeep Thakurta"
+        }
+      ]
+    },
+    {
+      "paperId": "65926b61d0308954bd6cc4f6cbe46eef64147635",
+      "externalIds": {
+        "DBLP": "conf/focs/BassilyST14",
+        "MAG": "1992926795",
+        "DOI": "10.1109/FOCS.2014.56",
+        "CorpusId": 263882804
+      },
+      "url": "https://www.semanticscholar.org/paper/65926b61d0308954bd6cc4f6cbe46eef64147635",
+      "title": "Private Empirical Risk Minimization: Efficient Algorithms and Tight Error Bounds",
+      "venue": "IEEE Annual Symposium on Foundations of Computer Science",
+      "year": 2014,
+      "referenceCount": 41,
+      "citationCount": 804,
+      "authors": [
+        {
+          "authorId": "1679638",
+          "name": "Raef Bassily"
+        },
+        {
+          "authorId": "2257378430",
+          "name": "Adam D. Smith"
+        },
+        {
+          "authorId": "2623159",
+          "name": "Abhradeep Thakurta"
+        }
+      ]
+    },
+    {
+      "paperId": "f5c66cb689aa9b4404c72afc263023c26433553a",
+      "externalIds": {
+        "MAG": "1937834619",
+        "ArXiv": "1405.7085",
+        "CorpusId": 206656426
+      },
+      "url": "https://www.semanticscholar.org/paper/f5c66cb689aa9b4404c72afc263023c26433553a",
+      "title": "Differentially Private Empirical Risk Minimization: Efficient Algorithms and Tight Error Bounds",
+      "venue": "",
+      "year": 2014,
+      "referenceCount": 52,
+      "citationCount": 362,
+      "authors": [
+        {
+          "authorId": "1679638",
+          "name": "Raef Bassily"
+        },
+        {
+          "authorId": "39765787",
+          "name": "Adam D. Smith"
+        },
+        {
+          "authorId": "2623159",
+          "name": "Abhradeep Thakurta"
+        }
+      ]
+    },
+    {
+      "paperId": "9bbf57f085d46b700999e61883e14caa0a0e80f5",
+      "externalIds": {
+        "DOI": "10.3934/math.20241256",
+        "CorpusId": 272415396
+      },
+      "url": "https://www.semanticscholar.org/paper/9bbf57f085d46b700999e61883e14caa0a0e80f5",
+      "title": "Robust safe semi-supervised learning framework for high-dimensional data classification",
+      "venue": "AIMS Mathematics",
+      "year": 2024,
+      "referenceCount": 30,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "2152610432",
+          "name": "Jun Ma"
+        },
+        {
+          "authorId": "2319747492",
+          "name": "Xiaolong Zhu"
+        }
+      ]
+    },
+    {
+      "paperId": "32ef707c7b0264ec2c37b1936bfc0fcb89cbc810",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-1802-04085",
+        "MAG": "2786782900",
+        "CorpusId": 3644113
+      },
+      "url": "https://www.semanticscholar.org/paper/32ef707c7b0264ec2c37b1936bfc0fcb89cbc810",
+      "title": "Efficient Empirical Risk Minimization with Smooth Loss Functions in Non-interactive Local Differential Privacy",
+      "venue": "arXiv.org",
+      "year": 2018,
+      "referenceCount": 37,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "144629030",
+          "name": "Di Wang"
+        },
+        {
+          "authorId": "1759699",
+          "name": "Marco Gaboardi"
+        },
+        {
+          "authorId": "7162036",
+          "name": "Jinhui Xu"
+        }
+      ]
+    },
+    {
+      "paperId": "e2986b72d8f488413ca4ae5f7bee1a4c4378cbfb",
+      "externalIds": {
+        "DBLP": "journals/jmlr/0015GS020",
+        "MAG": "3099141078",
+        "ArXiv": "2011.05934",
+        "CorpusId": 226299803
+      },
+      "url": "https://www.semanticscholar.org/paper/e2986b72d8f488413ca4ae5f7bee1a4c4378cbfb",
+      "title": "Empirical Risk Minimization in the Non-interactive Local Model of Differential Privacy",
+      "venue": "Journal of machine learning research",
+      "year": 2020,
+      "referenceCount": 51,
+      "citationCount": 22,
+      "authors": [
+        {
+          "authorId": "144629030",
+          "name": "Di Wang"
+        },
+        {
+          "authorId": "1759699",
+          "name": "Marco Gaboardi"
+        },
+        {
+          "authorId": "39765787",
+          "name": "Adam D. Smith"
+        },
+        {
+          "authorId": "7162036",
+          "name": "Jinhui Xu"
+        }
+      ]
+    },
+    {
+      "paperId": "c2f62a25c3a96ddb2baef695440651ba0bc0c14b",
+      "externalIds": {
+        "MAG": "2963134236",
+        "ArXiv": "1612.01663",
+        "DBLP": "conf/aaai/XuY0Y17",
+        "DOI": "10.1609/aaai.v31i1.10845",
+        "CorpusId": 14742940
+      },
+      "url": "https://www.semanticscholar.org/paper/c2f62a25c3a96ddb2baef695440651ba0bc0c14b",
+      "title": "Efficient Non-Oblivious Randomized Reduction for Risk Minimization with Improved Excess Risk Guarantee",
+      "venue": "AAAI Conference on Artificial Intelligence",
+      "year": 2016,
+      "referenceCount": 31,
+      "citationCount": 9,
+      "authors": [
+        {
+          "authorId": "2110289529",
+          "name": "Yi Xu"
+        },
+        {
+          "authorId": "1702456",
+          "name": "Haiqin Yang"
+        },
+        {
+          "authorId": "2108876951",
+          "name": "Lijun Zhang"
+        },
+        {
+          "authorId": "40381920",
+          "name": "Tianbao Yang"
+        }
+      ]
+    },
+    {
+      "paperId": "17735f698afa4fa2cc5500e5290cbc0a41245c98",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2507-17544",
+        "ArXiv": "2507.17544",
+        "DOI": "10.48550/arXiv.2507.17544",
+        "CorpusId": 280228209
+      },
+      "url": "https://www.semanticscholar.org/paper/17735f698afa4fa2cc5500e5290cbc0a41245c98",
+      "title": "Optimal differentially private kernel learning with random projection",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "referenceCount": 0,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2288286118",
+          "name": "Bonwoo Lee"
+        },
+        {
+          "authorId": "2241126625",
+          "name": "Cheolwoo Park"
+        },
+        {
+          "authorId": "13787984",
+          "name": "Jeongyoun Ahn"
+        }
+      ]
+    }
+  ]
+}

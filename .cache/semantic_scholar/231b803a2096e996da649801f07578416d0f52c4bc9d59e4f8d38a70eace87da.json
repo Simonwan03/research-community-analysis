@@ -1,0 +1,346 @@
+{
+  "total": 4337,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "d3f8435f2c7bdbb67bcd75612a84c1a60835f4d9",
+      "externalIds": {
+        "DBLP": "conf/icml/AnavaHZ15",
+        "MAG": "1945395050",
+        "CorpusId": 14448486
+      },
+      "url": "https://www.semanticscholar.org/paper/d3f8435f2c7bdbb67bcd75612a84c1a60835f4d9",
+      "title": "Online Time Series Prediction with Missing Data",
+      "venue": "International Conference on Machine Learning",
+      "year": 2015,
+      "referenceCount": 18,
+      "citationCount": 86,
+      "authors": [
+        {
+          "authorId": "2576215",
+          "name": "Oren Anava"
+        },
+        {
+          "authorId": "34840427",
+          "name": "Elad Hazan"
+        },
+        {
+          "authorId": "35002939",
+          "name": "A. Zeevi"
+        }
+      ]
+    },
+    {
+      "paperId": "92fabeefd58ac3d78bf541604206fd4bb5f2f579",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-1908-06729",
+        "ArXiv": "1908.06729",
+        "MAG": "2967577614",
+        "CorpusId": 201070806
+      },
+      "url": "https://www.semanticscholar.org/paper/92fabeefd58ac3d78bf541604206fd4bb5f2f579",
+      "title": "Autoregressive-Model-Based Methods for Online Time Series Prediction with Missing Values: an Experimental Evaluation",
+      "venue": "arXiv.org",
+      "year": 2019,
+      "referenceCount": 36,
+      "citationCount": 4,
+      "authors": [
+        {
+          "authorId": "2145307412",
+          "name": "Xi Chen"
+        },
+        {
+          "authorId": "46506118",
+          "name": "Hongzhi Wang"
+        },
+        {
+          "authorId": "2112599374",
+          "name": "Yanjie Wei"
+        },
+        {
+          "authorId": "145323381",
+          "name": "Jianzhong Li"
+        },
+        {
+          "authorId": "144415372",
+          "name": "Hong Gao"
+        }
+      ]
+    },
+    {
+      "paperId": "4e350e4c9c493be21dc8eabdf3f567016f5a927c",
+      "externalIds": {
+        "DBLP": "journals/npl/YangPT19",
+        "MAG": "2917403813",
+        "DOI": "10.1007/s11063-019-10007-x",
+        "CorpusId": 71148142
+      },
+      "url": "https://www.semanticscholar.org/paper/4e350e4c9c493be21dc8eabdf3f567016f5a927c",
+      "title": "Online Learning for Time Series Prediction of AR Model with Missing Data",
+      "venue": "Neural Processing Letters",
+      "year": 2019,
+      "referenceCount": 31,
+      "citationCount": 11,
+      "authors": [
+        {
+          "authorId": "7543251",
+          "name": "Haimin Yang"
+        },
+        {
+          "authorId": "1794876",
+          "name": "Zhisong Pan"
+        },
+        {
+          "authorId": "144750297",
+          "name": "Qing Tao"
+        }
+      ]
+    },
+    {
+      "paperId": "871dff38e38d5368f05f120e7e3d3bbb0b993ea3",
+      "externalIds": {
+        "DOI": "10.3390/math12081137",
+        "CorpusId": 269079807
+      },
+      "url": "https://www.semanticscholar.org/paper/871dff38e38d5368f05f120e7e3d3bbb0b993ea3",
+      "title": "Neural Networks with Transfer Learning and Frequency Decomposition for Wind Speed Prediction with Missing Data",
+      "venue": "Mathematics",
+      "year": 2024,
+      "referenceCount": 27,
+      "citationCount": 5,
+      "authors": [
+        {
+          "authorId": "2296222093",
+          "name": "Xiaoou Li"
+        },
+        {
+          "authorId": "2296262197",
+          "name": "Yingqin Zhu"
+        }
+      ]
+    },
+    {
+      "paperId": "352cc4561eb90c90be56308ef76f862fbc5fc487",
+      "externalIds": {
+        "DOI": "10.1145/3704558.3704604",
+        "CorpusId": 275644724
+      },
+      "url": "https://www.semanticscholar.org/paper/352cc4561eb90c90be56308ef76f862fbc5fc487",
+      "title": "Advancing Glucose Content Prediction: A Multivariate Fuzzy Time Series Methodology",
+      "venue": "Proceedings of the 2024 2nd International Conference on Frontiers of Intelligent Manufacturing and Automation",
+      "year": 2024,
+      "referenceCount": 15,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2321984342",
+          "name": "Zhi Liu"
+        },
+        {
+          "authorId": "2322070708",
+          "name": "Zhiyi Zhang"
+        }
+      ]
+    },
+    {
+      "paperId": "9c890d42e6674b2687d63171c788ed60fd91ad04",
+      "externalIds": {
+        "MAG": "2012483024",
+        "DOI": "10.1016/J.APM.2013.11.029",
+        "CorpusId": 122146164
+      },
+      "url": "https://www.semanticscholar.org/paper/9c890d42e6674b2687d63171c788ed60fd91ad04",
+      "title": "Multi-step prediction of time series with random missing data",
+      "venue": "",
+      "year": 2014,
+      "referenceCount": 34,
+      "citationCount": 19,
+      "authors": [
+        {
+          "authorId": "47149915",
+          "name": "Xuedong Wu"
+        },
+        {
+          "authorId": "2119048509",
+          "name": "Yaonan Wang"
+        },
+        {
+          "authorId": "2748212",
+          "name": "Jianxu Mao"
+        },
+        {
+          "authorId": "2112455920",
+          "name": "Zhaoping Du"
+        },
+        {
+          "authorId": "2155046464",
+          "name": "Chun-hua Li"
+        }
+      ]
+    },
+    {
+      "paperId": "74e658ecd564bc8e1bbb8d59268e4c7ba8f0b731",
+      "externalIds": {
+        "DBLP": "conf/wsc/LeCHNT24",
+        "DOI": "10.1109/WSC63780.2024.10838953",
+        "CorpusId": 275780895
+      },
+      "url": "https://www.semanticscholar.org/paper/74e658ecd564bc8e1bbb8d59268e4c7ba8f0b731",
+      "title": "Perceiving Copulas for Multimodal Time Series Forecasting",
+      "venue": "Online World Conference on Soft Computing in Industrial Applications",
+      "year": 2024,
+      "referenceCount": 31,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "1387147326",
+          "name": "Cat P. Le"
+        },
+        {
+          "authorId": "2253590569",
+          "name": "Chris Cannella"
+        },
+        {
+          "authorId": "2065152192",
+          "name": "Ali Hasan"
+        },
+        {
+          "authorId": "2073624814",
+          "name": "Yuting Ng"
+        },
+        {
+          "authorId": "2296717520",
+          "name": "Vahid Tarokh"
+        }
+      ]
+    },
+    {
+      "paperId": "c9a2c4ea27d9d295f7179de4716d06409f7ee69a",
+      "externalIds": {
+        "DBLP": "journals/tsipn/ZamanLB23",
+        "ArXiv": "2012.05957",
+        "DOI": "10.1109/TSIPN.2023.3324569",
+        "CorpusId": 246863873
+      },
+      "url": "https://www.semanticscholar.org/paper/c9a2c4ea27d9d295f7179de4716d06409f7ee69a",
+      "title": "Online Joint Topology Identification and Signal Estimation From Streams With Missing Data",
+      "venue": "IEEE Transactions on Signal and Information Processing over Networks",
+      "year": 2020,
+      "referenceCount": 75,
+      "citationCount": 6,
+      "authors": [
+        {
+          "authorId": "153291127",
+          "name": "Bakht Zaman"
+        },
+        {
+          "authorId": "1405322149",
+          "name": "L. M. Lopez-Ramos"
+        },
+        {
+          "authorId": "1399017126",
+          "name": "B. Beferull-Lozano"
+        }
+      ]
+    },
+    {
+      "paperId": "a0c4571a9a42d1e6931af19fdd9bd8fad084d695",
+      "externalIds": {
+        "ArXiv": "2309.02564",
+        "DBLP": "journals/corr/abs-2309-02564",
+        "DOI": "10.48550/arXiv.2309.02564",
+        "CorpusId": 261557039
+      },
+      "url": "https://www.semanticscholar.org/paper/a0c4571a9a42d1e6931af19fdd9bd8fad084d695",
+      "title": "Diffusion-based Time Series Data Imputation for Microsoft 365",
+      "venue": "arXiv.org",
+      "year": 2023,
+      "referenceCount": 38,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "47829900",
+          "name": "Fan Yang"
+        },
+        {
+          "authorId": "2237988744",
+          "name": "Wenjie Yin"
+        },
+        {
+          "authorId": "2163383329",
+          "name": "Lu Wang"
+        },
+        {
+          "authorId": "2215699021",
+          "name": "Tianci Li"
+        },
+        {
+          "authorId": "2007757792",
+          "name": "Pu Zhao"
+        },
+        {
+          "authorId": "2215646598",
+          "name": "Bo Liu"
+        },
+        {
+          "authorId": "2143955056",
+          "name": "Paul Wang"
+        },
+        {
+          "authorId": "2007693904",
+          "name": "Bo Qiao"
+        },
+        {
+          "authorId": "2181323068",
+          "name": "Yudong Liu"
+        },
+        {
+          "authorId": "2290838199",
+          "name": "Maarten Bjorkman"
+        },
+        {
+          "authorId": "148121358",
+          "name": "S. Rajmohan"
+        },
+        {
+          "authorId": "2793487",
+          "name": "Qingwei Lin"
+        },
+        {
+          "authorId": "46334641",
+          "name": "D. Zhang"
+        }
+      ]
+    },
+    {
+      "paperId": "9c6ebea2f2c0476ae63eb703c9f4a4f58624119c",
+      "externalIds": {
+        "MAG": "2967987700",
+        "DBLP": "journals/tfs/GarciaLS20",
+        "DOI": "10.1109/TFUZZ.2019.2935688",
+        "CorpusId": 202145061
+      },
+      "url": "https://www.semanticscholar.org/paper/9c6ebea2f2c0476ae63eb703c9f4a4f58624119c",
+      "title": "Incremental Missing-Data Imputation for Evolving Fuzzy Granular Prediction",
+      "venue": "IEEE transactions on fuzzy systems",
+      "year": 2020,
+      "referenceCount": 51,
+      "citationCount": 49,
+      "authors": [
+        {
+          "authorId": "2111062486",
+          "name": "Cristiano Garcia"
+        },
+        {
+          "authorId": "37785174",
+          "name": "Daniel F Leite"
+        },
+        {
+          "authorId": "1721547",
+          "name": "I. Škrjanc"
+        }
+      ]
+    }
+  ]
+}

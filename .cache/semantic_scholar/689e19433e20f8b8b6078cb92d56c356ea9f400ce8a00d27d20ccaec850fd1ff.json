@@ -1,0 +1,266 @@
+{
+  "total": 9,
+  "offset": 0,
+  "data": [
+    {
+      "paperId": "117f12f75cfe4d5705d7beabbe961b2ced0d7025",
+      "externalIds": {
+        "ArXiv": "1612.01205",
+        "DBLP": "conf/icml/WangAD17",
+        "MAG": "2952722811",
+        "CorpusId": 12473094
+      },
+      "url": "https://www.semanticscholar.org/paper/117f12f75cfe4d5705d7beabbe961b2ced0d7025",
+      "title": "Optimal and Adaptive Off-policy Evaluation in Contextual Bandits",
+      "venue": "International Conference on Machine Learning",
+      "year": 2016,
+      "referenceCount": 32,
+      "citationCount": 233,
+      "authors": [
+        {
+          "authorId": "2040617",
+          "name": "Yu-Xiang Wang"
+        },
+        {
+          "authorId": "40333747",
+          "name": "Alekh Agarwal"
+        },
+        {
+          "authorId": "144652072",
+          "name": "Miroslav Dudík"
+        }
+      ]
+    },
+    {
+      "paperId": "4217bf521e0ffb4b2a36673478caa29c223a2b84",
+      "externalIds": {
+        "CorpusId": 260483254
+      },
+      "url": "https://www.semanticscholar.org/paper/4217bf521e0ffb4b2a36673478caa29c223a2b84",
+      "title": "Optimal and Adaptive Off-policy Evaluation in Contextual Bandits",
+      "venue": "",
+      "year": 2017,
+      "referenceCount": 0,
+      "citationCount": 59,
+      "authors": []
+    },
+    {
+      "paperId": "8ae4f95029bd00508342818f40ae4b0ca53b0192",
+      "externalIds": {
+        "MAG": "2963482016",
+        "DBLP": "conf/icml/SuDKD20",
+        "ArXiv": "1907.09623",
+        "CorpusId": 198179772
+      },
+      "url": "https://www.semanticscholar.org/paper/8ae4f95029bd00508342818f40ae4b0ca53b0192",
+      "title": "Doubly robust off-policy evaluation with shrinkage",
+      "venue": "International Conference on Machine Learning",
+      "year": 2019,
+      "referenceCount": 36,
+      "citationCount": 127,
+      "authors": [
+        {
+          "authorId": "144908640",
+          "name": "Yi-Hsun Su"
+        },
+        {
+          "authorId": "8472327",
+          "name": "Maria Dimakopoulou"
+        },
+        {
+          "authorId": "37019006",
+          "name": "A. Krishnamurthy"
+        },
+        {
+          "authorId": "144652072",
+          "name": "Miroslav Dudík"
+        }
+      ]
+    },
+    {
+      "paperId": "d83756746e5062da50f90f2625b68a7e75a9f756",
+      "externalIds": {
+        "ArXiv": "2411.12786",
+        "DBLP": "conf/nips/Lee024",
+        "DOI": "10.48550/arXiv.2411.12786",
+        "CorpusId": 274149828
+      },
+      "url": "https://www.semanticscholar.org/paper/d83756746e5062da50f90f2625b68a7e75a9f756",
+      "title": "Off-policy estimation with adaptively collected data: the power of online learning",
+      "venue": "Neural Information Processing Systems",
+      "year": 2024,
+      "referenceCount": 77,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2331728854",
+          "name": "Jeonghwan Lee"
+        },
+        {
+          "authorId": "2376521395",
+          "name": "Cong Ma"
+        }
+      ]
+    },
+    {
+      "paperId": "f16a6767343117c6642bd90d2c77885eb7ad7388",
+      "externalIds": {
+        "ArXiv": "2309.11518",
+        "DBLP": "conf/wsdm/SagtaniJMJ24",
+        "DOI": "10.1145/3616855.3635846",
+        "CorpusId": 262084270
+      },
+      "url": "https://www.semanticscholar.org/paper/f16a6767343117c6642bd90d2c77885eb7ad7388",
+      "title": "Ad-load Balancing via Off-policy Learning in a Content Marketplace",
+      "venue": "Web Search and Data Mining",
+      "year": 2023,
+      "referenceCount": 54,
+      "citationCount": 12,
+      "authors": [
+        {
+          "authorId": "2223763954",
+          "name": "Hitesh Sagtani"
+        },
+        {
+          "authorId": "26957794",
+          "name": "M. Jhawar"
+        },
+        {
+          "authorId": "2243336832",
+          "name": "Rishabh Mehrotra"
+        },
+        {
+          "authorId": "52628148",
+          "name": "Olivier Jeunen"
+        }
+      ]
+    },
+    {
+      "paperId": "a60ef618a4f2b44e1c399ff0480c67e110aaa162",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2006-08236",
+        "ArXiv": "2006.08236",
+        "MAG": "3034261810",
+        "CorpusId": 219686779
+      },
+      "url": "https://www.semanticscholar.org/paper/a60ef618a4f2b44e1c399ff0480c67e110aaa162",
+      "title": "Piecewise-Stationary Off-Policy Optimization",
+      "venue": "arXiv.org",
+      "year": 2020,
+      "referenceCount": 34,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2110597723",
+          "name": "Joey Hong"
+        },
+        {
+          "authorId": "1681967",
+          "name": "B. Kveton"
+        },
+        {
+          "authorId": "1771307",
+          "name": "M. Zaheer"
+        },
+        {
+          "authorId": "1819830",
+          "name": "Yinlam Chow"
+        },
+        {
+          "authorId": "143629707",
+          "name": "Amr Ahmed"
+        }
+      ]
+    },
+    {
+      "paperId": "c2f28b786611b67f19dfb91660ce980157e5b3cc",
+      "externalIds": {
+        "MAG": "2971026911",
+        "DBLP": "conf/nips/ChoromanskiPPTS19",
+        "CorpusId": 174799322
+      },
+      "url": "https://www.semanticscholar.org/paper/c2f28b786611b67f19dfb91660ce980157e5b3cc",
+      "title": "From Complexity to Simplicity: Adaptive ES-Active Subspaces for Blackbox Optimization",
+      "venue": "Neural Information Processing Systems",
+      "year": 2019,
+      "referenceCount": 39,
+      "citationCount": 52,
+      "authors": [
+        {
+          "authorId": "1805203",
+          "name": "K. Choromanski"
+        },
+        {
+          "authorId": "3124110",
+          "name": "Aldo Pacchiano"
+        },
+        {
+          "authorId": "1410302742",
+          "name": "Jack Parker-Holder"
+        },
+        {
+          "authorId": "11501567",
+          "name": "Yunhao Tang"
+        },
+        {
+          "authorId": "1808676",
+          "name": "Vikas Sindhwani"
+        }
+      ]
+    },
+    {
+      "paperId": "0b0ff82b0f4f436919b7768f2d1c979308cdb9a0",
+      "externalIds": {
+        "ArXiv": "1903.04268",
+        "MAG": "2920872362",
+        "DBLP": "journals/corr/abs-1903-04268",
+        "CorpusId": 73729054
+      },
+      "url": "https://www.semanticscholar.org/paper/0b0ff82b0f4f436919b7768f2d1c979308cdb9a0",
+      "title": "Adaptive Sample-Efficient Blackbox Optimization via ES-active Subspaces",
+      "venue": "arXiv.org",
+      "year": 2019,
+      "referenceCount": 28,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "1805203",
+          "name": "K. Choromanski"
+        },
+        {
+          "authorId": "3124110",
+          "name": "Aldo Pacchiano"
+        },
+        {
+          "authorId": "1410302742",
+          "name": "Jack Parker-Holder"
+        },
+        {
+          "authorId": "11501567",
+          "name": "Yunhao Tang"
+        }
+      ]
+    },
+    {
+      "paperId": "c3aefee6421e888ba5aadb9af1a979ca30e37054",
+      "externalIds": {
+        "MAG": "2784971550",
+        "DBLP": "phd/us/Wang18h",
+        "DOI": "10.1184/r1/6720836.v1",
+        "CorpusId": 5927619
+      },
+      "url": "https://www.semanticscholar.org/paper/c3aefee6421e888ba5aadb9af1a979ca30e37054",
+      "title": "New Paradigms and Optimality Guarantees in Statistical Learning and Estimation",
+      "venue": "",
+      "year": 2017,
+      "referenceCount": 250,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2040617",
+          "name": "Yu-Xiang Wang"
+        }
+      ]
+    }
+  ]
+}

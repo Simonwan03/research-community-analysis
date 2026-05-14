@@ -1,0 +1,227 @@
+{
+  "total": 7,
+  "offset": 0,
+  "data": [
+    {
+      "paperId": "80196cdfcd0c6ce2953bf65a7f019971e2026386",
+      "externalIds": {
+        "MAG": "2950708659",
+        "DBLP": "conf/icml/EspeholtSMSMWDF18",
+        "ArXiv": "1802.01561",
+        "CorpusId": 3645060
+      },
+      "url": "https://www.semanticscholar.org/paper/80196cdfcd0c6ce2953bf65a7f019971e2026386",
+      "title": "IMPALA: Scalable Distributed Deep-RL with Importance Weighted Actor-Learner Architectures",
+      "venue": "International Conference on Machine Learning",
+      "year": 2018,
+      "referenceCount": 42,
+      "citationCount": 1806,
+      "authors": [
+        {
+          "authorId": "2311318",
+          "name": "L. Espeholt"
+        },
+        {
+          "authorId": "2794457",
+          "name": "Hubert Soyer"
+        },
+        {
+          "authorId": "1708654",
+          "name": "R. Munos"
+        },
+        {
+          "authorId": "34838386",
+          "name": "K. Simonyan"
+        },
+        {
+          "authorId": "3255983",
+          "name": "Volodymyr Mnih"
+        },
+        {
+          "authorId": "2056968992",
+          "name": "Tom Ward"
+        },
+        {
+          "authorId": "2895238",
+          "name": "Yotam Doron"
+        },
+        {
+          "authorId": "9559485",
+          "name": "Vlad Firoiu"
+        },
+        {
+          "authorId": "3367786",
+          "name": "Tim Harley"
+        },
+        {
+          "authorId": "2768462",
+          "name": "Iain Dunning"
+        },
+        {
+          "authorId": "34313265",
+          "name": "S. Legg"
+        },
+        {
+          "authorId": "2645384",
+          "name": "K. Kavukcuoglu"
+        }
+      ]
+    },
+    {
+      "paperId": "3b57cf0b3b3b9e250bc3c08ded905e2ef6208da5",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2402-15932",
+        "ArXiv": "2402.15932",
+        "DOI": "10.48550/arXiv.2402.15932",
+        "CorpusId": 267938484
+      },
+      "url": "https://www.semanticscholar.org/paper/3b57cf0b3b3b9e250bc3c08ded905e2ef6208da5",
+      "title": "Scalable Volt-VAR Optimization using RLlib-IMPALA Framework: A Reinforcement Learning Approach",
+      "venue": "arXiv.org",
+      "year": 2024,
+      "referenceCount": 15,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2273348718",
+          "name": "Alaa Selim"
+        },
+        {
+          "authorId": "2244206344",
+          "name": "Yanzhu Ye"
+        },
+        {
+          "authorId": "2023394",
+          "name": "Junbo Zhao"
+        },
+        {
+          "authorId": "2286878105",
+          "name": "Bo Yang"
+        }
+      ]
+    },
+    {
+      "paperId": "118f81dd56eb8a50e85811523ea265e01240f64a",
+      "externalIds": {
+        "ArXiv": "2110.12415",
+        "DBLP": "journals/tmc/GoudarziPB23",
+        "DOI": "10.1109/TMC.2021.3123165",
+        "CorpusId": 235250903
+      },
+      "url": "https://www.semanticscholar.org/paper/118f81dd56eb8a50e85811523ea265e01240f64a",
+      "title": "A Distributed Deep Reinforcement Learning Technique for Application Placement in Edge and Fog Computing Environments",
+      "venue": "IEEE Transactions on Mobile Computing",
+      "year": 2021,
+      "referenceCount": 51,
+      "citationCount": 131,
+      "authors": [
+        {
+          "authorId": "145915989",
+          "name": "Mohammad Goudarzi"
+        },
+        {
+          "authorId": "145389998",
+          "name": "M. Palaniswami"
+        },
+        {
+          "authorId": "1709598",
+          "name": "R. Buyya"
+        }
+      ]
+    },
+    {
+      "paperId": "121653a789f3499886f48540edee26b74819c49f",
+      "externalIds": {
+        "DBLP": "conf/cig/ParkHL23",
+        "DOI": "10.1109/CoG57401.2023.10333217",
+        "CorpusId": 265818078
+      },
+      "url": "https://www.semanticscholar.org/paper/121653a789f3499886f48540edee26b74819c49f",
+      "title": "Human Interactive Learning with Intrinsic Reward",
+      "venue": "2023 IEEE Conference on Games (CoG)",
+      "year": 2023,
+      "referenceCount": 11,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2272608844",
+          "name": "Sung-Yun Park"
+        },
+        {
+          "authorId": "5207887",
+          "name": "Seung-Jin Hong"
+        },
+        {
+          "authorId": "2108050236",
+          "name": "Sang-Kwang Lee"
+        }
+      ]
+    },
+    {
+      "paperId": "ea63cca868cc792d4c0d20120f244f866d9aa752",
+      "externalIds": {
+        "MAG": "3081310128",
+        "DOI": "10.3390/electronics9091363",
+        "CorpusId": 225277420
+      },
+      "url": "https://www.semanticscholar.org/paper/ea63cca868cc792d4c0d20120f244f866d9aa752",
+      "title": "A Survey of Multi-Task Deep Reinforcement Learning",
+      "venue": "Electronics",
+      "year": 2020,
+      "referenceCount": 59,
+      "citationCount": 194,
+      "authors": [
+        {
+          "authorId": "2126518488",
+          "name": "Nelson Vithayathil Varghese"
+        },
+        {
+          "authorId": "1718287",
+          "name": "Q. Mahmoud"
+        }
+      ]
+    },
+    {
+      "paperId": "d8eda71a7333560c9a82466b64a8e0cc89cf7cd7",
+      "externalIds": {
+        "DBLP": "conf/ijcnn/MaF23",
+        "DOI": "10.1109/IJCNN54540.2023.10191092",
+        "CorpusId": 260385792
+      },
+      "url": "https://www.semanticscholar.org/paper/d8eda71a7333560c9a82466b64a8e0cc89cf7cd7",
+      "title": "Deep Reinforcement Learning Based Multi-Task Automated Channel Pruning for DNNs",
+      "venue": "IEEE International Joint Conference on Neural Network",
+      "year": 2023,
+      "referenceCount": 49,
+      "citationCount": 4,
+      "authors": [
+        {
+          "authorId": "2109052910",
+          "name": "Xiaodong Ma"
+        },
+        {
+          "authorId": "2117160867",
+          "name": "Weiwei Fang"
+        }
+      ]
+    },
+    {
+      "paperId": "d4838211d7f65628f56b9f6faab30a95ff7b51f8",
+      "externalIds": {
+        "CorpusId": 251590094
+      },
+      "url": "https://www.semanticscholar.org/paper/d4838211d7f65628f56b9f6faab30a95ff7b51f8",
+      "title": "for Prediction City Region Re-Weighting",
+      "venue": "",
+      "year": 2022,
+      "referenceCount": 0,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "1746034",
+          "name": "L. Getoor"
+        }
+      ]
+    }
+  ]
+}

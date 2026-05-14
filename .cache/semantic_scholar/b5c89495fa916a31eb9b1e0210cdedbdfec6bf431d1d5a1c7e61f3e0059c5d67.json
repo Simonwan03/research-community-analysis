@@ -1,0 +1,332 @@
+{
+  "total": 27990,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "d93b0b37ee0e87a0e096ef803667b0798f465528",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-1712-00961",
+        "ArXiv": "1712.00961",
+        "MAG": "2952133347",
+        "CorpusId": 3333755
+      },
+      "url": "https://www.semanticscholar.org/paper/d93b0b37ee0e87a0e096ef803667b0798f465528",
+      "title": "Learning Independent Causal Mechanisms",
+      "venue": "International Conference on Machine Learning",
+      "year": 2017,
+      "referenceCount": 24,
+      "citationCount": 200,
+      "authors": [
+        {
+          "authorId": "50213542",
+          "name": "Giambattista Parascandolo"
+        },
+        {
+          "authorId": "1388809887",
+          "name": "Mateo Rojas-Carulla"
+        },
+        {
+          "authorId": "19238593",
+          "name": "Niki Kilbertus"
+        },
+        {
+          "authorId": "1707625",
+          "name": "B. Scholkopf"
+        }
+      ]
+    },
+    {
+      "paperId": "4149bb4489209f7327ea09a304f15af5a4e90f94",
+      "externalIds": {
+        "ArXiv": "2306.01213",
+        "DBLP": "journals/corr/abs-2306-01213",
+        "DOI": "10.48550/arXiv.2306.01213",
+        "CorpusId": 259063894
+      },
+      "url": "https://www.semanticscholar.org/paper/4149bb4489209f7327ea09a304f15af5a4e90f94",
+      "title": "Learning Causally Disentangled Representations via the Principle of Independent Causal Mechanisms",
+      "venue": "International Joint Conference on Artificial Intelligence",
+      "year": 2023,
+      "referenceCount": 52,
+      "citationCount": 21,
+      "authors": [
+        {
+          "authorId": "2131100440",
+          "name": "Aneesh Komanduri"
+        },
+        {
+          "authorId": "3431334",
+          "name": "Yongkai Wu"
+        },
+        {
+          "authorId": "1399870469",
+          "name": "Feng Chen"
+        },
+        {
+          "authorId": "7916525",
+          "name": "Xintao Wu"
+        }
+      ]
+    },
+    {
+      "paperId": "f3fc92db249274c4d261c7225453d9170522e8a5",
+      "externalIds": {
+        "MAG": "3093199316",
+        "DBLP": "conf/dagm/MullerSARK21",
+        "ArXiv": "2010.07167",
+        "DOI": "10.1007/978-3-030-92659-5_6",
+        "CorpusId": 222341942
+      },
+      "url": "https://www.semanticscholar.org/paper/f3fc92db249274c4d261c7225453d9170522e8a5",
+      "title": "Learning Robust Models Using The Principle of Independent Causal Mechanisms",
+      "venue": "German Conference on Pattern Recognition",
+      "year": 2020,
+      "referenceCount": 37,
+      "citationCount": 25,
+      "authors": [
+        {
+          "authorId": "2110574293",
+          "name": "Jens Müller"
+        },
+        {
+          "authorId": "96978782",
+          "name": "R. Schmier"
+        },
+        {
+          "authorId": "35875116",
+          "name": "Lynton Ardizzone"
+        },
+        {
+          "authorId": "1756036",
+          "name": "C. Rother"
+        },
+        {
+          "authorId": "1708103",
+          "name": "U. Köthe"
+        }
+      ]
+    },
+    {
+      "paperId": "d8faa987d535fa685e468b22e2dafdf0f23cba36",
+      "externalIds": {
+        "DBLP": "conf/clear2/WangNK22",
+        "CorpusId": 247079655
+      },
+      "url": "https://www.semanticscholar.org/paper/d8faa987d535fa685e468b22e2dafdf0f23cba36",
+      "title": "Identifying Coarse-grained Independent Causal Mechanisms with Self-supervision",
+      "venue": "CLEaR",
+      "year": 2022,
+      "referenceCount": 35,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2156983002",
+          "name": "Xiaoyang Wang"
+        },
+        {
+          "authorId": "1688353",
+          "name": "K. Nahrstedt"
+        },
+        {
+          "authorId": "143812875",
+          "name": "Oluwasanmi Koyejo"
+        }
+      ]
+    },
+    {
+      "paperId": "f36ccebf1198d54f754cf0a30038a1a73e88a6ec",
+      "externalIds": {
+        "ArXiv": "2306.03938",
+        "DBLP": "journals/corr/abs-2306-03938",
+        "DOI": "10.48550/arXiv.2306.03938",
+        "CorpusId": 259095685
+      },
+      "url": "https://www.semanticscholar.org/paper/f36ccebf1198d54f754cf0a30038a1a73e88a6ec",
+      "title": "Learning Causal Mechanisms through Orthogonal Neural Networks",
+      "venue": "arXiv.org",
+      "year": 2023,
+      "referenceCount": 18,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "15146920",
+          "name": "P. Mashhadi"
+        },
+        {
+          "authorId": "3109166",
+          "name": "Sławomir Nowaczyk"
+        }
+      ]
+    },
+    {
+      "paperId": "9652b323197898df46b96d5ac59b2734cc6e9f09",
+      "externalIds": {
+        "ArXiv": "2406.14302",
+        "DBLP": "conf/iclr/ReizingerGHSB25",
+        "DOI": "10.48550/arXiv.2406.14302",
+        "CorpusId": 270619711
+      },
+      "url": "https://www.semanticscholar.org/paper/9652b323197898df46b96d5ac59b2734cc6e9f09",
+      "title": "Identifiable Exchangeable Mechanisms for Causal Structure and Representation Learning",
+      "venue": "International Conference on Learning Representations",
+      "year": 2024,
+      "referenceCount": 86,
+      "citationCount": 15,
+      "authors": [
+        {
+          "authorId": "1382657853",
+          "name": "Patrik Reizinger"
+        },
+        {
+          "authorId": "2302363710",
+          "name": "Siyuan Guo"
+        },
+        {
+          "authorId": "2188240184",
+          "name": "Ferenc Husz'ar"
+        },
+        {
+          "authorId": "2303256458",
+          "name": "Bernhard Scholkopf"
+        },
+        {
+          "authorId": "40634590",
+          "name": "Wieland Brendel"
+        }
+      ]
+    },
+    {
+      "paperId": "a4c026d9e1a80800e40141d5dec6efc0b389967c",
+      "externalIds": {
+        "DBLP": "conf/nips/MamecheKV23",
+        "DOI": "10.52202/075280-3304",
+        "CorpusId": 266378636
+      },
+      "url": "https://www.semanticscholar.org/paper/a4c026d9e1a80800e40141d5dec6efc0b389967c",
+      "title": "Learning Causal Models under Independent Changes",
+      "venue": "Neural Information Processing Systems",
+      "year": 2023,
+      "referenceCount": 52,
+      "citationCount": 15,
+      "authors": [
+        {
+          "authorId": "87762720",
+          "name": "Sarah Mameche"
+        },
+        {
+          "authorId": "2275368268",
+          "name": "David Kaltenpoth"
+        },
+        {
+          "authorId": "49688681",
+          "name": "J. Vreeken"
+        }
+      ]
+    },
+    {
+      "paperId": "44f03b5a5108670da7ad7795a13d6c160cfb7ad0",
+      "externalIds": {
+        "DOI": "10.1021/acs.est.5c12567",
+        "CorpusId": 284915155,
+        "PubMed": "41556313"
+      },
+      "url": "https://www.semanticscholar.org/paper/44f03b5a5108670da7ad7795a13d6c160cfb7ad0",
+      "title": "Machine Learning Integrated with a Causal Pathway Framework Unravels Differential Mechanisms of Biochar-Driven Soil Organic Carbon Dynamics under Cadmium Stress.",
+      "venue": "Environmental Science and Technology",
+      "year": 2026,
+      "referenceCount": 89,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2269423438",
+          "name": "Xuan Sun"
+        },
+        {
+          "authorId": "2302167645",
+          "name": "Zhaolin Du"
+        },
+        {
+          "authorId": "2423764185",
+          "name": "Jiashun Ding"
+        },
+        {
+          "authorId": "2308825087",
+          "name": "Shunan Zheng"
+        },
+        {
+          "authorId": "2269405310",
+          "name": "Yanpo Yao"
+        },
+        {
+          "authorId": "2308733089",
+          "name": "Lina Wu"
+        },
+        {
+          "authorId": "2013919985",
+          "name": "Hongan Chen"
+        },
+        {
+          "authorId": "2289799638",
+          "name": "Yi An"
+        },
+        {
+          "authorId": "2308819779",
+          "name": "Yong-ming Luo"
+        }
+      ]
+    },
+    {
+      "paperId": "e49b8a49ed8c5ea181d48a56f1516d8acc2c0d22",
+      "externalIds": {
+        "ArXiv": "2603.04109",
+        "CorpusId": 286238335
+      },
+      "url": "https://www.semanticscholar.org/paper/e49b8a49ed8c5ea181d48a56f1516d8acc2c0d22",
+      "title": "Testing Full Mediation of Treatment Effects and the Identifiability of Causal Mechanisms",
+      "venue": "",
+      "year": 2026,
+      "referenceCount": 55,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2310694478",
+          "name": "Martin Huber"
+        },
+        {
+          "authorId": "2307471077",
+          "name": "Kevin Kloiber"
+        },
+        {
+          "authorId": "1492002111",
+          "name": "Luk'avs Laff'ers"
+        }
+      ]
+    },
+    {
+      "paperId": "601b70fd9769240ee14868a6578be2e0da0eae6f",
+      "externalIds": {
+        "ArXiv": "2504.01424",
+        "DBLP": "journals/corr/abs-2504-01424",
+        "DOI": "10.1109/TAI.2024.3522867",
+        "CorpusId": 275061204
+      },
+      "url": "https://www.semanticscholar.org/paper/601b70fd9769240ee14868a6578be2e0da0eae6f",
+      "title": "On the Role of Priors in Bayesian Causal Learning",
+      "venue": "IEEE Transactions on Artificial Intelligence",
+      "year": 2025,
+      "referenceCount": 15,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2304553886",
+          "name": "B. C. Geiger"
+        },
+        {
+          "authorId": "2288583456",
+          "name": "Roman Kern"
+        }
+      ]
+    }
+  ]
+}

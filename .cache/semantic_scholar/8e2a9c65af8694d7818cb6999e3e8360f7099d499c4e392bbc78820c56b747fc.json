@@ -1,0 +1,95 @@
+{
+  "total": 3,
+  "offset": 0,
+  "data": [
+    {
+      "paperId": "ed16b5a85e06fc0e6c81b3843a5bb2bb50a35ac1",
+      "externalIds": {
+        "MAG": "2952226636",
+        "DBLP": "journals/corr/UlyanovLVL16",
+        "ArXiv": "1603.03417",
+        "CorpusId": 16728483
+      },
+      "url": "https://www.semanticscholar.org/paper/ed16b5a85e06fc0e6c81b3843a5bb2bb50a35ac1",
+      "title": "Texture Networks: Feed-forward Synthesis of Textures and Stylized Images",
+      "venue": "International Conference on Machine Learning",
+      "year": 2016,
+      "referenceCount": 19,
+      "citationCount": 1000,
+      "authors": [
+        {
+          "authorId": "145276680",
+          "name": "Dmitry Ulyanov"
+        },
+        {
+          "authorId": "47606739",
+          "name": "V. Lebedev"
+        },
+        {
+          "authorId": "1687524",
+          "name": "A. Vedaldi"
+        },
+        {
+          "authorId": "1740145",
+          "name": "V. Lempitsky"
+        }
+      ]
+    },
+    {
+      "paperId": "722ff8967633d0806298c22d25a845da222615f3",
+      "externalIds": {
+        "MAG": "2952013567",
+        "DBLP": "journals/corr/UlyanovVL17",
+        "ArXiv": "1701.02096",
+        "DOI": "10.1109/CVPR.2017.437",
+        "CorpusId": 5917270
+      },
+      "url": "https://www.semanticscholar.org/paper/722ff8967633d0806298c22d25a845da222615f3",
+      "title": "Improved Texture Networks: Maximizing Quality and Diversity in Feed-Forward Stylization and Texture Synthesis",
+      "venue": "Computer Vision and Pattern Recognition",
+      "year": 2017,
+      "referenceCount": 22,
+      "citationCount": 859,
+      "authors": [
+        {
+          "authorId": "145276680",
+          "name": "Dmitry Ulyanov"
+        },
+        {
+          "authorId": "1687524",
+          "name": "A. Vedaldi"
+        },
+        {
+          "authorId": "1740145",
+          "name": "V. Lempitsky"
+        }
+      ]
+    },
+    {
+      "paperId": "102a2096ba2e2947dc252445f764e7583b557680",
+      "externalIds": {
+        "MAG": "2339754110",
+        "DBLP": "conf/eccv/LiW16",
+        "ArXiv": "1604.04382",
+        "DOI": "10.1007/978-3-319-46487-9_43",
+        "CorpusId": 18781152
+      },
+      "url": "https://www.semanticscholar.org/paper/102a2096ba2e2947dc252445f764e7583b557680",
+      "title": "Precomputed Real-Time Texture Synthesis with Markovian Generative Adversarial Networks",
+      "venue": "European Conference on Computer Vision",
+      "year": 2016,
+      "referenceCount": 38,
+      "citationCount": 1512,
+      "authors": [
+        {
+          "authorId": "2118672354",
+          "name": "Chuan Li"
+        },
+        {
+          "authorId": "1723149",
+          "name": "Michael Wand"
+        }
+      ]
+    }
+  ]
+}

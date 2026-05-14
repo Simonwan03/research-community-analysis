@@ -1,0 +1,335 @@
+{
+  "total": 1846,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "08ad8fad21f6ec4cda4d56be1ca5e146b7c913a1",
+      "externalIds": {
+        "ArXiv": "1703.04730",
+        "DBLP": "journals/corr/KohL17",
+        "MAG": "2597603852",
+        "CorpusId": 13193974
+      },
+      "url": "https://www.semanticscholar.org/paper/08ad8fad21f6ec4cda4d56be1ca5e146b7c913a1",
+      "title": "Understanding Black-box Predictions via Influence Functions",
+      "venue": "International Conference on Machine Learning",
+      "year": 2017,
+      "referenceCount": 52,
+      "citationCount": 3485,
+      "authors": [
+        {
+          "authorId": "2572525",
+          "name": "Pang Wei Koh"
+        },
+        {
+          "authorId": "145419642",
+          "name": "Percy Liang"
+        }
+      ]
+    },
+    {
+      "paperId": "b4cf0ee9be2c65e30d24af8b9b3e9ed779d50af1",
+      "externalIds": {
+        "ArXiv": "2312.05586",
+        "DBLP": "journals/corr/abs-2312-05586",
+        "DOI": "10.48550/arXiv.2312.05586",
+        "CorpusId": 266163535
+      },
+      "url": "https://www.semanticscholar.org/paper/b4cf0ee9be2c65e30d24af8b9b3e9ed779d50af1",
+      "title": "Deeper Understanding of Black-box Predictions via Generalized Influence Functions",
+      "venue": "arXiv.org",
+      "year": 2023,
+      "referenceCount": 45,
+      "citationCount": 7,
+      "authors": [
+        {
+          "authorId": "153825124",
+          "name": "Hyeonsu Lyu"
+        },
+        {
+          "authorId": "152266939",
+          "name": "Jonggyu Jang"
+        },
+        {
+          "authorId": "2273331752",
+          "name": "Sehyun Ryu"
+        },
+        {
+          "authorId": "2244588640",
+          "name": "H. Yang"
+        }
+      ]
+    },
+    {
+      "paperId": "0696ad8beb0d765973aa5cdbc6e118889d3583b0",
+      "externalIds": {
+        "ACL": "2020.acl-main.492",
+        "MAG": "3034475796",
+        "DBLP": "conf/acl/HanWT20",
+        "ArXiv": "2005.06676",
+        "DOI": "10.18653/v1/2020.acl-main.492",
+        "CorpusId": 218628619
+      },
+      "url": "https://www.semanticscholar.org/paper/0696ad8beb0d765973aa5cdbc6e118889d3583b0",
+      "title": "Explaining Black Box Predictions and Unveiling Data Artifacts through Influence Functions",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2020,
+      "referenceCount": 41,
+      "citationCount": 200,
+      "authors": [
+        {
+          "authorId": "40500540",
+          "name": "Xiaochuang Han"
+        },
+        {
+          "authorId": "1912476",
+          "name": "Byron C. Wallace"
+        },
+        {
+          "authorId": "145317727",
+          "name": "Yulia Tsvetkov"
+        }
+      ]
+    },
+    {
+      "paperId": "be8f248f04a857685a111251e989cb2afedd092d",
+      "externalIds": {
+        "DBLP": "conf/ijcai/YoshikawaKS025",
+        "ArXiv": "2405.14522",
+        "DOI": "10.48550/arXiv.2405.14522",
+        "CorpusId": 269982322
+      },
+      "url": "https://www.semanticscholar.org/paper/be8f248f04a857685a111251e989cb2afedd092d",
+      "title": "Explaining Black-box Model Predictions via Two-level Nested Feature Attributions with Consistency Property",
+      "venue": "International Joint Conference on Artificial Intelligence",
+      "year": 2024,
+      "referenceCount": 41,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2302798610",
+          "name": "Yuya Yoshikawa"
+        },
+        {
+          "authorId": "2115839846",
+          "name": "Masanari Kimura"
+        },
+        {
+          "authorId": "2293392012",
+          "name": "Ryotaro Shimizu"
+        },
+        {
+          "authorId": "2190227103",
+          "name": "Yuki Saito"
+        }
+      ]
+    },
+    {
+      "paperId": "6a76b4055d5daa62c4223ba056ec8af45ccc21f1",
+      "externalIds": {
+        "ArXiv": "1911.00418",
+        "DBLP": "journals/corr/abs-1911-00418",
+        "CorpusId": 207870954
+      },
+      "url": "https://www.semanticscholar.org/paper/6a76b4055d5daa62c4223ba056ec8af45ccc21f1",
+      "title": "Second-Order Group Influence Functions for Black-Box Predictions",
+      "venue": "arXiv.org",
+      "year": 2019,
+      "referenceCount": 29,
+      "citationCount": 93,
+      "authors": [
+        {
+          "authorId": "152785197",
+          "name": "S. Basu"
+        },
+        {
+          "authorId": "10379451",
+          "name": "Xuchen You"
+        },
+        {
+          "authorId": "34389431",
+          "name": "S. Feizi"
+        }
+      ]
+    },
+    {
+      "paperId": "a0cdba62f3120bf5382096f0464d0123e3d8a06d",
+      "externalIds": {
+        "MAG": "2984617931",
+        "DBLP": "conf/icml/BasuYF20",
+        "CorpusId": 263873246
+      },
+      "url": "https://www.semanticscholar.org/paper/a0cdba62f3120bf5382096f0464d0123e3d8a06d",
+      "title": "On Second-Order Group Influence Functions for Black-Box Predictions",
+      "venue": "International Conference on Machine Learning",
+      "year": 2019,
+      "referenceCount": 36,
+      "citationCount": 28,
+      "authors": [
+        {
+          "authorId": "2114710333",
+          "name": "Samyadeep Basu"
+        },
+        {
+          "authorId": "10379451",
+          "name": "Xuchen You"
+        },
+        {
+          "authorId": "34389431",
+          "name": "S. Feizi"
+        }
+      ]
+    },
+    {
+      "paperId": "70050b54438794a77ced84dd8e28a06a44f6fb2a",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2309-13016",
+        "ArXiv": "2309.13016",
+        "DOI": "10.48550/arXiv.2309.13016",
+        "CorpusId": 262217093,
+        "PubMed": "38606303"
+      },
+      "url": "https://www.semanticscholar.org/paper/70050b54438794a77ced84dd8e28a06a44f6fb2a",
+      "title": "Understanding Deep Gradient Leakage via Inversion Influence Functions",
+      "venue": "Neural Information Processing Systems",
+      "year": 2023,
+      "referenceCount": 59,
+      "citationCount": 13,
+      "authors": [
+        {
+          "authorId": "2237954046",
+          "name": "Haobo Zhang"
+        },
+        {
+          "authorId": "2110805917",
+          "name": "Junyuan Hong"
+        },
+        {
+          "authorId": "1598375183",
+          "name": "Yuyang Deng"
+        },
+        {
+          "authorId": "1694826",
+          "name": "M. Mahdavi"
+        },
+        {
+          "authorId": "2143462929",
+          "name": "Jiayu Zhou"
+        }
+      ]
+    },
+    {
+      "paperId": "6c7db7cb115f4181380f2b199604f93c15ae94ba",
+      "externalIds": {
+        "DBLP": "conf/miccai/FangWJWXWY24",
+        "ArXiv": "2406.15182",
+        "DOI": "10.48550/arXiv.2406.15182",
+        "CorpusId": 270688767
+      },
+      "url": "https://www.semanticscholar.org/paper/6c7db7cb115f4181380f2b199604f93c15ae94ba",
+      "title": "DiffExplainer: Unveiling Black Box Models Via Counterfactual Generation",
+      "venue": "International Conference on Medical Image Computing and Computer-Assisted Intervention",
+      "year": 2024,
+      "referenceCount": 32,
+      "citationCount": 7,
+      "authors": [
+        {
+          "authorId": "2262204865",
+          "name": "Yingying Fang"
+        },
+        {
+          "authorId": "2265382871",
+          "name": "Shuang Wu"
+        },
+        {
+          "authorId": "2308081221",
+          "name": "Zihao Jin"
+        },
+        {
+          "authorId": "2307971533",
+          "name": "Caiwen Xu"
+        },
+        {
+          "authorId": "2262280515",
+          "name": "Shiyi Wang"
+        },
+        {
+          "authorId": "2150713567",
+          "name": "Simon L. F. Walsh"
+        },
+        {
+          "authorId": "2264974956",
+          "name": "Guang Yang"
+        }
+      ]
+    },
+    {
+      "paperId": "c4e4ec34fa9fff2cc502a51ad126301a705b22c0",
+      "externalIds": {
+        "DBLP": "journals/ficn/AamirTW23",
+        "PubMedCentral": "10410673",
+        "DOI": "10.3389/fncom.2023.1172883",
+        "CorpusId": 260219560,
+        "PubMed": "37564901"
+      },
+      "url": "https://www.semanticscholar.org/paper/c4e4ec34fa9fff2cc502a51ad126301a705b22c0",
+      "title": "Interpreting the decisions of CNNs via influence functions",
+      "venue": "Frontiers Comput. Neurosci.",
+      "year": 2023,
+      "referenceCount": 60,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "150004267",
+          "name": "Aisha Aamir"
+        },
+        {
+          "authorId": "1953638",
+          "name": "M. Tamosiunaite"
+        },
+        {
+          "authorId": "1714016",
+          "name": "F. Wörgötter"
+        }
+      ]
+    },
+    {
+      "paperId": "efe8f339ca67ad7008481b369051eb669a587fdd",
+      "externalIds": {
+        "ArXiv": "2503.01883",
+        "DBLP": "journals/corr/abs-2503-01883",
+        "DOI": "10.48550/arXiv.2503.01883",
+        "CorpusId": 276774753
+      },
+      "url": "https://www.semanticscholar.org/paper/efe8f339ca67ad7008481b369051eb669a587fdd",
+      "title": "Learning Surrogates for Offline Black-Box Optimization via Gradient Matching",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "referenceCount": 0,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2293399638",
+          "name": "Minh Hoang"
+        },
+        {
+          "authorId": "2319130780",
+          "name": "Azza Fadhel"
+        },
+        {
+          "authorId": "151474453",
+          "name": "Aryan Deshwal"
+        },
+        {
+          "authorId": "2319131266",
+          "name": "Jana Doppa"
+        },
+        {
+          "authorId": "2293398996",
+          "name": "T. Hoang"
+        }
+      ]
+    }
+  ]
+}

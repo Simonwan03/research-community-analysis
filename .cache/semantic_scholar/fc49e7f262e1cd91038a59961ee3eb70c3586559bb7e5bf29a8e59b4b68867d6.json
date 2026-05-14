@@ -1,0 +1,323 @@
+{
+  "total": 42,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "822e7515152e74626265c26b7aaccd2c654b5eba",
+      "externalIds": {
+        "ArXiv": "1703.03633",
+        "MAG": "2963451996",
+        "DBLP": "journals/corr/LvJL17",
+        "CorpusId": 16925610
+      },
+      "url": "https://www.semanticscholar.org/paper/822e7515152e74626265c26b7aaccd2c654b5eba",
+      "title": "Learning Gradient Descent: Better Generalization and Longer Horizons",
+      "venue": "International Conference on Machine Learning",
+      "year": 2017,
+      "referenceCount": 27,
+      "citationCount": 121,
+      "authors": [
+        {
+          "authorId": "41049476",
+          "name": "Kaifeng Lyu"
+        },
+        {
+          "authorId": "21702798",
+          "name": "Shunhua Jiang"
+        },
+        {
+          "authorId": "2151965744",
+          "name": "Jian Li"
+        }
+      ]
+    },
+    {
+      "paperId": "5baecce0027f602c84cc0f3c4ae15ea344dce054",
+      "externalIds": {
+        "ArXiv": "2510.26997",
+        "DBLP": "journals/corr/abs-2510-26997",
+        "DOI": "10.48550/arXiv.2510.26997",
+        "CorpusId": 282719310
+      },
+      "url": "https://www.semanticscholar.org/paper/5baecce0027f602c84cc0f3c4ae15ea344dce054",
+      "title": "Gradient Descent as Loss Landscape Navigation: a Normative Framework for Deriving Learning Rules",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "referenceCount": 52,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "103675568",
+          "name": "John J. Vastola"
+        },
+        {
+          "authorId": "2239150873",
+          "name": "Samuel Gershman"
+        },
+        {
+          "authorId": "2324787403",
+          "name": "Kanaka Rajan"
+        }
+      ]
+    },
+    {
+      "paperId": "c275a595e4370bc1454d1b51595e793707b0ddbc",
+      "externalIds": {
+        "DBLP": "conf/cvpr/SarfiKCKRMB23",
+        "ArXiv": "2304.04858",
+        "DOI": "10.1109/CVPR52729.2023.01935",
+        "CorpusId": 258059827
+      },
+      "url": "https://www.semanticscholar.org/paper/c275a595e4370bc1454d1b51595e793707b0ddbc",
+      "title": "Simulated Annealing in Early Layers Leads to Better Generalization",
+      "venue": "Computer Vision and Pattern Recognition",
+      "year": 2023,
+      "referenceCount": 47,
+      "citationCount": 11,
+      "authors": [
+        {
+          "authorId": "2048020510",
+          "name": "Amirm. Sarfi"
+        },
+        {
+          "authorId": "81046063",
+          "name": "Zahra Karimpour"
+        },
+        {
+          "authorId": "2173452596",
+          "name": "Muawiz Chaudhary"
+        },
+        {
+          "authorId": "2160472649",
+          "name": "N. Khalid"
+        },
+        {
+          "authorId": "34924498",
+          "name": "M. Ravanelli"
+        },
+        {
+          "authorId": "3250452",
+          "name": "S. Mudur"
+        },
+        {
+          "authorId": "2303395571",
+          "name": "Eugene Belilovsky"
+        }
+      ]
+    },
+    {
+      "paperId": "8501e330d78391f4e690886a8eb8fac867704ea6",
+      "externalIds": {
+        "DBLP": "conf/nips/HofferHS17",
+        "MAG": "2949511850",
+        "ArXiv": "1705.08741",
+        "CorpusId": 7967806
+      },
+      "url": "https://www.semanticscholar.org/paper/8501e330d78391f4e690886a8eb8fac867704ea6",
+      "title": "Train longer, generalize better: closing the generalization gap in large batch training of neural networks",
+      "venue": "Neural Information Processing Systems",
+      "year": 2017,
+      "referenceCount": 50,
+      "citationCount": 869,
+      "authors": [
+        {
+          "authorId": "40555034",
+          "name": "Elad Hoffer"
+        },
+        {
+          "authorId": "2477463",
+          "name": "Itay Hubara"
+        },
+        {
+          "authorId": "1912398",
+          "name": "Daniel Soudry"
+        }
+      ]
+    },
+    {
+      "paperId": "7b5ed479f5caf7b853636060c0a35e516e1f70bb",
+      "externalIds": {
+        "DBLP": "conf/icml/SmithED20",
+        "MAG": "3035233211",
+        "ArXiv": "2006.15081",
+        "CorpusId": 220128124
+      },
+      "url": "https://www.semanticscholar.org/paper/7b5ed479f5caf7b853636060c0a35e516e1f70bb",
+      "title": "On the Generalization Benefit of Noise in Stochastic Gradient Descent",
+      "venue": "International Conference on Machine Learning",
+      "year": 2020,
+      "referenceCount": 45,
+      "citationCount": 121,
+      "authors": [
+        {
+          "authorId": "2157770601",
+          "name": "Samuel L. Smith"
+        },
+        {
+          "authorId": "152585800",
+          "name": "Erich Elsen"
+        },
+        {
+          "authorId": "3252772",
+          "name": "Soham De"
+        }
+      ]
+    },
+    {
+      "paperId": "5cea23fd3359bfd14a0a46c350c18506390489e0",
+      "externalIds": {
+        "ArXiv": "2510.03855",
+        "DBLP": "journals/corr/abs-2510-03855",
+        "DOI": "10.48550/arXiv.2510.03855",
+        "CorpusId": 281843356
+      },
+      "url": "https://www.semanticscholar.org/paper/5cea23fd3359bfd14a0a46c350c18506390489e0",
+      "title": "On the O(1/T) Convergence of Alternating Gradient Descent-Ascent in Bilinear Games",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "referenceCount": 52,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2210196186",
+          "name": "Tianlong Nan"
+        },
+        {
+          "authorId": "2312581",
+          "name": "Shuvomoy Das Gupta"
+        },
+        {
+          "authorId": "2249215785",
+          "name": "Garud Iyengar"
+        },
+        {
+          "authorId": "2355407187",
+          "name": "Christian Kroer"
+        }
+      ]
+    },
+    {
+      "paperId": "f6835124121e7ddb47d34551615f14bcdf3ef436",
+      "externalIds": {
+        "DOI": "10.14445/22315381/ijett-v73i3p135",
+        "CorpusId": 277599375
+      },
+      "url": "https://www.semanticscholar.org/paper/f6835124121e7ddb47d34551615f14bcdf3ef436",
+      "title": "Heart Disease Prediction Using a Novel Fuzzy-Enhanced CLSTM Model with Adaptive Stochastic Gradient Descent Optimization",
+      "venue": "international journal of engineering trends and technology",
+      "year": 2025,
+      "referenceCount": 39,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2278475437",
+          "name": "R. Parthiban"
+        },
+        {
+          "authorId": "2110802455",
+          "name": "K. Kumar"
+        }
+      ]
+    },
+    {
+      "paperId": "95d153070d6d12de19ad97949158c0002dfbc3cc",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-1805-08469",
+        "MAG": "2803132901",
+        "ArXiv": "1805.08469",
+        "CorpusId": 43997104
+      },
+      "url": "https://www.semanticscholar.org/paper/95d153070d6d12de19ad97949158c0002dfbc3cc",
+      "title": "Gradient Energy Matching for Distributed Asynchronous Gradient Descent",
+      "venue": "arXiv.org",
+      "year": 2018,
+      "referenceCount": 24,
+      "citationCount": 5,
+      "authors": [
+        {
+          "authorId": "143910929",
+          "name": "Joeri Hermans"
+        },
+        {
+          "authorId": "1881041",
+          "name": "Gilles Louppe"
+        }
+      ]
+    },
+    {
+      "paperId": "9c242eb353b2279775e60b1e622ef09872572cfe",
+      "externalIds": {
+        "ArXiv": "2308.02287",
+        "DBLP": "journals/corr/abs-2308-02287",
+        "DOI": "10.48550/arXiv.2308.02287",
+        "CorpusId": 260611333
+      },
+      "url": "https://www.semanticscholar.org/paper/9c242eb353b2279775e60b1e622ef09872572cfe",
+      "title": "Frustratingly Easy Model Generalization by Dummy Risk Minimization",
+      "venue": "arXiv.org",
+      "year": 2023,
+      "referenceCount": 68,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "2229335212",
+          "name": "Juncheng Wang"
+        },
+        {
+          "authorId": "2145270616",
+          "name": "Jindong Wang"
+        },
+        {
+          "authorId": "2186046594",
+          "name": "Xixu Hu"
+        },
+        {
+          "authorId": "50695249",
+          "name": "Shujun Wang"
+        },
+        {
+          "authorId": "1576441343",
+          "name": "Xingxu Xie"
+        }
+      ]
+    },
+    {
+      "paperId": "f9dd2ca5f50642378bd1ac03db4bf74a65b83481",
+      "externalIds": {
+        "DBLP": "journals/access/ZhengYYZZ18",
+        "MAG": "2797061331",
+        "DOI": "10.1109/ACCESS.2018.2810849",
+        "CorpusId": 4772091
+      },
+      "url": "https://www.semanticscholar.org/paper/f9dd2ca5f50642378bd1ac03db4bf74a65b83481",
+      "title": "Improvement of Generalization Ability of Deep CNN via Implicit Regularization in Two-Stage Training Process",
+      "venue": "IEEE Access",
+      "year": 2018,
+      "referenceCount": 66,
+      "citationCount": 233,
+      "authors": [
+        {
+          "authorId": "40522070",
+          "name": "Qinghe Zheng"
+        },
+        {
+          "authorId": "40083578",
+          "name": "Mingqiang Yang"
+        },
+        {
+          "authorId": "22787209",
+          "name": "Jiajie Yang"
+        },
+        {
+          "authorId": "2112197431",
+          "name": "Qingrui Zhang"
+        },
+        {
+          "authorId": "2108216903",
+          "name": "Xinxin Zhang"
+        }
+      ]
+    }
+  ]
+}

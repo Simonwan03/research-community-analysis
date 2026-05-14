@@ -1,0 +1,373 @@
+{
+  "total": 272126,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "7a4193d0b042643a8bb9ec262ed7f9d509bdb12e",
+      "externalIds": {
+        "MAG": "2952192457",
+        "ArXiv": "1705.10528",
+        "DBLP": "journals/corr/AchiamHTA17",
+        "CorpusId": 10647707
+      },
+      "url": "https://www.semanticscholar.org/paper/7a4193d0b042643a8bb9ec262ed7f9d509bdb12e",
+      "title": "Constrained Policy Optimization",
+      "venue": "International Conference on Machine Learning",
+      "year": 2017,
+      "referenceCount": 32,
+      "citationCount": 1736,
+      "authors": [
+        {
+          "authorId": "3381809",
+          "name": "Joshua Achiam"
+        },
+        {
+          "authorId": "145641013",
+          "name": "David Held"
+        },
+        {
+          "authorId": "3025260",
+          "name": "Aviv Tamar"
+        },
+        {
+          "authorId": "1689992",
+          "name": "P. Abbeel"
+        }
+      ]
+    },
+    {
+      "paperId": "cb7c479a36520da1caeeec67db10772351a390c6",
+      "externalIds": {
+        "MAG": "2949576910",
+        "ArXiv": "1805.11074",
+        "DBLP": "conf/iclr/TesslerMM19",
+        "CorpusId": 44095973
+      },
+      "url": "https://www.semanticscholar.org/paper/cb7c479a36520da1caeeec67db10772351a390c6",
+      "title": "Reward Constrained Policy Optimization",
+      "venue": "International Conference on Learning Representations",
+      "year": 2018,
+      "referenceCount": 46,
+      "citationCount": 651,
+      "authors": [
+        {
+          "authorId": "3393407",
+          "name": "Chen Tessler"
+        },
+        {
+          "authorId": "3187297",
+          "name": "D. Mankowitz"
+        },
+        {
+          "authorId": "1712535",
+          "name": "Shie Mannor"
+        }
+      ]
+    },
+    {
+      "paperId": "2a9accbc670e71041b8e75ad1c1bcc7e04a54599",
+      "externalIds": {
+        "DBLP": "journals/tnn/ZhangLMLWLLY25",
+        "DOI": "10.1109/TNNLS.2023.3331304",
+        "CorpusId": 267850497,
+        "PubMed": "38393836"
+      },
+      "url": "https://www.semanticscholar.org/paper/2a9accbc670e71041b8e75ad1c1bcc7e04a54599",
+      "title": "CVaR-Constrained Policy Optimization for Safe Reinforcement Learning",
+      "venue": "IEEE Transactions on Neural Networks and Learning Systems",
+      "year": 2024,
+      "referenceCount": 49,
+      "citationCount": 43,
+      "authors": [
+        {
+          "authorId": "2366657636",
+          "name": "Qiyuan Zhang"
+        },
+        {
+          "authorId": "70653649",
+          "name": "S. Leng"
+        },
+        {
+          "authorId": "2125106047",
+          "name": "Xiaoteng Ma"
+        },
+        {
+          "authorId": "2285694867",
+          "name": "Qihan Liu"
+        },
+        {
+          "authorId": "48631868",
+          "name": "Xueqian Wang"
+        },
+        {
+          "authorId": "2285757357",
+          "name": "Bin Liang"
+        },
+        {
+          "authorId": "2274252954",
+          "name": "Yu Liu"
+        },
+        {
+          "authorId": "2146157882",
+          "name": "Jun Yang"
+        }
+      ]
+    },
+    {
+      "paperId": "8fde60e3f88ed92b79622ae70118f5aa146e09bf",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2512-11391",
+        "ArXiv": "2512.11391",
+        "DOI": "10.48550/arXiv.2512.11391",
+        "CorpusId": 283883499
+      },
+      "url": "https://www.semanticscholar.org/paper/8fde60e3f88ed92b79622ae70118f5aa146e09bf",
+      "title": "Mitigating the Safety Alignment Tax with Null-Space Constrained Policy Optimization",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "referenceCount": 65,
+      "citationCount": 5,
+      "authors": [
+        {
+          "authorId": "2327045304",
+          "name": "Yifan Niu"
+        },
+        {
+          "authorId": "2143610668",
+          "name": "Han Xiao"
+        },
+        {
+          "authorId": "2382825419",
+          "name": "Dong Liu"
+        },
+        {
+          "authorId": "2263638230",
+          "name": "Nuo Chen"
+        },
+        {
+          "authorId": "2396664307",
+          "name": "Jia Li"
+        }
+      ]
+    },
+    {
+      "paperId": "00fdbcdb1485b75fbd1d1ac2d4079915e50ca353",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2511-11828",
+        "ArXiv": "2511.11828",
+        "DOI": "10.48550/arXiv.2511.11828",
+        "CorpusId": 283073609
+      },
+      "url": "https://www.semanticscholar.org/paper/00fdbcdb1485b75fbd1d1ac2d4079915e50ca353",
+      "title": "Conformal Constrained Policy Optimization for Cost-Effective LLM Agents",
+      "venue": "AAAI Conference on Artificial Intelligence",
+      "year": 2025,
+      "referenceCount": 24,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "2067127342",
+          "name": "Wenwen Si"
+        },
+        {
+          "authorId": "3363949",
+          "name": "Sooyong Jang"
+        },
+        {
+          "authorId": "2316953841",
+          "name": "Insup Lee"
+        },
+        {
+          "authorId": "1697444",
+          "name": "O. Bastani"
+        }
+      ]
+    },
+    {
+      "paperId": "caa2f7a518670198298b1c904a66f9a8eef62946",
+      "externalIds": {
+        "DBLP": "journals/tits/ZhaoLGGZ24",
+        "DOI": "10.1109/TITS.2023.3331723",
+        "CorpusId": 265328794
+      },
+      "url": "https://www.semanticscholar.org/paper/caa2f7a518670198298b1c904a66f9a8eef62946",
+      "title": "Multi-Agent Constrained Policy Optimization for Conflict-Free Management of Connected Autonomous Vehicles at Unsignalized Intersections",
+      "venue": "IEEE transactions on intelligent transportation systems (Print)",
+      "year": 2024,
+      "referenceCount": 39,
+      "citationCount": 24,
+      "authors": [
+        {
+          "authorId": "2267679065",
+          "name": "Rui Zhao"
+        },
+        {
+          "authorId": "2267692472",
+          "name": "Yun Li"
+        },
+        {
+          "authorId": "2107636939",
+          "name": "Fei Gao"
+        },
+        {
+          "authorId": "2268050442",
+          "name": "Zhenhai Gao"
+        },
+        {
+          "authorId": "2146331497",
+          "name": "Tianyao Zhang"
+        }
+      ]
+    },
+    {
+      "paperId": "edcf099f7955ef747e02f988252e9cd28f648a28",
+      "externalIds": {
+        "DBLP": "conf/smc/LuFTC25",
+        "DOI": "10.1109/SMC58881.2025.11343086",
+        "CorpusId": 285107739
+      },
+      "url": "https://www.semanticscholar.org/paper/edcf099f7955ef747e02f988252e9cd28f648a28",
+      "title": "Constrained Policy Optimization with Approximately Monotonically Increasing Rewards",
+      "venue": "IEEE International Conference on Systems, Man and Cybernetics",
+      "year": 2025,
+      "referenceCount": 22,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2289157898",
+          "name": "Yuanyang Lu"
+        },
+        {
+          "authorId": "146886745",
+          "name": "Huiqiao Fu"
+        },
+        {
+          "authorId": "2055743161",
+          "name": "Kai-Fu Tang"
+        },
+        {
+          "authorId": "2244629351",
+          "name": "Chunlin Chen"
+        }
+      ]
+    },
+    {
+      "paperId": "b8560e6ba7b58590e68f087f8fb09be4558f7bd1",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2508-01883",
+        "ArXiv": "2508.01883",
+        "DOI": "10.48550/arXiv.2508.01883",
+        "CorpusId": 280422298
+      },
+      "url": "https://www.semanticscholar.org/paper/b8560e6ba7b58590e68f087f8fb09be4558f7bd1",
+      "title": "Proactive Constrained Policy Optimization with Preemptive Penalty",
+      "venue": "AAAI Conference on Artificial Intelligence",
+      "year": 2025,
+      "referenceCount": 31,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2292898878",
+          "name": "Ning Yang"
+        },
+        {
+          "authorId": "2339420384",
+          "name": "Pengyu Wang"
+        },
+        {
+          "authorId": "2297437972",
+          "name": "Guoqing Liu"
+        },
+        {
+          "authorId": "2247479851",
+          "name": "Haifeng Zhang"
+        },
+        {
+          "authorId": "2336737655",
+          "name": "Pin Lv"
+        },
+        {
+          "authorId": "2359922873",
+          "name": "Jun Wang"
+        }
+      ]
+    },
+    {
+      "paperId": "4b9347893174e9a15aaa14bd67815039cdd9c075",
+      "externalIds": {
+        "DBLP": "journals/tii/GuHWCK24",
+        "DOI": "10.1109/TII.2024.3391934",
+        "CorpusId": 269851568
+      },
+      "url": "https://www.semanticscholar.org/paper/4b9347893174e9a15aaa14bd67815039cdd9c075",
+      "title": "Safe Multiagent Learning With Soft Constrained Policy Optimization in Real Robot Control",
+      "venue": "IEEE Transactions on Industrial Informatics",
+      "year": 2024,
+      "referenceCount": 31,
+      "citationCount": 10,
+      "authors": [
+        {
+          "authorId": "1381852002",
+          "name": "Shangding Gu"
+        },
+        {
+          "authorId": "50811105",
+          "name": "Dianye Huang"
+        },
+        {
+          "authorId": "2111875607",
+          "name": "Muning Wen"
+        },
+        {
+          "authorId": "143930563",
+          "name": "Guang Chen"
+        },
+        {
+          "authorId": "2248367568",
+          "name": "Alois C. Knoll"
+        }
+      ]
+    },
+    {
+      "paperId": "ac80c658a9e1d428734ec0848b2ad7099d8cb110",
+      "externalIds": {
+        "ArXiv": "2404.11578",
+        "DBLP": "journals/tmlr/ShahVY0CS25",
+        "CorpusId": 269188223
+      },
+      "url": "https://www.semanticscholar.org/paper/ac80c658a9e1d428734ec0848b2ad7099d8cb110",
+      "title": "LTL-Constrained Policy Optimization with Cycle Experience Replay",
+      "venue": "Trans. Mach. Learn. Res.",
+      "year": 2024,
+      "referenceCount": 53,
+      "citationCount": 11,
+      "authors": [
+        {
+          "authorId": "14060854",
+          "name": "Ameesh Shah"
+        },
+        {
+          "authorId": "88658266",
+          "name": "Cameron Voloshin"
+        },
+        {
+          "authorId": "2297175837",
+          "name": "Chenxi Yang"
+        },
+        {
+          "authorId": "2973529",
+          "name": "Abhinav Verma"
+        },
+        {
+          "authorId": "35865989",
+          "name": "Swarat Chaudhuri"
+        },
+        {
+          "authorId": "1775517",
+          "name": "S. Seshia"
+        }
+      ]
+    }
+  ]
+}

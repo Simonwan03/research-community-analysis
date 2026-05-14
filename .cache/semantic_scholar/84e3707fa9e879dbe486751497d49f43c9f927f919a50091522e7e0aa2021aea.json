@@ -1,0 +1,82 @@
+{
+  "total": 3,
+  "offset": 0,
+  "data": [
+    {
+      "paperId": "4ffc25f59c8b8eab903737f783da1d6bcc3fed09",
+      "externalIds": {
+        "ArXiv": "1803.03833",
+        "DBLP": "journals/corr/abs-1803-03833",
+        "MAG": "2790855852",
+        "CorpusId": 3833582
+      },
+      "url": "https://www.semanticscholar.org/paper/4ffc25f59c8b8eab903737f783da1d6bcc3fed09",
+      "title": "Submodular Hypergraphs: p-Laplacians, Cheeger Inequalities and Spectral Clustering",
+      "venue": "International Conference on Machine Learning",
+      "year": 2018,
+      "referenceCount": 54,
+      "citationCount": 117,
+      "authors": [
+        {
+          "authorId": "1561672016",
+          "name": "Pan Li"
+        },
+        {
+          "authorId": "1743831",
+          "name": "O. Milenkovic"
+        }
+      ]
+    },
+    {
+      "paperId": "137521b007d53251539b82671234e3c9f0028f32",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2208-07457",
+        "ArXiv": "2208.07457",
+        "PubMedCentral": "9989290",
+        "DOI": "10.3389/fdata.2023.1020173",
+        "CorpusId": 251589397,
+        "PubMed": "36896444"
+      },
+      "url": "https://www.semanticscholar.org/paper/137521b007d53251539b82671234e3c9f0028f32",
+      "title": "Hypergraphs with edge-dependent vertex weights: p-Laplacians and spectral clustering",
+      "venue": "Frontiers in Big Data",
+      "year": 2022,
+      "referenceCount": 45,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "2109387846",
+          "name": "Yu Zhu"
+        },
+        {
+          "authorId": "2262891",
+          "name": "Santiago Segarra"
+        }
+      ]
+    },
+    {
+      "paperId": "a8ed8d903b3f9806f5b9433294cdb712fc28b9fb",
+      "externalIds": {
+        "DBLP": "journals/ml/SaitoH23",
+        "DOI": "10.1007/s10994-022-06264-y",
+        "CorpusId": 254304420
+      },
+      "url": "https://www.semanticscholar.org/paper/a8ed8d903b3f9806f5b9433294cdb712fc28b9fb",
+      "title": "Generalizing p-Laplacian: spectral hypergraph theory and a partitioning algorithm",
+      "venue": "Machine-mediated learning",
+      "year": 2022,
+      "referenceCount": 64,
+      "citationCount": 6,
+      "authors": [
+        {
+          "authorId": "2672380",
+          "name": "Shota Saito"
+        },
+        {
+          "authorId": "1839746",
+          "name": "M. Herbster"
+        }
+      ]
+    }
+  ]
+}

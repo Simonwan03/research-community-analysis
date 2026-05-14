@@ -1,0 +1,311 @@
+{
+  "total": 9892,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "bee0492a5433c6a5e99bcf72849fe29c9e6c0b99",
+      "externalIds": {
+        "MAG": "1878947057",
+        "DBLP": "conf/icml/XuRYLJ15",
+        "CorpusId": 6678342
+      },
+      "url": "https://www.semanticscholar.org/paper/bee0492a5433c6a5e99bcf72849fe29c9e6c0b99",
+      "title": "Deep Edge-Aware Filters",
+      "venue": "International Conference on Machine Learning",
+      "year": 2015,
+      "referenceCount": 36,
+      "citationCount": 200,
+      "authors": [
+        {
+          "authorId": "144574904",
+          "name": "Li Xu"
+        },
+        {
+          "authorId": "145335572",
+          "name": "Jimmy S. J. Ren"
+        },
+        {
+          "authorId": "144479026",
+          "name": "Qiong Yan"
+        },
+        {
+          "authorId": "2246396",
+          "name": "Renjie Liao"
+        },
+        {
+          "authorId": "1729056",
+          "name": "Jiaya Jia"
+        }
+      ]
+    },
+    {
+      "paperId": "c24c921593492d236e3912885de44a6bf36ca715",
+      "externalIds": {
+        "DBLP": "conf/visapp/CastroGP22",
+        "DOI": "10.5220/0010915300003124",
+        "CorpusId": 246856171
+      },
+      "url": "https://www.semanticscholar.org/paper/c24c921593492d236e3912885de44a6bf36ca715",
+      "title": "Deep Depth Completion of Low-cost Sensor Indoor RGB-D using Euclidean Distance-based Weighted Loss and Edge-aware Refinement",
+      "venue": "VISIGRAPP",
+      "year": 2022,
+      "referenceCount": 22,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2154774339",
+          "name": "A. Castro"
+        },
+        {
+          "authorId": "145891908",
+          "name": "V. Grassi"
+        },
+        {
+          "authorId": "34911070",
+          "name": "M. Ponti"
+        }
+      ]
+    },
+    {
+      "paperId": "2fb7745ee85f73fe211fc43ed70abc5f8e5d8706",
+      "externalIds": {
+        "PubMedCentral": "13026850",
+        "DOI": "10.3390/jcm15062227",
+        "CorpusId": 286629948
+      },
+      "url": "https://www.semanticscholar.org/paper/2fb7745ee85f73fe211fc43ed70abc5f8e5d8706",
+      "title": "Morphology-Aware Deep Features and Frozen Filters for Surgical Instrument Segmentation with LLM-Based Scene Summarization",
+      "venue": "Journal of Clinical Medicine",
+      "year": 2026,
+      "referenceCount": 46,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "49287232",
+          "name": "Adnan Haider"
+        },
+        {
+          "authorId": "1491637170",
+          "name": "Muhammad Arsalan"
+        },
+        {
+          "authorId": "2151022280",
+          "name": "Kyungeun Cho"
+        }
+      ]
+    },
+    {
+      "paperId": "38e8c5641699d85416241c02678619fe955007e2",
+      "externalIds": {
+        "DOI": "10.1109/ICIVC61627.2024.10837274",
+        "CorpusId": 275766336
+      },
+      "url": "https://www.semanticscholar.org/paper/38e8c5641699d85416241c02678619fe955007e2",
+      "title": "EAFD: An Edge Aware Lightweight Tiny Face Detector",
+      "venue": "International Conference on Image, Vision and Computing",
+      "year": 2024,
+      "referenceCount": 36,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2221941905",
+          "name": "Qingli Wang"
+        },
+        {
+          "authorId": "2214855",
+          "name": "Weihua Xiong"
+        },
+        {
+          "authorId": "2281291242",
+          "name": "Zitong Huang"
+        }
+      ]
+    },
+    {
+      "paperId": "e6a8a9b71bb077a9ab2f2941a95612b7a66fba05",
+      "externalIds": {
+        "DBLP": "journals/peerj-cs/SS25",
+        "PubMedCentral": "11784896",
+        "DOI": "10.7717/peerj-cs.2449",
+        "CorpusId": 275697536,
+        "PubMed": "39896035"
+      },
+      "url": "https://www.semanticscholar.org/paper/e6a8a9b71bb077a9ab2f2941a95612b7a66fba05",
+      "title": "Edge and texture aware image denoising using median noise residue U-net with hand-crafted features",
+      "venue": "PeerJ Computer Science",
+      "year": 2025,
+      "referenceCount": 33,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "2342197585",
+          "name": "Soniya S."
+        },
+        {
+          "authorId": "2181942516",
+          "name": "S. C."
+        }
+      ]
+    },
+    {
+      "paperId": "a1755989c7cad969ee482210ea7fb6a94b5a58cc",
+      "externalIds": {
+        "DOI": "10.1109/ISED67359.2025.11405082",
+        "CorpusId": 286133826
+      },
+      "url": "https://www.semanticscholar.org/paper/a1755989c7cad969ee482210ea7fb6a94b5a58cc",
+      "title": "A Multi Stage Framework for Efficient Deep Neural Network Compression on Edge Devices",
+      "venue": "International Symposium on Embedded Computing and System Design",
+      "year": 2025,
+      "referenceCount": 23,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2293752766",
+          "name": "S. Dubey"
+        },
+        {
+          "authorId": "2284928191",
+          "name": "Naeem Ahmad"
+        }
+      ]
+    },
+    {
+      "paperId": "c486c414eaf0bd3e44a88f82f75e085274a996df",
+      "externalIds": {
+        "MAG": "2704118014",
+        "DBLP": "conf/miua/MishraCSS17",
+        "DOI": "10.1007/978-3-319-60964-5_10",
+        "CorpusId": 19094008
+      },
+      "url": "https://www.semanticscholar.org/paper/c486c414eaf0bd3e44a88f82f75e085274a996df",
+      "title": "Edge Aware Geometric Filter for Ultrasound Image Enhancement",
+      "venue": "Annual Conference on Medical Image Understanding and Analysis",
+      "year": 2017,
+      "referenceCount": 24,
+      "citationCount": 5,
+      "authors": [
+        {
+          "authorId": "145848800",
+          "name": "Deepak Mishra"
+        },
+        {
+          "authorId": "144725842",
+          "name": "S. Chaudhury"
+        },
+        {
+          "authorId": "4835735",
+          "name": "M. Sarkar"
+        },
+        {
+          "authorId": "144506244",
+          "name": "A. Soin"
+        }
+      ]
+    },
+    {
+      "paperId": "569c17d91c874c6c069cd9552e31b42ee838c7f6",
+      "externalIds": {
+        "MAG": "2980105149",
+        "DBLP": "journals/iet-ipr/KimSJP20",
+        "DOI": "10.1049/IET-IPR.2018.6691",
+        "CorpusId": 212408934
+      },
+      "url": "https://www.semanticscholar.org/paper/569c17d91c874c6c069cd9552e31b42ee838c7f6",
+      "title": "Edge-aware image filtering using a structure-guided CNN",
+      "venue": "IET Image Processing",
+      "year": 2020,
+      "referenceCount": 11,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "2511390",
+          "name": "Sijung Kim"
+        },
+        {
+          "authorId": "2116332553",
+          "name": "Changho Song"
+        },
+        {
+          "authorId": "6233534",
+          "name": "Jinbeum Jang"
+        },
+        {
+          "authorId": "144155678",
+          "name": "J. Paik"
+        }
+      ]
+    },
+    {
+      "paperId": "3b99c83ea1233c427bb0fa8a34b1b655018d7bbc",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2509-17968",
+        "ArXiv": "2509.17968",
+        "DOI": "10.48550/arXiv.2509.17968",
+        "CorpusId": 281421014
+      },
+      "url": "https://www.semanticscholar.org/paper/3b99c83ea1233c427bb0fa8a34b1b655018d7bbc",
+      "title": "Visual Detector Compression via Location-Aware Discriminant Analysis",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "referenceCount": 38,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "2115112025",
+          "name": "Qizhen Lan"
+        },
+        {
+          "authorId": "2156034657",
+          "name": "Jung Im Choi"
+        },
+        {
+          "authorId": "2345890000",
+          "name": "Qing Tian"
+        }
+      ]
+    },
+    {
+      "paperId": "19c95fde9c77770810e4966e81a1bac070e670f2",
+      "externalIds": {
+        "PubMedCentral": "12568058",
+        "DOI": "10.3390/s25206494",
+        "CorpusId": 282279922,
+        "PubMed": "41157548"
+      },
+      "url": "https://www.semanticscholar.org/paper/19c95fde9c77770810e4966e81a1bac070e670f2",
+      "title": "AMSEANet: An Edge-Guided Adaptive Multi-Scale Network for Image Splicing Detection and Localization",
+      "venue": "Italian National Conference on Sensors",
+      "year": 2025,
+      "referenceCount": 40,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2387123343",
+          "name": "Yuankun Yang"
+        },
+        {
+          "authorId": "2374790393",
+          "name": "Yueshun He"
+        },
+        {
+          "authorId": "2387109027",
+          "name": "Xiaohui Ma"
+        },
+        {
+          "authorId": "2387053769",
+          "name": "Wei Lv"
+        },
+        {
+          "authorId": "2387677613",
+          "name": "Jie Chen"
+        },
+        {
+          "authorId": "2108970746",
+          "name": "Hongling Wang"
+        }
+      ]
+    }
+  ]
+}

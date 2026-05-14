@@ -1,0 +1,292 @@
+{
+  "total": 37,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "561f002fb739ced3f2f967a8809744a063d9fba4",
+      "externalIds": {
+        "MAG": "2963025397",
+        "DBLP": "journals/corr/KohlerL17",
+        "ArXiv": "1705.05933",
+        "DOI": "10.3929/ETHZ-B-000223160",
+        "CorpusId": 31491519
+      },
+      "url": "https://www.semanticscholar.org/paper/561f002fb739ced3f2f967a8809744a063d9fba4",
+      "title": "Sub-sampled Cubic Regularization for Non-convex Optimization",
+      "venue": "International Conference on Machine Learning",
+      "year": 2017,
+      "referenceCount": 33,
+      "citationCount": 190,
+      "authors": [
+        {
+          "authorId": "21673214",
+          "name": "J. Kohler"
+        },
+        {
+          "authorId": "40401747",
+          "name": "Aurélien Lucchi"
+        }
+      ]
+    },
+    {
+      "paperId": "214b22a703bf8ce3ca8976dd4f52f4a2b2594f5a",
+      "externalIds": {
+        "MAG": "2786184162",
+        "CorpusId": 119600386
+      },
+      "url": "https://www.semanticscholar.org/paper/214b22a703bf8ce3ca8976dd4f52f4a2b2594f5a",
+      "title": "On Adaptive Cubic Regularized Newton's Methods for Convex Optimization via Random Sampling",
+      "venue": "",
+      "year": 2018,
+      "referenceCount": 64,
+      "citationCount": 17,
+      "authors": [
+        {
+          "authorId": "46772427",
+          "name": "Xi Chen"
+        },
+        {
+          "authorId": "144586280",
+          "name": "B. Jiang"
+        },
+        {
+          "authorId": "152243923",
+          "name": "Tianyi Lin"
+        },
+        {
+          "authorId": "50202049",
+          "name": "Shuzhong Zhang"
+        }
+      ]
+    },
+    {
+      "paperId": "8bfabd25621f3d8264cf51b5c96abe08d97274ad",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2406-16666",
+        "ArXiv": "2406.16666",
+        "DOI": "10.48550/arXiv.2406.16666",
+        "CorpusId": 270702610
+      },
+      "url": "https://www.semanticscholar.org/paper/8bfabd25621f3d8264cf51b5c96abe08d97274ad",
+      "title": "Cubic regularized subspace Newton for non-convex optimization",
+      "venue": "International Conference on Artificial Intelligence and Statistics",
+      "year": 2024,
+      "referenceCount": 39,
+      "citationCount": 7,
+      "authors": [
+        {
+          "authorId": "2308067249",
+          "name": "Jim Zhao"
+        },
+        {
+          "authorId": "40401747",
+          "name": "Aurélien Lucchi"
+        },
+        {
+          "authorId": "51127990",
+          "name": "N. Doikov"
+        }
+      ]
+    },
+    {
+      "paperId": "1800be6138f59fa77a0c97e085a730650dc5db39",
+      "externalIds": {
+        "ArXiv": "1911.10367",
+        "CorpusId": 259944964
+      },
+      "url": "https://www.semanticscholar.org/paper/1800be6138f59fa77a0c97e085a730650dc5db39",
+      "title": "A Sub-sampled Tensor Method for Non-convex Optimization",
+      "venue": "",
+      "year": 2019,
+      "referenceCount": 62,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "40401747",
+          "name": "Aurélien Lucchi"
+        },
+        {
+          "authorId": "21673214",
+          "name": "J. Kohler"
+        }
+      ]
+    },
+    {
+      "paperId": "ed65cede13d01fc2f6d374f04a14525f1a56c95d",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-1708-07164",
+        "MAG": "2950603198",
+        "ArXiv": "1708.07164",
+        "DOI": "10.1007/s10107-019-01405-z",
+        "CorpusId": 3368566
+      },
+      "url": "https://www.semanticscholar.org/paper/ed65cede13d01fc2f6d374f04a14525f1a56c95d",
+      "title": "Newton-type methods for non-convex optimization under inexact Hessian information",
+      "venue": "Mathematical programming",
+      "year": 2017,
+      "referenceCount": 176,
+      "citationCount": 223,
+      "authors": [
+        {
+          "authorId": "2092025795",
+          "name": "Peng Xu"
+        },
+        {
+          "authorId": "1404348727",
+          "name": "Farbod Roosta-Khorasani"
+        },
+        {
+          "authorId": "143884206",
+          "name": "Michael W. Mahoney"
+        }
+      ]
+    },
+    {
+      "paperId": "7868afeba1cf9c12aaf4fc2e8bac6639caa3b40b",
+      "externalIds": {
+        "MAG": "2946462711",
+        "ArXiv": "1905.06738",
+        "CorpusId": 155100112
+      },
+      "url": "https://www.semanticscholar.org/paper/7868afeba1cf9c12aaf4fc2e8bac6639caa3b40b",
+      "title": "Inexact Newton Methods for Stochastic Non-Convex Optimization with Applications to Neural Network Training",
+      "venue": "",
+      "year": 2019,
+      "referenceCount": 44,
+      "citationCount": 22,
+      "authors": [
+        {
+          "authorId": "1419496525",
+          "name": "Thomas O'Leary-Roseberry"
+        },
+        {
+          "authorId": "49065858",
+          "name": "Nick Alger"
+        },
+        {
+          "authorId": "1750853",
+          "name": "O. Ghattas"
+        }
+      ]
+    },
+    {
+      "paperId": "422ebe63f56be0bcc160a39ad3be6165c8d37b8e",
+      "externalIds": {
+        "MAG": "2751113853",
+        "ArXiv": "1708.07827",
+        "DBLP": "conf/sdm/XuRM20",
+        "DOI": "10.1137/1.9781611976236.23",
+        "CorpusId": 3355024
+      },
+      "url": "https://www.semanticscholar.org/paper/422ebe63f56be0bcc160a39ad3be6165c8d37b8e",
+      "title": "Second-Order Optimization for Non-Convex Machine Learning: An Empirical Study",
+      "venue": "SDM",
+      "year": 2017,
+      "referenceCount": 72,
+      "citationCount": 160,
+      "authors": [
+        {
+          "authorId": "2092025795",
+          "name": "Peng Xu"
+        },
+        {
+          "authorId": "1404348727",
+          "name": "Farbod Roosta-Khorasani"
+        },
+        {
+          "authorId": "143884206",
+          "name": "Michael W. Mahoney"
+        }
+      ]
+    },
+    {
+      "paperId": "5298943aca3af1177e881ba2b4537e8b568a0bc3",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-1911-10367",
+        "MAG": "2991000140",
+        "CorpusId": 208268151
+      },
+      "url": "https://www.semanticscholar.org/paper/5298943aca3af1177e881ba2b4537e8b568a0bc3",
+      "title": "A Stochastic Tensor Method for Non-convex Optimization",
+      "venue": "arXiv.org",
+      "year": 2019,
+      "referenceCount": 53,
+      "citationCount": 11,
+      "authors": [
+        {
+          "authorId": "40401747",
+          "name": "Aurélien Lucchi"
+        },
+        {
+          "authorId": "2056199262",
+          "name": "Jonas Köhler"
+        }
+      ]
+    },
+    {
+      "paperId": "274f2b3db28ad99d865e87a591b0eeab86d1fb24",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-1809-09853",
+        "MAG": "2892675382",
+        "ArXiv": "1809.09853",
+        "CorpusId": 52843071
+      },
+      "url": "https://www.semanticscholar.org/paper/274f2b3db28ad99d865e87a591b0eeab86d1fb24",
+      "title": "Stochastic Second-order Methods for Non-convex Optimization with Inexact Hessian and Gradient",
+      "venue": "arXiv.org",
+      "year": 2018,
+      "referenceCount": 31,
+      "citationCount": 10,
+      "authors": [
+        {
+          "authorId": "2109528221",
+          "name": "Liu Liu"
+        },
+        {
+          "authorId": "23979212",
+          "name": "Xuanqing Liu"
+        },
+        {
+          "authorId": "1793529",
+          "name": "Cho-Jui Hsieh"
+        },
+        {
+          "authorId": "143719920",
+          "name": "D. Tao"
+        }
+      ]
+    },
+    {
+      "paperId": "aa99b055e81d92926abebe5c9721005e54b8bdb2",
+      "externalIds": {
+        "MAG": "2975597415",
+        "CorpusId": 204203559
+      },
+      "url": "https://www.semanticscholar.org/paper/aa99b055e81d92926abebe5c9721005e54b8bdb2",
+      "title": "Adaptively Accelerating Cubic Regularized Newton's Methods for Convex Optimization via Random Sampling",
+      "venue": "",
+      "year": 2018,
+      "referenceCount": 48,
+      "citationCount": 7,
+      "authors": [
+        {
+          "authorId": "46772427",
+          "name": "Xi Chen"
+        },
+        {
+          "authorId": "144586280",
+          "name": "B. Jiang"
+        },
+        {
+          "authorId": "152243923",
+          "name": "Tianyi Lin"
+        },
+        {
+          "authorId": "50202049",
+          "name": "Shuzhong Zhang"
+        }
+      ]
+    }
+  ]
+}

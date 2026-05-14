@@ -1,0 +1,60 @@
+{
+  "total": 2,
+  "offset": 0,
+  "data": [
+    {
+      "paperId": "9b227449872783e7c8207bea3a8a7713ad52fdea",
+      "externalIds": {
+        "ArXiv": "1806.01584",
+        "MAG": "2962695488",
+        "DBLP": "conf/icml/DietterichTC18",
+        "CorpusId": 46938244
+      },
+      "url": "https://www.semanticscholar.org/paper/9b227449872783e7c8207bea3a8a7713ad52fdea",
+      "title": "Discovering and Removing Exogenous State Variables and Rewards for Reinforcement Learning",
+      "venue": "International Conference on Machine Learning",
+      "year": 2018,
+      "referenceCount": 18,
+      "citationCount": 35,
+      "authors": [
+        {
+          "authorId": "144299726",
+          "name": "Thomas G. Dietterich"
+        },
+        {
+          "authorId": "3327874",
+          "name": "George Trimponias"
+        },
+        {
+          "authorId": "2266001922",
+          "name": "Zhitang Chen"
+        }
+      ]
+    },
+    {
+      "paperId": "a6ba6abce9833a64723767c6c7cdfca16af42467",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2303-12957",
+        "ArXiv": "2303.12957",
+        "DOI": "10.48550/arXiv.2303.12957",
+        "CorpusId": 257687512
+      },
+      "url": "https://www.semanticscholar.org/paper/a6ba6abce9833a64723767c6c7cdfca16af42467",
+      "title": "Reinforcement Learning with Exogenous States and Rewards",
+      "venue": "arXiv.org",
+      "year": 2023,
+      "referenceCount": 82,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "3327874",
+          "name": "George Trimponias"
+        },
+        {
+          "authorId": "144299726",
+          "name": "Thomas G. Dietterich"
+        }
+      ]
+    }
+  ]
+}

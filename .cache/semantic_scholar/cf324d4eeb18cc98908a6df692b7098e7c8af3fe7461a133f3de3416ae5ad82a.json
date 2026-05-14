@@ -1,0 +1,386 @@
+{
+  "total": 1741,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "03c86f411eaa96757fce6bcf3fc3d12cec2b9a8b",
+      "externalIds": {
+        "DBLP": "conf/icml/TangS15",
+        "MAG": "1652247329",
+        "CorpusId": 14174247
+      },
+      "url": "https://www.semanticscholar.org/paper/03c86f411eaa96757fce6bcf3fc3d12cec2b9a8b",
+      "title": "Guaranteed Tensor Decomposition: A Moment Approach",
+      "venue": "International Conference on Machine Learning",
+      "year": 2015,
+      "referenceCount": 54,
+      "citationCount": 33,
+      "authors": [
+        {
+          "authorId": "3062007",
+          "name": "Gongguo Tang"
+        },
+        {
+          "authorId": "1786206",
+          "name": "Parikshit M. Shah"
+        }
+      ]
+    },
+    {
+      "paperId": "f7530e997262d626352aff8f01307db7a273d9b1",
+      "externalIds": {
+        "DBLP": "conf/icassp/MarminCP20",
+        "MAG": "3016099501",
+        "DOI": "10.1109/ICASSP40776.2020.9054186",
+        "CorpusId": 216358600
+      },
+      "url": "https://www.semanticscholar.org/paper/f7530e997262d626352aff8f01307db7a273d9b1",
+      "title": "A Moment-Based Approach for Guaranteed Tensor Decomposition",
+      "venue": "IEEE International Conference on Acoustics, Speech, and Signal Processing",
+      "year": 2020,
+      "referenceCount": 18,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "9376367",
+          "name": "A. Marmin"
+        },
+        {
+          "authorId": "35039820",
+          "name": "M. Castella"
+        },
+        {
+          "authorId": "1737505",
+          "name": "J. Pesquet"
+        }
+      ]
+    },
+    {
+      "paperId": "5949d38817d4109813a9b9aaf0618fcf399eff20",
+      "externalIds": {
+        "MAG": "2950919720",
+        "DBLP": "journals/jmlr/AnandkumarGHK14",
+        "ArXiv": "1302.2684",
+        "DOI": "10.5555/2627435.2670323",
+        "CorpusId": 794189
+      },
+      "url": "https://www.semanticscholar.org/paper/5949d38817d4109813a9b9aaf0618fcf399eff20",
+      "title": "A tensor approach to learning mixed membership community models",
+      "venue": "Journal of machine learning research",
+      "year": 2013,
+      "referenceCount": 61,
+      "citationCount": 159,
+      "authors": [
+        {
+          "authorId": "2047844",
+          "name": "Anima Anandkumar"
+        },
+        {
+          "authorId": "144804200",
+          "name": "Rong Ge"
+        },
+        {
+          "authorId": "143724861",
+          "name": "Daniel J. Hsu"
+        },
+        {
+          "authorId": "144695232",
+          "name": "S. Kakade"
+        }
+      ]
+    },
+    {
+      "paperId": "197fe6c21bca61d501a611707461f057d1a52bee",
+      "externalIds": {
+        "MAG": "2963058822",
+        "DBLP": "journals/corr/abs-1302-2684",
+        "CorpusId": 1751454
+      },
+      "url": "https://www.semanticscholar.org/paper/197fe6c21bca61d501a611707461f057d1a52bee",
+      "title": "A Tensor Spectral Approach to Learning Mixed Membership Community Models",
+      "venue": "Annual Conference Computational Learning Theory",
+      "year": 2013,
+      "referenceCount": 33,
+      "citationCount": 121,
+      "authors": [
+        {
+          "authorId": "2047844",
+          "name": "Anima Anandkumar"
+        },
+        {
+          "authorId": "144804200",
+          "name": "Rong Ge"
+        },
+        {
+          "authorId": "143724861",
+          "name": "Daniel J. Hsu"
+        },
+        {
+          "authorId": "144695232",
+          "name": "S. Kakade"
+        }
+      ]
+    },
+    {
+      "paperId": "9dd8f38903b5692fe41a607d8587bae6157d6326",
+      "externalIds": {
+        "DBLP": "journals/corr/SedghiA14a",
+        "ArXiv": "1412.3046",
+        "MAG": "1486307571",
+        "CorpusId": 118502928
+      },
+      "url": "https://www.semanticscholar.org/paper/9dd8f38903b5692fe41a607d8587bae6157d6326",
+      "title": "Provable Tensor Methods for Learning Mixtures of Classifiers",
+      "venue": "arXiv.org",
+      "year": 2014,
+      "referenceCount": 36,
+      "citationCount": 16,
+      "authors": [
+        {
+          "authorId": "2812848",
+          "name": "Hanie Sedghi"
+        },
+        {
+          "authorId": "2047844",
+          "name": "Anima Anandkumar"
+        }
+      ]
+    },
+    {
+      "paperId": "660e5166f97e99cced1e295759d403f572340d54",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2501-04565",
+        "ArXiv": "2501.04565",
+        "DOI": "10.48550/arXiv.2501.04565",
+        "CorpusId": 275357931
+      },
+      "url": "https://www.semanticscholar.org/paper/660e5166f97e99cced1e295759d403f572340d54",
+      "title": "Learnable Scaled Gradient Descent for Guaranteed Robust Tensor PCA",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "referenceCount": 64,
+      "citationCount": 4,
+      "authors": [
+        {
+          "authorId": "2115956884",
+          "name": "Lanlan Feng"
+        },
+        {
+          "authorId": "2195624415",
+          "name": "Ce Zhu"
+        },
+        {
+          "authorId": "49420320",
+          "name": "Yipeng Liu"
+        },
+        {
+          "authorId": "145233481",
+          "name": "S. Ravishankar"
+        },
+        {
+          "authorId": "2281907225",
+          "name": "Longxiu Huang"
+        }
+      ]
+    },
+    {
+      "paperId": "7f8160f60ab22cd52d642907f31d120c339c5f7b",
+      "externalIds": {
+        "ArXiv": "2412.02778",
+        "DBLP": "conf/acssc/BenicioASAMFS24",
+        "DOI": "10.1109/IEEECONF60004.2024.10942744",
+        "CorpusId": 274464596
+      },
+      "url": "https://www.semanticscholar.org/paper/7f8160f60ab22cd52d642907f31d120c339c5f7b",
+      "title": "RIS-Assisted Sensing: A Nested Tensor Decomposition-Based Approach",
+      "venue": "Asilomar Conference on Signals, Systems and Computers",
+      "year": 2024,
+      "referenceCount": 17,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2220346184",
+          "name": "Kenneth B. A. Ben'icio"
+        },
+        {
+          "authorId": "1409355712",
+          "name": "Fazal-E. Asim"
+        },
+        {
+          "authorId": "114080660",
+          "name": "Bruno Sokal"
+        },
+        {
+          "authorId": "2355801559",
+          "name": "A. L. F. D. Almeida"
+        },
+        {
+          "authorId": "1727025",
+          "name": "Behrooz Makki"
+        },
+        {
+          "authorId": "2256245298",
+          "name": "Gábor Fodor"
+        },
+        {
+          "authorId": "2258050150",
+          "name": "A. L. Swindlehurst"
+        }
+      ]
+    },
+    {
+      "paperId": "a2e1672c0357a0719c1eb3adcad20ecdc50a24d7",
+      "externalIds": {
+        "ArXiv": "2404.18332",
+        "DOI": "10.3934/naco.2025030",
+        "CorpusId": 269449862
+      },
+      "url": "https://www.semanticscholar.org/paper/a2e1672c0357a0719c1eb3adcad20ecdc50a24d7",
+      "title": "Moment-SOS relaxations for moment and tensor recovery problems",
+      "venue": "Numerical Algebra, Control and Optimization",
+      "year": 2024,
+      "referenceCount": 39,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2248101257",
+          "name": "Lei Huang"
+        },
+        {
+          "authorId": "2248017252",
+          "name": "Jiawang Nie"
+        },
+        {
+          "authorId": "2115650071",
+          "name": "Jiajia Wang"
+        }
+      ]
+    },
+    {
+      "paperId": "39706d581b744bee76a15fa33f93a1f94eb873a1",
+      "externalIds": {
+        "DBLP": "journals/tifs/LiaoFZYCNHZ25",
+        "DOI": "10.1109/TIFS.2025.3552033",
+        "CorpusId": 277118747
+      },
+      "url": "https://www.semanticscholar.org/paper/39706d581b744bee76a15fa33f93a1f94eb873a1",
+      "title": "Privacy-Preserving Vertical Federated Learning With Tensor Decomposition for Data Missing Features",
+      "venue": "IEEE Transactions on Information Forensics and Security",
+      "year": 2025,
+      "referenceCount": 50,
+      "citationCount": 8,
+      "authors": [
+        {
+          "authorId": "2088943061",
+          "name": "Tianchi Liao"
+        },
+        {
+          "authorId": "2267427951",
+          "name": "Lele Fu"
+        },
+        {
+          "authorId": "2266108656",
+          "name": "Lei Zhang"
+        },
+        {
+          "authorId": "2265522948",
+          "name": "Lei Yang"
+        },
+        {
+          "authorId": "2144669413",
+          "name": "Chuan Chen"
+        },
+        {
+          "authorId": "2184784334",
+          "name": "M. Ng"
+        },
+        {
+          "authorId": "2146053522",
+          "name": "Huawei Huang"
+        },
+        {
+          "authorId": "2256386421",
+          "name": "Zibin Zheng"
+        }
+      ]
+    },
+    {
+      "paperId": "b08dcbaa8748f846f8ce4f4264389a1dd27d0338",
+      "externalIds": {
+        "ArXiv": "2502.13140",
+        "DBLP": "journals/corr/abs-2502-13140",
+        "DOI": "10.48550/arXiv.2502.13140",
+        "CorpusId": 276421808
+      },
+      "url": "https://www.semanticscholar.org/paper/b08dcbaa8748f846f8ce4f4264389a1dd27d0338",
+      "title": "Towards Quantum Tensor Decomposition in Biomedical Applications",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "referenceCount": 141,
+      "citationCount": 7,
+      "authors": [
+        {
+          "authorId": "2266368242",
+          "name": "M. Burch"
+        },
+        {
+          "authorId": "2327991707",
+          "name": "Jiasen Zhang"
+        },
+        {
+          "authorId": "2141550049",
+          "name": "G. Idumah"
+        },
+        {
+          "authorId": "2223127419",
+          "name": "Hakan Doga"
+        },
+        {
+          "authorId": "4083591",
+          "name": "R. Lartey"
+        },
+        {
+          "authorId": "7977265",
+          "name": "L. Yehia"
+        },
+        {
+          "authorId": "2303315170",
+          "name": "Mingrui Yang"
+        },
+        {
+          "authorId": "2356951463",
+          "name": "Murat Yildirim"
+        },
+        {
+          "authorId": "48358514",
+          "name": "Mihriban Karaayvaz"
+        },
+        {
+          "authorId": "2269466302",
+          "name": "O. Shehab"
+        },
+        {
+          "authorId": "2196459897",
+          "name": "Weihong Guo"
+        },
+        {
+          "authorId": "2238414409",
+          "name": "Ying Ni"
+        },
+        {
+          "authorId": "2266366156",
+          "name": "L. Parida"
+        },
+        {
+          "authorId": "2316174486",
+          "name": "Xiaojuan Li"
+        },
+        {
+          "authorId": "2266363782",
+          "name": "A. Bose"
+        }
+      ]
+    }
+  ]
+}

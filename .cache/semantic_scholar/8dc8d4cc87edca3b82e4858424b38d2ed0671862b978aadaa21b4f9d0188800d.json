@@ -1,0 +1,239 @@
+{
+  "total": 10,
+  "offset": 0,
+  "data": [
+    {
+      "paperId": "8885d8c54744aea171056b6db6ebfe98511f1d76",
+      "externalIds": {
+        "MAG": "2741585496",
+        "DBLP": "conf/icml/WangG17",
+        "CorpusId": 45809042
+      },
+      "url": "https://www.semanticscholar.org/paper/8885d8c54744aea171056b6db6ebfe98511f1d76",
+      "title": "Robust Gaussian Graphical Model Estimation with Arbitrary Corruption",
+      "venue": "International Conference on Machine Learning",
+      "year": 2017,
+      "referenceCount": 35,
+      "citationCount": 14,
+      "authors": [
+        {
+          "authorId": "2151976110",
+          "name": "Lingxiao Wang"
+        },
+        {
+          "authorId": "9937103",
+          "name": "Quanquan Gu"
+        }
+      ]
+    },
+    {
+      "paperId": "bda61fce26096b1da8aa30b01e339347d6c6e256",
+      "externalIds": {
+        "DBLP": "conf/cdc/YaoS23",
+        "ArXiv": "2309.08884",
+        "DOI": "10.1109/CDC49753.2023.10384239",
+        "CorpusId": 262043355
+      },
+      "url": "https://www.semanticscholar.org/paper/bda61fce26096b1da8aa30b01e339347d6c6e256",
+      "title": "Robust Online Covariance and Sparse Precision Estimation Under Arbitrary Data Corruption",
+      "venue": "IEEE Conference on Decision and Control",
+      "year": 2023,
+      "referenceCount": 30,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2068296318",
+          "name": "Tong Yao"
+        },
+        {
+          "authorId": "2241348961",
+          "name": "Shreyas Sundaram"
+        }
+      ]
+    },
+    {
+      "paperId": "31eae9b51b37c2792f0095801dbacd5507da64a1",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2102-05472",
+        "ArXiv": "2102.05472",
+        "CorpusId": 231861382
+      },
+      "url": "https://www.semanticscholar.org/paper/31eae9b51b37c2792f0095801dbacd5507da64a1",
+      "title": "Robust estimation of tree structured models",
+      "venue": "arXiv.org",
+      "year": 2021,
+      "referenceCount": 24,
+      "citationCount": 6,
+      "authors": [
+        {
+          "authorId": "1832008",
+          "name": "M. Casanellas"
+        },
+        {
+          "authorId": "1405267985",
+          "name": "Marina Garrote-L'opez"
+        },
+        {
+          "authorId": "2932433",
+          "name": "Piotr Zwiernik"
+        }
+      ]
+    },
+    {
+      "paperId": "145f082c2b2fde83f04939a15fcf240fbf8033c4",
+      "externalIds": {
+        "MAG": "2912801570",
+        "ArXiv": "1901.08237",
+        "DBLP": "journals/corr/abs-1901-08237",
+        "CorpusId": 59222694
+      },
+      "url": "https://www.semanticscholar.org/paper/145f082c2b2fde83f04939a15fcf240fbf8033c4",
+      "title": "High Dimensional Robust Estimation of Sparse Models via Trimmed Hard Thresholding",
+      "venue": "arXiv.org",
+      "year": 2019,
+      "referenceCount": 72,
+      "citationCount": 14,
+      "authors": [
+        {
+          "authorId": "144117143",
+          "name": "L. Liu"
+        },
+        {
+          "authorId": "8037043",
+          "name": "Tianyang Li"
+        },
+        {
+          "authorId": "1764494",
+          "name": "C. Caramanis"
+        }
+      ]
+    },
+    {
+      "paperId": "64bbe1c6e74b8c6fe82b5d137f0efacbcf4585dd",
+      "externalIds": {
+        "CorpusId": 260515133
+      },
+      "url": "https://www.semanticscholar.org/paper/64bbe1c6e74b8c6fe82b5d137f0efacbcf4585dd",
+      "title": "Out-of-sample error estimation for M-estimators with convex penalty",
+      "venue": "",
+      "year": 2021,
+      "referenceCount": 1,
+      "citationCount": 16,
+      "authors": [
+        {
+          "authorId": "3326631",
+          "name": "P. Bellec"
+        }
+      ]
+    },
+    {
+      "paperId": "6ff5eb8379542f6b59c0552d0a8c0f6af266e2d8",
+      "externalIds": {
+        "ArXiv": "1506.04321",
+        "MAG": "2150278081",
+        "DOI": "10.1093/biomet/asr037",
+        "CorpusId": 88520344
+      },
+      "url": "https://www.semanticscholar.org/paper/6ff5eb8379542f6b59c0552d0a8c0f6af266e2d8",
+      "title": "Elliptical graphical modelling",
+      "venue": "",
+      "year": 2011,
+      "referenceCount": 104,
+      "citationCount": 52,
+      "authors": [
+        {
+          "authorId": "39036285",
+          "name": "D. Vogel"
+        },
+        {
+          "authorId": "1706246",
+          "name": "R. Fried"
+        }
+      ]
+    },
+    {
+      "paperId": "2e227dd6892fb34fbcd2af7e59c1d2c459f86e9a",
+      "externalIds": {
+        "MAG": "3046885009",
+        "DBLP": "journals/corr/abs-2006-00602",
+        "ArXiv": "2006.00602",
+        "CorpusId": 219176865
+      },
+      "url": "https://www.semanticscholar.org/paper/2e227dd6892fb34fbcd2af7e59c1d2c459f86e9a",
+      "title": "Estimating Principal Components under Adversarial Perturbations",
+      "venue": "Annual Conference Computational Learning Theory",
+      "year": 2020,
+      "referenceCount": 74,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "144030228",
+          "name": "Pranjal Awasthi"
+        },
+        {
+          "authorId": "2145450750",
+          "name": "Xue Chen"
+        },
+        {
+          "authorId": "1760467",
+          "name": "Aravindan Vijayaraghavan"
+        }
+      ]
+    },
+    {
+      "paperId": "7f4326d5773c87f97706e863d746d5375de2a176",
+      "externalIds": {
+        "MAG": "164975227",
+        "CorpusId": 117051047
+      },
+      "url": "https://www.semanticscholar.org/paper/7f4326d5773c87f97706e863d746d5375de2a176",
+      "title": "Regularized Estimation of High-dimensional Covariance Matrices.",
+      "venue": "",
+      "year": 2011,
+      "referenceCount": 120,
+      "citationCount": 7,
+      "authors": [
+        {
+          "authorId": "2664636",
+          "name": "Yilun Chen"
+        }
+      ]
+    },
+    {
+      "paperId": "9270e1ec96b0ec15f8de1149b2d82d4a1c0eed6b",
+      "externalIds": {
+        "CorpusId": 202668842
+      },
+      "url": "https://www.semanticscholar.org/paper/9270e1ec96b0ec15f8de1149b2d82d4a1c0eed6b",
+      "title": "Fitting and Extending Exponential Smoothing Models with Stan",
+      "venue": "",
+      "year": 2015,
+      "referenceCount": 8,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "2477143",
+          "name": "Slawek Smyl"
+        }
+      ]
+    },
+    {
+      "paperId": "0bb38c1afe1248f97a42a888b8524510d1f11025",
+      "externalIds": {
+        "CorpusId": 7731257
+      },
+      "url": "https://www.semanticscholar.org/paper/0bb38c1afe1248f97a42a888b8524510d1f11025",
+      "title": "Is Stereo Vision Optimized for Natural Environments?",
+      "venue": "",
+      "year": 2014,
+      "referenceCount": 0,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "145639042",
+          "name": "B. Backus"
+        }
+      ]
+    }
+  ]
+}

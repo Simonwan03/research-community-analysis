@@ -1,0 +1,92 @@
+{
+  "total": 3,
+  "offset": 0,
+  "data": [
+    {
+      "paperId": "05e39bbaa5bf77919cccabc32fe6b2f03a342dbe",
+      "externalIds": {
+        "DBLP": "conf/icml/LiG17",
+        "MAG": "2605055943",
+        "ArXiv": "1703.02914",
+        "CorpusId": 3072798
+      },
+      "url": "https://www.semanticscholar.org/paper/05e39bbaa5bf77919cccabc32fe6b2f03a342dbe",
+      "title": "Dropout Inference in Bayesian Neural Networks with Alpha-divergences",
+      "venue": "International Conference on Machine Learning",
+      "year": 2017,
+      "referenceCount": 52,
+      "citationCount": 209,
+      "authors": [
+        {
+          "authorId": "2672661",
+          "name": "Yingzhen Li"
+        },
+        {
+          "authorId": "2681954",
+          "name": "Y. Gal"
+        }
+      ]
+    },
+    {
+      "paperId": "684b5100e0328d4257dc6568fafd76cbcd40cdaf",
+      "externalIds": {
+        "ArXiv": "1712.02037",
+        "MAG": "2772455116",
+        "DBLP": "journals/corr/abs-1712-02037",
+        "CorpusId": 28172764
+      },
+      "url": "https://www.semanticscholar.org/paper/684b5100e0328d4257dc6568fafd76cbcd40cdaf",
+      "title": "Bayesian Policy Gradients via Alpha Divergence Dropout Inference",
+      "venue": "arXiv.org",
+      "year": 2017,
+      "referenceCount": 20,
+      "citationCount": 13,
+      "authors": [
+        {
+          "authorId": "40068904",
+          "name": "Peter Henderson"
+        },
+        {
+          "authorId": "33554869",
+          "name": "T. Doan"
+        },
+        {
+          "authorId": "18014232",
+          "name": "Riashat Islam"
+        },
+        {
+          "authorId": "2462512",
+          "name": "D. Meger"
+        }
+      ]
+    },
+    {
+      "paperId": "eef265fd387d592afb8ef9fc91593a2e18da26bf",
+      "externalIds": {
+        "DBLP": "conf/ijcnn/ZhangCQ21",
+        "DOI": "10.1109/IJCNN52387.2021.9534229",
+        "CorpusId": 237597685
+      },
+      "url": "https://www.semanticscholar.org/paper/eef265fd387d592afb8ef9fc91593a2e18da26bf",
+      "title": "Layerwise Approximate Inference for Bayesian Uncertainty Estimates on Deep Neural Networks",
+      "venue": "IEEE International Joint Conference on Neural Network",
+      "year": 2021,
+      "referenceCount": 0,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2153009626",
+          "name": "Ni Zhang"
+        },
+        {
+          "authorId": "2143799161",
+          "name": "Xiaoyi Chen"
+        },
+        {
+          "authorId": "2111857632",
+          "name": "Li Quan"
+        }
+      ]
+    }
+  ]
+}

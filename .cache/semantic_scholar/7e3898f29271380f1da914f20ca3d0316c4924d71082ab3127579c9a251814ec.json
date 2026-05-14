@@ -1,0 +1,297 @@
+{
+  "total": 18,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "dd671954b59a2f8b2e90639abbae1ce0ba0d5c1e",
+      "externalIds": {
+        "MAG": "1839953896",
+        "ArXiv": "1503.06394",
+        "DBLP": "journals/corr/HanMS15",
+        "CorpusId": 7239581
+      },
+      "url": "https://www.semanticscholar.org/paper/dd671954b59a2f8b2e90639abbae1ce0ba0d5c1e",
+      "title": "Large-scale log-determinant computation through stochastic Chebyshev expansions",
+      "venue": "International Conference on Machine Learning",
+      "year": 2015,
+      "referenceCount": 37,
+      "citationCount": 102,
+      "authors": [
+        {
+          "authorId": "2237714",
+          "name": "Insu Han"
+        },
+        {
+          "authorId": "1688721",
+          "name": "D. Malioutov"
+        },
+        {
+          "authorId": "143720148",
+          "name": "Jinwoo Shin"
+        }
+      ]
+    },
+    {
+      "paperId": "1889cf8967835e8013508c978341f69aa9529587",
+      "externalIds": {
+        "MAG": "2497383637",
+        "DBLP": "conf/cnhpca/PengW15",
+        "DOI": "10.1007/978-3-319-32557-6_12",
+        "CorpusId": 31737849
+      },
+      "url": "https://www.semanticscholar.org/paper/1889cf8967835e8013508c978341f69aa9529587",
+      "title": "Large-Scale Log-Determinant Computation via Weighted L_2 Polynomial Approximation with Prior Distribution of Eigenvalues",
+      "venue": "International Symposium on High-Performance Computer Architecture",
+      "year": 2015,
+      "referenceCount": 9,
+      "citationCount": 6,
+      "authors": [
+        {
+          "authorId": "145439284",
+          "name": "Wei Peng"
+        },
+        {
+          "authorId": "2113218129",
+          "name": "Hongxia Wang"
+        }
+      ]
+    },
+    {
+      "paperId": "281348e601bee984b36ea3f463a50bfcf674cbce",
+      "externalIds": {
+        "MAG": "2768220934",
+        "DBLP": "journals/cma/PengW18",
+        "DOI": "10.1016/j.camwa.2017.11.001",
+        "CorpusId": 4314506
+      },
+      "url": "https://www.semanticscholar.org/paper/281348e601bee984b36ea3f463a50bfcf674cbce",
+      "title": "A general scheme for log-determinant computation of matrices via stochastic polynomial approximation",
+      "venue": "Computers and Mathematics with Applications",
+      "year": 2017,
+      "referenceCount": 19,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "145439284",
+          "name": "Wei Peng"
+        },
+        {
+          "authorId": "2113218129",
+          "name": "Hongxia Wang"
+        }
+      ]
+    },
+    {
+      "paperId": "d44c829fad6e4eead90c21e41dd7f48e631d9f0f",
+      "externalIds": {
+        "MAG": "2889699480",
+        "DBLP": "conf/nips/HanAS18",
+        "ArXiv": "1802.06355",
+        "CorpusId": 52155011
+      },
+      "url": "https://www.semanticscholar.org/paper/d44c829fad6e4eead90c21e41dd7f48e631d9f0f",
+      "title": "Stochastic Chebyshev Gradient Descent for Spectral Optimization",
+      "venue": "Neural Information Processing Systems",
+      "year": 2018,
+      "referenceCount": 33,
+      "citationCount": 11,
+      "authors": [
+        {
+          "authorId": "2237714",
+          "name": "Insu Han"
+        },
+        {
+          "authorId": "1922753",
+          "name": "H. Avron"
+        },
+        {
+          "authorId": "143720148",
+          "name": "Jinwoo Shin"
+        }
+      ]
+    },
+    {
+      "paperId": "c2be63e32c682c679ed26c282f6fbc577f1c53d7",
+      "externalIds": {
+        "ArXiv": "2603.02207",
+        "CorpusId": 286224176
+      },
+      "url": "https://www.semanticscholar.org/paper/c2be63e32c682c679ed26c282f6fbc577f1c53d7",
+      "title": "Novel technique based on L\\'eja Points Approximation for Log-determinant Estimation of Large matrices",
+      "venue": "",
+      "year": 2026,
+      "referenceCount": 47,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2185934657",
+          "name": "V. R. Mbingui"
+        },
+        {
+          "authorId": "3396880",
+          "name": "Antoine Tambue"
+        },
+        {
+          "authorId": "6369097",
+          "name": "Issa Karambal"
+        }
+      ]
+    },
+    {
+      "paperId": "11bf24ebf253854f6f866ba20d1956721b5ad58c",
+      "externalIds": {
+        "MAG": "2788746147",
+        "DBLP": "journals/corr/abs-1802-06355",
+        "CorpusId": 86574105
+      },
+      "url": "https://www.semanticscholar.org/paper/11bf24ebf253854f6f866ba20d1956721b5ad58c",
+      "title": "Optimizing Spectral Sums using Randomized Chebyshev Expansions",
+      "venue": "arXiv.org",
+      "year": 2018,
+      "referenceCount": 39,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2237714",
+          "name": "Insu Han"
+        },
+        {
+          "authorId": "1922753",
+          "name": "H. Avron"
+        },
+        {
+          "authorId": "143720148",
+          "name": "Jinwoo Shin"
+        }
+      ]
+    },
+    {
+      "paperId": "57d65a24c6a6ee98040267486276277b56a68c95",
+      "externalIds": {
+        "DBLP": "journals/corr/HanMAS16",
+        "ArXiv": "1606.00942",
+        "MAG": "2415342963",
+        "CorpusId": 2092898
+      },
+      "url": "https://www.semanticscholar.org/paper/57d65a24c6a6ee98040267486276277b56a68c95",
+      "title": "Approximating the Spectral Sums of Large-scale Matrices using Chebyshev Approximations",
+      "venue": "arXiv.org",
+      "year": 2016,
+      "referenceCount": 50,
+      "citationCount": 24,
+      "authors": [
+        {
+          "authorId": "2237714",
+          "name": "Insu Han"
+        },
+        {
+          "authorId": "1688721",
+          "name": "D. Malioutov"
+        },
+        {
+          "authorId": "1922753",
+          "name": "H. Avron"
+        },
+        {
+          "authorId": "143720148",
+          "name": "Jinwoo Shin"
+        }
+      ]
+    },
+    {
+      "paperId": "6c70cbdb16910a9d279f79b6e959990e0e0a2b9c",
+      "externalIds": {
+        "ArXiv": "1702.08159",
+        "MAG": "2796032736",
+        "CorpusId": 86825958
+      },
+      "url": "https://www.semanticscholar.org/paper/6c70cbdb16910a9d279f79b6e959990e0e0a2b9c",
+      "title": "McKernel: A Library for Approximate Kernel Expansions in Log-linear Time",
+      "venue": "",
+      "year": 2017,
+      "referenceCount": 49,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "40978371",
+          "name": "J. Curtò"
+        },
+        {
+          "authorId": "41077575",
+          "name": "I. Zarza"
+        },
+        {
+          "authorId": "2008275529",
+          "name": "Feng Yang"
+        },
+        {
+          "authorId": "46234526",
+          "name": "Alex Smola"
+        },
+        {
+          "authorId": "143867160",
+          "name": "F. D. L. Torre"
+        },
+        {
+          "authorId": "143977389",
+          "name": "C. Ngo"
+        },
+        {
+          "authorId": "1681236",
+          "name": "L. Gool"
+        }
+      ]
+    },
+    {
+      "paperId": "0cc202d05269aa2f49769b18181d22e8d88ed3a5",
+      "externalIds": {
+        "MAG": "2914369315",
+        "CorpusId": 4398674
+      },
+      "url": "https://www.semanticscholar.org/paper/0cc202d05269aa2f49769b18181d22e8d88ed3a5",
+      "title": "McKernel: Approximate Kernel Expansions in Log-linear Time through Randomization",
+      "venue": "",
+      "year": 2017,
+      "referenceCount": 51,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "40978371",
+          "name": "J. Curtò"
+        },
+        {
+          "authorId": "15161300",
+          "name": "H. Zarza"
+        },
+        {
+          "authorId": "2211875693",
+          "name": "T. Kim"
+        }
+      ]
+    },
+    {
+      "paperId": "29657d27b91982b5927779bf0d2f1cfa28f7dfc2",
+      "externalIds": {
+        "ArXiv": "2512.04860",
+        "CorpusId": 283557093
+      },
+      "url": "https://www.semanticscholar.org/paper/29657d27b91982b5927779bf0d2f1cfa28f7dfc2",
+      "title": "Stochastic Density Functional Theory Through the Lens of Multilevel Monte Carlo Method",
+      "venue": "",
+      "year": 2025,
+      "referenceCount": 38,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2181627897",
+          "name": "Xue Quan"
+        },
+        {
+          "authorId": "2144200982",
+          "name": "Huajie Chen"
+        }
+      ]
+    }
+  ]
+}

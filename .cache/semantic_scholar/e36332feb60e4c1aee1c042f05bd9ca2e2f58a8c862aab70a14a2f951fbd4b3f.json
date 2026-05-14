@@ -1,0 +1,306 @@
+{
+  "total": 13069,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "680608e00f25b740f32f4a9701568fbf4621d829",
+      "externalIds": {
+        "MAG": "2953234161",
+        "ArXiv": "1602.06693",
+        "DBLP": "conf/icml/CutajarOCF16",
+        "CorpusId": 8507016
+      },
+      "url": "https://www.semanticscholar.org/paper/680608e00f25b740f32f4a9701568fbf4621d829",
+      "title": "Preconditioning Kernel Matrices",
+      "venue": "International Conference on Machine Learning",
+      "year": 2016,
+      "referenceCount": 34,
+      "citationCount": 79,
+      "authors": [
+        {
+          "authorId": "3428811",
+          "name": "Kurt Cutajar"
+        },
+        {
+          "authorId": "144484861",
+          "name": "Michael A. Osborne"
+        },
+        {
+          "authorId": "2575774",
+          "name": "J. Cunningham"
+        },
+        {
+          "authorId": "3138895",
+          "name": "M. Filippone"
+        }
+      ]
+    },
+    {
+      "paperId": "21f14e6532e81761a4c4873fc5e986677398d005",
+      "externalIds": {
+        "MAG": "2081060015",
+        "DBLP": "journals/siamsc/Chen13",
+        "DOI": "10.1137/120874527",
+        "CorpusId": 14222676
+      },
+      "url": "https://www.semanticscholar.org/paper/21f14e6532e81761a4c4873fc5e986677398d005",
+      "title": "On the Use of Discrete Laplace Operator for Preconditioning Kernel Matrices",
+      "venue": "SIAM Journal on Scientific Computing",
+      "year": 2013,
+      "referenceCount": 16,
+      "citationCount": 17,
+      "authors": [
+        {
+          "authorId": "47740650",
+          "name": "Jing Chen"
+        }
+      ]
+    },
+    {
+      "paperId": "3f657291ed8e4ab9fe58b9b49e980b1d62bacd30",
+      "externalIds": {
+        "ArXiv": "2407.06834",
+        "DBLP": "journals/siamis/MiniguanoTrujilloPG25",
+        "DOI": "10.48550/arXiv.2407.06834",
+        "CorpusId": 271064312
+      },
+      "url": "https://www.semanticscholar.org/paper/3f657291ed8e4ab9fe58b9b49e980b1d62bacd30",
+      "title": "Efficient nonlocal linear image denoising: Bilevel optimization with Nonequispaced Fast Fourier Transform and matrix-free preconditioning",
+      "venue": "SIAM Journal of Imaging Sciences",
+      "year": 2024,
+      "referenceCount": 105,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2259294125",
+          "name": "Andrés Miniguano-Trujillo"
+        },
+        {
+          "authorId": "2258928359",
+          "name": "John W. Pearson"
+        },
+        {
+          "authorId": "2258931981",
+          "name": "B. D. Goddard"
+        }
+      ]
+    },
+    {
+      "paperId": "402d02b2097dc177ae16ddb23673acbdb7dafc3a",
+      "externalIds": {
+        "DBLP": "conf/iccd/ZhangCM0ZL24",
+        "DOI": "10.1109/ICCD63220.2024.00084",
+        "CorpusId": 275281377
+      },
+      "url": "https://www.semanticscholar.org/paper/402d02b2097dc177ae16ddb23673acbdb7dafc3a",
+      "title": "MIST: Efficient Mixed-Precision Preconditioning Through Iterative Sparse- Triangular Solver Design",
+      "venue": "ICCD",
+      "year": 2024,
+      "referenceCount": 15,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2315578550",
+          "name": "Haoyuan Zhang"
+        },
+        {
+          "authorId": "2109265632",
+          "name": "Yidong Chen"
+        },
+        {
+          "authorId": "9294122",
+          "name": "Wenpeng Ma"
+        },
+        {
+          "authorId": "3195866",
+          "name": "Wu Yuan"
+        },
+        {
+          "authorId": "2241216009",
+          "name": "Jian Zhang"
+        },
+        {
+          "authorId": "2241076723",
+          "name": "Zhonghua Lu"
+        }
+      ]
+    },
+    {
+      "paperId": "b0d847f809f78ad4d46c139bd17fee64abcf4849",
+      "externalIds": {
+        "DOI": "10.3847/1538-4365/ae47f9",
+        "CorpusId": 286579258
+      },
+      "url": "https://www.semanticscholar.org/paper/b0d847f809f78ad4d46c139bd17fee64abcf4849",
+      "title": "SPIRIT Solver: Accelerating r-process Nucleosynthesis with Sparse Preconditioning",
+      "venue": "Astrophysical Journal Supplement Series",
+      "year": 2026,
+      "referenceCount": 45,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2400086635",
+          "name": "Nazeef"
+        },
+        {
+          "authorId": "2195838723",
+          "name": "Aditya Kumar"
+        },
+        {
+          "authorId": "2267545626",
+          "name": "C. Qi"
+        }
+      ]
+    },
+    {
+      "paperId": "b5ca949c9ba0f778c885754802bd0c6a252000fc",
+      "externalIds": {
+        "PubMedCentral": "10575942",
+        "DOI": "10.1038/s41598-023-44511-x",
+        "CorpusId": 264098810,
+        "PubMed": "37833460"
+      },
+      "url": "https://www.semanticscholar.org/paper/b5ca949c9ba0f778c885754802bd0c6a252000fc",
+      "title": "On the preconditioning of the primal form of TFOV-based image deblurring model",
+      "venue": "Scientific Reports",
+      "year": 2023,
+      "referenceCount": 54,
+      "citationCount": 9,
+      "authors": [
+        {
+          "authorId": "2145435895",
+          "name": "Junseok Kim"
+        },
+        {
+          "authorId": "144650113",
+          "name": "S. Ahmad"
+        }
+      ]
+    },
+    {
+      "paperId": "d629876aee75d1264c2ba4b1c9f59d4e9b61b132",
+      "externalIds": {
+        "MAG": "1483999018",
+        "DBLP": "journals/nla/Al-FhaidCSU14",
+        "DOI": "10.1002/nla.1922",
+        "CorpusId": 17699695
+      },
+      "url": "https://www.semanticscholar.org/paper/d629876aee75d1264c2ba4b1c9f59d4e9b61b132",
+      "title": "Singular‐value (and eigenvalue) distribution and Krylov preconditioning of sequences of sampling matrices approximating integral operators",
+      "venue": "Numerical Linear Algebra with Applications",
+      "year": 2014,
+      "referenceCount": 29,
+      "citationCount": 31,
+      "authors": [
+        {
+          "authorId": "1412901357",
+          "name": "A. Al-Fhaid"
+        },
+        {
+          "authorId": "2316206500",
+          "name": "Stefano Serra-Capizzano"
+        },
+        {
+          "authorId": "3278896",
+          "name": "Debora Sesana"
+        },
+        {
+          "authorId": "1995798",
+          "name": "M. Z. Ullah"
+        }
+      ]
+    },
+    {
+      "paperId": "3053ef4552efc9de02507a6d6c4f5e13c4997b73",
+      "externalIds": {
+        "ArXiv": "2107.00243",
+        "DBLP": "conf/icml/WengerPHCG22",
+        "CorpusId": 246431272
+      },
+      "url": "https://www.semanticscholar.org/paper/3053ef4552efc9de02507a6d6c4f5e13c4997b73",
+      "title": "Preconditioning for Scalable Gaussian Process Hyperparameter Optimization",
+      "venue": "International Conference on Machine Learning",
+      "year": 2021,
+      "referenceCount": 58,
+      "citationCount": 36,
+      "authors": [
+        {
+          "authorId": "2057706926",
+          "name": "Jonathan Wenger"
+        },
+        {
+          "authorId": "10804137",
+          "name": "Geoff Pleiss"
+        },
+        {
+          "authorId": "2517795",
+          "name": "Philipp Hennig"
+        },
+        {
+          "authorId": "2575774",
+          "name": "J. Cunningham"
+        },
+        {
+          "authorId": "31693738",
+          "name": "J. Gardner"
+        }
+      ]
+    },
+    {
+      "paperId": "2e1da4331e1489857b52d47c703260086e6170aa",
+      "externalIds": {
+        "MAG": "3101916874",
+        "ArXiv": "2011.07632",
+        "DBLP": "journals/siammax/XingHC21",
+        "DOI": "10.1137/20M1365776",
+        "CorpusId": 226965015
+      },
+      "url": "https://www.semanticscholar.org/paper/2e1da4331e1489857b52d47c703260086e6170aa",
+      "title": "Efficient construction of an HSS preconditioner for symmetric positive definite H2 matrices",
+      "venue": "SIAM Journal on Matrix Analysis and Applications",
+      "year": 2020,
+      "referenceCount": 37,
+      "citationCount": 6,
+      "authors": [
+        {
+          "authorId": "144062928",
+          "name": "Xin Xing"
+        },
+        {
+          "authorId": "2146052976",
+          "name": "Hua Huang"
+        },
+        {
+          "authorId": "144652203",
+          "name": "Edmond Chow"
+        }
+      ]
+    },
+    {
+      "paperId": "df26c27051f77c97685ff31b587c4d6bb40a16fb",
+      "externalIds": {
+        "MAG": "2947042813",
+        "DBLP": "journals/jcphy/RostamiO19",
+        "DOI": "10.1016/J.JCP.2019.05.042",
+        "CorpusId": 191186398
+      },
+      "url": "https://www.semanticscholar.org/paper/df26c27051f77c97685ff31b587c4d6bb40a16fb",
+      "title": "Fast algorithms for large dense matrices with applications to biofluids",
+      "venue": "Journal of Computational Physics",
+      "year": 2019,
+      "referenceCount": 119,
+      "citationCount": 11,
+      "authors": [
+        {
+          "authorId": "2843355",
+          "name": "Minghao W. Rostami"
+        },
+        {
+          "authorId": "40029398",
+          "name": "Sarah D. Olson"
+        }
+      ]
+    }
+  ]
+}

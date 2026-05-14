@@ -1,0 +1,294 @@
+{
+  "total": 25,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "0f7c85357c366b314b5b55c400869a62fd23372c",
+      "externalIds": {
+        "DBLP": "conf/icml/HardtRS16",
+        "ArXiv": "1509.01240",
+        "MAG": "2950430485",
+        "CorpusId": 49015
+      },
+      "url": "https://www.semanticscholar.org/paper/0f7c85357c366b314b5b55c400869a62fd23372c",
+      "title": "Train faster, generalize better: Stability of stochastic gradient descent",
+      "venue": "International Conference on Machine Learning",
+      "year": 2015,
+      "referenceCount": 52,
+      "citationCount": 1400,
+      "authors": [
+        {
+          "authorId": "1775622",
+          "name": "Moritz Hardt"
+        },
+        {
+          "authorId": "9229182",
+          "name": "B. Recht"
+        },
+        {
+          "authorId": "1740765",
+          "name": "Y. Singer"
+        }
+      ]
+    },
+    {
+      "paperId": "acbb4495dd698b3190db6899d7d35b0817e0a85e",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2010-12561",
+        "ArXiv": "2010.12561",
+        "MAG": "3094535871",
+        "CorpusId": 225061829
+      },
+      "url": "https://www.semanticscholar.org/paper/acbb4495dd698b3190db6899d7d35b0817e0a85e",
+      "title": "Train simultaneously, generalize better: Stability of gradient-based minimax learners",
+      "venue": "International Conference on Machine Learning",
+      "year": 2020,
+      "referenceCount": 83,
+      "citationCount": 55,
+      "authors": [
+        {
+          "authorId": "2614803",
+          "name": "Farzan Farnia"
+        },
+        {
+          "authorId": "145744184",
+          "name": "A. Ozdaglar"
+        }
+      ]
+    },
+    {
+      "paperId": "ecb356505e7bdc4e82347df33696668b604f7a91",
+      "externalIds": {
+        "ArXiv": "2208.02208",
+        "DBLP": "journals/corr/abs-2208-02208",
+        "DOI": "10.1007/s11075-023-01621-x",
+        "CorpusId": 251280082
+      },
+      "url": "https://www.semanticscholar.org/paper/ecb356505e7bdc4e82347df33696668b604f7a91",
+      "title": "SGEM: stochastic gradient with energy and momentum",
+      "venue": "Numerical Algorithms",
+      "year": 2022,
+      "referenceCount": 43,
+      "citationCount": 4,
+      "authors": [
+        {
+          "authorId": "2109527698",
+          "name": "Hailiang Liu"
+        },
+        {
+          "authorId": "2117127998",
+          "name": "Xuping Tian"
+        }
+      ]
+    },
+    {
+      "paperId": "84ef073a5c4113e980f2fc3475e07443afa02ff3",
+      "externalIds": {
+        "ArXiv": "2108.07414",
+        "DBLP": "journals/corr/abs-2108-07414",
+        "DOI": "10.24963/ijcai.2021/427",
+        "CorpusId": 237100380
+      },
+      "url": "https://www.semanticscholar.org/paper/84ef073a5c4113e980f2fc3475e07443afa02ff3",
+      "title": "Stability and Generalization for Randomized Coordinate Descent",
+      "venue": "International Joint Conference on Artificial Intelligence",
+      "year": 2021,
+      "referenceCount": 41,
+      "citationCount": 7,
+      "authors": [
+        {
+          "authorId": "51227748",
+          "name": "Puyu Wang"
+        },
+        {
+          "authorId": "2148952330",
+          "name": "Liang Wu"
+        },
+        {
+          "authorId": "2365013",
+          "name": "Yunwen Lei"
+        }
+      ]
+    },
+    {
+      "paperId": "90317b9e8a425aa72ba0b7fa9a417eba21225fc7",
+      "externalIds": {
+        "PubMedCentral": "9184190",
+        "DOI": "10.1155/2022/9337209",
+        "CorpusId": 249348684,
+        "PubMed": "35694581"
+      },
+      "url": "https://www.semanticscholar.org/paper/90317b9e8a425aa72ba0b7fa9a417eba21225fc7",
+      "title": "Online Learning for DNN Training: A Stochastic Block Adaptive Gradient Algorithm",
+      "venue": "Computational Intelligence and Neuroscience",
+      "year": 2022,
+      "referenceCount": 38,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "2119612430",
+          "name": "Jianghui Liu"
+        },
+        {
+          "authorId": "2155983483",
+          "name": "Baozhu Li"
+        },
+        {
+          "authorId": "2145498691",
+          "name": "Yangfan Zhou"
+        },
+        {
+          "authorId": "51178617",
+          "name": "Xuhui Zhao"
+        },
+        {
+          "authorId": "144646645",
+          "name": "Junlong Zhu"
+        },
+        {
+          "authorId": "1680884",
+          "name": "Mingchuan Zhang"
+        }
+      ]
+    },
+    {
+      "paperId": "55403aa348bde7e445e3710a64833b2ce9a0a71b",
+      "externalIds": {
+        "MAG": "2944926927",
+        "ArXiv": "1905.09899",
+        "DBLP": "journals/corr/abs-1905-09899",
+        "CorpusId": 165163833
+      },
+      "url": "https://www.semanticscholar.org/paper/55403aa348bde7e445e3710a64833b2ce9a0a71b",
+      "title": "Blockwise Adaptivity: Faster Training and Better Generalization in Deep Learning",
+      "venue": "arXiv.org",
+      "year": 2019,
+      "referenceCount": 44,
+      "citationCount": 5,
+      "authors": [
+        {
+          "authorId": "37748242",
+          "name": "Shuai Zheng"
+        },
+        {
+          "authorId": "145193332",
+          "name": "J. Kwok"
+        }
+      ]
+    },
+    {
+      "paperId": "a685fd89b71318f87b1637eac55475ca76ac1cb1",
+      "externalIds": {
+        "ArXiv": "2509.16173",
+        "DBLP": "journals/corr/abs-2509-16173",
+        "DOI": "10.48550/arXiv.2509.16173",
+        "CorpusId": 281410862
+      },
+      "url": "https://www.semanticscholar.org/paper/a685fd89b71318f87b1637eac55475ca76ac1cb1",
+      "title": "DIVEBATCH: Accelerating Model Training Through Gradient-Diversity Aware Batch Size Adaptation",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "referenceCount": 32,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2363209785",
+          "name": "Yuen Chen"
+        },
+        {
+          "authorId": "2362457817",
+          "name": "Yian Wang"
+        },
+        {
+          "authorId": "2286872371",
+          "name": "Hari Sundaram"
+        }
+      ]
+    },
+    {
+      "paperId": "1e13454c3388ccc2ae44ff307979256b09bed1bf",
+      "externalIds": {
+        "MAG": "2949934631",
+        "ArXiv": "1905.03817",
+        "DBLP": "journals/corr/abs-1905-03817",
+        "CorpusId": 150373664
+      },
+      "url": "https://www.semanticscholar.org/paper/1e13454c3388ccc2ae44ff307979256b09bed1bf",
+      "title": "On the Linear Speedup Analysis of Communication Efficient Momentum SGD for Distributed Non-Convex Optimization",
+      "venue": "International Conference on Machine Learning",
+      "year": 2019,
+      "referenceCount": 43,
+      "citationCount": 430,
+      "authors": [
+        {
+          "authorId": "38713459",
+          "name": "Hao Yu"
+        },
+        {
+          "authorId": "144723884",
+          "name": "Rong Jin"
+        },
+        {
+          "authorId": "2140181029",
+          "name": "Sen Yang"
+        }
+      ]
+    },
+    {
+      "paperId": "c7d92fe0100f4b953cffb34f1202e2758bf14941",
+      "externalIds": {
+        "DOI": "10.1109/ICISS67859.2026.11454102",
+        "CorpusId": 287030670
+      },
+      "url": "https://www.semanticscholar.org/paper/c7d92fe0100f4b953cffb34f1202e2758bf14941",
+      "title": "Suspicious Login Detection Using Machine Learning Under a Federated Learning Framework",
+      "venue": "International Conferences on Information Science and System",
+      "year": 2026,
+      "referenceCount": 20,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2150694433",
+          "name": "P. Jain"
+        },
+        {
+          "authorId": null,
+          "name": "Shabari Shedthi B"
+        }
+      ]
+    },
+    {
+      "paperId": "11fe37ab6faf6bf85ad2f5746c154dec5412bd04",
+      "externalIds": {
+        "DBLP": "conf/iclr/DettmersLSZ22",
+        "ArXiv": "2110.02861",
+        "CorpusId": 238408308
+      },
+      "url": "https://www.semanticscholar.org/paper/11fe37ab6faf6bf85ad2f5746c154dec5412bd04",
+      "title": "8-bit Optimizers via Block-wise Quantization",
+      "venue": "International Conference on Learning Representations",
+      "year": 2021,
+      "referenceCount": 70,
+      "citationCount": 447,
+      "authors": [
+        {
+          "authorId": "3239480",
+          "name": "Tim Dettmers"
+        },
+        {
+          "authorId": "35084211",
+          "name": "M. Lewis"
+        },
+        {
+          "authorId": "88728159",
+          "name": "Sam Shleifer"
+        },
+        {
+          "authorId": "1982950",
+          "name": "Luke Zettlemoyer"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,335 @@
+{
+  "total": 56,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "b09ae5a34d8d338b67e466e6d5c2cdff6c798fc7",
+      "externalIds": {
+        "ArXiv": "2604.20078",
+        "DBLP": "conf/icml/CalandrielloKLV18",
+        "MAG": "2804623667",
+        "CorpusId": 51867607
+      },
+      "url": "https://www.semanticscholar.org/paper/b09ae5a34d8d338b67e466e6d5c2cdff6c798fc7",
+      "title": "Improved Large-Scale Graph Learning through Ridge Spectral Sparsification",
+      "venue": "International Conference on Machine Learning",
+      "year": 2018,
+      "referenceCount": 35,
+      "citationCount": 40,
+      "authors": [
+        {
+          "authorId": "2439765",
+          "name": "Daniele Calandriello"
+        },
+        {
+          "authorId": "2262243",
+          "name": "I. Koutis"
+        },
+        {
+          "authorId": "3254390",
+          "name": "A. Lazaric"
+        },
+        {
+          "authorId": "1806291",
+          "name": "Michal Valko"
+        }
+      ]
+    },
+    {
+      "paperId": "a45e5dfe0f3caf18e124672642287333f2c6177b",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2501-04570",
+        "ArXiv": "2501.04570",
+        "DOI": "10.1145/3690624.3709241",
+        "CorpusId": 275358358
+      },
+      "url": "https://www.semanticscholar.org/paper/a45e5dfe0f3caf18e124672642287333f2c6177b",
+      "title": "Large-Scale Spectral Graph Neural Networks via Laplacian Sparsification",
+      "venue": "Knowledge Discovery and Data Mining",
+      "year": 2025,
+      "referenceCount": 59,
+      "citationCount": 4,
+      "authors": [
+        {
+          "authorId": "2113455170",
+          "name": "Haipeng Ding"
+        },
+        {
+          "authorId": "2265516009",
+          "name": "Zhewei Wei"
+        },
+        {
+          "authorId": "2335106348",
+          "name": "Yuhang Ye"
+        }
+      ]
+    },
+    {
+      "paperId": "5b0409ea71cfe84e3948f894c37382637a30f7e9",
+      "externalIds": {
+        "DBLP": "journals/access/LuZHW25",
+        "DOI": "10.1109/ACCESS.2025.3532806",
+        "CorpusId": 275845855
+      },
+      "url": "https://www.semanticscholar.org/paper/5b0409ea71cfe84e3948f894c37382637a30f7e9",
+      "title": "Graph Convolution for Large-Scale Graph Node Classification Task Based on Spatial and Frequency Domain Fusion",
+      "venue": "IEEE Access",
+      "year": 2025,
+      "referenceCount": 49,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "2338570112",
+          "name": "Junwen Lu"
+        },
+        {
+          "authorId": "2338960163",
+          "name": "Lingrui Zheng"
+        },
+        {
+          "authorId": "1657605540",
+          "name": "Xianmei Hua"
+        },
+        {
+          "authorId": "2341827925",
+          "name": "Yankun Wang"
+        }
+      ]
+    },
+    {
+      "paperId": "41bd88188a629b25d171c96569d613e53e56cf8b",
+      "externalIds": {
+        "DBLP": "journals/tkde/KongXNL25",
+        "DOI": "10.1109/TKDE.2025.3533040",
+        "CorpusId": 275873539
+      },
+      "url": "https://www.semanticscholar.org/paper/41bd88188a629b25d171c96569d613e53e56cf8b",
+      "title": "Direct Spectral Clustering With New Graph Learning for Better Fitting",
+      "venue": "IEEE Transactions on Knowledge and Data Engineering",
+      "year": 2025,
+      "referenceCount": 45,
+      "citationCount": 5,
+      "authors": [
+        {
+          "authorId": "2321490653",
+          "name": "Lingyi Kong"
+        },
+        {
+          "authorId": "2067732917",
+          "name": "Jingjing Xue"
+        },
+        {
+          "authorId": "2288352054",
+          "name": "Feiping Nie"
+        },
+        {
+          "authorId": "2155784134",
+          "name": "Xuelong Li"
+        }
+      ]
+    },
+    {
+      "paperId": "11f97f484b07789fd4fb9a355fefeb08f185a7fe",
+      "externalIds": {
+        "DBLP": "journals/tois/WangGYSYL26",
+        "ArXiv": "2507.07436",
+        "DOI": "10.1145/3779448",
+        "CorpusId": 280255059
+      },
+      "url": "https://www.semanticscholar.org/paper/11f97f484b07789fd4fb9a355fefeb08f185a7fe",
+      "title": "When Graph Contrastive Learning Backfires: Spectral Vulnerability and Defense in Recommendation",
+      "venue": "ACM Trans. Inf. Syst.",
+      "year": 2025,
+      "referenceCount": 67,
+      "citationCount": 5,
+      "authors": [
+        {
+          "authorId": "2040449292",
+          "name": "Zongwei Wang"
+        },
+        {
+          "authorId": "2155431892",
+          "name": "Min Gao"
+        },
+        {
+          "authorId": "28584977",
+          "name": "Junliang Yu"
+        },
+        {
+          "authorId": "2268756599",
+          "name": "S. Sadiq"
+        },
+        {
+          "authorId": "2260297841",
+          "name": "Hongzhi Yin"
+        },
+        {
+          "authorId": "2213648984",
+          "name": "Ling Liu"
+        }
+      ]
+    },
+    {
+      "paperId": "4bcadcd5e2f645cab495ec5e39793280185e4515",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2506-09920",
+        "ArXiv": "2506.09920",
+        "DOI": "10.1109/TIP.2025.3636098",
+        "CorpusId": 279305624,
+        "PubMed": "41329583"
+      },
+      "url": "https://www.semanticscholar.org/paper/4bcadcd5e2f645cab495ec5e39793280185e4515",
+      "title": "Structural-Spectral Graph Convolution With Evidential Edge Learning for Hyperspectral Image Clustering",
+      "venue": "IEEE Transactions on Image Processing",
+      "year": 2025,
+      "referenceCount": 71,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2290032105",
+          "name": "Jianhan Qi"
+        },
+        {
+          "authorId": "2779478",
+          "name": "Yuheng Jia"
+        },
+        {
+          "authorId": "2146673352",
+          "name": "Hui Liu"
+        },
+        {
+          "authorId": "2290131954",
+          "name": "Junhui Hou"
+        }
+      ]
+    },
+    {
+      "paperId": "3ef8342f72d52d869703f424f85a01fc2a49008b",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2502-19823",
+        "ArXiv": "2502.19823",
+        "DOI": "10.14778/3734839.3734862",
+        "CorpusId": 276647933
+      },
+      "url": "https://www.semanticscholar.org/paper/3ef8342f72d52d869703f424f85a01fc2a49008b",
+      "title": "GraphSparseNet: a Novel Method for Large Scale Trafffic Flow Prediction",
+      "venue": "Proceedings of the VLDB Endowment",
+      "year": 2025,
+      "referenceCount": 42,
+      "citationCount": 4,
+      "authors": [
+        {
+          "authorId": "2066391996",
+          "name": "Weiyang Kong"
+        },
+        {
+          "authorId": "2347675181",
+          "name": "Kaiqi Wu"
+        },
+        {
+          "authorId": "2267875900",
+          "name": "Sen Zhang"
+        },
+        {
+          "authorId": "2265721901",
+          "name": "Yubao Liu"
+        }
+      ]
+    },
+    {
+      "paperId": "092c499a4fc84d8490e5fae7b180099760b35d41",
+      "externalIds": {
+        "ArXiv": "1911.10373",
+        "MAG": "2991229522",
+        "DBLP": "journals/corr/abs-1911-10373",
+        "CorpusId": 208268304
+      },
+      "url": "https://www.semanticscholar.org/paper/092c499a4fc84d8490e5fae7b180099760b35d41",
+      "title": "GRASPEL: Graph Spectral Learning at Scale",
+      "venue": "arXiv.org",
+      "year": 2019,
+      "referenceCount": 51,
+      "citationCount": 4,
+      "authors": [
+        {
+          "authorId": "2108004276",
+          "name": "Yongyu Wang"
+        },
+        {
+          "authorId": "152254310",
+          "name": "Zhiqiang Zhao"
+        },
+        {
+          "authorId": "145774084",
+          "name": "Zhuo Feng"
+        }
+      ]
+    },
+    {
+      "paperId": "bf3b8ce0192c902fc6f0b813e273e3afd5dd23fd",
+      "externalIds": {
+        "DBLP": "journals/jcisd/JalaliWFW25",
+        "DOI": "10.1021/acs.jcim.5c01518",
+        "CorpusId": 281701671,
+        "PubMed": "41031749"
+      },
+      "url": "https://www.semanticscholar.org/paper/bf3b8ce0192c902fc6f0b813e273e3afd5dd23fd",
+      "title": "The Black Hole Strategy: Gravity-Based Representative Sampling for Frugal Graph Learning on Metal-Organic Framework Networks",
+      "venue": "Journal of Chemical Information and Modeling",
+      "year": 2025,
+      "referenceCount": 29,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "2257024359",
+          "name": "Mehrdad Jalali"
+        },
+        {
+          "authorId": "2257024101",
+          "name": "A. D. D. Wonanke"
+        },
+        {
+          "authorId": "2279306964",
+          "name": "Pascal Friederich"
+        },
+        {
+          "authorId": "2257020513",
+          "name": "Christof Wöll"
+        }
+      ]
+    },
+    {
+      "paperId": "2272e403b9f9533ef92519b93631b24a1ef23297",
+      "externalIds": {
+        "DBLP": "journals/tgrs/SongZYW25",
+        "DOI": "10.1109/TGRS.2025.3606011",
+        "CorpusId": 281167400
+      },
+      "url": "https://www.semanticscholar.org/paper/2272e403b9f9533ef92519b93631b24a1ef23297",
+      "title": "Multifeatures Graph-Cut Algorithm for Extraction of Buildings From Large-Scale Urban LiDAR Data",
+      "venue": "IEEE Transactions on Geoscience and Remote Sensing",
+      "year": 2025,
+      "referenceCount": 68,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2113347405",
+          "name": "B. Song"
+        },
+        {
+          "authorId": "2258093369",
+          "name": "Guoqing Zhou"
+        },
+        {
+          "authorId": "48731185",
+          "name": "Tao Yue"
+        },
+        {
+          "authorId": "2115979518",
+          "name": "Qingyang Wang"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,287 @@
+{
+  "total": 18,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "14606fb0051ee8f83e4b2ff43983f94c179ba40d",
+      "externalIds": {
+        "DBLP": "conf/icml/Pike-Burke0SG18",
+        "MAG": "2952602198",
+        "CorpusId": 46754044
+      },
+      "url": "https://www.semanticscholar.org/paper/14606fb0051ee8f83e4b2ff43983f94c179ba40d",
+      "title": "Bandits with Delayed, Aggregated Anonymous Feedback",
+      "venue": "International Conference on Machine Learning",
+      "year": 2017,
+      "referenceCount": 18,
+      "citationCount": 126,
+      "authors": [
+        {
+          "authorId": "1403722242",
+          "name": "Ciara Pike-Burke"
+        },
+        {
+          "authorId": "1703744",
+          "name": "Shipra Agrawal"
+        },
+        {
+          "authorId": "40868287",
+          "name": "Csaba Szepesvari"
+        },
+        {
+          "authorId": "1688482",
+          "name": "S. Grünewälder"
+        }
+      ]
+    },
+    {
+      "paperId": "75e37cbd950ff346be50c6aa0126ad1dd5a67df7",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-1910-01161",
+        "MAG": "2977548457",
+        "ArXiv": "1910.01161",
+        "CorpusId": 203641774
+      },
+      "url": "https://www.semanticscholar.org/paper/75e37cbd950ff346be50c6aa0126ad1dd5a67df7",
+      "title": "Stochastic Bandits with Delayed Composite Anonymous Feedback",
+      "venue": "arXiv.org",
+      "year": 2019,
+      "referenceCount": 19,
+      "citationCount": 9,
+      "authors": [
+        {
+          "authorId": "2295877",
+          "name": "Siddhant Garg"
+        },
+        {
+          "authorId": "2411304",
+          "name": "Aditya Kumar Akash"
+        }
+      ]
+    },
+    {
+      "paperId": "323e4176b6e4688f28c2dd8ea40077900cf8d132",
+      "externalIds": {
+        "DBLP": "conf/dis/JuniorMH22",
+        "DOI": "10.1007/978-3-031-18840-4_9",
+        "CorpusId": 253448755
+      },
+      "url": "https://www.semanticscholar.org/paper/323e4176b6e4688f28c2dd8ea40077900cf8d132",
+      "title": "Policy Evaluation with Delayed, Aggregated Anonymous Feedback",
+      "venue": "IFIP Working Conference on Database Semantics",
+      "year": 2022,
+      "referenceCount": 0,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2190436279",
+          "name": "Guilherme Dinis Junior"
+        },
+        {
+          "authorId": "31783616",
+          "name": "S. Magnússon"
+        },
+        {
+          "authorId": "2190436230",
+          "name": "Jaakko Hollmén"
+        }
+      ]
+    },
+    {
+      "paperId": "b45c4e8f16c943419db7f677ae46b7efc7b3acfe",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2303-13604",
+        "ArXiv": "2303.13604",
+        "DOI": "10.1109/TAI.2025.3527375",
+        "CorpusId": 257756863
+      },
+      "url": "https://www.semanticscholar.org/paper/b45c4e8f16c943419db7f677ae46b7efc7b3acfe",
+      "title": "Stochastic Submodular Bandits With Delayed Composite Anonymous Bandit Feedback",
+      "venue": "IEEE Transactions on Artificial Intelligence",
+      "year": 2023,
+      "referenceCount": 32,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "80260423",
+          "name": "M. Pedramfar"
+        },
+        {
+          "authorId": "1732805",
+          "name": "V. Aggarwal"
+        }
+      ]
+    },
+    {
+      "paperId": "b08432a1eeb56d6ef8adf6edc305df9a381f2a0d",
+      "externalIds": {
+        "DBLP": "conf/ijcai/WanS022",
+        "ArXiv": "2204.12764",
+        "DOI": "10.48550/arXiv.2204.12764",
+        "CorpusId": 248405772
+      },
+      "url": "https://www.semanticscholar.org/paper/b08432a1eeb56d6ef8adf6edc305df9a381f2a0d",
+      "title": "Bounded Memory Adversarial Bandits with Composite Anonymous Delayed Feedback",
+      "venue": "International Joint Conference on Artificial Intelligence",
+      "year": 2022,
+      "referenceCount": 29,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2163587966",
+          "name": "Zongqi Wan"
+        },
+        {
+          "authorId": "9433084",
+          "name": "Xiaoming Sun"
+        },
+        {
+          "authorId": "2135763183",
+          "name": "Jialin Zhang"
+        }
+      ]
+    },
+    {
+      "paperId": "43b54ff0b3ab333664856ead0ede60213848221a",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-1709-06853",
+        "ArXiv": "1709.06853",
+        "MAG": "2759898015",
+        "CorpusId": 126048844
+      },
+      "url": "https://www.semanticscholar.org/paper/43b54ff0b3ab333664856ead0ede60213848221a",
+      "title": "Bandits with Delayed Anonymous Feedback",
+      "venue": "arXiv.org",
+      "year": 2017,
+      "referenceCount": 19,
+      "citationCount": 9,
+      "authors": [
+        {
+          "authorId": "1403722242",
+          "name": "Ciara Pike-Burke"
+        },
+        {
+          "authorId": "1703744",
+          "name": "Shipra Agrawal"
+        },
+        {
+          "authorId": "40868287",
+          "name": "Csaba Szepesvari"
+        },
+        {
+          "authorId": "1688482",
+          "name": "S. Grünewälder"
+        }
+      ]
+    },
+    {
+      "paperId": "54c55f6e0bf712999b5bd2d36616c3c52a360285",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2510-09127",
+        "ArXiv": "2510.09127",
+        "DOI": "10.48550/arXiv.2510.09127",
+        "CorpusId": 282055570
+      },
+      "url": "https://www.semanticscholar.org/paper/54c55f6e0bf712999b5bd2d36616c3c52a360285",
+      "title": "Regret Bounds for Adversarial Contextual Bandits with General Function Approximation and Delayed Feedback",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "referenceCount": 43,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "2156929242",
+          "name": "Orin Levy"
+        },
+        {
+          "authorId": "2120142205",
+          "name": "Liad Erez"
+        },
+        {
+          "authorId": "2268322814",
+          "name": "Alon Cohen"
+        },
+        {
+          "authorId": "2271163279",
+          "name": "Yishay Mansour"
+        }
+      ]
+    },
+    {
+      "paperId": "01c149cd3787908ce0cf81d7a5c534ddc3ef588d",
+      "externalIds": {
+        "DBLP": "conf/pkdd/JuniorMH24",
+        "DOI": "10.1007/978-3-031-70365-2_23",
+        "CorpusId": 272554993
+      },
+      "url": "https://www.semanticscholar.org/paper/01c149cd3787908ce0cf81d7a5c534ddc3ef588d",
+      "title": "Policy Control with Delayed, Aggregate, and Anonymous Feedback",
+      "venue": "ECML/PKDD",
+      "year": 2024,
+      "referenceCount": 0,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2190436279",
+          "name": "Guilherme Dinis Junior"
+        },
+        {
+          "authorId": "2255508572",
+          "name": "Sindri Magnússon"
+        },
+        {
+          "authorId": "2190436230",
+          "name": "Jaakko Hollmén"
+        }
+      ]
+    },
+    {
+      "paperId": "b6c2b0d22920509b0d8dee1f1b55dfad372b9aa5",
+      "externalIds": {
+        "MAG": "2808053666",
+        "DBLP": "conf/colt/Cesa-BianchiGM18",
+        "ArXiv": "2112.02866",
+        "CorpusId": 47021522
+      },
+      "url": "https://www.semanticscholar.org/paper/b6c2b0d22920509b0d8dee1f1b55dfad372b9aa5",
+      "title": "Nonstochastic Bandits with Composite Anonymous Feedback",
+      "venue": "Annual Conference Computational Learning Theory",
+      "year": 2018,
+      "referenceCount": 40,
+      "citationCount": 44,
+      "authors": [
+        {
+          "authorId": "1388387856",
+          "name": "N. Cesa-Bianchi"
+        },
+        {
+          "authorId": "1895207",
+          "name": "C. Gentile"
+        },
+        {
+          "authorId": "144830983",
+          "name": "Y. Mansour"
+        }
+      ]
+    },
+    {
+      "paperId": "f4c6542a9ba20d75def8423d2a503e8498e8b007",
+      "externalIds": {
+        "CorpusId": 51997249
+      },
+      "url": "https://www.semanticscholar.org/paper/f4c6542a9ba20d75def8423d2a503e8498e8b007",
+      "title": "Nonstochastic bandits with anonymous feedback",
+      "venue": "",
+      "year": 2018,
+      "referenceCount": 0,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "1765923",
+          "name": "Nicolò Cesa-Bianchi"
+        }
+      ]
+    }
+  ]
+}

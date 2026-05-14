@@ -1,0 +1,424 @@
+{
+  "total": 96,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "82a262a2034b349abaa720c7f8229a0ef19e87cd",
+      "externalIds": {
+        "MAG": "2949532984",
+        "DBLP": "conf/icml/LiangLNMFGGJS18",
+        "CorpusId": 49546141
+      },
+      "url": "https://www.semanticscholar.org/paper/82a262a2034b349abaa720c7f8229a0ef19e87cd",
+      "title": "RLlib: Abstractions for Distributed Reinforcement Learning",
+      "venue": "International Conference on Machine Learning",
+      "year": 2017,
+      "referenceCount": 42,
+      "citationCount": 1019,
+      "authors": [
+        {
+          "authorId": "40274002",
+          "name": "Eric Liang"
+        },
+        {
+          "authorId": "3393220",
+          "name": "Richard Liaw"
+        },
+        {
+          "authorId": "34994156",
+          "name": "Robert Nishihara"
+        },
+        {
+          "authorId": "29912342",
+          "name": "Philipp Moritz"
+        },
+        {
+          "authorId": "145609073",
+          "name": "Roy Fox"
+        },
+        {
+          "authorId": "144344283",
+          "name": "Ken Goldberg"
+        },
+        {
+          "authorId": "49988044",
+          "name": "Joseph E. Gonzalez"
+        },
+        {
+          "authorId": "1694621",
+          "name": "Michael I. Jordan"
+        },
+        {
+          "authorId": "2316152880",
+          "name": "Ion Stoica"
+        }
+      ]
+    },
+    {
+      "paperId": "89c083315b3f7aef0b752ebcebb4d630ea31c0b2",
+      "externalIds": {
+        "MAG": "2795803694",
+        "CorpusId": 196009488
+      },
+      "url": "https://www.semanticscholar.org/paper/89c083315b3f7aef0b752ebcebb4d630ea31c0b2",
+      "title": "Ray RLlib: A Framework for Distributed Reinforcement Learning",
+      "venue": "",
+      "year": 2017,
+      "referenceCount": 23,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "40274002",
+          "name": "Eric Liang"
+        },
+        {
+          "authorId": "3393220",
+          "name": "Richard Liaw"
+        },
+        {
+          "authorId": "29912342",
+          "name": "Philipp Moritz"
+        },
+        {
+          "authorId": "34994156",
+          "name": "Robert Nishihara"
+        },
+        {
+          "authorId": "145609073",
+          "name": "Roy Fox"
+        },
+        {
+          "authorId": "144344283",
+          "name": "Ken Goldberg"
+        },
+        {
+          "authorId": "49988044",
+          "name": "Joseph E. Gonzalez"
+        },
+        {
+          "authorId": "1694621",
+          "name": "Michael I. Jordan"
+        },
+        {
+          "authorId": "2316152880",
+          "name": "Ion Stoica"
+        }
+      ]
+    },
+    {
+      "paperId": "2492ccc04932d87a07ae66b0e10b7ca37ef89693",
+      "externalIds": {
+        "DBLP": "conf/nips/LiangWLMGS21",
+        "ArXiv": "2011.12719",
+        "CorpusId": 240288385
+      },
+      "url": "https://www.semanticscholar.org/paper/2492ccc04932d87a07ae66b0e10b7ca37ef89693",
+      "title": "RLlib Flow: Distributed Reinforcement Learning is a Dataflow Problem",
+      "venue": "Neural Information Processing Systems",
+      "year": 2020,
+      "referenceCount": 32,
+      "citationCount": 30,
+      "authors": [
+        {
+          "authorId": "40274002",
+          "name": "Eric Liang"
+        },
+        {
+          "authorId": "1390573666",
+          "name": "Zhanghao Wu"
+        },
+        {
+          "authorId": "1491203133",
+          "name": "Michael Luo"
+        },
+        {
+          "authorId": "2066417952",
+          "name": "Sven Mika"
+        },
+        {
+          "authorId": "49988044",
+          "name": "Joseph E. Gonzalez"
+        },
+        {
+          "authorId": "2316152880",
+          "name": "Ion Stoica"
+        }
+      ]
+    },
+    {
+      "paperId": "8c1729752f45181b25f4ec9f2afad6b66224fc95",
+      "externalIds": {
+        "ArXiv": "2210.00882",
+        "DBLP": "conf/usenix/Zhu0CCCS0PC23",
+        "DOI": "10.48550/arXiv.2210.00882",
+        "CorpusId": 252683465
+      },
+      "url": "https://www.semanticscholar.org/paper/8c1729752f45181b25f4ec9f2afad6b66224fc95",
+      "title": "MSRL: Distributed Reinforcement Learning with Dataflow Fragments",
+      "venue": "USENIX Annual Technical Conference",
+      "year": 2022,
+      "referenceCount": 67,
+      "citationCount": 8,
+      "authors": [
+        {
+          "authorId": "40631017",
+          "name": "Huanzhou Zhu"
+        },
+        {
+          "authorId": "2143737977",
+          "name": "Bo Zhao"
+        },
+        {
+          "authorId": "2146662233",
+          "name": "Gang Chen"
+        },
+        {
+          "authorId": "2186861609",
+          "name": "Weifeng Chen"
+        },
+        {
+          "authorId": "1965873905",
+          "name": "Yijie Chen"
+        },
+        {
+          "authorId": "2153001292",
+          "name": "Liang Shi"
+        },
+        {
+          "authorId": "47796324",
+          "name": "Yaodong Yang"
+        },
+        {
+          "authorId": "1809586",
+          "name": "P. Pietzuch"
+        },
+        {
+          "authorId": "2146072566",
+          "name": "Lei Chen"
+        }
+      ]
+    },
+    {
+      "paperId": "9f176eca4e0cd4d1f52f13879f328cefc11b56b4",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2306-16688",
+        "ArXiv": "2306.16688",
+        "DOI": "10.48550/arXiv.2306.16688",
+        "CorpusId": 259287121
+      },
+      "url": "https://www.semanticscholar.org/paper/9f176eca4e0cd4d1f52f13879f328cefc11b56b4",
+      "title": "SRL: Scaling Distributed Reinforcement Learning to Over Ten Thousand Cores",
+      "venue": "International Conference on Learning Representations",
+      "year": 2023,
+      "referenceCount": 56,
+      "citationCount": 10,
+      "authors": [
+        {
+          "authorId": "2123991452",
+          "name": "Zhiyu Mei"
+        },
+        {
+          "authorId": "144188710",
+          "name": "Wei Fu"
+        },
+        {
+          "authorId": "2152585167",
+          "name": "Guang Wang"
+        },
+        {
+          "authorId": "2043439",
+          "name": "Huanchen Zhang"
+        },
+        {
+          "authorId": "2169946109",
+          "name": "Yi Wu"
+        }
+      ]
+    },
+    {
+      "paperId": "3b57cf0b3b3b9e250bc3c08ded905e2ef6208da5",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2402-15932",
+        "ArXiv": "2402.15932",
+        "DOI": "10.48550/arXiv.2402.15932",
+        "CorpusId": 267938484
+      },
+      "url": "https://www.semanticscholar.org/paper/3b57cf0b3b3b9e250bc3c08ded905e2ef6208da5",
+      "title": "Scalable Volt-VAR Optimization using RLlib-IMPALA Framework: A Reinforcement Learning Approach",
+      "venue": "arXiv.org",
+      "year": 2024,
+      "referenceCount": 15,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2273348718",
+          "name": "Alaa Selim"
+        },
+        {
+          "authorId": "2244206344",
+          "name": "Yanzhu Ye"
+        },
+        {
+          "authorId": "2023394",
+          "name": "Junbo Zhao"
+        },
+        {
+          "authorId": "2286878105",
+          "name": "Bo Yang"
+        }
+      ]
+    },
+    {
+      "paperId": "84e15cd6aae334a956a8e95e973a522a4f96f3d0",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2107-01460",
+        "CorpusId": 273191391
+      },
+      "url": "https://www.semanticscholar.org/paper/84e15cd6aae334a956a8e95e973a522a4f96f3d0",
+      "title": "Mava: a research framework for distributed multi-agent reinforcement learning",
+      "venue": "arXiv.org",
+      "year": 2021,
+      "referenceCount": 73,
+      "citationCount": 10,
+      "authors": [
+        {
+          "authorId": "38166712",
+          "name": "Arnu Pretorius"
+        },
+        {
+          "authorId": "2274105686",
+          "name": "K. Tessera"
+        },
+        {
+          "authorId": "2006422371",
+          "name": "Andries P. Smit"
+        },
+        {
+          "authorId": "2117590815",
+          "name": "Claude Formanek"
+        },
+        {
+          "authorId": "2117589783",
+          "name": "St John Grimbly"
+        },
+        {
+          "authorId": "2057090282",
+          "name": "Kevin Eloff"
+        },
+        {
+          "authorId": "2117589882",
+          "name": "Siphelele Danisa"
+        },
+        {
+          "authorId": "2145150439",
+          "name": "Lawrence Francis"
+        },
+        {
+          "authorId": "2309174377",
+          "name": "Jonathan P. Shock"
+        },
+        {
+          "authorId": "2339773433",
+          "name": "Herman Kamper"
+        },
+        {
+          "authorId": "2376312249",
+          "name": "W. Brink"
+        },
+        {
+          "authorId": "27378556",
+          "name": "H. Engelbrecht"
+        },
+        {
+          "authorId": "51119913",
+          "name": "Alexandre Laterre"
+        },
+        {
+          "authorId": "51130930",
+          "name": "Karim Beguir"
+        }
+      ]
+    },
+    {
+      "paperId": "be9e6d1266b91a62f5a16d27596b478ea821816a",
+      "externalIds": {
+        "ArXiv": "2103.05737",
+        "DBLP": "journals/corr/abs-2103-05737",
+        "CorpusId": 232170380
+      },
+      "url": "https://www.semanticscholar.org/paper/be9e6d1266b91a62f5a16d27596b478ea821816a",
+      "title": "The AI Arena: A Framework for Distributed Multi-Agent Reinforcement Learning",
+      "venue": "arXiv.org",
+      "year": 2021,
+      "referenceCount": 25,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "51487859",
+          "name": "Edward W. Staley"
+        },
+        {
+          "authorId": "144194990",
+          "name": "Corban G. Rivera"
+        },
+        {
+          "authorId": "2742856",
+          "name": "A. Llorens"
+        }
+      ]
+    },
+    {
+      "paperId": "f9adbf7c9e55d98a2f0730a172e0cd8cbbaa5b4b",
+      "externalIds": {
+        "DOI": "10.3390/electronics14051045",
+        "CorpusId": 276846649
+      },
+      "url": "https://www.semanticscholar.org/paper/f9adbf7c9e55d98a2f0730a172e0cd8cbbaa5b4b",
+      "title": "Hierarchical Traffic Engineering in 3D Networks Using QoS-Aware Graph-Based Deep Reinforcement Learning",
+      "venue": "Electronics",
+      "year": 2025,
+      "referenceCount": 25,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "1725441935",
+          "name": "Robert Kołakowski"
+        },
+        {
+          "authorId": "51056365",
+          "name": "Lechosław Tomaszewski"
+        },
+        {
+          "authorId": "2348984551",
+          "name": "Rafał Tępiński"
+        },
+        {
+          "authorId": "2227961",
+          "name": "S. Kukliński"
+        }
+      ]
+    },
+    {
+      "paperId": "d4f16a9c39f3dfc5c019b2c1a11042b92b4eeaab",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2508-15128",
+        "ArXiv": "2508.15128",
+        "DOI": "10.48550/arXiv.2508.15128",
+        "CorpusId": 280699864
+      },
+      "url": "https://www.semanticscholar.org/paper/d4f16a9c39f3dfc5c019b2c1a11042b92b4eeaab",
+      "title": "Universal Reinforcement Learning in Coalgebras: Asynchronous Stochastic Computation via Conduction",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "referenceCount": 65,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "2348251192",
+          "name": "Sridhar Mahadevan"
+        }
+      ]
+    }
+  ]
+}

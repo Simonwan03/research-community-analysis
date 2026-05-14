@@ -1,0 +1,351 @@
+{
+  "total": 2148,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "7d10c2419c91bc6db57b96a5af917d4e267686ad",
+      "externalIds": {
+        "DBLP": "conf/icml/DaxbergerL17",
+        "MAG": "2741680045",
+        "CorpusId": 11538863
+      },
+      "url": "https://www.semanticscholar.org/paper/7d10c2419c91bc6db57b96a5af917d4e267686ad",
+      "title": "Distributed Batch Gaussian Process Optimization",
+      "venue": "International Conference on Machine Learning",
+      "year": 2017,
+      "referenceCount": 47,
+      "citationCount": 50,
+      "authors": [
+        {
+          "authorId": "2372330850",
+          "name": "Erik A. Daxberger"
+        },
+        {
+          "authorId": "145454065",
+          "name": "K. H. Low"
+        }
+      ]
+    },
+    {
+      "paperId": "8810733c7302be5b21db947d37a21e1a63dbdd9e",
+      "externalIds": {
+        "DBLP": "journals/tpds/LiuXL23",
+        "DOI": "10.1109/TPDS.2023.3246086",
+        "CorpusId": 257001921
+      },
+      "url": "https://www.semanticscholar.org/paper/8810733c7302be5b21db947d37a21e1a63dbdd9e",
+      "title": "Cloud Configuration Optimization for Recurring Batch-Processing Applications",
+      "venue": "IEEE Transactions on Parallel and Distributed Systems",
+      "year": 2023,
+      "referenceCount": 31,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "2152797825",
+          "name": "Yang Liu"
+        },
+        {
+          "authorId": "2264817",
+          "name": "Huanle Xu"
+        },
+        {
+          "authorId": "2610991",
+          "name": "W. Lau"
+        }
+      ]
+    },
+    {
+      "paperId": "6e81149f83c6c9ae3291454b82f0561a46fbb4ac",
+      "externalIds": {
+        "DBLP": "journals/poit/Kolnogorov18",
+        "MAG": "2803032658",
+        "DOI": "10.1134/S0032946018010076",
+        "CorpusId": 13668170
+      },
+      "url": "https://www.semanticscholar.org/paper/6e81149f83c6c9ae3291454b82f0561a46fbb4ac",
+      "title": "Gaussian Two-Armed Bandit and Optimization of Batch Data Processing",
+      "venue": "Problems of Information Transmission",
+      "year": 2018,
+      "referenceCount": 18,
+      "citationCount": 16,
+      "authors": [
+        {
+          "authorId": "50882551",
+          "name": "A. Kolnogorov"
+        }
+      ]
+    },
+    {
+      "paperId": "cbdc7f390ec7038e41221e9ed4eb283e417bd5d8",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2410-15543",
+        "ArXiv": "2410.15543",
+        "DOI": "10.1109/LCSYS.2024.3525096",
+        "CorpusId": 273502629
+      },
+      "url": "https://www.semanticscholar.org/paper/cbdc7f390ec7038e41221e9ed4eb283e417bd5d8",
+      "title": "Distributed Thompson Sampling Under Constrained Communication",
+      "venue": "IEEE Control Systems Letters",
+      "year": 2024,
+      "referenceCount": 26,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "2103552108",
+          "name": "Saba Zerefa"
+        },
+        {
+          "authorId": "148435289",
+          "name": "Zhaolin Ren"
+        },
+        {
+          "authorId": "2295874222",
+          "name": "Haitong Ma"
+        },
+        {
+          "authorId": "2290244904",
+          "name": "Na Li"
+        }
+      ]
+    },
+    {
+      "paperId": "65ce077cfb89b6d589c2f2909fbb6e45f611475e",
+      "externalIds": {
+        "DBLP": "conf/icdcs/LiuXL20",
+        "MAG": "2988898745",
+        "DOI": "10.1109/ICDCS47774.2020.00088",
+        "CorpusId": 207943413
+      },
+      "url": "https://www.semanticscholar.org/paper/65ce077cfb89b6d589c2f2909fbb6e45f611475e",
+      "title": "Accordia: Adaptive Cloud Configuration Optimization for Recurring Data-Intensive Applications",
+      "venue": "IEEE International Conference on Distributed Computing Systems",
+      "year": 2019,
+      "referenceCount": 30,
+      "citationCount": 9,
+      "authors": [
+        {
+          "authorId": "2152797825",
+          "name": "Yang Liu"
+        },
+        {
+          "authorId": "2264817",
+          "name": "Huanle Xu"
+        },
+        {
+          "authorId": "2610991",
+          "name": "W. Lau"
+        }
+      ]
+    },
+    {
+      "paperId": "4325fcc2243efba0a0f25c5817c50d832eae2038",
+      "externalIds": {
+        "ArXiv": "2109.12020",
+        "DBLP": "journals/corr/abs-2109-12020",
+        "DOI": "10.1109/CDC45484.2021.9683590",
+        "CorpusId": 238253486
+      },
+      "url": "https://www.semanticscholar.org/paper/4325fcc2243efba0a0f25c5817c50d832eae2038",
+      "title": "Distributed Estimation of Sparse Inverse Covariances",
+      "venue": "IEEE Conference on Decision and Control",
+      "year": 2021,
+      "referenceCount": 24,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2068296318",
+          "name": "Tong Yao"
+        },
+        {
+          "authorId": "144882686",
+          "name": "S. Sundaram"
+        }
+      ]
+    },
+    {
+      "paperId": "29d13e250d641526fa800f09ee25e282b35f88ef",
+      "externalIds": {
+        "ArXiv": "2509.14408",
+        "DBLP": "journals/corr/abs-2509-14408",
+        "DOI": "10.48550/arXiv.2509.14408",
+        "CorpusId": 281394320
+      },
+      "url": "https://www.semanticscholar.org/paper/29d13e250d641526fa800f09ee25e282b35f88ef",
+      "title": "Deep Gaussian Process-based Cost-Aware Batch Bayesian Optimization for Complex Materials Design Campaigns",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "referenceCount": 36,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2127386161",
+          "name": "Sk Md Ahnaf Akif Alvi"
+        },
+        {
+          "authorId": "2316051428",
+          "name": "Brent Vela"
+        },
+        {
+          "authorId": "79595187",
+          "name": "V. Attari"
+        },
+        {
+          "authorId": "2253965548",
+          "name": "Jan Janssen"
+        },
+        {
+          "authorId": "2366216327",
+          "name": "Danny Perez"
+        },
+        {
+          "authorId": "2262985860",
+          "name": "Douglas L. Allaire"
+        },
+        {
+          "authorId": "2265966895",
+          "name": "Raymundo Arróyave"
+        }
+      ]
+    },
+    {
+      "paperId": "9eb3455f9ba9f142bf3c3c7fb0412527646e41cc",
+      "externalIds": {
+        "DBLP": "journals/tcad/GuLZBLYYHZCLZZ24",
+        "DOI": "10.1109/TCAD.2023.3314519",
+        "CorpusId": 261785898
+      },
+      "url": "https://www.semanticscholar.org/paper/9eb3455f9ba9f142bf3c3c7fb0412527646e41cc",
+      "title": "BBGP-sDFO: Batch Bayesian and Gaussian Process Enhanced Subspace Derivative Free Optimization for High-Dimensional Analog Circuit Synthesis",
+      "venue": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems",
+      "year": 2024,
+      "referenceCount": 39,
+      "citationCount": 19,
+      "authors": [
+        {
+          "authorId": "1994525688",
+          "name": "Tianchen Gu"
+        },
+        {
+          "authorId": "2240282366",
+          "name": "Wangzhen Li"
+        },
+        {
+          "authorId": "2240025422",
+          "name": "Aidong Zhao"
+        },
+        {
+          "authorId": "2469908",
+          "name": "Zhaori Bi"
+        },
+        {
+          "authorId": "2240214449",
+          "name": "Xudong Li"
+        },
+        {
+          "authorId": "145338224",
+          "name": "F. Yang"
+        },
+        {
+          "authorId": "1808363",
+          "name": "Changhao Yan"
+        },
+        {
+          "authorId": "2240303747",
+          "name": "W. Hu"
+        },
+        {
+          "authorId": "46385775",
+          "name": "Dian Zhou"
+        },
+        {
+          "authorId": "2240141409",
+          "name": "Tao Cui"
+        },
+        {
+          "authorId": "2120101900",
+          "name": "Xin Liu"
+        },
+        {
+          "authorId": "2240254155",
+          "name": "Zaikun Zhang"
+        },
+        {
+          "authorId": "2125062994",
+          "name": "Xuan Zeng"
+        }
+      ]
+    },
+    {
+      "paperId": "156478828378d59b996a5c58f990b365b94487b1",
+      "externalIds": {
+        "DBLP": "journals/swevo/WangCLXZ24",
+        "DOI": "10.1016/j.swevo.2024.101700",
+        "CorpusId": 271954782
+      },
+      "url": "https://www.semanticscholar.org/paper/156478828378d59b996a5c58f990b365b94487b1",
+      "title": "Batch subproblem coevolution with gaussian process-driven linear models for expensive multi-objective optimization",
+      "venue": "Swarm and Evolutionary Computation",
+      "year": 2024,
+      "referenceCount": 65,
+      "citationCount": 7,
+      "authors": [
+        {
+          "authorId": "2137314148",
+          "name": "Zhenkun Wang"
+        },
+        {
+          "authorId": "2316977755",
+          "name": "Yuanyao Chen"
+        },
+        {
+          "authorId": "2108549353",
+          "name": "Genghui Li"
+        },
+        {
+          "authorId": "2212067563",
+          "name": "Lindong Xie"
+        },
+        {
+          "authorId": "2286348696",
+          "name": "Yu Zhang"
+        }
+      ]
+    },
+    {
+      "paperId": "001798724209a3449cb0a346fd11c149c91bde24",
+      "externalIds": {
+        "DOI": "10.69997/sct.126649",
+        "CorpusId": 279752514
+      },
+      "url": "https://www.semanticscholar.org/paper/001798724209a3449cb0a346fd11c149c91bde24",
+      "title": "A Subset Selection Strategy for Gaussian Process Q-Learning of Process Optimization and Control",
+      "venue": "Systems and Control Transactions",
+      "year": 2025,
+      "referenceCount": 8,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2316949578",
+          "name": "Maximilian Bloor"
+        },
+        {
+          "authorId": "2059045779",
+          "name": "Tom Savage"
+        },
+        {
+          "authorId": "2316947482",
+          "name": "Calvin Tsay"
+        },
+        {
+          "authorId": "2027127746",
+          "name": "E. A. D. Chanona"
+        },
+        {
+          "authorId": "2328077077",
+          "name": "Max Mowbray"
+        }
+      ]
+    }
+  ]
+}

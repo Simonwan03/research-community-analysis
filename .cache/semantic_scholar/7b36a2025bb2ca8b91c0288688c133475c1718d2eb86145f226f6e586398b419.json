@@ -1,0 +1,1524 @@
+{
+  "offset": 0,
+  "citingPaperInfo": {
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/1504.03991, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "title": "Theory of Dual-sparse Regularized Randomized Reduction",
+    "authors": [
+      {
+        "authorId": "40381920",
+        "name": "Tianbao Yang"
+      },
+      {
+        "authorId": "2108876951",
+        "name": "Lijun Zhang"
+      },
+      {
+        "authorId": "144723884",
+        "name": "Rong Jin"
+      },
+      {
+        "authorId": "1682028",
+        "name": "Shenghuo Zhu"
+      }
+    ]
+  },
+  "data": [
+    {
+      "citedPaper": {
+        "paperId": "04ca5de59edbdd49a9c0502c58331524d220bc8c",
+        "externalIds": {
+          "MAG": "2127941149",
+          "DBLP": "conf/nips/LiASY14",
+          "CorpusId": 2235165
+        },
+        "url": "https://www.semanticscholar.org/paper/04ca5de59edbdd49a9c0502c58331524d220bc8c",
+        "title": "Communication Efficient Distributed Machine Learning with the Parameter Server",
+        "venue": "Neural Information Processing Systems",
+        "year": 2014,
+        "referenceCount": 39,
+        "citationCount": 698,
+        "authors": [
+          {
+            "authorId": "2124778071",
+            "name": "Mu Li"
+          },
+          {
+            "authorId": "34752743",
+            "name": "D. Andersen"
+          },
+          {
+            "authorId": "46234526",
+            "name": "Alex Smola"
+          },
+          {
+            "authorId": "144782042",
+            "name": "Kai Yu"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "0a99292adb3d741c9b9d2ac6d5de946d5f25ee50",
+        "externalIds": {
+          "MAG": "1983017476",
+          "DBLP": "journals/tit/0005MJYZ14",
+          "DOI": "10.1109/TIT.2014.2359204",
+          "CorpusId": 815695
+        },
+        "url": "https://www.semanticscholar.org/paper/0a99292adb3d741c9b9d2ac6d5de946d5f25ee50",
+        "title": "Random Projections for Classification: A Recovery Approach",
+        "venue": "IEEE Transactions on Information Theory",
+        "year": 2014,
+        "referenceCount": 42,
+        "citationCount": 33,
+        "authors": [
+          {
+            "authorId": "2108876951",
+            "name": "Lijun Zhang"
+          },
+          {
+            "authorId": "1694826",
+            "name": "M. Mahdavi"
+          },
+          {
+            "authorId": "144723884",
+            "name": "Rong Jin"
+          },
+          {
+            "authorId": "40381920",
+            "name": "Tianbao Yang"
+          },
+          {
+            "authorId": "1682028",
+            "name": "Shenghuo Zhu"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "1d883e92941c1db1feaca4ab943e80d196d13402",
+        "externalIds": {
+          "MAG": "2963861706",
+          "DBLP": "conf/nips/JaggiSTTKHJ14",
+          "ArXiv": "1409.1458",
+          "CorpusId": 7978238
+        },
+        "url": "https://www.semanticscholar.org/paper/1d883e92941c1db1feaca4ab943e80d196d13402",
+        "title": "Communication-Efficient Distributed Dual Coordinate Ascent",
+        "venue": "Neural Information Processing Systems",
+        "year": 2014,
+        "referenceCount": 31,
+        "citationCount": 359,
+        "authors": [
+          {
+            "authorId": "2456863",
+            "name": "Martin Jaggi"
+          },
+          {
+            "authorId": "145260024",
+            "name": "Virginia Smith"
+          },
+          {
+            "authorId": "144696183",
+            "name": "Martin Takác"
+          },
+          {
+            "authorId": "2281294",
+            "name": "Jonathan Terhorst"
+          },
+          {
+            "authorId": "40428703",
+            "name": "S. Krishnan"
+          },
+          {
+            "authorId": "143936663",
+            "name": "Thomas Hofmann"
+          },
+          {
+            "authorId": "1694621",
+            "name": "Michael I. Jordan"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "f2a21683cba4cc77433070877b4cfc8dc2d761cb",
+        "externalIds": {
+          "DBLP": "conf/nips/Yang13",
+          "MAG": "2123154536",
+          "CorpusId": 6699442
+        },
+        "url": "https://www.semanticscholar.org/paper/f2a21683cba4cc77433070877b4cfc8dc2d761cb",
+        "title": "Trading Computation for Communication: Distributed Stochastic Dual Coordinate Ascent",
+        "venue": "Neural Information Processing Systems",
+        "year": 2013,
+        "referenceCount": 25,
+        "citationCount": 162,
+        "authors": [
+          {
+            "authorId": "40381920",
+            "name": "Tianbao Yang"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "d3a4594317fa9051f3817d3a016b58367d1119bf",
+        "externalIds": {
+          "MAG": "2615055317",
+          "DBLP": "conf/icml/MaMY14",
+          "ArXiv": "1306.5362",
+          "DOI": "10.5555/2789272.2831141",
+          "CorpusId": 7523489
+        },
+        "url": "https://www.semanticscholar.org/paper/d3a4594317fa9051f3817d3a016b58367d1119bf",
+        "title": "A statistical perspective on algorithmic leveraging",
+        "venue": "Journal of machine learning research",
+        "year": 2013,
+        "referenceCount": 48,
+        "citationCount": 390,
+        "authors": [
+          {
+            "authorId": "47477714",
+            "name": "Ping Ma"
+          },
+          {
+            "authorId": "143884206",
+            "name": "Michael W. Mahoney"
+          },
+          {
+            "authorId": "144923779",
+            "name": "Bin Yu"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "e576a0bb565290e1aadf45ac7c7e62443c8788c6",
+        "externalIds": {
+          "DBLP": "conf/aistats/PaulBMD13",
+          "MAG": "2963567384",
+          "CorpusId": 18543269
+        },
+        "url": "https://www.semanticscholar.org/paper/e576a0bb565290e1aadf45ac7c7e62443c8788c6",
+        "title": "Random Projections for Support Vector Machines",
+        "venue": "International Conference on Artificial Intelligence and Statistics",
+        "year": 2012,
+        "referenceCount": 23,
+        "citationCount": 59,
+        "authors": [
+          {
+            "authorId": "40363130",
+            "name": "Saurabh Paul"
+          },
+          {
+            "authorId": "1704039",
+            "name": "Christos Boutsidis"
+          },
+          {
+            "authorId": "1399249722",
+            "name": "M. Magdon-Ismail"
+          },
+          {
+            "authorId": "1738441",
+            "name": "P. Drineas"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "1dc65fa1e8d3f6f6deef14efaa18012b6810208f",
+        "externalIds": {
+          "ArXiv": "1211.3046",
+          "MAG": "2951820531",
+          "DBLP": "conf/colt/ZhangMJYZ13",
+          "CorpusId": 16837229
+        },
+        "url": "https://www.semanticscholar.org/paper/1dc65fa1e8d3f6f6deef14efaa18012b6810208f",
+        "title": "Recovering the Optimal Solution by Dual Random Projection",
+        "venue": "Annual Conference Computational Learning Theory",
+        "year": 2012,
+        "referenceCount": 43,
+        "citationCount": 76,
+        "authors": [
+          {
+            "authorId": "2108876951",
+            "name": "Lijun Zhang"
+          },
+          {
+            "authorId": "1694826",
+            "name": "M. Mahdavi"
+          },
+          {
+            "authorId": "144723884",
+            "name": "Rong Jin"
+          },
+          {
+            "authorId": "40381920",
+            "name": "Tianbao Yang"
+          },
+          {
+            "authorId": "1682028",
+            "name": "Shenghuo Zhu"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "251a51ad29f6c5d38054ed8d92dff611ce6e4684",
+        "externalIds": {
+          "ACL": "P12-1002",
+          "DBLP": "conf/acl/SimianerRD12",
+          "MAG": "2123825474",
+          "CorpusId": 10217785
+        },
+        "url": "https://www.semanticscholar.org/paper/251a51ad29f6c5d38054ed8d92dff611ce6e4684",
+        "title": "Joint Feature Selection in Distributed Stochastic Learning for Large-Scale Discriminative Training in SMT",
+        "venue": "Annual Meeting of the Association for Computational Linguistics",
+        "year": 2012,
+        "referenceCount": 54,
+        "citationCount": 65,
+        "authors": [
+          {
+            "authorId": "2946858",
+            "name": "P. Simianer"
+          },
+          {
+            "authorId": "3289329",
+            "name": "S. Riezler"
+          },
+          {
+            "authorId": "1745899",
+            "name": "Chris Dyer"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "007ccc1d6002d537c930f4ec070c7f81339206bb",
+        "externalIds": {
+          "ArXiv": "1206.4651",
+          "MAG": "2950718103",
+          "DBLP": "conf/icml/ShiSHH12",
+          "CorpusId": 17719856
+        },
+        "url": "https://www.semanticscholar.org/paper/007ccc1d6002d537c930f4ec070c7f81339206bb",
+        "title": "Is margin preserved after random projection?",
+        "venue": "International Conference on Machine Learning",
+        "year": 2012,
+        "referenceCount": 21,
+        "citationCount": 64,
+        "authors": [
+          {
+            "authorId": "3177281",
+            "name": "Javen Qinfeng Shi"
+          },
+          {
+            "authorId": "1780381",
+            "name": "Chunhua Shen"
+          },
+          {
+            "authorId": "41184342",
+            "name": "Rhys Hill"
+          },
+          {
+            "authorId": "5546141",
+            "name": "Anton van den Hengel"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "6187a901fcfaa47ea0415479151714f8e0a1b2f0",
+        "externalIds": {
+          "MAG": "1809530530",
+          "ArXiv": "1205.6523",
+          "DBLP": "journals/corr/abs-1205-6523",
+          "CorpusId": 15158978
+        },
+        "url": "https://www.semanticscholar.org/paper/6187a901fcfaa47ea0415479151714f8e0a1b2f0",
+        "title": "Finding Important Genes from High-Dimensional Data: An Appraisal of Statistical Tests and Machine-Learning Approaches",
+        "venue": "arXiv.org",
+        "year": 2012,
+        "referenceCount": 65,
+        "citationCount": 1,
+        "authors": [
+          {
+            "authorId": "40397531",
+            "name": "Chamont Wang"
+          },
+          {
+            "authorId": "2623643",
+            "name": "J. Gevertz"
+          },
+          {
+            "authorId": "1830341",
+            "name": "Chaur-Chin Chen"
+          },
+          {
+            "authorId": "2894031",
+            "name": "Leonardo Auslender"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "2d417022844d03e0774909db32ea1a738523989b",
+        "externalIds": {
+          "ArXiv": "1203.3002",
+          "MAG": "2951390414",
+          "DBLP": "journals/corr/abs-1203-3002",
+          "DOI": "10.1137/120869997",
+          "CorpusId": 7208588
+        },
+        "url": "https://www.semanticscholar.org/paper/2d417022844d03e0774909db32ea1a738523989b",
+        "title": "A Proximal-Gradient Homotopy Method for the Sparse Least-Squares Problem",
+        "venue": "SIAM Journal on Optimization",
+        "year": 2012,
+        "referenceCount": 57,
+        "citationCount": 151,
+        "authors": [
+          {
+            "authorId": "145942106",
+            "name": "Lin Xiao"
+          },
+          {
+            "authorId": "49104973",
+            "name": "Tong Zhang"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "1dbc1238409549ae6872a744b7b2ff1da5822053",
+        "externalIds": {
+          "MAG": "2952437656",
+          "DBLP": "journals/corr/abs-1110-4198",
+          "ArXiv": "1110.4198",
+          "DOI": "10.5555/2627435.2638571",
+          "CorpusId": 15115468
+        },
+        "url": "https://www.semanticscholar.org/paper/1dbc1238409549ae6872a744b7b2ff1da5822053",
+        "title": "A reliable effective terascale linear learning system",
+        "venue": "Journal of machine learning research",
+        "year": 2011,
+        "referenceCount": 40,
+        "citationCount": 422,
+        "authors": [
+          {
+            "authorId": "40333747",
+            "name": "Alekh Agarwal"
+          },
+          {
+            "authorId": "1730609",
+            "name": "O. Chapelle"
+          },
+          {
+            "authorId": "144652072",
+            "name": "Miroslav Dudík"
+          },
+          {
+            "authorId": "144162125",
+            "name": "J. Langford"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "ff50175f5419540c272de78334c04b22f8e4b6f8",
+        "externalIds": {
+          "DBLP": "journals/corr/abs-1109-4299",
+          "ArXiv": "1109.4299",
+          "MAG": "2964003909",
+          "DOI": "10.1002/CPA.21442",
+          "CorpusId": 1090939
+        },
+        "url": "https://www.semanticscholar.org/paper/ff50175f5419540c272de78334c04b22f8e4b6f8",
+        "title": "One‐Bit Compressed Sensing by Linear Programming",
+        "venue": "arXiv.org",
+        "year": 2011,
+        "referenceCount": 31,
+        "citationCount": 434,
+        "authors": [
+          {
+            "authorId": "1800179",
+            "name": "Y. Plan"
+          },
+          {
+            "authorId": "1806615",
+            "name": "R. Vershynin"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "63ccad6eb6c0f61603f493819b527eab9e355b6e",
+        "externalIds": {
+          "MAG": "2090274426",
+          "ArXiv": "1109.3069",
+          "CorpusId": 15720872
+        },
+        "url": "https://www.semanticscholar.org/paper/63ccad6eb6c0f61603f493819b527eab9e355b6e",
+        "title": "Directional Variance Adjustment: improving covariance estimates for high-dimensional portfolio optimization",
+        "venue": "",
+        "year": 2011,
+        "referenceCount": 39,
+        "citationCount": 6,
+        "authors": [
+          {
+            "authorId": "143925073",
+            "name": "Daniel Bartz"
+          },
+          {
+            "authorId": "2284375",
+            "name": "K. Hatrick"
+          },
+          {
+            "authorId": "2062850729",
+            "name": "Christian W. Hesse"
+          },
+          {
+            "authorId": "116099820",
+            "name": "Klaus-Robert Muller"
+          },
+          {
+            "authorId": "3294736",
+            "name": "S. Lemm"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "167ea16a581a86ac31d1e88b93ee835aff43f038",
+        "externalIds": {
+          "MAG": "2121063416",
+          "PubMedCentral": "3179379",
+          "DOI": "10.1093/hmg/ddr378",
+          "CorpusId": 952112,
+          "PubMed": "21873261"
+        },
+        "url": "https://www.semanticscholar.org/paper/167ea16a581a86ac31d1e88b93ee835aff43f038",
+        "title": "Genetic risk prediction in complex disease",
+        "venue": "Human Molecular Genetics",
+        "year": 2011,
+        "referenceCount": 69,
+        "citationCount": 183,
+        "authors": [
+          {
+            "authorId": "2699282",
+            "name": "L. Jostins"
+          },
+          {
+            "authorId": "144559763",
+            "name": "J. Barrett"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "552399b84cf3a23a1ba9fcf37e1e977ecbb89430",
+        "externalIds": {
+          "MAG": "2588616261",
+          "DOI": "10.1007/978-3-642-22147-7",
+          "CorpusId": 117471593
+        },
+        "url": "https://www.semanticscholar.org/paper/552399b84cf3a23a1ba9fcf37e1e977ecbb89430",
+        "title": "Oracle inequalities in empirical risk minimization and sparse recovery problems",
+        "venue": "",
+        "year": 2011,
+        "referenceCount": 146,
+        "citationCount": 581,
+        "authors": [
+          {
+            "authorId": "1784986",
+            "name": "V. Koltchinskii"
+          },
+          {
+            "authorId": "1403570089",
+            "name": "École d'été de probabilités de Saint-Flour"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "9343b9470ca75c2b18b82e1f3508387904f60709",
+        "externalIds": {
+          "MAG": "2105092596",
+          "DOI": "10.1093/hmg/ddr116",
+          "CorpusId": 12157467,
+          "PubMed": "21427131"
+        },
+        "url": "https://www.semanticscholar.org/paper/9343b9470ca75c2b18b82e1f3508387904f60709",
+        "title": "Improved risk prediction for Crohn's disease with a multi-locus approach.",
+        "venue": "Human Molecular Genetics",
+        "year": 2011,
+        "referenceCount": 34,
+        "citationCount": 48,
+        "authors": [
+          {
+            "authorId": "143815717",
+            "name": "Jia Kang"
+          },
+          {
+            "authorId": "3821719",
+            "name": "S. Kugathasan"
+          },
+          {
+            "authorId": "47062607",
+            "name": "M. Georges"
+          },
+          {
+            "authorId": "145400502",
+            "name": "Hongyu Zhao"
+          },
+          {
+            "authorId": "2236289298",
+            "name": "Judy H. Cho"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "96284943dcbd05aba9464b8cfe68fd9040cc16ec",
+        "externalIds": {
+          "MAG": "2951454089",
+          "ArXiv": "1012.1577",
+          "DBLP": "conf/soda/KaneN12",
+          "DOI": "10.1145/2559902",
+          "CorpusId": 7821848
+        },
+        "url": "https://www.semanticscholar.org/paper/96284943dcbd05aba9464b8cfe68fd9040cc16ec",
+        "title": "Sparser Johnson-Lindenstrauss Transforms",
+        "venue": "ACM-SIAM Symposium on Discrete Algorithms",
+        "year": 2010,
+        "referenceCount": 45,
+        "citationCount": 387,
+        "authors": [
+          {
+            "authorId": "2452522",
+            "name": "D. Kane"
+          },
+          {
+            "authorId": "49344061",
+            "name": "Jelani Nelson"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "564206ecc7ec0c0923272bf8b11267197f166dfe",
+        "externalIds": {
+          "MAG": "2109221784",
+          "DBLP": "journals/corr/abs-1011-1595",
+          "ArXiv": "1011.1595",
+          "DOI": "10.1142/S1793536911000787",
+          "CorpusId": 5783804
+        },
+        "url": "https://www.semanticscholar.org/paper/564206ecc7ec0c0923272bf8b11267197f166dfe",
+        "title": "Improved Analysis of the subsampled Randomized Hadamard Transform",
+        "venue": "Advances in Data Science and Adaptive Analysis",
+        "year": 2010,
+        "referenceCount": 25,
+        "citationCount": 374,
+        "authors": [
+          {
+            "authorId": "1788107",
+            "name": "J. Tropp"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "f57faf56d5a2840e3f3694aa7a4ea32d868bfe2d",
+        "externalIds": {
+          "MAG": "205960552",
+          "DBLP": "conf/icml/SonnenburgF10",
+          "CorpusId": 1718080
+        },
+        "url": "https://www.semanticscholar.org/paper/f57faf56d5a2840e3f3694aa7a4ea32d868bfe2d",
+        "title": "COFFIN: A Computational Framework for Linear SVMs",
+        "venue": "International Conference on Machine Learning",
+        "year": 2010,
+        "referenceCount": 26,
+        "citationCount": 79,
+        "authors": [
+          {
+            "authorId": "3029782",
+            "name": "S. Sonnenburg"
+          },
+          {
+            "authorId": "1778663",
+            "name": "Vojtech Franc"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "4ba0079fbfaf8a49f36f4e400f44c17b7f4552d4",
+        "externalIds": {
+          "DBLP": "conf/stoc/DasguptaKS10",
+          "MAG": "2085927849",
+          "ArXiv": "1004.4240",
+          "DOI": "10.1145/1806689.1806737",
+          "CorpusId": 13492200
+        },
+        "url": "https://www.semanticscholar.org/paper/4ba0079fbfaf8a49f36f4e400f44c17b7f4552d4",
+        "title": "A sparse Johnson: Lindenstrauss transform",
+        "venue": "Symposium on the Theory of Computing",
+        "year": 2010,
+        "referenceCount": 38,
+        "citationCount": 218,
+        "authors": [
+          {
+            "authorId": "30654921",
+            "name": "Anirban Dasgupta"
+          },
+          {
+            "authorId": "1683442",
+            "name": "Ravi Kumar"
+          },
+          {
+            "authorId": "2227764",
+            "name": "Tamás Sarlós"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "9a2aa2aee8926ec07a4a76324b7665f678d3517c",
+        "externalIds": {
+          "MAG": "2112490010",
+          "DBLP": "journals/jmlr/ShiPDLSV09",
+          "DOI": "10.5555/1577069.1755873",
+          "CorpusId": 7792256
+        },
+        "url": "https://www.semanticscholar.org/paper/9a2aa2aee8926ec07a4a76324b7665f678d3517c",
+        "title": "Hash Kernels for Structured Data",
+        "venue": "Journal of machine learning research",
+        "year": 2009,
+        "referenceCount": 36,
+        "citationCount": 238,
+        "authors": [
+          {
+            "authorId": "3177281",
+            "name": "Javen Qinfeng Shi"
+          },
+          {
+            "authorId": "3151405",
+            "name": "James Petterson"
+          },
+          {
+            "authorId": "2088846",
+            "name": "G. Dror"
+          },
+          {
+            "authorId": "144162125",
+            "name": "J. Langford"
+          },
+          {
+            "authorId": "46234526",
+            "name": "Alex Smola"
+          },
+          {
+            "authorId": "145713876",
+            "name": "S. Vishwanathan"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "2a941e7c5f374f8f8dba0daf6ffc6504a2779473",
+        "externalIds": {
+          "MAG": "2093813380",
+          "DBLP": "journals/siamcomp/AilonC09",
+          "DOI": "10.1137/060673096",
+          "CorpusId": 17443637
+        },
+        "url": "https://www.semanticscholar.org/paper/2a941e7c5f374f8f8dba0daf6ffc6504a2779473",
+        "title": "The Fast Johnson--Lindenstrauss Transform and Approximate Nearest Neighbors",
+        "venue": "SIAM journal on computing (Print)",
+        "year": 2009,
+        "referenceCount": 46,
+        "citationCount": 564,
+        "authors": [
+          {
+            "authorId": "2048494",
+            "name": "Nir Ailon"
+          },
+          {
+            "authorId": "1730838",
+            "name": "B. Chazelle"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "00bbfde6af97ce5efcf86b3401d265d42a95603d",
+        "externalIds": {
+          "MAG": "2953133476",
+          "DBLP": "journals/corr/abs-0902-2206",
+          "ArXiv": "0902.2206",
+          "DOI": "10.1145/1553374.1553516",
+          "CorpusId": 291713
+        },
+        "url": "https://www.semanticscholar.org/paper/00bbfde6af97ce5efcf86b3401d265d42a95603d",
+        "title": "Feature hashing for large scale multitask learning",
+        "venue": "International Conference on Machine Learning",
+        "year": 2009,
+        "referenceCount": 32,
+        "citationCount": 1075,
+        "authors": [
+          {
+            "authorId": "7446832",
+            "name": "Kilian Q. Weinberger"
+          },
+          {
+            "authorId": "144029093",
+            "name": "A. Dasgupta"
+          },
+          {
+            "authorId": "1708597",
+            "name": "Josh Attenberg"
+          },
+          {
+            "authorId": "144162125",
+            "name": "J. Langford"
+          },
+          {
+            "authorId": "46234526",
+            "name": "Alex Smola"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "75bc44168b0f32f8a2df7398745908383124b8b3",
+        "externalIds": {
+          "MAG": "2141696759",
+          "DBLP": "journals/pnas/MahoneyD09",
+          "DOI": "10.1073/pnas.0803205106",
+          "CorpusId": 2502987,
+          "PubMed": "19139392"
+        },
+        "url": "https://www.semanticscholar.org/paper/75bc44168b0f32f8a2df7398745908383124b8b3",
+        "title": "CUR matrix decompositions for improved data analysis",
+        "venue": "Proceedings of the National Academy of Sciences of the United States of America",
+        "year": 2009,
+        "referenceCount": 40,
+        "citationCount": 916,
+        "authors": [
+          {
+            "authorId": "143884206",
+            "name": "Michael W. Mahoney"
+          },
+          {
+            "authorId": "1738441",
+            "name": "P. Drineas"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "2bbf2ab3a524399c0daff3bc938d466f05501ae0",
+        "externalIds": {
+          "DBLP": "journals/ploscb/Ben-HurOSSR08",
+          "MAG": "2097936772",
+          "PubMedCentral": "2547983",
+          "DOI": "10.1371/journal.pcbi.1000173",
+          "CorpusId": 2990825,
+          "PubMed": "18974822"
+        },
+        "url": "https://www.semanticscholar.org/paper/2bbf2ab3a524399c0daff3bc938d466f05501ae0",
+        "title": "Support Vector Machines and Kernels for Computational Biology",
+        "venue": "PLoS Comput. Biol.",
+        "year": 2008,
+        "referenceCount": 82,
+        "citationCount": 769,
+        "authors": [
+          {
+            "authorId": "1399356737",
+            "name": "Asa Ben-Hur"
+          },
+          {
+            "authorId": "1706780",
+            "name": "Cheng Soon Ong"
+          },
+          {
+            "authorId": "3029782",
+            "name": "S. Sonnenburg"
+          },
+          {
+            "authorId": "1707625",
+            "name": "B. Scholkopf"
+          },
+          {
+            "authorId": "2414086",
+            "name": "G. Rätsch"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "bb92178d5133f9165b704500cbe2e5a1b2dab01d",
+        "externalIds": {
+          "MAG": "2116581043",
+          "ArXiv": "0801.1095",
+          "DOI": "10.1214/08-AOS620",
+          "CorpusId": 7048603
+        },
+        "url": "https://www.semanticscholar.org/paper/bb92178d5133f9165b704500cbe2e5a1b2dab01d",
+        "title": "SIMULTANEOUS ANALYSIS OF LASSO AND DANTZIG SELECTOR",
+        "venue": "",
+        "year": 2008,
+        "referenceCount": 37,
+        "citationCount": 2618,
+        "authors": [
+          {
+            "authorId": "1678771",
+            "name": "P. Bickel"
+          },
+          {
+            "authorId": "100532061",
+            "name": "Y. Ritov"
+          },
+          {
+            "authorId": "2667773",
+            "name": "A. Tsybakov"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "64d80c7c8c89c9f4b2d6652a5cd50fb124e308ca",
+        "externalIds": {
+          "DBLP": "journals/bmcbi/SonnenburgSPBR07",
+          "PubMedCentral": "2230508",
+          "MAG": "2063861171",
+          "DOI": "10.1186/1471-2105-8-S10-S7",
+          "CorpusId": 2500757,
+          "PubMed": "18269701"
+        },
+        "url": "https://www.semanticscholar.org/paper/64d80c7c8c89c9f4b2d6652a5cd50fb124e308ca",
+        "title": "Accurate splice site prediction using support vector machines",
+        "venue": "BMC Bioinformatics",
+        "year": 2007,
+        "referenceCount": 61,
+        "citationCount": 199,
+        "authors": [
+          {
+            "authorId": "3029782",
+            "name": "S. Sonnenburg"
+          },
+          {
+            "authorId": "1907966",
+            "name": "G. Schweikert"
+          },
+          {
+            "authorId": "28913430",
+            "name": "P. Philips"
+          },
+          {
+            "authorId": "2094634",
+            "name": "Jonas Behr"
+          },
+          {
+            "authorId": "2414086",
+            "name": "G. Rätsch"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "9c47a465e02cd7c3470559d772dd6328ba8b77cc",
+        "externalIds": {
+          "ArXiv": "0710.1435",
+          "MAG": "2007399394",
+          "DBLP": "journals/nm/DrineasMMS11",
+          "DOI": "10.1007/s00211-010-0331-6",
+          "CorpusId": 7730230
+        },
+        "url": "https://www.semanticscholar.org/paper/9c47a465e02cd7c3470559d772dd6328ba8b77cc",
+        "title": "Faster least squares approximation",
+        "venue": "Numerische Mathematik",
+        "year": 2007,
+        "referenceCount": 26,
+        "citationCount": 499,
+        "authors": [
+          {
+            "authorId": "1738441",
+            "name": "P. Drineas"
+          },
+          {
+            "authorId": "143884206",
+            "name": "Michael W. Mahoney"
+          },
+          {
+            "authorId": "144963537",
+            "name": "S. Muthukrishnan"
+          },
+          {
+            "authorId": "2227764",
+            "name": "Tamás Sarlós"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "7ab959ec1915f63bb91dd706f6b177cef0abde84",
+        "externalIds": {
+          "DBLP": "journals/corr/abs-0708-3696",
+          "MAG": "2952337362",
+          "ArXiv": "0708.3696",
+          "DOI": "10.1137/07070471X",
+          "CorpusId": 58270
+        },
+        "url": "https://www.semanticscholar.org/paper/7ab959ec1915f63bb91dd706f6b177cef0abde84",
+        "title": "Relative-Error CUR Matrix Decompositions",
+        "venue": "SIAM Journal on Matrix Analysis and Applications",
+        "year": 2007,
+        "referenceCount": 61,
+        "citationCount": 541,
+        "authors": [
+          {
+            "authorId": "1738441",
+            "name": "P. Drineas"
+          },
+          {
+            "authorId": "143884206",
+            "name": "Michael W. Mahoney"
+          },
+          {
+            "authorId": "144963537",
+            "name": "S. Muthukrishnan"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "5e9500ce9c03727871042fcd6e9fa08e3d883cae",
+        "externalIds": {
+          "DBLP": "journals/ml/BalcanBV06",
+          "MAG": "2103164654",
+          "DOI": "10.1007/s10994-006-7550-1",
+          "CorpusId": 8345579
+        },
+        "url": "https://www.semanticscholar.org/paper/5e9500ce9c03727871042fcd6e9fa08e3d883cae",
+        "title": "Kernels as features: On kernels, margins, and low-dimensional mappings",
+        "venue": "Machine-mediated learning",
+        "year": 2006,
+        "referenceCount": 26,
+        "citationCount": 149,
+        "authors": [
+          {
+            "authorId": "1745410",
+            "name": "Maria-Florina Balcan"
+          },
+          {
+            "authorId": "1690967",
+            "name": "Avrim Blum"
+          },
+          {
+            "authorId": "1737804",
+            "name": "S. Vempala"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "de94de88cb4553d9dba046b3ec74e0dd25b831d1",
+        "externalIds": {
+          "DBLP": "conf/soda/DrineasMM06",
+          "MAG": "2043804332",
+          "DOI": "10.1145/1109557.1109682",
+          "CorpusId": 2415336
+        },
+        "url": "https://www.semanticscholar.org/paper/de94de88cb4553d9dba046b3ec74e0dd25b831d1",
+        "title": "Sampling algorithms for l2 regression and applications",
+        "venue": "ACM-SIAM Symposium on Discrete Algorithms",
+        "year": 2006,
+        "referenceCount": 0,
+        "citationCount": 400,
+        "authors": [
+          {
+            "authorId": "1738441",
+            "name": "P. Drineas"
+          },
+          {
+            "authorId": "143884206",
+            "name": "Michael W. Mahoney"
+          },
+          {
+            "authorId": "144963537",
+            "name": "S. Muthukrishnan"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "174cecadda4ecbcebaf575bc0d5c4b3fd233fd12",
+        "externalIds": {
+          "MAG": "1486890033",
+          "DBLP": "conf/slsfs/Blum05",
+          "DOI": "10.1007/11752790_3",
+          "CorpusId": 15307365
+        },
+        "url": "https://www.semanticscholar.org/paper/174cecadda4ecbcebaf575bc0d5c4b3fd233fd12",
+        "title": "Random Projection, Margins, Kernels, and Feature-Selection",
+        "venue": "Subspace, Latent Structure and Feature Selection",
+        "year": 2005,
+        "referenceCount": 34,
+        "citationCount": 133,
+        "authors": [
+          {
+            "authorId": "1690967",
+            "name": "Avrim Blum"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "24c287d97982216c8f35c8d326dc2ec2d2475f3e",
+        "externalIds": {
+          "MAG": "2144935315",
+          "DBLP": "conf/nips/GoldbergerRHS04",
+          "CorpusId": 8616518
+        },
+        "url": "https://www.semanticscholar.org/paper/24c287d97982216c8f35c8d326dc2ec2d2475f3e",
+        "title": "Neighbourhood Components Analysis",
+        "venue": "Neural Information Processing Systems",
+        "year": 2004,
+        "referenceCount": 7,
+        "citationCount": 2137,
+        "authors": [
+          {
+            "authorId": "34508613",
+            "name": "J. Goldberger"
+          },
+          {
+            "authorId": "9330607",
+            "name": "S. Roweis"
+          },
+          {
+            "authorId": "1695689",
+            "name": "Geoffrey E. Hinton"
+          },
+          {
+            "authorId": "145124475",
+            "name": "R. Salakhutdinov"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "2abe6b9ea1b13653b7384e9c8ef14b0d87e20cfc",
+        "externalIds": {
+          "DBLP": "journals/jmlr/LewisYRL04",
+          "MAG": "2150102617",
+          "CorpusId": 11027141
+        },
+        "url": "https://www.semanticscholar.org/paper/2abe6b9ea1b13653b7384e9c8ef14b0d87e20cfc",
+        "title": "RCV1: A New Benchmark Collection for Text Categorization Research",
+        "venue": "Journal of machine learning research",
+        "year": 2004,
+        "referenceCount": 51,
+        "citationCount": 3175,
+        "authors": [
+          {
+            "authorId": "35153517",
+            "name": "D. Lewis"
+          },
+          {
+            "authorId": "35729970",
+            "name": "Yiming Yang"
+          },
+          {
+            "authorId": "32440409",
+            "name": "T. Rose"
+          },
+          {
+            "authorId": "2146329150",
+            "name": "Fan Li"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "9dc134b18c06577354d50c12a8972b965d3bbacd",
+        "externalIds": {
+          "MAG": "2112532472",
+          "DBLP": "journals/ml/MitchellHNPWJN04",
+          "DOI": "10.1023/B:MACH.0000035475.85309.1b",
+          "CorpusId": 1909790
+        },
+        "url": "https://www.semanticscholar.org/paper/9dc134b18c06577354d50c12a8972b965d3bbacd",
+        "title": "Learning to Decode Cognitive States from Brain Images",
+        "venue": "Machine-mediated learning",
+        "year": 2004,
+        "referenceCount": 38,
+        "citationCount": 762,
+        "authors": [
+          {
+            "authorId": "40975594",
+            "name": "Tom Michael Mitchell"
+          },
+          {
+            "authorId": "2491371",
+            "name": "R. Hutchinson"
+          },
+          {
+            "authorId": "3139923",
+            "name": "R. Niculescu"
+          },
+          {
+            "authorId": "144637670",
+            "name": "Francisco Pereira"
+          },
+          {
+            "authorId": "2144657667",
+            "name": "Xuerui Wang"
+          },
+          {
+            "authorId": "2065109",
+            "name": "M. Just"
+          },
+          {
+            "authorId": "6809972",
+            "name": "Sharlene D. Newman"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "7a2ba6f7e8f95c3d52743c09a9ecf178b4caa356",
+        "externalIds": {
+          "MAG": "1546928902",
+          "DOI": "10.2495/DATA020271",
+          "CorpusId": 14801247
+        },
+        "url": "https://www.semanticscholar.org/paper/7a2ba6f7e8f95c3d52743c09a9ecf178b4caa356",
+        "title": "Feature Selection Using Support Vector Machines",
+        "venue": "",
+        "year": 2002,
+        "referenceCount": 22,
+        "citationCount": 90,
+        "authors": [
+          {
+            "authorId": "1795846",
+            "name": "J. Brank"
+          },
+          {
+            "authorId": "1775954",
+            "name": "M. Grobelnik"
+          },
+          {
+            "authorId": "1398136050",
+            "name": "Natasa Milic-Frayling"
+          },
+          {
+            "authorId": "1764321",
+            "name": "D. Mladenić"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "fb6b4b57f431a0cfbb83bb2af8beab4ee694e94c",
+        "externalIds": {
+          "MAG": "2143426320",
+          "DBLP": "journals/ml/GuyonWBV02",
+          "DOI": "10.1023/A:1012487302797",
+          "CorpusId": 207720429
+        },
+        "url": "https://www.semanticscholar.org/paper/fb6b4b57f431a0cfbb83bb2af8beab4ee694e94c",
+        "title": "Gene Selection for Cancer Classification using Support Vector Machines",
+        "venue": "Machine-mediated learning",
+        "year": 2002,
+        "referenceCount": 57,
+        "citationCount": 6032,
+        "authors": [
+          {
+            "authorId": "1743797",
+            "name": "Isabelle M Guyon"
+          },
+          {
+            "authorId": "145183709",
+            "name": "J. Weston"
+          },
+          {
+            "authorId": "2228609",
+            "name": "S. Barnhill"
+          },
+          {
+            "authorId": "50560492",
+            "name": "V. Vapnik"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "ac793a22a276e670c13991dd7c1a67f7868e4f5b",
+        "externalIds": {
+          "MAG": "2182468807",
+          "CorpusId": 61649919
+        },
+        "url": "https://www.semanticscholar.org/paper/ac793a22a276e670c13991dd7c1a67f7868e4f5b",
+        "title": "Gene Selection for Cancer Classification using Support Vector Machines",
+        "venue": "",
+        "year": 2014,
+        "referenceCount": 5,
+        "citationCount": 3647,
+        "authors": [
+          {
+            "authorId": "9175258",
+            "name": "A. Guo"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "b90d880025b6655016851d93e80e80aaaa885ca0",
+        "externalIds": {
+          "CorpusId": 207252215
+        },
+        "url": "https://www.semanticscholar.org/paper/b90d880025b6655016851d93e80e80aaaa885ca0",
+        "title": "Author manuscript, published in \"International Journal of Computer Vision (2013)\" International Journal of Computer Vision manuscript No. (will be inserted by the editor) Image Classification with the Fisher Vector: Theory and Practice",
+        "venue": "",
+        "year": 2013,
+        "referenceCount": 0,
+        "citationCount": 1235,
+        "authors": []
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "e7321ab0f3be0b29aaf5f073fd7de7da5fed2f92",
+        "externalIds": {
+          "MAG": "340244495",
+          "DBLP": "books/cu/12/EK2012",
+          "DOI": "10.1017/CBO9780511794308",
+          "CorpusId": 14790051
+        },
+        "url": "https://www.semanticscholar.org/paper/e7321ab0f3be0b29aaf5f073fd7de7da5fed2f92",
+        "title": "Compressed Sensing",
+        "venue": "",
+        "year": 2012,
+        "referenceCount": 50,
+        "citationCount": 17589,
+        "authors": [
+          {
+            "authorId": "3125779",
+            "name": "Gitta Kutyniok"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "59875424c0bc69497aa81fd72b18610627a39358",
+        "externalIds": {
+          "CorpusId": 18964042
+        },
+        "url": "https://www.semanticscholar.org/paper/59875424c0bc69497aa81fd72b18610627a39358",
+        "title": "Johnson-Lindenstrauss notes",
+        "venue": "",
+        "year": 2010,
+        "referenceCount": 26,
+        "citationCount": 6,
+        "authors": [
+          {
+            "authorId": "49344061",
+            "name": "Jelani Nelson"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "511b0bb924d109767feb11855acd059125ff0164",
+        "externalIds": {
+          "DBLP": "journals/jmlr/ShiPDLSSV09",
+          "CorpusId": 3262365
+        },
+        "url": "https://www.semanticscholar.org/paper/511b0bb924d109767feb11855acd059125ff0164",
+        "title": "Hash Kernels",
+        "venue": "International Conference on Artificial Intelligence and Statistics",
+        "year": 2009,
+        "referenceCount": 19,
+        "citationCount": 89,
+        "authors": [
+          {
+            "authorId": "3177281",
+            "name": "Javen Qinfeng Shi"
+          },
+          {
+            "authorId": "3151405",
+            "name": "James Petterson"
+          },
+          {
+            "authorId": "2088846",
+            "name": "G. Dror"
+          },
+          {
+            "authorId": "144162125",
+            "name": "J. Langford"
+          },
+          {
+            "authorId": "46234526",
+            "name": "Alex Smola"
+          },
+          {
+            "authorId": "1990806",
+            "name": "Alexander L. Strehl"
+          },
+          {
+            "authorId": "145713876",
+            "name": "S. Vishwanathan"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "de6be15463105d4d303fa759ca6b62c186aa0d8f",
+        "externalIds": {
+          "MAG": "42888508",
+          "CorpusId": 11098628
+        },
+        "url": "https://www.semanticscholar.org/paper/de6be15463105d4d303fa759ca6b62c186aa0d8f",
+        "title": "Variable Screening in High-dimensional Feature Space",
+        "venue": "",
+        "year": 2007,
+        "referenceCount": 23,
+        "citationCount": 8,
+        "authors": [
+          {
+            "authorId": "144958605",
+            "name": "Jianqing Fan"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "7a90442b03364a95ff602fa2eb03bac922f14046",
+        "externalIds": {
+          "MAG": "2111765516",
+          "DBLP": "conf/ismb/RatschSS05",
+          "DOI": "10.1093/bioinformatics/bti1053",
+          "CorpusId": 11788089,
+          "PubMed": "15961480"
+        },
+        "url": "https://www.semanticscholar.org/paper/7a90442b03364a95ff602fa2eb03bac922f14046",
+        "title": "RASE: recognition of alternatively spliced exons in C.elegans",
+        "venue": "Intelligent Systems in Molecular Biology",
+        "year": 2005,
+        "referenceCount": 29,
+        "citationCount": 143,
+        "authors": [
+          {
+            "authorId": "2414086",
+            "name": "G. Rätsch"
+          },
+          {
+            "authorId": "3029782",
+            "name": "S. Sonnenburg"
+          },
+          {
+            "authorId": "1707625",
+            "name": "B. Scholkopf"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "Database-friendly random projections: Johnson-lindenstrauss with binary coins",
+        "venue": "Journal of Computer and System Sciences.,",
+        "year": 2003,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "a26eb90a8766449b942547b02b4f82ecfab0875c",
+        "externalIds": {
+          "CorpusId": 47503887
+        },
+        "url": "https://www.semanticscholar.org/paper/a26eb90a8766449b942547b02b4f82ecfab0875c",
+        "title": "Stat260/cs294: Randomized Algorithms for Matrices and Data",
+        "venue": "",
+        "year": null,
+        "referenceCount": 19,
+        "citationCount": 1054,
+        "authors": [
+          {
+            "authorId": "143884206",
+            "name": "Michael W. Mahoney"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "and Kutyniok , Gitta",
+        "venue": "Numerische Mathematik",
+        "year": null,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    }
+  ]
+}

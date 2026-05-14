@@ -1,0 +1,310 @@
+{
+  "total": 49,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "9fbc6d2a105fa3ea9ede00ff21f9dd440c3e8beb",
+      "externalIds": {
+        "MAG": "2963818748",
+        "DBLP": "journals/corr/ZhuY15b",
+        "ArXiv": "1512.09103",
+        "CorpusId": 13950911
+      },
+      "url": "https://www.semanticscholar.org/paper/9fbc6d2a105fa3ea9ede00ff21f9dd440c3e8beb",
+      "title": "Even Faster Accelerated Coordinate Descent Using Non-Uniform Sampling",
+      "venue": "International Conference on Machine Learning",
+      "year": 2015,
+      "referenceCount": 41,
+      "citationCount": 179,
+      "authors": [
+        {
+          "authorId": "1388725932",
+          "name": "Zeyuan Allen-Zhu"
+        },
+        {
+          "authorId": "38862887",
+          "name": "Zheng Qu"
+        },
+        {
+          "authorId": "2662221",
+          "name": "Peter Richtárik"
+        },
+        {
+          "authorId": "145155436",
+          "name": "Yang Yuan"
+        }
+      ]
+    },
+    {
+      "paperId": "c7fcdafb30bd5d3ba52569589fd32140c2ee4aa1",
+      "externalIds": {
+        "ArXiv": "2501.05244",
+        "DBLP": "journals/corr/abs-2501-05244",
+        "DOI": "10.48550/arXiv.2501.05244",
+        "CorpusId": 275405518
+      },
+      "url": "https://www.semanticscholar.org/paper/c7fcdafb30bd5d3ba52569589fd32140c2ee4aa1",
+      "title": "Optimized Sampling for Non-Line-of-Sight Imaging Using Modified Fast Fourier Transforms",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "referenceCount": 0,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2123660922",
+          "name": "Talha Sultan"
+        },
+        {
+          "authorId": "2321703122",
+          "name": "Alex Bocchieri"
+        },
+        {
+          "authorId": "2237890812",
+          "name": "Chaoying Gu"
+        },
+        {
+          "authorId": "2144516795",
+          "name": "Xiaochun Liu"
+        },
+        {
+          "authorId": "2335446425",
+          "name": "Pavel Polynkin"
+        },
+        {
+          "authorId": "2284664047",
+          "name": "Andreas Velten"
+        }
+      ]
+    },
+    {
+      "paperId": "33955a1e9b00f85e242ffc9456341eb5daa80386",
+      "externalIds": {
+        "DBLP": "conf/eusipco/BergerHM17",
+        "MAG": "2765488539",
+        "DOI": "10.23919/EUSIPCO.2017.8081497",
+        "CorpusId": 37843219
+      },
+      "url": "https://www.semanticscholar.org/paper/33955a1e9b00f85e242ffc9456341eb5daa80386",
+      "title": "Coordinate descent accelerations for signal recovery on scale-free graphs based on total variation minimization",
+      "venue": "European Signal Processing Conference",
+      "year": 2017,
+      "referenceCount": 26,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "2056945453",
+          "name": "Peter Berger"
+        },
+        {
+          "authorId": "1858777",
+          "name": "Gabor Hannak"
+        },
+        {
+          "authorId": "1788303",
+          "name": "G. Matz"
+        }
+      ]
+    },
+    {
+      "paperId": "530a75e0ad42adde46744f29732802a2c502ccfc",
+      "externalIds": {
+        "DBLP": "journals/corr/Zhu16c",
+        "CorpusId": 10088350
+      },
+      "url": "https://www.semanticscholar.org/paper/530a75e0ad42adde46744f29732802a2c502ccfc",
+      "title": "Katyusha: Accelerated Variance Reduction for Faster SGD",
+      "venue": "arXiv.org",
+      "year": 2016,
+      "referenceCount": 34,
+      "citationCount": 18,
+      "authors": [
+        {
+          "authorId": "1388725932",
+          "name": "Zeyuan Allen-Zhu"
+        }
+      ]
+    },
+    {
+      "paperId": "e84b3f3cb352d68c66fb63066adc692ec585c8fe",
+      "externalIds": {
+        "CorpusId": 6840929
+      },
+      "url": "https://www.semanticscholar.org/paper/e84b3f3cb352d68c66fb63066adc692ec585c8fe",
+      "title": "Parallelizable algorithms for X-ray CT image reconstruction with spatially non-uniform updates",
+      "venue": "",
+      "year": 2012,
+      "referenceCount": 12,
+      "citationCount": 14,
+      "authors": [
+        {
+          "authorId": "2145183201",
+          "name": "Donghwan Kim"
+        },
+        {
+          "authorId": "1711572",
+          "name": "J. Fessler"
+        }
+      ]
+    },
+    {
+      "paperId": "5cb556944edc1da5b9c201f4377314216af26c6b",
+      "externalIds": {
+        "DBLP": "journals/isci/ZhangYWZ14",
+        "MAG": "2052959720",
+        "DOI": "10.1016/j.ins.2014.04.047",
+        "CorpusId": 205460408
+      },
+      "url": "https://www.semanticscholar.org/paper/5cb556944edc1da5b9c201f4377314216af26c6b",
+      "title": "A GPU-accelerated non-negative sparse latent semantic analysis algorithm for social tagging data",
+      "venue": "Information Sciences",
+      "year": 2014,
+      "referenceCount": 40,
+      "citationCount": 14,
+      "authors": [
+        {
+          "authorId": "46867455",
+          "name": "Yin Zhang"
+        },
+        {
+          "authorId": "2060359152",
+          "name": "Deng Yi"
+        },
+        {
+          "authorId": "144162880",
+          "name": "Baogang Wei"
+        },
+        {
+          "authorId": "2125211",
+          "name": "Yueting Zhuang"
+        }
+      ]
+    },
+    {
+      "paperId": "0703f08f422066e3039c6007fb1d00cac56d7d5e",
+      "externalIds": {
+        "DOI": "10.1007/s44211-025-00867-w",
+        "CorpusId": 285172247,
+        "PubMed": "41615616"
+      },
+      "url": "https://www.semanticscholar.org/paper/0703f08f422066e3039c6007fb1d00cac56d7d5e",
+      "title": "Accelerated protein digestion by numbering-up nanochannels, followed by LC-MS analysis.",
+      "venue": "Analytical Sciences",
+      "year": 2026,
+      "referenceCount": 48,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "144751786",
+          "name": "Fang Huang"
+        },
+        {
+          "authorId": "2307984533",
+          "name": "Po-Yen Chen"
+        },
+        {
+          "authorId": "2209754086",
+          "name": "Po-Yin Chen"
+        },
+        {
+          "authorId": "2145745325",
+          "name": "Chihchen Chen"
+        },
+        {
+          "authorId": "2680078",
+          "name": "Kyojiro Morikawa"
+        }
+      ]
+    },
+    {
+      "paperId": "638b09e6978ba240f27832c4e42b12a6e6337a65",
+      "externalIds": {
+        "DBLP": "journals/tgrs/LiuZWY23",
+        "DOI": "10.1109/TGRS.2023.3303887",
+        "CorpusId": 260829107
+      },
+      "url": "https://www.semanticscholar.org/paper/638b09e6978ba240f27832c4e42b12a6e6337a65",
+      "title": "A Generalized and Accelerated Approach of Ambiguity-Free Imaging for Sub-Nyquist SAR",
+      "venue": "IEEE Transactions on Geoscience and Remote Sensing",
+      "year": 2023,
+      "referenceCount": 60,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2116746510",
+          "name": "Zhe Liu"
+        },
+        {
+          "authorId": "2087081115",
+          "name": "F. Zhou"
+        },
+        {
+          "authorId": "144637538",
+          "name": "Junjie Wu"
+        },
+        {
+          "authorId": "47988335",
+          "name": "Jianyu Yang"
+        }
+      ]
+    },
+    {
+      "paperId": "e86e2b3fd3f10cb1ecd0d08a0b36cbbdc973aa6c",
+      "externalIds": {
+        "DBLP": "conf/iros/ThakarRKKG20",
+        "DOI": "10.1109/IROS45743.2020.9340782",
+        "CorpusId": 231915155
+      },
+      "url": "https://www.semanticscholar.org/paper/e86e2b3fd3f10cb1ecd0d08a0b36cbbdc973aa6c",
+      "title": "Accelerating Bi-Directional Sampling-Based Search for Motion Planning of Non-Holonomic Mobile Manipulators",
+      "venue": "IEEE/RJS International Conference on Intelligent RObots and Systems",
+      "year": 2020,
+      "referenceCount": 31,
+      "citationCount": 27,
+      "authors": [
+        {
+          "authorId": "3427672",
+          "name": "Shantanu Thakar"
+        },
+        {
+          "authorId": "152651622",
+          "name": "Pradeep Rajendran"
+        },
+        {
+          "authorId": "46695883",
+          "name": "Hyojeong Kim"
+        },
+        {
+          "authorId": "145361937",
+          "name": "A. Kabir"
+        },
+        {
+          "authorId": "46414826",
+          "name": "Satyandra K. Gupta"
+        }
+      ]
+    },
+    {
+      "paperId": "7053bb926ada8ca89c752d6fe8b466e9a4da5fa5",
+      "externalIds": {
+        "CorpusId": 265095974
+      },
+      "url": "https://www.semanticscholar.org/paper/7053bb926ada8ca89c752d6fe8b466e9a4da5fa5",
+      "title": "Batched Stochastic Gradient Descent with Weighted Sampling",
+      "venue": "",
+      "year": 2016,
+      "referenceCount": 37,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "1843822",
+          "name": "Deanna Needell"
+        },
+        {
+          "authorId": "2265952691",
+          "name": "Rachel A. Ward"
+        }
+      ]
+    }
+  ]
+}

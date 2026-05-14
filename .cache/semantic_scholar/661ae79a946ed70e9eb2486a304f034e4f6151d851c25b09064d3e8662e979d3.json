@@ -1,0 +1,327 @@
+{
+  "total": 121,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "12e56587cab7b60a541d3b28b853fee48dd3e3e9",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-1803-04623",
+        "ArXiv": "1803.04623",
+        "MAG": "2953152479",
+        "CorpusId": 3881356
+      },
+      "url": "https://www.semanticscholar.org/paper/12e56587cab7b60a541d3b28b853fee48dd3e3e9",
+      "title": "Thompson Sampling for Combinatorial Semi-Bandits",
+      "venue": "International Conference on Machine Learning",
+      "year": 2018,
+      "referenceCount": 39,
+      "citationCount": 150,
+      "authors": [
+        {
+          "authorId": "2128046157",
+          "name": "Siwei Wang"
+        },
+        {
+          "authorId": null,
+          "name": "Wei Chen"
+        }
+      ]
+    },
+    {
+      "paperId": "c1a009db4eab0fd95897d5ba22cecfef066c54e0",
+      "externalIds": {
+        "MAG": "3103231679",
+        "DBLP": "conf/nips/PerraultBVP20",
+        "ArXiv": "2006.06613",
+        "CorpusId": 219573880
+      },
+      "url": "https://www.semanticscholar.org/paper/c1a009db4eab0fd95897d5ba22cecfef066c54e0",
+      "title": "Statistical Efficiency of Thompson Sampling for Combinatorial Semi-Bandits",
+      "venue": "Neural Information Processing Systems",
+      "year": 2020,
+      "referenceCount": 44,
+      "citationCount": 41,
+      "authors": [
+        {
+          "authorId": "31956258",
+          "name": "Pierre Perrault"
+        },
+        {
+          "authorId": "51219265",
+          "name": "Etienne Boursier"
+        },
+        {
+          "authorId": "3087994",
+          "name": "Vianney Perchet"
+        },
+        {
+          "authorId": "1806291",
+          "name": "Michal Valko"
+        }
+      ]
+    },
+    {
+      "paperId": "5d9fd028aa4698c6d255d20384ab9b6cd52b6385",
+      "externalIds": {
+        "ArXiv": "2005.06725",
+        "DBLP": "journals/corr/abs-2005-06725",
+        "MAG": "3024735955",
+        "CorpusId": 218628893
+      },
+      "url": "https://www.semanticscholar.org/paper/5d9fd028aa4698c6d255d20384ab9b6cd52b6385",
+      "title": "Thompson Sampling for Combinatorial Semi-bandits with Sleeping Arms and Long-Term Fairness Constraints",
+      "venue": "arXiv.org",
+      "year": 2020,
+      "referenceCount": 29,
+      "citationCount": 11,
+      "authors": [
+        {
+          "authorId": "152582320",
+          "name": "Zhiming Huang"
+        },
+        {
+          "authorId": "40399533",
+          "name": "Yifan Xu"
+        },
+        {
+          "authorId": "2118095333",
+          "name": "Bingshan Hu"
+        },
+        {
+          "authorId": "2317033068",
+          "name": "Qipeng Wang"
+        },
+        {
+          "authorId": "145431827",
+          "name": "Jianping Pan"
+        }
+      ]
+    },
+    {
+      "paperId": "ba29f5aa440dccc8982101038be8ca94bb06c63a",
+      "externalIds": {
+        "ArXiv": "2111.04295",
+        "DBLP": "journals/corr/abs-2111-04295",
+        "CorpusId": 243848198
+      },
+      "url": "https://www.semanticscholar.org/paper/ba29f5aa440dccc8982101038be8ca94bb06c63a",
+      "title": "The Hardness Analysis of Thompson Sampling for Combinatorial Semi-bandits with Greedy Oracle",
+      "venue": "Neural Information Processing Systems",
+      "year": 2021,
+      "referenceCount": 46,
+      "citationCount": 10,
+      "authors": [
+        {
+          "authorId": "2112394890",
+          "name": "Fang-yuan Kong"
+        },
+        {
+          "authorId": "2145217439",
+          "name": "Yueran Yang"
+        },
+        {
+          "authorId": "47483090",
+          "name": "Wei Chen"
+        },
+        {
+          "authorId": "2133435913",
+          "name": "Shuai Li"
+        }
+      ]
+    },
+    {
+      "paperId": "b9587d69f28cfe8f28c2dba434e1c6a03999bbc6",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2410-05441",
+        "ArXiv": "2410.05441",
+        "DOI": "10.48550/arXiv.2410.05441",
+        "CorpusId": 273229004
+      },
+      "url": "https://www.semanticscholar.org/paper/b9587d69f28cfe8f28c2dba434e1c6a03999bbc6",
+      "title": "Thompson Sampling For Combinatorial Bandits: Polynomial Regret and Mismatched Sampling Paradox",
+      "venue": "Neural Information Processing Systems",
+      "year": 2024,
+      "referenceCount": 25,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2266803998",
+          "name": "Raymond Zhang"
+        },
+        {
+          "authorId": "2295003538",
+          "name": "Richard Combes"
+        }
+      ]
+    },
+    {
+      "paperId": "e4318acaf4810fa00cadace69b6f908060737b97",
+      "externalIds": {
+        "DBLP": "conf/aistats/TsuchiyaIH23",
+        "CorpusId": 259093281
+      },
+      "url": "https://www.semanticscholar.org/paper/e4318acaf4810fa00cadace69b6f908060737b97",
+      "title": "Further Adaptive Best-of-Both-Worlds Algorithm for Combinatorial Semi-Bandits",
+      "venue": "International Conference on Artificial Intelligence and Statistics",
+      "year": 2023,
+      "referenceCount": 51,
+      "citationCount": 13,
+      "authors": [
+        {
+          "authorId": "51306731",
+          "name": "Taira Tsuchiya"
+        },
+        {
+          "authorId": "2087132957",
+          "name": "Shinji Ito"
+        },
+        {
+          "authorId": "2367521",
+          "name": "J. Honda"
+        }
+      ]
+    },
+    {
+      "paperId": "a3f550d415313eee87764fcc5c44b94cc82313c4",
+      "externalIds": {
+        "MAG": "2604900582",
+        "DBLP": "conf/aaai/WangOWCAC17",
+        "DOI": "10.1609/aaai.v31i1.10939",
+        "CorpusId": 27745625
+      },
+      "url": "https://www.semanticscholar.org/paper/a3f550d415313eee87764fcc5c44b94cc82313c4",
+      "title": "Efficient Ordered Combinatorial Semi-Bandits for Whole-Page Recommendation",
+      "venue": "AAAI Conference on Artificial Intelligence",
+      "year": 2017,
+      "referenceCount": 33,
+      "citationCount": 31,
+      "authors": [
+        {
+          "authorId": "2395580993",
+          "name": "Yingfei Wang"
+        },
+        {
+          "authorId": "2228609325",
+          "name": "Ouyang Hua"
+        },
+        {
+          "authorId": "2144556060",
+          "name": "Chu Wang"
+        },
+        {
+          "authorId": "2108513551",
+          "name": "Jianhui Chen"
+        },
+        {
+          "authorId": "3147544",
+          "name": "T. Asamov"
+        },
+        {
+          "authorId": "145882798",
+          "name": "Yi Chang"
+        }
+      ]
+    },
+    {
+      "paperId": "5b38018738aec8e5e12e2e24d34e0bfe2baf5eb9",
+      "externalIds": {
+        "MAG": "1876041327",
+        "DBLP": "conf/icml/WenKA15",
+        "ArXiv": "1406.7443",
+        "CorpusId": 5312016
+      },
+      "url": "https://www.semanticscholar.org/paper/5b38018738aec8e5e12e2e24d34e0bfe2baf5eb9",
+      "title": "Efficient Learning in Large-Scale Combinatorial Semi-Bandits",
+      "venue": "International Conference on Machine Learning",
+      "year": 2014,
+      "referenceCount": 33,
+      "citationCount": 105,
+      "authors": [
+        {
+          "authorId": "39761651",
+          "name": "Zheng Wen"
+        },
+        {
+          "authorId": "1681967",
+          "name": "B. Kveton"
+        },
+        {
+          "authorId": "1715458",
+          "name": "Azin Ashkan"
+        }
+      ]
+    },
+    {
+      "paperId": "eda0083765c0610f4d7f30d137c60648ec3cf39f",
+      "externalIds": {
+        "CorpusId": 271793741
+      },
+      "url": "https://www.semanticscholar.org/paper/eda0083765c0610f4d7f30d137c60648ec3cf39f",
+      "title": "Towards Eﬀicient and Optimal Covariance-Adaptive Algorithms for Combinatorial Semi-Bandits",
+      "venue": "",
+      "year": null,
+      "referenceCount": 24,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2286493259",
+          "name": "Julien Zhou"
+        },
+        {
+          "authorId": "2165801682",
+          "name": "Pierre Gaillard"
+        },
+        {
+          "authorId": "89447801",
+          "name": "Thibaud Rahier"
+        },
+        {
+          "authorId": "35366981",
+          "name": "Houssam Zenati"
+        },
+        {
+          "authorId": "2922135",
+          "name": "Julyan Arbel"
+        }
+      ]
+    },
+    {
+      "paperId": "8ec48d0ca238ed10fa079aa17d6d8d5816a2b963",
+      "externalIds": {
+        "ArXiv": "2007.04915",
+        "DBLP": "journals/corr/abs-2007-04915",
+        "MAG": "3041796049",
+        "CorpusId": 220424606
+      },
+      "url": "https://www.semanticscholar.org/paper/8ec48d0ca238ed10fa079aa17d6d8d5816a2b963",
+      "title": "Influence Diagram Bandits: Variational Thompson Sampling for Structured Bandit Problems",
+      "venue": "International Conference on Machine Learning",
+      "year": 2020,
+      "referenceCount": 49,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "1500399016",
+          "name": "Tong Yu"
+        },
+        {
+          "authorId": "1681967",
+          "name": "B. Kveton"
+        },
+        {
+          "authorId": "39761651",
+          "name": "Zheng Wen"
+        },
+        {
+          "authorId": "2328020041",
+          "name": "Ruiyi Zhang"
+        },
+        {
+          "authorId": "144486305",
+          "name": "O. Mengshoel"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,346 @@
+{
+  "total": 7596263,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "c889d6f98e6d79b89c3a6adf8a921f88fa6ba518",
+      "externalIds": {
+        "MAG": "2604763608",
+        "DBLP": "journals/corr/FinnAL17",
+        "ArXiv": "1703.03400",
+        "CorpusId": 6719686
+      },
+      "url": "https://www.semanticscholar.org/paper/c889d6f98e6d79b89c3a6adf8a921f88fa6ba518",
+      "title": "Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks",
+      "venue": "International Conference on Machine Learning",
+      "year": 2017,
+      "referenceCount": 52,
+      "citationCount": 14187,
+      "authors": [
+        {
+          "authorId": "46881670",
+          "name": "Chelsea Finn"
+        },
+        {
+          "authorId": "1689992",
+          "name": "P. Abbeel"
+        },
+        {
+          "authorId": "1736651",
+          "name": "S. Levine"
+        }
+      ]
+    },
+    {
+      "paperId": "470d11b8ca4586c930adbbfc3f60bff08f2a0161",
+      "externalIds": {
+        "MAG": "2948974578",
+        "DBLP": "conf/icml/MunkhdalaiY17",
+        "ArXiv": "1703.00837",
+        "CorpusId": 18702258,
+        "PubMed": "31106300"
+      },
+      "url": "https://www.semanticscholar.org/paper/470d11b8ca4586c930adbbfc3f60bff08f2a0161",
+      "title": "Meta Networks",
+      "venue": "International Conference on Machine Learning",
+      "year": 2017,
+      "referenceCount": 38,
+      "citationCount": 1149,
+      "authors": [
+        {
+          "authorId": "2227827",
+          "name": "Tsendsuren Munkhdalai"
+        },
+        {
+          "authorId": "2119120474",
+          "name": "Hong Yu"
+        }
+      ]
+    },
+    {
+      "paperId": "020bb2ba5f3923858cd6882ba5c5a44ea8041ab6",
+      "externalIds": {
+        "MAG": "3015606043",
+        "DBLP": "journals/pami/HospedalesAMS22",
+        "ArXiv": "2004.05439",
+        "DOI": "10.1109/TPAMI.2021.3079209",
+        "CorpusId": 215744839,
+        "PubMed": "33974543"
+      },
+      "url": "https://www.semanticscholar.org/paper/020bb2ba5f3923858cd6882ba5c5a44ea8041ab6",
+      "title": "Meta-Learning in Neural Networks: A Survey",
+      "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+      "year": 2020,
+      "referenceCount": 332,
+      "citationCount": 2566,
+      "authors": [
+        {
+          "authorId": "1697755",
+          "name": "Timothy M. Hospedales"
+        },
+        {
+          "authorId": "2063959275",
+          "name": "Antreas Antoniou"
+        },
+        {
+          "authorId": "51028255",
+          "name": "P. Micaelli"
+        },
+        {
+          "authorId": "1728216",
+          "name": "A. Storkey"
+        }
+      ]
+    },
+    {
+      "paperId": "d4c880a5301ae67e091c564bb4d45895c54de207",
+      "externalIds": {
+        "DOI": "10.1007/s10682-023-10239-3",
+        "CorpusId": 248546338
+      },
+      "url": "https://www.semanticscholar.org/paper/d4c880a5301ae67e091c564bb4d45895c54de207",
+      "title": "Transitions and its indicators in mutualistic meta-networks: effects of network topology, size of metacommunities and species dispersal",
+      "venue": "Evolutionary Ecology",
+      "year": 2023,
+      "referenceCount": 56,
+      "citationCount": 6,
+      "authors": [
+        {
+          "authorId": "152815658",
+          "name": "Gaurav Baruah"
+        }
+      ]
+    },
+    {
+      "paperId": "99b5147a7119afe5b8d3c51d3f1a68ec0e84978f",
+      "externalIds": {
+        "ArXiv": "1905.11641",
+        "DBLP": "journals/corr/abs-1905-11641",
+        "MAG": "2909383239",
+        "DOI": "10.1109/CVPR.2019.00888",
+        "CorpusId": 67926490
+      },
+      "url": "https://www.semanticscholar.org/paper/99b5147a7119afe5b8d3c51d3f1a68ec0e84978f",
+      "title": "Image Deformation Meta-Networks for One-Shot Learning",
+      "venue": "Computer Vision and Pattern Recognition",
+      "year": 2019,
+      "referenceCount": 38,
+      "citationCount": 249,
+      "authors": [
+        {
+          "authorId": "13556061",
+          "name": "Z. Chen"
+        },
+        {
+          "authorId": "35782003",
+          "name": "Yanwei Fu"
+        },
+        {
+          "authorId": "2302062",
+          "name": "Yu-Xiong Wang"
+        },
+        {
+          "authorId": "145698310",
+          "name": "Lin Ma"
+        },
+        {
+          "authorId": null,
+          "name": "Wei Liu"
+        },
+        {
+          "authorId": "145670946",
+          "name": "M. Hebert"
+        }
+      ]
+    },
+    {
+      "paperId": "ab4076fabe71e6f7fcd85cf85364a0d19cd72476",
+      "externalIds": {
+        "DBLP": "conf/cikm/ZhangHGWZZ23",
+        "DOI": "10.1145/3583780.3614651",
+        "CorpusId": 264350650
+      },
+      "url": "https://www.semanticscholar.org/paper/ab4076fabe71e6f7fcd85cf85364a0d19cd72476",
+      "title": "3MN: Three Meta Networks for Multi-Scenario and Multi-Task Learning in Online Advertising Recommender Systems",
+      "venue": "International Conference on Information and Knowledge Management",
+      "year": 2023,
+      "referenceCount": 29,
+      "citationCount": 8,
+      "authors": [
+        {
+          "authorId": "2108464074",
+          "name": "Yifei Zhang"
+        },
+        {
+          "authorId": "2260650584",
+          "name": "Hua Hua"
+        },
+        {
+          "authorId": "2407463613",
+          "name": "Huichao Guo"
+        },
+        {
+          "authorId": "2187881730",
+          "name": "Shuangyang Wang"
+        },
+        {
+          "authorId": "2150034590",
+          "name": "Chongyu Zhong"
+        },
+        {
+          "authorId": "2145407639",
+          "name": "Shijie Zhang"
+        }
+      ]
+    },
+    {
+      "paperId": "bd68e6f668670f7651345670961a5f8eddeddd97",
+      "externalIds": {
+        "MAG": "2798454267",
+        "DBLP": "conf/cvpr/ShenYZ18",
+        "DOI": "10.1109/CVPR.2018.00841",
+        "CorpusId": 52846704
+      },
+      "url": "https://www.semanticscholar.org/paper/bd68e6f668670f7651345670961a5f8eddeddd97",
+      "title": "Neural Style Transfer via Meta Networks",
+      "venue": "2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+      "year": 2018,
+      "referenceCount": 37,
+      "citationCount": 131,
+      "authors": [
+        {
+          "authorId": "3407321",
+          "name": "Falong Shen"
+        },
+        {
+          "authorId": "143653681",
+          "name": "Shuicheng Yan"
+        },
+        {
+          "authorId": "1471609826",
+          "name": "Gang Zeng"
+        }
+      ]
+    },
+    {
+      "paperId": "5ef6257158fc59a974a8902c0ed431bc4df17495",
+      "externalIds": {
+        "PubMedCentral": "8134552",
+        "DOI": "10.3389/fnins.2021.625737",
+        "CorpusId": 233744847,
+        "PubMed": "34025337"
+      },
+      "url": "https://www.semanticscholar.org/paper/5ef6257158fc59a974a8902c0ed431bc4df17495",
+      "title": "Stable Meta-Networks, Noise, and Artifacts in the Human Connectome: Low- to High-Dimensional Independent Components Analysis as a Hierarchy of Intrinsic Connectivity Networks",
+      "venue": "Frontiers in Neuroscience",
+      "year": 2021,
+      "referenceCount": 57,
+      "citationCount": 9,
+      "authors": [
+        {
+          "authorId": "2868158",
+          "name": "Korey P. Wylie"
+        },
+        {
+          "authorId": "47560192",
+          "name": "E. Kronberg"
+        },
+        {
+          "authorId": "4634727",
+          "name": "Kristina T. Legget"
+        },
+        {
+          "authorId": "67018200",
+          "name": "Brianne Sutton"
+        },
+        {
+          "authorId": "2169290",
+          "name": "J. Tregellas"
+        }
+      ]
+    },
+    {
+      "paperId": "3ee5b77bc5deb9b12901f77a0da9dccecad7f9c3",
+      "externalIds": {
+        "MAG": "2888919358",
+        "DOI": "10.1007/s00114-018-1578-5",
+        "CorpusId": 52924460,
+        "PubMed": "30291455"
+      },
+      "url": "https://www.semanticscholar.org/paper/3ee5b77bc5deb9b12901f77a0da9dccecad7f9c3",
+      "title": "Meta-networks for the study of biogeographical traits in ecological networks: the Mexican hummingbird-plant assemblage",
+      "venue": "SCIENCE NATURE",
+      "year": 2018,
+      "referenceCount": 244,
+      "citationCount": 22,
+      "authors": [
+        {
+          "authorId": "3907580",
+          "name": "Ana M. Martín González"
+        },
+        {
+          "authorId": "6012170",
+          "name": "J. Ornelas"
+        },
+        {
+          "authorId": "6716888",
+          "name": "B. Dalsgaard"
+        },
+        {
+          "authorId": "2097987356",
+          "name": "Ubaldo Márquez-Luna"
+        },
+        {
+          "authorId": "145846474",
+          "name": "C. Lara"
+        }
+      ]
+    },
+    {
+      "paperId": "35da4164fd013e15404a58c955c09fd9c87f30c0",
+      "externalIds": {
+        "MAG": "2998116350",
+        "DBLP": "conf/aaai/CaoHW0FJX20",
+        "DOI": "10.1609/AAAI.V34I07.6620",
+        "CorpusId": 213033236
+      },
+      "url": "https://www.semanticscholar.org/paper/35da4164fd013e15404a58c955c09fd9c87f30c0",
+      "title": "Feature Deformation Meta-Networks in Image Captioning of Novel Objects",
+      "venue": "AAAI Conference on Artificial Intelligence",
+      "year": 2020,
+      "referenceCount": 24,
+      "citationCount": 12,
+      "authors": [
+        {
+          "authorId": "2069445590",
+          "name": "Tingjia Cao"
+        },
+        {
+          "authorId": "2114180753",
+          "name": "Ke Han"
+        },
+        {
+          "authorId": "2108683049",
+          "name": "Xiaomei Wang"
+        },
+        {
+          "authorId": "145698310",
+          "name": "Lin Ma"
+        },
+        {
+          "authorId": "35782003",
+          "name": "Yanwei Fu"
+        },
+        {
+          "authorId": "2283318306",
+          "name": "Yu-Gang Jiang"
+        },
+        {
+          "authorId": "145905953",
+          "name": "X. Xue"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1182 @@
+{
+  "offset": 0,
+  "citingPaperInfo": {
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/1502.02551, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "title": "Deep Learning with Limited Numerical Precision",
+    "authors": [
+      {
+        "authorId": "2116011472",
+        "name": "Suyog Gupta"
+      },
+      {
+        "authorId": "31651864",
+        "name": "A. Agrawal"
+      },
+      {
+        "authorId": "33678523",
+        "name": "K. Gopalakrishnan"
+      },
+      {
+        "authorId": "32967358",
+        "name": "P. Narayanan"
+      }
+    ]
+  },
+  "data": [
+    {
+      "citedPaper": {
+        "paperId": "f5ce3abf942cdd685fb0f290f3e741f7b4749f0a",
+        "externalIds": {
+          "ArXiv": "1501.02876",
+          "DBLP": "journals/corr/WuYSDS15",
+          "MAG": "1563686443",
+          "CorpusId": 7480530
+        },
+        "url": "https://www.semanticscholar.org/paper/f5ce3abf942cdd685fb0f290f3e741f7b4749f0a",
+        "title": "Deep Image: Scaling up Image Recognition",
+        "venue": "arXiv.org",
+        "year": 2015,
+        "referenceCount": 54,
+        "citationCount": 384,
+        "authors": [
+          {
+            "authorId": "2116926120",
+            "name": "Ren Wu"
+          },
+          {
+            "authorId": "2725514",
+            "name": "Shengen Yan"
+          },
+          {
+            "authorId": "2143689293",
+            "name": "Yi Shan"
+          },
+          {
+            "authorId": "2066154565",
+            "name": "Qingqing Dang"
+          },
+          {
+            "authorId": "2087137982",
+            "name": "Gang Sun"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "d8c35c2c39fdd2ec6af37ddc8c51deb396aefef8",
+        "externalIds": {
+          "MAG": "2950769435",
+          "DBLP": "journals/corr/CourbariauxBD14",
+          "CorpusId": 26450018
+        },
+        "url": "https://www.semanticscholar.org/paper/d8c35c2c39fdd2ec6af37ddc8c51deb396aefef8",
+        "title": "Low precision arithmetic for deep learning",
+        "venue": "International Conference on Learning Representations",
+        "year": 2014,
+        "referenceCount": 0,
+        "citationCount": 175,
+        "authors": [
+          {
+            "authorId": "2388466",
+            "name": "Matthieu Courbariaux"
+          },
+          {
+            "authorId": "1751762",
+            "name": "Yoshua Bengio"
+          },
+          {
+            "authorId": "145719986",
+            "name": "J. David"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "1b82d54e9a3b06c603d7987ba3ecf437425f6330",
+        "externalIds": {
+          "MAG": "1825672851",
+          "CorpusId": 16349374
+        },
+        "url": "https://www.semanticscholar.org/paper/1b82d54e9a3b06c603d7987ba3ecf437425f6330",
+        "title": "Training deep neural networks with low precision multiplications",
+        "venue": "",
+        "year": 2014,
+        "referenceCount": 34,
+        "citationCount": 604,
+        "authors": [
+          {
+            "authorId": "2388466",
+            "name": "Matthieu Courbariaux"
+          },
+          {
+            "authorId": "1751762",
+            "name": "Yoshua Bengio"
+          },
+          {
+            "authorId": "145719986",
+            "name": "J. David"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "4157ed3db4c656854e69931cb6089b64b08784b9",
+        "externalIds": {
+          "MAG": "2048266589",
+          "DBLP": "conf/micro/ChenLLZHWLCXST14",
+          "DOI": "10.1109/MICRO.2014.58",
+          "CorpusId": 6838992
+        },
+        "url": "https://www.semanticscholar.org/paper/4157ed3db4c656854e69931cb6089b64b08784b9",
+        "title": "DaDianNao: A Machine-Learning Supercomputer",
+        "venue": "Micro",
+        "year": 2014,
+        "referenceCount": 51,
+        "citationCount": 1422,
+        "authors": [
+          {
+            "authorId": "7377735",
+            "name": "Yunji Chen"
+          },
+          {
+            "authorId": "2068286576",
+            "name": "Tao Luo"
+          },
+          {
+            "authorId": "39419985",
+            "name": "Shaoli Liu"
+          },
+          {
+            "authorId": "2145407329",
+            "name": "Shijin Zhang"
+          },
+          {
+            "authorId": "37167270",
+            "name": "Liqiang He"
+          },
+          {
+            "authorId": "2110368816",
+            "name": "Jia Wang"
+          },
+          {
+            "authorId": "3353457",
+            "name": "Ling Li"
+          },
+          {
+            "authorId": "144049725",
+            "name": "Tianshi Chen"
+          },
+          {
+            "authorId": "1719934",
+            "name": "Zhiwei Xu"
+          },
+          {
+            "authorId": "145550877",
+            "name": "Ninghui Sun"
+          },
+          {
+            "authorId": "1731764",
+            "name": "O. Temam"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "e69c8b5df8a4178b1c8c7f154a761147a6f030be",
+        "externalIds": {
+          "MAG": "1442374986",
+          "DBLP": "conf/osdi/ChilimbiSAK14",
+          "CorpusId": 2185117
+        },
+        "url": "https://www.semanticscholar.org/paper/e69c8b5df8a4178b1c8c7f154a761147a6f030be",
+        "title": "Project Adam: Building an Efficient and Scalable Deep Learning Training System",
+        "venue": "USENIX Symposium on Operating Systems Design and Implementation",
+        "year": 2014,
+        "referenceCount": 30,
+        "citationCount": 823,
+        "authors": [
+          {
+            "authorId": "3191220",
+            "name": "Trishul M. Chilimbi"
+          },
+          {
+            "authorId": "3312079",
+            "name": "Yutaka Suzue"
+          },
+          {
+            "authorId": "2300600",
+            "name": "Johnson Apacible"
+          },
+          {
+            "authorId": "40444389",
+            "name": "Karthik Kalyanaraman"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "0631a000233bc04da1f69f94b17e959f92d60994",
+        "externalIds": {
+          "DBLP": "journals/corr/GuptaSG14",
+          "ArXiv": "1409.2620",
+          "MAG": "1740594162",
+          "CorpusId": 12472404
+        },
+        "url": "https://www.semanticscholar.org/paper/0631a000233bc04da1f69f94b17e959f92d60994",
+        "title": "Learning Machines Implemented on Non-Deterministic Hardware",
+        "venue": "arXiv.org",
+        "year": 2014,
+        "referenceCount": 23,
+        "citationCount": 2,
+        "authors": [
+          {
+            "authorId": "2116011472",
+            "name": "Suyog Gupta"
+          },
+          {
+            "authorId": "1808676",
+            "name": "Vikas Sindhwani"
+          },
+          {
+            "authorId": "33678523",
+            "name": "K. Gopalakrishnan"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "680a38e8f025685b192e9e0cf755c6b664963551",
+        "externalIds": {
+          "MAG": "2138913040",
+          "DOI": "10.1126/science.1254642",
+          "CorpusId": 12706847,
+          "PubMed": "25104385"
+        },
+        "url": "https://www.semanticscholar.org/paper/680a38e8f025685b192e9e0cf755c6b664963551",
+        "title": "A million spiking-neuron integrated circuit with a scalable communication network and interface",
+        "venue": "Science",
+        "year": 2014,
+        "referenceCount": 30,
+        "citationCount": 3811,
+        "authors": [
+          {
+            "authorId": "2408151",
+            "name": "P. Merolla"
+          },
+          {
+            "authorId": "2100344",
+            "name": "J. Arthur"
+          },
+          {
+            "authorId": "1393944534",
+            "name": "Rodrigo Alvarez-Icaza"
+          },
+          {
+            "authorId": "34019307",
+            "name": "A. Cassidy"
+          },
+          {
+            "authorId": "48775866",
+            "name": "J. Sawada"
+          },
+          {
+            "authorId": "3349882",
+            "name": "F. Akopyan"
+          },
+          {
+            "authorId": "3234142",
+            "name": "Bryan L. Jackson"
+          },
+          {
+            "authorId": "39536844",
+            "name": "Nabil Imam"
+          },
+          {
+            "authorId": "2110229776",
+            "name": "Chen Guo"
+          },
+          {
+            "authorId": "2109993277",
+            "name": "Yutaka Y. Nakamura"
+          },
+          {
+            "authorId": "2938842",
+            "name": "B. Brezzo"
+          },
+          {
+            "authorId": "22497177",
+            "name": "I. Vo"
+          },
+          {
+            "authorId": "2357931",
+            "name": "S. K. Esser"
+          },
+          {
+            "authorId": "2730753",
+            "name": "R. Appuswamy"
+          },
+          {
+            "authorId": "1736425",
+            "name": "B. Taba"
+          },
+          {
+            "authorId": "1767364",
+            "name": "A. Amir"
+          },
+          {
+            "authorId": "1712991",
+            "name": "M. Flickner"
+          },
+          {
+            "authorId": "2904790",
+            "name": "W. Risk"
+          },
+          {
+            "authorId": "144576833",
+            "name": "R. Manohar"
+          },
+          {
+            "authorId": "1944330",
+            "name": "D. Modha"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "233b1774f28c9972df2dfcf20dfbb0df45792bd0",
+        "externalIds": {
+          "MAG": "2044535169",
+          "DBLP": "conf/cvpr/GokhaleJDMC14",
+          "DOI": "10.1109/CVPRW.2014.106",
+          "CorpusId": 7311716
+        },
+        "url": "https://www.semanticscholar.org/paper/233b1774f28c9972df2dfcf20dfbb0df45792bd0",
+        "title": "A 240 G-ops/s Mobile Coprocessor for Deep Neural Networks",
+        "venue": "2014 IEEE Conference on Computer Vision and Pattern Recognition Workshops",
+        "year": 2014,
+        "referenceCount": 16,
+        "citationCount": 298,
+        "authors": [
+          {
+            "authorId": "6647160",
+            "name": "Vinayak Gokhale"
+          },
+          {
+            "authorId": "2592429",
+            "name": "Jonghoon Jin"
+          },
+          {
+            "authorId": "2130620",
+            "name": "A. Dundar"
+          },
+          {
+            "authorId": "1940285",
+            "name": "B. Martini"
+          },
+          {
+            "authorId": "2889774",
+            "name": "E. Culurciello"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "e277762804aa4615b2258fbd367d91326c00b90e",
+        "externalIds": {
+          "DBLP": "conf/icassp/KimHS14",
+          "MAG": "1970027940",
+          "DOI": "10.1109/ICASSP.2014.6855060",
+          "CorpusId": 907206
+        },
+        "url": "https://www.semanticscholar.org/paper/e277762804aa4615b2258fbd367d91326c00b90e",
+        "title": "X1000 real-time phoneme recognition VLSI using feed-forward deep neural networks",
+        "venue": "IEEE International Conference on Acoustics, Speech, and Signal Processing",
+        "year": 2014,
+        "referenceCount": 18,
+        "citationCount": 55,
+        "authors": [
+          {
+            "authorId": "2518416",
+            "name": "Jonghong Kim"
+          },
+          {
+            "authorId": "2549369",
+            "name": "Kyuyeon Hwang"
+          },
+          {
+            "authorId": "145057126",
+            "name": "Wonyong Sung"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "a52d3122e045d6311bf309aed2c42ca75fb1e07f",
+        "externalIds": {
+          "MAG": "2013278460",
+          "DBLP": "conf/ijcnn/AudhkhasiOK13",
+          "DOI": "10.1109/IJCNN.2013.6707022",
+          "CorpusId": 7252068
+        },
+        "url": "https://www.semanticscholar.org/paper/a52d3122e045d6311bf309aed2c42ca75fb1e07f",
+        "title": "Noise benefits in backpropagation and deep bidirectional pre-training",
+        "venue": "IEEE International Joint Conference on Neural Network",
+        "year": 2013,
+        "referenceCount": 41,
+        "citationCount": 36,
+        "authors": [
+          {
+            "authorId": "3104038",
+            "name": "Kartik Audhkhasi"
+          },
+          {
+            "authorId": "2457761",
+            "name": "Osonde A. Osoba"
+          },
+          {
+            "authorId": "1713858",
+            "name": "B. Kosko"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "d1208ac421cf8ff67b27d93cd19ae42b8d596f95",
+        "externalIds": {
+          "MAG": "2162390675",
+          "DBLP": "conf/icml/CoatesHWWCN13",
+          "CorpusId": 8604637
+        },
+        "url": "https://www.semanticscholar.org/paper/d1208ac421cf8ff67b27d93cd19ae42b8d596f95",
+        "title": "Deep learning with COTS HPC systems",
+        "venue": "International Conference on Machine Learning",
+        "year": 2013,
+        "referenceCount": 32,
+        "citationCount": 749,
+        "authors": [
+          {
+            "authorId": "144638694",
+            "name": "A. Coates"
+          },
+          {
+            "authorId": "2570381",
+            "name": "Brody Huval"
+          },
+          {
+            "authorId": "2156632012",
+            "name": "Tao Wang"
+          },
+          {
+            "authorId": "25629078",
+            "name": "David J. Wu"
+          },
+          {
+            "authorId": "2301680",
+            "name": "Bryan Catanzaro"
+          },
+          {
+            "authorId": "34699434",
+            "name": "A. Ng"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "abd1c342495432171beb7ca8fd9551ef13cbd0ff",
+        "externalIds": {
+          "DBLP": "conf/nips/KrizhevskySH12",
+          "MAG": "2618530766",
+          "DOI": "10.1145/3065386",
+          "CorpusId": 195908774
+        },
+        "url": "https://www.semanticscholar.org/paper/abd1c342495432171beb7ca8fd9551ef13cbd0ff",
+        "title": "ImageNet classification with deep convolutional neural networks",
+        "venue": "Communications of the ACM",
+        "year": 2012,
+        "referenceCount": 71,
+        "citationCount": 128332,
+        "authors": [
+          {
+            "authorId": "2064160",
+            "name": "A. Krizhevsky"
+          },
+          {
+            "authorId": "1701686",
+            "name": "I. Sutskever"
+          },
+          {
+            "authorId": "1695689",
+            "name": "Geoffrey E. Hinton"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "3127190433230b3dc1abd0680bb58dced4bcd90e",
+        "externalIds": {
+          "DBLP": "conf/nips/DeanCMCDLMRSTYN12",
+          "MAG": "2168231600",
+          "CorpusId": 372467
+        },
+        "url": "https://www.semanticscholar.org/paper/3127190433230b3dc1abd0680bb58dced4bcd90e",
+        "title": "Large Scale Distributed Deep Networks",
+        "venue": "Neural Information Processing Systems",
+        "year": 2012,
+        "referenceCount": 31,
+        "citationCount": 4130,
+        "authors": [
+          {
+            "authorId": "49959210",
+            "name": "J. Dean"
+          },
+          {
+            "authorId": "32131713",
+            "name": "G. Corrado"
+          },
+          {
+            "authorId": "3089272",
+            "name": "R. Monga"
+          },
+          {
+            "authorId": "2118440152",
+            "name": "Kai Chen"
+          },
+          {
+            "authorId": "145139947",
+            "name": "M. Devin"
+          },
+          {
+            "authorId": "2827616",
+            "name": "Quoc V. Le"
+          },
+          {
+            "authorId": "1715548",
+            "name": "Mark Z. Mao"
+          },
+          {
+            "authorId": "1706809",
+            "name": "Marc'Aurelio Ranzato"
+          },
+          {
+            "authorId": "33666044",
+            "name": "A. Senior"
+          },
+          {
+            "authorId": "2080690",
+            "name": "P. Tucker"
+          },
+          {
+            "authorId": "143781496",
+            "name": "Ke Yang"
+          },
+          {
+            "authorId": "34699434",
+            "name": "A. Ng"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "0060745e006c5f14ec326904119dca19c6545e51",
+        "externalIds": {
+          "ArXiv": "1207.0580",
+          "MAG": "1904365287",
+          "DBLP": "journals/corr/abs-1207-0580",
+          "CorpusId": 14832074
+        },
+        "url": "https://www.semanticscholar.org/paper/0060745e006c5f14ec326904119dca19c6545e51",
+        "title": "Improving neural networks by preventing co-adaptation of feature detectors",
+        "venue": "arXiv.org",
+        "year": 2012,
+        "referenceCount": 26,
+        "citationCount": 7978,
+        "authors": [
+          {
+            "authorId": "1695689",
+            "name": "Geoffrey E. Hinton"
+          },
+          {
+            "authorId": "2897313",
+            "name": "Nitish Srivastava"
+          },
+          {
+            "authorId": "2064160",
+            "name": "A. Krizhevsky"
+          },
+          {
+            "authorId": "1701686",
+            "name": "I. Sutskever"
+          },
+          {
+            "authorId": "145124475",
+            "name": "R. Salakhutdinov"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "36f49b05d764bf5c10428b082c2d96c13c4203b9",
+        "externalIds": {
+          "DBLP": "journals/corr/abs-1106-5730",
+          "MAG": "2951781666",
+          "ArXiv": "1106.5730",
+          "CorpusId": 6108215
+        },
+        "url": "https://www.semanticscholar.org/paper/36f49b05d764bf5c10428b082c2d96c13c4203b9",
+        "title": "Hogwild: A Lock-Free Approach to Parallelizing Stochastic Gradient Descent",
+        "venue": "Neural Information Processing Systems",
+        "year": 2011,
+        "referenceCount": 30,
+        "citationCount": 2354,
+        "authors": [
+          {
+            "authorId": "9229182",
+            "name": "B. Recht"
+          },
+          {
+            "authorId": "1803218",
+            "name": "Christopher Ré"
+          },
+          {
+            "authorId": "144731788",
+            "name": "Stephen J. Wright"
+          },
+          {
+            "authorId": "47657030",
+            "name": "Feng Niu"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "204710a6a6d935150b5b16daf74493dea6d1b7a2",
+        "externalIds": {
+          "DBLP": "conf/cvpr/FarabetMCACL11",
+          "MAG": "2125203716",
+          "DOI": "10.1109/CVPRW.2011.5981829",
+          "CorpusId": 851574
+        },
+        "url": "https://www.semanticscholar.org/paper/204710a6a6d935150b5b16daf74493dea6d1b7a2",
+        "title": "NeuFlow: A runtime reconfigurable dataflow processor for vision",
+        "venue": "CVPR 2011 WORKSHOPS",
+        "year": 2011,
+        "referenceCount": 29,
+        "citationCount": 389,
+        "authors": [
+          {
+            "authorId": "2256269",
+            "name": "C. Farabet"
+          },
+          {
+            "authorId": "1940285",
+            "name": "B. Martini"
+          },
+          {
+            "authorId": "2079955555",
+            "name": "B. Corda"
+          },
+          {
+            "authorId": "2447628",
+            "name": "Polina Akselrod"
+          },
+          {
+            "authorId": "2889774",
+            "name": "E. Culurciello"
+          },
+          {
+            "authorId": "1688882",
+            "name": "Yann LeCun"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "b98cd08b75ebf2bd1d1ec47c51ef75777a7e64bd",
+        "externalIds": {
+          "DBLP": "journals/corr/abs-1003-0358",
+          "MAG": "2951274045",
+          "ArXiv": "1003.0358",
+          "DOI": "10.1162/NECO_a_00052",
+          "CorpusId": 1918673,
+          "PubMed": "20858131"
+        },
+        "url": "https://www.semanticscholar.org/paper/b98cd08b75ebf2bd1d1ec47c51ef75777a7e64bd",
+        "title": "Deep, Big, Simple Neural Nets for Handwritten Digit Recognition",
+        "venue": "Neural Computation",
+        "year": 2010,
+        "referenceCount": 29,
+        "citationCount": 1011,
+        "authors": [
+          {
+            "authorId": "1895356",
+            "name": "D. Ciresan"
+          },
+          {
+            "authorId": "2514691",
+            "name": "U. Meier"
+          },
+          {
+            "authorId": "6803671",
+            "name": "L. Gambardella"
+          },
+          {
+            "authorId": "145341374",
+            "name": "J. Schmidhuber"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "f222ae64c00a2c3bf1294d9acf89a3cf38b74982",
+        "externalIds": {
+          "MAG": "1977146902",
+          "DBLP": "journals/corr/abs-0808-2794",
+          "ArXiv": "0808.2794",
+          "DOI": "10.1016/j.cpc.2008.11.005",
+          "CorpusId": 2237830
+        },
+        "url": "https://www.semanticscholar.org/paper/f222ae64c00a2c3bf1294d9acf89a3cf38b74982",
+        "title": "Accelerating scientific computations with mixed precision algorithms",
+        "venue": "Computer Physics Communications",
+        "year": 2008,
+        "referenceCount": 64,
+        "citationCount": 244,
+        "authors": [
+          {
+            "authorId": "1794112",
+            "name": "M. Baboulin"
+          },
+          {
+            "authorId": "1760511",
+            "name": "A. Buttari"
+          },
+          {
+            "authorId": "1708869",
+            "name": "J. Dongarra"
+          },
+          {
+            "authorId": "1753279",
+            "name": "J. Kurzak"
+          },
+          {
+            "authorId": "1786954",
+            "name": "J. Langou"
+          },
+          {
+            "authorId": "1786954",
+            "name": "J. Langou"
+          },
+          {
+            "authorId": "1741269",
+            "name": "P. Luszczek"
+          },
+          {
+            "authorId": "1706099",
+            "name": "S. Tomov"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "5936754b5762260bf102ac95d7b26cfc9d31956a",
+        "externalIds": {
+          "DBLP": "conf/nips/BottouB07",
+          "MAG": "2113651538",
+          "CorpusId": 7431525
+        },
+        "url": "https://www.semanticscholar.org/paper/5936754b5762260bf102ac95d7b26cfc9d31956a",
+        "title": "The Tradeoffs of Large Scale Learning",
+        "venue": "Neural Information Processing Systems",
+        "year": 2007,
+        "referenceCount": 37,
+        "citationCount": 1729,
+        "authors": [
+          {
+            "authorId": "52184096",
+            "name": "L. Bottou"
+          },
+          {
+            "authorId": "1698617",
+            "name": "O. Bousquet"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "f8d37cf4c4a2f15acd7c6ab2b4b4f25a3f3d7f9c",
+        "externalIds": {
+          "DBLP": "journals/neco/An96",
+          "MAG": "2124136621",
+          "DOI": "10.1162/neco.1996.8.3.643",
+          "CorpusId": 49741739
+        },
+        "url": "https://www.semanticscholar.org/paper/f8d37cf4c4a2f15acd7c6ab2b4b4f25a3f3d7f9c",
+        "title": "The Effects of Adding Noise During Backpropagation Training on a Generalization Performance",
+        "venue": "Neural Computation",
+        "year": 1996,
+        "referenceCount": 37,
+        "citationCount": 525,
+        "authors": [
+          {
+            "authorId": "51072723",
+            "name": "Guozhong An"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "60e66781bf17f8103bbc57fc5daeb6fbc5e4b910",
+        "externalIds": {
+          "DBLP": "journals/tnn/MurrayE94",
+          "MAG": "2145249131",
+          "DOI": "10.1109/72.317730",
+          "CorpusId": 8666351,
+          "PubMed": "18267852"
+        },
+        "url": "https://www.semanticscholar.org/paper/60e66781bf17f8103bbc57fc5daeb6fbc5e4b910",
+        "title": "Enhanced MLP performance and fault tolerance resulting from synaptic weight noise during training",
+        "venue": "IEEE Trans. Neural Networks",
+        "year": 1994,
+        "referenceCount": 20,
+        "citationCount": 215,
+        "authors": [
+          {
+            "authorId": "144423965",
+            "name": "A. Murray"
+          },
+          {
+            "authorId": "2053507626",
+            "name": "P. J. Edwards"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "4b119dc8a4e38824d73a9f88179935a96e001aaf",
+        "externalIds": {
+          "MAG": "2112016429",
+          "DBLP": "journals/tc/HoltH93",
+          "DOI": "10.1109/12.210171",
+          "CorpusId": 1353891
+        },
+        "url": "https://www.semanticscholar.org/paper/4b119dc8a4e38824d73a9f88179935a96e001aaf",
+        "title": "Finite Precision Error Analysis of Neural Network Hardware Implementations",
+        "venue": "IEEE Trans. Computers",
+        "year": 1993,
+        "referenceCount": 12,
+        "citationCount": 258,
+        "authors": [
+          {
+            "authorId": "2588465",
+            "name": "J. L. Holt"
+          },
+          {
+            "authorId": "145159381",
+            "name": "Jenq-Neng Hwang"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "ac904eea95ee29921401cf383fc2e1ae01523b9b",
+        "externalIds": {
+          "DBLP": "journals/ijon/HohfeldF92",
+          "MAG": "2006383931",
+          "DOI": "10.1016/0925-2312(92)90014-G",
+          "CorpusId": 13282575
+        },
+        "url": "https://www.semanticscholar.org/paper/ac904eea95ee29921401cf383fc2e1ae01523b9b",
+        "title": "Probabilistic rounding in neural network learning with limited precision",
+        "venue": "Neurocomputing",
+        "year": 1992,
+        "referenceCount": 5,
+        "citationCount": 47,
+        "authors": [
+          {
+            "authorId": "3104897",
+            "name": "Markus Höhfeld"
+          },
+          {
+            "authorId": "1758714",
+            "name": "S. Fahlman"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "c4c310f427e47dc5b70aaad2d8200c8a034d4468",
+        "externalIds": {
+          "MAG": "1981071268",
+          "DBLP": "conf/ijcnn/Hammerstrom90",
+          "DOI": "10.1109/IJCNN.1990.137621",
+          "CorpusId": 206915906
+        },
+        "url": "https://www.semanticscholar.org/paper/c4c310f427e47dc5b70aaad2d8200c8a034d4468",
+        "title": "A VLSI architecture for high-performance, low-cost, on-chip learning",
+        "venue": "1990 IJCNN International Joint Conference on Neural Networks",
+        "year": 1990,
+        "referenceCount": 5,
+        "citationCount": 276,
+        "authors": [
+          {
+            "authorId": "144409142",
+            "name": "D. Hammerstrom"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "fbeaa499e10e98515f7e1c4ad89165e8c0677427",
+        "externalIds": {
+          "MAG": "587794757",
+          "CorpusId": 15196840
+        },
+        "url": "https://www.semanticscholar.org/paper/fbeaa499e10e98515f7e1c4ad89165e8c0677427",
+        "title": "Improving the speed of neural networks on CPUs",
+        "venue": "",
+        "year": 2011,
+        "referenceCount": 12,
+        "citationCount": 860,
+        "authors": [
+          {
+            "authorId": "2657155",
+            "name": "Vincent Vanhoucke"
+          },
+          {
+            "authorId": "33666044",
+            "name": "A. Senior"
+          },
+          {
+            "authorId": "1715548",
+            "name": "Mark Z. Mao"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "5d90f06bb70a0a3dced62413346235c02b1aa086",
+        "externalIds": {
+          "MAG": "2945315962",
+          "CorpusId": 18268744
+        },
+        "url": "https://www.semanticscholar.org/paper/5d90f06bb70a0a3dced62413346235c02b1aa086",
+        "title": "Learning Multiple Layers of Features from Tiny Images",
+        "venue": "",
+        "year": 2009,
+        "referenceCount": 15,
+        "citationCount": 41691,
+        "authors": [
+          {
+            "authorId": "2064160",
+            "name": "A. Krizhevsky"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "dc52d1ede1b90bf9d296bc5b34c9310b7eaa99a2",
+        "externalIds": {
+          "MAG": "200806003",
+          "CorpusId": 60282629
+        },
+        "url": "https://www.semanticscholar.org/paper/dc52d1ede1b90bf9d296bc5b34c9310b7eaa99a2",
+        "title": "The mnist database of handwritten digits",
+        "venue": "",
+        "year": 2005,
+        "referenceCount": 1,
+        "citationCount": 7315,
+        "authors": [
+          {
+            "authorId": "1688882",
+            "name": "Yann LeCun"
+          },
+          {
+            "authorId": "145115014",
+            "name": "Corinna Cortes"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "f42b865e20e61a954239f421b42007236e671f19",
+        "externalIds": {
+          "MAG": "2504108613",
+          "DOI": "10.1109/9780470544976.CH9",
+          "CorpusId": 64294544
+        },
+        "url": "https://www.semanticscholar.org/paper/f42b865e20e61a954239f421b42007236e671f19",
+        "title": "GradientBased Learning Applied to Document Recognition",
+        "venue": "",
+        "year": 2001,
+        "referenceCount": 0,
+        "citationCount": 4383,
+        "authors": [
+          {
+            "authorId": "1735300",
+            "name": "S. Haykin"
+          },
+          {
+            "authorId": "1713858",
+            "name": "B. Kosko"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "162d958ff885f1462aeda91cd72582323fd6a1f4",
+        "externalIds": {
+          "MAG": "2112796928",
+          "DBLP": "journals/pieee/LeCunBBH98",
+          "DOI": "10.1109/5.726791",
+          "CorpusId": 14542261
+        },
+        "url": "https://www.semanticscholar.org/paper/162d958ff885f1462aeda91cd72582323fd6a1f4",
+        "title": "Gradient-based learning applied to document recognition",
+        "venue": "Proceedings of the IEEE",
+        "year": 1998,
+        "referenceCount": 150,
+        "citationCount": 60063,
+        "authors": [
+          {
+            "authorId": "1688882",
+            "name": "Yann LeCun"
+          },
+          {
+            "authorId": "52184096",
+            "name": "L. Bottou"
+          },
+          {
+            "authorId": "1751762",
+            "name": "Yoshua Bengio"
+          },
+          {
+            "authorId": "1721248",
+            "name": "P. Haffner"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "1bd9c35867b1c98a4a42df84f52cb08d16a9a828",
+        "externalIds": {
+          "MAG": "2075140461",
+          "DOI": "10.1109/IJCNN.1989.118695",
+          "CorpusId": 16223044
+        },
+        "url": "https://www.semanticscholar.org/paper/1bd9c35867b1c98a4a42df84f52cb08d16a9a828",
+        "title": "An artificial neural network accelerator using general purpose 24 bit floating point digital signal processors",
+        "venue": "International 1989 Joint Conference on Neural Networks",
+        "year": 1989,
+        "referenceCount": 5,
+        "citationCount": 33,
+        "authors": [
+          {
+            "authorId": "2238160325",
+            "name": "Akira Iwata"
+          },
+          {
+            "authorId": "2113575613",
+            "name": "Y. Yoshida"
+          },
+          {
+            "authorId": "2057100619",
+            "name": "S. Matsuda"
+          },
+          {
+            "authorId": "2107688138",
+            "name": "Y. Sato"
+          },
+          {
+            "authorId": "2233055",
+            "name": "N. Suzumura"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "256bbe8e9fa3f5b72c24f1037ab734f9e7dd01c4",
+        "externalIds": {
+          "MAG": "2017369466",
+          "DBLP": "journals/computer/Kung82",
+          "DOI": "10.1109/MC.1982.1653825",
+          "CorpusId": 1858965
+        },
+        "url": "https://www.semanticscholar.org/paper/256bbe8e9fa3f5b72c24f1037ab734f9e7dd01c4",
+        "title": "Why systolic architectures?",
+        "venue": "Computer",
+        "year": 1982,
+        "referenceCount": 49,
+        "citationCount": 2410,
+        "authors": [
+          {
+            "authorId": "144153718",
+            "name": "H. T. Kung"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "Gokhale , Vinayak , Jin , Jonghoon , Dundar , Aysegul , Martini , Berin , and Culurciello , Eugenio . A 240 gops / s mobile coprocessor for deep neural networks",
+        "venue": "Computer Vision and Pattern Recognition Workshops ( CVPRW ) Neural Networks , 1990 . , 1990 IJCNN International Joint Conference on",
+        "year": null,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "c3ecd8e19e016d15670c8953b4b9afaa5186b0f3",
+        "externalIds": {
+          "CorpusId": 16096318
+        },
+        "url": "https://www.semanticscholar.org/paper/c3ecd8e19e016d15670c8953b4b9afaa5186b0f3",
+        "title": "Current address: Microsoft Research,",
+        "venue": "",
+        "year": null,
+        "referenceCount": 0,
+        "citationCount": 1141,
+        "authors": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,339 @@
+{
+  "total": 13,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "bc1d55aa7d60d38426f2fb828d60747bc5d62d68",
+      "externalIds": {
+        "ArXiv": "1411.6081",
+        "MAG": "2951999827",
+        "DBLP": "journals/corr/HsiehND14",
+        "CorpusId": 3534908
+      },
+      "url": "https://www.semanticscholar.org/paper/bc1d55aa7d60d38426f2fb828d60747bc5d62d68",
+      "title": "PU Learning for Matrix Completion",
+      "venue": "International Conference on Machine Learning",
+      "year": 2014,
+      "referenceCount": 34,
+      "citationCount": 169,
+      "authors": [
+        {
+          "authorId": "1793529",
+          "name": "Cho-Jui Hsieh"
+        },
+        {
+          "authorId": "145328735",
+          "name": "Nagarajan Natarajan"
+        },
+        {
+          "authorId": "1783667",
+          "name": "I. Dhillon"
+        }
+      ]
+    },
+    {
+      "paperId": "450798fae448d65f28174d628b0f1499251098c9",
+      "externalIds": {
+        "DBLP": "journals/apin/XiaTW23",
+        "DOI": "10.1007/s10489-023-05004-6",
+        "CorpusId": 262190746
+      },
+      "url": "https://www.semanticscholar.org/paper/450798fae448d65f28174d628b0f1499251098c9",
+      "title": "Bi-directional matrix completion for highly incomplete multi-label learning via co-embedding predictive side information",
+      "venue": "Applied intelligence (Boston)",
+      "year": 2023,
+      "referenceCount": 66,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2244764367",
+          "name": "Yuelong Xia"
+        },
+        {
+          "authorId": "2276189692",
+          "name": "Mingjing Tang"
+        },
+        {
+          "authorId": "2373597430",
+          "name": "Pei Wang"
+        }
+      ]
+    },
+    {
+      "paperId": "99994bea16edd732b6c4c266a669e10f38c9dc3d",
+      "externalIds": {
+        "DBLP": "conf/aaai/ChenLYHY21",
+        "DOI": "10.1609/aaai.v35i8.16863",
+        "CorpusId": 233305791
+      },
+      "url": "https://www.semanticscholar.org/paper/99994bea16edd732b6c4c266a669e10f38c9dc3d",
+      "title": "Scalable and Explainable 1-Bit Matrix Completion via Graph Signal Learning",
+      "venue": "AAAI Conference on Artificial Intelligence",
+      "year": 2021,
+      "referenceCount": 55,
+      "citationCount": 15,
+      "authors": [
+        {
+          "authorId": "2145763884",
+          "name": "Chao Chen"
+        },
+        {
+          "authorId": "2135905059",
+          "name": "Dongsheng Li"
+        },
+        {
+          "authorId": "3063894",
+          "name": "Junchi Yan"
+        },
+        {
+          "authorId": "2143496228",
+          "name": "Hanchi Huang"
+        },
+        {
+          "authorId": "1795291",
+          "name": "Xiaokang Yang"
+        }
+      ]
+    },
+    {
+      "paperId": "60ae9bd80b5f4d6906b2895231cc9c8822093072",
+      "externalIds": {
+        "DBLP": "conf/camsap/NatarajanRD15",
+        "MAG": "2247577512",
+        "DOI": "10.1109/CAMSAP.2015.7383730",
+        "CorpusId": 10187731
+      },
+      "url": "https://www.semanticscholar.org/paper/60ae9bd80b5f4d6906b2895231cc9c8822093072",
+      "title": "PU matrix completion with graph information",
+      "venue": "IEEE International Workshop on Computational Advances in Multi-Sensor Adaptive Processing",
+      "year": 2015,
+      "referenceCount": 21,
+      "citationCount": 6,
+      "authors": [
+        {
+          "authorId": "145328735",
+          "name": "Nagarajan Natarajan"
+        },
+        {
+          "authorId": "145850291",
+          "name": "Nikhil S. Rao"
+        },
+        {
+          "authorId": "1783667",
+          "name": "I. Dhillon"
+        }
+      ]
+    },
+    {
+      "paperId": "e275567bfba95bc17767eae42eb2abc8560e5c24",
+      "externalIds": {
+        "DBLP": "conf/smc/XuCWZ21",
+        "DOI": "10.1109/SMC52423.2021.9659301",
+        "CorpusId": 245856092
+      },
+      "url": "https://www.semanticscholar.org/paper/e275567bfba95bc17767eae42eb2abc8560e5c24",
+      "title": "One-step Multi-view Inductive Matrix Completion for Gene-Disease Associations Prediction",
+      "venue": "IEEE International Conference on Systems, Man and Cybernetics",
+      "year": 2021,
+      "referenceCount": 23,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2111064277",
+          "name": "Jie Xu"
+        },
+        {
+          "authorId": "2146070875",
+          "name": "Lei Chen"
+        },
+        {
+          "authorId": "2004649516",
+          "name": "Hui-Dong Wu"
+        },
+        {
+          "authorId": "2038525149",
+          "name": "Siming Zha"
+        }
+      ]
+    },
+    {
+      "paperId": "b4693574741ff905dfeb7ef66e47424df0a650aa",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-1803-04663",
+        "ArXiv": "1803.04663",
+        "MAG": "2791536080",
+        "CorpusId": 3836421
+      },
+      "url": "https://www.semanticscholar.org/paper/b4693574741ff905dfeb7ef66e47424df0a650aa",
+      "title": "Binary Matrix Completion Using Unobserved Entries",
+      "venue": "arXiv.org",
+      "year": 2018,
+      "referenceCount": 39,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2460717",
+          "name": "M. Hayashi"
+        },
+        {
+          "authorId": "151357825",
+          "name": "Tomoya Sakai"
+        },
+        {
+          "authorId": "67154907",
+          "name": "Masashi Sugiyama"
+        }
+      ]
+    },
+    {
+      "paperId": "1be34b6366899e42e1fcce81c2a414d66af90e6c",
+      "externalIds": {
+        "MAG": "2923082472",
+        "DBLP": "journals/tcbb/ZengLHLMR20",
+        "DOI": "10.1109/TCBB.2019.2907536",
+        "CorpusId": 89620871,
+        "PubMed": "30932845"
+      },
+      "url": "https://www.semanticscholar.org/paper/1be34b6366899e42e1fcce81c2a414d66af90e6c",
+      "title": "Deep Collaborative Filtering for Prediction of Disease Genes",
+      "venue": "IEEE/ACM Transactions on Computational Biology & Bioinformatics",
+      "year": 2020,
+      "referenceCount": 46,
+      "citationCount": 37,
+      "authors": [
+        {
+          "authorId": "7724819",
+          "name": "Xiangxiang Zeng"
+        },
+        {
+          "authorId": "1410085246",
+          "name": "Yinglai Lin"
+        },
+        {
+          "authorId": "2119290561",
+          "name": "Yuying He"
+        },
+        {
+          "authorId": "151093143",
+          "name": "Linyuan Lü"
+        },
+        {
+          "authorId": "2055550099",
+          "name": "Xiaoping Min"
+        },
+        {
+          "authorId": "1397793046",
+          "name": "Alfonso Rodríguez-Patón"
+        }
+      ]
+    },
+    {
+      "paperId": "72f0f9e9d798414aeb77efa415d1550276e72d07",
+      "externalIds": {
+        "ArXiv": "1810.09679",
+        "MAG": "2896903681",
+        "DBLP": "journals/corr/abs-1810-09679",
+        "CorpusId": 53038883
+      },
+      "url": "https://www.semanticscholar.org/paper/72f0f9e9d798414aeb77efa415d1550276e72d07",
+      "title": "Numpywren: Serverless Linear Algebra",
+      "venue": "arXiv.org",
+      "year": 2018,
+      "referenceCount": 35,
+      "citationCount": 114,
+      "authors": [
+        {
+          "authorId": "34961417",
+          "name": "Vaishaal Shankar"
+        },
+        {
+          "authorId": "48778049",
+          "name": "K. Krauth"
+        },
+        {
+          "authorId": "2699039",
+          "name": "Qifan Pu"
+        },
+        {
+          "authorId": "145426489",
+          "name": "Eric Jonas"
+        },
+        {
+          "authorId": "2697906",
+          "name": "S. Venkataraman"
+        },
+        {
+          "authorId": "2316152888",
+          "name": "Ion Stoica"
+        },
+        {
+          "authorId": "9229182",
+          "name": "B. Recht"
+        },
+        {
+          "authorId": "1401885963",
+          "name": "Jonathan Ragan-Kelley"
+        }
+      ]
+    },
+    {
+      "paperId": "8c3da5afb36a37c692cbbf10021d30158b280ab5",
+      "externalIds": {
+        "DBLP": "conf/bic-ta/ChenL18",
+        "MAG": "2895432200",
+        "DOI": "10.1007/978-981-13-2826-8_27",
+        "CorpusId": 69342165
+      },
+      "url": "https://www.semanticscholar.org/paper/8c3da5afb36a37c692cbbf10021d30158b280ab5",
+      "title": "A Weighted Bagging LightGBM Model for Potential lncRNA-Disease Association Identification",
+      "venue": "International Conference on Bio-Inspired Computing: Theories and Applications",
+      "year": 2018,
+      "referenceCount": 18,
+      "citationCount": 11,
+      "authors": [
+        {
+          "authorId": "2145231158",
+          "name": "Xin Chen"
+        },
+        {
+          "authorId": "46522058",
+          "name": "Xiangrong Liu"
+        }
+      ]
+    },
+    {
+      "paperId": "a5a30050aca5427a79f8163dfa9388bfb7e74a99",
+      "externalIds": {
+        "MAG": "2884602213",
+        "DBLP": "conf/pricai/ChenPYC18",
+        "DOI": "10.1007/978-3-319-97310-4_30",
+        "CorpusId": 51875116
+      },
+      "url": "https://www.semanticscholar.org/paper/a5a30050aca5427a79f8163dfa9388bfb7e74a99",
+      "title": "Prior Knowledge Guided Gene-Disease Associations Prediction: An Enhanced Inductive Matrix Completion Approach",
+      "venue": "Pacific Rim International Conference on Artificial Intelligence",
+      "year": 2018,
+      "referenceCount": 12,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "40560015",
+          "name": "Lei Chen"
+        },
+        {
+          "authorId": "94588954",
+          "name": "J. Pu"
+        },
+        {
+          "authorId": "2111906303",
+          "name": "Ziwen Yang"
+        },
+        {
+          "authorId": "2118653877",
+          "name": "Xingguo Chen"
+        }
+      ]
+    }
+  ]
+}

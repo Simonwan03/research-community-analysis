@@ -1,0 +1,294 @@
+{
+  "total": 120,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "ecc0edd450ae7e52f65ddf61405b30ad6dbabdd7",
+      "externalIds": {
+        "ArXiv": "1610.09585",
+        "MAG": "2548275288",
+        "DBLP": "conf/icml/OdenaOS17",
+        "CorpusId": 1099052
+      },
+      "url": "https://www.semanticscholar.org/paper/ecc0edd450ae7e52f65ddf61405b30ad6dbabdd7",
+      "title": "Conditional Image Synthesis with Auxiliary Classifier GANs",
+      "venue": "International Conference on Machine Learning",
+      "year": 2016,
+      "referenceCount": 43,
+      "citationCount": 3482,
+      "authors": [
+        {
+          "authorId": "2624088",
+          "name": "Augustus Odena"
+        },
+        {
+          "authorId": "2357599482",
+          "name": "Christopher Olah"
+        },
+        {
+          "authorId": "1789737",
+          "name": "Jonathon Shlens"
+        }
+      ]
+    },
+    {
+      "paperId": "b599af5ce35881886a1ad8a093a0587659d6652f",
+      "externalIds": {
+        "DBLP": "conf/wacv/Wang21",
+        "DOI": "10.1109/WACV48630.2021.00261",
+        "CorpusId": 231837781
+      },
+      "url": "https://www.semanticscholar.org/paper/b599af5ce35881886a1ad8a093a0587659d6652f",
+      "title": "Learning Fast Converging, Effective Conditional Generative Adversarial Networks with a Mirrored Auxiliary Classifier",
+      "venue": "IEEE Workshop/Winter Conference on Applications of Computer Vision",
+      "year": 2021,
+      "referenceCount": 49,
+      "citationCount": 4,
+      "authors": [
+        {
+          "authorId": "1687515",
+          "name": "Z. Wang"
+        }
+      ]
+    },
+    {
+      "paperId": "7208173daa5131f59be645fecd81e103ad3a2d70",
+      "externalIds": {
+        "MAG": "2952975193",
+        "DBLP": "journals/corr/abs-1805-01972",
+        "ArXiv": "1805.01972",
+        "DOI": "10.1109/ICIP.2018.8451161",
+        "CorpusId": 20640550
+      },
+      "url": "https://www.semanticscholar.org/paper/7208173daa5131f59be645fecd81e103ad3a2d70",
+      "title": "Fast-Converging Conditional Generative Adversarial Networks for Image Synthesis",
+      "venue": "International Conference on Information Photonics",
+      "year": 2018,
+      "referenceCount": 23,
+      "citationCount": 32,
+      "authors": [
+        {
+          "authorId": "2128665538",
+          "name": "Chengcheng Li"
+        },
+        {
+          "authorId": "1687515",
+          "name": "Z. Wang"
+        },
+        {
+          "authorId": "1698645",
+          "name": "H. Qi"
+        }
+      ]
+    },
+    {
+      "paperId": "908c342d66137f5e70544e8204951f28cb02deb0",
+      "externalIds": {
+        "ArXiv": "1808.04108",
+        "DBLP": "conf/icassp/WanCL19",
+        "MAG": "2887256099",
+        "DOI": "10.1109/ICASSP.2019.8682383",
+        "CorpusId": 51970352
+      },
+      "url": "https://www.semanticscholar.org/paper/908c342d66137f5e70544e8204951f28cb02deb0",
+      "title": "Towards Audio to Scene Image Synthesis Using Generative Adversarial Network",
+      "venue": "IEEE International Conference on Acoustics, Speech, and Signal Processing",
+      "year": 2018,
+      "referenceCount": 24,
+      "citationCount": 70,
+      "authors": [
+        {
+          "authorId": "35508795",
+          "name": "Chia-Hung Wan"
+        },
+        {
+          "authorId": "7146976",
+          "name": "Shun-Po Chuang"
+        },
+        {
+          "authorId": "1706104",
+          "name": "Hung-yi Lee"
+        }
+      ]
+    },
+    {
+      "paperId": "a9b3cc8d7e5f78642e94f8cc9f869f414b62fce6",
+      "externalIds": {
+        "DBLP": "journals/tnsm/HaghbinBTP25",
+        "DOI": "10.1109/TNSM.2025.3571688",
+        "CorpusId": 278751522
+      },
+      "url": "https://www.semanticscholar.org/paper/a9b3cc8d7e5f78642e94f8cc9f869f414b62fce6",
+      "title": "Resilient Federated Adversarial Learning With Auxiliary-Classifier GANs and Probabilistic Synthesis for Heterogeneous Environments",
+      "venue": "IEEE Transactions on Network and Service Management",
+      "year": 2025,
+      "referenceCount": 58,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2322980600",
+          "name": "Yasaman Haghbin"
+        },
+        {
+          "authorId": "2334611991",
+          "name": "Mohammad Hossein Badiei"
+        },
+        {
+          "authorId": "2334479027",
+          "name": "N. H. Tran"
+        },
+        {
+          "authorId": "27648067",
+          "name": "Md. Jalil Piran"
+        }
+      ]
+    },
+    {
+      "paperId": "64ea8f180d0682e6c18d1eb688afdb2027c02794",
+      "externalIds": {
+        "ArXiv": "2105.05233",
+        "DBLP": "journals/corr/abs-2105-05233",
+        "CorpusId": 234357997
+      },
+      "url": "https://www.semanticscholar.org/paper/64ea8f180d0682e6c18d1eb688afdb2027c02794",
+      "title": "Diffusion Models Beat GANs on Image Synthesis",
+      "venue": "Neural Information Processing Systems",
+      "year": 2021,
+      "referenceCount": 81,
+      "citationCount": 11464,
+      "authors": [
+        {
+          "authorId": "6515819",
+          "name": "Prafulla Dhariwal"
+        },
+        {
+          "authorId": "38967461",
+          "name": "Alex Nichol"
+        }
+      ]
+    },
+    {
+      "paperId": "a3063615c5cc611fce25a42b968fb15bf2133265",
+      "externalIds": {
+        "DBLP": "journals/staeors/LiuYL21",
+        "DOI": "10.1109/JSTARS.2021.3063911",
+        "CorpusId": 233178013
+      },
+      "url": "https://www.semanticscholar.org/paper/a3063615c5cc611fce25a42b968fb15bf2133265",
+      "title": "HSIGAN: A Conditional Hyperspectral Image Synthesis Method With Auxiliary Classifier",
+      "venue": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing",
+      "year": 2021,
+      "referenceCount": 61,
+      "citationCount": 13,
+      "authors": [
+        {
+          "authorId": "1654091065",
+          "name": "Wei Liu"
+        },
+        {
+          "authorId": "1500654849",
+          "name": "Jie You"
+        },
+        {
+          "authorId": "2034182",
+          "name": "Joonwhoan Lee"
+        }
+      ]
+    },
+    {
+      "paperId": "e6beb2f752b63b50392c298e46c0414ed36d00b3",
+      "externalIds": {
+        "DBLP": "journals/cbm/HamghalamS24",
+        "DOI": "10.1016/j.compbiomed.2024.107982",
+        "CorpusId": 267187005,
+        "PubMed": "38266466"
+      },
+      "url": "https://www.semanticscholar.org/paper/e6beb2f752b63b50392c298e46c0414ed36d00b3",
+      "title": "Medical image synthesis via conditional GANs: Application to segmenting brain tumours",
+      "venue": "Comput. Biol. Medicine",
+      "year": 2024,
+      "referenceCount": 53,
+      "citationCount": 42,
+      "authors": [
+        {
+          "authorId": "2278414530",
+          "name": "Mohammad Hamghalam"
+        },
+        {
+          "authorId": "2257016540",
+          "name": "Amber L. Simpson"
+        }
+      ]
+    },
+    {
+      "paperId": "6fa8f0b053f566b1953a9a0fe7cad245b7c3d0d0",
+      "externalIds": {
+        "MAG": "2905726511",
+        "DOI": "10.1007/978-3-030-03405-4_29",
+        "CorpusId": 57997055
+      },
+      "url": "https://www.semanticscholar.org/paper/6fa8f0b053f566b1953a9a0fe7cad245b7c3d0d0",
+      "title": "Conditional Image Synthesis Using Stacked Auxiliary Classifier Generative Adversarial Networks",
+      "venue": "Advances in Intelligent Systems and Computing",
+      "year": 2018,
+      "referenceCount": 17,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "2113323030",
+          "name": "Zhongwei Yao"
+        },
+        {
+          "authorId": "143626361",
+          "name": "Hao Dong"
+        },
+        {
+          "authorId": "38547067",
+          "name": "Fangde Liu"
+        },
+        {
+          "authorId": "2179965463",
+          "name": "Yike Guo"
+        }
+      ]
+    },
+    {
+      "paperId": "cb84899b5a3f8e3a915cb66924fe2998d158e6d7",
+      "externalIds": {
+        "ArXiv": "2201.09120",
+        "DBLP": "conf/icassp/DravidSWCK22",
+        "DOI": "10.1109/icassp43922.2022.9747286",
+        "CorpusId": 246240759
+      },
+      "url": "https://www.semanticscholar.org/paper/cb84899b5a3f8e3a915cb66924fe2998d158e6d7",
+      "title": "Investigating the Potential of Auxiliary-Classifier Gans for Image Classification in Low Data Regimes",
+      "venue": "IEEE International Conference on Acoustics, Speech, and Signal Processing",
+      "year": 2022,
+      "referenceCount": 29,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "116990729",
+          "name": "Amil Dravid"
+        },
+        {
+          "authorId": "16766276",
+          "name": "Florian Schiffers"
+        },
+        {
+          "authorId": "2108408388",
+          "name": "Yunan Wu"
+        },
+        {
+          "authorId": "1793812",
+          "name": "O. Cossairt"
+        },
+        {
+          "authorId": "144842935",
+          "name": "A. Katsaggelos"
+        }
+      ]
+    }
+  ]
+}

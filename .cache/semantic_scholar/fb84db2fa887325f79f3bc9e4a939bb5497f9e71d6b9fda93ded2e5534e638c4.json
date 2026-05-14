@@ -1,0 +1,64 @@
+{
+  "total": 2,
+  "offset": 0,
+  "data": [
+    {
+      "paperId": "2ca9e8a2cc9edbee0c5e96a2974f7e78a133f7f7",
+      "externalIds": {
+        "DBLP": "conf/icml/LiuWS16",
+        "MAG": "2962897291",
+        "ArXiv": "1510.01025",
+        "CorpusId": 2386690
+      },
+      "url": "https://www.semanticscholar.org/paper/2ca9e8a2cc9edbee0c5e96a2974f7e78a133f7f7",
+      "title": "Quadratic Optimization with Orthogonality Constraints: Explicit Lojasiewicz Exponent and Linear Convergence of Line-Search Methods",
+      "venue": "International Conference on Machine Learning",
+      "year": 2015,
+      "referenceCount": 37,
+      "citationCount": 51,
+      "authors": [
+        {
+          "authorId": "2561459",
+          "name": "Huikang Liu"
+        },
+        {
+          "authorId": "2403475063",
+          "name": "Weijie Wu"
+        },
+        {
+          "authorId": "1734000",
+          "name": "A. M. So"
+        }
+      ]
+    },
+    {
+      "paperId": "2a3d63f11dd3080c257b0b0abd3d62dae0ef6f41",
+      "externalIds": {
+        "MAG": "2805907244",
+        "DBLP": "journals/mp/LiuSW19",
+        "DOI": "10.1007/s10107-018-1285-1",
+        "CorpusId": 125099607
+      },
+      "url": "https://www.semanticscholar.org/paper/2a3d63f11dd3080c257b0b0abd3d62dae0ef6f41",
+      "title": "Quadratic optimization with orthogonality constraint: explicit Łojasiewicz exponent and linear convergence of retraction-based line-search and stochastic variance-reduced gradient methods",
+      "venue": "Mathematical programming",
+      "year": 2018,
+      "referenceCount": 69,
+      "citationCount": 77,
+      "authors": [
+        {
+          "authorId": "2561459",
+          "name": "Huikang Liu"
+        },
+        {
+          "authorId": "1734000",
+          "name": "A. M. So"
+        },
+        {
+          "authorId": "2403475063",
+          "name": "Weijie Wu"
+        }
+      ]
+    }
+  ]
+}

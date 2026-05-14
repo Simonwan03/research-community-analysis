@@ -1,0 +1,322 @@
+{
+  "total": 163,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "e15d062ef07abab8fae65244f64ccd2aac8d2b94",
+      "externalIds": {
+        "DBLP": "conf/icml/LiuWY17",
+        "MAG": "2964140943",
+        "ArXiv": "1705.02426",
+        "CorpusId": 19370455
+      },
+      "url": "https://www.semanticscholar.org/paper/e15d062ef07abab8fae65244f64ccd2aac8d2b94",
+      "title": "Analogical Inference for Multi-relational Embeddings",
+      "venue": "International Conference on Machine Learning",
+      "year": 2017,
+      "referenceCount": 52,
+      "citationCount": 400,
+      "authors": [
+        {
+          "authorId": "2391802",
+          "name": "Hanxiao Liu"
+        },
+        {
+          "authorId": "9287688",
+          "name": "Yuexin Wu"
+        },
+        {
+          "authorId": "35729970",
+          "name": "Yiming Yang"
+        }
+      ]
+    },
+    {
+      "paperId": "21c7cdc2312a4e023a455c17792876dd771e62b2",
+      "externalIds": {
+        "DBLP": "journals/mta/SeshadriYG25",
+        "DOI": "10.1007/s11042-025-20892-1",
+        "CorpusId": 278441962
+      },
+      "url": "https://www.semanticscholar.org/paper/21c7cdc2312a4e023a455c17792876dd771e62b2",
+      "title": "Inference of context and sentiment-aware causal phrase embeddings from product reviews using multi-relational graph neural networks",
+      "venue": "Multimedia tools and applications",
+      "year": 2025,
+      "referenceCount": 62,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2059398",
+          "name": "Karthick Seshadri"
+        },
+        {
+          "authorId": "2122174048",
+          "name": "Vrps Sastry Yadavilli"
+        },
+        {
+          "authorId": "2221784639",
+          "name": "Samriddhee Ghosh"
+        }
+      ]
+    },
+    {
+      "paperId": "2521eea72ae96ecc4c5ef221b2fbae87caa4f716",
+      "externalIds": {
+        "DBLP": "conf/www/LiWZ023",
+        "DOI": "10.1145/3543873.3587333",
+        "CorpusId": 258377553
+      },
+      "url": "https://www.semanticscholar.org/paper/2521eea72ae96ecc4c5ef221b2fbae87caa4f716",
+      "title": "An Analogical Reasoning Method Based on Multi-task Learning with Relational Clustering",
+      "venue": "The Web Conference",
+      "year": 2023,
+      "referenceCount": 12,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "2215683677",
+          "name": "Shuyi Li"
+        },
+        {
+          "authorId": "2042696429",
+          "name": "Shaojuan Wu"
+        },
+        {
+          "authorId": "1780738",
+          "name": "Xiaowang Zhang"
+        },
+        {
+          "authorId": "2113908670",
+          "name": "Zhiyong Feng"
+        }
+      ]
+    },
+    {
+      "paperId": "338c45b5e228b340c5edb5bff8419f0269dc70ff",
+      "externalIds": {
+        "PubMedCentral": "12494800",
+        "DOI": "10.1038/s41598-025-17941-y",
+        "CorpusId": 281819805,
+        "PubMed": "41044243"
+      },
+      "url": "https://www.semanticscholar.org/paper/338c45b5e228b340c5edb5bff8419f0269dc70ff",
+      "title": "Network attack knowledge inference with graph convolutional networks and convolutional 2D KG embeddings",
+      "venue": "Scientific Reports",
+      "year": 2025,
+      "referenceCount": 36,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2267376239",
+          "name": "Weiwu Ren"
+        },
+        {
+          "authorId": "2349715377",
+          "name": "Hewen Zhang"
+        },
+        {
+          "authorId": "2268383087",
+          "name": "Ying Lei"
+        }
+      ]
+    },
+    {
+      "paperId": "69e1ef836726a3b0c1d04d7ad8c65a06d8fb1481",
+      "externalIds": {
+        "DBLP": "conf/ijcnn/DoldG21",
+        "ArXiv": "2104.13398",
+        "DOI": "10.1109/IJCNN52387.2021.9533548",
+        "CorpusId": 233423164
+      },
+      "url": "https://www.semanticscholar.org/paper/69e1ef836726a3b0c1d04d7ad8c65a06d8fb1481",
+      "title": "SpikE: spike-based embeddings for multi-relational graph data",
+      "venue": "IEEE International Joint Conference on Neural Network",
+      "year": 2021,
+      "referenceCount": 51,
+      "citationCount": 12,
+      "authors": [
+        {
+          "authorId": "19322337",
+          "name": "Dominik Dold"
+        },
+        {
+          "authorId": "2028412",
+          "name": "J. Garrido"
+        }
+      ]
+    },
+    {
+      "paperId": "f896105724e9d454aa026bb14a7874763913a5ae",
+      "externalIds": {
+        "ArXiv": "2303.07666",
+        "DBLP": "journals/corr/abs-2303-07666",
+        "DOI": "10.48550/arXiv.2303.07666",
+        "CorpusId": 251647974
+      },
+      "url": "https://www.semanticscholar.org/paper/f896105724e9d454aa026bb14a7874763913a5ae",
+      "title": "Relational Multi-Task Learning: Modeling Relations between Data and Tasks",
+      "venue": "arXiv.org",
+      "year": 2023,
+      "referenceCount": 41,
+      "citationCount": 27,
+      "authors": [
+        {
+          "authorId": "48865984",
+          "name": "Kaidi Cao"
+        },
+        {
+          "authorId": "145829303",
+          "name": "Jiaxuan You"
+        },
+        {
+          "authorId": "1702139",
+          "name": "J. Leskovec"
+        }
+      ]
+    },
+    {
+      "paperId": "ccda0c26151f469a87a1853e649d4d2f5ff9a3bf",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2511-10842",
+        "ArXiv": "2511.10842",
+        "DOI": "10.1109/BigData66926.2025.11400828",
+        "CorpusId": 283055330
+      },
+      "url": "https://www.semanticscholar.org/paper/ccda0c26151f469a87a1853e649d4d2f5ff9a3bf",
+      "title": "HyperComplEx: Adaptive Multi-Space Knowledge Graph Embeddings",
+      "venue": "BigData Congress [Services Society]",
+      "year": 2025,
+      "referenceCount": 42,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2360173319",
+          "name": "Jugal Gajjar"
+        },
+        {
+          "authorId": "2126090358",
+          "name": "Kaustik Ranaware"
+        },
+        {
+          "authorId": "2308308727",
+          "name": "Kamalasankari Subramaniakuppusamy"
+        },
+        {
+          "authorId": "2254480669",
+          "name": "Vaibhav Gandhi"
+        }
+      ]
+    },
+    {
+      "paperId": "46bc47ade14a95d8d51da938292f0ececbd855e0",
+      "externalIds": {
+        "PubMedCentral": "11644511",
+        "DOI": "10.3390/s24237605",
+        "CorpusId": 274397704,
+        "PubMed": "39686142"
+      },
+      "url": "https://www.semanticscholar.org/paper/46bc47ade14a95d8d51da938292f0ececbd855e0",
+      "title": "MERGE: A Modal Equilibrium Relational Graph Framework for Multi-Modal Knowledge Graph Completion",
+      "venue": "Italian National Conference on Sensors",
+      "year": 2024,
+      "referenceCount": 60,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2333014094",
+          "name": "Yuying Shang"
+        },
+        {
+          "authorId": "2333004426",
+          "name": "Kun Fu"
+        },
+        {
+          "authorId": "2118689936",
+          "name": "Zequen Zhang"
+        },
+        {
+          "authorId": "2152163772",
+          "name": "Li Jin"
+        },
+        {
+          "authorId": "2320146675",
+          "name": "Zinan Liu"
+        },
+        {
+          "authorId": "2151225717",
+          "name": "Shensi Wang"
+        },
+        {
+          "authorId": "2109104284",
+          "name": "Shuchao Li"
+        }
+      ]
+    },
+    {
+      "paperId": "e01c29528fe38af9edef553ddcf4cd80c558e33b",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2508-06257",
+        "ArXiv": "2508.06257",
+        "DOI": "10.48550/arXiv.2508.06257",
+        "CorpusId": 280561597
+      },
+      "url": "https://www.semanticscholar.org/paper/e01c29528fe38af9edef553ddcf4cd80c558e33b",
+      "title": "Multi-Omics Analysis for Cancer Subtype Inference via Unrolling Graph Smoothness Priors",
+      "venue": "International Joint Conference on Artificial Intelligence",
+      "year": 2025,
+      "referenceCount": 30,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2203977517",
+          "name": "Jielong Lu"
+        },
+        {
+          "authorId": "2355654608",
+          "name": "Zhihao Wu"
+        },
+        {
+          "authorId": "2348672556",
+          "name": "Jiajun Yu"
+        },
+        {
+          "authorId": "2253457926",
+          "name": "Jiajun Bu"
+        },
+        {
+          "authorId": "2238917689",
+          "name": "Haishuai Wang"
+        }
+      ]
+    },
+    {
+      "paperId": "70c4972b03d63f79532017bcfa4a40dc7e1d0c87",
+      "externalIds": {
+        "DBLP": "journals/cluster/ZhaoYY24",
+        "DOI": "10.1007/s10586-024-04514-3",
+        "CorpusId": 269640879
+      },
+      "url": "https://www.semanticscholar.org/paper/70c4972b03d63f79532017bcfa4a40dc7e1d0c87",
+      "title": "A knowledge graph embedding model based on multi-level analogical reasoning",
+      "venue": "Cluster Computing",
+      "year": 2024,
+      "referenceCount": 37,
+      "citationCount": 7,
+      "authors": [
+        {
+          "authorId": "2297141949",
+          "name": "Xiaofei Zhao"
+        },
+        {
+          "authorId": "2111077805",
+          "name": "Meng-Han Yang"
+        },
+        {
+          "authorId": "2300524845",
+          "name": "Hongji Yang"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,321 @@
+{
+  "total": 45,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "abe9961e41c9df1fd599419a695128feb2ee88d4",
+      "externalIds": {
+        "ArXiv": "1703.09631",
+        "MAG": "2741665069",
+        "DBLP": "conf/icml/OngieWNB17",
+        "CorpusId": 10251304
+      },
+      "url": "https://www.semanticscholar.org/paper/abe9961e41c9df1fd599419a695128feb2ee88d4",
+      "title": "Algebraic Variety Models for High-Rank Matrix Completion",
+      "venue": "International Conference on Machine Learning",
+      "year": 2017,
+      "referenceCount": 32,
+      "citationCount": 58,
+      "authors": [
+        {
+          "authorId": "3021762",
+          "name": "Greg Ongie"
+        },
+        {
+          "authorId": "145952380",
+          "name": "R. Willett"
+        },
+        {
+          "authorId": "50033772",
+          "name": "R. Nowak"
+        },
+        {
+          "authorId": "1682385",
+          "name": "L. Balzano"
+        }
+      ]
+    },
+    {
+      "paperId": "4d1d931445c25cef3629464c948866f492eba4c9",
+      "externalIds": {
+        "MAG": "3038662035",
+        "DBLP": "journals/tkde/YangLW22",
+        "DOI": "10.1109/tkde.2020.3005978",
+        "CorpusId": 221658955
+      },
+      "url": "https://www.semanticscholar.org/paper/4d1d931445c25cef3629464c948866f492eba4c9",
+      "title": "Feature and Nuclear Norm Minimization for Matrix Completion",
+      "venue": "IEEE Transactions on Knowledge and Data Engineering",
+      "year": 2022,
+      "referenceCount": 42,
+      "citationCount": 20,
+      "authors": [
+        {
+          "authorId": "150238252",
+          "name": "Mengyun Yang"
+        },
+        {
+          "authorId": "2748057",
+          "name": "Yaohang Li"
+        },
+        {
+          "authorId": "46583616",
+          "name": "Jianxin Wang"
+        }
+      ]
+    },
+    {
+      "paperId": "e1efa31a11c5335e42c4d0f03a54e415ab790c21",
+      "externalIds": {
+        "MAG": "3048248430",
+        "DOI": "10.1063/5.0018326",
+        "CorpusId": 225366130,
+        "PubMed": "32770897"
+      },
+      "url": "https://www.semanticscholar.org/paper/e1efa31a11c5335e42c4d0f03a54e415ab790c21",
+      "title": "A matrix completion algorithm to recover modes orthogonal to the minimum energy path in chemical reactions.",
+      "venue": "Journal of Chemical Physics",
+      "year": 2020,
+      "referenceCount": 58,
+      "citationCount": 5,
+      "authors": [
+        {
+          "authorId": "2006097639",
+          "name": "S. J. Quiton"
+        },
+        {
+          "authorId": "144172505",
+          "name": "U. Mitra"
+        },
+        {
+          "authorId": "15515252",
+          "name": "Shaama Mallikarjun Sharada"
+        }
+      ]
+    },
+    {
+      "paperId": "e0d1132428e8af0841763c75184b9a84c82c99b7",
+      "externalIds": {
+        "DBLP": "conf/stoc/BlaserIJL18",
+        "MAG": "2798314100",
+        "DOI": "10.1145/3188745.3188832",
+        "CorpusId": 5038787
+      },
+      "url": "https://www.semanticscholar.org/paper/e0d1132428e8af0841763c75184b9a84c82c99b7",
+      "title": "Generalized matrix completion and algebraic natural proofs",
+      "venue": "Electron. Colloquium Comput. Complex.",
+      "year": 2018,
+      "referenceCount": 34,
+      "citationCount": 19,
+      "authors": [
+        {
+          "authorId": "1805140",
+          "name": "M. Bläser"
+        },
+        {
+          "authorId": "2237832",
+          "name": "Christian Ikenmeyer"
+        },
+        {
+          "authorId": "3174959",
+          "name": "Gorav Jindal"
+        },
+        {
+          "authorId": "144510414",
+          "name": "Vladimir Lysikov"
+        }
+      ]
+    },
+    {
+      "paperId": "4e3983c2ebf5692c302d427e41bc1dd2ba162a69",
+      "externalIds": {
+        "DBLP": "journals/pr/LiuJS13",
+        "MAG": "2089088255",
+        "DOI": "10.1016/j.patcog.2012.07.003",
+        "CorpusId": 19181196
+      },
+      "url": "https://www.semanticscholar.org/paper/4e3983c2ebf5692c302d427e41bc1dd2ba162a69",
+      "title": "A fast tri-factorization method for low-rank matrix recovery and completion",
+      "venue": "Pattern Recognition",
+      "year": 2013,
+      "referenceCount": 52,
+      "citationCount": 71,
+      "authors": [
+        {
+          "authorId": "35588611",
+          "name": "Yuanyuan Liu"
+        },
+        {
+          "authorId": "144125122",
+          "name": "L. Jiao"
+        },
+        {
+          "authorId": "3062185",
+          "name": "Fanhua Shang"
+        }
+      ]
+    },
+    {
+      "paperId": "0de800a5987b945d9d16b2b195f4ac3a6d70d003",
+      "externalIds": {
+        "MAG": "1977016492",
+        "DBLP": "journals/nn/LiuJSYL13",
+        "DOI": "10.1016/j.neunet.2013.06.013",
+        "CorpusId": 6101680,
+        "PubMed": "23891807"
+      },
+      "url": "https://www.semanticscholar.org/paper/0de800a5987b945d9d16b2b195f4ac3a6d70d003",
+      "title": "An efficient matrix bi-factorization alternative optimization method for low-rank matrix recovery and completion",
+      "venue": "Neural Networks",
+      "year": 2013,
+      "referenceCount": 53,
+      "citationCount": 37,
+      "authors": [
+        {
+          "authorId": "35588611",
+          "name": "Yuanyuan Liu"
+        },
+        {
+          "authorId": "144125122",
+          "name": "L. Jiao"
+        },
+        {
+          "authorId": "3062185",
+          "name": "Fanhua Shang"
+        },
+        {
+          "authorId": "2065088739",
+          "name": "Fei Yin"
+        },
+        {
+          "authorId": "47185625",
+          "name": "Fang Liu"
+        }
+      ]
+    },
+    {
+      "paperId": "4ca64912bfbf05e3e39c57780580238ad730de07",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-1804-10266",
+        "MAG": "2798397950",
+        "ArXiv": "1804.10266",
+        "DOI": "10.1137/20M1323448",
+        "CorpusId": 13749177
+      },
+      "url": "https://www.semanticscholar.org/paper/4ca64912bfbf05e3e39c57780580238ad730de07",
+      "title": "Tensor Methods for Nonlinear Matrix Completion",
+      "venue": "SIAM Journal on Mathematics of Data Science",
+      "year": 2018,
+      "referenceCount": 63,
+      "citationCount": 17,
+      "authors": [
+        {
+          "authorId": "3021762",
+          "name": "Greg Ongie"
+        },
+        {
+          "authorId": "1682385",
+          "name": "L. Balzano"
+        },
+        {
+          "authorId": "1411287584",
+          "name": "Daniel L. Pimentel-Alarcón"
+        },
+        {
+          "authorId": "145952380",
+          "name": "R. Willett"
+        },
+        {
+          "authorId": "50033772",
+          "name": "R. Nowak"
+        }
+      ]
+    },
+    {
+      "paperId": "da41e632b1bfd448b23e1ad755751e91b339d96e",
+      "externalIds": {
+        "DBLP": "conf/ic3d/SharmaRA19",
+        "MAG": "3004415956",
+        "DOI": "10.1109/IC3D48390.2019.8975992",
+        "CorpusId": 210996048
+      },
+      "url": "https://www.semanticscholar.org/paper/da41e632b1bfd448b23e1ad755751e91b339d96e",
+      "title": "A Novel Algebaric Variety Based Model for High Quality Free-Viewpoint View Synthesis on a Krylov Subspace",
+      "venue": "International Conference on 3D Imaging",
+      "year": 2019,
+      "referenceCount": 36,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "51184194",
+          "name": "Mansi Sharma"
+        },
+        {
+          "authorId": "1491238940",
+          "name": "Gowtham Ragavan"
+        },
+        {
+          "authorId": "71807002",
+          "name": "B. Arathi"
+        }
+      ]
+    },
+    {
+      "paperId": "f4cb3430e66128c99d1f3191082fbe28bf53b1f0",
+      "externalIds": {
+        "DBLP": "journals/neco/PraturuS25",
+        "DOI": "10.1162/neco.a.25",
+        "CorpusId": 280659313,
+        "PubMed": "40811798"
+      },
+      "url": "https://www.semanticscholar.org/paper/f4cb3430e66128c99d1f3191082fbe28bf53b1f0",
+      "title": "Distance-Based Logistic Matrix Factorization",
+      "venue": "Neural Computation",
+      "year": 2025,
+      "referenceCount": 0,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2188145512",
+          "name": "Anoop Praturu"
+        },
+        {
+          "authorId": "2307925800",
+          "name": "Tatyana O. Sharpee"
+        }
+      ]
+    },
+    {
+      "paperId": "d91c28de681f299d993cd3ef635d5dae90ec4da5",
+      "externalIds": {
+        "DBLP": "journals/sensors/LiuSW18",
+        "PubMedCentral": "6163867",
+        "MAG": "2891336776",
+        "DOI": "10.3390/s18092974",
+        "CorpusId": 52184671,
+        "PubMed": "30200624"
+      },
+      "url": "https://www.semanticscholar.org/paper/d91c28de681f299d993cd3ef635d5dae90ec4da5",
+      "title": "Wireless Sensor Network Localization via Matrix Completion Based on Bregman Divergence",
+      "venue": "Italian National Conference on Sensors",
+      "year": 2018,
+      "referenceCount": 36,
+      "citationCount": 7,
+      "authors": [
+        {
+          "authorId": "2116190406",
+          "name": "Chunsheng Liu"
+        },
+        {
+          "authorId": "145558007",
+          "name": "Hong Shan"
+        },
+        {
+          "authorId": null,
+          "name": "Bin Wang"
+        }
+      ]
+    }
+  ]
+}

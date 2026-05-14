@@ -1,0 +1,305 @@
+{
+  "total": 66,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "969e54e182a2c356c9d861756befcffe1fc9ef81",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-1709-04004",
+        "ArXiv": "1709.04004",
+        "MAG": "2963866179",
+        "CorpusId": 12617507
+      },
+      "url": "https://www.semanticscholar.org/paper/969e54e182a2c356c9d861756befcffe1fc9ef81",
+      "title": "Adaptive Exploration-Exploitation Tradeoff for Opportunistic Bandits",
+      "venue": "International Conference on Machine Learning",
+      "year": 2017,
+      "referenceCount": 20,
+      "citationCount": 29,
+      "authors": [
+        {
+          "authorId": "3031125",
+          "name": "Huasen Wu"
+        },
+        {
+          "authorId": "2589602",
+          "name": "Xueying Guo"
+        },
+        {
+          "authorId": "2120101540",
+          "name": "Xin Liu"
+        }
+      ]
+    },
+    {
+      "paperId": "4380e66abb1568782e87609759192c970a079b59",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2506-20261",
+        "ArXiv": "2506.20261",
+        "DOI": "10.1109/ISIT63088.2025.11195512",
+        "CorpusId": 280000398
+      },
+      "url": "https://www.semanticscholar.org/paper/4380e66abb1568782e87609759192c970a079b59",
+      "title": "Exploration-Exploitation Tradeoff in Universal Lossy Compression",
+      "venue": "International Symposium on Information Theory",
+      "year": 2025,
+      "referenceCount": 42,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2266391851",
+          "name": "Nir Weinberger"
+        },
+        {
+          "authorId": "2329193683",
+          "name": "Ram Zamir"
+        }
+      ]
+    },
+    {
+      "paperId": "c8ef3a0e3c3b6c6e2f1ce51478c3c5c686c63347",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2506-01250",
+        "ArXiv": "2506.01250",
+        "DOI": "10.48550/arXiv.2506.01250",
+        "CorpusId": 279075325
+      },
+      "url": "https://www.semanticscholar.org/paper/c8ef3a0e3c3b6c6e2f1ce51478c3c5c686c63347",
+      "title": "Neural Variance-aware Dueling Bandits with Deep Representation and Shallow Exploration",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "referenceCount": 39,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2268981585",
+          "name": "Youngmin Oh"
+        },
+        {
+          "authorId": "2332178380",
+          "name": "Jinje Park"
+        },
+        {
+          "authorId": "2188780228",
+          "name": "Taejin Paik"
+        },
+        {
+          "authorId": "2329869037",
+          "name": "Jaemin Park"
+        }
+      ]
+    },
+    {
+      "paperId": "64839c2bbfcf40d4ece312da523906d177d56c3c",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2110-03177",
+        "ArXiv": "2110.03177",
+        "CorpusId": 238419023
+      },
+      "url": "https://www.semanticscholar.org/paper/64839c2bbfcf40d4ece312da523906d177d56c3c",
+      "title": "EE-Net: Exploitation-Exploration Neural Networks in Contextual Bandits",
+      "venue": "International Conference on Learning Representations",
+      "year": 2021,
+      "referenceCount": 46,
+      "citationCount": 62,
+      "authors": [
+        {
+          "authorId": "51280934",
+          "name": "Yikun Ban"
+        },
+        {
+          "authorId": "2109341751",
+          "name": "Yuchen Yan"
+        },
+        {
+          "authorId": "144205696",
+          "name": "A. Banerjee"
+        },
+        {
+          "authorId": "31108652",
+          "name": "Jingrui He"
+        }
+      ]
+    },
+    {
+      "paperId": "8d92ef85c21a852bc0e88067250024437d236d3e",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2408-09655",
+        "ArXiv": "2408.09655",
+        "DOI": "10.48550/arXiv.2408.09655",
+        "CorpusId": 271903755
+      },
+      "url": "https://www.semanticscholar.org/paper/8d92ef85c21a852bc0e88067250024437d236d3e",
+      "title": "Contextual Bandits for Unbounded Context Distributions",
+      "venue": "International Conference on Machine Learning",
+      "year": 2024,
+      "referenceCount": 57,
+      "citationCount": 17,
+      "authors": [
+        {
+          "authorId": "2302921762",
+          "name": "Puning Zhao"
+        },
+        {
+          "authorId": "2276486864",
+          "name": "Jiafei Wu"
+        },
+        {
+          "authorId": "2302814041",
+          "name": "Zhe Liu"
+        },
+        {
+          "authorId": "2302865145",
+          "name": "Huiwen Wu"
+        }
+      ]
+    },
+    {
+      "paperId": "0d5324059ac83df214d022bd654660dcbce2f007",
+      "externalIds": {
+        "ArXiv": "2508.20923",
+        "DBLP": "journals/corr/abs-2508-20923",
+        "DOI": "10.48550/arXiv.2508.20923",
+        "CorpusId": 280950018
+      },
+      "url": "https://www.semanticscholar.org/paper/0d5324059ac83df214d022bd654660dcbce2f007",
+      "title": "Finite-Time Guarantees for Multi-Agent Combinatorial Bandits with Nonstationary Rewards",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "referenceCount": 85,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2067965363",
+          "name": "Katherine B. Adams"
+        },
+        {
+          "authorId": "2338248428",
+          "name": "Justin J. Boutilier"
+        },
+        {
+          "authorId": "2214955867",
+          "name": "Qinyang He"
+        },
+        {
+          "authorId": "40613216",
+          "name": "Yonatan Dov Mintz"
+        }
+      ]
+    },
+    {
+      "paperId": "fb8e97a132df3f37162188355036fad558c85120",
+      "externalIds": {
+        "ArXiv": "2505.04200",
+        "DBLP": "journals/corr/abs-2505-04200",
+        "DOI": "10.48550/arXiv.2505.04200",
+        "CorpusId": 278367979
+      },
+      "url": "https://www.semanticscholar.org/paper/fb8e97a132df3f37162188355036fad558c85120",
+      "title": "Estimating Causal Effects in Networks with Cluster-Based Bandits",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "referenceCount": 22,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2258713314",
+          "name": "Ahmed Sayeed Faruk"
+        },
+        {
+          "authorId": "1697959276",
+          "name": "J. Sulskis"
+        },
+        {
+          "authorId": "2284690151",
+          "name": "Elena Zheleva"
+        }
+      ]
+    },
+    {
+      "paperId": "88d92c1c3623562aee3621d0926393eb329ee12f",
+      "externalIds": {
+        "MAG": "2964591708",
+        "DBLP": "journals/corr/abs-1902-07802",
+        "ArXiv": "1902.07802",
+        "DOI": "10.24963/ijcai.2019/336",
+        "CorpusId": 67790523
+      },
+      "url": "https://www.semanticscholar.org/paper/88d92c1c3623562aee3621d0926393eb329ee12f",
+      "title": "AdaLinUCB: Opportunistic Learning for Contextual Bandits",
+      "venue": "International Joint Conference on Artificial Intelligence",
+      "year": 2019,
+      "referenceCount": 22,
+      "citationCount": 8,
+      "authors": [
+        {
+          "authorId": "2589602",
+          "name": "Xueying Guo"
+        },
+        {
+          "authorId": "2108170790",
+          "name": "Xiaoxiao Wang"
+        },
+        {
+          "authorId": "2120101540",
+          "name": "Xin Liu"
+        }
+      ]
+    },
+    {
+      "paperId": "390f0e86df489b12d52971c294333aafcd0ff94a",
+      "externalIds": {
+        "DBLP": "conf/cogsci/GeanaWDC16a",
+        "MAG": "2786622803",
+        "CorpusId": 6181540
+      },
+      "url": "https://www.semanticscholar.org/paper/390f0e86df489b12d52971c294333aafcd0ff94a",
+      "title": "Information-Seeking, Learning and the Marginal Value Theorem: A Normative Approach to Adaptive Exploration",
+      "venue": "Annual Meeting of the Cognitive Science Society",
+      "year": 2016,
+      "referenceCount": 22,
+      "citationCount": 7,
+      "authors": [
+        {
+          "authorId": "4454861",
+          "name": "A. Geana"
+        },
+        {
+          "authorId": "153160317",
+          "name": "Robert C. Wilson"
+        },
+        {
+          "authorId": "1784997",
+          "name": "N. Daw"
+        },
+        {
+          "authorId": "153564781",
+          "name": "J. Cohen"
+        }
+      ]
+    },
+    {
+      "paperId": "f6eafb82d2450f28f668443b689c91e896a0d63e",
+      "externalIds": {
+        "CorpusId": 4266634
+      },
+      "url": "https://www.semanticscholar.org/paper/f6eafb82d2450f28f668443b689c91e896a0d63e",
+      "title": "Adaptive Machine Learning Winter 2018 Lecture 9 : Linear Bandits and Thompson Sampling",
+      "venue": "",
+      "year": 2018,
+      "referenceCount": 17,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "37537202",
+          "name": "Tanner Fiez"
+        },
+        {
+          "authorId": "2890423",
+          "name": "Eunsol Choi"
+        }
+      ]
+    }
+  ]
+}

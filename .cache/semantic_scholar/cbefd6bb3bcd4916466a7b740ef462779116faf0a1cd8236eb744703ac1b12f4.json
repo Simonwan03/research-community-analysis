@@ -1,0 +1,55 @@
+{
+  "total": 2,
+  "offset": 0,
+  "data": [
+    {
+      "paperId": "3bc4b3bc43cae1d3c4c9ecb9fcaaf1c0e0c5d149",
+      "externalIds": {
+        "MAG": "2804284765",
+        "DBLP": "conf/icml/DouikH18",
+        "CorpusId": 51879988
+      },
+      "url": "https://www.semanticscholar.org/paper/3bc4b3bc43cae1d3c4c9ecb9fcaaf1c0e0c5d149",
+      "title": "Low-Rank Riemannian Optimization on Positive Semidefinite Stochastic Matrices with Applications to Graph Clustering",
+      "venue": "International Conference on Machine Learning",
+      "year": 2018,
+      "referenceCount": 26,
+      "citationCount": 13,
+      "authors": [
+        {
+          "authorId": "40314823",
+          "name": "Ahmed Douik"
+        },
+        {
+          "authorId": "1736279",
+          "name": "B. Hassibi"
+        }
+      ]
+    },
+    {
+      "paperId": "6d9ec3ae769505a7ffbd4395beaaa78fce80a6ac",
+      "externalIds": {
+        "DBLP": "journals/pami/DouikH22",
+        "DOI": "10.1109/TPAMI.2021.3074467",
+        "CorpusId": 233326405,
+        "PubMed": "33877969"
+      },
+      "url": "https://www.semanticscholar.org/paper/6d9ec3ae769505a7ffbd4395beaaa78fce80a6ac",
+      "title": "Low-Rank Riemannian Optimization for Graph-Based Clustering Applications",
+      "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+      "year": 2021,
+      "referenceCount": 46,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "40314823",
+          "name": "Ahmed Douik"
+        },
+        {
+          "authorId": "1736279",
+          "name": "B. Hassibi"
+        }
+      ]
+    }
+  ]
+}

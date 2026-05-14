@@ -1,0 +1,343 @@
+{
+  "total": 1787,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "34c9033fd539c94426f6e9eb8def0f5673d87d08",
+      "externalIds": {
+        "DBLP": "conf/icml/HassidimS17",
+        "MAG": "2741156457",
+        "CorpusId": 439896
+      },
+      "url": "https://www.semanticscholar.org/paper/34c9033fd539c94426f6e9eb8def0f5673d87d08",
+      "title": "Robust Guarantees of Stochastic Greedy Algorithms",
+      "venue": "International Conference on Machine Learning",
+      "year": 2017,
+      "referenceCount": 15,
+      "citationCount": 17,
+      "authors": [
+        {
+          "authorId": "1809983",
+          "name": "Avinatan Hassidim"
+        },
+        {
+          "authorId": "1778763",
+          "name": "Yaron Singer"
+        }
+      ]
+    },
+    {
+      "paperId": "73e754d163af1cbd7b60a123add16ce3b0c55a30",
+      "externalIds": {
+        "MAG": "2952893801",
+        "ArXiv": "1407.0088",
+        "DBLP": "journals/tit/NguyenNW17",
+        "DOI": "10.1109/TIT.2017.2749330",
+        "CorpusId": 11058559
+      },
+      "url": "https://www.semanticscholar.org/paper/73e754d163af1cbd7b60a123add16ce3b0c55a30",
+      "title": "Linear Convergence of Stochastic Iterative Greedy Algorithms With Sparse Constraints",
+      "venue": "IEEE Transactions on Information Theory",
+      "year": 2014,
+      "referenceCount": 60,
+      "citationCount": 106,
+      "authors": [
+        {
+          "authorId": "39061724",
+          "name": "Nam H. Nguyen"
+        },
+        {
+          "authorId": "8256323",
+          "name": "D. Needell"
+        },
+        {
+          "authorId": "35858693",
+          "name": "T. Woolf"
+        }
+      ]
+    },
+    {
+      "paperId": "4fcb5c47f7a372848535708f74daa49b984f2dec",
+      "externalIds": {
+        "DBLP": "conf/aaai/YangLK24",
+        "ArXiv": "2308.09277",
+        "DOI": "10.48550/arXiv.2308.09277",
+        "CorpusId": 261030600
+      },
+      "url": "https://www.semanticscholar.org/paper/4fcb5c47f7a372848535708f74daa49b984f2dec",
+      "title": "Greedy-Based Online Fair Allocation with Adversarial Input: Enabling Best-of-Many-Worlds Guarantees",
+      "venue": "AAAI Conference on Artificial Intelligence",
+      "year": 2023,
+      "referenceCount": 36,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "2109479601",
+          "name": "Zongjun Yang"
+        },
+        {
+          "authorId": "1785360631",
+          "name": "Luofeng Liao"
+        },
+        {
+          "authorId": "2211504",
+          "name": "Christian Kroer"
+        }
+      ]
+    },
+    {
+      "paperId": "c734bfc766d55fd65df07caaac53ba2906b42a93",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2404-03740",
+        "ArXiv": "2404.03740",
+        "DOI": "10.1016/j.automatica.2024.111984",
+        "CorpusId": 268987377
+      },
+      "url": "https://www.semanticscholar.org/paper/c734bfc766d55fd65df07caaac53ba2906b42a93",
+      "title": "Randomized Greedy Methods for Weak Submodular Sensor Selection with Robustness Considerations",
+      "venue": "at - Automatisierungstechnik",
+      "year": 2024,
+      "referenceCount": 49,
+      "citationCount": 5,
+      "authors": [
+        {
+          "authorId": "2216456111",
+          "name": "Ege C. Kaya"
+        },
+        {
+          "authorId": "2295511489",
+          "name": "Michael Hibbard"
+        },
+        {
+          "authorId": "2295560224",
+          "name": "Takashi Tanaka"
+        },
+        {
+          "authorId": "3199888",
+          "name": "U. Topcu"
+        },
+        {
+          "authorId": "2266771483",
+          "name": "Abolfazl Hashemi"
+        }
+      ]
+    },
+    {
+      "paperId": "42c4129d1f4955c7f3046d339720c48018f977d3",
+      "externalIds": {
+        "DBLP": "conf/wsc/HouserS24",
+        "DOI": "10.1109/WSC63780.2024.10838800",
+        "CorpusId": 275763420
+      },
+      "url": "https://www.semanticscholar.org/paper/42c4129d1f4955c7f3046d339720c48018f977d3",
+      "title": "Robust Screening and Partitioning for Feature Selection: A Binary Simulation Optimization Problem",
+      "venue": "Online World Conference on Soft Computing in Industrial Applications",
+      "year": 2024,
+      "referenceCount": 22,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2215727297",
+          "name": "Ethan Houser"
+        },
+        {
+          "authorId": "2256353418",
+          "name": "Sara Shashaani"
+        }
+      ]
+    },
+    {
+      "paperId": "8947ec68f7bcd023cb5bdf426c347710820a4e03",
+      "externalIds": {
+        "MAG": "2046669420",
+        "DBLP": "conf/humanoids/RuckertM0N14",
+        "DOI": "10.1109/HUMANOIDS.2014.7041389",
+        "CorpusId": 10635163
+      },
+      "url": "https://www.semanticscholar.org/paper/8947ec68f7bcd023cb5bdf426c347710820a4e03",
+      "title": "Robust policy updates for stochastic optimal control",
+      "venue": "IEEE-RAS International Conference on Humanoid Robots",
+      "year": 2014,
+      "referenceCount": 23,
+      "citationCount": 11,
+      "authors": [
+        {
+          "authorId": "2762198",
+          "name": "E. Rückert"
+        },
+        {
+          "authorId": "96984361",
+          "name": "M. Mindt"
+        },
+        {
+          "authorId": "145197867",
+          "name": "Jan Peters"
+        },
+        {
+          "authorId": "26599977",
+          "name": "G. Neumann"
+        }
+      ]
+    },
+    {
+      "paperId": "418fa2835b57ac6c85eff02bdb2a27c454df6309",
+      "externalIds": {
+        "ArXiv": "2106.15791",
+        "DBLP": "journals/tkde/LiuSCZKL23",
+        "DOI": "10.1109/TKDE.2022.3224056",
+        "CorpusId": 235683115
+      },
+      "url": "https://www.semanticscholar.org/paper/418fa2835b57ac6c85eff02bdb2a27c454df6309",
+      "title": "Distributionally Robust Learning With Stable Adversarial Training",
+      "venue": "IEEE Transactions on Knowledge and Data Engineering",
+      "year": 2021,
+      "referenceCount": 47,
+      "citationCount": 17,
+      "authors": [
+        {
+          "authorId": "3403664",
+          "name": "Jiashuo Liu"
+        },
+        {
+          "authorId": "24069072",
+          "name": "Zheyan Shen"
+        },
+        {
+          "authorId": "143738684",
+          "name": "Peng Cui"
+        },
+        {
+          "authorId": "48207021",
+          "name": "Linjun Zhou"
+        },
+        {
+          "authorId": "2238006728",
+          "name": "K. Kuang"
+        },
+        {
+          "authorId": "48218911",
+          "name": "B. Li"
+        }
+      ]
+    },
+    {
+      "paperId": "649cbe47d71abe69833ee1135945adb1cb3b71a8",
+      "externalIds": {
+        "DBLP": "conf/aaai/LiuS0ZK0L21",
+        "ArXiv": "2006.04414",
+        "DOI": "10.1609/aaai.v35i10.17050",
+        "CorpusId": 234364905
+      },
+      "url": "https://www.semanticscholar.org/paper/649cbe47d71abe69833ee1135945adb1cb3b71a8",
+      "title": "Stable Adversarial Learning under Distributional Shifts",
+      "venue": "AAAI Conference on Artificial Intelligence",
+      "year": 2020,
+      "referenceCount": 29,
+      "citationCount": 35,
+      "authors": [
+        {
+          "authorId": "3403664",
+          "name": "Jiashuo Liu"
+        },
+        {
+          "authorId": "24069072",
+          "name": "Zheyan Shen"
+        },
+        {
+          "authorId": "143738684",
+          "name": "Peng Cui"
+        },
+        {
+          "authorId": "48207021",
+          "name": "Linjun Zhou"
+        },
+        {
+          "authorId": "2238006728",
+          "name": "K. Kuang"
+        },
+        {
+          "authorId": "48218911",
+          "name": "B. Li"
+        },
+        {
+          "authorId": "3213833",
+          "name": "Yishi Lin"
+        }
+      ]
+    },
+    {
+      "paperId": "e16a251f972b3882bb3ee5ec58f20b87cad75ad2",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2006-04414",
+        "MAG": "3033230862",
+        "CorpusId": 219530883
+      },
+      "url": "https://www.semanticscholar.org/paper/e16a251f972b3882bb3ee5ec58f20b87cad75ad2",
+      "title": "Invariant Adversarial Learning for Distributional Robustness",
+      "venue": "arXiv.org",
+      "year": 2020,
+      "referenceCount": 25,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2120846500",
+          "name": "Jiashuo Liu"
+        },
+        {
+          "authorId": "24069072",
+          "name": "Zheyan Shen"
+        },
+        {
+          "authorId": "143738684",
+          "name": "Peng Cui"
+        },
+        {
+          "authorId": "48207021",
+          "name": "Linjun Zhou"
+        },
+        {
+          "authorId": "2238006728",
+          "name": "K. Kuang"
+        },
+        {
+          "authorId": "2165243316",
+          "name": "Bo Li"
+        },
+        {
+          "authorId": "3213833",
+          "name": "Yishi Lin"
+        }
+      ]
+    },
+    {
+      "paperId": "ca1c2ad10314baaf03e0873f23e5a50b1f8286b6",
+      "externalIds": {
+        "DBLP": "conf/ijcai/Qian0T18",
+        "MAG": "2807881335",
+        "DOI": "10.24963/ijcai.2018/205",
+        "CorpusId": 51605511
+      },
+      "url": "https://www.semanticscholar.org/paper/ca1c2ad10314baaf03e0873f23e5a50b1f8286b6",
+      "title": "Approximation Guarantees of Stochastic Greedy Algorithms for Subset Selection",
+      "venue": "International Joint Conference on Artificial Intelligence",
+      "year": 2018,
+      "referenceCount": 26,
+      "citationCount": 22,
+      "authors": [
+        {
+          "authorId": "4114317",
+          "name": "Chao Qian"
+        },
+        {
+          "authorId": "144705629",
+          "name": "Yang Yu"
+        },
+        {
+          "authorId": "144994537",
+          "name": "K. Tang"
+        }
+      ]
+    }
+  ]
+}

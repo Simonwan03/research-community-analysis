@@ -1,0 +1,370 @@
+{
+  "total": 51,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "5a0485b6f4f80d613395139f4400bc7c3b511846",
+      "externalIds": {
+        "MAG": "2964078006",
+        "DBLP": "journals/corr/LuoSML17",
+        "ArXiv": "1705.10561",
+        "CorpusId": 30180031
+      },
+      "url": "https://www.semanticscholar.org/paper/5a0485b6f4f80d613395139f4400bc7c3b511846",
+      "title": "End-to-end Active Object Tracking via Reinforcement Learning",
+      "venue": "International Conference on Machine Learning",
+      "year": 2017,
+      "referenceCount": 63,
+      "citationCount": 95,
+      "authors": [
+        {
+          "authorId": "145909988",
+          "name": "Wenhan Luo"
+        },
+        {
+          "authorId": "2075416111",
+          "name": "Peng Sun"
+        },
+        {
+          "authorId": "145353089",
+          "name": "Yadong Mu"
+        },
+        {
+          "authorId": "2157221557",
+          "name": "Wei Liu"
+        }
+      ]
+    },
+    {
+      "paperId": "8b79dbfc88501dbf031a966ed6146e2955c5d1a4",
+      "externalIds": {
+        "DBLP": "journals/pami/LuoSZLZW20",
+        "MAG": "2885514323",
+        "ArXiv": "1808.03405",
+        "DOI": "10.1109/TPAMI.2019.2899570",
+        "CorpusId": 51969394,
+        "PubMed": "30762532"
+      },
+      "url": "https://www.semanticscholar.org/paper/8b79dbfc88501dbf031a966ed6146e2955c5d1a4",
+      "title": "End-to-End Active Object Tracking and Its Real-World Deployment via Reinforcement Learning",
+      "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+      "year": 2018,
+      "referenceCount": 71,
+      "citationCount": 149,
+      "authors": [
+        {
+          "authorId": "145909988",
+          "name": "Wenhan Luo"
+        },
+        {
+          "authorId": "2075416111",
+          "name": "Peng Sun"
+        },
+        {
+          "authorId": "27093563",
+          "name": "Fangwei Zhong"
+        },
+        {
+          "authorId": "46641573",
+          "name": "W. Liu"
+        },
+        {
+          "authorId": "38144094",
+          "name": "T. Zhang"
+        },
+        {
+          "authorId": "2116758319",
+          "name": "Yizhou Wang"
+        }
+      ]
+    },
+    {
+      "paperId": "8937babb3792630258f4fda8915cd08df7a06d03",
+      "externalIds": {
+        "DOI": "10.1117/12.2643636",
+        "CorpusId": 254361245
+      },
+      "url": "https://www.semanticscholar.org/paper/8937babb3792630258f4fda8915cd08df7a06d03",
+      "title": "End-to-end active object tracking football game via reinforcement learning",
+      "venue": "SPIE/COS Photonics Asia",
+      "year": 2022,
+      "referenceCount": 10,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2341330371",
+          "name": "Haobin Qin"
+        },
+        {
+          "authorId": "145111960",
+          "name": "Ming Liu"
+        },
+        {
+          "authorId": "32693617",
+          "name": "Liquan Dong"
+        },
+        {
+          "authorId": "16202870",
+          "name": "Lingqin Kong"
+        },
+        {
+          "authorId": "40498509",
+          "name": "Mei Hui"
+        },
+        {
+          "authorId": "97522173",
+          "name": "Yuejin Zhao"
+        }
+      ]
+    },
+    {
+      "paperId": "449896dafde44a950fdf1bb1cc91a29a7979726e",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2405-02425",
+        "ArXiv": "2405.02425",
+        "DOI": "10.48550/arXiv.2405.02425",
+        "CorpusId": 269605913
+      },
+      "url": "https://www.semanticscholar.org/paper/449896dafde44a950fdf1bb1cc91a29a7979726e",
+      "title": "Learning Robot Soccer from Egocentric Vision with Deep Reinforcement Learning",
+      "venue": "Conference on Robot Learning",
+      "year": 2024,
+      "referenceCount": 79,
+      "citationCount": 26,
+      "authors": [
+        {
+          "authorId": "7794353",
+          "name": "Dhruva Tirumala"
+        },
+        {
+          "authorId": "3331786",
+          "name": "Markus Wulfmeier"
+        },
+        {
+          "authorId": "2160887670",
+          "name": "Ben Moran"
+        },
+        {
+          "authorId": "2268435534",
+          "name": "Sandy H. Huang"
+        },
+        {
+          "authorId": "2066450521",
+          "name": "Jan Humplik"
+        },
+        {
+          "authorId": "2268409425",
+          "name": "Guy Lever"
+        },
+        {
+          "authorId": "2587648",
+          "name": "Tuomas Haarnoja"
+        },
+        {
+          "authorId": "40401956",
+          "name": "Leonard Hasenclever"
+        },
+        {
+          "authorId": "2631257",
+          "name": "Arunkumar Byravan"
+        },
+        {
+          "authorId": "2150504360",
+          "name": "Nathan Batchelor"
+        },
+        {
+          "authorId": "2215393157",
+          "name": "Neil Sreendra"
+        },
+        {
+          "authorId": "2215360758",
+          "name": "Kushal Patel"
+        },
+        {
+          "authorId": "2215393155",
+          "name": "Marlon Gwira"
+        },
+        {
+          "authorId": "2275201917",
+          "name": "F. Nori"
+        },
+        {
+          "authorId": "2268407692",
+          "name": "M. Riedmiller"
+        },
+        {
+          "authorId": "2801204",
+          "name": "N. Heess"
+        }
+      ]
+    },
+    {
+      "paperId": "1433d442139fd876001093f5a02fdf9f4f07425a",
+      "externalIds": {
+        "DBLP": "conf/iclr/ZhongSLYW19",
+        "MAG": "2914060209",
+        "CorpusId": 53533716
+      },
+      "url": "https://www.semanticscholar.org/paper/1433d442139fd876001093f5a02fdf9f4f07425a",
+      "title": "AD-VAT: An Asymmetric Dueling mechanism for learning Visual Active Tracking",
+      "venue": "International Conference on Learning Representations",
+      "year": 2018,
+      "referenceCount": 50,
+      "citationCount": 42,
+      "authors": [
+        {
+          "authorId": "27093563",
+          "name": "Fangwei Zhong"
+        },
+        {
+          "authorId": "2075416111",
+          "name": "Peng Sun"
+        },
+        {
+          "authorId": "145909988",
+          "name": "Wenhan Luo"
+        },
+        {
+          "authorId": "98234765",
+          "name": "Tingyun Yan"
+        },
+        {
+          "authorId": "2116758319",
+          "name": "Yizhou Wang"
+        }
+      ]
+    },
+    {
+      "paperId": "0060937744bfc96c13652c950cef1cc1dc679e1a",
+      "externalIds": {
+        "DBLP": "conf/apsipa/LiC25",
+        "DOI": "10.1109/APSIPAASC65261.2025.11249235",
+        "CorpusId": 283354968
+      },
+      "url": "https://www.semanticscholar.org/paper/0060937744bfc96c13652c950cef1cc1dc679e1a",
+      "title": "Active Multi-Object Tracking for 3D Reconstruction with Hierarchical Reinforcement Learning",
+      "venue": "Asia-Pacific Signal and Information Processing Association Annual Summit and Conference",
+      "year": 2025,
+      "referenceCount": 17,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2374143084",
+          "name": "Heng Li"
+        },
+        {
+          "authorId": "2267934399",
+          "name": "Chen Cai"
+        }
+      ]
+    },
+    {
+      "paperId": "ff736a296f9219e48b3ce5fead1da6c27ed9f295",
+      "externalIds": {
+        "DBLP": "journals/mta/Yu25",
+        "DOI": "10.1007/s11042-024-20134-w",
+        "CorpusId": 272314436
+      },
+      "url": "https://www.semanticscholar.org/paper/ff736a296f9219e48b3ce5fead1da6c27ed9f295",
+      "title": "Meta-reinforcement learning for active visual tracking about space non-cooperative object",
+      "venue": "Multimedia tools and applications",
+      "year": 2024,
+      "referenceCount": 40,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "2204738298",
+          "name": "Zhongliang Yu"
+        }
+      ]
+    },
+    {
+      "paperId": "c24db672cb3afee4103a5671127cac101092cc23",
+      "externalIds": {
+        "DBLP": "conf/uavm/SouissiFP25",
+        "DOI": "10.1145/3728482.3757384",
+        "CorpusId": 282735603
+      },
+      "url": "https://www.semanticscholar.org/paper/c24db672cb3afee4103a5671127cac101092cc23",
+      "title": "Towards Event-Driven, End-to-End UAV Tracking Using Deep Reinforcement Learning",
+      "venue": "UAVM",
+      "year": 2025,
+      "referenceCount": 26,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2140252681",
+          "name": "Ala Souissi"
+        },
+        {
+          "authorId": "1732186",
+          "name": "Hajer Fradi"
+        },
+        {
+          "authorId": "2326991245",
+          "name": "Panagiotis Papadakis"
+        }
+      ]
+    },
+    {
+      "paperId": "86ef71eed69628f98a32a3bb71bb144afea7a1c1",
+      "externalIds": {
+        "DBLP": "journals/taes/ZhouSLW22",
+        "DOI": "10.1109/TAES.2022.3211246",
+        "CorpusId": 245334480
+      },
+      "url": "https://www.semanticscholar.org/paper/86ef71eed69628f98a32a3bb71bb144afea7a1c1",
+      "title": "Space Noncooperative Object Active Tracking With Deep Reinforcement Learning",
+      "venue": "IEEE Transactions on Aerospace and Electronic Systems",
+      "year": 2022,
+      "referenceCount": 52,
+      "citationCount": 30,
+      "authors": [
+        {
+          "authorId": "2395836312",
+          "name": "Dong Zhou"
+        },
+        {
+          "authorId": "2113640425",
+          "name": "Guanghui Sun"
+        },
+        {
+          "authorId": "1879040342",
+          "name": "Wenxiao Lei"
+        },
+        {
+          "authorId": "2148912977",
+          "name": "Ligang Wu"
+        }
+      ]
+    },
+    {
+      "paperId": "701c264a6c9b8c3d96fdaa651118daf806693354",
+      "externalIds": {
+        "DOI": "10.1109/ICETCI51973.2021.9574071",
+        "CorpusId": 235739281
+      },
+      "url": "https://www.semanticscholar.org/paper/701c264a6c9b8c3d96fdaa651118daf806693354",
+      "title": "Temporal Difference Rewards for End-to-end Vision-based Active Robot Tracking using Deep Reinforcement Learning",
+      "venue": "2021 International Conference on Emerging Techniques in Computational Intelligence (ICETCI)",
+      "year": 2021,
+      "referenceCount": 22,
+      "citationCount": 4,
+      "authors": [
+        {
+          "authorId": "2117621384",
+          "name": "Pavlos Tiritiris"
+        },
+        {
+          "authorId": "3200630",
+          "name": "Nikolaos Passalis"
+        },
+        {
+          "authorId": "1737071",
+          "name": "A. Tefas"
+        }
+      ]
+    }
+  ]
+}

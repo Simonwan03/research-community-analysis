@@ -1,0 +1,304 @@
+{
+  "total": 45246,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "8d3619e5ade1c0d4bca8ea97b27c45370fa6dddc",
+      "externalIds": {
+        "MAG": "2740824349",
+        "DBLP": "conf/icml/UmlauftH17",
+        "CorpusId": 19561917
+      },
+      "url": "https://www.semanticscholar.org/paper/8d3619e5ade1c0d4bca8ea97b27c45370fa6dddc",
+      "title": "Learning Stable Stochastic Nonlinear Dynamical Systems",
+      "venue": "International Conference on Machine Learning",
+      "year": 2017,
+      "referenceCount": 20,
+      "citationCount": 25,
+      "authors": [
+        {
+          "authorId": "2525193",
+          "name": "Jonas Umlauft"
+        },
+        {
+          "authorId": "8973704",
+          "name": "S. Hirche"
+        }
+      ]
+    },
+    {
+      "paperId": "489570c06d71e94b97f68f122924a8ce59863ddd",
+      "externalIds": {
+        "ArXiv": "2010.13129",
+        "MAG": "3093968353",
+        "DBLP": "journals/corr/abs-2010-13129",
+        "DOI": "10.1109/IROS45743.2020.9341035",
+        "CorpusId": 225067379
+      },
+      "url": "https://www.semanticscholar.org/paper/489570c06d71e94b97f68f122924a8ce59863ddd",
+      "title": "ImitationFlow: Learning Deep Stable Stochastic Dynamic Systems by Normalizing Flows",
+      "venue": "IEEE/RJS International Conference on Intelligent RObots and Systems",
+      "year": 2020,
+      "referenceCount": 29,
+      "citationCount": 71,
+      "authors": [
+        {
+          "authorId": "51233860",
+          "name": "Julen Urain"
+        },
+        {
+          "authorId": "2003599421",
+          "name": "M. Ginesi"
+        },
+        {
+          "authorId": "35387097",
+          "name": "Davide Tateo"
+        },
+        {
+          "authorId": "145197867",
+          "name": "Jan Peters"
+        }
+      ]
+    },
+    {
+      "paperId": "76acd778bda80745590c07fc465aa397e627b45c",
+      "externalIds": {
+        "DOI": "10.1142/s0218127426501348",
+        "CorpusId": 287599146
+      },
+      "url": "https://www.semanticscholar.org/paper/76acd778bda80745590c07fc465aa397e627b45c",
+      "title": "Tracking Dynamic Bifurcations and Predicting Tipping Points in Time-Dependent Stochastic Financial Systems",
+      "venue": "International Journal of Bifurcation and Chaos in Applied Sciences and Engineering",
+      "year": 2026,
+      "referenceCount": 0,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2373913860",
+          "name": "Xi Chen"
+        },
+        {
+          "authorId": "2341862902",
+          "name": "Yuanhao Ma"
+        },
+        {
+          "authorId": "2155655005",
+          "name": "Hui Wang"
+        }
+      ]
+    },
+    {
+      "paperId": "937e37986871e7689d0c9256e3e9b85eb9e1674a",
+      "externalIds": {
+        "MAG": "2981407965",
+        "DBLP": "journals/corr/abs-1910-11623",
+        "ArXiv": "1910.11623",
+        "CorpusId": 204901508
+      },
+      "url": "https://www.semanticscholar.org/paper/937e37986871e7689d0c9256e3e9b85eb9e1674a",
+      "title": "Towards Robust and Stable Deep Learning Algorithms for Forward Backward Stochastic Differential Equations",
+      "venue": "arXiv.org",
+      "year": 2019,
+      "referenceCount": 24,
+      "citationCount": 18,
+      "authors": [
+        {
+          "authorId": "122597814",
+          "name": "Batuhan Güler"
+        },
+        {
+          "authorId": "88694262",
+          "name": "Alexis Laignelet"
+        },
+        {
+          "authorId": "3112745",
+          "name": "P. Parpas"
+        }
+      ]
+    },
+    {
+      "paperId": "f7c8e3150b6a913cb1356c58c2dafed97f2a7e9b",
+      "externalIds": {
+        "MAG": "2611835223",
+        "DBLP": "conf/aips/AbdulsamadA0N17",
+        "DOI": "10.1609/icaps.v27i1.13853",
+        "CorpusId": 27652771
+      },
+      "url": "https://www.semanticscholar.org/paper/f7c8e3150b6a913cb1356c58c2dafed97f2a7e9b",
+      "title": "State-Regularized Policy Search for Linearized Dynamical Systems",
+      "venue": "International Conference on Automated Planning and Scheduling",
+      "year": 2017,
+      "referenceCount": 16,
+      "citationCount": 6,
+      "authors": [
+        {
+          "authorId": "2624923",
+          "name": "Hany Abdulsamad"
+        },
+        {
+          "authorId": "7931507",
+          "name": "O. Arenz"
+        },
+        {
+          "authorId": "145197867",
+          "name": "Jan Peters"
+        },
+        {
+          "authorId": "26599977",
+          "name": "G. Neumann"
+        }
+      ]
+    },
+    {
+      "paperId": "2247ed02165cd40782f7d19a1d33f14bba5f8f19",
+      "externalIds": {
+        "ArXiv": "1910.03003",
+        "DBLP": "conf/corl/WatsonA019",
+        "MAG": "3031656008",
+        "CorpusId": 203902695
+      },
+      "url": "https://www.semanticscholar.org/paper/2247ed02165cd40782f7d19a1d33f14bba5f8f19",
+      "title": "Stochastic Optimal Control as Approximate Input Inference",
+      "venue": "Conference on Robot Learning",
+      "year": 2019,
+      "referenceCount": 53,
+      "citationCount": 42,
+      "authors": [
+        {
+          "authorId": "31349388",
+          "name": "Joe Watson"
+        },
+        {
+          "authorId": "2624923",
+          "name": "Hany Abdulsamad"
+        },
+        {
+          "authorId": "145197867",
+          "name": "Jan Peters"
+        }
+      ]
+    },
+    {
+      "paperId": "08a0df22aa345aba4eac9d7c50a3b110387c8b2b",
+      "externalIds": {
+        "ArXiv": "2104.05942",
+        "DBLP": "journals/tac/RevayWM24",
+        "DOI": "10.1109/TAC.2023.3294101",
+        "CorpusId": 235829967
+      },
+      "url": "https://www.semanticscholar.org/paper/08a0df22aa345aba4eac9d7c50a3b110387c8b2b",
+      "title": "Recurrent Equilibrium Networks: Flexible Dynamic Models With Guaranteed Stability and Robustness",
+      "venue": "IEEE Transactions on Automatic Control",
+      "year": 2021,
+      "referenceCount": 96,
+      "citationCount": 107,
+      "authors": [
+        {
+          "authorId": "6801883",
+          "name": "Max Revay"
+        },
+        {
+          "authorId": "46885821",
+          "name": "Ruigang Wang"
+        },
+        {
+          "authorId": "2582854",
+          "name": "I. Manchester"
+        }
+      ]
+    },
+    {
+      "paperId": "654ec7e4b96256a130cd875e075a8f604da42451",
+      "externalIds": {
+        "DOI": "10.1088/1742-5468/acb42f",
+        "CorpusId": 257151455
+      },
+      "url": "https://www.semanticscholar.org/paper/654ec7e4b96256a130cd875e075a8f604da42451",
+      "title": "Data-driven approximation for extracting the transition dynamics of a genetic regulatory network with non-Gaussian Lévy noise",
+      "venue": "Journal of Statistical Mechanics: Theory and Experiment",
+      "year": 2023,
+      "referenceCount": 49,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2210045344",
+          "name": "Linghongzhi Lu"
+        },
+        {
+          "authorId": "2154897439",
+          "name": "Yang Li"
+        },
+        {
+          "authorId": "2108736116",
+          "name": "Xianbin Liu"
+        }
+      ]
+    },
+    {
+      "paperId": "de8e9463a28553735ccca2164ea160c480d4fa6f",
+      "externalIds": {
+        "DBLP": "conf/icassp/WengSSW22",
+        "DOI": "10.1109/icassp43922.2022.9746279",
+        "CorpusId": 249437271
+      },
+      "url": "https://www.semanticscholar.org/paper/de8e9463a28553735ccca2164ea160c480d4fa6f",
+      "title": "AdaPID: An Adaptive PID Optimizer for Training Deep Neural Networks",
+      "venue": "IEEE International Conference on Acoustics, Speech, and Signal Processing",
+      "year": 2022,
+      "referenceCount": 0,
+      "citationCount": 6,
+      "authors": [
+        {
+          "authorId": "2168415155",
+          "name": "Boxi Weng"
+        },
+        {
+          "authorId": "2152148509",
+          "name": "Jian Sun"
+        },
+        {
+          "authorId": "123941102",
+          "name": "A. Sadeghi"
+        },
+        {
+          "authorId": "145520861",
+          "name": "Gang Wang"
+        }
+      ]
+    },
+    {
+      "paperId": "ddc82ce5f24b087e01ae26ef4e1eb69877e59ac8",
+      "externalIds": {
+        "ArXiv": "2501.01191",
+        "DBLP": "conf/l4dc/NazeriBSA25",
+        "DOI": "10.48550/arXiv.2501.01191",
+        "CorpusId": 275213168
+      },
+      "url": "https://www.semanticscholar.org/paper/ddc82ce5f24b087e01ae26ef4e1eb69877e59ac8",
+      "title": "Data-Driven Yet Formal Policy Synthesis for Stochastic Nonlinear Dynamical Systems",
+      "venue": "Conference on Learning for Dynamics & Control",
+      "year": 2025,
+      "referenceCount": 65,
+      "citationCount": 9,
+      "authors": [
+        {
+          "authorId": "2338270198",
+          "name": "Mahdi Nazeri"
+        },
+        {
+          "authorId": "1397013954",
+          "name": "Thom S. Badings"
+        },
+        {
+          "authorId": "47567935",
+          "name": "S. Soudjani"
+        },
+        {
+          "authorId": "2253458149",
+          "name": "Alessandro Abate"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,295 @@
+{
+  "total": 746,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "cb8f1840a018fddcc7a453dd73cc082ebea82e7b",
+      "externalIds": {
+        "DBLP": "conf/icml/KimWMSR18",
+        "ArXiv": "1802.02550",
+        "MAG": "2952471899",
+        "CorpusId": 334803
+      },
+      "url": "https://www.semanticscholar.org/paper/cb8f1840a018fddcc7a453dd73cc082ebea82e7b",
+      "title": "Semi-Amortized Variational Autoencoders",
+      "venue": "International Conference on Machine Learning",
+      "year": 2018,
+      "referenceCount": 69,
+      "citationCount": 261,
+      "authors": [
+        {
+          "authorId": "38367242",
+          "name": "Yoon Kim"
+        },
+        {
+          "authorId": "2844243",
+          "name": "Sam Wiseman"
+        },
+        {
+          "authorId": "144360230",
+          "name": "Andrew C. Miller"
+        },
+        {
+          "authorId": "1746662",
+          "name": "D. Sontag"
+        },
+        {
+          "authorId": "2531268",
+          "name": "Alexander M. Rush"
+        }
+      ]
+    },
+    {
+      "paperId": "c5fc957926617d4512650eda4bab9d0f926fd04c",
+      "externalIds": {
+        "DBLP": "conf/cvpr/Kim22",
+        "DOI": "10.1109/CVPR52688.2022.00034",
+        "CorpusId": 250520643
+      },
+      "url": "https://www.semanticscholar.org/paper/c5fc957926617d4512650eda4bab9d0f926fd04c",
+      "title": "Gaussian Process Modeling of Approximate Inference Errors for Variational Autoencoders",
+      "venue": "Computer Vision and Pattern Recognition",
+      "year": 2022,
+      "referenceCount": 40,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "2918263",
+          "name": "Minyoung Kim"
+        }
+      ]
+    },
+    {
+      "paperId": "4dc02a5ce78e9824bfab564493444b0064e2c070",
+      "externalIds": {
+        "ArXiv": "2102.03151",
+        "DBLP": "journals/corr/abs-2102-03151",
+        "CorpusId": 231839547
+      },
+      "url": "https://www.semanticscholar.org/paper/4dc02a5ce78e9824bfab564493444b0064e2c070",
+      "title": "Reducing the Amortization Gap in Variational Autoencoders: A Bayesian Random Function Approach",
+      "venue": "arXiv.org",
+      "year": 2021,
+      "referenceCount": 37,
+      "citationCount": 7,
+      "authors": [
+        {
+          "authorId": "2918263",
+          "name": "Minyoung Kim"
+        },
+        {
+          "authorId": "144658464",
+          "name": "V. Pavlovic"
+        }
+      ]
+    },
+    {
+      "paperId": "bbd96b775debac3f78c5212e15c3067d5d472de1",
+      "externalIds": {
+        "MAG": "3101286577",
+        "DBLP": "journals/corr/abs-2011-08544",
+        "ArXiv": "2011.08544",
+        "CorpusId": 226975633
+      },
+      "url": "https://www.semanticscholar.org/paper/bbd96b775debac3f78c5212e15c3067d5d472de1",
+      "title": "Recursive Inference for Variational Autoencoders",
+      "venue": "Neural Information Processing Systems",
+      "year": 2020,
+      "referenceCount": 43,
+      "citationCount": 14,
+      "authors": [
+        {
+          "authorId": "2918263",
+          "name": "Minyoung Kim"
+        },
+        {
+          "authorId": "144658464",
+          "name": "V. Pavlovic"
+        }
+      ]
+    },
+    {
+      "paperId": "8198ec90c9e97f583f921451e7112d943da75cb4",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2202-00665",
+        "CorpusId": 246442376
+      },
+      "url": "https://www.semanticscholar.org/paper/8198ec90c9e97f583f921451e7112d943da75cb4",
+      "title": "Tutorial on amortized optimization for learning to optimize over continuous domains",
+      "venue": "arXiv.org",
+      "year": 2022,
+      "referenceCount": 270,
+      "citationCount": 60,
+      "authors": [
+        {
+          "authorId": "1773498",
+          "name": "Brandon Amos"
+        }
+      ]
+    },
+    {
+      "paperId": "f199ff92241eca9b467953a0efa0dff71396ceaf",
+      "externalIds": {
+        "DBLP": "journals/tkde/ShangJLHLM25",
+        "DOI": "10.1109/TKDE.2025.3591395",
+        "CorpusId": 280308585
+      },
+      "url": "https://www.semanticscholar.org/paper/f199ff92241eca9b467953a0efa0dff71396ceaf",
+      "title": "DVCAE: Semi-Supervised Dual Variational Cascade Autoencoders for Information Popularity Prediction",
+      "venue": "IEEE Transactions on Knowledge and Data Engineering",
+      "year": 2025,
+      "referenceCount": 50,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "2241625474",
+          "name": "Jiaxing Shang"
+        },
+        {
+          "authorId": "2160450194",
+          "name": "Xueqi Jia"
+        },
+        {
+          "authorId": "2237085062",
+          "name": "Xiaoquan Li"
+        },
+        {
+          "authorId": "2264968241",
+          "name": "Fei Hao"
+        },
+        {
+          "authorId": "2260846914",
+          "name": "Ruiyuan Li"
+        },
+        {
+          "authorId": "2370424254",
+          "name": "Geyong Min"
+        }
+      ]
+    },
+    {
+      "paperId": "26f478d51a05a69e8569f1cb5f7a03876388a63e",
+      "externalIds": {
+        "DBLP": "journals/bioinformatics/NambaLOY25",
+        "PubMedCentral": "11842052",
+        "DOI": "10.1093/bioinformatics/btaf039",
+        "CorpusId": 275992961,
+        "PubMed": "39880378"
+      },
+      "url": "https://www.semanticscholar.org/paper/26f478d51a05a69e8569f1cb5f7a03876388a63e",
+      "title": "SSL-VQ: vector-quantized variational autoencoders for semi-supervised prediction of therapeutic targets across diverse diseases",
+      "venue": "Bioinform.",
+      "year": 2025,
+      "referenceCount": 40,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2173673331",
+          "name": "Satoko Namba"
+        },
+        {
+          "authorId": "2256784709",
+          "name": "Chen Li"
+        },
+        {
+          "authorId": "2335988460",
+          "name": "Noriko Yuyama Otani"
+        },
+        {
+          "authorId": "2243475320",
+          "name": "Yoshihiro Yamanishi"
+        }
+      ]
+    },
+    {
+      "paperId": "5f245faeb50c61a14d3ab619c97aea9c92f18080",
+      "externalIds": {
+        "PubMedCentral": "11684628",
+        "DOI": "10.1371/journal.pone.0311541",
+        "CorpusId": 275141425,
+        "PubMed": "39774413"
+      },
+      "url": "https://www.semanticscholar.org/paper/5f245faeb50c61a14d3ab619c97aea9c92f18080",
+      "title": "Semi-supervised emotion-driven music generation model based on category-dispersed Gaussian Mixture Variational Autoencoders",
+      "venue": "PLoS ONE",
+      "year": 2024,
+      "referenceCount": 17,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "2337850127",
+          "name": "Zihao Ning"
+        },
+        {
+          "authorId": "2338029805",
+          "name": "Xiao Han"
+        },
+        {
+          "authorId": "2280873225",
+          "name": "Jie Pan"
+        }
+      ]
+    },
+    {
+      "paperId": "351189a33d8411bba566206066c4c639dd0a6e76",
+      "externalIds": {
+        "DBLP": "journals/twc/BurshteinB24",
+        "DOI": "10.1109/TWC.2024.3485991",
+        "CorpusId": 273757227
+      },
+      "url": "https://www.semanticscholar.org/paper/351189a33d8411bba566206066c4c639dd0a6e76",
+      "title": "Semi-Supervised Channel Equalization Using Variational Autoencoders",
+      "venue": "IEEE Transactions on Wireless Communications",
+      "year": 2024,
+      "referenceCount": 0,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2243416656",
+          "name": "David Burshtein"
+        },
+        {
+          "authorId": "2243416631",
+          "name": "Eli Bery"
+        }
+      ]
+    },
+    {
+      "paperId": "c0309249d7d34db75efff88cacea6a3d3b263d6a",
+      "externalIds": {
+        "DBLP": "journals/eaai/ChengYWJC24",
+        "DOI": "10.1016/j.engappai.2024.109065",
+        "CorpusId": 271805728
+      },
+      "url": "https://www.semanticscholar.org/paper/c0309249d7d34db75efff88cacea6a3d3b263d6a",
+      "title": "Semi-supervised soft sensor method for fermentation processes based on physical monotonicity and variational autoencoders",
+      "venue": "Engineering applications of artificial intelligence",
+      "year": 2024,
+      "referenceCount": 41,
+      "citationCount": 10,
+      "authors": [
+        {
+          "authorId": "2315863645",
+          "name": "Xinyue Cheng"
+        },
+        {
+          "authorId": "2314781025",
+          "name": "Zhenhua Yu"
+        },
+        {
+          "authorId": "2315894688",
+          "name": "Guan Wang"
+        },
+        {
+          "authorId": "1684901",
+          "name": "Qingchao Jiang"
+        },
+        {
+          "authorId": "2267998917",
+          "name": "Zhixing Cao"
+        }
+      ]
+    }
+  ]
+}

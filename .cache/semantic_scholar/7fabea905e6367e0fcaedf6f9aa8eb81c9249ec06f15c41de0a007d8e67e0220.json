@@ -1,0 +1,319 @@
+{
+  "total": 47,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "0a021b8bc34d02022f04a478a9c387ed6222ab6d",
+      "externalIds": {
+        "DBLP": "conf/icml/LiLZ17",
+        "MAG": "2592998600",
+        "CorpusId": 263863705
+      },
+      "url": "https://www.semanticscholar.org/paper/0a021b8bc34d02022f04a478a9c387ed6222ab6d",
+      "title": "Provably Optimal Algorithms for Generalized Linear Contextual Bandits",
+      "venue": "International Conference on Machine Learning",
+      "year": 2017,
+      "referenceCount": 14,
+      "citationCount": 248,
+      "authors": [
+        {
+          "authorId": "47681372",
+          "name": "Lihong Li"
+        },
+        {
+          "authorId": "2411432546",
+          "name": "Yu Lu"
+        },
+        {
+          "authorId": "24982365",
+          "name": "Dengyong Zhou"
+        }
+      ]
+    },
+    {
+      "paperId": "ba8c4d27079e9169e4e00c8734092693a8e6cdcd",
+      "externalIds": {
+        "DBLP": "journals/corr/LiLZ17a",
+        "ArXiv": "1703.00048",
+        "CorpusId": 9759660
+      },
+      "url": "https://www.semanticscholar.org/paper/ba8c4d27079e9169e4e00c8734092693a8e6cdcd",
+      "title": "Provable Optimal Algorithms for Generalized Linear Contextual Bandits",
+      "venue": "arXiv.org",
+      "year": 2017,
+      "referenceCount": 32,
+      "citationCount": 88,
+      "authors": [
+        {
+          "authorId": "47681372",
+          "name": "Lihong Li"
+        },
+        {
+          "authorId": "2140044738",
+          "name": "Yu Lu"
+        },
+        {
+          "authorId": "24982365",
+          "name": "Dengyong Zhou"
+        }
+      ]
+    },
+    {
+      "paperId": "efae449de2189c8720fc59610f27fe70ae9ce771",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2404-06831",
+        "DOI": "10.48550/arXiv.2404.06831",
+        "CorpusId": 271797313
+      },
+      "url": "https://www.semanticscholar.org/paper/efae449de2189c8720fc59610f27fe70ae9ce771",
+      "title": "Optimal Regret with Limited Adaptivity for Generalized Linear Contextual Bandits",
+      "venue": "arXiv.org",
+      "year": 2024,
+      "referenceCount": 20,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "1381282860",
+          "name": "Ayush Sawarni"
+        },
+        {
+          "authorId": "2295883986",
+          "name": "Nirjhar Das"
+        },
+        {
+          "authorId": "2253468709",
+          "name": "Siddharth Barman"
+        },
+        {
+          "authorId": "2295883652",
+          "name": "Gaurav Sinha"
+        }
+      ]
+    },
+    {
+      "paperId": "892833cf414c2865015e79ee0d0c32fe1229d8be",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2506-12751",
+        "ArXiv": "2506.12751",
+        "DOI": "10.48550/arXiv.2506.12751",
+        "CorpusId": 279403271
+      },
+      "url": "https://www.semanticscholar.org/paper/892833cf414c2865015e79ee0d0c32fe1229d8be",
+      "title": "Single Index Bandits: Generalized Linear Contextual Bandits with Unknown Reward Functions",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "referenceCount": 69,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "2317042137",
+          "name": "Yue Kang"
+        },
+        {
+          "authorId": "2321448121",
+          "name": "Mingshuo Liu"
+        },
+        {
+          "authorId": "2317007532",
+          "name": "Bongsoo Yi"
+        },
+        {
+          "authorId": "2367196330",
+          "name": "Jing Lyu"
+        },
+        {
+          "authorId": "2260157292",
+          "name": "Zhi Zhang"
+        },
+        {
+          "authorId": "2320821436",
+          "name": "Doudou Zhou"
+        },
+        {
+          "authorId": "2317092230",
+          "name": "Yao Li"
+        }
+      ]
+    },
+    {
+      "paperId": "986f4379440fbdde46bce89610febb88247e893a",
+      "externalIds": {
+        "ArXiv": "2505.17400",
+        "CorpusId": 278886378
+      },
+      "url": "https://www.semanticscholar.org/paper/986f4379440fbdde46bce89610febb88247e893a",
+      "title": "Minimax Rate-Optimal Algorithms for High-Dimensional Stochastic Linear Bandits",
+      "venue": "",
+      "year": 2025,
+      "referenceCount": 0,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2284527546",
+          "name": "Jingyu Liu"
+        },
+        {
+          "authorId": "2326922183",
+          "name": "Yanglei Song"
+        }
+      ]
+    },
+    {
+      "paperId": "8492de78440f0f5440521f5027fe0ce9465c040d",
+      "externalIds": {
+        "ArXiv": "2310.18701",
+        "DBLP": "conf/nips/0004WWY023",
+        "DOI": "10.48550/arXiv.2310.18701",
+        "CorpusId": 264590542
+      },
+      "url": "https://www.semanticscholar.org/paper/8492de78440f0f5440521f5027fe0ce9465c040d",
+      "title": "Efficient Algorithms for Generalized Linear Bandits with Heavy-tailed Rewards",
+      "venue": "Neural Information Processing Systems",
+      "year": 2023,
+      "referenceCount": 44,
+      "citationCount": 12,
+      "authors": [
+        {
+          "authorId": "2054526085",
+          "name": "Bo Xue"
+        },
+        {
+          "authorId": "2259866135",
+          "name": "Yimu Wang"
+        },
+        {
+          "authorId": "50826651",
+          "name": "Yuanyu Wan"
+        },
+        {
+          "authorId": "2263191647",
+          "name": "Jinfeng Yi"
+        },
+        {
+          "authorId": "2228393430",
+          "name": "Lijun Zhang"
+        }
+      ]
+    },
+    {
+      "paperId": "e64059e4f3b17972eb1a451bafcf9b4342f777c0",
+      "externalIds": {
+        "ArXiv": "2507.11847",
+        "DBLP": "journals/corr/abs-2507-11847",
+        "DOI": "10.48550/arXiv.2507.11847",
+        "CorpusId": 280277357
+      },
+      "url": "https://www.semanticscholar.org/paper/e64059e4f3b17972eb1a451bafcf9b4342f777c0",
+      "title": "Generalized Linear Bandits: Almost Optimal Regret with One-Pass Update",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "referenceCount": 46,
+      "citationCount": 8,
+      "authors": [
+        {
+          "authorId": "2288041341",
+          "name": "Yu-Jie Zhang"
+        },
+        {
+          "authorId": "2390547958",
+          "name": "Shengqi Xu"
+        },
+        {
+          "authorId": "2367487411",
+          "name": "Peng Zhao"
+        },
+        {
+          "authorId": "2318604767",
+          "name": "Masashi Sugiyama"
+        }
+      ]
+    },
+    {
+      "paperId": "4a0e09f2ff1189f2f3e19133523ad0910d85c878",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2510-23992",
+        "ArXiv": "2510.23992",
+        "DOI": "10.48550/arXiv.2510.23992",
+        "CorpusId": 282401347
+      },
+      "url": "https://www.semanticscholar.org/paper/4a0e09f2ff1189f2f3e19133523ad0910d85c878",
+      "title": "Optimal Arm Elimination Algorithms for Combinatorial Bandits",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "referenceCount": 32,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2284194375",
+          "name": "Yuxiao Wen"
+        },
+        {
+          "authorId": "2288273893",
+          "name": "Yanjun Han"
+        },
+        {
+          "authorId": "2288430812",
+          "name": "Zhengyuan Zhou"
+        }
+      ]
+    },
+    {
+      "paperId": "d3ad6ba7c06fbeee781f10df391fd1b1e5d1fd80",
+      "externalIds": {
+        "DBLP": "conf/nips/DoNA23",
+        "DOI": "10.52202/075280-3445",
+        "CorpusId": 268096298
+      },
+      "url": "https://www.semanticscholar.org/paper/d3ad6ba7c06fbeee781f10df391fd1b1e5d1fd80",
+      "title": "Multi-Agent Learning with Heterogeneous Linear Contextual Bandits",
+      "venue": "Neural Information Processing Systems",
+      "year": 2023,
+      "referenceCount": 36,
+      "citationCount": 6,
+      "authors": [
+        {
+          "authorId": "2286076011",
+          "name": "Anh Do"
+        },
+        {
+          "authorId": "2052547769",
+          "name": "Thanh Nguyen-Tang"
+        },
+        {
+          "authorId": "2267725630",
+          "name": "Raman Arora"
+        }
+      ]
+    },
+    {
+      "paperId": "e4b5acee0298db7af2de913cea55411b2395395e",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2602-10971",
+        "ArXiv": "2602.10971",
+        "DOI": "10.48550/arXiv.2602.10971",
+        "CorpusId": 285470480
+      },
+      "url": "https://www.semanticscholar.org/paper/e4b5acee0298db7af2de913cea55411b2395395e",
+      "title": "A Jointly Efficient and Optimal Algorithm for Heteroskedastic Generalized Linear Bandits with Adversarial Corruptions",
+      "venue": "arXiv.org",
+      "year": 2026,
+      "referenceCount": 84,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2268852258",
+          "name": "Sanghwan Kim"
+        },
+        {
+          "authorId": "2327037089",
+          "name": "Jung-Hyun Lee"
+        },
+        {
+          "authorId": "2262444370",
+          "name": "Se-Young Yun"
+        }
+      ]
+    }
+  ]
+}

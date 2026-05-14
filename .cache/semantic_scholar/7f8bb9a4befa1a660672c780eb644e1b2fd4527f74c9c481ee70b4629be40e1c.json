@@ -1,0 +1,160 @@
+{
+  "total": 5,
+  "offset": 0,
+  "data": [
+    {
+      "paperId": "efb5032e6199c80f83309fd866b25be9545831fd",
+      "externalIds": {
+        "ArXiv": "1504.04788",
+        "DBLP": "journals/corr/ChenWTWC15",
+        "MAG": "2952432176",
+        "CorpusId": 543597
+      },
+      "url": "https://www.semanticscholar.org/paper/efb5032e6199c80f83309fd866b25be9545831fd",
+      "title": "Compressing Neural Networks with the Hashing Trick",
+      "venue": "International Conference on Machine Learning",
+      "year": 2015,
+      "referenceCount": 55,
+      "citationCount": 1233,
+      "authors": [
+        {
+          "authorId": null,
+          "name": "Wenlin Chen"
+        },
+        {
+          "authorId": "152983984",
+          "name": "James T. Wilson"
+        },
+        {
+          "authorId": "2342481",
+          "name": "Stephen Tyree"
+        },
+        {
+          "authorId": "7446832",
+          "name": "Kilian Q. Weinberger"
+        },
+        {
+          "authorId": "2116664181",
+          "name": "Yixin Chen"
+        }
+      ]
+    },
+    {
+      "paperId": "f419321efb0b645601fe870d8b4dedf5ad5ecf41",
+      "externalIds": {
+        "MAG": "3093374968",
+        "DBLP": "journals/asc/GouQWXW20",
+        "DOI": "10.1016/j.asoc.2020.106783",
+        "CorpusId": 225157740
+      },
+      "url": "https://www.semanticscholar.org/paper/f419321efb0b645601fe870d8b4dedf5ad5ecf41",
+      "title": "Re-Training and Parameter Sharing with the Hash Trick for Compressing Convolutional Neural Networks",
+      "venue": "International Conference on Machine Learning for Cyber Security",
+      "year": 2020,
+      "referenceCount": 37,
+      "citationCount": 4,
+      "authors": [
+        {
+          "authorId": "2060579465",
+          "name": "Xu Gou"
+        },
+        {
+          "authorId": "3334291",
+          "name": "L. Qing"
+        },
+        {
+          "authorId": "2154457880",
+          "name": "Yi Wang"
+        },
+        {
+          "authorId": "104499582",
+          "name": "Mulin Xin"
+        }
+      ]
+    },
+    {
+      "paperId": "3c85e258fc3eb0f0bbb2c049119a4c1156dc6dea",
+      "externalIds": {
+        "DOI": "10.1007/s41870-024-01767-4",
+        "CorpusId": 268507470
+      },
+      "url": "https://www.semanticscholar.org/paper/3c85e258fc3eb0f0bbb2c049119a4c1156dc6dea",
+      "title": "Quantized hashing: enabling resource-efficient deep learning models at the edge",
+      "venue": "International journal of information technology",
+      "year": 2024,
+      "referenceCount": 42,
+      "citationCount": 4,
+      "authors": [
+        {
+          "authorId": "145074598",
+          "name": "Azra Nazir"
+        },
+        {
+          "authorId": "2833169",
+          "name": "R. N. Mir"
+        },
+        {
+          "authorId": "48404054",
+          "name": "S. Qureshi"
+        }
+      ]
+    },
+    {
+      "paperId": "4bf6ce4a9366cdba069a45651606538f2febd8e6",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-1711-01068",
+        "MAG": "2962790997",
+        "ArXiv": "1711.01068",
+        "CorpusId": 3523429
+      },
+      "url": "https://www.semanticscholar.org/paper/4bf6ce4a9366cdba069a45651606538f2febd8e6",
+      "title": "Compressing Word Embeddings via Deep Compositional Code Learning",
+      "venue": "International Conference on Learning Representations",
+      "year": 2017,
+      "referenceCount": 47,
+      "citationCount": 133,
+      "authors": [
+        {
+          "authorId": "7412686",
+          "name": "Raphael Shu"
+        },
+        {
+          "authorId": "48731103",
+          "name": "Hideki Nakayama"
+        }
+      ]
+    },
+    {
+      "paperId": "39ee99e8046ed24c01ed5b36b538e1e4b9175a68",
+      "externalIds": {
+        "MAG": "2974326827",
+        "DOI": "10.23919/JCC.2019.08.011",
+        "CorpusId": 201832524
+      },
+      "url": "https://www.semanticscholar.org/paper/39ee99e8046ed24c01ed5b36b538e1e4b9175a68",
+      "title": "Amygdala-inspired affective computing: To realize personalized intracranial emotions with accurately observed external emotions",
+      "venue": "China Communications",
+      "year": 2019,
+      "referenceCount": 18,
+      "citationCount": 13,
+      "authors": [
+        {
+          "authorId": "1486120808",
+          "name": "Chao Gong"
+        },
+        {
+          "authorId": "7185067",
+          "name": "Fuhong Lin"
+        },
+        {
+          "authorId": "2530334",
+          "name": "Xianwei Zhou"
+        },
+        {
+          "authorId": "2060711526",
+          "name": "Xing Lü"
+        }
+      ]
+    }
+  ]
+}

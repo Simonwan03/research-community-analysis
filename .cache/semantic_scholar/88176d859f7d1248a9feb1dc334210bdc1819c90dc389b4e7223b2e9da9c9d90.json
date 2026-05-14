@@ -1,0 +1,276 @@
+{
+  "total": 39,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "30e28beb92239447aff0718119195c0539aa58d8",
+      "externalIds": {
+        "DBLP": "conf/icml/Mitrovic0ZK18",
+        "MAG": "2963844234",
+        "ArXiv": "1806.02815",
+        "CorpusId": 46978657
+      },
+      "url": "https://www.semanticscholar.org/paper/30e28beb92239447aff0718119195c0539aa58d8",
+      "title": "Data Summarization at Scale: A Two-Stage Submodular Approach",
+      "venue": "International Conference on Machine Learning",
+      "year": 2018,
+      "referenceCount": 33,
+      "citationCount": 46,
+      "authors": [
+        {
+          "authorId": "153274052",
+          "name": "Marko Mitrovic"
+        },
+        {
+          "authorId": "145735687",
+          "name": "Ehsan Kazemi"
+        },
+        {
+          "authorId": "1724391",
+          "name": "Morteza Zadimoghaddam"
+        },
+        {
+          "authorId": "1697131",
+          "name": "Amin Karbasi"
+        }
+      ]
+    },
+    {
+      "paperId": "7581de1364478e168903ca4e2fb669ce60d1e373",
+      "externalIds": {
+        "CorpusId": 260543752
+      },
+      "url": "https://www.semanticscholar.org/paper/7581de1364478e168903ca4e2fb669ce60d1e373",
+      "title": "Data Summarization at Scale: A Two-Stage Submodular Approach",
+      "venue": "",
+      "year": 2018,
+      "referenceCount": 0,
+      "citationCount": 0,
+      "authors": []
+    },
+    {
+      "paperId": "3ac977acf80dd1ad15b72f074e92f71403ab1688",
+      "externalIds": {
+        "DBLP": "conf/naacl/KumariWDZB24",
+        "DOI": "10.18653/v1/2024.findings-naacl.209",
+        "CorpusId": 271523641
+      },
+      "url": "https://www.semanticscholar.org/paper/3ac977acf80dd1ad15b72f074e92f71403ab1688",
+      "title": "An End-to-End Submodular Framework for Data-Efficient In-Context Learning",
+      "venue": "NAACL-HLT",
+      "year": 2024,
+      "referenceCount": 70,
+      "citationCount": 8,
+      "authors": [
+        {
+          "authorId": "49561117",
+          "name": "Lilly Kumari"
+        },
+        {
+          "authorId": "4519720",
+          "name": "Shengjie Wang"
+        },
+        {
+          "authorId": "2273635329",
+          "name": "A. Das"
+        },
+        {
+          "authorId": "2291084688",
+          "name": "Tianyi Zhou"
+        },
+        {
+          "authorId": "2249153752",
+          "name": "Jeff A. Bilmes"
+        }
+      ]
+    },
+    {
+      "paperId": "aa9b3a19ed77362e189f45059f7b8f896eda84e2",
+      "externalIds": {
+        "DBLP": "conf/aaai/KumariB21",
+        "DOI": "10.1609/aaai.v35i14.17465",
+        "CorpusId": 232128108
+      },
+      "url": "https://www.semanticscholar.org/paper/aa9b3a19ed77362e189f45059f7b8f896eda84e2",
+      "title": "Submodular Span, with Applications to Conditional Data Summarization",
+      "venue": "AAAI Conference on Artificial Intelligence",
+      "year": 2021,
+      "referenceCount": 44,
+      "citationCount": 8,
+      "authors": [
+        {
+          "authorId": "49561117",
+          "name": "Lilly Kumari"
+        },
+        {
+          "authorId": "1748118",
+          "name": "J. Bilmes"
+        }
+      ]
+    },
+    {
+      "paperId": "6936d93badd424bc34c36c86d625b3f2a03df714",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-1905-03438",
+        "ArXiv": "1905.03438",
+        "MAG": "2944313827",
+        "CorpusId": 148571804
+      },
+      "url": "https://www.semanticscholar.org/paper/6936d93badd424bc34c36c86d625b3f2a03df714",
+      "title": "Two-stage Best-scored Random Forest for Large-scale Regression",
+      "venue": "arXiv.org",
+      "year": 2019,
+      "referenceCount": 33,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "39861625",
+          "name": "H. Hang"
+        },
+        {
+          "authorId": "2281434864",
+          "name": "Yingyi Chen"
+        },
+        {
+          "authorId": "1744439",
+          "name": "J. Suykens"
+        }
+      ]
+    },
+    {
+      "paperId": "3834b6235da3f6cb6c4caa8bea9cedead02eb60a",
+      "externalIds": {
+        "ArXiv": "2505.06184",
+        "DBLP": "journals/corr/abs-2505-06184",
+        "DOI": "10.48550/arXiv.2505.06184",
+        "CorpusId": 278481457
+      },
+      "url": "https://www.semanticscholar.org/paper/3834b6235da3f6cb6c4caa8bea9cedead02eb60a",
+      "title": "From Millions of Tweets to Actionable Insights: Leveraging LLMs for User Profiling",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "referenceCount": 62,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "2344830499",
+          "name": "Vahid Rahimzadeh"
+        },
+        {
+          "authorId": "2360170662",
+          "name": "Ali Hamzehpour"
+        },
+        {
+          "authorId": "2887988",
+          "name": "A. Shakery"
+        },
+        {
+          "authorId": "2306927103",
+          "name": "Masoud Asadpour"
+        }
+      ]
+    },
+    {
+      "paperId": "af86c397b703755e83eeca55af18689c052476a6",
+      "externalIds": {
+        "DOI": "10.2118/229443-ms",
+        "CorpusId": 282782339
+      },
+      "url": "https://www.semanticscholar.org/paper/af86c397b703755e83eeca55af18689c052476a6",
+      "title": "Fine-Tuned Generative AI for Automated Structured Data Extraction and Insight Generation from Legacy Petroleum Well Reports: An Egyptian Oilfields Case Study",
+      "venue": "ADIPEC",
+      "year": 2025,
+      "referenceCount": 9,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2398282360",
+          "name": "A. E. Abdelgawad"
+        },
+        {
+          "authorId": "2078721417",
+          "name": "A. Ghattas"
+        }
+      ]
+    },
+    {
+      "paperId": "3beb439f1b8601ee9c56327651a0b67a89be0d19",
+      "externalIds": {
+        "DOI": "10.33029/1027-6661-2025-31-3-160-171",
+        "CorpusId": 283509020,
+        "PubMed": "41805492"
+      },
+      "url": "https://www.semanticscholar.org/paper/3beb439f1b8601ee9c56327651a0b67a89be0d19",
+      "title": "[Endovascular embolization in treatment of peripheral arteriovenous malformations (literature review)].",
+      "venue": "Angiologiia i sosudistaia khirurgiia = Angiology and vascular surgery",
+      "year": 2025,
+      "referenceCount": 0,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2265269639",
+          "name": "S. V. Sapelkin"
+        },
+        {
+          "authorId": "50054419",
+          "name": "S. Kuliev"
+        },
+        {
+          "authorId": "3134625",
+          "name": "A. B. Varava"
+        },
+        {
+          "authorId": "2333991133",
+          "name": "B. G. Alekyan"
+        }
+      ]
+    },
+    {
+      "paperId": "63979fa4e6e5ee8d72e7db9d6aa9f9f085f1119c",
+      "externalIds": {
+        "PubMedCentral": "4971698",
+        "MAG": "2492443675",
+        "DOI": "10.1186/s12874-016-0189-0",
+        "CorpusId": 18674614,
+        "PubMed": "27485429"
+      },
+      "url": "https://www.semanticscholar.org/paper/63979fa4e6e5ee8d72e7db9d6aa9f9f085f1119c",
+      "title": "Dose-response meta-analysis of differences in means",
+      "venue": "BMC Medical Research Methodology",
+      "year": 2016,
+      "referenceCount": 41,
+      "citationCount": 168,
+      "authors": [
+        {
+          "authorId": "4675658",
+          "name": "A. Crippa"
+        },
+        {
+          "authorId": "2107886",
+          "name": "N. Orsini"
+        }
+      ]
+    },
+    {
+      "paperId": "4a7dbd9eb6aeb279ecb89195f28b528326d6803f",
+      "externalIds": {
+        "MAG": "2772507424",
+        "DOI": "10.1111/1365-2745.12887",
+        "CorpusId": 91111568
+      },
+      "url": "https://www.semanticscholar.org/paper/4a7dbd9eb6aeb279ecb89195f28b528326d6803f",
+      "title": "Being John Harper: Using evolutionary ideas to improve understanding of global patterns in plant traits",
+      "venue": "",
+      "year": 2018,
+      "referenceCount": 215,
+      "citationCount": 159,
+      "authors": [
+        {
+          "authorId": "152483579",
+          "name": "A. Moles"
+        }
+      ]
+    }
+  ]
+}

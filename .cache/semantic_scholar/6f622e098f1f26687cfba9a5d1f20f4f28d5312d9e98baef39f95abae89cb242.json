@@ -1,0 +1,939 @@
+{
+  "offset": 0,
+  "citingPaperInfo": {
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/1502.02763, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "title": "Cascading Bandits: Learning to Rank in the Cascade Model",
+    "authors": [
+      {
+        "authorId": "1681967",
+        "name": "B. Kveton"
+      },
+      {
+        "authorId": "40868287",
+        "name": "Csaba Szepesvari"
+      },
+      {
+        "authorId": "39761651",
+        "name": "Zheng Wen"
+      },
+      {
+        "authorId": "1715458",
+        "name": "Azin Ashkan"
+      }
+    ]
+  },
+  "data": [
+    {
+      "citedPaper": {
+        "paperId": "358aed64a2a0352ffd9e245d00cc797e544abd07",
+        "externalIds": {
+          "MAG": "2069979655",
+          "DBLP": "journals/tsp/LeSZ14",
+          "DOI": "10.1109/TSP.2014.2357779",
+          "CorpusId": 15317860
+        },
+        "url": "https://www.semanticscholar.org/paper/358aed64a2a0352ffd9e245d00cc797e544abd07",
+        "title": "Sequential Learning for Multi-Channel Wireless Network Monitoring With Channel Switching Costs",
+        "venue": "IEEE Transactions on Signal Processing",
+        "year": 2014,
+        "referenceCount": 30,
+        "citationCount": 55,
+        "authors": [
+          {
+            "authorId": "47267318",
+            "name": "Thanh Le"
+          },
+          {
+            "authorId": "40868287",
+            "name": "Csaba Szepesvari"
+          },
+          {
+            "authorId": "2027592",
+            "name": "Rong Zheng"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "c40640d997dab261d37743e1bffc09273c9937a0",
+        "externalIds": {
+          "DBLP": "journals/corr/ChenWY14a",
+          "ArXiv": "1407.8339",
+          "MAG": "2237158255",
+          "CorpusId": 945222
+        },
+        "url": "https://www.semanticscholar.org/paper/c40640d997dab261d37743e1bffc09273c9937a0",
+        "title": "Combinatorial Multi-Armed Bandit and Its Extension to Probabilistically Triggered Arms",
+        "venue": "Journal of machine learning research",
+        "year": 2014,
+        "referenceCount": 38,
+        "citationCount": 305,
+        "authors": [
+          {
+            "authorId": "47483090",
+            "name": "Wei Chen"
+          },
+          {
+            "authorId": "2115646925",
+            "name": "Yajun Wang"
+          },
+          {
+            "authorId": "145155436",
+            "name": "Yang Yuan"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "5b38018738aec8e5e12e2e24d34e0bfe2baf5eb9",
+        "externalIds": {
+          "MAG": "1876041327",
+          "DBLP": "conf/icml/WenKA15",
+          "ArXiv": "1406.7443",
+          "CorpusId": 5312016
+        },
+        "url": "https://www.semanticscholar.org/paper/5b38018738aec8e5e12e2e24d34e0bfe2baf5eb9",
+        "title": "Efficient Learning in Large-Scale Combinatorial Semi-Bandits",
+        "venue": "International Conference on Machine Learning",
+        "year": 2014,
+        "referenceCount": 33,
+        "citationCount": 105,
+        "authors": [
+          {
+            "authorId": "39761651",
+            "name": "Zheng Wen"
+          },
+          {
+            "authorId": "1681967",
+            "name": "B. Kveton"
+          },
+          {
+            "authorId": "1715458",
+            "name": "Azin Ashkan"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "0ff40bf80c25673a5d6e3c21e9170ea0cb89eca8",
+        "externalIds": {
+          "MAG": "2114802044",
+          "DBLP": "conf/icml/LinAKLC14",
+          "CorpusId": 4706041
+        },
+        "url": "https://www.semanticscholar.org/paper/0ff40bf80c25673a5d6e3c21e9170ea0cb89eca8",
+        "title": "Combinatorial Partial Monitoring Game with Linear Feedback and Its Applications",
+        "venue": "International Conference on Machine Learning",
+        "year": 2014,
+        "referenceCount": 18,
+        "citationCount": 56,
+        "authors": [
+          {
+            "authorId": "2115348463",
+            "name": "Tian Lin"
+          },
+          {
+            "authorId": "3007612",
+            "name": "B. Abrahao"
+          },
+          {
+            "authorId": "2633757",
+            "name": "Robert D. Kleinberg"
+          },
+          {
+            "authorId": "145462046",
+            "name": "John C.S. Lui"
+          },
+          {
+            "authorId": null,
+            "name": "Wei Chen"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "48e5e3f1bc5aaec3ec91c35e306d28e19d335c65",
+        "externalIds": {
+          "ArXiv": "1405.7752",
+          "DBLP": "journals/corr/KvetonWAV14",
+          "MAG": "2249990263",
+          "CorpusId": 2090214
+        },
+        "url": "https://www.semanticscholar.org/paper/48e5e3f1bc5aaec3ec91c35e306d28e19d335c65",
+        "title": "Learning to Act Greedily: Polymatroid Semi-Bandits",
+        "venue": "arXiv.org",
+        "year": 2014,
+        "referenceCount": 35,
+        "citationCount": 10,
+        "authors": [
+          {
+            "authorId": "1681967",
+            "name": "B. Kveton"
+          },
+          {
+            "authorId": "39761651",
+            "name": "Zheng Wen"
+          },
+          {
+            "authorId": "1715458",
+            "name": "Azin Ashkan"
+          },
+          {
+            "authorId": "1806291",
+            "name": "Michal Valko"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "b1f5f00de17820cbc179b7ecc6401ca9828e0383",
+        "externalIds": {
+          "MAG": "2949485290",
+          "DBLP": "journals/corr/KvetonWAEE14",
+          "ArXiv": "1403.5045",
+          "CorpusId": 7411576
+        },
+        "url": "https://www.semanticscholar.org/paper/b1f5f00de17820cbc179b7ecc6401ca9828e0383",
+        "title": "Matroid Bandits: Fast Combinatorial Optimization with Learning",
+        "venue": "Conference on Uncertainty in Artificial Intelligence",
+        "year": 2014,
+        "referenceCount": 30,
+        "citationCount": 132,
+        "authors": [
+          {
+            "authorId": "1681967",
+            "name": "B. Kveton"
+          },
+          {
+            "authorId": "39761651",
+            "name": "Zheng Wen"
+          },
+          {
+            "authorId": "1715458",
+            "name": "Azin Ashkan"
+          },
+          {
+            "authorId": "2893518",
+            "name": "Hoda Eydgahi"
+          },
+          {
+            "authorId": "34012755",
+            "name": "Brian Eriksson"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "400213ef6ee1eb369fbba6fd3ff20fb0765e5aaa",
+        "externalIds": {
+          "MAG": "2185823609",
+          "CorpusId": 280366384
+        },
+        "url": "https://www.semanticscholar.org/paper/400213ef6ee1eb369fbba6fd3ff20fb0765e5aaa",
+        "title": "Combinatorial multi-armed bandit: general framework, results and applications",
+        "venue": "International Conference on Machine Learning",
+        "year": 2013,
+        "referenceCount": 26,
+        "citationCount": 47,
+        "authors": [
+          {
+            "authorId": "2316002395",
+            "name": "Wei Chen"
+          },
+          {
+            "authorId": "2241801564",
+            "name": "Yajun Wang"
+          },
+          {
+            "authorId": "145155436",
+            "name": "Yang Yuan"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "2fb23de9524b13a32d9ed7f2441c46c81558a3c8",
+        "externalIds": {
+          "MAG": "2289331671",
+          "DOI": "10.1093/acprof:oso/9780199535255.001.0001",
+          "CorpusId": 124648595
+        },
+        "url": "https://www.semanticscholar.org/paper/2fb23de9524b13a32d9ed7f2441c46c81558a3c8",
+        "title": "Concentration Inequalities: A Nonasymptotic Theory of Independence",
+        "venue": "",
+        "year": 2013,
+        "referenceCount": 0,
+        "citationCount": 3218,
+        "authors": [
+          {
+            "authorId": "122051864",
+            "name": "S. Boucheron"
+          },
+          {
+            "authorId": "1755694",
+            "name": "G. Lugosi"
+          },
+          {
+            "authorId": "3226094",
+            "name": "P. Massart"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "3ee657576bc9789e13dbcfa00e8fbd21b453c763",
+        "externalIds": {
+          "MAG": "2963486904",
+          "ArXiv": "1210.4839",
+          "DBLP": "conf/uai/CaronKLB12",
+          "CorpusId": 6874536
+        },
+        "url": "https://www.semanticscholar.org/paper/3ee657576bc9789e13dbcfa00e8fbd21b453c763",
+        "title": "Leveraging Side Observations in Stochastic Bandits",
+        "venue": "Conference on Uncertainty in Artificial Intelligence",
+        "year": 2012,
+        "referenceCount": 22,
+        "citationCount": 117,
+        "authors": [
+          {
+            "authorId": "152715166",
+            "name": "S. Caron"
+          },
+          {
+            "authorId": "1681967",
+            "name": "B. Kveton"
+          },
+          {
+            "authorId": "1801397",
+            "name": "M. Lelarge"
+          },
+          {
+            "authorId": "1738297",
+            "name": "Smriti Bhagat"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "c6c0529cd038e33a34ef09ce22db3ba2074119c3",
+        "externalIds": {
+          "ArXiv": "1206.6487",
+          "DBLP": "conf/icml/BartokZS12",
+          "MAG": "2203325308",
+          "CorpusId": 129331
+        },
+        "url": "https://www.semanticscholar.org/paper/c6c0529cd038e33a34ef09ce22db3ba2074119c3",
+        "title": "An adaptive algorithm for finite stochastic partial monitoring",
+        "venue": "International Conference on Machine Learning",
+        "year": 2012,
+        "referenceCount": 10,
+        "citationCount": 42,
+        "authors": [
+          {
+            "authorId": "145144587",
+            "name": "Gábor Bartók"
+          },
+          {
+            "authorId": "2109029",
+            "name": "N. Zolghadr"
+          },
+          {
+            "authorId": "40868287",
+            "name": "Csaba Szepesvari"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "7a28a9d7a3d56fcbf151508f793dce1150bcaef9",
+        "externalIds": {
+          "MAG": "2143140272",
+          "ArXiv": "1106.2436",
+          "DBLP": "conf/nips/MannorS11",
+          "CorpusId": 456598
+        },
+        "url": "https://www.semanticscholar.org/paper/7a28a9d7a3d56fcbf151508f793dce1150bcaef9",
+        "title": "From Bandits to Experts: On the Value of Side-Observations",
+        "venue": "Neural Information Processing Systems",
+        "year": 2011,
+        "referenceCount": 13,
+        "citationCount": 234,
+        "authors": [
+          {
+            "authorId": "1712535",
+            "name": "Shie Mannor"
+          },
+          {
+            "authorId": "1768909",
+            "name": "Ohad Shamir"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "a7a481032045284382dffa1be4ba90029d14eb41",
+        "externalIds": {
+          "MAG": "1501823362",
+          "DBLP": "journals/jmlr/GarivierC11",
+          "ArXiv": "1102.2490",
+          "CorpusId": 6345726
+        },
+        "url": "https://www.semanticscholar.org/paper/a7a481032045284382dffa1be4ba90029d14eb41",
+        "title": "The KL-UCB Algorithm for Bounded Stochastic Bandits and Beyond",
+        "venue": "Annual Conference Computational Learning Theory",
+        "year": 2011,
+        "referenceCount": 18,
+        "citationCount": 655,
+        "authors": [
+          {
+            "authorId": "2927057",
+            "name": "Aurélien Garivier"
+          },
+          {
+            "authorId": "1769551",
+            "name": "O. Cappé"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "582a47a444c46aa7206283803ce4cf9fa837952f",
+        "externalIds": {
+          "DBLP": "conf/nips/FilippiCGS10",
+          "MAG": "2160163723",
+          "CorpusId": 3220528
+        },
+        "url": "https://www.semanticscholar.org/paper/582a47a444c46aa7206283803ce4cf9fa837952f",
+        "title": "Parametric Bandits: The Generalized Linear Case",
+        "venue": "Neural Information Processing Systems",
+        "year": 2010,
+        "referenceCount": 20,
+        "citationCount": 514,
+        "authors": [
+          {
+            "authorId": "2964885",
+            "name": "S. Filippi"
+          },
+          {
+            "authorId": "1769551",
+            "name": "O. Cappé"
+          },
+          {
+            "authorId": "2927057",
+            "name": "Aurélien Garivier"
+          },
+          {
+            "authorId": "40868287",
+            "name": "Csaba Szepesvari"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "a83342d7c30f17a9b0c4d377d568ca9272a58dc4",
+        "externalIds": {
+          "MAG": "1833992807",
+          "DBLP": "journals/corr/abs-1011-4748",
+          "ArXiv": "1011.4748",
+          "CorpusId": 260437894
+        },
+        "url": "https://www.semanticscholar.org/paper/a83342d7c30f17a9b0c4d377d568ca9272a58dc4",
+        "title": "Combinatorial Network Optimization with Unknown Variables: Multi-Armed Bandits with Linear Rewards",
+        "venue": "arXiv.org",
+        "year": 2010,
+        "referenceCount": 29,
+        "citationCount": 286,
+        "authors": [
+          {
+            "authorId": "3171751",
+            "name": "Yi Gai"
+          },
+          {
+            "authorId": "2174866863",
+            "name": "Bhaskar Krishnamachari"
+          },
+          {
+            "authorId": "49037170",
+            "name": "Rahul Jain"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "f7232bd0c6ea685d74c90d7d926e3f3d38a17983",
+        "externalIds": {
+          "MAG": "2106630408",
+          "DBLP": "conf/www/GuoLKMTWF09",
+          "DOI": "10.1145/1526709.1526712",
+          "CorpusId": 14992423
+        },
+        "url": "https://www.semanticscholar.org/paper/f7232bd0c6ea685d74c90d7d926e3f3d38a17983",
+        "title": "Click chain model in web search",
+        "venue": "The Web Conference",
+        "year": 2009,
+        "referenceCount": 17,
+        "citationCount": 257,
+        "authors": [
+          {
+            "authorId": "2065454171",
+            "name": "Fan Guo"
+          },
+          {
+            "authorId": "2152504682",
+            "name": "Chao Liu"
+          },
+          {
+            "authorId": "145721096",
+            "name": "A. Kannan"
+          },
+          {
+            "authorId": "52626911",
+            "name": "T. Minka"
+          },
+          {
+            "authorId": "2116741026",
+            "name": "Michael J. Taylor"
+          },
+          {
+            "authorId": "46394053",
+            "name": "Y. Wang"
+          },
+          {
+            "authorId": "1702392",
+            "name": "C. Faloutsos"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "333493706cb73e34e30641da87dab19c9e387abc",
+        "externalIds": {
+          "MAG": "2099213975",
+          "DBLP": "conf/www/ChapelleZ09",
+          "DOI": "10.1145/1526709.1526711",
+          "CorpusId": 207172170
+        },
+        "url": "https://www.semanticscholar.org/paper/333493706cb73e34e30641da87dab19c9e387abc",
+        "title": "A dynamic bayesian network click model for web search ranking",
+        "venue": "The Web Conference",
+        "year": 2009,
+        "referenceCount": 21,
+        "citationCount": 587,
+        "authors": [
+          {
+            "authorId": "1730609",
+            "name": "O. Chapelle"
+          },
+          {
+            "authorId": "2108037077",
+            "name": "Ya Zhang"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "4a8839d1b36b614b35ced8c0db42c89f6598fa6c",
+        "externalIds": {
+          "MAG": "2154739689",
+          "DBLP": "conf/wsdm/GuoLW09",
+          "DOI": "10.1145/1498759.1498818",
+          "CorpusId": 2979013
+        },
+        "url": "https://www.semanticscholar.org/paper/4a8839d1b36b614b35ced8c0db42c89f6598fa6c",
+        "title": "Efficient multiple-click models in web search",
+        "venue": "Web Search and Data Mining",
+        "year": 2009,
+        "referenceCount": 20,
+        "citationCount": 297,
+        "authors": [
+          {
+            "authorId": "2065454171",
+            "name": "Fan Guo"
+          },
+          {
+            "authorId": "2152504682",
+            "name": "Chao Liu"
+          },
+          {
+            "authorId": "46394053",
+            "name": "Y. Wang"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "7528e41f8075d646b1e334fdc77c867cbea48549",
+        "externalIds": {
+          "MAG": "2121671791",
+          "DBLP": "conf/nips/StreeterG08",
+          "DOI": "10.21236/ada476748",
+          "CorpusId": 645814
+        },
+        "url": "https://www.semanticscholar.org/paper/7528e41f8075d646b1e334fdc77c867cbea48549",
+        "title": "An Online Algorithm for Maximizing Submodular Functions",
+        "venue": "Neural Information Processing Systems",
+        "year": 2008,
+        "referenceCount": 31,
+        "citationCount": 291,
+        "authors": [
+          {
+            "authorId": "7977819",
+            "name": "Matthew J. Streeter"
+          },
+          {
+            "authorId": "145973657",
+            "name": "D. Golovin"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "a22ac183c8b37824e32cae970db170b861a13438",
+        "externalIds": {
+          "DBLP": "conf/icml/RadlinskiKJ08",
+          "MAG": "2023599408",
+          "DOI": "10.1145/1390156.1390255",
+          "CorpusId": 207168261
+        },
+        "url": "https://www.semanticscholar.org/paper/a22ac183c8b37824e32cae970db170b861a13438",
+        "title": "Learning diverse rankings with multi-armed bandits",
+        "venue": "International Conference on Machine Learning",
+        "year": 2008,
+        "referenceCount": 29,
+        "citationCount": 563,
+        "authors": [
+          {
+            "authorId": "1803571",
+            "name": "Filip Radlinski"
+          },
+          {
+            "authorId": "2633757",
+            "name": "Robert D. Kleinberg"
+          },
+          {
+            "authorId": "1680188",
+            "name": "T. Joachims"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "1ba36a2a1609cf09e2a08eb4712555848d5d728c",
+        "externalIds": {
+          "DBLP": "conf/wsdm/CraswellZTR08",
+          "MAG": "1992549066",
+          "DOI": "10.1145/1341531.1341545",
+          "CorpusId": 2625350
+        },
+        "url": "https://www.semanticscholar.org/paper/1ba36a2a1609cf09e2a08eb4712555848d5d728c",
+        "title": "An experimental comparison of click position-bias models",
+        "venue": "Web Search and Data Mining",
+        "year": 2008,
+        "referenceCount": 9,
+        "citationCount": 1049,
+        "authors": [
+          {
+            "authorId": "1703980",
+            "name": "Nick Craswell"
+          },
+          {
+            "authorId": "1769092",
+            "name": "O. Zoeter"
+          },
+          {
+            "authorId": "2116741026",
+            "name": "Michael J. Taylor"
+          },
+          {
+            "authorId": "40217575",
+            "name": "Bill Ramsey"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "2bb1706b3ddd7fbf1139a3c2039f71ee58d425e6",
+        "externalIds": {
+          "DBLP": "conf/aaai/BeckerMC07",
+          "MAG": "2138520235",
+          "CorpusId": 13903979
+        },
+        "url": "https://www.semanticscholar.org/paper/2bb1706b3ddd7fbf1139a3c2039f71ee58d425e6",
+        "title": "Modeling Contextual Factors of Click Rates",
+        "venue": "AAAI Conference on Artificial Intelligence",
+        "year": 2007,
+        "referenceCount": 14,
+        "citationCount": 29,
+        "authors": [
+          {
+            "authorId": "47503402",
+            "name": "Hila Becker"
+          },
+          {
+            "authorId": "50004012",
+            "name": "Christopher Meek"
+          },
+          {
+            "authorId": "1724065",
+            "name": "D. M. Chickering"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "505253630ab7e8f35e26e27904bd3c8faea3c5ce",
+        "externalIds": {
+          "MAG": "2090883204",
+          "DBLP": "conf/www/RichardsonDR07",
+          "DOI": "10.1145/1242572.1242643",
+          "CorpusId": 14669618
+        },
+        "url": "https://www.semanticscholar.org/paper/505253630ab7e8f35e26e27904bd3c8faea3c5ce",
+        "title": "Predicting clicks: estimating the click-through rate for new ads",
+        "venue": "The Web Conference",
+        "year": 2007,
+        "referenceCount": 19,
+        "citationCount": 1237,
+        "authors": [
+          {
+            "authorId": "2241949324",
+            "name": "Matthew Richardson"
+          },
+          {
+            "authorId": "2339400632",
+            "name": "Ewa Dominowska"
+          },
+          {
+            "authorId": "2421152",
+            "name": "R. Ragno"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "a27fcc2eb7c64d726af7af9e39d299e36cfc0122",
+        "externalIds": {
+          "DBLP": "journals/corr/abs-cs-0605035",
+          "MAG": "2953025830",
+          "ArXiv": "cs/0605035",
+          "DOI": "10.1145/1081870.1081899",
+          "CorpusId": 3262314
+        },
+        "url": "https://www.semanticscholar.org/paper/a27fcc2eb7c64d726af7af9e39d299e36cfc0122",
+        "title": "Query chains: learning to rank from implicit feedback",
+        "venue": "Knowledge Discovery and Data Mining",
+        "year": 2005,
+        "referenceCount": 37,
+        "citationCount": 580,
+        "authors": [
+          {
+            "authorId": "1803571",
+            "name": "Filip Radlinski"
+          },
+          {
+            "authorId": "1680188",
+            "name": "T. Joachims"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "1e1d35136b1bf3b13ef6b53f6039f39d9ee820e3",
+        "externalIds": {
+          "MAG": "2168405694",
+          "DBLP": "journals/ml/AuerCF02",
+          "DOI": "10.1023/A:1013689704352",
+          "CorpusId": 207609497
+        },
+        "url": "https://www.semanticscholar.org/paper/1e1d35136b1bf3b13ef6b53f6039f39d9ee820e3",
+        "title": "Finite-time Analysis of the Multiarmed Bandit Problem",
+        "venue": "Machine-mediated learning",
+        "year": 2002,
+        "referenceCount": 17,
+        "citationCount": 7346,
+        "authors": [
+          {
+            "authorId": "144543541",
+            "name": "P. Auer"
+          },
+          {
+            "authorId": "1388387856",
+            "name": "N. Cesa-Bianchi"
+          },
+          {
+            "authorId": "152702481",
+            "name": "P. Fischer"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "4c9e36a0dbdc3e7b20e38bd288a804c05c77e9fa",
+        "externalIds": {
+          "MAG": "2009551863",
+          "DOI": "10.1016/0196-8858(85)90002-8",
+          "CorpusId": 121166589
+        },
+        "url": "https://www.semanticscholar.org/paper/4c9e36a0dbdc3e7b20e38bd288a804c05c77e9fa",
+        "title": "Asymptotically efficient adaptive allocation rules",
+        "venue": "",
+        "year": 1985,
+        "referenceCount": 3,
+        "citationCount": 1868,
+        "authors": [
+          {
+            "authorId": "2818025",
+            "name": "T. Lai"
+          },
+          {
+            "authorId": "145648751",
+            "name": "H. Robbins"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "239c953a3ac6849451b21a58758b61d1b603889c",
+        "externalIds": {
+          "CorpusId": 1364437
+        },
+        "url": "https://www.semanticscholar.org/paper/239c953a3ac6849451b21a58758b61d1b603889c",
+        "title": "Tight Regret Bounds for Stochastic Combinatorial Semi-Bandits",
+        "venue": "",
+        "year": 2015,
+        "referenceCount": 0,
+        "citationCount": 282,
+        "authors": [
+          {
+            "authorId": "2087928348",
+            "name": "Wtt Wtt"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "2014a), the above term is bounded by 12",
+        "venue": "",
+        "year": 2014,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "f0b6d100b069b89b05ce543535378b626ccc577d",
+        "externalIds": {
+          "DBLP": "journals/jmlr/SlivkinsRG13",
+          "MAG": "2117600734",
+          "DOI": "10.5555/2567709.2502595",
+          "CorpusId": 15925865
+        },
+        "url": "https://www.semanticscholar.org/paper/f0b6d100b069b89b05ce543535378b626ccc577d",
+        "title": "Ranked bandits in metric spaces: learning diverse rankings over large document collections",
+        "venue": "Journal of machine learning research",
+        "year": 2013,
+        "referenceCount": 54,
+        "citationCount": 83,
+        "authors": [
+          {
+            "authorId": "2158559",
+            "name": "Aleksandrs Slivkins"
+          },
+          {
+            "authorId": "1803571",
+            "name": "Filip Radlinski"
+          },
+          {
+            "authorId": "144979147",
+            "name": "Sreenivas Gollapudi"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "faf96605fddbdd7150ec149d5db68e3c438afe74",
+        "externalIds": {
+          "MAG": "2013532620",
+          "DOI": "10.1109/9.16415",
+          "CorpusId": 15875031
+        },
+        "url": "https://www.semanticscholar.org/paper/faf96605fddbdd7150ec149d5db68e3c438afe74",
+        "title": "Asymptotically Efficient Adaptive Allocation Schemes for Controlled I.I.D. Processes: Finite Paramet",
+        "venue": "",
+        "year": 1988,
+        "referenceCount": 9,
+        "citationCount": 65,
+        "authors": [
+          {
+            "authorId": "2757153",
+            "name": "R. Agrawal"
+          },
+          {
+            "authorId": "2918181",
+            "name": "D. Teneketzis"
+          },
+          {
+            "authorId": "145785241",
+            "name": "V. Anantharam"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "572379c1d56e7e19422ae38218ee228c61aefb2f",
+        "externalIds": {
+          "CorpusId": 18456561
+        },
+        "url": "https://www.semanticscholar.org/paper/572379c1d56e7e19422ae38218ee228c61aefb2f",
+        "title": "Asymptotically Efficient Adaptive Allocation Rules",
+        "venue": "",
+        "year": null,
+        "referenceCount": 4,
+        "citationCount": 2415,
+        "authors": [
+          {
+            "authorId": "2097739937",
+            "name": "T. L. Lai Andherbertrobbins"
+          }
+        ]
+      }
+    }
+  ]
+}

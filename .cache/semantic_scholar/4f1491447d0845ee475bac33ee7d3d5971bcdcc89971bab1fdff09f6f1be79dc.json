@@ -1,0 +1,283 @@
+{
+  "total": 35,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "371749c41b3d9c589c8d2a2dc5e97a8a74ca9a4f",
+      "externalIds": {
+        "DBLP": "conf/icml/Chierichetti0T18",
+        "MAG": "2804375454",
+        "CorpusId": 51876994
+      },
+      "url": "https://www.semanticscholar.org/paper/371749c41b3d9c589c8d2a2dc5e97a8a74ca9a4f",
+      "title": "Learning a Mixture of Two Multinomial Logits",
+      "venue": "International Conference on Machine Learning",
+      "year": 2018,
+      "referenceCount": 27,
+      "citationCount": 30,
+      "authors": [
+        {
+          "authorId": "34996452",
+          "name": "Flavio Chierichetti"
+        },
+        {
+          "authorId": "1683442",
+          "name": "Ravi Kumar"
+        },
+        {
+          "authorId": "49365095",
+          "name": "A. Tomkins"
+        }
+      ]
+    },
+    {
+      "paperId": "7bd419f28a2d97a612eabe7f9caf52d92c26868f",
+      "externalIds": {
+        "CorpusId": 267890997
+      },
+      "url": "https://www.semanticscholar.org/paper/7bd419f28a2d97a612eabe7f9caf52d92c26868f",
+      "title": "Learning a Mixture of Two Multinomial Logits Supplementary Material",
+      "venue": "",
+      "year": 2018,
+      "referenceCount": 0,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "34996452",
+          "name": "Flavio Chierichetti"
+        }
+      ]
+    },
+    {
+      "paperId": "9e1aebd786b4cb73e6253fe13d25d8ecf4b3d45c",
+      "externalIds": {
+        "ArXiv": "2007.00204",
+        "DBLP": "journals/corr/abs-2007-00204",
+        "MAG": "3038276751",
+        "CorpusId": 220280193
+      },
+      "url": "https://www.semanticscholar.org/paper/9e1aebd786b4cb73e6253fe13d25d8ecf4b3d45c",
+      "title": "Learning an arbitrary mixture of two multinomial logits",
+      "venue": "arXiv.org",
+      "year": 2020,
+      "referenceCount": 39,
+      "citationCount": 8,
+      "authors": [
+        {
+          "authorId": "102381207",
+          "name": "Wenpin Tang"
+        }
+      ]
+    },
+    {
+      "paperId": "3e676465fa2feac626333cabf51f4757b8aa5f85",
+      "externalIds": {
+        "ArXiv": "1606.02321",
+        "MAG": "2418910660",
+        "CorpusId": 88522364
+      },
+      "url": "https://www.semanticscholar.org/paper/3e676465fa2feac626333cabf51f4757b8aa5f85",
+      "title": "Better Conditional Density Estimation for Neural Networks",
+      "venue": "",
+      "year": 2016,
+      "referenceCount": 19,
+      "citationCount": 9,
+      "authors": [
+        {
+          "authorId": "145305182",
+          "name": "Wesley Tansey"
+        },
+        {
+          "authorId": "2304661741",
+          "name": "Karl Pichotta"
+        },
+        {
+          "authorId": "145516664",
+          "name": "James G. Scott"
+        }
+      ]
+    },
+    {
+      "paperId": "13ab82823364fbd2218d5f334696eaa15f457eea",
+      "externalIds": {
+        "MAG": "3083712961",
+        "DBLP": "journals/jmlr/GrantL23",
+        "ArXiv": "2009.03207",
+        "CorpusId": 221516776
+      },
+      "url": "https://www.semanticscholar.org/paper/13ab82823364fbd2218d5f334696eaa15f457eea",
+      "title": "Learning to Rank under Multinomial Logit Choice",
+      "venue": "Journal of machine learning research",
+      "year": 2020,
+      "referenceCount": 55,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "153434847",
+          "name": "James A. Grant"
+        },
+        {
+          "authorId": "31819180",
+          "name": "David S. Leslie"
+        }
+      ]
+    },
+    {
+      "paperId": "ee3e6a9ae76d191a405e98f0af13a359e34536a4",
+      "externalIds": {
+        "ArXiv": "2409.09903",
+        "DBLP": "journals/corr/abs-2409-09903",
+        "DOI": "10.48550/arXiv.2409.09903",
+        "CorpusId": 272689148
+      },
+      "url": "https://www.semanticscholar.org/paper/ee3e6a9ae76d191a405e98f0af13a359e34536a4",
+      "title": "Learning large softmax mixtures with warm start EM",
+      "venue": "arXiv.org",
+      "year": 2024,
+      "referenceCount": 0,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "47139710",
+          "name": "Xin Bing"
+        },
+        {
+          "authorId": "2155227",
+          "name": "F. Bunea"
+        },
+        {
+          "authorId": "2294718239",
+          "name": "Jonathan Niles-Weed"
+        },
+        {
+          "authorId": "2417924",
+          "name": "M. Wegkamp"
+        }
+      ]
+    },
+    {
+      "paperId": "a82074319bed0e892543ca6082afc614b6f7b000",
+      "externalIds": {
+        "MAG": "2259211863",
+        "ArXiv": "1411.0073",
+        "DBLP": "conf/nips/OhS14",
+        "CorpusId": 14368114
+      },
+      "url": "https://www.semanticscholar.org/paper/a82074319bed0e892543ca6082afc614b6f7b000",
+      "title": "Learning Mixed Multinomial Logit Model from Ordinal Data",
+      "venue": "Neural Information Processing Systems",
+      "year": 2014,
+      "referenceCount": 29,
+      "citationCount": 56,
+      "authors": [
+        {
+          "authorId": "34184418",
+          "name": "Sewoong Oh"
+        },
+        {
+          "authorId": "145081804",
+          "name": "Devavrat Shah"
+        }
+      ]
+    },
+    {
+      "paperId": "621deffa66324d82b3cd6f0377e725772acb8e5e",
+      "externalIds": {
+        "DBLP": "journals/entropy/RodrigoAAG21",
+        "PubMedCentral": "8066248",
+        "DOI": "10.3390/e23040420",
+        "CorpusId": 232773427,
+        "PubMed": "33807440"
+      },
+      "url": "https://www.semanticscholar.org/paper/621deffa66324d82b3cd6f0377e725772acb8e5e",
+      "title": "Mixture-Based Probabilistic Graphical Models for the Label Ranking Problem †",
+      "venue": "Entropy",
+      "year": 2021,
+      "referenceCount": 52,
+      "citationCount": 10,
+      "authors": [
+        {
+          "authorId": "51880384",
+          "name": "E. G. Rodrigo"
+        },
+        {
+          "authorId": "123940111",
+          "name": "Juan C. Alfaro"
+        },
+        {
+          "authorId": "2420299",
+          "name": "J. Aledo"
+        },
+        {
+          "authorId": "144987054",
+          "name": "J. A. Gamez"
+        }
+      ]
+    },
+    {
+      "paperId": "15a399c129d8e8b03d961f47b5a6639ef7bab128",
+      "externalIds": {
+        "MAG": "2750591756",
+        "DOI": "10.1016/j.aap.2017.08.008",
+        "CorpusId": 8824329,
+        "PubMed": "28841408"
+      },
+      "url": "https://www.semanticscholar.org/paper/15a399c129d8e8b03d961f47b5a6639ef7bab128",
+      "title": "Comparison of four statistical and machine learning methods for crash severity prediction.",
+      "venue": "Accident Analysis and Prevention",
+      "year": 2017,
+      "referenceCount": 49,
+      "citationCount": 399,
+      "authors": [
+        {
+          "authorId": "23538919",
+          "name": "A. Iranitalab"
+        },
+        {
+          "authorId": "1821255",
+          "name": "A. Khattak"
+        }
+      ]
+    },
+    {
+      "paperId": "fd062ec0f24d930a4327e0a3509fd8331b4d7d68",
+      "externalIds": {
+        "DOI": "10.1111/prd.70028",
+        "CorpusId": 286887288
+      },
+      "url": "https://www.semanticscholar.org/paper/fd062ec0f24d930a4327e0a3509fd8331b4d7d68",
+      "title": "Long‐term outcomes of lateral sinus floor elevation: A machine‐learning analysis, systematic review, and meta‐analysis of predictive factors",
+      "venue": "Periodontology",
+      "year": 2026,
+      "referenceCount": 68,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2137259727",
+          "name": "Hamoun Sabri"
+        },
+        {
+          "authorId": "2299323122",
+          "name": "Muhammad H. A. Saleh"
+        },
+        {
+          "authorId": "2300067655",
+          "name": "Paolo Nava"
+        },
+        {
+          "authorId": "2304615746",
+          "name": "R. Scaini"
+        },
+        {
+          "authorId": "2325503793",
+          "name": "T. Testori"
+        },
+        {
+          "authorId": "2238731108",
+          "name": "M. Del Fabbro"
+        }
+      ]
+    }
+  ]
+}

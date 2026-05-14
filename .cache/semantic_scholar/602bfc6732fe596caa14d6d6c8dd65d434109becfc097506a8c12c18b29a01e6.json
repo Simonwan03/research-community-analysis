@@ -1,0 +1,364 @@
+{
+  "total": 952,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "c657b3fc93a24349117bf87296ea2b9b780706cc",
+      "externalIds": {
+        "MAG": "2950168055",
+        "DBLP": "journals/corr/abs-1802-06309",
+        "ArXiv": "1802.06309",
+        "CorpusId": 3419504
+      },
+      "url": "https://www.semanticscholar.org/paper/c657b3fc93a24349117bf87296ea2b9b780706cc",
+      "title": "Learning Adversarially Fair and Transferable Representations",
+      "venue": "International Conference on Machine Learning",
+      "year": 2018,
+      "referenceCount": 38,
+      "citationCount": 769,
+      "authors": [
+        {
+          "authorId": "40373515",
+          "name": "David Madras"
+        },
+        {
+          "authorId": "3422145",
+          "name": "Elliot Creager"
+        },
+        {
+          "authorId": "1695317",
+          "name": "T. Pitassi"
+        },
+        {
+          "authorId": "1804104",
+          "name": "R. Zemel"
+        }
+      ]
+    },
+    {
+      "paperId": "f42a8e15d11bcf5081b8e413410e9452e78d620a",
+      "externalIds": {
+        "DBLP": "conf/kdd/HongZYWDZ21",
+        "DOI": "10.1145/3447548.3467281",
+        "CorpusId": 236980001,
+        "PubMed": "35571559"
+      },
+      "url": "https://www.semanticscholar.org/paper/f42a8e15d11bcf5081b8e413410e9452e78d620a",
+      "title": "Federated Adversarial Debiasing for Fair and Transferable Representations",
+      "venue": "Knowledge Discovery and Data Mining",
+      "year": 2021,
+      "referenceCount": 46,
+      "citationCount": 66,
+      "authors": [
+        {
+          "authorId": "2110805917",
+          "name": "Junyuan Hong"
+        },
+        {
+          "authorId": "30451228",
+          "name": "Zhuangdi Zhu"
+        },
+        {
+          "authorId": "2116618893",
+          "name": "Shuyang Yu"
+        },
+        {
+          "authorId": "2969311",
+          "name": "Zhangyang Wang"
+        },
+        {
+          "authorId": "3417339",
+          "name": "H. Dodge"
+        },
+        {
+          "authorId": "2143462929",
+          "name": "Jiayu Zhou"
+        }
+      ]
+    },
+    {
+      "paperId": "e3d9e32df95e121b939dd8c99648b6e025f14a3b",
+      "externalIds": {
+        "DBLP": "conf/dsaa/OnetoDPM20",
+        "MAG": "3089471696",
+        "DOI": "10.1109/DSAA49011.2020.00015",
+        "CorpusId": 222355298
+      },
+      "url": "https://www.semanticscholar.org/paper/e3d9e32df95e121b939dd8c99648b6e025f14a3b",
+      "title": "Learning Fair and Transferable Representations with Theoretical Guarantees",
+      "venue": "International Conference on Data Science and Advanced Analytics",
+      "year": 2020,
+      "referenceCount": 41,
+      "citationCount": 27,
+      "authors": [
+        {
+          "authorId": "1682762",
+          "name": "L. Oneto"
+        },
+        {
+          "authorId": "2192704",
+          "name": "Michele Donini"
+        },
+        {
+          "authorId": "1704699",
+          "name": "M. Pontil"
+        },
+        {
+          "authorId": "144009046",
+          "name": "Andreas Maurer"
+        }
+      ]
+    },
+    {
+      "paperId": "1462c4cbdb2df2612f0d90fcfa3c9e631cb425fd",
+      "externalIds": {
+        "MAG": "2954834570",
+        "ArXiv": "1906.10673",
+        "DBLP": "journals/corr/abs-1906-10673",
+        "CorpusId": 195584505
+      },
+      "url": "https://www.semanticscholar.org/paper/1462c4cbdb2df2612f0d90fcfa3c9e631cb425fd",
+      "title": "Learning Fair and Transferable Representations",
+      "venue": "arXiv.org",
+      "year": 2019,
+      "referenceCount": 39,
+      "citationCount": 19,
+      "authors": [
+        {
+          "authorId": "1682762",
+          "name": "L. Oneto"
+        },
+        {
+          "authorId": "2192704",
+          "name": "Michele Donini"
+        },
+        {
+          "authorId": "144009046",
+          "name": "Andreas Maurer"
+        },
+        {
+          "authorId": "1704699",
+          "name": "M. Pontil"
+        }
+      ]
+    },
+    {
+      "paperId": "75f5047fd71fe93238e6042983a90d36e81b5f45",
+      "externalIds": {
+        "DBLP": "journals/jmlr/LetenoPLGG25",
+        "ArXiv": "2503.07691",
+        "DOI": "10.48550/arXiv.2503.07691",
+        "CorpusId": 276928403
+      },
+      "url": "https://www.semanticscholar.org/paper/75f5047fd71fe93238e6042983a90d36e81b5f45",
+      "title": "Fair Text Classification via Transferable Representations",
+      "venue": "Journal of machine learning research",
+      "year": 2025,
+      "referenceCount": 104,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2216041716",
+          "name": "Thibaud Leteno"
+        },
+        {
+          "authorId": "2349537597",
+          "name": "M. Perrot"
+        },
+        {
+          "authorId": "2267490893",
+          "name": "C. Laclau"
+        },
+        {
+          "authorId": "46194528",
+          "name": "Antoine Gourru"
+        },
+        {
+          "authorId": "2267488206",
+          "name": "Christophe Gravier"
+        }
+      ]
+    },
+    {
+      "paperId": "4eef0519f75911a2e132fac12427fa13bdb32a71",
+      "externalIds": {
+        "DBLP": "journals/corr/BeutelCZC17",
+        "ArXiv": "1707.00075",
+        "MAG": "2725155646",
+        "CorpusId": 24990444
+      },
+      "url": "https://www.semanticscholar.org/paper/4eef0519f75911a2e132fac12427fa13bdb32a71",
+      "title": "Data Decisions and Theoretical Implications when Adversarially Learning Fair Representations",
+      "venue": "arXiv.org",
+      "year": 2017,
+      "referenceCount": 11,
+      "citationCount": 469,
+      "authors": [
+        {
+          "authorId": "2638246",
+          "name": "Alex Beutel"
+        },
+        {
+          "authorId": "2144168512",
+          "name": "Jilin Chen"
+        },
+        {
+          "authorId": "48634137",
+          "name": "Zhe Zhao"
+        },
+        {
+          "authorId": "2226805",
+          "name": "Ed H. Chi"
+        }
+      ]
+    },
+    {
+      "paperId": "99a91f71e6ecff98d5f50adf0a5117a56533da4a",
+      "externalIds": {
+        "DBLP": "conf/icdcs/ChenSL24",
+        "ArXiv": "2412.20020",
+        "DOI": "10.1109/ICDCS60910.2024.00087",
+        "CorpusId": 271326263
+      },
+      "url": "https://www.semanticscholar.org/paper/99a91f71e6ecff98d5f50adf0a5117a56533da4a",
+      "title": "Calibre: Towards Fair and Accurate Personalized Federated Learning with Self-Supervised Learning",
+      "venue": "IEEE International Conference on Distributed Computing Systems",
+      "year": 2024,
+      "referenceCount": 29,
+      "citationCount": 4,
+      "authors": [
+        {
+          "authorId": "2286049040",
+          "name": "Sijia Chen"
+        },
+        {
+          "authorId": "2277552614",
+          "name": "Ningxin Su"
+        },
+        {
+          "authorId": "2284946809",
+          "name": "Baochun Li"
+        }
+      ]
+    },
+    {
+      "paperId": "1c5aa5afbffe28ae3612d06a5b987bc67012940b",
+      "externalIds": {
+        "DBLP": "journals/sigpro/WangXC0HL0026",
+        "DOI": "10.1016/j.sigpro.2025.110118",
+        "CorpusId": 279190720
+      },
+      "url": "https://www.semanticscholar.org/paper/1c5aa5afbffe28ae3612d06a5b987bc67012940b",
+      "title": "Learning transferable representations by topic guided graph adversarial network",
+      "venue": "Signal Processing",
+      "year": 2025,
+      "referenceCount": 26,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "20591669",
+          "name": "Zhengjue Wang"
+        },
+        {
+          "authorId": "2146968747",
+          "name": "Zhihui Xin"
+        },
+        {
+          "authorId": "2290136903",
+          "name": "Chiyu Chen"
+        },
+        {
+          "authorId": "2304963754",
+          "name": "Hao Zhang"
+        },
+        {
+          "authorId": "2348024777",
+          "name": "Yuhao Huang"
+        },
+        {
+          "authorId": "2366605215",
+          "name": "Yunsong Li"
+        },
+        {
+          "authorId": "2247123278",
+          "name": "Hongwei Liu"
+        },
+        {
+          "authorId": "2313089831",
+          "name": "Bo Chen"
+        }
+      ]
+    },
+    {
+      "paperId": "a99e78341eb79e23d91c9068d75cf4bafe771553",
+      "externalIds": {
+        "DBLP": "journals/tnn/DongWXLO25",
+        "DOI": "10.1109/TNNLS.2024.3379172",
+        "CorpusId": 268732095,
+        "PubMed": "38536695"
+      },
+      "url": "https://www.semanticscholar.org/paper/a99e78341eb79e23d91c9068d75cf4bafe771553",
+      "title": "Generalizable and Discriminative Representations for Adversarially Robust Few-Shot Learning",
+      "venue": "IEEE Transactions on Neural Networks and Learning Systems",
+      "year": 2024,
+      "referenceCount": 70,
+      "citationCount": 7,
+      "authors": [
+        {
+          "authorId": "1903047001",
+          "name": "Junhao Dong"
+        },
+        {
+          "authorId": "2163691024",
+          "name": "Yuan Wang"
+        },
+        {
+          "authorId": "2279671681",
+          "name": "Xiaohua Xie"
+        },
+        {
+          "authorId": "2151605931",
+          "name": "Jianhuang Lai"
+        },
+        {
+          "authorId": "8748397",
+          "name": "Y. Ong"
+        }
+      ]
+    },
+    {
+      "paperId": "d76b7d26f3fc7581e4bda5677ae87179fdfbb169",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2407-03834",
+        "ArXiv": "2407.03834",
+        "DOI": "10.48550/arXiv.2407.03834",
+        "CorpusId": 271039912
+      },
+      "url": "https://www.semanticscholar.org/paper/d76b7d26f3fc7581e4bda5677ae87179fdfbb169",
+      "title": "10 Years of Fair Representations: Challenges and Opportunities",
+      "venue": "arXiv.org",
+      "year": 2024,
+      "referenceCount": 54,
+      "citationCount": 6,
+      "authors": [
+        {
+          "authorId": "1382852308",
+          "name": "Mattia Cerrato"
+        },
+        {
+          "authorId": "1387470134",
+          "name": "Marius Köppel"
+        },
+        {
+          "authorId": "2310241194",
+          "name": "Philipp Wolf"
+        },
+        {
+          "authorId": "2257016096",
+          "name": "Stefan Kramer"
+        }
+      ]
+    }
+  ]
+}

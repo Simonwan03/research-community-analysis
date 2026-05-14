@@ -1,0 +1,310 @@
+{
+  "total": 67,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "33a67a2a0a32eed12d8c6d8bf7666cd79beafe4d",
+      "externalIds": {
+        "DBLP": "conf/icml/TraskGR15",
+        "ArXiv": "1506.02338",
+        "MAG": "1610818344",
+        "CorpusId": 761216
+      },
+      "url": "https://www.semanticscholar.org/paper/33a67a2a0a32eed12d8c6d8bf7666cd79beafe4d",
+      "title": "Modeling Order in Neural Word Embeddings at Scale",
+      "venue": "International Conference on Machine Learning",
+      "year": 2015,
+      "referenceCount": 29,
+      "citationCount": 54,
+      "authors": [
+        {
+          "authorId": "145994651",
+          "name": "Andrew Trask"
+        },
+        {
+          "authorId": "2057994512",
+          "name": "David Gilmore"
+        },
+        {
+          "authorId": "2060635194",
+          "name": "M. Russell"
+        }
+      ]
+    },
+    {
+      "paperId": "906573f0c4fb232901b875f62d619e4a9b10c643",
+      "externalIds": {
+        "DBLP": "journals/tjs/QorichO23",
+        "DOI": "10.1007/s11227-023-05094-6",
+        "CorpusId": 257048296
+      },
+      "url": "https://www.semanticscholar.org/paper/906573f0c4fb232901b875f62d619e4a9b10c643",
+      "title": "Text sentiment classification of Amazon reviews using word embeddings and convolutional neural networks",
+      "venue": "Journal of Supercomputing",
+      "year": 2023,
+      "referenceCount": 81,
+      "citationCount": 35,
+      "authors": [
+        {
+          "authorId": "2208948705",
+          "name": "Mohammed Qorich"
+        },
+        {
+          "authorId": "46731036",
+          "name": "R. E. Ouazzani"
+        }
+      ]
+    },
+    {
+      "paperId": "e25874cdacf3c5741fd5b36fd06f9ef67bb41504",
+      "externalIds": {
+        "MAG": "3103434942",
+        "ArXiv": "1801.00388",
+        "DBLP": "journals/ir/ShalabyZJ19",
+        "DOI": "10.1007/s10791-018-9340-3",
+        "CorpusId": 28707071
+      },
+      "url": "https://www.semanticscholar.org/paper/e25874cdacf3c5741fd5b36fd06f9ef67bb41504",
+      "title": "Beyond word embeddings: learning entity and concept representations from large scale knowledge bases",
+      "venue": "Information Retrieval Journal",
+      "year": 2018,
+      "referenceCount": 34,
+      "citationCount": 32,
+      "authors": [
+        {
+          "authorId": "2719971",
+          "name": "W. Shalaby"
+        },
+        {
+          "authorId": "2606846",
+          "name": "Wlodek W. Zadrozny"
+        },
+        {
+          "authorId": "1705713",
+          "name": "Hongxia Jin"
+        }
+      ]
+    },
+    {
+      "paperId": "3e4dcfbd8595ef2dec4651cf8a837b956874ef45",
+      "externalIds": {
+        "DBLP": "journals/isci/SuWZWQX18",
+        "MAG": "2762058688",
+        "DOI": "10.1016/j.ins.2017.09.070",
+        "CorpusId": 42714563
+      },
+      "url": "https://www.semanticscholar.org/paper/3e4dcfbd8595ef2dec4651cf8a837b956874ef45",
+      "title": "A neural generative autoencoder for bilingual word embeddings",
+      "venue": "Information Sciences",
+      "year": 2018,
+      "referenceCount": 53,
+      "citationCount": 26,
+      "authors": [
+        {
+          "authorId": "34739384",
+          "name": "Jinsong Su"
+        },
+        {
+          "authorId": "48914934",
+          "name": "Shan Wu"
+        },
+        {
+          "authorId": "48335426",
+          "name": "Biao Zhang"
+        },
+        {
+          "authorId": "7513763",
+          "name": "Changxing Wu"
+        },
+        {
+          "authorId": "2112482346",
+          "name": "Yue Qin"
+        },
+        {
+          "authorId": "2694222",
+          "name": "Deyi Xiong"
+        }
+      ]
+    },
+    {
+      "paperId": "e4404ac397786feea6d4142871fc23be77016eb5",
+      "externalIds": {
+        "DBLP": "conf/cikm/ShiMWZFXLM21",
+        "DOI": "10.1145/3459637.3482401",
+        "CorpusId": 240230798
+      },
+      "url": "https://www.semanticscholar.org/paper/e4404ac397786feea6d4142871fc23be77016eb5",
+      "title": "WG4Rec: Modeling Textual Content with Word Graph for News Recommendation",
+      "venue": "International Conference on Information and Knowledge Management",
+      "year": 2021,
+      "referenceCount": 54,
+      "citationCount": 28,
+      "authors": [
+        {
+          "authorId": "2072683411",
+          "name": "Shaoyun Shi"
+        },
+        {
+          "authorId": "2903964",
+          "name": "Weizhi Ma"
+        },
+        {
+          "authorId": "2144787341",
+          "name": "Zhen Wang"
+        },
+        {
+          "authorId": "39767557",
+          "name": "M. Zhang"
+        },
+        {
+          "authorId": "2136372819",
+          "name": "K. Fang"
+        },
+        {
+          "authorId": "2774294",
+          "name": "Jingfang Xu"
+        },
+        {
+          "authorId": "1783406",
+          "name": "Yiqun Liu"
+        },
+        {
+          "authorId": "8093158",
+          "name": "Shaoping Ma"
+        }
+      ]
+    },
+    {
+      "paperId": "73a98f923a8ba8fdae89a80b1d770c06c559accb",
+      "externalIds": {
+        "MAG": "2969831530",
+        "DBLP": "journals/prl/KastratiIK19",
+        "DOI": "10.1016/J.PATREC.2019.08.019",
+        "CorpusId": 202152314
+      },
+      "url": "https://www.semanticscholar.org/paper/73a98f923a8ba8fdae89a80b1d770c06c559accb",
+      "title": "Integrating word embeddings and document topics with deep learning in a video classification framework",
+      "venue": "Pattern Recognition Letters",
+      "year": 2019,
+      "referenceCount": 22,
+      "citationCount": 41,
+      "authors": [
+        {
+          "authorId": "2429723",
+          "name": "Zenun Kastrati"
+        },
+        {
+          "authorId": null,
+          "name": "Ali Shariq Imran"
+        },
+        {
+          "authorId": "1778351",
+          "name": "Arianit Kurti"
+        }
+      ]
+    },
+    {
+      "paperId": "ca3585d32b1b838fce948b75870383b026909cd5",
+      "externalIds": {
+        "MAG": "2971987430",
+        "DOI": "10.3390/app9183658",
+        "CorpusId": 203045432
+      },
+      "url": "https://www.semanticscholar.org/paper/ca3585d32b1b838fce948b75870383b026909cd5",
+      "title": "Information Extraction from Electronic Medical Records Using Multitask Recurrent Neural Network with Contextual Word Embedding",
+      "venue": "Applied Sciences",
+      "year": 2019,
+      "referenceCount": 55,
+      "citationCount": 32,
+      "authors": [
+        {
+          "authorId": "2130033234",
+          "name": "Jianliang Yang"
+        },
+        {
+          "authorId": "47909701",
+          "name": "Yuenan Liu"
+        },
+        {
+          "authorId": "2061357262",
+          "name": "Minghui Qian"
+        },
+        {
+          "authorId": "35989740",
+          "name": "Chenghua Guan"
+        },
+        {
+          "authorId": "48732095",
+          "name": "Xiangfei Yuan"
+        }
+      ]
+    },
+    {
+      "paperId": "7d77b0d73047e25bdd55a6c1cc32e73422d0f927",
+      "externalIds": {
+        "ACL": "L18-1155",
+        "DBLP": "conf/lrec/Haider18",
+        "MAG": "2806340291",
+        "CorpusId": 21714935
+      },
+      "url": "https://www.semanticscholar.org/paper/7d77b0d73047e25bdd55a6c1cc32e73422d0f927",
+      "title": "Urdu Word Embeddings",
+      "venue": "International Conference on Language Resources and Evaluation",
+      "year": 2018,
+      "referenceCount": 24,
+      "citationCount": 29,
+      "authors": [
+        {
+          "authorId": "40429233",
+          "name": "Samar Haider"
+        }
+      ]
+    },
+    {
+      "paperId": "cbe013de2ba5adf2f1a8f642b33bd3f9a2a487d4",
+      "externalIds": {
+        "DBLP": "conf/icaart/Bleiweiss17",
+        "MAG": "2600966912",
+        "DOI": "10.5220/0006192701540163",
+        "CorpusId": 43502457
+      },
+      "url": "https://www.semanticscholar.org/paper/cbe013de2ba5adf2f1a8f642b33bd3f9a2a487d4",
+      "title": "A Hierarchical Book Representation of Word Embeddings for Effective Semantic Clustering and Search",
+      "venue": "International Conference on Agents and Artificial Intelligence",
+      "year": 2017,
+      "referenceCount": 23,
+      "citationCount": 8,
+      "authors": [
+        {
+          "authorId": "2061248",
+          "name": "A. Bleiweiss"
+        }
+      ]
+    },
+    {
+      "paperId": "53ca064b9f1b92951c1997e90b776e95b0880e52",
+      "externalIds": {
+        "DBLP": "conf/nips/MnihK13",
+        "MAG": "2097732278",
+        "CorpusId": 14992849
+      },
+      "url": "https://www.semanticscholar.org/paper/53ca064b9f1b92951c1997e90b776e95b0880e52",
+      "title": "Learning word embeddings efficiently with noise-contrastive estimation",
+      "venue": "Neural Information Processing Systems",
+      "year": 2013,
+      "referenceCount": 20,
+      "citationCount": 632,
+      "authors": [
+        {
+          "authorId": "1714004",
+          "name": "A. Mnih"
+        },
+        {
+          "authorId": "2645384",
+          "name": "K. Kavukcuoglu"
+        }
+      ]
+    }
+  ]
+}

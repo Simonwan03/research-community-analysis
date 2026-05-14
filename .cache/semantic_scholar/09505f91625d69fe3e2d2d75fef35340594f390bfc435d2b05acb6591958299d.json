@@ -1,0 +1,351 @@
+{
+  "total": 21,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "b5defb8729294614d40e0247eabfdc483bf1a992",
+      "externalIds": {
+        "DBLP": "conf/icml/AllamanisTGW15",
+        "MAG": "1860267373",
+        "CorpusId": 2706277
+      },
+      "url": "https://www.semanticscholar.org/paper/b5defb8729294614d40e0247eabfdc483bf1a992",
+      "title": "Bimodal Modelling of Source Code and Natural Language",
+      "venue": "International Conference on Machine Learning",
+      "year": 2015,
+      "referenceCount": 33,
+      "citationCount": 206,
+      "authors": [
+        {
+          "authorId": "3216345",
+          "name": "Miltiadis Allamanis"
+        },
+        {
+          "authorId": "1725299",
+          "name": "Daniel Tarlow"
+        },
+        {
+          "authorId": "144376271",
+          "name": "A. Gordon"
+        },
+        {
+          "authorId": "2112557038",
+          "name": "Yi Wei"
+        }
+      ]
+    },
+    {
+      "paperId": "4571196dc5da7a3288c1ac8cc771da0d62cbb99a",
+      "externalIds": {
+        "CorpusId": 211140022
+      },
+      "url": "https://www.semanticscholar.org/paper/4571196dc5da7a3288c1ac8cc771da0d62cbb99a",
+      "title": "Bimodal Modelling of Source Code and Natural Language",
+      "venue": "",
+      "year": 2015,
+      "referenceCount": 34,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "1379960545",
+          "name": "D. Blei"
+        }
+      ]
+    },
+    {
+      "paperId": "bab3ee01c09694f556fe880a81f0b589e0a265e7",
+      "externalIds": {
+        "DBLP": "journals/nca/WenZDZJL24",
+        "DOI": "10.1007/s00521-024-09498-0",
+        "CorpusId": 269478406
+      },
+      "url": "https://www.semanticscholar.org/paper/bab3ee01c09694f556fe880a81f0b589e0a265e7",
+      "title": "Modeling source code in bimodal for program comprehension",
+      "venue": "Neural computing & applications (Print)",
+      "year": 2024,
+      "referenceCount": 51,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "32007290",
+          "name": "Dongzhen Wen"
+        },
+        {
+          "authorId": "2118365880",
+          "name": "Xiaokun Zhang"
+        },
+        {
+          "authorId": "38804628",
+          "name": "Yufeng Diao"
+        },
+        {
+          "authorId": "2329047975",
+          "name": "Ziyu Zhao"
+        },
+        {
+          "authorId": "2299121684",
+          "name": "He Jiang"
+        },
+        {
+          "authorId": "2212915938",
+          "name": "Hongfei Lin"
+        }
+      ]
+    },
+    {
+      "paperId": "b5df3f109d2e1380874da6392641dd4589780cba",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2405-04126",
+        "ArXiv": "2405.04126",
+        "DOI": "10.48550/arXiv.2405.04126",
+        "CorpusId": 269614085
+      },
+      "url": "https://www.semanticscholar.org/paper/b5df3f109d2e1380874da6392641dd4589780cba",
+      "title": "Refining Joint Text and Source Code Embeddings for Retrieval Task with Parameter-Efficient Fine-Tuning",
+      "venue": "arXiv.org",
+      "year": 2024,
+      "referenceCount": 44,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2300174240",
+          "name": "Karim Galliamov"
+        },
+        {
+          "authorId": "2327219149",
+          "name": "L. Khaertdinova"
+        },
+        {
+          "authorId": "2300174238",
+          "name": "Karina Denisova"
+        }
+      ]
+    },
+    {
+      "paperId": "914541d49981dd64dbddffc5d0f3208449d696af",
+      "externalIds": {
+        "DBLP": "journals/ase/TenekeciUGKKD26",
+        "DOI": "10.1007/s10515-025-00571-z",
+        "CorpusId": 282227478
+      },
+      "url": "https://www.semanticscholar.org/paper/914541d49981dd64dbddffc5d0f3208449d696af",
+      "title": "Automating software size measurement from python code using language models",
+      "venue": "International Conference on Automated Software Engineering",
+      "year": 2025,
+      "referenceCount": 48,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "1693441327",
+          "name": "Samet Tenekeci"
+        },
+        {
+          "authorId": "2244550157",
+          "name": "Hüseyin Ünlü"
+        },
+        {
+          "authorId": "2386716962",
+          "name": "Bedir Arda Gül"
+        },
+        {
+          "authorId": "2386716588",
+          "name": "Damla Keles"
+        },
+        {
+          "authorId": "2386716921",
+          "name": "Murat Küük"
+        },
+        {
+          "authorId": "2274841251",
+          "name": "Onur Demirörs"
+        }
+      ]
+    },
+    {
+      "paperId": "7e3a4b36e6d2c304acb22092f9d4dd839d6b23b7",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2410-18107",
+        "ArXiv": "2410.18107",
+        "DOI": "10.48550/arXiv.2410.18107",
+        "CorpusId": 273549646
+      },
+      "url": "https://www.semanticscholar.org/paper/7e3a4b36e6d2c304acb22092f9d4dd839d6b23b7",
+      "title": "In-Context Code-Text Learning for Bimodal Software Engineering",
+      "venue": "arXiv.org",
+      "year": 2024,
+      "referenceCount": 69,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "2109925415",
+          "name": "Xunzhu Tang"
+        },
+        {
+          "authorId": "2327364470",
+          "name": "Liran Wang"
+        },
+        {
+          "authorId": "2327348242",
+          "name": "Yonghui Liu"
+        },
+        {
+          "authorId": "2165382882",
+          "name": "Linzheng Chai"
+        },
+        {
+          "authorId": "2327704112",
+          "name": "Jian Yang"
+        },
+        {
+          "authorId": "2258837278",
+          "name": "Zhoujun Li"
+        },
+        {
+          "authorId": "2069990130",
+          "name": "Haoye Tian"
+        },
+        {
+          "authorId": "2307476291",
+          "name": "Jacques Klein"
+        },
+        {
+          "authorId": "3023999",
+          "name": "Tégawendé F. Bissyandé"
+        }
+      ]
+    },
+    {
+      "paperId": "45263786d07f5751f7494fdeee3c8764836d02c4",
+      "externalIds": {
+        "ArXiv": "2206.07585",
+        "DBLP": "conf/sigsoft/ChakrabortyADDR22",
+        "DOI": "10.1145/3540250.3549162",
+        "CorpusId": 249674577
+      },
+      "url": "https://www.semanticscholar.org/paper/45263786d07f5751f7494fdeee3c8764836d02c4",
+      "title": "NatGen: generative pre-training by “naturalizing” source code",
+      "venue": "ESEC/SIGSOFT FSE",
+      "year": 2022,
+      "referenceCount": 68,
+      "citationCount": 150,
+      "authors": [
+        {
+          "authorId": "47570053",
+          "name": "Saikat Chakraborty"
+        },
+        {
+          "authorId": "3432275",
+          "name": "Toufique Ahmed"
+        },
+        {
+          "authorId": "1902935998",
+          "name": "Yangruibo Ding"
+        },
+        {
+          "authorId": "114875459",
+          "name": "Prem Devanbu"
+        },
+        {
+          "authorId": "31631000",
+          "name": "Baishakhi Ray"
+        }
+      ]
+    },
+    {
+      "paperId": "073bbfc1fd41a9d67dd6f568ac7e8dff5b2c9c95",
+      "externalIds": {
+        "DBLP": "conf/kbse/ChenZ18",
+        "MAG": "2888651608",
+        "DOI": "10.1145/3238147.3240471",
+        "CorpusId": 52068576
+      },
+      "url": "https://www.semanticscholar.org/paper/073bbfc1fd41a9d67dd6f568ac7e8dff5b2c9c95",
+      "title": "A Neural Framework for Retrieval and Summarization of Source Code",
+      "venue": "International Conference on Automated Software Engineering",
+      "year": 2018,
+      "referenceCount": 31,
+      "citationCount": 104,
+      "authors": [
+        {
+          "authorId": "2152520646",
+          "name": "Qingying Chen"
+        },
+        {
+          "authorId": "40318014",
+          "name": "Minghui Zhou"
+        }
+      ]
+    },
+    {
+      "paperId": "80b2b006ed2f26ec3ddc91e303dc9861fb456a26",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2204-08653",
+        "ArXiv": "2204.08653",
+        "DOI": "10.1145/3524610.3527892",
+        "CorpusId": 248239984
+      },
+      "url": "https://www.semanticscholar.org/paper/80b2b006ed2f26ec3ddc91e303dc9861fb456a26",
+      "title": "On The Cross-Modal Transfer from Natural Language to Code through Adapter Modules",
+      "venue": "IEEE International Conference on Program Comprehension",
+      "year": 2022,
+      "referenceCount": 36,
+      "citationCount": 22,
+      "authors": [
+        {
+          "authorId": "2075784310",
+          "name": "Divyam Goel"
+        },
+        {
+          "authorId": "145675873",
+          "name": "Raman Grover"
+        },
+        {
+          "authorId": "2619967",
+          "name": "F. H. Fard"
+        }
+      ]
+    },
+    {
+      "paperId": "9ada8fa11b1cdece31f253acae50b62df8d5f823",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2305-07922",
+        "ArXiv": "2305.07922",
+        "DOI": "10.48550/arXiv.2305.07922",
+        "CorpusId": 258685677
+      },
+      "url": "https://www.semanticscholar.org/paper/9ada8fa11b1cdece31f253acae50b62df8d5f823",
+      "title": "CodeT5+: Open Code Large Language Models for Code Understanding and Generation",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2023,
+      "referenceCount": 71,
+      "citationCount": 690,
+      "authors": [
+        {
+          "authorId": "49416727",
+          "name": "Yue Wang"
+        },
+        {
+          "authorId": "2064728738",
+          "name": "Hung Le"
+        },
+        {
+          "authorId": "144049726",
+          "name": "Akhilesh Deepak Gotmare"
+        },
+        {
+          "authorId": "26910508",
+          "name": "Nghi D. Q. Bui"
+        },
+        {
+          "authorId": "49299019",
+          "name": "Junnan Li"
+        },
+        {
+          "authorId": "2184854289",
+          "name": "Steven C. H. Hoi"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1324 @@
+{
+  "offset": 0,
+  "citingPaperInfo": {
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/1502.02791, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "title": "Learning Transferable Features with Deep Adaptation Networks",
+    "authors": [
+      {
+        "authorId": "35776445",
+        "name": "Mingsheng Long"
+      },
+      {
+        "authorId": "2146174097",
+        "name": "Yue Cao"
+      },
+      {
+        "authorId": "2144499343",
+        "name": "Jianmin Wang"
+      },
+      {
+        "authorId": "1694621",
+        "name": "Michael I. Jordan"
+      }
+    ]
+  },
+  "data": [
+    {
+      "citedPaper": {
+        "paperId": "c3b38c2fd30adb316d0bdb32e983804be5595c30",
+        "externalIds": {
+          "MAG": "1577269164",
+          "DBLP": "journals/corr/AjakanGLLM14",
+          "ArXiv": "1412.4446",
+          "CorpusId": 18126905
+        },
+        "url": "https://www.semanticscholar.org/paper/c3b38c2fd30adb316d0bdb32e983804be5595c30",
+        "title": "Domain-Adversarial Neural Networks",
+        "venue": "arXiv.org",
+        "year": 2014,
+        "referenceCount": 18,
+        "citationCount": 345,
+        "authors": [
+          {
+            "authorId": "2780075",
+            "name": "Hana Ajakan"
+          },
+          {
+            "authorId": "31580144",
+            "name": "Pascal Germain"
+          },
+          {
+            "authorId": "1777528",
+            "name": "H. Larochelle"
+          },
+          {
+            "authorId": "2482151",
+            "name": "François Laviolette"
+          },
+          {
+            "authorId": "143858557",
+            "name": "M. Marchand"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "1c734a14c2325cb76783ca0431862c7f04a69268",
+        "externalIds": {
+          "DBLP": "journals/corr/TzengHZSD14",
+          "ArXiv": "1412.3474",
+          "MAG": "1565327149",
+          "CorpusId": 17169365
+        },
+        "url": "https://www.semanticscholar.org/paper/1c734a14c2325cb76783ca0431862c7f04a69268",
+        "title": "Deep Domain Confusion: Maximizing for Domain Invariance",
+        "venue": "Computer Vision and Pattern Recognition",
+        "year": 2014,
+        "referenceCount": 34,
+        "citationCount": 2830,
+        "authors": [
+          {
+            "authorId": "2368132",
+            "name": "E. Tzeng"
+          },
+          {
+            "authorId": "50196944",
+            "name": "Judy Hoffman"
+          },
+          {
+            "authorId": "46388894",
+            "name": "N. Zhang"
+          },
+          {
+            "authorId": "2903226",
+            "name": "Kate Saenko"
+          },
+          {
+            "authorId": "1753210",
+            "name": "Trevor Darrell"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "78981534beac1607f27907854c51601ee34e6d03",
+        "externalIds": {
+          "DBLP": "conf/nips/WangS14",
+          "MAG": "2147520416",
+          "CorpusId": 11747310
+        },
+        "url": "https://www.semanticscholar.org/paper/78981534beac1607f27907854c51601ee34e6d03",
+        "title": "Flexible Transfer Learning under Support and Model Shift",
+        "venue": "Neural Information Processing Systems",
+        "year": 2014,
+        "referenceCount": 25,
+        "citationCount": 97,
+        "authors": [
+          {
+            "authorId": "2397434948",
+            "name": "Xuezhi Wang"
+          },
+          {
+            "authorId": "1753432",
+            "name": "J. Schneider"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "081651b38ff7533550a3adfc1c00da333a8fe86c",
+        "externalIds": {
+          "DBLP": "conf/nips/YosinskiCBL14",
+          "ArXiv": "1411.1792",
+          "MAG": "2149933564",
+          "CorpusId": 362467
+        },
+        "url": "https://www.semanticscholar.org/paper/081651b38ff7533550a3adfc1c00da333a8fe86c",
+        "title": "How transferable are features in deep neural networks?",
+        "venue": "Neural Information Processing Systems",
+        "year": 2014,
+        "referenceCount": 18,
+        "citationCount": 9140,
+        "authors": [
+          {
+            "authorId": "2965424",
+            "name": "J. Yosinski"
+          },
+          {
+            "authorId": "2552141",
+            "name": "J. Clune"
+          },
+          {
+            "authorId": "1751762",
+            "name": "Yoshua Bengio"
+          },
+          {
+            "authorId": "1747909",
+            "name": "Hod Lipson"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "0b91dc665e2afcbb20113e4bbe89259ea6b6a4e2",
+        "externalIds": {
+          "ArXiv": "1409.6041",
+          "DBLP": "conf/pricai/GhifaryKZ14",
+          "MAG": "2963168418",
+          "DOI": "10.1007/978-3-319-13560-1_76",
+          "CorpusId": 17674695
+        },
+        "url": "https://www.semanticscholar.org/paper/0b91dc665e2afcbb20113e4bbe89259ea6b6a4e2",
+        "title": "Domain Adaptive Neural Networks for Object Recognition",
+        "venue": "Pacific Rim International Conference on Artificial Intelligence",
+        "year": 2014,
+        "referenceCount": 23,
+        "citationCount": 462,
+        "authors": [
+          {
+            "authorId": "1900979",
+            "name": "Muhammad Ghifary"
+          },
+          {
+            "authorId": "144015910",
+            "name": "W. Kleijn"
+          },
+          {
+            "authorId": "145269712",
+            "name": "Mengjie Zhang"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "e74f9b7f8eec6ba4704c206b93bc8079af3da4bd",
+        "externalIds": {
+          "ArXiv": "1409.0575",
+          "DBLP": "journals/corr/RussakovskyDSKSMHKKBBF14",
+          "MAG": "2546241758",
+          "DOI": "10.1007/s11263-015-0816-y",
+          "CorpusId": 2930547
+        },
+        "url": "https://www.semanticscholar.org/paper/e74f9b7f8eec6ba4704c206b93bc8079af3da4bd",
+        "title": "ImageNet Large Scale Visual Recognition Challenge",
+        "venue": "International Journal of Computer Vision",
+        "year": 2014,
+        "referenceCount": 124,
+        "citationCount": 42377,
+        "authors": [
+          {
+            "authorId": "2314850892",
+            "name": "Olga Russakovsky"
+          },
+          {
+            "authorId": "153302678",
+            "name": "Jia Deng"
+          },
+          {
+            "authorId": "144914140",
+            "name": "Hao Su"
+          },
+          {
+            "authorId": "2285165",
+            "name": "J. Krause"
+          },
+          {
+            "authorId": "145031342",
+            "name": "S. Satheesh"
+          },
+          {
+            "authorId": "2261887230",
+            "name": "Sean Ma"
+          },
+          {
+            "authorId": "3109481",
+            "name": "Zhiheng Huang"
+          },
+          {
+            "authorId": "2354728",
+            "name": "A. Karpathy"
+          },
+          {
+            "authorId": "2556428",
+            "name": "A. Khosla"
+          },
+          {
+            "authorId": "145879842",
+            "name": "Michael S. Bernstein"
+          },
+          {
+            "authorId": "39668247",
+            "name": "A. Berg"
+          },
+          {
+            "authorId": "48004138",
+            "name": "Li Fei-Fei"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "40eac6e6bb54e0da7885989f220f4d3f70249950",
+        "externalIds": {
+          "ArXiv": "1407.5035",
+          "DBLP": "conf/nips/HoffmanGTHDGDS14",
+          "MAG": "2951084305",
+          "CorpusId": 14260314
+        },
+        "url": "https://www.semanticscholar.org/paper/40eac6e6bb54e0da7885989f220f4d3f70249950",
+        "title": "LSDA: Large Scale Detection through Adaptation",
+        "venue": "Neural Information Processing Systems",
+        "year": 2014,
+        "referenceCount": 27,
+        "citationCount": 337,
+        "authors": [
+          {
+            "authorId": "50196944",
+            "name": "Judy Hoffman"
+          },
+          {
+            "authorId": "1687120",
+            "name": "S. Guadarrama"
+          },
+          {
+            "authorId": "2368132",
+            "name": "E. Tzeng"
+          },
+          {
+            "authorId": "2874347",
+            "name": "Ronghang Hu"
+          },
+          {
+            "authorId": "7408951",
+            "name": "Jeff Donahue"
+          },
+          {
+            "authorId": "2983898",
+            "name": "Ross B. Girshick"
+          },
+          {
+            "authorId": "1753210",
+            "name": "Trevor Darrell"
+          },
+          {
+            "authorId": "2903226",
+            "name": "Kate Saenko"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "6bdb186ec4726e00a8051119636d4df3b94043b5",
+        "externalIds": {
+          "MAG": "2950094539",
+          "DBLP": "journals/corr/JiaSDKLGGD14",
+          "ArXiv": "1408.5093",
+          "DOI": "10.1145/2647868.2654889",
+          "CorpusId": 1799558
+        },
+        "url": "https://www.semanticscholar.org/paper/6bdb186ec4726e00a8051119636d4df3b94043b5",
+        "title": "Caffe: Convolutional Architecture for Fast Feature Embedding",
+        "venue": "ACM Multimedia",
+        "year": 2014,
+        "referenceCount": 12,
+        "citationCount": 14840,
+        "authors": [
+          {
+            "authorId": "39978391",
+            "name": "Yangqing Jia"
+          },
+          {
+            "authorId": "1782282",
+            "name": "Evan Shelhamer"
+          },
+          {
+            "authorId": "7408951",
+            "name": "Jeff Donahue"
+          },
+          {
+            "authorId": "3049736",
+            "name": "Sergey Karayev"
+          },
+          {
+            "authorId": "2117314646",
+            "name": "Jonathan Long"
+          },
+          {
+            "authorId": "2983898",
+            "name": "Ross B. Girshick"
+          },
+          {
+            "authorId": "1687120",
+            "name": "S. Guadarrama"
+          },
+          {
+            "authorId": "1753210",
+            "name": "Trevor Darrell"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "9c495a9b835f7803746fce1f711dad0eeb411112",
+        "externalIds": {
+          "DBLP": "conf/iccv/LongWDSY13",
+          "MAG": "2096943734",
+          "DOI": "10.1109/ICCV.2013.274",
+          "CorpusId": 13798326
+        },
+        "url": "https://www.semanticscholar.org/paper/9c495a9b835f7803746fce1f711dad0eeb411112",
+        "title": "Transfer Feature Learning with Joint Distribution Adaptation",
+        "venue": "IEEE International Conference on Computer Vision",
+        "year": 2013,
+        "referenceCount": 27,
+        "citationCount": 1804,
+        "authors": [
+          {
+            "authorId": "35776445",
+            "name": "Mingsheng Long"
+          },
+          {
+            "authorId": "2144499343",
+            "name": "Jianmin Wang"
+          },
+          {
+            "authorId": "38329336",
+            "name": "Guiguang Ding"
+          },
+          {
+            "authorId": "2109517420",
+            "name": "Jiaguang Sun"
+          },
+          {
+            "authorId": "144019071",
+            "name": "Philip S. Yu"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "a3cbb2a295dba31d9c9af77cc177fe538de94d5e",
+        "externalIds": {
+          "DBLP": "conf/iccv/BaktashmotlaghHLS13",
+          "MAG": "2064447488",
+          "DOI": "10.1109/ICCV.2013.100",
+          "CorpusId": 12271421
+        },
+        "url": "https://www.semanticscholar.org/paper/a3cbb2a295dba31d9c9af77cc177fe538de94d5e",
+        "title": "Unsupervised Domain Adaptation by Domain Invariant Projection",
+        "venue": "IEEE International Conference on Computer Vision",
+        "year": 2013,
+        "referenceCount": 31,
+        "citationCount": 461,
+        "authors": [
+          {
+            "authorId": "3019028",
+            "name": "Mahsa Baktash"
+          },
+          {
+            "authorId": "1686714",
+            "name": "Mehrtash Harandi"
+          },
+          {
+            "authorId": "144367279",
+            "name": "B. Lovell"
+          },
+          {
+            "authorId": "2862871",
+            "name": "M. Salzmann"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "b8de958fead0d8a9619b55c7299df3257c624a96",
+        "externalIds": {
+          "DBLP": "journals/corr/DonahueJVHZTD13",
+          "MAG": "2155541015",
+          "ArXiv": "1310.1531",
+          "CorpusId": 6161478
+        },
+        "url": "https://www.semanticscholar.org/paper/b8de958fead0d8a9619b55c7299df3257c624a96",
+        "title": "DeCAF: A Deep Convolutional Activation Feature for Generic Visual Recognition",
+        "venue": "International Conference on Machine Learning",
+        "year": 2013,
+        "referenceCount": 51,
+        "citationCount": 5075,
+        "authors": [
+          {
+            "authorId": "7408951",
+            "name": "Jeff Donahue"
+          },
+          {
+            "authorId": "39978391",
+            "name": "Yangqing Jia"
+          },
+          {
+            "authorId": "1689108",
+            "name": "O. Vinyals"
+          },
+          {
+            "authorId": "50196944",
+            "name": "Judy Hoffman"
+          },
+          {
+            "authorId": "2152329702",
+            "name": "Ning Zhang"
+          },
+          {
+            "authorId": "2368132",
+            "name": "E. Tzeng"
+          },
+          {
+            "authorId": "1753210",
+            "name": "Trevor Darrell"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "361505815a72fa1552e3687d55157ccc6a0e934e",
+        "externalIds": {
+          "DBLP": "conf/kdd/GeGLZ13",
+          "MAG": "2072918779",
+          "DOI": "10.1145/2487575.2487612",
+          "CorpusId": 12063392
+        },
+        "url": "https://www.semanticscholar.org/paper/361505815a72fa1552e3687d55157ccc6a0e934e",
+        "title": "Multi-source deep learning for information trustworthiness estimation",
+        "venue": "Knowledge Discovery and Data Mining",
+        "year": 2013,
+        "referenceCount": 23,
+        "citationCount": 47,
+        "authors": [
+          {
+            "authorId": "2054614467",
+            "name": "Liang Ge"
+          },
+          {
+            "authorId": "144407304",
+            "name": "Jing Gao"
+          },
+          {
+            "authorId": "2108747186",
+            "name": "Xiaoyi Li"
+          },
+          {
+            "authorId": "145395060",
+            "name": "A. Zhang"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "66c3d69f94c90a884d3f6b5367813d51708f6ded",
+        "externalIds": {
+          "DBLP": "conf/icml/ZhangSMW13",
+          "MAG": "2153929442",
+          "CorpusId": 17069732
+        },
+        "url": "https://www.semanticscholar.org/paper/66c3d69f94c90a884d3f6b5367813d51708f6ded",
+        "title": "Domain Adaptation under Target and Conditional Shift",
+        "venue": "International Conference on Machine Learning",
+        "year": 2013,
+        "referenceCount": 41,
+        "citationCount": 689,
+        "authors": [
+          {
+            "authorId": "37844380",
+            "name": "Kun Zhang"
+          },
+          {
+            "authorId": "1707625",
+            "name": "B. Scholkopf"
+          },
+          {
+            "authorId": "2276351",
+            "name": "Krikamol Muandet"
+          },
+          {
+            "authorId": "2142632251",
+            "name": "Zhikun Wang"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "cea9cfa21060a1a34a337abae81c75e7370f084c",
+        "externalIds": {
+          "DBLP": "conf/icml/GongGS13",
+          "MAG": "2158815628",
+          "CorpusId": 16169580
+        },
+        "url": "https://www.semanticscholar.org/paper/cea9cfa21060a1a34a337abae81c75e7370f084c",
+        "title": "Connecting the Dots with Landmarks: Discriminatively Learning Domain-Invariant Features for Unsupervised Domain Adaptation",
+        "venue": "International Conference on Machine Learning",
+        "year": 2013,
+        "referenceCount": 30,
+        "citationCount": 521,
+        "authors": [
+          {
+            "authorId": "40206014",
+            "name": "Boqing Gong"
+          },
+          {
+            "authorId": "1794409",
+            "name": "K. Grauman"
+          },
+          {
+            "authorId": "145757665",
+            "name": "Fei Sha"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "7151066eb54f4e6b43bdd12aec566a9a912d744e",
+        "externalIds": {
+          "DBLP": "conf/nips/GrettonSSSBPF12",
+          "MAG": "2110097068",
+          "CorpusId": 9067102
+        },
+        "url": "https://www.semanticscholar.org/paper/7151066eb54f4e6b43bdd12aec566a9a912d744e",
+        "title": "Optimal kernel choice for large-scale two-sample tests",
+        "venue": "Neural Information Processing Systems",
+        "year": 2012,
+        "referenceCount": 19,
+        "citationCount": 753,
+        "authors": [
+          {
+            "authorId": "1708497",
+            "name": "A. Gretton"
+          },
+          {
+            "authorId": "3313411",
+            "name": "Bharath K. Sriperumbudur"
+          },
+          {
+            "authorId": "1698032",
+            "name": "D. Sejdinovic"
+          },
+          {
+            "authorId": "1679743",
+            "name": "Heiko Strathmann"
+          },
+          {
+            "authorId": "3261943",
+            "name": "Sivaraman Balakrishnan"
+          },
+          {
+            "authorId": "1704699",
+            "name": "M. Pontil"
+          },
+          {
+            "authorId": "1693668",
+            "name": "K. Fukumizu"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "abd1c342495432171beb7ca8fd9551ef13cbd0ff",
+        "externalIds": {
+          "DBLP": "conf/nips/KrizhevskySH12",
+          "MAG": "2618530766",
+          "DOI": "10.1145/3065386",
+          "CorpusId": 195908774
+        },
+        "url": "https://www.semanticscholar.org/paper/abd1c342495432171beb7ca8fd9551ef13cbd0ff",
+        "title": "ImageNet classification with deep convolutional neural networks",
+        "venue": "Communications of the ACM",
+        "year": 2012,
+        "referenceCount": 71,
+        "citationCount": 128329,
+        "authors": [
+          {
+            "authorId": "2064160",
+            "name": "A. Krizhevsky"
+          },
+          {
+            "authorId": "1701686",
+            "name": "I. Sutskever"
+          },
+          {
+            "authorId": "1695689",
+            "name": "Geoffrey E. Hinton"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "492a9f24c5202775f7e24300a2dab6136a04d476",
+        "externalIds": {
+          "ArXiv": "1207.6076",
+          "MAG": "1779010541",
+          "DBLP": "journals/corr/abs-1207-6076",
+          "DOI": "10.1214/13-AOS1140",
+          "CorpusId": 8308769
+        },
+        "url": "https://www.semanticscholar.org/paper/492a9f24c5202775f7e24300a2dab6136a04d476",
+        "title": "Equivalence of distance-based and RKHS-based statistics in hypothesis testing",
+        "venue": "arXiv.org",
+        "year": 2012,
+        "referenceCount": 43,
+        "citationCount": 773,
+        "authors": [
+          {
+            "authorId": "1698032",
+            "name": "D. Sejdinovic"
+          },
+          {
+            "authorId": "3313411",
+            "name": "Bharath K. Sriperumbudur"
+          },
+          {
+            "authorId": "1708497",
+            "name": "A. Gretton"
+          },
+          {
+            "authorId": "1693668",
+            "name": "K. Fukumizu"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "0060745e006c5f14ec326904119dca19c6545e51",
+        "externalIds": {
+          "ArXiv": "1207.0580",
+          "MAG": "1904365287",
+          "DBLP": "journals/corr/abs-1207-0580",
+          "CorpusId": 14832074
+        },
+        "url": "https://www.semanticscholar.org/paper/0060745e006c5f14ec326904119dca19c6545e51",
+        "title": "Improving neural networks by preventing co-adaptation of feature detectors",
+        "venue": "arXiv.org",
+        "year": 2012,
+        "referenceCount": 26,
+        "citationCount": 7978,
+        "authors": [
+          {
+            "authorId": "1695689",
+            "name": "Geoffrey E. Hinton"
+          },
+          {
+            "authorId": "2897313",
+            "name": "Nitish Srivastava"
+          },
+          {
+            "authorId": "2064160",
+            "name": "A. Krizhevsky"
+          },
+          {
+            "authorId": "1701686",
+            "name": "I. Sutskever"
+          },
+          {
+            "authorId": "145124475",
+            "name": "R. Salakhutdinov"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "184ac0766262312ba76bbdece4e7ffad0aa8180b",
+        "externalIds": {
+          "DBLP": "journals/pami/BengioCV13",
+          "MAG": "2952111767",
+          "ArXiv": "1206.5538",
+          "DOI": "10.1109/TPAMI.2013.50",
+          "CorpusId": 393948,
+          "PubMed": "23787338"
+        },
+        "url": "https://www.semanticscholar.org/paper/184ac0766262312ba76bbdece4e7ffad0aa8180b",
+        "title": "Representation Learning: A Review and New Perspectives",
+        "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+        "year": 2012,
+        "referenceCount": 263,
+        "citationCount": 13662,
+        "authors": [
+          {
+            "authorId": "1751762",
+            "name": "Yoshua Bengio"
+          },
+          {
+            "authorId": "1760871",
+            "name": "Aaron C. Courville"
+          },
+          {
+            "authorId": "145467703",
+            "name": "P. Vincent"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "8db26a22942404bd435909a16bb3a50cd67b4318",
+        "externalIds": {
+          "DBLP": "journals/corr/abs-1206-4683",
+          "MAG": "2096873754",
+          "ArXiv": "1206.4683",
+          "CorpusId": 10686834
+        },
+        "url": "https://www.semanticscholar.org/paper/8db26a22942404bd435909a16bb3a50cd67b4318",
+        "title": "Marginalized Denoising Autoencoders for Domain Adaptation",
+        "venue": "International Conference on Machine Learning",
+        "year": 2012,
+        "referenceCount": 28,
+        "citationCount": 836,
+        "authors": [
+          {
+            "authorId": "1743082",
+            "name": "Minmin Chen"
+          },
+          {
+            "authorId": "32622713",
+            "name": "Z. Xu"
+          },
+          {
+            "authorId": "7446832",
+            "name": "Kilian Q. Weinberger"
+          },
+          {
+            "authorId": "145757665",
+            "name": "Fei Sha"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "7de1d1612debcbde32cd588fa607a408df79c717",
+        "externalIds": {
+          "DBLP": "conf/cvpr/GongSSG12",
+          "MAG": "2149466042",
+          "DOI": "10.1109/CVPR.2012.6247911",
+          "CorpusId": 6742009
+        },
+        "url": "https://www.semanticscholar.org/paper/7de1d1612debcbde32cd588fa607a408df79c717",
+        "title": "Geodesic flow kernel for unsupervised domain adaptation",
+        "venue": "2012 IEEE Conference on Computer Vision and Pattern Recognition",
+        "year": 2012,
+        "referenceCount": 35,
+        "citationCount": 2430,
+        "authors": [
+          {
+            "authorId": "40206014",
+            "name": "Boqing Gong"
+          },
+          {
+            "authorId": "2118758198",
+            "name": "Yuan Shi"
+          },
+          {
+            "authorId": "145757665",
+            "name": "Fei Sha"
+          },
+          {
+            "authorId": "1794409",
+            "name": "K. Grauman"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "225f78ae8a44723c136646044fd5c5d7f1d3d15a",
+        "externalIds": {
+          "MAG": "2212660284",
+          "DBLP": "journals/jmlr/GrettonBRSS12",
+          "DOI": "10.5555/2503308.2188410",
+          "CorpusId": 10742222
+        },
+        "url": "https://www.semanticscholar.org/paper/225f78ae8a44723c136646044fd5c5d7f1d3d15a",
+        "title": "A Kernel Two-Sample Test",
+        "venue": "Journal of machine learning research",
+        "year": 2012,
+        "referenceCount": 97,
+        "citationCount": 6171,
+        "authors": [
+          {
+            "authorId": "1708497",
+            "name": "A. Gretton"
+          },
+          {
+            "authorId": "1704422",
+            "name": "Karsten M. Borgwardt"
+          },
+          {
+            "authorId": "1733256",
+            "name": "M. Rasch"
+          },
+          {
+            "authorId": "1707625",
+            "name": "B. Scholkopf"
+          },
+          {
+            "authorId": "46234526",
+            "name": "Alex Smola"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "6f4065f0cc99a0839b0248ffb4457e5f0277b30d",
+        "externalIds": {
+          "MAG": "22861983",
+          "DBLP": "conf/icml/GlorotBB11",
+          "CorpusId": 18235792
+        },
+        "url": "https://www.semanticscholar.org/paper/6f4065f0cc99a0839b0248ffb4457e5f0277b30d",
+        "title": "Domain Adaptation for Large-Scale Sentiment Classification: A Deep Learning Approach",
+        "venue": "International Conference on Machine Learning",
+        "year": 2011,
+        "referenceCount": 26,
+        "citationCount": 1854,
+        "authors": [
+          {
+            "authorId": "3119801",
+            "name": "Xavier Glorot"
+          },
+          {
+            "authorId": "1713934",
+            "name": "Antoine Bordes"
+          },
+          {
+            "authorId": "1751762",
+            "name": "Yoshua Bengio"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "a78273144520d57e150744cf75206e881e11cc5b",
+        "externalIds": {
+          "ArXiv": "2301.04856",
+          "MAG": "2184188583",
+          "DBLP": "journals/corr/abs-2301-04856",
+          "DOI": "10.48550/arXiv.2301.04856",
+          "CorpusId": 352650
+        },
+        "url": "https://www.semanticscholar.org/paper/a78273144520d57e150744cf75206e881e11cc5b",
+        "title": "Multimodal Deep Learning",
+        "venue": "International Conference on Machine Learning",
+        "year": 2011,
+        "referenceCount": 31,
+        "citationCount": 3474,
+        "authors": [
+          {
+            "authorId": "2020608",
+            "name": "Jiquan Ngiam"
+          },
+          {
+            "authorId": "2556428",
+            "name": "A. Khosla"
+          },
+          {
+            "authorId": "1390603950",
+            "name": "Mingyu Kim"
+          },
+          {
+            "authorId": "145578392",
+            "name": "Juhan Nam"
+          },
+          {
+            "authorId": "1697141",
+            "name": "Honglak Lee"
+          },
+          {
+            "authorId": "34699434",
+            "name": "A. Ng"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "0302bb2d5476540cfb21467473f5eca843caf90b",
+        "externalIds": {
+          "DBLP": "conf/cvpr/TorralbaE11",
+          "MAG": "2031342017",
+          "DOI": "10.1109/CVPR.2011.5995347",
+          "CorpusId": 2777306
+        },
+        "url": "https://www.semanticscholar.org/paper/0302bb2d5476540cfb21467473f5eca843caf90b",
+        "title": "Unbiased look at dataset bias",
+        "venue": "Computer Vision and Pattern Recognition",
+        "year": 2011,
+        "referenceCount": 21,
+        "citationCount": 2735,
+        "authors": [
+          {
+            "authorId": "143805211",
+            "name": "A. Torralba"
+          },
+          {
+            "authorId": "1763086",
+            "name": "Alexei A. Efros"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "a25fbcbbae1e8f79c4360d26aa11a3abf1a11972",
+        "externalIds": {
+          "DBLP": "journals/tkde/PanY10",
+          "MAG": "2165698076",
+          "DOI": "10.1109/TKDE.2009.191",
+          "CorpusId": 740063
+        },
+        "url": "https://www.semanticscholar.org/paper/a25fbcbbae1e8f79c4360d26aa11a3abf1a11972",
+        "title": "A Survey on Transfer Learning",
+        "venue": "IEEE Transactions on Knowledge and Data Engineering",
+        "year": 2010,
+        "referenceCount": 97,
+        "citationCount": 23004,
+        "authors": [
+          {
+            "authorId": "1746914",
+            "name": "Sinno Jialin Pan"
+          },
+          {
+            "authorId": "152290618",
+            "name": "Qiang Yang"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "5d9a3036181676e187c9c0ff995d8bed1db3557d",
+        "externalIds": {
+          "MAG": "1722318740",
+          "DBLP": "conf/eccv/SaenkoKFD10",
+          "DOI": "10.1007/978-3-642-15561-1_16",
+          "CorpusId": 7534823
+        },
+        "url": "https://www.semanticscholar.org/paper/5d9a3036181676e187c9c0ff995d8bed1db3557d",
+        "title": "Adapting Visual Category Models to New Domains",
+        "venue": "European Conference on Computer Vision",
+        "year": 2010,
+        "referenceCount": 19,
+        "citationCount": 3163,
+        "authors": [
+          {
+            "authorId": "2903226",
+            "name": "Kate Saenko"
+          },
+          {
+            "authorId": "1692670",
+            "name": "Brian Kulis"
+          },
+          {
+            "authorId": "1739548",
+            "name": "Mario Fritz"
+          },
+          {
+            "authorId": "1753210",
+            "name": "Trevor Darrell"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "66d398aeaeb7ec24ededb1adaa4b4f09a6c1bcde",
+        "externalIds": {
+          "DBLP": "journals/ml/Ben-DavidBCKPV10",
+          "MAG": "2104094955",
+          "DOI": "10.1007/s10994-009-5152-4",
+          "CorpusId": 8577357
+        },
+        "url": "https://www.semanticscholar.org/paper/66d398aeaeb7ec24ededb1adaa4b4f09a6c1bcde",
+        "title": "A theory of learning from different domains",
+        "venue": "Machine-mediated learning",
+        "year": 2010,
+        "referenceCount": 35,
+        "citationCount": 3997,
+        "authors": [
+          {
+            "authorId": "1401829700",
+            "name": "Shai Ben-David"
+          },
+          {
+            "authorId": "2116927",
+            "name": "John Blitzer"
+          },
+          {
+            "authorId": "1693407",
+            "name": "K. Crammer"
+          },
+          {
+            "authorId": "145500336",
+            "name": "Alex Kulesza"
+          },
+          {
+            "authorId": "145366908",
+            "name": "Fernando C Pereira"
+          },
+          {
+            "authorId": "4006636",
+            "name": "Jennifer Wortman Vaughan"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "0790fa6f89c068b2c1be02529e7bc1148ecbeea5",
+        "externalIds": {
+          "DBLP": "conf/nips/SriperumbudurFGLS09",
+          "MAG": "2111181349",
+          "CorpusId": 156282
+        },
+        "url": "https://www.semanticscholar.org/paper/0790fa6f89c068b2c1be02529e7bc1148ecbeea5",
+        "title": "Kernel Choice and Classifiability for RKHS Embeddings of Probability Distributions",
+        "venue": "Neural Information Processing Systems",
+        "year": 2009,
+        "referenceCount": 25,
+        "citationCount": 244,
+        "authors": [
+          {
+            "authorId": "3313411",
+            "name": "Bharath K. Sriperumbudur"
+          },
+          {
+            "authorId": "1693668",
+            "name": "K. Fukumizu"
+          },
+          {
+            "authorId": "1708497",
+            "name": "A. Gretton"
+          },
+          {
+            "authorId": "1725533",
+            "name": "Gert R. G. Lanckriet"
+          },
+          {
+            "authorId": "1707625",
+            "name": "B. Scholkopf"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "1dae4d61cd74cc919ecc638bde6b7125728ea97b",
+        "externalIds": {
+          "MAG": "304676660",
+          "DBLP": "conf/ijcai/PanTKY09",
+          "DOI": "10.1109/TNN.2010.2091281",
+          "CorpusId": 788838,
+          "PubMed": "21095864"
+        },
+        "url": "https://www.semanticscholar.org/paper/1dae4d61cd74cc919ecc638bde6b7125728ea97b",
+        "title": "Domain Adaptation via Transfer Component Analysis",
+        "venue": "IEEE Transactions on Neural Networks",
+        "year": 2009,
+        "referenceCount": 54,
+        "citationCount": 4403,
+        "authors": [
+          {
+            "authorId": "1746914",
+            "name": "Sinno Jialin Pan"
+          },
+          {
+            "authorId": "1807998",
+            "name": "I. Tsang"
+          },
+          {
+            "authorId": "145193332",
+            "name": "J. Kwok"
+          },
+          {
+            "authorId": "152290618",
+            "name": "Qiang Yang"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "a9606fe31a66df53cd36ceffbcb44a68e3b52d67",
+        "externalIds": {
+          "MAG": "2953369858",
+          "ArXiv": "0902.3430",
+          "DBLP": "journals/corr/abs-0902-3430",
+          "CorpusId": 6178817
+        },
+        "url": "https://www.semanticscholar.org/paper/a9606fe31a66df53cd36ceffbcb44a68e3b52d67",
+        "title": "Domain Adaptation: Learning Bounds and Algorithms",
+        "venue": "Annual Conference Computational Learning Theory",
+        "year": 2009,
+        "referenceCount": 37,
+        "citationCount": 860,
+        "authors": [
+          {
+            "authorId": "144830983",
+            "name": "Y. Mansour"
+          },
+          {
+            "authorId": "81080659",
+            "name": "M. Mohri"
+          },
+          {
+            "authorId": "2435268",
+            "name": "A. Rostamizadeh"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "7ee368e60d0b826e78f965aad8d6c7d406127104",
+        "externalIds": {
+          "MAG": "2407712691",
+          "DBLP": "conf/icml/WestonRC08",
+          "DOI": "10.1145/1390156.1390303",
+          "CorpusId": 740114
+        },
+        "url": "https://www.semanticscholar.org/paper/7ee368e60d0b826e78f965aad8d6c7d406127104",
+        "title": "Deep learning via semi-supervised embedding",
+        "venue": "International Conference on Machine Learning",
+        "year": 2008,
+        "referenceCount": 33,
+        "citationCount": 1066,
+        "authors": [
+          {
+            "authorId": "145183709",
+            "name": "J. Weston"
+          },
+          {
+            "authorId": "1799147",
+            "name": "F. Ratle"
+          },
+          {
+            "authorId": "3232655",
+            "name": "H. Mobahi"
+          },
+          {
+            "authorId": "2939803",
+            "name": "R. Collobert"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "5a5effa909cdeafaddbbb7855037e02f8e25d632",
+        "externalIds": {
+          "MAG": "1576445103",
+          "CorpusId": 118828957
+        },
+        "url": "https://www.semanticscholar.org/paper/5a5effa909cdeafaddbbb7855037e02f8e25d632",
+        "title": "Caltech-256 Object Category Dataset",
+        "venue": "",
+        "year": 2007,
+        "referenceCount": 0,
+        "citationCount": 2921,
+        "authors": [
+          {
+            "authorId": "47655614",
+            "name": "G. Griffin"
+          },
+          {
+            "authorId": "144160673",
+            "name": "Alex Holub"
+          },
+          {
+            "authorId": "1690922",
+            "name": "P. Perona"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "96c6bc559b79d8fd518f431c707e8b44ce3bc4de",
+        "externalIds": {
+          "MAG": "2543306892",
+          "DBLP": "conf/nips/Ben-DavidBCP06",
+          "DOI": "10.7551/mitpress/7503.003.0022",
+          "CorpusId": 10908021
+        },
+        "url": "https://www.semanticscholar.org/paper/96c6bc559b79d8fd518f431c707e8b44ce3bc4de",
+        "title": "Analysis of Representations for Domain Adaptation",
+        "venue": "Neural Information Processing Systems",
+        "year": 2006,
+        "referenceCount": 16,
+        "citationCount": 2509,
+        "authors": [
+          {
+            "authorId": "1401829700",
+            "name": "Shai Ben-David"
+          },
+          {
+            "authorId": "2116927",
+            "name": "John Blitzer"
+          },
+          {
+            "authorId": "1693407",
+            "name": "K. Crammer"
+          },
+          {
+            "authorId": "145366908",
+            "name": "Fernando C Pereira"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "Tsinghua & UC Berkeley) Deep Adaptation Networks ICML 2015",
+        "venue": "Tsinghua & UC Berkeley) Deep Adaptation Networks ICML 2015",
+        "year": null,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "Multi-class accuracy on the 10-category Office + Caltech dataset with standard unsupervised adaptation setting",
+        "venue": "Multi-class accuracy on the 10-category Office + Caltech dataset with standard unsupervised adaptation setting",
+        "year": null,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    }
+  ]
+}

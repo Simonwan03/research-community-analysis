@@ -1,0 +1,310 @@
+{
+  "total": 21,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "61aca02b344fea0095a517deb9ada64ee73d6e0e",
+      "externalIds": {
+        "ArXiv": "1605.08257",
+        "DBLP": "conf/icml/KasaiM16",
+        "MAG": "2407024508",
+        "CorpusId": 15069841
+      },
+      "url": "https://www.semanticscholar.org/paper/61aca02b344fea0095a517deb9ada64ee73d6e0e",
+      "title": "Low-rank tensor completion: a Riemannian manifold preconditioning approach",
+      "venue": "International Conference on Machine Learning",
+      "year": 2016,
+      "referenceCount": 31,
+      "citationCount": 127,
+      "authors": [
+        {
+          "authorId": "2061436080",
+          "name": "Hiroyuki Kasai"
+        },
+        {
+          "authorId": "37585320",
+          "name": "Bamdev Mishra"
+        }
+      ]
+    },
+    {
+      "paperId": "ff74613fafb930407eec7d99cd33581a3a3e5402",
+      "externalIds": {
+        "DBLP": "journals/jscic/WenLCC26",
+        "DOI": "10.1007/s10915-025-03158-8",
+        "CorpusId": 283740205
+      },
+      "url": "https://www.semanticscholar.org/paper/ff74613fafb930407eec7d99cd33581a3a3e5402",
+      "title": "Riemannian Preconditioning Algorithms for the Low-Rank Tensor Completion via the Triple Decomposition",
+      "venue": "Journal of Scientific Computing",
+      "year": 2025,
+      "referenceCount": 58,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2398864412",
+          "name": "Yaqiong Wen"
+        },
+        {
+          "authorId": "2351811682",
+          "name": "Wen Li"
+        },
+        {
+          "authorId": "2326996463",
+          "name": "Jiakai Chen"
+        },
+        {
+          "authorId": "2351800105",
+          "name": "Yannan Chen"
+        }
+      ]
+    },
+    {
+      "paperId": "3367ac167e45d6b2aa93ea0f70287f86100dd6ce",
+      "externalIds": {
+        "DBLP": "journals/adcm/DuanDLL23",
+        "DOI": "10.1007/s10444-023-10036-0",
+        "CorpusId": 259141072
+      },
+      "url": "https://www.semanticscholar.org/paper/3367ac167e45d6b2aa93ea0f70287f86100dd6ce",
+      "title": "Riemannian conjugate gradient method for low-rank tensor completion",
+      "venue": "Advances in Computational Mathematics",
+      "year": 2023,
+      "referenceCount": 42,
+      "citationCount": 6,
+      "authors": [
+        {
+          "authorId": "1808083612",
+          "name": "Shan-Qi Duan"
+        },
+        {
+          "authorId": "4091757",
+          "name": "X. Duan"
+        },
+        {
+          "authorId": "2048620138",
+          "name": "Chunmei Li"
+        },
+        {
+          "authorId": "81752605",
+          "name": "Jiao-fen Li"
+        }
+      ]
+    },
+    {
+      "paperId": "3082e0595767a8d38d63ed1a38965e0a5fdc0090",
+      "externalIds": {
+        "MAG": "2804416655",
+        "CorpusId": 125167091
+      },
+      "url": "https://www.semanticscholar.org/paper/3082e0595767a8d38d63ed1a38965e0a5fdc0090",
+      "title": "A Riemannian approach to trace norm regularized low-rank tensor completion",
+      "venue": "",
+      "year": 2017,
+      "referenceCount": 41,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "3407987",
+          "name": "M. Nimishakavi"
+        },
+        {
+          "authorId": "1720974",
+          "name": "Pratik Jawanpuria"
+        },
+        {
+          "authorId": "37585320",
+          "name": "Bamdev Mishra"
+        }
+      ]
+    },
+    {
+      "paperId": "480e3d3e69f46bfa8da4aa90386b5d4985bb4dd2",
+      "externalIds": {
+        "MAG": "2749421738",
+        "DBLP": "journals/nla/HeidelS18",
+        "ArXiv": "1703.10019",
+        "DOI": "10.1002/nla.2175",
+        "CorpusId": 53430780
+      },
+      "url": "https://www.semanticscholar.org/paper/480e3d3e69f46bfa8da4aa90386b5d4985bb4dd2",
+      "title": "A Riemannian trust‐region method for low‐rank tensor completion",
+      "venue": "Numerical Linear Algebra with Applications",
+      "year": 2017,
+      "referenceCount": 40,
+      "citationCount": 36,
+      "authors": [
+        {
+          "authorId": "51893349",
+          "name": "Gennadij Heidel"
+        },
+        {
+          "authorId": "2054164522",
+          "name": "V. Schulz"
+        }
+      ]
+    },
+    {
+      "paperId": "babfb8ba9399391c2e08872e40ee0731ecd02bad",
+      "externalIds": {
+        "DBLP": "conf/ijcai/ZhouQSZX17",
+        "MAG": "2740332636",
+        "DOI": "10.24963/ijcai.2017/495",
+        "CorpusId": 3233002
+      },
+      "url": "https://www.semanticscholar.org/paper/babfb8ba9399391c2e08872e40ee0731ecd02bad",
+      "title": "Tensor Completion with Side Information: A Riemannian Manifold Approach",
+      "venue": "International Joint Conference on Artificial Intelligence",
+      "year": 2017,
+      "referenceCount": 41,
+      "citationCount": 22,
+      "authors": [
+        {
+          "authorId": "2114110394",
+          "name": "Tengfei Zhou"
+        },
+        {
+          "authorId": "33441723",
+          "name": "Hui Qian"
+        },
+        {
+          "authorId": "3350452",
+          "name": "Zebang Shen"
+        },
+        {
+          "authorId": null,
+          "name": "Chao Zhang"
+        },
+        {
+          "authorId": "1682914",
+          "name": "Congfu Xu"
+        }
+      ]
+    },
+    {
+      "paperId": "c59e024e444bfe4973d9475d552a3017c55941e2",
+      "externalIds": {
+        "ArXiv": "2209.04786",
+        "DOI": "10.1002/nla.70056",
+        "CorpusId": 252199987
+      },
+      "url": "https://www.semanticscholar.org/paper/c59e024e444bfe4973d9475d552a3017c55941e2",
+      "title": "Tensor Completion via Tensor Train Based Low‐Rank Quotient Geometry Under a Preconditioned Metric",
+      "venue": "Numerical Linear Algebra with Applications",
+      "year": 2022,
+      "referenceCount": 40,
+      "citationCount": 10,
+      "authors": [
+        {
+          "authorId": "4442130",
+          "name": "Jiong Cai"
+        },
+        {
+          "authorId": "2216210572",
+          "name": "Wen Huang"
+        },
+        {
+          "authorId": "2155569364",
+          "name": "Haifeng Wang"
+        },
+        {
+          "authorId": "145525840",
+          "name": "Ke Wei"
+        }
+      ]
+    },
+    {
+      "paperId": "06f978d809b7b43ff603229d18473b74849e4016",
+      "externalIds": {
+        "MAG": "3005852419",
+        "DOI": "10.1109/CAC48633.2019.8996155",
+        "CorpusId": 211212144
+      },
+      "url": "https://www.semanticscholar.org/paper/06f978d809b7b43ff603229d18473b74849e4016",
+      "title": "Tensor Completion using Low-Rank Tensor Train Decomposition by Riemannian optimization",
+      "venue": "ACM Cloud and Autonomic Computing Conference",
+      "year": 2019,
+      "referenceCount": 24,
+      "citationCount": 10,
+      "authors": [
+        {
+          "authorId": "2363589857",
+          "name": "Junli Wang"
+        },
+        {
+          "authorId": "8278873",
+          "name": "Guangshe Zhao"
+        },
+        {
+          "authorId": "1452735766",
+          "name": "Dingheng Wang"
+        },
+        {
+          "authorId": "1730243",
+          "name": "Guoqi Li"
+        }
+      ]
+    },
+    {
+      "paperId": "8c3e82d9dae2495f2d04a3a657ca8adae98da957",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2305-07976",
+        "ArXiv": "2305.07976",
+        "DOI": "10.1109/WACV51458.2022.00412",
+        "CorpusId": 246871917
+      },
+      "url": "https://www.semanticscholar.org/paper/8c3e82d9dae2495f2d04a3a657ca8adae98da957",
+      "title": "Nonnegative Low-Rank Tensor Completion via Dual Formulation with Applications to Image and Video Completion",
+      "venue": "IEEE Workshop/Winter Conference on Applications of Computer Vision",
+      "year": 2022,
+      "referenceCount": 62,
+      "citationCount": 11,
+      "authors": [
+        {
+          "authorId": "2067231306",
+          "name": "T. Sinha"
+        },
+        {
+          "authorId": "2130175702",
+          "name": "Jayadev Naram"
+        },
+        {
+          "authorId": "2108180151",
+          "name": "Pawan Kumar"
+        }
+      ]
+    },
+    {
+      "paperId": "b3d91ac42353ed5c38097b34530521579eea2a56",
+      "externalIds": {
+        "ArXiv": "2604.09263",
+        "CorpusId": 287352226
+      },
+      "url": "https://www.semanticscholar.org/paper/b3d91ac42353ed5c38097b34530521579eea2a56",
+      "title": "Natural Riemannian gradient for learning functional tensor networks",
+      "venue": "",
+      "year": 2026,
+      "referenceCount": 39,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "1389943559",
+          "name": "Nikolas Klug"
+        },
+        {
+          "authorId": "1761712",
+          "name": "M. Ulbrich"
+        },
+        {
+          "authorId": "2373722717",
+          "name": "Marius Willner"
+        },
+        {
+          "authorId": "2159091",
+          "name": "A. Uschmajew"
+        }
+      ]
+    }
+  ]
+}

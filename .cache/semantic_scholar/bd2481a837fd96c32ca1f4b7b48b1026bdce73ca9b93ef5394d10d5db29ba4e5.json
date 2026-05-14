@@ -1,0 +1,76 @@
+{
+  "total": 3,
+  "offset": 0,
+  "data": [
+    {
+      "paperId": "54a13bcc9613dcaa76fb25fbe96572f376cfcca9",
+      "externalIds": {
+        "MAG": "2949215200",
+        "ArXiv": "1804.04235",
+        "DBLP": "conf/icml/ShazeerS18",
+        "CorpusId": 4786918
+      },
+      "url": "https://www.semanticscholar.org/paper/54a13bcc9613dcaa76fb25fbe96572f376cfcca9",
+      "title": "Adafactor: Adaptive Learning Rates with Sublinear Memory Cost",
+      "venue": "International Conference on Machine Learning",
+      "year": 2018,
+      "referenceCount": 13,
+      "citationCount": 1250,
+      "authors": [
+        {
+          "authorId": "1846258",
+          "name": "Noam Shazeer"
+        },
+        {
+          "authorId": "144872294",
+          "name": "Mitchell Stern"
+        }
+      ]
+    },
+    {
+      "paperId": "ac6476b0768866d5f45f2f8cb7e4d3fece2be4b0",
+      "externalIds": {
+        "ArXiv": "2604.16583",
+        "CorpusId": 287618123
+      },
+      "url": "https://www.semanticscholar.org/paper/ac6476b0768866d5f45f2f8cb7e4d3fece2be4b0",
+      "title": "POLAR: Online Learning for LoRA Adapter Caching and Routing in Edge LLM Serving",
+      "venue": "",
+      "year": 2026,
+      "referenceCount": 27,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2370991002",
+          "name": "Shaoang Li"
+        },
+        {
+          "authorId": "2370937734",
+          "name": "Jian Li"
+        }
+      ]
+    },
+    {
+      "paperId": "729a3fe15c19e6e0429dbc282f83c3b50afe2045",
+      "externalIds": {
+        "CorpusId": 916735
+      },
+      "url": "https://www.semanticscholar.org/paper/729a3fe15c19e6e0429dbc282f83c3b50afe2045",
+      "title": "Systems and Architecture Support for Large-Scale Video Search",
+      "venue": "",
+      "year": 2014,
+      "referenceCount": 21,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2896556",
+          "name": "Carlo C. del Mundo"
+        },
+        {
+          "authorId": "153766511",
+          "name": "Vincent Lee"
+        }
+      ]
+    }
+  ]
+}

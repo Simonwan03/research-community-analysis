@@ -1,0 +1,293 @@
+{
+  "total": 17,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "4f4837c1f8a194d8b7fe7d6073ce44876f08ad6c",
+      "externalIds": {
+        "MAG": "2951929289",
+        "ArXiv": "1706.00359",
+        "DBLP": "conf/icml/MiaoGB17",
+        "CorpusId": 3141921
+      },
+      "url": "https://www.semanticscholar.org/paper/4f4837c1f8a194d8b7fe7d6073ce44876f08ad6c",
+      "title": "Discovering Discrete Latent Topics with Neural Variational Inference",
+      "venue": "International Conference on Machine Learning",
+      "year": 2017,
+      "referenceCount": 35,
+      "citationCount": 340,
+      "authors": [
+        {
+          "authorId": "2666898",
+          "name": "Yishu Miao"
+        },
+        {
+          "authorId": "1864353",
+          "name": "Edward Grefenstette"
+        },
+        {
+          "authorId": "1685771",
+          "name": "Phil Blunsom"
+        }
+      ]
+    },
+    {
+      "paperId": "39f93cd2582122dcd678145317c28e3c984130b5",
+      "externalIds": {
+        "DBLP": "journals/tist/GuptaZ23",
+        "DOI": "10.1145/3570509",
+        "CorpusId": 253839579
+      },
+      "url": "https://www.semanticscholar.org/paper/39f93cd2582122dcd678145317c28e3c984130b5",
+      "title": "Neural Topic Modeling via Discrete Variational Inference",
+      "venue": "ACM Transactions on Intelligent Systems and Technology",
+      "year": 2022,
+      "referenceCount": 39,
+      "citationCount": 7,
+      "authors": [
+        {
+          "authorId": "116180147",
+          "name": "Amulya Gupta"
+        },
+        {
+          "authorId": "2109109975",
+          "name": "Zhu Zhang"
+        }
+      ]
+    },
+    {
+      "paperId": "dd0079122a90cf1c6325fc1347fe027d85abf905",
+      "externalIds": {
+        "ACL": "2021.acl-long.182",
+        "DBLP": "conf/acl/ChenDZR020",
+        "DOI": "10.18653/v1/2021.acl-long.182",
+        "CorpusId": 236460021
+      },
+      "url": "https://www.semanticscholar.org/paper/dd0079122a90cf1c6325fc1347fe027d85abf905",
+      "title": "Tree-Structured Topic Modeling with Nonparametric Neural Variational Inference",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2021,
+      "referenceCount": 34,
+      "citationCount": 27,
+      "authors": [
+        {
+          "authorId": "2034281625",
+          "name": "Ziye Chen"
+        },
+        {
+          "authorId": "115549795",
+          "name": "Chengzhuo Ding"
+        },
+        {
+          "authorId": "2109373226",
+          "name": "Zusheng Zhang"
+        },
+        {
+          "authorId": "36300013",
+          "name": "Yanghui Rao"
+        },
+        {
+          "authorId": "3607957",
+          "name": "Haoran Xie"
+        }
+      ]
+    },
+    {
+      "paperId": "dc2b20233a6c482d7eac97456a8280f55195b4cb",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2602-18795",
+        "ArXiv": "2602.18795",
+        "DOI": "10.48550/arXiv.2602.18795",
+        "CorpusId": 285973667
+      },
+      "url": "https://www.semanticscholar.org/paper/dc2b20233a6c482d7eac97456a8280f55195b4cb",
+      "title": "Vectorized Bayesian Inference for Latent Dirichlet-Tree Allocation",
+      "venue": "arXiv.org",
+      "year": 2026,
+      "referenceCount": 0,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2324935158",
+          "name": "Zheng Wang"
+        },
+        {
+          "authorId": "1729109",
+          "name": "N. Bouguila"
+        }
+      ]
+    },
+    {
+      "paperId": "c1403890c3317337f840a105c8afa3a8c3e981c2",
+      "externalIds": {
+        "MAG": "2966837889",
+        "DBLP": "journals/taslp/ParshakovaRSKK19",
+        "DOI": "10.1109/TASLP.2019.2929647",
+        "CorpusId": 199488720
+      },
+      "url": "https://www.semanticscholar.org/paper/c1403890c3317337f840a105c8afa3a8c3e981c2",
+      "title": "Latent Question Interpretation Through Variational Adaptation",
+      "venue": "IEEE/ACM Transactions on Audio Speech and Language Processing",
+      "year": 2019,
+      "referenceCount": 53,
+      "citationCount": 4,
+      "authors": [
+        {
+          "authorId": "3461768",
+          "name": "Tetiana Parshakova"
+        },
+        {
+          "authorId": "2771818",
+          "name": "François Rameau"
+        },
+        {
+          "authorId": "151505439",
+          "name": "Andriy Serdega"
+        },
+        {
+          "authorId": "98758720",
+          "name": "I. Kweon"
+        },
+        {
+          "authorId": "2111347721",
+          "name": "Dae-Shik Kim"
+        }
+      ]
+    },
+    {
+      "paperId": "5b0c3f718d5ccfcd6e900c977fdefc48b51060e8",
+      "externalIds": {
+        "DBLP": "conf/ijcai/ParshakovaK18",
+        "MAG": "2899246752",
+        "CorpusId": 53037315
+      },
+      "url": "https://www.semanticscholar.org/paper/5b0c3f718d5ccfcd6e900c977fdefc48b51060e8",
+      "title": "Latent Question Interpretation Through Parameter Adaptation Using Stochastic Neuron",
+      "venue": "MRC@IJCAI",
+      "year": 2018,
+      "referenceCount": 32,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "3461768",
+          "name": "Tetiana Parshakova"
+        },
+        {
+          "authorId": "2111347721",
+          "name": "Dae-Shik Kim"
+        }
+      ]
+    },
+    {
+      "paperId": "4f6818bcd49acacb23ef9ebd8effa4b61e5b71b6",
+      "externalIds": {
+        "DBLP": "conf/nips/JensenKSH21",
+        "DOI": "10.1101/2021.06.03.446788",
+        "CorpusId": 235348872
+      },
+      "url": "https://www.semanticscholar.org/paper/4f6818bcd49acacb23ef9ebd8effa4b61e5b71b6",
+      "title": "Scalable Bayesian GPFA with automatic relevance determination and discrete noise models",
+      "venue": "bioRxiv",
+      "year": 2021,
+      "referenceCount": 70,
+      "citationCount": 20,
+      "authors": [
+        {
+          "authorId": "51176794",
+          "name": "Kristopher T. Jensen"
+        },
+        {
+          "authorId": "19286747",
+          "name": "Ta-Chu Kao"
+        },
+        {
+          "authorId": "1984369969",
+          "name": "Jasmine T. Stone"
+        },
+        {
+          "authorId": "3158658",
+          "name": "Guillaume Hennequin"
+        }
+      ]
+    },
+    {
+      "paperId": "a209edbf1e000365a57a62a076b6f18d78e3e188",
+      "externalIds": {
+        "CorpusId": 245902712
+      },
+      "url": "https://www.semanticscholar.org/paper/a209edbf1e000365a57a62a076b6f18d78e3e188",
+      "title": "Unveiling mode-connectivity of the ELBO landscape",
+      "venue": "",
+      "year": 2021,
+      "referenceCount": 27,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2149984925",
+          "name": "Edith Zhang"
+        },
+        {
+          "authorId": "2267038829",
+          "name": "David M. Blei"
+        }
+      ]
+    },
+    {
+      "paperId": "cfe3171f2e8edc2eb351f8d0ac92ecb0656ff653",
+      "externalIds": {
+        "MAG": "2913968551",
+        "DOI": "10.32470/CCN.2018.1051-0",
+        "CorpusId": 86736296
+      },
+      "url": "https://www.semanticscholar.org/paper/cfe3171f2e8edc2eb351f8d0ac92ecb0656ff653",
+      "title": "Inference of dynamic probabilistic internal representations from reaction time data",
+      "venue": "",
+      "year": 2018,
+      "referenceCount": 8,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "47519133",
+          "name": "B. Török"
+        },
+        {
+          "authorId": "7915244",
+          "name": "D. G. Nagy"
+        },
+        {
+          "authorId": "2487447",
+          "name": "K. Janacsek"
+        },
+        {
+          "authorId": "2519912",
+          "name": "D. Németh"
+        },
+        {
+          "authorId": "3128709",
+          "name": "G. Orbán"
+        }
+      ]
+    },
+    {
+      "paperId": "900cdb08ef9fce95d36a09685f768d265ca8a076",
+      "externalIds": {
+        "MAG": "2905226010",
+        "DBLP": "phd/ethos/Miao17a",
+        "CorpusId": 70335345
+      },
+      "url": "https://www.semanticscholar.org/paper/900cdb08ef9fce95d36a09685f768d265ca8a076",
+      "title": "Deep generative models for natural language processing",
+      "venue": "",
+      "year": 2017,
+      "referenceCount": 0,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "2666898",
+          "name": "Yishu Miao"
+        }
+      ]
+    }
+  ]
+}

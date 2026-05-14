@@ -1,0 +1,265 @@
+{
+  "total": 425,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "bd3e007b98732acdf9608a40bc72059e066e2c1d",
+      "externalIds": {
+        "DBLP": "conf/icml/YangX15a",
+        "MAG": "1701167349",
+        "CorpusId": 2747774
+      },
+      "url": "https://www.semanticscholar.org/paper/bd3e007b98732acdf9608a40bc72059e066e2c1d",
+      "title": "Streaming Sparse Principal Component Analysis",
+      "venue": "International Conference on Machine Learning",
+      "year": 2015,
+      "referenceCount": 35,
+      "citationCount": 32,
+      "authors": [
+        {
+          "authorId": "2047305",
+          "name": "Wenzhuo Yang"
+        },
+        {
+          "authorId": "143719795",
+          "name": "Huan Xu"
+        }
+      ]
+    },
+    {
+      "paperId": "37a718df369457cc62c027808f2b6d25db0a8a78",
+      "externalIds": {
+        "MAG": "2279901945",
+        "DBLP": "conf/stoc/BoutsidisWZ16",
+        "ArXiv": "1504.06729",
+        "DOI": "10.1145/2897518.2897646",
+        "CorpusId": 14126780
+      },
+      "url": "https://www.semanticscholar.org/paper/37a718df369457cc62c027808f2b6d25db0a8a78",
+      "title": "Optimal principal component analysis in distributed and streaming models",
+      "venue": "Symposium on the Theory of Computing",
+      "year": 2015,
+      "referenceCount": 74,
+      "citationCount": 122,
+      "authors": [
+        {
+          "authorId": "1704039",
+          "name": "Christos Boutsidis"
+        },
+        {
+          "authorId": "143982862",
+          "name": "David P. Woodruff"
+        },
+        {
+          "authorId": "1980148",
+          "name": "Peilin Zhong"
+        }
+      ]
+    },
+    {
+      "paperId": "89ea349966f299a19d672aed86023dc0ea9801a0",
+      "externalIds": {
+        "ArXiv": "1511.00152",
+        "MAG": "2120663175",
+        "DBLP": "journals/tit/AnarakiB17",
+        "DOI": "10.1109/TIT.2017.2672725",
+        "CorpusId": 277377
+      },
+      "url": "https://www.semanticscholar.org/paper/89ea349966f299a19d672aed86023dc0ea9801a0",
+      "title": "Preconditioned Data Sparsification for Big Data With Applications to PCA and K-Means",
+      "venue": "IEEE Transactions on Information Theory",
+      "year": 2015,
+      "referenceCount": 54,
+      "citationCount": 61,
+      "authors": [
+        {
+          "authorId": "1398664414",
+          "name": "F. Pourkamali-Anaraki"
+        },
+        {
+          "authorId": "50333204",
+          "name": "Stephen Becker"
+        }
+      ]
+    },
+    {
+      "paperId": "a85ef87fa0efe5e57d5f82f2b9227b7bd91557b2",
+      "externalIds": {
+        "DBLP": "journals/jota/BeckV16",
+        "MAG": "2953356653",
+        "ArXiv": "1507.08029",
+        "DOI": "10.1007/s10957-016-0934-x",
+        "CorpusId": 39178642
+      },
+      "url": "https://www.semanticscholar.org/paper/a85ef87fa0efe5e57d5f82f2b9227b7bd91557b2",
+      "title": "The Sparse Principal Component Analysis Problem: Optimality Conditions and Algorithms",
+      "venue": "Journal of Optimization Theory and Applications",
+      "year": 2015,
+      "referenceCount": 25,
+      "citationCount": 25,
+      "authors": [
+        {
+          "authorId": "40204991",
+          "name": "A. Beck"
+        },
+        {
+          "authorId": "3386000",
+          "name": "Yakov Vaisbourd"
+        }
+      ]
+    },
+    {
+      "paperId": "4804eb751fec4d944cd1a6a032642c01e360527b",
+      "externalIds": {
+        "DBLP": "conf/globalsip/HajinezhadH15",
+        "MAG": "2291545909",
+        "DOI": "10.1109/GlobalSIP.2015.7418196",
+        "CorpusId": 16831909
+      },
+      "url": "https://www.semanticscholar.org/paper/4804eb751fec4d944cd1a6a032642c01e360527b",
+      "title": "Nonconvex alternating direction method of multipliers for distributed sparse principal component analysis",
+      "venue": "IEEE Global Conference on Signal and Information Processing",
+      "year": 2015,
+      "referenceCount": 32,
+      "citationCount": 25,
+      "authors": [
+        {
+          "authorId": "3369291",
+          "name": "Davood Hajinezhad"
+        },
+        {
+          "authorId": "1793717",
+          "name": "Mingyi Hong"
+        }
+      ]
+    },
+    {
+      "paperId": "bc9dd433010ce83ee774415598fcb4d91503cfdf",
+      "externalIds": {
+        "MAG": "784903613",
+        "DOI": "10.1016/J.CHEMOLAB.2015.06.014",
+        "CorpusId": 118194312
+      },
+      "url": "https://www.semanticscholar.org/paper/bc9dd433010ce83ee774415598fcb4d91503cfdf",
+      "title": "Adaptive sparse principal component analysis for enhanced process monitoring and fault isolation",
+      "venue": "",
+      "year": 2015,
+      "referenceCount": 27,
+      "citationCount": 28,
+      "authors": [
+        {
+          "authorId": "10821436",
+          "name": "Kangling Liu"
+        },
+        {
+          "authorId": "9078239",
+          "name": "Zhengshun Fei"
+        },
+        {
+          "authorId": "103457305",
+          "name": "Bo-xuan Yue"
+        },
+        {
+          "authorId": "47663271",
+          "name": "Jun Liang"
+        },
+        {
+          "authorId": "2152781804",
+          "name": "Hai Lin"
+        }
+      ]
+    },
+    {
+      "paperId": "da9fb423bc2069312b35e60f3ef9275a0c9a649c",
+      "externalIds": {
+        "MAG": "2323374545",
+        "DOI": "10.14257/IJDTA.2015.8.6.06",
+        "CorpusId": 53362461
+      },
+      "url": "https://www.semanticscholar.org/paper/da9fb423bc2069312b35e60f3ef9275a0c9a649c",
+      "title": "A Literature Survey on High-Dimensional Sparse Principal Component Analysis",
+      "venue": "",
+      "year": 2015,
+      "referenceCount": 85,
+      "citationCount": 12,
+      "authors": [
+        {
+          "authorId": "1997195",
+          "name": "Ningmin Shen"
+        },
+        {
+          "authorId": "2113522759",
+          "name": "Li Jing"
+        }
+      ]
+    },
+    {
+      "paperId": "d00e58fb67c04d1125945a412598d044c32f54a8",
+      "externalIds": {
+        "DOI": "10.1007/s00180-015-0608-4",
+        "CorpusId": 253724296
+      },
+      "url": "https://www.semanticscholar.org/paper/d00e58fb67c04d1125945a412598d044c32f54a8",
+      "title": "Sparse principal component analysis subject to prespecified cardinality of loadings",
+      "venue": "Computational statistics (Zeitschrift)",
+      "year": 2015,
+      "referenceCount": 19,
+      "citationCount": 8,
+      "authors": [
+        {
+          "authorId": "50173264",
+          "name": "K. Adachi"
+        },
+        {
+          "authorId": "1692231",
+          "name": "N. Trendafilov"
+        }
+      ]
+    },
+    {
+      "paperId": "0a551e830da46b940ad7ae813305a5032a03a714",
+      "externalIds": {
+        "MAG": "1539830254",
+        "DOI": "10.1111/sjos.12106",
+        "CorpusId": 118683671
+      },
+      "url": "https://www.semanticscholar.org/paper/0a551e830da46b940ad7ae813305a5032a03a714",
+      "title": "Sparse Principal Component Analysis in Hilbert Space",
+      "venue": "",
+      "year": 2015,
+      "referenceCount": 30,
+      "citationCount": 16,
+      "authors": [
+        {
+          "authorId": "1491552358",
+          "name": "Xin Qi"
+        },
+        {
+          "authorId": "50357158",
+          "name": "Ruiyan Luo"
+        }
+      ]
+    },
+    {
+      "paperId": "17a4760d8dfb432820d7ebde6f632f83043571f9",
+      "externalIds": {
+        "MAG": "1791934516",
+        "DOI": "10.1111/anzs.12128",
+        "CorpusId": 120010644
+      },
+      "url": "https://www.semanticscholar.org/paper/17a4760d8dfb432820d7ebde6f632f83043571f9",
+      "title": "Least Squares Sparse Principal Component Analysis: A Backward Elimination Approach to Attain Large Loadings",
+      "venue": "",
+      "year": 2015,
+      "referenceCount": 40,
+      "citationCount": 11,
+      "authors": [
+        {
+          "authorId": "48324704",
+          "name": "G. Merola"
+        }
+      ]
+    }
+  ]
+}

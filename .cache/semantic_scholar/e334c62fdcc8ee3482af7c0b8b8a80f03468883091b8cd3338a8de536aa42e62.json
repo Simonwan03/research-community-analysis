@@ -1,0 +1,68 @@
+{
+  "total": 2,
+  "offset": 0,
+  "data": [
+    {
+      "paperId": "4f721cb807f3825a052b78055d750a5cd57bfa7d",
+      "externalIds": {
+        "MAG": "2949363122",
+        "ArXiv": "1805.11640",
+        "DBLP": "conf/icml/HammN18",
+        "CorpusId": 46950557
+      },
+      "url": "https://www.semanticscholar.org/paper/4f721cb807f3825a052b78055d750a5cd57bfa7d",
+      "title": "K-Beam Minimax: Efficient Optimization for Deep Adversarial Learning",
+      "venue": "International Conference on Machine Learning",
+      "year": 2018,
+      "referenceCount": 30,
+      "citationCount": 8,
+      "authors": [
+        {
+          "authorId": "4832622",
+          "name": "Jihun Hamm"
+        },
+        {
+          "authorId": "3001360",
+          "name": "Yung-Kyun Noh"
+        }
+      ]
+    },
+    {
+      "paperId": "fcf23df0165e23a63c521eb97a0583a40a1f535f",
+      "externalIds": {
+        "ArXiv": "2309.05794",
+        "DOI": "10.1109/tnnls.2025.3631742",
+        "CorpusId": 261697158,
+        "PubMed": "41533627"
+      },
+      "url": "https://www.semanticscholar.org/paper/fcf23df0165e23a63c521eb97a0583a40a1f535f",
+      "title": "Robust Physics-Based Deep MRI Reconstruction via Diffusion Purification.",
+      "venue": "IEEE Transactions on Neural Networks and Learning Systems",
+      "year": 2023,
+      "referenceCount": 63,
+      "citationCount": 6,
+      "authors": [
+        {
+          "authorId": "2239107024",
+          "name": "Ismail Alkhouri"
+        },
+        {
+          "authorId": "145666852",
+          "name": "S. Liang"
+        },
+        {
+          "authorId": "2239167562",
+          "name": "Rongrong Wang"
+        },
+        {
+          "authorId": "144403436",
+          "name": "Qing Qu"
+        },
+        {
+          "authorId": "145233481",
+          "name": "S. Ravishankar"
+        }
+      ]
+    }
+  ]
+}

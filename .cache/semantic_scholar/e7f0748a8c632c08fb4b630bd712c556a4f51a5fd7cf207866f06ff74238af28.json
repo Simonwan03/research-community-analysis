@@ -1,0 +1,288 @@
+{
+  "total": 514,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "80be51e6146fdb820ee8df4847437801bbc5e965",
+      "externalIds": {
+        "DBLP": "conf/icml/DegenneP16",
+        "MAG": "2466101409",
+        "CorpusId": 3222762
+      },
+      "url": "https://www.semanticscholar.org/paper/80be51e6146fdb820ee8df4847437801bbc5e965",
+      "title": "Anytime optimal algorithms in stochastic multi-armed bandits",
+      "venue": "International Conference on Machine Learning",
+      "year": 2016,
+      "referenceCount": 18,
+      "citationCount": 65,
+      "authors": [
+        {
+          "authorId": "2265072391",
+          "name": "Rémy Degenne"
+        },
+        {
+          "authorId": "3087994",
+          "name": "Vianney Perchet"
+        }
+      ]
+    },
+    {
+      "paperId": "fb366884d3aac0e821b3f3d09628cc07a972bcdb",
+      "externalIds": {
+        "ArXiv": "2406.05710",
+        "DBLP": "journals/corr/abs-2406-05710",
+        "DOI": "10.48550/arXiv.2406.05710",
+        "CorpusId": 270372024
+      },
+      "url": "https://www.semanticscholar.org/paper/fb366884d3aac0e821b3f3d09628cc07a972bcdb",
+      "title": "Data-Driven Upper Confidence Bounds with Near-Optimal Regret for Heavy-Tailed Bandits",
+      "venue": "International Conference on Artificial Intelligence and Statistics",
+      "year": 2024,
+      "referenceCount": 22,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "2052371846",
+          "name": "Ambrus Tam'as"
+        },
+        {
+          "authorId": "2203368957",
+          "name": "Szabolcs Szentp'eteri"
+        },
+        {
+          "authorId": "2305616192",
+          "name": "Bal'azs Csan'ad Cs'aji"
+        }
+      ]
+    },
+    {
+      "paperId": "d2d155cd05bcce1a98f16a504343bac308af5453",
+      "externalIds": {
+        "DBLP": "conf/nips/LeeYLO20",
+        "ArXiv": "2010.12866",
+        "MAG": "3098352209",
+        "CorpusId": 225068852
+      },
+      "url": "https://www.semanticscholar.org/paper/d2d155cd05bcce1a98f16a504343bac308af5453",
+      "title": "Optimal Algorithms for Stochastic Multi-Armed Bandits with Heavy Tailed Rewards",
+      "venue": "Neural Information Processing Systems",
+      "year": 2020,
+      "referenceCount": 21,
+      "citationCount": 33,
+      "authors": [
+        {
+          "authorId": "2109976613",
+          "name": "Kyungjae Lee"
+        },
+        {
+          "authorId": "2118569886",
+          "name": "Hongjun Yang"
+        },
+        {
+          "authorId": "26381055",
+          "name": "Sungbin Lim"
+        },
+        {
+          "authorId": "34184385",
+          "name": "Songhwai Oh"
+        }
+      ]
+    },
+    {
+      "paperId": "c4822ffa625f2c98cb481fb6b8318248db26a2da",
+      "externalIds": {
+        "DBLP": "conf/mlsp/WangT25",
+        "DOI": "10.1109/MLSP62443.2025.11204293",
+        "CorpusId": 282323929
+      },
+      "url": "https://www.semanticscholar.org/paper/c4822ffa625f2c98cb481fb6b8318248db26a2da",
+      "title": "Learning from Multiple Noisily Optimal Demonstrators in Stochastic Multi Armed Bandits",
+      "venue": "International Workshop on Machine Learning for Signal Processing",
+      "year": 2025,
+      "referenceCount": 13,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2384402960",
+          "name": "Hongyu Wang"
+        },
+        {
+          "authorId": "2025955",
+          "name": "Panagiotis A. Traganitis"
+        }
+      ]
+    },
+    {
+      "paperId": "144f5651fef33a30de0c6b4cdc6c577236f7891e",
+      "externalIds": {
+        "DBLP": "conf/soda/0006Y025",
+        "ArXiv": "2405.19752",
+        "DOI": "10.48550/arXiv.2405.19752",
+        "CorpusId": 270123714
+      },
+      "url": "https://www.semanticscholar.org/paper/144f5651fef33a30de0c6b4cdc6c577236f7891e",
+      "title": "Understanding Memory-Regret Trade-Off for Streaming Stochastic Multi-Armed Bandits",
+      "venue": "ACM-SIAM Symposium on Discrete Algorithms",
+      "year": 2024,
+      "referenceCount": 23,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "2303845250",
+          "name": "Yuchen He"
+        },
+        {
+          "authorId": "2304362657",
+          "name": "Zichun Ye"
+        },
+        {
+          "authorId": "2303979788",
+          "name": "Chihao Zhang"
+        }
+      ]
+    },
+    {
+      "paperId": "3536d373c44a6eae7c06e7d2afc9f26c6d07f0e9",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2510-06683",
+        "ArXiv": "2510.06683",
+        "DOI": "10.48550/arXiv.2510.06683",
+        "CorpusId": 281891757
+      },
+      "url": "https://www.semanticscholar.org/paper/3536d373c44a6eae7c06e7d2afc9f26c6d07f0e9",
+      "title": "Distributed Algorithms for Multi-Agent Multi-Armed Bandits with Collision",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "referenceCount": 24,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2384821699",
+          "name": "Daoyuan Zhou"
+        },
+        {
+          "authorId": "2163841378",
+          "name": "Xuchuang Wang"
+        },
+        {
+          "authorId": "2334749224",
+          "name": "Lin Yang"
+        },
+        {
+          "authorId": "2376358405",
+          "name": "Yang Gao"
+        }
+      ]
+    },
+    {
+      "paperId": "9d4c7e0cdd6add334f926c2b5ffcb775cc0ffa15",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2310-19821",
+        "ArXiv": "2310.19821",
+        "DOI": "10.1109/ICDMW60847.2023.00040",
+        "CorpusId": 264815925
+      },
+      "url": "https://www.semanticscholar.org/paper/9d4c7e0cdd6add334f926c2b5ffcb775cc0ffa15",
+      "title": "A Risk-Averse Framework for Non-Stationary Stochastic Multi-Armed Bandits",
+      "venue": "2023 IEEE International Conference on Data Mining Workshops (ICDMW)",
+      "year": 2023,
+      "referenceCount": 31,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2239099641",
+          "name": "Réda Alami"
+        },
+        {
+          "authorId": "2346980549",
+          "name": "Mohammed Mahfoud"
+        },
+        {
+          "authorId": "22169077",
+          "name": "Mastane Achab"
+        }
+      ]
+    },
+    {
+      "paperId": "0a8c5191e707c802b5aa761b627c3ee328e1d281",
+      "externalIds": {
+        "DBLP": "conf/aistats/TangWZ24",
+        "CorpusId": 269648429
+      },
+      "url": "https://www.semanticscholar.org/paper/0a8c5191e707c802b5aa761b627c3ee328e1d281",
+      "title": "Stochastic Multi-Armed Bandits with Strongly Reward-Dependent Delays",
+      "venue": "International Conference on Artificial Intelligence and Statistics",
+      "year": 2024,
+      "referenceCount": 38,
+      "citationCount": 7,
+      "authors": [
+        {
+          "authorId": "2300545004",
+          "name": "Yifu Tang"
+        },
+        {
+          "authorId": "2275995907",
+          "name": "Yingfei Wang"
+        },
+        {
+          "authorId": "2265468276",
+          "name": "Zeyu Zheng"
+        }
+      ]
+    },
+    {
+      "paperId": "91ce472544e1d83f1ab3e7e0474840a48093f67c",
+      "externalIds": {
+        "ArXiv": "2411.06501",
+        "DBLP": "journals/corr/abs-2411-06501",
+        "DOI": "10.48550/arXiv.2411.06501",
+        "CorpusId": 273962827
+      },
+      "url": "https://www.semanticscholar.org/paper/91ce472544e1d83f1ab3e7e0474840a48093f67c",
+      "title": "Individual Regret in Cooperative Stochastic Multi-Armed Bandits",
+      "venue": "arXiv.org",
+      "year": 2024,
+      "referenceCount": 0,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2330186258",
+          "name": "Idan Barnea"
+        },
+        {
+          "authorId": "2043232463",
+          "name": "Tal Lancewicki"
+        },
+        {
+          "authorId": "2271163279",
+          "name": "Yishay Mansour"
+        }
+      ]
+    },
+    {
+      "paperId": "908f504efe562152e404f0b747ea4942281b007f",
+      "externalIds": {
+        "DBLP": "journals/jair/XuX25",
+        "DOI": "10.1613/jair.1.16261",
+        "CorpusId": 277543793
+      },
+      "url": "https://www.semanticscholar.org/paper/908f504efe562152e404f0b747ea4942281b007f",
+      "title": "A New Regret-analysis Framework for Budgeted Multi-Armed Bandits",
+      "venue": "Journal of Artificial Intelligence Research",
+      "year": 2025,
+      "referenceCount": 0,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2284243923",
+          "name": "Evan Yifan Xu"
+        },
+        {
+          "authorId": "2284397442",
+          "name": "Pan Xu"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,311 @@
+{
+  "total": 31,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "ca01f6f2600db3165e7a5dee6d3d2582f71eb4dd",
+      "externalIds": {
+        "MAG": "2270051965",
+        "DBLP": "journals/corr/GonenOS16",
+        "ArXiv": "1602.02350",
+        "CorpusId": 3263122
+      },
+      "url": "https://www.semanticscholar.org/paper/ca01f6f2600db3165e7a5dee6d3d2582f71eb4dd",
+      "title": "Solving Ridge Regression using Sketched Preconditioned SVRG",
+      "venue": "International Conference on Machine Learning",
+      "year": 2016,
+      "referenceCount": 26,
+      "citationCount": 49,
+      "authors": [
+        {
+          "authorId": "40048435",
+          "name": "Alon Gonen"
+        },
+        {
+          "authorId": "1721068",
+          "name": "Francesco Orabona"
+        },
+        {
+          "authorId": "1389955537",
+          "name": "S. Shalev-Shwartz"
+        }
+      ]
+    },
+    {
+      "paperId": "f95cded3c092803ba92cc6b1c0cfa71ab551d07e",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2407-10070",
+        "DOI": "10.48550/arXiv.2407.10070",
+        "CorpusId": 271213659
+      },
+      "url": "https://www.semanticscholar.org/paper/f95cded3c092803ba92cc6b1c0cfa71ab551d07e",
+      "title": "Have ASkotch: Fast Methods for Large-scale, Memory-constrained Kernel Ridge Regression",
+      "venue": "arXiv.org",
+      "year": 2024,
+      "referenceCount": 55,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "103019187",
+          "name": "Pratik Rathore"
+        },
+        {
+          "authorId": "2120160472",
+          "name": "Zachary Frangella"
+        },
+        {
+          "authorId": "2237800950",
+          "name": "Madeleine Udell"
+        }
+      ]
+    },
+    {
+      "paperId": "489f3f36a0606f03155701030081d98cc7090754",
+      "externalIds": {
+        "DBLP": "journals/siammax/AvronCW17",
+        "MAG": "2950240514",
+        "ArXiv": "1611.03220",
+        "DOI": "10.1137/16M1105396",
+        "CorpusId": 3881777
+      },
+      "url": "https://www.semanticscholar.org/paper/489f3f36a0606f03155701030081d98cc7090754",
+      "title": "Faster Kernel Ridge Regression Using Sketching and Preconditioning",
+      "venue": "SIAM Journal on Matrix Analysis and Applications",
+      "year": 2016,
+      "referenceCount": 42,
+      "citationCount": 132,
+      "authors": [
+        {
+          "authorId": "1922753",
+          "name": "H. Avron"
+        },
+        {
+          "authorId": "2055593",
+          "name": "K. Clarkson"
+        },
+        {
+          "authorId": "143982862",
+          "name": "David P. Woodruff"
+        }
+      ]
+    },
+    {
+      "paperId": "4cdc987f3246247a95c2ac5caac85589771da944",
+      "externalIds": {
+        "ArXiv": "2506.03070",
+        "DBLP": "journals/corr/abs-2506-03070",
+        "DOI": "10.48550/arXiv.2506.03070",
+        "CorpusId": 279119663
+      },
+      "url": "https://www.semanticscholar.org/paper/4cdc987f3246247a95c2ac5caac85589771da944",
+      "title": "GPU-Parallelizable Randomized Sketch-and-Precondition for Linear Regression using Sparse Sign Sketches",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "referenceCount": 62,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "2358121224",
+          "name": "Tyler Chen"
+        },
+        {
+          "authorId": "36901237",
+          "name": "Pradeep Niroula"
+        },
+        {
+          "authorId": "2358043897",
+          "name": "Archan Ray"
+        },
+        {
+          "authorId": "2365006889",
+          "name": "Pragna Subrahmanya"
+        },
+        {
+          "authorId": "2300174024",
+          "name": "Marco Pistoia"
+        },
+        {
+          "authorId": "2241320323",
+          "name": "Niraj Kumar"
+        }
+      ]
+    },
+    {
+      "paperId": "5c31a04aa9c5d02b2863ec62b287b8d3a6496e8b",
+      "externalIds": {
+        "ArXiv": "2506.17556",
+        "DBLP": "journals/corr/abs-2506-17556",
+        "DOI": "10.48550/arXiv.2506.17556",
+        "CorpusId": 280000606
+      },
+      "url": "https://www.semanticscholar.org/paper/5c31a04aa9c5d02b2863ec62b287b8d3a6496e8b",
+      "title": "Faster Low-Rank Approximation and Kernel Ridge Regression via the Block-Nyström Method",
+      "venue": "Annual Conference Computational Learning Theory",
+      "year": 2025,
+      "referenceCount": 44,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2297848726",
+          "name": "Sachin Garg"
+        },
+        {
+          "authorId": "2307008933",
+          "name": "Michał Dereziński"
+        }
+      ]
+    },
+    {
+      "paperId": "bdc0063ad883585d072f8462a2a3730adf1ebe87",
+      "externalIds": {
+        "MAG": "2590556189",
+        "DBLP": "journals/corr/WangGM17",
+        "ArXiv": "1702.04837",
+        "CorpusId": 1987944
+      },
+      "url": "https://www.semanticscholar.org/paper/bdc0063ad883585d072f8462a2a3730adf1ebe87",
+      "title": "Sketched Ridge Regression: Optimization Perspective, Statistical Perspective, and Model Averaging",
+      "venue": "International Conference on Machine Learning",
+      "year": 2017,
+      "referenceCount": 46,
+      "citationCount": 86,
+      "authors": [
+        {
+          "authorId": "145940973",
+          "name": "Shusen Wang"
+        },
+        {
+          "authorId": "9545803",
+          "name": "Alex Gittens"
+        },
+        {
+          "authorId": "143884206",
+          "name": "Michael W. Mahoney"
+        }
+      ]
+    },
+    {
+      "paperId": "b24fddbee25d450b5bcc04919e91d4586a18315c",
+      "externalIds": {
+        "DBLP": "journals/ijon/ZhangZLY20",
+        "MAG": "3041966344",
+        "DOI": "10.1016/j.neucom.2020.06.092",
+        "CorpusId": 224770614
+      },
+      "url": "https://www.semanticscholar.org/paper/b24fddbee25d450b5bcc04919e91d4586a18315c",
+      "title": "Gradient preconditioned mini-batch SGD for ridge regression",
+      "venue": "Neurocomputing",
+      "year": 2020,
+      "referenceCount": 24,
+      "citationCount": 9,
+      "authors": [
+        {
+          "authorId": "2109108730",
+          "name": "Zhuan Zhang"
+        },
+        {
+          "authorId": "34678057",
+          "name": "Shuisheng Zhou"
+        },
+        {
+          "authorId": "48108622",
+          "name": "Dong Li"
+        },
+        {
+          "authorId": "2122813817",
+          "name": "Ting Yang"
+        }
+      ]
+    },
+    {
+      "paperId": "0bb0a502b8c6b6e65f704bfdafa0097236a779e7",
+      "externalIds": {
+        "DBLP": "conf/soda/DerezinskiMY25",
+        "ArXiv": "2405.05865",
+        "DOI": "10.48550/arXiv.2405.05865",
+        "CorpusId": 269635424
+      },
+      "url": "https://www.semanticscholar.org/paper/0bb0a502b8c6b6e65f704bfdafa0097236a779e7",
+      "title": "Faster Linear Systems and Matrix Norm Approximation via Multi-level Sketched Preconditioning",
+      "venue": "ACM-SIAM Symposium on Discrete Algorithms",
+      "year": 2024,
+      "referenceCount": 88,
+      "citationCount": 9,
+      "authors": [
+        {
+          "authorId": "2267239914",
+          "name": "Michal Derezi'nski"
+        },
+        {
+          "authorId": "2275240652",
+          "name": "Christopher Musco"
+        },
+        {
+          "authorId": "2109729010",
+          "name": "Jiaming Yang"
+        }
+      ]
+    },
+    {
+      "paperId": "0f4da90e9512defaa502cf0609443b63601b26e0",
+      "externalIds": {
+        "MAG": "3014783709",
+        "CorpusId": 216989361
+      },
+      "url": "https://www.semanticscholar.org/paper/0f4da90e9512defaa502cf0609443b63601b26e0",
+      "title": "Sketched ridge regression",
+      "venue": "",
+      "year": 2017,
+      "referenceCount": 0,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "150341818",
+          "name": "WangShusen"
+        },
+        {
+          "authorId": "1581614310",
+          "name": "GittensAlex"
+        },
+        {
+          "authorId": "1581615449",
+          "name": "W. MahoneyMichael"
+        }
+      ]
+    },
+    {
+      "paperId": "234eca2418b8854174a2a3b605c383088fd36dea",
+      "externalIds": {
+        "ArXiv": "2405.05818",
+        "DBLP": "journals/jmlr/DerezinskiLNR25",
+        "DOI": "10.48550/arXiv.2405.05818",
+        "CorpusId": 269635231
+      },
+      "url": "https://www.semanticscholar.org/paper/234eca2418b8854174a2a3b605c383088fd36dea",
+      "title": "Fine-grained Analysis and Faster Algorithms for Iteratively Solving Linear Systems",
+      "venue": "Journal of machine learning research",
+      "year": 2024,
+      "referenceCount": 114,
+      "citationCount": 14,
+      "authors": [
+        {
+          "authorId": "2267239914",
+          "name": "Michal Derezi'nski"
+        },
+        {
+          "authorId": "2300369184",
+          "name": "Daniel LeJeune"
+        },
+        {
+          "authorId": "2283207460",
+          "name": "Deanna Needell"
+        },
+        {
+          "authorId": "12890978",
+          "name": "E. Rebrova"
+        }
+      ]
+    }
+  ]
+}

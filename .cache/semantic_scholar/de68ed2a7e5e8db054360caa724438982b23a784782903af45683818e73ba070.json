@@ -1,0 +1,332 @@
+{
+  "total": 169,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "485fab5085e689f3301935a4e57dfa4762bbdad0",
+      "externalIds": {
+        "DBLP": "conf/icml/SchlegelPCW17",
+        "MAG": "2740764198",
+        "CorpusId": 716475
+      },
+      "url": "https://www.semanticscholar.org/paper/485fab5085e689f3301935a4e57dfa4762bbdad0",
+      "title": "Adapting Kernel Representations Online Using Submodular Maximization",
+      "venue": "International Conference on Machine Learning",
+      "year": 2017,
+      "referenceCount": 38,
+      "citationCount": 12,
+      "authors": [
+        {
+          "authorId": "145304454",
+          "name": "M. Schlegel"
+        },
+        {
+          "authorId": "7303313",
+          "name": "Yangchen Pan"
+        },
+        {
+          "authorId": "2809410",
+          "name": "Jiecao Chen"
+        },
+        {
+          "authorId": "144542337",
+          "name": "Martha White"
+        }
+      ]
+    },
+    {
+      "paperId": "7adc5bfc47e15fdcaa5a9fa55805bcc2a5213b84",
+      "externalIds": {
+        "ArXiv": "2403.10991",
+        "CorpusId": 268513321
+      },
+      "url": "https://www.semanticscholar.org/paper/7adc5bfc47e15fdcaa5a9fa55805bcc2a5213b84",
+      "title": "Human-in-the-Loop Multi-Robot Information Gathering with Inverse Submodular Maximization",
+      "venue": "",
+      "year": 2024,
+      "referenceCount": 70,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "2292015106",
+          "name": "Guangyao Shi"
+        },
+        {
+          "authorId": "2244138580",
+          "name": "Shipeng Liu"
+        },
+        {
+          "authorId": "151479011",
+          "name": "Ellen R. Novoseller"
+        },
+        {
+          "authorId": "2309248148",
+          "name": "Feifei Qian"
+        },
+        {
+          "authorId": "1732493",
+          "name": "G. Sukhatme"
+        }
+      ]
+    },
+    {
+      "paperId": "4b7ad7269c9043d85ad2342f72fa9b2b77bac592",
+      "externalIds": {
+        "MAG": "3134894493",
+        "DOI": "10.1111/poms.13359",
+        "CorpusId": 229711370
+      },
+      "url": "https://www.semanticscholar.org/paper/4b7ad7269c9043d85ad2342f72fa9b2b77bac592",
+      "title": "Cascade Submodular Maximization: Question Selection and Sequencing in Online Personality Quiz",
+      "venue": "Production and operations management",
+      "year": 2021,
+      "referenceCount": 67,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "1682309",
+          "name": "Shaojie Tang"
+        },
+        {
+          "authorId": "145078771",
+          "name": "Jing Yuan"
+        }
+      ]
+    },
+    {
+      "paperId": "07457995c62aedf8d12cefcfd88816bdd7e4fb89",
+      "externalIds": {
+        "DBLP": "journals/snam/PanagopoulosTVPM24",
+        "DOI": "10.1007/s13278-024-01311-z",
+        "CorpusId": 244909431
+      },
+      "url": "https://www.semanticscholar.org/paper/07457995c62aedf8d12cefcfd88816bdd7e4fb89",
+      "title": "Learning graph representations for influence maximization",
+      "venue": "Social Network Analysis and Mining",
+      "year": 2024,
+      "referenceCount": 63,
+      "citationCount": 8,
+      "authors": [
+        {
+          "authorId": "34702974",
+          "name": "G. Panagopoulos"
+        },
+        {
+          "authorId": "2223282",
+          "name": "Nikolaos Tziortziotis"
+        },
+        {
+          "authorId": "2817467",
+          "name": "Fragkiskos D. Malliaros"
+        },
+        {
+          "authorId": "1690383",
+          "name": "M. Vazirgiannis"
+        }
+      ]
+    },
+    {
+      "paperId": "870819c236eb93755549ae81fb899a32e191b234",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2601-10901",
+        "ArXiv": "2601.10901",
+        "DOI": "10.48550/arXiv.2601.10901",
+        "CorpusId": 284860504
+      },
+      "url": "https://www.semanticscholar.org/paper/870819c236eb93755549ae81fb899a32e191b234",
+      "title": "Streaming Stochastic Submodular Maximization with On-Demand User Requests",
+      "venue": "arXiv.org",
+      "year": 2026,
+      "referenceCount": 45,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2284134705",
+          "name": "Honglian Wang"
+        },
+        {
+          "authorId": "2335558451",
+          "name": "Sijing Tu"
+        },
+        {
+          "authorId": "40892978",
+          "name": "Lutz Oettershagen"
+        },
+        {
+          "authorId": "1682878",
+          "name": "A. Gionis"
+        }
+      ]
+    },
+    {
+      "paperId": "1e223ce8143d8d294df1227986919a05918bab64",
+      "externalIds": {
+        "ArXiv": "2307.03641",
+        "DBLP": "journals/corr/abs-2307-03641",
+        "DOI": "10.48550/arXiv.2307.03641",
+        "CorpusId": 259375631
+      },
+      "url": "https://www.semanticscholar.org/paper/1e223ce8143d8d294df1227986919a05918bab64",
+      "title": "Online Network Source Optimization with Graph-Kernel MAB",
+      "venue": "ECML/PKDD",
+      "year": 2023,
+      "referenceCount": 58,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "144228516",
+          "name": "L. Toni"
+        },
+        {
+          "authorId": "1703189",
+          "name": "P. Frossard"
+        }
+      ]
+    },
+    {
+      "paperId": "397a4037e1d69a1cbca4d8d5e0d58047c7949705",
+      "externalIds": {
+        "ArXiv": "2604.01794",
+        "CorpusId": 287072008
+      },
+      "url": "https://www.semanticscholar.org/paper/397a4037e1d69a1cbca4d8d5e0d58047c7949705",
+      "title": "Tree-Adaptive Multiscale Kernel Lasso in Samplet Coordinates",
+      "venue": "",
+      "year": 2026,
+      "referenceCount": 42,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2322442874",
+          "name": "Sara Avesani"
+        },
+        {
+          "authorId": "2427424038",
+          "name": "Gaia Fumagalli"
+        },
+        {
+          "authorId": "2296717576",
+          "name": "Michael D. Multerer"
+        },
+        {
+          "authorId": "81674538",
+          "name": "C. Segala"
+        }
+      ]
+    },
+    {
+      "paperId": "833b22283fdf69b153f8ce369880b1128153700e",
+      "externalIds": {
+        "ArXiv": "2503.00655",
+        "DOI": "10.1162/neco.a.1511",
+        "CorpusId": 276741207
+      },
+      "url": "https://www.semanticscholar.org/paper/833b22283fdf69b153f8ce369880b1128153700e",
+      "title": "Implicit Generative Modeling by Kernel Similarity Matching",
+      "venue": "Neural Computation",
+      "year": 2025,
+      "referenceCount": 74,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2329220283",
+          "name": "Shubham Choudhary"
+        },
+        {
+          "authorId": "32544070",
+          "name": "P. Masset"
+        },
+        {
+          "authorId": "2278431642",
+          "name": "Demba Ba"
+        }
+      ]
+    },
+    {
+      "paperId": "d292afe60e4ddd14a6b1aa628936387a7f0a51b9",
+      "externalIds": {
+        "ArXiv": "2201.09065",
+        "DBLP": "journals/kbs/ChenYYWDG23",
+        "DOI": "10.1016/j.knosys.2023.110902",
+        "CorpusId": 246241000
+      },
+      "url": "https://www.semanticscholar.org/paper/d292afe60e4ddd14a6b1aa628936387a7f0a51b9",
+      "title": "Online Attentive Kernel-Based Temporal Difference Learning",
+      "venue": "Knowledge-Based Systems",
+      "year": 2022,
+      "referenceCount": 38,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "2149521281",
+          "name": "Guang Yang"
+        },
+        {
+          "authorId": "2118652926",
+          "name": "Xingguo Chen"
+        },
+        {
+          "authorId": "3385090",
+          "name": "Shangdong Yang"
+        },
+        {
+          "authorId": "2108868539",
+          "name": "Huihui Wang"
+        },
+        {
+          "authorId": "23218185",
+          "name": "Shaokang Dong"
+        },
+        {
+          "authorId": "145644819",
+          "name": "Yang Gao"
+        }
+      ]
+    },
+    {
+      "paperId": "77e7e3737b0b73a8f1cd978ab63aa78e43a07702",
+      "externalIds": {
+        "DBLP": "conf/kdd/WuTLHMXG25",
+        "DOI": "10.1145/3711896.3737275",
+        "CorpusId": 280610010
+      },
+      "url": "https://www.semanticscholar.org/paper/77e7e3737b0b73a8f1cd978ab63aa78e43a07702",
+      "title": "Aligning and Balancing ID and Multimodal Representations for Recommendation",
+      "venue": "Knowledge Discovery and Data Mining",
+      "year": 2025,
+      "referenceCount": 57,
+      "citationCount": 9,
+      "authors": [
+        {
+          "authorId": "2376082678",
+          "name": "Binrui Wu"
+        },
+        {
+          "authorId": "2163425747",
+          "name": "Shisong Tang"
+        },
+        {
+          "authorId": "2306463229",
+          "name": "Fan Li"
+        },
+        {
+          "authorId": "2376146074",
+          "name": "Bing Han"
+        },
+        {
+          "authorId": "2180167214",
+          "name": "Chang Meng"
+        },
+        {
+          "authorId": "2330405590",
+          "name": "Jingyu Xiao"
+        },
+        {
+          "authorId": "2359774167",
+          "name": "Jiechao Gao"
+        }
+      ]
+    }
+  ]
+}

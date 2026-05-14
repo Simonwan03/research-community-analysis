@@ -1,0 +1,323 @@
+{
+  "total": 4102,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "ef3152106e7f4d05ad8d32a5b90d3790c5cdef24",
+      "externalIds": {
+        "MAG": "2963755273",
+        "DBLP": "conf/icml/HenaffSL16",
+        "ArXiv": "1602.06662",
+        "CorpusId": 1158122
+      },
+      "url": "https://www.semanticscholar.org/paper/ef3152106e7f4d05ad8d32a5b90d3790c5cdef24",
+      "title": "Recurrent Orthogonal Networks and Long-Memory Tasks",
+      "venue": "International Conference on Machine Learning",
+      "year": 2016,
+      "referenceCount": 20,
+      "citationCount": 140,
+      "authors": [
+        {
+          "authorId": "39713408",
+          "name": "Mikael Henaff"
+        },
+        {
+          "authorId": "3149531",
+          "name": "Arthur Szlam"
+        },
+        {
+          "authorId": "1688882",
+          "name": "Yann LeCun"
+        }
+      ]
+    },
+    {
+      "paperId": "2cbed721c2f9e60b4199a515262b8c22229e7358",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2508-21172",
+        "ArXiv": "2508.21172",
+        "DOI": "10.48550/arXiv.2508.21172",
+        "CorpusId": 280985225
+      },
+      "url": "https://www.semanticscholar.org/paper/2cbed721c2f9e60b4199a515262b8c22229e7358",
+      "title": "Deep Residual Echo State Networks: exploring residual orthogonal connections in untrained Recurrent Neural Networks",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "referenceCount": 29,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2375817773",
+          "name": "Matteo Pinna"
+        },
+        {
+          "authorId": "51152603",
+          "name": "Andrea Ceni"
+        },
+        {
+          "authorId": "2158038",
+          "name": "C. Gallicchio"
+        }
+      ]
+    },
+    {
+      "paperId": "83a9b7ff19b34038b753ffd67279d40d774b927a",
+      "externalIds": {
+        "DBLP": "conf/ijcnn/PinnaCG25",
+        "ArXiv": "2508.09925",
+        "DOI": "10.1109/IJCNN64981.2025.11227859",
+        "CorpusId": 280641946
+      },
+      "url": "https://www.semanticscholar.org/paper/83a9b7ff19b34038b753ffd67279d40d774b927a",
+      "title": "Residual Reservoir Memory Networks",
+      "venue": "IEEE International Joint Conference on Neural Network",
+      "year": 2025,
+      "referenceCount": 19,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2375817773",
+          "name": "Matteo Pinna"
+        },
+        {
+          "authorId": "51152603",
+          "name": "Andrea Ceni"
+        },
+        {
+          "authorId": "2158038",
+          "name": "C. Gallicchio"
+        }
+      ]
+    },
+    {
+      "paperId": "6cb58950fca187aafae989e9643bbae646111174",
+      "externalIds": {
+        "MAG": "3153334171",
+        "DBLP": "journals/ijon/CartaSB21",
+        "DOI": "10.1016/J.NEUCOM.2021.04.051",
+        "CorpusId": 234810100
+      },
+      "url": "https://www.semanticscholar.org/paper/6cb58950fca187aafae989e9643bbae646111174",
+      "title": "Encoding-based memory for recurrent neural networks",
+      "venue": "Neurocomputing",
+      "year": 2021,
+      "referenceCount": 0,
+      "citationCount": 5,
+      "authors": [
+        {
+          "authorId": "144689520",
+          "name": "Antonio Carta"
+        },
+        {
+          "authorId": "1749815",
+          "name": "A. Sperduti"
+        },
+        {
+          "authorId": "3224102",
+          "name": "D. Bacciu"
+        }
+      ]
+    },
+    {
+      "paperId": "fef1ef8d71d8c668e7fe15a807729d2d1d63ad15",
+      "externalIds": {
+        "DBLP": "journals/neco/ZadorozhnyyMPNY24",
+        "ArXiv": "2208.06496",
+        "DOI": "10.1162/neco_a_01710",
+        "CorpusId": 251564694,
+        "PubMed": "39312497"
+      },
+      "url": "https://www.semanticscholar.org/paper/fef1ef8d71d8c668e7fe15a807729d2d1d63ad15",
+      "title": "Orthogonal Gated Recurrent Unit With Neumann-Cayley Transformation",
+      "venue": "Neural Computation",
+      "year": 2022,
+      "referenceCount": 37,
+      "citationCount": 7,
+      "authors": [
+        {
+          "authorId": "2181503088",
+          "name": "Edison Mucllari"
+        },
+        {
+          "authorId": "2032263714",
+          "name": "Vasily Zadorozhnyy"
+        },
+        {
+          "authorId": "2181503182",
+          "name": "Cole Pospisil"
+        },
+        {
+          "authorId": "2112293465",
+          "name": "D. Nguyen"
+        },
+        {
+          "authorId": "96967408",
+          "name": "Qiang Ye"
+        }
+      ]
+    },
+    {
+      "paperId": "85cf0c8a1dc562d831eb0eb4f3ee74d4b639a917",
+      "externalIds": {
+        "MAG": "2963632128",
+        "DBLP": "conf/iclr/DiPietroRNH18",
+        "ArXiv": "1702.07805",
+        "CorpusId": 5044692
+      },
+      "url": "https://www.semanticscholar.org/paper/85cf0c8a1dc562d831eb0eb4f3ee74d4b639a917",
+      "title": "Analyzing and Exploiting NARX Recurrent Neural Networks for Long-Term Dependencies",
+      "venue": "International Conference on Learning Representations",
+      "year": 2017,
+      "referenceCount": 45,
+      "citationCount": 26,
+      "authors": [
+        {
+          "authorId": "33452695",
+          "name": "R. DiPietro"
+        },
+        {
+          "authorId": "49359942",
+          "name": "C. Rupprecht"
+        },
+        {
+          "authorId": "145587210",
+          "name": "Nassir Navab"
+        },
+        {
+          "authorId": "1678633",
+          "name": "Gregory Hager"
+        }
+      ]
+    },
+    {
+      "paperId": "0b586476892acfa16e1da9ccdeeb396743f35843",
+      "externalIds": {
+        "DBLP": "journals/corr/DiPietroNH17",
+        "MAG": "2593182119",
+        "CorpusId": 5195878
+      },
+      "url": "https://www.semanticscholar.org/paper/0b586476892acfa16e1da9ccdeeb396743f35843",
+      "title": "Revisiting NARX Recurrent Neural Networks for Long-Term Dependencies",
+      "venue": "arXiv.org",
+      "year": 2017,
+      "referenceCount": 40,
+      "citationCount": 14,
+      "authors": [
+        {
+          "authorId": "33452695",
+          "name": "R. DiPietro"
+        },
+        {
+          "authorId": "145587210",
+          "name": "Nassir Navab"
+        },
+        {
+          "authorId": "1678633",
+          "name": "Gregory Hager"
+        }
+      ]
+    },
+    {
+      "paperId": "795c8cb2ddeb394e04ed3fb472b80b2855c5ac57",
+      "externalIds": {
+        "DOI": "10.1109/ICAIS56108.2023.10073886",
+        "CorpusId": 257780409
+      },
+      "url": "https://www.semanticscholar.org/paper/795c8cb2ddeb394e04ed3fb472b80b2855c5ac57",
+      "title": "An Efficient Text based Classification using Neural Networks and Long Short-Term Memory",
+      "venue": "International Conference on Adaptive and Intelligent Systems",
+      "year": 2023,
+      "referenceCount": 21,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2379226851",
+          "name": "S. Srinivas"
+        },
+        {
+          "authorId": "2212878531",
+          "name": "Devata Sai Harshith"
+        },
+        {
+          "authorId": "65813880",
+          "name": "Venubabu Rachapudi"
+        }
+      ]
+    },
+    {
+      "paperId": "d446f59e2f6af410c3be932c9d355c165e14b31f",
+      "externalIds": {
+        "DOI": "10.1109/ICDCOT61034.2024.10516204",
+        "CorpusId": 269629380
+      },
+      "url": "https://www.semanticscholar.org/paper/d446f59e2f6af410c3be932c9d355c165e14b31f",
+      "title": "Lung Cancer Prediction using Recurrent Residual Convolutional Neural Network and Long Short Term Memory",
+      "venue": "2024 International Conference on Distributed Computing and Optimization Techniques (ICDCOT)",
+      "year": 2024,
+      "referenceCount": 16,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2300311780",
+          "name": "E. Shrenitha"
+        },
+        {
+          "authorId": "2315486168",
+          "name": "M. Reddy"
+        },
+        {
+          "authorId": "2300311831",
+          "name": "D. Sushanth"
+        },
+        {
+          "authorId": "2272068226",
+          "name": "M. Jabbar"
+        }
+      ]
+    },
+    {
+      "paperId": "82c2e7102f1dded5e9696350ebea78ea89f835eb",
+      "externalIds": {
+        "DOI": "10.11591/ijeecs.v29.i3.pp1758-1768",
+        "CorpusId": 254958585
+      },
+      "url": "https://www.semanticscholar.org/paper/82c2e7102f1dded5e9696350ebea78ea89f835eb",
+      "title": "Text prediction recurrent neural networks using long short-term memory-dropout",
+      "venue": "Indonesian Journal of Electrical Engineering and Computer Science",
+      "year": 2023,
+      "referenceCount": 32,
+      "citationCount": 15,
+      "authors": [
+        {
+          "authorId": "2139807582",
+          "name": "Orlando Iparraguirre-Villanueva"
+        },
+        {
+          "authorId": "2174904187",
+          "name": "Victor Guevara-Ponce"
+        },
+        {
+          "authorId": "2197739006",
+          "name": "Daniel Ruiz-Alvarado"
+        },
+        {
+          "authorId": "2174906414",
+          "name": "Saul Beltozar-Clemente"
+        },
+        {
+          "authorId": "2156869176",
+          "name": "Fernando Sierra-Liñan"
+        },
+        {
+          "authorId": "1491177485",
+          "name": "Joselyn Zapata-Paulini"
+        },
+        {
+          "authorId": "1491176516",
+          "name": "M. Cabanillas-Carbonell"
+        }
+      ]
+    }
+  ]
+}

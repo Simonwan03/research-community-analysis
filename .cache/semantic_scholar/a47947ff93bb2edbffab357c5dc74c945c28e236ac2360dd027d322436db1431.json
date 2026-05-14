@@ -1,0 +1,297 @@
+{
+  "total": 32,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "2040c5de2344b9b14f1bbfff372f708639cca739",
+      "externalIds": {
+        "MAG": "2468625129",
+        "DBLP": "conf/icml/MussmannE16",
+        "CorpusId": 16464483
+      },
+      "url": "https://www.semanticscholar.org/paper/2040c5de2344b9b14f1bbfff372f708639cca739",
+      "title": "Learning and Inference via Maximum Inner Product Search",
+      "venue": "International Conference on Machine Learning",
+      "year": 2016,
+      "referenceCount": 42,
+      "citationCount": 60,
+      "authors": [
+        {
+          "authorId": "1776721",
+          "name": "Stephen O. Mussmann"
+        },
+        {
+          "authorId": "2490652",
+          "name": "Stefano Ermon"
+        }
+      ]
+    },
+    {
+      "paperId": "7d7d3229b35a0577f4261feffba0be1e305d65bd",
+      "externalIds": {
+        "MAG": "3037906764",
+        "DBLP": "conf/aistats/HanG20",
+        "CorpusId": 220084464
+      },
+      "url": "https://www.semanticscholar.org/paper/7d7d3229b35a0577f4261feffba0be1e305d65bd",
+      "title": "MAP Inference for Customized Determinantal Point Processes via Maximum Inner Product Search",
+      "venue": "International Conference on Artificial Intelligence and Statistics",
+      "year": 2020,
+      "referenceCount": 40,
+      "citationCount": 11,
+      "authors": [
+        {
+          "authorId": "2237714",
+          "name": "Insu Han"
+        },
+        {
+          "authorId": "144340937",
+          "name": "Jennifer Gillenwater"
+        }
+      ]
+    },
+    {
+      "paperId": "3dbb349356ed0f4bdc63b14f68efc8d465295353",
+      "externalIds": {
+        "DBLP": "conf/sigir/Chen0KGNZ25",
+        "ArXiv": "2504.14861",
+        "DOI": "10.1145/3726302.3730088",
+        "CorpusId": 277955881
+      },
+      "url": "https://www.semanticscholar.org/paper/3dbb349356ed0f4bdc63b14f68efc8d465295353",
+      "title": "Stitching Inner Product and Euclidean Metrics for Topology-aware Maximum Inner Product Search",
+      "venue": "Annual International ACM SIGIR Conference on Research and Development in Information Retrieval",
+      "year": 2025,
+      "referenceCount": 43,
+      "citationCount": 4,
+      "authors": [
+        {
+          "authorId": "2278853495",
+          "name": "Tingyang Chen"
+        },
+        {
+          "authorId": "2316994547",
+          "name": "Cong Fu"
+        },
+        {
+          "authorId": "2268397595",
+          "name": "Xiangyu Ke"
+        },
+        {
+          "authorId": "2349395142",
+          "name": "Yunjun Gao"
+        },
+        {
+          "authorId": "2072724013",
+          "name": "Yabo Ni"
+        },
+        {
+          "authorId": "2268758069",
+          "name": "Anxiang Zeng"
+        }
+      ]
+    },
+    {
+      "paperId": "f43810d44c9dee0399f0f4b6bd43278a6811cc36",
+      "externalIds": {
+        "ArXiv": "2603.08001",
+        "CorpusId": 286377678
+      },
+      "url": "https://www.semanticscholar.org/paper/f43810d44c9dee0399f0f4b6bd43278a6811cc36",
+      "title": "Amortizing Maximum Inner Product Search with Learned Support Functions",
+      "venue": "",
+      "year": 2026,
+      "referenceCount": 30,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "1689656957",
+          "name": "Theo X. Olausson"
+        },
+        {
+          "authorId": "2346835807",
+          "name": "Joao Monteiro"
+        },
+        {
+          "authorId": "2282536136",
+          "name": "Michal Klein"
+        },
+        {
+          "authorId": "2258552804",
+          "name": "Marco Cuturi"
+        }
+      ]
+    },
+    {
+      "paperId": "19fe888e4a1f305875bb21d44816c8066de6ae02",
+      "externalIds": {
+        "DBLP": "conf/icde/SongGZ021",
+        "ArXiv": "2104.04406",
+        "DOI": "10.1109/ICDE51399.2021.00143",
+        "CorpusId": 233204394
+      },
+      "url": "https://www.semanticscholar.org/paper/19fe888e4a1f305875bb21d44816c8066de6ae02",
+      "title": "ProMIPS: Efficient High-Dimensional c-Approximate Maximum Inner Product Search with a Lightweight Index",
+      "venue": "IEEE International Conference on Data Engineering",
+      "year": 2021,
+      "referenceCount": 49,
+      "citationCount": 14,
+      "authors": [
+        {
+          "authorId": "2157996850",
+          "name": "Yang Song"
+        },
+        {
+          "authorId": null,
+          "name": "Yu Gu"
+        },
+        {
+          "authorId": "2118403427",
+          "name": "Rui Zhang"
+        },
+        {
+          "authorId": "145024112",
+          "name": "Ge Yu"
+        }
+      ]
+    },
+    {
+      "paperId": "8031edc543ca23c9e2b18244feb09558f43897ed",
+      "externalIds": {
+        "MAG": "2921521223",
+        "DBLP": "conf/aistats/DingYH19",
+        "CorpusId": 88494755
+      },
+      "url": "https://www.semanticscholar.org/paper/8031edc543ca23c9e2b18244feb09558f43897ed",
+      "title": "A Fast Sampling Algorithm for Maximum Inner Product Search",
+      "venue": "International Conference on Artificial Intelligence and Statistics",
+      "year": 2019,
+      "referenceCount": 20,
+      "citationCount": 23,
+      "authors": [
+        {
+          "authorId": "1471355595",
+          "name": "Qin Ding"
+        },
+        {
+          "authorId": "46185316",
+          "name": "Hsiang-Fu Yu"
+        },
+        {
+          "authorId": "1793529",
+          "name": "Cho-Jui Hsieh"
+        }
+      ]
+    },
+    {
+      "paperId": "386854741f828d30e25a5e01d75e3363d49cad1e",
+      "externalIds": {
+        "DBLP": "conf/aaai/FraccaroPW16",
+        "MAG": "2567214097",
+        "DOI": "10.1609/aaai.v30i1.10234",
+        "CorpusId": 33053825
+      },
+      "url": "https://www.semanticscholar.org/paper/386854741f828d30e25a5e01d75e3363d49cad1e",
+      "title": "Indexable Probabilistic Matrix Factorization for Maximum Inner Product Search",
+      "venue": "AAAI Conference on Artificial Intelligence",
+      "year": 2016,
+      "referenceCount": 28,
+      "citationCount": 20,
+      "authors": [
+        {
+          "authorId": "2065874926",
+          "name": "Marco Fraccaro"
+        },
+        {
+          "authorId": "1722403",
+          "name": "U. Paquet"
+        },
+        {
+          "authorId": "1724252",
+          "name": "O. Winther"
+        }
+      ]
+    },
+    {
+      "paperId": "4eb01f7d4cb4936174a2bcbf2b99f520f350c0b6",
+      "externalIds": {
+        "CorpusId": 260501616
+      },
+      "url": "https://www.semanticscholar.org/paper/4eb01f7d4cb4936174a2bcbf2b99f520f350c0b6",
+      "title": "A Greedy Approach for Budgeted Maximum Inner Product Search",
+      "venue": "",
+      "year": 2017,
+      "referenceCount": 16,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "46185316",
+          "name": "Hsiang-Fu Yu"
+        }
+      ]
+    },
+    {
+      "paperId": "e15fdad9f7d160e11e9a313bd80ebe99952eff08",
+      "externalIds": {
+        "DBLP": "conf/aistats/GuoKCS16",
+        "MAG": "2949243585",
+        "ArXiv": "1509.01469",
+        "CorpusId": 14163648
+      },
+      "url": "https://www.semanticscholar.org/paper/e15fdad9f7d160e11e9a313bd80ebe99952eff08",
+      "title": "Quantization based Fast Inner Product Search",
+      "venue": "International Conference on Artificial Intelligence and Statistics",
+      "year": 2015,
+      "referenceCount": 26,
+      "citationCount": 117,
+      "authors": [
+        {
+          "authorId": "37495246",
+          "name": "Ruiqi Guo"
+        },
+        {
+          "authorId": "152663162",
+          "name": "Sanjiv Kumar"
+        },
+        {
+          "authorId": "1805203",
+          "name": "K. Choromanski"
+        },
+        {
+          "authorId": "2031456",
+          "name": "David Simcha"
+        }
+      ]
+    },
+    {
+      "paperId": "bed6bd867091fbf2f8dd7a01289d7679a41ef63d",
+      "externalIds": {
+        "MAG": "2963977217",
+        "ArXiv": "1707.03372",
+        "DBLP": "journals/corr/MussmannLE17",
+        "CorpusId": 12331413
+      },
+      "url": "https://www.semanticscholar.org/paper/bed6bd867091fbf2f8dd7a01289d7679a41ef63d",
+      "title": "Fast Amortized Inference and Learning in Log-linear Models with Randomly Perturbed Nearest Neighbor Search",
+      "venue": "Conference on Uncertainty in Artificial Intelligence",
+      "year": 2017,
+      "referenceCount": 25,
+      "citationCount": 25,
+      "authors": [
+        {
+          "authorId": "1776721",
+          "name": "Stephen O. Mussmann"
+        },
+        {
+          "authorId": "153461979",
+          "name": "Daniel Lévy"
+        },
+        {
+          "authorId": "2490652",
+          "name": "Stefano Ermon"
+        }
+      ]
+    }
+  ]
+}

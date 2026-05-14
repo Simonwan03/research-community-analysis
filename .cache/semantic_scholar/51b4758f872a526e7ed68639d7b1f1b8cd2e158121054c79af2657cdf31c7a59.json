@@ -1,0 +1,282 @@
+{
+  "total": 559,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "a0bcc10ad9afd8c6310917b355799358b632e464",
+      "externalIds": {
+        "DBLP": "conf/icml/ZhuH16",
+        "ArXiv": "1603.05643",
+        "MAG": "2301983558",
+        "CorpusId": 9346356
+      },
+      "url": "https://www.semanticscholar.org/paper/a0bcc10ad9afd8c6310917b355799358b632e464",
+      "title": "Variance Reduction for Faster Non-Convex Optimization",
+      "venue": "International Conference on Machine Learning",
+      "year": 2016,
+      "referenceCount": 39,
+      "citationCount": 412,
+      "authors": [
+        {
+          "authorId": "1388725932",
+          "name": "Zeyuan Allen-Zhu"
+        },
+        {
+          "authorId": "34840427",
+          "name": "Elad Hazan"
+        }
+      ]
+    },
+    {
+      "paperId": "acffbcb997ce73bf63e2b5a8d928b287357d4f4f",
+      "externalIds": {
+        "MAG": "2950331142",
+        "ArXiv": "1603.06160",
+        "DBLP": "journals/corr/ReddiHSPS16",
+        "CorpusId": 5230337
+      },
+      "url": "https://www.semanticscholar.org/paper/acffbcb997ce73bf63e2b5a8d928b287357d4f4f",
+      "title": "Stochastic Variance Reduction for Nonconvex Optimization",
+      "venue": "International Conference on Machine Learning",
+      "year": 2016,
+      "referenceCount": 42,
+      "citationCount": 649,
+      "authors": [
+        {
+          "authorId": "1981186",
+          "name": "Sashank J. Reddi"
+        },
+        {
+          "authorId": "145253835",
+          "name": "Ahmed S. Hefny"
+        },
+        {
+          "authorId": "3072326",
+          "name": "S. Sra"
+        },
+        {
+          "authorId": "1719347",
+          "name": "B. Póczos"
+        },
+        {
+          "authorId": "46234526",
+          "name": "Alex Smola"
+        }
+      ]
+    },
+    {
+      "paperId": "4c6f75edfbcf6064a016ba0b5f8890bcf0c47d82",
+      "externalIds": {
+        "DOI": "10.2478/ijanmc-2024-0040",
+        "CorpusId": 275825340
+      },
+      "url": "https://www.semanticscholar.org/paper/4c6f75edfbcf6064a016ba0b5f8890bcf0c47d82",
+      "title": "A Novel Variance Reduction Proximal Stochastic Newton Algorithm for Large-Scale Machine Learning Optimization",
+      "venue": "International Journal of Advanced Network, Monitoring, and Controls",
+      "year": 2024,
+      "referenceCount": 11,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2341799240",
+          "name": "Mohammed Moyed Ahmed"
+        }
+      ]
+    },
+    {
+      "paperId": "62fc911b939070936dd6fbb4d53edded66bd1f20",
+      "externalIds": {
+        "PubMedCentral": "12747398",
+        "DOI": "10.1371/journal.pone.0338720",
+        "CorpusId": 284335742,
+        "PubMed": "41460851"
+      },
+      "url": "https://www.semanticscholar.org/paper/62fc911b939070936dd6fbb4d53edded66bd1f20",
+      "title": "Accelerated Stochastic Conjugate Gradient for a class of convex optimization",
+      "venue": "PLoS ONE",
+      "year": 2025,
+      "referenceCount": 37,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2112585044",
+          "name": "Lulu He"
+        },
+        {
+          "authorId": "2293907439",
+          "name": "Yanan Du"
+        }
+      ]
+    },
+    {
+      "paperId": "0d43359cc666add8f78a29bc722416cb58678e1d",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2005-07755",
+        "MAG": "3025843913",
+        "ArXiv": "2005.07755",
+        "CorpusId": 218674330
+      },
+      "url": "https://www.semanticscholar.org/paper/0d43359cc666add8f78a29bc722416cb58678e1d",
+      "title": "Momentum with Variance Reduction for Nonconvex Composition Optimization",
+      "venue": "arXiv.org",
+      "year": 2020,
+      "referenceCount": 35,
+      "citationCount": 4,
+      "authors": [
+        {
+          "authorId": "46842961",
+          "name": "Ziyi Chen"
+        },
+        {
+          "authorId": "2118764630",
+          "name": "Yi Zhou"
+        }
+      ]
+    },
+    {
+      "paperId": "c514b13412053b8d81afc700fa79e5850e948a82",
+      "externalIds": {
+        "DBLP": "conf/icml/0001SALL22",
+        "CorpusId": 250340794
+      },
+      "url": "https://www.semanticscholar.org/paper/c514b13412053b8d81afc700fa79e5850e948a82",
+      "title": "Kill a Bird with Two Stones: Closing the Convergence Gaps in Non-Strongly Convex Optimization by Directly Accelerated SVRG with Double Compensation and Snapshots",
+      "venue": "International Conference on Machine Learning",
+      "year": 2022,
+      "referenceCount": 52,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "35588611",
+          "name": "Yuanyuan Liu"
+        },
+        {
+          "authorId": "3062185",
+          "name": "Fanhua Shang"
+        },
+        {
+          "authorId": "2130603534",
+          "name": "Weixin An"
+        },
+        {
+          "authorId": "2115669537",
+          "name": "Hongying Liu"
+        },
+        {
+          "authorId": "33383055",
+          "name": "Zhouchen Lin"
+        }
+      ]
+    },
+    {
+      "paperId": "1f6698368b57af03d4a38ae0ec7cafe037b9c60b",
+      "externalIds": {
+        "MAG": "2416347099",
+        "DBLP": "journals/corr/YuT16",
+        "ArXiv": "1606.00602",
+        "CorpusId": 5426767
+      },
+      "url": "https://www.semanticscholar.org/paper/1f6698368b57af03d4a38ae0ec7cafe037b9c60b",
+      "title": "Variance-Reduced Proximal Stochastic Gradient Descent for Non-convex Composite optimization",
+      "venue": "arXiv.org",
+      "year": 2016,
+      "referenceCount": 18,
+      "citationCount": 5,
+      "authors": [
+        {
+          "authorId": "3366500",
+          "name": "Xiyu Yu"
+        },
+        {
+          "authorId": "143719920",
+          "name": "D. Tao"
+        }
+      ]
+    },
+    {
+      "paperId": "1ab4087440be6ef50a14f09f67806066ae876657",
+      "externalIds": {
+        "MAG": "2897768110",
+        "ArXiv": "1805.00982",
+        "CorpusId": 53351384
+      },
+      "url": "https://www.semanticscholar.org/paper/1ab4087440be6ef50a14f09f67806066ae876657",
+      "title": "k-SVRG: Variance Reduction for Large Scale Optimization",
+      "venue": "",
+      "year": 2018,
+      "referenceCount": 31,
+      "citationCount": 6,
+      "authors": [
+        {
+          "authorId": "1709198",
+          "name": "Anant Raj"
+        },
+        {
+          "authorId": "2127057",
+          "name": "Sebastian U. Stich"
+        }
+      ]
+    },
+    {
+      "paperId": "5fb8a9271af105a5065a5a855e71a7d25c7a6f1b",
+      "externalIds": {
+        "MAG": "2145832734",
+        "DBLP": "conf/nips/WangCSX13",
+        "CorpusId": 933167
+      },
+      "url": "https://www.semanticscholar.org/paper/5fb8a9271af105a5065a5a855e71a7d25c7a6f1b",
+      "title": "Variance Reduction for Stochastic Gradient Optimization",
+      "venue": "Neural Information Processing Systems",
+      "year": 2013,
+      "referenceCount": 22,
+      "citationCount": 159,
+      "authors": [
+        {
+          "authorId": "2108881999",
+          "name": "Chong Wang"
+        },
+        {
+          "authorId": "1683647",
+          "name": "X. Chen"
+        },
+        {
+          "authorId": "46234526",
+          "name": "Alex Smola"
+        },
+        {
+          "authorId": "143977260",
+          "name": "E. Xing"
+        }
+      ]
+    },
+    {
+      "paperId": "d09e15839a228241c655ad22bab872576cc1b5ca",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2110-03300",
+        "ArXiv": "2110.03300",
+        "CorpusId": 238419130
+      },
+      "url": "https://www.semanticscholar.org/paper/d09e15839a228241c655ad22bab872576cc1b5ca",
+      "title": "Permutation Compressors for Provably Faster Distributed Nonconvex Optimization",
+      "venue": "arXiv.org",
+      "year": 2021,
+      "referenceCount": 13,
+      "citationCount": 40,
+      "authors": [
+        {
+          "authorId": "2131107197",
+          "name": "Rafal Szlendak"
+        },
+        {
+          "authorId": "153222286",
+          "name": "A. Tyurin"
+        },
+        {
+          "authorId": "2662221",
+          "name": "Peter Richtárik"
+        }
+      ]
+    }
+  ]
+}

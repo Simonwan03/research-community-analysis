@@ -1,0 +1,307 @@
+{
+  "total": 434,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "623134106b4aad906b9bbe988c8e5304641bbdd0",
+      "externalIds": {
+        "DBLP": "conf/icml/BalkanskiS18",
+        "MAG": "2803124496",
+        "CorpusId": 49257848
+      },
+      "url": "https://www.semanticscholar.org/paper/623134106b4aad906b9bbe988c8e5304641bbdd0",
+      "title": "Approximation Guarantees for Adaptive Sampling",
+      "venue": "International Conference on Machine Learning",
+      "year": 2018,
+      "referenceCount": 49,
+      "citationCount": 28,
+      "authors": [
+        {
+          "authorId": "1837833",
+          "name": "Eric Balkanski"
+        },
+        {
+          "authorId": "1778763",
+          "name": "Yaron Singer"
+        }
+      ]
+    },
+    {
+      "paperId": "40006021a64f4b8dd1d6831c6b4c005d17769a90",
+      "externalIds": {
+        "DBLP": "conf/nips/BaharavKSTLTP24",
+        "DOI": "10.52202/079017-3733",
+        "CorpusId": 276288326
+      },
+      "url": "https://www.semanticscholar.org/paper/40006021a64f4b8dd1d6831c6b4c005d17769a90",
+      "title": "Adaptive Sampling for Efficient Softmax Approximation",
+      "venue": "Neural Information Processing Systems",
+      "year": 2024,
+      "referenceCount": 45,
+      "citationCount": 5,
+      "authors": [
+        {
+          "authorId": "51167716",
+          "name": "Tavor Z. Baharav"
+        },
+        {
+          "authorId": "2195983839",
+          "name": "Ryan Kang"
+        },
+        {
+          "authorId": "2247816988",
+          "name": "Colin Sullivan"
+        },
+        {
+          "authorId": "2248217307",
+          "name": "Mo Tiwari"
+        },
+        {
+          "authorId": "2345011879",
+          "name": "Eric Luxenberg"
+        },
+        {
+          "authorId": "2294694392",
+          "name": "David Tse"
+        },
+        {
+          "authorId": "3173667",
+          "name": "Mert Pilanci"
+        }
+      ]
+    },
+    {
+      "paperId": "ab6f9f2bfdb516ae1c784b5aa3c69dffb4e7fd3a",
+      "externalIds": {
+        "DOI": "10.1117/12.3013414",
+        "CorpusId": 265515680
+      },
+      "url": "https://www.semanticscholar.org/paper/ab6f9f2bfdb516ae1c784b5aa3c69dffb4e7fd3a",
+      "title": "Betweenness centrality approximation in large networks using shortest paths approximation and adaptive sampling",
+      "venue": "International Conference on Internet of Things and Machine Learning",
+      "year": 2023,
+      "referenceCount": 16,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2257132136",
+          "name": "Qilin Wang"
+        },
+        {
+          "authorId": "2256973927",
+          "name": "Nan Xiang"
+        },
+        {
+          "authorId": "2256973893",
+          "name": "Mingwei You"
+        },
+        {
+          "authorId": "2268865872",
+          "name": "Xindi Rao"
+        }
+      ]
+    },
+    {
+      "paperId": "03f93bf85a4de1cfbb0dd5983572e905d27a3552",
+      "externalIds": {
+        "MAG": "2963324104",
+        "DBLP": "conf/aistats/CalandrielloLV17",
+        "ArXiv": "1803.10172",
+        "CorpusId": 4397764
+      },
+      "url": "https://www.semanticscholar.org/paper/03f93bf85a4de1cfbb0dd5983572e905d27a3552",
+      "title": "Distributed Adaptive Sampling for Kernel Matrix Approximation",
+      "venue": "International Conference on Artificial Intelligence and Statistics",
+      "year": 2017,
+      "referenceCount": 18,
+      "citationCount": 25,
+      "authors": [
+        {
+          "authorId": "2439765",
+          "name": "Daniele Calandriello"
+        },
+        {
+          "authorId": "3254390",
+          "name": "A. Lazaric"
+        },
+        {
+          "authorId": "1806291",
+          "name": "Michal Valko"
+        }
+      ]
+    },
+    {
+      "paperId": "2eef280ef8dec780a4f4306875eea0ab0d9fe7a9",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2412-13992",
+        "ArXiv": "2412.13992",
+        "DOI": "10.48550/arXiv.2412.13992",
+        "CorpusId": 274822313
+      },
+      "url": "https://www.semanticscholar.org/paper/2eef280ef8dec780a4f4306875eea0ab0d9fe7a9",
+      "title": "Adaptive randomized pivoting for column subset selection, DEIM, and low-rank approximation",
+      "venue": "SIAM Journal on Matrix Analysis and Applications",
+      "year": 2024,
+      "referenceCount": 33,
+      "citationCount": 10,
+      "authors": [
+        {
+          "authorId": "68975135",
+          "name": "Alice Cortinovis"
+        },
+        {
+          "authorId": "2253612399",
+          "name": "Daniel Kressner"
+        }
+      ]
+    },
+    {
+      "paperId": "397393f7455fe949c83314107b4904cdc6808ebf",
+      "externalIds": {
+        "DBLP": "conf/uai/ChenXC25",
+        "CorpusId": 280676214
+      },
+      "url": "https://www.semanticscholar.org/paper/397393f7455fe949c83314107b4904cdc6808ebf",
+      "title": "Adaptive Threshold Sampling for Pure Exploration in Submodular Bandits",
+      "venue": "Conference on Uncertainty in Artificial Intelligence",
+      "year": 2025,
+      "referenceCount": 44,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "2269187587",
+          "name": "Wenjing Chen"
+        },
+        {
+          "authorId": "2269141150",
+          "name": "Shuo Xing"
+        },
+        {
+          "authorId": "9597746",
+          "name": "Victoria G. Crawford"
+        }
+      ]
+    },
+    {
+      "paperId": "d82864dde50695773766ecffee9e06caaacf4033",
+      "externalIds": {
+        "ArXiv": "2404.18556",
+        "DOI": "10.1080/10618600.2025.2530048",
+        "CorpusId": 269449263
+      },
+      "url": "https://www.semanticscholar.org/paper/d82864dde50695773766ecffee9e06caaacf4033",
+      "title": "Doubly Adaptive Importance Sampling",
+      "venue": "Journal of Computational And Graphical Statistics",
+      "year": 2024,
+      "referenceCount": 75,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "1392685113",
+          "name": "W. van den Boom"
+        },
+        {
+          "authorId": "3440339",
+          "name": "Andrea Cremaschi"
+        },
+        {
+          "authorId": "2298904721",
+          "name": "Alexandre Thiery"
+        }
+      ]
+    },
+    {
+      "paperId": "0051d15d5f3849846707eeb91677c80366f17960",
+      "externalIds": {
+        "MAG": "3034322278",
+        "ArXiv": "2007.03927",
+        "DBLP": "journals/corr/abs-2007-03927",
+        "CorpusId": 220404291
+      },
+      "url": "https://www.semanticscholar.org/paper/0051d15d5f3849846707eeb91677c80366f17960",
+      "title": "Near Input Sparsity Time Kernel Embeddings via Adaptive Sampling",
+      "venue": "International Conference on Machine Learning",
+      "year": 2020,
+      "referenceCount": 27,
+      "citationCount": 20,
+      "authors": [
+        {
+          "authorId": "143982862",
+          "name": "David P. Woodruff"
+        },
+        {
+          "authorId": "2872461",
+          "name": "A. Zandieh"
+        }
+      ]
+    },
+    {
+      "paperId": "7e1d314fb6e2929e8169d1709ca773aa5546fb9f",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-1910-13073",
+        "MAG": "2982356448",
+        "ArXiv": "1910.13073",
+        "DOI": "10.1109/ICDE48307.2020.00062",
+        "CorpusId": 204949403
+      },
+      "url": "https://www.semanticscholar.org/paper/7e1d314fb6e2929e8169d1709ca773aa5546fb9f",
+      "title": "Efficient Approximation Algorithms for Adaptive Target Profit Maximization",
+      "venue": "IEEE International Conference on Data Engineering",
+      "year": 2019,
+      "referenceCount": 32,
+      "citationCount": 19,
+      "authors": [
+        {
+          "authorId": "2112440523",
+          "name": "Keke Huang"
+        },
+        {
+          "authorId": "144066821",
+          "name": "Jing Tang"
+        },
+        {
+          "authorId": "33285410",
+          "name": "Xiaokui Xiao"
+        },
+        {
+          "authorId": "1735962",
+          "name": "Aixin Sun"
+        },
+        {
+          "authorId": "2053311839",
+          "name": "A. Lim"
+        }
+      ]
+    },
+    {
+      "paperId": "8dca6ce81a4e548e540744e092190d627744ab91",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2505-07234",
+        "ArXiv": "2505.07234",
+        "DOI": "10.48550/arXiv.2505.07234",
+        "CorpusId": 278502491
+      },
+      "url": "https://www.semanticscholar.org/paper/8dca6ce81a4e548e540744e092190d627744ab91",
+      "title": "A Novel Online Pseudospectral Method for Approximation of Nonlinear Systems Dynamics",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "referenceCount": 42,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2347374495",
+          "name": "Arian Yousefian"
+        },
+        {
+          "authorId": "3104764",
+          "name": "A. Sahoo"
+        },
+        {
+          "authorId": "46519350",
+          "name": "Vignesh Narayanan"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,307 @@
+{
+  "total": 3536,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "62adfea3cc1cd9eb6b53e0e8a40be5dfda2adf8d",
+      "externalIds": {
+        "MAG": "2164411961",
+        "DBLP": "conf/icml/BlundellCKW15",
+        "CorpusId": 39895556
+      },
+      "url": "https://www.semanticscholar.org/paper/62adfea3cc1cd9eb6b53e0e8a40be5dfda2adf8d",
+      "title": "Weight Uncertainty in Neural Network",
+      "venue": "International Conference on Machine Learning",
+      "year": 2015,
+      "referenceCount": 39,
+      "citationCount": 2317,
+      "authors": [
+        {
+          "authorId": "1723876",
+          "name": "C. Blundell"
+        },
+        {
+          "authorId": "3248702",
+          "name": "Julien Cornebise"
+        },
+        {
+          "authorId": "2645384",
+          "name": "K. Kavukcuoglu"
+        },
+        {
+          "authorId": "1688276",
+          "name": "Daan Wierstra"
+        }
+      ]
+    },
+    {
+      "paperId": "da6057368920585bcf2443295b98418840f1fc80",
+      "externalIds": {
+        "MAG": "2951266961",
+        "DBLP": "journals/corr/BlundellCKW15",
+        "ArXiv": "1505.05424",
+        "CorpusId": 1806222
+      },
+      "url": "https://www.semanticscholar.org/paper/da6057368920585bcf2443295b98418840f1fc80",
+      "title": "Weight Uncertainty in Neural Networks",
+      "venue": "arXiv.org",
+      "year": 2015,
+      "referenceCount": 48,
+      "citationCount": 2101,
+      "authors": [
+        {
+          "authorId": "1723876",
+          "name": "C. Blundell"
+        },
+        {
+          "authorId": "3248702",
+          "name": "Julien Cornebise"
+        },
+        {
+          "authorId": "2645384",
+          "name": "K. Kavukcuoglu"
+        },
+        {
+          "authorId": "1688276",
+          "name": "Daan Wierstra"
+        }
+      ]
+    },
+    {
+      "paperId": "0058bc64face11bf54657ea70c33b1b37dcb85b2",
+      "externalIds": {
+        "PubMedCentral": "10876844",
+        "DBLP": "journals/fini/FerranteBT24",
+        "DOI": "10.3389/fninf.2024.1346723",
+        "CorpusId": 267529303,
+        "PubMed": "38380126"
+      },
+      "url": "https://www.semanticscholar.org/paper/0058bc64face11bf54657ea70c33b1b37dcb85b2",
+      "title": "Enabling uncertainty estimation in neural networks through weight perturbation for improved Alzheimer's disease classification",
+      "venue": "Frontiers Neuroinformatics",
+      "year": 2024,
+      "referenceCount": 24,
+      "citationCount": 9,
+      "authors": [
+        {
+          "authorId": "2107003923",
+          "name": "Matteo Ferrante"
+        },
+        {
+          "authorId": "2101384782",
+          "name": "T. Boccato"
+        },
+        {
+          "authorId": "2237814370",
+          "name": "N. Toschi"
+        }
+      ]
+    },
+    {
+      "paperId": "d9ad45e79e0b96bf7c76f0f1adcf9820398abaa7",
+      "externalIds": {
+        "DBLP": "journals/cbm/HanQXWMQWZG24",
+        "DOI": "10.1016/j.compbiomed.2023.107758",
+        "CorpusId": 265550738,
+        "PubMed": "38042102"
+      },
+      "url": "https://www.semanticscholar.org/paper/d9ad45e79e0b96bf7c76f0f1adcf9820398abaa7",
+      "title": "DM-CNN: Dynamic Multi-scale Convolutional Neural Network with uncertainty quantification for medical image classification",
+      "venue": "Comput. Biol. Medicine",
+      "year": 2023,
+      "referenceCount": 58,
+      "citationCount": 58,
+      "authors": [
+        {
+          "authorId": "2192473603",
+          "name": "Qi Han"
+        },
+        {
+          "authorId": "2269135298",
+          "name": "Xin Qian"
+        },
+        {
+          "authorId": "2269450729",
+          "name": "Hongxiang Xu"
+        },
+        {
+          "authorId": "2269707041",
+          "name": "Kepeng Wu"
+        },
+        {
+          "authorId": "2269423796",
+          "name": "Lun Meng"
+        },
+        {
+          "authorId": "1986120659",
+          "name": "Zi-Jin Qiu"
+        },
+        {
+          "authorId": "2135799",
+          "name": "Tengfei Weng"
+        },
+        {
+          "authorId": "2269188986",
+          "name": "Baoping Zhou"
+        },
+        {
+          "authorId": "2269459688",
+          "name": "Xianqiang Gao"
+        }
+      ]
+    },
+    {
+      "paperId": "a6ed657c5db0f2a252d38de670e94053e4f5711b",
+      "externalIds": {
+        "ArXiv": "2303.08455",
+        "DBLP": "journals/corr/abs-2303-08455",
+        "DOI": "10.1080/00295639.2023.2236840",
+        "CorpusId": 257532304
+      },
+      "url": "https://www.semanticscholar.org/paper/a6ed657c5db0f2a252d38de670e94053e4f5711b",
+      "title": "On the Uncertainty Analysis of the Data-Enabled Physics-Informed Neural Network for Solving Neutron Diffusion Eigenvalue Problem",
+      "venue": "Nuclear science and engineering",
+      "year": 2023,
+      "referenceCount": 53,
+      "citationCount": 14,
+      "authors": [
+        {
+          "authorId": "2175457411",
+          "name": "Yu Yang"
+        },
+        {
+          "authorId": "23222905",
+          "name": "Helin Gong"
+        },
+        {
+          "authorId": "2183368558",
+          "name": "Qiaolin He"
+        },
+        {
+          "authorId": "2121695159",
+          "name": "Qihong Yang"
+        },
+        {
+          "authorId": "2175251078",
+          "name": "Yangtao Deng"
+        },
+        {
+          "authorId": "2835092",
+          "name": "Shiquan Zhang"
+        }
+      ]
+    },
+    {
+      "paperId": "ac7b4c2233e189ae3d494d26c45f21538b1cc943",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2309-13575",
+        "ArXiv": "2309.13575",
+        "DOI": "10.48550/arXiv.2309.13575",
+        "CorpusId": 262465307
+      },
+      "url": "https://www.semanticscholar.org/paper/ac7b4c2233e189ae3d494d26c45f21538b1cc943",
+      "title": "Probabilistic Weight Fixing: Large-scale training of neural network weight uncertainties for quantization",
+      "venue": "Neural Information Processing Systems",
+      "year": 2023,
+      "referenceCount": 39,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2188781376",
+          "name": "Christopher Subia-Waud"
+        },
+        {
+          "authorId": "2336372",
+          "name": "S. Dasmahapatra"
+        }
+      ]
+    },
+    {
+      "paperId": "e071582536c9291e7954a1a072af90a8870b198a",
+      "externalIds": {
+        "DOI": "10.3390/drones6080206",
+        "CorpusId": 251605491
+      },
+      "url": "https://www.semanticscholar.org/paper/e071582536c9291e7954a1a072af90a8870b198a",
+      "title": "Adaptive Neural-Network-Based Nonsingular Fast Terminal Sliding Mode Control for a Quadrotor with Dynamic Uncertainty",
+      "venue": "Drones",
+      "year": 2022,
+      "referenceCount": 24,
+      "citationCount": 26,
+      "authors": [
+        {
+          "authorId": "2181650384",
+          "name": "Shurui Huang"
+        },
+        {
+          "authorId": "2819018",
+          "name": "Yue-neng Yang"
+        }
+      ]
+    },
+    {
+      "paperId": "55e3d280f8cc8cf134a70028be872aa337beadb4",
+      "externalIds": {
+        "DOI": "10.1080/17415977.2021.1988589",
+        "CorpusId": 239974403
+      },
+      "url": "https://www.semanticscholar.org/paper/55e3d280f8cc8cf134a70028be872aa337beadb4",
+      "title": "An uncertainty inversion technique using two-way neural network for parameter identification of robot arms",
+      "venue": "Inverse Problems in Science and Engineering",
+      "year": 2021,
+      "referenceCount": 71,
+      "citationCount": 6,
+      "authors": [
+        {
+          "authorId": "2052999582",
+          "name": "Shuyong Duan"
+        },
+        {
+          "authorId": "2136115911",
+          "name": "Lutong Shi"
+        },
+        {
+          "authorId": "2152714889",
+          "name": "Li Wang"
+        },
+        {
+          "authorId": "2138706683",
+          "name": "Guirong Liu"
+        }
+      ]
+    },
+    {
+      "paperId": "f5a4b671724e55f8a69fe5fa5d77841a06614af9",
+      "externalIds": {
+        "DOI": "10.36548/jiip.2021.3.004",
+        "CorpusId": 239272545
+      },
+      "url": "https://www.semanticscholar.org/paper/f5a4b671724e55f8a69fe5fa5d77841a06614af9",
+      "title": "Speedy Image Crowd Counting by Light Weight Convolutional Neural Network",
+      "venue": "September 2021",
+      "year": 2021,
+      "referenceCount": 27,
+      "citationCount": 12,
+      "authors": [
+        {
+          "authorId": "150941730",
+          "name": "B. Vivekanandam"
+        }
+      ]
+    },
+    {
+      "paperId": "6b61cf0977d7f097a55ca8a82ac05a8b920cae86",
+      "externalIds": {
+        "CorpusId": 263889556
+      },
+      "url": "https://www.semanticscholar.org/paper/6b61cf0977d7f097a55ca8a82ac05a8b920cae86",
+      "title": "Uncertainty Estimation Using a Single Deep Deterministic Neural Network",
+      "venue": "",
+      "year": 2020,
+      "referenceCount": 0,
+      "citationCount": 47,
+      "authors": []
+    }
+  ]
+}

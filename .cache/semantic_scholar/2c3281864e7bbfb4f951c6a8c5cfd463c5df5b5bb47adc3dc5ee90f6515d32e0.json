@@ -1,0 +1,806 @@
+{
+  "offset": 0,
+  "citingPaperInfo": {
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/1505.05969, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "title": "Learning Program Embeddings to Propagate Feedback on Student Code",
+    "authors": [
+      {
+        "authorId": "2012749",
+        "name": "C. Piech"
+      },
+      {
+        "authorId": "2136435893",
+        "name": "Jonathan Huang"
+      },
+      {
+        "authorId": "48721088",
+        "name": "A. Nguyen"
+      },
+      {
+        "authorId": "2348017",
+        "name": "Mike Phulsuksombati"
+      },
+      {
+        "authorId": "1764547",
+        "name": "M. Sahami"
+      },
+      {
+        "authorId": "2231847421",
+        "name": "L. Guibas"
+      }
+    ]
+  },
+  "data": [
+    {
+      "citedPaper": {
+        "paperId": "2ba5006d328bf93d3f4b102c23cad0243739fd57",
+        "externalIds": {
+          "DBLP": "conf/lats/PiechSHG15",
+          "MAG": "2023164354",
+          "DOI": "10.1145/2724660.2724668",
+          "CorpusId": 13755771
+        },
+        "url": "https://www.semanticscholar.org/paper/2ba5006d328bf93d3f4b102c23cad0243739fd57",
+        "title": "Autonomously Generating Hints by Inferring Problem Solving Policies",
+        "venue": "ACM Conference on Learning @ Scale",
+        "year": 2015,
+        "referenceCount": 25,
+        "citationCount": 163,
+        "authors": [
+          {
+            "authorId": "2012749",
+            "name": "C. Piech"
+          },
+          {
+            "authorId": "1764547",
+            "name": "M. Sahami"
+          },
+          {
+            "authorId": "2136435893",
+            "name": "Jonathan Huang"
+          },
+          {
+            "authorId": "2231847421",
+            "name": "L. Guibas"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "dc8c3d2aa96fa62153423a4b0864193b8c4f9d8a",
+        "externalIds": {
+          "MAG": "2963133108",
+          "DBLP": "journals/corr/LanVWB15",
+          "ArXiv": "1501.04346",
+          "DOI": "10.1145/2724660.2724664",
+          "CorpusId": 11692267
+        },
+        "url": "https://www.semanticscholar.org/paper/dc8c3d2aa96fa62153423a4b0864193b8c4f9d8a",
+        "title": "Mathematical Language Processing: Automatic Grading and Feedback for Open Response Mathematical Questions",
+        "venue": "ACM Conference on Learning @ Scale",
+        "year": 2015,
+        "referenceCount": 44,
+        "citationCount": 89,
+        "authors": [
+          {
+            "authorId": "1730535",
+            "name": "Andrew S. Lan"
+          },
+          {
+            "authorId": "2429303",
+            "name": "Divyanshu Vats"
+          },
+          {
+            "authorId": "2123358",
+            "name": "Andrew E. Waters"
+          },
+          {
+            "authorId": "144908066",
+            "name": "Richard Baraniuk"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "c1126fbffd6b8547a44c58b192b36b08b18299de",
+        "externalIds": {
+          "MAG": "2167839676",
+          "DBLP": "journals/corr/GravesWD14",
+          "ArXiv": "1410.5401",
+          "CorpusId": 15299054
+        },
+        "url": "https://www.semanticscholar.org/paper/c1126fbffd6b8547a44c58b192b36b08b18299de",
+        "title": "Neural Turing Machines",
+        "venue": "arXiv.org",
+        "year": 2014,
+        "referenceCount": 44,
+        "citationCount": 2513,
+        "authors": [
+          {
+            "authorId": "1753223",
+            "name": "Alex Graves"
+          },
+          {
+            "authorId": "89504302",
+            "name": "Greg Wayne"
+          },
+          {
+            "authorId": "1841008",
+            "name": "Ivo Danihelka"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "7d335f988990f20e0e2d0085e60be24ff3bd56d6",
+        "externalIds": {
+          "DBLP": "journals/corr/ZarembaKF14",
+          "ArXiv": "1406.1584",
+          "MAG": "2950000632",
+          "CorpusId": 218698613
+        },
+        "url": "https://www.semanticscholar.org/paper/7d335f988990f20e0e2d0085e60be24ff3bd56d6",
+        "title": "Learning to Discover Efficient Mathematical Identities",
+        "venue": "Neural Information Processing Systems",
+        "year": 2014,
+        "referenceCount": 38,
+        "citationCount": 57,
+        "authors": [
+          {
+            "authorId": "2563432",
+            "name": "Wojciech Zaremba"
+          },
+          {
+            "authorId": "2006889",
+            "name": "Karol Kurach"
+          },
+          {
+            "authorId": "2276554",
+            "name": "R. Fergus"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "67625627aee737106432d7c93fc58d54b2af42eb",
+        "externalIds": {
+          "MAG": "1972087783",
+          "DBLP": "conf/www/NguyenPHG14",
+          "DOI": "10.1145/2566486.2568023",
+          "CorpusId": 10217009
+        },
+        "url": "https://www.semanticscholar.org/paper/67625627aee737106432d7c93fc58d54b2af42eb",
+        "title": "Codewebs: scalable homework search for massive open online programming courses",
+        "venue": "The Web Conference",
+        "year": 2014,
+        "referenceCount": 27,
+        "citationCount": 138,
+        "authors": [
+          {
+            "authorId": "145641941",
+            "name": "Andy Nguyen"
+          },
+          {
+            "authorId": "2012749",
+            "name": "C. Piech"
+          },
+          {
+            "authorId": "2136435893",
+            "name": "Jonathan Huang"
+          },
+          {
+            "authorId": "2231847421",
+            "name": "L. Guibas"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "301b0d106e0bf02c3c03224edd824ede54c926f6",
+        "externalIds": {
+          "MAG": "2126344546",
+          "DBLP": "conf/lats/BrooksBJV14",
+          "DOI": "10.1145/2556325.2566243",
+          "CorpusId": 8546922
+        },
+        "url": "https://www.semanticscholar.org/paper/301b0d106e0bf02c3c03224edd824ede54c926f6",
+        "title": "Divide and correct: using clusters to grade short answers at scale",
+        "venue": "ACM Conference on Learning @ Scale",
+        "year": 2014,
+        "referenceCount": 27,
+        "citationCount": 75,
+        "authors": [
+          {
+            "authorId": "2067544008",
+            "name": "Michael Brooks"
+          },
+          {
+            "authorId": "8611534",
+            "name": "S. Basu"
+          },
+          {
+            "authorId": "2052757405",
+            "name": "Charles Jacobs"
+          },
+          {
+            "authorId": "1909300",
+            "name": "Lucy Vanderwende"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "08caf0d048cfbe528f8d9db7005d040f76b55c24",
+        "externalIds": {
+          "MAG": "1652981786",
+          "ArXiv": "1312.6192",
+          "DBLP": "journals/corr/Bowman13",
+          "CorpusId": 15075376
+        },
+        "url": "https://www.semanticscholar.org/paper/08caf0d048cfbe528f8d9db7005d040f76b55c24",
+        "title": "Can recursive neural tensor networks learn logical reasoning?",
+        "venue": "International Conference on Learning Representations",
+        "year": 2013,
+        "referenceCount": 26,
+        "citationCount": 45,
+        "authors": [
+          {
+            "authorId": "3644767",
+            "name": "Samuel R. Bowman"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "7545f90299a10dae1968681f6bd268b9b5ab2c37",
+        "externalIds": {
+          "ACL": "Q13-1032",
+          "DBLP": "journals/tacl/BasuJV13",
+          "MAG": "2183293350",
+          "DOI": "10.1162/tacl_a_00236",
+          "CorpusId": 14807742
+        },
+        "url": "https://www.semanticscholar.org/paper/7545f90299a10dae1968681f6bd268b9b5ab2c37",
+        "title": "Powergrading: a Clustering Approach to Amplify Human Effort for Short Answer Grading",
+        "venue": "Transactions of the Association for Computational Linguistics",
+        "year": 2013,
+        "referenceCount": 29,
+        "citationCount": 182,
+        "authors": [
+          {
+            "authorId": "8611534",
+            "name": "S. Basu"
+          },
+          {
+            "authorId": "2052757405",
+            "name": "Charles Jacobs"
+          },
+          {
+            "authorId": "1909300",
+            "name": "Lucy Vanderwende"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "687bac2d3320083eb4530bf18bb8f8f721477600",
+        "externalIds": {
+          "ACL": "D13-1170",
+          "DBLP": "conf/emnlp/SocherPWCMNP13",
+          "MAG": "2251939518",
+          "DOI": "10.18653/v1/d13-1170",
+          "CorpusId": 990233
+        },
+        "url": "https://www.semanticscholar.org/paper/687bac2d3320083eb4530bf18bb8f8f721477600",
+        "title": "Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank",
+        "venue": "Conference on Empirical Methods in Natural Language Processing",
+        "year": 2013,
+        "referenceCount": 45,
+        "citationCount": 9319,
+        "authors": [
+          {
+            "authorId": "2166511",
+            "name": "R. Socher"
+          },
+          {
+            "authorId": "24590005",
+            "name": "Alex Perelygin"
+          },
+          {
+            "authorId": "2110402830",
+            "name": "Jean Wu"
+          },
+          {
+            "authorId": "1964541",
+            "name": "Jason Chuang"
+          },
+          {
+            "authorId": "144783904",
+            "name": "Christopher D. Manning"
+          },
+          {
+            "authorId": "34699434",
+            "name": "A. Ng"
+          },
+          {
+            "authorId": "144922861",
+            "name": "Christopher Potts"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "c56744ac0abb69d6c6d8269b458f53006e303a38",
+        "externalIds": {
+          "DBLP": "journals/cgf/OvsjanikovBCG13",
+          "MAG": "2109584093",
+          "DOI": "10.1111/cgf.12076",
+          "CorpusId": 271374
+        },
+        "url": "https://www.semanticscholar.org/paper/c56744ac0abb69d6c6d8269b458f53006e303a38",
+        "title": "Analysis and Visualization of Maps Between Shapes",
+        "venue": "Computer graphics forum (Print)",
+        "year": 2013,
+        "referenceCount": 20,
+        "citationCount": 27,
+        "authors": [
+          {
+            "authorId": "1690177",
+            "name": "M. Ovsjanikov"
+          },
+          {
+            "authorId": "1398681470",
+            "name": "M. Ben-Chen"
+          },
+          {
+            "authorId": "51927244",
+            "name": "F. Chazal"
+          },
+          {
+            "authorId": "2231847421",
+            "name": "L. Guibas"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "a6a0ef84f8dcaa324c4a4f760eabd26f1eec9cc5",
+        "externalIds": {
+          "MAG": "101664218",
+          "DBLP": "conf/edm/MokbelGPPH13",
+          "CorpusId": 11890416
+        },
+        "url": "https://www.semanticscholar.org/paper/a6a0ef84f8dcaa324c4a4f760eabd26f1eec9cc5",
+        "title": "Domain-Independent Proximity Measures in Intelligent Tutoring Systems",
+        "venue": "Educational Data Mining",
+        "year": 2013,
+        "referenceCount": 7,
+        "citationCount": 31,
+        "authors": [
+          {
+            "authorId": "1755180",
+            "name": "B. Mokbel"
+          },
+          {
+            "authorId": "152623022",
+            "name": "S. Gross"
+          },
+          {
+            "authorId": "2076081",
+            "name": "Benjamin Paassen"
+          },
+          {
+            "authorId": "1698561",
+            "name": "Niels Pinkwart"
+          },
+          {
+            "authorId": "143684647",
+            "name": "B. Hammer"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "6c47ee7625b28625b81265196eae9b87fc978042",
+        "externalIds": {
+          "MAG": "2077933344",
+          "DBLP": "journals/spm/SongFG13",
+          "DOI": "10.1109/MSP.2013.2252713",
+          "CorpusId": 7503174
+        },
+        "url": "https://www.semanticscholar.org/paper/6c47ee7625b28625b81265196eae9b87fc978042",
+        "title": "Kernel Embeddings of Conditional Distributions: A Unified Kernel Framework for Nonparametric Inference in Graphical Models",
+        "venue": "IEEE Signal Processing Magazine",
+        "year": 2013,
+        "referenceCount": 31,
+        "citationCount": 249,
+        "authors": [
+          {
+            "authorId": "2143476916",
+            "name": "Le Song"
+          },
+          {
+            "authorId": "1693668",
+            "name": "K. Fukumizu"
+          },
+          {
+            "authorId": "1708497",
+            "name": "A. Gretton"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "21a39ca716c37ccc133ff96c31cc71565d0c968e",
+        "externalIds": {
+          "DBLP": "journals/tog/OvsjanikovBSBG12",
+          "MAG": "2047161559",
+          "DOI": "10.1145/2185520.2185526",
+          "CorpusId": 207194138
+        },
+        "url": "https://www.semanticscholar.org/paper/21a39ca716c37ccc133ff96c31cc71565d0c968e",
+        "title": "Functional maps",
+        "venue": "ACM Transactions on Graphics",
+        "year": 2012,
+        "referenceCount": 38,
+        "citationCount": 429,
+        "authors": [
+          {
+            "authorId": "1690177",
+            "name": "M. Ovsjanikov"
+          },
+          {
+            "authorId": "1398681470",
+            "name": "M. Ben-Chen"
+          },
+          {
+            "authorId": "1932072",
+            "name": "J. Solomon"
+          },
+          {
+            "authorId": "2983668",
+            "name": "Adrian Butscher"
+          },
+          {
+            "authorId": "2231847421",
+            "name": "L. Guibas"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "188e247506ad992b8bc62d6c74789e89891a984f",
+        "externalIds": {
+          "MAG": "2097998348",
+          "DBLP": "journals/jmlr/BergstraB12",
+          "DOI": "10.5555/2503308.2188395",
+          "CorpusId": 15700257
+        },
+        "url": "https://www.semanticscholar.org/paper/188e247506ad992b8bc62d6c74789e89891a984f",
+        "title": "Random Search for Hyper-Parameter Optimization",
+        "venue": "Journal of machine learning research",
+        "year": 2012,
+        "referenceCount": 36,
+        "citationCount": 10838,
+        "authors": [
+          {
+            "authorId": "32837403",
+            "name": "J. Bergstra"
+          },
+          {
+            "authorId": "1751762",
+            "name": "Yoshua Bengio"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "cfa2646776405d50533055ceb1b7f050e9014dcb",
+        "externalIds": {
+          "DBLP": "conf/emnlp/SocherPHNM11",
+          "MAG": "71795751",
+          "ACL": "D11-1014",
+          "CorpusId": 3116311
+        },
+        "url": "https://www.semanticscholar.org/paper/cfa2646776405d50533055ceb1b7f050e9014dcb",
+        "title": "Semi-Supervised Recursive Autoencoders for Predicting Sentiment Distributions",
+        "venue": "Conference on Empirical Methods in Natural Language Processing",
+        "year": 2011,
+        "referenceCount": 41,
+        "citationCount": 1355,
+        "authors": [
+          {
+            "authorId": "2166511",
+            "name": "R. Socher"
+          },
+          {
+            "authorId": "143845796",
+            "name": "Jeffrey Pennington"
+          },
+          {
+            "authorId": "40150953",
+            "name": "E. Huang"
+          },
+          {
+            "authorId": "34699434",
+            "name": "A. Ng"
+          },
+          {
+            "authorId": "144783904",
+            "name": "Christopher D. Manning"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "413c1142de9d91804d6d11c67ff3fed59c9fc279",
+        "externalIds": {
+          "MAG": "2405601855",
+          "DBLP": "journals/jmlr/DuchiHS11",
+          "DOI": "10.5555/1953048.2021068",
+          "CorpusId": 538820
+        },
+        "url": "https://www.semanticscholar.org/paper/413c1142de9d91804d6d11c67ff3fed59c9fc279",
+        "title": "Adaptive Subgradient Methods for Online Learning and Stochastic Optimization",
+        "venue": "Journal of machine learning research",
+        "year": 2011,
+        "referenceCount": 55,
+        "citationCount": 11242,
+        "authors": [
+          {
+            "authorId": "1734693",
+            "name": "John C. Duchi"
+          },
+          {
+            "authorId": "34840427",
+            "name": "Elad Hazan"
+          },
+          {
+            "authorId": "1740765",
+            "name": "Y. Singer"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "1df4d08c0fc23d1689a41d5d406adafd64331eb3",
+        "externalIds": {
+          "MAG": "2146641075",
+          "DBLP": "conf/icml/SongHSF09",
+          "DOI": "10.1145/1553374.1553497",
+          "CorpusId": 11068681
+        },
+        "url": "https://www.semanticscholar.org/paper/1df4d08c0fc23d1689a41d5d406adafd64331eb3",
+        "title": "Hilbert space embeddings of conditional distributions with applications to dynamical systems",
+        "venue": "International Conference on Machine Learning",
+        "year": 2009,
+        "referenceCount": 15,
+        "citationCount": 405,
+        "authors": [
+          {
+            "authorId": "2143476916",
+            "name": "Le Song"
+          },
+          {
+            "authorId": "2124972354",
+            "name": "Jonathan Huang"
+          },
+          {
+            "authorId": "46234526",
+            "name": "Alex Smola"
+          },
+          {
+            "authorId": "1693668",
+            "name": "K. Fukumizu"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "1e41ed1ac234cba0138329047e16a8a424389e77",
+        "externalIds": {
+          "MAG": "2083762490",
+          "DOI": "10.1108/03684920410533985",
+          "CorpusId": 9116234
+        },
+        "url": "https://www.semanticscholar.org/paper/1e41ed1ac234cba0138329047e16a8a424389e77",
+        "title": "A comparison of modified reconstructability analysis and Ashenhurst‐Curtis decomposition of Boolean functions",
+        "venue": "",
+        "year": 2004,
+        "referenceCount": 24,
+        "citationCount": 4543,
+        "authors": [
+          {
+            "authorId": "1399279909",
+            "name": "A. Al-Rabadi"
+          },
+          {
+            "authorId": "2266391583",
+            "name": "M. Perkowski"
+          },
+          {
+            "authorId": "2261515139",
+            "name": "Martin Zwick"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "Learning Program Embeddings to Propagate Feedback on Student Code",
+        "venue": "",
+        "year": 2015,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "67fdb60ddb8bbf3cda29dd4c91619b338ab53ca3",
+        "externalIds": {
+          "MAG": "2338451774",
+          "CorpusId": 62076121
+        },
+        "url": "https://www.semanticscholar.org/paper/67fdb60ddb8bbf3cda29dd4c91619b338ab53ca3",
+        "title": "ACES: Automatic Evaluation of Coding Style",
+        "venue": "",
+        "year": 2014,
+        "referenceCount": 18,
+        "citationCount": 9,
+        "authors": [
+          {
+            "authorId": "40033226",
+            "name": "S. Rogers"
+          },
+          {
+            "authorId": "145151213",
+            "name": "Daniel D. Garcia"
+          },
+          {
+            "authorId": "1729041",
+            "name": "J. Canny"
+          },
+          {
+            "authorId": "1957975",
+            "name": "Steven Tang"
+          },
+          {
+            "authorId": "2113554276",
+            "name": "Daniel Kang"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "d4edbc77ab4fcd6efbfafd0499165e3e739b7881",
+        "externalIds": {
+          "DBLP": "conf/aied/HuangPNG13",
+          "MAG": "2396992199",
+          "CorpusId": 2403659
+        },
+        "url": "https://www.semanticscholar.org/paper/d4edbc77ab4fcd6efbfafd0499165e3e739b7881",
+        "title": "Syntactic and Functional Variability of a Million Code Submissions in a Machine Learning MOOC",
+        "venue": "International Conference on Artificial Intelligence in Education",
+        "year": 2013,
+        "referenceCount": 6,
+        "citationCount": 87,
+        "authors": [
+          {
+            "authorId": "2136435893",
+            "name": "Jonathan Huang"
+          },
+          {
+            "authorId": "2012749",
+            "name": "C. Piech"
+          },
+          {
+            "authorId": "48721088",
+            "name": "A. Nguyen"
+          },
+          {
+            "authorId": "2231847421",
+            "name": "L. Guibas"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "8f880975990a8e0ef817d997e64f65cf00742b7c",
+        "externalIds": {
+          "MAG": "2097704387",
+          "DOI": "10.13189/UJCMJ.2013.010301",
+          "CorpusId": 16818144
+        },
+        "url": "https://www.semanticscholar.org/paper/8f880975990a8e0ef817d997e64f65cf00742b7c",
+        "title": "Axiomatic Basis for Computer Programming",
+        "venue": "",
+        "year": 2013,
+        "referenceCount": 24,
+        "citationCount": 1000,
+        "authors": [
+          {
+            "authorId": "66361394",
+            "name": "L. Osho"
+          },
+          {
+            "authorId": "7373225",
+            "name": "F. Ogwueleka"
+          },
+          {
+            "authorId": "7536856",
+            "name": "Oluwafemi Osho"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "01e466e7efe54033f6dbcd38391a00d62dd2ce57",
+        "externalIds": {
+          "CorpusId": 212623740
+        },
+        "url": "https://www.semanticscholar.org/paper/01e466e7efe54033f6dbcd38391a00d62dd2ce57",
+        "title": "Kernel Embeddings of Conditional Distributions: A Unified Kernel Framework for Nonparametric Inference in Graphical Models",
+        "venue": "IEEE Signal Processing Magazine",
+        "year": 2013,
+        "referenceCount": 29,
+        "citationCount": 60,
+        "authors": [
+          {
+            "authorId": "2391164477",
+            "name": "Le Song"
+          },
+          {
+            "authorId": "2288264032",
+            "name": "K. Fukumizu"
+          },
+          {
+            "authorId": "2273650708",
+            "name": "A. Gretton"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "Learning task-dependent distributed representations by backpropagation through structure",
+        "venue": "Neural Networks, 1996., IEEE International Conference on , volume 1",
+        "year": 1996,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    }
+  ]
+}

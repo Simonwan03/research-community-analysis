@@ -1,0 +1,280 @@
+{
+  "total": 11,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "35787c82e0263f58e82bb297a888e1f8b2c4dbf7",
+      "externalIds": {
+        "MAG": "2963071676",
+        "DBLP": "conf/icml/IngrahamM17",
+        "CorpusId": 27825688
+      },
+      "url": "https://www.semanticscholar.org/paper/35787c82e0263f58e82bb297a888e1f8b2c4dbf7",
+      "title": "Variational Inference for Sparse and Undirected Models",
+      "venue": "International Conference on Machine Learning",
+      "year": 2016,
+      "referenceCount": 63,
+      "citationCount": 35,
+      "authors": [
+        {
+          "authorId": "46836291",
+          "name": "John Ingraham"
+        },
+        {
+          "authorId": "2625166",
+          "name": "D. Marks"
+        }
+      ]
+    },
+    {
+      "paperId": "284b42bb68c8ab97e7ce813a91da3c25742499c2",
+      "externalIds": {
+        "CorpusId": 36246769
+      },
+      "url": "https://www.semanticscholar.org/paper/284b42bb68c8ab97e7ce813a91da3c25742499c2",
+      "title": "Variational Inference for Sparse and Undirected Models : Appendix",
+      "venue": "",
+      "year": 2017,
+      "referenceCount": 13,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "46836291",
+          "name": "John Ingraham"
+        },
+        {
+          "authorId": "2625166",
+          "name": "D. Marks"
+        }
+      ]
+    },
+    {
+      "paperId": "91608e4567959f331f3b231f4f8fb5e33ce71a15",
+      "externalIds": {
+        "MAG": "2164773304",
+        "DBLP": "conf/nips/KimGBS13",
+        "CorpusId": 6513464
+      },
+      "url": "https://www.semanticscholar.org/paper/91608e4567959f331f3b231f4f8fb5e33ce71a15",
+      "title": "Efficient Online Inference for Bayesian Nonparametric Relational Models",
+      "venue": "Neural Information Processing Systems",
+      "year": 2013,
+      "referenceCount": 20,
+      "citationCount": 33,
+      "authors": [
+        {
+          "authorId": "2111888647",
+          "name": "D. Kim"
+        },
+        {
+          "authorId": "2141648",
+          "name": "Prem Gopalan"
+        },
+        {
+          "authorId": "1796335",
+          "name": "D. Blei"
+        },
+        {
+          "authorId": "1799035",
+          "name": "Erik B. Sudderth"
+        }
+      ]
+    },
+    {
+      "paperId": "40bd39dca08d9e66e3b817821960c96ec4035d25",
+      "externalIds": {
+        "DBLP": "journals/jmlr/Nickisch12",
+        "MAG": "2165748376",
+        "DOI": "10.5555/2503308.2343698",
+        "CorpusId": 42388355
+      },
+      "url": "https://www.semanticscholar.org/paper/40bd39dca08d9e66e3b817821960c96ec4035d25",
+      "title": "glm-ie: Generalised Linear Models Inference & Estimation Toolbox",
+      "venue": "Journal of machine learning research",
+      "year": 2012,
+      "referenceCount": 17,
+      "citationCount": 11,
+      "authors": [
+        {
+          "authorId": "1748758",
+          "name": "H. Nickisch"
+        }
+      ]
+    },
+    {
+      "paperId": "38280a89a306389282404fcdbbaf9682649b3526",
+      "externalIds": {
+        "MAG": "2188936328",
+        "CorpusId": 123669465
+      },
+      "url": "https://www.semanticscholar.org/paper/38280a89a306389282404fcdbbaf9682649b3526",
+      "title": "Marginal Inference in MRFs using Frank-Wolfe",
+      "venue": "",
+      "year": 2013,
+      "referenceCount": 19,
+      "citationCount": 18,
+      "authors": [
+        {
+          "authorId": "2636941",
+          "name": "David Belanger"
+        },
+        {
+          "authorId": "144799908",
+          "name": "D. Sheldon"
+        },
+        {
+          "authorId": "143753639",
+          "name": "A. McCallum"
+        }
+      ]
+    },
+    {
+      "paperId": "333f5e29463e02191e4347d82e1a7b2ae8b02d93",
+      "externalIds": {
+        "MAG": "2265185286",
+        "ArXiv": "1602.03807",
+        "CorpusId": 16802469
+      },
+      "url": "https://www.semanticscholar.org/paper/333f5e29463e02191e4347d82e1a7b2ae8b02d93",
+      "title": "Bayesian Sparsity for Intractable Distributions",
+      "venue": "",
+      "year": 2016,
+      "referenceCount": 57,
+      "citationCount": 8,
+      "authors": [
+        {
+          "authorId": "46836291",
+          "name": "John Ingraham"
+        },
+        {
+          "authorId": "2625166",
+          "name": "D. Marks"
+        }
+      ]
+    },
+    {
+      "paperId": "df6f272f6127fb2d844f20bde4803354dd9efe8e",
+      "externalIds": {
+        "DBLP": "journals/pami/0002WD23",
+        "ArXiv": "2009.07703",
+        "DOI": "10.1109/TPAMI.2022.3140886",
+        "CorpusId": 245801962,
+        "PubMed": "34990351"
+      },
+      "url": "https://www.semanticscholar.org/paper/df6f272f6127fb2d844f20bde4803354dd9efe8e",
+      "title": "Efficient Variational Bayes Learning of Graphical Models With Smooth Structural Changes",
+      "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+      "year": 2020,
+      "referenceCount": 58,
+      "citationCount": 7,
+      "authors": [
+        {
+          "authorId": "37846778",
+          "name": "Hang Yu"
+        },
+        {
+          "authorId": "48915105",
+          "name": "Songwei Wu"
+        },
+        {
+          "authorId": "1681843",
+          "name": "J. Dauwels"
+        }
+      ]
+    },
+    {
+      "paperId": "7bea6c4c086162bd5ed7436a7c439d9513365b08",
+      "externalIds": {
+        "ArXiv": "2010.09370",
+        "DBLP": "conf/uai/UhrenholtCJ21",
+        "MAG": "3093444297",
+        "CorpusId": 224704489
+      },
+      "url": "https://www.semanticscholar.org/paper/7bea6c4c086162bd5ed7436a7c439d9513365b08",
+      "title": "Probabilistic selection of inducing points in sparse Gaussian processes",
+      "venue": "Conference on Uncertainty in Artificial Intelligence",
+      "year": 2020,
+      "referenceCount": 45,
+      "citationCount": 18,
+      "authors": [
+        {
+          "authorId": "73153880",
+          "name": "Anders Kirk Uhrenholt"
+        },
+        {
+          "authorId": "151243782",
+          "name": "V. Charvet"
+        },
+        {
+          "authorId": "11002730",
+          "name": "B. S. Jensen"
+        }
+      ]
+    },
+    {
+      "paperId": "ead503a6bf59a27ebb51a061a06143d99f5b4d33",
+      "externalIds": {
+        "MAG": "2133568543",
+        "DBLP": "journals/jmlr/ZhuAX12",
+        "DOI": "10.5555/2503308.2503315",
+        "CorpusId": 2052222
+      },
+      "url": "https://www.semanticscholar.org/paper/ead503a6bf59a27ebb51a061a06143d99f5b4d33",
+      "title": "MedLDA: maximum margin supervised topic models",
+      "venue": "Journal of machine learning research",
+      "year": 2012,
+      "referenceCount": 58,
+      "citationCount": 237,
+      "authors": [
+        {
+          "authorId": "145254043",
+          "name": "Jun Zhu"
+        },
+        {
+          "authorId": "143629707",
+          "name": "Amr Ahmed"
+        },
+        {
+          "authorId": "143977260",
+          "name": "E. Xing"
+        }
+      ]
+    },
+    {
+      "paperId": "fd1eb76b59d524339e711a1acc7b004bd92487e3",
+      "externalIds": {
+        "DBLP": "journals/neuroimage/SidenEBV17",
+        "MAG": "2418956736",
+        "ArXiv": "1606.00980",
+        "DOI": "10.1016/j.neuroimage.2016.11.040",
+        "CorpusId": 207201573,
+        "PubMed": "27876654"
+      },
+      "url": "https://www.semanticscholar.org/paper/fd1eb76b59d524339e711a1acc7b004bd92487e3",
+      "title": "Fast Bayesian whole‐brain fMRI analysis with spatial 3D priors",
+      "venue": "NeuroImage",
+      "year": 2016,
+      "referenceCount": 60,
+      "citationCount": 48,
+      "authors": [
+        {
+          "authorId": "9881510",
+          "name": "Per Sidén"
+        },
+        {
+          "authorId": "1409436948",
+          "name": "A. Eklund"
+        },
+        {
+          "authorId": "29974180",
+          "name": "D. Bolin"
+        },
+        {
+          "authorId": "1764448",
+          "name": "M. Villani"
+        }
+      ]
+    }
+  ]
+}

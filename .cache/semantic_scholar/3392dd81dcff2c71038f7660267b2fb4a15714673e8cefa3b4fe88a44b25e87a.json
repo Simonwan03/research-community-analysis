@@ -1,0 +1,339 @@
+{
+  "total": 31,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "bdf6572b67a6c5d8aacd39e1826db2c5c8f85716",
+      "externalIds": {
+        "DBLP": "conf/icml/ODonoghueOMM18",
+        "MAG": "2963751259",
+        "ArXiv": "1709.05380",
+        "CorpusId": 6201691
+      },
+      "url": "https://www.semanticscholar.org/paper/bdf6572b67a6c5d8aacd39e1826db2c5c8f85716",
+      "title": "The Uncertainty Bellman Equation and Exploration",
+      "venue": "International Conference on Machine Learning",
+      "year": 2017,
+      "referenceCount": 52,
+      "citationCount": 211,
+      "authors": [
+        {
+          "authorId": "1389654226",
+          "name": "Brendan O'Donoghue"
+        },
+        {
+          "authorId": "2561924",
+          "name": "Ian Osband"
+        },
+        {
+          "authorId": "1708654",
+          "name": "R. Munos"
+        },
+        {
+          "authorId": "3255983",
+          "name": "Volodymyr Mnih"
+        }
+      ]
+    },
+    {
+      "paperId": "5ea859c14079e7de64ae523b7196ca47f0f48341",
+      "externalIds": {
+        "DBLP": "conf/ijcnn/TosattoDPR019",
+        "MAG": "2977326086",
+        "DOI": "10.1109/IJCNN.2019.8851736",
+        "CorpusId": 84838788
+      },
+      "url": "https://www.semanticscholar.org/paper/5ea859c14079e7de64ae523b7196ca47f0f48341",
+      "title": "Exploration Driven by an Optimistic Bellman Equation",
+      "venue": "IEEE International Joint Conference on Neural Network",
+      "year": 2019,
+      "referenceCount": 43,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "20827107",
+          "name": "Samuele Tosatto"
+        },
+        {
+          "authorId": "1399348619",
+          "name": "Carlo D'Eramo"
+        },
+        {
+          "authorId": "34906504",
+          "name": "J. Pajarinen"
+        },
+        {
+          "authorId": "1792167",
+          "name": "Marcello Restelli"
+        },
+        {
+          "authorId": "145197867",
+          "name": "Jan Peters"
+        }
+      ]
+    },
+    {
+      "paperId": "d34ccb13696b35ef9a4e168fb22b705c193b5c66",
+      "externalIds": {
+        "ArXiv": "2506.13207",
+        "CorpusId": 279402846
+      },
+      "url": "https://www.semanticscholar.org/paper/d34ccb13696b35ef9a4e168fb22b705c193b5c66",
+      "title": "Research on Optimal Control Problem Based on Reinforcement Learning under Knightian Uncertainty",
+      "venue": "",
+      "year": 2025,
+      "referenceCount": 47,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2357041981",
+          "name": "Ziyu Li"
+        },
+        {
+          "authorId": "2019261334",
+          "name": "Chen Fei"
+        },
+        {
+          "authorId": "2273089424",
+          "name": "Weiyin Fei"
+        }
+      ]
+    },
+    {
+      "paperId": "2e03d9d745c1b8634201e0beff40512a7f66cf29",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2302-12526",
+        "ArXiv": "2302.12526",
+        "DOI": "10.48550/arXiv.2302.12526",
+        "CorpusId": 257206125
+      },
+      "url": "https://www.semanticscholar.org/paper/2e03d9d745c1b8634201e0beff40512a7f66cf29",
+      "title": "Model-Based Uncertainty in Value Functions",
+      "venue": "International Conference on Artificial Intelligence and Statistics",
+      "year": 2023,
+      "referenceCount": 39,
+      "citationCount": 19,
+      "authors": [
+        {
+          "authorId": "2470985",
+          "name": "Carlos E. Luis"
+        },
+        {
+          "authorId": "47846973",
+          "name": "A. Bottero"
+        },
+        {
+          "authorId": "3428828",
+          "name": "Julia Vinogradska"
+        },
+        {
+          "authorId": "2064772",
+          "name": "Felix Berkenkamp"
+        },
+        {
+          "authorId": "2107720654",
+          "name": "Jan Peters"
+        }
+      ]
+    },
+    {
+      "paperId": "6f40b8d2e73ec0bcc4d12ec2c7c8387d53c7727b",
+      "externalIds": {
+        "ArXiv": "1711.10789",
+        "MAG": "2774915412",
+        "DBLP": "journals/corr/abs-1711-10789",
+        "CorpusId": 21565462
+      },
+      "url": "https://www.semanticscholar.org/paper/6f40b8d2e73ec0bcc4d12ec2c7c8387d53c7727b",
+      "title": "Efficient exploration with Double Uncertain Value Networks",
+      "venue": "arXiv.org",
+      "year": 2017,
+      "referenceCount": 41,
+      "citationCount": 47,
+      "authors": [
+        {
+          "authorId": "13477045",
+          "name": "T. Moerland"
+        },
+        {
+          "authorId": "1735303",
+          "name": "J. Broekens"
+        },
+        {
+          "authorId": "1689001",
+          "name": "C. Jonker"
+        }
+      ]
+    },
+    {
+      "paperId": "63554d91a9c4915cc17583db205c40a37bc8005c",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2510-07650",
+        "ArXiv": "2510.07650",
+        "DOI": "10.48550/arXiv.2510.07650",
+        "CorpusId": 281950634
+      },
+      "url": "https://www.semanticscholar.org/paper/63554d91a9c4915cc17583db205c40a37bc8005c",
+      "title": "Value Flows",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "referenceCount": 85,
+      "citationCount": 4,
+      "authors": [
+        {
+          "authorId": "2259962143",
+          "name": "Perry Dong"
+        },
+        {
+          "authorId": "1382713388",
+          "name": "Chongyi Zheng"
+        },
+        {
+          "authorId": "2356856158",
+          "name": "Chelsea Finn"
+        },
+        {
+          "authorId": "1779671",
+          "name": "Dorsa Sadigh"
+        },
+        {
+          "authorId": "2364059876",
+          "name": "Benjamin Eysenbach"
+        }
+      ]
+    },
+    {
+      "paperId": "ecf576daf3e7d8d462c74c456d9ca4b940462871",
+      "externalIds": {
+        "DBLP": "journals/tase/ManoharanCH25",
+        "DOI": "10.1109/TASE.2025.3573814",
+        "CorpusId": 278915893
+      },
+      "url": "https://www.semanticscholar.org/paper/ecf576daf3e7d8d462c74c456d9ca4b940462871",
+      "title": "Conscious Frontier Analysis Model: Learning-Based Path Planning for PointGoal Navigation",
+      "venue": "IEEE Transactions on Automation Science and Engineering",
+      "year": 2025,
+      "referenceCount": 46,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "1382798784",
+          "name": "S. Manoharan"
+        },
+        {
+          "authorId": "2290020174",
+          "name": "Wei-Yu Chiu"
+        },
+        {
+          "authorId": "2267693241",
+          "name": "Chao-Tsung Huang"
+        }
+      ]
+    },
+    {
+      "paperId": "03367b0458e08105475dba32dbacee1fe0b7f311",
+      "externalIds": {
+        "MAG": "2945586853",
+        "DBLP": "journals/corr/abs-1905-08188",
+        "ArXiv": "1905.08188",
+        "CorpusId": 159041510
+      },
+      "url": "https://www.semanticscholar.org/paper/03367b0458e08105475dba32dbacee1fe0b7f311",
+      "title": "A Bayesian Approach to Robust Reinforcement Learning",
+      "venue": "Conference on Uncertainty in Artificial Intelligence",
+      "year": 2019,
+      "referenceCount": 37,
+      "citationCount": 72,
+      "authors": [
+        {
+          "authorId": "46818360",
+          "name": "E. Derman"
+        },
+        {
+          "authorId": "3187297",
+          "name": "D. Mankowitz"
+        },
+        {
+          "authorId": "2554720",
+          "name": "Timothy A. Mann"
+        },
+        {
+          "authorId": "1712535",
+          "name": "Shie Mannor"
+        }
+      ]
+    },
+    {
+      "paperId": "1484e502c74eee5979518fcebf795f38e6f0ff37",
+      "externalIds": {
+        "ArXiv": "2312.04386",
+        "DBLP": "journals/corr/abs-2312-04386",
+        "DOI": "10.48550/arXiv.2312.04386",
+        "CorpusId": 266044159
+      },
+      "url": "https://www.semanticscholar.org/paper/1484e502c74eee5979518fcebf795f38e6f0ff37",
+      "title": "Model-Based Epistemic Variance of Values for Risk-Aware Policy Optimization",
+      "venue": "arXiv.org",
+      "year": 2023,
+      "referenceCount": 72,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "2470985",
+          "name": "Carlos E. Luis"
+        },
+        {
+          "authorId": "47846973",
+          "name": "A. Bottero"
+        },
+        {
+          "authorId": "3428828",
+          "name": "Julia Vinogradska"
+        },
+        {
+          "authorId": "2064772",
+          "name": "Felix Berkenkamp"
+        },
+        {
+          "authorId": "2270868380",
+          "name": "Jan Peters"
+        }
+      ]
+    },
+    {
+      "paperId": "2f354bc1030d9c7c749ac28f750885954c07ef62",
+      "externalIds": {
+        "MAG": "3098737145",
+        "DBLP": "conf/ijcai/JeongZPL19",
+        "ArXiv": "1712.03333",
+        "DOI": "10.24963/ijcai.2019/362",
+        "CorpusId": 47016764
+      },
+      "url": "https://www.semanticscholar.org/paper/2f354bc1030d9c7c749ac28f750885954c07ef62",
+      "title": "Assumed Density Filtering Q-learning",
+      "venue": "International Joint Conference on Artificial Intelligence",
+      "year": 2017,
+      "referenceCount": 47,
+      "citationCount": 7,
+      "authors": [
+        {
+          "authorId": "2346288",
+          "name": "Heejin Jeong"
+        },
+        {
+          "authorId": "2111325947",
+          "name": "Clark Zhang"
+        },
+        {
+          "authorId": "143770945",
+          "name": "George Pappas"
+        },
+        {
+          "authorId": "2124216699",
+          "name": "Daniel D. Lee"
+        }
+      ]
+    }
+  ]
+}

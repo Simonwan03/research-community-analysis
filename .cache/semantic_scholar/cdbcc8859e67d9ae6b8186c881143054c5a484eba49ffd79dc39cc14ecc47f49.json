@@ -1,0 +1,270 @@
+{
+  "total": 26,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "a84abcdfb3ef8e55ba5576ea056443b7f1fd6fa5",
+      "externalIds": {
+        "MAG": "2962910243",
+        "ArXiv": "1711.03441",
+        "DBLP": "journals/corr/abs-1711-03441",
+        "CorpusId": 2338522
+      },
+      "url": "https://www.semanticscholar.org/paper/a84abcdfb3ef8e55ba5576ea056443b7f1fd6fa5",
+      "title": "Regret Minimization in Behaviorally-Constrained Zero-Sum Games",
+      "venue": "International Conference on Machine Learning",
+      "year": 2017,
+      "referenceCount": 36,
+      "citationCount": 26,
+      "authors": [
+        {
+          "authorId": "81885589",
+          "name": "Gabriele Farina"
+        },
+        {
+          "authorId": "2211504",
+          "name": "Christian Kroer"
+        },
+        {
+          "authorId": "145714168",
+          "name": "T. Sandholm"
+        }
+      ]
+    },
+    {
+      "paperId": "2caf056de1ca914c5282a8b7a7c0f6c50f58d61f",
+      "externalIds": {
+        "DBLP": "conf/icml/GhimireZ0R24",
+        "ArXiv": "2403.02741",
+        "DOI": "10.48550/arXiv.2403.02741",
+        "CorpusId": 268248732
+      },
+      "url": "https://www.semanticscholar.org/paper/2caf056de1ca914c5282a8b7a7c0f6c50f58d61f",
+      "title": "State-Constrained Zero-Sum Differential Games with One-Sided Information",
+      "venue": "International Conference on Machine Learning",
+      "year": 2024,
+      "referenceCount": 23,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "88738940",
+          "name": "Mukesh Ghimire"
+        },
+        {
+          "authorId": "2256831482",
+          "name": "Lei Zhang"
+        },
+        {
+          "authorId": "12064073",
+          "name": "Zhenni Xu"
+        },
+        {
+          "authorId": "2254126581",
+          "name": "Yi Ren"
+        }
+      ]
+    },
+    {
+      "paperId": "62935f3ddd1d4825b36b3a0007729402a041b3d9",
+      "externalIds": {
+        "CorpusId": 27669787
+      },
+      "url": "https://www.semanticscholar.org/paper/62935f3ddd1d4825b36b3a0007729402a041b3d9",
+      "title": "Multi-Agent Counterfactual Regret Minimization for Partial-Information Collaborative Games",
+      "venue": "",
+      "year": 2017,
+      "referenceCount": 5,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "79769218",
+          "name": "M. Hartley"
+        }
+      ]
+    },
+    {
+      "paperId": "3e92e3379ed0d1ec4063a4074dcf5c04de2a723b",
+      "externalIds": {
+        "ArXiv": "2509.25618",
+        "DBLP": "journals/corr/abs-2509-25618",
+        "DOI": "10.48550/arXiv.2509.25618",
+        "CorpusId": 281682477
+      },
+      "url": "https://www.semanticscholar.org/paper/3e92e3379ed0d1ec4063a4074dcf5c04de2a723b",
+      "title": "Quadratic Programming Approach for Nash Equilibrium Computation in Multiplayer Imperfect-Information Games",
+      "venue": "Games",
+      "year": 2025,
+      "referenceCount": 32,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "1704808",
+          "name": "Sam Ganzfried"
+        }
+      ]
+    },
+    {
+      "paperId": "1db0abda41d464ad4fddadc099ec1cff126b548c",
+      "externalIds": {
+        "ArXiv": "1905.08396",
+        "DBLP": "conf/colt/CheungP19",
+        "MAG": "2945065307",
+        "CorpusId": 160009828
+      },
+      "url": "https://www.semanticscholar.org/paper/1db0abda41d464ad4fddadc099ec1cff126b548c",
+      "title": "Vortices Instead of Equilibria in MinMax Optimization: Chaos and Butterfly Effects of Online Learning in Zero-Sum Games",
+      "venue": "Annual Conference Computational Learning Theory",
+      "year": 2019,
+      "referenceCount": 33,
+      "citationCount": 67,
+      "authors": [
+        {
+          "authorId": "1728081",
+          "name": "Yun Kuen Cheung"
+        },
+        {
+          "authorId": "1787822",
+          "name": "G. Piliouras"
+        }
+      ]
+    },
+    {
+      "paperId": "d0797666c87d8fa560816fce158885a8911451fa",
+      "externalIds": {
+        "MAG": "2811481615",
+        "DBLP": "conf/sigecom/BaileyP18",
+        "DOI": "10.1145/3219166.3219235",
+        "CorpusId": 49303122
+      },
+      "url": "https://www.semanticscholar.org/paper/d0797666c87d8fa560816fce158885a8911451fa",
+      "title": "Multiplicative Weights Update in Zero-Sum Games",
+      "venue": "ACM Conference on Economics and Computation",
+      "year": 2018,
+      "referenceCount": 30,
+      "citationCount": 150,
+      "authors": [
+        {
+          "authorId": "145148587",
+          "name": "James P. Bailey"
+        },
+        {
+          "authorId": "1787822",
+          "name": "G. Piliouras"
+        }
+      ]
+    },
+    {
+      "paperId": "178e11d5c46976ec45eeb6013d7b16a22891568e",
+      "externalIds": {
+        "DBLP": "conf/nips/WibisonoTP22",
+        "ArXiv": "2206.04160",
+        "DOI": "10.48550/arXiv.2206.04160",
+        "CorpusId": 249538523
+      },
+      "url": "https://www.semanticscholar.org/paper/178e11d5c46976ec45eeb6013d7b16a22891568e",
+      "title": "Alternating Mirror Descent for Constrained Min-Max Games",
+      "venue": "Neural Information Processing Systems",
+      "year": 2022,
+      "referenceCount": 34,
+      "citationCount": 23,
+      "authors": [
+        {
+          "authorId": "2951227",
+          "name": "Andre Wibisono"
+        },
+        {
+          "authorId": "46699279",
+          "name": "Molei Tao"
+        },
+        {
+          "authorId": "1787822",
+          "name": "G. Piliouras"
+        }
+      ]
+    },
+    {
+      "paperId": "afe6b57605af91525dad183171e3a850e599841f",
+      "externalIds": {
+        "MAG": "2951018912",
+        "DBLP": "journals/corr/abs-1804-06500",
+        "ArXiv": "1804.06500",
+        "CorpusId": 4943927
+      },
+      "url": "https://www.semanticscholar.org/paper/afe6b57605af91525dad183171e3a850e599841f",
+      "title": "Two-Player Games for Efficient Non-Convex Constrained Optimization",
+      "venue": "International Conference on Algorithmic Learning Theory",
+      "year": 2018,
+      "referenceCount": 40,
+      "citationCount": 128,
+      "authors": [
+        {
+          "authorId": "145658292",
+          "name": "Andrew Cotter"
+        },
+        {
+          "authorId": "34710991",
+          "name": "Heinrich Jiang"
+        },
+        {
+          "authorId": "37564609",
+          "name": "Karthik Sridharan"
+        }
+      ]
+    },
+    {
+      "paperId": "1aad30f805818caf4ad6ab05aabc2a2632d655b8",
+      "externalIds": {
+        "ArXiv": "2203.14126",
+        "DBLP": "journals/corr/abs-2203-14126",
+        "DOI": "10.48550/arXiv.2203.14126",
+        "CorpusId": 247741204
+      },
+      "url": "https://www.semanticscholar.org/paper/1aad30f805818caf4ad6ab05aabc2a2632d655b8",
+      "title": "Robust No-Regret Learning in Min-Max Stackelberg Games",
+      "venue": "Adaptive Agents and Multi-Agent Systems",
+      "year": 2022,
+      "referenceCount": 78,
+      "citationCount": 13,
+      "authors": [
+        {
+          "authorId": "2120037793",
+          "name": "Denizalp Goktas"
+        },
+        {
+          "authorId": "2139310631",
+          "name": "Jiayi Zhao"
+        },
+        {
+          "authorId": "144000392",
+          "name": "A. Greenwald"
+        }
+      ]
+    },
+    {
+      "paperId": "5d867570719a2397ed563b29e3dbf2a3a2422775",
+      "externalIds": {
+        "DBLP": "conf/colt/MannorS01",
+        "MAG": "1487452479",
+        "DOI": "10.1007/3-540-44581-1_9",
+        "CorpusId": 17263173
+      },
+      "url": "https://www.semanticscholar.org/paper/5d867570719a2397ed563b29e3dbf2a3a2422775",
+      "title": "Adaptive Strategies and Regret Minimization in Arbitrarily Varying Markov Environments",
+      "venue": "COLT/EuroCOLT",
+      "year": 2001,
+      "referenceCount": 23,
+      "citationCount": 9,
+      "authors": [
+        {
+          "authorId": "1712535",
+          "name": "Shie Mannor"
+        },
+        {
+          "authorId": "1742179",
+          "name": "N. Shimkin"
+        }
+      ]
+    }
+  ]
+}

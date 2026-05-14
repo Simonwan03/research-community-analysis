@@ -1,0 +1,335 @@
+{
+  "total": 2123,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "108b2ea6100d71fd25e3f71743c1e5c4674d6d8c",
+      "externalIds": {
+        "DBLP": "conf/icml/PapiniBCPR18",
+        "MAG": "2963457007",
+        "ArXiv": "1806.05618",
+        "CorpusId": 49214103
+      },
+      "url": "https://www.semanticscholar.org/paper/108b2ea6100d71fd25e3f71743c1e5c4674d6d8c",
+      "title": "Stochastic Variance-Reduced Policy Gradient",
+      "venue": "International Conference on Machine Learning",
+      "year": 2018,
+      "referenceCount": 46,
+      "citationCount": 206,
+      "authors": [
+        {
+          "authorId": "145388375",
+          "name": "M. Papini"
+        },
+        {
+          "authorId": "51035180",
+          "name": "Damiano Binaghi"
+        },
+        {
+          "authorId": "51032963",
+          "name": "Giuseppe Canonaco"
+        },
+        {
+          "authorId": "6234609",
+          "name": "Matteo Pirotta"
+        },
+        {
+          "authorId": "1792167",
+          "name": "Marcello Restelli"
+        }
+      ]
+    },
+    {
+      "paperId": "06fa638770b512703ef74c64642b80a8d2c26fc9",
+      "externalIds": {
+        "ArXiv": "1905.12615",
+        "DBLP": "conf/uai/XuGG19",
+        "MAG": "2964410826",
+        "CorpusId": 168170128
+      },
+      "url": "https://www.semanticscholar.org/paper/06fa638770b512703ef74c64642b80a8d2c26fc9",
+      "title": "An Improved Convergence Analysis of Stochastic Variance-Reduced Policy Gradient",
+      "venue": "Conference on Uncertainty in Artificial Intelligence",
+      "year": 2019,
+      "referenceCount": 41,
+      "citationCount": 108,
+      "authors": [
+        {
+          "authorId": "47568847",
+          "name": "Pan Xu"
+        },
+        {
+          "authorId": "83988382",
+          "name": "F. Gao"
+        },
+        {
+          "authorId": "9937103",
+          "name": "Quanquan Gu"
+        }
+      ]
+    },
+    {
+      "paperId": "9b473ef61044c881d4e86cec71fdc971c8f0892c",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2309-10679",
+        "ArXiv": "2309.10679",
+        "DOI": "10.23919/ACC60939.2024.10644167",
+        "CorpusId": 262054948
+      },
+      "url": "https://www.semanticscholar.org/paper/9b473ef61044c881d4e86cec71fdc971c8f0892c",
+      "title": "Oracle Complexity Reduction for Model-Free LQR: A Stochastic Variance-Reduced Policy Gradient Approach",
+      "venue": "American Control Conference",
+      "year": 2023,
+      "referenceCount": 29,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "2185561609",
+          "name": "Leonardo F. Toso"
+        },
+        {
+          "authorId": "2243661133",
+          "name": "Han Wang"
+        },
+        {
+          "authorId": "2243176532",
+          "name": "James Anderson"
+        }
+      ]
+    },
+    {
+      "paperId": "8b6edbdf22c6417b265838c6b1d8c35520abdc2d",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2102-08607",
+        "ArXiv": "2102.08607",
+        "CorpusId": 231942789
+      },
+      "url": "https://www.semanticscholar.org/paper/8b6edbdf22c6417b265838c6b1d8c35520abdc2d",
+      "title": "On the Convergence and Sample Efficiency of Variance-Reduced Policy Gradient Method",
+      "venue": "Neural Information Processing Systems",
+      "year": 2021,
+      "referenceCount": 59,
+      "citationCount": 81,
+      "authors": [
+        {
+          "authorId": "1753620840",
+          "name": "Junyu Zhang"
+        },
+        {
+          "authorId": "103688818",
+          "name": "Chengzhuo Ni"
+        },
+        {
+          "authorId": "2116732431",
+          "name": "Zheng Yu"
+        },
+        {
+          "authorId": "40868287",
+          "name": "Csaba Szepesvari"
+        },
+        {
+          "authorId": "2268167170",
+          "name": "Mengdi Wang"
+        }
+      ]
+    },
+    {
+      "paperId": "0597b6577478bfb6f1438a71db38f2f3f348c84f",
+      "externalIds": {
+        "DBLP": "conf/nips/WaiHYWT19",
+        "MAG": "2970553582",
+        "CorpusId": 202771614
+      },
+      "url": "https://www.semanticscholar.org/paper/0597b6577478bfb6f1438a71db38f2f3f348c84f",
+      "title": "Variance Reduced Policy Evaluation with Smooth Function Approximation",
+      "venue": "Neural Information Processing Systems",
+      "year": 2019,
+      "referenceCount": 45,
+      "citationCount": 36,
+      "authors": [
+        {
+          "authorId": "2627442",
+          "name": "Hoi-To Wai"
+        },
+        {
+          "authorId": "1793717",
+          "name": "Mingyi Hong"
+        },
+        {
+          "authorId": "150358650",
+          "name": "Zhuoran Yang"
+        },
+        {
+          "authorId": "3113442",
+          "name": "Zhaoran Wang"
+        },
+        {
+          "authorId": "47526125",
+          "name": "Kexin Tang"
+        }
+      ]
+    },
+    {
+      "paperId": "497a81d49b4cc98454cc89ba130f70eb8b58ac07",
+      "externalIds": {
+        "MAG": "2767133776",
+        "DBLP": "journals/corr/abs-1710-06034",
+        "ArXiv": "1710.06034",
+        "CorpusId": 4380676
+      },
+      "url": "https://www.semanticscholar.org/paper/497a81d49b4cc98454cc89ba130f70eb8b58ac07",
+      "title": "Stochastic Variance Reduction for Policy Gradient Estimation",
+      "venue": "arXiv.org",
+      "year": 2017,
+      "referenceCount": 31,
+      "citationCount": 22,
+      "authors": [
+        {
+          "authorId": "35533477",
+          "name": "Tianbing Xu"
+        },
+        {
+          "authorId": "47362268",
+          "name": "Qiang Liu"
+        },
+        {
+          "authorId": "143718676",
+          "name": "Jian Peng"
+        }
+      ]
+    },
+    {
+      "paperId": "da77c149fdb32d99e4dbb50597b905f30ace2323",
+      "externalIds": {
+        "MAG": "2974544365",
+        "DBLP": "conf/iclr/0001GG20",
+        "ArXiv": "1909.08610",
+        "CorpusId": 202660778
+      },
+      "url": "https://www.semanticscholar.org/paper/da77c149fdb32d99e4dbb50597b905f30ace2323",
+      "title": "Sample Efficient Policy Gradient Methods with Recursive Variance Reduction",
+      "venue": "International Conference on Learning Representations",
+      "year": 2019,
+      "referenceCount": 64,
+      "citationCount": 99,
+      "authors": [
+        {
+          "authorId": "47568847",
+          "name": "Pan Xu"
+        },
+        {
+          "authorId": "83988382",
+          "name": "F. Gao"
+        },
+        {
+          "authorId": "9937103",
+          "name": "Quanquan Gu"
+        }
+      ]
+    },
+    {
+      "paperId": "eca9cf6821811672e0f13c9b74f2ecdeec13f79e",
+      "externalIds": {
+        "MAG": "3009440920",
+        "ArXiv": "2003.04302",
+        "DBLP": "journals/corr/abs-2003-04302",
+        "CorpusId": 212634292
+      },
+      "url": "https://www.semanticscholar.org/paper/eca9cf6821811672e0f13c9b74f2ecdeec13f79e",
+      "title": "Stochastic Recursive Momentum for Policy Gradient Methods",
+      "venue": "arXiv.org",
+      "year": 2020,
+      "referenceCount": 27,
+      "citationCount": 35,
+      "authors": [
+        {
+          "authorId": "46192070",
+          "name": "Huizhuo Yuan"
+        },
+        {
+          "authorId": "2922996",
+          "name": "Xiangru Lian"
+        },
+        {
+          "authorId": "40478933",
+          "name": "Ji Liu"
+        },
+        {
+          "authorId": "11362141",
+          "name": "Yuren Zhou"
+        }
+      ]
+    },
+    {
+      "paperId": "76bffc0859d0232b05b17e1c22aa4d46e64fbf87",
+      "externalIds": {
+        "MAG": "2948000265",
+        "DBLP": "conf/nips/LanLZ19",
+        "ArXiv": "1905.12412",
+        "CorpusId": 168169604
+      },
+      "url": "https://www.semanticscholar.org/paper/76bffc0859d0232b05b17e1c22aa4d46e64fbf87",
+      "title": "A unified variance-reduced accelerated gradient method for convex optimization",
+      "venue": "Neural Information Processing Systems",
+      "year": 2019,
+      "referenceCount": 29,
+      "citationCount": 67,
+      "authors": [
+        {
+          "authorId": "2070945",
+          "name": "Guanghui Lan"
+        },
+        {
+          "authorId": "2109714604",
+          "name": "Zhize Li"
+        },
+        {
+          "authorId": "2118764630",
+          "name": "Yi Zhou"
+        }
+      ]
+    },
+    {
+      "paperId": "a2af9d0d41fb44cd3bf9e7bd2a95ab9c42828367",
+      "externalIds": {
+        "MAG": "3037116500",
+        "ArXiv": "2003.00430",
+        "DBLP": "journals/corr/abs-2003-00430",
+        "CorpusId": 211677770
+      },
+      "url": "https://www.semanticscholar.org/paper/a2af9d0d41fb44cd3bf9e7bd2a95ab9c42828367",
+      "title": "A Hybrid Stochastic Policy Gradient Algorithm for Reinforcement Learning",
+      "venue": "International Conference on Artificial Intelligence and Statistics",
+      "year": 2020,
+      "referenceCount": 62,
+      "citationCount": 28,
+      "authors": [
+        {
+          "authorId": "39424346",
+          "name": "Nhan H. Pham"
+        },
+        {
+          "authorId": "144274166",
+          "name": "Lam M. Nguyen"
+        },
+        {
+          "authorId": "41128347",
+          "name": "D. Phan"
+        },
+        {
+          "authorId": "143671628",
+          "name": "Phuong Ha Nguyen"
+        },
+        {
+          "authorId": "144534186",
+          "name": "Marten van Dijk"
+        },
+        {
+          "authorId": "1403374767",
+          "name": "Quoc Tran-Dinh"
+        }
+      ]
+    }
+  ]
+}

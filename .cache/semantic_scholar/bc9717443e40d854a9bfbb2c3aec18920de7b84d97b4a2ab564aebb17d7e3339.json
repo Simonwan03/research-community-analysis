@@ -1,0 +1,225 @@
+{
+  "total": 8,
+  "offset": 0,
+  "data": [
+    {
+      "paperId": "076640ac71435176b70d59d8dc03f64312dbc2ad",
+      "externalIds": {
+        "DBLP": "conf/icml/LiuZCWY18",
+        "MAG": "2803444541",
+        "CorpusId": 47010682
+      },
+      "url": "https://www.semanticscholar.org/paper/076640ac71435176b70d59d8dc03f64312dbc2ad",
+      "title": "Fast Stochastic AUC Maximization with O(1/n)-Convergence Rate",
+      "venue": "International Conference on Machine Learning",
+      "year": 2018,
+      "referenceCount": 19,
+      "citationCount": 69,
+      "authors": [
+        {
+          "authorId": "14697929",
+          "name": "Mingrui Liu"
+        },
+        {
+          "authorId": "2108100740",
+          "name": "Xiaoxuan Zhang"
+        },
+        {
+          "authorId": "2424252",
+          "name": "Zaiyi Chen"
+        },
+        {
+          "authorId": "2118775664",
+          "name": "Xiaoyu Wang"
+        },
+        {
+          "authorId": "40381920",
+          "name": "Tianbao Yang"
+        }
+      ]
+    },
+    {
+      "paperId": "c4af7a8b6c8f78e664b955511bc7083befaffb40",
+      "externalIds": {
+        "DBLP": "journals/jmlr/LeiY21",
+        "MAG": "2952288970",
+        "ArXiv": "1906.06053",
+        "CorpusId": 189898374
+      },
+      "url": "https://www.semanticscholar.org/paper/c4af7a8b6c8f78e664b955511bc7083befaffb40",
+      "title": "Stochastic Proximal AUC Maximization",
+      "venue": "Journal of machine learning research",
+      "year": 2019,
+      "referenceCount": 59,
+      "citationCount": 30,
+      "authors": [
+        {
+          "authorId": "2365013",
+          "name": "Yunwen Lei"
+        },
+        {
+          "authorId": "144359603",
+          "name": "Yiming Ying"
+        }
+      ]
+    },
+    {
+      "paperId": "451f4fd655ae0eb08fa3f7eefaef5626e7599811",
+      "externalIds": {
+        "CorpusId": 235252425
+      },
+      "url": "https://www.semanticscholar.org/paper/451f4fd655ae0eb08fa3f7eefaef5626e7599811",
+      "title": "University of Birmingham Stochastic proximal AUC maximization",
+      "venue": "",
+      "year": 2021,
+      "referenceCount": 57,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2090477448",
+          "name": "Yunwen Lei"
+        },
+        {
+          "authorId": "144359603",
+          "name": "Yiming Ying"
+        }
+      ]
+    },
+    {
+      "paperId": "a40ed2ce17d3a05d69b4c6768ef2de85321df776",
+      "externalIds": {
+        "ArXiv": "2312.07998",
+        "CorpusId": 266191788
+      },
+      "url": "https://www.semanticscholar.org/paper/a40ed2ce17d3a05d69b4c6768ef2de85321df776",
+      "title": "Fast convergence of sample-average approximation for saddle-point problems",
+      "venue": "",
+      "year": 2023,
+      "referenceCount": 40,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2153299163",
+          "name": "Vitali Pirau"
+        }
+      ]
+    },
+    {
+      "paperId": "ef6a4d065c215680c4abf0eba1fce14b21d4187f",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-1904-10112",
+        "ArXiv": "1904.10112",
+        "MAG": "2941661981",
+        "CorpusId": 128360679
+      },
+      "url": "https://www.semanticscholar.org/paper/ef6a4d065c215680c4abf0eba1fce14b21d4187f",
+      "title": "Stochastic Primal-Dual Algorithms with Faster Convergence than O(1/√T) for Problems without Bilinear Structure",
+      "venue": "arXiv.org",
+      "year": 2019,
+      "referenceCount": 36,
+      "citationCount": 37,
+      "authors": [
+        {
+          "authorId": "144761066",
+          "name": "Yan Yan"
+        },
+        {
+          "authorId": "2110289529",
+          "name": "Yi Xu"
+        },
+        {
+          "authorId": "39436683",
+          "name": "Qihang Lin"
+        },
+        {
+          "authorId": "2108876951",
+          "name": "Lijun Zhang"
+        },
+        {
+          "authorId": "40381920",
+          "name": "Tianbao Yang"
+        }
+      ]
+    },
+    {
+      "paperId": "c429a534a9fe896c15e9fc5aaa9bd0cc3e0807a0",
+      "externalIds": {
+        "MAG": "2744898008",
+        "ArXiv": "1708.01072",
+        "DBLP": "journals/corr/abs-1708-01072",
+        "DOI": "10.1137/17M1141904",
+        "CorpusId": 30552850
+      },
+      "url": "https://www.semanticscholar.org/paper/c429a534a9fe896c15e9fc5aaa9bd0cc3e0807a0",
+      "title": "A Sparse Completely Positive Relaxation of the Modularity Maximization for Community Detection",
+      "venue": "SIAM Journal on Scientific Computing",
+      "year": 2017,
+      "referenceCount": 38,
+      "citationCount": 17,
+      "authors": [
+        {
+          "authorId": "1753620840",
+          "name": "Junyu Zhang"
+        },
+        {
+          "authorId": "46935468",
+          "name": "Haoyang Liu"
+        },
+        {
+          "authorId": "3293339",
+          "name": "Zaiwen Wen"
+        },
+        {
+          "authorId": "50202049",
+          "name": "Shuzhong Zhang"
+        }
+      ]
+    },
+    {
+      "paperId": "a1589abedf83b8546ed71692b30a93b09854641e",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2111-05232",
+        "ArXiv": "2111.05232",
+        "DOI": "10.1109/TPAMI.2023.3259324",
+        "CorpusId": 243860828,
+        "PubMed": "37030773"
+      },
+      "url": "https://www.semanticscholar.org/paper/a1589abedf83b8546ed71692b30a93b09854641e",
+      "title": "Learning Rates for Nonconvex Pairwise Learning",
+      "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+      "year": 2021,
+      "referenceCount": 103,
+      "citationCount": 4,
+      "authors": [
+        {
+          "authorId": "50341794",
+          "name": "Shaojie Li"
+        },
+        {
+          "authorId": "2144384857",
+          "name": "Yong Liu"
+        }
+      ]
+    },
+    {
+      "paperId": "dd401bb36bc29133c15a528748d3cebe08beb140",
+      "externalIds": {
+        "MAG": "2900789046",
+        "DOI": "10.17077/ETD.3WQPPZ1K",
+        "CorpusId": 198793138
+      },
+      "url": "https://www.semanticscholar.org/paper/dd401bb36bc29133c15a528748d3cebe08beb140",
+      "title": "Online learning for imbalanced data: optimizing asymmetric measures",
+      "venue": "",
+      "year": 2018,
+      "referenceCount": 93,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2108100740",
+          "name": "Xiaoxuan Zhang"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,311 @@
+{
+  "total": 3730,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "27760cc69be4ce445962ccb270a02d1944a9d4c9",
+      "externalIds": {
+        "MAG": "2952665334",
+        "ArXiv": "1608.05343",
+        "DBLP": "conf/icml/JaderbergCOVGSK17",
+        "CorpusId": 5615093
+      },
+      "url": "https://www.semanticscholar.org/paper/27760cc69be4ce445962ccb270a02d1944a9d4c9",
+      "title": "Decoupled Neural Interfaces using Synthetic Gradients",
+      "venue": "International Conference on Machine Learning",
+      "year": 2016,
+      "referenceCount": 35,
+      "citationCount": 403,
+      "authors": [
+        {
+          "authorId": "3093886",
+          "name": "Max Jaderberg"
+        },
+        {
+          "authorId": "144792148",
+          "name": "Wojciech M. Czarnecki"
+        },
+        {
+          "authorId": "2217144",
+          "name": "Simon Osindero"
+        },
+        {
+          "authorId": "1689108",
+          "name": "O. Vinyals"
+        },
+        {
+          "authorId": "1753223",
+          "name": "Alex Graves"
+        },
+        {
+          "authorId": "145824029",
+          "name": "David Silver"
+        },
+        {
+          "authorId": "2645384",
+          "name": "K. Kavukcuoglu"
+        }
+      ]
+    },
+    {
+      "paperId": "304594e8ce2f917732146cbef566dc74de44c09d",
+      "externalIds": {
+        "CorpusId": 8732828
+      },
+      "url": "https://www.semanticscholar.org/paper/304594e8ce2f917732146cbef566dc74de44c09d",
+      "title": "Material for Decoupled Neural Interfaces using Synthetic Gradients",
+      "venue": "",
+      "year": 2017,
+      "referenceCount": 15,
+      "citationCount": 1,
+      "authors": []
+    },
+    {
+      "paperId": "049139382018f07899c8686437a60e8fe623e8a1",
+      "externalIds": {
+        "MAG": "2962723887",
+        "DBLP": "journals/corr/CzarneckiSJOVK17",
+        "ArXiv": "1703.00522",
+        "CorpusId": 8489617
+      },
+      "url": "https://www.semanticscholar.org/paper/049139382018f07899c8686437a60e8fe623e8a1",
+      "title": "Understanding Synthetic Gradients and Decoupled Neural Interfaces",
+      "venue": "International Conference on Machine Learning",
+      "year": 2017,
+      "referenceCount": 22,
+      "citationCount": 91,
+      "authors": [
+        {
+          "authorId": "144792148",
+          "name": "Wojciech M. Czarnecki"
+        },
+        {
+          "authorId": "1782475",
+          "name": "G. Swirszcz"
+        },
+        {
+          "authorId": "3093886",
+          "name": "Max Jaderberg"
+        },
+        {
+          "authorId": "2217144",
+          "name": "Simon Osindero"
+        },
+        {
+          "authorId": "1689108",
+          "name": "O. Vinyals"
+        },
+        {
+          "authorId": "2645384",
+          "name": "K. Kavukcuoglu"
+        }
+      ]
+    },
+    {
+      "paperId": "ebe0681c68bdf6f66cde53647c7a87914add6161",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-1712-08314",
+        "MAG": "2779724516",
+        "ArXiv": "1712.08314",
+        "CorpusId": 9201290
+      },
+      "url": "https://www.semanticscholar.org/paper/ebe0681c68bdf6f66cde53647c7a87914add6161",
+      "title": "Benchmarking Decoupled Neural Interfaces with Synthetic Gradients",
+      "venue": "arXiv.org",
+      "year": 2017,
+      "referenceCount": 24,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "19182651",
+          "name": "Ekaba Bisong"
+        }
+      ]
+    },
+    {
+      "paperId": "0e588ae72bb5d0fe6bad8a92d6c9f1d48eacadd8",
+      "externalIds": {
+        "DBLP": "conf/mm/Lyu0H24",
+        "ArXiv": "2404.11401",
+        "DOI": "10.1145/3664647.3681290",
+        "CorpusId": 269187832
+      },
+      "url": "https://www.semanticscholar.org/paper/0e588ae72bb5d0fe6bad8a92d6c9f1d48eacadd8",
+      "title": "RainyScape: Unsupervised Rainy Scene Reconstruction using Decoupled Neural Rendering",
+      "venue": "ACM Multimedia",
+      "year": 2024,
+      "referenceCount": 63,
+      "citationCount": 7,
+      "authors": [
+        {
+          "authorId": "2004173843",
+          "name": "Xianqiang Lyu"
+        },
+        {
+          "authorId": "2146673352",
+          "name": "Hui Liu"
+        },
+        {
+          "authorId": "2290131954",
+          "name": "Junhui Hou"
+        }
+      ]
+    },
+    {
+      "paperId": "4c53c230a5890b0d1d0b10aeeadf50f062e447ea",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2408-14951",
+        "ArXiv": "2408.14951",
+        "DOI": "10.48550/arXiv.2408.14951",
+        "CorpusId": 271963001
+      },
+      "url": "https://www.semanticscholar.org/paper/4c53c230a5890b0d1d0b10aeeadf50f062e447ea",
+      "title": "Domain-decoupled Physics-informed Neural Networks with Closed-form Gradients for Fast Model Learning of Dynamical Systems",
+      "venue": "International Conference on Informatics in Control, Automation and Robotics",
+      "year": 2024,
+      "referenceCount": 36,
+      "citationCount": 6,
+      "authors": [
+        {
+          "authorId": "2317010517",
+          "name": "Henrik Krauss"
+        },
+        {
+          "authorId": "1395901176",
+          "name": "Tim-Lukas Habich"
+        },
+        {
+          "authorId": "2135703195",
+          "name": "Max Bartholdt"
+        },
+        {
+          "authorId": "2265419902",
+          "name": "Thomas Seel"
+        },
+        {
+          "authorId": "2523129",
+          "name": "Moritz Schappler"
+        }
+      ]
+    },
+    {
+      "paperId": "fa28e9f99ba7a9c7b2d8d95b81b81590e7bddce5",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-1906-09108",
+        "ArXiv": "1906.09108",
+        "MAG": "2952857865",
+        "DOI": "10.1109/TNNLS.2021.3069883",
+        "CorpusId": 195316634,
+        "PubMed": "33835926"
+      },
+      "url": "https://www.semanticscholar.org/paper/fa28e9f99ba7a9c7b2d8d95b81b81590e7bddce5",
+      "title": "Fully Decoupled Neural Network Learning Using Delayed Gradients",
+      "venue": "IEEE Transactions on Neural Networks and Learning Systems",
+      "year": 2019,
+      "referenceCount": 41,
+      "citationCount": 35,
+      "authors": [
+        {
+          "authorId": "8841273",
+          "name": "Huiping Zhuang"
+        },
+        {
+          "authorId": "2154461188",
+          "name": "Yi Wang"
+        },
+        {
+          "authorId": "9631055",
+          "name": "Qinglai Liu"
+        },
+        {
+          "authorId": "145558868",
+          "name": "Zhiping Lin"
+        }
+      ]
+    },
+    {
+      "paperId": "956b83eff99811bb0c782e4b90e64e95eef30117",
+      "externalIds": {
+        "ArXiv": "2401.07044",
+        "DBLP": "journals/tmlr/PembertonC24",
+        "DOI": "10.48550/arXiv.2401.07044",
+        "CorpusId": 266999507
+      },
+      "url": "https://www.semanticscholar.org/paper/956b83eff99811bb0c782e4b90e64e95eef30117",
+      "title": "BP(λ): Online Learning via Synthetic Gradients",
+      "venue": "Trans. Mach. Learn. Res.",
+      "year": 2024,
+      "referenceCount": 0,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2106114974",
+          "name": "Joe Pemberton"
+        },
+        {
+          "authorId": "2279611374",
+          "name": "Rui Ponte Costa"
+        }
+      ]
+    },
+    {
+      "paperId": "1260650f28ac7212e2048feaf5b5f05794de5cb1",
+      "externalIds": {
+        "CorpusId": 251909693
+      },
+      "url": "https://www.semanticscholar.org/paper/1260650f28ac7212e2048feaf5b5f05794de5cb1",
+      "title": "C ORTICO - CEREBELLAR NETWORKS AS DECOUPLED NEURAL INTERFACES",
+      "venue": "",
+      "year": 2020,
+      "referenceCount": 70,
+      "citationCount": 0,
+      "authors": []
+    },
+    {
+      "paperId": "9c0653942342d31191251a402fb7467a9d62fe6d",
+      "externalIds": {
+        "ArXiv": "2104.12282",
+        "DBLP": "conf/ijcnn/ZhangCCTMSP21",
+        "DOI": "10.1109/IJCNN52387.2021.9533789",
+        "CorpusId": 233393734
+      },
+      "url": "https://www.semanticscholar.org/paper/9c0653942342d31191251a402fb7467a9d62fe6d",
+      "title": "Speeding up Computational Morphogenesis with Online Neural Synthetic Gradients",
+      "venue": "IEEE International Joint Conference on Neural Network",
+      "year": 2021,
+      "referenceCount": 48,
+      "citationCount": 6,
+      "authors": [
+        {
+          "authorId": "2108307075",
+          "name": "Yuyu Zhang"
+        },
+        {
+          "authorId": "2005236436",
+          "name": "Heng Chi"
+        },
+        {
+          "authorId": "2146712011",
+          "name": "Binghong Chen"
+        },
+        {
+          "authorId": "83382453",
+          "name": "T. Tang"
+        },
+        {
+          "authorId": "1853469",
+          "name": "L. Mirabella"
+        },
+        {
+          "authorId": "1779453",
+          "name": "Le Song"
+        },
+        {
+          "authorId": "2416123",
+          "name": "G. Paulino"
+        }
+      ]
+    }
+  ]
+}

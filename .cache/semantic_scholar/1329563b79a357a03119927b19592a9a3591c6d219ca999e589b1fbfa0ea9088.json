@@ -1,0 +1,842 @@
+{
+  "offset": 0,
+  "citingPaperInfo": {
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/1401.2753, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "title": "Stochastic Optimization with Importance Sampling for Regularized Loss Minimization",
+    "authors": [
+      {
+        "authorId": "144259957",
+        "name": "P. Zhao"
+      },
+      {
+        "authorId": "38144094",
+        "name": "T. Zhang"
+      }
+    ]
+  },
+  "data": [
+    {
+      "citedPaper": {
+        "paperId": "c92372db9eec502bfe53c3aed0537a9b4147a6e5",
+        "externalIds": {
+          "ArXiv": "1403.4699",
+          "MAG": "2949382400",
+          "DBLP": "journals/siamjo/Xiao014",
+          "DOI": "10.1137/140961791",
+          "CorpusId": 14424444
+        },
+        "url": "https://www.semanticscholar.org/paper/c92372db9eec502bfe53c3aed0537a9b4147a6e5",
+        "title": "A Proximal Stochastic Gradient Method with Progressive Variance Reduction",
+        "venue": "SIAM Journal on Optimization",
+        "year": 2014,
+        "referenceCount": 39,
+        "citationCount": 769,
+        "authors": [
+          {
+            "authorId": "145942106",
+            "name": "Lin Xiao"
+          },
+          {
+            "authorId": "49104973",
+            "name": "Tong Zhang"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "43c05444fbc239321f6676f3cd539cac34fde7b8",
+        "externalIds": {
+          "MAG": "2107438106",
+          "DBLP": "conf/nips/Johnson013",
+          "CorpusId": 6587578
+        },
+        "url": "https://www.semanticscholar.org/paper/43c05444fbc239321f6676f3cd539cac34fde7b8",
+        "title": "Accelerating Stochastic Gradient Descent using Predictive Variance Reduction",
+        "venue": "Neural Information Processing Systems",
+        "year": 2013,
+        "referenceCount": 6,
+        "citationCount": 2961,
+        "authors": [
+          {
+            "authorId": "2108925678",
+            "name": "Rie Johnson"
+          },
+          {
+            "authorId": "50728655",
+            "name": "Tong Zhang"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "35c69ff966267a10d72791174e55db8012c410bc",
+        "externalIds": {
+          "MAG": "2950132609",
+          "DBLP": "journals/mp/NeedellSW16",
+          "ArXiv": "1310.5715",
+          "DOI": "10.1007/s10107-015-0864-7",
+          "CorpusId": 2370209
+        },
+        "url": "https://www.semanticscholar.org/paper/35c69ff966267a10d72791174e55db8012c410bc",
+        "title": "Stochastic gradient descent, weighted sampling, and the randomized Kaczmarz algorithm",
+        "venue": "Mathematical programming",
+        "year": 2013,
+        "referenceCount": 63,
+        "citationCount": 598,
+        "authors": [
+          {
+            "authorId": "8256323",
+            "name": "D. Needell"
+          },
+          {
+            "authorId": "32564459",
+            "name": "Rachel A. Ward"
+          },
+          {
+            "authorId": "1706280",
+            "name": "N. Srebro"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "d9bdff5eac0d0d1ebd8d09960f195b838ce16f4e",
+        "externalIds": {
+          "MAG": "2118545728",
+          "ArXiv": "1309.2375",
+          "DBLP": "journals/corr/Shalev-Shwartz013",
+          "DOI": "10.1007/s10107-014-0839-0",
+          "CorpusId": 6023169
+        },
+        "url": "https://www.semanticscholar.org/paper/d9bdff5eac0d0d1ebd8d09960f195b838ce16f4e",
+        "title": "Accelerated proximal stochastic dual coordinate ascent for regularized loss minimization",
+        "venue": "Mathematical programming",
+        "year": 2013,
+        "referenceCount": 34,
+        "citationCount": 472,
+        "authors": [
+          {
+            "authorId": "1389955537",
+            "name": "S. Shalev-Shwartz"
+          },
+          {
+            "authorId": "49104973",
+            "name": "Tong Zhang"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "449385ba21a81889dd66412d9b8257b6ffb288aa",
+        "externalIds": {
+          "MAG": "2106728335",
+          "ArXiv": "1305.2581",
+          "DBLP": "conf/nips/Shalev-Shwartz013",
+          "CorpusId": 7316764
+        },
+        "url": "https://www.semanticscholar.org/paper/449385ba21a81889dd66412d9b8257b6ffb288aa",
+        "title": "Accelerated Mini-Batch Stochastic Dual Coordinate Ascent",
+        "venue": "Neural Information Processing Systems",
+        "year": 2013,
+        "referenceCount": 26,
+        "citationCount": 154,
+        "authors": [
+          {
+            "authorId": "1389955537",
+            "name": "S. Shalev-Shwartz"
+          },
+          {
+            "authorId": "49104973",
+            "name": "Tong Zhang"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "183bf195dbdcc2a5a7a070f90d7794d676d5b30b",
+        "externalIds": {
+          "ArXiv": "1305.1922",
+          "MAG": "2952910830",
+          "DBLP": "journals/corr/abs-1305-1922",
+          "DOI": "10.1109/FOCS.2013.24",
+          "CorpusId": 16081848
+        },
+        "url": "https://www.semanticscholar.org/paper/183bf195dbdcc2a5a7a070f90d7794d676d5b30b",
+        "title": "Efficient Accelerated Coordinate Descent Methods and Faster Algorithms for Solving Linear Systems",
+        "venue": "IEEE Annual Symposium on Foundations of Computer Science",
+        "year": 2013,
+        "referenceCount": 30,
+        "citationCount": 232,
+        "authors": [
+          {
+            "authorId": "2109308930",
+            "name": "Y. Lee"
+          },
+          {
+            "authorId": "2357926",
+            "name": "Aaron Sidford"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "2672ba89286367fe312f167d85a75b3fbe64b2ab",
+        "externalIds": {
+          "DBLP": "journals/corr/abs-1212-1824",
+          "ArXiv": "1212.1824",
+          "MAG": "1516903196",
+          "CorpusId": 1217704
+        },
+        "url": "https://www.semanticscholar.org/paper/2672ba89286367fe312f167d85a75b3fbe64b2ab",
+        "title": "Stochastic Gradient Descent for Non-smooth Optimization: Convergence Results and Optimal Averaging Schemes",
+        "venue": "International Conference on Machine Learning",
+        "year": 2012,
+        "referenceCount": 13,
+        "citationCount": 624,
+        "authors": [
+          {
+            "authorId": "1768909",
+            "name": "Ohad Shamir"
+          },
+          {
+            "authorId": "49104973",
+            "name": "Tong Zhang"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "adaf3d119fdd2aea8266a5a0e5c020e8642b84ce",
+        "externalIds": {
+          "ArXiv": "1211.2717",
+          "DBLP": "journals/corr/abs-1211-2717",
+          "MAG": "1890144115",
+          "CorpusId": 17372776
+        },
+        "url": "https://www.semanticscholar.org/paper/adaf3d119fdd2aea8266a5a0e5c020e8642b84ce",
+        "title": "Proximal Stochastic Dual Coordinate Ascent",
+        "venue": "arXiv.org",
+        "year": 2012,
+        "referenceCount": 14,
+        "citationCount": 110,
+        "authors": [
+          {
+            "authorId": "1389955537",
+            "name": "S. Shalev-Shwartz"
+          },
+          {
+            "authorId": "49104973",
+            "name": "Tong Zhang"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "0c3751db5a24c636c1aa8abfd9d63321b38cfce5",
+        "externalIds": {
+          "ArXiv": "1209.1873",
+          "MAG": "1939652453",
+          "DBLP": "journals/jmlr/Shalev-Shwartz013",
+          "DOI": "10.5555/2567709.2502598",
+          "CorpusId": 1517652
+        },
+        "url": "https://www.semanticscholar.org/paper/0c3751db5a24c636c1aa8abfd9d63321b38cfce5",
+        "title": "Stochastic dual coordinate ascent methods for regularized loss",
+        "venue": "Journal of machine learning research",
+        "year": 2012,
+        "referenceCount": 25,
+        "citationCount": 1072,
+        "authors": [
+          {
+            "authorId": "1389955537",
+            "name": "S. Shalev-Shwartz"
+          },
+          {
+            "authorId": "2280890494",
+            "name": "Tong Zhang"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "b832e1ce81132533c01c2170a88009673d902fa9",
+        "externalIds": {
+          "MAG": "1877183374",
+          "DBLP": "conf/icml/Lacoste-JulienJSP13",
+          "ArXiv": "1207.4747",
+          "CorpusId": 16199335
+        },
+        "url": "https://www.semanticscholar.org/paper/b832e1ce81132533c01c2170a88009673d902fa9",
+        "title": "Block-Coordinate Frank-Wolfe Optimization for Structural SVMs",
+        "venue": "International Conference on Machine Learning",
+        "year": 2012,
+        "referenceCount": 43,
+        "citationCount": 383,
+        "authors": [
+          {
+            "authorId": "2289357465",
+            "name": "Simon Lacoste-Julien"
+          },
+          {
+            "authorId": "2386523655",
+            "name": "Martin Jaggi"
+          },
+          {
+            "authorId": "2266138422",
+            "name": "Mark Schmidt"
+          },
+          {
+            "authorId": "7344844",
+            "name": "Patrick A. Pletscher"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "0059cfac9c5b7811866f0729d0917b7478148fc5",
+        "externalIds": {
+          "MAG": "2095984592",
+          "DBLP": "journals/siamjo/Nesterov12",
+          "DOI": "10.1137/100802001",
+          "CorpusId": 1424102
+        },
+        "url": "https://www.semanticscholar.org/paper/0059cfac9c5b7811866f0729d0917b7478148fc5",
+        "title": "Efficiency of Coordinate Descent Methods on Huge-Scale Optimization Problems",
+        "venue": "SIAM Journal on Optimization",
+        "year": 2012,
+        "referenceCount": 51,
+        "citationCount": 1508,
+        "authors": [
+          {
+            "authorId": "143676697",
+            "name": "Y. Nesterov"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "49ab3776d88ff76612a7738358912db834639177",
+        "externalIds": {
+          "MAG": "2950025208",
+          "DBLP": "conf/nips/RouxSB12",
+          "CorpusId": 1084204
+        },
+        "url": "https://www.semanticscholar.org/paper/49ab3776d88ff76612a7738358912db834639177",
+        "title": "A Stochastic Gradient Method with an Exponential Convergence Rate for Finite Training Sets",
+        "venue": "Neural Information Processing Systems",
+        "year": 2012,
+        "referenceCount": 43,
+        "citationCount": 871,
+        "authors": [
+          {
+            "authorId": "7245737",
+            "name": "Nicolas Le Roux"
+          },
+          {
+            "authorId": "145610994",
+            "name": "Mark W. Schmidt"
+          },
+          {
+            "authorId": "144570279",
+            "name": "F. Bach"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "e08f14111728901945f8c3b384b2f75746935e0d",
+        "externalIds": {
+          "MAG": "2112269233",
+          "DBLP": "conf/icml/RakhlinSS12",
+          "ArXiv": "1109.5647",
+          "CorpusId": 15824822
+        },
+        "url": "https://www.semanticscholar.org/paper/e08f14111728901945f8c3b384b2f75746935e0d",
+        "title": "Making Gradient Descent Optimal for Strongly Convex Stochastic Optimization",
+        "venue": "International Conference on Machine Learning",
+        "year": 2011,
+        "referenceCount": 15,
+        "citationCount": 822,
+        "authors": [
+          {
+            "authorId": "1680046",
+            "name": "A. Rakhlin"
+          },
+          {
+            "authorId": "1768909",
+            "name": "Ohad Shamir"
+          },
+          {
+            "authorId": "37564609",
+            "name": "Karthik Sridharan"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "a8048db26cb78e785e82f06645da3f79d729528e",
+        "externalIds": {
+          "MAG": "2950679758",
+          "DBLP": "journals/mp/RichtarikT14",
+          "ArXiv": "1107.2848",
+          "DOI": "10.1007/s10107-012-0614-z",
+          "CorpusId": 16816638
+        },
+        "url": "https://www.semanticscholar.org/paper/a8048db26cb78e785e82f06645da3f79d729528e",
+        "title": "Iteration complexity of randomized block-coordinate descent methods for minimizing a composite function",
+        "venue": "Mathematical programming",
+        "year": 2011,
+        "referenceCount": 49,
+        "citationCount": 808,
+        "authors": [
+          {
+            "authorId": "2662221",
+            "name": "Peter Richtárik"
+          },
+          {
+            "authorId": "144696183",
+            "name": "Martin Takác"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "f4b821b21845cf9184f060fdc504704e9cdb161d",
+        "externalIds": {
+          "MAG": "3006097074",
+          "DOI": "10.5555/1953048.2021059",
+          "CorpusId": 237075612
+        },
+        "url": "https://www.semanticscholar.org/paper/f4b821b21845cf9184f060fdc504704e9cdb161d",
+        "title": "Stochastic Methods for l1-regularized Loss Minimization",
+        "venue": "",
+        "year": 2011,
+        "referenceCount": 0,
+        "citationCount": 138,
+        "authors": [
+          {
+            "authorId": "1644060558",
+            "name": "Shalev-ShwartzShai"
+          },
+          {
+            "authorId": "1666100142",
+            "name": "TewariAmbuj"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "47014b307065b087f6fd32b3f986edb6e8096187",
+        "externalIds": {
+          "DBLP": "conf/icml/OrabonaC11",
+          "MAG": "2118378735",
+          "CorpusId": 13178416
+        },
+        "url": "https://www.semanticscholar.org/paper/47014b307065b087f6fd32b3f986edb6e8096187",
+        "title": "Better Algorithms for Selective Sampling",
+        "venue": "International Conference on Machine Learning",
+        "year": 2011,
+        "referenceCount": 9,
+        "citationCount": 50,
+        "authors": [
+          {
+            "authorId": "1721068",
+            "name": "Francesco Orabona"
+          },
+          {
+            "authorId": "2286276503",
+            "name": "Nicolò Cesa-Bianchi"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "cd2ea4ed0697ca7fb54a4f123fcad9acb8b383ed",
+        "externalIds": {
+          "MAG": "2132162087",
+          "DBLP": "journals/ml/CavallantiCG11",
+          "DOI": "10.1007/s10994-010-5191-x",
+          "CorpusId": 7034011
+        },
+        "url": "https://www.semanticscholar.org/paper/cd2ea4ed0697ca7fb54a4f123fcad9acb8b383ed",
+        "title": "Learning noisy linear classifiers via adaptive and selective sampling",
+        "venue": "Machine-mediated learning",
+        "year": 2011,
+        "referenceCount": 46,
+        "citationCount": 35,
+        "authors": [
+          {
+            "authorId": "3038681",
+            "name": "Giovanni Cavallanti"
+          },
+          {
+            "authorId": "1388387856",
+            "name": "N. Cesa-Bianchi"
+          },
+          {
+            "authorId": "1895207",
+            "name": "C. Gentile"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "e88f6129b110cbc4e655fd547b00341551f36846",
+        "externalIds": {
+          "MAG": "131378802",
+          "CorpusId": 59902373
+        },
+        "url": "https://www.semanticscholar.org/paper/e88f6129b110cbc4e655fd547b00341551f36846",
+        "title": "Composite objective mirror descent",
+        "venue": "Annual Conference Computational Learning Theory",
+        "year": 2010,
+        "referenceCount": 34,
+        "citationCount": 358,
+        "authors": [
+          {
+            "authorId": "1734693",
+            "name": "John C. Duchi"
+          },
+          {
+            "authorId": "1389955537",
+            "name": "S. Shalev-Shwartz"
+          },
+          {
+            "authorId": "1740765",
+            "name": "Y. Singer"
+          },
+          {
+            "authorId": "3064914",
+            "name": "Ambuj Tewari"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "b7c8beb0291c5fca39dde887266251cdbd18ad11",
+        "externalIds": {
+          "DBLP": "journals/jmlr/DuchiS09",
+          "MAG": "2164301055",
+          "DOI": "10.5555/1577069.1755882",
+          "CorpusId": 5513850
+        },
+        "url": "https://www.semanticscholar.org/paper/b7c8beb0291c5fca39dde887266251cdbd18ad11",
+        "title": "Efficient Online and Batch Learning Using Forward Backward Splitting",
+        "venue": "Journal of machine learning research",
+        "year": 2009,
+        "referenceCount": 42,
+        "citationCount": 662,
+        "authors": [
+          {
+            "authorId": "1734693",
+            "name": "John C. Duchi"
+          },
+          {
+            "authorId": "1740765",
+            "name": "Y. Singer"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "74e809b24c29e40e3e48e326edfa41893e31b980",
+        "externalIds": {
+          "MAG": "3023471860",
+          "DBLP": "conf/icml/Shalev-ShwartzT09",
+          "DOI": "10.1145/1553374.1553493",
+          "CorpusId": 834123
+        },
+        "url": "https://www.semanticscholar.org/paper/74e809b24c29e40e3e48e326edfa41893e31b980",
+        "title": "Stochastic methods for l1 regularized loss minimization",
+        "venue": "International Conference on Machine Learning",
+        "year": 2009,
+        "referenceCount": 34,
+        "citationCount": 387,
+        "authors": [
+          {
+            "authorId": "1389955537",
+            "name": "S. Shalev-Shwartz"
+          },
+          {
+            "authorId": "3064914",
+            "name": "Ambuj Tewari"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "0389a414c5d0ef50e06fe0c15f6102f374ce1b04",
+        "externalIds": {
+          "MAG": "2165966284",
+          "DBLP": "conf/icml/HsiehCLKS08",
+          "DOI": "10.1145/1390156.1390208",
+          "CorpusId": 7880266
+        },
+        "url": "https://www.semanticscholar.org/paper/0389a414c5d0ef50e06fe0c15f6102f374ce1b04",
+        "title": "A dual coordinate descent method for large-scale linear SVM",
+        "venue": "International Conference on Machine Learning",
+        "year": 2008,
+        "referenceCount": 29,
+        "citationCount": 1029,
+        "authors": [
+          {
+            "authorId": "1793529",
+            "name": "Cho-Jui Hsieh"
+          },
+          {
+            "authorId": "2782886",
+            "name": "Kai-Wei Chang"
+          },
+          {
+            "authorId": "1711460",
+            "name": "Chih-Jen Lin"
+          },
+          {
+            "authorId": "144106136",
+            "name": "S. Keerthi"
+          },
+          {
+            "authorId": "144833733",
+            "name": "S. Sundararajan"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "e36b12155b8b5e6209e857f79a1821ffe3cddd1f",
+        "externalIds": {
+          "MAG": "2048305372",
+          "ArXiv": "math/0702226",
+          "DOI": "10.1007/S00041-008-9030-4",
+          "CorpusId": 1903919
+        },
+        "url": "https://www.semanticscholar.org/paper/e36b12155b8b5e6209e857f79a1821ffe3cddd1f",
+        "title": "A Randomized Kaczmarz Algorithm with Exponential Convergence",
+        "venue": "",
+        "year": 2007,
+        "referenceCount": 43,
+        "citationCount": 980,
+        "authors": [
+          {
+            "authorId": "1794778",
+            "name": "T. Strohmer"
+          },
+          {
+            "authorId": "1806615",
+            "name": "R. Vershynin"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "0538e399046c74d95124c715760aa51ab4716dce",
+        "externalIds": {
+          "MAG": "2966891380",
+          "DBLP": "books/daglib/0016248",
+          "DOI": "10.1017/CBO9780511546921",
+          "CorpusId": 28709420
+        },
+        "url": "https://www.semanticscholar.org/paper/0538e399046c74d95124c715760aa51ab4716dce",
+        "title": "Prediction, learning, and games",
+        "venue": "",
+        "year": 2006,
+        "referenceCount": 301,
+        "citationCount": 4335,
+        "authors": [
+          {
+            "authorId": "1388387856",
+            "name": "N. Cesa-Bianchi"
+          },
+          {
+            "authorId": "1755694",
+            "name": "G. Lugosi"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "0ef7d9e618cbb507d69f8ebcdc60b8a1f3135bff",
+        "externalIds": {
+          "MAG": "2091825929",
+          "DBLP": "conf/icml/Zhang04",
+          "DOI": "10.1145/1015330.1015332",
+          "CorpusId": 5306879
+        },
+        "url": "https://www.semanticscholar.org/paper/0ef7d9e618cbb507d69f8ebcdc60b8a1f3135bff",
+        "title": "Solving large scale linear prediction problems using stochastic gradient descent algorithms",
+        "venue": "International Conference on Machine Learning",
+        "year": 2004,
+        "referenceCount": 10,
+        "citationCount": 1243,
+        "authors": [
+          {
+            "authorId": "2117881943",
+            "name": "Tong Zhang"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "f9ba4779af6563ad71c06db968a59a8aca00ef45",
+        "externalIds": {
+          "MAG": "1499021337",
+          "DOI": "10.1007/b97441",
+          "CorpusId": 117627119
+        },
+        "url": "https://www.semanticscholar.org/paper/f9ba4779af6563ad71c06db968a59a8aca00ef45",
+        "title": "Stochastic Approximation and Recursive Algorithms and Applications",
+        "venue": "",
+        "year": 2003,
+        "referenceCount": 0,
+        "citationCount": 2483,
+        "authors": [
+          {
+            "authorId": "3085659",
+            "name": "H. Kushner"
+          },
+          {
+            "authorId": "145050324",
+            "name": "G. Yin"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "efe5519409c823737c75e0826ae00efa325f7721",
+        "externalIds": {
+          "MAG": "182881619",
+          "DOI": "10.1007/978-1-4757-9859-3",
+          "CorpusId": 117765424
+        },
+        "url": "https://www.semanticscholar.org/paper/efe5519409c823737c75e0826ae00efa325f7721",
+        "title": "Convex Analysis And Nonlinear Optimization",
+        "venue": "",
+        "year": 2000,
+        "referenceCount": 171,
+        "citationCount": 1478,
+        "authors": [
+          {
+            "authorId": "1705817",
+            "name": "J. Borwein"
+          },
+          {
+            "authorId": "32238160",
+            "name": "A. Lewis"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "4e544c8ce7e51fe9d13bc26e2198971a1c01aa21",
+        "externalIds": {
+          "MAG": "2100038678",
+          "DBLP": "journals/tnn/MangasarianM99",
+          "DOI": "10.1109/72.788643",
+          "CorpusId": 7022117,
+          "PubMed": "18252605"
+        },
+        "url": "https://www.semanticscholar.org/paper/4e544c8ce7e51fe9d13bc26e2198971a1c01aa21",
+        "title": "Successive overrelaxation for support vector machines",
+        "venue": "IEEE Trans. Neural Networks",
+        "year": 1999,
+        "referenceCount": 29,
+        "citationCount": 460,
+        "authors": [
+          {
+            "authorId": "1747026",
+            "name": "O. Mangasarian"
+          },
+          {
+            "authorId": "1791069",
+            "name": "D. Musicant"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "f68cacb50482fd50991b0fbbf3e9b67a3607907e",
+        "externalIds": {
+          "MAG": "2013850411",
+          "DOI": "10.1007/BF00939948",
+          "CorpusId": 121091844
+        },
+        "url": "https://www.semanticscholar.org/paper/f68cacb50482fd50991b0fbbf3e9b67a3607907e",
+        "title": "On the convergence of the coordinate descent method for convex differentiable minimization",
+        "venue": "",
+        "year": 1992,
+        "referenceCount": 47,
+        "citationCount": 593,
+        "authors": [
+          {
+            "authorId": "144657347",
+            "name": "Z. Luo"
+          },
+          {
+            "authorId": "1682823",
+            "name": "P. Tseng"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "Stochastic optimization with importance sampling",
+        "venue": "Stochastic optimization with importance sampling",
+        "year": 2014,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "86b7edea21cb82af9c0c04e53c66d7ad55e419b4",
+        "externalIds": {
+          "CorpusId": 53306004
+        },
+        "url": "https://www.semanticscholar.org/paper/86b7edea21cb82af9c0c04e53c66d7ad55e419b4",
+        "title": "Mathematical Programming manuscript No. (will be inserted by the editor) Pegasos: Primal Estimated sub-GrAdient SOlver for SVM",
+        "venue": "",
+        "year": null,
+        "referenceCount": 0,
+        "citationCount": 2340,
+        "authors": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,184 @@
+{
+  "total": 7,
+  "offset": 0,
+  "data": [
+    {
+      "paperId": "79d519d69ed9a3d4e06e9eab098c8f24eff25cf0",
+      "externalIds": {
+        "MAG": "2804569092",
+        "DBLP": "conf/icml/AbeilleL18",
+        "CorpusId": 51876206
+      },
+      "url": "https://www.semanticscholar.org/paper/79d519d69ed9a3d4e06e9eab098c8f24eff25cf0",
+      "title": "Improved Regret Bounds for Thompson Sampling in Linear Quadratic Control Problems",
+      "venue": "International Conference on Machine Learning",
+      "year": 2018,
+      "referenceCount": 26,
+      "citationCount": 100,
+      "authors": [
+        {
+          "authorId": "7265341",
+          "name": "Marc Abeille"
+        },
+        {
+          "authorId": "3254390",
+          "name": "A. Lazaric"
+        }
+      ]
+    },
+    {
+      "paperId": "40de7dd6755860af49b0a9010e0e73e32db418f1",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2510-19531",
+        "ArXiv": "2510.19531",
+        "DOI": "10.48550/arXiv.2510.19531",
+        "CorpusId": 282272090
+      },
+      "url": "https://www.semanticscholar.org/paper/40de7dd6755860af49b0a9010e0e73e32db418f1",
+      "title": "The Confusing Instance Principle for Online Linear Quadratic Control",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "referenceCount": 57,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2187299844",
+          "name": "Waris Radji"
+        },
+        {
+          "authorId": "1794867",
+          "name": "Odalric-Ambrym Maillard"
+        }
+      ]
+    },
+    {
+      "paperId": "f4c35b2b3395f4007fa0cc99c9808a8acf5aa059",
+      "externalIds": {
+        "ArXiv": "2202.05799",
+        "DBLP": "journals/corr/abs-2202-05799",
+        "DOI": "10.1109/CDC49753.2023.10384167",
+        "CorpusId": 246822856
+      },
+      "url": "https://www.semanticscholar.org/paper/f4c35b2b3395f4007fa0cc99c9808a8acf5aa059",
+      "title": "Rate-Matching the Regret Lower-Bound in the Linear Quadratic Regulator with Unknown Dynamics",
+      "venue": "IEEE Conference on Decision and Control",
+      "year": 2022,
+      "referenceCount": 53,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "9112744",
+          "name": "Feicheng Wang"
+        },
+        {
+          "authorId": "2542753",
+          "name": "Lucas Janson"
+        }
+      ]
+    },
+    {
+      "paperId": "2ea81f6546268e2aa80a9096cb02237fd1d1a7e6",
+      "externalIds": {
+        "ArXiv": "2111.07018",
+        "DBLP": "journals/corr/abs-2111-07018",
+        "CorpusId": 244117664
+      },
+      "url": "https://www.semanticscholar.org/paper/2ea81f6546268e2aa80a9096cb02237fd1d1a7e6",
+      "title": "Identification and Adaptive Control of Markov Jump Systems: Sample Complexity and Regret Bounds",
+      "venue": "arXiv.org",
+      "year": 2021,
+      "referenceCount": 29,
+      "citationCount": 24,
+      "authors": [
+        {
+          "authorId": "7949401",
+          "name": "Yahya Sattar"
+        },
+        {
+          "authorId": "2481039",
+          "name": "Zhe Du"
+        },
+        {
+          "authorId": "3281605",
+          "name": "Davoud Ataee Tarzanagh"
+        },
+        {
+          "authorId": "1682385",
+          "name": "L. Balzano"
+        },
+        {
+          "authorId": "47068315",
+          "name": "N. Ozay"
+        },
+        {
+          "authorId": "3103394",
+          "name": "Samet Oymak"
+        }
+      ]
+    },
+    {
+      "paperId": "3cb25d59bad89bf2620994d92508ccaef4d81569",
+      "externalIds": {
+        "MAG": "2403303158",
+        "DBLP": "conf/uai/Abbasi-YadkoriS15",
+        "CorpusId": 14402918
+      },
+      "url": "https://www.semanticscholar.org/paper/3cb25d59bad89bf2620994d92508ccaef4d81569",
+      "title": "Bayesian Optimal Control of Smoothly Parameterized Systems",
+      "venue": "Conference on Uncertainty in Artificial Intelligence",
+      "year": 2015,
+      "referenceCount": 19,
+      "citationCount": 49,
+      "authors": [
+        {
+          "authorId": "1388837087",
+          "name": "Yasin Abbasi-Yadkori"
+        },
+        {
+          "authorId": "40868287",
+          "name": "Csaba Szepesvari"
+        }
+      ]
+    },
+    {
+      "paperId": "daecc30d78c671600fcddf9f04e27696a39c84ee",
+      "externalIds": {
+        "ArXiv": "2110.05807",
+        "DBLP": "journals/corr/abs-2110-05807",
+        "DOI": "10.1145/3527546.3527575",
+        "CorpusId": 238634413
+      },
+      "url": "https://www.semanticscholar.org/paper/daecc30d78c671600fcddf9f04e27696a39c84ee",
+      "title": "Optimizing ranking systems online as bandits",
+      "venue": "SIGIR Forum",
+      "year": 2021,
+      "referenceCount": 6,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "144388366",
+          "name": "Chang Li"
+        }
+      ]
+    },
+    {
+      "paperId": "681a0a18725a959a53266940bd76fafd3121ed61",
+      "externalIds": {
+        "MAG": "1603063140",
+        "CorpusId": 117005914
+      },
+      "url": "https://www.semanticscholar.org/paper/681a0a18725a959a53266940bd76fafd3121ed61",
+      "title": "Algorithms and computation : 17th International Symposium, ISAAC 2006, Kolkata, India, December 18-20, 2006 : proceedings",
+      "venue": "",
+      "year": 2006,
+      "referenceCount": 0,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2097149575",
+          "name": "浅野 哲夫"
+        }
+      ]
+    }
+  ]
+}

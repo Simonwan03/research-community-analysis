@@ -1,0 +1,347 @@
+{
+  "total": 369,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "b5fdbacc37f1d5e1a72c292ac2107c06c7bd6d4f",
+      "externalIds": {
+        "MAG": "2624086852",
+        "DBLP": "conf/icml/ChenHCDLBF17",
+        "CorpusId": 22926573
+      },
+      "url": "https://www.semanticscholar.org/paper/b5fdbacc37f1d5e1a72c292ac2107c06c7bd6d4f",
+      "title": "Learning to Learn without Gradient Descent by Gradient Descent",
+      "venue": "International Conference on Machine Learning",
+      "year": 2016,
+      "referenceCount": 53,
+      "citationCount": 323,
+      "authors": [
+        {
+          "authorId": "2275897",
+          "name": "Yutian Chen"
+        },
+        {
+          "authorId": "3243579",
+          "name": "Matthew W. Hoffman"
+        },
+        {
+          "authorId": "2016840",
+          "name": "Sergio Gomez Colmenarejo"
+        },
+        {
+          "authorId": "1715051",
+          "name": "Misha Denil"
+        },
+        {
+          "authorId": "2542999",
+          "name": "T. Lillicrap"
+        },
+        {
+          "authorId": "46378362",
+          "name": "M. Botvinick"
+        },
+        {
+          "authorId": "1737568",
+          "name": "Nando de Freitas"
+        }
+      ]
+    },
+    {
+      "paperId": "4d561c9130c09c3320d7e8d25aca51948733f891",
+      "externalIds": {
+        "DBLP": "conf/iclr/HuangWL25",
+        "ArXiv": "2502.21212",
+        "DOI": "10.48550/arXiv.2502.21212",
+        "CorpusId": 276725112
+      },
+      "url": "https://www.semanticscholar.org/paper/4d561c9130c09c3320d7e8d25aca51948733f891",
+      "title": "Transformers Learn to Implement Multi-step Gradient Descent with Chain of Thought",
+      "venue": "International Conference on Learning Representations",
+      "year": 2025,
+      "referenceCount": 0,
+      "citationCount": 26,
+      "authors": [
+        {
+          "authorId": "2408589129",
+          "name": "Jianhao Huang"
+        },
+        {
+          "authorId": "2305661314",
+          "name": "Zixuan Wang"
+        },
+        {
+          "authorId": "2305733907",
+          "name": "Jason D. Lee"
+        }
+      ]
+    },
+    {
+      "paperId": "21ae4f017dc5e1ee3b5ef4c1c6008d81583e74fb",
+      "externalIds": {
+        "MAG": "2952573015",
+        "DBLP": "conf/icml/DeneviCGP19",
+        "ArXiv": "1903.10399",
+        "CorpusId": 85499723
+      },
+      "url": "https://www.semanticscholar.org/paper/21ae4f017dc5e1ee3b5ef4c1c6008d81583e74fb",
+      "title": "Learning-to-Learn Stochastic Gradient Descent with Biased Regularization",
+      "venue": "International Conference on Machine Learning",
+      "year": 2019,
+      "referenceCount": 34,
+      "citationCount": 115,
+      "authors": [
+        {
+          "authorId": "40894851",
+          "name": "Giulia Denevi"
+        },
+        {
+          "authorId": "7666146",
+          "name": "C. Ciliberto"
+        },
+        {
+          "authorId": "51004518",
+          "name": "Riccardo Grazzi"
+        },
+        {
+          "authorId": "1704699",
+          "name": "M. Pontil"
+        }
+      ]
+    },
+    {
+      "paperId": "32ca1dbc8d42d6edf4981fba9a9a83d32bec3179",
+      "externalIds": {
+        "DBLP": "conf/icml/GatmirySRJK24",
+        "ArXiv": "2410.08292",
+        "DOI": "10.48550/arXiv.2410.08292",
+        "CorpusId": 272330312
+      },
+      "url": "https://www.semanticscholar.org/paper/32ca1dbc8d42d6edf4981fba9a9a83d32bec3179",
+      "title": "Can Looped Transformers Learn to Implement Multi-step Gradient Descent for In-context Learning?",
+      "venue": "International Conference on Machine Learning",
+      "year": 2024,
+      "referenceCount": 30,
+      "citationCount": 43,
+      "authors": [
+        {
+          "authorId": "52000339",
+          "name": "Khashayar Gatmiry"
+        },
+        {
+          "authorId": "10769461",
+          "name": "Nikunj Saunshi"
+        },
+        {
+          "authorId": "1981186",
+          "name": "Sashank J. Reddi"
+        },
+        {
+          "authorId": "2594093",
+          "name": "S. Jegelka"
+        },
+        {
+          "authorId": "2283420123",
+          "name": "Sanjiv Kumar"
+        }
+      ]
+    },
+    {
+      "paperId": "d86ca0894cb4d165eb5ef45b73526ca8b4cdd725",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2212-10559",
+        "DOI": "10.48550/arXiv.2212.10559",
+        "CorpusId": 254877715
+      },
+      "url": "https://www.semanticscholar.org/paper/d86ca0894cb4d165eb5ef45b73526ca8b4cdd725",
+      "title": "Why Can GPT Learn In-Context? Language Models Secretly Perform Gradient Descent as Meta-Optimizers",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2023,
+      "referenceCount": 17,
+      "citationCount": 374,
+      "authors": [
+        {
+          "authorId": "10780897",
+          "name": "Damai Dai"
+        },
+        {
+          "authorId": "2108540694",
+          "name": "Yutao Sun"
+        },
+        {
+          "authorId": "145307652",
+          "name": "Li Dong"
+        },
+        {
+          "authorId": "34128716",
+          "name": "Y. Hao"
+        },
+        {
+          "authorId": "3335836",
+          "name": "Zhifang Sui"
+        },
+        {
+          "authorId": "49807919",
+          "name": "Furu Wei"
+        }
+      ]
+    },
+    {
+      "paperId": "8162a00a4e78572da283b7db5347dc5f7848477f",
+      "externalIds": {
+        "ArXiv": "2512.05084",
+        "DBLP": "journals/corr/abs-2512-05084",
+        "DOI": "10.48550/arXiv.2512.05084",
+        "CorpusId": 283556791
+      },
+      "url": "https://www.semanticscholar.org/paper/8162a00a4e78572da283b7db5347dc5f7848477f",
+      "title": "Gradient Descent with Provably Tuned Learning-rate Schedules",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "referenceCount": 90,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2397324168",
+          "name": "Dravyansh Sharma"
+        }
+      ]
+    },
+    {
+      "paperId": "69c85405cc1986a41f6387d869aa1648a5668d6f",
+      "externalIds": {
+        "ArXiv": "2212.10559",
+        "CorpusId": 258686544
+      },
+      "url": "https://www.semanticscholar.org/paper/69c85405cc1986a41f6387d869aa1648a5668d6f",
+      "title": "Why Can GPT Learn In-Context? Language Models Implicitly Perform Gradient Descent as Meta-Optimizers",
+      "venue": "",
+      "year": 2022,
+      "referenceCount": 29,
+      "citationCount": 239,
+      "authors": [
+        {
+          "authorId": "10780897",
+          "name": "Damai Dai"
+        },
+        {
+          "authorId": "2108540694",
+          "name": "Yutao Sun"
+        },
+        {
+          "authorId": "145307652",
+          "name": "Li Dong"
+        },
+        {
+          "authorId": "34128716",
+          "name": "Y. Hao"
+        },
+        {
+          "authorId": "2118866998",
+          "name": "Shuming Ma"
+        },
+        {
+          "authorId": "3335836",
+          "name": "Zhifang Sui"
+        },
+        {
+          "authorId": "49807919",
+          "name": "Furu Wei"
+        }
+      ]
+    },
+    {
+      "paperId": "5e5742c367106d4218e13ec976e4c5c3e0609fa1",
+      "externalIds": {
+        "DBLP": "conf/nips/ZhuFY23",
+        "DOI": "10.52202/075280-2077",
+        "CorpusId": 268042493
+      },
+      "url": "https://www.semanticscholar.org/paper/5e5742c367106d4218e13ec976e4c5c3e0609fa1",
+      "title": "Online Performative Gradient Descent for Learning Nash Equilibria in Decision-Dependent Games",
+      "venue": "Neural Information Processing Systems",
+      "year": 2023,
+      "referenceCount": 58,
+      "citationCount": 5,
+      "authors": [
+        {
+          "authorId": "2288044946",
+          "name": "Zihan Zhu"
+        },
+        {
+          "authorId": "2383314432",
+          "name": "Ethan X. Fang"
+        },
+        {
+          "authorId": "2303429458",
+          "name": "Zhuoran Yang"
+        }
+      ]
+    },
+    {
+      "paperId": "c2c2d910f33376055e1adfcead2d612b4bf5cf62",
+      "externalIds": {
+        "DBLP": "journals/access/LeeNTH23",
+        "DOI": "10.1109/ACCESS.2023.3303869",
+        "CorpusId": 260800788
+      },
+      "url": "https://www.semanticscholar.org/paper/c2c2d910f33376055e1adfcead2d612b4bf5cf62",
+      "title": "A Continual Learning Algorithm Based on Orthogonal Gradient Descent Beyond Neural Tangent Kernel Regime",
+      "venue": "IEEE Access",
+      "year": 2023,
+      "referenceCount": 46,
+      "citationCount": 4,
+      "authors": [
+        {
+          "authorId": "2155185441",
+          "name": "Damien Lee"
+        },
+        {
+          "authorId": "2110883948",
+          "name": "Kensuke Nakamura"
+        },
+        {
+          "authorId": "2138524133",
+          "name": "Jae-Ho Tak"
+        },
+        {
+          "authorId": "3358033",
+          "name": "Byung-Woo Hong"
+        }
+      ]
+    },
+    {
+      "paperId": "baf22662efda68c151a60b9424e237b2a9b6764c",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2601-03162",
+        "ArXiv": "2601.03162",
+        "DOI": "10.48550/arXiv.2601.03162",
+        "CorpusId": 284513194
+      },
+      "url": "https://www.semanticscholar.org/paper/baf22662efda68c151a60b9424e237b2a9b6764c",
+      "title": "On the Convergence Behavior of Preconditioned Gradient Descent Toward the Rich Learning Regime",
+      "venue": "arXiv.org",
+      "year": 2026,
+      "referenceCount": 55,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2178635823",
+          "name": "Shuai Jiang"
+        },
+        {
+          "authorId": "153391042",
+          "name": "Alexey Voronin"
+        },
+        {
+          "authorId": "2402898911",
+          "name": "E. Cyr"
+        },
+        {
+          "authorId": "2363349439",
+          "name": "Ben S. Southworth"
+        }
+      ]
+    }
+  ]
+}

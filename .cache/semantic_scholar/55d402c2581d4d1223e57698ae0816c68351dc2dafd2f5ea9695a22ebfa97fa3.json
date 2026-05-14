@@ -1,0 +1,1181 @@
+{
+  "offset": 0,
+  "citingPaperInfo": {
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/1505.05770, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "title": "Variational Inference with Normalizing Flows",
+    "authors": [
+      {
+        "authorId": "1748523",
+        "name": "Danilo Jimenez Rezende"
+      },
+      {
+        "authorId": "14594344",
+        "name": "S. Mohamed"
+      }
+    ]
+  },
+  "data": [
+    {
+      "citedPaper": {
+        "paperId": "a2785f66c20fbdf30ec26c0931584c6d6a0f4fca",
+        "externalIds": {
+          "MAG": "1850742715",
+          "DBLP": "journals/corr/GregorDGW15",
+          "ArXiv": "1502.04623",
+          "CorpusId": 1930231
+        },
+        "url": "https://www.semanticscholar.org/paper/a2785f66c20fbdf30ec26c0931584c6d6a0f4fca",
+        "title": "DRAW: A Recurrent Neural Network For Image Generation",
+        "venue": "International Conference on Machine Learning",
+        "year": 2015,
+        "referenceCount": 36,
+        "citationCount": 2005,
+        "authors": [
+          {
+            "authorId": "144717963",
+            "name": "Karol Gregor"
+          },
+          {
+            "authorId": "1841008",
+            "name": "Ivo Danihelka"
+          },
+          {
+            "authorId": "1753223",
+            "name": "Alex Graves"
+          },
+          {
+            "authorId": "1748523",
+            "name": "Danilo Jimenez Rezende"
+          },
+          {
+            "authorId": "1688276",
+            "name": "Daan Wierstra"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "dc8301b67f98accbb331190dd7bd987952a692af",
+        "externalIds": {
+          "MAG": "2964020555",
+          "DBLP": "journals/corr/DinhKB14",
+          "ArXiv": "1410.8516",
+          "CorpusId": 13995862
+        },
+        "url": "https://www.semanticscholar.org/paper/dc8301b67f98accbb331190dd7bd987952a692af",
+        "title": "NICE: Non-linear Independent Components Estimation",
+        "venue": "International Conference on Learning Representations",
+        "year": 2014,
+        "referenceCount": 35,
+        "citationCount": 2564,
+        "authors": [
+          {
+            "authorId": "46573521",
+            "name": "Laurent Dinh"
+          },
+          {
+            "authorId": "145055042",
+            "name": "David Krueger"
+          },
+          {
+            "authorId": "1751762",
+            "name": "Yoshua Bengio"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "2538378f9b2aee6d2cfe106138070274f8edaa1f",
+        "externalIds": {
+          "MAG": "2150807068",
+          "DBLP": "conf/icml/TitsiasL14",
+          "CorpusId": 12977196
+        },
+        "url": "https://www.semanticscholar.org/paper/2538378f9b2aee6d2cfe106138070274f8edaa1f",
+        "title": "Doubly Stochastic Variational Bayes for non-Conjugate Inference",
+        "venue": "International Conference on Machine Learning",
+        "year": 2014,
+        "referenceCount": 25,
+        "citationCount": 397,
+        "authors": [
+          {
+            "authorId": "1722732",
+            "name": "Michalis K. Titsias"
+          },
+          {
+            "authorId": "1388666962",
+            "name": "M. Lázaro-Gredilla"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "66ad2fbc8b73242a889699868611fcf239e3435d",
+        "externalIds": {
+          "DBLP": "conf/nips/KingmaMRW14",
+          "MAG": "2949416428",
+          "ArXiv": "1406.5298",
+          "CorpusId": 6377199
+        },
+        "url": "https://www.semanticscholar.org/paper/66ad2fbc8b73242a889699868611fcf239e3435d",
+        "title": "Semi-supervised Learning with Deep Generative Models",
+        "venue": "Neural Information Processing Systems",
+        "year": 2014,
+        "referenceCount": 27,
+        "citationCount": 2898,
+        "authors": [
+          {
+            "authorId": "1726807",
+            "name": "Diederik P. Kingma"
+          },
+          {
+            "authorId": "14594344",
+            "name": "S. Mohamed"
+          },
+          {
+            "authorId": "1748523",
+            "name": "Danilo Jimenez Rezende"
+          },
+          {
+            "authorId": "1678311",
+            "name": "M. Welling"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "331f0fb3b6176c6e463e0401025b04f6ace9ccd3",
+        "externalIds": {
+          "DBLP": "journals/corr/MnihG14",
+          "MAG": "2122262818",
+          "ArXiv": "1402.0030",
+          "CorpusId": 1981188
+        },
+        "url": "https://www.semanticscholar.org/paper/331f0fb3b6176c6e463e0401025b04f6ace9ccd3",
+        "title": "Neural Variational Inference and Learning in Belief Networks",
+        "venue": "International Conference on Machine Learning",
+        "year": 2014,
+        "referenceCount": 34,
+        "citationCount": 729,
+        "authors": [
+          {
+            "authorId": "1714004",
+            "name": "A. Mnih"
+          },
+          {
+            "authorId": "144717963",
+            "name": "Karol Gregor"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "484ad17c926292fbe0d5211540832a8c8a8e958b",
+        "externalIds": {
+          "MAG": "1909320841",
+          "DBLP": "conf/icml/RezendeMW14",
+          "CorpusId": 16895865
+        },
+        "url": "https://www.semanticscholar.org/paper/484ad17c926292fbe0d5211540832a8c8a8e958b",
+        "title": "Stochastic Backpropagation and Approximate Inference in Deep Generative Models",
+        "venue": "International Conference on Machine Learning",
+        "year": 2014,
+        "referenceCount": 39,
+        "citationCount": 5612,
+        "authors": [
+          {
+            "authorId": "1748523",
+            "name": "Danilo Jimenez Rezende"
+          },
+          {
+            "authorId": "14594344",
+            "name": "S. Mohamed"
+          },
+          {
+            "authorId": "1688276",
+            "name": "Daan Wierstra"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "6a667700100e228cb30a5d884258a0db921603fe",
+        "externalIds": {
+          "MAG": "2806363513",
+          "DBLP": "journals/corr/RanganathGB14",
+          "ArXiv": "1401.0118",
+          "CorpusId": 1580089
+        },
+        "url": "https://www.semanticscholar.org/paper/6a667700100e228cb30a5d884258a0db921603fe",
+        "title": "Black Box Variational Inference",
+        "venue": "International Conference on Artificial Intelligence and Statistics",
+        "year": 2013,
+        "referenceCount": 25,
+        "citationCount": 1229,
+        "authors": [
+          {
+            "authorId": "2615814",
+            "name": "R. Ranganath"
+          },
+          {
+            "authorId": "21007048",
+            "name": "S. Gerrish"
+          },
+          {
+            "authorId": "1796335",
+            "name": "D. Blei"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "5f5dc5b9a2ba710937e2c413b37b053cd673df02",
+        "externalIds": {
+          "DBLP": "journals/corr/KingmaW13",
+          "MAG": "2951004968",
+          "ArXiv": "1312.6114",
+          "CorpusId": 216078090
+        },
+        "url": "https://www.semanticscholar.org/paper/5f5dc5b9a2ba710937e2c413b37b053cd673df02",
+        "title": "Auto-Encoding Variational Bayes",
+        "venue": "International Conference on Learning Representations",
+        "year": 2013,
+        "referenceCount": 26,
+        "citationCount": 17030,
+        "authors": [
+          {
+            "authorId": "1726807",
+            "name": "Diederik P. Kingma"
+          },
+          {
+            "authorId": "1678311",
+            "name": "M. Welling"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "f887b89684157c2c842010ed63f12bea7787745b",
+        "externalIds": {
+          "DBLP": "conf/nips/StuhlmullerTG13",
+          "MAG": "2098694378",
+          "CorpusId": 10112543
+        },
+        "url": "https://www.semanticscholar.org/paper/f887b89684157c2c842010ed63f12bea7787745b",
+        "title": "Learning Stochastic Inverses",
+        "venue": "Neural Information Processing Systems",
+        "year": 2013,
+        "referenceCount": 17,
+        "citationCount": 120,
+        "authors": [
+          {
+            "authorId": "2214496",
+            "name": "Andreas Stuhlmüller"
+          },
+          {
+            "authorId": "144364160",
+            "name": "Jessica Taylor"
+          },
+          {
+            "authorId": "144002017",
+            "name": "Noah D. Goodman"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "695a2c95eacdbccb7a73d2f1e90e7b35b4b3d864",
+        "externalIds": {
+          "DBLP": "conf/icml/GregorDMBW14",
+          "ArXiv": "1310.8499",
+          "MAG": "2949595773",
+          "CorpusId": 14576846
+        },
+        "url": "https://www.semanticscholar.org/paper/695a2c95eacdbccb7a73d2f1e90e7b35b4b3d864",
+        "title": "Deep AutoRegressive Networks",
+        "venue": "International Conference on Machine Learning",
+        "year": 2013,
+        "referenceCount": 28,
+        "citationCount": 303,
+        "authors": [
+          {
+            "authorId": "144717963",
+            "name": "Karol Gregor"
+          },
+          {
+            "authorId": "1841008",
+            "name": "Ivo Danihelka"
+          },
+          {
+            "authorId": "1714004",
+            "name": "A. Mnih"
+          },
+          {
+            "authorId": "1723876",
+            "name": "C. Blundell"
+          },
+          {
+            "authorId": "1688276",
+            "name": "Daan Wierstra"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "705fd4febe2fff810d2f72f48dcda20826eca77a",
+        "externalIds": {
+          "DBLP": "journals/corr/UriaML13a",
+          "MAG": "2170111110",
+          "ArXiv": "1310.1757",
+          "CorpusId": 13147238
+        },
+        "url": "https://www.semanticscholar.org/paper/705fd4febe2fff810d2f72f48dcda20826eca77a",
+        "title": "A Deep and Tractable Density Estimator",
+        "venue": "International Conference on Machine Learning",
+        "year": 2013,
+        "referenceCount": 20,
+        "citationCount": 193,
+        "authors": [
+          {
+            "authorId": "2825051",
+            "name": "Benigno Uria"
+          },
+          {
+            "authorId": "145797336",
+            "name": "Iain Murray"
+          },
+          {
+            "authorId": "1777528",
+            "name": "H. Larochelle"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "638f454d6ccb6fb3e5cea263dafdd5ec51aaa536",
+        "externalIds": {
+          "DBLP": "journals/corr/abs-1302-5125",
+          "MAG": "1494871301",
+          "ArXiv": "1302.5125",
+          "CorpusId": 17083936
+        },
+        "url": "https://www.semanticscholar.org/paper/638f454d6ccb6fb3e5cea263dafdd5ec51aaa536",
+        "title": "High-Dimensional Probability Estimation with Deep Density Models",
+        "venue": "arXiv.org",
+        "year": 2013,
+        "referenceCount": 25,
+        "citationCount": 127,
+        "authors": [
+          {
+            "authorId": "1757324",
+            "name": "Oren Rippel"
+          },
+          {
+            "authorId": "1722180",
+            "name": "Ryan P. Adams"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "b7b915d508987b73b61eccd2b237e7ed099a2d29",
+        "externalIds": {
+          "MAG": "3037950864",
+          "DBLP": "conf/icml/GoodfellowWMCB13",
+          "ArXiv": "1302.4389",
+          "CorpusId": 10600578
+        },
+        "url": "https://www.semanticscholar.org/paper/b7b915d508987b73b61eccd2b237e7ed099a2d29",
+        "title": "Maxout Networks",
+        "venue": "International Conference on Machine Learning",
+        "year": 2013,
+        "referenceCount": 26,
+        "citationCount": 2244,
+        "authors": [
+          {
+            "authorId": "153440022",
+            "name": "I. Goodfellow"
+          },
+          {
+            "authorId": "1393680089",
+            "name": "David Warde-Farley"
+          },
+          {
+            "authorId": "153583218",
+            "name": "Mehdi Mirza"
+          },
+          {
+            "authorId": "1760871",
+            "name": "Aaron C. Courville"
+          },
+          {
+            "authorId": "1751762",
+            "name": "Yoshua Bengio"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "7304b5ae51dc9d91bd988141d6d7b1f02aa3f86f",
+        "externalIds": {
+          "MAG": "2104067967",
+          "DOI": "10.1002/CPA.21423",
+          "CorpusId": 17820269
+        },
+        "url": "https://www.semanticscholar.org/paper/7304b5ae51dc9d91bd988141d6d7b1f02aa3f86f",
+        "title": "A Family of Nonparametric Density Estimation Algorithms",
+        "venue": "",
+        "year": 2013,
+        "referenceCount": 19,
+        "citationCount": 540,
+        "authors": [
+          {
+            "authorId": "47995045",
+            "name": "E. Tabak"
+          },
+          {
+            "authorId": "3290920",
+            "name": "C. Turner"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "4ed6688adb26026eee306c95dccb816b97b45f4a",
+        "externalIds": {
+          "ArXiv": "1301.1299",
+          "DBLP": "journals/corr/abs-1301-1299",
+          "MAG": "1729198099",
+          "CorpusId": 17261541
+        },
+        "url": "https://www.semanticscholar.org/paper/4ed6688adb26026eee306c95dccb816b97b45f4a",
+        "title": "Automated Variational Inference in Probabilistic Programming",
+        "venue": "arXiv.org",
+        "year": 2013,
+        "referenceCount": 32,
+        "citationCount": 147,
+        "authors": [
+          {
+            "authorId": "30585164",
+            "name": "David Wingate"
+          },
+          {
+            "authorId": "143947744",
+            "name": "T. Weber"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "338af964c9543f4b8c72da4922d6b5c932c25379",
+        "externalIds": {
+          "DBLP": "conf/nips/ChallisB12",
+          "MAG": "2099450296",
+          "CorpusId": 12563652
+        },
+        "url": "https://www.semanticscholar.org/paper/338af964c9543f4b8c72da4922d6b5c932c25379",
+        "title": "Affine Independent Variational Inference",
+        "venue": "Neural Information Processing Systems",
+        "year": 2012,
+        "referenceCount": 27,
+        "citationCount": 20,
+        "authors": [
+          {
+            "authorId": "2061185",
+            "name": "Edward Challis"
+          },
+          {
+            "authorId": "145617808",
+            "name": "D. Barber"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "bccb2f99a9d1c105699f5d88c479569085e2c7ba",
+        "externalIds": {
+          "DBLP": "journals/corr/HoffmanBWP12",
+          "MAG": "2952905572",
+          "ArXiv": "1206.7051",
+          "DOI": "10.5555/2567709.2502622",
+          "CorpusId": 5652538
+        },
+        "url": "https://www.semanticscholar.org/paper/bccb2f99a9d1c105699f5d88c479569085e2c7ba",
+        "title": "Stochastic variational inference",
+        "venue": "Journal of machine learning research",
+        "year": 2012,
+        "referenceCount": 128,
+        "citationCount": 2805,
+        "authors": [
+          {
+            "authorId": "28552618",
+            "name": "M. Hoffman"
+          },
+          {
+            "authorId": "1796335",
+            "name": "D. Blei"
+          },
+          {
+            "authorId": "2108881999",
+            "name": "Chong Wang"
+          },
+          {
+            "authorId": "143855009",
+            "name": "J. Paisley"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "03e008a4852de41f645546030ab081432b802922",
+        "externalIds": {
+          "DBLP": "conf/icml/AhnBW12",
+          "MAG": "2161340280",
+          "ArXiv": "1206.6380",
+          "CorpusId": 204867635
+        },
+        "url": "https://www.semanticscholar.org/paper/03e008a4852de41f645546030ab081432b802922",
+        "title": "Bayesian Posterior Sampling via Stochastic Gradient Fisher Scoring",
+        "venue": "International Conference on Machine Learning",
+        "year": 2012,
+        "referenceCount": 14,
+        "citationCount": 316,
+        "authors": [
+          {
+            "authorId": "2287302711",
+            "name": "Sungjin Ahn"
+          },
+          {
+            "authorId": "52636093",
+            "name": "Anoop Korattikara"
+          },
+          {
+            "authorId": "2410062459",
+            "name": "Max Welling"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "6ba0491f9dde8ea042ea4a49df34838b345f23c2",
+        "externalIds": {
+          "MAG": "2164613257",
+          "DBLP": "journals/corr/abs-1206-4665",
+          "ArXiv": "1206.4665",
+          "CorpusId": 10633824
+        },
+        "url": "https://www.semanticscholar.org/paper/6ba0491f9dde8ea042ea4a49df34838b345f23c2",
+        "title": "Nonparametric variational inference",
+        "venue": "International Conference on Machine Learning",
+        "year": 2012,
+        "referenceCount": 23,
+        "citationCount": 160,
+        "authors": [
+          {
+            "authorId": "1831199",
+            "name": "S. Gershman"
+          },
+          {
+            "authorId": "28552618",
+            "name": "M. Hoffman"
+          },
+          {
+            "authorId": "1796335",
+            "name": "D. Blei"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "aeed631d6a84100b5e9a021ec1914095c66de415",
+        "externalIds": {
+          "MAG": "2167433878",
+          "DBLP": "conf/icml/WellingT11",
+          "CorpusId": 2178983
+        },
+        "url": "https://www.semanticscholar.org/paper/aeed631d6a84100b5e9a021ec1914095c66de415",
+        "title": "Bayesian Learning via Stochastic Gradient Langevin Dynamics",
+        "venue": "International Conference on Machine Learning",
+        "year": 2011,
+        "referenceCount": 14,
+        "citationCount": 2999,
+        "authors": [
+          {
+            "authorId": "1678311",
+            "name": "M. Welling"
+          },
+          {
+            "authorId": "1725303",
+            "name": "Y. Teh"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "b716f735fb9b229c8227495e596e2d52f2981c33",
+        "externalIds": {
+          "MAG": "2478027467",
+          "DOI": "10.1201/B10905-10",
+          "CorpusId": 123755879
+        },
+        "url": "https://www.semanticscholar.org/paper/b716f735fb9b229c8227495e596e2d52f2981c33",
+        "title": "MCMC Using Hamiltonian Dynamics",
+        "venue": "",
+        "year": 2011,
+        "referenceCount": 108,
+        "citationCount": 1389,
+        "authors": [
+          {
+            "authorId": "1764325",
+            "name": "Radford M. Neal"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "aaca093827e826a1118a4d2a93b0e42a09308be7",
+        "externalIds": {
+          "MAG": "1534417711",
+          "DOI": "10.1017/CBO9780511984679.006",
+          "CorpusId": 18708421
+        },
+        "url": "https://www.semanticscholar.org/paper/aaca093827e826a1118a4d2a93b0e42a09308be7",
+        "title": "Two problems with variational expectation maximisation for time-series models",
+        "venue": "",
+        "year": 2011,
+        "referenceCount": 22,
+        "citationCount": 217,
+        "authors": [
+          {
+            "authorId": "145369890",
+            "name": "Richard E. Turner"
+          },
+          {
+            "authorId": "2283363",
+            "name": "M. Sahani"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "413c1142de9d91804d6d11c67ff3fed59c9fc279",
+        "externalIds": {
+          "MAG": "2405601855",
+          "DBLP": "journals/jmlr/DuchiHS11",
+          "DOI": "10.5555/1953048.2021068",
+          "CorpusId": 538820
+        },
+        "url": "https://www.semanticscholar.org/paper/413c1142de9d91804d6d11c67ff3fed59c9fc279",
+        "title": "Adaptive Subgradient Methods for Online Learning and Stochastic Optimization",
+        "venue": "Journal of machine learning research",
+        "year": 2011,
+        "referenceCount": 55,
+        "citationCount": 11242,
+        "authors": [
+          {
+            "authorId": "1734693",
+            "name": "John C. Duchi"
+          },
+          {
+            "authorId": "34840427",
+            "name": "Elad Hazan"
+          },
+          {
+            "authorId": "1740765",
+            "name": "Y. Singer"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "e778cb18fbdd7c06adae3cb3650c090bd6eb48f3",
+        "externalIds": {
+          "MAG": "2070792261",
+          "DOI": "10.4310/CMS.2010.V8.N1.A11",
+          "CorpusId": 17933194
+        },
+        "url": "https://www.semanticscholar.org/paper/e778cb18fbdd7c06adae3cb3650c090bd6eb48f3",
+        "title": "DENSITY ESTIMATION BY DUAL ASCENT OF THE LOG-LIKELIHOOD ∗",
+        "venue": "",
+        "year": 2010,
+        "referenceCount": 9,
+        "citationCount": 423,
+        "authors": [
+          {
+            "authorId": "47995045",
+            "name": "E. Tabak"
+          },
+          {
+            "authorId": "1397404076",
+            "name": "E. Vanden-Eijnden"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "668b1277fbece28c4841eeab1c97e4ebd0079700",
+        "externalIds": {
+          "MAG": "2009086942",
+          "DBLP": "journals/technometrics/Neal07",
+          "DOI": "10.1007/978-0-387-45528-0",
+          "CorpusId": 31993898
+        },
+        "url": "https://www.semanticscholar.org/paper/668b1277fbece28c4841eeab1c97e4ebd0079700",
+        "title": "Pattern Recognition and Machine Learning",
+        "venue": "Technometrics",
+        "year": 2006,
+        "referenceCount": 361,
+        "citationCount": 39236,
+        "authors": [
+          {
+            "authorId": "1764325",
+            "name": "Radford M. Neal"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "8407bb99cf9df6a32a69afa7307860eb5e283972",
+        "externalIds": {
+          "DBLP": "conf/ijcnn/BairdSI05",
+          "MAG": "1555695166",
+          "DOI": "10.1109/IJCNN.2005.1555983",
+          "CorpusId": 14378123
+        },
+        "url": "https://www.semanticscholar.org/paper/8407bb99cf9df6a32a69afa7307860eb5e283972",
+        "title": "One-step neural network inversion with PDF learning and emulation",
+        "venue": "Proceedings. 2005 IEEE International Joint Conference on Neural Networks, 2005.",
+        "year": 2005,
+        "referenceCount": 12,
+        "citationCount": 18,
+        "authors": [
+          {
+            "authorId": "2250753359",
+            "name": "Leemon Baird"
+          },
+          {
+            "authorId": "2254607134",
+            "name": "David Smalenberger"
+          },
+          {
+            "authorId": "2254610452",
+            "name": "Shawn Ingkiriwang"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "4cebd982e88a3bbe8f91315aab6b5ddf816f97fb",
+        "externalIds": {
+          "ArXiv": "1207.4159",
+          "MAG": "1602041129",
+          "DBLP": "conf/uai/WangT04",
+          "CorpusId": 11567323
+        },
+        "url": "https://www.semanticscholar.org/paper/4cebd982e88a3bbe8f91315aab6b5ddf816f97fb",
+        "title": "Convergence and Asymptotic Normality of Variational Bayesian Approximations for Expon",
+        "venue": "Conference on Uncertainty in Artificial Intelligence",
+        "year": 2004,
+        "referenceCount": 18,
+        "citationCount": 69,
+        "authors": [
+          {
+            "authorId": null,
+            "name": "Bo Wang"
+          },
+          {
+            "authorId": "1742419",
+            "name": "D. Titterington"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "6120cc252bc74239012f11b8b075cb7cb16bee26",
+        "externalIds": {
+          "MAG": "1516111018",
+          "DBLP": "journals/ml/JordanGJS99",
+          "DOI": "10.1023/A:1007665907178",
+          "CorpusId": 2073260
+        },
+        "url": "https://www.semanticscholar.org/paper/6120cc252bc74239012f11b8b075cb7cb16bee26",
+        "title": "An Introduction to Variational Methods for Graphical Models",
+        "venue": "Machine-mediated learning",
+        "year": 1999,
+        "referenceCount": 74,
+        "citationCount": 4654,
+        "authors": [
+          {
+            "authorId": "1694621",
+            "name": "Michael I. Jordan"
+          },
+          {
+            "authorId": "1744700",
+            "name": "Zoubin Ghahramani"
+          },
+          {
+            "authorId": "35132120",
+            "name": "T. Jaakkola"
+          },
+          {
+            "authorId": "1796044",
+            "name": "L. Saul"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "01214343041e0f5b388e833deb7da7e5a6e17d27",
+        "externalIds": {
+          "DBLP": "books/sp/12/JaakkolaJ98",
+          "MAG": "2892291191",
+          "DOI": "10.1007/978-94-011-5014-9_6",
+          "CorpusId": 14616421
+        },
+        "url": "https://www.semanticscholar.org/paper/01214343041e0f5b388e833deb7da7e5a6e17d27",
+        "title": "Improving the Mean Field Approximation Via the Use of Mixture Distributions",
+        "venue": "Learning in Graphical Models",
+        "year": 1999,
+        "referenceCount": 7,
+        "citationCount": 172,
+        "authors": [
+          {
+            "authorId": "35132120",
+            "name": "T. Jaakkola"
+          },
+          {
+            "authorId": "2257154779",
+            "name": "Michael I. Jordan"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "e7542e8981bf05ffb1d0991bd9f7143700d8e608",
+        "externalIds": {
+          "DBLP": "journals/npl/SuykensVV98",
+          "MAG": "1525995145",
+          "DOI": "10.1023/A:1009632428145",
+          "CorpusId": 30823921
+        },
+        "url": "https://www.semanticscholar.org/paper/e7542e8981bf05ffb1d0991bd9f7143700d8e608",
+        "title": "On-Line Learning Fokker-Planck Machine",
+        "venue": "Neural Processing Letters",
+        "year": 1998,
+        "referenceCount": 25,
+        "citationCount": 16,
+        "authors": [
+          {
+            "authorId": "1744439",
+            "name": "J. Suykens"
+          },
+          {
+            "authorId": "3146734",
+            "name": "H. Verrelst"
+          },
+          {
+            "authorId": "1704135",
+            "name": "J. Vandewalle"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "c7e07cf8ba4ad956483f9dd37a168355ef16a041",
+        "externalIds": {
+          "CorpusId": 216078910
+        },
+        "url": "https://www.semanticscholar.org/paper/c7e07cf8ba4ad956483f9dd37a168355ef16a041",
+        "title": "Markov Chain Monte Carlo and Variational Inference: Bridging the Gap",
+        "venue": "",
+        "year": 2014,
+        "referenceCount": 15,
+        "citationCount": 555,
+        "authors": [
+          {
+            "authorId": "2887364",
+            "name": "Tim Salimans"
+          },
+          {
+            "authorId": "1726807",
+            "name": "Diederik P. Kingma"
+          },
+          {
+            "authorId": "1678311",
+            "name": "M. Welling"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "93f5a28d16e04334fcb71cb62d0fd9b1c68883bb",
+        "externalIds": {
+          "MAG": "2403726878",
+          "DBLP": "conf/cogsci/GershmanG14",
+          "CorpusId": 924780
+        },
+        "url": "https://www.semanticscholar.org/paper/93f5a28d16e04334fcb71cb62d0fd9b1c68883bb",
+        "title": "Amortized Inference in Probabilistic Reasoning",
+        "venue": "Annual Meeting of the Cognitive Science Society",
+        "year": 2014,
+        "referenceCount": 20,
+        "citationCount": 381,
+        "authors": [
+          {
+            "authorId": "1831199",
+            "name": "S. Gershman"
+          },
+          {
+            "authorId": "144002017",
+            "name": "Noah D. Goodman"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "bea5780d621e669e8069f05d0f2fc0db9df4b50f",
+        "externalIds": {
+          "CorpusId": 15295567
+        },
+        "url": "https://www.semanticscholar.org/paper/bea5780d621e669e8069f05d0f2fc0db9df4b50f",
+        "title": "Convolutional Deep Belief Networks on CIFAR-10",
+        "venue": "",
+        "year": 2010,
+        "referenceCount": 7,
+        "citationCount": 742,
+        "authors": [
+          {
+            "authorId": "2064160",
+            "name": "A. Krizhevsky"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "dc52d1ede1b90bf9d296bc5b34c9310b7eaa99a2",
+        "externalIds": {
+          "MAG": "200806003",
+          "CorpusId": 60282629
+        },
+        "url": "https://www.semanticscholar.org/paper/dc52d1ede1b90bf9d296bc5b34c9310b7eaa99a2",
+        "title": "The mnist database of handwritten digits",
+        "venue": "",
+        "year": 2005,
+        "referenceCount": 1,
+        "citationCount": 7315,
+        "authors": [
+          {
+            "authorId": "1688882",
+            "name": "Yann LeCun"
+          },
+          {
+            "authorId": "145115014",
+            "name": "Corinna Cortes"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "4c915c1eecb217c123a36dc6d3ce52d12c742614",
+        "externalIds": {
+          "DOI": "10.1023/A:1022672621406",
+          "CorpusId": 2332513
+        },
+        "url": "https://www.semanticscholar.org/paper/4c915c1eecb217c123a36dc6d3ce52d12c742614",
+        "title": "Simple Statistical Gradient-Following Algorithms for Connectionist Reinforcement Learning",
+        "venue": "Machine-mediated learning",
+        "year": 2004,
+        "referenceCount": 37,
+        "citationCount": 10054,
+        "authors": [
+          {
+            "authorId": "2116648700",
+            "name": "Ronald J. Williams"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "7c264b6ec998204f342c0ede541e613e41b133f9",
+        "externalIds": {
+          "MAG": "2137945003",
+          "CorpusId": 61414454
+        },
+        "url": "https://www.semanticscholar.org/paper/7c264b6ec998204f342c0ede541e613e41b133f9",
+        "title": "Non-centred parameterisations for hierarchical models and data augmentation.",
+        "venue": "",
+        "year": 2003,
+        "referenceCount": 31,
+        "citationCount": 87,
+        "authors": [
+          {
+            "authorId": "3264000",
+            "name": "G. Roberts"
+          },
+          {
+            "authorId": "2660689",
+            "name": "O. Papaspiliopoulos"
+          },
+          {
+            "authorId": "2070878194",
+            "name": "M. Sköld"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "7b85fb48a077c679c325433fbe13b87560e12886",
+        "externalIds": {
+          "CorpusId": 73667715
+        },
+        "url": "https://www.semanticscholar.org/paper/7b85fb48a077c679c325433fbe13b87560e12886",
+        "title": "Non-Centered Parameterisations for Hierarchical Models and Data Augmentation",
+        "venue": "",
+        "year": 2003,
+        "referenceCount": 40,
+        "citationCount": 109,
+        "authors": [
+          {
+            "authorId": "144209397",
+            "name": "J. Bernardo"
+          },
+          {
+            "authorId": "52451583",
+            "name": "M. J. Bayarri"
+          },
+          {
+            "authorId": "39201543",
+            "name": "J. Berger"
+          },
+          {
+            "authorId": "144845488",
+            "name": "A. Dawid"
+          },
+          {
+            "authorId": "48099028",
+            "name": "D. Heckerman"
+          },
+          {
+            "authorId": "15974963",
+            "name": "A. F. Smith"
+          },
+          {
+            "authorId": "2055933310",
+            "name": "M. West"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "eebb51ea332b5109523b2bdb7f224172b537547f",
+        "externalIds": {
+          "CorpusId": 16312222
+        },
+        "url": "https://www.semanticscholar.org/paper/eebb51ea332b5109523b2bdb7f224172b537547f",
+        "title": "The handbook of brain theory and neural networks /",
+        "venue": "",
+        "year": 2001,
+        "referenceCount": 15,
+        "citationCount": 2792,
+        "authors": [
+          {
+            "authorId": "1795076",
+            "name": "M. Arbib"
+          },
+          {
+            "authorId": "2271019728",
+            "name": "Peter Fgldibk"
+          },
+          {
+            "authorId": "2286622146",
+            "name": "Malcolm P. Young"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "dd8cda00ccb0af1594fbaa5d41ee639d053a9cb2",
+        "externalIds": {
+          "CorpusId": 16890943
+        },
+        "url": "https://www.semanticscholar.org/paper/dd8cda00ccb0af1594fbaa5d41ee639d053a9cb2",
+        "title": "Helmholtz Machines and Wake-Sleep Learning",
+        "venue": "",
+        "year": 2000,
+        "referenceCount": 16,
+        "citationCount": 23,
+        "authors": [
+          {
+            "authorId": "1790646",
+            "name": "P. Dayan"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "7016f1e9b6272fcd227b0c4f3a2d0527c4163de0",
+        "externalIds": {
+          "MAG": "2480024362",
+          "DOI": "10.1007/978-3-642-59657-5_13",
+          "CorpusId": 124870341
+        },
+        "url": "https://www.semanticscholar.org/paper/7016f1e9b6272fcd227b0c4f3a2d0527c4163de0",
+        "title": "Methods for Generating Random Orthogonal Matrices",
+        "venue": "",
+        "year": 2000,
+        "referenceCount": 16,
+        "citationCount": 44,
+        "authors": [
+          {
+            "authorId": "1734544",
+            "name": "A. Genz"
+          }
+        ]
+      }
+    }
+  ]
+}

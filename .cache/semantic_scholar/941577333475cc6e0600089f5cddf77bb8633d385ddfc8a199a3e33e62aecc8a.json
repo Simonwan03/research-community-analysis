@@ -1,0 +1,88 @@
+{
+  "total": 3,
+  "offset": 0,
+  "data": [
+    {
+      "paperId": "ee42544fb9585f8649117d1ffbcebd68f50d3a4d",
+      "externalIds": {
+        "MAG": "1842246424",
+        "DBLP": "conf/icml/HsiehYD15",
+        "ArXiv": "1504.01365",
+        "CorpusId": 5986571
+      },
+      "url": "https://www.semanticscholar.org/paper/ee42544fb9585f8649117d1ffbcebd68f50d3a4d",
+      "title": "PASSCoDe: Parallel ASynchronous Stochastic dual Co-ordinate Descent",
+      "venue": "International Conference on Machine Learning",
+      "year": 2015,
+      "referenceCount": 33,
+      "citationCount": 109,
+      "authors": [
+        {
+          "authorId": "1793529",
+          "name": "Cho-Jui Hsieh"
+        },
+        {
+          "authorId": "46185316",
+          "name": "Hsiang-Fu Yu"
+        },
+        {
+          "authorId": "1783667",
+          "name": "I. Dhillon"
+        }
+      ]
+    },
+    {
+      "paperId": "3ea286c957f99fe6f5e12465b5ca20d644033326",
+      "externalIds": {
+        "DBLP": "conf/icdm/ZhangH16",
+        "MAG": "2584746436",
+        "DOI": "10.1109/ICDM.2016.0073",
+        "CorpusId": 8372299
+      },
+      "url": "https://www.semanticscholar.org/paper/3ea286c957f99fe6f5e12465b5ca20d644033326",
+      "title": "Fixing the Convergence Problems in Parallel Asynchronous Dual Coordinate Descent",
+      "venue": "Industrial Conference on Data Mining",
+      "year": 2016,
+      "referenceCount": 23,
+      "citationCount": 8,
+      "authors": [
+        {
+          "authorId": "2109067470",
+          "name": "Huan Zhang"
+        },
+        {
+          "authorId": "1793529",
+          "name": "Cho-Jui Hsieh"
+        }
+      ]
+    },
+    {
+      "paperId": "8e998a0a59fbe4dbf6baf500bb9660517c6ec5f6",
+      "externalIds": {
+        "DBLP": "conf/pdp/ChenLW21",
+        "DOI": "10.1109/PDP52278.2021.00016",
+        "CorpusId": 233332746
+      },
+      "url": "https://www.semanticscholar.org/paper/8e998a0a59fbe4dbf6baf500bb9660517c6ec5f6",
+      "title": "Parallel Asynchronous Stochastic Dual Coordinate Descent Algorithms for High Efficiency and Stable Convergence",
+      "venue": "International Euromicro Conference on Parallel, Distributed and Network-Based Processing",
+      "year": 2021,
+      "referenceCount": 32,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2144865077",
+          "name": "Yung-Chen Chen"
+        },
+        {
+          "authorId": "38244340",
+          "name": "Pangfeng Liu"
+        },
+        {
+          "authorId": "1726584",
+          "name": "Jan-Jan Wu"
+        }
+      ]
+    }
+  ]
+}

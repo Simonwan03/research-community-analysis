@@ -1,0 +1,1017 @@
+{
+  "offset": 0,
+  "citingPaperInfo": {
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/1502.04681, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "title": "Unsupervised Learning of Video Representations using LSTMs",
+    "authors": [
+      {
+        "authorId": "2897313",
+        "name": "Nitish Srivastava"
+      },
+      {
+        "authorId": "2711409",
+        "name": "Elman Mansimov"
+      },
+      {
+        "authorId": "145124475",
+        "name": "R. Salakhutdinov"
+      }
+    ]
+  },
+  "data": [
+    {
+      "citedPaper": {
+        "paperId": "a2785f66c20fbdf30ec26c0931584c6d6a0f4fca",
+        "externalIds": {
+          "MAG": "1850742715",
+          "DBLP": "journals/corr/GregorDGW15",
+          "ArXiv": "1502.04623",
+          "CorpusId": 1930231
+        },
+        "url": "https://www.semanticscholar.org/paper/a2785f66c20fbdf30ec26c0931584c6d6a0f4fca",
+        "title": "DRAW: A Recurrent Neural Network For Image Generation",
+        "venue": "International Conference on Machine Learning",
+        "year": 2015,
+        "referenceCount": 36,
+        "citationCount": 2005,
+        "authors": [
+          {
+            "authorId": "144717963",
+            "name": "Karol Gregor"
+          },
+          {
+            "authorId": "1841008",
+            "name": "Ivo Danihelka"
+          },
+          {
+            "authorId": "1753223",
+            "name": "Alex Graves"
+          },
+          {
+            "authorId": "1748523",
+            "name": "Danilo Jimenez Rezende"
+          },
+          {
+            "authorId": "1688276",
+            "name": "Daan Wierstra"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "355f98e4827a1b6ad3f29d07ea2bcf9ad078295c",
+        "externalIds": {
+          "DBLP": "journals/corr/RanzatoSBMCC14",
+          "MAG": "1568514080",
+          "ArXiv": "1412.6604",
+          "CorpusId": 17572062
+        },
+        "url": "https://www.semanticscholar.org/paper/355f98e4827a1b6ad3f29d07ea2bcf9ad078295c",
+        "title": "Video (language) modeling: a baseline for generative models of natural videos",
+        "venue": "arXiv.org",
+        "year": 2014,
+        "referenceCount": 33,
+        "citationCount": 481,
+        "authors": [
+          {
+            "authorId": "1706809",
+            "name": "Marc'Aurelio Ranzato"
+          },
+          {
+            "authorId": "3149531",
+            "name": "Arthur Szlam"
+          },
+          {
+            "authorId": "143627859",
+            "name": "Joan Bruna"
+          },
+          {
+            "authorId": "143949035",
+            "name": "Michaël Mathieu"
+          },
+          {
+            "authorId": "2939803",
+            "name": "R. Collobert"
+          },
+          {
+            "authorId": "3295092",
+            "name": "S. Chopra"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "544b80ef13bb0d4288c6a1f50c504c03d3a14d37",
+        "externalIds": {
+          "MAG": "2138960858",
+          "DBLP": "conf/nips/MichalskiMK14",
+          "CorpusId": 6528211
+        },
+        "url": "https://www.semanticscholar.org/paper/544b80ef13bb0d4288c6a1f50c504c03d3a14d37",
+        "title": "Modeling Deep Temporal Dependencies with Recurrent \"Grammar Cells\"",
+        "venue": "Neural Information Processing Systems",
+        "year": 2014,
+        "referenceCount": 22,
+        "citationCount": 120,
+        "authors": [
+          {
+            "authorId": "1748421",
+            "name": "Vincent Michalski"
+          },
+          {
+            "authorId": "1710604",
+            "name": "R. Memisevic"
+          },
+          {
+            "authorId": "35254095",
+            "name": "K. Konda"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "bd243d77076b3b8fe046bd3dc6e8a02aa9b38d62",
+        "externalIds": {
+          "DBLP": "journals/corr/TranBFTP14",
+          "ArXiv": "1412.0767",
+          "MAG": "2122476475",
+          "CorpusId": 195346008
+        },
+        "url": "https://www.semanticscholar.org/paper/bd243d77076b3b8fe046bd3dc6e8a02aa9b38d62",
+        "title": "C3D: Generic Features for Video Analysis",
+        "venue": "arXiv.org",
+        "year": 2014,
+        "referenceCount": 56,
+        "citationCount": 419,
+        "authors": [
+          {
+            "authorId": "1687325",
+            "name": "Du Tran"
+          },
+          {
+            "authorId": "1769383",
+            "name": "Lubomir D. Bourdev"
+          },
+          {
+            "authorId": "2276554",
+            "name": "R. Fergus"
+          },
+          {
+            "authorId": "1732879",
+            "name": "L. Torresani"
+          },
+          {
+            "authorId": "2210374",
+            "name": "Manohar Paluri"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "10af69f11301679b6fbb23855bf10f6af1f3d2e6",
+        "externalIds": {
+          "MAG": "1920196880",
+          "ArXiv": "1411.6660",
+          "DBLP": "conf/cvpr/LanLLHR15",
+          "DOI": "10.1109/CVPR.2015.7298616",
+          "CorpusId": 13269760
+        },
+        "url": "https://www.semanticscholar.org/paper/10af69f11301679b6fbb23855bf10f6af1f3d2e6",
+        "title": "Beyond Gaussian Pyramid: Multi-skip Feature Stacking for action recognition",
+        "venue": "Computer Vision and Pattern Recognition",
+        "year": 2014,
+        "referenceCount": 44,
+        "citationCount": 301,
+        "authors": [
+          {
+            "authorId": "2362534",
+            "name": "Zhenzhong Lan"
+          },
+          {
+            "authorId": "144247537",
+            "name": "Ming Lin"
+          },
+          {
+            "authorId": "2108263219",
+            "name": "Xuanchong Li"
+          },
+          {
+            "authorId": "7661726",
+            "name": "Alexander Hauptmann"
+          },
+          {
+            "authorId": "1681921",
+            "name": "B. Raj"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "f01fc808592ea7c473a69a6e7484040a435f36d9",
+        "externalIds": {
+          "DBLP": "journals/pami/DonahueHRVGSD17",
+          "MAG": "2951183276",
+          "ArXiv": "1411.4389",
+          "DOI": "10.1109/CVPR.2015.7298878",
+          "CorpusId": 5736847,
+          "PubMed": "27608449"
+        },
+        "url": "https://www.semanticscholar.org/paper/f01fc808592ea7c473a69a6e7484040a435f36d9",
+        "title": "Long-term recurrent convolutional networks for visual recognition and description",
+        "venue": "Computer Vision and Pattern Recognition",
+        "year": 2014,
+        "referenceCount": 90,
+        "citationCount": 6357,
+        "authors": [
+          {
+            "authorId": "7408951",
+            "name": "Jeff Donahue"
+          },
+          {
+            "authorId": "2234342",
+            "name": "Lisa Anne Hendricks"
+          },
+          {
+            "authorId": "34849128",
+            "name": "Marcus Rohrbach"
+          },
+          {
+            "authorId": "1811430",
+            "name": "Subhashini Venugopalan"
+          },
+          {
+            "authorId": "1687120",
+            "name": "S. Guadarrama"
+          },
+          {
+            "authorId": "2903226",
+            "name": "Kate Saenko"
+          },
+          {
+            "authorId": "1753210",
+            "name": "Trevor Darrell"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "d4dc1012d780e8e2547237eb5a6dc7b1bf47d2f0",
+        "externalIds": {
+          "DBLP": "journals/corr/VinyalsTBE14",
+          "MAG": "1895577753",
+          "ArXiv": "1411.4555",
+          "DOI": "10.1109/CVPR.2015.7298935",
+          "CorpusId": 1169492
+        },
+        "url": "https://www.semanticscholar.org/paper/d4dc1012d780e8e2547237eb5a6dc7b1bf47d2f0",
+        "title": "Show and tell: A neural image caption generator",
+        "venue": "Computer Vision and Pattern Recognition",
+        "year": 2014,
+        "referenceCount": 35,
+        "citationCount": 6489,
+        "authors": [
+          {
+            "authorId": "1689108",
+            "name": "O. Vinyals"
+          },
+          {
+            "authorId": "1726415",
+            "name": "Alexander Toshev"
+          },
+          {
+            "authorId": "1751569",
+            "name": "Samy Bengio"
+          },
+          {
+            "authorId": "1761978",
+            "name": "D. Erhan"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "cea967b59209c6be22829699f05b8b1ac4dc092d",
+        "externalIds": {
+          "MAG": "2130942839",
+          "DBLP": "conf/nips/SutskeverVL14",
+          "ArXiv": "1409.3215",
+          "CorpusId": 7961699
+        },
+        "url": "https://www.semanticscholar.org/paper/cea967b59209c6be22829699f05b8b1ac4dc092d",
+        "title": "Sequence to Sequence Learning with Neural Networks",
+        "venue": "Neural Information Processing Systems",
+        "year": 2014,
+        "referenceCount": 41,
+        "citationCount": 21934,
+        "authors": [
+          {
+            "authorId": "1701686",
+            "name": "I. Sutskever"
+          },
+          {
+            "authorId": "1689108",
+            "name": "O. Vinyals"
+          },
+          {
+            "authorId": "2827616",
+            "name": "Quoc V. Le"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "f264e8b33c0d49a692a6ce2c4bcb28588aeb7d97",
+        "externalIds": {
+          "MAG": "1591801644",
+          "ArXiv": "1409.2329",
+          "DBLP": "journals/corr/ZarembaSV14",
+          "CorpusId": 17719760
+        },
+        "url": "https://www.semanticscholar.org/paper/f264e8b33c0d49a692a6ce2c4bcb28588aeb7d97",
+        "title": "Recurrent Neural Network Regularization",
+        "venue": "arXiv.org",
+        "year": 2014,
+        "referenceCount": 37,
+        "citationCount": 2991,
+        "authors": [
+          {
+            "authorId": "2563432",
+            "name": "Wojciech Zaremba"
+          },
+          {
+            "authorId": "1701686",
+            "name": "I. Sutskever"
+          },
+          {
+            "authorId": "1689108",
+            "name": "O. Vinyals"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "eb42cf88027de515750f230b23b1a057dc782108",
+        "externalIds": {
+          "MAG": "2949429431",
+          "ArXiv": "1409.1556",
+          "DBLP": "journals/corr/SimonyanZ14a",
+          "CorpusId": 14124313
+        },
+        "url": "https://www.semanticscholar.org/paper/eb42cf88027de515750f230b23b1a057dc782108",
+        "title": "Very Deep Convolutional Networks for Large-Scale Image Recognition",
+        "venue": "International Conference on Learning Representations",
+        "year": 2014,
+        "referenceCount": 43,
+        "citationCount": 110725,
+        "authors": [
+          {
+            "authorId": "34838386",
+            "name": "K. Simonyan"
+          },
+          {
+            "authorId": "1688869",
+            "name": "Andrew Zisserman"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "6d4c9c923e9f145d1c01a2de2afc38ec23c44253",
+        "externalIds": {
+          "MAG": "2308045930",
+          "DBLP": "conf/cvpr/KarpathyTSLSF14",
+          "DOI": "10.1109/CVPR.2014.223",
+          "CorpusId": 206592218
+        },
+        "url": "https://www.semanticscholar.org/paper/6d4c9c923e9f145d1c01a2de2afc38ec23c44253",
+        "title": "Large-Scale Video Classification with Convolutional Neural Networks",
+        "venue": "2014 IEEE Conference on Computer Vision and Pattern Recognition",
+        "year": 2014,
+        "referenceCount": 30,
+        "citationCount": 6658,
+        "authors": [
+          {
+            "authorId": "2354728",
+            "name": "A. Karpathy"
+          },
+          {
+            "authorId": "1805076",
+            "name": "G. Toderici"
+          },
+          {
+            "authorId": "152821938",
+            "name": "Sanketh Shetty"
+          },
+          {
+            "authorId": "152456068",
+            "name": "Thomas Leung"
+          },
+          {
+            "authorId": "1694199",
+            "name": "R. Sukthankar"
+          },
+          {
+            "authorId": "48004138",
+            "name": "Li Fei-Fei"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "0fa553cfa0cf3cbdf7a913aa2ae789a757dfb32f",
+        "externalIds": {
+          "MAG": "3111804057",
+          "DBLP": "conf/icml/GravesJ14",
+          "CorpusId": 1166498
+        },
+        "url": "https://www.semanticscholar.org/paper/0fa553cfa0cf3cbdf7a913aa2ae789a757dfb32f",
+        "title": "Towards End-To-End Speech Recognition with Recurrent Neural Networks",
+        "venue": "International Conference on Machine Learning",
+        "year": 2014,
+        "referenceCount": 23,
+        "citationCount": 2289,
+        "authors": [
+          {
+            "authorId": "1753223",
+            "name": "Alex Graves"
+          },
+          {
+            "authorId": "3111912",
+            "name": "N. Jaitly"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "67dccc9a856b60bdc4d058d83657a089b8ad4486",
+        "externalIds": {
+          "MAG": "2952186347",
+          "DBLP": "conf/nips/SimonyanZ14",
+          "ArXiv": "1406.2199",
+          "CorpusId": 11797475
+        },
+        "url": "https://www.semanticscholar.org/paper/67dccc9a856b60bdc4d058d83657a089b8ad4486",
+        "title": "Two-Stream Convolutional Networks for Action Recognition in Videos",
+        "venue": "Neural Information Processing Systems",
+        "year": 2014,
+        "referenceCount": 33,
+        "citationCount": 8139,
+        "authors": [
+          {
+            "authorId": "34838386",
+            "name": "K. Simonyan"
+          },
+          {
+            "authorId": "1688869",
+            "name": "Andrew Zisserman"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "0b544dfe355a5070b60986319a3f51fb45d1348e",
+        "externalIds": {
+          "MAG": "2950635152",
+          "DBLP": "conf/emnlp/ChoMGBBSB14",
+          "ACL": "D14-1179",
+          "ArXiv": "1406.1078",
+          "DOI": "10.3115/v1/D14-1179",
+          "CorpusId": 5590763
+        },
+        "url": "https://www.semanticscholar.org/paper/0b544dfe355a5070b60986319a3f51fb45d1348e",
+        "title": "Learning Phrase Representations using RNN Encoder–Decoder for Statistical Machine Translation",
+        "venue": "Conference on Empirical Methods in Natural Language Processing",
+        "year": 2014,
+        "referenceCount": 33,
+        "citationCount": 26035,
+        "authors": [
+          {
+            "authorId": "1979489",
+            "name": "Kyunghyun Cho"
+          },
+          {
+            "authorId": "3158246",
+            "name": "B. V. Merrienboer"
+          },
+          {
+            "authorId": "1854385",
+            "name": "Çaglar Gülçehre"
+          },
+          {
+            "authorId": "3335364",
+            "name": "Dzmitry Bahdanau"
+          },
+          {
+            "authorId": "2076086",
+            "name": "Fethi Bougares"
+          },
+          {
+            "authorId": "144518416",
+            "name": "Holger Schwenk"
+          },
+          {
+            "authorId": "1751762",
+            "name": "Yoshua Bengio"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "5f5dc5b9a2ba710937e2c413b37b053cd673df02",
+        "externalIds": {
+          "DBLP": "journals/corr/KingmaW13",
+          "MAG": "2951004968",
+          "ArXiv": "1312.6114",
+          "CorpusId": 216078090
+        },
+        "url": "https://www.semanticscholar.org/paper/5f5dc5b9a2ba710937e2c413b37b053cd673df02",
+        "title": "Auto-Encoding Variational Bayes",
+        "venue": "International Conference on Learning Representations",
+        "year": 2013,
+        "referenceCount": 26,
+        "citationCount": 17030,
+        "authors": [
+          {
+            "authorId": "1726807",
+            "name": "Diederik P. Kingma"
+          },
+          {
+            "authorId": "1678311",
+            "name": "M. Welling"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "6471fd1cbc081fb3b7b5b14d6ab9eaaba02b5c17",
+        "externalIds": {
+          "DBLP": "journals/corr/Graves13",
+          "ArXiv": "1308.0850",
+          "MAG": "1810943226",
+          "CorpusId": 1697424
+        },
+        "url": "https://www.semanticscholar.org/paper/6471fd1cbc081fb3b7b5b14d6ab9eaaba02b5c17",
+        "title": "Generating Sequences With Recurrent Neural Networks",
+        "venue": "arXiv.org",
+        "year": 2013,
+        "referenceCount": 38,
+        "citationCount": 4271,
+        "authors": [
+          {
+            "authorId": "1753223",
+            "name": "Alex Graves"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "da9e411fcf740569b6b356f330a1d0fc077c8d7c",
+        "externalIds": {
+          "MAG": "24089286",
+          "ArXiv": "1212.0402",
+          "DBLP": "journals/corr/abs-1212-0402",
+          "CorpusId": 7197134
+        },
+        "url": "https://www.semanticscholar.org/paper/da9e411fcf740569b6b356f330a1d0fc077c8d7c",
+        "title": "UCF101: A Dataset of 101 Human Actions Classes From Videos in The Wild",
+        "venue": "arXiv.org",
+        "year": 2012,
+        "referenceCount": 13,
+        "citationCount": 7048,
+        "authors": [
+          {
+            "authorId": "1799979",
+            "name": "K. Soomro"
+          },
+          {
+            "authorId": "40029556",
+            "name": "Amir Zamir"
+          },
+          {
+            "authorId": "145103012",
+            "name": "M. Shah"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "8b3b8848a311c501e704c45c6d50430ab7068956",
+        "externalIds": {
+          "MAG": "2126579184",
+          "DBLP": "conf/iccv/KuehneJGPS11",
+          "DOI": "10.1109/ICCV.2011.6126543",
+          "CorpusId": 206769852
+        },
+        "url": "https://www.semanticscholar.org/paper/8b3b8848a311c501e704c45c6d50430ab7068956",
+        "title": "HMDB: A large video database for human motion recognition",
+        "venue": "Vision",
+        "year": 2011,
+        "referenceCount": 34,
+        "citationCount": 4243,
+        "authors": [
+          {
+            "authorId": "2077580009",
+            "name": "Hilde Kuehne"
+          },
+          {
+            "authorId": "2676982",
+            "name": "Hueihan Jhuang"
+          },
+          {
+            "authorId": "1930964",
+            "name": "Estíbaliz Garrote"
+          },
+          {
+            "authorId": "1685292",
+            "name": "T. Poggio"
+          },
+          {
+            "authorId": "1981539",
+            "name": "Thomas Serre"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "f282338fa4cd5516cdcd33cd4b6034f9739c45f4",
+        "externalIds": {
+          "MAG": "1625552931",
+          "DBLP": "journals/pami/Memisevic13",
+          "ArXiv": "1110.0107",
+          "DOI": "10.1109/TPAMI.2013.53",
+          "CorpusId": 7197251,
+          "PubMed": "23787339"
+        },
+        "url": "https://www.semanticscholar.org/paper/f282338fa4cd5516cdcd33cd4b6034f9739c45f4",
+        "title": "Learning to Relate Images",
+        "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+        "year": 2011,
+        "referenceCount": 74,
+        "citationCount": 73,
+        "authors": [
+          {
+            "authorId": "1710604",
+            "name": "R. Memisevic"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "42269d0438c0ae4ca892334946ed779999691074",
+        "externalIds": {
+          "DBLP": "conf/cvpr/LeZYN11",
+          "MAG": "1999192586",
+          "DOI": "10.1109/CVPR.2011.5995496",
+          "CorpusId": 6006618
+        },
+        "url": "https://www.semanticscholar.org/paper/42269d0438c0ae4ca892334946ed779999691074",
+        "title": "Learning hierarchical invariant spatio-temporal features for action recognition with independent subspace analysis",
+        "venue": "Computer Vision and Pattern Recognition",
+        "year": 2011,
+        "referenceCount": 45,
+        "citationCount": 1121,
+        "authors": [
+          {
+            "authorId": "2827616",
+            "name": "Quoc V. Le"
+          },
+          {
+            "authorId": "2860351",
+            "name": "Will Y. Zou"
+          },
+          {
+            "authorId": "34149749",
+            "name": "Serena Yeung"
+          },
+          {
+            "authorId": "34699434",
+            "name": "A. Ng"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "6c036729284a73075d4f9b2ce7b87cd05fe2bbba",
+        "externalIds": {
+          "DBLP": "conf/cvpr/SusskindHMP11",
+          "MAG": "2020315425",
+          "DOI": "10.1109/CVPR.2011.5995541",
+          "CorpusId": 12998575
+        },
+        "url": "https://www.semanticscholar.org/paper/6c036729284a73075d4f9b2ce7b87cd05fe2bbba",
+        "title": "Modeling the joint density of two images under a variety of transformations",
+        "venue": "Computer Vision and Pattern Recognition",
+        "year": 2011,
+        "referenceCount": 29,
+        "citationCount": 59,
+        "authors": [
+          {
+            "authorId": "49158771",
+            "name": "J. Susskind"
+          },
+          {
+            "authorId": "1695689",
+            "name": "Geoffrey E. Hinton"
+          },
+          {
+            "authorId": "1710604",
+            "name": "R. Memisevic"
+          },
+          {
+            "authorId": "1742208",
+            "name": "M. Pollefeys"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "0eb2e4a205a628ab059cab41d3b772f614ad29f2",
+        "externalIds": {
+          "DBLP": "journals/neco/MemisevicH10",
+          "MAG": "2136163184",
+          "DOI": "10.1162/neco.2010.01-09-953",
+          "CorpusId": 1413690,
+          "PubMed": "20141471"
+        },
+        "url": "https://www.semanticscholar.org/paper/0eb2e4a205a628ab059cab41d3b772f614ad29f2",
+        "title": "Learning to Represent Spatial Transformations with Factored Higher-Order Boltzmann Machines",
+        "venue": "Neural Computation",
+        "year": 2010,
+        "referenceCount": 24,
+        "citationCount": 285,
+        "authors": [
+          {
+            "authorId": "1710604",
+            "name": "R. Memisevic"
+          },
+          {
+            "authorId": "1695689",
+            "name": "Geoffrey E. Hinton"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "e2c477de72bb7718f5304c6f38457fda9c8334b1",
+        "externalIds": {
+          "MAG": "2145038566",
+          "DBLP": "conf/icml/MobahiCW09",
+          "DOI": "10.1145/1553374.1553469",
+          "CorpusId": 1883779
+        },
+        "url": "https://www.semanticscholar.org/paper/e2c477de72bb7718f5304c6f38457fda9c8334b1",
+        "title": "Deep learning from temporal coherence in video",
+        "venue": "International Conference on Machine Learning",
+        "year": 2009,
+        "referenceCount": 36,
+        "citationCount": 368,
+        "authors": [
+          {
+            "authorId": "3232655",
+            "name": "H. Mobahi"
+          },
+          {
+            "authorId": "2939803",
+            "name": "R. Collobert"
+          },
+          {
+            "authorId": "145183709",
+            "name": "J. Weston"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "eae2e0fa72e898c289365c0af16daf57a7a6cf40",
+        "externalIds": {
+          "DBLP": "journals/tip/WangBSS04",
+          "MAG": "2133665775",
+          "DOI": "10.1109/TIP.2003.819861",
+          "CorpusId": 207761262,
+          "PubMed": "15376593"
+        },
+        "url": "https://www.semanticscholar.org/paper/eae2e0fa72e898c289365c0af16daf57a7a6cf40",
+        "title": "Image quality assessment: from error visibility to structural similarity",
+        "venue": "IEEE Transactions on Image Processing",
+        "year": 2004,
+        "referenceCount": 61,
+        "citationCount": 56083,
+        "authors": [
+          {
+            "authorId": "41210105",
+            "name": "Zhou Wang"
+          },
+          {
+            "authorId": "1747569",
+            "name": "A. Bovik"
+          },
+          {
+            "authorId": "2387140",
+            "name": "H. Sheikh"
+          },
+          {
+            "authorId": "1689350",
+            "name": "Eero P. Simoncelli"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "53678a7d6ed45901071fc49c863870dec6b7c782",
+        "externalIds": {
+          "DBLP": "journals/neco/HurriH03",
+          "MAG": "2142457795",
+          "DOI": "10.1162/089976603321192121",
+          "CorpusId": 7867966,
+          "PubMed": "12620162"
+        },
+        "url": "https://www.semanticscholar.org/paper/53678a7d6ed45901071fc49c863870dec6b7c782",
+        "title": "Simple-Cell-Like Receptive Fields Maximize Temporal Coherence in Natural Video",
+        "venue": "Neural Computation",
+        "year": 2003,
+        "referenceCount": 38,
+        "citationCount": 123,
+        "authors": [
+          {
+            "authorId": "3346683",
+            "name": "J. Hurri"
+          },
+          {
+            "authorId": "1791548",
+            "name": "Aapo Hyvärinen"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "ece53e8ec1afa622f261cd30516a18491bfc8d08",
+        "externalIds": {
+          "MAG": "2091662199",
+          "DOI": "10.1098/rspb.1998.0577",
+          "CorpusId": 14810959,
+          "PubMed": "9881476"
+        },
+        "url": "https://www.semanticscholar.org/paper/ece53e8ec1afa622f261cd30516a18491bfc8d08",
+        "title": "Independent component analysis of natural image sequences yields spatio-temporal filters similar to simple cells in primary visual cortex",
+        "venue": "Proceedings of the Royal Society of London. Series B: Biological Sciences",
+        "year": 1998,
+        "referenceCount": 29,
+        "citationCount": 441,
+        "authors": [
+          {
+            "authorId": "114862455",
+            "name": "V. Hateren"
+          },
+          {
+            "authorId": "2243438237",
+            "name": "Daniel L. Ruderman"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "2e9d221c206e9503ceb452302d68d10e293f2a10",
+        "externalIds": {
+          "DBLP": "journals/neco/HochreiterS97",
+          "MAG": "2064675550",
+          "DOI": "10.1162/neco.1997.9.8.1735",
+          "CorpusId": 1915014,
+          "PubMed": "9377276"
+        },
+        "url": "https://www.semanticscholar.org/paper/2e9d221c206e9503ceb452302d68d10e293f2a10",
+        "title": "Long Short-Term Memory",
+        "venue": "Neural Computation",
+        "year": 1997,
+        "referenceCount": 48,
+        "citationCount": 103522,
+        "authors": [
+          {
+            "authorId": "3308557",
+            "name": "Sepp Hochreiter"
+          },
+          {
+            "authorId": "145341374",
+            "name": "J. Schmidhuber"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "Unsupervised learning of video representations using LSTMs. CoRR, abs/1502",
+        "venue": "Unsupervised learning of video representations using LSTMs. CoRR, abs/1502",
+        "year": 2015,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "52dfa20f6fdfcda8c11034e3d819f4bd47e6207d",
+        "externalIds": {
+          "CorpusId": 1923924
+        },
+        "url": "https://www.semanticscholar.org/paper/52dfa20f6fdfcda8c11034e3d819f4bd47e6207d",
+        "title": "Ieee Transactions on Pattern Analysis and Machine Intelligence 1 3d Convolutional Neural Networks for Human Action Recognition",
+        "venue": "",
+        "year": null,
+        "referenceCount": 43,
+        "citationCount": 3352,
+        "authors": [
+          {
+            "authorId": "1743600",
+            "name": "Shuiwang Ji"
+          },
+          {
+            "authorId": "143836295",
+            "name": "W. Xu"
+          },
+          {
+            "authorId": "41216159",
+            "name": "Ming Yang"
+          },
+          {
+            "authorId": "144782042",
+            "name": "Kai Yu"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "070874b011f8eb2b18c8aa521ad0a7a932b4d9ad",
+        "externalIds": {
+          "CorpusId": 753512
+        },
+        "url": "https://www.semanticscholar.org/paper/070874b011f8eb2b18c8aa521ad0a7a932b4d9ad",
+        "title": "Author manuscript, published in \"International Conference on Computer Vision (2013)\" Action Recognition with Improved Trajectories",
+        "venue": "",
+        "year": null,
+        "referenceCount": 0,
+        "citationCount": 2785,
+        "authors": []
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "tional neural networks for human action recognition. Pattern Analysis and Machine Intelligence",
+        "venue": "IEEE Transactions on",
+        "year": null,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "Unsupervised Learning with LSTMs",
+        "venue": "Unsupervised Learning with LSTMs",
+        "year": null,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    }
+  ]
+}

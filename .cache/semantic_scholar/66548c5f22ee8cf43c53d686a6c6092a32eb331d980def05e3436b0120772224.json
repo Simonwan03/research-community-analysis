@@ -1,0 +1,303 @@
+{
+  "total": 21944,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "34cc3ceae5c3f7c8acbb89f2bff63f9d452b00d5",
+      "externalIds": {
+        "ArXiv": "1701.05369",
+        "MAG": "2582745083",
+        "DBLP": "journals/corr/MolchanovAV17",
+        "CorpusId": 18201582
+      },
+      "url": "https://www.semanticscholar.org/paper/34cc3ceae5c3f7c8acbb89f2bff63f9d452b00d5",
+      "title": "Variational Dropout Sparsifies Deep Neural Networks",
+      "venue": "International Conference on Machine Learning",
+      "year": 2017,
+      "referenceCount": 50,
+      "citationCount": 880,
+      "authors": [
+        {
+          "authorId": "8796171",
+          "name": "D. Molchanov"
+        },
+        {
+          "authorId": "8806826",
+          "name": "Arsenii Ashukha"
+        },
+        {
+          "authorId": "2492721",
+          "name": "D. Vetrov"
+        }
+      ]
+    },
+    {
+      "paperId": "9d1bf858d00def625dcf471db9c7cf4866f12ed0",
+      "externalIds": {
+        "DBLP": "conf/iconip/HasanASHBIS22",
+        "ArXiv": "2501.00538",
+        "DOI": "10.1007/978-3-031-30105-6_30",
+        "CorpusId": 258240823
+      },
+      "url": "https://www.semanticscholar.org/paper/9d1bf858d00def625dcf471db9c7cf4866f12ed0",
+      "title": "Adaptive Tabu Dropout for Regularization of Deep Neural Networks",
+      "venue": "International Conference on Neural Information Processing",
+      "year": 2024,
+      "referenceCount": 0,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2214911800",
+          "name": "Md. Tarek Hasan"
+        },
+        {
+          "authorId": "40902424",
+          "name": "Arifa Akter"
+        },
+        {
+          "authorId": "2214881830",
+          "name": "Mohammad Nazmush Shamael"
+        },
+        {
+          "authorId": "2214896189",
+          "name": "Md Al Emran Hossain"
+        },
+        {
+          "authorId": "2214881828",
+          "name": "H. M. M. Billah"
+        },
+        {
+          "authorId": "2214851177",
+          "name": "Sumayra Islam"
+        },
+        {
+          "authorId": "90608274",
+          "name": "Swakkhar Shatabda"
+        }
+      ]
+    },
+    {
+      "paperId": "22a64d290c9406106d2067ac490d8508b1cfb6ba",
+      "externalIds": {
+        "DBLP": "conf/ijcnn/WuJS24",
+        "DOI": "10.1109/IJCNN60899.2024.10650652",
+        "CorpusId": 272537738
+      },
+      "url": "https://www.semanticscholar.org/paper/22a64d290c9406106d2067ac490d8508b1cfb6ba",
+      "title": "Early-Late Dropout for DivideMix: Learning with Noisy Labels in Deep Neural Networks",
+      "venue": "IEEE International Joint Conference on Neural Network",
+      "year": 2024,
+      "referenceCount": 28,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2282095252",
+          "name": "Huyu Wu"
+        },
+        {
+          "authorId": "2308381581",
+          "name": "Bowen Jia"
+        },
+        {
+          "authorId": "2281973661",
+          "name": "Gaojie Sheng"
+        }
+      ]
+    },
+    {
+      "paperId": "eb126cabd272d9c277142131628c2802889f7769",
+      "externalIds": {
+        "DBLP": "journals/nn/HeidariMG23",
+        "DOI": "10.1016/j.neunet.2023.05.044",
+        "CorpusId": 258973922,
+        "PubMed": "37307667"
+      },
+      "url": "https://www.semanticscholar.org/paper/eb126cabd272d9c277142131628c2802889f7769",
+      "title": "Forward propagation dropout in deep neural networks using Jensen-Shannon and random forest feature importance ranking",
+      "venue": "Neural Networks",
+      "year": 2023,
+      "referenceCount": 32,
+      "citationCount": 28,
+      "authors": [
+        {
+          "authorId": "38683177",
+          "name": "Mohsen Heidari"
+        },
+        {
+          "authorId": "3343918",
+          "name": "M. Moattar"
+        },
+        {
+          "authorId": "51024562",
+          "name": "H. Ghaffari"
+        }
+      ]
+    },
+    {
+      "paperId": "86b7a918c621a4085c2e671871fbdde9b556a48a",
+      "externalIds": {
+        "DOI": "10.3390/electronics12143106",
+        "CorpusId": 260043671
+      },
+      "url": "https://www.semanticscholar.org/paper/86b7a918c621a4085c2e671871fbdde9b556a48a",
+      "title": "A Review on Dropout Regularization Approaches for Deep Neural Networks within the Scholarly Domain",
+      "venue": "Electronics",
+      "year": 2023,
+      "referenceCount": 31,
+      "citationCount": 187,
+      "authors": [
+        {
+          "authorId": "1999682567",
+          "name": "Imrus Salehin"
+        },
+        {
+          "authorId": "2113556933",
+          "name": "Dae-Ki Kang"
+        }
+      ]
+    },
+    {
+      "paperId": "24747c9796d323b97066864f6aa7749ded3119b7",
+      "externalIds": {
+        "DBLP": "journals/sensors/AvgerinosVD23",
+        "PubMedCentral": "9921448",
+        "DOI": "10.3390/s23031325",
+        "CorpusId": 256298830,
+        "PubMed": "36772365"
+      },
+      "url": "https://www.semanticscholar.org/paper/24747c9796d323b97066864f6aa7749ded3119b7",
+      "title": "Less Is More: Adaptive Trainable Gradient Dropout for Deep Neural Networks",
+      "venue": "Italian National Conference on Sensors",
+      "year": 2023,
+      "referenceCount": 33,
+      "citationCount": 8,
+      "authors": [
+        {
+          "authorId": "46815944",
+          "name": "Christos Avgerinos"
+        },
+        {
+          "authorId": "1738865",
+          "name": "Nicholas Vretos"
+        },
+        {
+          "authorId": "1747572",
+          "name": "P. Daras"
+        }
+      ]
+    },
+    {
+      "paperId": "89b17cc8a7d8e69f46f362579e203d1442f907f5",
+      "externalIds": {
+        "DBLP": "conf/ijcnn/GongZHCJ24",
+        "ArXiv": "2407.13646",
+        "DOI": "10.1109/IJCNN60899.2024.10650229",
+        "CorpusId": 271270754
+      },
+      "url": "https://www.semanticscholar.org/paper/89b17cc8a7d8e69f46f362579e203d1442f907f5",
+      "title": "Beyond Dropout: Robust Convolutional Neural Networks Based on Local Feature Masking",
+      "venue": "IEEE International Joint Conference on Neural Network",
+      "year": 2024,
+      "referenceCount": 53,
+      "citationCount": 26,
+      "authors": [
+        {
+          "authorId": "2279931691",
+          "name": "Yunpeng Gong"
+        },
+        {
+          "authorId": "2311994447",
+          "name": "Chuangliang Zhang"
+        },
+        {
+          "authorId": "2312272161",
+          "name": "Yongjie Hou"
+        },
+        {
+          "authorId": "2280100093",
+          "name": "Lifei Chen"
+        },
+        {
+          "authorId": "2279954616",
+          "name": "Min Jiang"
+        }
+      ]
+    },
+    {
+      "paperId": "0dc3649b1e5f0b01942b77c8f071fcbfc2e29970",
+      "externalIds": {
+        "DBLP": "conf/ijcnn/AhmadK25",
+        "ArXiv": "2504.06660",
+        "DOI": "10.1109/IJCNN64981.2025.11227968",
+        "CorpusId": 277634410
+      },
+      "url": "https://www.semanticscholar.org/paper/0dc3649b1e5f0b01942b77c8f071fcbfc2e29970",
+      "title": "Robust and Noise-resilient Long-Term Prediction of Spatiotemporal Data Using Variational Mode Graph Neural Networks with 3D Attention",
+      "venue": "IEEE International Joint Conference on Neural Network",
+      "year": 2025,
+      "referenceCount": 41,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2317981189",
+          "name": "Osama Ahmad"
+        },
+        {
+          "authorId": "2330189354",
+          "name": "Zubair Khalid"
+        }
+      ]
+    },
+    {
+      "paperId": "4b4c0fc1f75a5070edf25ddd69f498611dd64783",
+      "externalIds": {
+        "DOI": "10.1109/GITCON65266.2025.11377476",
+        "CorpusId": 285552090
+      },
+      "url": "https://www.semanticscholar.org/paper/4b4c0fc1f75a5070edf25ddd69f498611dd64783",
+      "title": "Deep Sequential Models for Stock Market Prediction: LSTM Neural Networks in Action",
+      "venue": "2025 Global Conference on Information Technology and Communication Networks (GITCON)",
+      "year": 2025,
+      "referenceCount": 20,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2295822187",
+          "name": "Vijay A. Sangolgi"
+        },
+        {
+          "authorId": "2297717622",
+          "name": "Mithun B. Patil"
+        },
+        {
+          "authorId": "2410507935",
+          "name": "Onkar Jamma"
+        },
+        {
+          "authorId": "2410509333",
+          "name": "Sohan Katageri"
+        }
+      ]
+    },
+    {
+      "paperId": "8db384e34df8a03d16d68748922802b90835a65f",
+      "externalIds": {
+        "DOI": "10.1109/SPCNC68200.2025.11406477",
+        "CorpusId": 286245977
+      },
+      "url": "https://www.semanticscholar.org/paper/8db384e34df8a03d16d68748922802b90835a65f",
+      "title": "Deep Convolutional Neural Networks based Performance Optimization for Fine-grained Sentiment Analysis",
+      "venue": "2025 International Conference on Signal Processing, Computer Networks and Communications (SPCNC)",
+      "year": 2025,
+      "referenceCount": 16,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2269390383",
+          "name": "Zhe Chen"
+        }
+      ]
+    }
+  ]
+}

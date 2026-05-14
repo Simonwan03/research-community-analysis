@@ -1,0 +1,293 @@
+{
+  "total": 97,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "3071eefaca2766d90bdb43d5ee7e1a34d50b6029",
+      "externalIds": {
+        "DBLP": "conf/icml/LaberMP18",
+        "MAG": "2804756264",
+        "CorpusId": 51867082
+      },
+      "url": "https://www.semanticscholar.org/paper/3071eefaca2766d90bdb43d5ee7e1a34d50b6029",
+      "title": "Binary Partitions with Approximate Minimum Impurity",
+      "venue": "International Conference on Machine Learning",
+      "year": 2018,
+      "referenceCount": 19,
+      "citationCount": 26,
+      "authors": [
+        {
+          "authorId": "1741948",
+          "name": "E. Laber"
+        },
+        {
+          "authorId": "11927151",
+          "name": "M. Molinaro"
+        },
+        {
+          "authorId": "24661799",
+          "name": "Felipe de A. Mello Pereira"
+        }
+      ]
+    },
+    {
+      "paperId": "c6ae00f29d718f05de2534e50bbdd042f9c4bff7",
+      "externalIds": {
+        "ArXiv": "2211.04430",
+        "DBLP": "journals/corr/abs-2211-04430",
+        "DOI": "10.48550/arXiv.2211.04430",
+        "CorpusId": 253398005
+      },
+      "url": "https://www.semanticscholar.org/paper/c6ae00f29d718f05de2534e50bbdd042f9c4bff7",
+      "title": "Bounded Guaranteed Algorithms for Concave Impurity Minimization Via Maximum Likelihood",
+      "venue": "Signal Processing",
+      "year": 2022,
+      "referenceCount": 45,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "117618655",
+          "name": "Thuan Nguyen"
+        },
+        {
+          "authorId": "2145243057",
+          "name": "Hoang Le"
+        },
+        {
+          "authorId": "145327693",
+          "name": "Thinh Nguyen"
+        }
+      ]
+    },
+    {
+      "paperId": "9bd0df2232cec95db29a7068b7c8af1b7aaf041b",
+      "externalIds": {
+        "DBLP": "conf/icassp/NguyenLN21",
+        "DOI": "10.1109/ICASSP39728.2021.9415005",
+        "CorpusId": 235771714
+      },
+      "url": "https://www.semanticscholar.org/paper/9bd0df2232cec95db29a7068b7c8af1b7aaf041b",
+      "title": "Constant Approximation Algorithm for Minimizing Concave Impurity",
+      "venue": "IEEE International Conference on Acoustics, Speech, and Signal Processing",
+      "year": 2021,
+      "referenceCount": 27,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "117618655",
+          "name": "Thuan Nguyen"
+        },
+        {
+          "authorId": "2145243057",
+          "name": "Hoang Le"
+        },
+        {
+          "authorId": "145327693",
+          "name": "Thinh Nguyen"
+        }
+      ]
+    },
+    {
+      "paperId": "cafd00fed4edc1dafce3cc00e06966228f1b2e21",
+      "externalIds": {
+        "MAG": "3016253806",
+        "DBLP": "conf/icassp/NguyenN20",
+        "DOI": "10.1109/ICASSP40776.2020.9054763",
+        "CorpusId": 216514848
+      },
+      "url": "https://www.semanticscholar.org/paper/cafd00fed4edc1dafce3cc00e06966228f1b2e21",
+      "title": "A Linear Time Partitioning Algorithm for Frequency Weighted Impurity Functions",
+      "venue": "IEEE International Conference on Acoustics, Speech, and Signal Processing",
+      "year": 2020,
+      "referenceCount": 25,
+      "citationCount": 6,
+      "authors": [
+        {
+          "authorId": "117618655",
+          "name": "Thuan Nguyen"
+        },
+        {
+          "authorId": "145327693",
+          "name": "Thinh Nguyen"
+        }
+      ]
+    },
+    {
+      "paperId": "290691e3e4e11601566ee910f6bdae5380d61139",
+      "externalIds": {
+        "DBLP": "conf/icassp/NguyenN21",
+        "DOI": "10.1109/ICASSP39728.2021.9414887",
+        "CorpusId": 235771308
+      },
+      "url": "https://www.semanticscholar.org/paper/290691e3e4e11601566ee910f6bdae5380d61139",
+      "title": "Minimizing Weighted Concave Impurity Partition Under Constraints",
+      "venue": "IEEE International Conference on Acoustics, Speech, and Signal Processing",
+      "year": 2021,
+      "referenceCount": 26,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "117618655",
+          "name": "Thuan Nguyen"
+        },
+        {
+          "authorId": "145327693",
+          "name": "Thinh Nguyen"
+        }
+      ]
+    },
+    {
+      "paperId": "847cfaece98d0dc8a9e5f634b3bbe0c2759fed0c",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-1912-13141",
+        "ArXiv": "1912.13141",
+        "MAG": "2997411276",
+        "CorpusId": 209515335
+      },
+      "url": "https://www.semanticscholar.org/paper/847cfaece98d0dc8a9e5f634b3bbe0c2759fed0c",
+      "title": "Minimizing Impurity Partition Under Constraints",
+      "venue": "arXiv.org",
+      "year": 2019,
+      "referenceCount": 15,
+      "citationCount": 9,
+      "authors": [
+        {
+          "authorId": "123233017",
+          "name": "Thuan Q. Nguyen"
+        },
+        {
+          "authorId": "145327693",
+          "name": "Thinh Nguyen"
+        }
+      ]
+    },
+    {
+      "paperId": "d1c765f87e85449643e9447f74c560845dc229bf",
+      "externalIds": {
+        "MAG": "2945352231",
+        "DOI": "10.1016/J.COMMATSCI.2019.05.023",
+        "CorpusId": 182051199
+      },
+      "url": "https://www.semanticscholar.org/paper/d1c765f87e85449643e9447f74c560845dc229bf",
+      "title": "Composition dependence of solid-liquid interfacial energy of Fe-Cr binary alloy from molecular dynamics simulations",
+      "venue": "Computational materials science",
+      "year": 2019,
+      "referenceCount": 39,
+      "citationCount": 27,
+      "authors": [
+        {
+          "authorId": "2054726838",
+          "name": "K. Ueno"
+        },
+        {
+          "authorId": "5905380",
+          "name": "Y. Shibuta"
+        }
+      ]
+    },
+    {
+      "paperId": "99c81fd1241e73dc8214ccfaaf8e3a4f5a5be913",
+      "externalIds": {
+        "DBLP": "journals/jgaa/MartinezCKMMS26",
+        "DOI": "10.7155/jgaa.v30i1.2962",
+        "CorpusId": 286262992
+      },
+      "url": "https://www.semanticscholar.org/paper/99c81fd1241e73dc8214ccfaaf8e3a4f5a5be913",
+      "title": "Relaxed Agreement Forests of Phylogenetic Trees",
+      "venue": "J. Graph Algorithms Appl.",
+      "year": 2026,
+      "referenceCount": 31,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2212014667",
+          "name": "Virginia Ardévol Martínez"
+        },
+        {
+          "authorId": "1798388",
+          "name": "S. Chaplick"
+        },
+        {
+          "authorId": "1791380",
+          "name": "S. Kelk"
+        },
+        {
+          "authorId": "2120829986",
+          "name": "Ruben Meuwese"
+        },
+        {
+          "authorId": "1798131",
+          "name": "Matús Mihalák"
+        },
+        {
+          "authorId": "2760623",
+          "name": "G. Stamoulis"
+        }
+      ]
+    },
+    {
+      "paperId": "0b8d3cf8acea102ad49e16f2a2ba32b2d5236c42",
+      "externalIds": {
+        "ArXiv": "2604.07751",
+        "CorpusId": 287255764
+      },
+      "url": "https://www.semanticscholar.org/paper/0b8d3cf8acea102ad49e16f2a2ba32b2d5236c42",
+      "title": "Learning to Coordinate over Networks with Bounded Rationality",
+      "venue": "",
+      "year": 2026,
+      "referenceCount": 55,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2107927976",
+          "name": "Zhewei Wang"
+        },
+        {
+          "authorId": "143819272",
+          "name": "E. Akyol"
+        },
+        {
+          "authorId": "2323747532",
+          "name": "Marcos M. Vasconcelos"
+        }
+      ]
+    },
+    {
+      "paperId": "3326e18b516c9257c1272334095c810d41db8e01",
+      "externalIds": {
+        "DOI": "10.1093/sysbio/syaf091",
+        "CorpusId": 284348894,
+        "PubMed": "41474026"
+      },
+      "url": "https://www.semanticscholar.org/paper/3326e18b516c9257c1272334095c810d41db8e01",
+      "title": "Phylogenetic Inference from Atomised 3D Morphometric Data: a Case Study using Kangaroos.",
+      "venue": "Systematic Biology",
+      "year": 2025,
+      "referenceCount": 0,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "34302010",
+          "name": "Mélina A. Celik"
+        },
+        {
+          "authorId": "2401813344",
+          "name": "Carmelo Fruciano"
+        },
+        {
+          "authorId": "31751088",
+          "name": "Kaylene Butler"
+        },
+        {
+          "authorId": "2401813342",
+          "name": "Vera Weisbecker"
+        },
+        {
+          "authorId": "2269735856",
+          "name": "Matthew J. Phillips"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "total": 3,
+  "offset": 0,
+  "data": [
+    {
+      "paperId": "9db631435f7f79646a4e0a1841fbeb3340e44261",
+      "externalIds": {
+        "MAG": "2949719576",
+        "ArXiv": "1804.09699",
+        "DBLP": "conf/icml/WengZCSHDBD18",
+        "CorpusId": 13750928
+      },
+      "url": "https://www.semanticscholar.org/paper/9db631435f7f79646a4e0a1841fbeb3340e44261",
+      "title": "Towards Fast Computation of Certified Robustness for ReLU Networks",
+      "venue": "International Conference on Machine Learning",
+      "year": 2018,
+      "referenceCount": 55,
+      "citationCount": 746,
+      "authors": [
+        {
+          "authorId": "27836724",
+          "name": "Tsui-Wei Weng"
+        },
+        {
+          "authorId": "49723481",
+          "name": "Huan Zhang"
+        },
+        {
+          "authorId": "2108270137",
+          "name": "Hongge Chen"
+        },
+        {
+          "authorId": "143825455",
+          "name": "Zhao Song"
+        },
+        {
+          "authorId": "1793529",
+          "name": "Cho-Jui Hsieh"
+        },
+        {
+          "authorId": "2766041",
+          "name": "D. Boning"
+        },
+        {
+          "authorId": "1783667",
+          "name": "I. Dhillon"
+        },
+        {
+          "authorId": "144599989",
+          "name": "L. Daniel"
+        }
+      ]
+    },
+    {
+      "paperId": "3e982d5d3508019d4571aeda20469a12ecb9e286",
+      "externalIds": {
+        "CorpusId": 53355194
+      },
+      "url": "https://www.semanticscholar.org/paper/3e982d5d3508019d4571aeda20469a12ecb9e286",
+      "title": "Towards Fast Computation of Certified Robustness for ReLU Networks",
+      "venue": "",
+      "year": 2018,
+      "referenceCount": 0,
+      "citationCount": 15,
+      "authors": [
+        {
+          "authorId": "2078785989",
+          "name": "A. Hardness"
+        }
+      ]
+    },
+    {
+      "paperId": "2a7d19594e07e9f5f40eb39f19b0e5ffa6aa5df9",
+      "externalIds": {
+        "MAG": "2891698621",
+        "DBLP": "conf/nips/ZhangWCHD18",
+        "ArXiv": "1811.00866",
+        "CorpusId": 53297058
+      },
+      "url": "https://www.semanticscholar.org/paper/2a7d19594e07e9f5f40eb39f19b0e5ffa6aa5df9",
+      "title": "Efficient Neural Network Robustness Certification with General Activation Functions",
+      "venue": "Neural Information Processing Systems",
+      "year": 2018,
+      "referenceCount": 33,
+      "citationCount": 885,
+      "authors": [
+        {
+          "authorId": "49723481",
+          "name": "Huan Zhang"
+        },
+        {
+          "authorId": "27836724",
+          "name": "Tsui-Wei Weng"
+        },
+        {
+          "authorId": "153191489",
+          "name": "Pin-Yu Chen"
+        },
+        {
+          "authorId": "1793529",
+          "name": "Cho-Jui Hsieh"
+        },
+        {
+          "authorId": "144599989",
+          "name": "L. Daniel"
+        }
+      ]
+    }
+  ]
+}

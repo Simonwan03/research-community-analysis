@@ -1,0 +1,350 @@
+{
+  "total": 30,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "b132998a422b4bb85558e182a532a970686cd1f7",
+      "externalIds": {
+        "DBLP": "conf/icml/WagnerGKM18",
+        "MAG": "2803971899",
+        "CorpusId": 51800776
+      },
+      "url": "https://www.semanticscholar.org/paper/b132998a422b4bb85558e182a532a970686cd1f7",
+      "title": "Semi-Supervised Learning on Data Streams via Temporal Label Propagation",
+      "venue": "International Conference on Machine Learning",
+      "year": 2018,
+      "referenceCount": 43,
+      "citationCount": 46,
+      "authors": [
+        {
+          "authorId": "39549368",
+          "name": "Tal Wagner"
+        },
+        {
+          "authorId": "144392463",
+          "name": "S. Guha"
+        },
+        {
+          "authorId": "7993151",
+          "name": "S. Kasiviswanathan"
+        },
+        {
+          "authorId": "144751518",
+          "name": "Nina Mishra"
+        }
+      ]
+    },
+    {
+      "paperId": "d4b9cf4b1c4286b84c5005935f536e4487e733e0",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2510-12686",
+        "ArXiv": "2510.12686",
+        "DOI": "10.48550/arXiv.2510.12686",
+        "CorpusId": 282064733
+      },
+      "url": "https://www.semanticscholar.org/paper/d4b9cf4b1c4286b84c5005935f536e4487e733e0",
+      "title": "Few Shot Semi-Supervised Learning for Abnormal Stop Detection from Sparse GPS Trajectories",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "referenceCount": 36,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2298843457",
+          "name": "Muhammad Ayub Sabir"
+        },
+        {
+          "authorId": "2376592451",
+          "name": "Junbiao Pang"
+        },
+        {
+          "authorId": "2211675697",
+          "name": "Jiaqi Wu"
+        },
+        {
+          "authorId": "2298845294",
+          "name": "Fatima Ashraf"
+        }
+      ]
+    },
+    {
+      "paperId": "131819cd0495e02bc2e62be869d07a8c2316a71d",
+      "externalIds": {
+        "DBLP": "conf/aaai/LiuMMW23",
+        "DOI": "10.1609/aaai.v37i7.26072",
+        "CorpusId": 259675699
+      },
+      "url": "https://www.semanticscholar.org/paper/131819cd0495e02bc2e62be869d07a8c2316a71d",
+      "title": "Temporal-Frequency Co-training for Time Series Semi-supervised Learning",
+      "venue": "AAAI Conference on Artificial Intelligence",
+      "year": 2023,
+      "referenceCount": 44,
+      "citationCount": 39,
+      "authors": [
+        {
+          "authorId": "2118415962",
+          "name": "Zhen Liu"
+        },
+        {
+          "authorId": "2153709283",
+          "name": "Qianli Ma"
+        },
+        {
+          "authorId": "2220290902",
+          "name": "Peitian Ma"
+        },
+        {
+          "authorId": "2094560916",
+          "name": "Linghao Wang"
+        }
+      ]
+    },
+    {
+      "paperId": "3036f2041968e31b7510f37d70a805e47819d026",
+      "externalIds": {
+        "DBLP": "journals/pami/LiuZMK26",
+        "DOI": "10.1109/TPAMI.2025.3644603",
+        "CorpusId": 283905720,
+        "PubMed": "41396770"
+      },
+      "url": "https://www.semanticscholar.org/paper/3036f2041968e31b7510f37d70a805e47819d026",
+      "title": "CompleMatch: Boosting Time-Series Semi-Supervised Classification With Temporal-Frequency Complementarity",
+      "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+      "year": 2025,
+      "referenceCount": 63,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2279763622",
+          "name": "Zhen Liu"
+        },
+        {
+          "authorId": "2265752517",
+          "name": "Kun Zeng"
+        },
+        {
+          "authorId": "2153709283",
+          "name": "Qianli Ma"
+        },
+        {
+          "authorId": "2320722629",
+          "name": "James T. Kwok"
+        }
+      ]
+    },
+    {
+      "paperId": "05b151d453012b0e2af34d36e0c6b6c57589a01f",
+      "externalIds": {
+        "DBLP": "conf/aaai/XiangZCLZOC023",
+        "ArXiv": "2412.18287",
+        "DOI": "10.1609/aaai.v37i12.26702",
+        "CorpusId": 259696123
+      },
+      "url": "https://www.semanticscholar.org/paper/05b151d453012b0e2af34d36e0c6b6c57589a01f",
+      "title": "Semi-supervised Credit Card Fraud Detection via Attribute-Driven Graph Representation",
+      "venue": "AAAI Conference on Artificial Intelligence",
+      "year": 2023,
+      "referenceCount": 33,
+      "citationCount": 120,
+      "authors": [
+        {
+          "authorId": "2008302874",
+          "name": "Sheng Xiang"
+        },
+        {
+          "authorId": "2152187301",
+          "name": "Min Zhu"
+        },
+        {
+          "authorId": "2053697982",
+          "name": "Dawei Cheng"
+        },
+        {
+          "authorId": "2190313283",
+          "name": "Enxia Li"
+        },
+        {
+          "authorId": "2567863",
+          "name": "Ruihui Zhao"
+        },
+        {
+          "authorId": "2151208017",
+          "name": "Yi Ouyang"
+        },
+        {
+          "authorId": "2119323278",
+          "name": "Ling Chen"
+        },
+        {
+          "authorId": "2385498154",
+          "name": "Yefeng Zheng"
+        }
+      ]
+    },
+    {
+      "paperId": "4a1dc0403e2525b75265219a42994819bd882ea0",
+      "externalIds": {
+        "DBLP": "journals/tgrs/0002F0DK24",
+        "DOI": "10.1109/TGRS.2024.3357455",
+        "CorpusId": 267506592
+      },
+      "url": "https://www.semanticscholar.org/paper/4a1dc0403e2525b75265219a42994819bd882ea0",
+      "title": "Dual-Stream Class-Adaptive Network for Semi-Supervised Hyperspectral Image Classification",
+      "venue": "IEEE Transactions on Geoscience and Remote Sensing",
+      "year": 2024,
+      "referenceCount": 53,
+      "citationCount": 26,
+      "authors": [
+        {
+          "authorId": "144884678",
+          "name": "Ting Lu"
+        },
+        {
+          "authorId": "2283522425",
+          "name": "Yuxin Fang"
+        },
+        {
+          "authorId": "2068321912",
+          "name": "Wei Fu"
+        },
+        {
+          "authorId": "2266567644",
+          "name": "Kexin Ding"
+        },
+        {
+          "authorId": "2457540",
+          "name": "Xudong Kang"
+        }
+      ]
+    },
+    {
+      "paperId": "558ed9e6b9aa31eaeedabd073824ec528f8b68a1",
+      "externalIds": {
+        "MAG": "2997449054",
+        "DBLP": "conf/aaai/ZhuL20",
+        "DOI": "10.1609/AAAI.V34I04.6186",
+        "CorpusId": 210171081
+      },
+      "url": "https://www.semanticscholar.org/paper/558ed9e6b9aa31eaeedabd073824ec528f8b68a1",
+      "title": "Semi-Supervised Streaming Learning with Emerging New Labels",
+      "venue": "AAAI Conference on Artificial Intelligence",
+      "year": 2020,
+      "referenceCount": 33,
+      "citationCount": 31,
+      "authors": [
+        {
+          "authorId": "153514203",
+          "name": "Yong-Nan Zhu"
+        },
+        {
+          "authorId": "2110463675",
+          "name": "Yu-Feng Li"
+        }
+      ]
+    },
+    {
+      "paperId": "e3f9b2d0a00950c90d00f63485b0692f34ea43fd",
+      "externalIds": {
+        "DBLP": "journals/cogcom/ZhangHWBZD25",
+        "DOI": "10.1007/s12559-024-10374-1",
+        "CorpusId": 274363271
+      },
+      "url": "https://www.semanticscholar.org/paper/e3f9b2d0a00950c90d00f63485b0692f34ea43fd",
+      "title": "DmrNet: Dual-stream Mutual Information Contraction and Re-discrimination Network for Semi-supervised Temporal Action Detection",
+      "venue": "Cognitive Computation",
+      "year": 2024,
+      "referenceCount": 59,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2332879189",
+          "name": "Qiming Zhang"
+        },
+        {
+          "authorId": "2332879202",
+          "name": "Zhengping Hu"
+        },
+        {
+          "authorId": "2299485206",
+          "name": "Yulu Wang"
+        },
+        {
+          "authorId": "2137142517",
+          "name": "Shuai Bi"
+        },
+        {
+          "authorId": "2158048762",
+          "name": "Hehao Zhang"
+        },
+        {
+          "authorId": "2212192170",
+          "name": "Jirui Di"
+        }
+      ]
+    },
+    {
+      "paperId": "8522023549e2c73c97ab817dbd0ec0807ade8350",
+      "externalIds": {
+        "DBLP": "conf/icphm/MukherjeeGHWV25",
+        "DOI": "10.1109/ICPHM65385.2025.11062056",
+        "CorpusId": 279899746
+      },
+      "url": "https://www.semanticscholar.org/paper/8522023549e2c73c97ab817dbd0ec0807ade8350",
+      "title": "Unsupervised anomaly clustering via offset alignment in multivariate grid sensing data",
+      "venue": "International Conference on Prognostics and Health Management",
+      "year": 2025,
+      "referenceCount": 14,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "46559763",
+          "name": "S. Mukherjee"
+        },
+        {
+          "authorId": "2297217789",
+          "name": "P. Groth"
+        },
+        {
+          "authorId": "108758474",
+          "name": "D. Herron"
+        },
+        {
+          "authorId": "93382811",
+          "name": "B. Warmack"
+        },
+        {
+          "authorId": "2289358219",
+          "name": "Kris Villez"
+        }
+      ]
+    },
+    {
+      "paperId": "f08f07f03eca2e066e04f22e36bafb3533561d23",
+      "externalIds": {
+        "DOI": "10.1109/JSEN.2024.3452318",
+        "CorpusId": 272678840
+      },
+      "url": "https://www.semanticscholar.org/paper/f08f07f03eca2e066e04f22e36bafb3533561d23",
+      "title": "Multivariate Time Series Anomaly Detection via Low-Rank and Sparse Decomposition",
+      "venue": "IEEE Sensors Journal",
+      "year": 2024,
+      "referenceCount": 53,
+      "citationCount": 20,
+      "authors": [
+        {
+          "authorId": "1581604399",
+          "name": "M. Belay"
+        },
+        {
+          "authorId": "2265981625",
+          "name": "Adil Rasheed"
+        },
+        {
+          "authorId": "2156408339",
+          "name": "P. Rossi"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,271 @@
+{
+  "total": 9,
+  "offset": 0,
+  "data": [
+    {
+      "paperId": "0d2e018c2319c496313bbec3acfd76824cbc0ec3",
+      "externalIds": {
+        "MAG": "2964035320",
+        "ArXiv": "1602.02262",
+        "DBLP": "journals/corr/LiLR16",
+        "CorpusId": 9734659
+      },
+      "url": "https://www.semanticscholar.org/paper/0d2e018c2319c496313bbec3acfd76824cbc0ec3",
+      "title": "Recovery guarantee of weighted low-rank approximation via alternating minimization",
+      "venue": "International Conference on Machine Learning",
+      "year": 2016,
+      "referenceCount": 38,
+      "citationCount": 52,
+      "authors": [
+        {
+          "authorId": "2340566356",
+          "name": "Yuanzhi Li"
+        },
+        {
+          "authorId": "40609253",
+          "name": "Yingyu Liang"
+        },
+        {
+          "authorId": "3181040",
+          "name": "Andrej Risteski"
+        }
+      ]
+    },
+    {
+      "paperId": "1c23d50c790e8408873a8d9673eb6b82189ba8c7",
+      "externalIds": {
+        "CorpusId": 265097830
+      },
+      "url": "https://www.semanticscholar.org/paper/1c23d50c790e8408873a8d9673eb6b82189ba8c7",
+      "title": "Recovery guarantee of weighted low-rank approximation via alternating minimization",
+      "venue": "",
+      "year": 2016,
+      "referenceCount": 0,
+      "citationCount": 4,
+      "authors": [
+        {
+          "authorId": "2265970183",
+          "name": "Tan Θ"
+        }
+      ]
+    },
+    {
+      "paperId": "f259839b4b20cab451157fc39e55dbf5d5b33822",
+      "externalIds": {
+        "DBLP": "journals/mta/WangZF24",
+        "DOI": "10.1007/s11042-023-16098-y",
+        "CorpusId": 259907722
+      },
+      "url": "https://www.semanticscholar.org/paper/f259839b4b20cab451157fc39e55dbf5d5b33822",
+      "title": "Low-rank matrix recovery via novel double nonconvex nonsmooth rank minimization with ADMM",
+      "venue": "Multimedia tools and applications",
+      "year": 2023,
+      "referenceCount": 40,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2143641515",
+          "name": "Yulin Wang"
+        },
+        {
+          "authorId": "2376227135",
+          "name": "Yunjie Zhang"
+        },
+        {
+          "authorId": "1996649",
+          "name": "Xianping Fu"
+        }
+      ]
+    },
+    {
+      "paperId": "6d187b2477a63583f7ad1253f370dac45cda6c10",
+      "externalIds": {
+        "DBLP": "journals/tgrs/SunLLLYCD25",
+        "DOI": "10.1109/TGRS.2025.3563495",
+        "CorpusId": 278038133
+      },
+      "url": "https://www.semanticscholar.org/paper/6d187b2477a63583f7ad1253f370dac45cda6c10",
+      "title": "Infrared Small Target Detection via Nonconvex Weighted Tensor Rank Minimization and Adaptive Spatial–Temporal Modeling",
+      "venue": "IEEE Transactions on Geoscience and Remote Sensing",
+      "year": 2025,
+      "referenceCount": 38,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "2341769758",
+          "name": "Yang Sun"
+        },
+        {
+          "authorId": "2321886365",
+          "name": "Zaiping Lin"
+        },
+        {
+          "authorId": "1903039165",
+          "name": "Ting-Yuan Liu"
+        },
+        {
+          "authorId": "2165244290",
+          "name": "Boyang Li"
+        },
+        {
+          "authorId": "2135608799",
+          "name": "Qian Yin"
+        },
+        {
+          "authorId": "2291605723",
+          "name": "Yingwu Chen"
+        },
+        {
+          "authorId": "2318057",
+          "name": "Yimian Dai"
+        }
+      ]
+    },
+    {
+      "paperId": "d917497ce4f05f92c45d48e9cb2164d6295460b5",
+      "externalIds": {
+        "DBLP": "conf/icassp/QinWMW22",
+        "DOI": "10.1109/icassp43922.2022.9746491",
+        "CorpusId": 249436643
+      },
+      "url": "https://www.semanticscholar.org/paper/d917497ce4f05f92c45d48e9cb2164d6295460b5",
+      "title": "Robust High-Order Tensor Recovery Via Nonconvex Low-Rank Approximation",
+      "venue": "IEEE International Conference on Acoustics, Speech, and Signal Processing",
+      "year": 2022,
+      "referenceCount": 0,
+      "citationCount": 5,
+      "authors": [
+        {
+          "authorId": "143743606",
+          "name": "Wenjin Qin"
+        },
+        {
+          "authorId": "82206793",
+          "name": "Hailin Wang"
+        },
+        {
+          "authorId": "2111665187",
+          "name": "Weijun Ma"
+        },
+        {
+          "authorId": "13257120",
+          "name": "Jianjun Wang"
+        }
+      ]
+    },
+    {
+      "paperId": "bf1743300e82cdb88cfb91dcbbe1f46f5c60768b",
+      "externalIds": {
+        "DBLP": "journals/sigpro/LiGC20",
+        "MAG": "3027526586",
+        "DOI": "10.1016/j.sigpro.2020.107655",
+        "CorpusId": 218869903
+      },
+      "url": "https://www.semanticscholar.org/paper/bf1743300e82cdb88cfb91dcbbe1f46f5c60768b",
+      "title": "From group sparse coding to rank minimization: A novel denoising model for low-level image restoration",
+      "venue": "Signal Processing",
+      "year": 2019,
+      "referenceCount": 53,
+      "citationCount": 27,
+      "authors": [
+        {
+          "authorId": "2111160199",
+          "name": "Yunyi Li"
+        },
+        {
+          "authorId": "152593447",
+          "name": "Guan Gui"
+        },
+        {
+          "authorId": "7664405",
+          "name": "Xiefeng Cheng"
+        }
+      ]
+    },
+    {
+      "paperId": "48a0a23908a0ddc9a5c584cc1db868d54d7e2563",
+      "externalIds": {
+        "ArXiv": "1907.04699",
+        "DBLP": "journals/corr/abs-1907-04699",
+        "MAG": "2961618942",
+        "CorpusId": 195874287
+      },
+      "url": "https://www.semanticscholar.org/paper/48a0a23908a0ddc9a5c584cc1db868d54d7e2563",
+      "title": "Generalized Rank Minimization based Group Sparse Coding for Low-level Image Restoration via Dictionary Learning",
+      "venue": "arXiv.org",
+      "year": 2019,
+      "referenceCount": 54,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2111160199",
+          "name": "Yunyi Li"
+        },
+        {
+          "authorId": "152593447",
+          "name": "Guan Gui"
+        },
+        {
+          "authorId": "7664405",
+          "name": "Xiefeng Cheng"
+        }
+      ]
+    },
+    {
+      "paperId": "a6f5eaa5df46f75e875acbfe5883e842486601e4",
+      "externalIds": {
+        "DBLP": "journals/jscic/LiLCX21",
+        "DOI": "10.1007/s10915-021-01679-6",
+        "CorpusId": 244110149
+      },
+      "url": "https://www.semanticscholar.org/paper/a6f5eaa5df46f75e875acbfe5883e842486601e4",
+      "title": "The Nonconvex Tensor Robust Principal Component Analysis Approximation Model via the Weighted ℓp\\documentclass[12pt]{minimal} \\usepackage{amsmath} \\usepackage{wasysym} \\usepackage{amsfonts} \\usepackage{amssymb} \\usepackage{amsbsy} \\usepackage{mathrsfs} \\usepackage{upgreek} \\setlength{\\oddsidemargin}",
+      "venue": "Journal of Scientific Computing",
+      "year": 2021,
+      "referenceCount": 54,
+      "citationCount": 19,
+      "authors": [
+        {
+          "authorId": "2128414616",
+          "name": "Minghui Li"
+        },
+        {
+          "authorId": "2145169912",
+          "name": "Wen Li"
+        },
+        {
+          "authorId": "1774472",
+          "name": "Yannan Chen"
+        },
+        {
+          "authorId": "145974462",
+          "name": "M. Xiao"
+        }
+      ]
+    },
+    {
+      "paperId": "736500788dfb1ac193c91ecce348eecb4f419b53",
+      "externalIds": {
+        "MAG": "1805609236",
+        "DOI": "10.7907/F63K-GT12.",
+        "CorpusId": 120981540
+      },
+      "url": "https://www.semanticscholar.org/paper/736500788dfb1ac193c91ecce348eecb4f419b53",
+      "title": "Compressive sensing for sparse approximations: constructions, algorithms, and analysis",
+      "venue": "",
+      "year": 2010,
+      "referenceCount": 128,
+      "citationCount": 18,
+      "authors": [
+        {
+          "authorId": "1736279",
+          "name": "B. Hassibi"
+        },
+        {
+          "authorId": "34193597",
+          "name": "Weiyu Xu"
+        }
+      ]
+    }
+  ]
+}

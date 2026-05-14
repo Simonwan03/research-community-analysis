@@ -1,0 +1,338 @@
+{
+  "total": 34,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "5b8364c21155d3d2cd38ea4c8b8580beba9a3250",
+      "externalIds": {
+        "DBLP": "conf/icml/JozefowiczZS15",
+        "MAG": "581956982",
+        "CorpusId": 9668607
+      },
+      "url": "https://www.semanticscholar.org/paper/5b8364c21155d3d2cd38ea4c8b8580beba9a3250",
+      "title": "An Empirical Exploration of Recurrent Network Architectures",
+      "venue": "International Conference on Machine Learning",
+      "year": 2015,
+      "referenceCount": 30,
+      "citationCount": 1784,
+      "authors": [
+        {
+          "authorId": "1944541",
+          "name": "R. Józefowicz"
+        },
+        {
+          "authorId": "2563432",
+          "name": "Wojciech Zaremba"
+        },
+        {
+          "authorId": "1701686",
+          "name": "I. Sutskever"
+        }
+      ]
+    },
+    {
+      "paperId": "b0bd00f3a30bc5cbcb1a277b8ecd0bb9b4919f89",
+      "externalIds": {
+        "MAG": "2749738822",
+        "DBLP": "conf/interspeech/KurataSRS17",
+        "DOI": "10.21437/Interspeech.2017-723",
+        "CorpusId": 8778352
+      },
+      "url": "https://www.semanticscholar.org/paper/b0bd00f3a30bc5cbcb1a277b8ecd0bb9b4919f89",
+      "title": "Empirical Exploration of Novel Architectures and Objectives for Language Models",
+      "venue": "Interspeech",
+      "year": 2017,
+      "referenceCount": 31,
+      "citationCount": 5,
+      "authors": [
+        {
+          "authorId": "1787226",
+          "name": "Gakuto Kurata"
+        },
+        {
+          "authorId": "3027446",
+          "name": "A. Sethy"
+        },
+        {
+          "authorId": "1720857",
+          "name": "B. Ramabhadran"
+        },
+        {
+          "authorId": "1698208",
+          "name": "G. Saon"
+        }
+      ]
+    },
+    {
+      "paperId": "7ec0423e48f362bf03d70eb3a3d149b672a85cc4",
+      "externalIds": {
+        "MAG": "3015402775",
+        "DBLP": "conf/evoW/DesellEO20",
+        "DOI": "10.1007/978-3-030-43722-0_35",
+        "CorpusId": 211266804
+      },
+      "url": "https://www.semanticscholar.org/paper/7ec0423e48f362bf03d70eb3a3d149b672a85cc4",
+      "title": "An Empirical Exploration of Deep Recurrent Connections Using Neuro-Evolution",
+      "venue": "EvoApplications",
+      "year": 2020,
+      "referenceCount": 43,
+      "citationCount": 10,
+      "authors": [
+        {
+          "authorId": "9552886",
+          "name": "Travis J. Desell"
+        },
+        {
+          "authorId": "9631422",
+          "name": "A. ElSaid"
+        },
+        {
+          "authorId": "3038767",
+          "name": "Alexander Ororbia"
+        }
+      ]
+    },
+    {
+      "paperId": "dd1e56c76ff70c0990ee22aaa82162bf6f17ef98",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-1909-09502",
+        "ArXiv": "1909.09502",
+        "MAG": "2973786905",
+        "CorpusId": 202712470
+      },
+      "url": "https://www.semanticscholar.org/paper/dd1e56c76ff70c0990ee22aaa82162bf6f17ef98",
+      "title": "An Empirical Exploration of Deep Recurrent Connections and Memory Cells Using Neuro-Evolution",
+      "venue": "arXiv.org",
+      "year": 2019,
+      "referenceCount": 43,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2164942",
+          "name": "Travis Desell"
+        },
+        {
+          "authorId": "9631422",
+          "name": "A. ElSaid"
+        },
+        {
+          "authorId": "3038767",
+          "name": "Alexander Ororbia"
+        }
+      ]
+    },
+    {
+      "paperId": "d155d64bdd86edf33f4395c5aec0388ffed69f99",
+      "externalIds": {
+        "DBLP": "conf/icassp/MiaoGNKMW16",
+        "MAG": "2395416438",
+        "DOI": "10.1109/ICASSP.2016.7472152",
+        "CorpusId": 9110872
+      },
+      "url": "https://www.semanticscholar.org/paper/d155d64bdd86edf33f4395c5aec0388ffed69f99",
+      "title": "An empirical exploration of CTC acoustic models",
+      "venue": "IEEE International Conference on Acoustics, Speech, and Signal Processing",
+      "year": 2016,
+      "referenceCount": 23,
+      "citationCount": 80,
+      "authors": [
+        {
+          "authorId": "37467623",
+          "name": "Yajie Miao"
+        },
+        {
+          "authorId": "1939851",
+          "name": "M. Gowayyed"
+        },
+        {
+          "authorId": "2519438",
+          "name": "Xingyu Na"
+        },
+        {
+          "authorId": "3023507",
+          "name": "Tom Ko"
+        },
+        {
+          "authorId": "1740721",
+          "name": "Florian Metze"
+        },
+        {
+          "authorId": "1724972",
+          "name": "A. Waibel"
+        }
+      ]
+    },
+    {
+      "paperId": "929879c0bcfe1167f3c75ec67fe41f3edef065ee",
+      "externalIds": {
+        "ArXiv": "2303.16904",
+        "DBLP": "journals/corr/abs-2303-16904",
+        "DOI": "10.48550/arXiv.2303.16904",
+        "CorpusId": 257834096
+      },
+      "url": "https://www.semanticscholar.org/paper/929879c0bcfe1167f3c75ec67fe41f3edef065ee",
+      "title": "Severity classification of ground-glass opacity via 2-D convolutional neural network and lung CT scans: a 3-day exploration",
+      "venue": "arXiv.org",
+      "year": 2023,
+      "referenceCount": 22,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2398973282",
+          "name": "Lisa Tang"
+        }
+      ]
+    },
+    {
+      "paperId": "35e1884885f3250771a43ef426baa8b99ce84b28",
+      "externalIds": {
+        "DOI": "10.1109/IC3SE62002.2024.10592940",
+        "CorpusId": 271405244
+      },
+      "url": "https://www.semanticscholar.org/paper/35e1884885f3250771a43ef426baa8b99ce84b28",
+      "title": "Advanced Deep Learning Architectures for Real-Time Human Emotion Recognition and Behavioral Prediction",
+      "venue": "2024 International Conference on Communication, Computer Sciences and Engineering (IC3SE)",
+      "year": 2024,
+      "referenceCount": 46,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "2287985405",
+          "name": "Ch Vijendar Reddy"
+        },
+        {
+          "authorId": "2243971919",
+          "name": "N. V. U. Reddy"
+        },
+        {
+          "authorId": "2288157759",
+          "name": "Smita Sharma"
+        },
+        {
+          "authorId": "2294593115",
+          "name": "J. Kumar"
+        },
+        {
+          "authorId": "2237882830",
+          "name": "Sorabh Lakhanpal"
+        },
+        {
+          "authorId": "2305833280",
+          "name": "Ali Albawi"
+        }
+      ]
+    },
+    {
+      "paperId": "caffe624694d7b015d5f4be983e41247d04eee38",
+      "externalIds": {
+        "MAG": "2602034649",
+        "DBLP": "journals/nn/FayekLC17",
+        "DOI": "10.1016/j.neunet.2017.02.013",
+        "CorpusId": 3093517,
+        "PubMed": "28396068"
+      },
+      "url": "https://www.semanticscholar.org/paper/caffe624694d7b015d5f4be983e41247d04eee38",
+      "title": "Evaluating deep learning architectures for Speech Emotion Recognition",
+      "venue": "Neural Networks",
+      "year": 2017,
+      "referenceCount": 55,
+      "citationCount": 527,
+      "authors": [
+        {
+          "authorId": "1822214",
+          "name": "Haytham M. Fayek"
+        },
+        {
+          "authorId": "2101090",
+          "name": "M. Lech"
+        },
+        {
+          "authorId": "1788025",
+          "name": "L. Cavedon"
+        }
+      ]
+    },
+    {
+      "paperId": "034547480f30440dad3836f27f654f8affd97dbc",
+      "externalIds": {
+        "MAG": "2910164082",
+        "DBLP": "journals/fgcs/AbidAYL19",
+        "DOI": "10.1016/J.FUTURE.2018.12.018",
+        "CorpusId": 68041103
+      },
+      "url": "https://www.semanticscholar.org/paper/034547480f30440dad3836f27f654f8affd97dbc",
+      "title": "Sentiment analysis through recurrent variants latterly on convolutional neural network of Twitter",
+      "venue": "Future generations computer systems",
+      "year": 2019,
+      "referenceCount": 69,
+      "citationCount": 134,
+      "authors": [
+        {
+          "authorId": "152868960",
+          "name": "Fazeel Abid"
+        },
+        {
+          "authorId": "9168210",
+          "name": "M. Alam"
+        },
+        {
+          "authorId": "2059751963",
+          "name": "Muhammad Yasir"
+        },
+        {
+          "authorId": "2118871555",
+          "name": "Chen Li"
+        }
+      ]
+    },
+    {
+      "paperId": "f1c3929a1a4e9959d28ade207cd315286ee361d9",
+      "externalIds": {
+        "DBLP": "conf/wacv/DewilCREBBFA23",
+        "DOI": "10.1109/WACV56688.2023.00508",
+        "CorpusId": 256656195
+      },
+      "url": "https://www.semanticscholar.org/paper/f1c3929a1a4e9959d28ade207cd315286ee361d9",
+      "title": "Video joint denoising and demosaicing with recurrent CNNs",
+      "venue": "IEEE Workshop/Winter Conference on Applications of Computer Vision",
+      "year": 2023,
+      "referenceCount": 68,
+      "citationCount": 5,
+      "authors": [
+        {
+          "authorId": "1645269674",
+          "name": "Valéry Dewil"
+        },
+        {
+          "authorId": "2163450787",
+          "name": "Adrien Courtois"
+        },
+        {
+          "authorId": "2193200014",
+          "name": "Mariano Rodríguez"
+        },
+        {
+          "authorId": "40142302",
+          "name": "T. Ehret"
+        },
+        {
+          "authorId": "2204865028",
+          "name": "Nicola Brandonisio"
+        },
+        {
+          "authorId": "2204870451",
+          "name": "Denis Bujoreanu"
+        },
+        {
+          "authorId": "2134899723",
+          "name": "Gabriele Facciolo"
+        },
+        {
+          "authorId": "153005108",
+          "name": "P. Arias"
+        }
+      ]
+    }
+  ]
+}

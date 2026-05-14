@@ -1,0 +1,381 @@
+{
+  "total": 40280,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "8b276728ac9e83f0746fa38100d7e4128406be41",
+      "externalIds": {
+        "DBLP": "conf/nips/ScavuzzoCCG0YA22",
+        "ArXiv": "2205.11107",
+        "DOI": "10.48550/arXiv.2205.11107",
+        "CorpusId": 248987388
+      },
+      "url": "https://www.semanticscholar.org/paper/8b276728ac9e83f0746fa38100d7e4128406be41",
+      "title": "Learning to branch with Tree MDPs",
+      "venue": "Neural Information Processing Systems",
+      "year": 2022,
+      "referenceCount": 36,
+      "citationCount": 75,
+      "authors": [
+        {
+          "authorId": "2094332638",
+          "name": "Lara Scavuzzo"
+        },
+        {
+          "authorId": "2650184",
+          "name": "F. Chen"
+        },
+        {
+          "authorId": "2066421682",
+          "name": "Didier Ch'etelat"
+        },
+        {
+          "authorId": "2001205298",
+          "name": "Maxime Gasse"
+        },
+        {
+          "authorId": "144390922",
+          "name": "Andrea Lodi"
+        },
+        {
+          "authorId": "1402807089",
+          "name": "N. Yorke-Smith"
+        },
+        {
+          "authorId": "2229828",
+          "name": "K. Aardal"
+        }
+      ]
+    },
+    {
+      "paperId": "01db8a5e8d3d868517eb3b2b50aabcabf7b66d50",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2006-15212",
+        "ArXiv": "2006.15212",
+        "MAG": "3106518779",
+        "CorpusId": 220249857
+      },
+      "url": "https://www.semanticscholar.org/paper/01db8a5e8d3d868517eb3b2b50aabcabf7b66d50",
+      "title": "Hybrid Models for Learning to Branch",
+      "venue": "Neural Information Processing Systems",
+      "year": 2020,
+      "referenceCount": 43,
+      "citationCount": 160,
+      "authors": [
+        {
+          "authorId": "1571223116",
+          "name": "Prateek Gupta"
+        },
+        {
+          "authorId": "145821351",
+          "name": "Maxime Gasse"
+        },
+        {
+          "authorId": "35252180",
+          "name": "Elias Boutros Khalil"
+        },
+        {
+          "authorId": "3717791",
+          "name": "M. P. Kumar"
+        },
+        {
+          "authorId": "144390922",
+          "name": "Andrea Lodi"
+        },
+        {
+          "authorId": "1751762",
+          "name": "Yoshua Bengio"
+        }
+      ]
+    },
+    {
+      "paperId": "7033565bf3dfaf29befb6064915e4dd613feca44",
+      "externalIds": {
+        "DBLP": "conf/icml/GuoLU20",
+        "ArXiv": "2006.01895",
+        "MAG": "3033503043",
+        "CorpusId": 219259832
+      },
+      "url": "https://www.semanticscholar.org/paper/7033565bf3dfaf29befb6064915e4dd613feca44",
+      "title": "Learning to Branch for Multi-Task Learning",
+      "venue": "International Conference on Machine Learning",
+      "year": 2020,
+      "referenceCount": 52,
+      "citationCount": 208,
+      "authors": [
+        {
+          "authorId": "87006465",
+          "name": "Pengsheng Guo"
+        },
+        {
+          "authorId": "50521003",
+          "name": "Chen-Yu Lee"
+        },
+        {
+          "authorId": "2064237396",
+          "name": "Daniel Ulbricht"
+        }
+      ]
+    },
+    {
+      "paperId": "6caa4d4c3c95ede4ce5053ea243bd93c16eef680",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2201-06213",
+        "ArXiv": "2201.06213",
+        "CorpusId": 246015650
+      },
+      "url": "https://www.semanticscholar.org/paper/6caa4d4c3c95ede4ce5053ea243bd93c16eef680",
+      "title": "An Improved Reinforcement Learning Algorithm for Learning to Branch",
+      "venue": "arXiv.org",
+      "year": 2022,
+      "referenceCount": 15,
+      "citationCount": 29,
+      "authors": [
+        {
+          "authorId": "102132016",
+          "name": "Qingyu Qu"
+        },
+        {
+          "authorId": "2253803827",
+          "name": "Xijun Li"
+        },
+        {
+          "authorId": "2118117093",
+          "name": "Yunfan Zhou"
+        },
+        {
+          "authorId": "2072983507",
+          "name": "Jianguo Zeng"
+        },
+        {
+          "authorId": "1688812",
+          "name": "Mingxuan Yuan"
+        },
+        {
+          "authorId": "2155140019",
+          "name": "Jie Wang"
+        },
+        {
+          "authorId": "102230404",
+          "name": "Jinhu Lv"
+        },
+        {
+          "authorId": "2047457834",
+          "name": "Kexin Liu"
+        },
+        {
+          "authorId": "144914172",
+          "name": "K. Mao"
+        }
+      ]
+    },
+    {
+      "paperId": "c802c7918e5a5b9cbb2bd9d397518a255ff1465e",
+      "externalIds": {
+        "MAG": "2563592268",
+        "DBLP": "conf/aaai/KhalilBSND16",
+        "DOI": "10.1609/aaai.v30i1.10080",
+        "CorpusId": 16737876
+      },
+      "url": "https://www.semanticscholar.org/paper/c802c7918e5a5b9cbb2bd9d397518a255ff1465e",
+      "title": "Learning to Branch in Mixed Integer Programming",
+      "venue": "AAAI Conference on Artificial Intelligence",
+      "year": 2016,
+      "referenceCount": 35,
+      "citationCount": 413,
+      "authors": [
+        {
+          "authorId": "35252180",
+          "name": "Elias Boutros Khalil"
+        },
+        {
+          "authorId": "2030129",
+          "name": "P. L. Bodic"
+        },
+        {
+          "authorId": "1779453",
+          "name": "Le Song"
+        },
+        {
+          "authorId": "1705564",
+          "name": "G. Nemhauser"
+        },
+        {
+          "authorId": "1796375",
+          "name": "B. Dilkina"
+        }
+      ]
+    },
+    {
+      "paperId": "3ba3760b969dc5d1ff7cf265979b272ea2f80b20",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2206-14987",
+        "ArXiv": "2206.14987",
+        "DOI": "10.48550/arXiv.2206.14987",
+        "CorpusId": 250144634
+      },
+      "url": "https://www.semanticscholar.org/paper/3ba3760b969dc5d1ff7cf265979b272ea2f80b20",
+      "title": "Lookback for Learning to Branch",
+      "venue": "Trans. Mach. Learn. Res.",
+      "year": 2022,
+      "referenceCount": 41,
+      "citationCount": 37,
+      "authors": [
+        {
+          "authorId": "1571223116",
+          "name": "Prateek Gupta"
+        },
+        {
+          "authorId": "35252180",
+          "name": "Elias Boutros Khalil"
+        },
+        {
+          "authorId": "2174177860",
+          "name": "Didier Chet'elat"
+        },
+        {
+          "authorId": "2001205298",
+          "name": "Maxime Gasse"
+        },
+        {
+          "authorId": "1865800402",
+          "name": "Y. Bengio"
+        },
+        {
+          "authorId": "144390922",
+          "name": "Andrea Lodi"
+        },
+        {
+          "authorId": "3717791",
+          "name": "M. P. Kumar"
+        }
+      ]
+    },
+    {
+      "paperId": "7883661293c5df437827a3eb0f414b25df6df380",
+      "externalIds": {
+        "DBLP": "conf/icml/BalcanDSV18",
+        "MAG": "2794874231",
+        "ArXiv": "1803.10150",
+        "CorpusId": 4387972
+      },
+      "url": "https://www.semanticscholar.org/paper/7883661293c5df437827a3eb0f414b25df6df380",
+      "title": "Learning to Branch",
+      "venue": "International Conference on Machine Learning",
+      "year": 2018,
+      "referenceCount": 57,
+      "citationCount": 195,
+      "authors": [
+        {
+          "authorId": "1745410",
+          "name": "Maria-Florina Balcan"
+        },
+        {
+          "authorId": "39503953",
+          "name": "Travis Dick"
+        },
+        {
+          "authorId": "145714168",
+          "name": "T. Sandholm"
+        },
+        {
+          "authorId": "1829915",
+          "name": "Ellen Vitercik"
+        }
+      ]
+    },
+    {
+      "paperId": "98cedee828e2d215f6ea2b6437e58bf3ac72df8c",
+      "externalIds": {
+        "DBLP": "journals/kbs/LinZWZ22",
+        "DOI": "10.1016/j.knosys.2022.109455",
+        "CorpusId": 250638229
+      },
+      "url": "https://www.semanticscholar.org/paper/98cedee828e2d215f6ea2b6437e58bf3ac72df8c",
+      "title": "Learning to branch with Tree-aware Branching Transformers",
+      "venue": "Knowledge-Based Systems",
+      "year": 2022,
+      "referenceCount": 41,
+      "citationCount": 16,
+      "authors": [
+        {
+          "authorId": "2144909760",
+          "name": "Jiacheng Lin"
+        },
+        {
+          "authorId": "2047160046",
+          "name": "Jialin Zhu"
+        },
+        {
+          "authorId": "2155241913",
+          "name": "Huan-gang Wang"
+        },
+        {
+          "authorId": "1689115",
+          "name": "Zhang Tao"
+        }
+      ]
+    },
+    {
+      "paperId": "3380abafb8cd37a1e4b7b04d2c6cbbb6a5fad14c",
+      "externalIds": {
+        "MAG": "3100619529",
+        "ArXiv": "1903.01819",
+        "DBLP": "journals/corr/abs-1903-01819",
+        "DOI": "10.1109/TVT.2019.2953724",
+        "CorpusId": 67877000
+      },
+      "url": "https://www.semanticscholar.org/paper/3380abafb8cd37a1e4b7b04d2c6cbbb6a5fad14c",
+      "title": "Learning to Branch: Accelerating Resource Allocation in Wireless Networks",
+      "venue": "IEEE Transactions on Vehicular Technology",
+      "year": 2019,
+      "referenceCount": 40,
+      "citationCount": 64,
+      "authors": [
+        {
+          "authorId": "3022100",
+          "name": "Mengyuan Lee"
+        },
+        {
+          "authorId": "1703118",
+          "name": "Guanding Yu"
+        },
+        {
+          "authorId": "1410112765",
+          "name": "Geoffrey Y. Li"
+        }
+      ]
+    },
+    {
+      "paperId": "a4b6b99a9ce7120aac9aadcab7d60843e58d5f09",
+      "externalIds": {
+        "CorpusId": 235602520
+      },
+      "url": "https://www.semanticscholar.org/paper/a4b6b99a9ce7120aac9aadcab7d60843e58d5f09",
+      "title": "Improving Learning to Branch via Reinforcement Learning",
+      "venue": "",
+      "year": 2020,
+      "referenceCount": 23,
+      "citationCount": 32,
+      "authors": [
+        {
+          "authorId": "2118179445",
+          "name": "Haoran Sun"
+        },
+        {
+          "authorId": "2144301799",
+          "name": "Wenbo Chen"
+        },
+        {
+          "authorId": "2155495318",
+          "name": "Hui Li"
+        },
+        {
+          "authorId": "2268734147",
+          "name": "Le Song"
+        }
+      ]
+    }
+  ]
+}

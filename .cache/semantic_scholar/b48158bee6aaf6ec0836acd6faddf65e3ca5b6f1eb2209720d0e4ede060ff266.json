@@ -1,0 +1,318 @@
+{
+  "total": 32,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "2564da9be17d7ddd03642b9ebee623ec28063a1e",
+      "externalIds": {
+        "DBLP": "conf/icml/BalcanDLMZ17",
+        "MAG": "2740866043",
+        "CorpusId": 6316546
+      },
+      "url": "https://www.semanticscholar.org/paper/2564da9be17d7ddd03642b9ebee623ec28063a1e",
+      "title": "Differentially Private Clustering in High-Dimensional Euclidean Spaces",
+      "venue": "International Conference on Machine Learning",
+      "year": 2017,
+      "referenceCount": 36,
+      "citationCount": 90,
+      "authors": [
+        {
+          "authorId": "1745410",
+          "name": "Maria-Florina Balcan"
+        },
+        {
+          "authorId": "39503953",
+          "name": "Travis Dick"
+        },
+        {
+          "authorId": "40609253",
+          "name": "Yingyu Liang"
+        },
+        {
+          "authorId": "2707259",
+          "name": "Wenlong Mou"
+        },
+        {
+          "authorId": "40975176",
+          "name": "Hongyang Zhang"
+        }
+      ]
+    },
+    {
+      "paperId": "3ab3fcce0a9fbbc204761b4db0136bb9075751d9",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2307-07449",
+        "ArXiv": "2307.07449",
+        "DOI": "10.48550/arXiv.2307.07449",
+        "CorpusId": 259924713
+      },
+      "url": "https://www.semanticscholar.org/paper/3ab3fcce0a9fbbc204761b4db0136bb9075751d9",
+      "title": "Differentially Private Clustering in Data Streams",
+      "venue": "arXiv.org",
+      "year": 2023,
+      "referenceCount": 47,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "3356743",
+          "name": "Alessandro Epasto"
+        },
+        {
+          "authorId": "26553823",
+          "name": "Tamalika Mukherjee"
+        },
+        {
+          "authorId": "1980148",
+          "name": "Peilin Zhong"
+        }
+      ]
+    },
+    {
+      "paperId": "b60608b6e199bedbb8e7a7dcd86700e4dbbd9345",
+      "externalIds": {
+        "ArXiv": "2206.08646",
+        "DBLP": "conf/kdd/Cohen-AddadELMM22",
+        "DOI": "10.1145/3534678.3539409",
+        "CorpusId": 249847894
+      },
+      "url": "https://www.semanticscholar.org/paper/b60608b6e199bedbb8e7a7dcd86700e4dbbd9345",
+      "title": "Scalable Differentially Private Clustering via Hierarchically Separated Trees",
+      "venue": "Knowledge Discovery and Data Mining",
+      "year": 2022,
+      "referenceCount": 40,
+      "citationCount": 25,
+      "authors": [
+        {
+          "authorId": "2248219819",
+          "name": "Vincent Cohen-Addad"
+        },
+        {
+          "authorId": "3356743",
+          "name": "Alessandro Epasto"
+        },
+        {
+          "authorId": "1895843",
+          "name": "Silvio Lattanzi"
+        },
+        {
+          "authorId": "1728881",
+          "name": "V. Mirrokni"
+        },
+        {
+          "authorId": "2149795233",
+          "name": "Andrés Muñoz"
+        },
+        {
+          "authorId": "22259503",
+          "name": "David Saulpic"
+        },
+        {
+          "authorId": "2225976",
+          "name": "Chris Schwiegelshohn"
+        },
+        {
+          "authorId": "1749789",
+          "name": "Sergei Vassilvitskii"
+        }
+      ]
+    },
+    {
+      "paperId": "f5f5ecf71a20c896719e6c1d016c47d436514238",
+      "externalIds": {
+        "DBLP": "journals/bcds/AhmadZ25",
+        "DOI": "10.71448/bcds2564-2",
+        "CorpusId": 285664120
+      },
+      "url": "https://www.semanticscholar.org/paper/f5f5ecf71a20c896719e6c1d016c47d436514238",
+      "title": "Differentially Private Universal Coresets for ( α , β ) -Fair k -Median and k -Means Clustering",
+      "venue": "Bull. Comput. Data Sci.",
+      "year": 2025,
+      "referenceCount": 0,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2074279180",
+          "name": "Iftikhar Ahmad"
+        },
+        {
+          "authorId": "2093076853",
+          "name": "W. Zu"
+        }
+      ]
+    },
+    {
+      "paperId": "89f51453e29ef032e18359f489faf734c2045362",
+      "externalIds": {
+        "DBLP": "conf/colt/BassilyGN21",
+        "ArXiv": "2103.01278",
+        "CorpusId": 232092947
+      },
+      "url": "https://www.semanticscholar.org/paper/89f51453e29ef032e18359f489faf734c2045362",
+      "title": "Non-Euclidean Differentially Private Stochastic Convex Optimization",
+      "venue": "Annual Conference Computational Learning Theory",
+      "year": 2021,
+      "referenceCount": 47,
+      "citationCount": 76,
+      "authors": [
+        {
+          "authorId": "1679638",
+          "name": "Raef Bassily"
+        },
+        {
+          "authorId": "2055080602",
+          "name": "Crist'obal Guzm'an"
+        },
+        {
+          "authorId": "32840281",
+          "name": "Anupama Nandi"
+        }
+      ]
+    },
+    {
+      "paperId": "c51dc0fa5a7f9013932b5ba06d1a278ef3063d6f",
+      "externalIds": {
+        "DBLP": "conf/aaai/ChaturvediJN22",
+        "ArXiv": "2105.15007",
+        "DOI": "10.1609/aaai.v36i6.20565",
+        "CorpusId": 235254346
+      },
+      "url": "https://www.semanticscholar.org/paper/c51dc0fa5a7f9013932b5ba06d1a278ef3063d6f",
+      "title": "Locally Private k-Means Clustering with Constant Multiplicative Approximation and Near-Optimal Additive Error",
+      "venue": "AAAI Conference on Artificial Intelligence",
+      "year": 2021,
+      "referenceCount": 29,
+      "citationCount": 6,
+      "authors": [
+        {
+          "authorId": "1500373715",
+          "name": "Anamay Chaturvedi"
+        },
+        {
+          "authorId": "2111037858",
+          "name": "Matthew D. Jones"
+        },
+        {
+          "authorId": "47320986",
+          "name": "Huy L. Nguyen"
+        }
+      ]
+    },
+    {
+      "paperId": "4de2b671d97cc82a0ea02b2733b032c666c25f21",
+      "externalIds": {
+        "DOI": "10.52202/068431-0760",
+        "CorpusId": 263313463
+      },
+      "url": "https://www.semanticscholar.org/paper/4de2b671d97cc82a0ea02b2733b032c666c25f21",
+      "title": "Near-Optimal Private and Scalable k-Clustering",
+      "venue": "Advances in Neural Information Processing Systems 35",
+      "year": 2022,
+      "referenceCount": 82,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2248219819",
+          "name": "Vincent Cohen-Addad"
+        },
+        {
+          "authorId": "3356743",
+          "name": "Alessandro Epasto"
+        },
+        {
+          "authorId": "1728881",
+          "name": "V. Mirrokni"
+        },
+        {
+          "authorId": "2256658550",
+          "name": "Shyam Narayanan"
+        },
+        {
+          "authorId": "2249561001",
+          "name": "Peilin Zhong"
+        },
+        {
+          "authorId": "102566624",
+          "name": "Google Research"
+        }
+      ]
+    },
+    {
+      "paperId": "b4091fb0fa9b5db6447544ce894c1f71adb9b99b",
+      "externalIds": {
+        "DBLP": "journals/fcsc/HuoHHZ21",
+        "DOI": "10.1007/s11704-020-9462-9",
+        "CorpusId": 235373399
+      },
+      "url": "https://www.semanticscholar.org/paper/b4091fb0fa9b5db6447544ce894c1f71adb9b99b",
+      "title": "DP-UserPro: differentially private user profile construction and publication",
+      "venue": "Frontiers of Computer Science",
+      "year": 2021,
+      "referenceCount": 22,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "2527208",
+          "name": "Zheng Huo"
+        },
+        {
+          "authorId": "1382207802",
+          "name": "Ping He"
+        },
+        {
+          "authorId": "2118849271",
+          "name": "Lisha Hu"
+        },
+        {
+          "authorId": "2153032730",
+          "name": "Huanyu Zhao"
+        }
+      ]
+    },
+    {
+      "paperId": "b40fc6b70a427ae9bb064e72a46fcf38a75d0414",
+      "externalIds": {
+        "DOI": "10.1109/CAIT68620.2025.11424953",
+        "CorpusId": 286506708
+      },
+      "url": "https://www.semanticscholar.org/paper/b40fc6b70a427ae9bb064e72a46fcf38a75d0414",
+      "title": "LPGE:Learning Private Graph Embedding by Extracting Sensitive Information",
+      "venue": "2025 6th International Conference on Computers and Artificial Intelligence Technology (CAIT)",
+      "year": 2025,
+      "referenceCount": 34,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "50283262",
+          "name": "Shaobo Du"
+        }
+      ]
+    },
+    {
+      "paperId": "6259e7f4064cab7a268df48d3ecbec1c431d8025",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2003-11910",
+        "MAG": "3043040112",
+        "ArXiv": "2003.11910",
+        "DOI": "10.1016/J.CMA.2020.113269",
+        "CorpusId": 214667138
+      },
+      "url": "https://www.semanticscholar.org/paper/6259e7f4064cab7a268df48d3ecbec1c431d8025",
+      "title": "Data-driven surrogates for high dimensional models using Gaussian process regression on the Grassmann manifold",
+      "venue": "Computer Methods in Applied Mechanics and Engineering",
+      "year": 2020,
+      "referenceCount": 76,
+      "citationCount": 53,
+      "authors": [
+        {
+          "authorId": "46203450",
+          "name": "Dimitris G. Giovanis"
+        },
+        {
+          "authorId": "2270463",
+          "name": "M. Shields"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,288 @@
+{
+  "total": 899,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "a2b6c03faf5ac107357e14f50e1fa9f337b609ca",
+      "externalIds": {
+        "MAG": "2963141751",
+        "ArXiv": "1703.02628",
+        "DBLP": "conf/icml/MalherbeV17",
+        "CorpusId": 22986509
+      },
+      "url": "https://www.semanticscholar.org/paper/a2b6c03faf5ac107357e14f50e1fa9f337b609ca",
+      "title": "Global optimization of Lipschitz functions",
+      "venue": "International Conference on Machine Learning",
+      "year": 2017,
+      "referenceCount": 32,
+      "citationCount": 140,
+      "authors": [
+        {
+          "authorId": "3428619",
+          "name": "C. Malherbe"
+        },
+        {
+          "authorId": "1715204",
+          "name": "N. Vayatis"
+        }
+      ]
+    },
+    {
+      "paperId": "4150e3555e448d9e65efc2c155d5f85c1798f2ef",
+      "externalIds": {
+        "ArXiv": "2511.16575",
+        "DBLP": "journals/corr/abs-2511-16575",
+        "DOI": "10.48550/arXiv.2511.16575",
+        "CorpusId": 283110072
+      },
+      "url": "https://www.semanticscholar.org/paper/4150e3555e448d9e65efc2c155d5f85c1798f2ef",
+      "title": "ECPv2: Fast, Efficient, and Scalable Global Optimization of Lipschitz Functions",
+      "venue": "AAAI Conference on Artificial Intelligence",
+      "year": 2025,
+      "referenceCount": 32,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "1970404776",
+          "name": "Fares Fourati"
+        },
+        {
+          "authorId": "2256674530",
+          "name": "M. Alouini"
+        },
+        {
+          "authorId": "2257032704",
+          "name": "Vaneet Aggarwal"
+        }
+      ]
+    },
+    {
+      "paperId": "90aab60ec17c467342a480e3879455729cdbdbbc",
+      "externalIds": {
+        "DOI": "10.3390/math11132920",
+        "CorpusId": 259738853
+      },
+      "url": "https://www.semanticscholar.org/paper/90aab60ec17c467342a480e3879455729cdbdbbc",
+      "title": "Novel Algorithm for Linearly Constrained Derivative Free Global Optimization of Lipschitz Functions",
+      "venue": "Mathematics",
+      "year": 2023,
+      "referenceCount": 54,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "51294353",
+          "name": "Linas Stripinis"
+        },
+        {
+          "authorId": "2136155",
+          "name": "Remigijus Paulavičius"
+        }
+      ]
+    },
+    {
+      "paperId": "5c955317c47bdca5217cd9896815e080a346f60c",
+      "externalIds": {
+        "ArXiv": "2502.04290",
+        "DBLP": "journals/corr/abs-2502-04290",
+        "DOI": "10.48550/arXiv.2502.04290",
+        "CorpusId": 276161334
+      },
+      "url": "https://www.semanticscholar.org/paper/5c955317c47bdca5217cd9896815e080a346f60c",
+      "title": "Every Call is Precious: Global Optimization of Black-Box Functions with Unknown Lipschitz Constants",
+      "venue": "International Conference on Artificial Intelligence and Statistics",
+      "year": 2025,
+      "referenceCount": 59,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "1970404776",
+          "name": "Fares Fourati"
+        },
+        {
+          "authorId": "2205538924",
+          "name": "Salma Kharrat"
+        },
+        {
+          "authorId": "2257032704",
+          "name": "Vaneet Aggarwal"
+        },
+        {
+          "authorId": "2256674530",
+          "name": "M. Alouini"
+        }
+      ]
+    },
+    {
+      "paperId": "a30201c20ac7ceaccd502c115e416dadd84f3ac0",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2206-02383",
+        "ArXiv": "2206.02383",
+        "DOI": "10.48550/arXiv.2206.02383",
+        "CorpusId": 249394484
+      },
+      "url": "https://www.semanticscholar.org/paper/a30201c20ac7ceaccd502c115e416dadd84f3ac0",
+      "title": "Efficient Minimax Optimal Global Optimization of Lipschitz Continuous Multivariate Functions",
+      "venue": "arXiv.org",
+      "year": 2022,
+      "referenceCount": 52,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "3492557",
+          "name": "Kaan Gokcesu"
+        },
+        {
+          "authorId": "31830172",
+          "name": "Hakan Gokcesu"
+        }
+      ]
+    },
+    {
+      "paperId": "8acef1cbde4c2da76418e15240855f1235e3dfae",
+      "externalIds": {
+        "DBLP": "conf/setn/SerreBCKV24",
+        "ArXiv": "2406.19723",
+        "DOI": "10.1145/3688671.3688763",
+        "CorpusId": 270845555
+      },
+      "url": "https://www.semanticscholar.org/paper/8acef1cbde4c2da76418e15240855f1235e3dfae",
+      "title": "LIPO+: Frugal Global Optimization for Lipschitz Functions",
+      "venue": "Hellenic Conference on Artificial Intelligence",
+      "year": 2024,
+      "referenceCount": 17,
+      "citationCount": 4,
+      "authors": [
+        {
+          "authorId": "2337642841",
+          "name": "Gaëtan Serré"
+        },
+        {
+          "authorId": "2262445160",
+          "name": "Perceval Beja-Battais"
+        },
+        {
+          "authorId": "2309005843",
+          "name": "Sophia Chirrane"
+        },
+        {
+          "authorId": "3319817",
+          "name": "Argyris Kalogeratos"
+        },
+        {
+          "authorId": "1715204",
+          "name": "N. Vayatis"
+        }
+      ]
+    },
+    {
+      "paperId": "df4650c113fcf870828cf7fdbc3562e0ef19b1cd",
+      "externalIds": {
+        "DOI": "10.1007/s10898-022-01251-y",
+        "CorpusId": 253790728
+      },
+      "url": "https://www.semanticscholar.org/paper/df4650c113fcf870828cf7fdbc3562e0ef19b1cd",
+      "title": "Efficient smooth minorants for global optimization of univariate functions with the first derivative satisfying the interval Lipschitz condition",
+      "venue": "Journal of Global Optimization",
+      "year": 2022,
+      "referenceCount": 30,
+      "citationCount": 5,
+      "authors": [
+        {
+          "authorId": "2792012",
+          "name": "M. Posypkin"
+        },
+        {
+          "authorId": "1713953",
+          "name": "Y. Sergeyev"
+        }
+      ]
+    },
+    {
+      "paperId": "5e0741b917313b2a1c0c50bc860698d80fe83f94",
+      "externalIds": {
+        "MAG": "2047988719",
+        "DOI": "10.1007/BF00938542",
+        "CorpusId": 121434067
+      },
+      "url": "https://www.semanticscholar.org/paper/5e0741b917313b2a1c0c50bc860698d80fe83f94",
+      "title": "An algorithm for global optimization of Lipschitz continuous functions",
+      "venue": "",
+      "year": 1988,
+      "referenceCount": 8,
+      "citationCount": 45,
+      "authors": [
+        {
+          "authorId": "71753706",
+          "name": "C. C. Meewella"
+        },
+        {
+          "authorId": "2249343001",
+          "name": "David Q. Mayne"
+        }
+      ]
+    },
+    {
+      "paperId": "2e22fbf1a46463ca3b1d3078453a0a4f458d6d3a",
+      "externalIds": {
+        "DBLP": "journals/siamjo/VinodIT22",
+        "DOI": "10.1137/20m1380879",
+        "CorpusId": 249327767
+      },
+      "url": "https://www.semanticscholar.org/paper/2e22fbf1a46463ca3b1d3078453a0a4f458d6d3a",
+      "title": "Constrained, Global Optimization of Unknown Functions with Lipschitz Continuous Gradients",
+      "venue": "SIAM Journal on Optimization",
+      "year": 2022,
+      "referenceCount": 3,
+      "citationCount": 7,
+      "authors": [
+        {
+          "authorId": "35137433",
+          "name": "Abraham P. Vinod"
+        },
+        {
+          "authorId": "27806153",
+          "name": "Arie Israel"
+        },
+        {
+          "authorId": "3199888",
+          "name": "U. Topcu"
+        }
+      ]
+    },
+    {
+      "paperId": "0391c4dea48b82843fcf92356d25064fe955fb45",
+      "externalIds": {
+        "DBLP": "journals/soco/SergeyevCKP20",
+        "MAG": "2966947530",
+        "ArXiv": "1908.06010",
+        "DOI": "10.1007/S00500-020-05030-3",
+        "CorpusId": 201058584
+      },
+      "url": "https://www.semanticscholar.org/paper/0391c4dea48b82843fcf92356d25064fe955fb45",
+      "title": "Safe global optimization of expensive noisy black-box functions in the $δ$-Lipschitz framework",
+      "venue": "Soft Computing - A Fusion of Foundations, Methodologies and Applications",
+      "year": 2019,
+      "referenceCount": 60,
+      "citationCount": 35,
+      "authors": [
+        {
+          "authorId": "1713953",
+          "name": "Y. Sergeyev"
+        },
+        {
+          "authorId": "48697039",
+          "name": "Antonio Candelieri"
+        },
+        {
+          "authorId": "1885728",
+          "name": "D. Kvasov"
+        },
+        {
+          "authorId": "66016599",
+          "name": "R. Perego"
+        }
+      ]
+    }
+  ]
+}

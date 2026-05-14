@@ -1,0 +1,268 @@
+{
+  "total": 110,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "bd3f21856f64dbfeb1be4723d75122e534f8b5e8",
+      "externalIds": {
+        "ArXiv": "1806.03664",
+        "MAG": "2963589612",
+        "DBLP": "journals/corr/abs-1806-03664",
+        "CorpusId": 47019615
+      },
+      "url": "https://www.semanticscholar.org/paper/bd3f21856f64dbfeb1be4723d75122e534f8b5e8",
+      "title": "Conditional Noise-Contrastive Estimation of Unnormalised Models",
+      "venue": "International Conference on Machine Learning",
+      "year": 2018,
+      "referenceCount": 25,
+      "citationCount": 49,
+      "authors": [
+        {
+          "authorId": "46219981",
+          "name": "Ciwan Ceylan"
+        },
+        {
+          "authorId": "145992652",
+          "name": "Michael U Gutmann"
+        }
+      ]
+    },
+    {
+      "paperId": "36ece2f11fe1d88e3391e031f6d617bf04c9c8a4",
+      "externalIds": {
+        "CorpusId": 50821065
+      },
+      "url": "https://www.semanticscholar.org/paper/36ece2f11fe1d88e3391e031f6d617bf04c9c8a4",
+      "title": "Supplementary Material for Conditional Noise-Contrastive Estimation of Unnormalised Models",
+      "venue": "",
+      "year": 2018,
+      "referenceCount": 0,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "46219981",
+          "name": "Ciwan Ceylan"
+        }
+      ]
+    },
+    {
+      "paperId": "aaac9bd753ff880500be4039499d36795313ef40",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2402-16688",
+        "ArXiv": "2402.16688",
+        "DOI": "10.48550/arXiv.2402.16688",
+        "CorpusId": 268032062
+      },
+      "url": "https://www.semanticscholar.org/paper/aaac9bd753ff880500be4039499d36795313ef40",
+      "title": "On the connection between Noise-Contrastive Estimation and Contrastive Divergence",
+      "venue": "International Conference on Artificial Intelligence and Statistics",
+      "year": 2024,
+      "referenceCount": 53,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "91642132",
+          "name": "Amanda Olmin"
+        },
+        {
+          "authorId": "72453193",
+          "name": "Jakob Lindqvist"
+        },
+        {
+          "authorId": "2250960248",
+          "name": "Lennart Svensson"
+        },
+        {
+          "authorId": "2237291435",
+          "name": "Fredrik Lindsten"
+        }
+      ]
+    },
+    {
+      "paperId": "8c207f971efdce9c2b8099b2480f6c98d87dfd46",
+      "externalIds": {
+        "MAG": "2938296692",
+        "CorpusId": 46347910
+      },
+      "url": "https://www.semanticscholar.org/paper/8c207f971efdce9c2b8099b2480f6c98d87dfd46",
+      "title": "Conditional Noise-Contrastive Estimation : With Application to Natural Image Statistics",
+      "venue": "",
+      "year": 2017,
+      "referenceCount": 23,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "46219981",
+          "name": "Ciwan Ceylan"
+        }
+      ]
+    },
+    {
+      "paperId": "8573fe1dbc9b55479fea8f6bb62dcf6fb18240b1",
+      "externalIds": {
+        "ArXiv": "2404.14076",
+        "CorpusId": 269293091
+      },
+      "url": "https://www.semanticscholar.org/paper/8573fe1dbc9b55479fea8f6bb62dcf6fb18240b1",
+      "title": "Towards noise contrastive estimation with soft targets for conditional models",
+      "venue": "",
+      "year": 2024,
+      "referenceCount": 41,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "2164765966",
+          "name": "J. Hugger"
+        },
+        {
+          "authorId": "2165802301",
+          "name": "V. Uhlmann"
+        }
+      ]
+    },
+    {
+      "paperId": "d0b8ad33301df1dd682f4e1eecb4d4a402bfebf1",
+      "externalIds": {
+        "CorpusId": 284585442
+      },
+      "url": "https://www.semanticscholar.org/paper/d0b8ad33301df1dd682f4e1eecb4d4a402bfebf1",
+      "title": "Conditional Noise-Contrastive Estimation of Energy-Based Models by Jumping Between Modes",
+      "venue": "",
+      "year": null,
+      "referenceCount": 31,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2265553302",
+          "name": "Hanlin Yu"
+        },
+        {
+          "authorId": "2260383520",
+          "name": "Michael U. Gutmann"
+        },
+        {
+          "authorId": "1718725",
+          "name": "Arto Klami"
+        },
+        {
+          "authorId": "2367504106",
+          "name": "O. Chehab"
+        }
+      ]
+    },
+    {
+      "paperId": "ac61568c081c03730c58bd34c023a6952803da13",
+      "externalIds": {
+        "ArXiv": "1809.01812",
+        "MAG": "2890487780",
+        "DBLP": "journals/corr/abs-1809-01812",
+        "ACL": "D18-1405",
+        "DOI": "10.18653/v1/D18-1405",
+        "CorpusId": 52171904
+      },
+      "url": "https://www.semanticscholar.org/paper/ac61568c081c03730c58bd34c023a6952803da13",
+      "title": "Noise Contrastive Estimation and Negative Sampling for Conditional Models: Consistency and Statistical Efficiency",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2018,
+      "referenceCount": 12,
+      "citationCount": 172,
+      "authors": [
+        {
+          "authorId": "48464836",
+          "name": "Zhuang Ma"
+        },
+        {
+          "authorId": "144426392",
+          "name": "Michael Collins"
+        }
+      ]
+    },
+    {
+      "paperId": "f6a53a21dae1f4b48ad728b8c10afaab05e3da77",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2303-13004",
+        "ArXiv": "2303.13004",
+        "DOI": "10.48550/arXiv.2303.13004",
+        "CorpusId": 257687388
+      },
+      "url": "https://www.semanticscholar.org/paper/f6a53a21dae1f4b48ad728b8c10afaab05e3da77",
+      "title": "Adversarially Contrastive Estimation of Conditional Neural Processes",
+      "venue": "arXiv.org",
+      "year": 2023,
+      "referenceCount": 49,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "2158121071",
+          "name": "Zesheng Ye"
+        },
+        {
+          "authorId": "2111147278",
+          "name": "Jing Du"
+        },
+        {
+          "authorId": "145095579",
+          "name": "L. Yao"
+        }
+      ]
+    },
+    {
+      "paperId": "06728a4476067a6cab2ac8edad90eb8093399853",
+      "externalIds": {
+        "DBLP": "conf/ccs/AminGC19",
+        "MAG": "2982719286",
+        "DOI": "10.1145/3338501.3357368",
+        "CorpusId": 239454379
+      },
+      "url": "https://www.semanticscholar.org/paper/06728a4476067a6cab2ac8edad90eb8093399853",
+      "title": "CADENCE: Conditional Anomaly Detection for Events Using Noise-Contrastive Estimation",
+      "venue": "AISec@CCS",
+      "year": 2019,
+      "referenceCount": 62,
+      "citationCount": 42,
+      "authors": [
+        {
+          "authorId": "49393672",
+          "name": "M. R. Amin"
+        },
+        {
+          "authorId": "1802463",
+          "name": "P. Garg"
+        },
+        {
+          "authorId": "3172811",
+          "name": "Baris Coskun"
+        }
+      ]
+    },
+    {
+      "paperId": "4783f282883d0ecc03f5a6314cc7d77ab2b49358",
+      "externalIds": {
+        "ArXiv": "2103.07875",
+        "DBLP": "journals/corr/abs-2103-07875",
+        "CorpusId": 232233576
+      },
+      "url": "https://www.semanticscholar.org/paper/4783f282883d0ecc03f5a6314cc7d77ab2b49358",
+      "title": "Learning a Word-Level Language Model with Sentence-Level Noise Contrastive Estimation for Contextual Sentence Probability Estimation",
+      "venue": "arXiv.org",
+      "year": 2021,
+      "referenceCount": 34,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "51262270",
+          "name": "Heewoong Park"
+        },
+        {
+          "authorId": "2149157177",
+          "name": "Sukhyun Cho"
+        },
+        {
+          "authorId": "2109191782",
+          "name": "Jonghun Park"
+        }
+      ]
+    }
+  ]
+}

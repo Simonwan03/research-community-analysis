@@ -1,0 +1,297 @@
+{
+  "total": 200,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "ecc76c03d6a3ae4233097ef8bcc9d04d8b3c9bec",
+      "externalIds": {
+        "MAG": "2951505165",
+        "DBLP": "conf/icml/FranceschiDFP17",
+        "ArXiv": "1703.01785",
+        "CorpusId": 8026824
+      },
+      "url": "https://www.semanticscholar.org/paper/ecc76c03d6a3ae4233097ef8bcc9d04d8b3c9bec",
+      "title": "Forward and Reverse Gradient-Based Hyperparameter Optimization",
+      "venue": "International Conference on Machine Learning",
+      "year": 2017,
+      "referenceCount": 36,
+      "citationCount": 467,
+      "authors": [
+        {
+          "authorId": "39883180",
+          "name": "Luca Franceschi"
+        },
+        {
+          "authorId": "2192704",
+          "name": "Michele Donini"
+        },
+        {
+          "authorId": "1688235",
+          "name": "P. Frasconi"
+        },
+        {
+          "authorId": "1704699",
+          "name": "M. Pontil"
+        }
+      ]
+    },
+    {
+      "paperId": "2184a983c1fc67971de4a0de9202ef86919a09a7",
+      "externalIds": {
+        "DBLP": "conf/nips/MicaelliS21",
+        "ArXiv": "2007.07869",
+        "CorpusId": 238226541
+      },
+      "url": "https://www.semanticscholar.org/paper/2184a983c1fc67971de4a0de9202ef86919a09a7",
+      "title": "Gradient-based Hyperparameter Optimization Over Long Horizons",
+      "venue": "Neural Information Processing Systems",
+      "year": 2020,
+      "referenceCount": 62,
+      "citationCount": 21,
+      "authors": [
+        {
+          "authorId": "51028255",
+          "name": "P. Micaelli"
+        },
+        {
+          "authorId": "1728216",
+          "name": "A. Storkey"
+        }
+      ]
+    },
+    {
+      "paperId": "74b867fbd06ff4b0b6e9f59030b42d321feeb728",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2007-07869",
+        "MAG": "3043510298",
+        "CorpusId": 220525865
+      },
+      "url": "https://www.semanticscholar.org/paper/74b867fbd06ff4b0b6e9f59030b42d321feeb728",
+      "title": "Non-greedy Gradient-based Hyperparameter Optimization Over Long Horizons",
+      "venue": "arXiv.org",
+      "year": 2020,
+      "referenceCount": 56,
+      "citationCount": 15,
+      "authors": [
+        {
+          "authorId": "51028255",
+          "name": "P. Micaelli"
+        },
+        {
+          "authorId": "1728216",
+          "name": "A. Storkey"
+        }
+      ]
+    },
+    {
+      "paperId": "e2820bffe5b42cb7d88b7f65c12171c62ab4aae2",
+      "externalIds": {
+        "MAG": "1868018859",
+        "DBLP": "journals/corr/MaclaurinDA15",
+        "ArXiv": "1502.03492",
+        "CorpusId": 8540522
+      },
+      "url": "https://www.semanticscholar.org/paper/e2820bffe5b42cb7d88b7f65c12171c62ab4aae2",
+      "title": "Gradient-based Hyperparameter Optimization through Reversible Learning",
+      "venue": "International Conference on Machine Learning",
+      "year": 2015,
+      "referenceCount": 41,
+      "citationCount": 1025,
+      "authors": [
+        {
+          "authorId": "1683298",
+          "name": "D. Maclaurin"
+        },
+        {
+          "authorId": "1704657",
+          "name": "D. Duvenaud"
+        },
+        {
+          "authorId": "1722180",
+          "name": "Ryan P. Adams"
+        }
+      ]
+    },
+    {
+      "paperId": "4ed104b6446f8a3bc1864454994bc1b13abeec5e",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2506-15051",
+        "ArXiv": "2506.15051",
+        "DOI": "10.48550/arXiv.2506.15051",
+        "CorpusId": 279448021
+      },
+      "url": "https://www.semanticscholar.org/paper/4ed104b6446f8a3bc1864454994bc1b13abeec5e",
+      "title": "Sequential Policy Gradient for Adaptive Hyperparameter Optimization",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "referenceCount": 63,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "2367520682",
+          "name": "Zheng Li"
+        },
+        {
+          "authorId": "2367491441",
+          "name": "Jerry Cheng"
+        },
+        {
+          "authorId": "2367725619",
+          "name": "Huanying Gu"
+        }
+      ]
+    },
+    {
+      "paperId": "306737d1db9265d1750ec680efd06bbb65dcd77c",
+      "externalIds": {
+        "DOI": "10.1109/WOCC63563.2025.11082213",
+        "CorpusId": 280168597
+      },
+      "url": "https://www.semanticscholar.org/paper/306737d1db9265d1750ec680efd06bbb65dcd77c",
+      "title": "Research on the Forward and Inverse Problem Fitting Method of Distributed Raman Amplifiers Based on Kolmogorov-Arnold Network",
+      "venue": "Wireless and Optical Communications Conference",
+      "year": 2025,
+      "referenceCount": 7,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "9341368",
+          "name": "S. Liang"
+        },
+        {
+          "authorId": "2294167020",
+          "name": "Binqi Zhang"
+        },
+        {
+          "authorId": "93778094",
+          "name": "Shuhe Liu"
+        },
+        {
+          "authorId": "2266890605",
+          "name": "Guijun Hu"
+        }
+      ]
+    },
+    {
+      "paperId": "760598f76b14622a6a8a4eba58dc0a561cd58d24",
+      "externalIds": {
+        "DOI": "10.1007/s43452-026-01434-4",
+        "CorpusId": 285266249
+      },
+      "url": "https://www.semanticscholar.org/paper/760598f76b14622a6a8a4eba58dc0a561cd58d24",
+      "title": "Multi-objective design method of concrete mix ratio based on machine learning: forward prediction and reverse design",
+      "venue": "Archives of Civil and Mechanical Engineering",
+      "year": 2026,
+      "referenceCount": 39,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2290120235",
+          "name": "Bin Yang"
+        },
+        {
+          "authorId": "2266221243",
+          "name": "Yue Li"
+        },
+        {
+          "authorId": "2122801904",
+          "name": "Hui Lin"
+        },
+        {
+          "authorId": "2349015656",
+          "name": "Xiwang Chen"
+        },
+        {
+          "authorId": "2348962614",
+          "name": "Kun Ni"
+        },
+        {
+          "authorId": "2391227583",
+          "name": "Wei Li"
+        },
+        {
+          "authorId": "66411105",
+          "name": "Jiale Shen"
+        },
+        {
+          "authorId": "2357527050",
+          "name": "Tao Liang"
+        }
+      ]
+    },
+    {
+      "paperId": "e4628359d300eedd3e8a02816fda924274a6bdf5",
+      "externalIds": {
+        "ArXiv": "2506.01639",
+        "DBLP": "journals/corr/abs-2506-01639",
+        "DOI": "10.48550/arXiv.2506.01639",
+        "CorpusId": 279119311
+      },
+      "url": "https://www.semanticscholar.org/paper/e4628359d300eedd3e8a02816fda924274a6bdf5",
+      "title": "Bidirectional Soft Actor-Critic: Leveraging Forward and Reverse KL Divergence for Efficient Reinforcement Learning",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "referenceCount": 43,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2360844262",
+          "name": "Yixian Zhang"
+        },
+        {
+          "authorId": "120710335",
+          "name": "Huaze Tang"
+        },
+        {
+          "authorId": "2365334804",
+          "name": "Changxu Wei"
+        },
+        {
+          "authorId": "2362467369",
+          "name": "Wenbo Ding"
+        }
+      ]
+    },
+    {
+      "paperId": "b3d2ce57f497035273d531ad2a705e66bd7900e0",
+      "externalIds": {
+        "MAG": "2883081997",
+        "DBLP": "journals/jcsc/Nnolim19",
+        "DOI": "10.1142/S0218126619500993",
+        "CorpusId": 58955750
+      },
+      "url": "https://www.semanticscholar.org/paper/b3d2ce57f497035273d531ad2a705e66bd7900e0",
+      "title": "Image De-Hazing Via Gradient Optimized Adaptive Forward-Reverse Flow-Based Partial Differential Equation",
+      "venue": "J. Circuits Syst. Comput.",
+      "year": 2019,
+      "referenceCount": 47,
+      "citationCount": 14,
+      "authors": [
+        {
+          "authorId": "29449191",
+          "name": "U. Nnolim"
+        }
+      ]
+    },
+    {
+      "paperId": "fe5ba756eaeaa9483e563941d3373f6a91a54def",
+      "externalIds": {
+        "DOI": "10.1109/AUTEEE67053.2025.11322359",
+        "CorpusId": 284724713
+      },
+      "url": "https://www.semanticscholar.org/paper/fe5ba756eaeaa9483e563941d3373f6a91a54def",
+      "title": "A Computational Framework for Indicator Detection Based on GBRT-LightGBM: Research on Multi-Factor Modeling and Intelligent Decision Optimization",
+      "venue": "2025 IEEE 8th International Conference on Automation, Electronics and Electrical Engineering (AUTEEE)",
+      "year": 2025,
+      "referenceCount": 6,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2367032036",
+          "name": "Tenghui He"
+        }
+      ]
+    }
+  ]
+}

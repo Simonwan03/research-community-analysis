@@ -1,0 +1,259 @@
+{
+  "total": 23,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "bc2796caf9fe3a2378528b2705bb4a45b0af1960",
+      "externalIds": {
+        "DBLP": "conf/icml/LaurentB18",
+        "ArXiv": "1712.01473",
+        "MAG": "2964072429",
+        "CorpusId": 51872101
+      },
+      "url": "https://www.semanticscholar.org/paper/bc2796caf9fe3a2378528b2705bb4a45b0af1960",
+      "title": "Deep Linear Networks with Arbitrary Loss: All Local Minima Are Global",
+      "venue": "International Conference on Machine Learning",
+      "year": 2017,
+      "referenceCount": 7,
+      "citationCount": 146,
+      "authors": [
+        {
+          "authorId": "81634721",
+          "name": "T. Laurent"
+        },
+        {
+          "authorId": "144952860",
+          "name": "J. V. Brecht"
+        }
+      ]
+    },
+    {
+      "paperId": "e3b7201deb277dbc1ce1f1849cf099c71b2ff3a1",
+      "externalIds": {
+        "MAG": "2952952333",
+        "DBLP": "journals/corr/abs-1712-01473",
+        "CorpusId": 32990126
+      },
+      "url": "https://www.semanticscholar.org/paper/e3b7201deb277dbc1ce1f1849cf099c71b2ff3a1",
+      "title": "Deep linear neural networks with arbitrary loss: All local minima are global",
+      "venue": "arXiv.org",
+      "year": 2017,
+      "referenceCount": 6,
+      "citationCount": 20,
+      "authors": [
+        {
+          "authorId": "81634721",
+          "name": "T. Laurent"
+        },
+        {
+          "authorId": "144952860",
+          "name": "J. V. Brecht"
+        }
+      ]
+    },
+    {
+      "paperId": "ab99207924dcc0fa9e5e4d40f1f85adf9f832a19",
+      "externalIds": {
+        "MAG": "3013547682",
+        "ArXiv": "2003.12236",
+        "DBLP": "journals/corr/abs-2003-12236",
+        "CorpusId": 211094978
+      },
+      "url": "https://www.semanticscholar.org/paper/ab99207924dcc0fa9e5e4d40f1f85adf9f832a19",
+      "title": "Piecewise linear activations substantially shape the loss surfaces of neural networks",
+      "venue": "International Conference on Learning Representations",
+      "year": 2020,
+      "referenceCount": 64,
+      "citationCount": 33,
+      "authors": [
+        {
+          "authorId": "51209425",
+          "name": "Fengxiang He"
+        },
+        {
+          "authorId": "1390816671",
+          "name": "Bohan Wang"
+        },
+        {
+          "authorId": "143719920",
+          "name": "D. Tao"
+        }
+      ]
+    },
+    {
+      "paperId": "ed0ee0d0f53de96cc8bcc7985791a468c033b8eb",
+      "externalIds": {
+        "CorpusId": 267848886
+      },
+      "url": "https://www.semanticscholar.org/paper/ed0ee0d0f53de96cc8bcc7985791a468c033b8eb",
+      "title": "Game-theoretical analysis of deep neural networks",
+      "venue": "",
+      "year": 2021,
+      "referenceCount": 6,
+      "citationCount": 0,
+      "authors": []
+    },
+    {
+      "paperId": "fce76323018003ec025869fcc1260d33e0109b95",
+      "externalIds": {
+        "MAG": "2994762302",
+        "CorpusId": 212412116
+      },
+      "url": "https://www.semanticscholar.org/paper/fce76323018003ec025869fcc1260d33e0109b95",
+      "title": "Nonlinearities in activations substantially shape the loss surfaces of neural networks",
+      "venue": "International Conference on Learning Representations",
+      "year": 2020,
+      "referenceCount": 60,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "51209425",
+          "name": "Fengxiang He"
+        },
+        {
+          "authorId": "1390816671",
+          "name": "Bohan Wang"
+        },
+        {
+          "authorId": "143719920",
+          "name": "D. Tao"
+        }
+      ]
+    },
+    {
+      "paperId": "c4c32f1400430a3da8ec0f28c4696d67777bf9b2",
+      "externalIds": {
+        "ArXiv": "2511.10362",
+        "DBLP": "journals/corr/abs-2511-10362",
+        "DOI": "10.48550/arXiv.2511.10362",
+        "CorpusId": 282991385
+      },
+      "url": "https://www.semanticscholar.org/paper/c4c32f1400430a3da8ec0f28c4696d67777bf9b2",
+      "title": "Gradient Flow Equations for Deep Linear Neural Networks: A Survey from a Network Perspective",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "referenceCount": 0,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2384366838",
+          "name": "Joel Wendin"
+        },
+        {
+          "authorId": "2250183706",
+          "name": "Claudio Altafini"
+        }
+      ]
+    },
+    {
+      "paperId": "97f9fa84a7818051383cf25e8b11534262421563",
+      "externalIds": {
+        "ArXiv": "2107.13289",
+        "DBLP": "journals/corr/abs-2107-13289",
+        "DOI": "10.48550/arXiv.2107.13289",
+        "CorpusId": 247411489
+      },
+      "url": "https://www.semanticscholar.org/paper/97f9fa84a7818051383cf25e8b11534262421563",
+      "title": "The loss landscape of deep linear neural networks: a second-order analysis",
+      "venue": "arXiv.org",
+      "year": 2021,
+      "referenceCount": 56,
+      "citationCount": 25,
+      "authors": [
+        {
+          "authorId": "2082586000",
+          "name": "E. Achour"
+        },
+        {
+          "authorId": "2047400907",
+          "name": "Franccois Malgouyres"
+        },
+        {
+          "authorId": "2582011",
+          "name": "Sébastien Gerchinovitz"
+        }
+      ]
+    },
+    {
+      "paperId": "950aa995a9cfce650cb3c69c97311815644d858e",
+      "externalIds": {
+        "CorpusId": 236469134
+      },
+      "url": "https://www.semanticscholar.org/paper/950aa995a9cfce650cb3c69c97311815644d858e",
+      "title": "Global minimizers, strict and non-strict saddle points, and implicit regularization for deep linear neural networks",
+      "venue": "",
+      "year": 2021,
+      "referenceCount": 54,
+      "citationCount": 6,
+      "authors": [
+        {
+          "authorId": "2082586000",
+          "name": "E. Achour"
+        },
+        {
+          "authorId": "2047400907",
+          "name": "Franccois Malgouyres"
+        },
+        {
+          "authorId": "2582011",
+          "name": "Sébastien Gerchinovitz"
+        }
+      ]
+    },
+    {
+      "paperId": "ab0813895b5a7df2bffd34808a8974d7220ac36b",
+      "externalIds": {
+        "MAG": "2952410051",
+        "DBLP": "conf/iclr/YunSJ19a",
+        "ArXiv": "1802.03487",
+        "CorpusId": 52893515
+      },
+      "url": "https://www.semanticscholar.org/paper/ab0813895b5a7df2bffd34808a8974d7220ac36b",
+      "title": "Small nonlinearities in activation functions create bad local minima in neural networks",
+      "venue": "International Conference on Learning Representations",
+      "year": 2018,
+      "referenceCount": 48,
+      "citationCount": 97,
+      "authors": [
+        {
+          "authorId": "2674870",
+          "name": "Chulhee Yun"
+        },
+        {
+          "authorId": "3072326",
+          "name": "S. Sra"
+        },
+        {
+          "authorId": "1688304",
+          "name": "A. Jadbabaie"
+        }
+      ]
+    },
+    {
+      "paperId": "f5c49d65bb06ec9c76946ce2bca461d9adbd5e67",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-1901-00279",
+        "MAG": "3037189286",
+        "ArXiv": "1901.00279",
+        "CorpusId": 57373774
+      },
+      "url": "https://www.semanticscholar.org/paper/f5c49d65bb06ec9c76946ce2bca461d9adbd5e67",
+      "title": "Elimination of All Bad Local Minima in Deep Learning",
+      "venue": "International Conference on Artificial Intelligence and Statistics",
+      "year": 2019,
+      "referenceCount": 41,
+      "citationCount": 48,
+      "authors": [
+        {
+          "authorId": "2324666",
+          "name": "Kenji Kawaguchi"
+        },
+        {
+          "authorId": "1709512",
+          "name": "L. Kaelbling"
+        }
+      ]
+    }
+  ]
+}

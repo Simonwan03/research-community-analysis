@@ -1,0 +1,66 @@
+{
+  "total": 2,
+  "offset": 0,
+  "data": [
+    {
+      "paperId": "5b93662a56a11d22efd49afa5aa79e64539260b8",
+      "externalIds": {
+        "MAG": "1877062207",
+        "DBLP": "conf/icml/GrosseS15",
+        "CorpusId": 16455760
+      },
+      "url": "https://www.semanticscholar.org/paper/5b93662a56a11d22efd49afa5aa79e64539260b8",
+      "title": "Scaling up Natural Gradient by Sparsely Factorizing the Inverse Fisher Matrix",
+      "venue": "International Conference on Machine Learning",
+      "year": 2015,
+      "referenceCount": 33,
+      "citationCount": 65,
+      "authors": [
+        {
+          "authorId": "1785346",
+          "name": "R. Grosse"
+        },
+        {
+          "authorId": "145124475",
+          "name": "R. Salakhutdinov"
+        }
+      ]
+    },
+    {
+      "paperId": "29edee9ceb217b1da4e9fb60a41c996ec9745d7f",
+      "externalIds": {
+        "DBLP": "conf/sc/MuSCGD22",
+        "DOI": "10.1109/SC41404.2022.00052",
+        "CorpusId": 250185063
+      },
+      "url": "https://www.semanticscholar.org/paper/29edee9ceb217b1da4e9fb60a41c996ec9745d7f",
+      "title": "HyLo: A Hybrid Low-Rank Natural Gradient Descent Method",
+      "venue": "International Conference for High Performance Computing, Networking, Storage and Analysis",
+      "year": 2022,
+      "referenceCount": 55,
+      "citationCount": 6,
+      "authors": [
+        {
+          "authorId": "2304560474",
+          "name": "Baorun Mu"
+        },
+        {
+          "authorId": "46540423",
+          "name": "Saeed Soori"
+        },
+        {
+          "authorId": "66434154",
+          "name": "Bugra Can"
+        },
+        {
+          "authorId": "1783387",
+          "name": "M. Gürbüzbalaban"
+        },
+        {
+          "authorId": "2917750",
+          "name": "M. Dehnavi"
+        }
+      ]
+    }
+  ]
+}

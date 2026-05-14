@@ -1,0 +1,55 @@
+{
+  "total": 2,
+  "offset": 0,
+  "data": [
+    {
+      "paperId": "15e2fb70ee69b444faa5df9017256e53434d5cc3",
+      "externalIds": {
+        "DBLP": "conf/icml/DavidS16",
+        "MAG": "2471474055",
+        "CorpusId": 7885137
+      },
+      "url": "https://www.semanticscholar.org/paper/15e2fb70ee69b444faa5df9017256e53434d5cc3",
+      "title": "PAC Lower Bounds and Efficient Algorithms for The Max \\(K\\)-Armed Bandit Problem",
+      "venue": "International Conference on Machine Learning",
+      "year": 2016,
+      "referenceCount": 25,
+      "citationCount": 7,
+      "authors": [
+        {
+          "authorId": "31638231",
+          "name": "Y. David"
+        },
+        {
+          "authorId": "1742179",
+          "name": "N. Shimkin"
+        }
+      ]
+    },
+    {
+      "paperId": "a183d9e88ccefeffef18b283858978e3a04b3bcc",
+      "externalIds": {
+        "MAG": "2220827216",
+        "ArXiv": "1512.07650",
+        "DBLP": "journals/corr/DavidS15a",
+        "CorpusId": 1300361
+      },
+      "url": "https://www.semanticscholar.org/paper/a183d9e88ccefeffef18b283858978e3a04b3bcc",
+      "title": "The Max $K$-Armed Bandit: PAC Lower Bounds and Efficient Algorithms",
+      "venue": "arXiv.org",
+      "year": 2015,
+      "referenceCount": 18,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "31638231",
+          "name": "Y. David"
+        },
+        {
+          "authorId": "1742179",
+          "name": "N. Shimkin"
+        }
+      ]
+    }
+  ]
+}

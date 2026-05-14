@@ -1,0 +1,299 @@
+{
+  "total": 1916,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "c1f4ef741242d629d1f56e442a09a7ba29595a0e",
+      "externalIds": {
+        "MAG": "2951328804",
+        "DBLP": "conf/icml/BellemareDM17",
+        "ArXiv": "1707.06887",
+        "CorpusId": 966543
+      },
+      "url": "https://www.semanticscholar.org/paper/c1f4ef741242d629d1f56e442a09a7ba29595a0e",
+      "title": "A Distributional Perspective on Reinforcement Learning",
+      "venue": "International Conference on Machine Learning",
+      "year": 2017,
+      "referenceCount": 50,
+      "citationCount": 1792,
+      "authors": [
+        {
+          "authorId": "1792298",
+          "name": "Marc G. Bellemare"
+        },
+        {
+          "authorId": "2605877",
+          "name": "Will Dabney"
+        },
+        {
+          "authorId": "1708654",
+          "name": "R. Munos"
+        }
+      ]
+    },
+    {
+      "paperId": "e5dbc48f07d01159a462b0343bd9f3334c4e12ce",
+      "externalIds": {
+        "ArXiv": "2505.06518",
+        "CorpusId": 278501976
+      },
+      "url": "https://www.semanticscholar.org/paper/e5dbc48f07d01159a462b0343bd9f3334c4e12ce",
+      "title": "Reinforcement Learning under State and Outcome Uncertainty: A Foundational Distributional Perspective",
+      "venue": "",
+      "year": 2025,
+      "referenceCount": 7,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2325146276",
+          "name": "Larry Preuett"
+        },
+        {
+          "authorId": "2261249944",
+          "name": "Qiuyi Zhang"
+        },
+        {
+          "authorId": "2367627987",
+          "name": "M. Ahmad"
+        }
+      ]
+    },
+    {
+      "paperId": "cf15afb4a6fae651a9d90e5ae99ef132a43783c3",
+      "externalIds": {
+        "DOI": "10.23919/CCC64809.2025.11179327",
+        "CorpusId": 281985967
+      },
+      "url": "https://www.semanticscholar.org/paper/cf15afb4a6fae651a9d90e5ae99ef132a43783c3",
+      "title": "Offline Goal-Conditioned Reinforcement Learning with Distributional Perspective",
+      "venue": "Cybersecurity and Cyberforensics Conference",
+      "year": 2025,
+      "referenceCount": 29,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2370897923",
+          "name": "Baoxian Liang"
+        },
+        {
+          "authorId": "2254867270",
+          "name": "Lihong Xu"
+        },
+        {
+          "authorId": "2255058842",
+          "name": "Zhichao Deng"
+        }
+      ]
+    },
+    {
+      "paperId": "90a333e0aa86f9461601872a1ea373d47f004904",
+      "externalIds": {
+        "DBLP": "journals/tnn/HuangFRIZX24",
+        "DOI": "10.1109/TNNLS.2022.3202097",
+        "CorpusId": 252381985,
+        "PubMed": "36121959"
+      },
+      "url": "https://www.semanticscholar.org/paper/90a333e0aa86f9461601872a1ea373d47f004904",
+      "title": "A Distributional Perspective on Multiagent Cooperation With Deep Reinforcement Learning",
+      "venue": "IEEE Transactions on Neural Networks and Learning Systems",
+      "year": 2022,
+      "referenceCount": 46,
+      "citationCount": 8,
+      "authors": [
+        {
+          "authorId": "2139335432",
+          "name": "Liwei Huang"
+        },
+        {
+          "authorId": "51066540",
+          "name": "Mingsheng Fu"
+        },
+        {
+          "authorId": "2152145924",
+          "name": "Ananya Rao"
+        },
+        {
+          "authorId": "2897833",
+          "name": "Athirai Aravazhi Irissappane"
+        },
+        {
+          "authorId": "2159191815",
+          "name": "Jie Zhang"
+        },
+        {
+          "authorId": "144486540",
+          "name": "Chengzhong Xu"
+        }
+      ]
+    },
+    {
+      "paperId": "d5f4ebb84718fb60d3cdf6d377dbe5e487a520b7",
+      "externalIds": {
+        "ArXiv": "2506.03333",
+        "DBLP": "journals/corr/abs-2506-03333",
+        "DOI": "10.48550/arXiv.2506.03333",
+        "CorpusId": 279154981
+      },
+      "url": "https://www.semanticscholar.org/paper/d5f4ebb84718fb60d3cdf6d377dbe5e487a520b7",
+      "title": "A Differential Perspective on Distributional Reinforcement Learning",
+      "venue": "AAAI Conference on Artificial Intelligence",
+      "year": 2025,
+      "referenceCount": 24,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "2325903033",
+          "name": "J. Rojas"
+        },
+        {
+          "authorId": "2325961587",
+          "name": "Chi-Guhn Lee"
+        }
+      ]
+    },
+    {
+      "paperId": "9bf5f91194c8db75bc8c1b2bec2ef59dbc9bc7eb",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2407-10903",
+        "ArXiv": "2407.10903",
+        "DOI": "10.48550/arXiv.2407.10903",
+        "CorpusId": 271212939
+      },
+      "url": "https://www.semanticscholar.org/paper/9bf5f91194c8db75bc8c1b2bec2ef59dbc9bc7eb",
+      "title": "Hedging Beyond the Mean: A Distributional Reinforcement Learning Perspective for Hedging Portfolios with Structured Products",
+      "venue": "arXiv.org",
+      "year": 2024,
+      "referenceCount": 22,
+      "citationCount": 5,
+      "authors": [
+        {
+          "authorId": "2311598849",
+          "name": "Anil Sharma"
+        },
+        {
+          "authorId": "2311424344",
+          "name": "Freeman Chen"
+        },
+        {
+          "authorId": "2311442486",
+          "name": "Jaesun Noh"
+        },
+        {
+          "authorId": "2301154151",
+          "name": "Julio DeJesus"
+        },
+        {
+          "authorId": "2301153316",
+          "name": "Mario Schlener"
+        }
+      ]
+    },
+    {
+      "paperId": "cf28c18a733810bb7f50a2fc43e0e57867da7656",
+      "externalIds": {
+        "DBLP": "conf/atal/SunLL21",
+        "DOI": "10.5555/3463952.3464196",
+        "CorpusId": 233441490
+      },
+      "url": "https://www.semanticscholar.org/paper/cf28c18a733810bb7f50a2fc43e0e57867da7656",
+      "title": "A Distributional Perspective on Value Function Factorization Methods for Multi-Agent Reinforcement Learning",
+      "venue": "Adaptive Agents and Multi-Agent Systems",
+      "year": 2021,
+      "referenceCount": 17,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "2153199359",
+          "name": "Wei-Fang Sun"
+        },
+        {
+          "authorId": "2127191094",
+          "name": "Cheng-Kuang Lee"
+        },
+        {
+          "authorId": "1492122970",
+          "name": "Chun-Yi Lee"
+        }
+      ]
+    },
+    {
+      "paperId": "da1ff1b01b2c036af68d04b045398b01a2adca92",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2202-10134",
+        "CorpusId": 247011121
+      },
+      "url": "https://www.semanticscholar.org/paper/da1ff1b01b2c036af68d04b045398b01a2adca92",
+      "title": "DQMIX: A Distributional Perspective on Multi-Agent Reinforcement Learning",
+      "venue": "arXiv.org",
+      "year": 2022,
+      "referenceCount": 32,
+      "citationCount": 4,
+      "authors": [
+        {
+          "authorId": "7818567",
+          "name": "Jian Zhao"
+        },
+        {
+          "authorId": "2031457330",
+          "name": "Mingyu Yang"
+        },
+        {
+          "authorId": "2109907241",
+          "name": "Xu Hu"
+        },
+        {
+          "authorId": "38272296",
+          "name": "Wen-gang Zhou"
+        },
+        {
+          "authorId": "2108508311",
+          "name": "Houqiang Li"
+        }
+      ]
+    },
+    {
+      "paperId": "b982ef8fae99089be50032f60c158f3631c13f1f",
+      "externalIds": {
+        "DOI": "10.2139/ssrn.4709441",
+        "CorpusId": 271931378
+      },
+      "url": "https://www.semanticscholar.org/paper/b982ef8fae99089be50032f60c158f3631c13f1f",
+      "title": "Hedging Beyond the Mean: A Distributional Reinforcement Learning Perspective for Hedging Portfolios with Structured Products",
+      "venue": "Social Science Research Network",
+      "year": 2024,
+      "referenceCount": 0,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2316720039",
+          "name": "Jaesun Noh"
+        }
+      ]
+    },
+    {
+      "paperId": "2cdbddb14304434aef9fdb3d22e04fb89a742330",
+      "externalIds": {
+        "DBLP": "conf/aistats/LheritierB22",
+        "ArXiv": "2110.00535",
+        "CorpusId": 247025972
+      },
+      "url": "https://www.semanticscholar.org/paper/2cdbddb14304434aef9fdb3d22e04fb89a742330",
+      "title": "A Cramér Distance perspective on Quantile Regression based Distributional Reinforcement Learning",
+      "venue": "International Conference on Artificial Intelligence and Statistics",
+      "year": 2021,
+      "referenceCount": 30,
+      "citationCount": 7,
+      "authors": [
+        {
+          "authorId": "40961545",
+          "name": "Alix Lhéritier"
+        },
+        {
+          "authorId": "122981950",
+          "name": "Nicolas Bondoux"
+        }
+      ]
+    }
+  ]
+}

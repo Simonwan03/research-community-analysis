@@ -1,0 +1,293 @@
+{
+  "total": 4612,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "13d624cd70787e6e13e38c40a2a50df0189838ee",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-1802-07564",
+        "MAG": "2951648910",
+        "ArXiv": "1802.07564",
+        "CorpusId": 3410824
+      },
+      "url": "https://www.semanticscholar.org/paper/13d624cd70787e6e13e38c40a2a50df0189838ee",
+      "title": "Clipped Action Policy Gradient",
+      "venue": "International Conference on Machine Learning",
+      "year": 2018,
+      "referenceCount": 29,
+      "citationCount": 40,
+      "authors": [
+        {
+          "authorId": "2055409786",
+          "name": "Yasuhiro Fujita"
+        },
+        {
+          "authorId": "35647224",
+          "name": "S. Maeda"
+        }
+      ]
+    },
+    {
+      "paperId": "a2612b4b27778fef76114b02a7ffcfcda2edf128",
+      "externalIds": {
+        "DOI": "10.1049/aie2.70006",
+        "CorpusId": 284120041
+      },
+      "url": "https://www.semanticscholar.org/paper/a2612b4b27778fef76114b02a7ffcfcda2edf128",
+      "title": "Twin Delayed Deep Deterministic Policy Gradient‐Based Load Frequency Control for Interconnected Hybrid Microgrids With Renewable Energy Integration Using a Tilt–Integral–Derivative Controller",
+      "venue": "Artificial Intelligence for Engineering",
+      "year": 2025,
+      "referenceCount": 19,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "1582617318",
+          "name": "Robert Bhadra Naorem"
+        },
+        {
+          "authorId": "2298217268",
+          "name": "Dulal Chandra Das"
+        },
+        {
+          "authorId": "2352670883",
+          "name": "Prasanta Roy"
+        }
+      ]
+    },
+    {
+      "paperId": "e760906f9e6a52710fd6fe5d28962bfceb74d4a4",
+      "externalIds": {
+        "DOI": "10.1109/CSIS-IAC63491.2024.10919340",
+        "CorpusId": 277111186
+      },
+      "url": "https://www.semanticscholar.org/paper/e760906f9e6a52710fd6fe5d28962bfceb74d4a4",
+      "title": "An Efficient Policy Gradient Algorithm with Historical Behaviors Reusing in Multi Agent System",
+      "venue": "2024 International Annual Conference on Complex Systems and Intelligent Science (CSIS-IAC)",
+      "year": 2024,
+      "referenceCount": 26,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2318076702",
+          "name": "Ao Ding"
+        },
+        {
+          "authorId": "2281268903",
+          "name": "Huaqing Zhang"
+        },
+        {
+          "authorId": "2260837072",
+          "name": "Hongbin Ma"
+        }
+      ]
+    },
+    {
+      "paperId": "d5858057cf978ea0ac7f0c0452534ec3242362a1",
+      "externalIds": {
+        "DOI": "10.1109/SAFEPROCESS67117.2025.11268177",
+        "CorpusId": 283569114
+      },
+      "url": "https://www.semanticscholar.org/paper/d5858057cf978ea0ac7f0c0452534ec3242362a1",
+      "title": "Action Candidate-Driven Clipped Double Q-Learning in Continuous Control Tasks",
+      "venue": "2025 CAA Symposium on Fault Detection, Supervision, and Safety for Technical Processes (SAFEPROCESS)",
+      "year": 2025,
+      "referenceCount": 21,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2323569966",
+          "name": "Haohui Chen"
+        },
+        {
+          "authorId": "2325101538",
+          "name": "Aoxiang Liu"
+        }
+      ]
+    },
+    {
+      "paperId": "3878c84d42b5bdabc8e5b71a25acf66963a740e0",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2311-05846",
+        "ArXiv": "2311.05846",
+        "DOI": "10.48550/arXiv.2311.05846",
+        "CorpusId": 265128669
+      },
+      "url": "https://www.semanticscholar.org/paper/3878c84d42b5bdabc8e5b71a25acf66963a740e0",
+      "title": "Clipped-Objective Policy Gradients for Pessimistic Policy Optimization",
+      "venue": "arXiv.org",
+      "year": 2023,
+      "referenceCount": 20,
+      "citationCount": 4,
+      "authors": [
+        {
+          "authorId": "2266238169",
+          "name": "Jared Markowitz"
+        },
+        {
+          "authorId": "51487859",
+          "name": "Edward W. Staley"
+        }
+      ]
+    },
+    {
+      "paperId": "68ca721eb2a9efcac78cef352e1ef1fb3b4b8795",
+      "externalIds": {
+        "ArXiv": "2603.01302",
+        "DBLP": "journals/corr/abs-2603-01302",
+        "DOI": "10.48550/arXiv.2603.01302",
+        "CorpusId": 286223395
+      },
+      "url": "https://www.semanticscholar.org/paper/68ca721eb2a9efcac78cef352e1ef1fb3b4b8795",
+      "title": "Hybrid TD3: Overestimation Bias Analysis and Stable Policy Optimization for Hybrid Action Space",
+      "venue": "arXiv.org",
+      "year": 2026,
+      "referenceCount": 24,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2154432156",
+          "name": "Thanh Tran"
+        },
+        {
+          "authorId": "2199257946",
+          "name": "Thanh Nguyen Canh"
+        },
+        {
+          "authorId": "2316429987",
+          "name": "Nak Young Chong"
+        },
+        {
+          "authorId": "2043593",
+          "name": "Xiem HoangVan"
+        }
+      ]
+    },
+    {
+      "paperId": "5a6ce84e85f3044c64d683472814f5ffdcb986f2",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2510-09976",
+        "ArXiv": "2510.09976",
+        "DOI": "10.48550/arXiv.2510.09976",
+        "CorpusId": 282056928
+      },
+      "url": "https://www.semanticscholar.org/paper/5a6ce84e85f3044c64d683472814f5ffdcb986f2",
+      "title": "Reinforcement Fine-Tuning of Flow-Matching Policies for Vision-Language-Action Models",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "referenceCount": 48,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "2200015040",
+          "name": "Mingyang Lyu"
+        },
+        {
+          "authorId": "1390836697",
+          "name": "Yinqian Sun"
+        },
+        {
+          "authorId": "2385463004",
+          "name": "Erliang Lin"
+        },
+        {
+          "authorId": "2385889085",
+          "name": "Huangrui Li"
+        },
+        {
+          "authorId": "2376388561",
+          "name": "Ruolin Chen"
+        },
+        {
+          "authorId": "49372630",
+          "name": "Feifei Zhao"
+        },
+        {
+          "authorId": "2383099234",
+          "name": "Yi Zeng"
+        }
+      ]
+    },
+    {
+      "paperId": "a2c7c3b8ffe918912f25cf7f476d3b6f603e8153",
+      "externalIds": {
+        "ArXiv": "1806.05134",
+        "MAG": "2963412039",
+        "DBLP": "conf/iclr/EisenachYLL19",
+        "CorpusId": 52892910
+      },
+      "url": "https://www.semanticscholar.org/paper/a2c7c3b8ffe918912f25cf7f476d3b6f603e8153",
+      "title": "Marginal Policy Gradients: A Unified Family of Estimators for Bounded Action Spaces with Applications",
+      "venue": "International Conference on Learning Representations",
+      "year": 2018,
+      "referenceCount": 30,
+      "citationCount": 11,
+      "authors": [
+        {
+          "authorId": "12210412",
+          "name": "Carson Eisenach"
+        },
+        {
+          "authorId": "3274411",
+          "name": "Haichuan Yang"
+        },
+        {
+          "authorId": "40478933",
+          "name": "Ji Liu"
+        },
+        {
+          "authorId": null,
+          "name": "Han Liu"
+        }
+      ]
+    },
+    {
+      "paperId": "a7d5f3639599303b9924301a829c5bf6f71b6b5d",
+      "externalIds": {
+        "CorpusId": 237273321
+      },
+      "url": "https://www.semanticscholar.org/paper/a7d5f3639599303b9924301a829c5bf6f71b6b5d",
+      "title": "Opportunistic Actor-Critic with Clipped Triple Q-learning",
+      "venue": "",
+      "year": 2021,
+      "referenceCount": 16,
+      "citationCount": 0,
+      "authors": []
+    },
+    {
+      "paperId": "415e3a4936d80bbd6ca6698485e1247e38680374",
+      "externalIds": {
+        "DOI": "10.1109/ICCC68654.2025.11437682",
+        "CorpusId": 286779959
+      },
+      "url": "https://www.semanticscholar.org/paper/415e3a4936d80bbd6ca6698485e1247e38680374",
+      "title": "Task Offloading Optimization for Multi-UAV Collaborative MEC Based on TD3",
+      "venue": "2025 11th International Conference on Computer and Communications (ICCC)",
+      "year": 2025,
+      "referenceCount": 12,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2425558628",
+          "name": "Yang Qu"
+        },
+        {
+          "authorId": "2425524571",
+          "name": "Xiaoyan Niu"
+        },
+        {
+          "authorId": "2425519356",
+          "name": "Xincheng Shao"
+        },
+        {
+          "authorId": "2257348791",
+          "name": "Yibo Wang"
+        },
+        {
+          "authorId": "2265382881",
+          "name": "Shuang Wu"
+        }
+      ]
+    }
+  ]
+}

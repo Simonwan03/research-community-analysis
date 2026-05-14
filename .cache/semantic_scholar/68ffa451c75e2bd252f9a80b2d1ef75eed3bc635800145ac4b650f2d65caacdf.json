@@ -1,0 +1,1207 @@
+{
+  "offset": 0,
+  "citingPaperInfo": {
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/1502.05477, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "title": "Trust Region Policy Optimization",
+    "authors": [
+      {
+        "authorId": "47971768",
+        "name": "John Schulman"
+      },
+      {
+        "authorId": "1736651",
+        "name": "S. Levine"
+      },
+      {
+        "authorId": "1689992",
+        "name": "P. Abbeel"
+      },
+      {
+        "authorId": "1694621",
+        "name": "Michael I. Jordan"
+      },
+      {
+        "authorId": "29912342",
+        "name": "Philipp Moritz"
+      }
+    ]
+  },
+  "data": [
+    {
+      "citedPaper": {
+        "paperId": "dce6f9d4017b1785979e7520fd0834ef8cf02f4b",
+        "externalIds": {
+          "MAG": "2736601468",
+          "DBLP": "journals/corr/SchulmanWDRK17",
+          "ArXiv": "1707.06347",
+          "CorpusId": 28695052
+        },
+        "url": "https://www.semanticscholar.org/paper/dce6f9d4017b1785979e7520fd0834ef8cf02f4b",
+        "title": "Proximal Policy Optimization Algorithms",
+        "venue": "arXiv.org",
+        "year": 2017,
+        "referenceCount": 14,
+        "citationCount": 26814,
+        "authors": [
+          {
+            "authorId": "47971768",
+            "name": "John Schulman"
+          },
+          {
+            "authorId": "143909660",
+            "name": "Filip Wolski"
+          },
+          {
+            "authorId": "6515819",
+            "name": "Prafulla Dhariwal"
+          },
+          {
+            "authorId": "38909097",
+            "name": "Alec Radford"
+          },
+          {
+            "authorId": "2067138712",
+            "name": "Oleg Klimov"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "b6cc21b30912bdaecd9f178d700a4c545b1d0838",
+        "externalIds": {
+          "MAG": "2151210636",
+          "DBLP": "conf/nips/GuoSLLW14",
+          "CorpusId": 2187487
+        },
+        "url": "https://www.semanticscholar.org/paper/b6cc21b30912bdaecd9f178d700a4c545b1d0838",
+        "title": "Deep Learning for Real-Time Atari Game Play Using Offline Monte-Carlo Tree Search Planning",
+        "venue": "Neural Information Processing Systems",
+        "year": 2014,
+        "referenceCount": 24,
+        "citationCount": 373,
+        "authors": [
+          {
+            "authorId": "1955964",
+            "name": "Xiaoxiao Guo"
+          },
+          {
+            "authorId": "1699868",
+            "name": "Satinder Singh"
+          },
+          {
+            "authorId": "1697141",
+            "name": "Honglak Lee"
+          },
+          {
+            "authorId": "46328485",
+            "name": "Richard L. Lewis"
+          },
+          {
+            "authorId": "2107975180",
+            "name": "Xiaoshi Wang"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "d0c61536927c2f5dc2ddb74664268a3623580b9c",
+        "externalIds": {
+          "MAG": "2121103318",
+          "DBLP": "conf/nips/LevineA14",
+          "CorpusId": 2341332
+        },
+        "url": "https://www.semanticscholar.org/paper/d0c61536927c2f5dc2ddb74664268a3623580b9c",
+        "title": "Learning Neural Network Policies with Guided Policy Search under Unknown Dynamics",
+        "venue": "Neural Information Processing Systems",
+        "year": 2014,
+        "referenceCount": 25,
+        "citationCount": 522,
+        "authors": [
+          {
+            "authorId": "1736651",
+            "name": "S. Levine"
+          },
+          {
+            "authorId": "1689992",
+            "name": "P. Abbeel"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "2319a491378867c7049b3da055c5df60e1671158",
+        "externalIds": {
+          "DBLP": "journals/corr/MnihKSGAWR13",
+          "MAG": "1757796397",
+          "ArXiv": "1312.5602",
+          "CorpusId": 15238391
+        },
+        "url": "https://www.semanticscholar.org/paper/2319a491378867c7049b3da055c5df60e1671158",
+        "title": "Playing Atari with Deep Reinforcement Learning",
+        "venue": "arXiv.org",
+        "year": 2013,
+        "referenceCount": 30,
+        "citationCount": 13583,
+        "authors": [
+          {
+            "authorId": "3255983",
+            "name": "Volodymyr Mnih"
+          },
+          {
+            "authorId": "2645384",
+            "name": "K. Kavukcuoglu"
+          },
+          {
+            "authorId": "145824029",
+            "name": "David Silver"
+          },
+          {
+            "authorId": "1753223",
+            "name": "Alex Graves"
+          },
+          {
+            "authorId": "2460849",
+            "name": "Ioannis Antonoglou"
+          },
+          {
+            "authorId": "1688276",
+            "name": "Daan Wierstra"
+          },
+          {
+            "authorId": "3137672",
+            "name": "Martin A. Riedmiller"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "f53564f282f3cc78b4ac9d127992627eebb678dd",
+        "externalIds": {
+          "DBLP": "conf/nips/GabillonGS13",
+          "MAG": "2133435356",
+          "CorpusId": 16053155
+        },
+        "url": "https://www.semanticscholar.org/paper/f53564f282f3cc78b4ac9d127992627eebb678dd",
+        "title": "Approximate Dynamic Programming Finally Performs Well in the Game of Tetris",
+        "venue": "Neural Information Processing Systems",
+        "year": 2013,
+        "referenceCount": 25,
+        "citationCount": 60,
+        "authors": [
+          {
+            "authorId": "3038127",
+            "name": "Victor Gabillon"
+          },
+          {
+            "authorId": "1678622",
+            "name": "M. Ghavamzadeh"
+          },
+          {
+            "authorId": "1689774",
+            "name": "B. Scherrer"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "b6bfae6efa1110a57a4d8362721d152d78aae358",
+        "externalIds": {
+          "MAG": "2012587148",
+          "DBLP": "journals/ftrob/DeisenrothNP13",
+          "DOI": "10.1561/2300000021",
+          "CorpusId": 17647665
+        },
+        "url": "https://www.semanticscholar.org/paper/b6bfae6efa1110a57a4d8362721d152d78aae358",
+        "title": "A Survey on Policy Search for Robotics",
+        "venue": "Found. Trends Robotics",
+        "year": 2013,
+        "referenceCount": 102,
+        "citationCount": 1022,
+        "authors": [
+          {
+            "authorId": "2261881",
+            "name": "M. Deisenroth"
+          },
+          {
+            "authorId": "26599977",
+            "name": "G. Neumann"
+          },
+          {
+            "authorId": "145197867",
+            "name": "Jan Peters"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "fe40cd17112743123b5eb2830a44c3ea9b70ebaa",
+        "externalIds": {
+          "DBLP": "conf/icml/PirottaRPC13",
+          "MAG": "2112583795",
+          "CorpusId": 11502873
+        },
+        "url": "https://www.semanticscholar.org/paper/fe40cd17112743123b5eb2830a44c3ea9b70ebaa",
+        "title": "Safe Policy Iteration",
+        "venue": "International Conference on Machine Learning",
+        "year": 2013,
+        "referenceCount": 24,
+        "citationCount": 111,
+        "authors": [
+          {
+            "authorId": "6234609",
+            "name": "Matteo Pirotta"
+          },
+          {
+            "authorId": "1792167",
+            "name": "Marcello Restelli"
+          },
+          {
+            "authorId": "2850430",
+            "name": "Alessio Pecorino"
+          },
+          {
+            "authorId": "2439765",
+            "name": "Daniele Calandriello"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "e8f95ccfd13689f672c39dca3eccf1c484533bcc",
+        "externalIds": {
+          "DBLP": "journals/corr/abs-1301-3584",
+          "MAG": "1844261860",
+          "ArXiv": "1301.3584",
+          "CorpusId": 15085443
+        },
+        "url": "https://www.semanticscholar.org/paper/e8f95ccfd13689f672c39dca3eccf1c484533bcc",
+        "title": "Revisiting Natural Gradient for Deep Networks",
+        "venue": "International Conference on Learning Representations",
+        "year": 2013,
+        "referenceCount": 41,
+        "citationCount": 426,
+        "authors": [
+          {
+            "authorId": "1996134",
+            "name": "Razvan Pascanu"
+          },
+          {
+            "authorId": "1751762",
+            "name": "Yoshua Bengio"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "b354ee518bfc1ac0d8ac447eece9edb69e92eae1",
+        "externalIds": {
+          "MAG": "2158782408",
+          "DBLP": "conf/iros/TodorovET12",
+          "DOI": "10.1109/IROS.2012.6386109",
+          "CorpusId": 5230692
+        },
+        "url": "https://www.semanticscholar.org/paper/b354ee518bfc1ac0d8ac447eece9edb69e92eae1",
+        "title": "MuJoCo: A physics engine for model-based control",
+        "venue": "2012 IEEE/RSJ International Conference on Intelligent Robots and Systems",
+        "year": 2012,
+        "referenceCount": 17,
+        "citationCount": 7061,
+        "authors": [
+          {
+            "authorId": "144832491",
+            "name": "E. Todorov"
+          },
+          {
+            "authorId": "1968210",
+            "name": "Tom Erez"
+          },
+          {
+            "authorId": "2109481",
+            "name": "Yuval Tassa"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "be6858f60ecf83ffaf952d24ecd522f9883c80d8",
+        "externalIds": {
+          "DBLP": "conf/colt/Shamir13",
+          "MAG": "2100050269",
+          "ArXiv": "1209.2388",
+          "CorpusId": 9408524
+        },
+        "url": "https://www.semanticscholar.org/paper/be6858f60ecf83ffaf952d24ecd522f9883c80d8",
+        "title": "On the Complexity of Bandit and Derivative-Free Stochastic Convex Optimization",
+        "venue": "Annual Conference Computational Learning Theory",
+        "year": 2012,
+        "referenceCount": 27,
+        "citationCount": 201,
+        "authors": [
+          {
+            "authorId": "1768909",
+            "name": "Ohad Shamir"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "f82e4ff4f003581330338aaae71f60316e58dd26",
+        "externalIds": {
+          "ArXiv": "1207.4708",
+          "DBLP": "journals/jair/BellemareNVB13",
+          "MAG": "2150468603",
+          "DOI": "10.1613/jair.3912",
+          "CorpusId": 1552061
+        },
+        "url": "https://www.semanticscholar.org/paper/f82e4ff4f003581330338aaae71f60316e58dd26",
+        "title": "The Arcade Learning Environment: An Evaluation Platform for General Agents",
+        "venue": "Journal of Artificial Intelligence Research",
+        "year": 2012,
+        "referenceCount": 36,
+        "citationCount": 3282,
+        "authors": [
+          {
+            "authorId": "1792298",
+            "name": "Marc G. Bellemare"
+          },
+          {
+            "authorId": "2294249",
+            "name": "Yavar Naddaf"
+          },
+          {
+            "authorId": "144056327",
+            "name": "J. Veness"
+          },
+          {
+            "authorId": "1687780",
+            "name": "Michael Bowling"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "bcce96a2a074448953fc61a29a84afbdfc8db55a",
+        "externalIds": {
+          "DBLP": "journals/ftml/Shalev-Shwartz12",
+          "MAG": "2077723394",
+          "DOI": "10.1561/2200000018",
+          "CorpusId": 51730029
+        },
+        "url": "https://www.semanticscholar.org/paper/bcce96a2a074448953fc61a29a84afbdfc8db55a",
+        "title": "Online Learning and Online Convex Optimization",
+        "venue": "Found. Trends Mach. Learn.",
+        "year": 2012,
+        "referenceCount": 48,
+        "citationCount": 2414,
+        "authors": [
+          {
+            "authorId": "1389955537",
+            "name": "S. Shalev-Shwartz"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "e0456b744af84f07cb5e750217463214f96c921e",
+        "externalIds": {
+          "DBLP": "conf/aaai/PetersMA10",
+          "MAG": "1499669280",
+          "DOI": "10.1609/aaai.v24i1.7727",
+          "CorpusId": 2984847
+        },
+        "url": "https://www.semanticscholar.org/paper/e0456b744af84f07cb5e750217463214f96c921e",
+        "title": "Relative Entropy Policy Search",
+        "venue": "AAAI Conference on Artificial Intelligence",
+        "year": 2010,
+        "referenceCount": 18,
+        "citationCount": 798,
+        "authors": [
+          {
+            "authorId": "145197867",
+            "name": "Jan Peters"
+          },
+          {
+            "authorId": "1759719",
+            "name": "Katharina Muelling"
+          },
+          {
+            "authorId": "1783941",
+            "name": "Y. Altun"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "147ae2e23e74e80cd09bf60314945141db64de6e",
+        "externalIds": {
+          "DBLP": "journals/tog/WamplerP09",
+          "MAG": "2099824239",
+          "DOI": "10.1145/1576246.1531366",
+          "CorpusId": 1891278
+        },
+        "url": "https://www.semanticscholar.org/paper/147ae2e23e74e80cd09bf60314945141db64de6e",
+        "title": "Optimal gait and form for animal locomotion",
+        "venue": "ACM Transactions on Graphics",
+        "year": 2009,
+        "referenceCount": 30,
+        "citationCount": 176,
+        "authors": [
+          {
+            "authorId": "145691100",
+            "name": "K. Wampler"
+          },
+          {
+            "authorId": "1986848",
+            "name": "Zoran Popovic"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "ffced5b53ad956474a12d73b5cbfd38355dfb70a",
+        "externalIds": {
+          "MAG": "2125612430",
+          "DBLP": "journals/nn/PetersS08",
+          "DOI": "10.1016/j.neunet.2008.02.003",
+          "CorpusId": 15454626,
+          "PubMed": "18482830"
+        },
+        "url": "https://www.semanticscholar.org/paper/ffced5b53ad956474a12d73b5cbfd38355dfb70a",
+        "title": "Reinforcement learning of motor skills with policy gradients",
+        "venue": "Neural Networks",
+        "year": 2008,
+        "referenceCount": 75,
+        "citationCount": 1016,
+        "authors": [
+          {
+            "authorId": "145197867",
+            "name": "Jan Peters"
+          },
+          {
+            "authorId": "1745219",
+            "name": "S. Schaal"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "1f869232f148ec52066fab06a49855937f84098b",
+        "externalIds": {
+          "DBLP": "conf/icml/PetersS07",
+          "MAG": "2109169869",
+          "DOI": "10.1145/1273496.1273590",
+          "CorpusId": 11551208
+        },
+        "url": "https://www.semanticscholar.org/paper/1f869232f148ec52066fab06a49855937f84098b",
+        "title": "Reinforcement learning by reward-weighted regression for operational space control",
+        "venue": "International Conference on Machine Learning",
+        "year": 2007,
+        "referenceCount": 14,
+        "citationCount": 427,
+        "authors": [
+          {
+            "authorId": "145197867",
+            "name": "Jan Peters"
+          },
+          {
+            "authorId": "1745219",
+            "name": "S. Schaal"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "0ff188986e48d17fc4b59e6c4c00681794c9fd08",
+        "externalIds": {
+          "MAG": "2123859855",
+          "DBLP": "journals/neco/SzitaL06",
+          "DOI": "10.1162/neco.2006.18.12.2936",
+          "CorpusId": 18515264,
+          "PubMed": "17052153"
+        },
+        "url": "https://www.semanticscholar.org/paper/0ff188986e48d17fc4b59e6c4c00681794c9fd08",
+        "title": "Learning Tetris Using the Noisy Cross-Entropy Method",
+        "venue": "Neural Computation",
+        "year": 2006,
+        "referenceCount": 13,
+        "citationCount": 259,
+        "authors": [
+          {
+            "authorId": "1742557",
+            "name": "I. Szita"
+          },
+          {
+            "authorId": "32414762",
+            "name": "András Lörincz"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "ccd64fac85a1766c660c1d2e0eee0904b3d6139d",
+        "externalIds": {
+          "DBLP": "conf/nips/GengPW05",
+          "MAG": "2156377376",
+          "CorpusId": 1556618
+        },
+        "url": "https://www.semanticscholar.org/paper/ccd64fac85a1766c660c1d2e0eee0904b3d6139d",
+        "title": "Fast biped walking with a reflexive controller and real-time policy searching",
+        "venue": "Neural Information Processing Systems",
+        "year": 2005,
+        "referenceCount": 13,
+        "citationCount": 33,
+        "authors": [
+          {
+            "authorId": "1977250",
+            "name": "T. Geng"
+          },
+          {
+            "authorId": "2728662",
+            "name": "B. Porr"
+          },
+          {
+            "authorId": "1714016",
+            "name": "F. Wörgötter"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "136a81fff70db781929f1f8b7f8ee79d001bb7b0",
+        "externalIds": {
+          "DBLP": "conf/wsc/FuGA05",
+          "MAG": "2158323882",
+          "DOI": "10.1109/WSC.2005.1574242",
+          "CorpusId": 2431249
+        },
+        "url": "https://www.semanticscholar.org/paper/136a81fff70db781929f1f8b7f8ee79d001bb7b0",
+        "title": "Simulation optimization: a review, new developments, and applications",
+        "venue": "Proceedings of the Winter Simulation Conference, 2005.",
+        "year": 2005,
+        "referenceCount": 60,
+        "citationCount": 448,
+        "authors": [
+          {
+            "authorId": "1716042",
+            "name": "M. Fu"
+          },
+          {
+            "authorId": "145740789",
+            "name": "F. Glover"
+          },
+          {
+            "authorId": "1951681",
+            "name": "Jay April"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "57f25eb66bf97e15fdac0912a671a61e666ec6ee",
+        "externalIds": {
+          "MAG": "2109008048",
+          "DBLP": "conf/iros/TedrakeZS04",
+          "DOI": "10.1109/IROS.2004.1389841",
+          "CorpusId": 2808397
+        },
+        "url": "https://www.semanticscholar.org/paper/57f25eb66bf97e15fdac0912a671a61e666ec6ee",
+        "title": "Stochastic policy gradient reinforcement learning on a simple 3D biped",
+        "venue": "IEEE/RJS International Conference on Intelligent RObots and Systems",
+        "year": 2004,
+        "referenceCount": 20,
+        "citationCount": 308,
+        "authors": [
+          {
+            "authorId": "1726802",
+            "name": "Russ Tedrake"
+          },
+          {
+            "authorId": "2110105347",
+            "name": "T. Zhang"
+          },
+          {
+            "authorId": "2875182",
+            "name": "H. Seung"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "c62f9be94d60a8599e3b3f6864a406bb08f7efec",
+        "externalIds": {
+          "MAG": "1515030831",
+          "DOI": "10.1017/S0025557200175990",
+          "CorpusId": 177193619
+        },
+        "url": "https://www.semanticscholar.org/paper/c62f9be94d60a8599e3b3f6864a406bb08f7efec",
+        "title": "Review of 'Numerical Optimization' by Bonnans, Gilbert, LemarÃ©chal and Sagastizabal",
+        "venue": "Mathematical Gazette",
+        "year": 2004,
+        "referenceCount": 0,
+        "citationCount": 1751,
+        "authors": [
+          {
+            "authorId": "69902418",
+            "name": "D. Griffel"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "81f2cf2c4be45fe177b4b7ace8f5563bea27d47a",
+        "externalIds": {
+          "MAG": "2149414429",
+          "DOI": "10.1198/0003130042836",
+          "CorpusId": 228631
+        },
+        "url": "https://www.semanticscholar.org/paper/81f2cf2c4be45fe177b4b7ace8f5563bea27d47a",
+        "title": "A Tutorial on MM Algorithms",
+        "venue": "",
+        "year": 2004,
+        "referenceCount": 39,
+        "citationCount": 1861,
+        "authors": [
+          {
+            "authorId": "49406642",
+            "name": "D. Hunter"
+          },
+          {
+            "authorId": "143953625",
+            "name": "K. Lange"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "f1a391bab223fc2609717316bec30ae36f8ea448",
+        "externalIds": {
+          "MAG": "2114537044",
+          "DBLP": "conf/ecml/PetersVS05",
+          "DOI": "10.1016/j.neucom.2007.11.026",
+          "CorpusId": 2914735
+        },
+        "url": "https://www.semanticscholar.org/paper/f1a391bab223fc2609717316bec30ae36f8ea448",
+        "title": "Natural Actor-Critic",
+        "venue": "Neurocomputing",
+        "year": 2003,
+        "referenceCount": 32,
+        "citationCount": 1271,
+        "authors": [
+          {
+            "authorId": "145197867",
+            "name": "Jan Peters"
+          },
+          {
+            "authorId": "144575699",
+            "name": "S. Vijayakumar"
+          },
+          {
+            "authorId": "1745219",
+            "name": "S. Schaal"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "e1f9cb45bd8f0300a013a3da3e15546bfeeb60d0",
+        "externalIds": {
+          "DBLP": "conf/icml/LagoudakisP03",
+          "MAG": "2134289401",
+          "CorpusId": 10282145
+        },
+        "url": "https://www.semanticscholar.org/paper/e1f9cb45bd8f0300a013a3da3e15546bfeeb60d0",
+        "title": "Reinforcement Learning as Classification: Leveraging Modern Classifiers",
+        "venue": "International Conference on Machine Learning",
+        "year": 2003,
+        "referenceCount": 19,
+        "citationCount": 183,
+        "authors": [
+          {
+            "authorId": "1784072",
+            "name": "M. Lagoudakis"
+          },
+          {
+            "authorId": "145726861",
+            "name": "Ronald E. Parr"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "5d0184c044e13feea0d6539f4a6b8c31e49e0e90",
+        "externalIds": {
+          "MAG": "1564755532",
+          "DOI": "10.1184/R1/6552458.V1",
+          "CorpusId": 2103968
+        },
+        "url": "https://www.semanticscholar.org/paper/5d0184c044e13feea0d6539f4a6b8c31e49e0e90",
+        "title": "Covariant policy search",
+        "venue": "International Joint Conference on Artificial Intelligence",
+        "year": 2003,
+        "referenceCount": 14,
+        "citationCount": 200,
+        "authors": [
+          {
+            "authorId": "9168729",
+            "name": "W. Liu"
+          },
+          {
+            "authorId": "2116585623",
+            "name": "Sanjiang Li"
+          },
+          {
+            "authorId": "1680174",
+            "name": "Jochen Renz"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "523b4ce1c2a1336962444abc1dec215756c2f3e6",
+        "externalIds": {
+          "DBLP": "conf/icml/KakadeL02",
+          "MAG": "1575592356",
+          "CorpusId": 31442909
+        },
+        "url": "https://www.semanticscholar.org/paper/523b4ce1c2a1336962444abc1dec215756c2f3e6",
+        "title": "Approximately Optimal Approximate Reinforcement Learning",
+        "venue": "International Conference on Machine Learning",
+        "year": 2002,
+        "referenceCount": 1,
+        "citationCount": 1280,
+        "authors": [
+          {
+            "authorId": "144695232",
+            "name": "S. Kakade"
+          },
+          {
+            "authorId": "144162125",
+            "name": "J. Langford"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "085fb3acabcbf80ef1bf47daec50d246475b072b",
+        "externalIds": {
+          "DBLP": "journals/corr/abs-1106-0665",
+          "MAG": "3103182070",
+          "ArXiv": "1106.0665",
+          "DOI": "10.1613/jair.806",
+          "CorpusId": 649822
+        },
+        "url": "https://www.semanticscholar.org/paper/085fb3acabcbf80ef1bf47daec50d246475b072b",
+        "title": "Infinite-Horizon Policy-Gradient Estimation",
+        "venue": "Journal of Artificial Intelligence Research",
+        "year": 2001,
+        "referenceCount": 53,
+        "citationCount": 829,
+        "authors": [
+          {
+            "authorId": "47392513",
+            "name": "Jonathan Baxter"
+          },
+          {
+            "authorId": "1745169",
+            "name": "P. Bartlett"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "b18833db0de9393d614d511e60821a1504fc6cd1",
+        "externalIds": {
+          "MAG": "2130801532",
+          "DBLP": "conf/nips/Kakade01",
+          "CorpusId": 14540458
+        },
+        "url": "https://www.semanticscholar.org/paper/b18833db0de9393d614d511e60821a1504fc6cd1",
+        "title": "A Natural Policy Gradient",
+        "venue": "Neural Information Processing Systems",
+        "year": 2001,
+        "referenceCount": 12,
+        "citationCount": 1385,
+        "authors": [
+          {
+            "authorId": "144695232",
+            "name": "S. Kakade"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "d51fe3976ab4f4dc60745433c8638a2ecc3bf123",
+        "externalIds": {
+          "DBLP": "journals/corr/abs-1301-3878",
+          "MAG": "2950462606",
+          "ArXiv": "1301.3878",
+          "CorpusId": 11691568
+        },
+        "url": "https://www.semanticscholar.org/paper/d51fe3976ab4f4dc60745433c8638a2ecc3bf123",
+        "title": "PEGASUS: A policy search method for large MDPs and POMDPs",
+        "venue": "Conference on Uncertainty in Artificial Intelligence",
+        "year": 2000,
+        "referenceCount": 17,
+        "citationCount": 501,
+        "authors": [
+          {
+            "authorId": "34699434",
+            "name": "A. Ng"
+          },
+          {
+            "authorId": "1694621",
+            "name": "Michael I. Jordan"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "c9ddd155770b3f79f6fdd537eb877b32a5c35815",
+        "externalIds": {
+          "MAG": "2607928667",
+          "CorpusId": 58259115
+        },
+        "url": "https://www.semanticscholar.org/paper/c9ddd155770b3f79f6fdd537eb877b32a5c35815",
+        "title": "Numerical Optimization (Springer Series in Operations Research and Financial Engineering)",
+        "venue": "",
+        "year": 2000,
+        "referenceCount": 0,
+        "citationCount": 2412,
+        "authors": [
+          {
+            "authorId": "2784955",
+            "name": "J. Nocedal"
+          },
+          {
+            "authorId": "144731788",
+            "name": "Stephen J. Wright"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "98eed3f082351c4821d1edb315846207a8fefbe9",
+        "externalIds": {
+          "MAG": "1579995718",
+          "DBLP": "journals/iandc/KivinenW97",
+          "DOI": "10.1006/INCO.1996.2612",
+          "CorpusId": 6130401
+        },
+        "url": "https://www.semanticscholar.org/paper/98eed3f082351c4821d1edb315846207a8fefbe9",
+        "title": "Exponentiated Gradient Versus Gradient Descent for Linear Predictors",
+        "venue": "Information and Computation",
+        "year": 1997,
+        "referenceCount": 32,
+        "citationCount": 1043,
+        "authors": [
+          {
+            "authorId": "1700597",
+            "name": "Jyrki Kivinen"
+          },
+          {
+            "authorId": "1794034",
+            "name": "Manfred K. Warmuth"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "f4ec0ce0c3a89cbf385c09594030af8a71504aba",
+        "externalIds": {
+          "MAG": "2020677283",
+          "DOI": "10.1057/JORS.1996.103",
+          "CorpusId": 264625750
+        },
+        "url": "https://www.semanticscholar.org/paper/f4ec0ce0c3a89cbf385c09594030af8a71504aba",
+        "title": "Dynamic Programming and Optimal Control. Volume 1",
+        "venue": "",
+        "year": 1996,
+        "referenceCount": 0,
+        "citationCount": 369,
+        "authors": [
+          {
+            "authorId": "47387053",
+            "name": "David K. Smith"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "d5cec2e4f53a0e749b9ea22697578917fdff00aa",
+        "externalIds": {
+          "MAG": "2101677491",
+          "DBLP": "conf/icec/HansenO96",
+          "DOI": "10.1109/ICEC.1996.542381",
+          "CorpusId": 10836085
+        },
+        "url": "https://www.semanticscholar.org/paper/d5cec2e4f53a0e749b9ea22697578917fdff00aa",
+        "title": "Adapting arbitrary normal mutation distributions in evolution strategies: the covariance matrix adaptation",
+        "venue": "Proceedings of IEEE International Conference on Evolutionary Computation",
+        "year": 1996,
+        "referenceCount": 9,
+        "citationCount": 1309,
+        "authors": [
+          {
+            "authorId": "144539890",
+            "name": "N. Hansen"
+          },
+          {
+            "authorId": "2069398",
+            "name": "A. Ostermeier"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "a82db864e472b5aa6313596ef9919f64e3363b1f",
+        "externalIds": {
+          "MAG": "2098432798",
+          "CorpusId": 10566652
+        },
+        "url": "https://www.semanticscholar.org/paper/a82db864e472b5aa6313596ef9919f64e3363b1f",
+        "title": "Dynamic Programming and Optimal Control, Two Volume Set",
+        "venue": "",
+        "year": 1995,
+        "referenceCount": 29,
+        "citationCount": 8118,
+        "authors": [
+          {
+            "authorId": "1786249",
+            "name": "D. Bertsekas"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "8a7acaf6469c06ae5876d92f013184db5897bb13",
+        "externalIds": {
+          "MAG": "1583833196",
+          "DBLP": "journals/tsmc/BartoSA83",
+          "DOI": "10.1109/TSMC.1983.6313077",
+          "CorpusId": 1522994
+        },
+        "url": "https://www.semanticscholar.org/paper/8a7acaf6469c06ae5876d92f013184db5897bb13",
+        "title": "Neuronlike adaptive elements that can solve difficult learning control problems",
+        "venue": "IEEE Transactions on Systems, Man and Cybernetics",
+        "year": 1983,
+        "referenceCount": 27,
+        "citationCount": 3691,
+        "authors": [
+          {
+            "authorId": "1730590",
+            "name": "A. Barto"
+          },
+          {
+            "authorId": "1699645",
+            "name": "R. Sutton"
+          },
+          {
+            "authorId": "144826602",
+            "name": "C. Anderson"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "107d1cc9216776d4083932e2c85ca9d75b3515c2",
+        "externalIds": {
+          "DOI": "10.5860/choice.47-2624",
+          "CorpusId": 14443332
+        },
+        "url": "https://www.semanticscholar.org/paper/107d1cc9216776d4083932e2c85ca9d75b3515c2",
+        "title": "Markov chains and mixing times",
+        "venue": "",
+        "year": 2013,
+        "referenceCount": 0,
+        "citationCount": 2431,
+        "authors": [
+          {
+            "authorId": "2009015",
+            "name": "V. Climenhaga"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "3d15db5e5c9ed6fe562538a37c4d8cb1fc5a8513",
+        "externalIds": {
+          "DBLP": "journals/corr/DuchiJWW13",
+          "CorpusId": 8000577
+        },
+        "url": "https://www.semanticscholar.org/paper/3d15db5e5c9ed6fe562538a37c4d8cb1fc5a8513",
+        "title": "Optimal rates for zero-order optimization: the power of two function evaluations",
+        "venue": "arXiv.org",
+        "year": 2013,
+        "referenceCount": 0,
+        "citationCount": 9,
+        "authors": [
+          {
+            "authorId": "1734693",
+            "name": "John C. Duchi"
+          },
+          {
+            "authorId": "1694621",
+            "name": "Michael I. Jordan"
+          },
+          {
+            "authorId": "1721860",
+            "name": "M. Wainwright"
+          },
+          {
+            "authorId": "2951227",
+            "name": "Andre Wibisono"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "Monte Carlo theory, methods and examples",
+        "venue": "Monte Carlo theory, methods and examples",
+        "year": 2013,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "f2a0fbba89f0d18ea0abd29639d4e43babe59cf3",
+        "externalIds": {
+          "MAG": "71081281",
+          "DBLP": "series/lncs/MartensS12",
+          "DOI": "10.1007/978-3-642-35289-8_27",
+          "CorpusId": 9247259
+        },
+        "url": "https://www.semanticscholar.org/paper/f2a0fbba89f0d18ea0abd29639d4e43babe59cf3",
+        "title": "Training Deep and Recurrent Networks with Hessian-Free Optimization",
+        "venue": "Neural Networks",
+        "year": 2012,
+        "referenceCount": 52,
+        "citationCount": 258,
+        "authors": [
+          {
+            "authorId": "145704247",
+            "name": "James Martens"
+          },
+          {
+            "authorId": "1701686",
+            "name": "I. Sutskever"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "77b89dd9a973fc3b3a13a9bcdfc978c183428df1",
+        "externalIds": {
+          "MAG": "64096456",
+          "CorpusId": 116771466
+        },
+        "url": "https://www.semanticscholar.org/paper/77b89dd9a973fc3b3a13a9bcdfc978c183428df1",
+        "title": "EFFICIENT METHODS IN CONVEX PROGRAMMING",
+        "venue": "",
+        "year": 2007,
+        "referenceCount": 0,
+        "citationCount": 171,
+        "authors": [
+          {
+            "authorId": "145853268",
+            "name": "A. Nemirovski"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "Asymptopia: an exposition of statistical asymptotic theory",
+        "venue": "",
+        "year": 2000,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "c4179bf70b2be0f31762db4bed59ba2e034d7534",
+        "externalIds": {
+          "MAG": "2562796107",
+          "CorpusId": 64083870
+        },
+        "url": "https://www.semanticscholar.org/paper/c4179bf70b2be0f31762db4bed59ba2e034d7534",
+        "title": "Boekbespreking van D.P. Bertsekas (ed.), Dynamic programming and optimal control - volume 2",
+        "venue": "",
+        "year": 1999,
+        "referenceCount": 0,
+        "citationCount": 279,
+        "authors": [
+          {
+            "authorId": "93904783",
+            "name": "J. Nieuwenhuis"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "By averaging over samples",
+        "venue": "",
+        "year": null,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    }
+  ]
+}

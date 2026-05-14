@@ -1,0 +1,317 @@
+{
+  "total": 115,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "d04f6efedc43d986c461f70de70f95a55d285447",
+      "externalIds": {
+        "MAG": "2963001016",
+        "ArXiv": "1701.03863",
+        "DBLP": "conf/icml/TuVWGJR17",
+        "CorpusId": 38126525
+      },
+      "url": "https://www.semanticscholar.org/paper/d04f6efedc43d986c461f70de70f95a55d285447",
+      "title": "Breaking Locality Accelerates Block Gauss-Seidel",
+      "venue": "International Conference on Machine Learning",
+      "year": 2017,
+      "referenceCount": 37,
+      "citationCount": 36,
+      "authors": [
+        {
+          "authorId": "1985955",
+          "name": "Stephen Tu"
+        },
+        {
+          "authorId": "2697906",
+          "name": "S. Venkataraman"
+        },
+        {
+          "authorId": "144102853",
+          "name": "Ashia C. Wilson"
+        },
+        {
+          "authorId": "9545803",
+          "name": "Alex Gittens"
+        },
+        {
+          "authorId": "1694621",
+          "name": "Michael I. Jordan"
+        },
+        {
+          "authorId": "9229182",
+          "name": "B. Recht"
+        }
+      ]
+    },
+    {
+      "paperId": "6a71bf84eb41c2f2c2ec91541116e46cb43251be",
+      "externalIds": {
+        "DBLP": "conf/wsse/YeZMDLZ20",
+        "MAG": "3109390605",
+        "DOI": "10.1145/3425329.3425334",
+        "CorpusId": 227129094
+      },
+      "url": "https://www.semanticscholar.org/paper/6a71bf84eb41c2f2c2ec91541116e46cb43251be",
+      "title": "Block Gauss-Seidel Method for Signal Detection in Uplink Massive MIMO Systems",
+      "venue": "World Symposium on Software Engineering",
+      "year": 2020,
+      "referenceCount": 15,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "1669403786",
+          "name": "Qianqian Ye"
+        },
+        {
+          "authorId": "47294873",
+          "name": "Zhizhong Zhang"
+        },
+        {
+          "authorId": "2028212320",
+          "name": "Xiaofang Min"
+        },
+        {
+          "authorId": "69917654",
+          "name": "Bingguang Deng"
+        },
+        {
+          "authorId": "2120482769",
+          "name": "Jinyan Li"
+        },
+        {
+          "authorId": "1452981772",
+          "name": "Lei Zhang"
+        }
+      ]
+    },
+    {
+      "paperId": "a7d841027146e30a0eafc6ab3aadc46b82991925",
+      "externalIds": {
+        "DOI": "10.3390/app13158952",
+        "CorpusId": 260664351
+      },
+      "url": "https://www.semanticscholar.org/paper/a7d841027146e30a0eafc6ab3aadc46b82991925",
+      "title": "Improving Structured Grid-Based Sparse Matrix-Vector Multiplication and Gauss–Seidel Iteration on GPDSP",
+      "venue": "Applied Sciences",
+      "year": 2023,
+      "referenceCount": 21,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "2256978389",
+          "name": "Yang Wang"
+        },
+        {
+          "authorId": null,
+          "name": "Jie Liu"
+        },
+        {
+          "authorId": "66381455",
+          "name": "Xiaoxiong Zhu"
+        },
+        {
+          "authorId": "2112209898",
+          "name": "Qingyang Zhang"
+        },
+        {
+          "authorId": "47320202",
+          "name": "Shengguo Li"
+        },
+        {
+          "authorId": "39453855",
+          "name": "Qinglin Wang"
+        }
+      ]
+    },
+    {
+      "paperId": "04de1a388dc71cc7a439bc824d437005b5ee4622",
+      "externalIds": {
+        "MAG": "2081016086",
+        "DOI": "10.1142/S0218202596000183",
+        "CorpusId": 123592801
+      },
+      "url": "https://www.semanticscholar.org/paper/04de1a388dc71cc7a439bc824d437005b5ee4622",
+      "title": "ABSORBING BOUNDARY CONDITIONS IN BLOCK GAUSS–SEIDEL METHODS FOR CONVECTION PROBLEMS",
+      "venue": "",
+      "year": 1996,
+      "referenceCount": 0,
+      "citationCount": 22,
+      "authors": [
+        {
+          "authorId": "32544853",
+          "name": "F. Nataf"
+        }
+      ]
+    },
+    {
+      "paperId": "bf68f9383e68806970d1e6713ff5161422779266",
+      "externalIds": {
+        "CorpusId": 15458445
+      },
+      "url": "https://www.semanticscholar.org/paper/bf68f9383e68806970d1e6713ff5161422779266",
+      "title": "On the Use of Open Boundary Conditions in Block Gauss-Seidel Methods for the Convection-Di usion Equation",
+      "venue": "",
+      "year": 1993,
+      "referenceCount": 12,
+      "citationCount": 9,
+      "authors": [
+        {
+          "authorId": "32544853",
+          "name": "F. Nataf"
+        }
+      ]
+    },
+    {
+      "paperId": "be5b15f5068d71be1c83678a50b19a716c846213",
+      "externalIds": {
+        "MAG": "2048507935",
+        "DOI": "10.13182/NSE12-57",
+        "CorpusId": 122077854
+      },
+      "url": "https://www.semanticscholar.org/paper/be5b15f5068d71be1c83678a50b19a716c846213",
+      "title": "A Cellwise Block-Gauss-Seidel Iterative Method for Multigroup SN Transport on a Hybrid Parallel Computer Architecture",
+      "venue": "",
+      "year": 2013,
+      "referenceCount": 18,
+      "citationCount": 7,
+      "authors": [
+        {
+          "authorId": "120539153",
+          "name": "Massimiliano Rosa"
+        },
+        {
+          "authorId": "1695277",
+          "name": "J. Warsa"
+        },
+        {
+          "authorId": "93531239",
+          "name": "M. Perks"
+        }
+      ]
+    },
+    {
+      "paperId": "c0195bf9a43874a122ae89e89ba16683c3f26c24",
+      "externalIds": {
+        "MAG": "3013670341",
+        "DOI": "10.1002/jnm.2744",
+        "CorpusId": 216370395
+      },
+      "url": "https://www.semanticscholar.org/paper/c0195bf9a43874a122ae89e89ba16683c3f26c24",
+      "title": "Parallel hierarchical decomposition of finite element method with block diagonal symmetric Gauss‐Seidel preconditioner for solving 3D problems with over ten billion unknowns",
+      "venue": "International journal of numerical modelling",
+      "year": 2020,
+      "referenceCount": 18,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "2523808",
+          "name": "Rui-Qing Liu"
+        },
+        {
+          "authorId": "2393371964",
+          "name": "Ming-lin Yang"
+        },
+        {
+          "authorId": "9499410",
+          "name": "Biyi Wu"
+        },
+        {
+          "authorId": "145949687",
+          "name": "X. Sheng"
+        }
+      ]
+    },
+    {
+      "paperId": "2d1a548f6a4b2e38048a6364dbd8830d81d05b50",
+      "externalIds": {
+        "DBLP": "journals/mp/LiST19",
+        "MAG": "2613122861",
+        "ArXiv": "1703.06629",
+        "DOI": "10.1007/s10107-018-1247-7",
+        "CorpusId": 724294
+      },
+      "url": "https://www.semanticscholar.org/paper/2d1a548f6a4b2e38048a6364dbd8830d81d05b50",
+      "title": "A block symmetric Gauss–Seidel decomposition theorem for convex composite quadratic programming and its applications",
+      "venue": "Mathematical programming",
+      "year": 2017,
+      "referenceCount": 49,
+      "citationCount": 60,
+      "authors": [
+        {
+          "authorId": "2108688401",
+          "name": "Xudong Li"
+        },
+        {
+          "authorId": "3845670",
+          "name": "Defeng Sun"
+        },
+        {
+          "authorId": "144163407",
+          "name": "K. Toh"
+        }
+      ]
+    },
+    {
+      "paperId": "87fc0d64059266b8619a50e0c5e6a20542b1b42a",
+      "externalIds": {
+        "MAG": "2045175083",
+        "DBLP": "conf/ics/WallinLHH06",
+        "DOI": "10.1145/1183401.1183423",
+        "CorpusId": 9123937
+      },
+      "url": "https://www.semanticscholar.org/paper/87fc0d64059266b8619a50e0c5e6a20542b1b42a",
+      "title": "Multigrid and Gauss-Seidel smoothers revisited: parallelization on chip multiprocessors",
+      "venue": "International Conference on Supercomputing",
+      "year": 2006,
+      "referenceCount": 19,
+      "citationCount": 29,
+      "authors": [
+        {
+          "authorId": "34907005",
+          "name": "Dan Wallin"
+        },
+        {
+          "authorId": "1872507",
+          "name": "Henrik Löf"
+        },
+        {
+          "authorId": "1759749",
+          "name": "Erik Hagersten"
+        },
+        {
+          "authorId": "1707807",
+          "name": "S. Holmgren"
+        }
+      ]
+    },
+    {
+      "paperId": "d4559d10cd902c22f0c79fe021b4f60b5b233d9b",
+      "externalIds": {
+        "MAG": "1490787321",
+        "DOI": "10.1109/EPEP.2004.1407624",
+        "CorpusId": 31274126
+      },
+      "url": "https://www.semanticscholar.org/paper/d4559d10cd902c22f0c79fe021b4f60b5b233d9b",
+      "title": "Block partitioned Gauss-Seidel PEEC solver accelerated by QR-based coupling matrix compression techniques",
+      "venue": "Electrical Performance of Electronic Packaging",
+      "year": 2004,
+      "referenceCount": 7,
+      "citationCount": 18,
+      "authors": [
+        {
+          "authorId": "145356847",
+          "name": "A. Ruehli"
+        },
+        {
+          "authorId": "2799456",
+          "name": "D. Gope"
+        },
+        {
+          "authorId": "2665751",
+          "name": "V. Jandhyala"
+        }
+      ]
+    }
+  ]
+}

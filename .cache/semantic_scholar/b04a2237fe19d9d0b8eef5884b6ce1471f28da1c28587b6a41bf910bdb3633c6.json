@@ -1,0 +1,381 @@
+{
+  "total": 174769,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "6af440915b8a0718c93be1cf61905e41e620484a",
+      "externalIds": {
+        "DBLP": "conf/icml/RuffGDSVBMK18",
+        "MAG": "2803697594",
+        "CorpusId": 49312162
+      },
+      "url": "https://www.semanticscholar.org/paper/6af440915b8a0718c93be1cf61905e41e620484a",
+      "title": "Deep One-Class Classification",
+      "venue": "International Conference on Machine Learning",
+      "year": 2018,
+      "referenceCount": 58,
+      "citationCount": 2512,
+      "authors": [
+        {
+          "authorId": "51127632",
+          "name": "Lukas Ruff"
+        },
+        {
+          "authorId": "2948486",
+          "name": "Nico Görnitz"
+        },
+        {
+          "authorId": "39503505",
+          "name": "Lucas Deecke"
+        },
+        {
+          "authorId": "29005173",
+          "name": "Shoaib Ahmed Siddiqui"
+        },
+        {
+          "authorId": "49004415",
+          "name": "Robert A. Vandermeulen"
+        },
+        {
+          "authorId": "49345823",
+          "name": "Alexander Binder"
+        },
+        {
+          "authorId": "2067608246",
+          "name": "Emmanuel Müller"
+        },
+        {
+          "authorId": "2749512",
+          "name": "M. Kloft"
+        }
+      ]
+    },
+    {
+      "paperId": "498e003901f8287e89e5064477cd22dd47e49d61",
+      "externalIds": {
+        "ArXiv": "2011.02578",
+        "DBLP": "journals/corr/abs-2011-02578",
+        "MAG": "3097652626",
+        "CorpusId": 226254532
+      },
+      "url": "https://www.semanticscholar.org/paper/498e003901f8287e89e5064477cd22dd47e49d61",
+      "title": "Learning and Evaluating Representations for Deep One-class Classification",
+      "venue": "International Conference on Learning Representations",
+      "year": 2020,
+      "referenceCount": 83,
+      "citationCount": 243,
+      "authors": [
+        {
+          "authorId": "1729571",
+          "name": "Kihyuk Sohn"
+        },
+        {
+          "authorId": "2116729195",
+          "name": "Chun-Liang Li"
+        },
+        {
+          "authorId": "2144029",
+          "name": "Jinsung Yoon"
+        },
+        {
+          "authorId": "35035988",
+          "name": "Minho Jin"
+        },
+        {
+          "authorId": "1945962",
+          "name": "Tomas Pfister"
+        }
+      ]
+    },
+    {
+      "paperId": "16a67491ed4bdb6293d1c2be35b0e8bae962cdeb",
+      "externalIds": {
+        "DBLP": "conf/iclr/LiznerskiRVFKM21",
+        "ArXiv": "2007.01760",
+        "MAG": "3040536599",
+        "CorpusId": 220347587
+      },
+      "url": "https://www.semanticscholar.org/paper/16a67491ed4bdb6293d1c2be35b0e8bae962cdeb",
+      "title": "Explainable Deep One-Class Classification",
+      "venue": "International Conference on Learning Representations",
+      "year": 2020,
+      "referenceCount": 67,
+      "citationCount": 239,
+      "authors": [
+        {
+          "authorId": "1792081472",
+          "name": "Philipp Liznerski"
+        },
+        {
+          "authorId": "51127632",
+          "name": "Lukas Ruff"
+        },
+        {
+          "authorId": "49004415",
+          "name": "Robert A. Vandermeulen"
+        },
+        {
+          "authorId": "2064217658",
+          "name": "B. J. Franks"
+        },
+        {
+          "authorId": "2749512",
+          "name": "M. Kloft"
+        },
+        {
+          "authorId": "116099820",
+          "name": "Klaus-Robert Muller"
+        }
+      ]
+    },
+    {
+      "paperId": "fa1aa090d09dc5d420d0cce37cea72c21e99d36b",
+      "externalIds": {
+        "DBLP": "conf/aaai/ChenTPC22",
+        "ArXiv": "2101.10043",
+        "DOI": "10.1609/aaai.v36i1.19915",
+        "CorpusId": 237497407
+      },
+      "url": "https://www.semanticscholar.org/paper/fa1aa090d09dc5d420d0cce37cea72c21e99d36b",
+      "title": "Deep One-Class Classification via Interpolated Gaussian Descriptor",
+      "venue": "AAAI Conference on Artificial Intelligence",
+      "year": 2021,
+      "referenceCount": 82,
+      "citationCount": 140,
+      "authors": [
+        {
+          "authorId": "2144036204",
+          "name": "Yuanhong Chen"
+        },
+        {
+          "authorId": "2152947915",
+          "name": "Yu Tian"
+        },
+        {
+          "authorId": "3224619",
+          "name": "Guansong Pang"
+        },
+        {
+          "authorId": "145575177",
+          "name": "G. Carneiro"
+        }
+      ]
+    },
+    {
+      "paperId": "df9402431533923d60b7dac8225bc302155159fb",
+      "externalIds": {
+        "DBLP": "journals/tccn/ZhangZLZZZ26",
+        "DOI": "10.1109/TCCN.2025.3564476",
+        "CorpusId": 278112544
+      },
+      "url": "https://www.semanticscholar.org/paper/df9402431533923d60b7dac8225bc302155159fb",
+      "title": "Mitigating Poisoning Attacks in Federated Learning Through Deep One-Class Classification",
+      "venue": "IEEE Transactions on Cognitive Communications and Networking",
+      "year": 2026,
+      "referenceCount": 42,
+      "citationCount": 7,
+      "authors": [
+        {
+          "authorId": "2153659059",
+          "name": "Anqi Zhang"
+        },
+        {
+          "authorId": "2087254971",
+          "name": "Ping Zhao"
+        },
+        {
+          "authorId": "2349994444",
+          "name": "Wenke Lu"
+        },
+        {
+          "authorId": "2110340623",
+          "name": "Yipeng Zhou"
+        },
+        {
+          "authorId": "2136078397",
+          "name": "Wenqian Zhang"
+        },
+        {
+          "authorId": "2267163860",
+          "name": "Guanglin Zhang"
+        }
+      ]
+    },
+    {
+      "paperId": "7f7dad6938f4098c428ea6675c0faf49ee6dd5ec",
+      "externalIds": {
+        "DOI": "10.3390/app15042193",
+        "CorpusId": 276491867
+      },
+      "url": "https://www.semanticscholar.org/paper/7f7dad6938f4098c428ea6675c0faf49ee6dd5ec",
+      "title": "PE-DOCC: A Novel Periodicity-Enhanced Deep One-Class Classification Framework for Electricity Theft Detection",
+      "venue": "Applied Sciences",
+      "year": 2025,
+      "referenceCount": 34,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "2346409009",
+          "name": "Zhijie Wu"
+        },
+        {
+          "authorId": "49415943",
+          "name": "Yufeng Wang"
+        }
+      ]
+    },
+    {
+      "paperId": "3e74f62896b770fcfafd77e9dcf4d389ecfcad9f",
+      "externalIds": {
+        "DBLP": "journals/tii/DingJCYZL24",
+        "DOI": "10.1109/TII.2023.3275696",
+        "CorpusId": 258675896
+      },
+      "url": "https://www.semanticscholar.org/paper/3e74f62896b770fcfafd77e9dcf4d389ecfcad9f",
+      "title": "Unsupervised Fault Detection With Deep One-Class Classification and Manifold Distribution Alignment",
+      "venue": "IEEE Transactions on Industrial Informatics",
+      "year": 2024,
+      "referenceCount": 40,
+      "citationCount": 14,
+      "authors": [
+        {
+          "authorId": "8844408",
+          "name": "Yifei Ding"
+        },
+        {
+          "authorId": "2814216",
+          "name": "M. Jia"
+        },
+        {
+          "authorId": "2112823555",
+          "name": "Yudong Cao"
+        },
+        {
+          "authorId": "120456578",
+          "name": "Xiaoan Yan"
+        },
+        {
+          "authorId": "50062249",
+          "name": "Xiaoli Zhao"
+        },
+        {
+          "authorId": "2143724945",
+          "name": "Chi-Guhn Lee"
+        }
+      ]
+    },
+    {
+      "paperId": "a82778edbe416d694daac0893b6758608f556d6b",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2309-09465",
+        "ArXiv": "2309.09465",
+        "DOI": "10.1016/j.patrec.2022.12.009",
+        "CorpusId": 249169288
+      },
+      "url": "https://www.semanticscholar.org/paper/a82778edbe416d694daac0893b6758608f556d6b",
+      "title": "Active anomaly detection based on deep one-class classification",
+      "venue": "Pattern Recognition Letters",
+      "year": 2022,
+      "referenceCount": 25,
+      "citationCount": 21,
+      "authors": [
+        {
+          "authorId": "2128195290",
+          "name": "Minkyung Kim"
+        },
+        {
+          "authorId": "1590808615",
+          "name": "Junsik Kim"
+        },
+        {
+          "authorId": "2199479",
+          "name": "Jongmin Yu"
+        },
+        {
+          "authorId": "2156920746",
+          "name": "J. Choi"
+        }
+      ]
+    },
+    {
+      "paperId": "ec40211887db1518839f206d36734ee6bec7490d",
+      "externalIds": {
+        "DOI": "10.1016/j.isprsjprs.2022.03.005",
+        "CorpusId": 247921039
+      },
+      "url": "https://www.semanticscholar.org/paper/ec40211887db1518839f206d36734ee6bec7490d",
+      "title": "Mapping the distribution of invasive tree species using deep one-class classification in the tropical montane landscape of Kenya",
+      "venue": "Isprs Journal of Photogrammetry and Remote Sensing",
+      "year": 2022,
+      "referenceCount": 49,
+      "citationCount": 48,
+      "authors": [
+        {
+          "authorId": "2141338968",
+          "name": "Hengwei Zhao"
+        },
+        {
+          "authorId": "2798207",
+          "name": "Yanfei Zhong"
+        },
+        {
+          "authorId": "2144707052",
+          "name": "Xinyu Wang"
+        },
+        {
+          "authorId": "2110048334",
+          "name": "Xin Hu"
+        },
+        {
+          "authorId": "2087773833",
+          "name": "Chang Luo"
+        },
+        {
+          "authorId": "104965318",
+          "name": "Mark K. Boitt"
+        },
+        {
+          "authorId": "1948362",
+          "name": "Rami Piiroinen"
+        },
+        {
+          "authorId": "1720539",
+          "name": "L. Zhang"
+        },
+        {
+          "authorId": "2074956",
+          "name": "J. Heiskanen"
+        },
+        {
+          "authorId": "2166885",
+          "name": "P. Pellikka"
+        }
+      ]
+    },
+    {
+      "paperId": "1b1f329c27cd49796ed43b498a0ecf6b93dd232b",
+      "externalIds": {
+        "DBLP": "journals/ml/DharT24",
+        "DOI": "10.1007/s10994-023-06362-5",
+        "CorpusId": 261373153
+      },
+      "url": "https://www.semanticscholar.org/paper/1b1f329c27cd49796ed43b498a0ecf6b93dd232b",
+      "title": "DOC3\\documentclass[12pt]{minimal} \\usepackage{amsmath} \\usepackage{wasysym} \\usepackage{amsfonts} \\usepackage{amssymb} \\usepackage{amsbsy} \\usepackage{mathrsfs} \\usepackage{upgreek} \\setlength{\\oddsidemargin}{-69pt} \\begin{document}$$^3$$\\end{document}: deep one class classification using contradict",
+      "venue": "Machine-mediated learning",
+      "year": 2023,
+      "referenceCount": 69,
+      "citationCount": 4,
+      "authors": [
+        {
+          "authorId": "3314219",
+          "name": "Sauptik Dhar"
+        },
+        {
+          "authorId": "2388705492",
+          "name": "Bernardo Gonzalez-Torres"
+        }
+      ]
+    }
+  ]
+}

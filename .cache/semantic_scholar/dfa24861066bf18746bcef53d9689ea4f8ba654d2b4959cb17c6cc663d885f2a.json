@@ -1,0 +1,86 @@
+{
+  "total": 3,
+  "offset": 0,
+  "data": [
+    {
+      "paperId": "f0ab4f4ca5d34ebc97fc82407cc27c12275432d1",
+      "externalIds": {
+        "MAG": "2185948688",
+        "ArXiv": "1509.08535",
+        "DBLP": "conf/icml/RavanbakhshPG16",
+        "CorpusId": 5516
+      },
+      "url": "https://www.semanticscholar.org/paper/f0ab4f4ca5d34ebc97fc82407cc27c12275432d1",
+      "title": "Boolean Matrix Factorization and Noisy Completion via Message Passing",
+      "venue": "International Conference on Machine Learning",
+      "year": 2015,
+      "referenceCount": 60,
+      "citationCount": 49,
+      "authors": [
+        {
+          "authorId": "2111187",
+          "name": "Siamak Ravanbakhsh"
+        },
+        {
+          "authorId": "1719347",
+          "name": "B. Póczos"
+        },
+        {
+          "authorId": "143686063",
+          "name": "R. Greiner"
+        }
+      ]
+    },
+    {
+      "paperId": "666cc6c9029e288190a6fa508d0e50294e1ef624",
+      "externalIds": {
+        "DBLP": "journals/corr/RavanbakhshG15",
+        "CorpusId": 8395829
+      },
+      "url": "https://www.semanticscholar.org/paper/666cc6c9029e288190a6fa508d0e50294e1ef624",
+      "title": "Boolean Matrix Factorization and Completion via Message Passing",
+      "venue": "arXiv.org",
+      "year": 2015,
+      "referenceCount": 46,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2111187",
+          "name": "Siamak Ravanbakhsh"
+        },
+        {
+          "authorId": "143686063",
+          "name": "R. Greiner"
+        }
+      ]
+    },
+    {
+      "paperId": "5b4cba6e184ee74e44accdde4ed92603862f04f2",
+      "externalIds": {
+        "DBLP": "journals/tsp/JiangYG24",
+        "DOI": "10.1109/TSP.2024.3509413",
+        "CorpusId": 274487394
+      },
+      "url": "https://www.semanticscholar.org/paper/5b4cba6e184ee74e44accdde4ed92603862f04f2",
+      "title": "Generalized Bilinear Factorization via Hybrid Vector Message Passing",
+      "venue": "IEEE Transactions on Signal Processing",
+      "year": 2024,
+      "referenceCount": 53,
+      "citationCount": 8,
+      "authors": [
+        {
+          "authorId": "2278591665",
+          "name": "Hao Jiang"
+        },
+        {
+          "authorId": "2275746370",
+          "name": "Xiaojun Yuan"
+        },
+        {
+          "authorId": "2244360197",
+          "name": "Qinghua Guo"
+        }
+      ]
+    }
+  ]
+}

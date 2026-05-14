@@ -1,0 +1,309 @@
+{
+  "total": 103,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "342449a88837d2ac86136870a5a9afd480c8fe8f",
+      "externalIds": {
+        "MAG": "2594177217",
+        "DBLP": "journals/corr/abs-1703-01973",
+        "ArXiv": "1703.01973",
+        "CorpusId": 9096686
+      },
+      "url": "https://www.semanticscholar.org/paper/342449a88837d2ac86136870a5a9afd480c8fe8f",
+      "title": "Batched High-dimensional Bayesian Optimization via Structural Kernel Learning",
+      "venue": "International Conference on Machine Learning",
+      "year": 2017,
+      "referenceCount": 23,
+      "citationCount": 132,
+      "authors": [
+        {
+          "authorId": "2274581656",
+          "name": "Zi Wang"
+        },
+        {
+          "authorId": "2047150637",
+          "name": "Chengtao Li"
+        },
+        {
+          "authorId": "2594093",
+          "name": "S. Jegelka"
+        },
+        {
+          "authorId": "143967473",
+          "name": "Pushmeet Kohli"
+        }
+      ]
+    },
+    {
+      "paperId": "a86641eddb7723527b91d2337ee0a6527ee85487",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2510-05516",
+        "ArXiv": "2510.05516",
+        "DOI": "10.48550/arXiv.2510.05516",
+        "CorpusId": 281886734
+      },
+      "url": "https://www.semanticscholar.org/paper/a86641eddb7723527b91d2337ee0a6527ee85487",
+      "title": "NeST-BO: Fast Local Bayesian Optimization via Newton-Step Targeting of Gradient and Hessian Information",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "referenceCount": 42,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2269784284",
+          "name": "Wei-Ting Tang"
+        },
+        {
+          "authorId": "146108246",
+          "name": "Akshay Kudva"
+        },
+        {
+          "authorId": "145991520",
+          "name": "J. Paulson"
+        }
+      ]
+    },
+    {
+      "paperId": "cb229b3fc95dba7e77fb9204dbf82afae376b3cf",
+      "externalIds": {
+        "MAG": "2788110787",
+        "ArXiv": "1802.07207",
+        "DBLP": "conf/icml/AlaaS18a",
+        "CorpusId": 137199
+      },
+      "url": "https://www.semanticscholar.org/paper/cb229b3fc95dba7e77fb9204dbf82afae376b3cf",
+      "title": "AutoPrognosis: Automated Clinical Prognostic Modeling via Bayesian Optimization with Structured Kernel Learning",
+      "venue": "International Conference on Machine Learning",
+      "year": 2018,
+      "referenceCount": 40,
+      "citationCount": 102,
+      "authors": [
+        {
+          "authorId": "145629795",
+          "name": "Ahmed M. Alaa"
+        },
+        {
+          "authorId": "1729969",
+          "name": "M. Schaar"
+        }
+      ]
+    },
+    {
+      "paperId": "044a0a9a0edb499db08d4841936c666a4661cfca",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2009-11713",
+        "MAG": "3088130235",
+        "ArXiv": "2009.11713",
+        "DOI": "10.1080/00401706.2022.2046171",
+        "CorpusId": 221878974
+      },
+      "url": "https://www.semanticscholar.org/paper/044a0a9a0edb499db08d4841936c666a4661cfca",
+      "title": "Online Structural Change-Point Detection of High-dimensional Streaming Data via Dynamic Sparse Subspace Learning",
+      "venue": "Technometrics",
+      "year": 2020,
+      "referenceCount": 54,
+      "citationCount": 9,
+      "authors": [
+        {
+          "authorId": "2115801910",
+          "name": "Ruiyu Xu"
+        },
+        {
+          "authorId": "2115691296",
+          "name": "Jianguo Wu"
+        },
+        {
+          "authorId": "9497409",
+          "name": "Xiaowei Yue"
+        },
+        {
+          "authorId": "2110484106",
+          "name": "Yongxiang Li"
+        }
+      ]
+    },
+    {
+      "paperId": "4141c1e53e1e8126370b47f046d9ec884196e194",
+      "externalIds": {
+        "ArXiv": "2601.11012",
+        "DBLP": "journals/corr/abs-2601-11012",
+        "DOI": "10.48550/arXiv.2601.11012",
+        "CorpusId": 284860763
+      },
+      "url": "https://www.semanticscholar.org/paper/4141c1e53e1e8126370b47f046d9ec884196e194",
+      "title": "Efficient Protein Optimization via Structure-aware Hamiltonian Dynamics",
+      "venue": "Proceedings of the AAAI Conference on Artificial Intelligence",
+      "year": 2026,
+      "referenceCount": 29,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2404541846",
+          "name": "Jiahao Wang"
+        },
+        {
+          "authorId": "2367582888",
+          "name": "Shuangjia Zheng"
+        }
+      ]
+    },
+    {
+      "paperId": "165dda1dc808757a3f4650b9a35fbf531d489f03",
+      "externalIds": {
+        "DOI": "10.1088/1402-4896/adab9b",
+        "CorpusId": 275648934
+      },
+      "url": "https://www.semanticscholar.org/paper/165dda1dc808757a3f4650b9a35fbf531d489f03",
+      "title": "Sound absorption performance prediction of multi-dimensional Helmholtz resonators based on deep learning and hyperparameter optimization",
+      "venue": "Physica Scripta",
+      "year": 2025,
+      "referenceCount": 0,
+      "citationCount": 7,
+      "authors": [
+        {
+          "authorId": "2260272779",
+          "name": "Yan Liu"
+        },
+        {
+          "authorId": "2073085245",
+          "name": "Y. Hang"
+        },
+        {
+          "authorId": "2108273521",
+          "name": "Qiutong Li"
+        }
+      ]
+    },
+    {
+      "paperId": "247766ede07edc0f4626b345eb141081a351f1ac",
+      "externalIds": {
+        "DBLP": "conf/aistats/JimenezK23",
+        "ArXiv": "2203.01459",
+        "DOI": "10.48550/arXiv.2203.01459",
+        "CorpusId": 247222997
+      },
+      "url": "https://www.semanticscholar.org/paper/247766ede07edc0f4626b345eb141081a351f1ac",
+      "title": "Scalable Bayesian Optimization Using Vecchia Approximations of Gaussian Processes",
+      "venue": "International Conference on Artificial Intelligence and Statistics",
+      "year": 2022,
+      "referenceCount": 54,
+      "citationCount": 18,
+      "authors": [
+        {
+          "authorId": "2058543766",
+          "name": "Felix Jimenez"
+        },
+        {
+          "authorId": "3440342",
+          "name": "M. Katzfuss"
+        }
+      ]
+    },
+    {
+      "paperId": "c06e8c26e7e7541a042b7bf99f7a57eb966f8558",
+      "externalIds": {
+        "DBLP": "journals/pami/ZhouWLOS16",
+        "CorpusId": 54551721,
+        "PubMed": "26731636"
+      },
+      "url": "https://www.semanticscholar.org/paper/c06e8c26e7e7541a042b7bf99f7a57eb966f8558",
+      "title": "Learning Discriminative Bayesian Networks from High-Dimensional Continuous Neuroimaging Data",
+      "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+      "year": 2016,
+      "referenceCount": 53,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "6578587",
+          "name": "Luping Zhou"
+        },
+        {
+          "authorId": "2152505258",
+          "name": "Lei Wang"
+        },
+        {
+          "authorId": "2161037",
+          "name": "Lingqiao Liu"
+        },
+        {
+          "authorId": "1719314",
+          "name": "P. Ogunbona"
+        },
+        {
+          "authorId": "144986260",
+          "name": "D. Shen"
+        }
+      ]
+    },
+    {
+      "paperId": "1e426a331f621f5d8bc48ed3d88b9a7d6719925c",
+      "externalIds": {
+        "MAG": "778103946",
+        "ArXiv": "1506.06868",
+        "DBLP": "journals/corr/ZhouWLOS15",
+        "DOI": "10.1109/TPAMI.2015.2511754",
+        "CorpusId": 3222976,
+        "PubMed": "28055846"
+      },
+      "url": "https://www.semanticscholar.org/paper/1e426a331f621f5d8bc48ed3d88b9a7d6719925c",
+      "title": "Learning Discriminative Bayesian Networks from High-dimensional Continuous Neuroimaging Data",
+      "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+      "year": 2015,
+      "referenceCount": 52,
+      "citationCount": 31,
+      "authors": [
+        {
+          "authorId": "6578587",
+          "name": "Luping Zhou"
+        },
+        {
+          "authorId": "36547165",
+          "name": "Lei Wang"
+        },
+        {
+          "authorId": "2161037",
+          "name": "Lingqiao Liu"
+        },
+        {
+          "authorId": "1719314",
+          "name": "P. Ogunbona"
+        },
+        {
+          "authorId": "144986260",
+          "name": "D. Shen"
+        }
+      ]
+    },
+    {
+      "paperId": "614542c3265554a1b1762ac1388a3ff0fcd05e41",
+      "externalIds": {
+        "MAG": "2009638319",
+        "DBLP": "journals/ijon/YaoXZ15",
+        "DOI": "10.1016/j.neucom.2014.08.001",
+        "CorpusId": 35317868
+      },
+      "url": "https://www.semanticscholar.org/paper/614542c3265554a1b1762ac1388a3ff0fcd05e41",
+      "title": "Robust tracking via online Max-Margin structural learning with approximate sparse intersection kernel",
+      "venue": "Neurocomputing",
+      "year": 2015,
+      "referenceCount": 38,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "145786594",
+          "name": "Rui Yao"
+        },
+        {
+          "authorId": "2405686",
+          "name": "Shixiong Xia"
+        },
+        {
+          "authorId": "145815308",
+          "name": "Yong Zhou"
+        }
+      ]
+    }
+  ]
+}

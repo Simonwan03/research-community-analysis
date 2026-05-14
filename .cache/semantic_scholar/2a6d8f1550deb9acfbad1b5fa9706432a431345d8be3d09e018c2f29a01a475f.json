@@ -1,0 +1,287 @@
+{
+  "total": 59,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "2df7754914a35a0cdf148a1ba64488b2d5ccda32",
+      "externalIds": {
+        "ArXiv": "1411.0254",
+        "DBLP": "conf/icml/LloydGOR15",
+        "MAG": "2162596909",
+        "CorpusId": 10236674
+      },
+      "url": "https://www.semanticscholar.org/paper/2df7754914a35a0cdf148a1ba64488b2d5ccda32",
+      "title": "Variational Inference for Gaussian Process Modulated Poisson Processes",
+      "venue": "International Conference on Machine Learning",
+      "year": 2014,
+      "referenceCount": 26,
+      "citationCount": 125,
+      "authors": [
+        {
+          "authorId": "10423164",
+          "name": "C. Lloyd"
+        },
+        {
+          "authorId": "39734131",
+          "name": "Tom Gunter"
+        },
+        {
+          "authorId": "144484861",
+          "name": "Michael A. Osborne"
+        },
+        {
+          "authorId": "145029236",
+          "name": "S. Roberts"
+        }
+      ]
+    },
+    {
+      "paperId": "a38be61e6f7eb0600bbcc0c24901649bdc5542b6",
+      "externalIds": {
+        "DBLP": "journals/tr/JahaniZVS21",
+        "MAG": "3100071425",
+        "ArXiv": "2011.03172",
+        "DOI": "10.1109/tr.2021.3088094",
+        "CorpusId": 226278367
+      },
+      "url": "https://www.semanticscholar.org/paper/a38be61e6f7eb0600bbcc0c24901649bdc5542b6",
+      "title": "Multioutput Gaussian Process Modulated Poisson Processes for Event Prediction",
+      "venue": "IEEE Transactions on Reliability",
+      "year": 2020,
+      "referenceCount": 35,
+      "citationCount": 13,
+      "authors": [
+        {
+          "authorId": "2089915482",
+          "name": "Salman Jahani"
+        },
+        {
+          "authorId": "1824554",
+          "name": "Shiyu Zhou"
+        },
+        {
+          "authorId": "2489163",
+          "name": "D. Veeramani"
+        },
+        {
+          "authorId": "2113420634",
+          "name": "Jeff Schmidt"
+        }
+      ]
+    },
+    {
+      "paperId": "5d84296e1de2e638390a831b1d0d62a950ff2592",
+      "externalIds": {
+        "MAG": "2950818404",
+        "DBLP": "conf/uai/DingLSS18",
+        "ArXiv": "1803.04232",
+        "CorpusId": 54009663
+      },
+      "url": "https://www.semanticscholar.org/paper/5d84296e1de2e638390a831b1d0d62a950ff2592",
+      "title": "Variational Inference for Gaussian Processes with Panel Count Data",
+      "venue": "Conference on Uncertainty in Artificial Intelligence",
+      "year": 2018,
+      "referenceCount": 23,
+      "citationCount": 4,
+      "authors": [
+        {
+          "authorId": "2206100",
+          "name": "Hongyi Ding"
+        },
+        {
+          "authorId": "2146315000",
+          "name": "Young Lee"
+        },
+        {
+          "authorId": "73355331",
+          "name": "Issei Sato"
+        },
+        {
+          "authorId": "67154907",
+          "name": "Masashi Sugiyama"
+        }
+      ]
+    },
+    {
+      "paperId": "53147c20a2499f3ca2820996f72b9f09cc6f7bbf",
+      "externalIds": {
+        "ArXiv": "1804.01016",
+        "MAG": "2963511894",
+        "DBLP": "conf/icml/JohnH18",
+        "CorpusId": 4626119
+      },
+      "url": "https://www.semanticscholar.org/paper/53147c20a2499f3ca2820996f72b9f09cc6f7bbf",
+      "title": "Large-Scale Cox Process Inference using Variational Fourier Features",
+      "venue": "International Conference on Machine Learning",
+      "year": 2018,
+      "referenceCount": 20,
+      "citationCount": 32,
+      "authors": [
+        {
+          "authorId": "144104356",
+          "name": "S. T. John"
+        },
+        {
+          "authorId": "3166500",
+          "name": "J. Hensman"
+        }
+      ]
+    },
+    {
+      "paperId": "3472cf746d5e4b384269ca20af1dddc779361e9c",
+      "externalIds": {
+        "DBLP": "conf/icml/Kim18",
+        "MAG": "2803673763",
+        "CorpusId": 263896133
+      },
+      "url": "https://www.semanticscholar.org/paper/3472cf746d5e4b384269ca20af1dddc779361e9c",
+      "title": "Markov Modulated Gaussian Cox Processes for Semi-Stationary Intensity Modeling of Events Data",
+      "venue": "International Conference on Machine Learning",
+      "year": 2018,
+      "referenceCount": 23,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "117892036",
+          "name": "Minyoung Kim"
+        }
+      ]
+    },
+    {
+      "paperId": "8c9c1884903dcdabcdeb63796fdf9ec6e59a064f",
+      "externalIds": {
+        "MAG": "2997337403",
+        "DBLP": "conf/aaai/ZhangWR20",
+        "DOI": "10.1609/AAAI.V34I04.6160",
+        "CorpusId": 213149137
+      },
+      "url": "https://www.semanticscholar.org/paper/8c9c1884903dcdabcdeb63796fdf9ec6e59a064f",
+      "title": "Variational Inference for Sparse Gaussian Process Modulated Hawkes Process",
+      "venue": "AAAI Conference on Artificial Intelligence",
+      "year": 2019,
+      "referenceCount": 26,
+      "citationCount": 30,
+      "authors": [
+        {
+          "authorId": null,
+          "name": "Rui Zhang"
+        },
+        {
+          "authorId": "3093246",
+          "name": "Christian J. Walder"
+        },
+        {
+          "authorId": "1808087",
+          "name": "Marian-Andrei Rizoiu"
+        }
+      ]
+    },
+    {
+      "paperId": "c915b260c0ce76b91cfc604247aac9429a30ef9b",
+      "externalIds": {
+        "ArXiv": "1905.10496",
+        "MAG": "2945204561",
+        "DBLP": "journals/corr/abs-1905-10496",
+        "CorpusId": 166228259
+      },
+      "url": "https://www.semanticscholar.org/paper/c915b260c0ce76b91cfc604247aac9429a30ef9b",
+      "title": "Sparse Gaussian Process Modulated Hawkes Process",
+      "venue": "arXiv.org",
+      "year": 2019,
+      "referenceCount": 21,
+      "citationCount": 5,
+      "authors": [
+        {
+          "authorId": null,
+          "name": "Rui Zhang"
+        },
+        {
+          "authorId": "3093246",
+          "name": "Christian J. Walder"
+        },
+        {
+          "authorId": "1808087",
+          "name": "Marian-Andrei Rizoiu"
+        }
+      ]
+    },
+    {
+      "paperId": "ac33caa1009737987f112a691854be53b8808469",
+      "externalIds": {
+        "MAG": "2133530184",
+        "DBLP": "conf/nips/RaoT11",
+        "CorpusId": 7884931
+      },
+      "url": "https://www.semanticscholar.org/paper/ac33caa1009737987f112a691854be53b8808469",
+      "title": "Gaussian process modulated renewal processes",
+      "venue": "Neural Information Processing Systems",
+      "year": 2011,
+      "referenceCount": 26,
+      "citationCount": 47,
+      "authors": [
+        {
+          "authorId": "144208693",
+          "name": "Vinayak A. Rao"
+        },
+        {
+          "authorId": "1725303",
+          "name": "Y. Teh"
+        }
+      ]
+    },
+    {
+      "paperId": "875c0b81777b626a437aed80783e0b4f79078f22",
+      "externalIds": {
+        "DBLP": "journals/tits/GiraldoZA22",
+        "DOI": "10.1109/TITS.2022.3171730",
+        "CorpusId": 248630481
+      },
+      "url": "https://www.semanticscholar.org/paper/875c0b81777b626a437aed80783e0b4f79078f22",
+      "title": "Correlated Chained Gaussian Processes for Modelling Citizens Mobility Using a Zero-Inflated Poisson Likelihood",
+      "venue": "IEEE transactions on intelligent transportation systems (Print)",
+      "year": 2022,
+      "referenceCount": 48,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "1689611",
+          "name": "Juan J. Giraldo"
+        },
+        {
+          "authorId": "40539618",
+          "name": "J. Zhang"
+        },
+        {
+          "authorId": "144491954",
+          "name": "Mauricio A Álvarez"
+        }
+      ]
+    },
+    {
+      "paperId": "744ab98bc7e1390f4b238f24f4c39d2841b01aea",
+      "externalIds": {
+        "ArXiv": "1805.11494",
+        "DBLP": "conf/uai/DonnerO18",
+        "MAG": "2949804424",
+        "CorpusId": 44120757
+      },
+      "url": "https://www.semanticscholar.org/paper/744ab98bc7e1390f4b238f24f4c39d2841b01aea",
+      "title": "Efficient Bayesian Inference for a Gaussian Process Density Model",
+      "venue": "Conference on Uncertainty in Artificial Intelligence",
+      "year": 2018,
+      "referenceCount": 34,
+      "citationCount": 15,
+      "authors": [
+        {
+          "authorId": "34440659",
+          "name": "Christian Donner"
+        },
+        {
+          "authorId": "1691022",
+          "name": "M. Opper"
+        }
+      ]
+    }
+  ]
+}

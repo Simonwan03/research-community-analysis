@@ -1,0 +1,453 @@
+{
+  "total": 13,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "7a0ba4f62a1d98ad5f1e0bab1bdd78dba9ca8ecc",
+      "externalIds": {
+        "ArXiv": "1802.07167",
+        "DBLP": "conf/icml/PearceBZN18",
+        "MAG": "2962995943",
+        "CorpusId": 51875813
+      },
+      "url": "https://www.semanticscholar.org/paper/7a0ba4f62a1d98ad5f1e0bab1bdd78dba9ca8ecc",
+      "title": "High-Quality Prediction Intervals for Deep Learning: A Distribution-Free, Ensembled Approach",
+      "venue": "International Conference on Machine Learning",
+      "year": 2018,
+      "referenceCount": 32,
+      "citationCount": 321,
+      "authors": [
+        {
+          "authorId": "1720750695",
+          "name": "Tim Pearce"
+        },
+        {
+          "authorId": "3385621",
+          "name": "A. Brintrup"
+        },
+        {
+          "authorId": "2124519626",
+          "name": "Mohamed H. Zaki"
+        },
+        {
+          "authorId": "144234903",
+          "name": "A. Neely"
+        }
+      ]
+    },
+    {
+      "paperId": "4f720bb53d45ef0d636c86c6f79603bbb702ff74",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2203-03150",
+        "ArXiv": "2203.03150",
+        "DOI": "10.48550/arXiv.2203.03150",
+        "CorpusId": 247292500
+      },
+      "url": "https://www.semanticscholar.org/paper/4f720bb53d45ef0d636c86c6f79603bbb702ff74",
+      "title": "On the Construction of Distribution-Free Prediction Intervals for an Image Regression Problem in Semiconductor Manufacturing",
+      "venue": "arXiv.org",
+      "year": 2022,
+      "referenceCount": 64,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "1729516959",
+          "name": "Inimfon I. Akpabio"
+        },
+        {
+          "authorId": "1993565",
+          "name": "S. Savari"
+        }
+      ]
+    },
+    {
+      "paperId": "a6f75a8988d83bd80e51669afcf82619f79b3d44",
+      "externalIds": {
+        "DOI": "10.2118/225641-ms",
+        "CorpusId": 279110734
+      },
+      "url": "https://www.semanticscholar.org/paper/a6f75a8988d83bd80e51669afcf82619f79b3d44",
+      "title": "Deep Learning Framework for Low-Quality Reservoir Classification and Production Zone Optimization in the Late-Mature Taybah Waterflood Field, Indonesia",
+      "venue": "SPE Advances in Integrated Reservoir Modelling and Field Development Conference and Exhibition",
+      "year": 2025,
+      "referenceCount": 5,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2364999291",
+          "name": "M. A. Trisnadi"
+        },
+        {
+          "authorId": "2365005109",
+          "name": "A. Fitrah"
+        },
+        {
+          "authorId": "2345959781",
+          "name": "P. A. Zumarsyah"
+        },
+        {
+          "authorId": "2364998769",
+          "name": "E. R. Esomar"
+        },
+        {
+          "authorId": "2364999283",
+          "name": "F. C. Adistia"
+        },
+        {
+          "authorId": "2364999920",
+          "name": "B. R. Janasri"
+        },
+        {
+          "authorId": "2365002563",
+          "name": "T. Adiansyah"
+        },
+        {
+          "authorId": "2364999529",
+          "name": "C. I. Armaya"
+        },
+        {
+          "authorId": "2408010585",
+          "name": "E. Saputro"
+        },
+        {
+          "authorId": "2365001928",
+          "name": "M. Gibran"
+        },
+        {
+          "authorId": "2365005890",
+          "name": "J. N. Prasetyo"
+        },
+        {
+          "authorId": "2364999532",
+          "name": "I. A. Muswar"
+        }
+      ]
+    },
+    {
+      "paperId": "d079cc8618b32d08d678de8f76ff58c469f801f6",
+      "externalIds": {
+        "DOI": "10.33266/1024-6177-2026-71-2-147-152",
+        "CorpusId": 286998023
+      },
+      "url": "https://www.semanticscholar.org/paper/d079cc8618b32d08d678de8f76ff58c469f801f6",
+      "title": "Predicting Gamma Passing Rate for Patient Specific Quality Assurance Using Machine and Deep Learning: A Review of Methodological Approaches",
+      "venue": "Medical Radiology and radiation safety",
+      "year": 2026,
+      "referenceCount": 0,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2426955075",
+          "name": "Zh.Zh. Smirnova"
+        },
+        {
+          "authorId": "2182132263",
+          "name": "D.Yu. Bobrov"
+        },
+        {
+          "authorId": "2250982782",
+          "name": "A. Zavialov"
+        }
+      ]
+    },
+    {
+      "paperId": "fac258eac814b76007fa374d4c24dc0704859889",
+      "externalIds": {
+        "PubMedCentral": "10571894",
+        "DOI": "10.3390/cancers15194897",
+        "CorpusId": 264047941,
+        "PubMed": "37835591"
+      },
+      "url": "https://www.semanticscholar.org/paper/fac258eac814b76007fa374d4c24dc0704859889",
+      "title": "Multitask Learning with Convolutional Neural Networks and Vision Transformers Can Improve Outcome Prediction for Head and Neck Cancer Patients",
+      "venue": "Cancers",
+      "year": 2023,
+      "referenceCount": 87,
+      "citationCount": 5,
+      "authors": [
+        {
+          "authorId": "2258110205",
+          "name": "Sebastian Starke"
+        },
+        {
+          "authorId": "6894503",
+          "name": "A. Zwanenburg"
+        },
+        {
+          "authorId": "1658749085",
+          "name": "Karoline Leger"
+        },
+        {
+          "authorId": "12558422",
+          "name": "F. Lohaus"
+        },
+        {
+          "authorId": "2252563243",
+          "name": "Annett Linge"
+        },
+        {
+          "authorId": "13585361",
+          "name": "G. Kalinauskaite"
+        },
+        {
+          "authorId": "50123462",
+          "name": "I. Tinhofer"
+        },
+        {
+          "authorId": "6564984",
+          "name": "N. Guberina"
+        },
+        {
+          "authorId": "12643774",
+          "name": "M. Guberina"
+        },
+        {
+          "authorId": "4545017",
+          "name": "P. Balermpas"
+        },
+        {
+          "authorId": "2140752183",
+          "name": "J. Grün"
+        },
+        {
+          "authorId": "2252686445",
+          "name": "Ute Ganswindt"
+        },
+        {
+          "authorId": "2240212233",
+          "name": "C. Belka"
+        },
+        {
+          "authorId": "4892738",
+          "name": "J. Peeken"
+        },
+        {
+          "authorId": "2253692393",
+          "name": "S. E. Combs"
+        },
+        {
+          "authorId": "50640758",
+          "name": "S. Boeke"
+        },
+        {
+          "authorId": "2244803739",
+          "name": "D. Zips"
+        },
+        {
+          "authorId": "2251694354",
+          "name": "Christian Richter"
+        },
+        {
+          "authorId": "1491352602",
+          "name": "E. Troost"
+        },
+        {
+          "authorId": "2250529397",
+          "name": "Mechthild Krause"
+        },
+        {
+          "authorId": "2248757020",
+          "name": "Michael Baumann"
+        },
+        {
+          "authorId": "2255073675",
+          "name": "Steffen Loeck"
+        }
+      ]
+    },
+    {
+      "paperId": "5d64f26a86f6d732cab4a68a0374c7b63b659b22",
+      "externalIds": {
+        "ArXiv": "2604.00940",
+        "CorpusId": 287023521
+      },
+      "url": "https://www.semanticscholar.org/paper/5d64f26a86f6d732cab4a68a0374c7b63b659b22",
+      "title": "YieldSAT: A Multimodal Benchmark Dataset for High-Resolution Crop Yield Prediction",
+      "venue": "",
+      "year": 2026,
+      "referenceCount": 59,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2260699911",
+          "name": "Miro Miranda"
+        },
+        {
+          "authorId": "2260701220",
+          "name": "Deepak Pathak"
+        },
+        {
+          "authorId": "26431319",
+          "name": "P. Helber"
+        },
+        {
+          "authorId": "3457221",
+          "name": "B. Bischke"
+        },
+        {
+          "authorId": "2113214263",
+          "name": "Hiba Najjar"
+        },
+        {
+          "authorId": "2260697942",
+          "name": "F. Mena"
+        },
+        {
+          "authorId": "2232612906",
+          "name": "Cristhian Sanchez"
+        },
+        {
+          "authorId": "2355711082",
+          "name": "Akshay Pai"
+        },
+        {
+          "authorId": "2231104233",
+          "name": "Diego Arenas"
+        },
+        {
+          "authorId": "1399503242",
+          "name": "Matias Valdenegro-Toro"
+        },
+        {
+          "authorId": "2260698328",
+          "name": "M. Charfuelan"
+        },
+        {
+          "authorId": "2260696544",
+          "name": "M. Nuske"
+        },
+        {
+          "authorId": "2248061971",
+          "name": "A. Dengel"
+        }
+      ]
+    },
+    {
+      "paperId": "383241207860e9e1c010c692d53f089403386141",
+      "externalIds": {
+        "MAG": "3187885290",
+        "DOI": "10.4043/31114-ms",
+        "CorpusId": 238642306
+      },
+      "url": "https://www.semanticscholar.org/paper/383241207860e9e1c010c692d53f089403386141",
+      "title": "Lithofacies Classification of Carbonate Reservoirs Using Advanced Machine Learning: A Case Study from a Southern Iraqi Oil Field",
+      "venue": "Day 1 Mon, August 16, 2021",
+      "year": 2021,
+      "referenceCount": 48,
+      "citationCount": 7,
+      "authors": [
+        {
+          "authorId": "2143367936",
+          "name": "Mohammed A. Abbas"
+        },
+        {
+          "authorId": "1409465366",
+          "name": "W. Al-Mudhafar"
+        }
+      ]
+    },
+    {
+      "paperId": "b0f1790595257e7573c3c59c9fe037aff7ec0158",
+      "externalIds": {
+        "MAG": "3196990047",
+        "DOI": "10.1016/J.GEODERMA.2021.115402",
+        "CorpusId": 239638127
+      },
+      "url": "https://www.semanticscholar.org/paper/b0f1790595257e7573c3c59c9fe037aff7ec0158",
+      "title": "Large scale mapping of soil organic carbon concentration with 3D machine learning and satellite observations",
+      "venue": "",
+      "year": 2022,
+      "referenceCount": 93,
+      "citationCount": 102,
+      "authors": [
+        {
+          "authorId": "148173318",
+          "name": "C. Sothe"
+        },
+        {
+          "authorId": "3281907",
+          "name": "A. Gonsamo"
+        },
+        {
+          "authorId": "103238793",
+          "name": "J. Arabian"
+        },
+        {
+          "authorId": "2049118733",
+          "name": "J. Snider"
+        }
+      ]
+    },
+    {
+      "paperId": "5db19e5f53b18e937dbdc4fd05269df5505358c5",
+      "externalIds": {
+        "DOI": "10.3390/app16020751",
+        "CorpusId": 284753332
+      },
+      "url": "https://www.semanticscholar.org/paper/5db19e5f53b18e937dbdc4fd05269df5505358c5",
+      "title": "CrossPhire: Benefiting Multimodality for Robust Phishing Web Page Identification",
+      "venue": "Applied Sciences",
+      "year": 2026,
+      "referenceCount": 0,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2404764566",
+          "name": "Ahmad Hani Abdalla Almakhamreh"
+        },
+        {
+          "authorId": "35996943",
+          "name": "A. S. Bozkir"
+        }
+      ]
+    },
+    {
+      "paperId": "cdfb20de4dc32bc24677533e403c063941006f15",
+      "externalIds": {
+        "DOI": "10.2118/230302-pa",
+        "CorpusId": 281787513
+      },
+      "url": "https://www.semanticscholar.org/paper/cdfb20de4dc32bc24677533e403c063941006f15",
+      "title": "An Ensemble-Based Automated Workflow for Decline Curve Analysis and Probabilistic Estimated Ultimate Recovery Estimation in Shale Gas Wells",
+      "venue": "SPE Journal",
+      "year": 2025,
+      "referenceCount": 54,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2300739171",
+          "name": "T. Yehia"
+        },
+        {
+          "authorId": "2347641402",
+          "name": "B. Freestone"
+        },
+        {
+          "authorId": "2347588781",
+          "name": "G. Nair"
+        },
+        {
+          "authorId": "2383692291",
+          "name": "Y. Falola"
+        },
+        {
+          "authorId": "2347636427",
+          "name": "R. R. Ailneni"
+        },
+        {
+          "authorId": "2347610513",
+          "name": "P. Rathore"
+        },
+        {
+          "authorId": "2347619830",
+          "name": "J. Toms"
+        },
+        {
+          "authorId": "2308585042",
+          "name": "D. N. Meehan"
+        }
+      ]
+    }
+  ]
+}

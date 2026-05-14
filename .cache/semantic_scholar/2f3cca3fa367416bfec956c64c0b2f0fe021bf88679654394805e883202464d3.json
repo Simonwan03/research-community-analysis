@@ -1,0 +1,284 @@
+{
+  "total": 1013,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "a712e38d04ed54507394e66c7146214ac32e09f0",
+      "externalIds": {
+        "MAG": "1939260575",
+        "ArXiv": "1508.00792",
+        "DBLP": "conf/icml/MarietS15",
+        "CorpusId": 7140198
+      },
+      "url": "https://www.semanticscholar.org/paper/a712e38d04ed54507394e66c7146214ac32e09f0",
+      "title": "Fixed-point algorithms for learning determinantal point processes",
+      "venue": "International Conference on Machine Learning",
+      "year": 2015,
+      "referenceCount": 22,
+      "citationCount": 55,
+      "authors": [
+        {
+          "authorId": "1867856",
+          "name": "Zelda E. Mariet"
+        },
+        {
+          "authorId": "3072326",
+          "name": "S. Sra"
+        }
+      ]
+    },
+    {
+      "paperId": "50e81b362683ec056a203e9ffa86b243e920e630",
+      "externalIds": {
+        "MAG": "2158520534",
+        "DBLP": "journals/corr/GillenwaterKFT14",
+        "ArXiv": "1411.1088",
+        "CorpusId": 6690654
+      },
+      "url": "https://www.semanticscholar.org/paper/50e81b362683ec056a203e9ffa86b243e920e630",
+      "title": "Expectation-Maximization for Learning Determinantal Point Processes",
+      "venue": "Neural Information Processing Systems",
+      "year": 2014,
+      "referenceCount": 30,
+      "citationCount": 103,
+      "authors": [
+        {
+          "authorId": "144340937",
+          "name": "Jennifer Gillenwater"
+        },
+        {
+          "authorId": "145500336",
+          "name": "Alex Kulesza"
+        },
+        {
+          "authorId": "2394622",
+          "name": "E. Fox"
+        },
+        {
+          "authorId": "1685978",
+          "name": "B. Taskar"
+        }
+      ]
+    },
+    {
+      "paperId": "b5d982e87e3f7019ff82e26cb06689b4bd43effe",
+      "externalIds": {
+        "DBLP": "conf/aistats/GrosseFGH24",
+        "CorpusId": 269636410
+      },
+      "url": "https://www.semanticscholar.org/paper/b5d982e87e3f7019ff82e26cb06689b4bd43effe",
+      "title": "A Greedy Approximation for k-Determinantal Point Processes",
+      "venue": "International Conference on Artificial Intelligence and Statistics",
+      "year": 2024,
+      "referenceCount": 51,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "2249703688",
+          "name": "Julia Grosse"
+        },
+        {
+          "authorId": "2249705171",
+          "name": "Rahel Fischer"
+        },
+        {
+          "authorId": "2310341789",
+          "name": "Roman Garnett"
+        },
+        {
+          "authorId": "2300377226",
+          "name": "Phlipp Hennig"
+        }
+      ]
+    },
+    {
+      "paperId": "ec46bcbced500820521e9f65b0f9ffef5a83ae11",
+      "externalIds": {
+        "DBLP": "conf/icml/KuleszaT11",
+        "MAG": "2187580259",
+        "CorpusId": 5328384
+      },
+      "url": "https://www.semanticscholar.org/paper/ec46bcbced500820521e9f65b0f9ffef5a83ae11",
+      "title": "k-DPPs: Fixed-Size Determinantal Point Processes",
+      "venue": "International Conference on Machine Learning",
+      "year": 2011,
+      "referenceCount": 19,
+      "citationCount": 311,
+      "authors": [
+        {
+          "authorId": "145500336",
+          "name": "Alex Kulesza"
+        },
+        {
+          "authorId": "1685978",
+          "name": "B. Taskar"
+        }
+      ]
+    },
+    {
+      "paperId": "05272f41369a00407a5547140cb3a45ee53cc025",
+      "externalIds": {
+        "DBLP": "journals/tmlr/KawashimaH23",
+        "CorpusId": 265509940
+      },
+      "url": "https://www.semanticscholar.org/paper/05272f41369a00407a5547140cb3a45ee53cc025",
+      "title": "Minorization-Maximization for Learning Determinantal Point Processes",
+      "venue": "Trans. Mach. Learn. Res.",
+      "year": 2023,
+      "referenceCount": 33,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "2268787834",
+          "name": "Takahiro Kawashima"
+        },
+        {
+          "authorId": "34581814",
+          "name": "H. Hino"
+        }
+      ]
+    },
+    {
+      "paperId": "b1bf7699a4df4a68a9127ad080ed8aca957d621c",
+      "externalIds": {
+        "ArXiv": "2107.01622",
+        "DBLP": "journals/corr/abs-2107-01622",
+        "CorpusId": 235731954
+      },
+      "url": "https://www.semanticscholar.org/paper/b1bf7699a4df4a68a9127ad080ed8aca957d621c",
+      "title": "Multiple-criteria Based Active Learning with Fixed-size Determinantal Point Processes",
+      "venue": "arXiv.org",
+      "year": 2021,
+      "referenceCount": 42,
+      "citationCount": 11,
+      "authors": [
+        {
+          "authorId": "2057931888",
+          "name": "Xueying Zhan"
+        },
+        {
+          "authorId": "2117896825",
+          "name": "Qing Li"
+        },
+        {
+          "authorId": "3651407",
+          "name": "Antoni B. Chan"
+        }
+      ]
+    },
+    {
+      "paperId": "1c01ae14ed7a092202aa9a6a448dc60143861b65",
+      "externalIds": {
+        "DBLP": "journals/corr/MarietS15",
+        "MAG": "2406656712",
+        "CorpusId": 10671377
+      },
+      "url": "https://www.semanticscholar.org/paper/1c01ae14ed7a092202aa9a6a448dc60143861b65",
+      "title": "Fixed-point algorithms for determinantal point processes",
+      "venue": "arXiv.org",
+      "year": 2015,
+      "referenceCount": 0,
+      "citationCount": 8,
+      "authors": [
+        {
+          "authorId": "1867856",
+          "name": "Zelda E. Mariet"
+        },
+        {
+          "authorId": "3072326",
+          "name": "S. Sra"
+        }
+      ]
+    },
+    {
+      "paperId": "2c3258bfb5fd5aa91c45ae05c0f4b2bf736c32bc",
+      "externalIds": {
+        "DBLP": "conf/icml/UrschelBMR17",
+        "MAG": "2594713864",
+        "ArXiv": "1703.00539",
+        "CorpusId": 5642335
+      },
+      "url": "https://www.semanticscholar.org/paper/2c3258bfb5fd5aa91c45ae05c0f4b2bf736c32bc",
+      "title": "Learning Determinantal Point Processes with Moments and Cycles",
+      "venue": "International Conference on Machine Learning",
+      "year": 2017,
+      "referenceCount": 32,
+      "citationCount": 30,
+      "authors": [
+        {
+          "authorId": "19289528",
+          "name": "John C. Urschel"
+        },
+        {
+          "authorId": "46242066",
+          "name": "Victor-Emmanuel Brunel"
+        },
+        {
+          "authorId": "1690962",
+          "name": "Ankur Moitra"
+        },
+        {
+          "authorId": "2352281",
+          "name": "P. Rigollet"
+        }
+      ]
+    },
+    {
+      "paperId": "987ec3bbf4132cfb9477c2960702cb44dcf8af2f",
+      "externalIds": {
+        "DBLP": "conf/aistats/0002Y0024",
+        "CorpusId": 269648360
+      },
+      "url": "https://www.semanticscholar.org/paper/987ec3bbf4132cfb9477c2960702cb44dcf8af2f",
+      "title": "Fast Dynamic Sampling for Determinantal Point Processes",
+      "venue": "International Conference on Artificial Intelligence and Statistics",
+      "year": 2024,
+      "referenceCount": 20,
+      "citationCount": 4,
+      "authors": [
+        {
+          "authorId": "2277661101",
+          "name": "Zhao Song"
+        },
+        {
+          "authorId": "2203940167",
+          "name": "Junze Yin"
+        },
+        {
+          "authorId": "2108808080",
+          "name": "Licheng Zhang"
+        },
+        {
+          "authorId": "2140713366",
+          "name": "Ruizhe Zhang"
+        }
+      ]
+    },
+    {
+      "paperId": "c87f5836627a4ea7d928ff1aecf1b7cdebaf1302",
+      "externalIds": {
+        "DBLP": "conf/uai/KuleszaT11",
+        "MAG": "2138556193",
+        "ArXiv": "1202.3738",
+        "CorpusId": 1793631
+      },
+      "url": "https://www.semanticscholar.org/paper/c87f5836627a4ea7d928ff1aecf1b7cdebaf1302",
+      "title": "Learning Determinantal Point Processes",
+      "venue": "Conference on Uncertainty in Artificial Intelligence",
+      "year": 2011,
+      "referenceCount": 18,
+      "citationCount": 168,
+      "authors": [
+        {
+          "authorId": "145500336",
+          "name": "Alex Kulesza"
+        },
+        {
+          "authorId": "1685978",
+          "name": "B. Taskar"
+        }
+      ]
+    }
+  ]
+}

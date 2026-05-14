@@ -1,0 +1,362 @@
+{
+  "offset": 0,
+  "citingPaperInfo": {
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/1502.02606, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "title": "The Power of Randomization: Distributed Submodular Maximization on Massive Datasets",
+    "authors": [
+      {
+        "authorId": "1767397",
+        "name": "R. Barbosa"
+      },
+      {
+        "authorId": "1725000",
+        "name": "Alina Ene"
+      },
+      {
+        "authorId": "47320986",
+        "name": "Huy L. Nguyen"
+      },
+      {
+        "authorId": "144131927",
+        "name": "Justin Ward"
+      }
+    ]
+  },
+  "data": [
+    {
+      "citedPaper": {
+        "paperId": "d36ee86a7fb79b18b6324409e1c39ad4fac5058e",
+        "externalIds": {
+          "MAG": "2039797405",
+          "DBLP": "conf/pods/IndykMMM14",
+          "DOI": "10.1145/2594538.2594560",
+          "CorpusId": 16735642
+        },
+        "url": "https://www.semanticscholar.org/paper/d36ee86a7fb79b18b6324409e1c39ad4fac5058e",
+        "title": "Composable core-sets for diversity and coverage maximization",
+        "venue": "ACM SIGACT-SIGMOD-SIGART Symposium on Principles of Database Systems",
+        "year": 2014,
+        "referenceCount": 46,
+        "citationCount": 151,
+        "authors": [
+          {
+            "authorId": "1688317",
+            "name": "P. Indyk"
+          },
+          {
+            "authorId": "145700959",
+            "name": "S. Mahabadi"
+          },
+          {
+            "authorId": "145967611",
+            "name": "Mohammad Mahdian"
+          },
+          {
+            "authorId": "1728881",
+            "name": "V. Mirrokni"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "e2ceb5aca836b7e85e13c63218f5c9a4111564a3",
+        "externalIds": {
+          "MAG": "2101246692",
+          "DBLP": "conf/spaa/KumarMVV13",
+          "DOI": "10.1145/2486159.2486168",
+          "CorpusId": 11290330
+        },
+        "url": "https://www.semanticscholar.org/paper/e2ceb5aca836b7e85e13c63218f5c9a4111564a3",
+        "title": "Fast greedy algorithms in mapreduce and streaming",
+        "venue": "ACM Symposium on Parallelism in Algorithms and Architectures",
+        "year": 2013,
+        "referenceCount": 38,
+        "citationCount": 242,
+        "authors": [
+          {
+            "authorId": "1683442",
+            "name": "Ravi Kumar"
+          },
+          {
+            "authorId": "1867769",
+            "name": "Benjamin Moseley"
+          },
+          {
+            "authorId": "1749789",
+            "name": "Sergei Vassilvitskii"
+          },
+          {
+            "authorId": "2632011",
+            "name": "Andrea Vattani"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "b909f818bc903b2db75bd41a6994319351738f02",
+        "externalIds": {
+          "MAG": "2158557760",
+          "DBLP": "journals/siamcomp/BuchbinderFNS15",
+          "DOI": "10.1109/FOCS.2012.73",
+          "CorpusId": 12288137
+        },
+        "url": "https://www.semanticscholar.org/paper/b909f818bc903b2db75bd41a6994319351738f02",
+        "title": "A Tight Linear Time (1/2)-Approximation for Unconstrained Submodular Maximization",
+        "venue": "IEEE Annual Symposium on Foundations of Computer Science",
+        "year": 2012,
+        "referenceCount": 43,
+        "citationCount": 469,
+        "authors": [
+          {
+            "authorId": "1727481",
+            "name": "Niv Buchbinder"
+          },
+          {
+            "authorId": "2285606888",
+            "name": "Moran Feldman"
+          },
+          {
+            "authorId": "1751440",
+            "name": "J. Naor"
+          },
+          {
+            "authorId": "2285880177",
+            "name": "Roy Schwartz"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "072d09c92805897ddc83116a77a2ee71b7ca2b36",
+        "externalIds": {
+          "MAG": "2952402597",
+          "DBLP": "journals/corr/abs-1003-1517",
+          "ArXiv": "1003.1517",
+          "DOI": "10.1007/978-3-642-17572-5_20",
+          "CorpusId": 1931454
+        },
+        "url": "https://www.semanticscholar.org/paper/072d09c92805897ddc83116a77a2ee71b7ca2b36",
+        "title": "Constrained Non-monotone Submodular Maximization: Offline and Secretary Algorithms",
+        "venue": "Workshop on Internet and Network Economics",
+        "year": 2010,
+        "referenceCount": 36,
+        "citationCount": 213,
+        "authors": [
+          {
+            "authorId": "2110759547",
+            "name": "Anupam Gupta"
+          },
+          {
+            "authorId": "1682008",
+            "name": "Aaron Roth"
+          },
+          {
+            "authorId": "1710013",
+            "name": "G. Schoenebeck"
+          },
+          {
+            "authorId": "35210462",
+            "name": "Kunal Talwar"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "1d186975e456e7f3a26f35caaf3d983e49df08f8",
+        "externalIds": {
+          "MAG": "3070706509",
+          "DBLP": "journals/pami/TorralbaFF08",
+          "DOI": "10.1109/TPAMI.2008.128",
+          "CorpusId": 267802767,
+          "PubMed": "18787244"
+        },
+        "url": "https://www.semanticscholar.org/paper/1d186975e456e7f3a26f35caaf3d983e49df08f8",
+        "title": "80 Million Tiny Images: A Large Data Set for Nonparametric Object and Scene Recognition",
+        "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+        "year": 2008,
+        "referenceCount": 60,
+        "citationCount": 759,
+        "authors": [
+          {
+            "authorId": "2257247342",
+            "name": "Antonio Torralba"
+          },
+          {
+            "authorId": "2257242986",
+            "name": "Rob Fergus"
+          },
+          {
+            "authorId": "2242804184",
+            "name": "William T. Freeman"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "148d30f6b936c92c3479654890d5d53b1bdf91c7",
+        "externalIds": {
+          "DBLP": "journals/mor/Wolsey82",
+          "MAG": "2053853578",
+          "DOI": "10.1287/moor.7.3.410",
+          "CorpusId": 21786025
+        },
+        "url": "https://www.semanticscholar.org/paper/148d30f6b936c92c3479654890d5d53b1bdf91c7",
+        "title": "Maximising Real-Valued Submodular Functions: Primal and Dual Heuristics for Location Problems",
+        "venue": "Mathematics of Operations Research",
+        "year": 1982,
+        "referenceCount": 11,
+        "citationCount": 154,
+        "authors": [
+          {
+            "authorId": "1736128",
+            "name": "L. Wolsey"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "b9e43395663f74c581982e9ca97a0d7057a0008c",
+        "externalIds": {
+          "DBLP": "journals/mp/NemhauserWF78",
+          "MAG": "1680189815",
+          "DOI": "10.1007/BF01588971",
+          "CorpusId": 206800425
+        },
+        "url": "https://www.semanticscholar.org/paper/b9e43395663f74c581982e9ca97a0d7057a0008c",
+        "title": "An analysis of approximations for maximizing submodular set functions—I",
+        "venue": "Mathematical programming",
+        "year": 1978,
+        "referenceCount": 13,
+        "citationCount": 5155,
+        "authors": [
+          {
+            "authorId": "1705564",
+            "name": "G. Nemhauser"
+          },
+          {
+            "authorId": "1736128",
+            "name": "L. Wolsey"
+          },
+          {
+            "authorId": "145456487",
+            "name": "M. Fisher"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "edcadcf6178ff5607a4f21960883da2369e9ee8d",
+        "externalIds": {
+          "DBLP": "conf/interspeech/LinB09",
+          "MAG": "1579799841",
+          "DOI": "10.21437/Interspeech.2009-730",
+          "CorpusId": 3186653
+        },
+        "url": "https://www.semanticscholar.org/paper/edcadcf6178ff5607a4f21960883da2369e9ee8d",
+        "title": "How to select a good training-data subset for transcription: submodular active selection for sequences",
+        "venue": "Interspeech",
+        "year": 2009,
+        "referenceCount": 30,
+        "citationCount": 91,
+        "authors": [
+          {
+            "authorId": "46933410",
+            "name": "Hui-Ching Lin"
+          },
+          {
+            "authorId": "1748118",
+            "name": "J. Bilmes"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "627be67feb084f1266cfc36e5aed3c3e7e6ce5f0",
+        "externalIds": {
+          "DBLP": "journals/cacm/DeanG08",
+          "MAG": "2173213060",
+          "DOI": "10.1145/1327452.1327492",
+          "CorpusId": 67055872
+        },
+        "url": "https://www.semanticscholar.org/paper/627be67feb084f1266cfc36e5aed3c3e7e6ce5f0",
+        "title": "MapReduce: simplified data processing on large clusters",
+        "venue": "CACM",
+        "year": 2008,
+        "referenceCount": 45,
+        "citationCount": 26345,
+        "authors": [
+          {
+            "authorId": "71084179",
+            "name": "Muthu Dayalan"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "965ea5946708f0b669403a377c48e78e9326be61",
+        "externalIds": {
+          "DBLP": "books/wi/KaufmanR90",
+          "MAG": "1493454437",
+          "DOI": "10.1002/9780470316801",
+          "CorpusId": 60820748
+        },
+        "url": "https://www.semanticscholar.org/paper/965ea5946708f0b669403a377c48e78e9326be61",
+        "title": "Finding Groups in Data: An Introduction to Cluster Analysis",
+        "venue": "",
+        "year": 1990,
+        "referenceCount": 0,
+        "citationCount": 16990,
+        "authors": [
+          {
+            "authorId": "50718271",
+            "name": "L. Kaufman"
+          },
+          {
+            "authorId": "2218687",
+            "name": "P. Rousseeuw"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "The efficacy of the \"greedy\" algorithm",
+        "venue": "Proceedings of the 7th Southeastern Conference on Combinatorics, Graph Theory, and Computing",
+        "year": 1976,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": ", Amin , Sarkar , Rik , and Krause , Andreas . Distributed submodular maximization : Identifying representative elements in massive data",
+        "venue": "Advances in Neural Information Processing Systems ( NIPS )",
+        "year": null,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    }
+  ]
+}

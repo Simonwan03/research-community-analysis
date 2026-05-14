@@ -1,0 +1,346 @@
+{
+  "total": 4484,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "1464776f20e2bccb6182f183b5ff2e15b0ae5e56",
+      "externalIds": {
+        "DBLP": "journals/corr/DuanCHSA16",
+        "MAG": "2342662072",
+        "ArXiv": "1604.06778",
+        "CorpusId": 12296499
+      },
+      "url": "https://www.semanticscholar.org/paper/1464776f20e2bccb6182f183b5ff2e15b0ae5e56",
+      "title": "Benchmarking Deep Reinforcement Learning for Continuous Control",
+      "venue": "International Conference on Machine Learning",
+      "year": 2016,
+      "referenceCount": 87,
+      "citationCount": 1805,
+      "authors": [
+        {
+          "authorId": "144581158",
+          "name": "Yan Duan"
+        },
+        {
+          "authorId": "41192764",
+          "name": "Xi Chen"
+        },
+        {
+          "authorId": "3127100",
+          "name": "Rein Houthooft"
+        },
+        {
+          "authorId": "47971768",
+          "name": "John Schulman"
+        },
+        {
+          "authorId": "1689992",
+          "name": "P. Abbeel"
+        }
+      ]
+    },
+    {
+      "paperId": "6f1c4a6d6dfb120df816d7e488babb16587c7406",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2108-02665",
+        "ArXiv": "2108.02665",
+        "DOI": "10.23919/OCEANS44145.2021.9706000",
+        "CorpusId": 236924354
+      },
+      "url": "https://www.semanticscholar.org/paper/6f1c4a6d6dfb120df816d7e488babb16587c7406",
+      "title": "Deep Reinforcement Learning for Continuous Docking Control of Autonomous Underwater Vehicles: A Benchmarking Study",
+      "venue": "Oceans",
+      "year": 2021,
+      "referenceCount": 16,
+      "citationCount": 30,
+      "authors": [
+        {
+          "authorId": "117774452",
+          "name": "Mihir Patil"
+        },
+        {
+          "authorId": "2952161",
+          "name": "Bilal Wehbe"
+        },
+        {
+          "authorId": "2341534805",
+          "name": "Matias Valdenegro-Toro"
+        }
+      ]
+    },
+    {
+      "paperId": "a4d61e2699fd5436c1461e520b43a1278e667af1",
+      "externalIds": {
+        "DBLP": "conf/iros/XiangWHZH0L23",
+        "ArXiv": "2210.11262",
+        "DOI": "10.1109/IROS55552.2023.10342479",
+        "CorpusId": 253018610
+      },
+      "url": "https://www.semanticscholar.org/paper/a4d61e2699fd5436c1461e520b43a1278e667af1",
+      "title": "RMBench: Benchmarking Deep Reinforcement Learning for Robotic Manipulator Control",
+      "venue": "IEEE/RJS International Conference on Intelligent RObots and Systems",
+      "year": 2022,
+      "referenceCount": 56,
+      "citationCount": 10,
+      "authors": [
+        {
+          "authorId": "2036280391",
+          "name": "Yanfei Xiang"
+        },
+        {
+          "authorId": "2154562538",
+          "name": "Xin Wang"
+        },
+        {
+          "authorId": "2122826299",
+          "name": "Shu Hu"
+        },
+        {
+          "authorId": "2145924097",
+          "name": "Bin Zhu"
+        },
+        {
+          "authorId": "2284453720",
+          "name": "Xiaomeng Huang"
+        },
+        {
+          "authorId": "2120827116",
+          "name": "Xi Wu"
+        },
+        {
+          "authorId": "1491799130",
+          "name": "Siwei Lyu"
+        }
+      ]
+    },
+    {
+      "paperId": "bf999fea75655c26ec61110e182f72c9a78f6c89",
+      "externalIds": {
+        "MAG": "3188204803",
+        "DOI": "10.1016/J.APENERGY.2021.117504",
+        "CorpusId": 238669356
+      },
+      "url": "https://www.semanticscholar.org/paper/bf999fea75655c26ec61110e182f72c9a78f6c89",
+      "title": "Deep reinforcement learning control of electric vehicle charging in the presence of photovoltaic generation",
+      "venue": "",
+      "year": 2021,
+      "referenceCount": 41,
+      "citationCount": 113,
+      "authors": [
+        {
+          "authorId": "21567665",
+          "name": "M. Dorokhova"
+        },
+        {
+          "authorId": "2132243657",
+          "name": "Yann Martinson"
+        },
+        {
+          "authorId": "4788507",
+          "name": "C. Ballif"
+        },
+        {
+          "authorId": "50330797",
+          "name": "N. Wyrsch"
+        }
+      ]
+    },
+    {
+      "paperId": "96b550566afd105d0e2b28d66b677b64084c5d8f",
+      "externalIds": {
+        "ArXiv": "2011.07537",
+        "DBLP": "journals/corr/abs-2011-07537",
+        "MAG": "3098792822",
+        "CorpusId": 226964563
+      },
+      "url": "https://www.semanticscholar.org/paper/96b550566afd105d0e2b28d66b677b64084c5d8f",
+      "title": "Tonic: A Deep Reinforcement Learning Library for Fast Prototyping and Benchmarking",
+      "venue": "arXiv.org",
+      "year": 2020,
+      "referenceCount": 47,
+      "citationCount": 34,
+      "authors": [
+        {
+          "authorId": "34758368",
+          "name": "Fabio Pardo"
+        }
+      ]
+    },
+    {
+      "paperId": "1be0f1b7c6e97a782915a496e94f866649a413c3",
+      "externalIds": {
+        "DBLP": "conf/case/ShahidNPFHFPR25",
+        "ArXiv": "2404.03336",
+        "DOI": "10.1109/CASE58245.2025.11163870",
+        "CorpusId": 268889827
+      },
+      "url": "https://www.semanticscholar.org/paper/1be0f1b7c6e97a782915a496e94f866649a413c3",
+      "title": "Benchmarking Population-Based Reinforcement Learning across Robotic Tasks with GPU-Accelerated Simulation",
+      "venue": "2025 IEEE 21st International Conference on Automation Science and Engineering (CASE)",
+      "year": 2024,
+      "referenceCount": 41,
+      "citationCount": 4,
+      "authors": [
+        {
+          "authorId": "2038528339",
+          "name": "Asad Ali Shahid"
+        },
+        {
+          "authorId": "5046361",
+          "name": "Yashraj S. Narang"
+        },
+        {
+          "authorId": "2225622857",
+          "name": "Vincenzo Petrone"
+        },
+        {
+          "authorId": "26974091",
+          "name": "Enrico Ferrentino"
+        },
+        {
+          "authorId": "34653454",
+          "name": "Ankur Handa"
+        },
+        {
+          "authorId": "2294877174",
+          "name": "Dieter Fox"
+        },
+        {
+          "authorId": "2285130566",
+          "name": "Marco Pavone"
+        },
+        {
+          "authorId": "47160292",
+          "name": "L. Roveda"
+        }
+      ]
+    },
+    {
+      "paperId": "4fec1b596238d10dd0537f1ad80b4853fe0c15a7",
+      "externalIds": {
+        "DBLP": "conf/iros/ChristmannLMC24",
+        "ArXiv": "2410.16632",
+        "DOI": "10.1109/IROS58592.2024.10802057",
+        "CorpusId": 273507518
+      },
+      "url": "https://www.semanticscholar.org/paper/4fec1b596238d10dd0537f1ad80b4853fe0c15a7",
+      "title": "Benchmarking Smoothness and Reducing High-Frequency Oscillations in Continuous Control Policies",
+      "venue": "IEEE/RJS International Conference on Intelligent RObots and Systems",
+      "year": 2024,
+      "referenceCount": 32,
+      "citationCount": 5,
+      "authors": [
+        {
+          "authorId": "2292032306",
+          "name": "Guilherme Christmann"
+        },
+        {
+          "authorId": "113670564",
+          "name": "Ying-Sheng Luo"
+        },
+        {
+          "authorId": "1657852063",
+          "name": "Hanjaya Mandala"
+        },
+        {
+          "authorId": "2292085627",
+          "name": "Wei-Chao Chen"
+        }
+      ]
+    },
+    {
+      "paperId": "4fd313ce8c4178cd132537c4209f1d2b3f8d155c",
+      "externalIds": {
+        "DOI": "10.1007/s42417-025-02169-x",
+        "CorpusId": 284551172
+      },
+      "url": "https://www.semanticscholar.org/paper/4fd313ce8c4178cd132537c4209f1d2b3f8d155c",
+      "title": "Reinforcement Learning-Based Active Suspension Control Strategy with Safety Constraints",
+      "venue": "Journal of Vibration Engineering & Technologies",
+      "year": 2026,
+      "referenceCount": 23,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2334139737",
+          "name": "Zongwei Zhu"
+        },
+        {
+          "authorId": "71508326",
+          "name": "Likang Yang"
+        },
+        {
+          "authorId": "2405526589",
+          "name": "Sheng Luo"
+        },
+        {
+          "authorId": "2149171027",
+          "name": "Xinlei Jin"
+        },
+        {
+          "authorId": "2403633833",
+          "name": "Siliang Fan"
+        },
+        {
+          "authorId": "2346811437",
+          "name": "Qiyao Zhu"
+        }
+      ]
+    },
+    {
+      "paperId": "69e0c26b22e848eaba81e06e66b276c60aeb3a48",
+      "externalIds": {
+        "DOI": "10.1109/ICoICT55009.2022.9914857",
+        "CorpusId": 253047083
+      },
+      "url": "https://www.semanticscholar.org/paper/69e0c26b22e848eaba81e06e66b276c60aeb3a48",
+      "title": "Vertical Take-Off and Landing (VTOL) System Based On Noise Parameter for Exploring of Continuous Reinforcement Learning Approach",
+      "venue": "International Conference on Information and Communicatiaon Technology",
+      "year": 2022,
+      "referenceCount": 22,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "27002049",
+          "name": "Atikah Surriani"
+        },
+        {
+          "authorId": "2593642",
+          "name": "O. Wahyunggoro"
+        },
+        {
+          "authorId": "145690996",
+          "name": "A. Cahyadi"
+        }
+      ]
+    },
+    {
+      "paperId": "4726accd71ecd8d6c7af7017caf269c5aed68cd6",
+      "externalIds": {
+        "DBLP": "conf/preregister/ThodoroffLL21",
+        "CorpusId": 253460887
+      },
+      "url": "https://www.semanticscholar.org/paper/4726accd71ecd8d6c7af7017caf269c5aed68cd6",
+      "title": "Benchmarking Real-Time Reinforcement Learning",
+      "venue": "Pre-Registration Workshop @ NeurIPS",
+      "year": 2021,
+      "referenceCount": 40,
+      "citationCount": 7,
+      "authors": [
+        {
+          "authorId": "3451632",
+          "name": "Pierre Thodoroff"
+        },
+        {
+          "authorId": "2108694731",
+          "name": "Wenyu Li"
+        },
+        {
+          "authorId": "145306271",
+          "name": "Neil D. Lawrence"
+        }
+      ]
+    }
+  ]
+}

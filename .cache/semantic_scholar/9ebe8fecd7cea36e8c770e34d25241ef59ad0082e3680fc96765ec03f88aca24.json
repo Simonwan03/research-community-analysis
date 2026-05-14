@@ -1,0 +1,72 @@
+{
+  "total": 2,
+  "offset": 0,
+  "data": [
+    {
+      "paperId": "d29a248bfe7ab08eb99d841f5fd6287f64b8d394",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-1806-08054",
+        "MAG": "2964163156",
+        "ArXiv": "1806.08054",
+        "CorpusId": 49349763
+      },
+      "url": "https://www.semanticscholar.org/paper/d29a248bfe7ab08eb99d841f5fd6287f64b8d394",
+      "title": "Error Compensated Quantized SGD and its Applications to Large-scale Distributed Optimization",
+      "venue": "International Conference on Machine Learning",
+      "year": 2018,
+      "referenceCount": 21,
+      "citationCount": 250,
+      "authors": [
+        {
+          "authorId": "2109159128",
+          "name": "Jiaxiang Wu"
+        },
+        {
+          "authorId": "2112106425",
+          "name": "Weidong Huang"
+        },
+        {
+          "authorId": "1768190",
+          "name": "Junzhou Huang"
+        },
+        {
+          "authorId": "2146324552",
+          "name": "Tong Zhang"
+        }
+      ]
+    },
+    {
+      "paperId": "596f0411d1bd2db054d9ba1a4521ad37ffbeba35",
+      "externalIds": {
+        "DBLP": "conf/icml/TangYLZL19",
+        "ArXiv": "1905.05957",
+        "MAG": "2954365017",
+        "CorpusId": 155091459
+      },
+      "url": "https://www.semanticscholar.org/paper/596f0411d1bd2db054d9ba1a4521ad37ffbeba35",
+      "title": "DoubleSqueeze: Parallel Stochastic Gradient Descent with Double-Pass Error-Compensated Compression",
+      "venue": "International Conference on Machine Learning",
+      "year": 2019,
+      "referenceCount": 53,
+      "citationCount": 235,
+      "authors": [
+        {
+          "authorId": "39278465",
+          "name": "Hanlin Tang"
+        },
+        {
+          "authorId": "2922996",
+          "name": "Xiangru Lian"
+        },
+        {
+          "authorId": "2124019615",
+          "name": "Tong Zhang"
+        },
+        {
+          "authorId": "40478933",
+          "name": "Ji Liu"
+        }
+      ]
+    }
+  ]
+}

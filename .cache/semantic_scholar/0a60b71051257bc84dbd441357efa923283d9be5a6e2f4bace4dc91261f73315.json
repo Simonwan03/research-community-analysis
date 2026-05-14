@@ -1,0 +1,443 @@
+{
+  "total": 111248,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "41f1d50c85d3180476c4c7b3eea121278b0d8474",
+      "externalIds": {
+        "ArXiv": "1601.06759",
+        "DBLP": "conf/icml/OordKK16",
+        "MAG": "2953318193",
+        "CorpusId": 8142135
+      },
+      "url": "https://www.semanticscholar.org/paper/41f1d50c85d3180476c4c7b3eea121278b0d8474",
+      "title": "Pixel Recurrent Neural Networks",
+      "venue": "International Conference on Machine Learning",
+      "year": 2016,
+      "referenceCount": 34,
+      "citationCount": 2807,
+      "authors": [
+        {
+          "authorId": "3422336",
+          "name": "Aäron van den Oord"
+        },
+        {
+          "authorId": "2583391",
+          "name": "Nal Kalchbrenner"
+        },
+        {
+          "authorId": "2645384",
+          "name": "K. Kavukcuoglu"
+        }
+      ]
+    },
+    {
+      "paperId": "525b9ec3f0dba7f12738c7a97cb88cfcc711c66f",
+      "externalIds": {
+        "DBLP": "conf/cvpr/SoBDW24",
+        "ArXiv": "2304.05440",
+        "DOI": "10.1109/CVPR52733.2024.02384",
+        "CorpusId": 258079244
+      },
+      "url": "https://www.semanticscholar.org/paper/525b9ec3f0dba7f12738c7a97cb88cfcc711c66f",
+      "title": "PixelRNN: In-pixel Recurrent Neural Networks for End-to-end-optimized Perception with Neural Sensors",
+      "venue": "Computer Vision and Pattern Recognition",
+      "year": 2023,
+      "referenceCount": 85,
+      "citationCount": 9,
+      "authors": [
+        {
+          "authorId": "152333753",
+          "name": "Haley M. So"
+        },
+        {
+          "authorId": "3414289",
+          "name": "Laurie Bose"
+        },
+        {
+          "authorId": "1900897",
+          "name": "P. Dudek"
+        },
+        {
+          "authorId": "1731170",
+          "name": "Gordon Wetzstein"
+        }
+      ]
+    },
+    {
+      "paperId": "ca5c766b2d31a1f5ce8896a0a42b40a2bff9323a",
+      "externalIds": {
+        "ArXiv": "1502.03240",
+        "MAG": "3100332847",
+        "DBLP": "journals/corr/ZhengJRVSDHT15",
+        "DOI": "10.1109/ICCV.2015.179",
+        "CorpusId": 1318262
+      },
+      "url": "https://www.semanticscholar.org/paper/ca5c766b2d31a1f5ce8896a0a42b40a2bff9323a",
+      "title": "Conditional Random Fields as Recurrent Neural Networks",
+      "venue": "IEEE International Conference on Computer Vision",
+      "year": 2015,
+      "referenceCount": 71,
+      "citationCount": 2582,
+      "authors": [
+        {
+          "authorId": "40474289",
+          "name": "Shuai Zheng"
+        },
+        {
+          "authorId": "3078751",
+          "name": "Sadeep Jayasumana"
+        },
+        {
+          "authorId": "1403031665",
+          "name": "Bernardino Romera-Paredes"
+        },
+        {
+          "authorId": "143729959",
+          "name": "Vibhav Vineet"
+        },
+        {
+          "authorId": "3118650",
+          "name": "Zhizhong Su"
+        },
+        {
+          "authorId": "40359161",
+          "name": "Dalong Du"
+        },
+        {
+          "authorId": "48908475",
+          "name": "Chang Huang"
+        },
+        {
+          "authorId": "143635540",
+          "name": "Philip H. S. Torr"
+        }
+      ]
+    },
+    {
+      "paperId": "699263bd898009d4014b60b755fb691723579530",
+      "externalIds": {
+        "DBLP": "conf/bmvc/GulBK19",
+        "MAG": "3023896269",
+        "CorpusId": 204804831
+      },
+      "url": "https://www.semanticscholar.org/paper/699263bd898009d4014b60b755fb691723579530",
+      "title": "Pixel-Wise Confidences for Stereo Disparities Using Recurrent Neural Networks",
+      "venue": "British Machine Vision Conference",
+      "year": 2019,
+      "referenceCount": 35,
+      "citationCount": 9,
+      "authors": [
+        {
+          "authorId": "144394859",
+          "name": "M. K. Gul"
+        },
+        {
+          "authorId": "40187342",
+          "name": "M. Bätz"
+        },
+        {
+          "authorId": "1836538",
+          "name": "J. Keinert"
+        }
+      ]
+    },
+    {
+      "paperId": "55bec785b60b2cbc6b9d23afe9feb273c24fb037",
+      "externalIds": {
+        "DOI": "10.1007/s42835-025-02244-z",
+        "CorpusId": 277654287
+      },
+      "url": "https://www.semanticscholar.org/paper/55bec785b60b2cbc6b9d23afe9feb273c24fb037",
+      "title": "Missing Object Detection and Tracking from Video Surveillance Camera Footage Based on Deep Learning Through Convolutional Gated Recurrent Neural Networks (CGRNN)",
+      "venue": "Journal of Electrical Engineering and Technology",
+      "year": 2025,
+      "referenceCount": 37,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "2161949514",
+          "name": "A. Khan"
+        },
+        {
+          "authorId": "2300774057",
+          "name": "R. S. Sabeenian"
+        }
+      ]
+    },
+    {
+      "paperId": "970b00f12815aaa87a39f44f53d7b418c478c780",
+      "externalIds": {
+        "ArXiv": "2501.06293",
+        "DBLP": "journals/corr/abs-2501-06293",
+        "DOI": "10.3847/1538-3881/ada4b5",
+        "CorpusId": 275471151
+      },
+      "url": "https://www.semanticscholar.org/paper/970b00f12815aaa87a39f44f53d7b418c478c780",
+      "title": "LensNet: Enhancing Real-time Microlensing Event Discovery with Recurrent Neural Networks in the Korea Microlensing Telescope Network",
+      "venue": "Astronomical Journal",
+      "year": 2025,
+      "referenceCount": 38,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2264208629",
+          "name": "Javier Viaña"
+        },
+        {
+          "authorId": "102262828",
+          "name": "K. Hwang"
+        },
+        {
+          "authorId": "2158949866",
+          "name": "Z. D. de Beurs"
+        },
+        {
+          "authorId": "11765112",
+          "name": "J. Yee"
+        },
+        {
+          "authorId": "7170589",
+          "name": "A. Vanderburg"
+        },
+        {
+          "authorId": "2379645750",
+          "name": "M. Albrow"
+        },
+        {
+          "authorId": "2116753307",
+          "name": "S. Chung"
+        },
+        {
+          "authorId": "2256661473",
+          "name": "A. Gould"
+        },
+        {
+          "authorId": "144827764",
+          "name": "C. Han"
+        },
+        {
+          "authorId": "90418361",
+          "name": "Y. Jung"
+        },
+        {
+          "authorId": "153191058",
+          "name": "Y. Ryu"
+        },
+        {
+          "authorId": "123604654",
+          "name": "I. Shin"
+        },
+        {
+          "authorId": "7336865",
+          "name": "Y. Shvartzvald"
+        },
+        {
+          "authorId": "1832103520",
+          "name": "Hongjing Yang"
+        },
+        {
+          "authorId": "31385794",
+          "name": "W. Zang"
+        },
+        {
+          "authorId": "102352265",
+          "name": "S. Cha"
+        },
+        {
+          "authorId": "2111839998",
+          "name": "Dong-Jin Kim"
+        },
+        {
+          "authorId": "2109519715",
+          "name": "Seung-Lee Kim"
+        },
+        {
+          "authorId": "81275300",
+          "name": "Chung-Uk Lee"
+        },
+        {
+          "authorId": "50403345",
+          "name": "Dong-Joo Lee"
+        },
+        {
+          "authorId": "2110033838",
+          "name": "Yongseok Lee"
+        },
+        {
+          "authorId": "144890811",
+          "name": "B.-G. Park"
+        },
+        {
+          "authorId": "39660188",
+          "name": "R. Pogge"
+        }
+      ]
+    },
+    {
+      "paperId": "521114a84cea0041a1733604a0b97eeff69d6b9b",
+      "externalIds": {
+        "DOI": "10.1109/ICOCWC60930.2024.10470617",
+        "CorpusId": 268611794
+      },
+      "url": "https://www.semanticscholar.org/paper/521114a84cea0041a1733604a0b97eeff69d6b9b",
+      "title": "Enhancing Medical Image Segmentation with Attention-Based Recurrent Neural Networks",
+      "venue": "2024 International Conference on Optimization Computing and Wireless Communication (ICOCWC)",
+      "year": 2024,
+      "referenceCount": 17,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2292746153",
+          "name": "R. Dwivedi"
+        },
+        {
+          "authorId": "2283499580",
+          "name": "Ananya Saha"
+        },
+        {
+          "authorId": "2322259047",
+          "name": "Meenakshi Sharma"
+        }
+      ]
+    },
+    {
+      "paperId": "7f730c39ed2732504bc1240e3f8fad32f3831930",
+      "externalIds": {
+        "DOI": "10.48084/etasr.11521",
+        "CorpusId": 280528295
+      },
+      "url": "https://www.semanticscholar.org/paper/7f730c39ed2732504bc1240e3f8fad32f3831930",
+      "title": "Hybrid Neural Architectures Combining Convolutional and Recurrent Networks for the Early Detection of Retinal Pathologies",
+      "venue": "Engineering, Technology &amp; Applied Science Research",
+      "year": 2025,
+      "referenceCount": 19,
+      "citationCount": 4,
+      "authors": [
+        {
+          "authorId": "100611118",
+          "name": "Orken J. Mamyrbayev"
+        },
+        {
+          "authorId": "2275657495",
+          "name": "Sergii Pavlov"
+        },
+        {
+          "authorId": "2340143027",
+          "name": "Oleksandr Poplavskyi"
+        },
+        {
+          "authorId": "2275657186",
+          "name": "K. Momynzhanova"
+        },
+        {
+          "authorId": "2312560281",
+          "name": "Yu.Yo. Saldan"
+        },
+        {
+          "authorId": "2374970872",
+          "name": "Ardan Zhanegiz"
+        },
+        {
+          "authorId": "148169291",
+          "name": "Sholpan Zhumagulova"
+        },
+        {
+          "authorId": "2277101399",
+          "name": "N. Zhumazhan"
+        }
+      ]
+    },
+    {
+      "paperId": "dc270f03a51d707996549d8f380d270f17d5c83a",
+      "externalIds": {
+        "PubMedCentral": "10503853",
+        "DOI": "10.1007/s10765-023-03277-0",
+        "CorpusId": 261906626,
+        "PubMed": "37720023"
+      },
+      "url": "https://www.semanticscholar.org/paper/dc270f03a51d707996549d8f380d270f17d5c83a",
+      "title": "Using Recurrent Neural Networks to Reconstruct Temperatures from Simulated Fluorescent Data for use in Bio-Microfluidics",
+      "venue": "International journal of thermophysics",
+      "year": 2023,
+      "referenceCount": 47,
+      "citationCount": 4,
+      "authors": [
+        {
+          "authorId": "2185979774",
+          "name": "Jacob Kullberg"
+        },
+        {
+          "authorId": "2287661902",
+          "name": "Derek A. Sanchez"
+        },
+        {
+          "authorId": "2241706751",
+          "name": "Brendan Mitchell"
+        },
+        {
+          "authorId": "2241697775",
+          "name": "Troy Munro"
+        },
+        {
+          "authorId": "2241706976",
+          "name": "Parris Egbert"
+        }
+      ]
+    },
+    {
+      "paperId": "e59e67311c9b5c5932187c2d3fc37c6d77baacad",
+      "externalIds": {
+        "MAG": "3137969071",
+        "DBLP": "journals/lgrs/YuLLZDWLZZ22",
+        "DOI": "10.1109/LGRS.2021.3064814",
+        "CorpusId": 234305890
+      },
+      "url": "https://www.semanticscholar.org/paper/e59e67311c9b5c5932187c2d3fc37c6d77baacad",
+      "title": "Spatial–Temporal Prediction of Vegetation Index With Deep Recurrent Neural Networks",
+      "venue": "IEEE Geoscience and Remote Sensing Letters",
+      "year": 2022,
+      "referenceCount": 0,
+      "citationCount": 20,
+      "authors": [
+        {
+          "authorId": "50240161",
+          "name": "Wentao Yu"
+        },
+        {
+          "authorId": "35729269",
+          "name": "Jing Li"
+        },
+        {
+          "authorId": "2109312657",
+          "name": "Qinhuo Liu"
+        },
+        {
+          "authorId": "2150659335",
+          "name": "Jing Zhao"
+        },
+        {
+          "authorId": "3159141",
+          "name": "Yadong Dong"
+        },
+        {
+          "authorId": "2116638384",
+          "name": "Cong Wang"
+        },
+        {
+          "authorId": "80656553",
+          "name": "Shangrong Lin"
+        },
+        {
+          "authorId": "2218976425",
+          "name": "Xinran Zhu"
+        },
+        {
+          "authorId": "1990449338",
+          "name": "Hu Zhang"
+        }
+      ]
+    }
+  ]
+}

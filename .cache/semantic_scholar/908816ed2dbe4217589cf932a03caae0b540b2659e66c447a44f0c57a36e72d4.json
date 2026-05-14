@@ -1,0 +1,311 @@
+{
+  "total": 161,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "a544d3c8222cf732f570fc6db66489bab66e08d7",
+      "externalIds": {
+        "MAG": "2257807852",
+        "DBLP": "journals/corr/HazanL16",
+        "ArXiv": "1602.02101",
+        "CorpusId": 13246180
+      },
+      "url": "https://www.semanticscholar.org/paper/a544d3c8222cf732f570fc6db66489bab66e08d7",
+      "title": "Variance-Reduced and Projection-Free Stochastic Optimization",
+      "venue": "International Conference on Machine Learning",
+      "year": 2016,
+      "referenceCount": 16,
+      "citationCount": 177,
+      "authors": [
+        {
+          "authorId": "34840427",
+          "name": "Elad Hazan"
+        },
+        {
+          "authorId": "2131127",
+          "name": "Haipeng Luo"
+        }
+      ]
+    },
+    {
+      "paperId": "5feb9aabd3bf1e8e7c79f8d97b3b256d495ff4a2",
+      "externalIds": {
+        "MAG": "3013786911",
+        "CorpusId": 214693040
+      },
+      "url": "https://www.semanticscholar.org/paper/5feb9aabd3bf1e8e7c79f8d97b3b256d495ff4a2",
+      "title": "Projection-free nonconvex stochastic optimization on Riemannian manifolds",
+      "venue": "",
+      "year": 2019,
+      "referenceCount": 32,
+      "citationCount": 30,
+      "authors": [
+        {
+          "authorId": "2110435418",
+          "name": "Melanie Weber"
+        },
+        {
+          "authorId": "3072326",
+          "name": "S. Sra"
+        }
+      ]
+    },
+    {
+      "paperId": "69d6d3d6d8dc9ff419a079d9851c8f7f4e8c4392",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2007-12625",
+        "ArXiv": "2007.12625",
+        "MAG": "3044241391",
+        "CorpusId": 220768919
+      },
+      "url": "https://www.semanticscholar.org/paper/69d6d3d6d8dc9ff419a079d9851c8f7f4e8c4392",
+      "title": "Accelerated Stochastic Gradient-free and Projection-free Methods",
+      "venue": "International Conference on Machine Learning",
+      "year": 2020,
+      "referenceCount": 61,
+      "citationCount": 27,
+      "authors": [
+        {
+          "authorId": "3057688",
+          "name": "Feihu Huang"
+        },
+        {
+          "authorId": "3023914",
+          "name": "Lue Tao"
+        },
+        {
+          "authorId": "48848338",
+          "name": "Songcan Chen"
+        }
+      ]
+    },
+    {
+      "paperId": "52bf6efd08c9c3d2a9117b8bd02e4fe51bd10f3e",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-1910-04194",
+        "MAG": "2980089561",
+        "ArXiv": "1910.04194",
+        "CorpusId": 204009004
+      },
+      "url": "https://www.semanticscholar.org/paper/52bf6efd08c9c3d2a9117b8bd02e4fe51bd10f3e",
+      "title": "Nonconvex stochastic optimization on manifolds via Riemannian Frank-Wolfe methods",
+      "venue": "arXiv.org",
+      "year": 2019,
+      "referenceCount": 37,
+      "citationCount": 17,
+      "authors": [
+        {
+          "authorId": "46666130",
+          "name": "Melanie Weber"
+        },
+        {
+          "authorId": "3072326",
+          "name": "S. Sra"
+        }
+      ]
+    },
+    {
+      "paperId": "4679143c09284e8da1bd2a66f8dbaa26d5e0b841",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2106-09481",
+        "ArXiv": "2106.09481",
+        "CorpusId": 235458288
+      },
+      "url": "https://www.semanticscholar.org/paper/4679143c09284e8da1bd2a66f8dbaa26d5e0b841",
+      "title": "Stochastic Bias-Reduced Gradient Methods",
+      "venue": "Neural Information Processing Systems",
+      "year": 2021,
+      "referenceCount": 55,
+      "citationCount": 37,
+      "authors": [
+        {
+          "authorId": "50392836",
+          "name": "Hilal Asi"
+        },
+        {
+          "authorId": "2444742",
+          "name": "Y. Carmon"
+        },
+        {
+          "authorId": "27667836",
+          "name": "Arun Jambulapati"
+        },
+        {
+          "authorId": "2110894927",
+          "name": "Yujia Jin"
+        },
+        {
+          "authorId": "2357926",
+          "name": "Aaron Sidford"
+        }
+      ]
+    },
+    {
+      "paperId": "7f322ba2f3b2255f305de5a40148d33a5244524f",
+      "externalIds": {
+        "DBLP": "conf/allerton/ReddiSPS16",
+        "MAG": "2962867868",
+        "ArXiv": "1607.08254",
+        "DOI": "10.1109/ALLERTON.2016.7852377",
+        "CorpusId": 11698826
+      },
+      "url": "https://www.semanticscholar.org/paper/7f322ba2f3b2255f305de5a40148d33a5244524f",
+      "title": "Stochastic Frank-Wolfe methods for nonconvex optimization",
+      "venue": "Allerton Conference on Communication, Control, and Computing",
+      "year": 2016,
+      "referenceCount": 25,
+      "citationCount": 155,
+      "authors": [
+        {
+          "authorId": "1981186",
+          "name": "Sashank J. Reddi"
+        },
+        {
+          "authorId": "3072326",
+          "name": "S. Sra"
+        },
+        {
+          "authorId": "1719347",
+          "name": "B. Póczos"
+        },
+        {
+          "authorId": "46234526",
+          "name": "Alex Smola"
+        }
+      ]
+    },
+    {
+      "paperId": "4fad1eaf1aa7dbb58f896c668035c0c462e71b39",
+      "externalIds": {
+        "DBLP": "conf/icml/JiangYYWW024",
+        "ArXiv": "2406.03787",
+        "DOI": "10.48550/arXiv.2406.03787",
+        "CorpusId": 270285449
+      },
+      "url": "https://www.semanticscholar.org/paper/4fad1eaf1aa7dbb58f896c668035c0c462e71b39",
+      "title": "Projection-Free Variance Reduction Methods for Stochastic Constrained Multi-Level Compositional Optimization",
+      "venue": "International Conference on Machine Learning",
+      "year": 2024,
+      "referenceCount": 49,
+      "citationCount": 6,
+      "authors": [
+        {
+          "authorId": "152889333",
+          "name": "Wei Jiang"
+        },
+        {
+          "authorId": "2304515251",
+          "name": "Sifan Yang"
+        },
+        {
+          "authorId": "2300577147",
+          "name": "Wenhao Yang"
+        },
+        {
+          "authorId": "2214727131",
+          "name": "Yibo Wang"
+        },
+        {
+          "authorId": "50826651",
+          "name": "Yuanyu Wan"
+        },
+        {
+          "authorId": "2300816565",
+          "name": "Lijun Zhang"
+        }
+      ]
+    },
+    {
+      "paperId": "deab6611b76c4b3db6f8187b800ac2163317914c",
+      "externalIds": {
+        "DOI": "10.1016/j.apnum.2026.04.003",
+        "CorpusId": 287576021
+      },
+      "url": "https://www.semanticscholar.org/paper/deab6611b76c4b3db6f8187b800ac2163317914c",
+      "title": "Variance-Based Projection-Free Algorithms for Stochastic Constrained Multi-Level Compositional Optimization in Misspecified Regimes",
+      "venue": "Applied Numerical Mathematics",
+      "year": 2026,
+      "referenceCount": 35,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2348712844",
+          "name": "Zhen Yang"
+        },
+        {
+          "authorId": "13792853",
+          "name": "Zirong Ye"
+        }
+      ]
+    },
+    {
+      "paperId": "62fdc0034392c7e59e99b4462be4589317b2719b",
+      "externalIds": {
+        "DBLP": "journals/tac/JiangZXSC25",
+        "DOI": "10.1109/TAC.2024.3481040",
+        "CorpusId": 273385985
+      },
+      "url": "https://www.semanticscholar.org/paper/62fdc0034392c7e59e99b4462be4589317b2719b",
+      "title": "Distributed Stochastic Projection-Free Algorithm for Constrained Optimization",
+      "venue": "IEEE Transactions on Automatic Control",
+      "year": 2025,
+      "referenceCount": 56,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "2139348642",
+          "name": "Xia Jiang"
+        },
+        {
+          "authorId": "145432985",
+          "name": "Xianlin Zeng"
+        },
+        {
+          "authorId": "2239754272",
+          "name": "Lihua Xie"
+        },
+        {
+          "authorId": "2273566510",
+          "name": "Jian Sun"
+        },
+        {
+          "authorId": "2324043627",
+          "name": "Jie Chen"
+        }
+      ]
+    },
+    {
+      "paperId": "171cf413fd10cf7bb560fd467e596460822c82ea",
+      "externalIds": {
+        "DBLP": "journals/ml/XieZSQ25",
+        "DOI": "10.1007/s10994-024-06640-w",
+        "CorpusId": 276498741
+      },
+      "url": "https://www.semanticscholar.org/paper/171cf413fd10cf7bb560fd467e596460822c82ea",
+      "title": "Efficient projection-free online convex optimization using stochastic gradients",
+      "venue": "Machine-mediated learning",
+      "year": 2025,
+      "referenceCount": 22,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "145833003",
+          "name": "Jiahao Xie"
+        },
+        {
+          "authorId": "2152736218",
+          "name": "Chao Zhang"
+        },
+        {
+          "authorId": "3350452",
+          "name": "Zebang Shen"
+        },
+        {
+          "authorId": "2239596062",
+          "name": "Hui Qian"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1491 @@
+{
+  "offset": 0,
+  "citingPaperInfo": {
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/1502.08053, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "title": "Stochastic Dual Coordinate Ascent with Adaptive Probabilities",
+    "authors": [
+      {
+        "authorId": "1813427",
+        "name": "Dominik Csiba"
+      },
+      {
+        "authorId": "38862887",
+        "name": "Zheng Qu"
+      },
+      {
+        "authorId": "2662221",
+        "name": "Peter Richtárik"
+      }
+    ]
+  },
+  "data": [
+    {
+      "citedPaper": {
+        "paperId": "28512b173dba742936e0046eea834033599611ac",
+        "externalIds": {
+          "ArXiv": "1504.04407",
+          "MAG": "2103628399",
+          "DBLP": "journals/corr/KonecnyLRT15",
+          "DOI": "10.1109/JSTSP.2015.2505682",
+          "CorpusId": 11989411
+        },
+        "url": "https://www.semanticscholar.org/paper/28512b173dba742936e0046eea834033599611ac",
+        "title": "Mini-Batch Semi-Stochastic Gradient Descent in the Proximal Setting",
+        "venue": "IEEE Journal on Selected Topics in Signal Processing",
+        "year": 2015,
+        "referenceCount": 55,
+        "citationCount": 278,
+        "authors": [
+          {
+            "authorId": "32139366",
+            "name": "Jakub Konecný"
+          },
+          {
+            "authorId": "2146651544",
+            "name": "Jie Liu"
+          },
+          {
+            "authorId": "2662221",
+            "name": "Peter Richtárik"
+          },
+          {
+            "authorId": "144696183",
+            "name": "Martin Takác"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "28cf6da1cdcfc1f95b8c31b13d975837257766f2",
+        "externalIds": {
+          "MAG": "2950517004",
+          "DBLP": "journals/mp/Wright15",
+          "ArXiv": "1502.04759",
+          "DOI": "10.1007/s10107-015-0892-3",
+          "CorpusId": 15284973
+        },
+        "url": "https://www.semanticscholar.org/paper/28cf6da1cdcfc1f95b8c31b13d975837257766f2",
+        "title": "Coordinate descent algorithms",
+        "venue": "Mathematical programming",
+        "year": 2015,
+        "referenceCount": 60,
+        "citationCount": 1587,
+        "authors": [
+          {
+            "authorId": "144731788",
+            "name": "Stephen J. Wright"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "f0ac0abc2877be461a87793a281627d687318c8e",
+        "externalIds": {
+          "DBLP": "journals/oms/QuR16a",
+          "MAG": "2962990180",
+          "ArXiv": "1412.8063",
+          "DOI": "10.1080/10556788.2016.1190361",
+          "CorpusId": 11048560
+        },
+        "url": "https://www.semanticscholar.org/paper/f0ac0abc2877be461a87793a281627d687318c8e",
+        "title": "Coordinate descent with arbitrary sampling II: expected separable overapproximation",
+        "venue": "Optim. Methods Softw.",
+        "year": 2014,
+        "referenceCount": 39,
+        "citationCount": 83,
+        "authors": [
+          {
+            "authorId": "38862887",
+            "name": "Zheng Qu"
+          },
+          {
+            "authorId": "2662221",
+            "name": "Peter Richtárik"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "33af187faf1955897e02c33833d2f760c6545663",
+        "externalIds": {
+          "MAG": "2963434703",
+          "DBLP": "journals/corr/QuR14",
+          "ArXiv": "1412.8060",
+          "DOI": "10.1080/10556788.2016.1190360",
+          "CorpusId": 2636844
+        },
+        "url": "https://www.semanticscholar.org/paper/33af187faf1955897e02c33833d2f760c6545663",
+        "title": "Coordinate descent with arbitrary sampling I: algorithms and complexity†",
+        "venue": "Optim. Methods Softw.",
+        "year": 2014,
+        "referenceCount": 50,
+        "citationCount": 134,
+        "authors": [
+          {
+            "authorId": "38862887",
+            "name": "Zheng Qu"
+          },
+          {
+            "authorId": "2662221",
+            "name": "Peter Richtárik"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "71539226d5301c9b49e96d4f7cf49d396c73b0ab",
+        "externalIds": {
+          "MAG": "1565901846",
+          "CorpusId": 118275933
+        },
+        "url": "https://www.semanticscholar.org/paper/71539226d5301c9b49e96d4f7cf49d396c73b0ab",
+        "title": "A General Theory of Pathwise Coordinate Optimization",
+        "venue": "",
+        "year": 2014,
+        "referenceCount": 78,
+        "citationCount": 16,
+        "authors": [
+          {
+            "authorId": "36345161",
+            "name": "T. Zhao"
+          },
+          {
+            "authorId": null,
+            "name": "Han Liu"
+          },
+          {
+            "authorId": "2146324552",
+            "name": "Tong Zhang"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "c8a78c74d4a4ff2c4128d5f8e8843938445314e2",
+        "externalIds": {
+          "MAG": "2950588826",
+          "DBLP": "journals/corr/abs-1412-7477",
+          "ArXiv": "1412.7477",
+          "DOI": "10.1214/17-AOS1547",
+          "CorpusId": 4149904
+        },
+        "url": "https://www.semanticscholar.org/paper/c8a78c74d4a4ff2c4128d5f8e8843938445314e2",
+        "title": "Pathwise Coordinate Optimization for Sparse Learning: Algorithm and Theory",
+        "venue": "arXiv.org",
+        "year": 2014,
+        "referenceCount": 76,
+        "citationCount": 46,
+        "authors": [
+          {
+            "authorId": "36345161",
+            "name": "T. Zhao"
+          },
+          {
+            "authorId": "49957601",
+            "name": "Han Liu"
+          },
+          {
+            "authorId": "2146324552",
+            "name": "Tong Zhang"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "026093f1e49c315523c4b95dc05c76c15aecc859",
+        "externalIds": {
+          "MAG": "2952455445",
+          "DBLP": "journals/corr/KonecnyQR14",
+          "ArXiv": "1412.6293",
+          "DOI": "10.1080/10556788.2017.1298596",
+          "CorpusId": 15515107
+        },
+        "url": "https://www.semanticscholar.org/paper/026093f1e49c315523c4b95dc05c76c15aecc859",
+        "title": "Semi-stochastic coordinate descent",
+        "venue": "Optim. Methods Softw.",
+        "year": 2014,
+        "referenceCount": 30,
+        "citationCount": 94,
+        "authors": [
+          {
+            "authorId": "32139366",
+            "name": "Jakub Konecný"
+          },
+          {
+            "authorId": "38862887",
+            "name": "Zheng Qu"
+          },
+          {
+            "authorId": "2662221",
+            "name": "Peter Richtárik"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "84eac0730d1d6ffc935193f346283e342b5be19c",
+        "externalIds": {
+          "DBLP": "conf/nips/ZhaoYWAL14",
+          "MAG": "2144115358",
+          "CorpusId": 1114294,
+          "PubMed": "25620860"
+        },
+        "url": "https://www.semanticscholar.org/paper/84eac0730d1d6ffc935193f346283e342b5be19c",
+        "title": "Accelerated Mini-batch Randomized Block Coordinate Descent Method",
+        "venue": "Neural Information Processing Systems",
+        "year": 2014,
+        "referenceCount": 21,
+        "citationCount": 74,
+        "authors": [
+          {
+            "authorId": "36345161",
+            "name": "T. Zhao"
+          },
+          {
+            "authorId": "2482533",
+            "name": "Mo Yu"
+          },
+          {
+            "authorId": "21595671",
+            "name": "Yiming Wang"
+          },
+          {
+            "authorId": "144365054",
+            "name": "R. Arora"
+          },
+          {
+            "authorId": "49957601",
+            "name": "Han Liu"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "58f2d0015be66fec248ef1e5d29b640e08a4dee9",
+        "externalIds": {
+          "MAG": "2170949067",
+          "ArXiv": "1411.6520",
+          "DBLP": "journals/corr/TrofimovG14",
+          "DOI": "10.1007/978-3-319-26123-2_24",
+          "CorpusId": 1623028
+        },
+        "url": "https://www.semanticscholar.org/paper/58f2d0015be66fec248ef1e5d29b640e08a4dee9",
+        "title": "Distributed Coordinate Descent for L1-regularized Logistic Regression",
+        "venue": "International Joint Conference on the Analysis of Images, Social Networks and Texts",
+        "year": 2014,
+        "referenceCount": 19,
+        "citationCount": 15,
+        "authors": [
+          {
+            "authorId": "144035647",
+            "name": "I. Trofimov"
+          },
+          {
+            "authorId": "143629224",
+            "name": "A. Genkin"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "b68f464d7770bd3b820231a45ced94d990009833",
+        "externalIds": {
+          "ArXiv": "1411.5873",
+          "MAG": "1852760382",
+          "DBLP": "journals/corr/QuRZ14",
+          "CorpusId": 10020351
+        },
+        "url": "https://www.semanticscholar.org/paper/b68f464d7770bd3b820231a45ced94d990009833",
+        "title": "Randomized Dual Coordinate Ascent with Arbitrary Sampling",
+        "venue": "arXiv.org",
+        "year": 2014,
+        "referenceCount": 39,
+        "citationCount": 58,
+        "authors": [
+          {
+            "authorId": "38862887",
+            "name": "Zheng Qu"
+          },
+          {
+            "authorId": "2662221",
+            "name": "Peter Richtárik"
+          },
+          {
+            "authorId": "49104973",
+            "name": "Tong Zhang"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "613b97e14414d23bae19d0a0d146217e02d3bfa5",
+        "externalIds": {
+          "MAG": "2952664667",
+          "DBLP": "conf/icml/AgarwalB15",
+          "ArXiv": "1410.0723",
+          "CorpusId": 8671350
+        },
+        "url": "https://www.semanticscholar.org/paper/613b97e14414d23bae19d0a0d146217e02d3bfa5",
+        "title": "A Lower Bound for the Optimization of Finite Sums",
+        "venue": "International Conference on Machine Learning",
+        "year": 2014,
+        "referenceCount": 16,
+        "citationCount": 131,
+        "authors": [
+          {
+            "authorId": "40333747",
+            "name": "Alekh Agarwal"
+          },
+          {
+            "authorId": "52184096",
+            "name": "L. Bottou"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "75359c49a6abdd5fba642f46ec44812ed8e8a648",
+        "externalIds": {
+          "MAG": "1948582444",
+          "ArXiv": "1409.3257",
+          "DBLP": "journals/jmlr/ZhangX17",
+          "CorpusId": 13451663
+        },
+        "url": "https://www.semanticscholar.org/paper/75359c49a6abdd5fba642f46ec44812ed8e8a648",
+        "title": "Stochastic Primal-Dual Coordinate Method for Regularized Empirical Risk Minimization",
+        "venue": "International Conference on Machine Learning",
+        "year": 2014,
+        "referenceCount": 73,
+        "citationCount": 269,
+        "authors": [
+          {
+            "authorId": "2108471978",
+            "name": "Yuchen Zhang"
+          },
+          {
+            "authorId": "143724437",
+            "name": "Xiao Lin"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "1d883e92941c1db1feaca4ab943e80d196d13402",
+        "externalIds": {
+          "MAG": "2963861706",
+          "DBLP": "conf/nips/JaggiSTTKHJ14",
+          "ArXiv": "1409.1458",
+          "CorpusId": 7978238
+        },
+        "url": "https://www.semanticscholar.org/paper/1d883e92941c1db1feaca4ab943e80d196d13402",
+        "title": "Communication-Efficient Distributed Dual Coordinate Ascent",
+        "venue": "Neural Information Processing Systems",
+        "year": 2014,
+        "referenceCount": 31,
+        "citationCount": 359,
+        "authors": [
+          {
+            "authorId": "2456863",
+            "name": "Martin Jaggi"
+          },
+          {
+            "authorId": "145260024",
+            "name": "Virginia Smith"
+          },
+          {
+            "authorId": "144696183",
+            "name": "Martin Takác"
+          },
+          {
+            "authorId": "2281294",
+            "name": "Jonathan Terhorst"
+          },
+          {
+            "authorId": "40428703",
+            "name": "S. Krishnan"
+          },
+          {
+            "authorId": "143936663",
+            "name": "Thomas Hofmann"
+          },
+          {
+            "authorId": "1694621",
+            "name": "Michael I. Jordan"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "ecf828083be8f411baea39a1430b5b5bd5844945",
+        "externalIds": {
+          "MAG": "1839106079",
+          "ArXiv": "1407.7573",
+          "CorpusId": 119116829
+        },
+        "url": "https://www.semanticscholar.org/paper/ecf828083be8f411baea39a1430b5b5bd5844945",
+        "title": "Robust Block Coordinate Descent",
+        "venue": "",
+        "year": 2014,
+        "referenceCount": 29,
+        "citationCount": 11,
+        "authors": [
+          {
+            "authorId": "38794481",
+            "name": "K. Fountoulakis"
+          },
+          {
+            "authorId": "2390330",
+            "name": "R. Tappenden"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "8dcd49ea538473ca855403c01c9a688f2a2709aa",
+        "externalIds": {
+          "ArXiv": "1407.1296",
+          "MAG": "2950457428",
+          "CorpusId": 16255803
+        },
+        "url": "https://www.semanticscholar.org/paper/8dcd49ea538473ca855403c01c9a688f2a2709aa",
+        "title": "An Accelerated Proximal Coordinate Gradient Method and its Application to Regularized Empirical Risk Minimization",
+        "venue": "",
+        "year": 2014,
+        "referenceCount": 47,
+        "citationCount": 59,
+        "authors": [
+          {
+            "authorId": "39436683",
+            "name": "Qihang Lin"
+          },
+          {
+            "authorId": "6201715",
+            "name": "Zhaosong Lu"
+          },
+          {
+            "authorId": "2149551306",
+            "name": "Lin Xiao"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "4daec165c1f4aa1206b0d91c0b26f0287d1ef52d",
+        "externalIds": {
+          "MAG": "2135482703",
+          "DBLP": "journals/corr/DefazioBL14",
+          "ArXiv": "1407.0202",
+          "CorpusId": 218654665
+        },
+        "url": "https://www.semanticscholar.org/paper/4daec165c1f4aa1206b0d91c0b26f0287d1ef52d",
+        "title": "SAGA: A Fast Incremental Gradient Method With Support for Non-Strongly Convex Composite Objectives",
+        "venue": "Neural Information Processing Systems",
+        "year": 2014,
+        "referenceCount": 13,
+        "citationCount": 1975,
+        "authors": [
+          {
+            "authorId": "34597877",
+            "name": "Aaron Defazio"
+          },
+          {
+            "authorId": "144570279",
+            "name": "F. Bach"
+          },
+          {
+            "authorId": "1388317459",
+            "name": "Simon Lacoste-Julien"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "3bd60164d214110e0f68791284a66085da3a6799",
+        "externalIds": {
+          "ArXiv": "1406.0238",
+          "MAG": "1594004154",
+          "DOI": "10.1007/978-3-319-17689-5_11",
+          "CorpusId": 18013351
+        },
+        "url": "https://www.semanticscholar.org/paper/3bd60164d214110e0f68791284a66085da3a6799",
+        "title": "Distributed Block Coordinate Descent for Minimizing Partially Separable Functions",
+        "venue": "",
+        "year": 2014,
+        "referenceCount": 48,
+        "citationCount": 64,
+        "authors": [
+          {
+            "authorId": "2128242",
+            "name": "Jakub Marecek"
+          },
+          {
+            "authorId": "2662221",
+            "name": "Peter Richtárik"
+          },
+          {
+            "authorId": "144696183",
+            "name": "Martin Takác"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "404595e14acdb3aa5e7f588c3c742a264dd386b9",
+        "externalIds": {
+          "ArXiv": "1406.0328",
+          "MAG": "1590647234",
+          "CorpusId": 117798908
+        },
+        "url": "https://www.semanticscholar.org/paper/404595e14acdb3aa5e7f588c3c742a264dd386b9",
+        "title": "Stably Newton non-degenerate singularities",
+        "venue": "",
+        "year": 2014,
+        "referenceCount": 16,
+        "citationCount": 1,
+        "authors": [
+          {
+            "authorId": "144547063",
+            "name": "J. Stevens"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "70ff40fdd2aef1f342cdc34c586f672e41dd20ce",
+        "externalIds": {
+          "DBLP": "conf/mlsp/FercoqQRT14",
+          "MAG": "2964252705",
+          "ArXiv": "1405.5300",
+          "DOI": "10.1109/MLSP.2014.6958862",
+          "CorpusId": 10974763
+        },
+        "url": "https://www.semanticscholar.org/paper/70ff40fdd2aef1f342cdc34c586f672e41dd20ce",
+        "title": "Fast distributed coordinate descent for non-strongly convex losses",
+        "venue": "International Workshop on Machine Learning for Signal Processing",
+        "year": 2014,
+        "referenceCount": 8,
+        "citationCount": 59,
+        "authors": [
+          {
+            "authorId": "2442024",
+            "name": "Olivier Fercoq"
+          },
+          {
+            "authorId": "38862887",
+            "name": "Zheng Qu"
+          },
+          {
+            "authorId": "2662221",
+            "name": "Peter Richtárik"
+          },
+          {
+            "authorId": "144696183",
+            "name": "Martin Takác"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "e6a37d32a48faf943d485c3da05f428c90eb1e4d",
+        "externalIds": {
+          "MAG": "2964026016",
+          "DBLP": "journals/jmlr/MahajanKS17",
+          "ArXiv": "1405.4544",
+          "CorpusId": 14065400
+        },
+        "url": "https://www.semanticscholar.org/paper/e6a37d32a48faf943d485c3da05f428c90eb1e4d",
+        "title": "A distributed block coordinate descent method for training $l_1$ regularized linear classifiers",
+        "venue": "Journal of machine learning research",
+        "year": 2014,
+        "referenceCount": 37,
+        "citationCount": 36,
+        "authors": [
+          {
+            "authorId": "144542135",
+            "name": "D. Mahajan"
+          },
+          {
+            "authorId": "144106136",
+            "name": "S. Keerthi"
+          },
+          {
+            "authorId": "144833733",
+            "name": "S. Sundararajan"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "c92372db9eec502bfe53c3aed0537a9b4147a6e5",
+        "externalIds": {
+          "ArXiv": "1403.4699",
+          "MAG": "2949382400",
+          "DBLP": "journals/siamjo/Xiao014",
+          "DOI": "10.1137/140961791",
+          "CorpusId": 14424444
+        },
+        "url": "https://www.semanticscholar.org/paper/c92372db9eec502bfe53c3aed0537a9b4147a6e5",
+        "title": "A Proximal Stochastic Gradient Method with Progressive Variance Reduction",
+        "venue": "SIAM Journal on Optimization",
+        "year": 2014,
+        "referenceCount": 39,
+        "citationCount": 769,
+        "authors": [
+          {
+            "authorId": "145942106",
+            "name": "Lin Xiao"
+          },
+          {
+            "authorId": "49104973",
+            "name": "Tong Zhang"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "ae2bd8f2c8334f97854d7b4417dae5d67939d7d7",
+        "externalIds": {
+          "DBLP": "journals/siamjo/LiuW15",
+          "MAG": "2950069819",
+          "ArXiv": "1403.3862",
+          "DOI": "10.1137/140961134",
+          "CorpusId": 2863912
+        },
+        "url": "https://www.semanticscholar.org/paper/ae2bd8f2c8334f97854d7b4417dae5d67939d7d7",
+        "title": "Asynchronous Stochastic Coordinate Descent: Parallelism and Convergence Properties",
+        "venue": "SIAM Journal on Optimization",
+        "year": 2014,
+        "referenceCount": 45,
+        "citationCount": 265,
+        "authors": [
+          {
+            "authorId": "40478933",
+            "name": "Ji Liu"
+          },
+          {
+            "authorId": "144731788",
+            "name": "Stephen J. Wright"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "c93c57ee7b5ffbf25131b046948aa45d93629f7c",
+        "externalIds": {
+          "DBLP": "journals/corr/Mairal14",
+          "MAG": "2120717492",
+          "ArXiv": "1402.4419",
+          "DOI": "10.1137/140957639",
+          "CorpusId": 2230491
+        },
+        "url": "https://www.semanticscholar.org/paper/c93c57ee7b5ffbf25131b046948aa45d93629f7c",
+        "title": "Incremental Majorization-Minimization Optimization with Application to Large-Scale Machine Learning",
+        "venue": "SIAM Journal on Optimization",
+        "year": 2014,
+        "referenceCount": 71,
+        "citationCount": 330,
+        "authors": [
+          {
+            "authorId": "2599292",
+            "name": "J. Mairal"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "8726098f7590cbe1f4b33361050ed1c53632c3c6",
+        "externalIds": {
+          "DBLP": "journals/corr/FercoqR13a",
+          "ArXiv": "1312.5799",
+          "MAG": "2951253949",
+          "DOI": "10.1137/130949993",
+          "CorpusId": 8068556
+        },
+        "url": "https://www.semanticscholar.org/paper/8726098f7590cbe1f4b33361050ed1c53632c3c6",
+        "title": "Accelerated, Parallel, and Proximal Coordinate Descent",
+        "venue": "SIAM Journal on Optimization",
+        "year": 2013,
+        "referenceCount": 37,
+        "citationCount": 387,
+        "authors": [
+          {
+            "authorId": "2442024",
+            "name": "Olivier Fercoq"
+          },
+          {
+            "authorId": "2662221",
+            "name": "Peter Richtárik"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "75f854b27e48e3e8fbf9fa40b5f7d9bcd2251030",
+        "externalIds": {
+          "ArXiv": "1312.1666",
+          "MAG": "2963087817",
+          "DBLP": "journals/corr/KonecnyR13",
+          "DOI": "10.3389/fams.2017.00009",
+          "CorpusId": 2970662
+        },
+        "url": "https://www.semanticscholar.org/paper/75f854b27e48e3e8fbf9fa40b5f7d9bcd2251030",
+        "title": "Semi-Stochastic Gradient Descent Methods",
+        "venue": "Frontiers in Applied Mathematics and Statistics",
+        "year": 2013,
+        "referenceCount": 25,
+        "citationCount": 242,
+        "authors": [
+          {
+            "authorId": "32139366",
+            "name": "Jakub Konecný"
+          },
+          {
+            "authorId": "2662221",
+            "name": "Peter Richtárik"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "43c05444fbc239321f6676f3cd539cac34fde7b8",
+        "externalIds": {
+          "MAG": "2107438106",
+          "DBLP": "conf/nips/Johnson013",
+          "CorpusId": 6587578
+        },
+        "url": "https://www.semanticscholar.org/paper/43c05444fbc239321f6676f3cd539cac34fde7b8",
+        "title": "Accelerating Stochastic Gradient Descent using Predictive Variance Reduction",
+        "venue": "Neural Information Processing Systems",
+        "year": 2013,
+        "referenceCount": 6,
+        "citationCount": 2961,
+        "authors": [
+          {
+            "authorId": "2108925678",
+            "name": "Rie Johnson"
+          },
+          {
+            "authorId": "50728655",
+            "name": "Tong Zhang"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "d9cb035237c76349015373fec54a1b07ce2f4503",
+        "externalIds": {
+          "MAG": "2117229703",
+          "DBLP": "conf/acml/GlasmachersD13",
+          "CorpusId": 17930743
+        },
+        "url": "https://www.semanticscholar.org/paper/d9cb035237c76349015373fec54a1b07ce2f4503",
+        "title": "Accelerated Coordinate Descent with Adaptive Coordinate Frequencies",
+        "venue": "Asian Conference on Machine Learning",
+        "year": 2013,
+        "referenceCount": 19,
+        "citationCount": 31,
+        "authors": [
+          {
+            "authorId": "1756710",
+            "name": "T. Glasmachers"
+          },
+          {
+            "authorId": "2154404",
+            "name": "Ü. Dogan"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "da46d0cbae60071633689b3fd131f9c37a210f89",
+        "externalIds": {
+          "DBLP": "journals/corr/RichtarikT13a",
+          "ArXiv": "1310.3438",
+          "MAG": "2950436553",
+          "DOI": "10.1007/S11590-015-0916-1",
+          "CorpusId": 633936
+        },
+        "url": "https://www.semanticscholar.org/paper/da46d0cbae60071633689b3fd131f9c37a210f89",
+        "title": "On optimal probabilities in stochastic coordinate descent methods",
+        "venue": "Optimization Letters",
+        "year": 2013,
+        "referenceCount": 29,
+        "citationCount": 130,
+        "authors": [
+          {
+            "authorId": "2662221",
+            "name": "Peter Richtárik"
+          },
+          {
+            "authorId": "144696183",
+            "name": "Martin Takác"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "95b5ee158488e0a4bfbcd5f399f35df813bc7845",
+        "externalIds": {
+          "MAG": "1845160311",
+          "ArXiv": "1310.2059",
+          "DBLP": "journals/jmlr/RichtarikT16",
+          "CorpusId": 15282178
+        },
+        "url": "https://www.semanticscholar.org/paper/95b5ee158488e0a4bfbcd5f399f35df813bc7845",
+        "title": "Distributed Coordinate Descent Method for Learning with Big Data",
+        "venue": "Journal of machine learning research",
+        "year": 2013,
+        "referenceCount": 21,
+        "citationCount": 260,
+        "authors": [
+          {
+            "authorId": "2662221",
+            "name": "Peter Richtárik"
+          },
+          {
+            "authorId": "144696183",
+            "name": "Martin Takác"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "73068d3d5dacf987848eadd9af5b5fad8f7cf9c6",
+        "externalIds": {
+          "DBLP": "journals/mp/SchmidtRB17",
+          "MAG": "2963156201",
+          "ArXiv": "1309.2388",
+          "DOI": "10.1007/s10107-016-1030-6",
+          "CorpusId": 5095654
+        },
+        "url": "https://www.semanticscholar.org/paper/73068d3d5dacf987848eadd9af5b5fad8f7cf9c6",
+        "title": "Minimizing finite sums with the stochastic average gradient",
+        "venue": "Mathematical programming",
+        "year": 2013,
+        "referenceCount": 99,
+        "citationCount": 1323,
+        "authors": [
+          {
+            "authorId": "145610994",
+            "name": "Mark W. Schmidt"
+          },
+          {
+            "authorId": "7245737",
+            "name": "Nicolas Le Roux"
+          },
+          {
+            "authorId": "144570279",
+            "name": "F. Bach"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "d9bdff5eac0d0d1ebd8d09960f195b838ce16f4e",
+        "externalIds": {
+          "MAG": "2118545728",
+          "ArXiv": "1309.2375",
+          "DBLP": "journals/corr/Shalev-Shwartz013",
+          "DOI": "10.1007/s10107-014-0839-0",
+          "CorpusId": 6023169
+        },
+        "url": "https://www.semanticscholar.org/paper/d9bdff5eac0d0d1ebd8d09960f195b838ce16f4e",
+        "title": "Accelerated proximal stochastic dual coordinate ascent for regularized loss minimization",
+        "venue": "Mathematical programming",
+        "year": 2013,
+        "referenceCount": 34,
+        "citationCount": 472,
+        "authors": [
+          {
+            "authorId": "1389955537",
+            "name": "S. Shalev-Shwartz"
+          },
+          {
+            "authorId": "49104973",
+            "name": "Tong Zhang"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "52f33f56ce7c66ce8ae9e64e420fdcd024581668",
+        "externalIds": {
+          "MAG": "2035233604",
+          "DBLP": "journals/corr/TappendenRB13",
+          "ArXiv": "1308.6774",
+          "DOI": "10.1080/10556788.2014.966824",
+          "CorpusId": 9843321
+        },
+        "url": "https://www.semanticscholar.org/paper/52f33f56ce7c66ce8ae9e64e420fdcd024581668",
+        "title": "Separable approximations and decomposition methods for the augmented Lagrangian",
+        "venue": "Optim. Methods Softw.",
+        "year": 2013,
+        "referenceCount": 50,
+        "citationCount": 42,
+        "authors": [
+          {
+            "authorId": "2390330",
+            "name": "R. Tappenden"
+          },
+          {
+            "authorId": "2662221",
+            "name": "Peter Richtárik"
+          },
+          {
+            "authorId": "2453134",
+            "name": "Burak Büke"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "96167ed3ebc9a2c3270f6ae96043e6f086eed4de",
+        "externalIds": {
+          "MAG": "3005287603",
+          "CorpusId": 1767867
+        },
+        "url": "https://www.semanticscholar.org/paper/96167ed3ebc9a2c3270f6ae96043e6f086eed4de",
+        "title": "Stochastic Approximation approach to Stochastic Programming",
+        "venue": "",
+        "year": 2013,
+        "referenceCount": 29,
+        "citationCount": 1758,
+        "authors": [
+          {
+            "authorId": "1754887",
+            "name": "A. Juditsky"
+          },
+          {
+            "authorId": "2070945",
+            "name": "Guanghui Lan"
+          },
+          {
+            "authorId": "145853268",
+            "name": "A. Nemirovski"
+          },
+          {
+            "authorId": "31474779",
+            "name": "A. Shapiro"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "449385ba21a81889dd66412d9b8257b6ffb288aa",
+        "externalIds": {
+          "MAG": "2106728335",
+          "ArXiv": "1305.2581",
+          "DBLP": "conf/nips/Shalev-Shwartz013",
+          "CorpusId": 7316764
+        },
+        "url": "https://www.semanticscholar.org/paper/449385ba21a81889dd66412d9b8257b6ffb288aa",
+        "title": "Accelerated Mini-Batch Stochastic Dual Coordinate Ascent",
+        "venue": "Neural Information Processing Systems",
+        "year": 2013,
+        "referenceCount": 26,
+        "citationCount": 154,
+        "authors": [
+          {
+            "authorId": "1389955537",
+            "name": "S. Shalev-Shwartz"
+          },
+          {
+            "authorId": "49104973",
+            "name": "Tong Zhang"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "3e67cf6f0090fb5af1c4af976a9adf7cccdf7c74",
+        "externalIds": {
+          "MAG": "1673797905",
+          "ArXiv": "1304.5530",
+          "DBLP": "journals/jota/TappendenRG16",
+          "DOI": "10.1007/s10957-016-0867-4",
+          "CorpusId": 9185581
+        },
+        "url": "https://www.semanticscholar.org/paper/3e67cf6f0090fb5af1c4af976a9adf7cccdf7c74",
+        "title": "Inexact Coordinate Descent: Complexity and Preconditioning",
+        "venue": "Journal of Optimization Theory and Applications",
+        "year": 2013,
+        "referenceCount": 55,
+        "citationCount": 103,
+        "authors": [
+          {
+            "authorId": "2390330",
+            "name": "R. Tappenden"
+          },
+          {
+            "authorId": "2662221",
+            "name": "Peter Richtárik"
+          },
+          {
+            "authorId": "51043392",
+            "name": "J. Gondzio"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "f91e140cc0cb78ab2d687671e1bba786104aa52e",
+        "externalIds": {
+          "MAG": "1780115997",
+          "DBLP": "journals/corr/abs-1303-2314",
+          "ArXiv": "1303.2314",
+          "CorpusId": 2510072
+        },
+        "url": "https://www.semanticscholar.org/paper/f91e140cc0cb78ab2d687671e1bba786104aa52e",
+        "title": "Mini-Batch Primal and Dual Methods for SVMs",
+        "venue": "International Conference on Machine Learning",
+        "year": 2013,
+        "referenceCount": 19,
+        "citationCount": 195,
+        "authors": [
+          {
+            "authorId": "144696183",
+            "name": "Martin Takác"
+          },
+          {
+            "authorId": "1955727",
+            "name": "A. Bijral"
+          },
+          {
+            "authorId": "2662221",
+            "name": "Peter Richtárik"
+          },
+          {
+            "authorId": "1706280",
+            "name": "N. Srebro"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "5e36673891e093268d726d0fb2cd3bedce2e0a9d",
+        "externalIds": {
+          "MAG": "2951132215",
+          "DBLP": "journals/coap/NecoaraP14",
+          "ArXiv": "1302.3074",
+          "DOI": "10.1007/s10589-013-9598-8",
+          "CorpusId": 11794059
+        },
+        "url": "https://www.semanticscholar.org/paper/5e36673891e093268d726d0fb2cd3bedce2e0a9d",
+        "title": "A random coordinate descent algorithm for optimization problems with composite objective function and linear coupled constraints",
+        "venue": "Computational optimization and applications",
+        "year": 2013,
+        "referenceCount": 40,
+        "citationCount": 106,
+        "authors": [
+          {
+            "authorId": "2039290",
+            "name": "I. Necoara"
+          },
+          {
+            "authorId": "3150970",
+            "name": "A. Pătraşcu"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "e0f4889a4748f051db1a904d2dbc0b235df38394",
+        "externalIds": {
+          "MAG": "2032395696",
+          "DBLP": "journals/mp/RichtarikT16",
+          "ArXiv": "1212.0873",
+          "DOI": "10.1007/s10107-015-0901-6",
+          "CorpusId": 16820218
+        },
+        "url": "https://www.semanticscholar.org/paper/e0f4889a4748f051db1a904d2dbc0b235df38394",
+        "title": "Parallel coordinate descent methods for big data optimization",
+        "venue": "Mathematical programming",
+        "year": 2012,
+        "referenceCount": 33,
+        "citationCount": 498,
+        "authors": [
+          {
+            "authorId": "2662221",
+            "name": "Peter Richtárik"
+          },
+          {
+            "authorId": "144696183",
+            "name": "Martin Takác"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "adaf3d119fdd2aea8266a5a0e5c020e8642b84ce",
+        "externalIds": {
+          "ArXiv": "1211.2717",
+          "DBLP": "journals/corr/abs-1211-2717",
+          "MAG": "1890144115",
+          "CorpusId": 17372776
+        },
+        "url": "https://www.semanticscholar.org/paper/adaf3d119fdd2aea8266a5a0e5c020e8642b84ce",
+        "title": "Proximal Stochastic Dual Coordinate Ascent",
+        "venue": "arXiv.org",
+        "year": 2012,
+        "referenceCount": 14,
+        "citationCount": 110,
+        "authors": [
+          {
+            "authorId": "1389955537",
+            "name": "S. Shalev-Shwartz"
+          },
+          {
+            "authorId": "49104973",
+            "name": "Tong Zhang"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "0c3751db5a24c636c1aa8abfd9d63321b38cfce5",
+        "externalIds": {
+          "ArXiv": "1209.1873",
+          "MAG": "1939652453",
+          "DBLP": "journals/jmlr/Shalev-Shwartz013",
+          "DOI": "10.5555/2567709.2502598",
+          "CorpusId": 1517652
+        },
+        "url": "https://www.semanticscholar.org/paper/0c3751db5a24c636c1aa8abfd9d63321b38cfce5",
+        "title": "Stochastic dual coordinate ascent methods for regularized loss",
+        "venue": "Journal of machine learning research",
+        "year": 2012,
+        "referenceCount": 25,
+        "citationCount": 1072,
+        "authors": [
+          {
+            "authorId": "1389955537",
+            "name": "S. Shalev-Shwartz"
+          },
+          {
+            "authorId": "2280890494",
+            "name": "Tong Zhang"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "e5a685f40338f9c2f3e68e142efa217aad16dd56",
+        "externalIds": {
+          "MAG": "2120420045",
+          "ArXiv": "1206.1106",
+          "DBLP": "conf/icml/SchaulZL13",
+          "CorpusId": 5886221
+        },
+        "url": "https://www.semanticscholar.org/paper/e5a685f40338f9c2f3e68e142efa217aad16dd56",
+        "title": "No more pesky learning rates",
+        "venue": "International Conference on Machine Learning",
+        "year": 2012,
+        "referenceCount": 26,
+        "citationCount": 494,
+        "authors": [
+          {
+            "authorId": "1725157",
+            "name": "T. Schaul"
+          },
+          {
+            "authorId": "33551113",
+            "name": "Sixin Zhang"
+          },
+          {
+            "authorId": "1688882",
+            "name": "Yann LeCun"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "0059cfac9c5b7811866f0729d0917b7478148fc5",
+        "externalIds": {
+          "MAG": "2095984592",
+          "DBLP": "journals/siamjo/Nesterov12",
+          "DOI": "10.1137/100802001",
+          "CorpusId": 1424102
+        },
+        "url": "https://www.semanticscholar.org/paper/0059cfac9c5b7811866f0729d0917b7478148fc5",
+        "title": "Efficiency of Coordinate Descent Methods on Huge-Scale Optimization Problems",
+        "venue": "SIAM Journal on Optimization",
+        "year": 2012,
+        "referenceCount": 51,
+        "citationCount": 1508,
+        "authors": [
+          {
+            "authorId": "143676697",
+            "name": "Y. Nesterov"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "a8048db26cb78e785e82f06645da3f79d729528e",
+        "externalIds": {
+          "MAG": "2950679758",
+          "DBLP": "journals/mp/RichtarikT14",
+          "ArXiv": "1107.2848",
+          "DOI": "10.1007/s10107-012-0614-z",
+          "CorpusId": 16816638
+        },
+        "url": "https://www.semanticscholar.org/paper/a8048db26cb78e785e82f06645da3f79d729528e",
+        "title": "Iteration complexity of randomized block-coordinate descent methods for minimizing a composite function",
+        "venue": "Mathematical programming",
+        "year": 2011,
+        "referenceCount": 49,
+        "citationCount": 808,
+        "authors": [
+          {
+            "authorId": "2662221",
+            "name": "Peter Richtárik"
+          },
+          {
+            "authorId": "144696183",
+            "name": "Martin Takác"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "174f4bbe603969d14dfeb759b062f69609c77d5a",
+        "externalIds": {
+          "DBLP": "conf/gecco/LoshchilovSS11",
+          "MAG": "2132003714",
+          "DOI": "10.1145/2001576.2001697",
+          "CorpusId": 12779458
+        },
+        "url": "https://www.semanticscholar.org/paper/174f4bbe603969d14dfeb759b062f69609c77d5a",
+        "title": "Adaptive coordinate descent",
+        "venue": "Annual Conference on Genetic and Evolutionary Computation",
+        "year": 2011,
+        "referenceCount": 17,
+        "citationCount": 62,
+        "authors": [
+          {
+            "authorId": "1678656",
+            "name": "I. Loshchilov"
+          },
+          {
+            "authorId": "69881991",
+            "name": "Marc Schoenauer"
+          },
+          {
+            "authorId": "69343681",
+            "name": "M. Sebag"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "413c1142de9d91804d6d11c67ff3fed59c9fc279",
+        "externalIds": {
+          "MAG": "2405601855",
+          "DBLP": "journals/jmlr/DuchiHS11",
+          "DOI": "10.5555/1953048.2021068",
+          "CorpusId": 538820
+        },
+        "url": "https://www.semanticscholar.org/paper/413c1142de9d91804d6d11c67ff3fed59c9fc279",
+        "title": "Adaptive Subgradient Methods for Online Learning and Stochastic Optimization",
+        "venue": "Journal of machine learning research",
+        "year": 2011,
+        "referenceCount": 55,
+        "citationCount": 11242,
+        "authors": [
+          {
+            "authorId": "1734693",
+            "name": "John C. Duchi"
+          },
+          {
+            "authorId": "34840427",
+            "name": "Elad Hazan"
+          },
+          {
+            "authorId": "1740765",
+            "name": "Y. Singer"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "74e809b24c29e40e3e48e326edfa41893e31b980",
+        "externalIds": {
+          "MAG": "3023471860",
+          "DBLP": "conf/icml/Shalev-ShwartzT09",
+          "DOI": "10.1145/1553374.1553493",
+          "CorpusId": 834123
+        },
+        "url": "https://www.semanticscholar.org/paper/74e809b24c29e40e3e48e326edfa41893e31b980",
+        "title": "Stochastic methods for l1 regularized loss minimization",
+        "venue": "International Conference on Machine Learning",
+        "year": 2009,
+        "referenceCount": 34,
+        "citationCount": 387,
+        "authors": [
+          {
+            "authorId": "1389955537",
+            "name": "S. Shalev-Shwartz"
+          },
+          {
+            "authorId": "3064914",
+            "name": "Ambuj Tewari"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "Stochastic optimization with importance sampling",
+        "venue": "",
+        "year": 2015,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "block-coordinate descent methods for minimizing a composite function.Mathematical Programming",
+        "venue": "",
+        "year": 2014,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "Stochastic Dual Coordinate Ascent with Adaptive Probabilities Qu, Zheng and Richtárik, Peter. Coordinate descent methods with arbitrary sampling I: Algorithms and complexity",
+        "venue": "Stochastic Dual Coordinate Ascent with Adaptive Probabilities Qu, Zheng and Richtárik, Peter. Coordinate descent methods with arbitrary sampling I: Algorithms and complexity",
+        "year": 2014,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "Smooth minimization of nonsmooth functions by parallel coordinate descent",
+        "venue": "",
+        "year": 2013,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "Block-coordinate frank-wolfe optimization",
+        "venue": "A study on randomized sampling methods,",
+        "year": 2013,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "035b2075f0102eb260aa26482c687490dedcd248",
+        "externalIds": {
+          "DBLP": "journals/jmlr/Shalev-ShwartzT11",
+          "DOI": "10.5555/1953048.2021059",
+          "CorpusId": 249282964
+        },
+        "url": "https://www.semanticscholar.org/paper/035b2075f0102eb260aa26482c687490dedcd248",
+        "title": "Stochastic Methods for l1-regularized Loss Minimization",
+        "venue": "Journal of machine learning research",
+        "year": 2011,
+        "referenceCount": 0,
+        "citationCount": 51,
+        "authors": [
+          {
+            "authorId": "1389955537",
+            "name": "S. Shalev-Shwartz"
+          },
+          {
+            "authorId": "2060545745",
+            "name": "Ambuj Tewari"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "Konečný , Jakub and Richtárik , Peter . S 2 GD : Semistochastic gradient descent methods",
+        "venue": "",
+        "year": null,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    }
+  ]
+}

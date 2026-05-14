@@ -1,0 +1,273 @@
+{
+  "total": 558,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "27a2c20c2d4acd12c1189ec8ac41df06f59af8de",
+      "externalIds": {
+        "MAG": "2739910069",
+        "DBLP": "conf/icml/YeLZ17",
+        "CorpusId": 28621679
+      },
+      "url": "https://www.semanticscholar.org/paper/27a2c20c2d4acd12c1189ec8ac41df06f59af8de",
+      "title": "Approximate Newton Methods and Their Local Convergence",
+      "venue": "International Conference on Machine Learning",
+      "year": 2017,
+      "referenceCount": 19,
+      "citationCount": 26,
+      "authors": [
+        {
+          "authorId": "2729522",
+          "name": "Haishan Ye"
+        },
+        {
+          "authorId": "2020695",
+          "name": "Luo Luo"
+        },
+        {
+          "authorId": "47294286",
+          "name": "Zhihua Zhang"
+        }
+      ]
+    },
+    {
+      "paperId": "3a517ba70be8878ffce95b6ceb3d42efd2d22929",
+      "externalIds": {
+        "MAG": "3096659018",
+        "ArXiv": "1908.02246",
+        "DBLP": "journals/jmlr/Yuan020",
+        "CorpusId": 199453088
+      },
+      "url": "https://www.semanticscholar.org/paper/3a517ba70be8878ffce95b6ceb3d42efd2d22929",
+      "title": "On Convergence of Distributed Approximate Newton Methods: Globalization, Sharper Bounds and Beyond",
+      "venue": "Journal of machine learning research",
+      "year": 2019,
+      "referenceCount": 44,
+      "citationCount": 35,
+      "authors": [
+        {
+          "authorId": "2115844686",
+          "name": "Xiao-Tong Yuan"
+        },
+        {
+          "authorId": "144785135",
+          "name": "Ping Li"
+        }
+      ]
+    },
+    {
+      "paperId": "9cc3ab6c581c2768c86fbd3cd808434cb693d00a",
+      "externalIds": {
+        "DBLP": "journals/jmlr/YeLZ21",
+        "ArXiv": "1702.08124",
+        "MAG": "3012689239",
+        "CorpusId": 216517873
+      },
+      "url": "https://www.semanticscholar.org/paper/9cc3ab6c581c2768c86fbd3cd808434cb693d00a",
+      "title": "Approximate Newton Methods",
+      "venue": "Journal of machine learning research",
+      "year": 2017,
+      "referenceCount": 36,
+      "citationCount": 15,
+      "authors": [
+        {
+          "authorId": "2729522",
+          "name": "Haishan Ye"
+        },
+        {
+          "authorId": "2020695",
+          "name": "Luo Luo"
+        },
+        {
+          "authorId": "47294286",
+          "name": "Zhihua Zhang"
+        }
+      ]
+    },
+    {
+      "paperId": "ecec70816f69deb9ac37bbab235e624a51d40f62",
+      "externalIds": {
+        "MAG": "3106832131",
+        "DBLP": "journals/tcns/WeiQWWL21",
+        "DOI": "10.1109/TCNS.2021.3070663",
+        "CorpusId": 227239549
+      },
+      "url": "https://www.semanticscholar.org/paper/ecec70816f69deb9ac37bbab235e624a51d40f62",
+      "title": "Decentralized Approximate Newton Methods for Convex Optimization on Networked Systems",
+      "venue": "IEEE Transactions on Control of Network Systems",
+      "year": 2020,
+      "referenceCount": 31,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2115434715",
+          "name": "Hejie Wei"
+        },
+        {
+          "authorId": "52433562",
+          "name": "Zhihai Qu"
+        },
+        {
+          "authorId": "3367161",
+          "name": "Xuyang Wu"
+        },
+        {
+          "authorId": null,
+          "name": "Hao Wang"
+        },
+        {
+          "authorId": "2157816134",
+          "name": "Jie Lu"
+        }
+      ]
+    },
+    {
+      "paperId": "dbee1da796473ab546563ec3e50531a9e1717862",
+      "externalIds": {
+        "MAG": "2591891541",
+        "DBLP": "journals/corr/YeLZ17",
+        "CorpusId": 10910835
+      },
+      "url": "https://www.semanticscholar.org/paper/dbee1da796473ab546563ec3e50531a9e1717862",
+      "title": "A Unifying Framework for Convergence Analysis of Approximate Newton Methods",
+      "venue": "arXiv.org",
+      "year": 2017,
+      "referenceCount": 25,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "2729522",
+          "name": "Haishan Ye"
+        },
+        {
+          "authorId": "2020695",
+          "name": "Luo Luo"
+        },
+        {
+          "authorId": "47294286",
+          "name": "Zhihua Zhang"
+        }
+      ]
+    },
+    {
+      "paperId": "6d7e83e0ddc839e2308c7795914681c3302155ef",
+      "externalIds": {
+        "DOI": "10.1007/s10543-023-00994-8",
+        "CorpusId": 264869095
+      },
+      "url": "https://www.semanticscholar.org/paper/6d7e83e0ddc839e2308c7795914681c3302155ef",
+      "title": "A note on approximate Jacobians of implicit Runge–Kutta methods and convergence of modified Newton iterations",
+      "venue": "BIT Numerical Mathematics",
+      "year": 2023,
+      "referenceCount": 6,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2509800",
+          "name": "Laurent O. Jay"
+        },
+        {
+          "authorId": "2793928",
+          "name": "Olga Sokratova"
+        }
+      ]
+    },
+    {
+      "paperId": "ea0df068a1ca4972dc92a897661b10fe69440810",
+      "externalIds": {
+        "DOI": "10.71352/ac.47.127",
+        "CorpusId": 201738142
+      },
+      "url": "https://www.semanticscholar.org/paper/ea0df068a1ca4972dc92a897661b10fe69440810",
+      "title": "On the local convergence of weighted-Newton methods under weak conditions in banach spaces",
+      "venue": "Annales Universitatis Scientiarum Budapestinensis de Rolando Eötvös Nominatae. Sectio computatorica",
+      "year": 2018,
+      "referenceCount": 20,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "1752437",
+          "name": "I. Argyros"
+        },
+        {
+          "authorId": "1708738",
+          "name": "J. Sharma"
+        },
+        {
+          "authorId": "2134010771",
+          "name": "Deepak Kumar"
+        }
+      ]
+    },
+    {
+      "paperId": "ce644e03bf31642c76b8b5c2abd797cf8a5bb030",
+      "externalIds": {
+        "DOI": "10.3390/appliedmath4010008",
+        "CorpusId": 267374491
+      },
+      "url": "https://www.semanticscholar.org/paper/ce644e03bf31642c76b8b5c2abd797cf8a5bb030",
+      "title": "Convergence and Stability Improvement of Quasi-Newton Methods by Full-Rank Update of the Jacobian Approximates",
+      "venue": "AppliedMath",
+      "year": 2024,
+      "referenceCount": 19,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "2282206474",
+          "name": "Peter Berzi"
+        }
+      ]
+    },
+    {
+      "paperId": "abf813c20fb65f3e83f281fe5b77861ffe6ac404",
+      "externalIds": {
+        "CorpusId": 207796842
+      },
+      "url": "https://www.semanticscholar.org/paper/abf813c20fb65f3e83f281fe5b77861ffe6ac404",
+      "title": "STUDY OF LOCAL CONVERGENCE OF NEWTON-LIKE METHODS FOR SOLVING NONLINEAR EQUATIONS",
+      "venue": "",
+      "year": 2019,
+      "referenceCount": 5,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2134010771",
+          "name": "Deepak Kumar"
+        },
+        {
+          "authorId": "1708738",
+          "name": "J. Sharma"
+        }
+      ]
+    },
+    {
+      "paperId": "2860d9aa982d1881fd17170ba307e74a597033e2",
+      "externalIds": {
+        "MAG": "2592332202",
+        "DOI": "10.1007/S40324-017-0116-2",
+        "CorpusId": 125434605
+      },
+      "url": "https://www.semanticscholar.org/paper/2860d9aa982d1881fd17170ba307e74a597033e2",
+      "title": "Local convergence of Newton-HSS methods with positive definite Jacobian matrices under generalized conditions",
+      "venue": "",
+      "year": 2018,
+      "referenceCount": 21,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "1752437",
+          "name": "I. Argyros"
+        },
+        {
+          "authorId": "1708738",
+          "name": "J. Sharma"
+        },
+        {
+          "authorId": "2134010771",
+          "name": "Deepak Kumar"
+        }
+      ]
+    }
+  ]
+}

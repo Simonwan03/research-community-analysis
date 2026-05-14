@@ -1,0 +1,1442 @@
+{
+  "offset": 0,
+  "citingPaperInfo": {
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/1502.06665, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "title": "Reified Context Models",
+    "authors": [
+      {
+        "authorId": "5164568",
+        "name": "J. Steinhardt"
+      },
+      {
+        "authorId": "145419642",
+        "name": "Percy Liang"
+      }
+    ]
+  },
+  "data": [
+    {
+      "citedPaper": {
+        "paperId": "6574745513212ea8262b83eafc1b2f74bb6a907a",
+        "externalIds": {
+          "DBLP": "conf/aistats/ShiSL15",
+          "MAG": "2116929514",
+          "CorpusId": 3028360
+        },
+        "url": "https://www.semanticscholar.org/paper/6574745513212ea8262b83eafc1b2f74bb6a907a",
+        "title": "Learning Where to Sample in Structured Prediction",
+        "venue": "International Conference on Artificial Intelligence and Statistics",
+        "year": 2015,
+        "referenceCount": 38,
+        "citationCount": 20,
+        "authors": [
+          {
+            "authorId": "10238549",
+            "name": "Tianlin Shi"
+          },
+          {
+            "authorId": "5164568",
+            "name": "J. Steinhardt"
+          },
+          {
+            "authorId": "145419642",
+            "name": "Percy Liang"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "ac4bdb627056ba618bfca7b8cdff89d7d32b118e",
+        "externalIds": {
+          "MAG": "2271601362",
+          "ArXiv": "1410.5884",
+          "DBLP": "journals/corr/LiZ14b",
+          "CorpusId": 15604196
+        },
+        "url": "https://www.semanticscholar.org/paper/ac4bdb627056ba618bfca7b8cdff89d7d32b118e",
+        "title": "Mean-Field Networks",
+        "venue": "arXiv.org",
+        "year": 2014,
+        "referenceCount": 9,
+        "citationCount": 28,
+        "authors": [
+          {
+            "authorId": "47002813",
+            "name": "Yujia Li"
+          },
+          {
+            "authorId": "1804104",
+            "name": "R. Zemel"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "efb78dda7243386d77f66a385c165489e941ac35",
+        "externalIds": {
+          "MAG": "2163930480",
+          "DBLP": "conf/emnlp/NuhnSN14",
+          "ACL": "D14-1184",
+          "DOI": "10.3115/v1/D14-1184",
+          "CorpusId": 6783623
+        },
+        "url": "https://www.semanticscholar.org/paper/efb78dda7243386d77f66a385c165489e941ac35",
+        "title": "Improved Decipherment of Homophonic Ciphers",
+        "venue": "Conference on Empirical Methods in Natural Language Processing",
+        "year": 2014,
+        "referenceCount": 10,
+        "citationCount": 14,
+        "authors": [
+          {
+            "authorId": "1756337",
+            "name": "Malte Nuhn"
+          },
+          {
+            "authorId": "1756303",
+            "name": "Julian Schamper"
+          },
+          {
+            "authorId": "145322333",
+            "name": "H. Ney"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "2599f1696e24d82a7a25c5503709c0f47ae72295",
+        "externalIds": {
+          "MAG": "197196944",
+          "DBLP": "conf/icml/SteinhardtL14",
+          "CorpusId": 150551
+        },
+        "url": "https://www.semanticscholar.org/paper/2599f1696e24d82a7a25c5503709c0f47ae72295",
+        "title": "Filtering with Abstract Particles",
+        "venue": "International Conference on Machine Learning",
+        "year": 2014,
+        "referenceCount": 29,
+        "citationCount": 9,
+        "authors": [
+          {
+            "authorId": "5164568",
+            "name": "J. Steinhardt"
+          },
+          {
+            "authorId": "145419642",
+            "name": "Percy Liang"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "28c78b3e42fa5170e58a519425272ac0857c5b45",
+        "externalIds": {
+          "MAG": "1897319937",
+          "ArXiv": "1405.0501",
+          "DBLP": "journals/corr/NiepertD14",
+          "CorpusId": 14909459
+        },
+        "url": "https://www.semanticscholar.org/paper/28c78b3e42fa5170e58a519425272ac0857c5b45",
+        "title": "Exchangeable Variable Models",
+        "venue": "International Conference on Machine Learning",
+        "year": 2014,
+        "referenceCount": 31,
+        "citationCount": 20,
+        "authors": [
+          {
+            "authorId": "2780262",
+            "name": "Mathias Niepert"
+          },
+          {
+            "authorId": "1740213",
+            "name": "Pedro M. Domingos"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "66af2afd4c598c2841dbfd1053bf0c386579234e",
+        "externalIds": {
+          "MAG": "2064127057",
+          "DBLP": "journals/ijmir/ZhangKM14",
+          "DOI": "10.1007/s13735-014-0052-1",
+          "CorpusId": 6715764
+        },
+        "url": "https://www.semanticscholar.org/paper/66af2afd4c598c2841dbfd1053bf0c386579234e",
+        "title": "Context-assisted face clustering framework with human-in-the-loop",
+        "venue": "International Journal of Multimedia Information Retrieval",
+        "year": 2014,
+        "referenceCount": 28,
+        "citationCount": 17,
+        "authors": [
+          {
+            "authorId": "1390911745",
+            "name": "Liyan Zhang"
+          },
+          {
+            "authorId": "1818681",
+            "name": "D. Kalashnikov"
+          },
+          {
+            "authorId": "144156242",
+            "name": "S. Mehrotra"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "2610ec495468ac518bbc700693836f372397f3d3",
+        "externalIds": {
+          "ACL": "D13-1093",
+          "MAG": "2250364111",
+          "DBLP": "conf/emnlp/ZhangHZM13",
+          "DOI": "10.18653/v1/d13-1093",
+          "CorpusId": 7756987
+        },
+        "url": "https://www.semanticscholar.org/paper/2610ec495468ac518bbc700693836f372397f3d3",
+        "title": "Online Learning for Inexact Hypergraph Search",
+        "venue": "Conference on Empirical Methods in Natural Language Processing",
+        "year": 2013,
+        "referenceCount": 22,
+        "citationCount": 30,
+        "authors": [
+          {
+            "authorId": "40479003",
+            "name": "Hao Zhang"
+          },
+          {
+            "authorId": "144768480",
+            "name": "Liang Huang"
+          },
+          {
+            "authorId": "145341916",
+            "name": "Kai Zhao"
+          },
+          {
+            "authorId": "143957226",
+            "name": "Ryan T. McDonald"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "c8e3e9abcdf88bee79a8657ae8189045b38874fd",
+        "externalIds": {
+          "ACL": "D13-1112",
+          "DBLP": "conf/emnlp/YuHMZ13",
+          "MAG": "2252102852",
+          "DOI": "10.18653/v1/d13-1112",
+          "CorpusId": 1613767
+        },
+        "url": "https://www.semanticscholar.org/paper/c8e3e9abcdf88bee79a8657ae8189045b38874fd",
+        "title": "Max-Violation Perceptron and Forced Decoding for Scalable MT Training",
+        "venue": "Conference on Empirical Methods in Natural Language Processing",
+        "year": 2013,
+        "referenceCount": 37,
+        "citationCount": 53,
+        "authors": [
+          {
+            "authorId": "28825117",
+            "name": "Heng Yu"
+          },
+          {
+            "authorId": "144768480",
+            "name": "Liang Huang"
+          },
+          {
+            "authorId": "2013337",
+            "name": "Haitao Mi"
+          },
+          {
+            "authorId": "145341916",
+            "name": "Kai Zhao"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "690b6a1e710e9b3569d536f428b2d0532d9bea08",
+        "externalIds": {
+          "DBLP": "conf/acl/NuhnSN13",
+          "MAG": "2172267041",
+          "ACL": "P13-1154",
+          "CorpusId": 6955865
+        },
+        "url": "https://www.semanticscholar.org/paper/690b6a1e710e9b3569d536f428b2d0532d9bea08",
+        "title": "Beam Search for Solving Substitution Ciphers",
+        "venue": "Annual Meeting of the Association for Computational Linguistics",
+        "year": 2013,
+        "referenceCount": 12,
+        "citationCount": 37,
+        "authors": [
+          {
+            "authorId": "1756337",
+            "name": "Malte Nuhn"
+          },
+          {
+            "authorId": "1756303",
+            "name": "Julian Schamper"
+          },
+          {
+            "authorId": "145322333",
+            "name": "H. Ney"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "91c3130e89d2fd37caface9047389c71de14e2a1",
+        "externalIds": {
+          "MAG": "162171320",
+          "DBLP": "conf/naacl/HuangFG12",
+          "ACL": "N12-1015",
+          "CorpusId": 367732
+        },
+        "url": "https://www.semanticscholar.org/paper/91c3130e89d2fd37caface9047389c71de14e2a1",
+        "title": "Structured Perceptron with Inexact Search",
+        "venue": "North American Chapter of the Association for Computational Linguistics",
+        "year": 2012,
+        "referenceCount": 23,
+        "citationCount": 192,
+        "authors": [
+          {
+            "authorId": "144768480",
+            "name": "Liang Huang"
+          },
+          {
+            "authorId": "3119059",
+            "name": "Suphan Fayong"
+          },
+          {
+            "authorId": "2182993655",
+            "name": "Yang Guo"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "a6c4839019e452834c3ab9a19a5c38615280111f",
+        "externalIds": {
+          "MAG": "2201587711",
+          "DOI": "10.1080/09332480.2012.668472",
+          "CorpusId": 60438653
+        },
+        "url": "https://www.semanticscholar.org/paper/a6c4839019e452834c3ab9a19a5c38615280111f",
+        "title": "Handbook of Markov Chain Monte Carlo: Hardcover: 619 pages Publisher: Chapman and Hall/CRC Press (first edition, May 2011) Language: English ISBN-10: 1420079417",
+        "venue": "",
+        "year": 2012,
+        "referenceCount": 149,
+        "citationCount": 1879,
+        "authors": [
+          {
+            "authorId": "151201984",
+            "name": "Steve P. Brooks"
+          },
+          {
+            "authorId": "144389145",
+            "name": "A. Gelman"
+          },
+          {
+            "authorId": "2110603502",
+            "name": "Galin L. Jones"
+          },
+          {
+            "authorId": "2097256",
+            "name": "Xiao-Li Meng"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "cbc8488784ee77d5a9921580788cb53f995aaaeb",
+        "externalIds": {
+          "DBLP": "books/daglib/0032688",
+          "MAG": "2118584553",
+          "DOI": "10.1007/978-3-642-22743-1",
+          "CorpusId": 7111881
+        },
+        "url": "https://www.semanticscholar.org/paper/cbc8488784ee77d5a9921580788cb53f995aaaeb",
+        "title": "Coarse-to-Fine Natural Language Processing",
+        "venue": "Theory and Applications of Natural Language Processing",
+        "year": 2011,
+        "referenceCount": 131,
+        "citationCount": 91,
+        "authors": [
+          {
+            "authorId": "1754497",
+            "name": "Slav Petrov"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "44fdc2a708c10d4bf654e54ed65059c108425f1a",
+        "externalIds": {
+          "MAG": "1556470778",
+          "CorpusId": 60936616
+        },
+        "url": "https://www.semanticscholar.org/paper/44fdc2a708c10d4bf654e54ed65059c108425f1a",
+        "title": "Prosodylab-aligner: A tool for forced alignment of laboratory speech",
+        "venue": "",
+        "year": 2011,
+        "referenceCount": 5,
+        "citationCount": 221,
+        "authors": [
+          {
+            "authorId": "47512805",
+            "name": "Kyle Gorman"
+          },
+          {
+            "authorId": "145259435",
+            "name": "Jonathan Howell"
+          },
+          {
+            "authorId": "145137299",
+            "name": "M. Wagner"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "d1b21442aa4a6af708d64082d61f6e63e1d4cdf1",
+        "externalIds": {
+          "MAG": "2949869425",
+          "DBLP": "journals/corr/abs-1202-3732",
+          "ArXiv": "1202.3732",
+          "DOI": "10.1109/ICCVW.2011.6130310",
+          "CorpusId": 2139779
+        },
+        "url": "https://www.semanticscholar.org/paper/d1b21442aa4a6af708d64082d61f6e63e1d4cdf1",
+        "title": "Sum-product networks: A new deep architecture",
+        "venue": "IEEE International Conference on Computer Vision",
+        "year": 2011,
+        "referenceCount": 39,
+        "citationCount": 812,
+        "authors": [
+          {
+            "authorId": "1759772",
+            "name": "Hoifung Poon"
+          },
+          {
+            "authorId": "1740213",
+            "name": "Pedro M. Domingos"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "36f49b05d764bf5c10428b082c2d96c13c4203b9",
+        "externalIds": {
+          "DBLP": "journals/corr/abs-1106-5730",
+          "MAG": "2951781666",
+          "ArXiv": "1106.5730",
+          "CorpusId": 6108215
+        },
+        "url": "https://www.semanticscholar.org/paper/36f49b05d764bf5c10428b082c2d96c13c4203b9",
+        "title": "Hogwild: A Lock-Free Approach to Parallelizing Stochastic Gradient Descent",
+        "venue": "Neural Information Processing Systems",
+        "year": 2011,
+        "referenceCount": 30,
+        "citationCount": 2354,
+        "authors": [
+          {
+            "authorId": "9229182",
+            "name": "B. Recht"
+          },
+          {
+            "authorId": "1803218",
+            "name": "Christopher Ré"
+          },
+          {
+            "authorId": "144731788",
+            "name": "Stephen J. Wright"
+          },
+          {
+            "authorId": "47657030",
+            "name": "Feng Niu"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "80f3ec80d1114bcd9a8ad9b56dd7b230ec16c048",
+        "externalIds": {
+          "DBLP": "conf/cvpr/Domke11",
+          "MAG": "1999726054",
+          "DOI": "10.1109/CVPR.2011.5995320",
+          "CorpusId": 17739733
+        },
+        "url": "https://www.semanticscholar.org/paper/80f3ec80d1114bcd9a8ad9b56dd7b230ec16c048",
+        "title": "Parameter learning with truncated message-passing",
+        "venue": "Computer Vision and Pattern Recognition",
+        "year": 2011,
+        "referenceCount": 20,
+        "citationCount": 53,
+        "authors": [
+          {
+            "authorId": "1722101",
+            "name": "Justin Domke"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "3ecd3e00bbbfd94446c3adc9c6878de27e250f7c",
+        "externalIds": {
+          "DBLP": "conf/acl/LiangJK11",
+          "ACL": "J13-2005",
+          "ArXiv": "1109.6841",
+          "MAG": "2953361271",
+          "DOI": "10.1162/COLI_a_00127",
+          "CorpusId": 340852
+        },
+        "url": "https://www.semanticscholar.org/paper/3ecd3e00bbbfd94446c3adc9c6878de27e250f7c",
+        "title": "Learning Dependency-Based Compositional Semantics",
+        "venue": "International Conference on Computational Logic",
+        "year": 2011,
+        "referenceCount": 66,
+        "citationCount": 618,
+        "authors": [
+          {
+            "authorId": "2075292388",
+            "name": "P. Liang"
+          },
+          {
+            "authorId": "1694621",
+            "name": "Michael I. Jordan"
+          },
+          {
+            "authorId": "38666915",
+            "name": "D. Klein"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "537018f8ee3502faea7fcd00f511f6cacf89ea68",
+        "externalIds": {
+          "DBLP": "conf/acl/RaviK11",
+          "ACL": "P11-1002",
+          "MAG": "2121745180",
+          "CorpusId": 6060648
+        },
+        "url": "https://www.semanticscholar.org/paper/537018f8ee3502faea7fcd00f511f6cacf89ea68",
+        "title": "Deciphering Foreign Language",
+        "venue": "Annual Meeting of the Association for Computational Linguistics",
+        "year": 2011,
+        "referenceCount": 29,
+        "citationCount": 141,
+        "authors": [
+          {
+            "authorId": "35014893",
+            "name": "Sujith Ravi"
+          },
+          {
+            "authorId": "152971314",
+            "name": "Kevin Knight"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "04e9385a1267d75197f695acf83e314668f6ae52",
+        "externalIds": {
+          "MAG": "2186629860",
+          "DBLP": "journals/jmlr/StoyanovRE11",
+          "CorpusId": 2558558
+        },
+        "url": "https://www.semanticscholar.org/paper/04e9385a1267d75197f695acf83e314668f6ae52",
+        "title": "Empirical Risk Minimization of Graphical Model Parameters Given Approximate Inference, Decoding, and Model Structure",
+        "venue": "International Conference on Artificial Intelligence and Statistics",
+        "year": 2011,
+        "referenceCount": 32,
+        "citationCount": 132,
+        "authors": [
+          {
+            "authorId": "1759422",
+            "name": "Veselin Stoyanov"
+          },
+          {
+            "authorId": "2851515",
+            "name": "Alexander Ropson"
+          },
+          {
+            "authorId": "145043214",
+            "name": "Jason Eisner"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "413c1142de9d91804d6d11c67ff3fed59c9fc279",
+        "externalIds": {
+          "MAG": "2405601855",
+          "DBLP": "journals/jmlr/DuchiHS11",
+          "DOI": "10.5555/1953048.2021068",
+          "CorpusId": 538820
+        },
+        "url": "https://www.semanticscholar.org/paper/413c1142de9d91804d6d11c67ff3fed59c9fc279",
+        "title": "Adaptive Subgradient Methods for Online Learning and Stochastic Optimization",
+        "venue": "Journal of machine learning research",
+        "year": 2011,
+        "referenceCount": 55,
+        "citationCount": 11242,
+        "authors": [
+          {
+            "authorId": "1734693",
+            "name": "John C. Duchi"
+          },
+          {
+            "authorId": "34840427",
+            "name": "Elad Hazan"
+          },
+          {
+            "authorId": "1740765",
+            "name": "Y. Singer"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "331429a6994b73c25ca0c4d0e2794e9119ac870c",
+        "externalIds": {
+          "MAG": "2130325067",
+          "DBLP": "conf/nips/WeissST10",
+          "CorpusId": 10838973
+        },
+        "url": "https://www.semanticscholar.org/paper/331429a6994b73c25ca0c4d0e2794e9119ac870c",
+        "title": "Sidestepping Intractable Inference with Structured Ensemble Cascades",
+        "venue": "Neural Information Processing Systems",
+        "year": 2010,
+        "referenceCount": 16,
+        "citationCount": 50,
+        "authors": [
+          {
+            "authorId": "2064379349",
+            "name": "David J. Weiss"
+          },
+          {
+            "authorId": "9133363",
+            "name": "Benjamin Sapp"
+          },
+          {
+            "authorId": "1685978",
+            "name": "B. Taskar"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "9acc0d2dc6f0ad90bd0f76b9febd79af3b2aadde",
+        "externalIds": {
+          "MAG": "2749166521",
+          "ACL": "N10-1117",
+          "DBLP": "conf/naacl/RiedelS10",
+          "CorpusId": 7368474
+        },
+        "url": "https://www.semanticscholar.org/paper/9acc0d2dc6f0ad90bd0f76b9febd79af3b2aadde",
+        "title": "Relaxed Marginal Inference and its Application to Dependency Parsing",
+        "venue": "North American Chapter of the Association for Computational Linguistics",
+        "year": 2010,
+        "referenceCount": 14,
+        "citationCount": 9,
+        "authors": [
+          {
+            "authorId": "48662861",
+            "name": "Sebastian Riedel"
+          },
+          {
+            "authorId": "32941713",
+            "name": "David A. Smith"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "576c79fdae4777fcc5e8fb711e673483a07ca5b9",
+        "externalIds": {
+          "MAG": "2152966212",
+          "DBLP": "journals/jmlr/WeissT10",
+          "ArXiv": "1208.3279",
+          "CorpusId": 8957801
+        },
+        "url": "https://www.semanticscholar.org/paper/576c79fdae4777fcc5e8fb711e673483a07ca5b9",
+        "title": "Structured Prediction Cascades",
+        "venue": "International Conference on Artificial Intelligence and Statistics",
+        "year": 2010,
+        "referenceCount": 55,
+        "citationCount": 128,
+        "authors": [
+          {
+            "authorId": "2064379349",
+            "name": "David J. Weiss"
+          },
+          {
+            "authorId": "1685978",
+            "name": "B. Taskar"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "d078a19f719cfd844b5e02c613371de13668e004",
+        "externalIds": {
+          "MAG": "2119290843",
+          "DBLP": "journals/tip/Barbu09",
+          "DOI": "10.1109/TIP.2009.2028254",
+          "CorpusId": 10262231,
+          "PubMed": "19635701"
+        },
+        "url": "https://www.semanticscholar.org/paper/d078a19f719cfd844b5e02c613371de13668e004",
+        "title": "Training an Active Random Field for Real-Time Image Denoising",
+        "venue": "IEEE Transactions on Image Processing",
+        "year": 2009,
+        "referenceCount": 51,
+        "citationCount": 106,
+        "authors": [
+          {
+            "authorId": "144719476",
+            "name": "Adrian Barbu"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "4ea92accbb9976a24da725e4b4f46efa03948fbd",
+        "externalIds": {
+          "MAG": "2010494859",
+          "DBLP": "journals/cryptologia/RaviK09",
+          "DOI": "10.1080/01611190903030920",
+          "CorpusId": 205487765
+        },
+        "url": "https://www.semanticscholar.org/paper/4ea92accbb9976a24da725e4b4f46efa03948fbd",
+        "title": "Attacking Letter Substitution Ciphers with Integer Programming",
+        "venue": "Cryptologia",
+        "year": 2009,
+        "referenceCount": 13,
+        "citationCount": 26,
+        "authors": [
+          {
+            "authorId": "120209444",
+            "name": "Sujith Ravi"
+          },
+          {
+            "authorId": "152971314",
+            "name": "Kevin Knight"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "893c8f527dadbaed9cc66aaf6d6f8a83c50722a1",
+        "externalIds": {
+          "DBLP": "conf/icml/WoodAGJT09",
+          "MAG": "2120826678",
+          "DOI": "10.1145/1553374.1553518",
+          "CorpusId": 11199892
+        },
+        "url": "https://www.semanticscholar.org/paper/893c8f527dadbaed9cc66aaf6d6f8a83c50722a1",
+        "title": "A stochastic memoizer for sequence data",
+        "venue": "International Conference on Machine Learning",
+        "year": 2009,
+        "referenceCount": 16,
+        "citationCount": 122,
+        "authors": [
+          {
+            "authorId": "2347189",
+            "name": "Frank D. Wood"
+          },
+          {
+            "authorId": "2824663",
+            "name": "C. Archambeau"
+          },
+          {
+            "authorId": "2113062",
+            "name": "Jan Gasthaus"
+          },
+          {
+            "authorId": "40439165",
+            "name": "Lancelot F. James"
+          },
+          {
+            "authorId": "1725303",
+            "name": "Y. Teh"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "526e22c130b18924976553d29ba11bc9d898d58b",
+        "externalIds": {
+          "MAG": "2158349948",
+          "ArXiv": "0907.0786",
+          "DBLP": "journals/corr/abs-0907-0786",
+          "DOI": "10.1007/s10994-009-5106-x",
+          "CorpusId": 704519
+        },
+        "url": "https://www.semanticscholar.org/paper/526e22c130b18924976553d29ba11bc9d898d58b",
+        "title": "Search-based structured prediction",
+        "venue": "Machine-mediated learning",
+        "year": 2009,
+        "referenceCount": 81,
+        "citationCount": 599,
+        "authors": [
+          {
+            "authorId": "1722360",
+            "name": "Hal Daumé"
+          },
+          {
+            "authorId": "2265581165",
+            "name": "John Langford"
+          },
+          {
+            "authorId": "2286059927",
+            "name": "Daniel Marcu"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "54d1776c32b5a8e5e9cc7a6fcbe9b44ad84be19e",
+        "externalIds": {
+          "DBLP": "journals/corr/abs-1206-3288",
+          "MAG": "2950054346",
+          "ArXiv": "1206.3288",
+          "CorpusId": 14429740
+        },
+        "url": "https://www.semanticscholar.org/paper/54d1776c32b5a8e5e9cc7a6fcbe9b44ad84be19e",
+        "title": "Tightening LP Relaxations for MAP using Message Passing",
+        "venue": "Conference on Uncertainty in Artificial Intelligence",
+        "year": 2008,
+        "referenceCount": 19,
+        "citationCount": 320,
+        "authors": [
+          {
+            "authorId": "1746662",
+            "name": "D. Sontag"
+          },
+          {
+            "authorId": "46737210",
+            "name": "Talya Meltzer"
+          },
+          {
+            "authorId": "1786843",
+            "name": "A. Globerson"
+          },
+          {
+            "authorId": "35132120",
+            "name": "T. Jaakkola"
+          },
+          {
+            "authorId": "30400079",
+            "name": "Yair Weiss"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "bc243b4920cdc9f45ef18ef0bad5b6576c444a34",
+        "externalIds": {
+          "MAG": "2092423930",
+          "DBLP": "conf/icml/FinleyJ08",
+          "DOI": "10.1145/1390156.1390195",
+          "CorpusId": 505690
+        },
+        "url": "https://www.semanticscholar.org/paper/bc243b4920cdc9f45ef18ef0bad5b6576c444a34",
+        "title": "Training structural SVMs when exact inference is intractable",
+        "venue": "International Conference on Machine Learning",
+        "year": 2008,
+        "referenceCount": 28,
+        "citationCount": 312,
+        "authors": [
+          {
+            "authorId": "50256971",
+            "name": "Thomas Finley"
+          },
+          {
+            "authorId": "1680188",
+            "name": "T. Joachims"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "325ea1f2022ee3886a5810df76dcfbe4010ad439",
+        "externalIds": {
+          "DBLP": "conf/nips/KuleszaP07",
+          "MAG": "2159992248",
+          "CorpusId": 10876177
+        },
+        "url": "https://www.semanticscholar.org/paper/325ea1f2022ee3886a5810df76dcfbe4010ad439",
+        "title": "Structured Learning with Approximate Inference",
+        "venue": "Neural Information Processing Systems",
+        "year": 2007,
+        "referenceCount": 15,
+        "citationCount": 154,
+        "authors": [
+          {
+            "authorId": "145500336",
+            "name": "Alex Kulesza"
+          },
+          {
+            "authorId": "145366908",
+            "name": "Fernando C Pereira"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "eaa8a123ae076fb2cfe6af63ac7b15ddd57a1afa",
+        "externalIds": {
+          "MAG": "2764697233",
+          "DBLP": "journals/pieee/CappeGM07",
+          "DOI": "10.1109/JPROC.2007.893250",
+          "CorpusId": 3081664
+        },
+        "url": "https://www.semanticscholar.org/paper/eaa8a123ae076fb2cfe6af63ac7b15ddd57a1afa",
+        "title": "An Overview of Existing Methods and Recent Advances in Sequential Monte Carlo",
+        "venue": "Proceedings of the IEEE",
+        "year": 2007,
+        "referenceCount": 154,
+        "citationCount": 1084,
+        "authors": [
+          {
+            "authorId": "1769551",
+            "name": "O. Cappé"
+          },
+          {
+            "authorId": "1708961",
+            "name": "S. Godsill"
+          },
+          {
+            "authorId": "2313661",
+            "name": "É. Moulines"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "6bf6c77b895069239ef7a180aee5332ed7b40c79",
+        "externalIds": {
+          "MAG": "2154099718",
+          "DBLP": "conf/acl/Teh06",
+          "ACL": "P06-1124",
+          "DOI": "10.3115/1220175.1220299",
+          "CorpusId": 1541597
+        },
+        "url": "https://www.semanticscholar.org/paper/6bf6c77b895069239ef7a180aee5332ed7b40c79",
+        "title": "A Hierarchical Bayesian Language Model Based On Pitman-Yor Processes",
+        "venue": "Annual Meeting of the Association for Computational Linguistics",
+        "year": 2006,
+        "referenceCount": 17,
+        "citationCount": 606,
+        "authors": [
+          {
+            "authorId": "1725303",
+            "name": "Y. Teh"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "f52de7242e574b70410ca6fb70b79c811919fc00",
+        "externalIds": {
+          "MAG": "2139621418",
+          "DBLP": "conf/acl/PetrovBTK06",
+          "ACL": "P06-1055",
+          "DOI": "10.3115/1220175.1220230",
+          "CorpusId": 6684426
+        },
+        "url": "https://www.semanticscholar.org/paper/f52de7242e574b70410ca6fb70b79c811919fc00",
+        "title": "Learning Accurate, Compact, and Interpretable Tree Annotation",
+        "venue": "Annual Meeting of the Association for Computational Linguistics",
+        "year": 2006,
+        "referenceCount": 20,
+        "citationCount": 992,
+        "authors": [
+          {
+            "authorId": "1754497",
+            "name": "Slav Petrov"
+          },
+          {
+            "authorId": "37157794",
+            "name": "Leon Barrett"
+          },
+          {
+            "authorId": "3323298",
+            "name": "R. Thibaux"
+          },
+          {
+            "authorId": "38666915",
+            "name": "D. Klein"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "ed724d3cb163f9090ea93d35c0733dda9708cf7c",
+        "externalIds": {
+          "MAG": "2099960657",
+          "DBLP": "conf/icassp/PalSM06",
+          "DOI": "10.1109/ICASSP.2006.1661342",
+          "CorpusId": 7382248
+        },
+        "url": "https://www.semanticscholar.org/paper/ed724d3cb163f9090ea93d35c0733dda9708cf7c",
+        "title": "Sparse Forward-Backward Using Minimum Divergence Beams for Fast Training Of Conditional Random Fields",
+        "venue": "2006 IEEE International Conference on Acoustics Speech and Signal Processing Proceedings",
+        "year": 2006,
+        "referenceCount": 11,
+        "citationCount": 67,
+        "authors": [
+          {
+            "authorId": "1972076",
+            "name": "C. Pal"
+          },
+          {
+            "authorId": "37210858",
+            "name": "Charles Sutton"
+          },
+          {
+            "authorId": "143753639",
+            "name": "A. McCallum"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "80a9e398710b7d2346f697c0b68206a698c12d9f",
+        "externalIds": {
+          "MAG": "2119346362",
+          "DOI": "10.1198/1061860043524",
+          "CorpusId": 11650889
+        },
+        "url": "https://www.semanticscholar.org/paper/80a9e398710b7d2346f697c0b68206a698c12d9f",
+        "title": "Variable Length Markov Chains: Methodology, Computing, and Software",
+        "venue": "",
+        "year": 2004,
+        "referenceCount": 14,
+        "citationCount": 381,
+        "authors": [
+          {
+            "authorId": "144985567",
+            "name": "M. Mächler"
+          },
+          {
+            "authorId": "145825806",
+            "name": "P. Bühlmann"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "a4b828609b60b06e61bea7a4029cc9e1cad5df87",
+        "externalIds": {
+          "MAG": "2153653739",
+          "ACL": "N03-1017",
+          "DBLP": "conf/naacl/KoehnOM03",
+          "DOI": "10.3115/1073445.1073462",
+          "CorpusId": 8884845
+        },
+        "url": "https://www.semanticscholar.org/paper/a4b828609b60b06e61bea7a4029cc9e1cad5df87",
+        "title": "Statistical Phrase-Based Translation",
+        "venue": "North American Chapter of the Association for Computational Linguistics",
+        "year": 2003,
+        "referenceCount": 15,
+        "citationCount": 3941,
+        "authors": [
+          {
+            "authorId": "1755162",
+            "name": "Philipp Koehn"
+          },
+          {
+            "authorId": "2002316",
+            "name": "F. Och"
+          },
+          {
+            "authorId": "2241944616",
+            "name": "Daniel Marcu"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "434bc6e9b1aed420f16e279467a551b0df70f20f",
+        "externalIds": {
+          "MAG": "2963074323",
+          "ArXiv": "1212.2512",
+          "DBLP": "journals/corr/abs-1212-2512",
+          "CorpusId": 9140880
+        },
+        "url": "https://www.semanticscholar.org/paper/434bc6e9b1aed420f16e279467a551b0df70f20f",
+        "title": "A generalized mean field algorithm for variational inference in exponential families",
+        "venue": "Conference on Uncertainty in Artificial Intelligence",
+        "year": 2002,
+        "referenceCount": 14,
+        "citationCount": 256,
+        "authors": [
+          {
+            "authorId": "143977260",
+            "name": "E. Xing"
+          },
+          {
+            "authorId": "1694621",
+            "name": "Michael I. Jordan"
+          },
+          {
+            "authorId": "145107462",
+            "name": "Stuart J. Russell"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "f178383deb578992b2a62844a08a6451cbad16ed",
+        "externalIds": {
+          "ArXiv": "1301.0610",
+          "MAG": "2135094946",
+          "DBLP": "journals/tit/WainwrightJW05",
+          "DOI": "10.1109/TIT.2005.850091",
+          "CorpusId": 5749684
+        },
+        "url": "https://www.semanticscholar.org/paper/f178383deb578992b2a62844a08a6451cbad16ed",
+        "title": "A new class of upper bounds on the log partition function",
+        "venue": "IEEE Transactions on Information Theory",
+        "year": 2002,
+        "referenceCount": 50,
+        "citationCount": 463,
+        "authors": [
+          {
+            "authorId": "1721860",
+            "name": "M. Wainwright"
+          },
+          {
+            "authorId": "35132120",
+            "name": "T. Jaakkola"
+          },
+          {
+            "authorId": "1701607",
+            "name": "A. Willsky"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "9548ac30c113562a51e603dbbc8e9fa651cfd3ab",
+        "externalIds": {
+          "DBLP": "conf/icassp/KneserN95",
+          "MAG": "1934041838",
+          "DOI": "10.1109/ICASSP.1995.479394",
+          "CorpusId": 9685476
+        },
+        "url": "https://www.semanticscholar.org/paper/9548ac30c113562a51e603dbbc8e9fa651cfd3ab",
+        "title": "Improved backing-off for M-gram language modeling",
+        "venue": "IEEE International Conference on Acoustics, Speech, and Signal Processing",
+        "year": 1995,
+        "referenceCount": 7,
+        "citationCount": 1894,
+        "authors": [
+          {
+            "authorId": "1795942",
+            "name": "Reinhard Kneser"
+          },
+          {
+            "authorId": "145322333",
+            "name": "H. Ney"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "Stanford) Reified Context Models July",
+        "venue": "Stanford) Reified Context Models July",
+        "year": 2015,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "255d2b55db0e99e1fcef3290ba8e2c67d0b6a17d",
+        "externalIds": {
+          "CorpusId": 9423344
+        },
+        "url": "https://www.semanticscholar.org/paper/255d2b55db0e99e1fcef3290ba8e2c67d0b6a17d",
+        "title": "Fast and Accurate Prediction via Evidence-Specific MRF Structure",
+        "venue": "",
+        "year": 2012,
+        "referenceCount": 22,
+        "citationCount": 5,
+        "authors": [
+          {
+            "authorId": "1759422",
+            "name": "Veselin Stoyanov"
+          },
+          {
+            "authorId": "145043214",
+            "name": "Jason Eisner"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "although we parallelized even more aggressively at the expense of theoretical guarantees). We also used a randomized truncation scheme to round most small coordinates of the gradients",
+        "venue": "",
+        "year": 2011,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "c24c77a2927bc19b29a35dc3b393bf091eab0a20",
+        "externalIds": {
+          "MAG": "2622734902",
+          "CorpusId": 116972835
+        },
+        "url": "https://www.semanticscholar.org/paper/c24c77a2927bc19b29a35dc3b393bf091eab0a20",
+        "title": "Ph.D. thesis: Approximate inference in graphical models using LP relaxations",
+        "venue": "",
+        "year": 2010,
+        "referenceCount": 0,
+        "citationCount": 59,
+        "authors": [
+          {
+            "authorId": "35132120",
+            "name": "T. Jaakkola"
+          },
+          {
+            "authorId": "1746662",
+            "name": "D. Sontag"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "1cd44dd4f1b0b1c0499b1dc9637010c6d63d445c",
+        "externalIds": {
+          "MAG": "2111787305",
+          "CorpusId": 122725027
+        },
+        "url": "https://www.semanticscholar.org/paper/1cd44dd4f1b0b1c0499b1dc9637010c6d63d445c",
+        "title": "A Tutorial on Particle Filtering and Smoothing: Fifteen years later",
+        "venue": "",
+        "year": 2008,
+        "referenceCount": 40,
+        "citationCount": 2191,
+        "authors": [
+          {
+            "authorId": "1701800",
+            "name": "A. Doucet"
+          },
+          {
+            "authorId": "2729416",
+            "name": "A. M. Johansen"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "b84710e33f8951fc506e00fd2edf120a0fbd8c73",
+        "externalIds": {
+          "MAG": "137499401",
+          "DBLP": "conf/aistats/MilchMSROK05",
+          "CorpusId": 262242455
+        },
+        "url": "https://www.semanticscholar.org/paper/b84710e33f8951fc506e00fd2edf120a0fbd8c73",
+        "title": "Approximate Inference for Infinite Contingent Bayesian Networks",
+        "venue": "International Conference on Artificial Intelligence and Statistics",
+        "year": 2005,
+        "referenceCount": 13,
+        "citationCount": 75,
+        "authors": [
+          {
+            "authorId": "3226208",
+            "name": "Brian Milch"
+          },
+          {
+            "authorId": "1711416",
+            "name": "B. Marthi"
+          },
+          {
+            "authorId": "2256691252",
+            "name": "David A. Sontag"
+          },
+          {
+            "authorId": "2244853755",
+            "name": "Stuart Russell"
+          },
+          {
+            "authorId": "2143048",
+            "name": "Daniel L. Ong"
+          },
+          {
+            "authorId": "2320407525",
+            "name": "A. Kolobov"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "Philadelphia: Linguistic Data Consortium",
+        "venue": "",
+        "year": 2003,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "81200812fde4c423293c2b09fa198c093cc05c3e",
+        "externalIds": {
+          "MAG": "196692374",
+          "CorpusId": 2261281
+        },
+        "url": "https://www.semanticscholar.org/paper/81200812fde4c423293c2b09fa198c093cc05c3e",
+        "title": "INSIGHTS INTO SPOKEN LANGUAGE GLEANED FROM PHONETIC TRANSCRIPTION OF THE SWITCHBOARD CORPUS",
+        "venue": "",
+        "year": 1996,
+        "referenceCount": 5,
+        "citationCount": 165,
+        "authors": [
+          {
+            "authorId": "145086537",
+            "name": "S. Greenberg"
+          },
+          {
+            "authorId": "32214134",
+            "name": "J. Hollenback"
+          },
+          {
+            "authorId": "1745455",
+            "name": "D. Ellis"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "d3b97beda33f190487eaeb411ee81627f2efcff6",
+        "externalIds": {
+          "MAG": "1572572873",
+          "DBLP": "phd/ndltd/Kassel95",
+          "CorpusId": 37004361
+        },
+        "url": "https://www.semanticscholar.org/paper/d3b97beda33f190487eaeb411ee81627f2efcff6",
+        "title": "A comparison of approaches to on-line handwritten character recognition",
+        "venue": "",
+        "year": 1995,
+        "referenceCount": 0,
+        "citationCount": 79,
+        "authors": [
+          {
+            "authorId": "20730631",
+            "name": "R. Kassel"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "b3e53b9c0e3a7a60e7a5295e9b08af74d6fb3dbf",
+        "externalIds": {
+          "MAG": "2075201173",
+          "DBLP": "journals/csl/NeyEK94",
+          "DOI": "10.1006/CSLA.1994.1001",
+          "CorpusId": 206560877
+        },
+        "url": "https://www.semanticscholar.org/paper/b3e53b9c0e3a7a60e7a5295e9b08af74d6fb3dbf",
+        "title": "On structuring probabilistic dependences in stochastic language modelling",
+        "venue": "Computer Speech and Language",
+        "year": 1994,
+        "referenceCount": 0,
+        "citationCount": 643,
+        "authors": [
+          {
+            "authorId": "145322333",
+            "name": "H. Ney"
+          },
+          {
+            "authorId": "2037240",
+            "name": "U. Essen"
+          },
+          {
+            "authorId": "1795942",
+            "name": "Reinhard Kneser"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "RCMs provide both expressivity and coverage, which enable: More accurate uncertainty estimates (precision) Better partially supervised learning updates",
+        "venue": "RCMs provide both expressivity and coverage, which enable: More accurate uncertainty estimates (precision) Better partially supervised learning updates",
+        "year": null,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    }
+  ]
+}

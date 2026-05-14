@@ -1,0 +1,320 @@
+{
+  "total": 47,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "811df72e210e20de99719539505da54762a11c6d",
+      "externalIds": {
+        "MAG": "2962902376",
+        "ArXiv": "1801.01290",
+        "DBLP": "journals/corr/abs-1801-01290",
+        "CorpusId": 28202810
+      },
+      "url": "https://www.semanticscholar.org/paper/811df72e210e20de99719539505da54762a11c6d",
+      "title": "Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor",
+      "venue": "International Conference on Machine Learning",
+      "year": 2018,
+      "referenceCount": 42,
+      "citationCount": 10933,
+      "authors": [
+        {
+          "authorId": "2587648",
+          "name": "Tuomas Haarnoja"
+        },
+        {
+          "authorId": "35499972",
+          "name": "Aurick Zhou"
+        },
+        {
+          "authorId": "1689992",
+          "name": "P. Abbeel"
+        },
+        {
+          "authorId": "1736651",
+          "name": "S. Levine"
+        }
+      ]
+    },
+    {
+      "paperId": "718938e96a8569c876a97e2fe2ce7f424d112967",
+      "externalIds": {
+        "DBLP": "conf/icra/IgoePVS23",
+        "DOI": "10.1109/ICRA48891.2023.10161395",
+        "CorpusId": 259337175
+      },
+      "url": "https://www.semanticscholar.org/paper/718938e96a8569c876a97e2fe2ce7f424d112967",
+      "title": "Multi-Alpha Soft Actor-Critic: Overcoming Stochastic Biases in Maximum Entropy Reinforcement Learning",
+      "venue": "IEEE International Conference on Robotics and Automation",
+      "year": 2023,
+      "referenceCount": 29,
+      "citationCount": 4,
+      "authors": [
+        {
+          "authorId": "1518246203",
+          "name": "C. Igoe"
+        },
+        {
+          "authorId": "2165914306",
+          "name": "Swapnil Pande"
+        },
+        {
+          "authorId": "1598370068",
+          "name": "S. Venkatraman"
+        },
+        {
+          "authorId": "1753432",
+          "name": "J. Schneider"
+        }
+      ]
+    },
+    {
+      "paperId": "94b8b9951829e0bd5eb3ff7ab63a597c92ae199d",
+      "externalIds": {
+        "DBLP": "conf/cec/ChavaliGS22",
+        "ArXiv": "2207.13666",
+        "DOI": "10.1109/CEC55065.2022.9870423",
+        "CorpusId": 251104791
+      },
+      "url": "https://www.semanticscholar.org/paper/94b8b9951829e0bd5eb3ff7ab63a597c92ae199d",
+      "title": "SAC-AP: Soft Actor Critic based Deep Reinforcement Learning for Alert Prioritization",
+      "venue": "IEEE Congress on Evolutionary Computation",
+      "year": 2022,
+      "referenceCount": 30,
+      "citationCount": 12,
+      "authors": [
+        {
+          "authorId": "2179330620",
+          "name": "Lalitha Chavali"
+        },
+        {
+          "authorId": "2067240839",
+          "name": "Tanay Gupta"
+        },
+        {
+          "authorId": "2162647",
+          "name": "Paresh Saxena"
+        }
+      ]
+    },
+    {
+      "paperId": "d5d570f5e9fbeda5d4d8e9eb1e19580d6a29a481",
+      "externalIds": {
+        "DBLP": "journals/tnn/HwangKS25",
+        "DOI": "10.1109/TNNLS.2024.3493113",
+        "CorpusId": 274613241,
+        "PubMed": "40030452"
+      },
+      "url": "https://www.semanticscholar.org/paper/d5d570f5e9fbeda5d4d8e9eb1e19580d6a29a481",
+      "title": "Generative Adversarial Soft Actor–Critic",
+      "venue": "IEEE Transactions on Neural Networks and Learning Systems",
+      "year": 2024,
+      "referenceCount": 59,
+      "citationCount": 5,
+      "authors": [
+        {
+          "authorId": "2178228329",
+          "name": "Hyo-Seok Hwang"
+        },
+        {
+          "authorId": "9433534",
+          "name": "Yoojoong Kim"
+        },
+        {
+          "authorId": "2257336252",
+          "name": "Junhee Seok"
+        }
+      ]
+    },
+    {
+      "paperId": "274232da443ee72fd9bc2e7dd6fc1ee73818ebf6",
+      "externalIds": {
+        "PubMedCentral": "12944609",
+        "DOI": "10.3390/s26041149",
+        "CorpusId": 285489101,
+        "PubMed": "41755091"
+      },
+      "url": "https://www.semanticscholar.org/paper/274232da443ee72fd9bc2e7dd6fc1ee73818ebf6",
+      "title": "Constrained Soft Actor–Critic for Joint Computation Offloading and Resource Allocation in UAV-Assisted Edge Computing",
+      "venue": "Italian National Conference on Sensors",
+      "year": 2026,
+      "referenceCount": 50,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2410164213",
+          "name": "Nawazish Muhammad Alvi"
+        },
+        {
+          "authorId": "2410164286",
+          "name": "Waqas Muhammad Alvi"
+        },
+        {
+          "authorId": "2376042029",
+          "name": "Xiaolong Zhou"
+        },
+        {
+          "authorId": "2152751805",
+          "name": "Jun Li"
+        },
+        {
+          "authorId": "2275536328",
+          "name": "Yifei Wei"
+        }
+      ]
+    },
+    {
+      "paperId": "9172cd6c253edf7c3a1568e03577db20648ad0c4",
+      "externalIds": {
+        "MAG": "2594103415",
+        "ArXiv": "1702.08165",
+        "DBLP": "conf/icml/HaarnojaTAL17",
+        "CorpusId": 11227891
+      },
+      "url": "https://www.semanticscholar.org/paper/9172cd6c253edf7c3a1568e03577db20648ad0c4",
+      "title": "Reinforcement Learning with Deep Energy-Based Policies",
+      "venue": "International Conference on Machine Learning",
+      "year": 2017,
+      "referenceCount": 52,
+      "citationCount": 1560,
+      "authors": [
+        {
+          "authorId": "2587648",
+          "name": "Tuomas Haarnoja"
+        },
+        {
+          "authorId": "4990833",
+          "name": "Haoran Tang"
+        },
+        {
+          "authorId": "1689992",
+          "name": "P. Abbeel"
+        },
+        {
+          "authorId": "1736651",
+          "name": "S. Levine"
+        }
+      ]
+    },
+    {
+      "paperId": "b94b62d3f259f20bb8f8a6385965c9e4c03d51f8",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2202-11702",
+        "ArXiv": "2202.11702",
+        "DOI": "10.1109/WCNC51071.2022.9771666",
+        "CorpusId": 247058654
+      },
+      "url": "https://www.semanticscholar.org/paper/b94b62d3f259f20bb8f8a6385965c9e4c03d51f8",
+      "title": "Deep Reinforcement Learning based Joint Active and Passive Beamforming Design for RIS-Assisted MISO Systems",
+      "venue": "IEEE Wireless Communications and Networking Conference",
+      "year": 2022,
+      "referenceCount": 14,
+      "citationCount": 36,
+      "authors": [
+        {
+          "authorId": "2225298076",
+          "name": "Yuqian Zhu"
+        },
+        {
+          "authorId": "2052113135",
+          "name": "Zhu Bo"
+        },
+        {
+          "authorId": "2150652958",
+          "name": "Ming Li"
+        },
+        {
+          "authorId": "2434294",
+          "name": "Yang Liu"
+        },
+        {
+          "authorId": "144324267",
+          "name": "Qian Liu"
+        },
+        {
+          "authorId": "145965355",
+          "name": "Zheng Chang"
+        },
+        {
+          "authorId": "2324218710",
+          "name": "Yulin Hu"
+        }
+      ]
+    },
+    {
+      "paperId": "d4cc92cb197f65e3adfa39cb162acf82ecc30459",
+      "externalIds": {
+        "ArXiv": "2412.12089",
+        "DBLP": "conf/iclr/XingLO25",
+        "DOI": "10.48550/arXiv.2412.12089",
+        "CorpusId": 274789309
+      },
+      "url": "https://www.semanticscholar.org/paper/d4cc92cb197f65e3adfa39cb162acf82ecc30459",
+      "title": "Stabilizing Reinforcement Learning in Differentiable Multiphysics Simulation",
+      "venue": "International Conference on Learning Representations",
+      "year": 2024,
+      "referenceCount": 134,
+      "citationCount": 17,
+      "authors": [
+        {
+          "authorId": "2305613388",
+          "name": "Eliot Xing"
+        },
+        {
+          "authorId": "2335670923",
+          "name": "Vernon Luk"
+        },
+        {
+          "authorId": "2336305546",
+          "name": "Jean Oh"
+        }
+      ]
+    },
+    {
+      "paperId": "932c7b4467ad38670302e1621f1536c768ee7d63",
+      "externalIds": {
+        "CorpusId": 279238906
+      },
+      "url": "https://www.semanticscholar.org/paper/932c7b4467ad38670302e1621f1536c768ee7d63",
+      "title": "Stabilizing Reinforcement Learning in Differentiable Simulation of Deformables",
+      "venue": "",
+      "year": null,
+      "referenceCount": 93,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2305613388",
+          "name": "Eliot Xing"
+        },
+        {
+          "authorId": "2335670923",
+          "name": "Vernon Luk"
+        },
+        {
+          "authorId": "2336305546",
+          "name": "Jean Oh"
+        }
+      ]
+    },
+    {
+      "paperId": "935de8bfad0d5d0ceab29a0f681ac64108132d64",
+      "externalIds": {
+        "DBLP": "journals/cj/Hsu25",
+        "DOI": "10.1093/comjnl/bxaf057",
+        "CorpusId": 278654432
+      },
+      "url": "https://www.semanticscholar.org/paper/935de8bfad0d5d0ceab29a0f681ac64108132d64",
+      "title": "Enhanced SAC-RNN-based collision-avoidance methods in UAV networks with leader-follower scenario",
+      "venue": "Computer/law journal",
+      "year": 2025,
+      "referenceCount": 40,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2369877533",
+          "name": "Ching-Kuo Hsu"
+        }
+      ]
+    }
+  ]
+}

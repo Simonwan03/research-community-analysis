@@ -1,0 +1,300 @@
+{
+  "total": 112,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "dfdf6bd96388c97b377cb63406367dea8592e53d",
+      "externalIds": {
+        "MAG": "2951958376",
+        "DBLP": "conf/icml/ChwialkowskiSG16",
+        "ArXiv": "1602.02964",
+        "CorpusId": 2592607
+      },
+      "url": "https://www.semanticscholar.org/paper/dfdf6bd96388c97b377cb63406367dea8592e53d",
+      "title": "A Kernel Test of Goodness of Fit",
+      "venue": "International Conference on Machine Learning",
+      "year": 2016,
+      "referenceCount": 45,
+      "citationCount": 347,
+      "authors": [
+        {
+          "authorId": "2896283",
+          "name": "Kacper P. Chwialkowski"
+        },
+        {
+          "authorId": "1679743",
+          "name": "Heiko Strathmann"
+        },
+        {
+          "authorId": "1708497",
+          "name": "A. Gretton"
+        }
+      ]
+    },
+    {
+      "paperId": "499caa623cbd4e07265e7c1429e8c1b25da94636",
+      "externalIds": {
+        "DBLP": "conf/icml/BaumKG23",
+        "ArXiv": "2210.10741",
+        "DOI": "10.48550/arXiv.2210.10741",
+        "CorpusId": 252992697
+      },
+      "url": "https://www.semanticscholar.org/paper/499caa623cbd4e07265e7c1429e8c1b25da94636",
+      "title": "A kernel Stein test of goodness of fit for sequential models",
+      "venue": "International Conference on Machine Learning",
+      "year": 2022,
+      "referenceCount": 42,
+      "citationCount": 12,
+      "authors": [
+        {
+          "authorId": "1409243869",
+          "name": "Jerome Baum"
+        },
+        {
+          "authorId": "41209062",
+          "name": "Heishiro Kanagawa"
+        },
+        {
+          "authorId": "1708497",
+          "name": "A. Gretton"
+        }
+      ]
+    },
+    {
+      "paperId": "062e87dc1bf50962833e4c99fa020159a8f91940",
+      "externalIds": {
+        "DBLP": "journals/corr/JitkrittumXSFG17",
+        "MAG": "2619667594",
+        "ArXiv": "1705.07673",
+        "CorpusId": 1644718
+      },
+      "url": "https://www.semanticscholar.org/paper/062e87dc1bf50962833e4c99fa020159a8f91940",
+      "title": "A Linear-Time Kernel Goodness-of-Fit Test",
+      "venue": "Neural Information Processing Systems",
+      "year": 2017,
+      "referenceCount": 31,
+      "citationCount": 108,
+      "authors": [
+        {
+          "authorId": "2141405",
+          "name": "Wittawat Jitkrittum"
+        },
+        {
+          "authorId": "2152923472",
+          "name": "Wenkai Xu"
+        },
+        {
+          "authorId": "145675507",
+          "name": "Z. Szabó"
+        },
+        {
+          "authorId": "1693668",
+          "name": "K. Fukumizu"
+        },
+        {
+          "authorId": "1708497",
+          "name": "A. Gretton"
+        }
+      ]
+    },
+    {
+      "paperId": "7fb042b7d44dc3671dfac98eb668045e08ca7ae4",
+      "externalIds": {
+        "MAG": "2403482636",
+        "DOI": "10.1016/J.JCLEPRO.2016.05.123",
+        "CorpusId": 156264370
+      },
+      "url": "https://www.semanticscholar.org/paper/7fb042b7d44dc3671dfac98eb668045e08ca7ae4",
+      "title": "In the kernel of modelling repairable systems: a goodness of fit test for Weibull-based generalized renewal processes",
+      "venue": "",
+      "year": 2016,
+      "referenceCount": 40,
+      "citationCount": 11,
+      "authors": [
+        {
+          "authorId": "2111333687",
+          "name": "C. Oliveira"
+        },
+        {
+          "authorId": "66085967",
+          "name": "C. Cristino"
+        },
+        {
+          "authorId": "2181841",
+          "name": "P. Firmino"
+        }
+      ]
+    },
+    {
+      "paperId": "f7c46bd7091039fe56839ebb64c853464a14ef93",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2202-00824",
+        "ArXiv": "2202.00824",
+        "DOI": "10.52202/068431-2364",
+        "CorpusId": 246472938
+      },
+      "url": "https://www.semanticscholar.org/paper/f7c46bd7091039fe56839ebb64c853464a14ef93",
+      "title": "KSD Aggregated Goodness-of-fit Test",
+      "venue": "Neural Information Processing Systems",
+      "year": 2022,
+      "referenceCount": 94,
+      "citationCount": 23,
+      "authors": [
+        {
+          "authorId": "2135600197",
+          "name": "Antonin Schrab"
+        },
+        {
+          "authorId": "2064057007",
+          "name": "B. Guedj"
+        },
+        {
+          "authorId": "1708497",
+          "name": "A. Gretton"
+        }
+      ]
+    },
+    {
+      "paperId": "dfae1db72c863ccd5bb77f0e7350c27ea9fbf729",
+      "externalIds": {
+        "MAG": "2921685557",
+        "DBLP": "conf/aistats/YangRN19",
+        "CorpusId": 88489791
+      },
+      "url": "https://www.semanticscholar.org/paper/dfae1db72c863ccd5bb77f0e7350c27ea9fbf729",
+      "title": "A Stein-Papangelou Goodness-of-Fit Test for Point Processes",
+      "venue": "International Conference on Artificial Intelligence and Statistics",
+      "year": 2019,
+      "referenceCount": 44,
+      "citationCount": 24,
+      "authors": [
+        {
+          "authorId": "10666999",
+          "name": "Jiasen Yang"
+        },
+        {
+          "authorId": "144208693",
+          "name": "Vinayak A. Rao"
+        },
+        {
+          "authorId": "144050371",
+          "name": "Jennifer Neville"
+        }
+      ]
+    },
+    {
+      "paperId": "2db52fb9cbfc2a955d71162214c653e5826ea074",
+      "externalIds": {
+        "DBLP": "conf/aistats/FernandezG19",
+        "MAG": "2952026879",
+        "ArXiv": "1810.04286",
+        "CorpusId": 88517597
+      },
+      "url": "https://www.semanticscholar.org/paper/2db52fb9cbfc2a955d71162214c653e5826ea074",
+      "title": "A maximum-mean-discrepancy goodness-of-fit test for censored data",
+      "venue": "International Conference on Artificial Intelligence and Statistics",
+      "year": 2018,
+      "referenceCount": 35,
+      "citationCount": 18,
+      "authors": [
+        {
+          "authorId": "145623626",
+          "name": "T. Fernandez"
+        },
+        {
+          "authorId": "1708497",
+          "name": "A. Gretton"
+        }
+      ]
+    },
+    {
+      "paperId": "61b9d4e22e233adaf05b1b7c9f7ba221aeb0841f",
+      "externalIds": {
+        "MAG": "2337182270",
+        "DOI": "10.15388/NA.2015.4.9",
+        "CorpusId": 15608133
+      },
+      "url": "https://www.semanticscholar.org/paper/61b9d4e22e233adaf05b1b7c9f7ba221aeb0841f",
+      "title": "Multivariate goodness-of-fit tests based on kernel density estimators",
+      "venue": "",
+      "year": 2015,
+      "referenceCount": 29,
+      "citationCount": 6,
+      "authors": [
+        {
+          "authorId": "3255596",
+          "name": "A. Bakshaev"
+        },
+        {
+          "authorId": "1872656",
+          "name": "R. Rudzkis"
+        }
+      ]
+    },
+    {
+      "paperId": "125eb18ff087868abda3a79a0bd994e4cf795faf",
+      "externalIds": {
+        "ArXiv": "2111.10275",
+        "DBLP": "journals/corr/abs-2111-10275",
+        "CorpusId": 244462976
+      },
+      "url": "https://www.semanticscholar.org/paper/125eb18ff087868abda3a79a0bd994e4cf795faf",
+      "title": "Composite Goodness-of-fit Tests with Kernels",
+      "venue": "Journal of machine learning research",
+      "year": 2021,
+      "referenceCount": 85,
+      "citationCount": 23,
+      "authors": [
+        {
+          "authorId": "12389060",
+          "name": "Oscar Key"
+        },
+        {
+          "authorId": "145623626",
+          "name": "T. Fernandez"
+        },
+        {
+          "authorId": "1708497",
+          "name": "A. Gretton"
+        },
+        {
+          "authorId": "121585633",
+          "name": "F. Briol"
+        }
+      ]
+    },
+    {
+      "paperId": "05b3def83fa1bd3b92fd2092a05a88be7a485349",
+      "externalIds": {
+        "DBLP": "conf/icml/YangLRN18",
+        "MAG": "2803927155",
+        "CorpusId": 49484071
+      },
+      "url": "https://www.semanticscholar.org/paper/05b3def83fa1bd3b92fd2092a05a88be7a485349",
+      "title": "Goodness-of-fit Testing for Discrete Distributions via Stein Discrepancy",
+      "venue": "International Conference on Machine Learning",
+      "year": 2018,
+      "referenceCount": 34,
+      "citationCount": 59,
+      "authors": [
+        {
+          "authorId": "10666999",
+          "name": "Jiasen Yang"
+        },
+        {
+          "authorId": "47362268",
+          "name": "Qiang Liu"
+        },
+        {
+          "authorId": "144208693",
+          "name": "Vinayak A. Rao"
+        },
+        {
+          "authorId": "144050371",
+          "name": "Jennifer Neville"
+        }
+      ]
+    }
+  ]
+}

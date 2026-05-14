@@ -1,0 +1,388 @@
+{
+  "total": 421,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "c35f8f48f748c040c33bbe1f21c794e209341987",
+      "externalIds": {
+        "DBLP": "conf/icml/SunNSL18",
+        "MAG": "2804838341",
+        "CorpusId": 51871616
+      },
+      "url": "https://www.semanticscholar.org/paper/c35f8f48f748c040c33bbe1f21c794e209341987",
+      "title": "Neural Program Synthesis from Diverse Demonstration Videos",
+      "venue": "International Conference on Machine Learning",
+      "year": 2018,
+      "referenceCount": 28,
+      "citationCount": 79,
+      "authors": [
+        {
+          "authorId": "2109374418",
+          "name": "Shao-Hua Sun"
+        },
+        {
+          "authorId": "2018393",
+          "name": "Hyeonwoo Noh"
+        },
+        {
+          "authorId": "144136097",
+          "name": "Sriram Somasundaram"
+        },
+        {
+          "authorId": "35198686",
+          "name": "Joseph J. Lim"
+        }
+      ]
+    },
+    {
+      "paperId": "e25b550ce6ffab4889589917f8a132b029c868e8",
+      "externalIds": {
+        "ArXiv": "2510.21447",
+        "DBLP": "journals/corr/abs-2510-21447",
+        "DOI": "10.48550/arXiv.2510.21447",
+        "CorpusId": 282384911
+      },
+      "url": "https://www.semanticscholar.org/paper/e25b550ce6ffab4889589917f8a132b029c868e8",
+      "title": "PhysWorld: From Real Videos to World Models of Deformable Objects via Physics-Aware Demonstration Synthesis",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "referenceCount": 48,
+      "citationCount": 4,
+      "authors": [
+        {
+          "authorId": "2295679678",
+          "name": "Yu Yang"
+        },
+        {
+          "authorId": "1491240545",
+          "name": "Zhilu Zhang"
+        },
+        {
+          "authorId": "2313026102",
+          "name": "Xiang Zhang"
+        },
+        {
+          "authorId": "2237077457",
+          "name": "Yihan Zeng"
+        },
+        {
+          "authorId": "2304506363",
+          "name": "Hui Li"
+        },
+        {
+          "authorId": "2243334363",
+          "name": "Wangmeng Zuo"
+        }
+      ]
+    },
+    {
+      "paperId": "dc7d3adcfd3ea596128ec2e5c4f19b3adcdd4e7c",
+      "externalIds": {
+        "ArXiv": "2303.06018",
+        "DBLP": "journals/corr/abs-2303-06018",
+        "DOI": "10.48550/arXiv.2303.06018",
+        "CorpusId": 257482379
+      },
+      "url": "https://www.semanticscholar.org/paper/dc7d3adcfd3ea596128ec2e5c4f19b3adcdd4e7c",
+      "title": "Hierarchical Neural Program Synthesis",
+      "venue": "arXiv.org",
+      "year": 2023,
+      "referenceCount": 53,
+      "citationCount": 9,
+      "authors": [
+        {
+          "authorId": "2218226496",
+          "name": "Ling-Tao Zhong"
+        },
+        {
+          "authorId": "2122328760",
+          "name": "Ryan Lindeborg"
+        },
+        {
+          "authorId": "2255687520",
+          "name": "Jesse Zhang"
+        },
+        {
+          "authorId": "35198686",
+          "name": "Joseph J. Lim"
+        },
+        {
+          "authorId": "2109374418",
+          "name": "Shao-Hua Sun"
+        }
+      ]
+    },
+    {
+      "paperId": "81218b34924fbd867a8483cc78beb50baf5bb0de",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2510-12971",
+        "ArXiv": "2510.12971",
+        "DOI": "10.48550/arXiv.2510.12971",
+        "CorpusId": 282102978
+      },
+      "url": "https://www.semanticscholar.org/paper/81218b34924fbd867a8483cc78beb50baf5bb0de",
+      "title": "Actron3D: Learning Actionable Neural Functions from Videos for Transferable Robotic Manipulation",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "referenceCount": 56,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2350752922",
+          "name": "Anran Zhang"
+        },
+        {
+          "authorId": "2254865721",
+          "name": "Hanzhi Chen"
+        },
+        {
+          "authorId": "2353076561",
+          "name": "Yannick Burkhardt"
+        },
+        {
+          "authorId": "2386947163",
+          "name": "Yao Zhong"
+        },
+        {
+          "authorId": "2363877926",
+          "name": "Johannes Betz"
+        },
+        {
+          "authorId": "2385790157",
+          "name": "Helen Oleynikova"
+        },
+        {
+          "authorId": "2272961433",
+          "name": "Stefan Leutenegger"
+        }
+      ]
+    },
+    {
+      "paperId": "ee776c252a768e48eca522d42affcdf9e72ff3b1",
+      "externalIds": {
+        "ArXiv": "2405.12420",
+        "DBLP": "journals/corr/abs-2405-12420",
+        "DOI": "10.1109/3DV66043.2025.00134",
+        "CorpusId": 269930039
+      },
+      "url": "https://www.semanticscholar.org/paper/ee776c252a768e48eca522d42affcdf9e72ff3b1",
+      "title": "GarmentDreamer: 3DGS Guided Garment Synthesis with Diverse Geometry and Texture Details",
+      "venue": "International Conference on 3D Vision",
+      "year": 2024,
+      "referenceCount": 76,
+      "citationCount": 27,
+      "authors": [
+        {
+          "authorId": "2302479703",
+          "name": "Boqian Li"
+        },
+        {
+          "authorId": "2144461584",
+          "name": "Xuan Li"
+        },
+        {
+          "authorId": "2282079101",
+          "name": "Ying Jiang"
+        },
+        {
+          "authorId": "2199319084",
+          "name": "Tianyi Xie"
+        },
+        {
+          "authorId": "2281837849",
+          "name": "Feng Gao"
+        },
+        {
+          "authorId": "2269838496",
+          "name": "Huamin Wang"
+        },
+        {
+          "authorId": "2118772760",
+          "name": "Yin Yang"
+        },
+        {
+          "authorId": "2267866705",
+          "name": "Chenfanfu Jiang"
+        }
+      ]
+    },
+    {
+      "paperId": "257b1876b593b4638b7e67ce5dbc06a8ef61dcc6",
+      "externalIds": {
+        "DBLP": "conf/cvpr/BansalZ23",
+        "DOI": "10.1109/CVPR52729.2023.00036",
+        "CorpusId": 261081745
+      },
+      "url": "https://www.semanticscholar.org/paper/257b1876b593b4638b7e67ce5dbc06a8ef61dcc6",
+      "title": "Neural Pixel Composition for 3D-4D View Synthesis from Multi-Views",
+      "venue": "Computer Vision and Pattern Recognition",
+      "year": 2023,
+      "referenceCount": 56,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "3294630",
+          "name": "Aayush Bansal"
+        },
+        {
+          "authorId": "2231668984",
+          "name": "Michael Zollhoefer"
+        }
+      ]
+    },
+    {
+      "paperId": "eb55ee7601dd46fdf49626dd0702cfe080a8f3a4",
+      "externalIds": {
+        "DBLP": "journals/pacmpl/CuiWMD025",
+        "DOI": "10.1145/3763070",
+        "CorpusId": 281968047
+      },
+      "url": "https://www.semanticscholar.org/paper/eb55ee7601dd46fdf49626dd0702cfe080a8f3a4",
+      "title": "Abstraction Refinement-Guided Program Synthesis for Robot Learning from Demonstrations",
+      "venue": "Proc. ACM Program. Lang.",
+      "year": 2025,
+      "referenceCount": 68,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2307439001",
+          "name": "Guofeng Cui"
+        },
+        {
+          "authorId": "2307516169",
+          "name": "Yuning Wang"
+        },
+        {
+          "authorId": "2287942640",
+          "name": "Wensen Mao"
+        },
+        {
+          "authorId": "2329727095",
+          "name": "Yuanlin Duan"
+        },
+        {
+          "authorId": "2329133110",
+          "name": "He Zhu"
+        }
+      ]
+    },
+    {
+      "paperId": "b97484d8dc172c17330079a955f3fe28444b507a",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2509-16611",
+        "ArXiv": "2509.16611",
+        "DOI": "10.48550/arXiv.2509.16611",
+        "CorpusId": 281420731
+      },
+      "url": "https://www.semanticscholar.org/paper/b97484d8dc172c17330079a955f3fe28444b507a",
+      "title": "Video-to-BT: Generating Reactive Behavior Trees from Human Demonstration Videos for Robotic Assembly",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "referenceCount": 42,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "3086256",
+          "name": "Xiwei Zhao"
+        },
+        {
+          "authorId": "2362643704",
+          "name": "Yiwei Wang"
+        },
+        {
+          "authorId": "2268029256",
+          "name": "Yansong Wu"
+        },
+        {
+          "authorId": "2260876739",
+          "name": "Fan Wu"
+        },
+        {
+          "authorId": "2152305649",
+          "name": "Teng Sun"
+        },
+        {
+          "authorId": "2292311206",
+          "name": "Zhonghua Miao"
+        },
+        {
+          "authorId": "2260341041",
+          "name": "Sami Haddadin"
+        },
+        {
+          "authorId": "2199865233",
+          "name": "A. Knoll"
+        }
+      ]
+    },
+    {
+      "paperId": "4ec0a6218c622ad502fb38d50b3366af0b43677b",
+      "externalIds": {
+        "DOI": "10.1109/ICCT62929.2024.10874949",
+        "CorpusId": 276347457
+      },
+      "url": "https://www.semanticscholar.org/paper/4ec0a6218c622ad502fb38d50b3366af0b43677b",
+      "title": "Synthesis of Neural Network Program Control Based on Pontryagin's Maximum Principle",
+      "venue": "International Conference on Speech Technology and Human-Computer Dialogue",
+      "year": 2024,
+      "referenceCount": 22,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2236528372",
+          "name": "A. Kozyr"
+        },
+        {
+          "authorId": "12138071",
+          "name": "S. Feofilov"
+        },
+        {
+          "authorId": "2117529476",
+          "name": "D. Khapkin"
+        }
+      ]
+    },
+    {
+      "paperId": "93b9c18e5e4924f793241bb0fc359741032c9ff6",
+      "externalIds": {
+        "DBLP": "conf/pldi/ChenL0DBD21",
+        "ArXiv": "2104.07162",
+        "DOI": "10.1145/3453483.3454047",
+        "CorpusId": 233240806
+      },
+      "url": "https://www.semanticscholar.org/paper/93b9c18e5e4924f793241bb0fc359741032c9ff6",
+      "title": "Web question answering with neurosymbolic program synthesis",
+      "venue": "ACM-SIGPLAN Symposium on Programming Language Design and Implementation",
+      "year": 2021,
+      "referenceCount": 65,
+      "citationCount": 32,
+      "authors": [
+        {
+          "authorId": "2146378324",
+          "name": "Qiaochu Chen"
+        },
+        {
+          "authorId": "2077429499",
+          "name": "Aaron Lamoreaux"
+        },
+        {
+          "authorId": "2115553121",
+          "name": "Xinyu Wang"
+        },
+        {
+          "authorId": "1814094",
+          "name": "Greg Durrett"
+        },
+        {
+          "authorId": "1697444",
+          "name": "O. Bastani"
+        },
+        {
+          "authorId": "1714075",
+          "name": "Işıl Dillig"
+        }
+      ]
+    }
+  ]
+}

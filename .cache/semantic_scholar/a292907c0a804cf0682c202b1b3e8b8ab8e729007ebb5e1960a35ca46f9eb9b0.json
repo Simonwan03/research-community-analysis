@@ -1,0 +1,274 @@
+{
+  "total": 46,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "4b951d39d94b31e2c39fef1e8b0596d8ae762a07",
+      "externalIds": {
+        "MAG": "2741276442",
+        "DBLP": "conf/icml/GoldsteinS17",
+        "CorpusId": 27644040
+      },
+      "url": "https://www.semanticscholar.org/paper/4b951d39d94b31e2c39fef1e8b0596d8ae762a07",
+      "title": "Convex Phase Retrieval without Lifting via PhaseMax",
+      "venue": "International Conference on Machine Learning",
+      "year": 2017,
+      "referenceCount": 22,
+      "citationCount": 14,
+      "authors": [
+        {
+          "authorId": "1962083",
+          "name": "T. Goldstein"
+        },
+        {
+          "authorId": "1746575",
+          "name": "Christoph Studer"
+        }
+      ]
+    },
+    {
+      "paperId": "6166e42ceea06331c08a2f61f1547c31a0c690f4",
+      "externalIds": {
+        "CorpusId": 212674024
+      },
+      "url": "https://www.semanticscholar.org/paper/6166e42ceea06331c08a2f61f1547c31a0c690f4",
+      "title": "PhaseMax: Convex Phase Retrieval Without Lifting",
+      "venue": "",
+      "year": 2017,
+      "referenceCount": 9,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "1962083",
+          "name": "T. Goldstein"
+        },
+        {
+          "authorId": "1746575",
+          "name": "Christoph Studer"
+        }
+      ]
+    },
+    {
+      "paperId": "d53cc7ec0c5f5be8dea379287e2c4533b94eeb95",
+      "externalIds": {
+        "MAG": "2952842783",
+        "DBLP": "journals/corr/abs-1802-00432",
+        "ArXiv": "1802.00432",
+        "DOI": "10.1109/CISS.2018.8362270",
+        "CorpusId": 3348442
+      },
+      "url": "https://www.semanticscholar.org/paper/d53cc7ec0c5f5be8dea379287e2c4533b94eeb95",
+      "title": "PhaseLin: Linear phase retrieval",
+      "venue": "Annual Conference on Information Sciences and Systems",
+      "year": 2018,
+      "referenceCount": 37,
+      "citationCount": 10,
+      "authors": [
+        {
+          "authorId": "39577741",
+          "name": "Ramina Ghods"
+        },
+        {
+          "authorId": "1730535",
+          "name": "Andrew S. Lan"
+        },
+        {
+          "authorId": "1962083",
+          "name": "T. Goldstein"
+        },
+        {
+          "authorId": "1746575",
+          "name": "Christoph Studer"
+        }
+      ]
+    },
+    {
+      "paperId": "d72f9d7617f3869d58822d88d55b2cac8dcc8b61",
+      "externalIds": {
+        "MAG": "2543875952",
+        "ArXiv": "1610.07531",
+        "DBLP": "journals/corr/GoldsteinS16",
+        "DOI": "10.1109/TIT.2018.2800768",
+        "CorpusId": 3153692
+      },
+      "url": "https://www.semanticscholar.org/paper/d72f9d7617f3869d58822d88d55b2cac8dcc8b61",
+      "title": "PhaseMax: Convex Phase Retrieval via Basis Pursuit",
+      "venue": "IEEE Transactions on Information Theory",
+      "year": 2016,
+      "referenceCount": 61,
+      "citationCount": 288,
+      "authors": [
+        {
+          "authorId": "1962083",
+          "name": "T. Goldstein"
+        },
+        {
+          "authorId": "1746575",
+          "name": "Christoph Studer"
+        }
+      ]
+    },
+    {
+      "paperId": "636594f0dd684dcfc7903f3c0c1cf2005b8743f3",
+      "externalIds": {
+        "MAG": "2573309900",
+        "DBLP": "journals/corr/HandV16",
+        "ArXiv": "1611.03935",
+        "DOI": "10.4310/CMS.2018.V16.N7.A13",
+        "CorpusId": 13931319
+      },
+      "url": "https://www.semanticscholar.org/paper/636594f0dd684dcfc7903f3c0c1cf2005b8743f3",
+      "title": "An Elementary Proof of Convex Phase Retrieval in the Natural Parameter Space via the Linear Program PhaseMax",
+      "venue": "arXiv.org",
+      "year": 2016,
+      "referenceCount": 11,
+      "citationCount": 62,
+      "authors": [
+        {
+          "authorId": "32268990",
+          "name": "Paul Hand"
+        },
+        {
+          "authorId": "2350266",
+          "name": "V. Voroninski"
+        }
+      ]
+    },
+    {
+      "paperId": "26c398d014bcf3acca1a5b6e328b21a83c74da24",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2506-21699",
+        "ArXiv": "2506.21699",
+        "DOI": "10.48550/arXiv.2506.21699",
+        "CorpusId": 280011031
+      },
+      "url": "https://www.semanticscholar.org/paper/26c398d014bcf3acca1a5b6e328b21a83c74da24",
+      "title": "Inverse scattering without phase: Carleman convexification and phase retrieval via the Wentzel-Kramers-Brillouin approximation",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "referenceCount": 40,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2266361116",
+          "name": "Thuy T. Le"
+        },
+        {
+          "authorId": "2113726102",
+          "name": "Phuong M. Nguyen"
+        },
+        {
+          "authorId": "2266348523",
+          "name": "Loc H. Nguyen"
+        }
+      ]
+    },
+    {
+      "paperId": "406ce5a7508744f1ebea46b82009f884d7d97667",
+      "externalIds": {
+        "DBLP": "conf/acssc/EamazYS23",
+        "DOI": "10.1109/IEEECONF59524.2023.10476823",
+        "CorpusId": 268878427
+      },
+      "url": "https://www.semanticscholar.org/paper/406ce5a7508744f1ebea46b82009f884d7d97667",
+      "title": "Global One-Bit Phase Retrieval via Sample Abundance-Including an Application to STFT Measurements",
+      "venue": "Asilomar Conference on Signals, Systems and Computers",
+      "year": 2023,
+      "referenceCount": 55,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2118598071",
+          "name": "Arian Eamaz"
+        },
+        {
+          "authorId": "2226261730",
+          "name": "Farhang Yeganegi"
+        },
+        {
+          "authorId": "2066557608",
+          "name": "M. Soltanalian"
+        }
+      ]
+    },
+    {
+      "paperId": "64d9c6df7d5c9607ba5e097529e147b64995fe3c",
+      "externalIds": {
+        "ArXiv": "2505.02636",
+        "DOI": "10.1109/TIT.2026.3684748",
+        "CorpusId": 278327724
+      },
+      "url": "https://www.semanticscholar.org/paper/64d9c6df7d5c9607ba5e097529e147b64995fe3c",
+      "title": "Phase retrieval and matrix sensing via benign and overparametrized nonconvex optimization",
+      "venue": "IEEE Transactions on Information Theory",
+      "year": 2025,
+      "referenceCount": 61,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "2297670059",
+          "name": "Andrew D. McRae"
+        }
+      ]
+    },
+    {
+      "paperId": "d2dbe151f86bc4c3c13d811b342ff68b558b6c21",
+      "externalIds": {
+        "DBLP": "journals/tsp/WangFDL20",
+        "MAG": "3004872016",
+        "DOI": "10.1109/TSP.2020.2971192",
+        "CorpusId": 211687444
+      },
+      "url": "https://www.semanticscholar.org/paper/d2dbe151f86bc4c3c13d811b342ff68b558b6c21",
+      "title": "PhaseEqual: Convex Phase Retrieval via Alternating Direction Method of Multipliers",
+      "venue": "IEEE Transactions on Signal Processing",
+      "year": 2020,
+      "referenceCount": 52,
+      "citationCount": 7,
+      "authors": [
+        {
+          "authorId": "2152594780",
+          "name": "Bin Wang"
+        },
+        {
+          "authorId": "145978212",
+          "name": "Jun Fang"
+        },
+        {
+          "authorId": "39353504",
+          "name": "Huiping Duan"
+        },
+        {
+          "authorId": "2108541027",
+          "name": "Hongbin Li"
+        }
+      ]
+    },
+    {
+      "paperId": "ef6fd449916c383cd0875f9d315d1c8cd58ef6d0",
+      "externalIds": {
+        "DBLP": "journals/tsp/YonelY20",
+        "MAG": "3031490246",
+        "DOI": "10.1109/TSP.2020.3007967",
+        "CorpusId": 219769943
+      },
+      "url": "https://www.semanticscholar.org/paper/ef6fd449916c383cd0875f9d315d1c8cd58ef6d0",
+      "title": "A Deterministic Theory for Exact Non-Convex Phase Retrieval",
+      "venue": "IEEE Transactions on Signal Processing",
+      "year": 2020,
+      "referenceCount": 52,
+      "citationCount": 23,
+      "authors": [
+        {
+          "authorId": "24015755",
+          "name": "Bariscan Yonel"
+        },
+        {
+          "authorId": "1730963",
+          "name": "B. Yazıcı"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,343 @@
+{
+  "total": 42,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "3a331607be6e10e6ab11d0402d7c1ce86c14ace4",
+      "externalIds": {
+        "ArXiv": "1702.08400",
+        "DBLP": "journals/corr/SaitoUH17",
+        "MAG": "2594718649",
+        "CorpusId": 12570770
+      },
+      "url": "https://www.semanticscholar.org/paper/3a331607be6e10e6ab11d0402d7c1ce86c14ace4",
+      "title": "Asymmetric Tri-training for Unsupervised Domain Adaptation",
+      "venue": "International Conference on Machine Learning",
+      "year": 2017,
+      "referenceCount": 47,
+      "citationCount": 610,
+      "authors": [
+        {
+          "authorId": "2116130970",
+          "name": "Kuniaki Saito"
+        },
+        {
+          "authorId": "3250559",
+          "name": "Y. Ushiku"
+        },
+        {
+          "authorId": "1790553",
+          "name": "T. Harada"
+        }
+      ]
+    },
+    {
+      "paperId": "1eab1ac24f6fcf3d2fea34086f9b3c2bb55ff2a4",
+      "externalIds": {
+        "ArXiv": "1910.01444",
+        "MAG": "3034348890",
+        "DBLP": "conf/sigir/Saito20",
+        "DOI": "10.1145/3397271.3401114",
+        "CorpusId": 219259684
+      },
+      "url": "https://www.semanticscholar.org/paper/1eab1ac24f6fcf3d2fea34086f9b3c2bb55ff2a4",
+      "title": "Asymmetric Tri-training for Debiasing Missing-Not-At-Random Explicit Feedback",
+      "venue": "Annual International ACM SIGIR Conference on Research and Development in Information Retrieval",
+      "year": 2019,
+      "referenceCount": 45,
+      "citationCount": 122,
+      "authors": [
+        {
+          "authorId": "47046740",
+          "name": "Yuta Saito"
+        }
+      ]
+    },
+    {
+      "paperId": "fe3fc6e7a6fc754ed0717cc101d43848b1222d63",
+      "externalIds": {
+        "DBLP": "conf/prcv/LiW25",
+        "ArXiv": "2502.14214",
+        "DOI": "10.48550/arXiv.2502.14214",
+        "CorpusId": 276482579
+      },
+      "url": "https://www.semanticscholar.org/paper/fe3fc6e7a6fc754ed0717cc101d43848b1222d63",
+      "title": "Asymmetric Co-Training for Source-Free Few-Shot Domain Adaptation",
+      "venue": "Chinese Conference on Pattern Recognition and Computer Vision",
+      "year": 2025,
+      "referenceCount": 0,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2346549023",
+          "name": "Gengxu Li"
+        },
+        {
+          "authorId": "2346334517",
+          "name": "Yuan Wu"
+        }
+      ]
+    },
+    {
+      "paperId": "0acda979d17f0aae28db72d548c01052553682aa",
+      "externalIds": {
+        "DBLP": "journals/jvcir/ChenQTYWZ23",
+        "DOI": "10.1016/j.jvcir.2022.103749",
+        "CorpusId": 255367404
+      },
+      "url": "https://www.semanticscholar.org/paper/0acda979d17f0aae28db72d548c01052553682aa",
+      "title": "MTNet: Mutual tri-training network for unsupervised domain adaptation on person re-identification",
+      "venue": "Journal of Visual Communication and Image Representation",
+      "year": 2022,
+      "referenceCount": 22,
+      "citationCount": 13,
+      "authors": [
+        {
+          "authorId": "2111635565",
+          "name": "Si Chen"
+        },
+        {
+          "authorId": "2199031158",
+          "name": "Liuxiang Qiu"
+        },
+        {
+          "authorId": "2069521480",
+          "name": "Zi Tian"
+        },
+        {
+          "authorId": "144761066",
+          "name": "Yan Yan"
+        },
+        {
+          "authorId": "2118068259",
+          "name": "Da-han Wang"
+        },
+        {
+          "authorId": "7472429",
+          "name": "Shunzhi Zhu"
+        }
+      ]
+    },
+    {
+      "paperId": "fc2461733df33f3469b38fe1e1c07c5b3887f92d",
+      "externalIds": {
+        "ArXiv": "2406.19362",
+        "DBLP": "journals/corr/abs-2406-19362",
+        "DOI": "10.1109/TIV.2024.3397194",
+        "CorpusId": 269631461
+      },
+      "url": "https://www.semanticscholar.org/paper/fc2461733df33f3469b38fe1e1c07c5b3887f92d",
+      "title": "STAL3D: Unsupervised Domain Adaptation for 3D Object Detection via Collaborating Self-Training and Adversarial Learning",
+      "venue": "IEEE Transactions on Intelligent Vehicles",
+      "year": 2024,
+      "referenceCount": 55,
+      "citationCount": 9,
+      "authors": [
+        {
+          "authorId": "2038499141",
+          "name": "Yanan Zhang"
+        },
+        {
+          "authorId": "2244625298",
+          "name": "Chao Zhou"
+        },
+        {
+          "authorId": "2300338367",
+          "name": "Di Huang"
+        }
+      ]
+    },
+    {
+      "paperId": "39417f75e2a1e1351d1f8cae922e1e0126c63553",
+      "externalIds": {
+        "DBLP": "conf/ieeecai/ZhangHWT24",
+        "DOI": "10.1109/CAI59869.2024.00051",
+        "CorpusId": 271040518
+      },
+      "url": "https://www.semanticscholar.org/paper/39417f75e2a1e1351d1f8cae922e1e0126c63553",
+      "title": "Asymmetric Source-Free Unsupervised Domain Adaptation for Medical Image Diagnosis",
+      "venue": "Conference on Algebraic Informatics",
+      "year": 2024,
+      "referenceCount": 23,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2310297440",
+          "name": "Yajie Zhang"
+        },
+        {
+          "authorId": "2455524",
+          "name": "Zhi-an Huang"
+        },
+        {
+          "authorId": "47876444",
+          "name": "Jibin Wu"
+        },
+        {
+          "authorId": "2257371227",
+          "name": "Kay Chen Tan"
+        }
+      ]
+    },
+    {
+      "paperId": "a78f38a7a143c2dc3e7450fda7a412d2d5078f28",
+      "externalIds": {
+        "DBLP": "journals/tgrs/HuLLZZT25",
+        "DOI": "10.1109/TGRS.2025.3566305",
+        "CorpusId": 278278454
+      },
+      "url": "https://www.semanticscholar.org/paper/a78f38a7a143c2dc3e7450fda7a412d2d5078f28",
+      "title": "Unsupervised Domain Adaptation With Hierarchical Masked Dual-Adversarial Network for End-to-End Classification of Multisource Remote Sensing Data",
+      "venue": "IEEE Transactions on Geoscience and Remote Sensing",
+      "year": 2025,
+      "referenceCount": 56,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "115911391",
+          "name": "Wen-Shuai Hu"
+        },
+        {
+          "authorId": "2260839254",
+          "name": "Wei Li"
+        },
+        {
+          "authorId": "2298857648",
+          "name": "Hengchao Li"
+        },
+        {
+          "authorId": "2118490010",
+          "name": "Xudong Zhao"
+        },
+        {
+          "authorId": "2153204738",
+          "name": "Mengmeng Zhang"
+        },
+        {
+          "authorId": "2267334931",
+          "name": "Ran Tao"
+        }
+      ]
+    },
+    {
+      "paperId": "2875ca7c001a2366d643d525d31dd71991e5c420",
+      "externalIds": {
+        "DBLP": "journals/spl/LiWCDY21",
+        "DOI": "10.1109/LSP.2021.3066068",
+        "CorpusId": 233434819
+      },
+      "url": "https://www.semanticscholar.org/paper/2875ca7c001a2366d643d525d31dd71991e5c420",
+      "title": "Mixup Asymmetric Tri-Training for Heartbeat Classification Under Domain Shift",
+      "venue": "IEEE Signal Processing Letters",
+      "year": 2021,
+      "referenceCount": 28,
+      "citationCount": 14,
+      "authors": [
+        {
+          "authorId": "2109400756",
+          "name": "Jiawei Li"
+        },
+        {
+          "authorId": "2585506",
+          "name": "Guijin Wang"
+        },
+        {
+          "authorId": "143630377",
+          "name": "Ming Chen"
+        },
+        {
+          "authorId": "2994858",
+          "name": "Zijian Ding"
+        },
+        {
+          "authorId": "39150998",
+          "name": "Huazhong Yang"
+        }
+      ]
+    },
+    {
+      "paperId": "30b83bc53a8ec3b1bc28c2e2e02f90467a10347f",
+      "externalIds": {
+        "ArXiv": "2503.03546",
+        "CorpusId": 276782193
+      },
+      "url": "https://www.semanticscholar.org/paper/30b83bc53a8ec3b1bc28c2e2e02f90467a10347f",
+      "title": "Intermediate Domain-guided Adaptation for Unsupervised Chorioallantoic Membrane Vessel Segmentation",
+      "venue": "",
+      "year": 2025,
+      "referenceCount": 56,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2336352114",
+          "name": "Pengwu Song"
+        },
+        {
+          "authorId": "2373438152",
+          "name": "Zhiping Wang"
+        },
+        {
+          "authorId": "2099668084",
+          "name": "Peng Yao"
+        },
+        {
+          "authorId": "2167713317",
+          "name": "Liang Xu"
+        },
+        {
+          "authorId": "24557707",
+          "name": "Shuwei Shen"
+        },
+        {
+          "authorId": "48619004",
+          "name": "Pengfei Shao"
+        },
+        {
+          "authorId": "2265522691",
+          "name": "Mingzhai Sun"
+        },
+        {
+          "authorId": "2166136037",
+          "name": "Ronald X.Xu"
+        }
+      ]
+    },
+    {
+      "paperId": "d005f576e29ebdb5ae37295e63c1596c44d2a4e4",
+      "externalIds": {
+        "DBLP": "journals/talip/JiangLZLW22",
+        "DOI": "10.1145/3488367",
+        "CorpusId": 245165942
+      },
+      "url": "https://www.semanticscholar.org/paper/d005f576e29ebdb5ae37295e63c1596c44d2a4e4",
+      "title": "Tri-training for Dependency Parsing Domain Adaptation",
+      "venue": "ACM Trans. Asian Low Resour. Lang. Inf. Process.",
+      "year": 2021,
+      "referenceCount": 58,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2290698571",
+          "name": "Shu Jiang"
+        },
+        {
+          "authorId": "2109645239",
+          "name": "Zuchao Li"
+        },
+        {
+          "authorId": "153716230",
+          "name": "Hai Zhao"
+        },
+        {
+          "authorId": "1715839",
+          "name": "Bao-Liang Lu"
+        },
+        {
+          "authorId": "2151037814",
+          "name": "Rui Wang"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,302 @@
+{
+  "total": 101,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "e58fc23acf46bef8af893e4313e874aa3a547928",
+      "externalIds": {
+        "MAG": "2963662217",
+        "ArXiv": "1704.06735",
+        "DBLP": "conf/icml/PengZZQ17",
+        "CorpusId": 39498172
+      },
+      "url": "https://www.semanticscholar.org/paper/e58fc23acf46bef8af893e4313e874aa3a547928",
+      "title": "Asynchronous Distributed Variational Gaussian Process for Regression",
+      "venue": "International Conference on Machine Learning",
+      "year": 2017,
+      "referenceCount": 29,
+      "citationCount": 30,
+      "authors": [
+        {
+          "authorId": "49349645",
+          "name": "Hao Peng"
+        },
+        {
+          "authorId": "2390798",
+          "name": "Shandian Zhe"
+        },
+        {
+          "authorId": "2358097",
+          "name": "Xiao Zhang"
+        },
+        {
+          "authorId": "2114756040",
+          "name": "Y. Qi"
+        }
+      ]
+    },
+    {
+      "paperId": "bafa7e2d586e7bfe77d9a55ac1cff4eb2f6ff292",
+      "externalIds": {
+        "MAG": "2535102319",
+        "CorpusId": 31036408
+      },
+      "url": "https://www.semanticscholar.org/paper/bafa7e2d586e7bfe77d9a55ac1cff4eb2f6ff292",
+      "title": "Practical learning of deep gaussian processes via random Fourier features",
+      "venue": "",
+      "year": 2016,
+      "referenceCount": 39,
+      "citationCount": 14,
+      "authors": [
+        {
+          "authorId": "3428811",
+          "name": "Kurt Cutajar"
+        }
+      ]
+    },
+    {
+      "paperId": "bbafee1aafc07032c8935ed2a97f45147e67c0d7",
+      "externalIds": {
+        "DBLP": "conf/aaai/YangDH25",
+        "DOI": "10.1609/aaai.v39i21.34359",
+        "CorpusId": 277753384
+      },
+      "url": "https://www.semanticscholar.org/paper/bbafee1aafc07032c8935ed2a97f45147e67c0d7",
+      "title": "Asynchronous Distributed Gaussian Process Regression",
+      "venue": "AAAI Conference on Artificial Intelligence",
+      "year": 2025,
+      "referenceCount": 0,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "2282577952",
+          "name": "Zewen Yang"
+        },
+        {
+          "authorId": "88327054",
+          "name": "X. Dai"
+        },
+        {
+          "authorId": "2253588678",
+          "name": "Sandra Hirche"
+        }
+      ]
+    },
+    {
+      "paperId": "540b39d61f395a17df99547ee70f81d9e35dec5a",
+      "externalIds": {
+        "ArXiv": "2412.11950",
+        "DBLP": "journals/corr/abs-2412-11950",
+        "DOI": "10.48550/arXiv.2412.11950",
+        "CorpusId": 274789385
+      },
+      "url": "https://www.semanticscholar.org/paper/540b39d61f395a17df99547ee70f81d9e35dec5a",
+      "title": "Asynchronous Distributed Gaussian Process Regression for Online Learning and Dynamical Systems: Complementary Document",
+      "venue": "arXiv.org",
+      "year": 2024,
+      "referenceCount": 0,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2282577952",
+          "name": "Zewen Yang"
+        },
+        {
+          "authorId": "88327054",
+          "name": "X. Dai"
+        },
+        {
+          "authorId": "2253588678",
+          "name": "Sandra Hirche"
+        }
+      ]
+    },
+    {
+      "paperId": "f84ae1cc97f0a47c6c0bc430e17fb9f8aa10f243",
+      "externalIds": {
+        "DBLP": "journals/tim/ChenXZH24",
+        "DOI": "10.1109/TIM.2024.3449964",
+        "CorpusId": 272132098
+      },
+      "url": "https://www.semanticscholar.org/paper/f84ae1cc97f0a47c6c0bc430e17fb9f8aa10f243",
+      "title": "Soft Sensor Enhancement for Multimodal Industrial Process Data: Meta Regression Gaussian Mixture Variational Autoencoder",
+      "venue": "IEEE Transactions on Instrumentation and Measurement",
+      "year": 2024,
+      "referenceCount": 32,
+      "citationCount": 15,
+      "authors": [
+        {
+          "authorId": "2244715052",
+          "name": "Lei Chen"
+        },
+        {
+          "authorId": "2307672297",
+          "name": "Yuan Xu"
+        },
+        {
+          "authorId": "2109875617",
+          "name": "Qun Zhu"
+        },
+        {
+          "authorId": "48479615",
+          "name": "Yanlin He"
+        }
+      ]
+    },
+    {
+      "paperId": "13c5fa3dc1c0c0671138664b119827437513c2a0",
+      "externalIds": {
+        "DBLP": "conf/icml/HoangHL16",
+        "MAG": "2474046462",
+        "CorpusId": 16429594
+      },
+      "url": "https://www.semanticscholar.org/paper/13c5fa3dc1c0c0671138664b119827437513c2a0",
+      "title": "A Distributed Variational Inference Framework for Unifying Parallel Sparse Gaussian Process Regression Models",
+      "venue": "International Conference on Machine Learning",
+      "year": 2016,
+      "referenceCount": 48,
+      "citationCount": 59,
+      "authors": [
+        {
+          "authorId": "144721482",
+          "name": "T. Hoang"
+        },
+        {
+          "authorId": "3209295",
+          "name": "Q. Hoang"
+        },
+        {
+          "authorId": "145454065",
+          "name": "K. H. Low"
+        }
+      ]
+    },
+    {
+      "paperId": "ef78947a3c17bb8428080e35776275dce97139f0",
+      "externalIds": {
+        "ArXiv": "1903.03571",
+        "DBLP": "journals/corr/abs-1903-03571",
+        "MAG": "2951702214",
+        "DOI": "10.17863/CAM.45147",
+        "CorpusId": 72940961
+      },
+      "url": "https://www.semanticscholar.org/paper/ef78947a3c17bb8428080e35776275dce97139f0",
+      "title": "Rates of Convergence for Sparse Variational Gaussian Process Regression",
+      "venue": "International Conference on Machine Learning",
+      "year": 2019,
+      "referenceCount": 42,
+      "citationCount": 164,
+      "authors": [
+        {
+          "authorId": "2060175778",
+          "name": "David R. Burt"
+        },
+        {
+          "authorId": "3472959",
+          "name": "C. Rasmussen"
+        },
+        {
+          "authorId": "33567216",
+          "name": "Mark van der Wilk"
+        }
+      ]
+    },
+    {
+      "paperId": "2b8660bb0c24315bb1b114d87f6662bb4baf99f9",
+      "externalIds": {
+        "MAG": "2626468253",
+        "CorpusId": 125357050
+      },
+      "url": "https://www.semanticscholar.org/paper/2b8660bb0c24315bb1b114d87f6662bb4baf99f9",
+      "title": "Asynchronous Distributed Variational Gaussian Processes",
+      "venue": "",
+      "year": 2017,
+      "referenceCount": 0,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2138443832",
+          "name": "Hao Peng"
+        },
+        {
+          "authorId": "2390798",
+          "name": "Shandian Zhe"
+        },
+        {
+          "authorId": "2114756040",
+          "name": "Y. Qi"
+        }
+      ]
+    },
+    {
+      "paperId": "90e1dd5ab170e86f243257bc2ef76a7c37fde80b",
+      "externalIds": {
+        "DBLP": "journals/robotica/CaoWCGYY25",
+        "DOI": "10.1017/S0263574725000050",
+        "CorpusId": 278846308
+      },
+      "url": "https://www.semanticscholar.org/paper/90e1dd5ab170e86f243257bc2ef76a7c37fde80b",
+      "title": "Multi-robot area coverage and source localization method based on variational sparse Gaussian process",
+      "venue": "Robotica (Cambridge. Print)",
+      "year": 2025,
+      "referenceCount": 51,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "2065282355",
+          "name": "Kai Cao"
+        },
+        {
+          "authorId": "2214204300",
+          "name": "Yunbo Wei"
+        },
+        {
+          "authorId": "2144355425",
+          "name": "YangQuan Chen"
+        },
+        {
+          "authorId": "2319618650",
+          "name": "Song Gao"
+        },
+        {
+          "authorId": "2223217296",
+          "name": "Kun Yan"
+        },
+        {
+          "authorId": "2391044854",
+          "name": "Shibo Yang"
+        }
+      ]
+    },
+    {
+      "paperId": "6a00d1c642853f20c8c5e7b4d96619c419bc711c",
+      "externalIds": {
+        "DBLP": "journals/corr/GalWR14",
+        "MAG": "2949971467",
+        "ArXiv": "1402.1389",
+        "CorpusId": 1399138
+      },
+      "url": "https://www.semanticscholar.org/paper/6a00d1c642853f20c8c5e7b4d96619c419bc711c",
+      "title": "Distributed Variational Inference in Sparse Gaussian Process Regression and Latent Variable Models",
+      "venue": "Neural Information Processing Systems",
+      "year": 2014,
+      "referenceCount": 19,
+      "citationCount": 153,
+      "authors": [
+        {
+          "authorId": "2681954",
+          "name": "Y. Gal"
+        },
+        {
+          "authorId": "33567216",
+          "name": "Mark van der Wilk"
+        },
+        {
+          "authorId": "3472959",
+          "name": "C. Rasmussen"
+        }
+      ]
+    }
+  ]
+}

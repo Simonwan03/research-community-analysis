@@ -1,0 +1,283 @@
+{
+  "total": 70,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "995c5f5e62614fcb4d2796ad2faab969da51713e",
+      "externalIds": {
+        "MAG": "1836465849",
+        "ArXiv": "1502.03167",
+        "DBLP": "conf/icml/IoffeS15",
+        "CorpusId": 5808102
+      },
+      "url": "https://www.semanticscholar.org/paper/995c5f5e62614fcb4d2796ad2faab969da51713e",
+      "title": "Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift",
+      "venue": "International Conference on Machine Learning",
+      "year": 2015,
+      "referenceCount": 54,
+      "citationCount": 46477,
+      "authors": [
+        {
+          "authorId": "2054165706",
+          "name": "Sergey Ioffe"
+        },
+        {
+          "authorId": "2574060",
+          "name": "Christian Szegedy"
+        }
+      ]
+    },
+    {
+      "paperId": "4970e28cd01f247ef86568891110de4c7b29b6e6",
+      "externalIds": {
+        "MAG": "3095528602",
+        "DOI": "10.1007/s42967-020-00085-3",
+        "CorpusId": 53303959
+      },
+      "url": "https://www.semanticscholar.org/paper/4970e28cd01f247ef86568891110de4c7b29b6e6",
+      "title": "Drop-Activation: Implicit Parameter Reduction and Harmonious Regularization",
+      "venue": "Communication on Applied Mathematics and Computation",
+      "year": 2020,
+      "referenceCount": 36,
+      "citationCount": 22,
+      "authors": [
+        {
+          "authorId": "116746634",
+          "name": "Senwei Liang"
+        },
+        {
+          "authorId": "145887470",
+          "name": "Y. Khoo"
+        },
+        {
+          "authorId": "2906086",
+          "name": "Haizhao Yang"
+        }
+      ]
+    },
+    {
+      "paperId": "a31ebc595767a26c5eaa4c75367128ac18117ac4",
+      "externalIds": {
+        "DOI": "10.14429/dsj.74.19475",
+        "CorpusId": 277333780
+      },
+      "url": "https://www.semanticscholar.org/paper/a31ebc595767a26c5eaa4c75367128ac18117ac4",
+      "title": "Accelerating deep network training for radar identification using batch normalization",
+      "venue": "Defence Science Journal",
+      "year": 2024,
+      "referenceCount": 0,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2261926539",
+          "name": "Preeti Gupta"
+        },
+        {
+          "authorId": "2352148948",
+          "name": "Pooja Jain"
+        },
+        {
+          "authorId": "2352150364",
+          "name": "O.G. Kakde"
+        }
+      ]
+    },
+    {
+      "paperId": "9b4c03f08fb7550332ea973bf0d29949d4283818",
+      "externalIds": {
+        "ArXiv": "2505.06331",
+        "CorpusId": 281079586
+      },
+      "url": "https://www.semanticscholar.org/paper/9b4c03f08fb7550332ea973bf0d29949d4283818",
+      "title": "Mask-PINNs: Mitigating Internal Covariate Shift in Physics-Informed Neural Networks",
+      "venue": "",
+      "year": 2025,
+      "referenceCount": 35,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2283253320",
+          "name": "Feilong Jiang"
+        },
+        {
+          "authorId": "2283269435",
+          "name": "Xiaonan Hou"
+        },
+        {
+          "authorId": "2354058471",
+          "name": "Jianqiao Ye"
+        },
+        {
+          "authorId": "2283134471",
+          "name": "Min Xia"
+        }
+      ]
+    },
+    {
+      "paperId": "94be567c32ae76bdaadabd4975807a94181e39b3",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-1805-11604",
+        "MAG": "2963184555",
+        "ArXiv": "1805.11604",
+        "CorpusId": 53104146
+      },
+      "url": "https://www.semanticscholar.org/paper/94be567c32ae76bdaadabd4975807a94181e39b3",
+      "title": "How Does Batch Normalization Help Optimization? (No, It Is Not About Internal Covariate Shift)",
+      "venue": "Neural Information Processing Systems",
+      "year": 2018,
+      "referenceCount": 33,
+      "citationCount": 1699,
+      "authors": [
+        {
+          "authorId": "2852106",
+          "name": "Shibani Santurkar"
+        },
+        {
+          "authorId": "2754804",
+          "name": "Dimitris Tsipras"
+        },
+        {
+          "authorId": "34562927",
+          "name": "Andrew Ilyas"
+        },
+        {
+          "authorId": "143826246",
+          "name": "A. Ma̧dry"
+        }
+      ]
+    },
+    {
+      "paperId": "b2faceed44a224d6b93e1448c2935d25573f6516",
+      "externalIds": {
+        "DBLP": "journals/pami/PengYY24",
+        "DOI": "10.1109/TPAMI.2023.3319005",
+        "CorpusId": 262746319,
+        "PubMed": "37747867"
+      },
+      "url": "https://www.semanticscholar.org/paper/b2faceed44a224d6b93e1448c2935d25573f6516",
+      "title": "Re-Thinking the Effectiveness of Batch Normalization and Beyond",
+      "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+      "year": 2023,
+      "referenceCount": 49,
+      "citationCount": 30,
+      "authors": [
+        {
+          "authorId": "3220396",
+          "name": "Hanyang Peng"
+        },
+        {
+          "authorId": "2246702725",
+          "name": "Yue Yu"
+        },
+        {
+          "authorId": "2247323181",
+          "name": "Shiqi Yu"
+        }
+      ]
+    },
+    {
+      "paperId": "f0afa23165dd0c9ca4e67b3ce7a02300e8a8fde4",
+      "externalIds": {
+        "MAG": "2292729293",
+        "DBLP": "journals/corr/ArpitZKG16",
+        "ArXiv": "1603.01431",
+        "CorpusId": 5137544
+      },
+      "url": "https://www.semanticscholar.org/paper/f0afa23165dd0c9ca4e67b3ce7a02300e8a8fde4",
+      "title": "Normalization Propagation: A Parametric Technique for Removing Internal Covariate Shift in Deep Networks",
+      "venue": "International Conference on Machine Learning",
+      "year": 2016,
+      "referenceCount": 21,
+      "citationCount": 131,
+      "authors": [
+        {
+          "authorId": "2309967",
+          "name": "Devansh Arpit"
+        },
+        {
+          "authorId": "34872128",
+          "name": "Yingbo Zhou"
+        },
+        {
+          "authorId": "3352136",
+          "name": "B. Kota"
+        },
+        {
+          "authorId": "1723877",
+          "name": "V. Govindaraju"
+        }
+      ]
+    },
+    {
+      "paperId": "bdb5add0cce205b7cbe1e250601be4a496a510d5",
+      "externalIds": {
+        "ArXiv": "2001.02814",
+        "DBLP": "conf/cvpr/HuangY20",
+        "MAG": "3035512902",
+        "DOI": "10.1109/cvpr42600.2020.00849",
+        "CorpusId": 210116480
+      },
+      "url": "https://www.semanticscholar.org/paper/bdb5add0cce205b7cbe1e250601be4a496a510d5",
+      "title": "An Internal Covariate Shift Bounding Algorithm for Deep Neural Networks by Unitizing Layers’ Outputs",
+      "venue": "Computer Vision and Pattern Recognition",
+      "year": 2020,
+      "referenceCount": 38,
+      "citationCount": 8,
+      "authors": [
+        {
+          "authorId": "49767745",
+          "name": "You Huang"
+        },
+        {
+          "authorId": "7877133",
+          "name": "Yuanlong Yu"
+        }
+      ]
+    },
+    {
+      "paperId": "64764484de6b2ce5099a7a20b5a926c63f01c8e9",
+      "externalIds": {
+        "MAG": "2962836826",
+        "ArXiv": "1709.09603",
+        "DBLP": "journals/corr/abs-1709-09603",
+        "CorpusId": 26571597
+      },
+      "url": "https://www.semanticscholar.org/paper/64764484de6b2ce5099a7a20b5a926c63f01c8e9",
+      "title": "Riemannian approach to batch normalization",
+      "venue": "Neural Information Processing Systems",
+      "year": 2017,
+      "referenceCount": 34,
+      "citationCount": 102,
+      "authors": [
+        {
+          "authorId": "2098811329",
+          "name": "Minhyung Cho"
+        },
+        {
+          "authorId": "5352673",
+          "name": "Jaehyung Lee"
+        }
+      ]
+    },
+    {
+      "paperId": "e4d4ab91b6547251d7ee56bc4cc727bf00d682ca",
+      "externalIds": {
+        "DOI": "10.1109/ICDSCNC62492.2024.10941223",
+        "CorpusId": 277501003
+      },
+      "url": "https://www.semanticscholar.org/paper/e4d4ab91b6547251d7ee56bc4cc727bf00d682ca",
+      "title": "Identification of Foundation Pit Construction Safety using Vector Batch Normalization based Feedforward Neural Network",
+      "venue": "2024 International Conference on Distributed Systems, Computer Networks and Cybersecurity (ICDSCNC)",
+      "year": 2024,
+      "referenceCount": 15,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2355042798",
+          "name": "Han Gu"
+        }
+      ]
+    }
+  ]
+}

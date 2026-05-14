@@ -1,0 +1,323 @@
+{
+  "total": 57739,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "f13e0ca4ab1717c6ac4679ca6b66576ad43111ac",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2505-09057",
+        "ArXiv": "2505.09057",
+        "DOI": "10.48550/arXiv.2505.09057",
+        "CorpusId": 278602913
+      },
+      "url": "https://www.semanticscholar.org/paper/f13e0ca4ab1717c6ac4679ca6b66576ad43111ac",
+      "title": "Leveraging Offline Data from Similar Systems for Online Linear Quadratic Control",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "referenceCount": 23,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2293319062",
+          "name": "Shivam Bajaj"
+        },
+        {
+          "authorId": "2363345999",
+          "name": "Prateek Jaiswal"
+        },
+        {
+          "authorId": "2355412961",
+          "name": "Vijay Gupta"
+        }
+      ]
+    },
+    {
+      "paperId": "40de7dd6755860af49b0a9010e0e73e32db418f1",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2510-19531",
+        "ArXiv": "2510.19531",
+        "DOI": "10.48550/arXiv.2510.19531",
+        "CorpusId": 282272090
+      },
+      "url": "https://www.semanticscholar.org/paper/40de7dd6755860af49b0a9010e0e73e32db418f1",
+      "title": "The Confusing Instance Principle for Online Linear Quadratic Control",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "referenceCount": 57,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2187299844",
+          "name": "Waris Radji"
+        },
+        {
+          "authorId": "1794867",
+          "name": "Odalric-Ambrym Maillard"
+        }
+      ]
+    },
+    {
+      "paperId": "fb362cae5ec5b24fb5ec502b92b23b979ee724e5",
+      "externalIds": {
+        "MAG": "2950822468",
+        "DBLP": "conf/icml/CohenHKLMT18",
+        "ArXiv": "1806.07104",
+        "CorpusId": 49311671
+      },
+      "url": "https://www.semanticscholar.org/paper/fb362cae5ec5b24fb5ec502b92b23b979ee724e5",
+      "title": "Online Linear Quadratic Control",
+      "venue": "International Conference on Machine Learning",
+      "year": 2018,
+      "referenceCount": 39,
+      "citationCount": 159,
+      "authors": [
+        {
+          "authorId": "145741057",
+          "name": "Alon Cohen"
+        },
+        {
+          "authorId": "1809983",
+          "name": "Avinatan Hassidim"
+        },
+        {
+          "authorId": "1711492",
+          "name": "Tomer Koren"
+        },
+        {
+          "authorId": "2849560",
+          "name": "N. Lazic"
+        },
+        {
+          "authorId": "144830983",
+          "name": "Y. Mansour"
+        },
+        {
+          "authorId": "35210462",
+          "name": "Kunal Talwar"
+        }
+      ]
+    },
+    {
+      "paperId": "afee6abb301cfe3aaa07a1135c71b6b67da0e981",
+      "externalIds": {
+        "DBLP": "journals/mcss/AkbariGL22",
+        "DOI": "10.1007/s00498-022-00323-4",
+        "CorpusId": 248037094
+      },
+      "url": "https://www.semanticscholar.org/paper/afee6abb301cfe3aaa07a1135c71b6b67da0e981",
+      "title": "Logarithmic regret in online linear quadratic control using Riccati updates",
+      "venue": "MCSS. Mathematics of Control, Signals and Systems",
+      "year": 2022,
+      "referenceCount": 35,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "143652652",
+          "name": "Mohammad Akbari"
+        },
+        {
+          "authorId": "3003034",
+          "name": "B. Gharesifard"
+        },
+        {
+          "authorId": "143649637",
+          "name": "T. Linder"
+        }
+      ]
+    },
+    {
+      "paperId": "c144c12499b4e2ea7f13fdb63367e39171fee587",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2009-13749",
+        "ArXiv": "2009.13749",
+        "MAG": "3090299526",
+        "DOI": "10.23919/ACC50511.2021.9483391",
+        "CorpusId": 221995887
+      },
+      "url": "https://www.semanticscholar.org/paper/c144c12499b4e2ea7f13fdb63367e39171fee587",
+      "title": "Distributed Online Linear Quadratic Control for Linear Time-invariant Systems",
+      "venue": "American Control Conference",
+      "year": 2020,
+      "referenceCount": 30,
+      "citationCount": 8,
+      "authors": [
+        {
+          "authorId": "70514229",
+          "name": "Ting-Jui Chang"
+        },
+        {
+          "authorId": "1720728",
+          "name": "Shahin Shahrampour"
+        }
+      ]
+    },
+    {
+      "paperId": "4ed738daaf5f22f8fff9b90e7dd1e7833cc7c196",
+      "externalIds": {
+        "MAG": "3107101281",
+        "DBLP": "conf/l4dc/0002GL20",
+        "CorpusId": 219965794
+      },
+      "url": "https://www.semanticscholar.org/paper/4ed738daaf5f22f8fff9b90e7dd1e7833cc7c196",
+      "title": "Riccati updates for online linear quadratic control",
+      "venue": "Conference on Learning for Dynamics & Control",
+      "year": 2020,
+      "referenceCount": 31,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "143652652",
+          "name": "Mohammad Akbari"
+        },
+        {
+          "authorId": "3003034",
+          "name": "B. Gharesifard"
+        },
+        {
+          "authorId": "143649637",
+          "name": "T. Linder"
+        }
+      ]
+    },
+    {
+      "paperId": "02beef853222136dc004cfbef09348b3ae8666c4",
+      "externalIds": {
+        "MAG": "2995725691",
+        "ArXiv": "1912.09451",
+        "CorpusId": 209415059
+      },
+      "url": "https://www.semanticscholar.org/paper/02beef853222136dc004cfbef09348b3ae8666c4",
+      "title": "An Iterative Riccati Algorithm for Online Linear Quadratic Control.",
+      "venue": "",
+      "year": 2019,
+      "referenceCount": 29,
+      "citationCount": 4,
+      "authors": [
+        {
+          "authorId": "143652652",
+          "name": "Mohammad Akbari"
+        },
+        {
+          "authorId": "3003034",
+          "name": "B. Gharesifard"
+        },
+        {
+          "authorId": "2240638079",
+          "name": "Tama University"
+        },
+        {
+          "authorId": "102818241",
+          "name": "Kingston"
+        },
+        {
+          "authorId": "2093969583",
+          "name": "On"
+        },
+        {
+          "authorId": "69477256",
+          "name": "Canada."
+        }
+      ]
+    },
+    {
+      "paperId": "5a99ce83667595debe60d87af00a38d89be6b31c",
+      "externalIds": {
+        "DOI": "10.1002/rnc.7886",
+        "CorpusId": 276806649
+      },
+      "url": "https://www.semanticscholar.org/paper/5a99ce83667595debe60d87af00a38d89be6b31c",
+      "title": "Data‐Based Online Linear Quadratic Gaussian Control From Noisy Data",
+      "venue": "International Journal of Robust and Nonlinear Control",
+      "year": 2025,
+      "referenceCount": 18,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "2313263627",
+          "name": "Linqi Wang"
+        },
+        {
+          "authorId": "2269696523",
+          "name": "Wen-Juan Liu"
+        },
+        {
+          "authorId": "2110489244",
+          "name": "Yifei Li"
+        },
+        {
+          "authorId": "2152148509",
+          "name": "Jian Sun"
+        },
+        {
+          "authorId": "2258688044",
+          "name": "Gang Wang"
+        }
+      ]
+    },
+    {
+      "paperId": "429c102d698888be4c89ff60be79c37f2d32f746",
+      "externalIds": {
+        "DOI": "10.1007/s11768-025-00291-5",
+        "CorpusId": 282130299
+      },
+      "url": "https://www.semanticscholar.org/paper/429c102d698888be4c89ff60be79c37f2d32f746",
+      "title": "An online value iteration method for stochastic linear quadratic control with multiplicative noise",
+      "venue": "Control Theory and Technology",
+      "year": 2025,
+      "referenceCount": 24,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2295275515",
+          "name": "Shumei Li"
+        },
+        {
+          "authorId": "2386630980",
+          "name": "Bing-Chang Wang"
+        },
+        {
+          "authorId": "2318912377",
+          "name": "Bao-Qiang Zhang"
+        }
+      ]
+    },
+    {
+      "paperId": "9169a7a543dfa9f210879466f0b06393dfacef17",
+      "externalIds": {
+        "DBLP": "journals/csysl/KarapetyanBTBL23",
+        "ArXiv": "2303.10260",
+        "DOI": "10.1109/LCSYS.2023.3345809",
+        "CorpusId": 257632085
+      },
+      "url": "https://www.semanticscholar.org/paper/9169a7a543dfa9f210879466f0b06393dfacef17",
+      "title": "Online Linear Quadratic Tracking With Regret Guarantees",
+      "venue": "IEEE Control Systems Letters",
+      "year": 2023,
+      "referenceCount": 20,
+      "citationCount": 12,
+      "authors": [
+        {
+          "authorId": "2090636136",
+          "name": "Aren Karapetyan"
+        },
+        {
+          "authorId": "2212027833",
+          "name": "Diego Bolliger"
+        },
+        {
+          "authorId": "2326907135",
+          "name": "Anastasios Tsiamis"
+        },
+        {
+          "authorId": "34655428",
+          "name": "Efe C. Balta"
+        },
+        {
+          "authorId": "1681053",
+          "name": "J. Lygeros"
+        }
+      ]
+    }
+  ]
+}

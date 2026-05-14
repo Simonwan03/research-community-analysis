@@ -1,0 +1,842 @@
+{
+  "offset": 0,
+  "citingPaperInfo": {
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/1505.06812, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "title": "Optimizing Non-decomposable Performance Measures: A Tale of Two Classes",
+    "authors": [
+      {
+        "authorId": "1727387",
+        "name": "H. Narasimhan"
+      },
+      {
+        "authorId": "39746893",
+        "name": "Purushottam Kar"
+      },
+      {
+        "authorId": "48964143",
+        "name": "Prateek Jain"
+      }
+    ]
+  },
+  "data": [
+    {
+      "citedPaper": {
+        "paperId": "0b749a1ce53c90a37d4b086f7f2cb8b64ed5407a",
+        "externalIds": {
+          "DBLP": "conf/nips/ParambathUG14",
+          "MAG": "2104144433",
+          "CorpusId": 13985040
+        },
+        "url": "https://www.semanticscholar.org/paper/0b749a1ce53c90a37d4b086f7f2cb8b64ed5407a",
+        "title": "Optimizing F-Measures by Cost-Sensitive Classification",
+        "venue": "Neural Information Processing Systems",
+        "year": 2014,
+        "referenceCount": 26,
+        "citationCount": 150,
+        "authors": [
+          {
+            "authorId": "2131091",
+            "name": "S. Parambath"
+          },
+          {
+            "authorId": "1746841",
+            "name": "Nicolas Usunier"
+          },
+          {
+            "authorId": "1802711",
+            "name": "Yves Grandvalet"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "488b8a0c469d27086920db0c415c5c9bbaab6bba",
+        "externalIds": {
+          "DBLP": "conf/nips/KoyejoNRD14",
+          "MAG": "2122770142",
+          "CorpusId": 6680925
+        },
+        "url": "https://www.semanticscholar.org/paper/488b8a0c469d27086920db0c415c5c9bbaab6bba",
+        "title": "Consistent Binary Classification with Generalized Performance Metrics",
+        "venue": "Neural Information Processing Systems",
+        "year": 2014,
+        "referenceCount": 28,
+        "citationCount": 183,
+        "authors": [
+          {
+            "authorId": "143812875",
+            "name": "Oluwasanmi Koyejo"
+          },
+          {
+            "authorId": "145328735",
+            "name": "Nagarajan Natarajan"
+          },
+          {
+            "authorId": "145969795",
+            "name": "Pradeep Ravikumar"
+          },
+          {
+            "authorId": "1783667",
+            "name": "I. Dhillon"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "d85a6eecbf58b7f1cdb6b9f646c768022c448bb5",
+        "externalIds": {
+          "MAG": "2109689843",
+          "DBLP": "conf/nips/NarasimhanV014",
+          "CorpusId": 11254722
+        },
+        "url": "https://www.semanticscholar.org/paper/d85a6eecbf58b7f1cdb6b9f646c768022c448bb5",
+        "title": "On the Statistical Consistency of Plug-in Classifiers for Non-decomposable Performance Measures",
+        "venue": "Neural Information Processing Systems",
+        "year": 2014,
+        "referenceCount": 32,
+        "citationCount": 93,
+        "authors": [
+          {
+            "authorId": "1727387",
+            "name": "H. Narasimhan"
+          },
+          {
+            "authorId": "36539670",
+            "name": "Rohit Vaish"
+          },
+          {
+            "authorId": "2797063",
+            "name": "S. Agarwal"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "f45a55b688d2cb7587132b4ce71bf220e8a43896",
+        "externalIds": {
+          "DBLP": "conf/nips/KarN014",
+          "MAG": "2167505604",
+          "ArXiv": "1410.6776",
+          "CorpusId": 98812
+        },
+        "url": "https://www.semanticscholar.org/paper/f45a55b688d2cb7587132b4ce71bf220e8a43896",
+        "title": "Online and Stochastic Gradient Methods for Non-decomposable Loss Functions",
+        "venue": "Neural Information Processing Systems",
+        "year": 2014,
+        "referenceCount": 28,
+        "citationCount": 77,
+        "authors": [
+          {
+            "authorId": "39746893",
+            "name": "Purushottam Kar"
+          },
+          {
+            "authorId": "1727387",
+            "name": "H. Narasimhan"
+          },
+          {
+            "authorId": "48964143",
+            "name": "Prateek Jain"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "1d883e92941c1db1feaca4ab943e80d196d13402",
+        "externalIds": {
+          "MAG": "2963861706",
+          "DBLP": "conf/nips/JaggiSTTKHJ14",
+          "ArXiv": "1409.1458",
+          "CorpusId": 7978238
+        },
+        "url": "https://www.semanticscholar.org/paper/1d883e92941c1db1feaca4ab943e80d196d13402",
+        "title": "Communication-Efficient Distributed Dual Coordinate Ascent",
+        "venue": "Neural Information Processing Systems",
+        "year": 2014,
+        "referenceCount": 31,
+        "citationCount": 359,
+        "authors": [
+          {
+            "authorId": "2456863",
+            "name": "Martin Jaggi"
+          },
+          {
+            "authorId": "145260024",
+            "name": "Virginia Smith"
+          },
+          {
+            "authorId": "144696183",
+            "name": "Martin Takác"
+          },
+          {
+            "authorId": "2281294",
+            "name": "Jonathan Terhorst"
+          },
+          {
+            "authorId": "40428703",
+            "name": "S. Krishnan"
+          },
+          {
+            "authorId": "143936663",
+            "name": "Thomas Hofmann"
+          },
+          {
+            "authorId": "1694621",
+            "name": "Michael I. Jordan"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "dbb1b6d5adf8d4152b7d081e00488392cb9b64a4",
+        "externalIds": {
+          "MAG": "2160374150",
+          "DBLP": "conf/nips/MahdaviYJ13",
+          "CorpusId": 9439624
+        },
+        "url": "https://www.semanticscholar.org/paper/dbb1b6d5adf8d4152b7d081e00488392cb9b64a4",
+        "title": "Stochastic Convex Optimization with Multiple Objectives",
+        "venue": "Neural Information Processing Systems",
+        "year": 2013,
+        "referenceCount": 25,
+        "citationCount": 45,
+        "authors": [
+          {
+            "authorId": "1694826",
+            "name": "M. Mahdavi"
+          },
+          {
+            "authorId": "40381920",
+            "name": "Tianbao Yang"
+          },
+          {
+            "authorId": "144723884",
+            "name": "Rong Jin"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "10f176de8e508cac3efbea9f311a177c9fe3ec7d",
+        "externalIds": {
+          "DBLP": "conf/icml/DembczynskiJKWH13",
+          "MAG": "2152089394",
+          "CorpusId": 546266
+        },
+        "url": "https://www.semanticscholar.org/paper/10f176de8e508cac3efbea9f311a177c9fe3ec7d",
+        "title": "Optimizing the F-Measure in Multi-Label Classification: Plug-in Rule Approach versus Structured Loss Minimization",
+        "venue": "International Conference on Machine Learning",
+        "year": 2013,
+        "referenceCount": 17,
+        "citationCount": 106,
+        "authors": [
+          {
+            "authorId": "1836428",
+            "name": "K. Dembczynski"
+          },
+          {
+            "authorId": "2747844",
+            "name": "Arkadiusz Jachnik"
+          },
+          {
+            "authorId": "2305834",
+            "name": "W. Kotłowski"
+          },
+          {
+            "authorId": "3249834",
+            "name": "W. Waegeman"
+          },
+          {
+            "authorId": "1691955",
+            "name": "Eyke Hüllermeier"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "f4fd333664420e05fa6f572d222f4417f5552e46",
+        "externalIds": {
+          "MAG": "2950403298",
+          "DBLP": "journals/corr/abs-1305-2505",
+          "ArXiv": "1305.2505",
+          "CorpusId": 8366093
+        },
+        "url": "https://www.semanticscholar.org/paper/f4fd333664420e05fa6f572d222f4417f5552e46",
+        "title": "On the Generalization Ability of Online Learning Algorithms for Pairwise Loss Functions",
+        "venue": "International Conference on Machine Learning",
+        "year": 2013,
+        "referenceCount": 29,
+        "citationCount": 117,
+        "authors": [
+          {
+            "authorId": "39746893",
+            "name": "Purushottam Kar"
+          },
+          {
+            "authorId": "3313411",
+            "name": "Bharath K. Sriperumbudur"
+          },
+          {
+            "authorId": "48964143",
+            "name": "Prateek Jain"
+          },
+          {
+            "authorId": "2376013",
+            "name": "H. Karnick"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "6ddb27a201af5100faa5031af35ecd3292412b39",
+        "externalIds": {
+          "MAG": "1758941703",
+          "DBLP": "journals/corr/abs-1206-4625",
+          "ArXiv": "1206.4625",
+          "CorpusId": 1584187
+        },
+        "url": "https://www.semanticscholar.org/paper/6ddb27a201af5100faa5031af35ecd3292412b39",
+        "title": "Optimizing F-measure: A Tale of Two Approaches",
+        "venue": "International Conference on Machine Learning",
+        "year": 2012,
+        "referenceCount": 18,
+        "citationCount": 135,
+        "authors": [
+          {
+            "authorId": "50699003",
+            "name": "N. Ye"
+          },
+          {
+            "authorId": "1890071",
+            "name": "K. M. Chai"
+          },
+          {
+            "authorId": "1740222",
+            "name": "Wee Sun Lee"
+          },
+          {
+            "authorId": "3024630",
+            "name": "Hai Leong Chieu"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "f30aba767d71c1db5ea70b041d9fcc2b9b1ddad4",
+        "externalIds": {
+          "MAG": "2031248101",
+          "DBLP": "journals/ml/JoachimsFY09",
+          "DOI": "10.1007/s10994-009-5108-8",
+          "CorpusId": 14211670
+        },
+        "url": "https://www.semanticscholar.org/paper/f30aba767d71c1db5ea70b041d9fcc2b9b1ddad4",
+        "title": "Cutting-plane training of structural SVMs",
+        "venue": "Machine-mediated learning",
+        "year": 2009,
+        "referenceCount": 52,
+        "citationCount": 1129,
+        "authors": [
+          {
+            "authorId": "1680188",
+            "name": "T. Joachims"
+          },
+          {
+            "authorId": "50256971",
+            "name": "Thomas Finley"
+          },
+          {
+            "authorId": "3166569",
+            "name": "C. Yu"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "88a78d0e2ada8eeba0cd82928b0872c9b2f3377a",
+        "externalIds": {
+          "MAG": "1773633997",
+          "DBLP": "conf/aics/KennedyND09",
+          "DOI": "10.1007/978-3-642-17080-5_20",
+          "CorpusId": 31339153
+        },
+        "url": "https://www.semanticscholar.org/paper/88a78d0e2ada8eeba0cd82928b0872c9b2f3377a",
+        "title": "Learning without Default: A Study of One-Class Classification and the Low-Default Portfolio Problem",
+        "venue": "Irish Conference on Artificial Intelligence and Cognitive Science",
+        "year": 2009,
+        "referenceCount": 42,
+        "citationCount": 39,
+        "authors": [
+          {
+            "authorId": "48682754",
+            "name": "K. Kennedy"
+          },
+          {
+            "authorId": "7616304",
+            "name": "Brian Mac Namee"
+          },
+          {
+            "authorId": "2366069",
+            "name": "Sarah Jane Delany"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "c11d0ba3e581e691f1bee0022dc0807ff4c428f2",
+        "externalIds": {
+          "MAG": "2170505850",
+          "DBLP": "journals/ipm/SokolovaL09",
+          "DOI": "10.1016/j.ipm.2009.03.002",
+          "CorpusId": 14454728
+        },
+        "url": "https://www.semanticscholar.org/paper/c11d0ba3e581e691f1bee0022dc0807ff4c428f2",
+        "title": "A systematic analysis of performance measures for classification tasks",
+        "venue": "Information Processing & Management",
+        "year": 2009,
+        "referenceCount": 47,
+        "citationCount": 6166,
+        "authors": [
+          {
+            "authorId": "145368345",
+            "name": "Marina Sokolova"
+          },
+          {
+            "authorId": "1806207",
+            "name": "G. Lapalme"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "cf40878c2de992b6be053f79d3e97d20307dba26",
+        "externalIds": {
+          "DBLP": "conf/nips/HsuKLZ09",
+          "ArXiv": "0902.1284",
+          "MAG": "2951238624",
+          "CorpusId": 2555940
+        },
+        "url": "https://www.semanticscholar.org/paper/cf40878c2de992b6be053f79d3e97d20307dba26",
+        "title": "Multi-Label Prediction via Compressed Sensing",
+        "venue": "Neural Information Processing Systems",
+        "year": 2009,
+        "referenceCount": 32,
+        "citationCount": 441,
+        "authors": [
+          {
+            "authorId": "143724861",
+            "name": "Daniel J. Hsu"
+          },
+          {
+            "authorId": "144695232",
+            "name": "S. Kakade"
+          },
+          {
+            "authorId": "144162125",
+            "name": "J. Langford"
+          },
+          {
+            "authorId": "49104973",
+            "name": "Tong Zhang"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "668b1277fbece28c4841eeab1c97e4ebd0079700",
+        "externalIds": {
+          "MAG": "2009086942",
+          "DBLP": "journals/technometrics/Neal07",
+          "DOI": "10.1007/978-0-387-45528-0",
+          "CorpusId": 31993898
+        },
+        "url": "https://www.semanticscholar.org/paper/668b1277fbece28c4841eeab1c97e4ebd0079700",
+        "title": "Pattern Recognition and Machine Learning",
+        "venue": "Technometrics",
+        "year": 2006,
+        "referenceCount": 361,
+        "citationCount": 39236,
+        "authors": [
+          {
+            "authorId": "1764325",
+            "name": "Radford M. Neal"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "c4403a527b92709bdd35dbd4a5b30e5275d96096",
+        "externalIds": {
+          "DBLP": "journals/aai/DaskalakiKA06",
+          "MAG": "2116642770",
+          "DOI": "10.1080/08839510500313653",
+          "CorpusId": 16463927
+        },
+        "url": "https://www.semanticscholar.org/paper/c4403a527b92709bdd35dbd4a5b30e5275d96096",
+        "title": "EVALUATION OF CLASSIFIERS FOR AN UNEVEN CLASS DISTRIBUTION PROBLEM",
+        "venue": "Applied Artificial Intelligence",
+        "year": 2006,
+        "referenceCount": 44,
+        "citationCount": 186,
+        "authors": [
+          {
+            "authorId": "1773436",
+            "name": "S. Daskalaki"
+          },
+          {
+            "authorId": "1799747",
+            "name": "Ioannis Kopanas"
+          },
+          {
+            "authorId": "1712961",
+            "name": "N. Avouris"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "e1f153c6df86d1ca8ecb9561daddfe7a54f901e7",
+        "externalIds": {
+          "MAG": "2148825261",
+          "DBLP": "conf/icml/Zinkevich03",
+          "CorpusId": 553962
+        },
+        "url": "https://www.semanticscholar.org/paper/e1f153c6df86d1ca8ecb9561daddfe7a54f901e7",
+        "title": "Online Convex Programming and Generalized Infinitesimal Gradient Ascent",
+        "venue": "International Conference on Machine Learning",
+        "year": 2003,
+        "referenceCount": 32,
+        "citationCount": 2744,
+        "authors": [
+          {
+            "authorId": "8195063",
+            "name": "Martin A. Zinkevich"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "78396e535101308d4431c08f0e85b18c920ee44f",
+        "externalIds": {
+          "DBLP": "conf/nips/Cesa-BianchiCG01",
+          "MAG": "2109339818",
+          "DOI": "10.1109/TIT.2004.833339",
+          "CorpusId": 437093
+        },
+        "url": "https://www.semanticscholar.org/paper/78396e535101308d4431c08f0e85b18c920ee44f",
+        "title": "On the generalization ability of on-line learning algorithms",
+        "venue": "IEEE Transactions on Information Theory",
+        "year": 2001,
+        "referenceCount": 57,
+        "citationCount": 613,
+        "authors": [
+          {
+            "authorId": "1388387856",
+            "name": "N. Cesa-Bianchi"
+          },
+          {
+            "authorId": "2445783",
+            "name": "Alex Conconi"
+          },
+          {
+            "authorId": "1895207",
+            "name": "C. Gentile"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "91cbbe24c807473b7b935d39b63df5b15da9bb32",
+        "externalIds": {
+          "MAG": "2153962014",
+          "DBLP": "conf/sigir/Lewis95",
+          "DOI": "10.1145/215206.215366",
+          "CorpusId": 17260485
+        },
+        "url": "https://www.semanticscholar.org/paper/91cbbe24c807473b7b935d39b63df5b15da9bb32",
+        "title": "Evaluating and optimizing autonomous text classification systems",
+        "venue": "Annual International ACM SIGIR Conference on Research and Development in Information Retrieval",
+        "year": 1995,
+        "referenceCount": 23,
+        "citationCount": 404,
+        "authors": [
+          {
+            "authorId": "35153517",
+            "name": "D. Lewis"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "da37a4349e5d09fa3bf7003e34ba53e64836b1bb",
+        "externalIds": {
+          "MAG": "1590772317",
+          "DBLP": "books/sp/Poor94",
+          "DOI": "10.1007/978-1-4757-2341-0",
+          "CorpusId": 122048051
+        },
+        "url": "https://www.semanticscholar.org/paper/da37a4349e5d09fa3bf7003e34ba53e64836b1bb",
+        "title": "An Introduction to Signal Detection and Estimation",
+        "venue": "Springer Texts in Electrical Engineering",
+        "year": 1994,
+        "referenceCount": 0,
+        "citationCount": 4630,
+        "authors": [
+          {
+            "authorId": "145967056",
+            "name": "H. Poor"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "1ba51c27a79367a4da20bb7b3280b5a45ca5e793",
+        "externalIds": {
+          "MAG": "1999218360",
+          "DOI": "10.1287/MNSC.22.8.868",
+          "CorpusId": 120761480
+        },
+        "url": "https://www.semanticscholar.org/paper/1ba51c27a79367a4da20bb7b3280b5a45ca5e793",
+        "title": "Fractional Programming. II, On Dinkelbach's Algorithm",
+        "venue": "",
+        "year": 1976,
+        "referenceCount": 9,
+        "citationCount": 240,
+        "authors": [
+          {
+            "authorId": "1686999",
+            "name": "S. Schaible"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "676924e4e404a95c9074553ca892440a348720b5",
+        "externalIds": {
+          "MAG": "2026518456",
+          "DOI": "10.1287/MNSC.12.7.609",
+          "CorpusId": 121695924
+        },
+        "url": "https://www.semanticscholar.org/paper/676924e4e404a95c9074553ca892440a348720b5",
+        "title": "On Some Properties of Programming Problems in Parametric form Pertaining to Fractional Programming",
+        "venue": "",
+        "year": 1966,
+        "referenceCount": 10,
+        "citationCount": 157,
+        "authors": [
+          {
+            "authorId": "2901068",
+            "name": "R. Jagannathan"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "8e3c872076750bcce868808f9d4d7a038f950040",
+        "externalIds": {
+          "MAG": "2512499575",
+          "CorpusId": 268095720
+        },
+        "url": "https://www.semanticscholar.org/paper/8e3c872076750bcce868808f9d4d7a038f950040",
+        "title": "Pattern Recognition And Machine Learning",
+        "venue": "",
+        "year": 2016,
+        "referenceCount": 1,
+        "citationCount": 6508,
+        "authors": [
+          {
+            "authorId": "2334288972",
+            "name": "L. Strauss"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "ea67efe9866b245ea2b0bbb526239fbd7070f635",
+        "externalIds": {
+          "MAG": "142212369",
+          "DOI": "10.1007/978-3-642-39314-3_1",
+          "CorpusId": 262553219
+        },
+        "url": "https://www.semanticscholar.org/paper/ea67efe9866b245ea2b0bbb526239fbd7070f635",
+        "title": "An Introduction to Information Retrieval",
+        "venue": "",
+        "year": 2013,
+        "referenceCount": 11,
+        "citationCount": 13112,
+        "authors": [
+          {
+            "authorId": "144161686",
+            "name": "S. Ceri"
+          },
+          {
+            "authorId": "1710630",
+            "name": "A. Bozzon"
+          },
+          {
+            "authorId": "40350773",
+            "name": "Marco Brambilla"
+          },
+          {
+            "authorId": "2539248",
+            "name": "Emanuele Della Valle"
+          },
+          {
+            "authorId": "1704595",
+            "name": "P. Fraternali"
+          },
+          {
+            "authorId": "1794305",
+            "name": "S. Quarteroni"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "e64cfc8c882b73906949a8f29d1020b3324e30bc",
+        "externalIds": {
+          "CorpusId": 115362155
+        },
+        "url": "https://www.semanticscholar.org/paper/e64cfc8c882b73906949a8f29d1020b3324e30bc",
+        "title": "Optimizing F-Measures : A Tale of Two Approaches",
+        "venue": "",
+        "year": 2012,
+        "referenceCount": 2,
+        "citationCount": 47,
+        "authors": [
+          {
+            "authorId": "2281142621",
+            "name": "Nan Ye"
+          },
+          {
+            "authorId": "1890071",
+            "name": "K. M. Chai"
+          },
+          {
+            "authorId": "2362317964",
+            "name": "Wee Sun Lee"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "1bdd020bdf027d60262db89a034efa6954a74374",
+        "externalIds": {
+          "DBLP": "conf/sdm/LiuC11",
+          "MAG": "2404205672",
+          "DOI": "10.1137/1.9781611972818.17",
+          "CorpusId": 18208351
+        },
+        "url": "https://www.semanticscholar.org/paper/1bdd020bdf027d60262db89a034efa6954a74374",
+        "title": "A Quadratic Mean based Supervised Learning Model for Managing Data Skewness",
+        "venue": "SDM",
+        "year": 2011,
+        "referenceCount": 31,
+        "citationCount": 26,
+        "authors": [
+          {
+            "authorId": null,
+            "name": "Wei Liu"
+          },
+          {
+            "authorId": "50793091",
+            "name": "S. Chawla"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "b9a4f0f585543d015873b488da16fa5c88aae416",
+        "externalIds": {
+          "MAG": "66554687",
+          "DOI": "10.1007/978-94-009-0035-6_5",
+          "CorpusId": 115907200
+        },
+        "url": "https://www.semanticscholar.org/paper/b9a4f0f585543d015873b488da16fa5c88aae416",
+        "title": "Nonlinear Fractional Programming",
+        "venue": "",
+        "year": 1997,
+        "referenceCount": 0,
+        "citationCount": 1727,
+        "authors": [
+          {
+            "authorId": "1403543595",
+            "name": "I. Stancu-Minasian"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "8fdc2f0ae9245935c2bc909993749690b47054a2",
+        "externalIds": {
+          "CorpusId": 13956999
+        },
+        "url": "https://www.semanticscholar.org/paper/8fdc2f0ae9245935c2bc909993749690b47054a2",
+        "title": "24th Annual Conference on Learning Theory Online Learning: Beyond Regret",
+        "venue": "",
+        "year": null,
+        "referenceCount": 0,
+        "citationCount": 32,
+        "authors": []
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "86b7edea21cb82af9c0c04e53c66d7ad55e419b4",
+        "externalIds": {
+          "CorpusId": 53306004
+        },
+        "url": "https://www.semanticscholar.org/paper/86b7edea21cb82af9c0c04e53c66d7ad55e419b4",
+        "title": "Mathematical Programming manuscript No. (will be inserted by the editor) Pegasos: Primal Estimated sub-GrAdient SOlver for SVM",
+        "venue": "",
+        "year": null,
+        "referenceCount": 0,
+        "citationCount": 2340,
+        "authors": []
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "Part (a) is simply Lemma 11. To prove part (b), we let v = v + 2e",
+        "venue": "",
+        "year": null,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    }
+  ]
+}

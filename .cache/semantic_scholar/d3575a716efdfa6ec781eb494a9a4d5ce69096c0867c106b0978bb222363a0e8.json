@@ -1,0 +1,297 @@
+{
+  "total": 2895,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "dbcee766687b947548803d41c66e7962f2aaebf7",
+      "externalIds": {
+        "DBLP": "conf/icml/SureshYKM17",
+        "ArXiv": "1611.00429",
+        "MAG": "2950346378",
+        "CorpusId": 479800
+      },
+      "url": "https://www.semanticscholar.org/paper/dbcee766687b947548803d41c66e7962f2aaebf7",
+      "title": "Distributed Mean Estimation with Limited Communication",
+      "venue": "International Conference on Machine Learning",
+      "year": 2016,
+      "referenceCount": 29,
+      "citationCount": 394,
+      "authors": [
+        {
+          "authorId": "9486035",
+          "name": "A. Suresh"
+        },
+        {
+          "authorId": "1815972",
+          "name": "Felix X. Yu"
+        },
+        {
+          "authorId": "152663162",
+          "name": "Sanjiv Kumar"
+        },
+        {
+          "authorId": "145057514",
+          "name": "H. B. McMahan"
+        }
+      ]
+    },
+    {
+      "paperId": "e1d37c1ac6cd48b62ed4837ce55cf21c763c1d5d",
+      "externalIds": {
+        "DBLP": "journals/tmlr/VardhanM25",
+        "ArXiv": "2601.18950",
+        "DOI": "10.48550/arXiv.2601.18950",
+        "CorpusId": 281952046
+      },
+      "url": "https://www.semanticscholar.org/paper/e1d37c1ac6cd48b62ed4837ce55cf21c763c1d5d",
+      "title": "Collaborative Compressors in Distributed Mean Estimation with Limited Communication Budget",
+      "venue": "Trans. Mach. Learn. Res.",
+      "year": 2026,
+      "referenceCount": 55,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": null,
+          "name": "Harsh Vardhan"
+        },
+        {
+          "authorId": "2275897266",
+          "name": "Arya Mazumdar"
+        }
+      ]
+    },
+    {
+      "paperId": "c8b6ebb824b06895974586b13f2279ab561a3ee9",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2501-18502",
+        "ArXiv": "2501.18502",
+        "DOI": "10.48550/arXiv.2501.18502",
+        "CorpusId": 275993619
+      },
+      "url": "https://www.semanticscholar.org/paper/c8b6ebb824b06895974586b13f2279ab561a3ee9",
+      "title": "One-Bit Distributed Mean Estimation with Unknown Variance",
+      "venue": "Trans. Mach. Learn. Res.",
+      "year": 2025,
+      "referenceCount": 72,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "2343001840",
+          "name": "Ritesh Kumar"
+        },
+        {
+          "authorId": "2112440",
+          "name": "Shashank Vatedka"
+        }
+      ]
+    },
+    {
+      "paperId": "fc92a19d7a75c776dad8bf50f159f2c1afd044e0",
+      "externalIds": {
+        "MAG": "2887818970",
+        "DBLP": "conf/europar/DannerJ18",
+        "DOI": "10.1007/978-3-319-96983-1_32",
+        "CorpusId": 52052616
+      },
+      "url": "https://www.semanticscholar.org/paper/fc92a19d7a75c776dad8bf50f159f2c1afd044e0",
+      "title": "Robust Decentralized Mean Estimation with Limited Communication",
+      "venue": "European Conference on Parallel Processing",
+      "year": 2018,
+      "referenceCount": 22,
+      "citationCount": 5,
+      "authors": [
+        {
+          "authorId": "50644385",
+          "name": "Gábor Danner"
+        },
+        {
+          "authorId": "1723641",
+          "name": "Márk Jelasity"
+        }
+      ]
+    },
+    {
+      "paperId": "c06b32e259d31a051a34aa93830d9341e9de8724",
+      "externalIds": {
+        "DBLP": "conf/ncc/KumarV23",
+        "DOI": "10.1109/NCC56989.2023.10067942",
+        "CorpusId": 257667203
+      },
+      "url": "https://www.semanticscholar.org/paper/c06b32e259d31a051a34aa93830d9341e9de8724",
+      "title": "Communication-Constrained Distributed Mean Estimation of Log-Concave Distributions",
+      "venue": "National Conference on Communications",
+      "year": 2023,
+      "referenceCount": 11,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2143908638",
+          "name": "Ritesh Kumar"
+        },
+        {
+          "authorId": "2112440",
+          "name": "Shashank Vatedka"
+        }
+      ]
+    },
+    {
+      "paperId": "f96a27730db5dd1eaf4e5c4dc69fff7662fe846a",
+      "externalIds": {
+        "DOI": "10.1109/TIM.2025.3643045",
+        "CorpusId": 283863090
+      },
+      "url": "https://www.semanticscholar.org/paper/f96a27730db5dd1eaf4e5c4dc69fff7662fe846a",
+      "title": "Distributed State Estimation Over Sensor Networks With Limited Sensing Range and Stochastic Sensor Activation Under Hybrid Network Attacks",
+      "venue": "IEEE Transactions on Instrumentation and Measurement",
+      "year": 2025,
+      "referenceCount": 41,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2274589859",
+          "name": "Xufeng Lin"
+        },
+        {
+          "authorId": "2280882604",
+          "name": "Yanyan Hu"
+        },
+        {
+          "authorId": "2117897393",
+          "name": "Qing Li"
+        },
+        {
+          "authorId": "2280449814",
+          "name": "Kaixiang Peng"
+        }
+      ]
+    },
+    {
+      "paperId": "c5c8b276675ba478d18d4b2d681ee41b8d3217da",
+      "externalIds": {
+        "DBLP": "conf/isit/ZhouD24",
+        "DOI": "10.1109/ISIT57864.2024.10619259",
+        "CorpusId": 271936422
+      },
+      "url": "https://www.semanticscholar.org/paper/c5c8b276675ba478d18d4b2d681ee41b8d3217da",
+      "title": "Personalized Heterogeneous Gaussian Mean Estimation Under Communication Constraints",
+      "venue": "International Symposium on Information Theory",
+      "year": 2024,
+      "referenceCount": 9,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2284824506",
+          "name": "Ruida Zhou"
+        },
+        {
+          "authorId": "143813023",
+          "name": "S. Diggavi"
+        }
+      ]
+    },
+    {
+      "paperId": "516f416f90f37ec13a84f0f2bfdfb8400c0ddf0d",
+      "externalIds": {
+        "MAG": "2899532358",
+        "DBLP": "journals/tsmc/YanLZZY20",
+        "DOI": "10.1109/TSMC.2018.2874804",
+        "CorpusId": 125377168
+      },
+      "url": "https://www.semanticscholar.org/paper/516f416f90f37ec13a84f0f2bfdfb8400c0ddf0d",
+      "title": "Event-Triggered Distributed Fusion Estimation of Networked Multisensor Systems With Limited Information",
+      "venue": "IEEE Transactions on Systems, Man, and Cybernetics: Systems",
+      "year": 2020,
+      "referenceCount": 32,
+      "citationCount": 32,
+      "authors": [
+        {
+          "authorId": "2945919",
+          "name": "Huaicheng Yan"
+        },
+        {
+          "authorId": "2112518986",
+          "name": "Panpan Li"
+        },
+        {
+          "authorId": "145140333",
+          "name": "Hao Zhang"
+        },
+        {
+          "authorId": "35788299",
+          "name": "Xisheng Zhan"
+        },
+        {
+          "authorId": "38593472",
+          "name": "Fuwen Yang"
+        }
+      ]
+    },
+    {
+      "paperId": "48867da18a015b10beb3fdb31eecc1bc72d4413d",
+      "externalIds": {
+        "DOI": "10.1002/oca.70036",
+        "CorpusId": 281413452
+      },
+      "url": "https://www.semanticscholar.org/paper/48867da18a015b10beb3fdb31eecc1bc72d4413d",
+      "title": "Distributed State Estimation Over Sensor Networks With Multi‐Level Quantization",
+      "venue": "Optimal control applications & methods",
+      "year": 2025,
+      "referenceCount": 24,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2363910432",
+          "name": "Haoliang Guan"
+        },
+        {
+          "authorId": "2380458020",
+          "name": "Xiaoqi Lu"
+        },
+        {
+          "authorId": "2380224875",
+          "name": "Yuanyuan Chi"
+        },
+        {
+          "authorId": "2381294911",
+          "name": "Huili Wang"
+        }
+      ]
+    },
+    {
+      "paperId": "7ad937f3814fdbbb4bdb3281fef68e7c6804980e",
+      "externalIds": {
+        "DOI": "10.23919/CCC64809.2025.11178570",
+        "CorpusId": 281988419
+      },
+      "url": "https://www.semanticscholar.org/paper/7ad937f3814fdbbb4bdb3281fef68e7c6804980e",
+      "title": "Parameter Estimation from Aggregated Max-Min-Mean Measurements in Sensor Networks",
+      "venue": "Cybersecurity and Cyberforensics Conference",
+      "year": 2025,
+      "referenceCount": 18,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2385295281",
+          "name": "Jingming Yu"
+        },
+        {
+          "authorId": "2384943043",
+          "name": "Mingjie Shao"
+        },
+        {
+          "authorId": "2284126743",
+          "name": "Xin Li"
+        },
+        {
+          "authorId": "2385303663",
+          "name": "Shuai Wang"
+        },
+        {
+          "authorId": "2347576691",
+          "name": "Yanlong Zhao"
+        }
+      ]
+    }
+  ]
+}

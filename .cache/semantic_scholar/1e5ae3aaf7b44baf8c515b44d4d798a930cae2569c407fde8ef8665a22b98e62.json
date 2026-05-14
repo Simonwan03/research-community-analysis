@@ -1,0 +1,293 @@
+{
+  "total": 266,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "e58d9e4117fb905d241fddf7c93e6a9f5f00e5fc",
+      "externalIds": {
+        "DBLP": "conf/icml/ArpitZNG16",
+        "MAG": "2952987467",
+        "ArXiv": "1505.05561",
+        "CorpusId": 14541470
+      },
+      "url": "https://www.semanticscholar.org/paper/e58d9e4117fb905d241fddf7c93e6a9f5f00e5fc",
+      "title": "Why Regularized Auto-Encoders learn Sparse Representation?",
+      "venue": "International Conference on Machine Learning",
+      "year": 2015,
+      "referenceCount": 32,
+      "citationCount": 71,
+      "authors": [
+        {
+          "authorId": "2309967",
+          "name": "Devansh Arpit"
+        },
+        {
+          "authorId": "34872128",
+          "name": "Yingbo Zhou"
+        },
+        {
+          "authorId": "144655602",
+          "name": "H. Ngo"
+        },
+        {
+          "authorId": "1723877",
+          "name": "V. Govindaraju"
+        }
+      ]
+    },
+    {
+      "paperId": "ad4ee8e1ea26edbd2b1f921d899197d56cb2f57b",
+      "externalIds": {
+        "MAG": "2176583664",
+        "DBLP": "journals/ijon/LiuMTY16",
+        "DOI": "10.1016/j.neucom.2015.07.119",
+        "CorpusId": 207110905
+      },
+      "url": "https://www.semanticscholar.org/paper/ad4ee8e1ea26edbd2b1f921d899197d56cb2f57b",
+      "title": "HSAE: A Hessian regularized sparse auto-encoders",
+      "venue": "Neurocomputing",
+      "year": 2016,
+      "referenceCount": 33,
+      "citationCount": 57,
+      "authors": [
+        {
+          "authorId": "1732108",
+          "name": "Weifeng Liu"
+        },
+        {
+          "authorId": "2114188045",
+          "name": "Tengzhou Ma"
+        },
+        {
+          "authorId": "1701119",
+          "name": "Dapeng Tao"
+        },
+        {
+          "authorId": "144329386",
+          "name": "J. You"
+        }
+      ]
+    },
+    {
+      "paperId": "f44446053cda097383ad7560fb4bd6081510a827",
+      "externalIds": {
+        "MAG": "3043659658",
+        "DBLP": "journals/pai/FarajianA20",
+        "DOI": "10.1007/s13748-020-00211-5",
+        "CorpusId": 220577252
+      },
+      "url": "https://www.semanticscholar.org/paper/f44446053cda097383ad7560fb4bd6081510a827",
+      "title": "DMRAE: discriminative manifold regularized auto-encoder for sparse and robust feature learning",
+      "venue": "Progress in Artificial Intelligence",
+      "year": 2020,
+      "referenceCount": 47,
+      "citationCount": 7,
+      "authors": [
+        {
+          "authorId": "31134856",
+          "name": "Nima Farajian"
+        },
+        {
+          "authorId": "49277935",
+          "name": "Peyman Adibi"
+        }
+      ]
+    },
+    {
+      "paperId": "afdf17b918919a985ba43fd0293a76f25e9e07b5",
+      "externalIds": {
+        "ArXiv": "1308.4922",
+        "MAG": "1872118793",
+        "DBLP": "journals/corr/Zhang13c",
+        "CorpusId": 45033939
+      },
+      "url": "https://www.semanticscholar.org/paper/afdf17b918919a985ba43fd0293a76f25e9e07b5",
+      "title": "Learning Deep Representation Without Parameter Inference for Nonlinear Dimensionality Reduction",
+      "venue": "arXiv.org",
+      "year": 2013,
+      "referenceCount": 37,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "2397864509",
+          "name": "Xiao-Lei Zhang"
+        }
+      ]
+    },
+    {
+      "paperId": "0c4ed21a739f72161f5ec8ff6f185753849deba9",
+      "externalIds": {
+        "DBLP": "journals/tkdd/ZhuLW21",
+        "DOI": "10.1145/3434767",
+        "CorpusId": 233194605
+      },
+      "url": "https://www.semanticscholar.org/paper/0c4ed21a739f72161f5ec8ff6f185753849deba9",
+      "title": "Stacked Convolutional Sparse Auto-Encoders for Representation Learning",
+      "venue": "ACM Transactions on Knowledge Discovery from Data",
+      "year": 2021,
+      "referenceCount": 59,
+      "citationCount": 15,
+      "authors": [
+        {
+          "authorId": "2143400684",
+          "name": "Yi Zhu"
+        },
+        {
+          "authorId": "2151528710",
+          "name": "Lei Li"
+        },
+        {
+          "authorId": "2145502658",
+          "name": "Xindong Wu"
+        }
+      ]
+    },
+    {
+      "paperId": "257564faf0854baef1733861c01636d90962acec",
+      "externalIds": {
+        "MAG": "2511630356",
+        "DBLP": "journals/tip/LiaoWL17",
+        "DOI": "10.1109/TIP.2016.2605010",
+        "CorpusId": 7707887,
+        "PubMed": "28113587"
+      },
+      "url": "https://www.semanticscholar.org/paper/257564faf0854baef1733861c01636d90962acec",
+      "title": "Graph Regularized Auto-Encoders for Image Representation",
+      "venue": "IEEE Transactions on Image Processing",
+      "year": 2017,
+      "referenceCount": 49,
+      "citationCount": 49,
+      "authors": [
+        {
+          "authorId": "2699340",
+          "name": "Yiyi Liao"
+        },
+        {
+          "authorId": "2118461398",
+          "name": "Yue Wang"
+        },
+        {
+          "authorId": "2144385127",
+          "name": "Yong Liu"
+        }
+      ]
+    },
+    {
+      "paperId": "c31d371628e83cfcd980c1ad2bfd24ef1ebfc173",
+      "externalIds": {
+        "MAG": "2971067726",
+        "DBLP": "journals/ijon/ZhuWLZH19",
+        "DOI": "10.1016/j.neucom.2019.08.078",
+        "CorpusId": 202936077
+      },
+      "url": "https://www.semanticscholar.org/paper/c31d371628e83cfcd980c1ad2bfd24ef1ebfc173",
+      "title": "Transfer learning with deep manifold regularized auto-encoders",
+      "venue": "Neurocomputing",
+      "year": 2019,
+      "referenceCount": 56,
+      "citationCount": 29,
+      "authors": [
+        {
+          "authorId": "2117913375",
+          "name": "Yi Zhu"
+        },
+        {
+          "authorId": "2145502658",
+          "name": "Xindong Wu"
+        },
+        {
+          "authorId": "5012821",
+          "name": "Peipei Li"
+        },
+        {
+          "authorId": "48378626",
+          "name": "Yuhong Zhang"
+        },
+        {
+          "authorId": "1707615",
+          "name": "Xuegang Hu"
+        }
+      ]
+    },
+    {
+      "paperId": "7d4a63e38360a7c183bf8c5a3582a2b9392a4a18",
+      "externalIds": {
+        "DBLP": "conf/icbk/ZhuHZL18",
+        "MAG": "2908248196",
+        "DOI": "10.1109/ICBK.2018.00019",
+        "CorpusId": 57191812
+      },
+      "url": "https://www.semanticscholar.org/paper/7d4a63e38360a7c183bf8c5a3582a2b9392a4a18",
+      "title": "Semi-Supervised Representation Learning: Transfer Learning with Manifold Regularized Auto-Encoders",
+      "venue": "International Conference on Big Knowledge",
+      "year": 2018,
+      "referenceCount": 33,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "145350964",
+          "name": "Yi Zhu"
+        },
+        {
+          "authorId": "1707615",
+          "name": "Xuegang Hu"
+        },
+        {
+          "authorId": "48378626",
+          "name": "Yuhong Zhang"
+        },
+        {
+          "authorId": "5012821",
+          "name": "Peipei Li"
+        }
+      ]
+    },
+    {
+      "paperId": "7f61c20db595afe15ea99a167ed1f7407a865664",
+      "externalIds": {
+        "MAG": "3045589787",
+        "CorpusId": 222449902
+      },
+      "url": "https://www.semanticscholar.org/paper/7f61c20db595afe15ea99a167ed1f7407a865664",
+      "title": "Sparse, Robust and Discriminative Representation by Supervised Regularized Auto-encoder",
+      "venue": "",
+      "year": 2019,
+      "referenceCount": 41,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "31134856",
+          "name": "Nima Farajian"
+        },
+        {
+          "authorId": "49277935",
+          "name": "Peyman Adibi"
+        }
+      ]
+    },
+    {
+      "paperId": "0f4e5c922a27f21bc336fa4103c97a13ae2e7aa5",
+      "externalIds": {
+        "MAG": "2787408637",
+        "CorpusId": 125462625
+      },
+      "url": "https://www.semanticscholar.org/paper/0f4e5c922a27f21bc336fa4103c97a13ae2e7aa5",
+      "title": "Demystifying overcomplete nonlinear auto-encoders: fast SGD convergence towards sparse representation from random initialization",
+      "venue": "",
+      "year": 2018,
+      "referenceCount": 0,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "143907834",
+          "name": "Cheng Tang"
+        },
+        {
+          "authorId": "1806678",
+          "name": "C. Monteleoni"
+        }
+      ]
+    }
+  ]
+}

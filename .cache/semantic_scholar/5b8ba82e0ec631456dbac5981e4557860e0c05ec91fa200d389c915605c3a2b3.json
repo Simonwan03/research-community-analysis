@@ -1,0 +1,376 @@
+{
+  "total": 19,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "9ec499af9b85f30bdbdd6cdfbb07d484808c526a",
+      "externalIds": {
+        "MAG": "2519314406",
+        "DBLP": "journals/corr/GraveJCGJ16",
+        "ArXiv": "1609.04309",
+        "CorpusId": 6483732
+      },
+      "url": "https://www.semanticscholar.org/paper/9ec499af9b85f30bdbdd6cdfbb07d484808c526a",
+      "title": "Efficient softmax approximation for GPUs",
+      "venue": "International Conference on Machine Learning",
+      "year": 2016,
+      "referenceCount": 52,
+      "citationCount": 292,
+      "authors": [
+        {
+          "authorId": "3024698",
+          "name": "Edouard Grave"
+        },
+        {
+          "authorId": "2319608",
+          "name": "Armand Joulin"
+        },
+        {
+          "authorId": "5723508",
+          "name": "Moustapha Cissé"
+        },
+        {
+          "authorId": "2529182",
+          "name": "David Grangier"
+        },
+        {
+          "authorId": "1681054",
+          "name": "H. Jégou"
+        }
+      ]
+    },
+    {
+      "paperId": "7528c6726491498184776470f3550bab19e766fe",
+      "externalIds": {
+        "ArXiv": "2505.18698",
+        "DBLP": "journals/corr/abs-2505-18698",
+        "DOI": "10.48550/arXiv.2505.18698",
+        "CorpusId": 278904772
+      },
+      "url": "https://www.semanticscholar.org/paper/7528c6726491498184776470f3550bab19e766fe",
+      "title": "MonarchAttention: Zero-Shot Conversion to Fast, Hardware-Aware Structured Attention",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "referenceCount": 42,
+      "citationCount": 4,
+      "authors": [
+        {
+          "authorId": "2185422948",
+          "name": "Can Yaras"
+        },
+        {
+          "authorId": "2338831486",
+          "name": "Alec S. Xu"
+        },
+        {
+          "authorId": "1484065124",
+          "name": "Pierre Abillama"
+        },
+        {
+          "authorId": "2109447106",
+          "name": "Changwoo Lee"
+        },
+        {
+          "authorId": "2247365147",
+          "name": "Laura Balzano"
+        }
+      ]
+    },
+    {
+      "paperId": "b1819c8b33385d8ad4a5a7341e9da7b84aec916f",
+      "externalIds": {
+        "DBLP": "conf/iccad/WangZSSL23",
+        "ArXiv": "2510.17189",
+        "DOI": "10.1109/ICCAD57390.2023.10323725",
+        "CorpusId": 265524970
+      },
+      "url": "https://www.semanticscholar.org/paper/b1819c8b33385d8ad4a5a7341e9da7b84aec916f",
+      "title": "SOLE: Hardware-Software Co-design of Softmax and LayerNorm for Efficient Transformer Inference",
+      "venue": "2023 IEEE/ACM International Conference on Computer Aided Design (ICCAD)",
+      "year": 2023,
+      "referenceCount": 39,
+      "citationCount": 44,
+      "authors": [
+        {
+          "authorId": "2155980394",
+          "name": "Wenxun Wang"
+        },
+        {
+          "authorId": "2345282144",
+          "name": "Shuchang Zhou"
+        },
+        {
+          "authorId": "1819427054",
+          "name": "Wenyu Sun"
+        },
+        {
+          "authorId": "2075417428",
+          "name": "Peiqin Sun"
+        },
+        {
+          "authorId": "2269017603",
+          "name": "Yongpan Liu"
+        }
+      ]
+    },
+    {
+      "paperId": "59ac68c4ac411cfdc678f67074f23c9a2a6615fe",
+      "externalIds": {
+        "ArXiv": "2505.14201",
+        "DBLP": "conf/islped/AlexandridisTD25",
+        "DOI": "10.1109/ISLPED65674.2025.11261805",
+        "CorpusId": 278769019
+      },
+      "url": "https://www.semanticscholar.org/paper/59ac68c4ac411cfdc678f67074f23c9a2a6615fe",
+      "title": "FLASH-D: FlashAttention with Hidden Softmax Division",
+      "venue": "International Symposium on Low Power Electronics and Design",
+      "year": 2025,
+      "referenceCount": 35,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "2266398113",
+          "name": "Kosmas Alexandridis"
+        },
+        {
+          "authorId": "2266397404",
+          "name": "Vasileios Titopoulos"
+        },
+        {
+          "authorId": "30778127",
+          "name": "G. Dimitrakopoulos"
+        }
+      ]
+    },
+    {
+      "paperId": "86e3c2fe0298e3b85aeeda5a5f4bf1d13eb7298c",
+      "externalIds": {
+        "DBLP": "journals/tcad/HeWHFTZLYLJ25",
+        "DOI": "10.1109/TCAD.2025.3561719",
+        "CorpusId": 277858439
+      },
+      "url": "https://www.semanticscholar.org/paper/86e3c2fe0298e3b85aeeda5a5f4bf1d13eb7298c",
+      "title": "SASDenSebLE: A Compact Vision Transformer Inference Architecture With Saturation-Approximate Softmax Dataflow Enabling Sequence-Parallelism Boosted Layer-Fusion Execution",
+      "venue": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems",
+      "year": 2025,
+      "referenceCount": 42,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2329390013",
+          "name": "Liu He"
+        },
+        {
+          "authorId": "2329516019",
+          "name": "Yujin Wang"
+        },
+        {
+          "authorId": "2276178442",
+          "name": "Zongle Huang"
+        },
+        {
+          "authorId": "2212579988",
+          "name": "Shupei Fan"
+        },
+        {
+          "authorId": "2275764957",
+          "name": "Chen Tang"
+        },
+        {
+          "authorId": "2329529226",
+          "name": "Shuyuan Zhang"
+        },
+        {
+          "authorId": "2210116029",
+          "name": "Luchang Lei"
+        },
+        {
+          "authorId": "2193535807",
+          "name": "Huazhong Yang"
+        },
+        {
+          "authorId": "2269017603",
+          "name": "Yongpan Liu"
+        },
+        {
+          "authorId": "2291080993",
+          "name": "Hongyang Jia"
+        }
+      ]
+    },
+    {
+      "paperId": "bbedcea9ce04df9fb6b4a704c884162fcc7855d9",
+      "externalIds": {
+        "DOI": "10.1109/ICCT-Pacific63901.2025.11012790",
+        "CorpusId": 279002469
+      },
+      "url": "https://www.semanticscholar.org/paper/bbedcea9ce04df9fb6b4a704c884162fcc7855d9",
+      "title": "Low-Cost Non-Linear Function Approximation for Transformer Deployment on Edge NPU",
+      "venue": "2025 1st International Conference on Consumer Technology (ICCT-Pacific)",
+      "year": 2025,
+      "referenceCount": 11,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2364561306",
+          "name": "Chin-Cheng Wei"
+        },
+        {
+          "authorId": "2364195568",
+          "name": "Chun-Han Wang"
+        },
+        {
+          "authorId": "2364225367",
+          "name": "En-Yu Pong"
+        },
+        {
+          "authorId": "2364449775",
+          "name": "Chung-Ho Chen"
+        }
+      ]
+    },
+    {
+      "paperId": "ec407dae666c05113cab637a649f0cf91e90cfdd",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2407-11306",
+        "ArXiv": "2407.11306",
+        "DOI": "10.48550/arXiv.2407.11306",
+        "CorpusId": 271218511
+      },
+      "url": "https://www.semanticscholar.org/paper/ec407dae666c05113cab637a649f0cf91e90cfdd",
+      "title": "PADRe: A Unifying Polynomial Attention Drop-in Replacement for Efficient Vision Transformer",
+      "venue": "arXiv.org",
+      "year": 2024,
+      "referenceCount": 37,
+      "citationCount": 7,
+      "authors": [
+        {
+          "authorId": "46255163",
+          "name": "Pierre-David Létourneau"
+        },
+        {
+          "authorId": "2292444192",
+          "name": "M. Singh"
+        },
+        {
+          "authorId": "2223191879",
+          "name": "Hsin-Pai Cheng"
+        },
+        {
+          "authorId": "2292208256",
+          "name": "Shizhong Han"
+        },
+        {
+          "authorId": "2273610540",
+          "name": "Yunxiao Shi"
+        },
+        {
+          "authorId": "2265516924",
+          "name": "Dalton Jones"
+        },
+        {
+          "authorId": "39014064",
+          "name": "M. H. Langston"
+        },
+        {
+          "authorId": "2274199823",
+          "name": "Hong Cai"
+        },
+        {
+          "authorId": "29905643",
+          "name": "F. Porikli"
+        }
+      ]
+    },
+    {
+      "paperId": "878115a2b0b7ae53d908083a3570db10192a0daf",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2511-21702",
+        "ArXiv": "2511.21702",
+        "DOI": "10.48550/arXiv.2511.21702",
+        "CorpusId": 283439260
+      },
+      "url": "https://www.semanticscholar.org/paper/878115a2b0b7ae53d908083a3570db10192a0daf",
+      "title": "CSV-Decode: Certifiable Sub-Vocabulary Decoding for Efficient Large Language Model Inference",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "referenceCount": 16,
+      "citationCount": 4,
+      "authors": [
+        {
+          "authorId": "2376447889",
+          "name": "Dong Liu"
+        },
+        {
+          "authorId": "2334859470",
+          "name": "Yanxuan Yu"
+        },
+        {
+          "authorId": "2334743866",
+          "name": "Benjamin Lengerich"
+        }
+      ]
+    },
+    {
+      "paperId": "81fc3f59794c9d1d33cb54635b9cccbedbd5ba0c",
+      "externalIds": {
+        "DBLP": "journals/tcad/WangSL25",
+        "DOI": "10.1109/TCAD.2024.3488572",
+        "CorpusId": 273737983
+      },
+      "url": "https://www.semanticscholar.org/paper/81fc3f59794c9d1d33cb54635b9cccbedbd5ba0c",
+      "title": "Improving Transformer Inference Through Optimized Nonlinear Operations With Quantization-Approximation-Based Strategy",
+      "venue": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems",
+      "year": 2025,
+      "referenceCount": 49,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "2155980394",
+          "name": "Wenxun Wang"
+        },
+        {
+          "authorId": "1819427054",
+          "name": "Wenyu Sun"
+        },
+        {
+          "authorId": "2269017603",
+          "name": "Yongpan Liu"
+        }
+      ]
+    },
+    {
+      "paperId": "a4f853b56b21110695c5efd4943dbd1ec7bef998",
+      "externalIds": {
+        "DBLP": "journals/iacr/MoonYJK24",
+        "DOI": "10.1145/3719027.3765150",
+        "CorpusId": 274657730
+      },
+      "url": "https://www.semanticscholar.org/paper/a4f853b56b21110695c5efd4943dbd1ec7bef998",
+      "title": "THOR: Secure Transformer Inference with Homomorphic Encryption",
+      "venue": "IACR Cryptology ePrint Archive",
+      "year": 2025,
+      "referenceCount": 29,
+      "citationCount": 45,
+      "authors": [
+        {
+          "authorId": "2334090361",
+          "name": "Jungho Moon"
+        },
+        {
+          "authorId": "2065251484",
+          "name": "D. Yoo"
+        },
+        {
+          "authorId": "2289008225",
+          "name": "Xiaoqian Jiang"
+        },
+        {
+          "authorId": "2110103932",
+          "name": "Miran Kim"
+        }
+      ]
+    }
+  ]
+}

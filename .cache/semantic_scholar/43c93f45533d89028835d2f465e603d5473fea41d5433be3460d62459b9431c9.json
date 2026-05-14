@@ -1,0 +1,89 @@
+{
+  "total": 3,
+  "offset": 0,
+  "data": [
+    {
+      "paperId": "60d4cef56efd2f5452362d4d9ac1ae05afa970d1",
+      "externalIds": {
+        "DBLP": "conf/icml/FernandoG16",
+        "MAG": "2421253313",
+        "CorpusId": 5427138
+      },
+      "url": "https://www.semanticscholar.org/paper/60d4cef56efd2f5452362d4d9ac1ae05afa970d1",
+      "title": "Learning End-to-end Video Classification with Rank-Pooling",
+      "venue": "International Conference on Machine Learning",
+      "year": 2016,
+      "referenceCount": 34,
+      "citationCount": 96,
+      "authors": [
+        {
+          "authorId": "1688071",
+          "name": "Basura Fernando"
+        },
+        {
+          "authorId": "145273587",
+          "name": "Stephen Gould"
+        }
+      ]
+    },
+    {
+      "paperId": "d92ff82c1b78cfbf2b9c8f65768ad9e4e3d1f47c",
+      "externalIds": {
+        "MAG": "2885629669",
+        "DBLP": "journals/ijon/ZhuJZX18",
+        "DOI": "10.1016/J.NEUCOM.2018.08.018",
+        "CorpusId": 52283912
+      },
+      "url": "https://www.semanticscholar.org/paper/d92ff82c1b78cfbf2b9c8f65768ad9e4e3d1f47c",
+      "title": "Rank pooling dynamic network: Learning end-to-end dynamic characteristic for action recognition",
+      "venue": "Neurocomputing",
+      "year": 2018,
+      "referenceCount": 34,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "4697712",
+          "name": "Zhigang Zhu"
+        },
+        {
+          "authorId": "153172093",
+          "name": "H. Ji"
+        },
+        {
+          "authorId": "73312165",
+          "name": "Wenbo Zhang"
+        },
+        {
+          "authorId": "2321397800",
+          "name": "Yiping Xu"
+        }
+      ]
+    },
+    {
+      "paperId": "5615d6045301ecbc5be35e46cab711f676aadf3a",
+      "externalIds": {
+        "DBLP": "journals/ijcv/FernandoG17",
+        "MAG": "2617314355",
+        "ArXiv": "1705.10420",
+        "DOI": "10.1007/s11263-017-1030-x",
+        "CorpusId": 11562976
+      },
+      "url": "https://www.semanticscholar.org/paper/5615d6045301ecbc5be35e46cab711f676aadf3a",
+      "title": "Discriminatively Learned Hierarchical Rank Pooling Networks",
+      "venue": "International Journal of Computer Vision",
+      "year": 2017,
+      "referenceCount": 71,
+      "citationCount": 23,
+      "authors": [
+        {
+          "authorId": "1688071",
+          "name": "Basura Fernando"
+        },
+        {
+          "authorId": "145273587",
+          "name": "Stephen Gould"
+        }
+      ]
+    }
+  ]
+}

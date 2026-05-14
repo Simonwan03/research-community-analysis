@@ -1,0 +1,308 @@
+{
+  "total": 5107,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "054175bf8244d19f6ff72c95a3571867c3b442c8",
+      "externalIds": {
+        "MAG": "1844343792",
+        "DBLP": "conf/icml/JiangKS15",
+        "CorpusId": 10050824
+      },
+      "url": "https://www.semanticscholar.org/paper/054175bf8244d19f6ff72c95a3571867c3b442c8",
+      "title": "Abstraction Selection in Model-based Reinforcement Learning",
+      "venue": "International Conference on Machine Learning",
+      "year": 2015,
+      "referenceCount": 26,
+      "citationCount": 86,
+      "authors": [
+        {
+          "authorId": "48272707",
+          "name": "Nan Jiang"
+        },
+        {
+          "authorId": "145500336",
+          "name": "Alex Kulesza"
+        },
+        {
+          "authorId": "1699868",
+          "name": "Satinder Singh"
+        }
+      ]
+    },
+    {
+      "paperId": "f785f65851504473e5ad4032b2ed148758dd5721",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2509-04288",
+        "ArXiv": "2509.04288",
+        "DOI": "10.48550/arXiv.2509.04288",
+        "CorpusId": 281103298
+      },
+      "url": "https://www.semanticscholar.org/paper/f785f65851504473e5ad4032b2ed148758dd5721",
+      "title": "Reinforcement Learning for Robust Ageing-Aware Control of Li-ion Battery Systems with Data-Driven Formal Verification",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "referenceCount": 39,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2122295373",
+          "name": "Rudi Coppola"
+        },
+        {
+          "authorId": "2378951479",
+          "name": "Hovsep Touloujian"
+        },
+        {
+          "authorId": "2232611056",
+          "name": "Pierfrancesco Ombrini"
+        },
+        {
+          "authorId": "2284592027",
+          "name": "Manuel Mazo"
+        }
+      ]
+    },
+    {
+      "paperId": "f0416a2d62a61f7aeee80c07b5ef7a087829b730",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2201-03698",
+        "ArXiv": "2201.03698",
+        "DOI": "10.1007/978-3-031-06773-0_10",
+        "CorpusId": 245853815
+      },
+      "url": "https://www.semanticscholar.org/paper/f0416a2d62a61f7aeee80c07b5ef7a087829b730",
+      "title": "Verified Probabilistic Policies for Deep Reinforcement Learning",
+      "venue": "NASA Formal Methods",
+      "year": 2022,
+      "referenceCount": 50,
+      "citationCount": 8,
+      "authors": [
+        {
+          "authorId": "96725893",
+          "name": "E. Bacci"
+        },
+        {
+          "authorId": "144381875",
+          "name": "D. Parker"
+        }
+      ]
+    },
+    {
+      "paperId": "79a90e7378d4b4a9e3ee9c70973e1bf61816a533",
+      "externalIds": {
+        "DBLP": "conf/pkdd/LeungSZM21",
+        "DOI": "10.1007/978-3-030-86486-6_17",
+        "CorpusId": 236767682
+      },
+      "url": "https://www.semanticscholar.org/paper/79a90e7378d4b4a9e3ee9c70973e1bf61816a533",
+      "title": "Goal Modelling for Deep Reinforcement Learning Agents",
+      "venue": "ECML/PKDD",
+      "year": 2021,
+      "referenceCount": 33,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "48188954",
+          "name": "Jonathan Leung"
+        },
+        {
+          "authorId": "144506018",
+          "name": "Zhiqi Shen"
+        },
+        {
+          "authorId": "49512311",
+          "name": "Zhiwei Zeng"
+        },
+        {
+          "authorId": "1679209",
+          "name": "C. Miao"
+        }
+      ]
+    },
+    {
+      "paperId": "16b3dca5eef61b75f072efb4a9caed30282da421",
+      "externalIds": {
+        "MAG": "2919701918",
+        "DBLP": "journals/corr/abs-1903-03064",
+        "ArXiv": "1903.03064",
+        "CorpusId": 71148554
+      },
+      "url": "https://www.semanticscholar.org/paper/16b3dca5eef61b75f072efb4a9caed30282da421",
+      "title": "RLOC: Neurobiologically Inspired Hierarchical Reinforcement Learning Algorithm for Continuous Control of Nonlinear Dynamical Systems",
+      "venue": "arXiv.org",
+      "year": 2019,
+      "referenceCount": 75,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "152712107",
+          "name": "E. Abramova"
+        },
+        {
+          "authorId": "1935994",
+          "name": "Luke Dickens"
+        },
+        {
+          "authorId": "2500534",
+          "name": "D. Kuhn"
+        },
+        {
+          "authorId": "49796804",
+          "name": "A. Faisal"
+        }
+      ]
+    },
+    {
+      "paperId": "58a5f31ac9da1c04f21f2453b07b64b067ed24f0",
+      "externalIds": {
+        "DBLP": "conf/cogsci/EcksteinC18",
+        "MAG": "2942086929",
+        "CorpusId": 263894377
+      },
+      "url": "https://www.semanticscholar.org/paper/58a5f31ac9da1c04f21f2453b07b64b067ed24f0",
+      "title": "Evidence for hierarchically-structured reinforcement learning in humans",
+      "venue": "Annual Meeting of the Cognitive Science Society",
+      "year": 2018,
+      "referenceCount": 12,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "8026593",
+          "name": "Maria K. Eckstein"
+        },
+        {
+          "authorId": "2257229138",
+          "name": "A. Collins"
+        }
+      ]
+    },
+    {
+      "paperId": "979a68d5b98f972d2abdf52a1551d6201fbe688d",
+      "externalIds": {
+        "MAG": "2588436768",
+        "DBLP": "phd/ethos/Abramova15",
+        "DOI": "10.25560/39968",
+        "CorpusId": 3229409
+      },
+      "url": "https://www.semanticscholar.org/paper/979a68d5b98f972d2abdf52a1551d6201fbe688d",
+      "title": "Combining reinforcement learning and optimal control for the control of nonlinear dynamical systems",
+      "venue": "",
+      "year": 2015,
+      "referenceCount": 286,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "152712107",
+          "name": "E. Abramova"
+        }
+      ]
+    },
+    {
+      "paperId": "d1c7f93e2e3499bbe8b70012f07c655b87826cbc",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2311-17593",
+        "ArXiv": "2311.17593",
+        "DOI": "10.48550/arXiv.2311.17593",
+        "CorpusId": 265498747
+      },
+      "url": "https://www.semanticscholar.org/paper/d1c7f93e2e3499bbe8b70012f07c655b87826cbc",
+      "title": "LanGWM: Language Grounded World Model",
+      "venue": "arXiv.org",
+      "year": 2023,
+      "referenceCount": 37,
+      "citationCount": 8,
+      "authors": [
+        {
+          "authorId": "143840956",
+          "name": "Rudra P. K. Poudel"
+        },
+        {
+          "authorId": "2268674077",
+          "name": "Harit Pandya"
+        },
+        {
+          "authorId": "2256776310",
+          "name": "Chao Zhang"
+        },
+        {
+          "authorId": "2268674515",
+          "name": "Roberto Cipolla"
+        }
+      ]
+    },
+    {
+      "paperId": "f8ceef9b0c3858b3c4a1f6d58d80cabd7c1143c2",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2404-13749",
+        "ArXiv": "2404.13749",
+        "DOI": "10.1109/ICCC62479.2024.10681739",
+        "CorpusId": 269293947
+      },
+      "url": "https://www.semanticscholar.org/paper/f8ceef9b0c3858b3c4a1f6d58d80cabd7c1143c2",
+      "title": "Efficient Digital Twin Data Processing for Low-Latency Multicast Short Video Streaming",
+      "venue": "2024 IEEE/CIC International Conference on Communications in China (ICCC)",
+      "year": 2024,
+      "referenceCount": 16,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2264299106",
+          "name": "Xinyu Huang"
+        },
+        {
+          "authorId": "2199943900",
+          "name": "Shisheng Hu"
+        },
+        {
+          "authorId": "8392860",
+          "name": "Mushu Li"
+        },
+        {
+          "authorId": "2292211315",
+          "name": "Cheng Huang"
+        },
+        {
+          "authorId": "2265232458",
+          "name": "Xuemin Shen"
+        }
+      ]
+    },
+    {
+      "paperId": "d298f0286937fdc2cf5b094b6c9719aa8a86b385",
+      "externalIds": {
+        "MAG": "2971289520",
+        "ACL": "D19-1323",
+        "DBLP": "journals/corr/abs-1909-02059",
+        "ArXiv": "1909.02059",
+        "DOI": "10.18653/v1/D19-1323",
+        "CorpusId": 202537639
+      },
+      "url": "https://www.semanticscholar.org/paper/d298f0286937fdc2cf5b094b6c9719aa8a86b385",
+      "title": "An Entity-Driven Framework for Abstractive Summarization",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2019,
+      "referenceCount": 58,
+      "citationCount": 77,
+      "authors": [
+        {
+          "authorId": "2059341935",
+          "name": "Eva Sharma"
+        },
+        {
+          "authorId": "80518559",
+          "name": "Luyang huang"
+        },
+        {
+          "authorId": "2111374759",
+          "name": "Zhe Hu"
+        },
+        {
+          "authorId": "2153516659",
+          "name": "Lu Wang"
+        }
+      ]
+    }
+  ]
+}

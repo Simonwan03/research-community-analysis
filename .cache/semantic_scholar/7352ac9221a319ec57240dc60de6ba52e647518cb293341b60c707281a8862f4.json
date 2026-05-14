@@ -1,0 +1,324 @@
+{
+  "total": 20,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "aaed2a884af95852580fdedda4ea768f2effeb46",
+      "externalIds": {
+        "MAG": "2625567132",
+        "DBLP": "conf/icml/BotevRB17",
+        "ArXiv": "1706.03662",
+        "CorpusId": 27755638
+      },
+      "url": "https://www.semanticscholar.org/paper/aaed2a884af95852580fdedda4ea768f2effeb46",
+      "title": "Practical Gauss-Newton Optimisation for Deep Learning",
+      "venue": "International Conference on Machine Learning",
+      "year": 2017,
+      "referenceCount": 27,
+      "citationCount": 256,
+      "authors": [
+        {
+          "authorId": "3436640",
+          "name": "Aleksandar Botev"
+        },
+        {
+          "authorId": "47579842",
+          "name": "H. Ritter"
+        },
+        {
+          "authorId": "145617808",
+          "name": "D. Barber"
+        }
+      ]
+    },
+    {
+      "paperId": "3cf27875b5d8626aa82ecc77b27af659c7bca741",
+      "externalIds": {
+        "ArXiv": "2006.09092",
+        "DBLP": "journals/jmlr/GranziolZ022",
+        "MAG": "3103622152",
+        "CorpusId": 226281826
+      },
+      "url": "https://www.semanticscholar.org/paper/3cf27875b5d8626aa82ecc77b27af659c7bca741",
+      "title": "Learning Rates as a Function of Batch Size: A Random Matrix Theory Approach to Neural Network Training",
+      "venue": "Journal of machine learning research",
+      "year": 2020,
+      "referenceCount": 104,
+      "citationCount": 71,
+      "authors": [
+        {
+          "authorId": "10746977",
+          "name": "Diego Granziol"
+        },
+        {
+          "authorId": "8106073",
+          "name": "S. Zohren"
+        },
+        {
+          "authorId": "143841496",
+          "name": "Stephen J. Roberts"
+        }
+      ]
+    },
+    {
+      "paperId": "88f88327faf8ab7bdb399c4d9d8031a3bcde18fc",
+      "externalIds": {
+        "MAG": "3015669543",
+        "DBLP": "journals/corr/abs-2004-03040",
+        "ArXiv": "2004.03040",
+        "CorpusId": 215238961
+      },
+      "url": "https://www.semanticscholar.org/paper/88f88327faf8ab7bdb399c4d9d8031a3bcde18fc",
+      "title": "Deep Neural Network Learning with Second-Order Optimizers - a Practical Study with a Stochastic Quasi-Gauss-Newton Method",
+      "venue": "arXiv.org",
+      "year": 2020,
+      "referenceCount": 27,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "145794580",
+          "name": "C. Thiele"
+        },
+        {
+          "authorId": "1399105101",
+          "name": "M. Araya-Polo"
+        },
+        {
+          "authorId": "39443697",
+          "name": "D. Hohl"
+        }
+      ]
+    },
+    {
+      "paperId": "1f4874bb766327870b694b66f73e7c794a7a6bee",
+      "externalIds": {
+        "ArXiv": "2411.07979",
+        "DBLP": "journals/corr/abs-2411-07979",
+        "DOI": "10.48550/arXiv.2411.07979",
+        "CorpusId": 273969620
+      },
+      "url": "https://www.semanticscholar.org/paper/1f4874bb766327870b694b66f73e7c794a7a6bee",
+      "title": "Exact, Tractable Gauss-Newton Optimization in Deep Reversible Architectures Reveal Poor Generalization",
+      "venue": "Neural Information Processing Systems",
+      "year": 2024,
+      "referenceCount": 0,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "2330243624",
+          "name": "Davide Buffelli"
+        },
+        {
+          "authorId": "2330243574",
+          "name": "Jamie McGowan"
+        },
+        {
+          "authorId": "2330373529",
+          "name": "Wangkun Xu"
+        },
+        {
+          "authorId": "102297302",
+          "name": "Alexandru Cioba"
+        },
+        {
+          "authorId": "2027686",
+          "name": "Da-shan Shiu"
+        },
+        {
+          "authorId": "2330243615",
+          "name": "Guillaume Hennequin"
+        },
+        {
+          "authorId": "1872208",
+          "name": "A. Bernacchia"
+        }
+      ]
+    },
+    {
+      "paperId": "7fa9754d09446870ffbb8c78af1c076d43eba2d7",
+      "externalIds": {
+        "ArXiv": "2404.14875",
+        "DBLP": "journals/corr/abs-2404-14875",
+        "DOI": "10.48550/arXiv.2404.14875",
+        "CorpusId": 269302961
+      },
+      "url": "https://www.semanticscholar.org/paper/7fa9754d09446870ffbb8c78af1c076d43eba2d7",
+      "title": "Regularized Gauss-Newton for Optimizing Overparameterized Neural Networks",
+      "venue": "arXiv.org",
+      "year": 2024,
+      "referenceCount": 65,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "2145264837",
+          "name": "Adeyemi Damilare Adeoye"
+        },
+        {
+          "authorId": "2295674727",
+          "name": "P. Petersen"
+        },
+        {
+          "authorId": "2257268186",
+          "name": "Alberto Bemporad"
+        }
+      ]
+    },
+    {
+      "paperId": "f450f9b30df07b9d9b4e10e6f3dc8f89dcf86230",
+      "externalIds": {
+        "DBLP": "journals/tgrs/WangLYSZR23",
+        "DOI": "10.1109/TGRS.2023.3239105",
+        "CorpusId": 256355979
+      },
+      "url": "https://www.semanticscholar.org/paper/f450f9b30df07b9d9b4e10e6f3dc8f89dcf86230",
+      "title": "Flexible and Accurate Prior Model Construction Based on Deep Learning for 2-D Magnetotelluric Data Inversion",
+      "venue": "IEEE Transactions on Geoscience and Remote Sensing",
+      "year": 2023,
+      "referenceCount": 47,
+      "citationCount": 22,
+      "authors": [
+        {
+          "authorId": "2113290733",
+          "name": "Han Wang"
+        },
+        {
+          "authorId": "1604961566",
+          "name": "Yunhe Liu"
+        },
+        {
+          "authorId": "16212838",
+          "name": "C. Yin"
+        },
+        {
+          "authorId": "2117999670",
+          "name": "Yang Su"
+        },
+        {
+          "authorId": "2156621964",
+          "name": "Bo Zhang"
+        },
+        {
+          "authorId": "151494514",
+          "name": "X. Ren"
+        }
+      ]
+    },
+    {
+      "paperId": "6b4dbafb62cbd516b11a74c5637e77a7a9b59bb0",
+      "externalIds": {
+        "ArXiv": "2006.02409",
+        "DBLP": "journals/corr/abs-2006-02409",
+        "MAG": "3033905287",
+        "CorpusId": 219260454
+      },
+      "url": "https://www.semanticscholar.org/paper/6b4dbafb62cbd516b11a74c5637e77a7a9b59bb0",
+      "title": "On the Promise of the Stochastic Generalized Gauss-Newton Method for Training DNNs",
+      "venue": "arXiv.org",
+      "year": 2020,
+      "referenceCount": 23,
+      "citationCount": 20,
+      "authors": [
+        {
+          "authorId": "50811693",
+          "name": "Matilde Gargiani"
+        },
+        {
+          "authorId": "35437368",
+          "name": "Andrea Zanelli"
+        },
+        {
+          "authorId": "1694268",
+          "name": "M. Diehl"
+        },
+        {
+          "authorId": "144661829",
+          "name": "F. Hutter"
+        }
+      ]
+    },
+    {
+      "paperId": "bd3a51c87acce1ee663f153cd85716ebe7fdb7d8",
+      "externalIds": {
+        "ArXiv": "2007.11994",
+        "DBLP": "journals/corr/abs-2007-11994",
+        "MAG": "3044497662",
+        "CorpusId": 220713365
+      },
+      "url": "https://www.semanticscholar.org/paper/bd3a51c87acce1ee663f153cd85716ebe7fdb7d8",
+      "title": "Disentangling the Gauss-Newton Method and Approximate Inference for Neural Networks",
+      "venue": "arXiv.org",
+      "year": 2020,
+      "referenceCount": 55,
+      "citationCount": 5,
+      "authors": [
+        {
+          "authorId": "3460227",
+          "name": "Alexander Immer"
+        }
+      ]
+    },
+    {
+      "paperId": "6cc09d65220277637afd21f5b2a6ac7224f40656",
+      "externalIds": {
+        "DBLP": "conf/nips/DengZ022",
+        "ArXiv": "2210.12642",
+        "DOI": "10.48550/arXiv.2210.12642",
+        "CorpusId": 253098511
+      },
+      "url": "https://www.semanticscholar.org/paper/6cc09d65220277637afd21f5b2a6ac7224f40656",
+      "title": "Accelerated Linearized Laplace Approximation for Bayesian Deep Learning",
+      "venue": "Neural Information Processing Systems",
+      "year": 2022,
+      "referenceCount": 67,
+      "citationCount": 29,
+      "authors": [
+        {
+          "authorId": "145114723",
+          "name": "Zhijie Deng"
+        },
+        {
+          "authorId": "145649740",
+          "name": "Feng Zhou"
+        },
+        {
+          "authorId": "2146279632",
+          "name": "Jun Zhu"
+        }
+      ]
+    },
+    {
+      "paperId": "4e4ece8d1615db69feb38c8bad0385ba6b9132bc",
+      "externalIds": {
+        "MAG": "3036152205",
+        "DBLP": "journals/access/WuZTX20",
+        "DOI": "10.1109/ACCESS.2020.3003984",
+        "CorpusId": 220315046
+      },
+      "url": "https://www.semanticscholar.org/paper/4e4ece8d1615db69feb38c8bad0385ba6b9132bc",
+      "title": "The Sequential Fusion Estimation Algorithms Based on Gauss-Newton Method Over Multi-Agent Networked Systems",
+      "venue": "IEEE Access",
+      "year": 2020,
+      "referenceCount": 47,
+      "citationCount": 8,
+      "authors": [
+        {
+          "authorId": "1957073",
+          "name": "Mou Wu"
+        },
+        {
+          "authorId": "117214262",
+          "name": "Liangji Zhong"
+        },
+        {
+          "authorId": "8304531",
+          "name": "L. Tan"
+        },
+        {
+          "authorId": "145826495",
+          "name": "N. Xiong"
+        }
+      ]
+    }
+  ]
+}

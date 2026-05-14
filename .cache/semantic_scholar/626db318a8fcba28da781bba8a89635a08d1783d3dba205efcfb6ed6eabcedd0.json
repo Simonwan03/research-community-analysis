@@ -1,0 +1,318 @@
+{
+  "total": 163,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "218a77e8fd53a96206022bd40ae5e74a191a2ad3",
+      "externalIds": {
+        "MAG": "2803380690",
+        "DBLP": "conf/icml/LiuH18",
+        "ArXiv": "1808.02169",
+        "CorpusId": 51681579
+      },
+      "url": "https://www.semanticscholar.org/paper/218a77e8fd53a96206022bd40ae5e74a191a2ad3",
+      "title": "Fast Variance Reduction Method with Stochastic Batch Size",
+      "venue": "International Conference on Machine Learning",
+      "year": 2018,
+      "referenceCount": 32,
+      "citationCount": 6,
+      "authors": [
+        {
+          "authorId": "23979212",
+          "name": "Xuanqing Liu"
+        },
+        {
+          "authorId": "1793529",
+          "name": "Cho-Jui Hsieh"
+        }
+      ]
+    },
+    {
+      "paperId": "727ee4adaf1bc557855826944e90c078b0201fb9",
+      "externalIds": {
+        "DOI": "10.1109/RadarConf2559087.2025.11205170",
+        "CorpusId": 282458340
+      },
+      "url": "https://www.semanticscholar.org/paper/727ee4adaf1bc557855826944e90c078b0201fb9",
+      "title": "Fast Sparsity-Based 3D Near-Field MIMO Imaging Using b-SAGA with a Batch Size Selection Strategy",
+      "venue": "International Radar Conference",
+      "year": 2025,
+      "referenceCount": 34,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2121754301",
+          "name": "Okyanus Oral"
+        },
+        {
+          "authorId": "2388299073",
+          "name": "Thomas Feuillen"
+        },
+        {
+          "authorId": "123781496",
+          "name": "Ahmed Murtada"
+        },
+        {
+          "authorId": "1491107310",
+          "name": "Bhavani Shankar Mysore Rama Rao"
+        }
+      ]
+    },
+    {
+      "paperId": "79034a05a9911ae3f2c9e8e465182521fcf8c98d",
+      "externalIds": {
+        "ArXiv": "2505.13954",
+        "CorpusId": 278768566
+      },
+      "url": "https://www.semanticscholar.org/paper/79034a05a9911ae3f2c9e8e465182521fcf8c98d",
+      "title": "VAMO: Efficient Zeroth-Order Variance Reduction for SGD with Faster Convergence",
+      "venue": "",
+      "year": 2025,
+      "referenceCount": 42,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2261797517",
+          "name": "Jiaheng Chen"
+        },
+        {
+          "authorId": "2314520403",
+          "name": "Ziye Ma"
+        }
+      ]
+    },
+    {
+      "paperId": "9eaecd9116e9701d638976faec40a00f543cfddb",
+      "externalIds": {
+        "DBLP": "journals/kbs/YangCW20",
+        "MAG": "3018951082",
+        "DOI": "10.1016/j.knosys.2020.105941",
+        "CorpusId": 218966131
+      },
+      "url": "https://www.semanticscholar.org/paper/9eaecd9116e9701d638976faec40a00f543cfddb",
+      "title": "An accelerated stochastic variance-reduced method for machine learning problems",
+      "venue": "Knowledge-Based Systems",
+      "year": 2020,
+      "referenceCount": 43,
+      "citationCount": 7,
+      "authors": [
+        {
+          "authorId": "50109329",
+          "name": "Zhuang Yang"
+        },
+        {
+          "authorId": "8157393",
+          "name": "Zengping Chen"
+        },
+        {
+          "authorId": "115877724",
+          "name": "Cheng Wang"
+        }
+      ]
+    },
+    {
+      "paperId": "fa8c76c432f4fb6901f3545dd20fd02c74297c9b",
+      "externalIds": {
+        "ArXiv": "2205.08253",
+        "DBLP": "journals/tmlr/SalehkaleybarKK24",
+        "CorpusId": 248834618
+      },
+      "url": "https://www.semanticscholar.org/paper/fa8c76c432f4fb6901f3545dd20fd02c74297c9b",
+      "title": "Momentum-Based Policy Gradient with Second-Order Information",
+      "venue": "Trans. Mach. Learn. Res.",
+      "year": 2022,
+      "referenceCount": 46,
+      "citationCount": 13,
+      "authors": [
+        {
+          "authorId": "2452436",
+          "name": "Saber Salehkaleybar"
+        },
+        {
+          "authorId": "2120314879",
+          "name": "Sadegh Khorasani"
+        },
+        {
+          "authorId": "1801295",
+          "name": "N. Kiyavash"
+        },
+        {
+          "authorId": "2903347",
+          "name": "Niao He"
+        },
+        {
+          "authorId": "3250409",
+          "name": "Patrick Thiran"
+        }
+      ]
+    },
+    {
+      "paperId": "30c07bad1d3d1394a780a0a9ee6bbf86b407093b",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2601-14647",
+        "ArXiv": "2601.14647",
+        "DOI": "10.48550/arXiv.2601.14647",
+        "CorpusId": 284917356
+      },
+      "url": "https://www.semanticscholar.org/paper/30c07bad1d3d1394a780a0a9ee6bbf86b407093b",
+      "title": "TRSVR: An Adaptive Stochastic Trust-Region Method with Variance Reduction",
+      "venue": "arXiv.org",
+      "year": 2026,
+      "referenceCount": 30,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2322994424",
+          "name": "Yuchen Fang"
+        },
+        {
+          "authorId": "2333742720",
+          "name": "Xinshou Zheng"
+        },
+        {
+          "authorId": "2265830636",
+          "name": "Javad Lavaei"
+        }
+      ]
+    },
+    {
+      "paperId": "69ab096d3f0e4056b69209bdeebbc1013e76f6b6",
+      "externalIds": {
+        "ArXiv": "2505.06921",
+        "DOI": "10.1016/j.apnum.2025.12.007",
+        "CorpusId": 278501821
+      },
+      "url": "https://www.semanticscholar.org/paper/69ab096d3f0e4056b69209bdeebbc1013e76f6b6",
+      "title": "Stochastic ADMM with batch size adaptation for nonconvex nonsmooth optimization",
+      "venue": "Applied Numerical Mathematics",
+      "year": 2025,
+      "referenceCount": 54,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2293548310",
+          "name": "Jiachen Jin"
+        },
+        {
+          "authorId": "2293170964",
+          "name": "Kangkang Deng"
+        },
+        {
+          "authorId": "2355115651",
+          "name": "Boyu Wang"
+        },
+        {
+          "authorId": "2268629825",
+          "name": "Hongxia Wang"
+        }
+      ]
+    },
+    {
+      "paperId": "440a4a4c55082fd7a652dc4ef6b04a95d81d61ab",
+      "externalIds": {
+        "ArXiv": "2506.08758",
+        "CorpusId": 279261321
+      },
+      "url": "https://www.semanticscholar.org/paper/440a4a4c55082fd7a652dc4ef6b04a95d81d61ab",
+      "title": "On the Batch Size Selection in Stochastic Gradient Methods Using No-Replacement Sampling",
+      "venue": "",
+      "year": 2025,
+      "referenceCount": 6,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "1617792692",
+          "name": "Marco Boresta"
+        },
+        {
+          "authorId": "23192624",
+          "name": "A. D. Santis"
+        },
+        {
+          "authorId": "2239766668",
+          "name": "S. Lucidi"
+        }
+      ]
+    },
+    {
+      "paperId": "ea9ff0af598d045e043f994f0b260e6bcb5d66ea",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-1912-00362",
+        "MAG": "3103343010",
+        "ArXiv": "1912.00362",
+        "DOI": "10.1109/TKDE.2019.2956700",
+        "CorpusId": 208527742
+      },
+      "url": "https://www.semanticscholar.org/paper/ea9ff0af598d045e043f994f0b260e6bcb5d66ea",
+      "title": "Fast Stochastic Ordinal Embedding With Variance Reduction and Adaptive Step Size",
+      "venue": "IEEE Transactions on Knowledge and Data Engineering",
+      "year": 2019,
+      "referenceCount": 41,
+      "citationCount": 4,
+      "authors": [
+        {
+          "authorId": "144025031",
+          "name": "Ke Ma"
+        },
+        {
+          "authorId": "7216245",
+          "name": "Jinshan Zeng"
+        },
+        {
+          "authorId": "34679664",
+          "name": "Qianqian Xu"
+        },
+        {
+          "authorId": "1719250",
+          "name": "Xiaochun Cao"
+        },
+        {
+          "authorId": "40584023",
+          "name": "Wei Liu"
+        },
+        {
+          "authorId": "1390925430",
+          "name": "Yuan Yao"
+        }
+      ]
+    },
+    {
+      "paperId": "ab7e82aeeb2e4f29984cb13b20dc5acb544e2e2f",
+      "externalIds": {
+        "DBLP": "journals/pami/AnSLHT26",
+        "DOI": "10.1109/TPAMI.2025.3610169",
+        "CorpusId": 281324757,
+        "PubMed": "40953432"
+      },
+      "url": "https://www.semanticscholar.org/paper/ab7e82aeeb2e4f29984cb13b20dc5acb544e2e2f",
+      "title": "Adaptive Batch Size Time Evolving Stochastic Gradient Descent for Federated Learning",
+      "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+      "year": 2025,
+      "referenceCount": 50,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "2266355469",
+          "name": "Xuming An"
+        },
+        {
+          "authorId": "2256150276",
+          "name": "Li Shen"
+        },
+        {
+          "authorId": "2279402395",
+          "name": "Yong Luo"
+        },
+        {
+          "authorId": "2247556302",
+          "name": "Han Hu"
+        },
+        {
+          "authorId": "2135519749",
+          "name": "Dacheng Tao"
+        }
+      ]
+    }
+  ]
+}

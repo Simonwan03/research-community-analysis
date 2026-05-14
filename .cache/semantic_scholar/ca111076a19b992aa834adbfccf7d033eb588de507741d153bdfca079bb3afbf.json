@@ -1,0 +1,338 @@
+{
+  "total": 94,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "0ab6b5b8652e1b4d33ea035038301acc7293cfd9",
+      "externalIds": {
+        "MAG": "2963043442",
+        "DBLP": "conf/icml/FarajtabarYYXTK17",
+        "ArXiv": "1703.07823",
+        "CorpusId": 13472990
+      },
+      "url": "https://www.semanticscholar.org/paper/0ab6b5b8652e1b4d33ea035038301acc7293cfd9",
+      "title": "Fake News Mitigation via Point Process Based Intervention",
+      "venue": "International Conference on Machine Learning",
+      "year": 2017,
+      "referenceCount": 48,
+      "citationCount": 164,
+      "authors": [
+        {
+          "authorId": "1682124",
+          "name": "Mehrdad Farajtabar"
+        },
+        {
+          "authorId": "2286818802",
+          "name": "Jiachen Yang"
+        },
+        {
+          "authorId": "145315788",
+          "name": "X. Ye"
+        },
+        {
+          "authorId": "143719795",
+          "name": "Huan Xu"
+        },
+        {
+          "authorId": "3439813",
+          "name": "Rakshit S. Trivedi"
+        },
+        {
+          "authorId": "35252180",
+          "name": "Elias Boutros Khalil"
+        },
+        {
+          "authorId": "31023698",
+          "name": "Shuang Li"
+        },
+        {
+          "authorId": "1779453",
+          "name": "Le Song"
+        },
+        {
+          "authorId": "145203884",
+          "name": "H. Zha"
+        }
+      ]
+    },
+    {
+      "paperId": "ca2caa31c52c49eccb7e72f514f5058a21dcec4f",
+      "externalIds": {
+        "DOI": "10.9790/0661-2605030918",
+        "CorpusId": 273643183
+      },
+      "url": "https://www.semanticscholar.org/paper/ca2caa31c52c49eccb7e72f514f5058a21dcec4f",
+      "title": "AI For Real-Time Detection And Mitigation Of Fake News Via Multi-Source Verification",
+      "venue": "IOSR Journal of Computer Engineering",
+      "year": 2024,
+      "referenceCount": 55,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2327901368",
+          "name": "Aayam Bansal"
+        }
+      ]
+    },
+    {
+      "paperId": "623e7a2770103558923a1e682cfcd6b785e31a34",
+      "externalIds": {
+        "DOI": "10.1109/ACOIT66109.2025.11436453",
+        "CorpusId": 286685270
+      },
+      "url": "https://www.semanticscholar.org/paper/623e7a2770103558923a1e682cfcd6b785e31a34",
+      "title": "AI-Driven Detection and Mitigation of Fake News and Hate Speech in Political Discourse: A Machine Learning Approach",
+      "venue": "2025 2nd Asian Conference on Intelligent Technologies (ACOIT)",
+      "year": 2025,
+      "referenceCount": 12,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2297384464",
+          "name": "Suman Kumari"
+        },
+        {
+          "authorId": "2297389815",
+          "name": "Rahul Joshi"
+        },
+        {
+          "authorId": "2297384377",
+          "name": "Krishna Pandey"
+        },
+        {
+          "authorId": "2337728898",
+          "name": "Ankita Bharti"
+        },
+        {
+          "authorId": "2345978364",
+          "name": "Mitali Mohanty"
+        },
+        {
+          "authorId": "2412171057",
+          "name": "Rhythma Badola"
+        }
+      ]
+    },
+    {
+      "paperId": "edfd93850f29043878b1bb02241e7c15701d1be4",
+      "externalIds": {
+        "ArXiv": "2007.14013",
+        "DBLP": "journals/corr/abs-2007-14013",
+        "MAG": "3046089404",
+        "DOI": "10.36190/2020.13",
+        "CorpusId": 220830744
+      },
+      "url": "https://www.semanticscholar.org/paper/edfd93850f29043878b1bb02241e7c15701d1be4",
+      "title": "Fake News Detection using Temporal Features Extracted via Point Process",
+      "venue": "ICWSM Workshops",
+      "year": 2020,
+      "referenceCount": 30,
+      "citationCount": 8,
+      "authors": [
+        {
+          "authorId": "1712115555",
+          "name": "Taichi Murayama"
+        },
+        {
+          "authorId": "1824142",
+          "name": "Shoko Wakamiya"
+        },
+        {
+          "authorId": "3182818",
+          "name": "E. Aramaki"
+        }
+      ]
+    },
+    {
+      "paperId": "3cadb966a5ecbc5c5b97af9a27debb1f078de79b",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2504-09163",
+        "ArXiv": "2504.09163",
+        "DOI": "10.48550/arXiv.2504.09163",
+        "CorpusId": 277780316
+      },
+      "url": "https://www.semanticscholar.org/paper/3cadb966a5ecbc5c5b97af9a27debb1f078de79b",
+      "title": "Deconfounded Reasoning for Multimodal Fake News Detection via Causal Intervention",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "referenceCount": 49,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2316665508",
+          "name": "Moyang Liu"
+        },
+        {
+          "authorId": "2339778370",
+          "name": "Kaiying Yan"
+        },
+        {
+          "authorId": "2300327221",
+          "name": "Yukun Liu"
+        },
+        {
+          "authorId": "3418514",
+          "name": "Ruibo Fu"
+        },
+        {
+          "authorId": "1718662",
+          "name": "Zhengqi Wen"
+        },
+        {
+          "authorId": "2151059432",
+          "name": "Xuefei Liu"
+        },
+        {
+          "authorId": "2332439240",
+          "name": "Chenxing Li"
+        }
+      ]
+    },
+    {
+      "paperId": "5eb4c1133c483eab31cd89fc20713c9a1c5df199",
+      "externalIds": {
+        "DBLP": "journals/information/GalalNE21",
+        "DOI": "10.3390/info12090376",
+        "CorpusId": 238862891
+      },
+      "url": "https://www.semanticscholar.org/paper/5eb4c1133c483eab31cd89fc20713c9a1c5df199",
+      "title": "CNMF: A Community-Based Fake News Mitigation Framework",
+      "venue": "Inf.",
+      "year": 2021,
+      "referenceCount": 43,
+      "citationCount": 14,
+      "authors": [
+        {
+          "authorId": "152626768",
+          "name": "Shaimaa Galal"
+        },
+        {
+          "authorId": "2073036264",
+          "name": "Noha Nagy"
+        },
+        {
+          "authorId": "48850908",
+          "name": "M. El-Sharkawi"
+        }
+      ]
+    },
+    {
+      "paperId": "c3c3b14db72954162a7dc2a2acf2c70aeca7d010",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2304-12888",
+        "ArXiv": "2304.12888",
+        "DOI": "10.1109/TKDE.2024.3390431",
+        "CorpusId": 258309485
+      },
+      "url": "https://www.semanticscholar.org/paper/c3c3b14db72954162a7dc2a2acf2c70aeca7d010",
+      "title": "Out-of-Distribution Evidence-Aware Fake News Detection via Dual Adversarial Debiasing",
+      "venue": "IEEE Transactions on Knowledge and Data Engineering",
+      "year": 2023,
+      "referenceCount": 79,
+      "citationCount": 25,
+      "authors": [
+        {
+          "authorId": "48873756",
+          "name": "Q. Liu"
+        },
+        {
+          "authorId": "2155208092",
+          "name": "Jun Wu"
+        },
+        {
+          "authorId": "50425438",
+          "name": "Shu Wu"
+        },
+        {
+          "authorId": "1693997",
+          "name": "Liang Wang"
+        }
+      ]
+    },
+    {
+      "paperId": "81077b69864d0f61f79c307891da34d9426555ab",
+      "externalIds": {
+        "DOI": "10.1609/aaai.v40i1.37050",
+        "CorpusId": 286665920
+      },
+      "url": "https://www.semanticscholar.org/paper/81077b69864d0f61f79c307891da34d9426555ab",
+      "title": "PHPFND: Detecting Fake News via Post-Hoc Processing of LLMs Hallucination",
+      "venue": "Proceedings of the AAAI Conference on Artificial Intelligence",
+      "year": 2026,
+      "referenceCount": 0,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2350210730",
+          "name": "Jinke Ma"
+        },
+        {
+          "authorId": "2257367951",
+          "name": "Jiachen Ma"
+        },
+        {
+          "authorId": "2355246860",
+          "name": "Wei Zhang"
+        },
+        {
+          "authorId": "2408606079",
+          "name": "Yong Liu"
+        }
+      ]
+    },
+    {
+      "paperId": "7e0dd3caccd7e5a65c970f226d8c27341ffaefb5",
+      "externalIds": {
+        "PubMedCentral": "12876841",
+        "DOI": "10.1038/s41598-026-35175-4",
+        "CorpusId": 284591957,
+        "PubMed": "41513753"
+      },
+      "url": "https://www.semanticscholar.org/paper/7e0dd3caccd7e5a65c970f226d8c27341ffaefb5",
+      "title": "Tracking evolving communities in fake news cascades using temporal graphs",
+      "venue": "Scientific Reports",
+      "year": 2026,
+      "referenceCount": 45,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "2378114908",
+          "name": "Yanfei Ma"
+        },
+        {
+          "authorId": "2377861376",
+          "name": "Daozheng Qu"
+        },
+        {
+          "authorId": "2403626749",
+          "name": "Yibo Wang"
+        }
+      ]
+    },
+    {
+      "paperId": "a45e3baa999a032c8d2eb2ac081f469e47850538",
+      "externalIds": {
+        "DBLP": "conf/ictai/ChenH24",
+        "DOI": "10.1109/ICTAI62512.2024.00051",
+        "CorpusId": 275956652
+      },
+      "url": "https://www.semanticscholar.org/paper/a45e3baa999a032c8d2eb2ac081f469e47850538",
+      "title": "Problematic News Topic Spreader Prediction via Uncertainty-based Contrastive Learning for Marked Temporal Point Processes",
+      "venue": "IEEE International Conference on Tools with Artificial Intelligence",
+      "year": 2024,
+      "referenceCount": 27,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2342940060",
+          "name": "Haoran Chen"
+        },
+        {
+          "authorId": "2344042879",
+          "name": "Dongmei Han"
+        }
+      ]
+    }
+  ]
+}

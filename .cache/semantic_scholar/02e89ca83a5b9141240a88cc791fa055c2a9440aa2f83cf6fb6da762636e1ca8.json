@@ -1,0 +1,385 @@
+{
+  "total": 649,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "03fc590a9bcde20f487287b8dcf84020a9c9b91d",
+      "externalIds": {
+        "DBLP": "conf/icml/ChenLW18",
+        "CorpusId": 263897540
+      },
+      "url": "https://www.semanticscholar.org/paper/03fc590a9bcde20f487287b8dcf84020a9c9b91d",
+      "title": "Scalable Bilinear Learning Using State and Action Features",
+      "venue": "International Conference on Machine Learning",
+      "year": 2018,
+      "referenceCount": 0,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "6130810",
+          "name": "Yichen Chen"
+        },
+        {
+          "authorId": "40695349",
+          "name": "Lihong Li"
+        },
+        {
+          "authorId": "2385814148",
+          "name": "Mengdi Wang"
+        }
+      ]
+    },
+    {
+      "paperId": "53a61a580b2d491858cd9f9928a03ebf434b55ec",
+      "externalIds": {
+        "ArXiv": "1804.10328",
+        "DBLP": "journals/corr/abs-1804-10328",
+        "MAG": "2798543980",
+        "CorpusId": 13749619
+      },
+      "url": "https://www.semanticscholar.org/paper/53a61a580b2d491858cd9f9928a03ebf434b55ec",
+      "title": "Scalable Bilinear π Learning Using State and Action Features",
+      "venue": "International Conference on Machine Learning",
+      "year": 2018,
+      "referenceCount": 45,
+      "citationCount": 47,
+      "authors": [
+        {
+          "authorId": "6130810",
+          "name": "Yichen Chen"
+        },
+        {
+          "authorId": "47681372",
+          "name": "Lihong Li"
+        },
+        {
+          "authorId": "145731462",
+          "name": "Mengdi Wang"
+        }
+      ]
+    },
+    {
+      "paperId": "12cd30cab8281567f5a1e8e3145641336fbb819c",
+      "externalIds": {
+        "DBLP": "conf/icml/YangW19",
+        "MAG": "2948677277",
+        "CorpusId": 174800404
+      },
+      "url": "https://www.semanticscholar.org/paper/12cd30cab8281567f5a1e8e3145641336fbb819c",
+      "title": "Sample-Optimal Parametric Q-Learning Using Linearly Additive Features",
+      "venue": "International Conference on Machine Learning",
+      "year": 2019,
+      "referenceCount": 37,
+      "citationCount": 343,
+      "authors": [
+        {
+          "authorId": "40577530",
+          "name": "Lin F. Yang"
+        },
+        {
+          "authorId": "145731462",
+          "name": "Mengdi Wang"
+        }
+      ]
+    },
+    {
+      "paperId": "aba72b3dfd94e9375254df99e6f9fd61d7287bb3",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2409-16346",
+        "ArXiv": "2409.16346",
+        "DOI": "10.48550/arXiv.2409.16346",
+        "CorpusId": 272881259
+      },
+      "url": "https://www.semanticscholar.org/paper/aba72b3dfd94e9375254df99e6f9fd61d7287bb3",
+      "title": "Scalable quantum dynamics compilation via quantum machine learning",
+      "venue": "arXiv.org",
+      "year": 2024,
+      "referenceCount": 86,
+      "citationCount": 12,
+      "authors": [
+        {
+          "authorId": "2308072296",
+          "name": "Yuxuan Zhang"
+        },
+        {
+          "authorId": "1879935456",
+          "name": "R. Wiersema"
+        },
+        {
+          "authorId": "5048394",
+          "name": "J. Carrasquilla"
+        },
+        {
+          "authorId": "2302407912",
+          "name": "Lukasz Cincio"
+        },
+        {
+          "authorId": "2308293074",
+          "name": "Yong Baek Kim"
+        }
+      ]
+    },
+    {
+      "paperId": "f0067718d51a208a6797b365cbc65bd1527bbe0e",
+      "externalIds": {
+        "ArXiv": "2506.05779",
+        "DBLP": "journals/corr/abs-2506-05779",
+        "DOI": "10.1145/3718958.3750529",
+        "CorpusId": 279244878
+      },
+      "url": "https://www.semanticscholar.org/paper/f0067718d51a208a6797b365cbc65bd1527bbe0e",
+      "title": "Pegasus: A Universal Framework for Scalable Deep Learning Inference on the Dataplane",
+      "venue": "Conference on Applications, Technologies, Architectures, and Protocols for Computer Communication",
+      "year": 2025,
+      "referenceCount": 72,
+      "citationCount": 6,
+      "authors": [
+        {
+          "authorId": "2297439357",
+          "name": "Yinchao Zhang"
+        },
+        {
+          "authorId": "2367196256",
+          "name": "Su Yao"
+        },
+        {
+          "authorId": "2115529824",
+          "name": "Yong Feng"
+        },
+        {
+          "authorId": "2312056203",
+          "name": "Kang Chen"
+        },
+        {
+          "authorId": "2355922139",
+          "name": "Tong Li"
+        },
+        {
+          "authorId": "2144264353",
+          "name": "Zhuotao Liu"
+        },
+        {
+          "authorId": "2143936310",
+          "name": "Yi Zhao"
+        },
+        {
+          "authorId": "2238892335",
+          "name": "Lexuan Zhang"
+        },
+        {
+          "authorId": "2323429117",
+          "name": "Xiangyu Gao"
+        },
+        {
+          "authorId": "2068170336",
+          "name": "Feng Xiong"
+        },
+        {
+          "authorId": "2237948580",
+          "name": "Qi Li"
+        },
+        {
+          "authorId": "2261908496",
+          "name": "Ke Xu"
+        }
+      ]
+    },
+    {
+      "paperId": "c63af6eebf711506c123a44ad6e9207b113a57e7",
+      "externalIds": {
+        "DOI": "10.1117/12.3059138",
+        "CorpusId": 276926371
+      },
+      "url": "https://www.semanticscholar.org/paper/c63af6eebf711506c123a44ad6e9207b113a57e7",
+      "title": "VIVAR: learning view-invariant embedding for video action recognition",
+      "venue": "International Conference on Video and Image Processing",
+      "year": 2025,
+      "referenceCount": 38,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2067241490",
+          "name": "Zahid Hasan"
+        },
+        {
+          "authorId": "2316091561",
+          "name": "Masud Ahmed"
+        },
+        {
+          "authorId": "35613119",
+          "name": "A. Faridee"
+        },
+        {
+          "authorId": "2349523849",
+          "name": "Sanjay Purushotham"
+        },
+        {
+          "authorId": "2445131",
+          "name": "Hyungtae Lee"
+        },
+        {
+          "authorId": "2261781889",
+          "name": "Heesung Kwon"
+        },
+        {
+          "authorId": "2312772637",
+          "name": "Nirmalya Roy"
+        }
+      ]
+    },
+    {
+      "paperId": "6e09dfa6197687cc235df9e239ca04dc0aab7683",
+      "externalIds": {
+        "DBLP": "journals/spl/HeLJ24",
+        "DOI": "10.1109/LSP.2023.3343248",
+        "CorpusId": 266256330
+      },
+      "url": "https://www.semanticscholar.org/paper/6e09dfa6197687cc235df9e239ca04dc0aab7683",
+      "title": "Global Shapes and Salient Joints Features Learning for Skeleton-Based Action Recognition",
+      "venue": "IEEE Signal Processing Letters",
+      "year": 2024,
+      "referenceCount": 36,
+      "citationCount": 4,
+      "authors": [
+        {
+          "authorId": "2217012074",
+          "name": "Xingtong He"
+        },
+        {
+          "authorId": "2110952179",
+          "name": "Xu Liu"
+        },
+        {
+          "authorId": "2143819911",
+          "name": "Licheng Jiao"
+        }
+      ]
+    },
+    {
+      "paperId": "1f44c48e15471cd3c45aff33219b7c53f7e59d29",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2506-11916",
+        "ArXiv": "2506.11916",
+        "DOI": "10.48550/arXiv.2506.11916",
+        "CorpusId": 279391495
+      },
+      "url": "https://www.semanticscholar.org/paper/1f44c48e15471cd3c45aff33219b7c53f7e59d29",
+      "title": "mimic-one: a Scalable Model Recipe for General Purpose Robot Dexterity",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "referenceCount": 31,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "2129786387",
+          "name": "Elvis Nava"
+        },
+        {
+          "authorId": "36844926",
+          "name": "Victoriano Montesinos"
+        },
+        {
+          "authorId": "2157863513",
+          "name": "Erik Bauer"
+        },
+        {
+          "authorId": "2163581775",
+          "name": "Benedek Forrai"
+        },
+        {
+          "authorId": "2367042217",
+          "name": "Jonas Pai"
+        },
+        {
+          "authorId": "2155837046",
+          "name": "Stefan Weirich"
+        },
+        {
+          "authorId": "2166476174",
+          "name": "Stephan-Daniel Gravert"
+        },
+        {
+          "authorId": "2162781059",
+          "name": "Philipp Wand"
+        },
+        {
+          "authorId": "2367042224",
+          "name": "Stephan Polinski"
+        },
+        {
+          "authorId": "48117063",
+          "name": "B. Grewe"
+        },
+        {
+          "authorId": "50191333",
+          "name": "Robert K. Katzschmann"
+        }
+      ]
+    },
+    {
+      "paperId": "d032105e2c5a49cb677ff2dfd313aa1761323b62",
+      "externalIds": {
+        "DBLP": "journals/bdcc/BotunacPB25",
+        "DOI": "10.3390/bdcc9120317",
+        "CorpusId": 283819528
+      },
+      "url": "https://www.semanticscholar.org/paper/d032105e2c5a49cb677ff2dfd313aa1761323b62",
+      "title": "Automated Trading Framework Using LLM-Driven Features and Deep Reinforcement Learning",
+      "venue": "Big Data and Cognitive Computing",
+      "year": 2025,
+      "referenceCount": 82,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2085590099",
+          "name": "Ive Botunac"
+        },
+        {
+          "authorId": "2289845956",
+          "name": "Tomislav Petković"
+        },
+        {
+          "authorId": "95679944",
+          "name": "Jurica Bosna"
+        }
+      ]
+    },
+    {
+      "paperId": "1f04c949813de3ce30a4ca2eb7bfe8bb43915f14",
+      "externalIds": {
+        "DBLP": "conf/date/ZhaoYSTX23",
+        "DOI": "10.23919/DATE56975.2023.10137100",
+        "CorpusId": 259027899
+      },
+      "url": "https://www.semanticscholar.org/paper/1f04c949813de3ce30a4ca2eb7bfe8bb43915f14",
+      "title": "DeepTH: Chip Placement with Deep Reinforcement Learning Using a Three-Head Policy Network",
+      "venue": "Design, Automation and Test in Europe",
+      "year": 2023,
+      "referenceCount": 5,
+      "citationCount": 12,
+      "authors": [
+        {
+          "authorId": "2175361571",
+          "name": "Dengwei Zhao"
+        },
+        {
+          "authorId": "2174624277",
+          "name": "Shuai Yuan"
+        },
+        {
+          "authorId": "48186318",
+          "name": "Yanan Sun"
+        },
+        {
+          "authorId": "1701972",
+          "name": "Shikui Tu"
+        },
+        {
+          "authorId": "2109329726",
+          "name": "Lei Xu"
+        }
+      ]
+    }
+  ]
+}

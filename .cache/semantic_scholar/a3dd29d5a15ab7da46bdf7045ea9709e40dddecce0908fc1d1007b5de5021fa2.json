@@ -1,0 +1,312 @@
+{
+  "total": 18,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "693c10bc8aa566a98345a7d91646157342a6071f",
+      "externalIds": {
+        "DBLP": "conf/icml/HanKPS17",
+        "MAG": "2949891464",
+        "ArXiv": "1703.03389",
+        "CorpusId": 11890705
+      },
+      "url": "https://www.semanticscholar.org/paper/693c10bc8aa566a98345a7d91646157342a6071f",
+      "title": "Faster Greedy MAP Inference for Determinantal Point Processes",
+      "venue": "International Conference on Machine Learning",
+      "year": 2017,
+      "referenceCount": 38,
+      "citationCount": 27,
+      "authors": [
+        {
+          "authorId": "2237714",
+          "name": "Insu Han"
+        },
+        {
+          "authorId": "2071549",
+          "name": "P. Kambadur"
+        },
+        {
+          "authorId": "1944837",
+          "name": "Kyoungsoo Park"
+        },
+        {
+          "authorId": "143720148",
+          "name": "Jinwoo Shin"
+        }
+      ]
+    },
+    {
+      "paperId": "640fc93358da47f16f501a92d56ba595f456b273",
+      "externalIds": {
+        "CorpusId": 260553867
+      },
+      "url": "https://www.semanticscholar.org/paper/640fc93358da47f16f501a92d56ba595f456b273",
+      "title": "Faster Greedy MAP Inference for Determinantal Point Processes",
+      "venue": "",
+      "year": 2017,
+      "referenceCount": 35,
+      "citationCount": 1,
+      "authors": []
+    },
+    {
+      "paperId": "c3624732acd4db803175e35745f9181f9d3fbcb8",
+      "externalIds": {
+        "DBLP": "conf/nips/HemmiOSF022",
+        "ArXiv": "2206.05947",
+        "DOI": "10.48550/arXiv.2206.05947",
+        "CorpusId": 249626344
+      },
+      "url": "https://www.semanticscholar.org/paper/c3624732acd4db803175e35745f9181f9d3fbcb8",
+      "title": "Lazy and Fast Greedy MAP Inference for Determinantal Point Process",
+      "venue": "Neural Information Processing Systems",
+      "year": 2022,
+      "referenceCount": 54,
+      "citationCount": 6,
+      "authors": [
+        {
+          "authorId": "2170077284",
+          "name": "Shinichi Hemmi"
+        },
+        {
+          "authorId": "3455638",
+          "name": "Taihei Oki"
+        },
+        {
+          "authorId": "3437474",
+          "name": "Shinsaku Sakaue"
+        },
+        {
+          "authorId": "26930090",
+          "name": "K. Fujii"
+        },
+        {
+          "authorId": "2151172077",
+          "name": "Satoru Iwata"
+        }
+      ]
+    },
+    {
+      "paperId": "c50ec6761f013ffd73d9bbf392dcba7ae990df92",
+      "externalIds": {
+        "MAG": "2803794535",
+        "DBLP": "conf/nips/ChenZZ18",
+        "CorpusId": 54033089
+      },
+      "url": "https://www.semanticscholar.org/paper/c50ec6761f013ffd73d9bbf392dcba7ae990df92",
+      "title": "Fast Greedy MAP Inference for Determinantal Point Process to Improve Recommendation Diversity",
+      "venue": "Neural Information Processing Systems",
+      "year": 2017,
+      "referenceCount": 55,
+      "citationCount": 349,
+      "authors": [
+        {
+          "authorId": "1703207",
+          "name": "Laming Chen"
+        },
+        {
+          "authorId": "46266049",
+          "name": "Guoxin Zhang"
+        },
+        {
+          "authorId": "2059591913",
+          "name": "Eric Zhou"
+        }
+      ]
+    },
+    {
+      "paperId": "15acca25f75076b80b0bd24c5710c70733308c11",
+      "externalIds": {
+        "DBLP": "conf/nips/GillenwaterKT12",
+        "MAG": "2158334272",
+        "CorpusId": 7402012
+      },
+      "url": "https://www.semanticscholar.org/paper/15acca25f75076b80b0bd24c5710c70733308c11",
+      "title": "Near-Optimal MAP Inference for Determinantal Point Processes",
+      "venue": "Neural Information Processing Systems",
+      "year": 2012,
+      "referenceCount": 40,
+      "citationCount": 153,
+      "authors": [
+        {
+          "authorId": "144340937",
+          "name": "Jennifer Gillenwater"
+        },
+        {
+          "authorId": "145500336",
+          "name": "Alex Kulesza"
+        },
+        {
+          "authorId": "1685978",
+          "name": "B. Taskar"
+        }
+      ]
+    },
+    {
+      "paperId": "c9c1255057652584603945508b7151206e9e9069",
+      "externalIds": {
+        "ArXiv": "1607.01551",
+        "MAG": "2471730820",
+        "DBLP": "journals/corr/KathuriaD16",
+        "CorpusId": 3724470
+      },
+      "url": "https://www.semanticscholar.org/paper/c9c1255057652584603945508b7151206e9e9069",
+      "title": "On Sampling and Greedy MAP Inference of Constrained Determinantal Point Processes",
+      "venue": "arXiv.org",
+      "year": 2016,
+      "referenceCount": 34,
+      "citationCount": 17,
+      "authors": [
+        {
+          "authorId": "3237687",
+          "name": "Tarun Kathuria"
+        },
+        {
+          "authorId": "144576872",
+          "name": "A. Deshpande"
+        }
+      ]
+    },
+    {
+      "paperId": "ad1dba6f1d8330b685965060365e4d3093239ff8",
+      "externalIds": {
+        "DBLP": "conf/icml/ReddyR0RMLWKA22",
+        "CorpusId": 250340828
+      },
+      "url": "https://www.semanticscholar.org/paper/ad1dba6f1d8330b685965060365e4d3093239ff8",
+      "title": "One-Pass Algorithms for MAP Inference of Nonsymmetric Determinantal Point Processes",
+      "venue": "International Conference on Machine Learning",
+      "year": 2022,
+      "referenceCount": 66,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "2054929895",
+          "name": "Aravind Reddy"
+        },
+        {
+          "authorId": "2066337805",
+          "name": "Ryan A. Rossi"
+        },
+        {
+          "authorId": "2119235975",
+          "name": "Zhao Song"
+        },
+        {
+          "authorId": "3393154",
+          "name": "Anup B. Rao"
+        },
+        {
+          "authorId": "144396718",
+          "name": "Tung Mai"
+        },
+        {
+          "authorId": "1793409",
+          "name": "Nedim Lipka"
+        },
+        {
+          "authorId": "2110867642",
+          "name": "Gang Wu"
+        },
+        {
+          "authorId": "35910905",
+          "name": "Eunyee Koh"
+        },
+        {
+          "authorId": "144741751",
+          "name": "Nesreen K. Ahmed"
+        }
+      ]
+    },
+    {
+      "paperId": "7d7d3229b35a0577f4261feffba0be1e305d65bd",
+      "externalIds": {
+        "MAG": "3037906764",
+        "DBLP": "conf/aistats/HanG20",
+        "CorpusId": 220084464
+      },
+      "url": "https://www.semanticscholar.org/paper/7d7d3229b35a0577f4261feffba0be1e305d65bd",
+      "title": "MAP Inference for Customized Determinantal Point Processes via Maximum Inner Product Search",
+      "venue": "International Conference on Artificial Intelligence and Statistics",
+      "year": 2020,
+      "referenceCount": 40,
+      "citationCount": 11,
+      "authors": [
+        {
+          "authorId": "2237714",
+          "name": "Insu Han"
+        },
+        {
+          "authorId": "144340937",
+          "name": "Jennifer Gillenwater"
+        }
+      ]
+    },
+    {
+      "paperId": "66ce40c86d601c4dd36f5c1ce75ecea016b6f1de",
+      "externalIds": {
+        "ArXiv": "1905.00165",
+        "MAG": "2942517877",
+        "DBLP": "journals/corr/abs-1905-00165",
+        "DOI": "10.1098/rsta.2019.0059",
+        "CorpusId": 141480298,
+        "PubMed": "31955680"
+      },
+      "url": "https://www.semanticscholar.org/paper/66ce40c86d601c4dd36f5c1ce75ecea016b6f1de",
+      "title": "High-performance sampling of generic determinantal point processes",
+      "venue": "Philosophical Transactions of the Royal Society A",
+      "year": 2019,
+      "referenceCount": 54,
+      "citationCount": 30,
+      "authors": [
+        {
+          "authorId": "1864232",
+          "name": "J. Poulson"
+        }
+      ]
+    },
+    {
+      "paperId": "4bf2dff456cbd99f23c7144cd93b99a1094bda6f",
+      "externalIds": {
+        "ArXiv": "2603.19146",
+        "CorpusId": 286673712
+      },
+      "url": "https://www.semanticscholar.org/paper/4bf2dff456cbd99f23c7144cd93b99a1094bda6f",
+      "title": "D5P4: Partition Determinantal Point Process for Diversity in Parallel Discrete Diffusion Decoding",
+      "venue": "",
+      "year": 2026,
+      "referenceCount": 45,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2381834242",
+          "name": "Jonathan Lys"
+        },
+        {
+          "authorId": "2281746434",
+          "name": "Vincent Gripon"
+        },
+        {
+          "authorId": "3334569",
+          "name": "B. Pasdeloup"
+        },
+        {
+          "authorId": "2003373056",
+          "name": "Axel Marmoret"
+        },
+        {
+          "authorId": "2345183018",
+          "name": "L. Mauch"
+        },
+        {
+          "authorId": "3925900",
+          "name": "Fabien Cardinaux"
+        },
+        {
+          "authorId": "25161413",
+          "name": "G. B. Hacene"
+        }
+      ]
+    }
+  ]
+}

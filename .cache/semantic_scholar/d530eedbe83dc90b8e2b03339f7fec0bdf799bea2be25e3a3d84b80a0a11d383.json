@@ -1,0 +1,292 @@
+{
+  "total": 8211,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "bd3e007b98732acdf9608a40bc72059e066e2c1d",
+      "externalIds": {
+        "DBLP": "conf/icml/YangX15a",
+        "MAG": "1701167349",
+        "CorpusId": 2747774
+      },
+      "url": "https://www.semanticscholar.org/paper/bd3e007b98732acdf9608a40bc72059e066e2c1d",
+      "title": "Streaming Sparse Principal Component Analysis",
+      "venue": "International Conference on Machine Learning",
+      "year": 2015,
+      "referenceCount": 35,
+      "citationCount": 32,
+      "authors": [
+        {
+          "authorId": "2047305",
+          "name": "Wenzhuo Yang"
+        },
+        {
+          "authorId": "143719795",
+          "name": "Huan Xu"
+        }
+      ]
+    },
+    {
+      "paperId": "383e0e28fd517763de2ac48f792fd6b6d021f7b9",
+      "externalIds": {
+        "DBLP": "journals/tnn/FengLLZ25",
+        "DOI": "10.1109/TNNLS.2024.3519213",
+        "CorpusId": 275046599,
+        "PubMed": "40030609"
+      },
+      "url": "https://www.semanticscholar.org/paper/383e0e28fd517763de2ac48f792fd6b6d021f7b9",
+      "title": "Online Nonconvex Robust Tensor Principal Component Analysis",
+      "venue": "IEEE Transactions on Neural Networks and Learning Systems",
+      "year": 2024,
+      "referenceCount": 73,
+      "citationCount": 6,
+      "authors": [
+        {
+          "authorId": "2115956884",
+          "name": "Lanlan Feng"
+        },
+        {
+          "authorId": "49420320",
+          "name": "Yipeng Liu"
+        },
+        {
+          "authorId": "2279033448",
+          "name": "Ziming Liu"
+        },
+        {
+          "authorId": "2195624415",
+          "name": "Ce Zhu"
+        }
+      ]
+    },
+    {
+      "paperId": "d48e70a2af0b86a36ed03b1f8864ee9773722734",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2409-07275",
+        "ArXiv": "2409.07275",
+        "DOI": "10.1109/LSP.2025.3599784",
+        "CorpusId": 272593180
+      },
+      "url": "https://www.semanticscholar.org/paper/d48e70a2af0b86a36ed03b1f8864ee9773722734",
+      "title": "Tuning-Free Online Robust Principal Component Analysis Through Implicit Regularization",
+      "venue": "IEEE Signal Processing Letters",
+      "year": 2024,
+      "referenceCount": 28,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "9444130",
+          "name": "Lakshmi Jayalal"
+        },
+        {
+          "authorId": "1990441659",
+          "name": "Gokularam Muthukrishnan"
+        },
+        {
+          "authorId": "143968719",
+          "name": "S. Kalyani"
+        }
+      ]
+    },
+    {
+      "paperId": "daa45d7feafbb0420ab1d27af5be2cc8efe994c5",
+      "externalIds": {
+        "DBLP": "conf/nips/KumarS24",
+        "ArXiv": "2402.07240",
+        "DOI": "10.52202/079017-2372",
+        "CorpusId": 267627756
+      },
+      "url": "https://www.semanticscholar.org/paper/daa45d7feafbb0420ab1d27af5be2cc8efe994c5",
+      "title": "Oja's Algorithm for Streaming Sparse PCA",
+      "venue": "Neural Information Processing Systems",
+      "year": 2024,
+      "referenceCount": 64,
+      "citationCount": 5,
+      "authors": [
+        {
+          "authorId": "2279770434",
+          "name": "Syamantak Kumar"
+        },
+        {
+          "authorId": "2507519",
+          "name": "Purnamrita Sarkar"
+        }
+      ]
+    },
+    {
+      "paperId": "37a718df369457cc62c027808f2b6d25db0a8a78",
+      "externalIds": {
+        "MAG": "2279901945",
+        "DBLP": "conf/stoc/BoutsidisWZ16",
+        "ArXiv": "1504.06729",
+        "DOI": "10.1145/2897518.2897646",
+        "CorpusId": 14126780
+      },
+      "url": "https://www.semanticscholar.org/paper/37a718df369457cc62c027808f2b6d25db0a8a78",
+      "title": "Optimal principal component analysis in distributed and streaming models",
+      "venue": "Symposium on the Theory of Computing",
+      "year": 2015,
+      "referenceCount": 74,
+      "citationCount": 122,
+      "authors": [
+        {
+          "authorId": "1704039",
+          "name": "Christos Boutsidis"
+        },
+        {
+          "authorId": "143982862",
+          "name": "David P. Woodruff"
+        },
+        {
+          "authorId": "1980148",
+          "name": "Peilin Zhong"
+        }
+      ]
+    },
+    {
+      "paperId": "fbb9dfa5df437c9ce2b3ccb44dc904e8f2ae54d2",
+      "externalIds": {
+        "DBLP": "conf/icip/TanCM11",
+        "MAG": "2119507238",
+        "DOI": "10.1109/ICIP.2011.6116356",
+        "CorpusId": 5659952
+      },
+      "url": "https://www.semanticscholar.org/paper/fbb9dfa5df437c9ce2b3ccb44dc904e8f2ae54d2",
+      "title": "Face recovery in conference video streaming using robust principal component analysis",
+      "venue": "2011 18th IEEE International Conference on Image Processing",
+      "year": 2011,
+      "referenceCount": 14,
+      "citationCount": 24,
+      "authors": [
+        {
+          "authorId": "144504460",
+          "name": "Wai-tian Tan"
+        },
+        {
+          "authorId": "1705205",
+          "name": "Gene Cheung"
+        },
+        {
+          "authorId": "50032052",
+          "name": "Yi Ma"
+        }
+      ]
+    },
+    {
+      "paperId": "291f4efee806fad0d90ec6445c8fa56e4c324a06",
+      "externalIds": {
+        "DBLP": "journals/ijwmip/XuCC23",
+        "ArXiv": "2009.14615",
+        "DOI": "10.1142/s0219691322500552",
+        "CorpusId": 235727737
+      },
+      "url": "https://www.semanticscholar.org/paper/291f4efee806fad0d90ec6445c8fa56e4c324a06",
+      "title": "Online sparse sliced inverse regression for high-dimensional streaming data",
+      "venue": "Int. J. Wavelets Multiresolution Inf. Process.",
+      "year": 2020,
+      "referenceCount": 35,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2293554253",
+          "name": "Jianjun Xu"
+        },
+        {
+          "authorId": "2053108200",
+          "name": "Wenquan Cui"
+        },
+        {
+          "authorId": "2117983239",
+          "name": "Haoyang Cheng"
+        }
+      ]
+    },
+    {
+      "paperId": "048fa4c02e965f645bfa9fbfef0dc81c0d9afb37",
+      "externalIds": {
+        "DBLP": "conf/igarss/XuKA21",
+        "DOI": "10.1109/IGARSS47720.2021.9554904",
+        "CorpusId": 238753088
+      },
+      "url": "https://www.semanticscholar.org/paper/048fa4c02e965f645bfa9fbfef0dc81c0d9afb37",
+      "title": "Wildfire Detection Using Streaming Satellite Imagery",
+      "venue": "2021 IEEE International Geoscience and Remote Sensing Symposium IGARSS",
+      "year": 2021,
+      "referenceCount": 6,
+      "citationCount": 12,
+      "authors": [
+        {
+          "authorId": "2051381994",
+          "name": "Steven G. Xu"
+        },
+        {
+          "authorId": "40294633",
+          "name": "Seunghyun Kong"
+        },
+        {
+          "authorId": "1679977551",
+          "name": "Zohreh Asgharzadeh"
+        }
+      ]
+    },
+    {
+      "paperId": "aa215fb44078ec0b953f0fd449d3c62a10c45b68",
+      "externalIds": {
+        "ArXiv": "1905.12115",
+        "MAG": "2947023417",
+        "DBLP": "journals/corr/abs-1905-12115",
+        "CorpusId": 168169641
+      },
+      "url": "https://www.semanticscholar.org/paper/aa215fb44078ec0b953f0fd449d3c62a10c45b68",
+      "title": "AdaOja: Adaptive Learning Rates for Streaming PCA",
+      "venue": "arXiv.org",
+      "year": 2019,
+      "referenceCount": 27,
+      "citationCount": 25,
+      "authors": [
+        {
+          "authorId": "119644186",
+          "name": "Amelia Henriksen"
+        },
+        {
+          "authorId": "32564459",
+          "name": "Rachel A. Ward"
+        }
+      ]
+    },
+    {
+      "paperId": "8d69ef173eec352ab4d781a6295bc66da77dcc22",
+      "externalIds": {
+        "ArXiv": "2603.00770",
+        "DBLP": "journals/corr/abs-2603-00770",
+        "DOI": "10.48550/arXiv.2603.00770",
+        "CorpusId": 286222418
+      },
+      "url": "https://www.semanticscholar.org/paper/8d69ef173eec352ab4d781a6295bc66da77dcc22",
+      "title": "A Unified Approach to Memory-Sample Tradeoffs for Detecting Planted Structures",
+      "venue": "arXiv.org",
+      "year": 2026,
+      "referenceCount": 0,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2367193838",
+          "name": "Sumegha Garg"
+        },
+        {
+          "authorId": "2364883127",
+          "name": "Jabari Hastings"
+        },
+        {
+          "authorId": "2308035788",
+          "name": "Chirag Pabbaraju"
+        },
+        {
+          "authorId": "2798845",
+          "name": "V. Sharan"
+        }
+      ]
+    }
+  ]
+}

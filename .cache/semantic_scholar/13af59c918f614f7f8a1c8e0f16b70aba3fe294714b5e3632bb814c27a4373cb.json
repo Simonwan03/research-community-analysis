@@ -1,0 +1,311 @@
+{
+  "total": 22495,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "222928303a72d1389b0add8032a31abccbba41b3",
+      "externalIds": {
+        "MAG": "2949743074",
+        "ArXiv": "1703.01925",
+        "DBLP": "conf/icml/KusnerPH17",
+        "CorpusId": 7648414
+      },
+      "url": "https://www.semanticscholar.org/paper/222928303a72d1389b0add8032a31abccbba41b3",
+      "title": "Grammar Variational Autoencoder",
+      "venue": "International Conference on Machine Learning",
+      "year": 2017,
+      "referenceCount": 46,
+      "citationCount": 935,
+      "authors": [
+        {
+          "authorId": "1940272",
+          "name": "Matt J. Kusner"
+        },
+        {
+          "authorId": "2885717",
+          "name": "Brooks Paige"
+        },
+        {
+          "authorId": "1388574431",
+          "name": "José Miguel Hernández-Lobato"
+        }
+      ]
+    },
+    {
+      "paperId": "f98c827387425ed4b20b55308b911cd94818cae4",
+      "externalIds": {
+        "ArXiv": "2507.15912",
+        "CorpusId": 280159770
+      },
+      "url": "https://www.semanticscholar.org/paper/f98c827387425ed4b20b55308b911cd94818cae4",
+      "title": "Efficient design of rna sequences with desired properties, structure, and motifs using a grammar variational autoencoder",
+      "venue": "",
+      "year": 2025,
+      "referenceCount": 40,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2373058147",
+          "name": "Narges Zarnaghinaghsh"
+        },
+        {
+          "authorId": "2394107243",
+          "name": "Byung-Jun Yoon"
+        }
+      ]
+    },
+    {
+      "paperId": "650c417e2db1b0547ba7e8a5468903dd0a858f34",
+      "externalIds": {
+        "DBLP": "journals/jcisd/OliveiraSQ22",
+        "DOI": "10.1021/acs.jcim.1c01573",
+        "CorpusId": 246903048,
+        "PubMed": "35174705"
+      },
+      "url": "https://www.semanticscholar.org/paper/650c417e2db1b0547ba7e8a5468903dd0a858f34",
+      "title": "Molecular Property Prediction and Molecular Design Using a Supervised Grammar Variational Autoencoder",
+      "venue": "Journal of Chemical Information and Modeling",
+      "year": 2022,
+      "referenceCount": 35,
+      "citationCount": 22,
+      "authors": [
+        {
+          "authorId": "2116941045",
+          "name": "André F. Oliveira"
+        },
+        {
+          "authorId": "2159129196",
+          "name": "Juarez L. F. Da Silva"
+        },
+        {
+          "authorId": "2106276452",
+          "name": "M. Quiles"
+        }
+      ]
+    },
+    {
+      "paperId": "c0e9306e97094dd5349453ff7a61466b69f1c0d2",
+      "externalIds": {
+        "MAG": "3095066959",
+        "DBLP": "conf/eccv/PurkaitZR20",
+        "DOI": "10.1007/978-3-030-58586-0_10",
+        "CorpusId": 221254781
+      },
+      "url": "https://www.semanticscholar.org/paper/c0e9306e97094dd5349453ff7a61466b69f1c0d2",
+      "title": "SG-VAE: Scene Grammar Variational Autoencoder to Generate New Indoor Scenes",
+      "venue": "European Conference on Computer Vision",
+      "year": 2019,
+      "referenceCount": 42,
+      "citationCount": 57,
+      "authors": [
+        {
+          "authorId": "33305173",
+          "name": "Pulak Purkait"
+        },
+        {
+          "authorId": "1713941",
+          "name": "C. Zach"
+        },
+        {
+          "authorId": "145950884",
+          "name": "I. Reid"
+        }
+      ]
+    },
+    {
+      "paperId": "208d76c5b4f91713773448758ba90900b28ae323",
+      "externalIds": {
+        "PubMedCentral": "12342829",
+        "DBLP": "journals/bioinformatics/TeraiA25",
+        "DOI": "10.1093/bioinformatics/btaf427",
+        "CorpusId": 280389933,
+        "PubMed": "40728942"
+      },
+      "url": "https://www.semanticscholar.org/paper/208d76c5b4f91713773448758ba90900b28ae323",
+      "title": "Deep generative model of RNAs based on variational autoencoder with context-free grammar",
+      "venue": "Bioinform.",
+      "year": 2025,
+      "referenceCount": 0,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "1719218",
+          "name": "G. Terai"
+        },
+        {
+          "authorId": "2343059854",
+          "name": "Kiyoshi Asai"
+        }
+      ]
+    },
+    {
+      "paperId": "7a003dcc3f5429e072b7dad04bb8ddbd456dd8b7",
+      "externalIds": {
+        "DOI": "10.30983/knowbase.v5i1.9909",
+        "CorpusId": 281449709
+      },
+      "url": "https://www.semanticscholar.org/paper/7a003dcc3f5429e072b7dad04bb8ddbd456dd8b7",
+      "title": "End-to-End Text-to-Speech for Minangkabau Pariaman Dialect Using Variational Autoencoder with Adversarial Learning (VITS)",
+      "venue": "Knowbase : International Journal of Knowledge in Database",
+      "year": 2025,
+      "referenceCount": 37,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2381537374",
+          "name": "Muhammad Dzaki Fakhrezi"
+        },
+        {
+          "authorId": "2071341066",
+          "name": "M. Fikry"
+        },
+        {
+          "authorId": "2381538617",
+          "name": "Pizaini"
+        },
+        {
+          "authorId": "82607392",
+          "name": "Suwanto Sanjaya"
+        },
+        {
+          "authorId": "2381735941",
+          "name": "Minangkabau Pariaman"
+        }
+      ]
+    },
+    {
+      "paperId": "d8de7f6901bacb1eb83173578ce9d6679273c9ff",
+      "externalIds": {
+        "MAG": "2962951611",
+        "DBLP": "conf/acl/ZhangYYSC19",
+        "ACL": "P19-1199",
+        "ArXiv": "1906.02181",
+        "DOI": "10.18653/v1/P19-1199",
+        "CorpusId": 174802532
+      },
+      "url": "https://www.semanticscholar.org/paper/d8de7f6901bacb1eb83173578ce9d6679273c9ff",
+      "title": "Syntax-Infused Variational Autoencoder for Text Generation",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2019,
+      "referenceCount": 36,
+      "citationCount": 53,
+      "authors": [
+        {
+          "authorId": "2108262807",
+          "name": "Xinyuan Zhang"
+        },
+        {
+          "authorId": "1698559",
+          "name": "Yi Yang"
+        },
+        {
+          "authorId": "2087092426",
+          "name": "Siyang Yuan"
+        },
+        {
+          "authorId": "19178763",
+          "name": "Dinghan Shen"
+        },
+        {
+          "authorId": "145006560",
+          "name": "L. Carin"
+        }
+      ]
+    },
+    {
+      "paperId": "a13ffd2fc3188f2743f6d80b8adb4284bac7dcd4",
+      "externalIds": {
+        "CorpusId": 247022579
+      },
+      "url": "https://www.semanticscholar.org/paper/a13ffd2fc3188f2743f6d80b8adb4284bac7dcd4",
+      "title": "Combining variational autoencoder representations with structural descriptors improves prediction of docking scores",
+      "venue": "",
+      "year": 2020,
+      "referenceCount": 24,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "1413229583",
+          "name": "Miguel García-Ortegón"
+        },
+        {
+          "authorId": "2267510999",
+          "name": "Andreas Bender"
+        },
+        {
+          "authorId": "2288828511",
+          "name": "Carl Rasmussen"
+        },
+        {
+          "authorId": "2288910542",
+          "name": "Hiroshi Kajino"
+        },
+        {
+          "authorId": "3228094",
+          "name": "S. Bacallado"
+        }
+      ]
+    },
+    {
+      "paperId": "34ded41898bdffca7c2e733c139b463484bc5a91",
+      "externalIds": {
+        "ArXiv": "2411.01422",
+        "DBLP": "journals/corr/abs-2411-01422",
+        "PubMedCentral": "11940521",
+        "DOI": "10.3390/biom15030405",
+        "CorpusId": 273812133,
+        "PubMed": "40149941"
+      },
+      "url": "https://www.semanticscholar.org/paper/34ded41898bdffca7c2e733c139b463484bc5a91",
+      "title": "GramSeq-DTA: A Grammar-Based Drug–Target Affinity Prediction Approach Fusing Gene Expression Information",
+      "venue": "Biomolecules",
+      "year": 2024,
+      "referenceCount": 33,
+      "citationCount": 4,
+      "authors": [
+        {
+          "authorId": "2221539151",
+          "name": "Kusal Debnath"
+        },
+        {
+          "authorId": "2380828",
+          "name": "P. Rana"
+        },
+        {
+          "authorId": "2270079043",
+          "name": "Preetam Ghosh"
+        }
+      ]
+    },
+    {
+      "paperId": "8195955c574dcfbc1476b1953946a2454e5c29cf",
+      "externalIds": {
+        "ArXiv": "2209.11748",
+        "DBLP": "journals/corr/abs-2209-11748",
+        "DOI": "10.48550/arXiv.2209.11748",
+        "CorpusId": 252519478
+      },
+      "url": "https://www.semanticscholar.org/paper/8195955c574dcfbc1476b1953946a2454e5c29cf",
+      "title": "GLSO: Grammar-guided Latent Space Optimization for Sample-efficient Robot Design Automation",
+      "venue": "Conference on Robot Learning",
+      "year": 2022,
+      "referenceCount": 49,
+      "citationCount": 26,
+      "authors": [
+        {
+          "authorId": "81703072",
+          "name": "Jiaheng Hu"
+        },
+        {
+          "authorId": "2186053967",
+          "name": "Julian Whiman"
+        },
+        {
+          "authorId": "1742948",
+          "name": "H. Choset"
+        }
+      ]
+    }
+  ]
+}

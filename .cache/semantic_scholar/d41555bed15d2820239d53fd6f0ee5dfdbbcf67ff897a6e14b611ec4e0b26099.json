@@ -1,0 +1,294 @@
+{
+  "total": 2667,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "81492e40ba5b84919a16f71174e351f47d46a04b",
+      "externalIds": {
+        "MAG": "2953096735",
+        "DBLP": "conf/iclr/BelilovskyKVB17",
+        "ArXiv": "1605.06359",
+        "CorpusId": 6790140
+      },
+      "url": "https://www.semanticscholar.org/paper/81492e40ba5b84919a16f71174e351f47d46a04b",
+      "title": "Learning to Discover Sparse Graphical Models",
+      "venue": "International Conference on Machine Learning",
+      "year": 2016,
+      "referenceCount": 39,
+      "citationCount": 33,
+      "authors": [
+        {
+          "authorId": "1829344",
+          "name": "Eugene Belilovsky"
+        },
+        {
+          "authorId": "2182706",
+          "name": "Kyle Kastner"
+        },
+        {
+          "authorId": "3025780",
+          "name": "G. Varoquaux"
+        },
+        {
+          "authorId": "1758219",
+          "name": "Matthew B. Blaschko"
+        }
+      ]
+    },
+    {
+      "paperId": "499d82c65d3dfa4e7e637d1f3a7532a4b6f44820",
+      "externalIds": {
+        "DBLP": "journals/tnn/HuangC15",
+        "MAG": "2001148753",
+        "DOI": "10.1109/TNNLS.2014.2384201",
+        "CorpusId": 2949465,
+        "PubMed": "25751876"
+      },
+      "url": "https://www.semanticscholar.org/paper/499d82c65d3dfa4e7e637d1f3a7532a4b6f44820",
+      "title": "Joint Learning of Multiple Sparse Matrix Gaussian Graphical Models",
+      "venue": "IEEE Transactions on Neural Networks and Learning Systems",
+      "year": 2015,
+      "referenceCount": 41,
+      "citationCount": 25,
+      "authors": [
+        {
+          "authorId": "3057688",
+          "name": "Feihu Huang"
+        },
+        {
+          "authorId": "48848338",
+          "name": "Songcan Chen"
+        }
+      ]
+    },
+    {
+      "paperId": "58ed8d49331872de9968a4b57e1aeb2db61cd6ec",
+      "externalIds": {
+        "ArXiv": "2308.13960",
+        "DBLP": "journals/corr/abs-2308-13960",
+        "DOI": "10.1201/9781003283980-5",
+        "CorpusId": 261244081
+      },
+      "url": "https://www.semanticscholar.org/paper/58ed8d49331872de9968a4b57e1aeb2db61cd6ec",
+      "title": "Sparse Models for Machine Learning",
+      "venue": "arXiv.org",
+      "year": 2023,
+      "referenceCount": 101,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2180373716",
+          "name": "Jia-Qi Lin"
+        }
+      ]
+    },
+    {
+      "paperId": "00b7f44857676600805172e99be6f9f2987e98eb",
+      "externalIds": {
+        "MAG": "1523985187",
+        "DOI": "10.1111/insr.12167",
+        "CorpusId": 58716623
+      },
+      "url": "https://www.semanticscholar.org/paper/00b7f44857676600805172e99be6f9f2987e98eb",
+      "title": "Statistical Learning with Sparsity: The Lasso and Generalizations",
+      "venue": "",
+      "year": 2015,
+      "referenceCount": 290,
+      "citationCount": 2393,
+      "authors": [
+        {
+          "authorId": "1784682",
+          "name": "T. Hastie"
+        },
+        {
+          "authorId": "1761784",
+          "name": "R. Tibshirani"
+        },
+        {
+          "authorId": "1721860",
+          "name": "M. Wainwright"
+        }
+      ]
+    },
+    {
+      "paperId": "559dc9e569165603cbcdf372f8860edd1324decc",
+      "externalIds": {
+        "MAG": "2059895375",
+        "DBLP": "journals/sadm/GhaouiPLDSB13",
+        "DOI": "10.1002/sam.11187",
+        "CorpusId": 9430254
+      },
+      "url": "https://www.semanticscholar.org/paper/559dc9e569165603cbcdf372f8860edd1324decc",
+      "title": "Understanding large text corpora via sparse machine learning",
+      "venue": "Statistical analysis and data mining",
+      "year": 2013,
+      "referenceCount": 62,
+      "citationCount": 24,
+      "authors": [
+        {
+          "authorId": "1701847",
+          "name": "L. Ghaoui"
+        },
+        {
+          "authorId": "145319666",
+          "name": "Vu Pham"
+        },
+        {
+          "authorId": "2108471542",
+          "name": "Guan-Cheng Li"
+        },
+        {
+          "authorId": "1840946",
+          "name": "Viet-An Duong"
+        },
+        {
+          "authorId": "1827853",
+          "name": "A. Srivastava"
+        },
+        {
+          "authorId": "2367080",
+          "name": "Kanishka Bhaduri"
+        }
+      ]
+    },
+    {
+      "paperId": "7221faefd7ff95d6d89635740079b720845c4c64",
+      "externalIds": {
+        "MAG": "2407159764",
+        "CorpusId": 63505738
+      },
+      "url": "https://www.semanticscholar.org/paper/7221faefd7ff95d6d89635740079b720845c4c64",
+      "title": "Sparse Machine Learning Methods for Understanding Large Text Corpora.",
+      "venue": "",
+      "year": 2011,
+      "referenceCount": 47,
+      "citationCount": 25,
+      "authors": [
+        {
+          "authorId": "1701847",
+          "name": "L. Ghaoui"
+        },
+        {
+          "authorId": "2108471542",
+          "name": "Guan-Cheng Li"
+        },
+        {
+          "authorId": "1840946",
+          "name": "Viet-An Duong"
+        },
+        {
+          "authorId": "145319666",
+          "name": "Vu Pham"
+        },
+        {
+          "authorId": "1827853",
+          "name": "A. Srivastava"
+        },
+        {
+          "authorId": "2367080",
+          "name": "Kanishka Bhaduri"
+        }
+      ]
+    },
+    {
+      "paperId": "dc4aa0a12f6e62660a8761ab163ca5a139b59b39",
+      "externalIds": {
+        "DBLP": "journals/nn/Manomaisaowapak22",
+        "ArXiv": "2105.07196",
+        "DOI": "10.1016/j.neunet.2022.02.005",
+        "CorpusId": 235185444,
+        "PubMed": "35240427"
+      },
+      "url": "https://www.semanticscholar.org/paper/dc4aa0a12f6e62660a8761ab163ca5a139b59b39",
+      "title": "Joint learning of multiple Granger causal networks via non-convex regularizations: Inference of group-level brain connectivity",
+      "venue": "Neural Networks",
+      "year": 2021,
+      "referenceCount": 70,
+      "citationCount": 6,
+      "authors": [
+        {
+          "authorId": "1659427859",
+          "name": "Parinthorn Manomaisaowapak"
+        },
+        {
+          "authorId": "2645396",
+          "name": "J. Songsiri"
+        }
+      ]
+    },
+    {
+      "paperId": "f981950a23dbc461edaf0c76413a70231cfe6b8d",
+      "externalIds": {
+        "MAG": "2307775862",
+        "CorpusId": 680476
+      },
+      "url": "https://www.semanticscholar.org/paper/f981950a23dbc461edaf0c76413a70231cfe6b8d",
+      "title": "Structure learning with large sparse undirected graphs and its applications",
+      "venue": "",
+      "year": 2007,
+      "referenceCount": 55,
+      "citationCount": 6,
+      "authors": [
+        {
+          "authorId": "2253814591",
+          "name": "Yiming Yang"
+        },
+        {
+          "authorId": "2146329150",
+          "name": "Fan Li"
+        }
+      ]
+    },
+    {
+      "paperId": "b910639e1fa2ae385e81e6a853905cc216f353be",
+      "externalIds": {
+        "MAG": "2081868318",
+        "DBLP": "conf/icvgip/NayakSC14",
+        "DOI": "10.1145/2683483.2683495",
+        "CorpusId": 18658208
+      },
+      "url": "https://www.semanticscholar.org/paper/b910639e1fa2ae385e81e6a853905cc216f353be",
+      "title": "Discovery of Sparse Contextual Relationships for Activity Recognition in Continuous Videos",
+      "venue": "Indian Conference on Computer Vision, Graphics & Image Processing",
+      "year": 2014,
+      "referenceCount": 21,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2996853",
+          "name": "N. Nayak"
+        },
+        {
+          "authorId": "11012197",
+          "name": "Ramya Srinivasan"
+        },
+        {
+          "authorId": "1404727582",
+          "name": "A. Roy-Chowdhury"
+        }
+      ]
+    },
+    {
+      "paperId": "44b18d3313b1bf1dfe6d879138d699ae0f472791",
+      "externalIds": {
+        "ArXiv": "2404.19073",
+        "DBLP": "journals/tsp/Tugnait24",
+        "DOI": "10.1109/TSP.2024.3395897",
+        "CorpusId": 269456926
+      },
+      "url": "https://www.semanticscholar.org/paper/44b18d3313b1bf1dfe6d879138d699ae0f472791",
+      "title": "Learning Sparse High-Dimensional Matrix-Valued Graphical Models From Dependent Data",
+      "venue": "IEEE Transactions on Signal Processing",
+      "year": 2024,
+      "referenceCount": 56,
+      "citationCount": 4,
+      "authors": [
+        {
+          "authorId": "145938380",
+          "name": "Jitendra Tugnait"
+        }
+      ]
+    }
+  ]
+}

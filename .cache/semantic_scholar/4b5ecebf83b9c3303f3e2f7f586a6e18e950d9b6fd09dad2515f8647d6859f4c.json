@@ -1,0 +1,57 @@
+{
+  "total": 2,
+  "offset": 0,
+  "data": [
+    {
+      "paperId": "9814237a908bf435e02f6a6207f0643c5f03c99b",
+      "externalIds": {
+        "MAG": "2963235474",
+        "DBLP": "conf/icml/Scarlett18",
+        "ArXiv": "1805.11792",
+        "CorpusId": 44121645
+      },
+      "url": "https://www.semanticscholar.org/paper/9814237a908bf435e02f6a6207f0643c5f03c99b",
+      "title": "Tight Regret Bounds for Bayesian Optimization in One Dimension",
+      "venue": "International Conference on Machine Learning",
+      "year": 2018,
+      "referenceCount": 25,
+      "citationCount": 34,
+      "authors": [
+        {
+          "authorId": "1784491",
+          "name": "J. Scarlett"
+        }
+      ]
+    },
+    {
+      "paperId": "56636c74c85d1295673b40fffc6e1e9a7fceb3e2",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2001-09327",
+        "ArXiv": "2001.09327",
+        "MAG": "3002762179",
+        "DOI": "10.1109/tsp.2022.3144939",
+        "CorpusId": 210920393
+      },
+      "url": "https://www.semanticscholar.org/paper/56636c74c85d1295673b40fffc6e1e9a7fceb3e2",
+      "title": "Tight Regret Bounds for Noisy Optimization of a Brownian Motion",
+      "venue": "IEEE Transactions on Signal Processing",
+      "year": 2020,
+      "referenceCount": 30,
+      "citationCount": 7,
+      "authors": [
+        {
+          "authorId": "2144695972",
+          "name": "Zexin Wang"
+        },
+        {
+          "authorId": "1717080",
+          "name": "V. Tan"
+        },
+        {
+          "authorId": "1784491",
+          "name": "J. Scarlett"
+        }
+      ]
+    }
+  ]
+}

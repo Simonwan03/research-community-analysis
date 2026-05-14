@@ -1,0 +1,342 @@
+{
+  "total": 1929,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "332cda0e5892670e16c967eee5a7715fb3b45d36",
+      "externalIds": {
+        "ArXiv": "1602.02514",
+        "MAG": "2963757043",
+        "DBLP": "conf/icml/NewlingF16",
+        "CorpusId": 5639518
+      },
+      "url": "https://www.semanticscholar.org/paper/332cda0e5892670e16c967eee5a7715fb3b45d36",
+      "title": "Fast k-means with accurate bounds",
+      "venue": "International Conference on Machine Learning",
+      "year": 2016,
+      "referenceCount": 19,
+      "citationCount": 69,
+      "authors": [
+        {
+          "authorId": "3348613",
+          "name": "J. Newling"
+        },
+        {
+          "authorId": "2721983",
+          "name": "F. Fleuret"
+        }
+      ]
+    },
+    {
+      "paperId": "b229f68a52336ccca4a347252be83fe973579973",
+      "externalIds": {
+        "DBLP": "conf/pkdd/AgustssonTG17",
+        "MAG": "2963264219",
+        "DOI": "10.1007/978-3-319-71246-8_47",
+        "CorpusId": 36282386
+      },
+      "url": "https://www.semanticscholar.org/paper/b229f68a52336ccca4a347252be83fe973579973",
+      "title": "k^2 k 2 -means for Fast and Accurate Large Scale Clustering",
+      "venue": "ECML/PKDD",
+      "year": 2017,
+      "referenceCount": 26,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "2794259",
+          "name": "E. Agustsson"
+        },
+        {
+          "authorId": "1732855",
+          "name": "R. Timofte"
+        },
+        {
+          "authorId": "1681236",
+          "name": "L. Gool"
+        }
+      ]
+    },
+    {
+      "paperId": "515b0c116ee6a3f5ec2c3df5f72c5c9a2622b7d7",
+      "externalIds": {
+        "MAG": "2951645329",
+        "DBLP": "journals/corr/AgustssonTG16",
+        "ArXiv": "1605.09299",
+        "CorpusId": 13891690
+      },
+      "url": "https://www.semanticscholar.org/paper/515b0c116ee6a3f5ec2c3df5f72c5c9a2622b7d7",
+      "title": "K2-means for Fast and Accurate Large Scale Clustering",
+      "venue": "arXiv.org",
+      "year": 2016,
+      "referenceCount": 31,
+      "citationCount": 4,
+      "authors": [
+        {
+          "authorId": "2794259",
+          "name": "E. Agustsson"
+        },
+        {
+          "authorId": "1732855",
+          "name": "R. Timofte"
+        },
+        {
+          "authorId": "1681236",
+          "name": "L. Gool"
+        }
+      ]
+    },
+    {
+      "paperId": "aa35713a0107e5a961b57173fe64cb7d01ceeeec",
+      "externalIds": {
+        "MAG": "2768077165",
+        "ArXiv": "1711.02794",
+        "DOI": "10.1103/PhysRevE.96.052803",
+        "CorpusId": 206257627,
+        "PubMed": "29347728"
+      },
+      "url": "https://www.semanticscholar.org/paper/aa35713a0107e5a961b57173fe64cb7d01ceeeec",
+      "title": "Extracting the equation of state of lattice gases from random sequential adsorption simulations by means of the Gibbs adsorption isotherm.",
+      "venue": "Physical Review E",
+      "year": 2017,
+      "referenceCount": 67,
+      "citationCount": 35,
+      "authors": [
+        {
+          "authorId": "16156618",
+          "name": "S. Darjani"
+        },
+        {
+          "authorId": "2427712",
+          "name": "J. Koplik"
+        },
+        {
+          "authorId": "15668125",
+          "name": "V. Pauchard"
+        }
+      ]
+    },
+    {
+      "paperId": "a1a15f153fa421b85ad3e838becd3938f4f3b6cb",
+      "externalIds": {
+        "ArXiv": "2511.08993",
+        "CorpusId": 282940573
+      },
+      "url": "https://www.semanticscholar.org/paper/a1a15f153fa421b85ad3e838becd3938f4f3b6cb",
+      "title": "Fast $k$-means clustering in Riemannian manifolds via Fr\\'{e}chet maps: Applications to large-dimensional SPD matrices",
+      "venue": "",
+      "year": 2025,
+      "referenceCount": 0,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2289402503",
+          "name": "Ji Shi"
+        },
+        {
+          "authorId": "2391962703",
+          "name": "Nicolas Charon"
+        },
+        {
+          "authorId": "2326049435",
+          "name": "Andreas Mang"
+        },
+        {
+          "authorId": "2260695317",
+          "name": "Demetrio Labate"
+        },
+        {
+          "authorId": "2237998649",
+          "name": "R. Azencott"
+        }
+      ]
+    },
+    {
+      "paperId": "eefc825605d32ec26865f7fd5959d4f02190c43b",
+      "externalIds": {
+        "DBLP": "journals/pami/XiaPMZWGWC22",
+        "CorpusId": 245125495
+      },
+      "url": "https://www.semanticscholar.org/paper/eefc825605d32ec26865f7fd5959d4f02190c43b",
+      "title": "Ball $k$k-Means: Fast Adaptive Clustering With No Bounds",
+      "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+      "year": 2022,
+      "referenceCount": 0,
+      "citationCount": 116,
+      "authors": [
+        {
+          "authorId": "2644835",
+          "name": "Shuyin Xia"
+        },
+        {
+          "authorId": "1668120782",
+          "name": "Daowan Peng"
+        },
+        {
+          "authorId": "2056697049",
+          "name": "Deyu Meng"
+        },
+        {
+          "authorId": "2115693633",
+          "name": "Changqing Zhang"
+        },
+        {
+          "authorId": "2107926840",
+          "name": "Guoyin Wang"
+        },
+        {
+          "authorId": "1404324798",
+          "name": "Elisabeth Giem"
+        },
+        {
+          "authorId": "2149191807",
+          "name": "Wei Wei"
+        },
+        {
+          "authorId": "2117097570",
+          "name": "Zizhong Chen"
+        }
+      ]
+    },
+    {
+      "paperId": "352c3dd1796f5d6f3360fc683ad71b7cca8f647b",
+      "externalIds": {
+        "DBLP": "journals/symmetry/Orbe-TrujilloNP22",
+        "DOI": "10.3390/sym14030532",
+        "CorpusId": 247312162
+      },
+      "url": "https://www.semanticscholar.org/paper/352c3dd1796f5d6f3360fc683ad71b7cca8f647b",
+      "title": "Fast Treetops Counting Using Mathematical Image Symmetry, Segmentation, and Fast k-Means Classification Algorithms",
+      "venue": "Symmetry",
+      "year": 2022,
+      "referenceCount": 62,
+      "citationCount": 5,
+      "authors": [
+        {
+          "authorId": "2158082535",
+          "name": "Eduardo Orbe-Trujillo"
+        },
+        {
+          "authorId": "14858358",
+          "name": "C. Novillo"
+        },
+        {
+          "authorId": "2158076651",
+          "name": "M. Pérez-Ramírez"
+        },
+        {
+          "authorId": "1404646032",
+          "name": "J. L. Vázquez-Ávila"
+        },
+        {
+          "authorId": "1412613720",
+          "name": "A. Pérez-Ramírez"
+        }
+      ]
+    },
+    {
+      "paperId": "a72a34ec764aad7a6b160b7f675498efd3f95e4c",
+      "externalIds": {
+        "DBLP": "conf/iseeie/PengCFXW21",
+        "DOI": "10.1145/3459104.3459194",
+        "CorpusId": 236145544
+      },
+      "url": "https://www.semanticscholar.org/paper/a72a34ec764aad7a6b160b7f675498efd3f95e4c",
+      "title": "Fast k-means Clustering Based on the Neighbor Information",
+      "venue": "International Symposium on Electrical, Electronics and Information Engineering",
+      "year": 2021,
+      "referenceCount": 26,
+      "citationCount": 17,
+      "authors": [
+        {
+          "authorId": "1668120782",
+          "name": "Daowan Peng"
+        },
+        {
+          "authorId": "2117097570",
+          "name": "Zizhong Chen"
+        },
+        {
+          "authorId": "50763557",
+          "name": "Jingcheng Fu"
+        },
+        {
+          "authorId": "2644835",
+          "name": "Shuyin Xia"
+        },
+        {
+          "authorId": "2058044214",
+          "name": "Qing Wen"
+        }
+      ]
+    },
+    {
+      "paperId": "fbeb647e4245aebb001f9af370844831b37b16ec",
+      "externalIds": {
+        "DOI": "10.1117/12.2628453",
+        "CorpusId": 248358468
+      },
+      "url": "https://www.semanticscholar.org/paper/fbeb647e4245aebb001f9af370844831b37b16ec",
+      "title": "A fast k-means algorithm based on multi-granularity",
+      "venue": "Other Conferences",
+      "year": 2022,
+      "referenceCount": 17,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2058044274",
+          "name": "Qin Wen"
+        },
+        {
+          "authorId": "2167484847",
+          "name": "Junkuan Wang"
+        },
+        {
+          "authorId": "1798853",
+          "name": "Yabin Shao"
+        },
+        {
+          "authorId": "2117097570",
+          "name": "Zizhong Chen"
+        }
+      ]
+    },
+    {
+      "paperId": "43553d30adc53db4afc6ccf234135c9947c0f75a",
+      "externalIds": {
+        "MAG": "3103380776",
+        "ArXiv": "2012.11891",
+        "DBLP": "journals/corr/abs-2012-11891",
+        "CorpusId": 227275085
+      },
+      "url": "https://www.semanticscholar.org/paper/43553d30adc53db4afc6ccf234135c9947c0f75a",
+      "title": "Fast and Accurate $k$-means++ via Rejection Sampling",
+      "venue": "Neural Information Processing Systems",
+      "year": 2020,
+      "referenceCount": 29,
+      "citationCount": 24,
+      "authors": [
+        {
+          "authorId": "2248219819",
+          "name": "Vincent Cohen-Addad"
+        },
+        {
+          "authorId": "1895843",
+          "name": "Silvio Lattanzi"
+        },
+        {
+          "authorId": "1398893199",
+          "name": "A. Norouzi-Fard"
+        },
+        {
+          "authorId": "1701715",
+          "name": "C. Sohler"
+        },
+        {
+          "authorId": "13450499",
+          "name": "O. Svensson"
+        }
+      ]
+    }
+  ]
+}

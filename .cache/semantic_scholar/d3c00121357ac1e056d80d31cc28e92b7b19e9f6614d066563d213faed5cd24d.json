@@ -1,0 +1,266 @@
+{
+  "total": 15,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "38b35dc49efc690d1837a76e0f2f66905b8b6e79",
+      "externalIds": {
+        "DBLP": "journals/corr/HayashiMF15",
+        "ArXiv": "1504.05665",
+        "MAG": "1957424940",
+        "CorpusId": 13117619
+      },
+      "url": "https://www.semanticscholar.org/paper/38b35dc49efc690d1837a76e0f2f66905b8b6e79",
+      "title": "Rebuilding Factorized Information Criterion: Asymptotically Accurate Marginal Likelihood",
+      "venue": "International Conference on Machine Learning",
+      "year": 2015,
+      "referenceCount": 23,
+      "citationCount": 13,
+      "authors": [
+        {
+          "authorId": "2730698",
+          "name": "K. Hayashi"
+        },
+        {
+          "authorId": "35647224",
+          "name": "S. Maeda"
+        },
+        {
+          "authorId": "1767586",
+          "name": "R. Fujimaki"
+        }
+      ]
+    },
+    {
+      "paperId": "61ee45176028a6eb7838056118fd377d1a2b62bf",
+      "externalIds": {
+        "ArXiv": "1506.09068",
+        "MAG": "761463878",
+        "CorpusId": 88521159
+      },
+      "url": "https://www.semanticscholar.org/paper/61ee45176028a6eb7838056118fd377d1a2b62bf",
+      "title": "On the Equivalence of Factorized Information Criterion Regularization and the Chinese Restaurant Process Prior",
+      "venue": "",
+      "year": 2015,
+      "referenceCount": 3,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "48831791",
+          "name": "Shaohua Li"
+        }
+      ]
+    },
+    {
+      "paperId": "bd3292c7f5b9d8a2412d1717ec324a4202f6bf47",
+      "externalIds": {
+        "DBLP": "journals/jmlr/FujimakiM12",
+        "MAG": "2188385979",
+        "CorpusId": 964610
+      },
+      "url": "https://www.semanticscholar.org/paper/bd3292c7f5b9d8a2412d1717ec324a4202f6bf47",
+      "title": "Factorized Asymptotic Bayesian Inference for Mixture Modeling",
+      "venue": "International Conference on Artificial Intelligence and Statistics",
+      "year": 2012,
+      "referenceCount": 23,
+      "citationCount": 47,
+      "authors": [
+        {
+          "authorId": "1767586",
+          "name": "R. Fujimaki"
+        },
+        {
+          "authorId": "34854767",
+          "name": "Satoshi Morinaga"
+        }
+      ]
+    },
+    {
+      "paperId": "2eda1a0b910de3c956bd90901ef466a76c2a32cb",
+      "externalIds": {
+        "MAG": "2547902084",
+        "DOI": "10.1527/TJSAI.AI30-I",
+        "CorpusId": 4938622
+      },
+      "url": "https://www.semanticscholar.org/paper/2eda1a0b910de3c956bd90901ef466a76c2a32cb",
+      "title": "Piecewise sparse linear classification via factorized asymptotic bayesian inference",
+      "venue": "",
+      "year": 2016,
+      "referenceCount": 19,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "1767586",
+          "name": "R. Fujimaki"
+        },
+        {
+          "authorId": "144188319",
+          "name": "Y. Yamaguchi"
+        },
+        {
+          "authorId": "15625230",
+          "name": "Riki Eto"
+        }
+      ]
+    },
+    {
+      "paperId": "14dcc596655ee63cee5cb826f0fec89bb299550d",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-1206-4679",
+        "MAG": "2952875007",
+        "ArXiv": "1206.4679",
+        "CorpusId": 2376674
+      },
+      "url": "https://www.semanticscholar.org/paper/14dcc596655ee63cee5cb826f0fec89bb299550d",
+      "title": "Factorized Asymptotic Bayesian Hidden Markov Models",
+      "venue": "International Conference on Machine Learning",
+      "year": 2012,
+      "referenceCount": 18,
+      "citationCount": 24,
+      "authors": [
+        {
+          "authorId": "1767586",
+          "name": "R. Fujimaki"
+        },
+        {
+          "authorId": "2730698",
+          "name": "K. Hayashi"
+        }
+      ]
+    },
+    {
+      "paperId": "584af33eab0757c6d5a177eba3e594ec542f3cd4",
+      "externalIds": {
+        "MAG": "2752173299",
+        "DBLP": "conf/nips/SongMFC17",
+        "CorpusId": 12409215
+      },
+      "url": "https://www.semanticscholar.org/paper/584af33eab0757c6d5a177eba3e594ec542f3cd4",
+      "title": "Scalable Model Selection for Belief Networks",
+      "venue": "Neural Information Processing Systems",
+      "year": 2017,
+      "referenceCount": 37,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "2114789734",
+          "name": "Zhao Song"
+        },
+        {
+          "authorId": "3247408",
+          "name": "Yusuke Muraoka"
+        },
+        {
+          "authorId": "1767586",
+          "name": "R. Fujimaki"
+        },
+        {
+          "authorId": "145006560",
+          "name": "L. Carin"
+        }
+      ]
+    },
+    {
+      "paperId": "1a1bc20a50587b8fb1f1a1b6b2b7cbb641c8241a",
+      "externalIds": {
+        "MAG": "1984268382",
+        "DOI": "10.1214/06-BA126",
+        "CorpusId": 11018765
+      },
+      "url": "https://www.semanticscholar.org/paper/1a1bc20a50587b8fb1f1a1b6b2b7cbb641c8241a",
+      "title": "Variational Bayesian learning of directed graphical models with hidden variables",
+      "venue": "",
+      "year": 2006,
+      "referenceCount": 38,
+      "citationCount": 113,
+      "authors": [
+        {
+          "authorId": "1773821",
+          "name": "Matthew J. Beal"
+        },
+        {
+          "authorId": "1744700",
+          "name": "Zoubin Ghahramani"
+        }
+      ]
+    },
+    {
+      "paperId": "191e0597531f78b69305e66321db0e31125569eb",
+      "externalIds": {
+        "DBLP": "conf/acml/KondoMH15",
+        "MAG": "2949597871",
+        "ArXiv": "1509.01004",
+        "CorpusId": 11278854
+      },
+      "url": "https://www.semanticscholar.org/paper/191e0597531f78b69305e66321db0e31125569eb",
+      "title": "Bayesian Masking: Sparse Bayesian Estimation with Weaker Shrinkage Bias",
+      "venue": "Asian Conference on Machine Learning",
+      "year": 2015,
+      "referenceCount": 18,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "2024777058",
+          "name": "Yohei Kondo"
+        },
+        {
+          "authorId": "35647224",
+          "name": "S. Maeda"
+        },
+        {
+          "authorId": "2730698",
+          "name": "K. Hayashi"
+        }
+      ]
+    },
+    {
+      "paperId": "784d2799c6d97f85ad938d918849b30147db3f12",
+      "externalIds": {
+        "DBLP": "journals/ijon/KondoHM17",
+        "MAG": "2591693818",
+        "DOI": "10.1016/j.neucom.2016.12.080",
+        "CorpusId": 11523281
+      },
+      "url": "https://www.semanticscholar.org/paper/784d2799c6d97f85ad938d918849b30147db3f12",
+      "title": "Sparse Bayesian linear regression with latent masking variables",
+      "venue": "Neurocomputing",
+      "year": 2017,
+      "referenceCount": 24,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2024777058",
+          "name": "Yohei Kondo"
+        },
+        {
+          "authorId": "2730698",
+          "name": "K. Hayashi"
+        },
+        {
+          "authorId": "35647224",
+          "name": "S. Maeda"
+        }
+      ]
+    },
+    {
+      "paperId": "492ebc0b08f99768e2116a0ac5f8d28afc1197e1",
+      "externalIds": {
+        "MAG": "2103606110",
+        "CorpusId": 123118670
+      },
+      "url": "https://www.semanticscholar.org/paper/492ebc0b08f99768e2116a0ac5f8d28afc1197e1",
+      "title": "Algebraic methods for evaluating integrals In Bayesian statistics",
+      "venue": "",
+      "year": 2011,
+      "referenceCount": 73,
+      "citationCount": 22,
+      "authors": [
+        {
+          "authorId": "1782732",
+          "name": "Shaowei Lin"
+        }
+      ]
+    }
+  ]
+}

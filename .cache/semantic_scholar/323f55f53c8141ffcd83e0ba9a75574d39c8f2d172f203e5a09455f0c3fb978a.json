@@ -1,0 +1,79 @@
+{
+  "total": 2,
+  "offset": 0,
+  "data": [
+    {
+      "paperId": "306a2e8ca31fdcc148618d37074785c290f96375",
+      "externalIds": {
+        "ArXiv": "1712.05055",
+        "MAG": "2963081269",
+        "DBLP": "conf/icml/JiangZLLF18",
+        "CorpusId": 51876228
+      },
+      "url": "https://www.semanticscholar.org/paper/306a2e8ca31fdcc148618d37074785c290f96375",
+      "title": "MentorNet: Learning Data-Driven Curriculum for Very Deep Neural Networks on Corrupted Labels",
+      "venue": "International Conference on Machine Learning",
+      "year": 2017,
+      "referenceCount": 66,
+      "citationCount": 1644,
+      "authors": [
+        {
+          "authorId": "39978626",
+          "name": "Lu Jiang"
+        },
+        {
+          "authorId": "47230320",
+          "name": "Zhengyuan Zhou"
+        },
+        {
+          "authorId": "152456068",
+          "name": "Thomas Leung"
+        },
+        {
+          "authorId": "2040091191",
+          "name": "Li-Jia Li"
+        },
+        {
+          "authorId": "48004138",
+          "name": "Li Fei-Fei"
+        }
+      ]
+    },
+    {
+      "paperId": "651e0593e76f6b536dae32337b4b9067d09f0796",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-1712-05055",
+        "MAG": "2775306753",
+        "CorpusId": 195346648
+      },
+      "url": "https://www.semanticscholar.org/paper/651e0593e76f6b536dae32337b4b9067d09f0796",
+      "title": "MentorNet: Regularizing Very Deep Neural Networks on Corrupted Labels",
+      "venue": "arXiv.org",
+      "year": 2017,
+      "referenceCount": 46,
+      "citationCount": 83,
+      "authors": [
+        {
+          "authorId": "39978626",
+          "name": "Lu Jiang"
+        },
+        {
+          "authorId": "47230320",
+          "name": "Zhengyuan Zhou"
+        },
+        {
+          "authorId": "152456068",
+          "name": "Thomas Leung"
+        },
+        {
+          "authorId": "2040091191",
+          "name": "Li-Jia Li"
+        },
+        {
+          "authorId": "48004138",
+          "name": "Li Fei-Fei"
+        }
+      ]
+    }
+  ]
+}

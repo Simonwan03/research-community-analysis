@@ -1,0 +1,304 @@
+{
+  "total": 18639,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "a463e504827e93172076b41105abaaad1315b875",
+      "externalIds": {
+        "MAG": "2741563630",
+        "DBLP": "conf/icml/WrigleyLY17",
+        "CorpusId": 7355419
+      },
+      "url": "https://www.semanticscholar.org/paper/a463e504827e93172076b41105abaaad1315b875",
+      "title": "Tensor Belief Propagation",
+      "venue": "International Conference on Machine Learning",
+      "year": 2017,
+      "referenceCount": 22,
+      "citationCount": 12,
+      "authors": [
+        {
+          "authorId": "144088248",
+          "name": "A. Wrigley"
+        },
+        {
+          "authorId": "1740222",
+          "name": "Wee Sun Lee"
+        },
+        {
+          "authorId": "50699003",
+          "name": "N. Ye"
+        }
+      ]
+    },
+    {
+      "paperId": "48bd6b9da5dfa267b4b45e3e789dc99ed1ffd3da",
+      "externalIds": {
+        "DBLP": "conf/icassp/WijningsSVC20",
+        "MAG": "3016171058",
+        "DOI": "10.1109/ICASSP40776.2020.9054354",
+        "CorpusId": 216514116
+      },
+      "url": "https://www.semanticscholar.org/paper/48bd6b9da5dfa267b4b45e3e789dc99ed1ffd3da",
+      "title": "Approximate Inference by Kullback-Leibler Tensor Belief Propagation",
+      "venue": "IEEE International Conference on Acoustics, Speech, and Signal Processing",
+      "year": 2020,
+      "referenceCount": 28,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "104538794",
+          "name": "Patrick W. A. Wijnings"
+        },
+        {
+          "authorId": "115679894",
+          "name": "S. Stuijk"
+        },
+        {
+          "authorId": "3327108",
+          "name": "B. Vries"
+        },
+        {
+          "authorId": "1684335",
+          "name": "H. Corporaal"
+        }
+      ]
+    },
+    {
+      "paperId": "9104044c0afe06e8df8eb627309ae2d737c0f1ef",
+      "externalIds": {
+        "ArXiv": "2504.07344",
+        "DOI": "10.1103/7jzt-xhn6",
+        "CorpusId": 277667725
+      },
+      "url": "https://www.semanticscholar.org/paper/9104044c0afe06e8df8eb627309ae2d737c0f1ef",
+      "title": "Simulating quantum dynamics in two-dimensional lattices with tensor network influence functional belief propagation",
+      "venue": "Physical review B",
+      "year": 2025,
+      "referenceCount": 102,
+      "citationCount": 23,
+      "authors": [
+        {
+          "authorId": "2281612605",
+          "name": "Gunhee Park"
+        },
+        {
+          "authorId": "2300379754",
+          "name": "J. Gray"
+        },
+        {
+          "authorId": "2251914376",
+          "name": "Garnet Kin-Lic Chan"
+        }
+      ]
+    },
+    {
+      "paperId": "94b3e017eeb75bdb04c92b9bd373aabff691d9ba",
+      "externalIds": {
+        "ArXiv": "2510.02290",
+        "CorpusId": 281724111
+      },
+      "url": "https://www.semanticscholar.org/paper/94b3e017eeb75bdb04c92b9bd373aabff691d9ba",
+      "title": "Beyond Belief Propagation: Cluster-Corrected Tensor Network Contraction with Exponential Convergence",
+      "venue": "",
+      "year": 2025,
+      "referenceCount": 88,
+      "citationCount": 8,
+      "authors": [
+        {
+          "authorId": "2217725587",
+          "name": "Siddhant Midha"
+        },
+        {
+          "authorId": "2266006530",
+          "name": "Yifan Zhang"
+        }
+      ]
+    },
+    {
+      "paperId": "d00c38ba1694d84ad973d47913731076e4c1bfc0",
+      "externalIds": {
+        "DBLP": "journals/tccn/LiangLWNI25",
+        "DOI": "10.1109/TCCN.2024.3487999",
+        "CorpusId": 273745998
+      },
+      "url": "https://www.semanticscholar.org/paper/d00c38ba1694d84ad973d47913731076e4c1bfc0",
+      "title": "Low-Complexity Neural Belief Propagation Decoding Algorithm Based on Tensor Ring Decomposition",
+      "venue": "IEEE Transactions on Cognitive Communications and Networking",
+      "year": 2025,
+      "referenceCount": 37,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2117874169",
+          "name": "Yuanhui Liang"
+        },
+        {
+          "authorId": "2200536423",
+          "name": "C. Lam"
+        },
+        {
+          "authorId": "2152862571",
+          "name": "Qingle Wu"
+        },
+        {
+          "authorId": "7494161",
+          "name": "B. Ng"
+        },
+        {
+          "authorId": "2244005787",
+          "name": "Sio-Kei Im"
+        }
+      ]
+    },
+    {
+      "paperId": "67b72197790ed71971c8c91b4e2185ec6b82dd34",
+      "externalIds": {
+        "ArXiv": "2409.12240",
+        "CorpusId": 272753582
+      },
+      "url": "https://www.semanticscholar.org/paper/67b72197790ed71971c8c91b4e2185ec6b82dd34",
+      "title": "Large-scale quantum annealing simulation with tensor networks and belief propagation",
+      "venue": "",
+      "year": 2024,
+      "referenceCount": 115,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "30659486",
+          "name": "I. Luchnikov"
+        },
+        {
+          "authorId": "2298611701",
+          "name": "Egor Tiunov"
+        },
+        {
+          "authorId": "2253863887",
+          "name": "Tobias Haug"
+        },
+        {
+          "authorId": "2298611380",
+          "name": "Leandro Aolita"
+        }
+      ]
+    },
+    {
+      "paperId": "93054b6863c49df95c1c6727f97c764485a71b71",
+      "externalIds": {
+        "ArXiv": "2306.17837",
+        "DOI": "10.21468/scipostphys.15.6.222",
+        "CorpusId": 259309198
+      },
+      "url": "https://www.semanticscholar.org/paper/93054b6863c49df95c1c6727f97c764485a71b71",
+      "title": "Gauging tensor networks with belief propagation",
+      "venue": "SciPost Physics",
+      "year": 2023,
+      "referenceCount": 198,
+      "citationCount": 62,
+      "authors": [
+        {
+          "authorId": "90110242",
+          "name": "J. Tindall"
+        },
+        {
+          "authorId": "32432006",
+          "name": "M. Fishman"
+        }
+      ]
+    },
+    {
+      "paperId": "11c7c97b2deb1eb20593c2ed725b1754c1e20848",
+      "externalIds": {
+        "ArXiv": "2301.05844",
+        "DOI": "10.1103/PhysRevB.108.125111",
+        "CorpusId": 255941772
+      },
+      "url": "https://www.semanticscholar.org/paper/11c7c97b2deb1eb20593c2ed725b1754c1e20848",
+      "title": "Block belief propagation algorithm for two-dimensional tensor networks",
+      "venue": "Physical review B",
+      "year": 2023,
+      "referenceCount": 35,
+      "citationCount": 18,
+      "authors": [
+        {
+          "authorId": "26685135",
+          "name": "Chu Guo"
+        },
+        {
+          "authorId": "2805927",
+          "name": "D. Poletti"
+        },
+        {
+          "authorId": "2124289",
+          "name": "I. Arad"
+        }
+      ]
+    },
+    {
+      "paperId": "c20441426493348ef8d83154483781041b8f566f",
+      "externalIds": {
+        "ArXiv": "2604.03228",
+        "CorpusId": 287122063
+      },
+      "url": "https://www.semanticscholar.org/paper/c20441426493348ef8d83154483781041b8f566f",
+      "title": "Belief Propagation and Tensor Network Expansions for Many-Body Quantum Systems: Rigorous Results and Fundamental Limits",
+      "venue": "",
+      "year": 2026,
+      "referenceCount": 75,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "2217725587",
+          "name": "Siddhant Midha"
+        },
+        {
+          "authorId": "25762908",
+          "name": "G. M. Sommers"
+        },
+        {
+          "authorId": "2266238418",
+          "name": "Joseph Tindall"
+        },
+        {
+          "authorId": "2286280572",
+          "name": "D. Abanin"
+        }
+      ]
+    },
+    {
+      "paperId": "537b3d003554ae071611e3cff57078a21336b5e9",
+      "externalIds": {
+        "ArXiv": "2604.15427",
+        "CorpusId": 287607301
+      },
+      "url": "https://www.semanticscholar.org/paper/537b3d003554ae071611e3cff57078a21336b5e9",
+      "title": "Tensor Networks with Belief Propagation Cannot Feasibly Simulate Google's Quantum Echoes Experiment",
+      "venue": "",
+      "year": 2026,
+      "referenceCount": 57,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "7555744",
+          "name": "Pablo Bermejo"
+        },
+        {
+          "authorId": "102831039",
+          "name": "B. Villalonga"
+        },
+        {
+          "authorId": "2290910965",
+          "name": "B. Ware"
+        },
+        {
+          "authorId": "2064976753",
+          "name": "G. Vidal"
+        },
+        {
+          "authorId": "2278425426",
+          "name": "A. Szasz"
+        }
+      ]
+    }
+  ]
+}

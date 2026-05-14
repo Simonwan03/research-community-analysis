@@ -1,0 +1,317 @@
+{
+  "total": 61,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "cc8725a200fa07a1887be68c5c8e686490e07e6f",
+      "externalIds": {
+        "MAG": "2803204571",
+        "DBLP": "conf/icml/LiuCWO18",
+        "ArXiv": "1806.00720",
+        "CorpusId": 46929193
+      },
+      "url": "https://www.semanticscholar.org/paper/cc8725a200fa07a1887be68c5c8e686490e07e6f",
+      "title": "Generalized Robust Bayesian Committee Machine for Large-scale Gaussian Process Regression",
+      "venue": "International Conference on Machine Learning",
+      "year": 2018,
+      "referenceCount": 38,
+      "citationCount": 96,
+      "authors": [
+        {
+          "authorId": "2115552258",
+          "name": "Haitao Liu"
+        },
+        {
+          "authorId": "1688642",
+          "name": "Jianfei Cai"
+        },
+        {
+          "authorId": "47904247",
+          "name": "Yi Wang"
+        },
+        {
+          "authorId": "144848119",
+          "name": "Y. Ong"
+        }
+      ]
+    },
+    {
+      "paperId": "904b57afb2437a293af84d5b3ac7e6c13e781a2f",
+      "externalIds": {
+        "MAG": "2944038280",
+        "DBLP": "conf/sdm/HeQR19",
+        "DOI": "10.1137/1.9781611975673.24",
+        "CorpusId": 164986595
+      },
+      "url": "https://www.semanticscholar.org/paper/904b57afb2437a293af84d5b3ac7e6c13e781a2f",
+      "title": "Query-Aware Bayesian Committee Machine for Scalable Gaussian Process Regression",
+      "venue": "SDM",
+      "year": 2019,
+      "referenceCount": 0,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "150147667",
+          "name": "Jiayuan He"
+        },
+        {
+          "authorId": "39899794",
+          "name": "Jianzhong Qi"
+        },
+        {
+          "authorId": "1720142",
+          "name": "K. Ramamohanarao"
+        }
+      ]
+    },
+    {
+      "paperId": "9043209f5501b73fa99ea22c524c229604201e08",
+      "externalIds": {
+        "DBLP": "journals/jossw/HuangXXC26",
+        "ArXiv": "2503.02259",
+        "DOI": "10.48550/arXiv.2503.02259",
+        "CorpusId": 276773993
+      },
+      "url": "https://www.semanticscholar.org/paper/9043209f5501b73fa99ea22c524c229604201e08",
+      "title": "HiGP: A high-performance Python package for Gaussian Process",
+      "venue": "Journal of Open Source Software",
+      "year": 2025,
+      "referenceCount": 32,
+      "citationCount": 6,
+      "authors": [
+        {
+          "authorId": "2146052976",
+          "name": "Hua Huang"
+        },
+        {
+          "authorId": "108476905",
+          "name": "Tian-Liang Xu"
+        },
+        {
+          "authorId": "2327336301",
+          "name": "Yuanzhe Xi"
+        },
+        {
+          "authorId": "2302763077",
+          "name": "Edmond Chow"
+        }
+      ]
+    },
+    {
+      "paperId": "111f739f500f38a796e5fea2c5e764f94be8eb83",
+      "externalIds": {
+        "ArXiv": "2402.06256",
+        "DOI": "10.1039/d4cp01801j",
+        "CorpusId": 267616942,
+        "PubMed": "39113586"
+      },
+      "url": "https://www.semanticscholar.org/paper/111f739f500f38a796e5fea2c5e764f94be8eb83",
+      "title": "Active sparse Bayesian committee machine potential for isothermal-isobaric molecular dynamics simulations.",
+      "venue": "Physical Chemistry, Chemical Physics - PCCP",
+      "year": 2024,
+      "referenceCount": 2,
+      "citationCount": 4,
+      "authors": [
+        {
+          "authorId": "3548840",
+          "name": "S. Y. Willow"
+        },
+        {
+          "authorId": "2276326982",
+          "name": "Dong Geon Kim"
+        },
+        {
+          "authorId": "2299152161",
+          "name": "R. Sundheep"
+        },
+        {
+          "authorId": "19212873",
+          "name": "Amir Hajibabaei"
+        },
+        {
+          "authorId": "2144603037",
+          "name": "Kwang S. Kim"
+        },
+        {
+          "authorId": "2283766752",
+          "name": "Chang Woo Myung"
+        }
+      ]
+    },
+    {
+      "paperId": "8538e33f26403d8a65d39f691f8ccbeb9fc8d42c",
+      "externalIds": {
+        "ArXiv": "1811.01179",
+        "DBLP": "journals/tnn/LiuOC21",
+        "MAG": "3015630033",
+        "DOI": "10.1109/TNNLS.2020.2979188",
+        "CorpusId": 53219084,
+        "PubMed": "32275610"
+      },
+      "url": "https://www.semanticscholar.org/paper/8538e33f26403d8a65d39f691f8ccbeb9fc8d42c",
+      "title": "Large-Scale Heteroscedastic Regression via Gaussian Process",
+      "venue": "IEEE Transactions on Neural Networks and Learning Systems",
+      "year": 2018,
+      "referenceCount": 80,
+      "citationCount": 31,
+      "authors": [
+        {
+          "authorId": "2115552258",
+          "name": "Haitao Liu"
+        },
+        {
+          "authorId": "144848119",
+          "name": "Y. Ong"
+        },
+        {
+          "authorId": "1688642",
+          "name": "Jianfei Cai"
+        }
+      ]
+    },
+    {
+      "paperId": "1efe5e7a5078b445cda94efac10fb9a392073443",
+      "externalIds": {
+        "MAG": "1537611227",
+        "DBLP": "conf/sdm/ChoudhuryNK02",
+        "DOI": "10.1137/1.9781611972726.6",
+        "CorpusId": 10329900
+      },
+      "url": "https://www.semanticscholar.org/paper/1efe5e7a5078b445cda94efac10fb9a392073443",
+      "title": "A Data Parallel Approach for Large-Scale Gaussian Process Modeling",
+      "venue": "SDM",
+      "year": 2002,
+      "referenceCount": 25,
+      "citationCount": 40,
+      "authors": [
+        {
+          "authorId": "35322901",
+          "name": "Arindam Choudhury"
+        },
+        {
+          "authorId": "144475330",
+          "name": "P. Nair"
+        },
+        {
+          "authorId": "2100381",
+          "name": "A. Keane"
+        }
+      ]
+    },
+    {
+      "paperId": "a13884a76325b2e3c2a5d25ff9e1509639dabd1a",
+      "externalIds": {
+        "MAG": "2058515461",
+        "DBLP": "conf/kdd/Tresp00",
+        "DOI": "10.1145/347090.347118",
+        "CorpusId": 14079868
+      },
+      "url": "https://www.semanticscholar.org/paper/a13884a76325b2e3c2a5d25ff9e1509639dabd1a",
+      "title": "The generalized Bayesian committee machine",
+      "venue": "Knowledge Discovery and Data Mining",
+      "year": 2000,
+      "referenceCount": 30,
+      "citationCount": 26,
+      "authors": [
+        {
+          "authorId": "1700754",
+          "name": "Volker Tresp"
+        }
+      ]
+    },
+    {
+      "paperId": "a0e95b4d479a7b461398b8307fc4b8e06c07eb79",
+      "externalIds": {
+        "DBLP": "journals/tii/QuanYLSZW24",
+        "DOI": "10.1109/TII.2023.3321332",
+        "CorpusId": 264048276
+      },
+      "url": "https://www.semanticscholar.org/paper/a0e95b4d479a7b461398b8307fc4b8e06c07eb79",
+      "title": "From Regression to Classification: Fuzzy Multikernel Subspace Learning for Robust Prediction and Drug Screening",
+      "venue": "IEEE Transactions on Industrial Informatics",
+      "year": 2024,
+      "referenceCount": 38,
+      "citationCount": 7,
+      "authors": [
+        {
+          "authorId": "2159007598",
+          "name": "Tianhong Quan"
+        },
+        {
+          "authorId": "2254275059",
+          "name": "Ye Yuan"
+        },
+        {
+          "authorId": "2164845189",
+          "name": "Yu Luo"
+        },
+        {
+          "authorId": "2240284230",
+          "name": "Youyi Song"
+        },
+        {
+          "authorId": "2114113425",
+          "name": "Teng Zhou"
+        },
+        {
+          "authorId": "2143074035",
+          "name": "Jiaqi Wang"
+        }
+      ]
+    },
+    {
+      "paperId": "8ee72a611941ab1c38d968be2ef844f8f5e65486",
+      "externalIds": {
+        "ArXiv": "2505.21133",
+        "DBLP": "journals/corr/abs-2505-21133",
+        "DOI": "10.48550/arXiv.2505.21133",
+        "CorpusId": 278911333
+      },
+      "url": "https://www.semanticscholar.org/paper/8ee72a611941ab1c38d968be2ef844f8f5e65486",
+      "title": "Robust and Computation-Aware Gaussian Processes",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "referenceCount": 51,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2115360174",
+          "name": "M. Sinaga"
+        },
+        {
+          "authorId": "2302803897",
+          "name": "Julien Martinelli"
+        },
+        {
+          "authorId": "2250901027",
+          "name": "Samuel Kaski"
+        }
+      ]
+    },
+    {
+      "paperId": "9e9ed5b08218f24ca6e11afaf9a1dce823eba163",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2302-03294",
+        "DOI": "10.48550/arXiv.2302.03294",
+        "CorpusId": 256627276
+      },
+      "url": "https://www.semanticscholar.org/paper/9e9ed5b08218f24ca6e11afaf9a1dce823eba163",
+      "title": "Scalable Gaussian process regression enables accurate prediction of protein and small molecule properties with uncertainty quantitation",
+      "venue": "arXiv.org",
+      "year": 2023,
+      "referenceCount": 84,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "2069052400",
+          "name": "J. Parkinson"
+        },
+        {
+          "authorId": "47825073",
+          "name": "Wen Wang"
+        }
+      ]
+    }
+  ]
+}

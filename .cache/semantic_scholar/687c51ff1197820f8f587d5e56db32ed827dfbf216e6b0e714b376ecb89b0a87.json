@@ -1,0 +1,334 @@
+{
+  "total": 57,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "5b38018738aec8e5e12e2e24d34e0bfe2baf5eb9",
+      "externalIds": {
+        "MAG": "1876041327",
+        "DBLP": "conf/icml/WenKA15",
+        "ArXiv": "1406.7443",
+        "CorpusId": 5312016
+      },
+      "url": "https://www.semanticscholar.org/paper/5b38018738aec8e5e12e2e24d34e0bfe2baf5eb9",
+      "title": "Efficient Learning in Large-Scale Combinatorial Semi-Bandits",
+      "venue": "International Conference on Machine Learning",
+      "year": 2014,
+      "referenceCount": 33,
+      "citationCount": 105,
+      "authors": [
+        {
+          "authorId": "39761651",
+          "name": "Zheng Wen"
+        },
+        {
+          "authorId": "1681967",
+          "name": "B. Kveton"
+        },
+        {
+          "authorId": "1715458",
+          "name": "Azin Ashkan"
+        }
+      ]
+    },
+    {
+      "paperId": "383077b5640d2da0f996b9c9881f07910c0acb4e",
+      "externalIds": {
+        "CorpusId": 265101212
+      },
+      "url": "https://www.semanticscholar.org/paper/383077b5640d2da0f996b9c9881f07910c0acb4e",
+      "title": "Efficient Learning in Large-Scale Combinatorial Semi-Bandits",
+      "venue": "",
+      "year": 2015,
+      "referenceCount": 0,
+      "citationCount": 53,
+      "authors": []
+    },
+    {
+      "paperId": "1f12567a3fc4203e3615570da06c11c50cce08ea",
+      "externalIds": {
+        "MAG": "2398061816",
+        "ArXiv": "1605.06593",
+        "DBLP": "journals/corr/WenKV16",
+        "CorpusId": 5356637
+      },
+      "url": "https://www.semanticscholar.org/paper/1f12567a3fc4203e3615570da06c11c50cce08ea",
+      "title": "Influence Maximization with Semi-Bandit Feedback",
+      "venue": "arXiv.org",
+      "year": 2016,
+      "referenceCount": 27,
+      "citationCount": 18,
+      "authors": [
+        {
+          "authorId": "39761651",
+          "name": "Zheng Wen"
+        },
+        {
+          "authorId": "1681967",
+          "name": "B. Kveton"
+        },
+        {
+          "authorId": "1806291",
+          "name": "Michal Valko"
+        }
+      ]
+    },
+    {
+      "paperId": "78f246ce3167849a4e852cb5637b75e245963024",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2508-18768",
+        "ArXiv": "2508.18768",
+        "DOI": "10.48550/arXiv.2508.18768",
+        "CorpusId": 280870392
+      },
+      "url": "https://www.semanticscholar.org/paper/78f246ce3167849a4e852cb5637b75e245963024",
+      "title": "Efficient Best-of-Both-Worlds Algorithms for Contextual Combinatorial Semi-Bandits",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "referenceCount": 42,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2266459236",
+          "name": "Mengmeng Li"
+        },
+        {
+          "authorId": "2377307517",
+          "name": "Philipp J. Schneider"
+        },
+        {
+          "authorId": "2377311253",
+          "name": "Jelisaveta Aleksi'c"
+        },
+        {
+          "authorId": "2266387016",
+          "name": "Daniel Kuhn"
+        }
+      ]
+    },
+    {
+      "paperId": "7fea97947532e9300e0d1a62908c45478ae2540b",
+      "externalIds": {
+        "DBLP": "conf/kdd/HarshaSASBRG025",
+        "DOI": "10.1145/3711896.3737086",
+        "CorpusId": 280477002
+      },
+      "url": "https://www.semanticscholar.org/paper/7fea97947532e9300e0d1a62908c45478ae2540b",
+      "title": "Practical Contextual Bandits for Large-Scale Structured Discrete Constrained Optimization Problems",
+      "venue": "Knowledge Discovery and Data Mining",
+      "year": 2025,
+      "referenceCount": 39,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2320469271",
+          "name": "Pavithra Harsha"
+        },
+        {
+          "authorId": "144315538",
+          "name": "C. Subramanian"
+        },
+        {
+          "authorId": "2181335316",
+          "name": "Naoki Abe"
+        },
+        {
+          "authorId": "2260387235",
+          "name": "Shivaram Subramanian"
+        },
+        {
+          "authorId": "2319830614",
+          "name": "Amadou Ba"
+        },
+        {
+          "authorId": "2387922375",
+          "name": "Kevin Arturo Fernández Román"
+        },
+        {
+          "authorId": "2387925113",
+          "name": "Mauricio Longinos Garrido"
+        },
+        {
+          "authorId": "2226460052",
+          "name": "Chandra Narayanaswami"
+        }
+      ]
+    },
+    {
+      "paperId": "43f1807bf1ba1f088be5229e4d35dfd83cb22323",
+      "externalIds": {
+        "ArXiv": "2511.22104",
+        "DBLP": "journals/corr/abs-2511-22104",
+        "DOI": "10.48550/arXiv.2511.22104",
+        "CorpusId": 283438149
+      },
+      "url": "https://www.semanticscholar.org/paper/43f1807bf1ba1f088be5229e4d35dfd83cb22323",
+      "title": "Representative Action Selection for Large Action Space: From Bandits to MDPs",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "referenceCount": 38,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2363505563",
+          "name": "Q. Zhou"
+        },
+        {
+          "authorId": "49185899",
+          "name": "Shie Mannor"
+        }
+      ]
+    },
+    {
+      "paperId": "a3f550d415313eee87764fcc5c44b94cc82313c4",
+      "externalIds": {
+        "MAG": "2604900582",
+        "DBLP": "conf/aaai/WangOWCAC17",
+        "DOI": "10.1609/aaai.v31i1.10939",
+        "CorpusId": 27745625
+      },
+      "url": "https://www.semanticscholar.org/paper/a3f550d415313eee87764fcc5c44b94cc82313c4",
+      "title": "Efficient Ordered Combinatorial Semi-Bandits for Whole-Page Recommendation",
+      "venue": "AAAI Conference on Artificial Intelligence",
+      "year": 2017,
+      "referenceCount": 33,
+      "citationCount": 31,
+      "authors": [
+        {
+          "authorId": "2395580993",
+          "name": "Yingfei Wang"
+        },
+        {
+          "authorId": "2228609325",
+          "name": "Ouyang Hua"
+        },
+        {
+          "authorId": "2144556060",
+          "name": "Chu Wang"
+        },
+        {
+          "authorId": "2108513551",
+          "name": "Jianhui Chen"
+        },
+        {
+          "authorId": "3147544",
+          "name": "T. Asamov"
+        },
+        {
+          "authorId": "145882798",
+          "name": "Yi Chang"
+        }
+      ]
+    },
+    {
+      "paperId": "2733304fa5c60acbe6126b53fac6f757c8d6266a",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2602-02087",
+        "ArXiv": "2602.02087",
+        "DOI": "10.48550/arXiv.2602.02087",
+        "CorpusId": 285269321
+      },
+      "url": "https://www.semanticscholar.org/paper/2733304fa5c60acbe6126b53fac6f757c8d6266a",
+      "title": "Efficient Swap Regret Minimization in Combinatorial Bandits",
+      "venue": "arXiv.org",
+      "year": 2026,
+      "referenceCount": 39,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "1398972518",
+          "name": "A. Kontogiannis"
+        },
+        {
+          "authorId": "1994724877",
+          "name": "Vasilis Pollatos"
+        },
+        {
+          "authorId": "1844925",
+          "name": "P. Mertikopoulos"
+        },
+        {
+          "authorId": "2319131044",
+          "name": "Ioannis Panageas"
+        }
+      ]
+    },
+    {
+      "paperId": "ce87bee93cc1acf88390b71671cc20ad113a83fe",
+      "externalIds": {
+        "MAG": "2275211641",
+        "CorpusId": 710274
+      },
+      "url": "https://www.semanticscholar.org/paper/ce87bee93cc1acf88390b71671cc20ad113a83fe",
+      "title": "Matroid Bandits: Practical Large-Scale Combinatorial Bandits",
+      "venue": "AAAI Conference on Artificial Intelligence",
+      "year": 2014,
+      "referenceCount": 13,
+      "citationCount": 7,
+      "authors": [
+        {
+          "authorId": "1681967",
+          "name": "B. Kveton"
+        },
+        {
+          "authorId": "39761651",
+          "name": "Zheng Wen"
+        },
+        {
+          "authorId": "1715458",
+          "name": "Azin Ashkan"
+        },
+        {
+          "authorId": "2893518",
+          "name": "Hoda Eydgahi"
+        }
+      ]
+    },
+    {
+      "paperId": "1b69e1da6e32789d2541f581cd8baf385bad3679",
+      "externalIds": {
+        "ArXiv": "2509.10493",
+        "DBLP": "journals/corr/abs-2509-10493",
+        "DOI": "10.48550/arXiv.2509.10493",
+        "CorpusId": 281315991
+      },
+      "url": "https://www.semanticscholar.org/paper/1b69e1da6e32789d2541f581cd8baf385bad3679",
+      "title": "Online Learning Based Efficient Resource Allocation for LoRaWAN Network",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "referenceCount": 49,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2341650566",
+          "name": "Ruiqi Wang"
+        },
+        {
+          "authorId": "2365435612",
+          "name": "Wenjun Li"
+        },
+        {
+          "authorId": "2256589802",
+          "name": "Jing Ren"
+        },
+        {
+          "authorId": "1515235097",
+          "name": "Tongyu Song"
+        },
+        {
+          "authorId": "48630713",
+          "name": "Xiong Wang"
+        },
+        {
+          "authorId": "2255485466",
+          "name": "Sheng Wang"
+        },
+        {
+          "authorId": "145311464",
+          "name": "Shizhong Xu"
+        }
+      ]
+    }
+  ]
+}

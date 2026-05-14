@@ -1,0 +1,300 @@
+{
+  "total": 106,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "e61ca3bf0331722c05478b61eb4b7ab3a86854b1",
+      "externalIds": {
+        "MAG": "2963773084",
+        "ArXiv": "1605.02711",
+        "DBLP": "journals/corr/LiZALH16",
+        "CorpusId": 5007028
+      },
+      "url": "https://www.semanticscholar.org/paper/e61ca3bf0331722c05478b61eb4b7ab3a86854b1",
+      "title": "Stochastic Variance Reduced Optimization for Nonconvex Sparse Learning",
+      "venue": "International Conference on Machine Learning",
+      "year": 2016,
+      "referenceCount": 41,
+      "citationCount": 71,
+      "authors": [
+        {
+          "authorId": "50078946",
+          "name": "Xingguo Li"
+        },
+        {
+          "authorId": "36345161",
+          "name": "T. Zhao"
+        },
+        {
+          "authorId": "144365054",
+          "name": "R. Arora"
+        },
+        {
+          "authorId": "49957601",
+          "name": "Han Liu"
+        },
+        {
+          "authorId": "1777756",
+          "name": "Jarvis D. Haupt"
+        }
+      ]
+    },
+    {
+      "paperId": "a4edc4aa0bf3eb9d1d0e9aec8d248d088a96af73",
+      "externalIds": {
+        "MAG": "2554489331",
+        "CorpusId": 5533498
+      },
+      "url": "https://www.semanticscholar.org/paper/a4edc4aa0bf3eb9d1d0e9aec8d248d088a96af73",
+      "title": "Nonconvex Sparse Learning via Stochastic Optimization with Progressive Variance Reduction",
+      "venue": "",
+      "year": 2016,
+      "referenceCount": 43,
+      "citationCount": 41,
+      "authors": [
+        {
+          "authorId": "50078946",
+          "name": "Xingguo Li"
+        },
+        {
+          "authorId": "144365054",
+          "name": "R. Arora"
+        },
+        {
+          "authorId": null,
+          "name": "Han Liu"
+        },
+        {
+          "authorId": "1777756",
+          "name": "Jarvis D. Haupt"
+        },
+        {
+          "authorId": "2118667820",
+          "name": "Tuo Zhao"
+        }
+      ]
+    },
+    {
+      "paperId": "8d12f79f3d28865d8014f3d19b710e6f1b6c7e73",
+      "externalIds": {
+        "ArXiv": "2305.06848",
+        "DBLP": "journals/corr/abs-2305-06848",
+        "DOI": "10.48550/arXiv.2305.06848",
+        "CorpusId": 258615329
+      },
+      "url": "https://www.semanticscholar.org/paper/8d12f79f3d28865d8014f3d19b710e6f1b6c7e73",
+      "title": "Stochastic Variance-Reduced Majorization-Minimization Algorithms",
+      "venue": "SIAM Journal on Mathematics of Data Science",
+      "year": 2023,
+      "referenceCount": 55,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "31858425",
+          "name": "D. Phan"
+        },
+        {
+          "authorId": "3367824",
+          "name": "Sedi Bartz"
+        },
+        {
+          "authorId": "2180491",
+          "name": "Nilabja Guha"
+        },
+        {
+          "authorId": "144568097",
+          "name": "Hung M. Phan"
+        }
+      ]
+    },
+    {
+      "paperId": "97cd814c3c72bd1147f3045fc44725d09b6bf065",
+      "externalIds": {
+        "DBLP": "conf/icassp/JiangZZS25",
+        "DOI": "10.1109/ICASSP49660.2025.10889086",
+        "CorpusId": 282761737
+      },
+      "url": "https://www.semanticscholar.org/paper/97cd814c3c72bd1147f3045fc44725d09b6bf065",
+      "title": "Single-Loop Variance-Reduced Stochastic Algorithm for Nonconvex-Concave Minimax Optimization",
+      "venue": "IEEE International Conference on Acoustics, Speech, and Signal Processing",
+      "year": 2025,
+      "referenceCount": 22,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2339770694",
+          "name": "Xia Jiang"
+        },
+        {
+          "authorId": "9058099",
+          "name": "Lingling Zhu"
+        },
+        {
+          "authorId": "1914739659",
+          "name": "Taoli Zheng"
+        },
+        {
+          "authorId": "2328413991",
+          "name": "Anthony Man-Cho So"
+        }
+      ]
+    },
+    {
+      "paperId": "4044d00959f4ee850f734319823fbe261675a507",
+      "externalIds": {
+        "DBLP": "conf/acssc/PradhanR22",
+        "DOI": "10.1109/IEEECONF56349.2022.10052008",
+        "CorpusId": 257408389
+      },
+      "url": "https://www.semanticscholar.org/paper/4044d00959f4ee850f734319823fbe261675a507",
+      "title": "A Variance Reduced Nonconvex Stochastic Optimization Framework for Online Kernel Learning",
+      "venue": "Asilomar Conference on Signals, Systems and Computers",
+      "year": 2022,
+      "referenceCount": 25,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "28982572",
+          "name": "Hrusikesha Pradhan"
+        },
+        {
+          "authorId": "2576161",
+          "name": "K. Rajawat"
+        }
+      ]
+    },
+    {
+      "paperId": "7e5c43cfe630a9845056680608d11b6c321aa0fa",
+      "externalIds": {
+        "DOI": "10.23919/CCC64809.2025.11179729",
+        "CorpusId": 282003554
+      },
+      "url": "https://www.semanticscholar.org/paper/7e5c43cfe630a9845056680608d11b6c321aa0fa",
+      "title": "Probabilistic Variance-Reduced Shuffling Gradient Descent Algorithm for Nonconvex Optimization",
+      "venue": "Cybersecurity and Cyberforensics Conference",
+      "year": 2025,
+      "referenceCount": 23,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2339770694",
+          "name": "Xia Jiang"
+        },
+        {
+          "authorId": "2292676964",
+          "name": "Xianlin Zeng"
+        },
+        {
+          "authorId": "2328413991",
+          "name": "Anthony Man-Cho So"
+        }
+      ]
+    },
+    {
+      "paperId": "080e111186809a180a4728f2160ff6f80540468f",
+      "externalIds": {
+        "ArXiv": "2602.20357",
+        "CorpusId": 286000702
+      },
+      "url": "https://www.semanticscholar.org/paper/080e111186809a180a4728f2160ff6f80540468f",
+      "title": "A variance reduced framework for (non)smooth nonconvex-nonconcave stochastic minimax problems with extended Kurdyka-Lojasiewicz property",
+      "venue": "",
+      "year": 2026,
+      "referenceCount": 34,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2115776452",
+          "name": "M. Khan"
+        },
+        {
+          "authorId": "47104078",
+          "name": "Yangyang Xu"
+        }
+      ]
+    },
+    {
+      "paperId": "313df56d0c186a60dffab8ebc96e743b287c7940",
+      "externalIds": {
+        "ArXiv": "2501.05677",
+        "CorpusId": 275458473
+      },
+      "url": "https://www.semanticscholar.org/paper/313df56d0c186a60dffab8ebc96e743b287c7940",
+      "title": "Efficient Single-Loop Stochastic Algorithms for Nonconvex-Concave Minimax Optimization",
+      "venue": "",
+      "year": 2025,
+      "referenceCount": 27,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2339770694",
+          "name": "Xia Jiang"
+        },
+        {
+          "authorId": "9058099",
+          "name": "Lingling Zhu"
+        },
+        {
+          "authorId": "1914739659",
+          "name": "Taoli Zheng"
+        },
+        {
+          "authorId": "2328413991",
+          "name": "Anthony Man-Cho So"
+        }
+      ]
+    },
+    {
+      "paperId": "feb42aa3128b5ff8489c752a51f425d5bc2249c0",
+      "externalIds": {
+        "DBLP": "journals/mlc/ShajoonnezhadN23",
+        "ArXiv": "2108.09501",
+        "DOI": "10.1007/s13042-022-01674-9",
+        "CorpusId": 252532192
+      },
+      "url": "https://www.semanticscholar.org/paper/feb42aa3128b5ff8489c752a51f425d5bc2249c0",
+      "title": "A stochastic variance-reduced coordinate descent algorithm for learning sparse Bayesian network from discrete high-dimensional data",
+      "venue": "International Journal of Machine Learning and Cybernetics",
+      "year": 2021,
+      "referenceCount": 56,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "2124123832",
+          "name": "Nazanin Shajoonnezhad"
+        },
+        {
+          "authorId": "2335568117",
+          "name": "Amin Nikanjam"
+        }
+      ]
+    },
+    {
+      "paperId": "1838e8099e6dcf466a93b85692ebaedf98f4b835",
+      "externalIds": {
+        "DBLP": "journals/jota/XuX23",
+        "MAG": "3031629468",
+        "ArXiv": "2006.00425",
+        "DOI": "10.1007/s10957-022-02132-w",
+        "CorpusId": 219176789
+      },
+      "url": "https://www.semanticscholar.org/paper/1838e8099e6dcf466a93b85692ebaedf98f4b835",
+      "title": "Momentum-Based Variance-Reduced Proximal Stochastic Gradient Method for Composite Nonconvex Stochastic Optimization",
+      "venue": "Journal of Optimization Theory and Applications",
+      "year": 2020,
+      "referenceCount": 48,
+      "citationCount": 34,
+      "authors": [
+        {
+          "authorId": "47104078",
+          "name": "Yangyang Xu"
+        },
+        {
+          "authorId": "2131185530",
+          "name": "Yibo Xu"
+        }
+      ]
+    }
+  ]
+}

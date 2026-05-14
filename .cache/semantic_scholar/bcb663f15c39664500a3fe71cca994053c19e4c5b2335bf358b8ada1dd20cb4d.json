@@ -1,0 +1,289 @@
+{
+  "total": 3499,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "c88bd97a4378f22add13b4c1556cd3878eeab5c0",
+      "externalIds": {
+        "DBLP": "conf/icml/Sheffet17",
+        "MAG": "2941590500",
+        "ArXiv": "1507.02482",
+        "DOI": "10.29012/jpc.654",
+        "CorpusId": 5554582
+      },
+      "url": "https://www.semanticscholar.org/paper/c88bd97a4378f22add13b4c1556cd3878eeab5c0",
+      "title": "Differentially Private Ordinary Least Squares",
+      "venue": "International Conference on Machine Learning",
+      "year": 2015,
+      "referenceCount": 49,
+      "citationCount": 128,
+      "authors": [
+        {
+          "authorId": "2311910",
+          "name": "Or Sheffet"
+        }
+      ]
+    },
+    {
+      "paperId": "b6d3b6b5b436f14971696566964feadd139a8843",
+      "externalIds": {
+        "CorpusId": 265096110
+      },
+      "url": "https://www.semanticscholar.org/paper/b6d3b6b5b436f14971696566964feadd139a8843",
+      "title": "Differentially Private Ordinary Least Squares",
+      "venue": "",
+      "year": 2017,
+      "referenceCount": 0,
+      "citationCount": 0,
+      "authors": []
+    },
+    {
+      "paperId": "45f6db8d8a1a71f502c731e3ecb5656636b61655",
+      "externalIds": {
+        "MAG": "1707109743",
+        "CorpusId": 120234025
+      },
+      "url": "https://www.semanticscholar.org/paper/45f6db8d8a1a71f502c731e3ecb5656636b61655",
+      "title": "Differentially Private Ordinary Least Squares: $t$-Values, Confidence Intervals and Rejecting Null-Hypotheses",
+      "venue": "",
+      "year": 2015,
+      "referenceCount": 0,
+      "citationCount": 7,
+      "authors": [
+        {
+          "authorId": "2311910",
+          "name": "Or Sheffet"
+        }
+      ]
+    },
+    {
+      "paperId": "fb94d120b4bd23096be71e44862ec81c1a61900e",
+      "externalIds": {
+        "DBLP": "conf/colt/0003HHKLOPS24",
+        "ArXiv": "2404.15409",
+        "DOI": "10.48550/arXiv.2404.15409",
+        "CorpusId": 269330065
+      },
+      "url": "https://www.semanticscholar.org/paper/fb94d120b4bd23096be71e44862ec81c1a61900e",
+      "title": "Insufficient Statistics Perturbation: Stable Estimators for Private Least Squares",
+      "venue": "Annual Conference Computational Learning Theory",
+      "year": 2024,
+      "referenceCount": 56,
+      "citationCount": 8,
+      "authors": [
+        {
+          "authorId": "2287560760",
+          "name": "Gavin Brown"
+        },
+        {
+          "authorId": "1388744547",
+          "name": "J. Hayase"
+        },
+        {
+          "authorId": "2608285",
+          "name": "Samuel B. Hopkins"
+        },
+        {
+          "authorId": "2287941830",
+          "name": "Weihao Kong"
+        },
+        {
+          "authorId": "2110649962",
+          "name": "Xiyang Liu"
+        },
+        {
+          "authorId": "2121944100",
+          "name": "Sewoong Oh"
+        },
+        {
+          "authorId": "2376335813",
+          "name": "Juan C. Perdomo"
+        },
+        {
+          "authorId": "2257378430",
+          "name": "Adam D. Smith"
+        }
+      ]
+    },
+    {
+      "paperId": "179748742565aaf0b69129cf1abc505d8709107e",
+      "externalIds": {
+        "ArXiv": "2508.05212",
+        "DBLP": "journals/corr/abs-2508-05212",
+        "DOI": "10.48550/arXiv.2508.05212",
+        "CorpusId": 280546080
+      },
+      "url": "https://www.semanticscholar.org/paper/179748742565aaf0b69129cf1abc505d8709107e",
+      "title": "High-Dimensional Differentially Private Quantile Regression: Distributed Estimation and Statistical Inference",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "referenceCount": 62,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2301791877",
+          "name": "Ziliang Shen"
+        },
+        {
+          "authorId": "2301172317",
+          "name": "Caixing Wang"
+        },
+        {
+          "authorId": "2286454608",
+          "name": "Shaoli Wang"
+        },
+        {
+          "authorId": "2152642995",
+          "name": "Yibo Yan"
+        }
+      ]
+    },
+    {
+      "paperId": "9a19a6bc6c9a28b147721ff5c6518578cfd5c52d",
+      "externalIds": {
+        "ArXiv": "2508.18037",
+        "DBLP": "journals/corr/abs-2508-18037",
+        "DOI": "10.48550/arXiv.2508.18037",
+        "CorpusId": 280711347
+      },
+      "url": "https://www.semanticscholar.org/paper/9a19a6bc6c9a28b147721ff5c6518578cfd5c52d",
+      "title": "Enhancing Differentially Private Linear Regression via Public Second-Moment",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "referenceCount": 30,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2238125053",
+          "name": "Zilong Cao"
+        },
+        {
+          "authorId": "2339222721",
+          "name": "Hai Zhang"
+        }
+      ]
+    },
+    {
+      "paperId": "05cfe249e88a0b486e636330ca9d056b227a6a2f",
+      "externalIds": {
+        "MAG": "2193702500",
+        "DBLP": "journals/corr/Sheffet15a",
+        "CorpusId": 17637242
+      },
+      "url": "https://www.semanticscholar.org/paper/05cfe249e88a0b486e636330ca9d056b227a6a2f",
+      "title": "Differentially Private Least Squares: Estimation, Confidence and Rejecting the Null Hypothesis",
+      "venue": "arXiv.org",
+      "year": 2015,
+      "referenceCount": 44,
+      "citationCount": 10,
+      "authors": [
+        {
+          "authorId": "2311910",
+          "name": "Or Sheffet"
+        }
+      ]
+    },
+    {
+      "paperId": "ef4e174cccbc63dfa2a03fec5b8fedf5ed99def2",
+      "externalIds": {
+        "ArXiv": "2604.11820",
+        "CorpusId": 287436089
+      },
+      "url": "https://www.semanticscholar.org/paper/ef4e174cccbc63dfa2a03fec5b8fedf5ed99def2",
+      "title": "Refined Differentially Private Linear Regression via Extension of a Free Lunch Result",
+      "venue": "",
+      "year": 2026,
+      "referenceCount": 20,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2367609117",
+          "name": "S. Harini"
+        },
+        {
+          "authorId": "2349483831",
+          "name": "Anshoo Tandon"
+        }
+      ]
+    },
+    {
+      "paperId": "3e80d492e909d1bed8fd02270f9addc86ab29f48",
+      "externalIds": {
+        "ArXiv": "2402.13531",
+        "DBLP": "conf/icml/0003DELST24",
+        "DOI": "10.48550/arXiv.2402.13531",
+        "CorpusId": 267770024
+      },
+      "url": "https://www.semanticscholar.org/paper/3e80d492e909d1bed8fd02270f9addc86ab29f48",
+      "title": "Private Gradient Descent for Linear Regression: Tighter Error Bounds and Instance-Specific Uncertainty Estimation",
+      "venue": "International Conference on Machine Learning",
+      "year": 2024,
+      "referenceCount": 46,
+      "citationCount": 11,
+      "authors": [
+        {
+          "authorId": "2287560760",
+          "name": "Gavin Brown"
+        },
+        {
+          "authorId": "1729912",
+          "name": "K. Dvijotham"
+        },
+        {
+          "authorId": "1749207361",
+          "name": "Georgina Evans"
+        },
+        {
+          "authorId": "2284926614",
+          "name": "Daogao Liu"
+        },
+        {
+          "authorId": "2257378430",
+          "name": "Adam D. Smith"
+        },
+        {
+          "authorId": "2623159",
+          "name": "Abhradeep Thakurta"
+        }
+      ]
+    },
+    {
+      "paperId": "29395af6c596206525ad5bcb15b165cdbe40b334",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2601-07545",
+        "ArXiv": "2601.07545",
+        "DOI": "10.48550/arXiv.2601.07545",
+        "CorpusId": 284648123
+      },
+      "url": "https://www.semanticscholar.org/paper/29395af6c596206525ad5bcb15b165cdbe40b334",
+      "title": "Near-Optimal Private Linear Regression via Iterative Hessian Mixing",
+      "venue": "arXiv.org",
+      "year": 2026,
+      "referenceCount": 39,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2310698682",
+          "name": "Omri Lev"
+        },
+        {
+          "authorId": "134473843",
+          "name": "Moshe Shenfeld"
+        },
+        {
+          "authorId": "31464979",
+          "name": "Vishwak Srinivasan"
+        },
+        {
+          "authorId": "2233090608",
+          "name": "Katrina Ligett"
+        },
+        {
+          "authorId": "2310816163",
+          "name": "Ashia C. Wilson"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,224 @@
+{
+  "total": 7,
+  "offset": 0,
+  "data": [
+    {
+      "paperId": "12fcadd19ca4652934997ac537b071a4b6b221d2",
+      "externalIds": {
+        "MAG": "2887671224",
+        "DBLP": "conf/icml/AbelJGKL18",
+        "CorpusId": 46996931
+      },
+      "url": "https://www.semanticscholar.org/paper/12fcadd19ca4652934997ac537b071a4b6b221d2",
+      "title": "Policy and Value Transfer in Lifelong Reinforcement Learning",
+      "venue": "International Conference on Machine Learning",
+      "year": 2018,
+      "referenceCount": 41,
+      "citationCount": 81,
+      "authors": [
+        {
+          "authorId": "152422014",
+          "name": "David Abel"
+        },
+        {
+          "authorId": "3387240",
+          "name": "Yuu Jinnai"
+        },
+        {
+          "authorId": "1390575736",
+          "name": "Yue (Sophie) Guo"
+        },
+        {
+          "authorId": "1765407",
+          "name": "G. Konidaris"
+        },
+        {
+          "authorId": "144885169",
+          "name": "M. Littman"
+        }
+      ]
+    },
+    {
+      "paperId": "0c193778e52b437d8c3581e1052e21e9a14eb6b6",
+      "externalIds": {
+        "MAG": "2954881914",
+        "ArXiv": "1907.00884",
+        "DBLP": "journals/corr/abs-1907-00884",
+        "CorpusId": 195766989
+      },
+      "url": "https://www.semanticscholar.org/paper/0c193778e52b437d8c3581e1052e21e9a14eb6b6",
+      "title": "On mechanisms for transfer using landmark value functions in multi-task lifelong reinforcement learning",
+      "venue": "arXiv.org",
+      "year": 2019,
+      "referenceCount": 16,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "1680574366",
+          "name": "Nicholas Denis"
+        }
+      ]
+    },
+    {
+      "paperId": "003b229489d88890674f0c6bffa41fed8df93cec",
+      "externalIds": {
+        "DBLP": "conf/iclr/FuYGD023",
+        "CorpusId": 259298527
+      },
+      "url": "https://www.semanticscholar.org/paper/003b229489d88890674f0c6bffa41fed8df93cec",
+      "title": "Performance Bounds for Model and Policy Transfer in Hidden-parameter MDPs",
+      "venue": "International Conference on Learning Representations",
+      "year": 2023,
+      "referenceCount": 29,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "81875788",
+          "name": "Haotian Fu"
+        },
+        {
+          "authorId": "2751409",
+          "name": "Jiayu Yao"
+        },
+        {
+          "authorId": "34772064",
+          "name": "Omer Gottesman"
+        },
+        {
+          "authorId": "1388372395",
+          "name": "F. Doshi-Velez"
+        },
+        {
+          "authorId": "1765407",
+          "name": "G. Konidaris"
+        }
+      ]
+    },
+    {
+      "paperId": "c7ceb19e3497294bbe57ce634f9c9aa94ed9c54e",
+      "externalIds": {
+        "DBLP": "journals/entropy/MehimehT25",
+        "PubMedCentral": "12025380",
+        "DOI": "10.3390/e27040367",
+        "CorpusId": 277484226,
+        "PubMed": "40282602"
+      },
+      "url": "https://www.semanticscholar.org/paper/c7ceb19e3497294bbe57ce634f9c9aa94ed9c54e",
+      "title": "From Task Distributions to Expected Paths Lengths Distributions: Value Function Initialization in Sparse Reward Environments for Lifelong Reinforcement Learning",
+      "venue": "Entropy",
+      "year": 2025,
+      "referenceCount": 34,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2249618490",
+          "name": "Soumia Mehimeh"
+        },
+        {
+          "authorId": "2249602883",
+          "name": "Xianglong Tang"
+        }
+      ]
+    },
+    {
+      "paperId": "c62a72bc975fdc0e465dcc28d3e8979e9441d4df",
+      "externalIds": {
+        "DBLP": "journals/tnn/XuCW25",
+        "DOI": "10.1109/TNNLS.2024.3385570",
+        "CorpusId": 269482785,
+        "PubMed": "38687668"
+      },
+      "url": "https://www.semanticscholar.org/paper/c62a72bc975fdc0e465dcc28d3e8979e9441d4df",
+      "title": "Policy Correction and State-Conditioned Action Evaluation for Few-Shot Lifelong Deep Reinforcement Learning",
+      "venue": "IEEE Transactions on Neural Networks and Learning Systems",
+      "year": 2024,
+      "referenceCount": 57,
+      "citationCount": 9,
+      "authors": [
+        {
+          "authorId": "2200077525",
+          "name": "Meng Xu"
+        },
+        {
+          "authorId": "2116057955",
+          "name": "Xinhong Chen"
+        },
+        {
+          "authorId": "2237387829",
+          "name": "Jianping Wang"
+        }
+      ]
+    },
+    {
+      "paperId": "ba408d1e603bf90c73cfbf69231355568005be8b",
+      "externalIds": {
+        "ArXiv": "2005.08006",
+        "MAG": "3024248582",
+        "DBLP": "journals/corr/abs-2005-08006",
+        "DOI": "10.1016/J.ENERGY.2021.121035",
+        "CorpusId": 218673656
+      },
+      "url": "https://www.semanticscholar.org/paper/ba408d1e603bf90c73cfbf69231355568005be8b",
+      "title": "Lifelong Control of Off-grid Microgrid with Model Based Reinforcement Learning",
+      "venue": "arXiv.org",
+      "year": 2020,
+      "referenceCount": 45,
+      "citationCount": 36,
+      "authors": [
+        {
+          "authorId": "51116364",
+          "name": "Simone Totaro"
+        },
+        {
+          "authorId": "73437592",
+          "name": "Ioannis Boukas"
+        },
+        {
+          "authorId": "143808510",
+          "name": "Anders Jonsson"
+        },
+        {
+          "authorId": "50193670",
+          "name": "Bertrand Corn'elusse"
+        }
+      ]
+    },
+    {
+      "paperId": "4145de15c870d44c6d7e9f406c41120efc8f7a60",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2409-17992",
+        "ArXiv": "2409.17992",
+        "DOI": "10.1109/IROS60139.2025.11246873",
+        "CorpusId": 272911448
+      },
+      "url": "https://www.semanticscholar.org/paper/4145de15c870d44c6d7e9f406c41120efc8f7a60",
+      "title": "LoopSR: Looping Sim-and-Real for Lifelong Policy Adaptation of Legged Robots",
+      "venue": "IEEE/RJS International Conference on Intelligent RObots and Systems",
+      "year": 2024,
+      "referenceCount": 63,
+      "citationCount": 5,
+      "authors": [
+        {
+          "authorId": "2324228540",
+          "name": "Peilin Wu"
+        },
+        {
+          "authorId": "2289944006",
+          "name": "Weiji Xie"
+        },
+        {
+          "authorId": "2323276014",
+          "name": "Jiahang Cao"
+        },
+        {
+          "authorId": "2054235888",
+          "name": "Hang Lai"
+        },
+        {
+          "authorId": "2322986526",
+          "name": "Weinan Zhang"
+        }
+      ]
+    }
+  ]
+}

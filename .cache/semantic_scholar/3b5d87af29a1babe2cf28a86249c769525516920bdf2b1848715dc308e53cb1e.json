@@ -1,0 +1,316 @@
+{
+  "total": 15,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "d7e4ecc36350d00ef9b71ca4fd6347d58e4ce55b",
+      "externalIds": {
+        "MAG": "2952425628",
+        "DBLP": "conf/icml/TaniaiM18",
+        "ArXiv": "1802.10328",
+        "CorpusId": 51883077
+      },
+      "url": "https://www.semanticscholar.org/paper/d7e4ecc36350d00ef9b71ca4fd6347d58e4ce55b",
+      "title": "Neural Inverse Rendering for General Reflectance Photometric Stereo",
+      "venue": "International Conference on Machine Learning",
+      "year": 2018,
+      "referenceCount": 46,
+      "citationCount": 114,
+      "authors": [
+        {
+          "authorId": "2274390",
+          "name": "Tatsunori Taniai"
+        },
+        {
+          "authorId": "2222390",
+          "name": "Takanori Maehara"
+        }
+      ]
+    },
+    {
+      "paperId": "6d2a2066cac2256ad6d696a46b5f121553d49170",
+      "externalIds": {
+        "DBLP": "conf/cvpr/LiZS0J23",
+        "ArXiv": "2303.15101",
+        "DOI": "10.1109/CVPR52729.2023.00810",
+        "CorpusId": 257767161
+      },
+      "url": "https://www.semanticscholar.org/paper/6d2a2066cac2256ad6d696a46b5f121553d49170",
+      "title": "DANI-Net: Uncalibrated Photometric Stereo by Differentiable Shadow Handling, Anisotropic Reflectance Modeling, and Neural Inverse Rendering",
+      "venue": "Computer Vision and Pattern Recognition",
+      "year": 2023,
+      "referenceCount": 72,
+      "citationCount": 17,
+      "authors": [
+        {
+          "authorId": "2118208418",
+          "name": "Zong-Han Li"
+        },
+        {
+          "authorId": "48809559",
+          "name": "Qian Zheng"
+        },
+        {
+          "authorId": "35580784",
+          "name": "Boxin Shi"
+        },
+        {
+          "authorId": "144563871",
+          "name": "Gang Pan"
+        },
+        {
+          "authorId": "2155408602",
+          "name": "Xudong Jiang"
+        }
+      ]
+    },
+    {
+      "paperId": "7718d74845248d46c611882b43982f10ae545a0f",
+      "externalIds": {
+        "MAG": "3112404496",
+        "DBLP": "conf/cvpr/KayaKOFG21",
+        "ArXiv": "2012.06777",
+        "DOI": "10.1109/CVPR46437.2021.00380",
+        "CorpusId": 229157312
+      },
+      "url": "https://www.semanticscholar.org/paper/7718d74845248d46c611882b43982f10ae545a0f",
+      "title": "Uncalibrated Neural Inverse Rendering for Photometric Stereo of General Surfaces",
+      "venue": "Computer Vision and Pattern Recognition",
+      "year": 2020,
+      "referenceCount": 80,
+      "citationCount": 58,
+      "authors": [
+        {
+          "authorId": "19243533",
+          "name": "Berk Kaya"
+        },
+        {
+          "authorId": "2409281",
+          "name": "Suryansh Kumar"
+        },
+        {
+          "authorId": "2111390872",
+          "name": "C. Oliveira"
+        },
+        {
+          "authorId": "143865718",
+          "name": "V. Ferrari"
+        },
+        {
+          "authorId": "1681236",
+          "name": "L. Gool"
+        }
+      ]
+    },
+    {
+      "paperId": "8d714e6192fa912f90c4ea1fd6e8b30c4a822abd",
+      "externalIds": {
+        "DBLP": "journals/jei/XuXLWL25",
+        "DOI": "10.1117/1.JEI.34.1.013001",
+        "CorpusId": 275286054
+      },
+      "url": "https://www.semanticscholar.org/paper/8d714e6192fa912f90c4ea1fd6e8b30c4a822abd",
+      "title": "Lightweight neural inverse rendering framework for uncalibrated photometric stereo",
+      "venue": "J. Electronic Imaging",
+      "year": 2025,
+      "referenceCount": 52,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2338481528",
+          "name": "Zhi Xu"
+        },
+        {
+          "authorId": "2338569800",
+          "name": "Xiyao Xie"
+        },
+        {
+          "authorId": "2340196156",
+          "name": "Junjie Lai"
+        },
+        {
+          "authorId": "2274765987",
+          "name": "Hao Wu"
+        },
+        {
+          "authorId": "2284527438",
+          "name": "Jiajia Liu"
+        }
+      ]
+    },
+    {
+      "paperId": "87653b4c81db28256f6d88e0069ba8dc123e21f8",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2207-07815",
+        "ArXiv": "2207.07815",
+        "DOI": "10.48550/arXiv.2207.07815",
+        "CorpusId": 250627138
+      },
+      "url": "https://www.semanticscholar.org/paper/87653b4c81db28256f6d88e0069ba8dc123e21f8",
+      "title": "Self-calibrating Photometric Stereo by Neural Inverse Rendering",
+      "venue": "European Conference on Computer Vision",
+      "year": 2022,
+      "referenceCount": 53,
+      "citationCount": 35,
+      "authors": [
+        {
+          "authorId": "1492111979",
+          "name": "Junxuan Li"
+        },
+        {
+          "authorId": "46382489",
+          "name": "Hongdong Li"
+        }
+      ]
+    },
+    {
+      "paperId": "7d748e8d6c1908986d7a3ed701e8c899a9a96144",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2507-23162",
+        "ArXiv": "2507.23162",
+        "DOI": "10.48550/arXiv.2507.23162",
+        "CorpusId": 280401818
+      },
+      "url": "https://www.semanticscholar.org/paper/7d748e8d6c1908986d7a3ed701e8c899a9a96144",
+      "title": "Neural Multi-View Self-Calibrated Photometric Stereo without Photometric Stereo Cues",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "referenceCount": 54,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2273643886",
+          "name": "Xu Cao"
+        },
+        {
+          "authorId": "2266601918",
+          "name": "Takafumi Taketomi"
+        }
+      ]
+    },
+    {
+      "paperId": "29bd0082214665d58c7dc8a065dbb266264922f6",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-1802-10328",
+        "MAG": "2963423134",
+        "CorpusId": 3572263
+      },
+      "url": "https://www.semanticscholar.org/paper/29bd0082214665d58c7dc8a065dbb266264922f6",
+      "title": "Neural Photometric Stereo Reconstruction for General Reflectance Surfaces",
+      "venue": "International Conference on Machine Learning",
+      "year": 2018,
+      "referenceCount": 40,
+      "citationCount": 5,
+      "authors": [
+        {
+          "authorId": "2274390",
+          "name": "Tatsunori Taniai"
+        },
+        {
+          "authorId": "2222390",
+          "name": "Takanori Maehara"
+        }
+      ]
+    },
+    {
+      "paperId": "0d6596da0c612f49760b028b6c4a12f5d69db966",
+      "externalIds": {
+        "DBLP": "conf/icnidc/GuoSM23",
+        "DOI": "10.1109/IC-NIDC59918.2023.10390784",
+        "CorpusId": 267202685
+      },
+      "url": "https://www.semanticscholar.org/paper/0d6596da0c612f49760b028b6c4a12f5d69db966",
+      "title": "Neural Brdf Plugin for Unsupervised Photometric Stereo",
+      "venue": "IEEE International Conference on Network Infrastructure and Digital Content",
+      "year": 2023,
+      "referenceCount": 22,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "2237943711",
+          "name": "Heng Guo"
+        },
+        {
+          "authorId": "2274788162",
+          "name": "Boxin Shi"
+        },
+        {
+          "authorId": "2237856736",
+          "name": "Yasuyuki Matsushita"
+        }
+      ]
+    },
+    {
+      "paperId": "b5af7987ba6bab1b95d8b9c37a0d6f2d67fd25c6",
+      "externalIds": {
+        "ArXiv": "2404.01612",
+        "DBLP": "journals/corr/abs-2404-01612",
+        "DOI": "10.1109/CVPR52733.2024.01131",
+        "CorpusId": 268856832
+      },
+      "url": "https://www.semanticscholar.org/paper/b5af7987ba6bab1b95d8b9c37a0d6f2d67fd25c6",
+      "title": "Spin-UP: Spin Light for Natural Light Uncalibrated Photometric Stereo",
+      "venue": "Computer Vision and Pattern Recognition",
+      "year": 2024,
+      "referenceCount": 37,
+      "citationCount": 6,
+      "authors": [
+        {
+          "authorId": "2118208418",
+          "name": "Zong-Han Li"
+        },
+        {
+          "authorId": "2276509280",
+          "name": "Zhan Lu"
+        },
+        {
+          "authorId": "2294678973",
+          "name": "Haojie Yan"
+        },
+        {
+          "authorId": "2276429534",
+          "name": "Boxin Shi"
+        },
+        {
+          "authorId": "2266755087",
+          "name": "Gang Pan"
+        },
+        {
+          "authorId": "2276568535",
+          "name": "Qian Zheng"
+        },
+        {
+          "authorId": "2276487520",
+          "name": "Xudong Jiang"
+        }
+      ]
+    },
+    {
+      "paperId": "117caba65cdc702c1ba265b0ec33d1d8c4d22a26",
+      "externalIds": {
+        "DBLP": "journals/pami/YuS22",
+        "ArXiv": "2102.06591",
+        "DOI": "10.1109/TPAMI.2021.3058105",
+        "CorpusId": 231863778,
+        "PubMed": "33560977"
+      },
+      "url": "https://www.semanticscholar.org/paper/117caba65cdc702c1ba265b0ec33d1d8c4d22a26",
+      "title": "Outdoor Inverse Rendering From a Single Image Using Multiview Self-Supervision",
+      "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+      "year": 2021,
+      "referenceCount": 77,
+      "citationCount": 29,
+      "authors": [
+        {
+          "authorId": "2116068604",
+          "name": "Ye Yu"
+        },
+        {
+          "authorId": "145242734",
+          "name": "W. Smith"
+        }
+      ]
+    }
+  ]
+}

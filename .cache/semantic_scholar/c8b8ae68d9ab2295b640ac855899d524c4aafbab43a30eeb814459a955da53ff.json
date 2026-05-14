@@ -1,0 +1,356 @@
+{
+  "total": 324,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "f53d572f3a0fcbd5e6f9f4381301ed86615c98ec",
+      "externalIds": {
+        "MAG": "2950145639",
+        "DBLP": "conf/icml/QiuCCS18",
+        "ArXiv": "1802.04145",
+        "CorpusId": 3541893
+      },
+      "url": "https://www.semanticscholar.org/paper/f53d572f3a0fcbd5e6f9f4381301ed86615c98ec",
+      "title": "DCFNet: Deep Neural Network with Decomposed Convolutional Filters",
+      "venue": "International Conference on Machine Learning",
+      "year": 2018,
+      "referenceCount": 36,
+      "citationCount": 72,
+      "authors": [
+        {
+          "authorId": "2077648",
+          "name": "Qiang Qiu"
+        },
+        {
+          "authorId": "1823644",
+          "name": "Xiuyuan Cheng"
+        },
+        {
+          "authorId": "120874496",
+          "name": "R. Calderbank"
+        },
+        {
+          "authorId": "1699339",
+          "name": "G. Sapiro"
+        }
+      ]
+    },
+    {
+      "paperId": "b6f00765aba62acb7c45070130ccd0c4b9cb6785",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2305-10110",
+        "ArXiv": "2305.10110",
+        "DOI": "10.48550/arXiv.2305.10110",
+        "CorpusId": 258740683,
+        "PubMed": "41805523"
+      },
+      "url": "https://www.semanticscholar.org/paper/b6f00765aba62acb7c45070130ccd0c4b9cb6785",
+      "title": "Adaptive aggregation of Monte Carlo augmented decomposed filters for efficient group-equivariant convolutional neural network",
+      "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+      "year": 2023,
+      "referenceCount": 77,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "47749006",
+          "name": "Wenzhao Zhao"
+        },
+        {
+          "authorId": "21650776",
+          "name": "B. Wichtmann"
+        },
+        {
+          "authorId": "147999808",
+          "name": "Steffen Albert"
+        },
+        {
+          "authorId": "1962378092",
+          "name": "A. Maurer"
+        },
+        {
+          "authorId": "9214342",
+          "name": "F. G. Zollner"
+        },
+        {
+          "authorId": "1973629719",
+          "name": "U. Attenberger"
+        },
+        {
+          "authorId": "1807409",
+          "name": "J. Hesser"
+        }
+      ]
+    },
+    {
+      "paperId": "9583b16c9ce05fcc69f6989570a16298df53926f",
+      "externalIds": {
+        "DBLP": "journals/mta/RaoK23",
+        "DOI": "10.1007/s11042-023-15123-4",
+        "CorpusId": 257962427
+      },
+      "url": "https://www.semanticscholar.org/paper/9583b16c9ce05fcc69f6989570a16298df53926f",
+      "title": "Explainable detection of atrial fibrillation using deep convolutional neural network with UCMFB",
+      "venue": "Multimedia tools and applications",
+      "year": 2023,
+      "referenceCount": 66,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "40648282",
+          "name": "B. M. Rao"
+        },
+        {
+          "authorId": "2161581214",
+          "name": "Aman Kumar"
+        }
+      ]
+    },
+    {
+      "paperId": "75766405a3fc1df4a2591e3b0847339bbbaccd03",
+      "externalIds": {
+        "DBLP": "conf/icassp/TarafdarMSSKNJG25",
+        "DOI": "10.1109/ICASSP49660.2025.10890832",
+        "CorpusId": 276965040
+      },
+      "url": "https://www.semanticscholar.org/paper/75766405a3fc1df4a2591e3b0847339bbbaccd03",
+      "title": "Multiresolution Encoder-Decoder Convolutional Neural Network for Magnetic Resonance Image Segmentation",
+      "venue": "IEEE International Conference on Acoustics, Speech, and Signal Processing",
+      "year": 2025,
+      "referenceCount": 25,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "150179024",
+          "name": "K. K. Tarafdar"
+        },
+        {
+          "authorId": "2392024468",
+          "name": "Aaditya Meher"
+        },
+        {
+          "authorId": "2265867593",
+          "name": "Mirat Shah"
+        },
+        {
+          "authorId": "2583304",
+          "name": "Q. Saifee"
+        },
+        {
+          "authorId": "2143517105",
+          "name": "Dushyant Kumar"
+        },
+        {
+          "authorId": "2702152",
+          "name": "Anant V. Nimkar"
+        },
+        {
+          "authorId": "2264655456",
+          "name": "Rama Jayasundar"
+        },
+        {
+          "authorId": "2262976554",
+          "name": "Vikram M. Gadre"
+        }
+      ]
+    },
+    {
+      "paperId": "b6abeab0d7699d3080cccdb8b9a4b10451a45f61",
+      "externalIds": {
+        "DBLP": "conf/ukci/BaiSLSZS22",
+        "DOI": "10.3390/math11183839",
+        "CorpusId": 261643901
+      },
+      "url": "https://www.semanticscholar.org/paper/b6abeab0d7699d3080cccdb8b9a4b10451a45f61",
+      "title": "Transport Object Detection in Street View Imagery Using Decomposed Convolutional Neural Networks",
+      "venue": "UK Workshop on Computational Intelligence",
+      "year": 2023,
+      "referenceCount": 50,
+      "citationCount": 5,
+      "authors": [
+        {
+          "authorId": "2239392454",
+          "name": "Yunpeng Bai"
+        },
+        {
+          "authorId": "144109865",
+          "name": "C. Shang"
+        },
+        {
+          "authorId": "1687893",
+          "name": "Y. Li"
+        },
+        {
+          "authorId": "2239052287",
+          "name": "Liang Shen"
+        },
+        {
+          "authorId": "39601185",
+          "name": "Shangzhu Jin"
+        },
+        {
+          "authorId": "2069019990",
+          "name": "Qiang Shen"
+        }
+      ]
+    },
+    {
+      "paperId": "a6485cad076537d4922a86f247662a5af1e3d979",
+      "externalIds": {
+        "DBLP": "journals/sncs/AnithaSTESB25",
+        "DOI": "10.1007/s42979-025-04479-z",
+        "CorpusId": 282764095
+      },
+      "url": "https://www.semanticscholar.org/paper/a6485cad076537d4922a86f247662a5af1e3d979",
+      "title": "A Novel Deep Multi-scale Convolutional Neural Network for Shockable and Non-shockable Arrhythmia Classification",
+      "venue": "SN Computer Science",
+      "year": 2025,
+      "referenceCount": 51,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2352876909",
+          "name": "P. Anitha"
+        },
+        {
+          "authorId": "2327471755",
+          "name": "R. Sethumadhavi"
+        },
+        {
+          "authorId": "2390690933",
+          "name": "Sheik Yousuf Tharvaj"
+        },
+        {
+          "authorId": "2328299999",
+          "name": "Supraja Eduru"
+        },
+        {
+          "authorId": "2313833355",
+          "name": "T. Y. Satheesha"
+        },
+        {
+          "authorId": "2390683364",
+          "name": "Ganta Bhagyalakshmi"
+        }
+      ]
+    },
+    {
+      "paperId": "3322bf6e55adf798d112c8eec0373bf9c96856cf",
+      "externalIds": {
+        "DOI": "10.4015/s1016237225500693",
+        "CorpusId": 283381335
+      },
+      "url": "https://www.semanticscholar.org/paper/3322bf6e55adf798d112c8eec0373bf9c96856cf",
+      "title": "MEDEEP CNN: MOMENTS EMBEDDING — DEEP CONVOLUTIONAL NEURAL NETWORK FOR ARRHYTHMIA CLASSIFICATION",
+      "venue": "Biomedical Engineering: Applications, Basis and Communications",
+      "year": 2025,
+      "referenceCount": 0,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2283598538",
+          "name": "Anila Soman"
+        },
+        {
+          "authorId": "2350346862",
+          "name": "R. Sarath"
+        }
+      ]
+    },
+    {
+      "paperId": "6fdfc645890f418e67dbaf9a3f50f41891b380e9",
+      "externalIds": {
+        "DBLP": "journals/sensors/YangLSX19",
+        "MAG": "2920164921",
+        "PubMedCentral": "6427555",
+        "DOI": "10.3390/s19051104",
+        "CorpusId": 73463974,
+        "PubMed": "30836716"
+      },
+      "url": "https://www.semanticscholar.org/paper/6fdfc645890f418e67dbaf9a3f50f41891b380e9",
+      "title": "A Deep Convolutional Neural Network Inspired by Auditory Perception for Underwater Acoustic Target Recognition",
+      "venue": "Italian National Conference on Sensors",
+      "year": 2019,
+      "referenceCount": 33,
+      "citationCount": 88,
+      "authors": [
+        {
+          "authorId": "2118499150",
+          "name": "Honghui Yang"
+        },
+        {
+          "authorId": "49298677",
+          "name": "Junhao Li"
+        },
+        {
+          "authorId": "2072820169",
+          "name": "Sheng Shen"
+        },
+        {
+          "authorId": "2149131936",
+          "name": "Guanghui Xu"
+        }
+      ]
+    },
+    {
+      "paperId": "5365d7ea165ff7f67d2b9871ed634133052b1522",
+      "externalIds": {
+        "DBLP": "journals/jim/RamkumarB25",
+        "DOI": "10.1007/s10845-024-02501-4",
+        "CorpusId": 273028894
+      },
+      "url": "https://www.semanticscholar.org/paper/5365d7ea165ff7f67d2b9871ed634133052b1522",
+      "title": "Deep convolutional neural network object net model based cognitive digital twin for trust in human–robot collaborative manufacturing",
+      "venue": "Journal of Intelligent Manufacturing",
+      "year": 2024,
+      "referenceCount": 33,
+      "citationCount": 4,
+      "authors": [
+        {
+          "authorId": "2300523186",
+          "name": "A. Ramkumar"
+        },
+        {
+          "authorId": "2323807730",
+          "name": "Gopinath Balasubramanian"
+        }
+      ]
+    },
+    {
+      "paperId": "aef9bcbe994a4a0ff637ad1c24c92895bbc0215c",
+      "externalIds": {
+        "DBLP": "journals/access/ChenZCLW25",
+        "DOI": "10.1109/ACCESS.2025.3545065",
+        "CorpusId": 276592999
+      },
+      "url": "https://www.semanticscholar.org/paper/aef9bcbe994a4a0ff637ad1c24c92895bbc0215c",
+      "title": "Hybrid Convolutional Neural Network-Transformer Model for End-to-End Binaural Sound Source Localization in Reverberant Environments",
+      "venue": "IEEE Access",
+      "year": 2025,
+      "referenceCount": 31,
+      "citationCount": 4,
+      "authors": [
+        {
+          "authorId": "2405734590",
+          "name": "Xinyi Chen"
+        },
+        {
+          "authorId": "2378476676",
+          "name": "Lijia Zhao"
+        },
+        {
+          "authorId": "2114354807",
+          "name": "Jie Cui"
+        },
+        {
+          "authorId": "2191528125",
+          "name": "Hua Li"
+        },
+        {
+          "authorId": "2346889607",
+          "name": "Xiaodong Wang"
+        }
+      ]
+    }
+  ]
+}

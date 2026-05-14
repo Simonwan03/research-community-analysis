@@ -1,0 +1,294 @@
+{
+  "total": 279,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "eacded78298ede0956a1a130a52572aedaaa540d",
+      "externalIds": {
+        "DBLP": "journals/corr/Jin0NKJ17",
+        "MAG": "2963092340",
+        "ArXiv": "1703.00887",
+        "CorpusId": 14198632
+      },
+      "url": "https://www.semanticscholar.org/paper/eacded78298ede0956a1a130a52572aedaaa540d",
+      "title": "How to Escape Saddle Points Efficiently",
+      "venue": "International Conference on Machine Learning",
+      "year": 2017,
+      "referenceCount": 29,
+      "citationCount": 919,
+      "authors": [
+        {
+          "authorId": "3335298",
+          "name": "Chi Jin"
+        },
+        {
+          "authorId": "144804200",
+          "name": "Rong Ge"
+        },
+        {
+          "authorId": "1751626",
+          "name": "Praneeth Netrapalli"
+        },
+        {
+          "authorId": "144695232",
+          "name": "S. Kakade"
+        },
+        {
+          "authorId": "1694621",
+          "name": "Michael I. Jordan"
+        }
+      ]
+    },
+    {
+      "paperId": "8719aaf4be280df62e1cfe2359e648e8fd6eb06a",
+      "externalIds": {
+        "ArXiv": "2005.04507",
+        "DOI": "10.1016/j.jcmds.2024.100090",
+        "CorpusId": 247762779
+      },
+      "url": "https://www.semanticscholar.org/paper/8719aaf4be280df62e1cfe2359e648e8fd6eb06a",
+      "title": "Escaping saddle points efficiently with occupation-time-adapted perturbations",
+      "venue": "Journal of Computational Mathematics and Data Science",
+      "year": 2020,
+      "referenceCount": 78,
+      "citationCount": 5,
+      "authors": [
+        {
+          "authorId": "2146369183",
+          "name": "Xin Guo"
+        },
+        {
+          "authorId": "7181694",
+          "name": "Jiequn Han"
+        },
+        {
+          "authorId": "2160540873",
+          "name": "Mahan Tajrobehkar"
+        },
+        {
+          "authorId": "102381207",
+          "name": "Wenpin Tang"
+        }
+      ]
+    },
+    {
+      "paperId": "fa7e9c210868005c5aa41cf8611fd4ff301b4fc8",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2008-07513",
+        "MAG": "3049241460",
+        "CorpusId": 221139905
+      },
+      "url": "https://www.semanticscholar.org/paper/fa7e9c210868005c5aa41cf8611fd4ff301b4fc8",
+      "title": "A Realistic Example in 2 Dimension that Gradient Descent Takes Exponential Time to Escape Saddle Points",
+      "venue": "arXiv.org",
+      "year": 2020,
+      "referenceCount": 10,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "36175286",
+          "name": "Shiliang Zuo"
+        }
+      ]
+    },
+    {
+      "paperId": "ea7f68c19f25b4ab3c1b6bd5d354e788734bde3f",
+      "externalIds": {
+        "ArXiv": "2202.03684",
+        "DBLP": "journals/jmlr/HuangCJML25",
+        "CorpusId": 246652466
+      },
+      "url": "https://www.semanticscholar.org/paper/ea7f68c19f25b4ab3c1b6bd5d354e788734bde3f",
+      "title": "Efficiently Escaping Saddle Points in Bilevel Optimization",
+      "venue": "Journal of machine learning research",
+      "year": 2022,
+      "referenceCount": 80,
+      "citationCount": 29,
+      "authors": [
+        {
+          "authorId": "14252014",
+          "name": "Minhui Huang"
+        },
+        {
+          "authorId": "2170123588",
+          "name": "Xuxing Chen"
+        },
+        {
+          "authorId": "24006255",
+          "name": "Kaiyi Ji"
+        },
+        {
+          "authorId": "51152107",
+          "name": "Shiqian Ma"
+        },
+        {
+          "authorId": "2153755469",
+          "name": "Lifeng Lai"
+        }
+      ]
+    },
+    {
+      "paperId": "f1b4389adbddab743e8ef9533fa38d8680ab8f8a",
+      "externalIds": {
+        "ArXiv": "1906.04321",
+        "MAG": "2951689921",
+        "DBLP": "journals/corr/abs-1906-04321",
+        "CorpusId": 184488275
+      },
+      "url": "https://www.semanticscholar.org/paper/f1b4389adbddab743e8ef9533fa38d8680ab8f8a",
+      "title": "Efficiently escaping saddle points on manifolds",
+      "venue": "Neural Information Processing Systems",
+      "year": 2019,
+      "referenceCount": 35,
+      "citationCount": 67,
+      "authors": [
+        {
+          "authorId": "146349807",
+          "name": "Christopher Criscitiello"
+        },
+        {
+          "authorId": "2418520",
+          "name": "Nicolas Boumal"
+        }
+      ]
+    },
+    {
+      "paperId": "0e2855851a7b3ffe5aa516ebded306127b351513",
+      "externalIds": {
+        "ArXiv": "2509.16974",
+        "CorpusId": 281421815
+      },
+      "url": "https://www.semanticscholar.org/paper/0e2855851a7b3ffe5aa516ebded306127b351513",
+      "title": "Hessian-guided Perturbed Wasserstein Gradient Flows for Escaping Saddle Points",
+      "venue": "",
+      "year": 2025,
+      "referenceCount": 35,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "50233521",
+          "name": "N. Yamamoto"
+        },
+        {
+          "authorId": "2269506134",
+          "name": "Juno Kim"
+        },
+        {
+          "authorId": "2269697258",
+          "name": "Taiji Suzuki"
+        }
+      ]
+    },
+    {
+      "paperId": "e88d55a4187de100ff37a1786008c6d70bbb2e7a",
+      "externalIds": {
+        "ArXiv": "2507.19968",
+        "DBLP": "journals/corr/abs-2507-19968",
+        "DOI": "10.48550/arXiv.2507.19968",
+        "CorpusId": 280323743
+      },
+      "url": "https://www.semanticscholar.org/paper/e88d55a4187de100ff37a1786008c6d70bbb2e7a",
+      "title": "Dimer-Enhanced Optimization: A First-Order Approach to Escaping Saddle Points in Neural Network Training",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "referenceCount": 6,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2373627021",
+          "name": "Yue Hu"
+        },
+        {
+          "authorId": "2375025091",
+          "name": "Zanxia Cao"
+        },
+        {
+          "authorId": "2373561690",
+          "name": "Yingchao Liu"
+        }
+      ]
+    },
+    {
+      "paperId": "2b3e54682d15864f78f54ef0600ae2bd98cf3c2b",
+      "externalIds": {
+        "PubMedCentral": "7201302",
+        "MAG": "3023496026",
+        "DOI": "10.3389/fnins.2020.00343",
+        "CorpusId": 216589073,
+        "PubMed": "32410937"
+      },
+      "url": "https://www.semanticscholar.org/paper/2b3e54682d15864f78f54ef0600ae2bd98cf3c2b",
+      "title": "Noise Helps Optimization Escape From Saddle Points in the Synaptic Plasticity",
+      "venue": "Frontiers in Neuroscience",
+      "year": 2020,
+      "referenceCount": 67,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "2112787212",
+          "name": "Ying Fang"
+        },
+        {
+          "authorId": "1746114",
+          "name": "Zhaofei Yu"
+        },
+        {
+          "authorId": "2157325706",
+          "name": "Feng Chen"
+        }
+      ]
+    },
+    {
+      "paperId": "8df648a2ba662b5ba4f258c15826452ba6140749",
+      "externalIds": {
+        "DOI": "10.1109/ICCE-Asia63397.2024.10773820",
+        "CorpusId": 274642745
+      },
+      "url": "https://www.semanticscholar.org/paper/8df648a2ba662b5ba4f258c15826452ba6140749",
+      "title": "Performance Analysis of the Optimization Method for Escaping Saddle Points in FEMS Energy Management",
+      "venue": "2024 IEEE International Conference on Consumer Electronics-Asia (ICCE-Asia)",
+      "year": 2024,
+      "referenceCount": 13,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2301035113",
+          "name": "Yoon-Sik Yoo"
+        },
+        {
+          "authorId": "2291991591",
+          "name": "Il-Woo Lee"
+        }
+      ]
+    },
+    {
+      "paperId": "ceffd430beabddd5cda51a6f0dd5914f5b23abe3",
+      "externalIds": {
+        "MAG": "3013970727",
+        "DBLP": "conf/esann/FangY019",
+        "CorpusId": 201630212
+      },
+      "url": "https://www.semanticscholar.org/paper/ceffd430beabddd5cda51a6f0dd5914f5b23abe3",
+      "title": "Noise helps optimization escape from saddle points in the neural dynamics",
+      "venue": "The European Symposium on Artificial Neural Networks",
+      "year": 2019,
+      "referenceCount": 12,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2112787212",
+          "name": "Ying Fang"
+        },
+        {
+          "authorId": "1746114",
+          "name": "Zhaofei Yu"
+        },
+        {
+          "authorId": "2157325706",
+          "name": "Feng Chen"
+        }
+      ]
+    }
+  ]
+}

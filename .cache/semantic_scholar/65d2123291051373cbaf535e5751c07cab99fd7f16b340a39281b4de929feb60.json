@@ -1,0 +1,1489 @@
+{
+  "offset": 0,
+  "citingPaperInfo": {
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/1503.01673, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "title": "High Dimensional Bayesian Optimisation and Bandits via Additive Models",
+    "authors": [
+      {
+        "authorId": "1887808",
+        "name": "Kirthevasan Kandasamy"
+      },
+      {
+        "authorId": "1753432",
+        "name": "J. Schneider"
+      },
+      {
+        "authorId": "1719347",
+        "name": "B. Póczos"
+      }
+    ]
+  },
+  "data": [
+    {
+      "citedPaper": {
+        "paperId": "9a674d82cd4f47477e3f1aa7b89a3d9f6e3894b8",
+        "externalIds": {
+          "MAG": "2246690291",
+          "CorpusId": 61875646
+        },
+        "url": "https://www.semanticscholar.org/paper/9a674d82cd4f47477e3f1aa7b89a3d9f6e3894b8",
+        "title": "Learning OpenCV 3: Computer Vision in C++ with the OpenCV Library",
+        "venue": "",
+        "year": 2016,
+        "referenceCount": 195,
+        "citationCount": 1057,
+        "authors": [
+          {
+            "authorId": "34576226",
+            "name": "A. Kaehler"
+          },
+          {
+            "authorId": "1720184",
+            "name": "Gary R. Bradski"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "8904ed373f87a9f908b2789da303aa14f188e164",
+        "externalIds": {
+          "MAG": "2497473102",
+          "CorpusId": 18652680
+        },
+        "url": "https://www.semanticscholar.org/paper/8904ed373f87a9f908b2789da303aa14f188e164",
+        "title": "Bayesian active learning for posterior estimation",
+        "venue": "",
+        "year": 2015,
+        "referenceCount": 29,
+        "citationCount": 56,
+        "authors": [
+          {
+            "authorId": "1887808",
+            "name": "Kirthevasan Kandasamy"
+          },
+          {
+            "authorId": "1753432",
+            "name": "J. Schneider"
+          },
+          {
+            "authorId": "1719347",
+            "name": "B. Póczos"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "789c97c0eeb2a4f5d4b472976ad4cf1cdb595b5f",
+        "externalIds": {
+          "MAG": "2291718609",
+          "ArXiv": "1505.01627",
+          "CorpusId": 88521473
+        },
+        "url": "https://www.semanticscholar.org/paper/789c97c0eeb2a4f5d4b472976ad4cf1cdb595b5f",
+        "title": "Bayesian Optimization for Synthetic Gene Design",
+        "venue": "",
+        "year": 2015,
+        "referenceCount": 19,
+        "citationCount": 83,
+        "authors": [
+          {
+            "authorId": "1409706737",
+            "name": "Javier Gonz'alez"
+          },
+          {
+            "authorId": "123446484",
+            "name": "Joseph Longworth"
+          },
+          {
+            "authorId": "143694061",
+            "name": "D. James"
+          },
+          {
+            "authorId": "145306271",
+            "name": "Neil D. Lawrence"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "902baaacad5b5e9b4fa7cd5c5b911c90f3f0e98e",
+        "externalIds": {
+          "MAG": "2159516546",
+          "DBLP": "conf/aistats/MaSGS15",
+          "CorpusId": 16025151
+        },
+        "url": "https://www.semanticscholar.org/paper/902baaacad5b5e9b4fa7cd5c5b911c90f3f0e98e",
+        "title": "Active Pointillistic Pattern Search",
+        "venue": "International Conference on Artificial Intelligence and Statistics",
+        "year": 2015,
+        "referenceCount": 20,
+        "citationCount": 15,
+        "authors": [
+          {
+            "authorId": "50032176",
+            "name": "Yifei Ma"
+          },
+          {
+            "authorId": "36326783",
+            "name": "Danica J. Sutherland"
+          },
+          {
+            "authorId": "145974030",
+            "name": "R. Garnett"
+          },
+          {
+            "authorId": "1753432",
+            "name": "J. Schneider"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "d707502c9257ad843fb9dea35664c0c98b3ea4f7",
+        "externalIds": {
+          "MAG": "2156375221",
+          "DBLP": "conf/nips/DjolongaKC13",
+          "CorpusId": 6794317
+        },
+        "url": "https://www.semanticscholar.org/paper/d707502c9257ad843fb9dea35664c0c98b3ea4f7",
+        "title": "High-Dimensional Gaussian Process Bandits",
+        "venue": "Neural Information Processing Systems",
+        "year": 2013,
+        "referenceCount": 29,
+        "citationCount": 189,
+        "authors": [
+          {
+            "authorId": "2941141",
+            "name": "J. Djolonga"
+          },
+          {
+            "authorId": "145343838",
+            "name": "Andreas Krause"
+          },
+          {
+            "authorId": "1678641",
+            "name": "V. Cevher"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "29935173af73aef20336db72d608e0ef5b0e0c16",
+        "externalIds": {
+          "DBLP": "conf/icml/BergstraYC13",
+          "MAG": "2113207845",
+          "CorpusId": 3356163
+        },
+        "url": "https://www.semanticscholar.org/paper/29935173af73aef20336db72d608e0ef5b0e0c16",
+        "title": "Making a Science of Model Search: Hyperparameter Optimization in Hundreds of Dimensions for Vision Architectures",
+        "venue": "International Conference on Machine Learning",
+        "year": 2013,
+        "referenceCount": 29,
+        "citationCount": 2518,
+        "authors": [
+          {
+            "authorId": "32837403",
+            "name": "J. Bergstra"
+          },
+          {
+            "authorId": "2292273",
+            "name": "Daniel Yamins"
+          },
+          {
+            "authorId": "2042941",
+            "name": "David D. Cox"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "28e3088bce6d07f116f48cd7c63729afeb8c184a",
+        "externalIds": {
+          "DBLP": "conf/nips/OsborneDGRRG12",
+          "MAG": "2126272934",
+          "CorpusId": 11589574
+        },
+        "url": "https://www.semanticscholar.org/paper/28e3088bce6d07f116f48cd7c63729afeb8c184a",
+        "title": "Active Learning of Model Evidence Using Bayesian Quadrature",
+        "venue": "Neural Information Processing Systems",
+        "year": 2012,
+        "referenceCount": 14,
+        "citationCount": 133,
+        "authors": [
+          {
+            "authorId": "144484861",
+            "name": "Michael A. Osborne"
+          },
+          {
+            "authorId": "1704657",
+            "name": "D. Duvenaud"
+          },
+          {
+            "authorId": "145974030",
+            "name": "R. Garnett"
+          },
+          {
+            "authorId": "3472959",
+            "name": "C. Rasmussen"
+          },
+          {
+            "authorId": "145029236",
+            "name": "S. Roberts"
+          },
+          {
+            "authorId": "1744700",
+            "name": "Zoubin Ghahramani"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "5cac07692791d5b75cc810050d5dad7070cfa926",
+        "externalIds": {
+          "MAG": "2952908320",
+          "DBLP": "conf/icml/FreitasSZ12",
+          "ArXiv": "1206.6457",
+          "CorpusId": 16212258
+        },
+        "url": "https://www.semanticscholar.org/paper/5cac07692791d5b75cc810050d5dad7070cfa926",
+        "title": "Exponential Regret Bounds for Gaussian Process Bandits with Deterministic Observations",
+        "venue": "International Conference on Machine Learning",
+        "year": 2012,
+        "referenceCount": 28,
+        "citationCount": 114,
+        "authors": [
+          {
+            "authorId": "1737568",
+            "name": "Nando de Freitas"
+          },
+          {
+            "authorId": "46234526",
+            "name": "Alex Smola"
+          },
+          {
+            "authorId": "36572609",
+            "name": "M. Zoghi"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "c416b2d027bcd82633f39f869750e0458a06f1ab",
+        "externalIds": {
+          "DBLP": "conf/icml/ChenCK12",
+          "MAG": "2145237058",
+          "ArXiv": "1206.6396",
+          "CorpusId": 6314510
+        },
+        "url": "https://www.semanticscholar.org/paper/c416b2d027bcd82633f39f869750e0458a06f1ab",
+        "title": "Joint Optimization and Variable Selection of High-dimensional Gaussian Processes",
+        "venue": "International Conference on Machine Learning",
+        "year": 2012,
+        "referenceCount": 17,
+        "citationCount": 91,
+        "authors": [
+          {
+            "authorId": null,
+            "name": "Bo Chen"
+          },
+          {
+            "authorId": "143683066",
+            "name": "R. Castro"
+          },
+          {
+            "authorId": "145343838",
+            "name": "Andreas Krause"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "2e2089ae76fe914706e6fa90081a79c8fe01611e",
+        "externalIds": {
+          "ArXiv": "1206.2944",
+          "MAG": "2950182411",
+          "DBLP": "conf/nips/SnoekLA12",
+          "CorpusId": 632197
+        },
+        "url": "https://www.semanticscholar.org/paper/2e2089ae76fe914706e6fa90081a79c8fe01611e",
+        "title": "Practical Bayesian Optimization of Machine Learning Algorithms",
+        "venue": "Neural Information Processing Systems",
+        "year": 2012,
+        "referenceCount": 28,
+        "citationCount": 9211,
+        "authors": [
+          {
+            "authorId": "144108062",
+            "name": "Jasper Snoek"
+          },
+          {
+            "authorId": "1777528",
+            "name": "H. Larochelle"
+          },
+          {
+            "authorId": "1722180",
+            "name": "Ryan P. Adams"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "e37bb83b713e3b83706dfc0ee807bb497ed3873f",
+        "externalIds": {
+          "DBLP": "journals/jmlr/MahendranWHF12",
+          "MAG": "84569508",
+          "CorpusId": 18013276
+        },
+        "url": "https://www.semanticscholar.org/paper/e37bb83b713e3b83706dfc0ee807bb497ed3873f",
+        "title": "Adaptive MCMC with Bayesian Optimization",
+        "venue": "International Conference on Artificial Intelligence and Statistics",
+        "year": 2012,
+        "referenceCount": 42,
+        "citationCount": 79,
+        "authors": [
+          {
+            "authorId": "2093514322",
+            "name": "Nimalan Mahendran"
+          },
+          {
+            "authorId": "2117966548",
+            "name": "Ziyun Wang"
+          },
+          {
+            "authorId": "1811875",
+            "name": "F. Hamze"
+          },
+          {
+            "authorId": "1737568",
+            "name": "Nando de Freitas"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "5f9ce48983b571aa69706cffc7ace33f352ac59a",
+        "externalIds": {
+          "DBLP": "journals/corr/abs-1112-4394",
+          "ArXiv": "1112.4394",
+          "MAG": "2953110594",
+          "CorpusId": 2273685
+        },
+        "url": "https://www.semanticscholar.org/paper/5f9ce48983b571aa69706cffc7ace33f352ac59a",
+        "title": "Additive Gaussian Processes",
+        "venue": "Neural Information Processing Systems",
+        "year": 2011,
+        "referenceCount": 13,
+        "citationCount": 360,
+        "authors": [
+          {
+            "authorId": "1704657",
+            "name": "D. Duvenaud"
+          },
+          {
+            "authorId": "1748758",
+            "name": "H. Nickisch"
+          },
+          {
+            "authorId": "3472959",
+            "name": "C. Rasmussen"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "03911c85305d42aa2eeb02be82ef6fb7da644dd0",
+        "externalIds": {
+          "DBLP": "conf/nips/BergstraBBK11",
+          "MAG": "2106411961",
+          "CorpusId": 11688126
+        },
+        "url": "https://www.semanticscholar.org/paper/03911c85305d42aa2eeb02be82ef6fb7da644dd0",
+        "title": "Algorithms for Hyper-Parameter Optimization",
+        "venue": "Neural Information Processing Systems",
+        "year": 2011,
+        "referenceCount": 22,
+        "citationCount": 5442,
+        "authors": [
+          {
+            "authorId": "32837403",
+            "name": "J. Bergstra"
+          },
+          {
+            "authorId": "2103302",
+            "name": "R. Bardenet"
+          },
+          {
+            "authorId": "1751762",
+            "name": "Yoshua Bengio"
+          },
+          {
+            "authorId": "143674326",
+            "name": "B. Kégl"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "72829d537f0ec8b1cc0ced2f278bb56ce89f1b0c",
+        "externalIds": {
+          "MAG": "2154071538",
+          "ArXiv": "1109.3737",
+          "DBLP": "journals/corr/abs-1109-3737",
+          "DOI": "10.1162/NECO_a_00312",
+          "CorpusId": 6661488,
+          "PubMed": "22509964"
+        },
+        "url": "https://www.semanticscholar.org/paper/72829d537f0ec8b1cc0ced2f278bb56ce89f1b0c",
+        "title": "Learning Where to Attend with Deep Architectures for Image Tracking",
+        "venue": "Neural Computation",
+        "year": 2011,
+        "referenceCount": 67,
+        "citationCount": 210,
+        "authors": [
+          {
+            "authorId": "1715051",
+            "name": "Misha Denil"
+          },
+          {
+            "authorId": "1809420",
+            "name": "Loris Bazzani"
+          },
+          {
+            "authorId": "1777528",
+            "name": "H. Larochelle"
+          },
+          {
+            "authorId": "1737568",
+            "name": "Nando de Freitas"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "81f9e2051a47ab85e90f5f19256d2b113aea4f9b",
+        "externalIds": {
+          "MAG": "2951852553",
+          "ArXiv": "1101.3501",
+          "DBLP": "journals/jmlr/Bull11",
+          "DOI": "10.5555/1953048.2078198",
+          "CorpusId": 6229688
+        },
+        "url": "https://www.semanticscholar.org/paper/81f9e2051a47ab85e90f5f19256d2b113aea4f9b",
+        "title": "Convergence Rates of Efficient Global Optimization Algorithms",
+        "venue": "Journal of machine learning research",
+        "year": 2011,
+        "referenceCount": 38,
+        "citationCount": 699,
+        "authors": [
+          {
+            "authorId": "38742457",
+            "name": "Adam D. Bull"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "cd5a26b89f0799db1cbc1dff5607cb6815739fe7",
+        "externalIds": {
+          "MAG": "2950338507",
+          "DBLP": "journals/corr/abs-1012-2599",
+          "ArXiv": "1012.2599",
+          "CorpusId": 1640103
+        },
+        "url": "https://www.semanticscholar.org/paper/cd5a26b89f0799db1cbc1dff5607cb6815739fe7",
+        "title": "A Tutorial on Bayesian Optimization of Expensive Cost Functions, with Application to Active User Modeling and Hierarchical Reinforcement Learning",
+        "venue": "arXiv.org",
+        "year": 2010,
+        "referenceCount": 109,
+        "citationCount": 2633,
+        "authors": [
+          {
+            "authorId": "144180357",
+            "name": "E. Brochu"
+          },
+          {
+            "authorId": "2221163",
+            "name": "Vlad M. Cora"
+          },
+          {
+            "authorId": "1737568",
+            "name": "Nando de Freitas"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "5ab227a585ae98e168af4a01dbd00cf23849697b",
+        "externalIds": {
+          "DBLP": "conf/nips/AzimiFF10",
+          "MAG": "2112485705",
+          "CorpusId": 481107
+        },
+        "url": "https://www.semanticscholar.org/paper/5ab227a585ae98e168af4a01dbd00cf23849697b",
+        "title": "Batch Bayesian Optimization via Simulation Matching",
+        "venue": "Neural Information Processing Systems",
+        "year": 2010,
+        "referenceCount": 21,
+        "citationCount": 142,
+        "authors": [
+          {
+            "authorId": "2582186",
+            "name": "J. Azimi"
+          },
+          {
+            "authorId": "145841336",
+            "name": "Alan Fern"
+          },
+          {
+            "authorId": "1694273",
+            "name": "Xiaoli Z. Fern"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "aa068e347fe8fcec0b5c6497a9d3c7790dc46f56",
+        "externalIds": {
+          "MAG": "2099679938",
+          "DBLP": "conf/uai/HoffmanBF11",
+          "ArXiv": "1009.5419",
+          "CorpusId": 8053165
+        },
+        "url": "https://www.semanticscholar.org/paper/aa068e347fe8fcec0b5c6497a9d3c7790dc46f56",
+        "title": "Portfolio Allocation for Bayesian Optimization",
+        "venue": "Conference on Uncertainty in Artificial Intelligence",
+        "year": 2010,
+        "referenceCount": 38,
+        "citationCount": 307,
+        "authors": [
+          {
+            "authorId": "28552618",
+            "name": "M. Hoffman"
+          },
+          {
+            "authorId": "144180357",
+            "name": "E. Brochu"
+          },
+          {
+            "authorId": "1737568",
+            "name": "Nando de Freitas"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "f8348741ca22058f9955f932bd9d63ccd9e81319",
+        "externalIds": {
+          "DBLP": "journals/tit/SeegerKF08",
+          "MAG": "2133255100",
+          "DOI": "10.1109/TIT.2007.915707",
+          "CorpusId": 2197379
+        },
+        "url": "https://www.semanticscholar.org/paper/f8348741ca22058f9955f932bd9d63ccd9e81319",
+        "title": "Information Consistency of Nonparametric Gaussian Process Methods",
+        "venue": "IEEE Transactions on Information Theory",
+        "year": 2008,
+        "referenceCount": 29,
+        "citationCount": 101,
+        "authors": [
+          {
+            "authorId": "1680574",
+            "name": "M. Seeger"
+          },
+          {
+            "authorId": "144695232",
+            "name": "S. Kakade"
+          },
+          {
+            "authorId": "145346319",
+            "name": "Dean Phillips Foster"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "137186fd1e1976594a9aba65d57586ed28c7dca9",
+        "externalIds": {
+          "ArXiv": "0711.4555",
+          "MAG": "2593996946",
+          "DOI": "10.1111/j.1467-9868.2009.00718.x",
+          "CorpusId": 2748824
+        },
+        "url": "https://www.semanticscholar.org/paper/137186fd1e1976594a9aba65d57586ed28c7dca9",
+        "title": "Sparse additive models",
+        "venue": "",
+        "year": 2007,
+        "referenceCount": 33,
+        "citationCount": 607,
+        "authors": [
+          {
+            "authorId": "145969795",
+            "name": "Pradeep Ravikumar"
+          },
+          {
+            "authorId": "1739581",
+            "name": "J. Lafferty"
+          },
+          {
+            "authorId": "145508089",
+            "name": "Han Liu"
+          },
+          {
+            "authorId": "1733999",
+            "name": "L. Wasserman"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "45aa6a67ce508ccbe74b74f5d60acb626727e914",
+        "externalIds": {
+          "DBLP": "conf/rss/Martinez-CantinFDC07",
+          "MAG": "2121658992",
+          "DOI": "10.15607/RSS.2007.III.041",
+          "CorpusId": 2077953
+        },
+        "url": "https://www.semanticscholar.org/paper/45aa6a67ce508ccbe74b74f5d60acb626727e914",
+        "title": "Active Policy Learning for Robot Planning and Exploration under Uncertainty",
+        "venue": "Robotics: Science and Systems",
+        "year": 2007,
+        "referenceCount": 35,
+        "citationCount": 179,
+        "authors": [
+          {
+            "authorId": "1405499515",
+            "name": "Ruben Martinez-Cantin"
+          },
+          {
+            "authorId": "1737568",
+            "name": "Nando de Freitas"
+          },
+          {
+            "authorId": "1701800",
+            "name": "A. Doucet"
+          },
+          {
+            "authorId": "145186838",
+            "name": "J. A. Castellanos"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "d89e23d3267c75db75e2055951facc2d74f2908b",
+        "externalIds": {
+          "DBLP": "conf/ijcai/LizotteWBS07",
+          "MAG": "1483202606",
+          "CorpusId": 10441616
+        },
+        "url": "https://www.semanticscholar.org/paper/d89e23d3267c75db75e2055951facc2d74f2908b",
+        "title": "Automatic Gait Optimization with Gaussian Process Regression",
+        "venue": "International Joint Conference on Artificial Intelligence",
+        "year": 2007,
+        "referenceCount": 20,
+        "citationCount": 338,
+        "authors": [
+          {
+            "authorId": "1690162",
+            "name": "D. Lizotte"
+          },
+          {
+            "authorId": "2155450432",
+            "name": "Tao Wang"
+          },
+          {
+            "authorId": "1687780",
+            "name": "Michael Bowling"
+          },
+          {
+            "authorId": "1714772",
+            "name": "Dale Schuurmans"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "7b5cca2eafa3d2485475d0564630b1af621c68a1",
+        "externalIds": {
+          "MAG": "1968261502",
+          "ArXiv": "math/0702686",
+          "DOI": "10.1214/009053606000000795",
+          "CorpusId": 10616419
+        },
+        "url": "https://www.semanticscholar.org/paper/7b5cca2eafa3d2485475d0564630b1af621c68a1",
+        "title": "Posterior consistency of Gaussian process prior for nonparametric binary regression",
+        "venue": "",
+        "year": 2006,
+        "referenceCount": 15,
+        "citationCount": 199,
+        "authors": [
+          {
+            "authorId": "2291789",
+            "name": "S. Ghosal"
+          },
+          {
+            "authorId": "3155262",
+            "name": "A. Roy"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "cf7608b8c1c3023124c9377055a4844fb22ba1c0",
+        "externalIds": {
+          "MAG": "2161574998",
+          "DOI": "10.2514/6.2006-7242",
+          "CorpusId": 8290212
+        },
+        "url": "https://www.semanticscholar.org/paper/cf7608b8c1c3023124c9377055a4844fb22ba1c0",
+        "title": "Automated Antenna Design with Evolutionary Algorithms",
+        "venue": "",
+        "year": 2006,
+        "referenceCount": 13,
+        "citationCount": 191,
+        "authors": [
+          {
+            "authorId": "1724586",
+            "name": "G. Hornby"
+          },
+          {
+            "authorId": "145226865",
+            "name": "A. Globus"
+          },
+          {
+            "authorId": "2291239",
+            "name": "D. Linden"
+          },
+          {
+            "authorId": "144554436",
+            "name": "J. Lohn"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "78f2f8055da7d2d5d636daf520157744d7aed79e",
+        "externalIds": {
+          "MAG": "2150904269",
+          "ArXiv": "astro-ph/0608632",
+          "DOI": "10.1103/PhysRevD.74.123507",
+          "CorpusId": 1368964
+        },
+        "url": "https://www.semanticscholar.org/paper/78f2f8055da7d2d5d636daf520157744d7aed79e",
+        "title": "Cosmological constraints from the SDSS luminous red galaxies",
+        "venue": "",
+        "year": 2006,
+        "referenceCount": 141,
+        "citationCount": 1205,
+        "authors": [
+          {
+            "authorId": "2011933",
+            "name": "Max Tegmark"
+          },
+          {
+            "authorId": "145614599",
+            "name": "D. Eisenstein"
+          },
+          {
+            "authorId": "2178431561",
+            "name": "M. Strauss"
+          },
+          {
+            "authorId": "3005808",
+            "name": "D. Weinberg"
+          },
+          {
+            "authorId": "113229891",
+            "name": "M. Blanton"
+          },
+          {
+            "authorId": "35762762",
+            "name": "J. Frieman"
+          },
+          {
+            "authorId": "153254251",
+            "name": "M. Fukugita"
+          },
+          {
+            "authorId": "2386874",
+            "name": "J. Gunn"
+          },
+          {
+            "authorId": "2999306",
+            "name": "A. Hamilton"
+          },
+          {
+            "authorId": "88750573",
+            "name": "G. Knapp"
+          },
+          {
+            "authorId": "4090952",
+            "name": "R. Nichol"
+          },
+          {
+            "authorId": "2316046",
+            "name": "J. Ostriker"
+          },
+          {
+            "authorId": "145626550",
+            "name": "N. Padmanabhan"
+          },
+          {
+            "authorId": "4379481",
+            "name": "W. Percival"
+          },
+          {
+            "authorId": "48767993",
+            "name": "D. Schlegel"
+          },
+          {
+            "authorId": "2272615166",
+            "name": "D. Schneider"
+          },
+          {
+            "authorId": "104350056",
+            "name": "R. Scoccimarro"
+          },
+          {
+            "authorId": "3748196",
+            "name": "U. Seljak"
+          },
+          {
+            "authorId": "2140492143",
+            "name": "H. Seo"
+          },
+          {
+            "authorId": "2259553206",
+            "name": "M. Swanson"
+          },
+          {
+            "authorId": "7934073",
+            "name": "A. Szalay"
+          },
+          {
+            "authorId": "1387389338",
+            "name": "M. Vogeley"
+          },
+          {
+            "authorId": "2107135470",
+            "name": "J. Yoo"
+          },
+          {
+            "authorId": "3331714",
+            "name": "I. Zehavi"
+          },
+          {
+            "authorId": "4943290",
+            "name": "K. Abazajian"
+          },
+          {
+            "authorId": "2246274840",
+            "name": "S. Anderson"
+          },
+          {
+            "authorId": "36044147",
+            "name": "J. Annis"
+          },
+          {
+            "authorId": "6460231",
+            "name": "N. Bahcall"
+          },
+          {
+            "authorId": "144545868",
+            "name": "B. Bassett"
+          },
+          {
+            "authorId": "101604699",
+            "name": "A. Berlind"
+          },
+          {
+            "authorId": "145465591",
+            "name": "J. Brinkmann"
+          },
+          {
+            "authorId": "2307866",
+            "name": "T. Budavári"
+          },
+          {
+            "authorId": "4969574",
+            "name": "F. Castander"
+          },
+          {
+            "authorId": "3232661",
+            "name": "A. Connolly"
+          },
+          {
+            "authorId": "1682005",
+            "name": "I. Csabai"
+          },
+          {
+            "authorId": "143953702",
+            "name": "M. Doi"
+          },
+          {
+            "authorId": "8591731",
+            "name": "D. Finkbeiner"
+          },
+          {
+            "authorId": "69859347",
+            "name": "B. Gillespie"
+          },
+          {
+            "authorId": "5315540",
+            "name": "K. Glazebrook"
+          },
+          {
+            "authorId": "69039356",
+            "name": "G. Hennessy"
+          },
+          {
+            "authorId": "144735014",
+            "name": "D. Hogg"
+          },
+          {
+            "authorId": "113343324",
+            "name": "Ž. Ivezić"
+          },
+          {
+            "authorId": "143707851",
+            "name": "B. Jain"
+          },
+          {
+            "authorId": "47595023",
+            "name": "D. Johnston"
+          },
+          {
+            "authorId": "152865963",
+            "name": "S. Kent"
+          },
+          {
+            "authorId": "2054150787",
+            "name": "D. Lamb"
+          },
+          {
+            "authorId": "2107498010",
+            "name": "B. Lee"
+          },
+          {
+            "authorId": "2218691756",
+            "name": "H. Lin"
+          },
+          {
+            "authorId": "2073689851",
+            "name": "J. Loveday"
+          },
+          {
+            "authorId": "2203481",
+            "name": "R. Lupton"
+          },
+          {
+            "authorId": "3719952",
+            "name": "J. Munn"
+          },
+          {
+            "authorId": "103153745",
+            "name": "K. Pan"
+          },
+          {
+            "authorId": "2115285567",
+            "name": "C. Park"
+          },
+          {
+            "authorId": "3609752",
+            "name": "J. Peoples"
+          },
+          {
+            "authorId": "69499170",
+            "name": "J. Pier"
+          },
+          {
+            "authorId": "145614180",
+            "name": "A. Pope"
+          },
+          {
+            "authorId": "98092981",
+            "name": "M. Richmond"
+          },
+          {
+            "authorId": "116526335",
+            "name": "C. Rockosi"
+          },
+          {
+            "authorId": "3527656",
+            "name": "R. Scranton"
+          },
+          {
+            "authorId": "101199983",
+            "name": "R. Sheth"
+          },
+          {
+            "authorId": "3537295",
+            "name": "A. Stebbins"
+          },
+          {
+            "authorId": "2372149",
+            "name": "C. Stoughton"
+          },
+          {
+            "authorId": "2983312",
+            "name": "I. Szapudi"
+          },
+          {
+            "authorId": "37865970",
+            "name": "D. Tucker"
+          },
+          {
+            "authorId": "69954095",
+            "name": "D. Berk"
+          },
+          {
+            "authorId": "2847856",
+            "name": "B. Yanny"
+          },
+          {
+            "authorId": "39385724",
+            "name": "D. York"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "5810a043c519b6df5ec876baec71d244b9312f02",
+        "externalIds": {
+          "MAG": "2058671428",
+          "ArXiv": "astro-ph/0605003",
+          "DOI": "10.1103/PhysRevD.73.123523",
+          "CorpusId": 2989498
+        },
+        "url": "https://www.semanticscholar.org/paper/5810a043c519b6df5ec876baec71d244b9312f02",
+        "title": "Bayesian model selection analysis of WMAP3",
+        "venue": "",
+        "year": 2006,
+        "referenceCount": 36,
+        "citationCount": 97,
+        "authors": [
+          {
+            "authorId": "143852978",
+            "name": "D. Parkinson"
+          },
+          {
+            "authorId": "46260086",
+            "name": "P. Mukherjee"
+          },
+          {
+            "authorId": "1825613",
+            "name": "A. Liddle"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "Gaussian Processes For Machine Learning",
+        "venue": "Int. J. Neural Syst.",
+        "year": 2004,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "103f6fe35033f9327611ddafde74a2b544072980",
+        "externalIds": {
+          "MAG": "2108114251",
+          "DBLP": "journals/jmlr/Auer02",
+          "CorpusId": 10485293
+        },
+        "url": "https://www.semanticscholar.org/paper/103f6fe35033f9327611ddafde74a2b544072980",
+        "title": "Using Confidence Bounds for Exploitation-Exploration Trade-offs",
+        "venue": "Journal of machine learning research",
+        "year": 2003,
+        "referenceCount": 19,
+        "citationCount": 2068,
+        "authors": [
+          {
+            "authorId": "144543541",
+            "name": "P. Auer"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "dc6ea0e30e46163b706f2f8bdc9c67ca87f83d63",
+        "externalIds": {
+          "MAG": "2164598857",
+          "DBLP": "conf/cvpr/ViolaJ01",
+          "DOI": "10.1109/CVPR.2001.990517",
+          "CorpusId": 2715202
+        },
+        "url": "https://www.semanticscholar.org/paper/dc6ea0e30e46163b706f2f8bdc9c67ca87f83d63",
+        "title": "Rapid object detection using a boosted cascade of simple features",
+        "venue": "Proceedings of the 2001 IEEE Computer Society Conference on Computer Vision and Pattern Recognition. CVPR 2001",
+        "year": 2001,
+        "referenceCount": 17,
+        "citationCount": 3770,
+        "authors": [
+          {
+            "authorId": "2247495712",
+            "name": "Paul A. Viola"
+          },
+          {
+            "authorId": "2111328837",
+            "name": "Michael J. Jones"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "daa63f57c3fbe994c4356f8d986a22e696e776d2",
+        "externalIds": {
+          "MAG": "1510052597",
+          "DBLP": "journals/jgo/JonesSW98",
+          "DOI": "10.1023/A:1008306431147",
+          "CorpusId": 263864014
+        },
+        "url": "https://www.semanticscholar.org/paper/daa63f57c3fbe994c4356f8d986a22e696e776d2",
+        "title": "Efficient Global Optimization of Expensive Black-Box Functions",
+        "venue": "Journal of Global Optimization",
+        "year": 1998,
+        "referenceCount": 37,
+        "citationCount": 5649,
+        "authors": [
+          {
+            "authorId": "2118096690",
+            "name": "Donald R. Jones"
+          },
+          {
+            "authorId": "2257210524",
+            "name": "Matthias Schonlau"
+          },
+          {
+            "authorId": "145228938",
+            "name": "W. Welch"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "82d51fac26b83f50ceb242b45fd6b1c88e94f867",
+        "externalIds": {
+          "MAG": "1969513389",
+          "DBLP": "journals/jgo/Mockus94",
+          "DOI": "10.1007/BF01099263",
+          "CorpusId": 42695024
+        },
+        "url": "https://www.semanticscholar.org/paper/82d51fac26b83f50ceb242b45fd6b1c88e94f867",
+        "title": "Application of Bayesian approach to numerical methods of global and stochastic optimization",
+        "venue": "Journal of Global Optimization",
+        "year": 1994,
+        "referenceCount": 32,
+        "citationCount": 408,
+        "authors": [
+          {
+            "authorId": "2210196",
+            "name": "J. Mockus"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "d7808f2ad77de7b71e83a2e79d27f2e3e12be8d5",
+        "externalIds": {
+          "MAG": "2113741278",
+          "DOI": "10.1007/BF00941892",
+          "CorpusId": 123674634
+        },
+        "url": "https://www.semanticscholar.org/paper/d7808f2ad77de7b71e83a2e79d27f2e3e12be8d5",
+        "title": "Lipschitzian optimization without the Lipschitz constant",
+        "venue": "",
+        "year": 1993,
+        "referenceCount": 16,
+        "citationCount": 2128,
+        "authors": [
+          {
+            "authorId": "2118096690",
+            "name": "Donald R. Jones"
+          },
+          {
+            "authorId": "2563797",
+            "name": "C. D. Perttunen"
+          },
+          {
+            "authorId": "2424124",
+            "name": "B. Stuckman"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "aef3880aa00d65664d2b352f7d489a75d6b2ec07",
+        "externalIds": {
+          "MAG": "2081538223",
+          "DOI": "10.1007/BF00940509",
+          "CorpusId": 122891200
+        },
+        "url": "https://www.semanticscholar.org/paper/aef3880aa00d65664d2b352f7d489a75d6b2ec07",
+        "title": "Bayesian approach to global optimization and application to multiobjective and constrained problems",
+        "venue": "",
+        "year": 1991,
+        "referenceCount": 6,
+        "citationCount": 86,
+        "authors": [
+          {
+            "authorId": "2210196",
+            "name": "J. Mockus"
+          },
+          {
+            "authorId": "12337626",
+            "name": "L. Mockus"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "972eee57d686a4f520e7d6c769423c723887e615",
+        "externalIds": {
+          "MAG": "2568686901",
+          "DOI": "10.1214/ss/1177013604",
+          "CorpusId": 61047344
+        },
+        "url": "https://www.semanticscholar.org/paper/972eee57d686a4f520e7d6c769423c723887e615",
+        "title": "Generalized Additive Models",
+        "venue": "",
+        "year": 1986,
+        "referenceCount": 40,
+        "citationCount": 12825,
+        "authors": [
+          {
+            "authorId": "1784682",
+            "name": "T. Hastie"
+          },
+          {
+            "authorId": "7135376",
+            "name": "R. Tibshirani"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "b9124861e4e874bbc477b4b726adf94f7d2ecdc4",
+        "externalIds": {
+          "PubMedCentral": "5085435",
+          "DOI": "10.1007/978-3-319-95870-5_300146",
+          "CorpusId": 215508758
+        },
+        "url": "https://www.semanticscholar.org/paper/b9124861e4e874bbc477b4b726adf94f7d2ecdc4",
+        "title": "Learning",
+        "venue": "Mental Health",
+        "year": 1965,
+        "referenceCount": 0,
+        "citationCount": 6092,
+        "authors": [
+          {
+            "authorId": "2099672677",
+            "name": "Peter Secretan"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "ee2cd1d17f833d3c157a1016a778c7c22af555a2",
+        "externalIds": {
+          "MAG": "2039522160",
+          "DOI": "10.1093/BIOMET/25.3-4.285",
+          "CorpusId": 120462794
+        },
+        "url": "https://www.semanticscholar.org/paper/ee2cd1d17f833d3c157a1016a778c7c22af555a2",
+        "title": "ON THE LIKELIHOOD THAT ONE UNKNOWN PROBABILITY EXCEEDS ANOTHER IN VIEW OF THE EVIDENCE OF TWO SAMPLES",
+        "venue": "",
+        "year": 1933,
+        "referenceCount": 0,
+        "citationCount": 3602,
+        "authors": [
+          {
+            "authorId": "144301316",
+            "name": "W. R. Thompson"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "Talk on Current Challenges and Open Problems in Bayesian Optimization",
+        "venue": "Talk on Current Challenges and Open Problems in Bayesian Optimization",
+        "year": 2014,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "75a0a299e4bbcd1123e9000766ddaad13ec8ae10",
+        "externalIds": {
+          "CorpusId": 14136770
+        },
+        "url": "https://www.semanticscholar.org/paper/75a0a299e4bbcd1123e9000766ddaad13ec8ae10",
+        "title": "UvA-DARE ( Digital Academic Repository ) Bayesian Optimization in High Dimensions via Random Embeddings",
+        "venue": "",
+        "year": 2013,
+        "referenceCount": 39,
+        "citationCount": 345,
+        "authors": [
+          {
+            "authorId": "2117966548",
+            "name": "Ziyun Wang"
+          },
+          {
+            "authorId": "36572609",
+            "name": "M. Zoghi"
+          },
+          {
+            "authorId": "2308468704",
+            "name": "Frank Hutter"
+          },
+          {
+            "authorId": "2072664138",
+            "name": "David Matheson"
+          },
+          {
+            "authorId": "1737568",
+            "name": "Nando de Freitas"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "Gaussian Process Optimization in the Bandit Setting: No Regret and Experimental Design",
+        "venue": "In International Conference on Machine Learning,",
+        "year": 2010,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "argue that the uniform distribution still satisfies the required tail constraints and therefore",
+        "venue": "",
+        "year": 2010,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "e9e495ff046b0da2948b1de10c9ea008804f40a5",
+        "externalIds": {
+          "DBLP": "books/daglib/0035701",
+          "MAG": "1484867920",
+          "DOI": "10.1007/b97848",
+          "CorpusId": 43315484
+        },
+        "url": "https://www.semanticscholar.org/paper/e9e495ff046b0da2948b1de10c9ea008804f40a5",
+        "title": "A Distribution-Free Theory of Nonparametric Regression",
+        "venue": "Springer Series in Statistics",
+        "year": 2002,
+        "referenceCount": 188,
+        "citationCount": 2284,
+        "authors": [
+          {
+            "authorId": "2087528",
+            "name": "L. Györfi"
+          },
+          {
+            "authorId": "144789007",
+            "name": "M. Kohler"
+          },
+          {
+            "authorId": "9745969",
+            "name": "A. Krzyżak"
+          },
+          {
+            "authorId": "2158720",
+            "name": "Harro Walk"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "Some open questions: How to choose (d, M)? Can we generalise to other acquisition functions? Code available: github.com/kirthevasank/add-gp-bandits Jeff's Talk: Friday 2pm @ Van Gogh Thank You",
+        "venue": "Some open questions: How to choose (d, M)? Can we generalise to other acquisition functions? Code available: github.com/kirthevasank/add-gp-bandits Jeff's Talk: Friday 2pm @ Van Gogh Thank You",
+        "year": null,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "Additive assumption improves regret: exponential in D → linear in D. Acquisition function is easy to maximise",
+        "venue": "Additive assumption improves regret: exponential in D → linear in D. Acquisition function is easy to maximise",
+        "year": null,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "total": 4,
+  "offset": 0,
+  "data": [
+    {
+      "paperId": "2f9717c462f9a9f0e7598173f636291d6985c000",
+      "externalIds": {
+        "DBLP": "conf/icml/DvurechenskyGK18",
+        "MAG": "2785624810",
+        "ArXiv": "1802.04367",
+        "CorpusId": 3298427
+      },
+      "url": "https://www.semanticscholar.org/paper/2f9717c462f9a9f0e7598173f636291d6985c000",
+      "title": "Computational Optimal Transport: Complexity by Accelerated Gradient Descent Is Better Than by Sinkhorn's Algorithm",
+      "venue": "International Conference on Machine Learning",
+      "year": 2018,
+      "referenceCount": 54,
+      "citationCount": 316,
+      "authors": [
+        {
+          "authorId": "2960542",
+          "name": "P. Dvurechensky"
+        },
+        {
+          "authorId": "2663409",
+          "name": "A. Gasnikov"
+        },
+        {
+          "authorId": "36039558",
+          "name": "Alexey Kroshnin"
+        }
+      ]
+    },
+    {
+      "paperId": "e6fa301c6f1afd9e216adfce5977487cc5809e8f",
+      "externalIds": {
+        "DBLP": "conf/aaai/AnLXG22",
+        "DOI": "10.1609/aaai.v36i9.21251",
+        "CorpusId": 233219991,
+        "PubMed": "37974660"
+      },
+      "url": "https://www.semanticscholar.org/paper/e6fa301c6f1afd9e216adfce5977487cc5809e8f",
+      "title": "Efficient Optimal Transport Algorithm by Accelerated Gradient Descent",
+      "venue": "AAAI Conference on Artificial Intelligence",
+      "year": 2022,
+      "referenceCount": 40,
+      "citationCount": 18,
+      "authors": [
+        {
+          "authorId": "2137430",
+          "name": "Dongsheng An"
+        },
+        {
+          "authorId": "47684954",
+          "name": "Na Lei"
+        },
+        {
+          "authorId": "2282386693",
+          "name": "X. Gu"
+        }
+      ]
+    },
+    {
+      "paperId": "e2179a9911d30cb5cbde20506addd62088818e3c",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2104-05802",
+        "ArXiv": "2104.05802",
+        "CorpusId": 265277178
+      },
+      "url": "https://www.semanticscholar.org/paper/e2179a9911d30cb5cbde20506addd62088818e3c",
+      "title": "Efficient Optimal Transport Algorithm by Accelerated Gradient descent",
+      "venue": "arXiv.org",
+      "year": 2021,
+      "referenceCount": 40,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2137430",
+          "name": "Dongsheng An"
+        },
+        {
+          "authorId": "47684954",
+          "name": "Na Lei"
+        },
+        {
+          "authorId": "2199593444",
+          "name": "Xianfeng Gu"
+        }
+      ]
+    },
+    {
+      "paperId": "ef68e6ba12c10489cbef73bcd9ca80f3ad3b7ee8",
+      "externalIds": {
+        "MAG": "2946690345",
+        "DBLP": "journals/corr/abs-1905-09952",
+        "ArXiv": "1905.09952",
+        "CorpusId": 165163517
+      },
+      "url": "https://www.semanticscholar.org/paper/ef68e6ba12c10489cbef73bcd9ca80f3ad3b7ee8",
+      "title": "Accelerated Primal-Dual Coordinate Descent for Computational Optimal Transport",
+      "venue": "arXiv.org",
+      "year": 2019,
+      "referenceCount": 24,
+      "citationCount": 5,
+      "authors": [
+        {
+          "authorId": "4328852",
+          "name": "Wenshuo Guo"
+        },
+        {
+          "authorId": "3526349",
+          "name": "Nhat Ho"
+        },
+        {
+          "authorId": "1694621",
+          "name": "Michael I. Jordan"
+        }
+      ]
+    }
+  ]
+}

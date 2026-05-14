@@ -1,0 +1,327 @@
+{
+  "total": 10,
+  "offset": 0,
+  "data": [
+    {
+      "paperId": "9768b20e9b5ac3c10ae57941c7eda6381f2ef870",
+      "externalIds": {
+        "MAG": "2468422810",
+        "ArXiv": "1607.02535",
+        "DBLP": "conf/icml/YuL16",
+        "CorpusId": 7814278
+      },
+      "url": "https://www.semanticscholar.org/paper/9768b20e9b5ac3c10ae57941c7eda6381f2ef870",
+      "title": "Learning from Multiway Data: Simple and Efficient Tensor Regression",
+      "venue": "International Conference on Machine Learning",
+      "year": 2016,
+      "referenceCount": 32,
+      "citationCount": 73,
+      "authors": [
+        {
+          "authorId": "2023052",
+          "name": "Rose Yu"
+        },
+        {
+          "authorId": "47909587",
+          "name": "Yan Liu"
+        }
+      ]
+    },
+    {
+      "paperId": "43f7c4eb57d675bfd1b388c09c64fab959ac0f62",
+      "externalIds": {
+        "MAG": "3138299449",
+        "ArXiv": "1901.11172",
+        "DOI": "10.1002/sta4.378",
+        "CorpusId": 88516482,
+        "PubMed": "35419192"
+      },
+      "url": "https://www.semanticscholar.org/paper/43f7c4eb57d675bfd1b388c09c64fab959ac0f62",
+      "title": "Bayesian nonparametric multiway regression for clustered binomial data",
+      "venue": "Stat",
+      "year": 2019,
+      "referenceCount": 37,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "1688762",
+          "name": "E. Lock"
+        },
+        {
+          "authorId": "145571618",
+          "name": "D. Bandyopadhyay"
+        }
+      ]
+    },
+    {
+      "paperId": "7090f1e2d2c27215a3959701cf512af38e7a7c31",
+      "externalIds": {
+        "MAG": "2792886831",
+        "DBLP": "conf/camsap/Liu17",
+        "DOI": "10.1109/CAMSAP.2017.8313222",
+        "CorpusId": 3861132
+      },
+      "url": "https://www.semanticscholar.org/paper/7090f1e2d2c27215a3959701cf512af38e7a7c31",
+      "title": "Low-Rank tensor regression: Scalability and applications",
+      "venue": "IEEE International Workshop on Computational Advances in Multi-Sensor Adaptive Processing",
+      "year": 2017,
+      "referenceCount": 30,
+      "citationCount": 4,
+      "authors": [
+        {
+          "authorId": "47909587",
+          "name": "Yan Liu"
+        }
+      ]
+    },
+    {
+      "paperId": "b589cca24a92700e6e85d40880adda30dd326dac",
+      "externalIds": {
+        "MAG": "2603668603",
+        "DOI": "10.2166/wst.2017.162",
+        "CorpusId": 11825445,
+        "PubMed": "28659535"
+      },
+      "url": "https://www.semanticscholar.org/paper/b589cca24a92700e6e85d40880adda30dd326dac",
+      "title": "Gaussian process regression for monitoring and fault detection of wastewater treatment processes.",
+      "venue": "Water Science and Technology",
+      "year": 2017,
+      "referenceCount": 30,
+      "citationCount": 50,
+      "authors": [
+        {
+          "authorId": "49602086",
+          "name": "Oscar Samuelsson"
+        },
+        {
+          "authorId": "49518967",
+          "name": "Anders Björk"
+        },
+        {
+          "authorId": "145645282",
+          "name": "J. Zambrano"
+        },
+        {
+          "authorId": "153240735",
+          "name": "B. Carlsson"
+        }
+      ]
+    },
+    {
+      "paperId": "6147d5013777afdf2154107ae99deba13d41ec62",
+      "externalIds": {
+        "MAG": "2965604103",
+        "DBLP": "journals/nn/OkunoS20",
+        "ArXiv": "1908.02573",
+        "DOI": "10.1016/j.neunet.2020.03.026",
+        "CorpusId": 199472618,
+        "PubMed": "32294616"
+      },
+      "url": "https://www.semanticscholar.org/paper/6147d5013777afdf2154107ae99deba13d41ec62",
+      "title": "Hyperlink Regression via Bregman Divergence",
+      "venue": "Neural Networks",
+      "year": 2019,
+      "referenceCount": 65,
+      "citationCount": 6,
+      "authors": [
+        {
+          "authorId": "20729798",
+          "name": "A. Okuno"
+        },
+        {
+          "authorId": "3261971",
+          "name": "Hidetoshi Shimodaira"
+        }
+      ]
+    },
+    {
+      "paperId": "ea3afc644347bb0f923e6daeaeb68c726c1f8381",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-1911-05843",
+        "ArXiv": "1911.05843",
+        "MAG": "2984675714",
+        "DOI": "10.1145/3368555.3384464",
+        "CorpusId": 208006684,
+        "PubMed": "33659966"
+      },
+      "url": "https://www.semanticscholar.org/paper/ea3afc644347bb0f923e6daeaeb68c726c1f8381",
+      "title": "TASTE: temporal and static tensor factorization for phenotyping electronic health records",
+      "venue": "ACM Conference on Health, Inference, and Learning",
+      "year": 2019,
+      "referenceCount": 32,
+      "citationCount": 39,
+      "authors": [
+        {
+          "authorId": "34103353",
+          "name": "Ardavan Afshar"
+        },
+        {
+          "authorId": "2739832",
+          "name": "Ioakeim Perros"
+        },
+        {
+          "authorId": "1685928",
+          "name": "Haesun Park"
+        },
+        {
+          "authorId": "2306252",
+          "name": "C. Defilippi"
+        },
+        {
+          "authorId": "48090442",
+          "name": "Xiaowei Yan"
+        },
+        {
+          "authorId": "49523072",
+          "name": "W. Stewart"
+        },
+        {
+          "authorId": "152316651",
+          "name": "Joyce Ho"
+        },
+        {
+          "authorId": "1738536",
+          "name": "Jimeng Sun"
+        }
+      ]
+    },
+    {
+      "paperId": "949c28d4555f6b4033dcf8e715d6c1256067d445",
+      "externalIds": {
+        "MAG": "1969825914",
+        "PubMedCentral": "2443422",
+        "DBLP": "journals/cin/CichockiMSWZ08",
+        "DOI": "10.1155/2008/852187",
+        "CorpusId": 908277,
+        "PubMed": "18615193"
+      },
+      "url": "https://www.semanticscholar.org/paper/949c28d4555f6b4033dcf8e715d6c1256067d445",
+      "title": "Advances in Nonnegative Matrix and Tensor Factorization",
+      "venue": "Computational Intelligence and Neuroscience",
+      "year": 2008,
+      "referenceCount": 122,
+      "citationCount": 28,
+      "authors": [
+        {
+          "authorId": "145683892",
+          "name": "A. Cichocki"
+        },
+        {
+          "authorId": "3416561",
+          "name": "Morten Mørup"
+        },
+        {
+          "authorId": "1718742",
+          "name": "P. Smaragdis"
+        },
+        {
+          "authorId": "144144027",
+          "name": "Wenwu Wang"
+        },
+        {
+          "authorId": "1754153",
+          "name": "R. Zdunek"
+        }
+      ]
+    },
+    {
+      "paperId": "839b353fd96b63a4d49fc5d3d01955563e69babe",
+      "externalIds": {
+        "MAG": "2951748151",
+        "DBLP": "journals/sigmod/Khamis0R17",
+        "ArXiv": "1703.03147",
+        "DOI": "10.1145/3093754.3093757",
+        "CorpusId": 1693180
+      },
+      "url": "https://www.semanticscholar.org/paper/839b353fd96b63a4d49fc5d3d01955563e69babe",
+      "title": "Juggling Functions Inside a Database",
+      "venue": "SGMD",
+      "year": 2017,
+      "referenceCount": 38,
+      "citationCount": 15,
+      "authors": [
+        {
+          "authorId": "31117574",
+          "name": "Mahmoud Abo Khamis"
+        },
+        {
+          "authorId": "144655602",
+          "name": "H. Ngo"
+        },
+        {
+          "authorId": "1755572",
+          "name": "A. Rudra"
+        }
+      ]
+    },
+    {
+      "paperId": "bb405d8a89b1e0e123d9765efb1a59912c202034",
+      "externalIds": {
+        "MAG": "584588586",
+        "CorpusId": 60004417
+      },
+      "url": "https://www.semanticscholar.org/paper/bb405d8a89b1e0e123d9765efb1a59912c202034",
+      "title": "Pattern recognition : 26th DAGM Symposium, Tübingen, Germany, August 30 - Sepember 1, 2004 : proceedings",
+      "venue": "",
+      "year": 2004,
+      "referenceCount": 0,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "3472959",
+          "name": "C. Rasmussen"
+        },
+        {
+          "authorId": "1747836",
+          "name": "H. Bülthoff"
+        },
+        {
+          "authorId": "33365402",
+          "name": "M. Giese"
+        },
+        {
+          "authorId": "1707625",
+          "name": "B. Scholkopf"
+        }
+      ]
+    },
+    {
+      "paperId": "f4f02b4541110ca63d2a34a248f53fce42496102",
+      "externalIds": {
+        "CorpusId": 253305059
+      },
+      "url": "https://www.semanticscholar.org/paper/f4f02b4541110ca63d2a34a248f53fce42496102",
+      "title": "Featured Talks Understanding the origin and spread of COVID-19",
+      "venue": "",
+      "year": 2022,
+      "referenceCount": 1,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "120095766",
+          "name": "Liang Liu"
+        },
+        {
+          "authorId": "144191031",
+          "name": "J. Arnold"
+        },
+        {
+          "authorId": "3533519",
+          "name": "J. Bahl"
+        },
+        {
+          "authorId": "40424956",
+          "name": "Pengsheng Ji"
+        },
+        {
+          "authorId": "114650785",
+          "name": "Chenbing Xu"
+        },
+        {
+          "authorId": "145461367",
+          "name": "Xiu-Zhen Cheng"
+        }
+      ]
+    }
+  ]
+}

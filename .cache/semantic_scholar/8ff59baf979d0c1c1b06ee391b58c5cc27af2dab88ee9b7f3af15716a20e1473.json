@@ -1,0 +1,262 @@
+{
+  "total": 82,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "617ea1c4778bc6bc6286509eba4521cada701394",
+      "externalIds": {
+        "DBLP": "conf/icml/CarpentierV15",
+        "MAG": "246157401",
+        "ArXiv": "1505.04627",
+        "CorpusId": 1296488
+      },
+      "url": "https://www.semanticscholar.org/paper/617ea1c4778bc6bc6286509eba4521cada701394",
+      "title": "Simple regret for infinitely many armed bandits",
+      "venue": "International Conference on Machine Learning",
+      "year": 2015,
+      "referenceCount": 23,
+      "citationCount": 93,
+      "authors": [
+        {
+          "authorId": "37178915",
+          "name": "A. Carpentier"
+        },
+        {
+          "authorId": "1806291",
+          "name": "Michal Valko"
+        }
+      ]
+    },
+    {
+      "paperId": "831ad993ff6d789ea7a46eb086cfe20718a3bcc7",
+      "externalIds": {
+        "ArXiv": "2510.27319",
+        "CorpusId": 282719190
+      },
+      "url": "https://www.semanticscholar.org/paper/831ad993ff6d789ea7a46eb086cfe20718a3bcc7",
+      "title": "Adaptive Algorithms for Infinitely Many-Armed Bandits: A Unified Framework",
+      "venue": "",
+      "year": 2025,
+      "referenceCount": 20,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2025143792",
+          "name": "Emmanuel Pilliat"
+        }
+      ]
+    },
+    {
+      "paperId": "e9d44027e947d206163fbccbcc7bbee7c2307e24",
+      "externalIds": {
+        "DBLP": "conf/uai/ChaudhuriK18",
+        "MAG": "2809357850",
+        "CorpusId": 51992958
+      },
+      "url": "https://www.semanticscholar.org/paper/e9d44027e947d206163fbccbcc7bbee7c2307e24",
+      "title": "Quantile-Regret Minimisation in Infinitely Many-Armed Bandits",
+      "venue": "Conference on Uncertainty in Artificial Intelligence",
+      "year": 2018,
+      "referenceCount": 28,
+      "citationCount": 20,
+      "authors": [
+        {
+          "authorId": "28856155",
+          "name": "A. Chaudhuri"
+        },
+        {
+          "authorId": "3027736",
+          "name": "Shivaram Kalyanakrishnan"
+        }
+      ]
+    },
+    {
+      "paperId": "cb0774484aaac6f4170de9c9fae73a99fb1289c0",
+      "externalIds": {
+        "MAG": "2604308535",
+        "DBLP": "conf/aaai/LiX17",
+        "DOI": "10.1609/aaai.v31i1.10881",
+        "CorpusId": 20035958
+      },
+      "url": "https://www.semanticscholar.org/paper/cb0774484aaac6f4170de9c9fae73a99fb1289c0",
+      "title": "Infinitely Many-Armed Bandits with Budget Constraints",
+      "venue": "AAAI Conference on Artificial Intelligence",
+      "year": 2016,
+      "referenceCount": 33,
+      "citationCount": 15,
+      "authors": [
+        {
+          "authorId": "2108564917",
+          "name": "Haifang Li"
+        },
+        {
+          "authorId": "2794096",
+          "name": "Yingce Xia"
+        }
+      ]
+    },
+    {
+      "paperId": "dc0cb0e63764a76ebf94536c5025d60d5323d8be",
+      "externalIds": {
+        "DBLP": "conf/nips/KimVY24",
+        "ArXiv": "2404.14202",
+        "DOI": "10.52202/079017-0281",
+        "CorpusId": 269294013
+      },
+      "url": "https://www.semanticscholar.org/paper/dc0cb0e63764a76ebf94536c5025d60d5323d8be",
+      "title": "An Adaptive Approach for Infinitely Many-armed Bandits under Generalized Rotting Constraints",
+      "venue": "Neural Information Processing Systems",
+      "year": 2024,
+      "referenceCount": 26,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "2155999923",
+          "name": "Jung-hun Kim"
+        },
+        {
+          "authorId": "2297799105",
+          "name": "Milan Vojnovic"
+        },
+        {
+          "authorId": "2286404890",
+          "name": "Se-Young Yun"
+        }
+      ]
+    },
+    {
+      "paperId": "00b2c7ca4b3f27eaa8c53ab57bf8370ab5a5272c",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2201-12975",
+        "ArXiv": "2201.12975",
+        "CorpusId": 246431126
+      },
+      "url": "https://www.semanticscholar.org/paper/00b2c7ca4b3f27eaa8c53ab57bf8370ab5a5272c",
+      "title": "Rotting infinitely many-armed bandits",
+      "venue": "International Conference on Machine Learning",
+      "year": 2022,
+      "referenceCount": 37,
+      "citationCount": 5,
+      "authors": [
+        {
+          "authorId": "2155999923",
+          "name": "Jung-hun Kim"
+        },
+        {
+          "authorId": "1782150",
+          "name": "M. Vojnović"
+        },
+        {
+          "authorId": "70509252",
+          "name": "Se-Young Yun"
+        }
+      ]
+    },
+    {
+      "paperId": "c8f5f4da7f46c1f26b9aa802fdb00b7e23c67ab4",
+      "externalIds": {
+        "MAG": "2158858912",
+        "DBLP": "conf/nips/WangAM08",
+        "CorpusId": 11166721
+      },
+      "url": "https://www.semanticscholar.org/paper/c8f5f4da7f46c1f26b9aa802fdb00b7e23c67ab4",
+      "title": "Algorithms for Infinitely Many-Armed Bandits",
+      "venue": "Neural Information Processing Systems",
+      "year": 2008,
+      "referenceCount": 12,
+      "citationCount": 209,
+      "authors": [
+        {
+          "authorId": "2267939",
+          "name": "Yizao Wang"
+        },
+        {
+          "authorId": "3015507",
+          "name": "Jean-Yves Audibert"
+        },
+        {
+          "authorId": "1708654",
+          "name": "R. Munos"
+        }
+      ]
+    },
+    {
+      "paperId": "ea9c2c3e7540ed23110f2bf2fc95aed19c883893",
+      "externalIds": {
+        "MAG": "1856268569",
+        "DBLP": "conf/pkdd/DavidS15",
+        "DOI": "10.1007/978-3-319-23528-8_29",
+        "CorpusId": 28445914
+      },
+      "url": "https://www.semanticscholar.org/paper/ea9c2c3e7540ed23110f2bf2fc95aed19c883893",
+      "title": "Refined Algorithms for Infinitely Many-Armed Bandits with Deterministic Rewards",
+      "venue": "ECML/PKDD",
+      "year": 2015,
+      "referenceCount": 11,
+      "citationCount": 7,
+      "authors": [
+        {
+          "authorId": "31638231",
+          "name": "Y. David"
+        },
+        {
+          "authorId": "1742179",
+          "name": "N. Shimkin"
+        }
+      ]
+    },
+    {
+      "paperId": "c5cb216700569b7e62ed3348f32915d3313ae9a1",
+      "externalIds": {
+        "DBLP": "conf/pkdd/DavidS14",
+        "MAG": "45156998",
+        "DOI": "10.1007/978-3-662-44848-9_20",
+        "CorpusId": 2137974
+      },
+      "url": "https://www.semanticscholar.org/paper/c5cb216700569b7e62ed3348f32915d3313ae9a1",
+      "title": "Infinitely Many-Armed Bandits with Unknown Value Distribution",
+      "venue": "ECML/PKDD",
+      "year": 2014,
+      "referenceCount": 15,
+      "citationCount": 18,
+      "authors": [
+        {
+          "authorId": "31638231",
+          "name": "Y. David"
+        },
+        {
+          "authorId": "1742179",
+          "name": "N. Shimkin"
+        }
+      ]
+    },
+    {
+      "paperId": "f5daa6f41072febf94914ddccefd87889363e6bf",
+      "externalIds": {
+        "MAG": "2238879898",
+        "CorpusId": 219633935
+      },
+      "url": "https://www.semanticscholar.org/paper/f5daa6f41072febf94914ddccefd87889363e6bf",
+      "title": "Infinitely many-armed bandits",
+      "venue": "Neural Information Processing Systems",
+      "year": 2008,
+      "referenceCount": 12,
+      "citationCount": 14,
+      "authors": [
+        {
+          "authorId": "2267939",
+          "name": "Yizao Wang"
+        },
+        {
+          "authorId": "3015507",
+          "name": "Jean-Yves Audibert"
+        },
+        {
+          "authorId": "1708654",
+          "name": "R. Munos"
+        }
+      ]
+    }
+  ]
+}

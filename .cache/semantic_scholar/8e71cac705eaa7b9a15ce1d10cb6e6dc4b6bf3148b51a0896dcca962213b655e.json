@@ -1,0 +1,2326 @@
+{
+  "total": 24,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "39fb9fa2615620f043084a2ecbbdb1a1f8c707c9",
+      "externalIds": {
+        "MAG": "2729557715",
+        "DBLP": "conf/icml/RitterBSB17",
+        "ArXiv": "1706.08606",
+        "CorpusId": 22689427
+      },
+      "url": "https://www.semanticscholar.org/paper/39fb9fa2615620f043084a2ecbbdb1a1f8c707c9",
+      "title": "Cognitive Psychology for Deep Neural Networks: A Shape Bias Case Study",
+      "venue": "International Conference on Machine Learning",
+      "year": 2017,
+      "referenceCount": 42,
+      "citationCount": 203,
+      "authors": [
+        {
+          "authorId": "3361022",
+          "name": "Samuel Ritter"
+        },
+        {
+          "authorId": "50181861",
+          "name": "D. Barrett"
+        },
+        {
+          "authorId": "35030998",
+          "name": "Adam Santoro"
+        },
+        {
+          "authorId": "46378362",
+          "name": "M. Botvinick"
+        }
+      ]
+    },
+    {
+      "paperId": "4df8da4fcd94973a82f631140b50619514b28322",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-1709-03806",
+        "ArXiv": "1709.03806",
+        "MAG": "2754507077",
+        "CorpusId": 707960
+      },
+      "url": "https://www.semanticscholar.org/paper/4df8da4fcd94973a82f631140b50619514b28322",
+      "title": "Can Deep Neural Networks Match the Related Objects?: A Survey on ImageNet-trained Classification Models",
+      "venue": "arXiv.org",
+      "year": 2017,
+      "referenceCount": 25,
+      "citationCount": 6,
+      "authors": [
+        {
+          "authorId": "13621262",
+          "name": "Han S. Lee"
+        },
+        {
+          "authorId": "1800903",
+          "name": "Heechul Jung"
+        },
+        {
+          "authorId": "26396326",
+          "name": "Alex A. Agarwal"
+        },
+        {
+          "authorId": "1769295",
+          "name": "Junmo Kim"
+        }
+      ]
+    },
+    {
+      "paperId": "aa4267f991d901fd6ee40460bca8840623e48d24",
+      "externalIds": {
+        "DBLP": "journals/tim/MohanSBYK23",
+        "DOI": "10.1109/TIM.2023.3243661",
+        "CorpusId": 256753964
+      },
+      "url": "https://www.semanticscholar.org/paper/aa4267f991d901fd6ee40460bca8840623e48d24",
+      "title": "Understanding Deep Learning Techniques for Recognition of Human Emotions Using Facial Expressions: A Comprehensive Survey",
+      "venue": "IEEE Transactions on Instrumentation and Measurement",
+      "year": 2023,
+      "referenceCount": 269,
+      "citationCount": 158,
+      "authors": [
+        {
+          "authorId": "2122262218",
+          "name": "Mohan Karnati"
+        },
+        {
+          "authorId": "101535191",
+          "name": "Ayan Seal"
+        },
+        {
+          "authorId": "144247371",
+          "name": "D. Bhattacharjee"
+        },
+        {
+          "authorId": "145191958",
+          "name": "A. Yazidi"
+        },
+        {
+          "authorId": "1755574",
+          "name": "O. Krejcar"
+        }
+      ]
+    },
+    {
+      "paperId": "c5de1a22cc6cd8f6c95d9049244136808b94cd91",
+      "externalIds": {
+        "ArXiv": "2409.07528",
+        "DOI": "10.1051/0004-6361/202452129",
+        "CorpusId": 272600374
+      },
+      "url": "https://www.semanticscholar.org/paper/c5de1a22cc6cd8f6c95d9049244136808b94cd91",
+      "title": "Euclid preparation: LXVII. Deep learning true galaxy morphologies for weak lensing shear bias calibration",
+      "venue": "Astronomy &amp; Astrophysics",
+      "year": 2024,
+      "referenceCount": 86,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "2320808271",
+          "name": "Euclid Collaboration B. Csizi"
+        },
+        {
+          "authorId": "102268726",
+          "name": "T. Schrabback"
+        },
+        {
+          "authorId": "102743582",
+          "name": "S. Grandis"
+        },
+        {
+          "authorId": "2062712267",
+          "name": "H. Hoekstra"
+        },
+        {
+          "authorId": "2279751104",
+          "name": "H. Jansen"
+        },
+        {
+          "authorId": "2299327685",
+          "name": "L. Linke"
+        },
+        {
+          "authorId": "48518696",
+          "name": "G. Congedo"
+        },
+        {
+          "authorId": "2242242673",
+          "name": "A. Taylor"
+        },
+        {
+          "authorId": "2256440113",
+          "name": "A. Amara"
+        },
+        {
+          "authorId": "1748532",
+          "name": "S. Andreon"
+        },
+        {
+          "authorId": "2488388",
+          "name": "C. Baccigalupi"
+        },
+        {
+          "authorId": "2247907098",
+          "name": "M. Baldi"
+        },
+        {
+          "authorId": "5276210",
+          "name": "S. Bardelli"
+        },
+        {
+          "authorId": "134563646",
+          "name": "P. Battaglia"
+        },
+        {
+          "authorId": "2256643411",
+          "name": "R. Bender"
+        },
+        {
+          "authorId": "2220127",
+          "name": "C. Bodendorf"
+        },
+        {
+          "authorId": "66835922",
+          "name": "D. Bonino"
+        },
+        {
+          "authorId": "4804744",
+          "name": "E. Branchini"
+        },
+        {
+          "authorId": "2260337097",
+          "name": "M. Brescia"
+        },
+        {
+          "authorId": "144090605",
+          "name": "J. Brinchmann"
+        },
+        {
+          "authorId": "49731796",
+          "name": "S. Camera"
+        },
+        {
+          "authorId": "108516655",
+          "name": "V. Capobianco"
+        },
+        {
+          "authorId": "37874349",
+          "name": "C. Carbone"
+        },
+        {
+          "authorId": "119894740",
+          "name": "J. Carretero"
+        },
+        {
+          "authorId": "144248743",
+          "name": "S. Casas"
+        },
+        {
+          "authorId": "4969574",
+          "name": "F. Castander"
+        },
+        {
+          "authorId": "2241604074",
+          "name": "M. Castellano"
+        },
+        {
+          "authorId": "102356560",
+          "name": "G. Castignani"
+        },
+        {
+          "authorId": "2568179",
+          "name": "S. Cavuoti"
+        },
+        {
+          "authorId": "1742667",
+          "name": "A. Cimatti"
+        },
+        {
+          "authorId": "1380246041",
+          "name": "C. Colodro-Conde"
+        },
+        {
+          "authorId": "115465067",
+          "name": "C. Conselice"
+        },
+        {
+          "authorId": "8114978",
+          "name": "L. Conversi"
+        },
+        {
+          "authorId": "69010811",
+          "name": "Y. Copin"
+        },
+        {
+          "authorId": "3687489",
+          "name": "F. Courbin"
+        },
+        {
+          "authorId": "2258955424",
+          "name": "H. Courtois"
+        },
+        {
+          "authorId": "3251370",
+          "name": "M. Cropper"
+        },
+        {
+          "authorId": "2110269114",
+          "name": "A. Silva"
+        },
+        {
+          "authorId": "5456964",
+          "name": "H. Degaudenzi"
+        },
+        {
+          "authorId": "40809692",
+          "name": "G. Lucia"
+        },
+        {
+          "authorId": "145427654",
+          "name": "J. Dinis"
+        },
+        {
+          "authorId": "5444640",
+          "name": "M. Douspis"
+        },
+        {
+          "authorId": "51241348",
+          "name": "F. Dubath"
+        },
+        {
+          "authorId": "6729944",
+          "name": "X. Dupac"
+        },
+        {
+          "authorId": "6909880",
+          "name": "S. Dusini"
+        },
+        {
+          "authorId": "117076357",
+          "name": "M. Farina"
+        },
+        {
+          "authorId": "103168094",
+          "name": "S. Farrens"
+        },
+        {
+          "authorId": "52229461",
+          "name": "F. Faustini"
+        },
+        {
+          "authorId": "47118705",
+          "name": "S. Ferriol"
+        },
+        {
+          "authorId": "51249528",
+          "name": "S. Fotopoulou"
+        },
+        {
+          "authorId": "3073847",
+          "name": "M. Frailis"
+        },
+        {
+          "authorId": "46832563",
+          "name": "E. Franceschi"
+        },
+        {
+          "authorId": "2574173",
+          "name": "S. Galeotta"
+        },
+        {
+          "authorId": "102716273",
+          "name": "B. Gillis"
+        },
+        {
+          "authorId": "51456607",
+          "name": "C. Giocoli"
+        },
+        {
+          "authorId": "12897738",
+          "name": "A. Grazian"
+        },
+        {
+          "authorId": "1411206975",
+          "name": "F. Grupp"
+        },
+        {
+          "authorId": "5200944",
+          "name": "L. Guzzo"
+        },
+        {
+          "authorId": "69054246",
+          "name": "S. Haugan"
+        },
+        {
+          "authorId": "1599284720",
+          "name": "W. Holmes"
+        },
+        {
+          "authorId": "3060588",
+          "name": "I. Hook"
+        },
+        {
+          "authorId": "12095927",
+          "name": "F. Hormuth"
+        },
+        {
+          "authorId": "46773613",
+          "name": "A. Hornstrup"
+        },
+        {
+          "authorId": "3451237",
+          "name": "P. Hudelot"
+        },
+        {
+          "authorId": "2158997927",
+          "name": "S. Ili'c"
+        },
+        {
+          "authorId": "33445215",
+          "name": "K. Jahnke"
+        },
+        {
+          "authorId": "153312028",
+          "name": "M. Jhabvala"
+        },
+        {
+          "authorId": "30125421",
+          "name": "B. Joachimi"
+        },
+        {
+          "authorId": "102922668",
+          "name": "E. Keihanen"
+        },
+        {
+          "authorId": "11647299",
+          "name": "S. Kermiche"
+        },
+        {
+          "authorId": "145717114",
+          "name": "A. Kiessling"
+        },
+        {
+          "authorId": "35043875",
+          "name": "M. Kilbinger"
+        },
+        {
+          "authorId": "95237098",
+          "name": "B. Kubik"
+        },
+        {
+          "authorId": "102801781",
+          "name": "K. Kuijken"
+        },
+        {
+          "authorId": "152478113",
+          "name": "M. Kummel"
+        },
+        {
+          "authorId": "2270751471",
+          "name": "M. Kunz"
+        },
+        {
+          "authorId": "1380246077",
+          "name": "H. Kurki-Suonio"
+        },
+        {
+          "authorId": "66032887",
+          "name": "S. Ligori"
+        },
+        {
+          "authorId": "3926702",
+          "name": "P. Lilje"
+        },
+        {
+          "authorId": "103088323",
+          "name": "V. Lindholm"
+        },
+        {
+          "authorId": "12563398",
+          "name": "I. Lloro"
+        },
+        {
+          "authorId": "2177248",
+          "name": "D. Maino"
+        },
+        {
+          "authorId": "2068971344",
+          "name": "E. Maiorano"
+        },
+        {
+          "authorId": "3483703",
+          "name": "O. Mansutti"
+        },
+        {
+          "authorId": "100462297",
+          "name": "S. Marcin"
+        },
+        {
+          "authorId": "52201814",
+          "name": "O. Marggraf"
+        },
+        {
+          "authorId": "119778629",
+          "name": "K. Markovič"
+        },
+        {
+          "authorId": "2275237204",
+          "name": "M. Martinelli"
+        },
+        {
+          "authorId": "48525489",
+          "name": "N. Martinet"
+        },
+        {
+          "authorId": "30800771",
+          "name": "F. Marulli"
+        },
+        {
+          "authorId": "2242178060",
+          "name": "R. Massey"
+        },
+        {
+          "authorId": "15147676",
+          "name": "E. Medinaceli"
+        },
+        {
+          "authorId": "2381720677",
+          "name": "S. Mei"
+        },
+        {
+          "authorId": "108020378",
+          "name": "M. Melchior"
+        },
+        {
+          "authorId": "3849545",
+          "name": "Y. Mellier"
+        },
+        {
+          "authorId": "2251961290",
+          "name": "M. Meneghetti"
+        },
+        {
+          "authorId": "6030188",
+          "name": "G. Meylan"
+        },
+        {
+          "authorId": "2568146",
+          "name": "Michele Moresco"
+        },
+        {
+          "authorId": "2302030921",
+          "name": "L. Moscardini"
+        },
+        {
+          "authorId": "40465320",
+          "name": "S. Niemi"
+        },
+        {
+          "authorId": "2241600378",
+          "name": "C. Padilla"
+        },
+        {
+          "authorId": "4196114",
+          "name": "S. Paltani"
+        },
+        {
+          "authorId": "3248528",
+          "name": "F. Pasian"
+        },
+        {
+          "authorId": "2256991407",
+          "name": "K. Pedersen"
+        },
+        {
+          "authorId": "3691085",
+          "name": "V. Pettorino"
+        },
+        {
+          "authorId": "145574484",
+          "name": "S. Pires"
+        },
+        {
+          "authorId": "2320401416",
+          "name": "G. Polenta"
+        },
+        {
+          "authorId": "47788108",
+          "name": "M. Poncet"
+        },
+        {
+          "authorId": "144761488",
+          "name": "L. Popa"
+        },
+        {
+          "authorId": "103255899",
+          "name": "F. Raison"
+        },
+        {
+          "authorId": "1992929",
+          "name": "A. Renzi"
+        },
+        {
+          "authorId": "2241967323",
+          "name": "J. Rhodes"
+        },
+        {
+          "authorId": "2264761576",
+          "name": "G. Riccio"
+        },
+        {
+          "authorId": "52154193",
+          "name": "E. Romelli"
+        },
+        {
+          "authorId": "89191647",
+          "name": "M. Roncarelli"
+        },
+        {
+          "authorId": "81693785",
+          "name": "E. Rossetti"
+        },
+        {
+          "authorId": "96237694",
+          "name": "R. Saglia"
+        },
+        {
+          "authorId": "108490464",
+          "name": "Z. Sakr"
+        },
+        {
+          "authorId": "49913905",
+          "name": "A. S'anchez"
+        },
+        {
+          "authorId": "2047726657",
+          "name": "B. Sartoris"
+        },
+        {
+          "authorId": "2058146233",
+          "name": "P. Schneider"
+        },
+        {
+          "authorId": "92964702",
+          "name": "A. Secroun"
+        },
+        {
+          "authorId": "49328699",
+          "name": "G. Seidel"
+        },
+        {
+          "authorId": "2053825494",
+          "name": "S. Serrano"
+        },
+        {
+          "authorId": "47085800",
+          "name": "C. Sirignano"
+        },
+        {
+          "authorId": "15093029",
+          "name": "G. Sirri"
+        },
+        {
+          "authorId": "152299828",
+          "name": "L. Stanco"
+        },
+        {
+          "authorId": "49347199",
+          "name": "J. Steinwagner"
+        },
+        {
+          "authorId": "1380246072",
+          "name": "P. Tallada-Cresp'i"
+        },
+        {
+          "authorId": "73702643",
+          "name": "D. Tavagnacco"
+        },
+        {
+          "authorId": "11750083",
+          "name": "H. Teplitz"
+        },
+        {
+          "authorId": "3440614",
+          "name": "I. Tereno"
+        },
+        {
+          "authorId": "1380245958",
+          "name": "R. Toledo-Moreo"
+        },
+        {
+          "authorId": "103759883",
+          "name": "F. Torradeflot"
+        },
+        {
+          "authorId": "5972836",
+          "name": "I. Tutusaus"
+        },
+        {
+          "authorId": "2249578572",
+          "name": "E. Valentijn"
+        },
+        {
+          "authorId": "5725782",
+          "name": "L. Valenziano"
+        },
+        {
+          "authorId": "95807245",
+          "name": "T. Vassallo"
+        },
+        {
+          "authorId": "1833440",
+          "name": "G. Kleijn"
+        },
+        {
+          "authorId": "69904258",
+          "name": "A. Veropalumbo"
+        },
+        {
+          "authorId": "47905241",
+          "name": "Y. Wang"
+        },
+        {
+          "authorId": "2249429875",
+          "name": "J. Weller"
+        },
+        {
+          "authorId": "2163163103",
+          "name": "G. Zamorani"
+        },
+        {
+          "authorId": "2246273762",
+          "name": "E. Zucca"
+        },
+        {
+          "authorId": "153549651",
+          "name": "A. Biviano"
+        },
+        {
+          "authorId": "5919593",
+          "name": "M. Bolzonella"
+        },
+        {
+          "authorId": "2239612865",
+          "name": "E. Bozzo"
+        },
+        {
+          "authorId": "2269510",
+          "name": "C. Burigana"
+        },
+        {
+          "authorId": "2255466480",
+          "name": "M. Calabrese"
+        },
+        {
+          "authorId": "66873358",
+          "name": "D. Ferdinando"
+        },
+        {
+          "authorId": "2237423400",
+          "name": "J. Vigo"
+        },
+        {
+          "authorId": "5015676",
+          "name": "R. Farinelli"
+        },
+        {
+          "authorId": "1380246220",
+          "name": "J. Graciá-Carpio"
+        },
+        {
+          "authorId": "2296600815",
+          "name": "S. Matthew"
+        },
+        {
+          "authorId": "6390974",
+          "name": "N. Mauri"
+        },
+        {
+          "authorId": "2257329746",
+          "name": "A. Pezzotta"
+        },
+        {
+          "authorId": "14971047",
+          "name": "M. Pontinen"
+        },
+        {
+          "authorId": "102260274",
+          "name": "V. Scottez"
+        },
+        {
+          "authorId": "2258696071",
+          "name": "M. Tenti"
+        },
+        {
+          "authorId": "151141461",
+          "name": "M. Viel"
+        },
+        {
+          "authorId": "2293845265",
+          "name": "M. Wiesmann"
+        },
+        {
+          "authorId": "2278171699",
+          "name": "Y. Akrami"
+        },
+        {
+          "authorId": "71360070",
+          "name": "V. Allevato"
+        },
+        {
+          "authorId": "51168263",
+          "name": "S. Anselmi"
+        },
+        {
+          "authorId": "103291010",
+          "name": "M. Archidiacono"
+        },
+        {
+          "authorId": "1388392487",
+          "name": "F. Atrio-Barandela"
+        },
+        {
+          "authorId": "92991858",
+          "name": "M. Ballardini"
+        },
+        {
+          "authorId": "2242064889",
+          "name": "A. Blanchard"
+        },
+        {
+          "authorId": "103103306",
+          "name": "L. Blot"
+        },
+        {
+          "authorId": "3838450",
+          "name": "S. Borgani"
+        },
+        {
+          "authorId": "2265382677",
+          "name": "S. Bruton"
+        },
+        {
+          "authorId": "122310377",
+          "name": "R. Cabanac"
+        },
+        {
+          "authorId": "2224886858",
+          "name": "A. Calabrò"
+        },
+        {
+          "authorId": "2249533065",
+          "name": "G. Cañas-Herrera"
+        },
+        {
+          "authorId": "114283565",
+          "name": "A. Cappi"
+        },
+        {
+          "authorId": "144101818",
+          "name": "F. Caro"
+        },
+        {
+          "authorId": "143886458",
+          "name": "C. Carvalho"
+        },
+        {
+          "authorId": "151424547",
+          "name": "T. Castro"
+        },
+        {
+          "authorId": "2261246009",
+          "name": "K. Chambers"
+        },
+        {
+          "authorId": "89970784",
+          "name": "S. Contarini"
+        },
+        {
+          "authorId": "1399728540",
+          "name": "A. Cooray"
+        },
+        {
+          "authorId": "103261487",
+          "name": "G. Desprez"
+        },
+        {
+          "authorId": "2164336044",
+          "name": "A. D'iaz-S'anchez"
+        },
+        {
+          "authorId": "2302844520",
+          "name": "J. Diaz"
+        },
+        {
+          "authorId": "5492224",
+          "name": "S. Domizio"
+        },
+        {
+          "authorId": "65805413",
+          "name": "H. Dole"
+        },
+        {
+          "authorId": "5618143",
+          "name": "S. Escoffier"
+        },
+        {
+          "authorId": "2297188318",
+          "name": "A. Ferrari"
+        },
+        {
+          "authorId": "2265492779",
+          "name": "P. G. Ferreira"
+        },
+        {
+          "authorId": "104877970",
+          "name": "I. Ferrero"
+        },
+        {
+          "authorId": "5801502",
+          "name": "A. Finoguenov"
+        },
+        {
+          "authorId": "2237991026",
+          "name": "A. Fontana"
+        },
+        {
+          "authorId": "51398556",
+          "name": "F. Fornari"
+        },
+        {
+          "authorId": "80007770",
+          "name": "L. Gabarra"
+        },
+        {
+          "authorId": "50689914",
+          "name": "K. Ganga"
+        },
+        {
+          "authorId": "2311884069",
+          "name": "J. Garc'ia-Bellido"
+        },
+        {
+          "authorId": "151472043",
+          "name": "T. Gasparetto"
+        },
+        {
+          "authorId": "6009422",
+          "name": "E. Gaztañaga"
+        },
+        {
+          "authorId": "2265489759",
+          "name": "F. Giacomini"
+        },
+        {
+          "authorId": "2320395904",
+          "name": "F. Gianotti"
+        },
+        {
+          "authorId": "88742255",
+          "name": "G. Gozaliasl"
+        },
+        {
+          "authorId": "2302772698",
+          "name": "C. M. Gutiérrez"
+        },
+        {
+          "authorId": "2267490304",
+          "name": "A. Hall"
+        },
+        {
+          "authorId": "2261389594",
+          "name": "H. Hildebrandt"
+        },
+        {
+          "authorId": "2293615796",
+          "name": "J. Hjorth"
+        },
+        {
+          "authorId": "2248523660",
+          "name": "A. Muñoz"
+        },
+        {
+          "authorId": "9916889",
+          "name": "S. Joudaki"
+        },
+        {
+          "authorId": "94502481",
+          "name": "J. Kajava"
+        },
+        {
+          "authorId": "2043319272",
+          "name": "Vanshika Kansal"
+        },
+        {
+          "authorId": "2292325983",
+          "name": "D. Karagiannis"
+        },
+        {
+          "authorId": "21540573",
+          "name": "C. Kirkpatrick"
+        },
+        {
+          "authorId": "32343978",
+          "name": "A. Brun"
+        },
+        {
+          "authorId": "2302795602",
+          "name": "J. L. Graet"
+        },
+        {
+          "authorId": "2256718360",
+          "name": "L. Legrand"
+        },
+        {
+          "authorId": "5501691",
+          "name": "J. Lesgourgues"
+        },
+        {
+          "authorId": "1580601526",
+          "name": "T. Liaudat"
+        },
+        {
+          "authorId": "103127479",
+          "name": "A. Loureiro"
+        },
+        {
+          "authorId": "1399376020",
+          "name": "J. Macías-Pérez"
+        },
+        {
+          "authorId": "2254516525",
+          "name": "G. Maggio"
+        },
+        {
+          "authorId": "73139730",
+          "name": "M. Magliocchetti"
+        },
+        {
+          "authorId": "2282962920",
+          "name": "C. Mancini"
+        },
+        {
+          "authorId": "8389856",
+          "name": "F. Mannucci"
+        },
+        {
+          "authorId": "31063452",
+          "name": "R. Maoli"
+        },
+        {
+          "authorId": "2246129143",
+          "name": "J. Mart'in-Fleitas"
+        },
+        {
+          "authorId": "2249531152",
+          "name": "C. Martins"
+        },
+        {
+          "authorId": "102479600",
+          "name": "L. Maurin"
+        },
+        {
+          "authorId": "143736725",
+          "name": "R. B. Metcalf"
+        },
+        {
+          "authorId": "102943804",
+          "name": "M. Miluzio"
+        },
+        {
+          "authorId": "2069976986",
+          "name": "P. Monaco"
+        },
+        {
+          "authorId": "2277601325",
+          "name": "A. Montoro"
+        },
+        {
+          "authorId": "2302795279",
+          "name": "A. Mora"
+        },
+        {
+          "authorId": "2267727743",
+          "name": "C. Moretti"
+        },
+        {
+          "authorId": "4303406",
+          "name": "G. Morgante"
+        },
+        {
+          "authorId": "2267725803",
+          "name": "N. A. Walton"
+        },
+        {
+          "authorId": "2280134445",
+          "name": "L. Pagano"
+        },
+        {
+          "authorId": "11914711",
+          "name": "L. Patrizii"
+        },
+        {
+          "authorId": "2066308744",
+          "name": "V. Popa"
+        },
+        {
+          "authorId": "50126970",
+          "name": "D. Potter"
+        },
+        {
+          "authorId": "2085888229",
+          "name": "I. Risso"
+        },
+        {
+          "authorId": "101929864",
+          "name": "P. Rocci"
+        },
+        {
+          "authorId": "2133346881",
+          "name": "M. Sahl'en"
+        },
+        {
+          "authorId": "103222941",
+          "name": "E. Sarpa"
+        },
+        {
+          "authorId": "2071234234",
+          "name": "A. Schneider"
+        },
+        {
+          "authorId": "98358467",
+          "name": "M. Sereno"
+        },
+        {
+          "authorId": "2052639391",
+          "name": "P. Simon"
+        },
+        {
+          "authorId": "50350073",
+          "name": "A. Mancini"
+        },
+        {
+          "authorId": "102680404",
+          "name": "J. Stadel"
+        },
+        {
+          "authorId": "102557399",
+          "name": "K. Tanidis"
+        },
+        {
+          "authorId": "2302770495",
+          "name": "C. Tao"
+        },
+        {
+          "authorId": "90977202",
+          "name": "N. Tessore"
+        },
+        {
+          "authorId": "113026221",
+          "name": "G. Testera"
+        },
+        {
+          "authorId": "2089999978",
+          "name": "R. Teyssier"
+        },
+        {
+          "authorId": "2267725970",
+          "name": "S. Toft"
+        },
+        {
+          "authorId": "2265382957",
+          "name": "S. Tosi"
+        },
+        {
+          "authorId": "152981643",
+          "name": "A. Troja"
+        },
+        {
+          "authorId": "2304787231",
+          "name": "M. Tucci"
+        },
+        {
+          "authorId": "92702151",
+          "name": "C. Valieri"
+        },
+        {
+          "authorId": "5048135",
+          "name": "J. Valiviita"
+        },
+        {
+          "authorId": "2263865619",
+          "name": "D. Vergani"
+        },
+        {
+          "authorId": "114039994",
+          "name": "G. Verza"
+        },
+        {
+          "authorId": "2320808229",
+          "name": "P. U. Innsbruck"
+        },
+        {
+          "authorId": "102863270",
+          "name": "Institut fur Teilchenphysik"
+        },
+        {
+          "authorId": "2203364874",
+          "name": "Technikerstr. 258"
+        },
+        {
+          "authorId": "1398787039",
+          "name": "6020 Innsbruck"
+        },
+        {
+          "authorId": "52514535",
+          "name": "M Austria"
+        },
+        {
+          "authorId": "2054760452",
+          "name": "L. Observatory"
+        },
+        {
+          "authorId": "2065599210",
+          "name": "Leiden University"
+        },
+        {
+          "authorId": "2301019020",
+          "name": "55 Einsteinweg"
+        },
+        {
+          "authorId": "2301019285",
+          "name": "2333 CC Leiden"
+        },
+        {
+          "authorId": "103330496",
+          "name": "The Netherlands."
+        },
+        {
+          "authorId": "103004057",
+          "name": "Institute for Astronomy"
+        },
+        {
+          "authorId": "95994788",
+          "name": "U. Edinburgh"
+        },
+        {
+          "authorId": "1410615093",
+          "name": "R. Observatory"
+        },
+        {
+          "authorId": "41221445",
+          "name": "B. Hill"
+        },
+        {
+          "authorId": "152478613",
+          "name": "Edinburgh EH9 3HJ"
+        },
+        {
+          "authorId": "2262550528",
+          "name": "Uk"
+        },
+        {
+          "authorId": "51954309",
+          "name": "S. O. Mathematics"
+        },
+        {
+          "authorId": "30064669",
+          "name": "Physics"
+        },
+        {
+          "authorId": "103192379",
+          "name": "U. Surrey"
+        },
+        {
+          "authorId": "80276246",
+          "name": "Guildford"
+        },
+        {
+          "authorId": "14622441",
+          "name": "Surrey"
+        },
+        {
+          "authorId": "1734786106",
+          "name": "GU2 7XH"
+        },
+        {
+          "authorId": "152287482",
+          "name": "Inaf Brera"
+        },
+        {
+          "authorId": "2157044849",
+          "name": "28 ViaBrera"
+        },
+        {
+          "authorId": "103304654",
+          "name": "20133 Milano"
+        },
+        {
+          "authorId": "2251847707",
+          "name": "Italy"
+        },
+        {
+          "authorId": "2154608445",
+          "name": "Ifpu"
+        },
+        {
+          "authorId": "1490888546",
+          "name": "Institute for Fundamental Physics of the Universe"
+        },
+        {
+          "authorId": "2047287443",
+          "name": "2. viaBeirut"
+        },
+        {
+          "authorId": "2037383460",
+          "name": "34127 Trieste"
+        },
+        {
+          "authorId": "145906293",
+          "name": "Inaf Trieste"
+        },
+        {
+          "authorId": "1417420946",
+          "name": "11 ViaG.B.Tiepolo"
+        },
+        {
+          "authorId": "2037383460",
+          "name": "34127 Trieste"
+        },
+        {
+          "authorId": "152568243",
+          "name": "Infn"
+        },
+        {
+          "authorId": "102753457",
+          "name": "Sezione di Trieste"
+        },
+        {
+          "authorId": "1413659873",
+          "name": "2. ViaValerio"
+        },
+        {
+          "authorId": "2191896030",
+          "name": "TS 34127Trieste"
+        },
+        {
+          "authorId": "102442433",
+          "name": "Sissa"
+        },
+        {
+          "authorId": "102456232",
+          "name": "International School for Advanced Studies"
+        },
+        {
+          "authorId": "2157044594",
+          "name": "Via Bonomea 265"
+        },
+        {
+          "authorId": "2191897400",
+          "name": "TS 34136Trieste"
+        },
+        {
+          "authorId": "102468963",
+          "name": "D. Astronomia"
+        },
+        {
+          "authorId": "112871064",
+          "name": "U. Bologna"
+        },
+        {
+          "authorId": "1422457674",
+          "name": "V. G. 932"
+        },
+        {
+          "authorId": "103220483",
+          "name": "40129 Bologna"
+        },
+        {
+          "authorId": "102827193",
+          "name": "I. Bologna"
+        },
+        {
+          "authorId": "103230173",
+          "name": "V. G. 933"
+        },
+        {
+          "authorId": "102827178",
+          "name": "I. Bologna"
+        },
+        {
+          "authorId": "113354953",
+          "name": "62 vialeBertiPichat"
+        },
+        {
+          "authorId": "103220483",
+          "name": "40129 Bologna"
+        },
+        {
+          "authorId": "121021007",
+          "name": "M. F. P. Physics"
+        },
+        {
+          "authorId": "2157043508",
+          "name": "1. Giessenbachstr."
+        },
+        {
+          "authorId": "102943829",
+          "name": "85748 Garching"
+        },
+        {
+          "authorId": "2264654886",
+          "name": "Germany"
+        },
+        {
+          "authorId": "103210288",
+          "name": "Universitatssternwarte Munchen"
+        },
+        {
+          "authorId": "103024819",
+          "name": "F. Physik"
+        },
+        {
+          "authorId": "52244545",
+          "name": "Ludwig-Maximilians-Universitat Munchen"
+        },
+        {
+          "authorId": "102632447",
+          "name": "1. Scheinerstrasse"
+        },
+        {
+          "authorId": "1389868000",
+          "name": "8. Munchen"
+        },
+        {
+          "authorId": "2202029828",
+          "name": "I. Torino"
+        },
+        {
+          "authorId": "1387934705",
+          "name": "20 viaOsservatorio"
+        },
+        {
+          "authorId": "1382582906",
+          "name": "1. P. Torinese"
+        },
+        {
+          "authorId": "92909518",
+          "name": "D. Fisica"
+        },
+        {
+          "authorId": "102864912",
+          "name": "U. Genova"
+        },
+        {
+          "authorId": "1422213009",
+          "name": "33 viaDodecaneso"
+        },
+        {
+          "authorId": "2090357082",
+          "name": "16146"
+        },
+        {
+          "authorId": "103057906",
+          "name": "Genova"
+        },
+        {
+          "authorId": "152359268",
+          "name": "I. Genova"
+        },
+        {
+          "authorId": "2157042414",
+          "name": "Department of PhysicsE. Pancini"
+        },
+        {
+          "authorId": "102803639",
+          "name": "U. Federico"
+        },
+        {
+          "authorId": "2157044898",
+          "name": "6. ViaCinthia"
+        },
+        {
+          "authorId": "2191895395",
+          "name": "80126"
+        },
+        {
+          "authorId": "2241270084",
+          "name": "Napoli"
+        },
+        {
+          "authorId": "90940924",
+          "name": "I. -. Capodimonte"
+        },
+        {
+          "authorId": "2157044864",
+          "name": "16 viaMoiariello"
+        },
+        {
+          "authorId": "2191896907",
+          "name": "80131 Napoli"
+        },
+        {
+          "authorId": "2157043002",
+          "name": "I. Naples"
+        },
+        {
+          "authorId": "88742463",
+          "name": "I. D. A. E. C. D. Espacco"
+        },
+        {
+          "authorId": "88740406",
+          "name": "U. Porto"
+        },
+        {
+          "authorId": "88741503",
+          "name": "Caup"
+        },
+        {
+          "authorId": "102718033",
+          "name": "Rua das Estrelas"
+        },
+        {
+          "authorId": "123753107",
+          "name": "P. Porto"
+        },
+        {
+          "authorId": "97953156",
+          "name": "Portugal"
+        },
+        {
+          "authorId": "123595280",
+          "name": "F. Porto"
+        },
+        {
+          "authorId": "2240119175",
+          "name": "Rua do Campo Alegre"
+        },
+        {
+          "authorId": "2039660862",
+          "name": "4169-007 Porto"
+        },
+        {
+          "authorId": "102735570",
+          "name": "U. Torino"
+        },
+        {
+          "authorId": "1422586098",
+          "name": "1. ViaP.Giuria"
+        },
+        {
+          "authorId": "1387897930",
+          "name": "10125 Torino"
+        },
+        {
+          "authorId": "145872073",
+          "name": "I. Torino"
+        },
+        {
+          "authorId": "103287996",
+          "name": "Inaf-Iasf Milano"
+        },
+        {
+          "authorId": "2157042433",
+          "name": "12 ViaAlfonsoCorti"
+        },
+        {
+          "authorId": "103304654",
+          "name": "20133 Milano"
+        },
+        {
+          "authorId": "103205512",
+          "name": "Centro de Investigaciones Energ'eticas"
+        },
+        {
+          "authorId": "100460827",
+          "name": "Medioambientales y Tecnol'ogicas"
+        },
+        {
+          "authorId": "1491707808",
+          "name": "40 AvenidaComplutense"
+        },
+        {
+          "authorId": "102853551",
+          "name": "28014 Madrid"
+        },
+        {
+          "authorId": "120231217",
+          "name": "Spain."
+        },
+        {
+          "authorId": "2124367374",
+          "name": "Port d'Informaci'o Cient'ifica"
+        },
+        {
+          "authorId": "102449811",
+          "name": "Campus Uab"
+        },
+        {
+          "authorId": "89410745",
+          "name": "C. Sn"
+        },
+        {
+          "authorId": "88727214",
+          "name": "08193 Bellaterra"
+        },
+        {
+          "authorId": "102462783",
+          "name": "I. F. Physics"
+        },
+        {
+          "authorId": "102232946",
+          "name": "Cosmology"
+        },
+        {
+          "authorId": "90037339",
+          "name": "Rwth Aachen University"
+        },
+        {
+          "authorId": "2191896531",
+          "name": "52056 Aachen"
+        },
+        {
+          "authorId": "121892983",
+          "name": "Institute of Space Sciences"
+        },
+        {
+          "authorId": "2157044640",
+          "name": "Carrer de Can Magrans"
+        },
+        {
+          "authorId": "102439013",
+          "name": "Sn"
+        },
+        {
+          "authorId": "1388304977",
+          "name": "08193 Barcelona"
+        },
+        {
+          "authorId": "152160569",
+          "name": "I. D. E. D. Catalunya"
+        },
+        {
+          "authorId": "2296602367",
+          "name": "Edifici Rdit"
+        },
+        {
+          "authorId": "97932901",
+          "name": "C. Upc"
+        },
+        {
+          "authorId": "2301018695",
+          "name": "08860 Castelldefels"
+        },
+        {
+          "authorId": "121003604",
+          "name": "Barcelona"
+        },
+        {
+          "authorId": "2319606781",
+          "name": "Inafiasf Roma"
+        },
+        {
+          "authorId": "102689845",
+          "name": "33 viaFrascati"
+        },
+        {
+          "authorId": "102667878",
+          "name": "00078 Monte Porzio Catone"
+        },
+        {
+          "authorId": "1388952415",
+          "name": "D. Bologna"
+        },
+        {
+          "authorId": "1410640555",
+          "name": "Instituto de Astrof'isica de Canarias"
+        },
+        {
+          "authorId": "1388360687",
+          "name": "C. V. L. sn"
+        },
+        {
+          "authorId": "2191896798",
+          "name": "38204"
+        },
+        {
+          "authorId": "2256690591",
+          "name": "San Crist'obal de La Laguna"
+        },
+        {
+          "authorId": "152262807",
+          "name": "Tenerife"
+        },
+        {
+          "authorId": "102268868",
+          "name": "J. B. C. F. Astrophysics"
+        },
+        {
+          "authorId": "2237985348",
+          "name": "D. Physics"
+        },
+        {
+          "authorId": "2254660649",
+          "name": "Astronomy"
+        },
+        {
+          "authorId": "102997085",
+          "name": "U. Manchester"
+        },
+        {
+          "authorId": "71491410",
+          "name": "Oxford Road"
+        },
+        {
+          "authorId": "1617917610",
+          "name": "M13 9PL"
+        },
+        {
+          "authorId": "2157044287",
+          "name": "European Space AgencyESRIN"
+        },
+        {
+          "authorId": "2157043244",
+          "name": "1. LargoGalileoGalilei"
+        },
+        {
+          "authorId": "1388397787",
+          "name": "00044 Frascati"
+        },
+        {
+          "authorId": "152556838",
+          "name": "Roma"
+        },
+        {
+          "authorId": "103230873",
+          "name": "Esacesa"
+        },
+        {
+          "authorId": "2065337646",
+          "name": "Camino Bajo de Castillo"
+        },
+        {
+          "authorId": "102439013",
+          "name": "Sn"
+        },
+        {
+          "authorId": "102800819",
+          "name": "Urb. Villafranca del Castillo"
+        },
+        {
+          "authorId": "1388304707",
+          "name": "28692 Villanueva de la Canada"
+        },
+        {
+          "authorId": "2252612614",
+          "name": "Madrid"
+        },
+        {
+          "authorId": "1382546848",
+          "name": "1. Universit'eClaudeBernardLyon"
+        },
+        {
+          "authorId": "152432549",
+          "name": "CNRSIN2p3"
+        },
+        {
+          "authorId": "103286831",
+          "name": "I. Lyon"
+        },
+        {
+          "authorId": "2157044503",
+          "name": "Umr 5822"
+        },
+        {
+          "authorId": "102946594",
+          "name": "Villeurbanne"
+        },
+        {
+          "authorId": "2301018486",
+          "name": "F-69100"
+        },
+        {
+          "authorId": "2264615079",
+          "name": "France"
+        },
+        {
+          "authorId": "102462800",
+          "name": "I. O. Physics"
+        },
+        {
+          "authorId": "102345645",
+          "name": "Laboratory of Astrophysics"
+        },
+        {
+          "authorId": "102616163",
+          "name": "E. P. F. Lausanne"
+        },
+        {
+          "authorId": "102281895",
+          "name": "Observatoire de Sauverny"
+        },
+        {
+          "authorId": "103000020",
+          "name": "1290 Versoix"
+        },
+        {
+          "authorId": "121906441",
+          "name": "Switzerland."
+        },
+        {
+          "authorId": "97080864",
+          "name": "Institut de Ci'encies del Cosmos"
+        },
+        {
+          "authorId": "145524191",
+          "name": "U. Barcelona"
+        },
+        {
+          "authorId": "2161965602",
+          "name": "1. Mart'iiFranques"
+        },
+        {
+          "authorId": "1388304977",
+          "name": "08193 Barcelona"
+        },
+        {
+          "authorId": "1387885964",
+          "name": "I. C. D. R. I. E. Avanccats"
+        },
+        {
+          "authorId": "2302801422",
+          "name": "23 PasseigdeLlu'isCompanys"
+        },
+        {
+          "authorId": "1388304977",
+          "name": "08193 Barcelona"
+        },
+        {
+          "authorId": "2157043973",
+          "name": "1. UCBLyon"
+        },
+        {
+          "authorId": "51280923",
+          "name": "Iuf"
+        },
+        {
+          "authorId": "2142474323",
+          "name": "4. R. E. Fermi"
+        },
+        {
+          "authorId": "2211734560",
+          "name": "69622 Villeurbanne"
+        },
+        {
+          "authorId": "103253564",
+          "name": "Mullard Space Science Laboratory"
+        },
+        {
+          "authorId": "101245983",
+          "name": "U. London"
+        },
+        {
+          "authorId": "102836837",
+          "name": "Holmbury St. Mary"
+        },
+        {
+          "authorId": "10239573",
+          "name": "Dorking"
+        },
+        {
+          "authorId": "2156585065",
+          "name": "Surrey RH5 6NT"
+        },
+        {
+          "authorId": "103378694",
+          "name": "Departament de F'isica"
+        },
+        {
+          "authorId": "101180427",
+          "name": "F. Ciencias"
+        },
+        {
+          "authorId": "52467992",
+          "name": "Universidade Tecnica de Lisboa"
+        },
+        {
+          "authorId": "2162838174",
+          "name": "C8 Edif'icio"
+        },
+        {
+          "authorId": "2053992700",
+          "name": "C. Grande"
+        },
+        {
+          "authorId": "3878333",
+          "name": "P. Lisboa"
+        },
+        {
+          "authorId": "2170536169",
+          "name": "1049-001 Lisboa"
+        },
+        {
+          "authorId": "102339916",
+          "name": "D. O. Astronomy"
+        },
+        {
+          "authorId": "52229751",
+          "name": "U. Geneva"
+        },
+        {
+          "authorId": "2087693883",
+          "name": "16 ch.d'Ecogia"
+        },
+        {
+          "authorId": "1388354217",
+          "name": "Universit'e Paris-Saclay"
+        },
+        {
+          "authorId": "88741801",
+          "name": "Cnrs"
+        },
+        {
+          "authorId": "88742276",
+          "name": "I. D. Spatiale"
+        },
+        {
+          "authorId": "2142464246",
+          "name": "91405"
+        },
+        {
+          "authorId": "152116034",
+          "name": "Orsay"
+        },
+        {
+          "authorId": "1422423144",
+          "name": "INFN-Padova"
+        },
+        {
+          "authorId": "102349302",
+          "name": "8. viaMarzolo"
+        },
+        {
+          "authorId": "2189423295",
+          "name": "35131 Padova"
+        },
+        {
+          "authorId": "1823631848",
+          "name": "I. D. A. E. P. Spaziali"
+        },
+        {
+          "authorId": "103278669",
+          "name": "V. Cavaliere"
+        },
+        {
+          "authorId": "1391023356",
+          "name": "100"
+        },
+        {
+          "authorId": "1388360550",
+          "name": "00133 Roma"
+        },
+        {
+          "authorId": "2162838041",
+          "name": "Universit'e de Paris Cit'e"
+        },
+        {
+          "authorId": "152234079",
+          "name": "Cea"
+        },
+        {
+          "authorId": "87063022",
+          "name": "Aim"
+        },
+        {
+          "authorId": "2184593566",
+          "name": "91191"
+        },
+        {
+          "authorId": "1388354189",
+          "name": "Gif-sur-Yvette"
+        },
+        {
+          "authorId": "102538136",
+          "name": "S. Center"
+        },
+        {
+          "authorId": "1388360617",
+          "name": "Italian Space Agency"
+        },
+        {
+          "authorId": "1388360314",
+          "name": "via del Politecnico snc"
+        },
+        {
+          "authorId": "1388360550",
+          "name": "00133 Roma"
+        },
+        {
+          "authorId": "89909107",
+          "name": "S. O. Physics"
+        },
+        {
+          "authorId": "2157045440",
+          "name": "H. P. Laboratory"
+        },
+        {
+          "authorId": "73133885",
+          "name": "U. Bristol"
+        },
+        {
+          "authorId": "103021225",
+          "name": "Tyndall Avenue"
+        },
+        {
+          "authorId": "2261706718",
+          "name": "Bristol"
+        },
+        {
+          "authorId": "121885560",
+          "name": "BS8 1TL"
+        },
+        {
+          "authorId": "102325608",
+          "name": "Istituto Nazionale Fisica Nucleare"
+        },
+        {
+          "authorId": "39568705",
+          "name": "Sezione Infn di Bologna"
+        },
+        {
+          "authorId": "2157044904",
+          "name": "46 ViaIrnerio"
+        },
+        {
+          "authorId": "103220483",
+          "name": "40129 Bologna"
+        },
+        {
+          "authorId": "152168030",
+          "name": "Inaf - Padova"
+        },
+        {
+          "authorId": "2157044529",
+          "name": "5. Viadell'Osservatorio"
+        },
+        {
+          "authorId": "2189423295",
+          "name": "35131 Padova"
+        },
+        {
+          "authorId": "2119894628",
+          "name": "Dipartimento di FisicaAldo Pontremoli"
+        },
+        {
+          "authorId": "2315924541",
+          "name": "U. Milano"
+        },
+        {
+          "authorId": "103379564",
+          "name": "16 viaCeloria"
+        },
+        {
+          "authorId": "102710800",
+          "name": "I. Astrophysics"
+        },
+        {
+          "authorId": "102378200",
+          "name": "U. Oslo"
+        },
+        {
+          "authorId": "2157044459",
+          "name": "P. O. B. 1. Blindern"
+        },
+        {
+          "authorId": "1410624112",
+          "name": "0315 Oslo"
+        },
+        {
+          "authorId": "51953222",
+          "name": "Norway."
+        },
+        {
+          "authorId": "102835046",
+          "name": "Jet propulsion Laboratory"
+        },
+        {
+          "authorId": "102611508",
+          "name": "C. I. O. Technology."
+        },
+        {
+          "authorId": "2157043672",
+          "name": "4800 Oak Grove Drive"
+        },
+        {
+          "authorId": "119874209",
+          "name": "Pasadena"
+        },
+        {
+          "authorId": "51281501",
+          "name": "Ca"
+        },
+        {
+          "authorId": "2157044915",
+          "name": "91109"
+        },
+        {
+          "authorId": "2237992692",
+          "name": "Usa"
+        },
+        {
+          "authorId": "2292203198",
+          "name": "Lancaster University"
+        },
+        {
+          "authorId": "101253468",
+          "name": "Lancaster"
+        },
+        {
+          "authorId": "2157044596",
+          "name": "LA1 4YB"
+        },
+        {
+          "authorId": "2302796380",
+          "name": "Felix Hormuth Engineering"
+        },
+        {
+          "authorId": "2302795031",
+          "name": "17 Goethestr."
+        },
+        {
+          "authorId": "2302795786",
+          "name": "69181 Leimen"
+        },
+        {
+          "authorId": "12578472",
+          "name": "T. Denmark"
+        },
+        {
+          "authorId": "2157043404",
+          "name": "Elektrovej 327"
+        },
+        {
+          "authorId": "2157043299",
+          "name": "2800 Kgs. Lyngby"
+        },
+        {
+          "authorId": "113326763",
+          "name": "Denmark."
+        },
+        {
+          "authorId": "102481307",
+          "name": "Cosmic Dawn Center"
+        },
+        {
+          "authorId": "88739666",
+          "name": "I. Paris"
+        }
+      ]
+    },
+    {
+      "paperId": "7cb665eed753965019a5daf08c5338f5f19f5e72",
+      "externalIds": {
+        "PubMedCentral": "12262606",
+        "DOI": "10.1101/2025.03.21.644663",
+        "CorpusId": 277317986,
+        "PubMed": "40666915"
+      },
+      "url": "https://www.semanticscholar.org/paper/7cb665eed753965019a5daf08c5338f5f19f5e72",
+      "title": "Deep Learning Improves Parameter Estimation in Reinforcement Learning Models",
+      "venue": "bioRxiv",
+      "year": 2025,
+      "referenceCount": 68,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2238311364",
+          "name": "Huadong Xiong"
+        },
+        {
+          "authorId": "2238399267",
+          "name": "Ji-An Li"
+        },
+        {
+          "authorId": "2282475517",
+          "name": "Marcelo G. Mattar"
+        },
+        {
+          "authorId": "2238256559",
+          "name": "Robert C. Wilson"
+        }
+      ]
+    },
+    {
+      "paperId": "03262e2298cf033d06b40605ec9a091d9a85fae8",
+      "externalIds": {
+        "MAG": "2999600110",
+        "CorpusId": 213468293
+      },
+      "url": "https://www.semanticscholar.org/paper/03262e2298cf033d06b40605ec9a091d9a85fae8",
+      "title": "Modern Problems in Mathematical Signal Processing: Quantized Compressed Sensing and Randomized Neural Networks",
+      "venue": "",
+      "year": 2019,
+      "referenceCount": 87,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2072897983",
+          "name": "Aaron A. Nelson"
+        }
+      ]
+    },
+    {
+      "paperId": "372821154190f2617ed439faa6211dbb2275dba4",
+      "externalIds": {
+        "CorpusId": 204860365
+      },
+      "url": "https://www.semanticscholar.org/paper/372821154190f2617ed439faa6211dbb2275dba4",
+      "title": "Simulation of Improved Academic Achievement for a Mathematical Topic Using Neural Networks Modeling",
+      "venue": "",
+      "year": 2013,
+      "referenceCount": 25,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "1409207239",
+          "name": "Saeed A. Al-Ghamdi"
+        },
+        {
+          "authorId": "144132764",
+          "name": "H. Mustafa"
+        }
+      ]
+    },
+    {
+      "paperId": "3071177dbf7fd8ca2554ece44eda81847f1bedb1",
+      "externalIds": {
+        "MAG": "2246653173",
+        "CorpusId": 15230707
+      },
+      "url": "https://www.semanticscholar.org/paper/3071177dbf7fd8ca2554ece44eda81847f1bedb1",
+      "title": "Implicit intergroup bias: Cognitive, affective, and motivational underpinnings",
+      "venue": "",
+      "year": 2010,
+      "referenceCount": 156,
+      "citationCount": 84,
+      "authors": [
+        {
+          "authorId": "2295394",
+          "name": "D. Amodio"
+        },
+        {
+          "authorId": "8710024",
+          "name": "Saaid A. Mendoza"
+        }
+      ]
+    },
+    {
+      "paperId": "7d8b6dea4aa81471b3cd02b5f33b442855687e8c",
+      "externalIds": {
+        "PubMedCentral": "12359633",
+        "DOI": "10.1093/ijnp/pyaf052.062",
+        "CorpusId": 280681993
+      },
+      "url": "https://www.semanticscholar.org/paper/7d8b6dea4aa81471b3cd02b5f33b442855687e8c",
+      "title": "422. ORGANIZING THE DISORGANIZATION: AN ARTIFICIAL INTELLIGENCE-BASED DECISION SUPPORTING SYSTEM FOR THE DETECTION OF DISORGANIZATION SYMPTOMS IN SCHIZOPHRENIA AND NON-AFFECTED PARTICIPANTS",
+      "venue": "International Journal of Neuropsychopharmacology",
+      "year": 2025,
+      "referenceCount": 1,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2336573557",
+          "name": "F. Iasevoli"
+        },
+        {
+          "authorId": "2336621308",
+          "name": "F. Iannotta"
+        },
+        {
+          "authorId": "2376236337",
+          "name": "L. De Santis"
+        },
+        {
+          "authorId": "1429108495",
+          "name": "L. D’Errico"
+        },
+        {
+          "authorId": "2276654077",
+          "name": "A. Barone"
+        },
+        {
+          "authorId": "2376236335",
+          "name": "F. Blaso"
+        },
+        {
+          "authorId": "2336621312",
+          "name": "A. Catino"
+        },
+        {
+          "authorId": "2376236427",
+          "name": "C. Ceparano"
+        },
+        {
+          "authorId": "2276654968",
+          "name": "M. Ciccarelli"
+        },
+        {
+          "authorId": "2376236265",
+          "name": "W. Del Monaco"
+        },
+        {
+          "authorId": "2276643892",
+          "name": "G. De Simone"
+        },
+        {
+          "authorId": "2376236283",
+          "name": "C. Esposito"
+        },
+        {
+          "authorId": "2376236135",
+          "name": "C. Ricci"
+        },
+        {
+          "authorId": "40896451",
+          "name": "L. Vellucci"
+        },
+        {
+          "authorId": "2276647579",
+          "name": "A. de Bartolomeis"
+        },
+        {
+          "authorId": "2376236219",
+          "name": "M. Staffa"
+        },
+        {
+          "authorId": "2304558499",
+          "name": "R. Francese"
+        }
+      ]
+    },
+    {
+      "paperId": "9c6839e6f01a484024c92741ae456859b15f5c91",
+      "externalIds": {
+        "MAG": "2903518941",
+        "DOI": "10.2139/SSRN.3159348",
+        "CorpusId": 4743190
+      },
+      "url": "https://www.semanticscholar.org/paper/9c6839e6f01a484024c92741ae456859b15f5c91",
+      "title": "\"Beauty is Truth and Truth Beauty\": How Intuitive Insights Shape Legal Reasoning and the Rule of Law",
+      "venue": "",
+      "year": 2018,
+      "referenceCount": 2,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "3236868",
+          "name": "S. Maurer"
+        }
+      ]
+    }
+  ]
+}

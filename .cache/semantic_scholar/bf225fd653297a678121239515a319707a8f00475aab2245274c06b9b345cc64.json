@@ -1,0 +1,633 @@
+{
+  "offset": 0,
+  "citingPaperInfo": {
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/1505.06659, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "title": "Statistical and Algorithmic Perspectives on Randomized Sketching for Ordinary Least-Squares",
+    "authors": [
+      {
+        "authorId": "3110269",
+        "name": "Garvesh Raskutti"
+      },
+      {
+        "authorId": "143884206",
+        "name": "Michael W. Mahoney"
+      }
+    ]
+  },
+  "data": [
+    {
+      "citedPaper": {
+        "paperId": "cfcb1645bb6abe972e935d03a8c855f53a718116",
+        "externalIds": {
+          "MAG": "2152326788",
+          "DBLP": "journals/corr/PilanciW14a",
+          "ArXiv": "1411.0347",
+          "CorpusId": 558372
+        },
+        "url": "https://www.semanticscholar.org/paper/cfcb1645bb6abe972e935d03a8c855f53a718116",
+        "title": "Iterative Hessian Sketch: Fast and Accurate Solution Approximation for Constrained Least-Squares",
+        "venue": "Journal of machine learning research",
+        "year": 2014,
+        "referenceCount": 51,
+        "citationCount": 216,
+        "authors": [
+          {
+            "authorId": "3173667",
+            "name": "Mert Pilanci"
+          },
+          {
+            "authorId": "1721860",
+            "name": "M. Wainwright"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "4f00906bc6b26ce61b16724b2d53ece49f1b86ed",
+        "externalIds": {
+          "MAG": "2962842430",
+          "ArXiv": "1406.5986",
+          "DBLP": "journals/jmlr/RaskuttiM16",
+          "CorpusId": 1192507
+        },
+        "url": "https://www.semanticscholar.org/paper/4f00906bc6b26ce61b16724b2d53ece49f1b86ed",
+        "title": "A Statistical Perspective on Randomized Sketching for Ordinary Least-Squares",
+        "venue": "Journal of machine learning research",
+        "year": 2014,
+        "referenceCount": 31,
+        "citationCount": 103,
+        "authors": [
+          {
+            "authorId": "3110269",
+            "name": "Garvesh Raskutti"
+          },
+          {
+            "authorId": "143884206",
+            "name": "Michael W. Mahoney"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "d3a4594317fa9051f3817d3a016b58367d1119bf",
+        "externalIds": {
+          "MAG": "2615055317",
+          "DBLP": "conf/icml/MaMY14",
+          "ArXiv": "1306.5362",
+          "DOI": "10.5555/2789272.2831141",
+          "CorpusId": 7523489
+        },
+        "url": "https://www.semanticscholar.org/paper/d3a4594317fa9051f3817d3a016b58367d1119bf",
+        "title": "A statistical perspective on algorithmic leveraging",
+        "venue": "Journal of machine learning research",
+        "year": 2013,
+        "referenceCount": 48,
+        "citationCount": 390,
+        "authors": [
+          {
+            "authorId": "47477714",
+            "name": "Ping Ma"
+          },
+          {
+            "authorId": "143884206",
+            "name": "Michael W. Mahoney"
+          },
+          {
+            "authorId": "144923779",
+            "name": "Bin Yu"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "54ebea40c36d710c8206a6c91062c31e48bb50bf",
+        "externalIds": {
+          "DBLP": "journals/corr/abs-1204-0062",
+          "MAG": "2171810522",
+          "ArXiv": "1204.0062",
+          "DOI": "10.1137/120874540",
+          "CorpusId": 9358825
+        },
+        "url": "https://www.semanticscholar.org/paper/54ebea40c36d710c8206a6c91062c31e48bb50bf",
+        "title": "Improved Matrix Algorithms via the Subsampled Randomized Hadamard Transform",
+        "venue": "SIAM Journal on Matrix Analysis and Applications",
+        "year": 2012,
+        "referenceCount": 46,
+        "citationCount": 155,
+        "authors": [
+          {
+            "authorId": "1704039",
+            "name": "Christos Boutsidis"
+          },
+          {
+            "authorId": "9545803",
+            "name": "Alex Gittens"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "4407d119ba9682af2557514b609d56783bf392cd",
+        "externalIds": {
+          "ArXiv": "1109.5981",
+          "DBLP": "journals/siamsc/MengSM14",
+          "MAG": "2952826487",
+          "DOI": "10.1137/120866580",
+          "CorpusId": 11319528,
+          "PubMed": "25419094"
+        },
+        "url": "https://www.semanticscholar.org/paper/4407d119ba9682af2557514b609d56783bf392cd",
+        "title": "LSRN: A Parallel Iterative Solver for Strongly Over- or Underdetermined Systems",
+        "venue": "SIAM Journal on Scientific Computing",
+        "year": 2011,
+        "referenceCount": 29,
+        "citationCount": 175,
+        "authors": [
+          {
+            "authorId": "39309572",
+            "name": "Xiangrui Meng"
+          },
+          {
+            "authorId": "145621255",
+            "name": "M. Saunders"
+          },
+          {
+            "authorId": "143884206",
+            "name": "Michael W. Mahoney"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "aef0161883cfd49bbe26826cf2e40f8195ce59cf",
+        "externalIds": {
+          "MAG": "2129566246",
+          "DBLP": "journals/corr/abs-1109-3843",
+          "ArXiv": "1109.3843",
+          "DOI": "10.5555/2503308.2503352",
+          "CorpusId": 129692
+        },
+        "url": "https://www.semanticscholar.org/paper/aef0161883cfd49bbe26826cf2e40f8195ce59cf",
+        "title": "Fast approximation of matrix coherence and statistical leverage",
+        "venue": "International Conference on Machine Learning",
+        "year": 2011,
+        "referenceCount": 49,
+        "citationCount": 571,
+        "authors": [
+          {
+            "authorId": "1738441",
+            "name": "P. Drineas"
+          },
+          {
+            "authorId": "1399249722",
+            "name": "M. Magdon-Ismail"
+          },
+          {
+            "authorId": "143884206",
+            "name": "Michael W. Mahoney"
+          },
+          {
+            "authorId": "143982862",
+            "name": "David P. Woodruff"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "a471515c46aeba729cc50b3e7814ca85b69115a1",
+        "externalIds": {
+          "MAG": "3091090955",
+          "DBLP": "journals/siamsc/AvronMT10",
+          "DOI": "10.1137/090767911",
+          "CorpusId": 15880145
+        },
+        "url": "https://www.semanticscholar.org/paper/a471515c46aeba729cc50b3e7814ca85b69115a1",
+        "title": "Blendenpik: Supercharging LAPACK's Least-Squares Solver",
+        "venue": "SIAM Journal on Scientific Computing",
+        "year": 2010,
+        "referenceCount": 29,
+        "citationCount": 276,
+        "authors": [
+          {
+            "authorId": "1922753",
+            "name": "H. Avron"
+          },
+          {
+            "authorId": "2250770",
+            "name": "P. Maymounkov"
+          },
+          {
+            "authorId": "145287613",
+            "name": "Sivan Toledo"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "d4f86093be48d13a3a60ad27e409b8fa10c63307",
+        "externalIds": {
+          "MAG": "92857651",
+          "CorpusId": 11808543,
+          "PubMed": "19680463"
+        },
+        "url": "https://www.semanticscholar.org/paper/d4f86093be48d13a3a60ad27e409b8fa10c63307",
+        "title": "Optimal sample allocation for design-consistent regression in a cancer services survey when design variables are known for aggregates.",
+        "venue": "Survey Methodology",
+        "year": 2008,
+        "referenceCount": 32,
+        "citationCount": 6,
+        "authors": [
+          {
+            "authorId": "2095840",
+            "name": "A. Zaslavsky"
+          },
+          {
+            "authorId": "49171024",
+            "name": "Hui-Li Zheng"
+          },
+          {
+            "authorId": "144766097",
+            "name": "J. Adams"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "9c47a465e02cd7c3470559d772dd6328ba8b77cc",
+        "externalIds": {
+          "ArXiv": "0710.1435",
+          "MAG": "2007399394",
+          "DBLP": "journals/nm/DrineasMMS11",
+          "DOI": "10.1007/s00211-010-0331-6",
+          "CorpusId": 7730230
+        },
+        "url": "https://www.semanticscholar.org/paper/9c47a465e02cd7c3470559d772dd6328ba8b77cc",
+        "title": "Faster least squares approximation",
+        "venue": "Numerische Mathematik",
+        "year": 2007,
+        "referenceCount": 26,
+        "citationCount": 499,
+        "authors": [
+          {
+            "authorId": "1738441",
+            "name": "P. Drineas"
+          },
+          {
+            "authorId": "143884206",
+            "name": "Michael W. Mahoney"
+          },
+          {
+            "authorId": "144963537",
+            "name": "S. Muthukrishnan"
+          },
+          {
+            "authorId": "2227764",
+            "name": "Tamás Sarlós"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "de94de88cb4553d9dba046b3ec74e0dd25b831d1",
+        "externalIds": {
+          "DBLP": "conf/soda/DrineasMM06",
+          "MAG": "2043804332",
+          "DOI": "10.1145/1109557.1109682",
+          "CorpusId": 2415336
+        },
+        "url": "https://www.semanticscholar.org/paper/de94de88cb4553d9dba046b3ec74e0dd25b831d1",
+        "title": "Sampling algorithms for l2 regression and applications",
+        "venue": "ACM-SIAM Symposium on Discrete Algorithms",
+        "year": 2006,
+        "referenceCount": 0,
+        "citationCount": 400,
+        "authors": [
+          {
+            "authorId": "1738441",
+            "name": "P. Drineas"
+          },
+          {
+            "authorId": "143884206",
+            "name": "Michael W. Mahoney"
+          },
+          {
+            "authorId": "144963537",
+            "name": "S. Muthukrishnan"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "d6e6c3243e9e4e6dd8f0bc783d7612b7d3863d5f",
+        "externalIds": {
+          "MAG": "1487444668",
+          "DBLP": "books/siam/Meyer00",
+          "DOI": "10.1137/1.9780898719512",
+          "CorpusId": 118122532
+        },
+        "url": "https://www.semanticscholar.org/paper/d6e6c3243e9e4e6dd8f0bc783d7612b7d3863d5f",
+        "title": "Matrix Analysis and Applied Linear Algebra",
+        "venue": "",
+        "year": 2000,
+        "referenceCount": 0,
+        "citationCount": 5608,
+        "authors": [
+          {
+            "authorId": "2333445908",
+            "name": "C. D. Meyer"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "d4ab89fcc6547b8b77d028abfa34e659eb685ca6",
+        "externalIds": {
+          "MAG": "2148451394",
+          "DOI": "10.1007/978-1-4614-1412-4_97",
+          "CorpusId": 122746805
+        },
+        "url": "https://www.semanticscholar.org/paper/d4ab89fcc6547b8b77d028abfa34e659eb685ca6",
+        "title": "Elements of large-sample theory",
+        "venue": "",
+        "year": 1998,
+        "referenceCount": 181,
+        "citationCount": 1279,
+        "authors": [
+          {
+            "authorId": "48528146",
+            "name": "E. Lehmann"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "91f5ded1564bfa2ee677699a662d9c43d6de7516",
+        "externalIds": {
+          "MAG": "1977994906",
+          "DOI": "10.1214/SS/1177013622",
+          "CorpusId": 120490098
+        },
+        "url": "https://www.semanticscholar.org/paper/91f5ded1564bfa2ee677699a662d9c43d6de7516",
+        "title": "Influential Observations, High Leverage Points, and Outliers in Linear Regression",
+        "venue": "",
+        "year": 1986,
+        "referenceCount": 27,
+        "citationCount": 942,
+        "authors": [
+          {
+            "authorId": "70502233",
+            "name": "S. Chatterjee"
+          },
+          {
+            "authorId": "145353422",
+            "name": "A. Hadi"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "02af90b8e95015dc04b763bca95f63252854b358",
+        "externalIds": {
+          "MAG": "1523337958",
+          "DOI": "10.1007/bfb0101073",
+          "CorpusId": 117878467
+        },
+        "url": "https://www.semanticscholar.org/paper/02af90b8e95015dc04b763bca95f63252854b358",
+        "title": "Hadamard Matrices and Their Applications",
+        "venue": "",
+        "year": 1985,
+        "referenceCount": 0,
+        "citationCount": 612,
+        "authors": [
+          {
+            "authorId": "8973902",
+            "name": "S. Agaian"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "bb67b5ef1d3bf6f263192b60fe5bde6ac26b5b59",
+        "externalIds": {
+          "MAG": "1983350937",
+          "DOI": "10.1080/00031305.1978.10479237",
+          "CorpusId": 120982185
+        },
+        "url": "https://www.semanticscholar.org/paper/bb67b5ef1d3bf6f263192b60fe5bde6ac26b5b59",
+        "title": "The Hat Matrix in Regression and ANOVA",
+        "venue": "",
+        "year": 1978,
+        "referenceCount": 16,
+        "citationCount": 937,
+        "authors": [
+          {
+            "authorId": "2606818",
+            "name": "D. Hoaglin"
+          },
+          {
+            "authorId": "2242562",
+            "name": "R. Welsch"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "5c57a1851cab4505a49479bea2cc6f8aa829f68d",
+        "externalIds": {
+          "MAG": "2059120516",
+          "DOI": "10.1093/BIOMET/57.2.377",
+          "CorpusId": 121548255
+        },
+        "url": "https://www.semanticscholar.org/paper/5c57a1851cab4505a49479bea2cc6f8aa829f68d",
+        "title": "On finite population sampling theory under certain linear regression models",
+        "venue": "",
+        "year": 1970,
+        "referenceCount": 14,
+        "citationCount": 426,
+        "authors": [
+          {
+            "authorId": "4147321",
+            "name": "R. Royall"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "444d70e3331b5083b40ef32e49390ef683a65e67",
+        "externalIds": {
+          "DBLP": "reference/parallel/X11ja",
+          "DOI": "10.1007/978-0-387-09766-4_2219",
+          "CorpusId": 291377
+        },
+        "url": "https://www.semanticscholar.org/paper/444d70e3331b5083b40ef32e49390ef683a65e67",
+        "title": "Matrix Computations",
+        "venue": "Encyclopedia of Parallel Computing",
+        "year": 2011,
+        "referenceCount": 5,
+        "citationCount": 13899,
+        "authors": [
+          {
+            "authorId": "2262191825",
+            "name": "Andrzej Chrzeszczyk"
+          },
+          {
+            "authorId": "1920259",
+            "name": "J. Kochanowski"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "c9860a37b3f4eab74a058b36a80aa8bec091a7e9",
+        "externalIds": {
+          "MAG": "2801713330",
+          "DOI": "10.2307/2348320",
+          "CorpusId": 125807766
+        },
+        "url": "https://www.semanticscholar.org/paper/c9860a37b3f4eab74a058b36a80aa8bec091a7e9",
+        "title": "Sensitivity analysis in linear regression",
+        "venue": "",
+        "year": 1988,
+        "referenceCount": 0,
+        "citationCount": 596,
+        "authors": [
+          {
+            "authorId": "70502233",
+            "name": "S. Chatterjee"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "36e07bdcb9f8aa618d6d077238d3de2e7818a0f5",
+        "externalIds": {
+          "MAG": "2012712694",
+          "DOI": "10.2307/1269782",
+          "CorpusId": 209831924
+        },
+        "url": "https://www.semanticscholar.org/paper/36e07bdcb9f8aa618d6d077238d3de2e7818a0f5",
+        "title": "Robust statistics: the approach based on influence functions",
+        "venue": "",
+        "year": 1986,
+        "referenceCount": 6,
+        "citationCount": 2844,
+        "authors": [
+          {
+            "authorId": "144893329",
+            "name": "F. Hampel"
+          },
+          {
+            "authorId": "2567806",
+            "name": "E. Ronchetti"
+          },
+          {
+            "authorId": "2218687",
+            "name": "P. Rousseeuw"
+          },
+          {
+            "authorId": "2851548",
+            "name": "W. Stahel"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "a26eb90a8766449b942547b02b4f82ecfab0875c",
+        "externalIds": {
+          "CorpusId": 47503887
+        },
+        "url": "https://www.semanticscholar.org/paper/a26eb90a8766449b942547b02b4f82ecfab0875c",
+        "title": "Stat260/cs294: Randomized Algorithms for Matrices and Data",
+        "venue": "",
+        "year": null,
+        "referenceCount": 19,
+        "citationCount": 1054,
+        "authors": [
+          {
+            "authorId": "143884206",
+            "name": "Michael W. Mahoney"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "9631897613ffe1cd24a1576e515f54b7cca098f2",
+        "externalIds": {
+          "DOI": "10.1002/9780470316764",
+          "CorpusId": 43075289
+        },
+        "url": "https://www.semanticscholar.org/paper/9631897613ffe1cd24a1576e515f54b7cca098f2",
+        "title": "SENSITIVITY ANALYSIS IN LINEAR REGRESSION",
+        "venue": "",
+        "year": null,
+        "referenceCount": 23,
+        "citationCount": 474,
+        "authors": [
+          {
+            "authorId": "1388824086",
+            "name": "J. Díaz-García"
+          },
+          {
+            "authorId": "1398148512",
+            "name": "G. González-Farías"
+          },
+          {
+            "authorId": "1434948421",
+            "name": "V. Alvarado-Castro"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "Randomized Leverage-score Sketching",
+        "venue": "",
+        "year": null,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "Preprint: arXiv:1411.0347",
+        "venue": "Preprint: arXiv:1411.0347",
+        "year": null,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    }
+  ]
+}

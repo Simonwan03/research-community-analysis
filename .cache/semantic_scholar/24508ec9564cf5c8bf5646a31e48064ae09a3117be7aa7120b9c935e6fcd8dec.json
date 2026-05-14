@@ -1,0 +1,301 @@
+{
+  "total": 354,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "5c3d16906d223d19d7c79a3ef177b61b001cc22b",
+      "externalIds": {
+        "MAG": "2741813363",
+        "DBLP": "conf/icml/ZhangZZHZ17",
+        "CorpusId": 3625751
+      },
+      "url": "https://www.semanticscholar.org/paper/5c3d16906d223d19d7c79a3ef177b61b001cc22b",
+      "title": "Projection-free Distributed Online Learning in Networks",
+      "venue": "International Conference on Machine Learning",
+      "year": 2017,
+      "referenceCount": 21,
+      "citationCount": 94,
+      "authors": [
+        {
+          "authorId": "2108467453",
+          "name": "Wenpeng Zhang"
+        },
+        {
+          "authorId": "144259957",
+          "name": "P. Zhao"
+        },
+        {
+          "authorId": "145583986",
+          "name": "Wenwu Zhu"
+        },
+        {
+          "authorId": "1741126",
+          "name": "S. Hoi"
+        },
+        {
+          "authorId": "38144094",
+          "name": "T. Zhang"
+        }
+      ]
+    },
+    {
+      "paperId": "6c8e5b15133da98e0d02686575d4fbdeb4ef2fc9",
+      "externalIds": {
+        "CorpusId": 43191540
+      },
+      "url": "https://www.semanticscholar.org/paper/6c8e5b15133da98e0d02686575d4fbdeb4ef2fc9",
+      "title": "Projection-free Distributed Online Learning in Networks: Appendix",
+      "venue": "",
+      "year": 2017,
+      "referenceCount": 2,
+      "citationCount": 0,
+      "authors": []
+    },
+    {
+      "paperId": "c873f7af882f6ed9fdb70425e091476765371c17",
+      "externalIds": {
+        "MAG": "2910882282",
+        "DOI": "10.1109/ICCT.2018.8600081",
+        "CorpusId": 57378839
+      },
+      "url": "https://www.semanticscholar.org/paper/c873f7af882f6ed9fdb70425e091476765371c17",
+      "title": "Fast Projection-Free Algorithm for Distributed Online Learning in Networks",
+      "venue": "International Conference on Speech Technology and Human-Computer Dialogue",
+      "year": 2018,
+      "referenceCount": 16,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2231900873",
+          "name": "Jun-ya Wang"
+        },
+        {
+          "authorId": "47943421",
+          "name": "Yuejin Zhou"
+        },
+        {
+          "authorId": "49620653",
+          "name": "Dequan Li"
+        },
+        {
+          "authorId": "2054672017",
+          "name": "Jinggang Lv"
+        },
+        {
+          "authorId": "47454242",
+          "name": "Qiao Dong"
+        }
+      ]
+    },
+    {
+      "paperId": "358b817fd8607a084227caca5dc3bd29d1a03ae7",
+      "externalIds": {
+        "DBLP": "conf/l4dc/WangL22",
+        "ArXiv": "2112.03896",
+        "CorpusId": 244920812
+      },
+      "url": "https://www.semanticscholar.org/paper/358b817fd8607a084227caca5dc3bd29d1a03ae7",
+      "title": "Gradient and Projection Free Distributed Online Min-Max Resource Optimization",
+      "venue": "Conference on Learning for Dynamics & Control",
+      "year": 2021,
+      "referenceCount": 46,
+      "citationCount": 4,
+      "authors": [
+        {
+          "authorId": "2335078398",
+          "name": "Jingrong Wang"
+        },
+        {
+          "authorId": "2065526847",
+          "name": "Ben Liang"
+        }
+      ]
+    },
+    {
+      "paperId": "03dae53fbb611032f77e5ba8ba6b618d29b8847f",
+      "externalIds": {
+        "DBLP": "journals/tac/LiaoYHZZY26",
+        "DOI": "10.1109/TAC.2025.3586980",
+        "CorpusId": 280127947
+      },
+      "url": "https://www.semanticscholar.org/paper/03dae53fbb611032f77e5ba8ba6b618d29b8847f",
+      "title": "Distributed Dynamic No-Regret Learning in Two-Network Zero-Sum Games",
+      "venue": "IEEE Transactions on Automatic Control",
+      "year": 2026,
+      "referenceCount": 40,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2372361304",
+          "name": "Lan Liao"
+        },
+        {
+          "authorId": "2337439506",
+          "name": "Deming Yuan"
+        },
+        {
+          "authorId": "2238330926",
+          "name": "Daniel W. C. Ho"
+        },
+        {
+          "authorId": "50010711",
+          "name": "W. Zheng"
+        },
+        {
+          "authorId": "2261338314",
+          "name": "Baoyong Zhang"
+        },
+        {
+          "authorId": "2367183107",
+          "name": "Zhan Yu"
+        }
+      ]
+    },
+    {
+      "paperId": "16b74aea7270a325d68dafc1d19425572feb7234",
+      "externalIds": {
+        "ArXiv": "2103.11102",
+        "DBLP": "journals/jmlr/Wan0T022",
+        "CorpusId": 249642747
+      },
+      "url": "https://www.semanticscholar.org/paper/16b74aea7270a325d68dafc1d19425572feb7234",
+      "title": "Projection-free Distributed Online Learning with Sublinear Communication Complexity",
+      "venue": "Journal of machine learning research",
+      "year": 2021,
+      "referenceCount": 46,
+      "citationCount": 22,
+      "authors": [
+        {
+          "authorId": "50826651",
+          "name": "Yuanyu Wan"
+        },
+        {
+          "authorId": "2152582099",
+          "name": "Guanghui Wang"
+        },
+        {
+          "authorId": "47178228",
+          "name": "Wei-Wei Tu"
+        },
+        {
+          "authorId": "2108876951",
+          "name": "Lijun Zhang"
+        }
+      ]
+    },
+    {
+      "paperId": "6502c77c775b42c595a414df905b981f5df56cc2",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2103-11102",
+        "CorpusId": 232307884
+      },
+      "url": "https://www.semanticscholar.org/paper/6502c77c775b42c595a414df905b981f5df56cc2",
+      "title": "Projection-free Distributed Online Learning with Strongly Convex Losses",
+      "venue": "arXiv.org",
+      "year": 2021,
+      "referenceCount": 33,
+      "citationCount": 10,
+      "authors": [
+        {
+          "authorId": "50826651",
+          "name": "Yuanyu Wan"
+        },
+        {
+          "authorId": "2152582099",
+          "name": "Guanghui Wang"
+        },
+        {
+          "authorId": "2108876951",
+          "name": "Lijun Zhang"
+        }
+      ]
+    },
+    {
+      "paperId": "7bbfd399256a0106f7543d76fafa7a5ac520ebae",
+      "externalIds": {
+        "DOI": "10.1007/s11768-025-00242-0",
+        "CorpusId": 276306319
+      },
+      "url": "https://www.semanticscholar.org/paper/7bbfd399256a0106f7543d76fafa7a5ac520ebae",
+      "title": "Gradient-free distributed online optimization in networks",
+      "venue": "Control Theory and Technology",
+      "year": 2025,
+      "referenceCount": 46,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "2271587327",
+          "name": "Yuhang Liu"
+        },
+        {
+          "authorId": "2118226429",
+          "name": "W. Zhao"
+        },
+        {
+          "authorId": "2257399919",
+          "name": "Nan Zhang"
+        },
+        {
+          "authorId": "2345081270",
+          "name": "Dongdong Lv"
+        },
+        {
+          "authorId": "2389092195",
+          "name": "Shuai Zhang"
+        }
+      ]
+    },
+    {
+      "paperId": "3d2f11656462ed2dfc3c58da48ba12609460541b",
+      "externalIds": {
+        "DBLP": "conf/aaai/WangWZ023",
+        "DOI": "10.1609/aaai.v37i8.26218",
+        "CorpusId": 259678274
+      },
+      "url": "https://www.semanticscholar.org/paper/3d2f11656462ed2dfc3c58da48ba12609460541b",
+      "title": "Distributed Projection-Free Online Learning for Smooth and Convex Losses",
+      "venue": "AAAI Conference on Artificial Intelligence",
+      "year": 2023,
+      "referenceCount": 39,
+      "citationCount": 16,
+      "authors": [
+        {
+          "authorId": "2214727131",
+          "name": "Yibo Wang"
+        },
+        {
+          "authorId": "50826651",
+          "name": "Yuanyu Wan"
+        },
+        {
+          "authorId": "2292818736",
+          "name": "Shimao Zhang"
+        },
+        {
+          "authorId": "2196503657",
+          "name": "Lijun Zhang"
+        }
+      ]
+    },
+    {
+      "paperId": "b4cc7e69e41d0b3913279d8a6ed1036af5418ac2",
+      "externalIds": {
+        "DBLP": "phd/hal/Huu24",
+        "CorpusId": 279001096
+      },
+      "url": "https://www.semanticscholar.org/paper/b4cc7e69e41d0b3913279d8a6ed1036af5418ac2",
+      "title": "Online Distributed Learning: A Projection-Free Approach. (Apprentissage distribué en ligne: une approche sans projection)",
+      "venue": "",
+      "year": 2024,
+      "referenceCount": 0,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2116226118",
+          "name": "T. Nguyen"
+        }
+      ]
+    }
+  ]
+}

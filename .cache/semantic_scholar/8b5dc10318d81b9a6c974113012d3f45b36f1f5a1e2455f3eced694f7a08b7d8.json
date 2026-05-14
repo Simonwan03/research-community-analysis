@@ -1,0 +1,375 @@
+{
+  "total": 1266,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "0d866bb24a94bd24d7fad4b8b65c7aad45226f4e",
+      "externalIds": {
+        "DBLP": "conf/icml/GongZSTG15",
+        "MAG": "1790336448",
+        "CorpusId": 17016789
+      },
+      "url": "https://www.semanticscholar.org/paper/0d866bb24a94bd24d7fad4b8b65c7aad45226f4e",
+      "title": "Discovering Temporal Causal Relations from Subsampled Data",
+      "venue": "International Conference on Machine Learning",
+      "year": 2015,
+      "referenceCount": 35,
+      "citationCount": 96,
+      "authors": [
+        {
+          "authorId": "29393235",
+          "name": "Mingming Gong"
+        },
+        {
+          "authorId": "37844380",
+          "name": "Kun Zhang"
+        },
+        {
+          "authorId": "1707625",
+          "name": "B. Scholkopf"
+        },
+        {
+          "authorId": "143719920",
+          "name": "D. Tao"
+        },
+        {
+          "authorId": "38176985",
+          "name": "Philipp Geiger"
+        }
+      ]
+    },
+    {
+      "paperId": "bef5135907a78dbaa14f6bc0af40ae21c00a38bf",
+      "externalIds": {
+        "CorpusId": 5836648
+      },
+      "url": "https://www.semanticscholar.org/paper/bef5135907a78dbaa14f6bc0af40ae21c00a38bf",
+      "title": "Document for “ Discovering Temporal Causal Relations from Subsampled Data ” 1",
+      "venue": "",
+      "year": null,
+      "referenceCount": 1,
+      "citationCount": 0,
+      "authors": []
+    },
+    {
+      "paperId": "3e7ab1a26926908417b0fb14692dc8b1b950a1ad",
+      "externalIds": {
+        "DBLP": "conf/icml/WuLKZ024",
+        "CorpusId": 272330691
+      },
+      "url": "https://www.semanticscholar.org/paper/3e7ab1a26926908417b0fb14692dc8b1b950a1ad",
+      "title": "Learning Causal Relations from Subsampled Time Series with Two Time-Slices",
+      "venue": "International Conference on Machine Learning",
+      "year": 2024,
+      "referenceCount": 60,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "1748975704",
+          "name": "Anpeng Wu"
+        },
+        {
+          "authorId": "2359469600",
+          "name": "Haoxuan Li"
+        },
+        {
+          "authorId": "2315590986",
+          "name": "Kun Kuang"
+        },
+        {
+          "authorId": "2319445382",
+          "name": "Keli Zhang"
+        },
+        {
+          "authorId": "2290035617",
+          "name": "Fei Wu"
+        }
+      ]
+    },
+    {
+      "paperId": "8072f6e96371a2006e81a6cc3b2f05e744a24241",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2404-01466",
+        "ArXiv": "2404.01466",
+        "DOI": "10.1109/ICDMW69685.2025.00043",
+        "CorpusId": 268856483
+      },
+      "url": "https://www.semanticscholar.org/paper/8072f6e96371a2006e81a6cc3b2f05e744a24241",
+      "title": "TS-CausalNN: Learning Temporal Causal Relations from Non-linear Non-stationary Time Series Data",
+      "venue": "2025 IEEE International Conference on Data Mining Workshops (ICDMW)",
+      "year": 2024,
+      "referenceCount": 48,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "2292319972",
+          "name": "Omar Faruque"
+        },
+        {
+          "authorId": "2115366500",
+          "name": "Sahara Ali"
+        },
+        {
+          "authorId": "2215820122",
+          "name": "Xue Zheng"
+        },
+        {
+          "authorId": "2294667352",
+          "name": "Jianwu Wang"
+        }
+      ]
+    },
+    {
+      "paperId": "ec7258c30a81ec0e931f99338e1d2b0ff9b2e06d",
+      "externalIds": {
+        "DOI": "10.1109/RIVF68649.2025.11365038",
+        "CorpusId": 285288423
+      },
+      "url": "https://www.semanticscholar.org/paper/ec7258c30a81ec0e931f99338e1d2b0ff9b2e06d",
+      "title": "Hybrid TCDF with Knowledge Graph Verification for Temporal Causal Graphs in Industrial Systems",
+      "venue": "Conference on Research, Innovation and Vision for the Future in Computing & Communication Technologies",
+      "year": 2025,
+      "referenceCount": 20,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2416055703",
+          "name": "Van Mui Nguyen"
+        },
+        {
+          "authorId": "2268567305",
+          "name": "Vu-Anh Le"
+        },
+        {
+          "authorId": "2302006942",
+          "name": "Chau Le"
+        }
+      ]
+    },
+    {
+      "paperId": "758494300326cf0cd2e02103a7d17833169ffb2e",
+      "externalIds": {
+        "ArXiv": "2305.13341",
+        "DBLP": "journals/corr/abs-2305-13341",
+        "DOI": "10.48550/arXiv.2305.13341",
+        "CorpusId": 258841169
+      },
+      "url": "https://www.semanticscholar.org/paper/758494300326cf0cd2e02103a7d17833169ffb2e",
+      "title": "Discovering Causal Relations and Equations from Data",
+      "venue": "Physics reports",
+      "year": 2023,
+      "referenceCount": 439,
+      "citationCount": 128,
+      "authors": [
+        {
+          "authorId": "1397959153",
+          "name": "Gustau Camps-Valls"
+        },
+        {
+          "authorId": "102797376",
+          "name": "Andreas Gerhardus"
+        },
+        {
+          "authorId": "102332609",
+          "name": "Urmi Ninad"
+        },
+        {
+          "authorId": "2820201",
+          "name": "Gherardo Varando"
+        },
+        {
+          "authorId": "144247521",
+          "name": "G. Martius"
+        },
+        {
+          "authorId": "1399379423",
+          "name": "E. Balaguer-Ballester"
+        },
+        {
+          "authorId": "2354100795",
+          "name": "R. Vinuesa"
+        },
+        {
+          "authorId": "2051299779",
+          "name": "Emiliano Díaz"
+        },
+        {
+          "authorId": "103206782",
+          "name": "L. Zanna"
+        },
+        {
+          "authorId": "2154066",
+          "name": "Jakob Runge"
+        }
+      ]
+    },
+    {
+      "paperId": "db2721b539aae886455306b6d4d76fe16c2255c0",
+      "externalIds": {
+        "ArXiv": "2406.02191",
+        "DBLP": "journals/corr/abs-2406-02191",
+        "DOI": "10.48550/arXiv.2406.02191",
+        "CorpusId": 270226400
+      },
+      "url": "https://www.semanticscholar.org/paper/db2721b539aae886455306b6d4d76fe16c2255c0",
+      "title": "On the Recoverability of Causal Relations from Temporally Aggregated I.I.D. Data",
+      "venue": "International Conference on Machine Learning",
+      "year": 2024,
+      "referenceCount": 34,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "2213753651",
+          "name": "Shunxing Fan"
+        },
+        {
+          "authorId": "2261392477",
+          "name": "Mingming Gong"
+        },
+        {
+          "authorId": "2283790289",
+          "name": "Kun Zhang"
+        }
+      ]
+    },
+    {
+      "paperId": "5740864bc2852f6e66ab93639e33716e20a62a13",
+      "externalIds": {
+        "ArXiv": "2404.14786",
+        "DBLP": "conf/cikm/Li0ZMSLW0024",
+        "DOI": "10.1145/3627673.3680042",
+        "CorpusId": 269302725
+      },
+      "url": "https://www.semanticscholar.org/paper/5740864bc2852f6e66ab93639e33716e20a62a13",
+      "title": "RealTCD: Temporal Causal Discovery from Interventional Data with Large Language Model",
+      "venue": "International Conference on Information and Knowledge Management",
+      "year": 2024,
+      "referenceCount": 56,
+      "citationCount": 22,
+      "authors": [
+        {
+          "authorId": "2260834123",
+          "name": "Peiwen Li"
+        },
+        {
+          "authorId": "2298094088",
+          "name": "Xin Wang"
+        },
+        {
+          "authorId": "2118689973",
+          "name": "Zeyang Zhang"
+        },
+        {
+          "authorId": "2260668917",
+          "name": "Yuan Meng"
+        },
+        {
+          "authorId": "71883951",
+          "name": "Fang-lin Shen"
+        },
+        {
+          "authorId": "2249140468",
+          "name": "Yue Li"
+        },
+        {
+          "authorId": "2249121211",
+          "name": "Jialong Wang"
+        },
+        {
+          "authorId": "2274101206",
+          "name": "Yang Li"
+        },
+        {
+          "authorId": "2156154955",
+          "name": "Wenwu Zhu"
+        }
+      ]
+    },
+    {
+      "paperId": "8e669c00dcc9def81a22bdac18d2da5359acb468",
+      "externalIds": {
+        "DBLP": "conf/kdd/Gong0ZLBDW23",
+        "DOI": "10.1145/3580305.3599552",
+        "CorpusId": 260499741
+      },
+      "url": "https://www.semanticscholar.org/paper/8e669c00dcc9def81a22bdac18d2da5359acb468",
+      "title": "Causal Discovery from Temporal Data",
+      "venue": "Knowledge Discovery and Data Mining",
+      "year": 2023,
+      "referenceCount": 25,
+      "citationCount": 29,
+      "authors": [
+        {
+          "authorId": "2057185610",
+          "name": "Chang Gong"
+        },
+        {
+          "authorId": "144068230",
+          "name": "Di Yao"
+        },
+        {
+          "authorId": "2261692205",
+          "name": "Chuzhe Zhang"
+        },
+        {
+          "authorId": "2163431624",
+          "name": "Wenbin Li"
+        },
+        {
+          "authorId": "1805245",
+          "name": "Jingping Bi"
+        },
+        {
+          "authorId": "12723949",
+          "name": "Lun Du"
+        },
+        {
+          "authorId": "2225096894",
+          "name": "Jin Wang"
+        }
+      ]
+    },
+    {
+      "paperId": "0298589ffc3502a8f8731583d6ed34241baab0de",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2406-16708",
+        "ArXiv": "2406.16708",
+        "DOI": "10.1109/TKDE.2024.3484461",
+        "CorpusId": 270702735
+      },
+      "url": "https://www.semanticscholar.org/paper/0298589ffc3502a8f8731583d6ed34241baab0de",
+      "title": "CausalFormer: An Interpretable Transformer for Temporal Causal Discovery",
+      "venue": "IEEE Transactions on Knowledge and Data Engineering",
+      "year": 2024,
+      "referenceCount": 53,
+      "citationCount": 31,
+      "authors": [
+        {
+          "authorId": "2308241680",
+          "name": "Lingbai Kong"
+        },
+        {
+          "authorId": "2108736932",
+          "name": "Wengen Li"
+        },
+        {
+          "authorId": "2213955458",
+          "name": "Hanchen Yang"
+        },
+        {
+          "authorId": "2264932408",
+          "name": "Yichao Zhang"
+        },
+        {
+          "authorId": "1707899",
+          "name": "J. Guan"
+        },
+        {
+          "authorId": "50730331",
+          "name": "Shuigeng Zhou"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,387 @@
+{
+  "total": 236,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "e24cdf73b3e7e590c2fe5ecac9ae8aa983801367",
+      "externalIds": {
+        "MAG": "2952254971",
+        "DBLP": "conf/icml/GilmerSRVD17",
+        "ArXiv": "1704.01212",
+        "CorpusId": 9665943
+      },
+      "url": "https://www.semanticscholar.org/paper/e24cdf73b3e7e590c2fe5ecac9ae8aa983801367",
+      "title": "Neural Message Passing for Quantum Chemistry",
+      "venue": "International Conference on Machine Learning",
+      "year": 2017,
+      "referenceCount": 38,
+      "citationCount": 8825,
+      "authors": [
+        {
+          "authorId": "2058362",
+          "name": "J. Gilmer"
+        },
+        {
+          "authorId": "2601641",
+          "name": "S. Schoenholz"
+        },
+        {
+          "authorId": "119508204",
+          "name": "Patrick F. Riley"
+        },
+        {
+          "authorId": "1689108",
+          "name": "O. Vinyals"
+        },
+        {
+          "authorId": "35188630",
+          "name": "George E. Dahl"
+        }
+      ]
+    },
+    {
+      "paperId": "f7d43774144863289ff62e9bb214f45097510dde",
+      "externalIds": {
+        "ArXiv": "2503.07397",
+        "DBLP": "journals/corr/abs-2503-07397",
+        "DOI": "10.48550/arXiv.2503.07397",
+        "CorpusId": 276928304
+      },
+      "url": "https://www.semanticscholar.org/paper/f7d43774144863289ff62e9bb214f45097510dde",
+      "title": "Q-MARL: A quantum-inspired algorithm using neural message passing for large-scale multi-agent reinforcement learning",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "referenceCount": 44,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2349378122",
+          "name": "Khang H. N. Vo"
+        },
+        {
+          "authorId": "2146114659",
+          "name": "Chin-Teng Lin"
+        }
+      ]
+    },
+    {
+      "paperId": "e0e0a0f11b0b359c02bf2a778d45cbff82fcc628",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2106-07273",
+        "ArXiv": "2106.07273",
+        "CorpusId": 235422231
+      },
+      "url": "https://www.semanticscholar.org/paper/e0e0a0f11b0b359c02bf2a778d45cbff82fcc628",
+      "title": "Flexible dual-branched message passing neural network for quantum mechanical property prediction with molecular conformation",
+      "venue": "arXiv.org",
+      "year": 2021,
+      "referenceCount": 41,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "91019090",
+          "name": "Jeonghee Jo"
+        },
+        {
+          "authorId": "97113956",
+          "name": "Bumju Kwak"
+        },
+        {
+          "authorId": "2821668",
+          "name": "Byunghan Lee"
+        },
+        {
+          "authorId": "2999019",
+          "name": "Sungroh Yoon"
+        }
+      ]
+    },
+    {
+      "paperId": "d988ac3d53f5d609e10ad7e9408f1a0f2c1931b6",
+      "externalIds": {
+        "DOI": "10.1038/s41524-025-01698-z",
+        "CorpusId": 279841586
+      },
+      "url": "https://www.semanticscholar.org/paper/d988ac3d53f5d609e10ad7e9408f1a0f2c1931b6",
+      "title": "Pretrained E(3)-equivariant message-passing neural networks with multi-level representations for organic molecule spectra prediction",
+      "venue": "npj Computational Materials",
+      "year": 2025,
+      "referenceCount": 47,
+      "citationCount": 6,
+      "authors": [
+        {
+          "authorId": "2319448438",
+          "name": "Yuzhi Xu"
+        },
+        {
+          "authorId": "2369591960",
+          "name": "Daqian Bian"
+        },
+        {
+          "authorId": "2366112435",
+          "name": "Cheng-Wei Ju"
+        },
+        {
+          "authorId": "2287927667",
+          "name": "Fanyu Zhao"
+        },
+        {
+          "authorId": "2366110762",
+          "name": "Pujun Xie"
+        },
+        {
+          "authorId": "2366245836",
+          "name": "Yuanqing Wang"
+        },
+        {
+          "authorId": "2293775823",
+          "name": "Wei Hu"
+        },
+        {
+          "authorId": "2276968844",
+          "name": "Zhenrong Sun"
+        },
+        {
+          "authorId": "2319448988",
+          "name": "John Z. H. Zhang"
+        },
+        {
+          "authorId": "2322622227",
+          "name": "Tong Zhu"
+        }
+      ]
+    },
+    {
+      "paperId": "49f37b17a4cab73328d3dcc26073b8d5348ed1da",
+      "externalIds": {
+        "DOI": "10.1021/acs.jpcc.3c04888",
+        "CorpusId": 264185327
+      },
+      "url": "https://www.semanticscholar.org/paper/49f37b17a4cab73328d3dcc26073b8d5348ed1da",
+      "title": "Quantum-Accurate Modeling of Ferroelectric Phase Transition in Perovskites from Message-Passing Neural Networks",
+      "venue": "Journal of Physical Chemistry C",
+      "year": 2023,
+      "referenceCount": 26,
+      "citationCount": 7,
+      "authors": [
+        {
+          "authorId": "2225751255",
+          "name": "Xinjian Ouyang"
+        },
+        {
+          "authorId": "2260690634",
+          "name": "Zhuang Yuan"
+        },
+        {
+          "authorId": "2259845434",
+          "name": "Jiale Zhang"
+        },
+        {
+          "authorId": "2260318596",
+          "name": "Feng Zhang"
+        },
+        {
+          "authorId": "2225750968",
+          "name": "Xiao Jie"
+        },
+        {
+          "authorId": "2244691969",
+          "name": "Weijian Chen"
+        },
+        {
+          "authorId": "2108656211",
+          "name": "Yanxing Zhang"
+        },
+        {
+          "authorId": "2254252222",
+          "name": "Laijun Liu"
+        },
+        {
+          "authorId": "2143915851",
+          "name": "Dawei Wang"
+        }
+      ]
+    },
+    {
+      "paperId": "f0415afda2c47f78bfd948e0006ed9be0873c5c5",
+      "externalIds": {
+        "DBLP": "journals/jcisd/McGillFGG21",
+        "DOI": "10.1021/acs.jcim.1c00055",
+        "CorpusId": 235242827,
+        "PubMed": "34048221"
+      },
+      "url": "https://www.semanticscholar.org/paper/f0415afda2c47f78bfd948e0006ed9be0873c5c5",
+      "title": "Predicting Infrared Spectra with Message Passing Neural Networks",
+      "venue": "Journal of Chemical Information and Modeling",
+      "year": 2021,
+      "referenceCount": 50,
+      "citationCount": 74,
+      "authors": [
+        {
+          "authorId": "91254706",
+          "name": "Charles McGill"
+        },
+        {
+          "authorId": "93176468",
+          "name": "Michael Forsuelo"
+        },
+        {
+          "authorId": "15965044",
+          "name": "Yanfei Guan"
+        },
+        {
+          "authorId": "143964245",
+          "name": "W. Green"
+        }
+      ]
+    },
+    {
+      "paperId": "3bc7d001f06d39269c7308c52f651cdcb45e965f",
+      "externalIds": {
+        "DOI": "10.1021/jacs.4c04670",
+        "CorpusId": 271719366,
+        "PubMed": "39106041"
+      },
+      "url": "https://www.semanticscholar.org/paper/3bc7d001f06d39269c7308c52f651cdcb45e965f",
+      "title": "When Do Quantum Mechanical Descriptors Help Graph Neural Networks to Predict Chemical Properties?",
+      "venue": "Journal of the American Chemical Society",
+      "year": 2024,
+      "referenceCount": 55,
+      "citationCount": 46,
+      "authors": [
+        {
+          "authorId": "2275773223",
+          "name": "Shih-Cheng Li"
+        },
+        {
+          "authorId": "2275801708",
+          "name": "Haoyang Wu"
+        },
+        {
+          "authorId": "2266747179",
+          "name": "Angiras Menon"
+        },
+        {
+          "authorId": "2151349453",
+          "name": "Kevin A. Spiekermann"
+        },
+        {
+          "authorId": "2238160580",
+          "name": "Yi-Pei Li"
+        },
+        {
+          "authorId": "2137109552",
+          "name": "William H. Green"
+        }
+      ]
+    },
+    {
+      "paperId": "9b2def75361f71db8a266f177c8d5ab1c7fe0cf6",
+      "externalIds": {
+        "PubMedCentral": "11339967",
+        "DOI": "10.1039/d4sc01029a",
+        "CorpusId": 271446117,
+        "PubMed": "39183910"
+      },
+      "url": "https://www.semanticscholar.org/paper/9b2def75361f71db8a266f177c8d5ab1c7fe0cf6",
+      "title": "A physics-aware neural network for protein–ligand interactions with quantum chemical accuracy",
+      "venue": "Chemical Science",
+      "year": 2024,
+      "referenceCount": 44,
+      "citationCount": 5,
+      "authors": [
+        {
+          "authorId": "1700800979",
+          "name": "Zachary L. Glick"
+        },
+        {
+          "authorId": "1503876615",
+          "name": "Derek P. Metcalf"
+        },
+        {
+          "authorId": "2312993287",
+          "name": "Caroline S. Glick"
+        },
+        {
+          "authorId": "4133845",
+          "name": "Steven A. Spronk"
+        },
+        {
+          "authorId": "1781519",
+          "name": "Alexios Koutsoukas"
+        },
+        {
+          "authorId": "2239189226",
+          "name": "Daniel L. Cheney"
+        },
+        {
+          "authorId": "2251158224",
+          "name": "C. Sherrill"
+        }
+      ]
+    },
+    {
+      "paperId": "b1ba8b97d459395accf252989ec22aa255114a51",
+      "externalIds": {
+        "MAG": "3134292922",
+        "ArXiv": "2012.11730",
+        "DOI": "10.1016/J.CEJ.2021.129307",
+        "CorpusId": 229348736
+      },
+      "url": "https://www.semanticscholar.org/paper/b1ba8b97d459395accf252989ec22aa255114a51",
+      "title": "Transfer learning for solvation free energies: From quantum chemistry to experiments",
+      "venue": "Chemical Engineering Journal",
+      "year": 2020,
+      "referenceCount": 35,
+      "citationCount": 135,
+      "authors": [
+        {
+          "authorId": "93759349",
+          "name": "Florence H. Vermeire"
+        },
+        {
+          "authorId": "143964245",
+          "name": "W. Green"
+        }
+      ]
+    },
+    {
+      "paperId": "436210f50810f489f11aef00e3061284b0c04617",
+      "externalIds": {
+        "PubMedCentral": "9093086",
+        "DOI": "10.33774/chemrxiv-2021-fz6v7-v2",
+        "CorpusId": 245372086,
+        "PubMed": "35470831"
+      },
+      "url": "https://www.semanticscholar.org/paper/436210f50810f489f11aef00e3061284b0c04617",
+      "title": "Δ-Quantum machine-learning for medicinal chemistry",
+      "venue": "Physical Chemistry, Chemical Physics - PCCP",
+      "year": 2021,
+      "referenceCount": 78,
+      "citationCount": 35,
+      "authors": [
+        {
+          "authorId": "66527290",
+          "name": "Kenneth Atz"
+        },
+        {
+          "authorId": "2117262680",
+          "name": "Clemens Isert"
+        },
+        {
+          "authorId": "2106162465",
+          "name": "Markus N A Böcker"
+        },
+        {
+          "authorId": "1729452350",
+          "name": "José Jiménez-Luna"
+        },
+        {
+          "authorId": "144522872",
+          "name": "G. Schneider"
+        }
+      ]
+    }
+  ]
+}

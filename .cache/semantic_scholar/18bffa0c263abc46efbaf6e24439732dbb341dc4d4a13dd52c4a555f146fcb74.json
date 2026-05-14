@@ -1,0 +1,360 @@
+{
+  "total": 10,
+  "offset": 0,
+  "data": [
+    {
+      "paperId": "9e5be29ff2d6bf97607c31ab298590e75812143c",
+      "externalIds": {
+        "DBLP": "conf/icml/AlmahairiRSBC18",
+        "MAG": "2787928077",
+        "ArXiv": "1802.10151",
+        "CorpusId": 3586592
+      },
+      "url": "https://www.semanticscholar.org/paper/9e5be29ff2d6bf97607c31ab298590e75812143c",
+      "title": "Augmented CycleGAN: Learning Many-to-Many Mappings from Unpaired Data",
+      "venue": "International Conference on Machine Learning",
+      "year": 2018,
+      "referenceCount": 30,
+      "citationCount": 459,
+      "authors": [
+        {
+          "authorId": "2634674",
+          "name": "Amjad Almahairi"
+        },
+        {
+          "authorId": "1818842",
+          "name": "Sai Rajeswar"
+        },
+        {
+          "authorId": "2041695",
+          "name": "Alessandro Sordoni"
+        },
+        {
+          "authorId": "143902541",
+          "name": "Philip Bachman"
+        },
+        {
+          "authorId": "1760871",
+          "name": "Aaron C. Courville"
+        }
+      ]
+    },
+    {
+      "paperId": "dc963ed655fc3c01714b89fa9fbf6eecfbb940a7",
+      "externalIds": {
+        "ArXiv": "2303.11831",
+        "CorpusId": 259137472
+      },
+      "url": "https://www.semanticscholar.org/paper/dc963ed655fc3c01714b89fa9fbf6eecfbb940a7",
+      "title": "CLADE: Cycle Loss Augmented Degradation Enhancement for Unpaired Super-Resolution of Anisotropic Medical Images",
+      "venue": "",
+      "year": 2023,
+      "referenceCount": 42,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2212370485",
+          "name": "Michele Pascale"
+        },
+        {
+          "authorId": "2576041",
+          "name": "V. Muthurangu"
+        },
+        {
+          "authorId": "2219920265",
+          "name": "J. Tordera"
+        },
+        {
+          "authorId": "12142648",
+          "name": "H. Fitzke"
+        },
+        {
+          "authorId": "2467807",
+          "name": "G. Bhatnagar"
+        },
+        {
+          "authorId": "2211936247",
+          "name": "Stuart Taylor"
+        },
+        {
+          "authorId": "3194197",
+          "name": "J. Steeden"
+        }
+      ]
+    },
+    {
+      "paperId": "653435e90a6dc9c331e03f70ed32906eb3f6810d",
+      "externalIds": {
+        "MAG": "2949587391",
+        "DBLP": "conf/iclr/Hosseini-AslZXS19",
+        "CorpusId": 59222703
+      },
+      "url": "https://www.semanticscholar.org/paper/653435e90a6dc9c331e03f70ed32906eb3f6810d",
+      "title": "Augmented Cyclic Adversarial Learning for Low Resource Domain Adaptation",
+      "venue": "International Conference on Learning Representations",
+      "year": 2018,
+      "referenceCount": 49,
+      "citationCount": 48,
+      "authors": [
+        {
+          "authorId": "1401953786",
+          "name": "Ehsan Hosseini-Asl"
+        },
+        {
+          "authorId": "34872128",
+          "name": "Yingbo Zhou"
+        },
+        {
+          "authorId": "2228109",
+          "name": "Caiming Xiong"
+        },
+        {
+          "authorId": "2166511",
+          "name": "R. Socher"
+        }
+      ]
+    },
+    {
+      "paperId": "6d324305340e4e15dd5396bf72c546d3f60e83e0",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-1807-00374",
+        "ArXiv": "1807.00374",
+        "MAG": "2810453092",
+        "CorpusId": 49556695
+      },
+      "url": "https://www.semanticscholar.org/paper/6d324305340e4e15dd5396bf72c546d3f60e83e0",
+      "title": "Augmented Cyclic Adversarial Learning for Domain Adaptation",
+      "venue": "arXiv.org",
+      "year": 2018,
+      "referenceCount": 50,
+      "citationCount": 12,
+      "authors": [
+        {
+          "authorId": "1401953786",
+          "name": "Ehsan Hosseini-Asl"
+        },
+        {
+          "authorId": "34872128",
+          "name": "Yingbo Zhou"
+        },
+        {
+          "authorId": "2228109",
+          "name": "Caiming Xiong"
+        },
+        {
+          "authorId": "2166511",
+          "name": "R. Socher"
+        }
+      ]
+    },
+    {
+      "paperId": "28ce6835af59a27a7fd60a27d16c8d250f26f408",
+      "externalIds": {
+        "MAG": "2970753430",
+        "DBLP": "conf/icip/ZhengYZG019",
+        "DOI": "10.1109/ICIP.2019.8803393",
+        "CorpusId": 202767840
+      },
+      "url": "https://www.semanticscholar.org/paper/28ce6835af59a27a7fd60a27d16c8d250f26f408",
+      "title": "Guided Cyclegan Via Semi-Dual Optimal Transport for Photo-Realistic Face Super-Resolution",
+      "venue": "International Conference on Information Photonics",
+      "year": 2019,
+      "referenceCount": 21,
+      "citationCount": 12,
+      "authors": [
+        {
+          "authorId": "48499775",
+          "name": "Wenbo Zheng"
+        },
+        {
+          "authorId": "151486225",
+          "name": "Lan Yan"
+        },
+        {
+          "authorId": "2108037632",
+          "name": "Wenwen Zhang"
+        },
+        {
+          "authorId": "1491637173",
+          "name": "Chao Gou"
+        },
+        {
+          "authorId": "47939505",
+          "name": "Fei-Yue Wang"
+        }
+      ]
+    },
+    {
+      "paperId": "f1b80f932a02bd7378f1b803943b7748d56f2f2e",
+      "externalIds": {
+        "DOI": "10.1063/5.0078644",
+        "CorpusId": 247372489
+      },
+      "url": "https://www.semanticscholar.org/paper/f1b80f932a02bd7378f1b803943b7748d56f2f2e",
+      "title": "Deep-learning-based super-resolution reconstruction of high-speed imaging in fluids",
+      "venue": "The Physics of Fluids",
+      "year": 2022,
+      "referenceCount": 46,
+      "citationCount": 39,
+      "authors": [
+        {
+          "authorId": "2108180317",
+          "name": "Zhibo Wang"
+        },
+        {
+          "authorId": "2108193362",
+          "name": "Xiangru Li"
+        },
+        {
+          "authorId": "2145288301",
+          "name": "Luhan Liu"
+        },
+        {
+          "authorId": "2117920632",
+          "name": "Xuecheng Wu"
+        },
+        {
+          "authorId": "2403769",
+          "name": "P. Hao"
+        },
+        {
+          "authorId": "152899277",
+          "name": "Xiwen Zhang"
+        },
+        {
+          "authorId": "2065064454",
+          "name": "Feng He"
+        }
+      ]
+    },
+    {
+      "paperId": "50a8cffc56e2960ef18d9770d8c3576406a0fe19",
+      "externalIds": {
+        "ArXiv": "1901.11382",
+        "MAG": "2913207340",
+        "DBLP": "conf/accv/SharmaVV18",
+        "DOI": "10.1007/978-3-030-21074-8_14",
+        "CorpusId": 59523701
+      },
+      "url": "https://www.semanticscholar.org/paper/50a8cffc56e2960ef18d9770d8c3576406a0fe19",
+      "title": "Learning to Clean: A GAN Perspective",
+      "venue": "ACCV Workshops",
+      "year": 2018,
+      "referenceCount": 27,
+      "citationCount": 28,
+      "authors": [
+        {
+          "authorId": "145092223",
+          "name": "Monika Sharma"
+        },
+        {
+          "authorId": "89265689",
+          "name": "Abhishek Verma"
+        },
+        {
+          "authorId": "3213990",
+          "name": "L. Vig"
+        }
+      ]
+    },
+    {
+      "paperId": "97ecc01501b5889714301b6e8cb9fa90e9826a73",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-1907-13590",
+        "MAG": "2966845428",
+        "ArXiv": "1907.13590",
+        "DOI": "10.1007/978-3-030-32245-8_29",
+        "CorpusId": 199001166,
+        "PubMed": "32377643"
+      },
+      "url": "https://www.semanticscholar.org/paper/97ecc01501b5889714301b6e8cb9fa90e9826a73",
+      "title": "Unsupervised Domain Adaptation via Disentangled Representations: Application to Cross-Modality Liver Segmentation",
+      "venue": "International Conference on Medical Image Computing and Computer-Assisted Intervention",
+      "year": 2019,
+      "referenceCount": 13,
+      "citationCount": 152,
+      "authors": [
+        {
+          "authorId": "46478443",
+          "name": "Junlin Yang"
+        },
+        {
+          "authorId": "5507046",
+          "name": "N. Dvornek"
+        },
+        {
+          "authorId": "50212920",
+          "name": "Fan Zhang"
+        },
+        {
+          "authorId": "4512523",
+          "name": "J. Chapiro"
+        },
+        {
+          "authorId": "1950526",
+          "name": "Mingde Lin"
+        },
+        {
+          "authorId": "145947161",
+          "name": "J. Duncan"
+        }
+      ]
+    },
+    {
+      "paperId": "86be4e83fdfe6dd1c85c2cc16b73267a86031d76",
+      "externalIds": {
+        "MAG": "3048914056",
+        "PubMedCentral": "7807621",
+        "DOI": "10.1016/j.phro.2020.07.012",
+        "CorpusId": 225605705,
+        "PubMed": "33458330"
+      },
+      "url": "https://www.semanticscholar.org/paper/86be4e83fdfe6dd1c85c2cc16b73267a86031d76",
+      "title": "Developments in deep learning based corrections of cone beam computed tomography to enable dose calculations for adaptive radiotherapy",
+      "venue": "Physics and Imaging in Radiation Oncology",
+      "year": 2020,
+      "referenceCount": 33,
+      "citationCount": 22,
+      "authors": [
+        {
+          "authorId": "13198703",
+          "name": "V. Taasti"
+        },
+        {
+          "authorId": "3190873",
+          "name": "P. Klages"
+        },
+        {
+          "authorId": "3355151",
+          "name": "K. Parodi"
+        },
+        {
+          "authorId": "3435119",
+          "name": "L. Muren"
+        }
+      ]
+    },
+    {
+      "paperId": "47a0deda1224f37e3c2a2f3b79710e5f33346f1a",
+      "externalIds": {
+        "CorpusId": 221341359
+      },
+      "url": "https://www.semanticscholar.org/paper/47a0deda1224f37e3c2a2f3b79710e5f33346f1a",
+      "title": "Retinal Image Quality Improvement via Learning",
+      "venue": "",
+      "year": 2019,
+      "referenceCount": 76,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "34211678",
+          "name": "S. Adiga"
+        },
+        {
+          "authorId": "1790095",
+          "name": "J. Sivaswamy"
+        }
+      ]
+    }
+  ]
+}

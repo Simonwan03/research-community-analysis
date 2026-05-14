@@ -1,0 +1,283 @@
+{
+  "total": 135,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "80a39450b0cb2fc0413e3c3cddd4fa9419fd97b1",
+      "externalIds": {
+        "ArXiv": "1702.08712",
+        "DBLP": "conf/icml/LiuLNT17",
+        "MAG": "2949469206",
+        "CorpusId": 14353253
+      },
+      "url": "https://www.semanticscholar.org/paper/80a39450b0cb2fc0413e3c3cddd4fa9419fd97b1",
+      "title": "Algorithmic Stability and Hypothesis Complexity",
+      "venue": "International Conference on Machine Learning",
+      "year": 2017,
+      "referenceCount": 20,
+      "citationCount": 96,
+      "authors": [
+        {
+          "authorId": "121698214",
+          "name": "Tongliang Liu"
+        },
+        {
+          "authorId": "1755694",
+          "name": "G. Lugosi"
+        },
+        {
+          "authorId": "1741549",
+          "name": "Gergely Neu"
+        },
+        {
+          "authorId": "143719920",
+          "name": "D. Tao"
+        }
+      ]
+    },
+    {
+      "paperId": "23c5cb4b951597b8813b5f1180fd29f261e966ce",
+      "externalIds": {
+        "DBLP": "journals/ijwmip/ChangXZZ11",
+        "MAG": "2163358853",
+        "DOI": "10.1142/S0219691311004213",
+        "CorpusId": 3390669
+      },
+      "url": "https://www.semanticscholar.org/paper/23c5cb4b951597b8813b5f1180fd29f261e966ce",
+      "title": "Generalization Bounds of Regularization Algorithms Derived Simultaneously through Hypothesis Space Complexity, Algorithmic Stability and Data Quality",
+      "venue": "Int. J. Wavelets Multiresolution Inf. Process.",
+      "year": 2011,
+      "referenceCount": 33,
+      "citationCount": 5,
+      "authors": [
+        {
+          "authorId": "1986982",
+          "name": "Xiangyu Chang"
+        },
+        {
+          "authorId": "98220533",
+          "name": "Zongben Xu"
+        },
+        {
+          "authorId": "48931671",
+          "name": "Bin Zou"
+        },
+        {
+          "authorId": "46702525",
+          "name": "Hai Zhang"
+        }
+      ]
+    },
+    {
+      "paperId": "f73551745de85d117840426d136b9785f5fb617e",
+      "externalIds": {
+        "DBLP": "conf/icnc/XuZ11",
+        "MAG": "2126312760",
+        "DOI": "10.1109/ICNC.2011.6022044",
+        "CorpusId": 31347666
+      },
+      "url": "https://www.semanticscholar.org/paper/f73551745de85d117840426d136b9785f5fb617e",
+      "title": "The generalization performance of learning algorithms derived simultaneously through algorithmic stability and space complexity",
+      "venue": "2011 Seventh International Conference on Natural Computation",
+      "year": 2011,
+      "referenceCount": 28,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "40564581",
+          "name": "Jie Xu"
+        },
+        {
+          "authorId": "48931671",
+          "name": "Bin Zou"
+        }
+      ]
+    },
+    {
+      "paperId": "bf83f7752751bc1e1892ab79ae3f2af438372a48",
+      "externalIds": {
+        "MAG": "2110630246",
+        "DBLP": "conf/nips/BousquetE00",
+        "CorpusId": 7600536
+      },
+      "url": "https://www.semanticscholar.org/paper/bf83f7752751bc1e1892ab79ae3f2af438372a48",
+      "title": "Algorithmic Stability and Generalization Performance",
+      "venue": "Neural Information Processing Systems",
+      "year": 2000,
+      "referenceCount": 12,
+      "citationCount": 151,
+      "authors": [
+        {
+          "authorId": "1698617",
+          "name": "O. Bousquet"
+        },
+        {
+          "authorId": "1766703",
+          "name": "A. Elisseeff"
+        }
+      ]
+    },
+    {
+      "paperId": "8446b9b995daad4736ddc8e6dae1788546446b90",
+      "externalIds": {
+        "ArXiv": "2507.02842",
+        "DBLP": "journals/corr/abs-2507-02842",
+        "DOI": "10.48550/arXiv.2507.02842",
+        "CorpusId": 280146605
+      },
+      "url": "https://www.semanticscholar.org/paper/8446b9b995daad4736ddc8e6dae1788546446b90",
+      "title": "On the Structure of Replicable Hypothesis Testers",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "referenceCount": 0,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "23998886",
+          "name": "Anders Aamand"
+        },
+        {
+          "authorId": "2246889",
+          "name": "M. Aliakbarpour"
+        },
+        {
+          "authorId": "2249561863",
+          "name": "Justin Y. Chen"
+        },
+        {
+          "authorId": "2278240918",
+          "name": "Shyam Narayanan"
+        },
+        {
+          "authorId": "51221589",
+          "name": "Sandeep Silwal"
+        }
+      ]
+    },
+    {
+      "paperId": "41798cbc4d6f2f4a0330e5188a6ac5536a765921",
+      "externalIds": {
+        "DBLP": "conf/icml/AghbalouS23",
+        "ArXiv": "2305.19694",
+        "DOI": "10.48550/arXiv.2305.19694",
+        "CorpusId": 259924977
+      },
+      "url": "https://www.semanticscholar.org/paper/41798cbc4d6f2f4a0330e5188a6ac5536a765921",
+      "title": "Hypothesis Transfer Learning with Surrogate Classification Losses",
+      "venue": "International Conference on Machine Learning",
+      "year": 2023,
+      "referenceCount": 67,
+      "citationCount": 7,
+      "authors": [
+        {
+          "authorId": "2122580648",
+          "name": "Anass Aghbalou"
+        },
+        {
+          "authorId": "108056624",
+          "name": "Guillaume Staerman"
+        }
+      ]
+    },
+    {
+      "paperId": "29aa8373cc98203cc908001957a1785422b8a3ef",
+      "externalIds": {
+        "DOI": "10.33693/2223-0092-2025-15-6-91-102",
+        "CorpusId": 284998493
+      },
+      "url": "https://www.semanticscholar.org/paper/29aa8373cc98203cc908001957a1785422b8a3ef",
+      "title": "Results of a study of background viewing of movies and TV series on online platforms: why we simultaneously watch our phones, and why producers rewrite narratives",
+      "venue": "Sociopolitical sciences",
+      "year": 2025,
+      "referenceCount": 3,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "116918827",
+          "name": "A. Garaganov"
+        }
+      ]
+    },
+    {
+      "paperId": "b1dfec315a7054e7b0f3ce95835fbec284026797",
+      "externalIds": {
+        "CorpusId": 54184502
+      },
+      "url": "https://www.semanticscholar.org/paper/b1dfec315a7054e7b0f3ce95835fbec284026797",
+      "title": "Lecture 7-Regularization and Stability",
+      "venue": "",
+      "year": 2017,
+      "referenceCount": 0,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2092042",
+          "name": "Andrew J. Leverentz"
+        }
+      ]
+    },
+    {
+      "paperId": "1d0083bf225637076d6f8b6dbe022fa7cc9733a4",
+      "externalIds": {
+        "MAG": "2902082507",
+        "DBLP": "conf/stoc/CanonneKMSU19",
+        "ArXiv": "1811.11148",
+        "DOI": "10.1145/3313276.3316336",
+        "CorpusId": 53762207
+      },
+      "url": "https://www.semanticscholar.org/paper/1d0083bf225637076d6f8b6dbe022fa7cc9733a4",
+      "title": "The structure of optimal private tests for simple hypotheses",
+      "venue": "Symposium on the Theory of Computing",
+      "year": 2018,
+      "referenceCount": 81,
+      "citationCount": 87,
+      "authors": [
+        {
+          "authorId": "2308293",
+          "name": "C. Canonne"
+        },
+        {
+          "authorId": "143835728",
+          "name": "Gautam Kamath"
+        },
+        {
+          "authorId": "17468791",
+          "name": "Audra McMillan"
+        },
+        {
+          "authorId": "39765787",
+          "name": "Adam D. Smith"
+        },
+        {
+          "authorId": "5171324",
+          "name": "Jonathan Ullman"
+        }
+      ]
+    },
+    {
+      "paperId": "055905a9240c257367cbc9a248d454b4bd66a364",
+      "externalIds": {
+        "MAG": "2137690105",
+        "ArXiv": "0811.1629",
+        "CorpusId": 6174731
+      },
+      "url": "https://www.semanticscholar.org/paper/055905a9240c257367cbc9a248d454b4bd66a364",
+      "title": "Stability Bounds for Stationary φ-mixing and β-mixing Processes",
+      "venue": "",
+      "year": 2008,
+      "referenceCount": 31,
+      "citationCount": 162,
+      "authors": [
+        {
+          "authorId": "81080659",
+          "name": "M. Mohri"
+        },
+        {
+          "authorId": "2435268",
+          "name": "A. Rostamizadeh"
+        }
+      ]
+    }
+  ]
+}

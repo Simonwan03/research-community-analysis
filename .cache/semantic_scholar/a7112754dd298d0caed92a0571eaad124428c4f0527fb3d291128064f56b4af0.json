@@ -1,0 +1,329 @@
+{
+  "total": 1461,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "c979efe1f0a8b0b343ea332368e5b51dc153c522",
+      "externalIds": {
+        "DBLP": "conf/icml/KangJF18",
+        "MAG": "2803616302",
+        "CorpusId": 51875782
+      },
+      "url": "https://www.semanticscholar.org/paper/c979efe1f0a8b0b343ea332368e5b51dc153c522",
+      "title": "Policy Optimization with Demonstrations",
+      "venue": "International Conference on Machine Learning",
+      "year": 2018,
+      "referenceCount": 39,
+      "citationCount": 173,
+      "authors": [
+        {
+          "authorId": "2064621368",
+          "name": "Bingyi Kang"
+        },
+        {
+          "authorId": "2750647",
+          "name": "Zequn Jie"
+        },
+        {
+          "authorId": "33221685",
+          "name": "Jiashi Feng"
+        }
+      ]
+    },
+    {
+      "paperId": "9542b5277563000f70962b91d0c4a4f48faf3b08",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2401-00162",
+        "DOI": "10.48550/arXiv.2401.00162",
+        "CorpusId": 266693127
+      },
+      "url": "https://www.semanticscholar.org/paper/9542b5277563000f70962b91d0c4a4f48faf3b08",
+      "title": "Policy Optimization with Smooth Guidance Rewards Learned from Sparse-Reward Demonstrations",
+      "venue": "arXiv.org",
+      "year": 2024,
+      "referenceCount": 66,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2214846038",
+          "name": "Guojian Wang"
+        },
+        {
+          "authorId": "7363575",
+          "name": "Faguo Wu"
+        },
+        {
+          "authorId": "2268199852",
+          "name": "Xiao Zhang"
+        },
+        {
+          "authorId": "2278853454",
+          "name": "Tianyuan Chen"
+        }
+      ]
+    },
+    {
+      "paperId": "f755af5cbd5e5231d2790afd80c9763e2e918327",
+      "externalIds": {
+        "CorpusId": 53488867
+      },
+      "url": "https://www.semanticscholar.org/paper/f755af5cbd5e5231d2790afd80c9763e2e918327",
+      "title": "Policy Optimization with Demonstrations — Supplementary Material",
+      "venue": "",
+      "year": 2018,
+      "referenceCount": 6,
+      "citationCount": 0,
+      "authors": []
+    },
+    {
+      "paperId": "1e44550af1c77a320ac847bfd0db5005c5289248",
+      "externalIds": {
+        "DBLP": "conf/icml/GongFXZYWDW24",
+        "CorpusId": 272330613
+      },
+      "url": "https://www.semanticscholar.org/paper/1e44550af1c77a320ac847bfd0db5005c5289248",
+      "title": "Iterative Regularized Policy Optimization with Imperfect Demonstrations",
+      "venue": "International Conference on Machine Learning",
+      "year": 2024,
+      "referenceCount": 0,
+      "citationCount": 5,
+      "authors": [
+        {
+          "authorId": "1630380410",
+          "name": "Xudong Gong"
+        },
+        {
+          "authorId": "2264007696",
+          "name": "Dawei Feng"
+        },
+        {
+          "authorId": "2261908475",
+          "name": "Kele Xu"
+        },
+        {
+          "authorId": "1931511592",
+          "name": "Yuanzhao Zhai"
+        },
+        {
+          "authorId": "2319410079",
+          "name": "Chengkang Yao"
+        },
+        {
+          "authorId": "2319174918",
+          "name": "Weijia Wang"
+        },
+        {
+          "authorId": "2265321448",
+          "name": "Bo Ding"
+        },
+        {
+          "authorId": "2113255325",
+          "name": "Huaimin Wang"
+        }
+      ]
+    },
+    {
+      "paperId": "c28c30a846d97f7e9c0722fbc35bb88aba3c6b04",
+      "externalIds": {
+        "DBLP": "conf/iclr/XuePLLZ23",
+        "ArXiv": "2303.01728",
+        "DOI": "10.48550/arXiv.2303.01728",
+        "CorpusId": 257353270
+      },
+      "url": "https://www.semanticscholar.org/paper/c28c30a846d97f7e9c0722fbc35bb88aba3c6b04",
+      "title": "Guarded Policy Optimization with Imperfect Online Demonstrations",
+      "venue": "International Conference on Learning Representations",
+      "year": 2023,
+      "referenceCount": 46,
+      "citationCount": 18,
+      "authors": [
+        {
+          "authorId": "2093481204",
+          "name": "Zhenghai Xue"
+        },
+        {
+          "authorId": "46216016",
+          "name": "Zhenghao Peng"
+        },
+        {
+          "authorId": "2108644837",
+          "name": "Quanyi Li"
+        },
+        {
+          "authorId": "2249539089",
+          "name": "Zhihan Liu"
+        },
+        {
+          "authorId": "145291669",
+          "name": "Bolei Zhou"
+        }
+      ]
+    },
+    {
+      "paperId": "884c69074ec6bdedd11b079d2b4eab65acbe8675",
+      "externalIds": {
+        "ArXiv": "2401.00162",
+        "CorpusId": 269032997
+      },
+      "url": "https://www.semanticscholar.org/paper/884c69074ec6bdedd11b079d2b4eab65acbe8675",
+      "title": "Policy Optimization with Smooth Guidance Learned from State-Only Demonstrations",
+      "venue": "",
+      "year": 2023,
+      "referenceCount": 68,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2214846038",
+          "name": "Guojian Wang"
+        },
+        {
+          "authorId": "7363575",
+          "name": "Faguo Wu"
+        },
+        {
+          "authorId": "2268199852",
+          "name": "Xiao Zhang"
+        },
+        {
+          "authorId": "2278853454",
+          "name": "Tianyuan Chen"
+        }
+      ]
+    },
+    {
+      "paperId": "d4c33afeb29d05c0c0e4e9e4c5daed53e9e1241a",
+      "externalIds": {
+        "ArXiv": "2511.09515",
+        "DBLP": "journals/corr/abs-2511-09515",
+        "DOI": "10.48550/arXiv.2511.09515",
+        "CorpusId": 282939965
+      },
+      "url": "https://www.semanticscholar.org/paper/d4c33afeb29d05c0c0e4e9e4c5daed53e9e1241a",
+      "title": "WMPO: World Model-based Policy Optimization for Vision-Language-Action Models",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "referenceCount": 0,
+      "citationCount": 24,
+      "authors": [
+        {
+          "authorId": "2307561705",
+          "name": "Fangqi Zhu"
+        },
+        {
+          "authorId": "2398982194",
+          "name": "Zhengyang Yan"
+        },
+        {
+          "authorId": "89600513",
+          "name": "Zicong Hong"
+        },
+        {
+          "authorId": "2391961599",
+          "name": "Quanxin Shou"
+        },
+        {
+          "authorId": "2290165124",
+          "name": "Xiao Ma"
+        },
+        {
+          "authorId": "2307558383",
+          "name": "Song Guo"
+        }
+      ]
+    },
+    {
+      "paperId": "e5f29e2ea16298699d7f3c1e46cca4df75896b1d",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2506-08440",
+        "ArXiv": "2506.08440",
+        "DOI": "10.48550/arXiv.2506.08440",
+        "CorpusId": 279260912
+      },
+      "url": "https://www.semanticscholar.org/paper/e5f29e2ea16298699d7f3c1e46cca4df75896b1d",
+      "title": "TGRPO :Fine-tuning Vision-Language-Action Model via Trajectory-wise Group Relative Policy Optimization",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "referenceCount": 50,
+      "citationCount": 27,
+      "authors": [
+        {
+          "authorId": "2381132754",
+          "name": "Ze Chen"
+        },
+        {
+          "authorId": "2174434599",
+          "name": "Runliang Niu"
+        },
+        {
+          "authorId": "2283935174",
+          "name": "He Kong"
+        },
+        {
+          "authorId": "2358236936",
+          "name": "Qi Wang"
+        }
+      ]
+    },
+    {
+      "paperId": "0ce319f9d55dc33fb16fa69e8c2de77fc5a93a2a",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2401-02225",
+        "ArXiv": "2401.02225",
+        "DOI": "10.1109/CIPCV61763.2024.00023",
+        "CorpusId": 266755580
+      },
+      "url": "https://www.semanticscholar.org/paper/0ce319f9d55dc33fb16fa69e8c2de77fc5a93a2a",
+      "title": "Trajectory-Oriented Policy Optimization with Sparse Rewards",
+      "venue": "2024 2nd International Conference on Intelligent Perception and Computer Vision (CIPCV)",
+      "year": 2024,
+      "referenceCount": 23,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "2214846038",
+          "name": "Guojian Wang"
+        },
+        {
+          "authorId": "7363575",
+          "name": "Faguo Wu"
+        },
+        {
+          "authorId": "2268199852",
+          "name": "Xiao Zhang"
+        }
+      ]
+    },
+    {
+      "paperId": "dadb439f8d7efe4673d3e05e0a1bf71db306376a",
+      "externalIds": {
+        "DBLP": "conf/nips/YangYsC23",
+        "CorpusId": 268030774
+      },
+      "url": "https://www.semanticscholar.org/paper/dadb439f8d7efe4673d3e05e0a1bf71db306376a",
+      "title": "Hybrid Policy Optimization from Imperfect Demonstrations",
+      "venue": "Neural Information Processing Systems",
+      "year": 2023,
+      "referenceCount": 0,
+      "citationCount": 13,
+      "authors": [
+        {
+          "authorId": "2287879581",
+          "name": "Hanlin Yang"
+        },
+        {
+          "authorId": "2110963958",
+          "name": "Chao Yu"
+        },
+        {
+          "authorId": "2262273500",
+          "name": "Peng Sun"
+        },
+        {
+          "authorId": "2262744713",
+          "name": "Siji Chen"
+        }
+      ]
+    }
+  ]
+}

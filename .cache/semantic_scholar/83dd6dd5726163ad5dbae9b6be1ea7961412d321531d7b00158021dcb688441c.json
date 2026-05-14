@@ -1,0 +1,473 @@
+{
+  "offset": 0,
+  "citingPaperInfo": {
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/1502.02643, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "title": "Random Coordinate Descent Methods for Minimizing Decomposable Submodular Functions",
+    "authors": [
+      {
+        "authorId": "1725000",
+        "name": "Alina Ene"
+      },
+      {
+        "authorId": "47320986",
+        "name": "Huy L. Nguyen"
+      }
+    ]
+  },
+  "data": [
+    {
+      "citedPaper": {
+        "paperId": "67b485d2bbf627108949121d577dcc1d265bc33e",
+        "externalIds": {
+          "MAG": "2165464496",
+          "ArXiv": "1406.6474",
+          "DBLP": "journals/corr/NishiharaJJ14",
+          "CorpusId": 5608979
+        },
+        "url": "https://www.semanticscholar.org/paper/67b485d2bbf627108949121d577dcc1d265bc33e",
+        "title": "On the Convergence Rate of Decomposable Submodular Function Minimization",
+        "venue": "Neural Information Processing Systems",
+        "year": 2014,
+        "referenceCount": 40,
+        "citationCount": 43,
+        "authors": [
+          {
+            "authorId": "34994156",
+            "name": "Robert Nishihara"
+          },
+          {
+            "authorId": "2594093",
+            "name": "S. Jegelka"
+          },
+          {
+            "authorId": "1694621",
+            "name": "Michael I. Jordan"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "f244da7263ef3e5c25a7780c7c2f32ca07a25d12",
+        "externalIds": {
+          "DBLP": "books/sp/Nesterov04",
+          "MAG": "2124541940",
+          "CorpusId": 62288331
+        },
+        "url": "https://www.semanticscholar.org/paper/f244da7263ef3e5c25a7780c7c2f32ca07a25d12",
+        "title": "Introductory Lectures on Convex Optimization - A Basic Course",
+        "venue": "Applied Optimization",
+        "year": 2014,
+        "referenceCount": 0,
+        "citationCount": 6402,
+        "authors": [
+          {
+            "authorId": "143676697",
+            "name": "Y. Nesterov"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "8726098f7590cbe1f4b33361050ed1c53632c3c6",
+        "externalIds": {
+          "DBLP": "journals/corr/FercoqR13a",
+          "ArXiv": "1312.5799",
+          "MAG": "2951253949",
+          "DOI": "10.1137/130949993",
+          "CorpusId": 8068556
+        },
+        "url": "https://www.semanticscholar.org/paper/8726098f7590cbe1f4b33361050ed1c53632c3c6",
+        "title": "Accelerated, Parallel, and Proximal Coordinate Descent",
+        "venue": "SIAM Journal on Optimization",
+        "year": 2013,
+        "referenceCount": 37,
+        "citationCount": 387,
+        "authors": [
+          {
+            "authorId": "2442024",
+            "name": "Olivier Fercoq"
+          },
+          {
+            "authorId": "2662221",
+            "name": "Peter Richtárik"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "bba961a96d1cddfc88c790c950499118a2efc51b",
+        "externalIds": {
+          "ArXiv": "1311.4296",
+          "MAG": "2134220221",
+          "DBLP": "journals/corr/JegelkaBS13",
+          "CorpusId": 220623774
+        },
+        "url": "https://www.semanticscholar.org/paper/bba961a96d1cddfc88c790c950499118a2efc51b",
+        "title": "Reflection methods for user-friendly submodular optimization",
+        "venue": "Neural Information Processing Systems",
+        "year": 2013,
+        "referenceCount": 48,
+        "citationCount": 78,
+        "authors": [
+          {
+            "authorId": "2594093",
+            "name": "S. Jegelka"
+          },
+          {
+            "authorId": "144570279",
+            "name": "F. Bach"
+          },
+          {
+            "authorId": "3072326",
+            "name": "S. Sra"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "0059cfac9c5b7811866f0729d0917b7478148fc5",
+        "externalIds": {
+          "MAG": "2095984592",
+          "DBLP": "journals/siamjo/Nesterov12",
+          "DOI": "10.1137/100802001",
+          "CorpusId": 1424102
+        },
+        "url": "https://www.semanticscholar.org/paper/0059cfac9c5b7811866f0729d0917b7478148fc5",
+        "title": "Efficiency of Coordinate Descent Methods on Huge-Scale Optimization Problems",
+        "venue": "SIAM Journal on Optimization",
+        "year": 2012,
+        "referenceCount": 51,
+        "citationCount": 1508,
+        "authors": [
+          {
+            "authorId": "143676697",
+            "name": "Y. Nesterov"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "ccfaba27ca7bce5b95dde407e9df568e5902b218",
+        "externalIds": {
+          "MAG": "2086058123",
+          "DBLP": "journals/ftml/Bach13",
+          "ArXiv": "1111.6453",
+          "DOI": "10.1561/2200000039",
+          "CorpusId": 219936243
+        },
+        "url": "https://www.semanticscholar.org/paper/ccfaba27ca7bce5b95dde407e9df568e5902b218",
+        "title": "Learning with Submodular Functions: A Convex Optimization Perspective",
+        "venue": "Found. Trends Mach. Learn.",
+        "year": 2011,
+        "referenceCount": 223,
+        "citationCount": 510,
+        "authors": [
+          {
+            "authorId": "144570279",
+            "name": "F. Bach"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "beb514c85e1af9b01f7b07af61d9e0490ec22c69",
+        "externalIds": {
+          "MAG": "2061958803",
+          "DBLP": "conf/cvpr/JegelkaB11",
+          "DOI": "10.1109/CVPR.2011.5995589",
+          "CorpusId": 348684
+        },
+        "url": "https://www.semanticscholar.org/paper/beb514c85e1af9b01f7b07af61d9e0490ec22c69",
+        "title": "Submodularity beyond submodular energies: Coupling edges in graph cuts",
+        "venue": "Computer Vision and Pattern Recognition",
+        "year": 2011,
+        "referenceCount": 39,
+        "citationCount": 219,
+        "authors": [
+          {
+            "authorId": "2594093",
+            "name": "S. Jegelka"
+          },
+          {
+            "authorId": "1748118",
+            "name": "J. Bilmes"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "41eba6edf9d13b6cb5aa87e0d0b609ca6d709f88",
+        "externalIds": {
+          "MAG": "2118544668",
+          "ArXiv": "1010.5511",
+          "DBLP": "journals/corr/abs-1010-5511",
+          "CorpusId": 18235
+        },
+        "url": "https://www.semanticscholar.org/paper/41eba6edf9d13b6cb5aa87e0d0b609ca6d709f88",
+        "title": "Efficient Minimization of Decomposable Submodular Functions",
+        "venue": "Neural Information Processing Systems",
+        "year": 2010,
+        "referenceCount": 24,
+        "citationCount": 127,
+        "authors": [
+          {
+            "authorId": "32849160",
+            "name": "Peter Stobbe"
+          },
+          {
+            "authorId": "145343838",
+            "name": "Andreas Krause"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "63d9e438f59ef23dd669d8ddbb5907ec611f076e",
+        "externalIds": {
+          "ArXiv": "1006.1990",
+          "DBLP": "journals/dam/Kolmogorov12a",
+          "MAG": "1669076080",
+          "DOI": "10.1016/j.dam.2012.05.025",
+          "CorpusId": 7281059
+        },
+        "url": "https://www.semanticscholar.org/paper/63d9e438f59ef23dd669d8ddbb5907ec611f076e",
+        "title": "Minimizing a sum of submodular functions",
+        "venue": "Discrete Applied Mathematics",
+        "year": 2010,
+        "referenceCount": 32,
+        "citationCount": 63,
+        "authors": [
+          {
+            "authorId": "144653005",
+            "name": "Vladimir Kolmogorov"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "d066dcccf868a5e74c0635d41803c9a013290e3c",
+        "externalIds": {
+          "MAG": "2050511894",
+          "DBLP": "journals/mp/Orlin09",
+          "DOI": "10.1007/s10107-007-0189-2",
+          "CorpusId": 8262228
+        },
+        "url": "https://www.semanticscholar.org/paper/d066dcccf868a5e74c0635d41803c9a013290e3c",
+        "title": "A faster strongly polynomial time algorithm for submodular function minimization",
+        "venue": "Mathematical programming",
+        "year": 2007,
+        "referenceCount": 14,
+        "citationCount": 321,
+        "authors": [
+          {
+            "authorId": "1795576",
+            "name": "J. Orlin"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "f26d35d2e32934150cd27b030d4d769942126184",
+        "externalIds": {
+          "DBLP": "journals/tog/RotherKB04",
+          "MAG": "2124351162",
+          "DOI": "10.1145/1186562.1015720",
+          "CorpusId": 6202829
+        },
+        "url": "https://www.semanticscholar.org/paper/f26d35d2e32934150cd27b030d4d769942126184",
+        "title": "\"GrabCut\": interactive foreground extraction using iterated graph cuts",
+        "venue": "ACM Transactions on Graphics",
+        "year": 2004,
+        "referenceCount": 17,
+        "citationCount": 6709,
+        "authors": [
+          {
+            "authorId": "1756036",
+            "name": "C. Rother"
+          },
+          {
+            "authorId": "144653004",
+            "name": "V. Kolmogorov"
+          },
+          {
+            "authorId": "145162067",
+            "name": "A. Blake"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "748c9981dcc664edd25129fa78bcce6d37c8cdfd",
+        "externalIds": {
+          "MAG": "2059862073",
+          "DBLP": "journals/dam/FleischerI03",
+          "DOI": "10.1016/S0166-218X(02)00458-4",
+          "CorpusId": 2050624
+        },
+        "url": "https://www.semanticscholar.org/paper/748c9981dcc664edd25129fa78bcce6d37c8cdfd",
+        "title": "A push-relabel framework for submodular function minimization and applications to parametric optimization",
+        "venue": "Discrete Applied Mathematics",
+        "year": 2003,
+        "referenceCount": 20,
+        "citationCount": 103,
+        "authors": [
+          {
+            "authorId": "1742361",
+            "name": "L. Fleischer"
+          },
+          {
+            "authorId": "41094926",
+            "name": "S. Iwata"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "1b91b130eb292b166e0b15afa950ff3315bfcc44",
+        "externalIds": {
+          "MAG": "2035575256",
+          "DBLP": "journals/jct/Schrijver00",
+          "DOI": "10.1006/JCTB.2000.1989",
+          "CorpusId": 6285230
+        },
+        "url": "https://www.semanticscholar.org/paper/1b91b130eb292b166e0b15afa950ff3315bfcc44",
+        "title": "A Combinatorial Algorithm Minimizing Submodular Functions in Strongly Polynomial Time",
+        "venue": "J. Comb. Theory B",
+        "year": 2000,
+        "referenceCount": 19,
+        "citationCount": 722,
+        "authors": [
+          {
+            "authorId": "1689196",
+            "name": "A. Schrijver"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "f9e591692d6aab0e1cf0c1ea4948597195657edf",
+        "externalIds": {
+          "MAG": "2988480584",
+          "CorpusId": 209100259
+        },
+        "url": "https://www.semanticscholar.org/paper/f9e591692d6aab0e1cf0c1ea4948597195657edf",
+        "title": "Combinatorial optimization. Polyhedra and efficiency.",
+        "venue": "",
+        "year": 2003,
+        "referenceCount": 0,
+        "citationCount": 3851,
+        "authors": [
+          {
+            "authorId": "1689196",
+            "name": "A. Schrijver"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "c50a12cc86bd133341779df8fb8788e041d00bcc",
+        "externalIds": {
+          "CorpusId": 10503773
+        },
+        "url": "https://www.semanticscholar.org/paper/c50a12cc86bd133341779df8fb8788e041d00bcc",
+        "title": "A FASTER SCALING ALGORITHM FOR MINIMIZING SUBMODULAR FUNCTIONS∗",
+        "venue": "",
+        "year": 2001,
+        "referenceCount": 14,
+        "citationCount": 98,
+        "authors": [
+          {
+            "authorId": "1411889579",
+            "name": "C. SIAMJ."
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "b4821d2dee04f27e55112090c9029da30cc8b291",
+        "externalIds": {
+          "MAG": "2983049021",
+          "DBLP": "conf/ismp/Lovasz82",
+          "DOI": "10.1007/978-3-642-68874-4_10",
+          "CorpusId": 117358746
+        },
+        "url": "https://www.semanticscholar.org/paper/b4821d2dee04f27e55112090c9029da30cc8b291",
+        "title": "Submodular functions and convexity",
+        "venue": "International Symposium on Mathematical Programming",
+        "year": 1982,
+        "referenceCount": 20,
+        "citationCount": 1118,
+        "authors": [
+          {
+            "authorId": "1725557",
+            "name": "L. Lovász"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "81bffbb3577beb62eee795cbe916d763109185ba",
+        "externalIds": {
+          "MAG": "2012329067",
+          "DBLP": "journals/combinatorica/GrotschelLS81",
+          "DOI": "10.1007/BF02579273",
+          "CorpusId": 43787103
+        },
+        "url": "https://www.semanticscholar.org/paper/81bffbb3577beb62eee795cbe916d763109185ba",
+        "title": "The ellipsoid method and its consequences in combinatorial optimization",
+        "venue": "Comb.",
+        "year": 1981,
+        "referenceCount": 57,
+        "citationCount": 2168,
+        "authors": [
+          {
+            "authorId": "2588854",
+            "name": "M. Grötschel"
+          },
+          {
+            "authorId": "1725557",
+            "name": "L. Lovász"
+          },
+          {
+            "authorId": "1689196",
+            "name": "A. Schrijver"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "Convex analysis. Number 28 in Princeton Mathematical Series",
+        "venue": "Convex analysis. Number 28 in Princeton Mathematical Series",
+        "year": 1970,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    }
+  ]
+}

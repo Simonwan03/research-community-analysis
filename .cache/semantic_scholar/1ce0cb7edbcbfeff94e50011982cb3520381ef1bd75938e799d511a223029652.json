@@ -1,0 +1,320 @@
+{
+  "total": 15443,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "449532187c94af3dd3aa55e16d2c50f7854d2199",
+      "externalIds": {
+        "MAG": "1771410628",
+        "ArXiv": "1502.05477",
+        "DBLP": "conf/icml/SchulmanLAJM15",
+        "CorpusId": 16046818
+      },
+      "url": "https://www.semanticscholar.org/paper/449532187c94af3dd3aa55e16d2c50f7854d2199",
+      "title": "Trust Region Policy Optimization",
+      "venue": "International Conference on Machine Learning",
+      "year": 2015,
+      "referenceCount": 43,
+      "citationCount": 7827,
+      "authors": [
+        {
+          "authorId": "47971768",
+          "name": "John Schulman"
+        },
+        {
+          "authorId": "1736651",
+          "name": "S. Levine"
+        },
+        {
+          "authorId": "1689992",
+          "name": "P. Abbeel"
+        },
+        {
+          "authorId": "1694621",
+          "name": "Michael I. Jordan"
+        },
+        {
+          "authorId": "29912342",
+          "name": "Philipp Moritz"
+        }
+      ]
+    },
+    {
+      "paperId": "b1a8a0860346ae0dae784015f7b69f156849828f",
+      "externalIds": {
+        "DBLP": "journals/tsmc/XuXZL25",
+        "DOI": "10.1109/TSMC.2025.3573513",
+        "CorpusId": 279295227
+      },
+      "url": "https://www.semanticscholar.org/paper/b1a8a0860346ae0dae784015f7b69f156849828f",
+      "title": "Twin Trust Region Policy Optimization",
+      "venue": "IEEE Transactions on Systems, Man, and Cybernetics: Systems",
+      "year": 2025,
+      "referenceCount": 52,
+      "citationCount": 7,
+      "authors": [
+        {
+          "authorId": "2297141833",
+          "name": "Haotian Xu"
+        },
+        {
+          "authorId": "2207125",
+          "name": "Junyu Xuan"
+        },
+        {
+          "authorId": "46266495",
+          "name": "Guangquan Zhang"
+        },
+        {
+          "authorId": "2287792006",
+          "name": "Jie Lu"
+        }
+      ]
+    },
+    {
+      "paperId": "c5a9f7919ab213aa8ef1653e480ca0f7e385ac0e",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2505-22781",
+        "ArXiv": "2505.22781",
+        "DOI": "10.48550/arXiv.2505.22781",
+        "CorpusId": 278996598
+      },
+      "url": "https://www.semanticscholar.org/paper/c5a9f7919ab213aa8ef1653e480ca0f7e385ac0e",
+      "title": "Finite-Sample Convergence Bounds for Trust Region Policy Optimization in Mean-Field Games",
+      "venue": "International Conference on Machine Learning",
+      "year": 2025,
+      "referenceCount": 95,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2283134031",
+          "name": "Antonio Ocello"
+        },
+        {
+          "authorId": "1748959458",
+          "name": "D. Tiapkin"
+        },
+        {
+          "authorId": "2328008106",
+          "name": "Lorenzo Mancini"
+        },
+        {
+          "authorId": "2283845895",
+          "name": "Mathieu Laurière"
+        },
+        {
+          "authorId": "2261287211",
+          "name": "Éric Moulines"
+        }
+      ]
+    },
+    {
+      "paperId": "a2ea78ea760e056eb5c7d4bc27e31ad066736c18",
+      "externalIds": {
+        "MAG": "2998050631",
+        "ArXiv": "1909.02769",
+        "DBLP": "conf/aaai/ShaniEM20",
+        "DOI": "10.1609/AAAI.V34I04.6021",
+        "CorpusId": 202235132
+      },
+      "url": "https://www.semanticscholar.org/paper/a2ea78ea760e056eb5c7d4bc27e31ad066736c18",
+      "title": "Adaptive Trust Region Policy Optimization: Global Convergence and Faster Rates for Regularized MDPs",
+      "venue": "AAAI Conference on Artificial Intelligence",
+      "year": 2019,
+      "referenceCount": 33,
+      "citationCount": 201,
+      "authors": [
+        {
+          "authorId": "38274824",
+          "name": "Lior Shani"
+        },
+        {
+          "authorId": "27098848",
+          "name": "Yonathan Efroni"
+        },
+        {
+          "authorId": "1712535",
+          "name": "Shie Mannor"
+        }
+      ]
+    },
+    {
+      "paperId": "27dfecb6bb0308c7484e13dcaefd5eeebba677d3",
+      "externalIds": {
+        "MAG": "2952152670",
+        "DBLP": "journals/corr/abs-1802-10592",
+        "ArXiv": "1802.10592",
+        "CorpusId": 3536221
+      },
+      "url": "https://www.semanticscholar.org/paper/27dfecb6bb0308c7484e13dcaefd5eeebba677d3",
+      "title": "Model-Ensemble Trust-Region Policy Optimization",
+      "venue": "International Conference on Learning Representations",
+      "year": 2018,
+      "referenceCount": 47,
+      "citationCount": 483,
+      "authors": [
+        {
+          "authorId": "2765564",
+          "name": "Thanard Kurutach"
+        },
+        {
+          "authorId": "15593386",
+          "name": "Ignasi Clavera"
+        },
+        {
+          "authorId": "144581158",
+          "name": "Yan Duan"
+        },
+        {
+          "authorId": "3025260",
+          "name": "Aviv Tamar"
+        },
+        {
+          "authorId": "1689992",
+          "name": "P. Abbeel"
+        }
+      ]
+    },
+    {
+      "paperId": "439ca3e45015c6a02f461655f404ae08ceea3dd1",
+      "externalIds": {
+        "DOI": "10.3390/electronics14244900",
+        "CorpusId": 283808987
+      },
+      "url": "https://www.semanticscholar.org/paper/439ca3e45015c6a02f461655f404ae08ceea3dd1",
+      "title": "Multi-Objective Optimal Scheduling of Park-Level Integrated Energy System Based on Trust Region Policy Optimization Algorithm",
+      "venue": "Electronics",
+      "year": 2025,
+      "referenceCount": 0,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2399110472",
+          "name": "Deyuan Lu"
+        },
+        {
+          "authorId": "2398317707",
+          "name": "Chongxiao Kou"
+        },
+        {
+          "authorId": "2389901133",
+          "name": "Shutong Wang"
+        },
+        {
+          "authorId": "2277596999",
+          "name": "Li Wang"
+        },
+        {
+          "authorId": "2143416370",
+          "name": "Yongbo Wang"
+        },
+        {
+          "authorId": "2075455754",
+          "name": "Yingjun Lv"
+        }
+      ]
+    },
+    {
+      "paperId": "5bd258e18edb298191306dfb84f078a5c05019bc",
+      "externalIds": {
+        "DOI": "10.14569/ijacsa.2025.0161084",
+        "CorpusId": 282688962
+      },
+      "url": "https://www.semanticscholar.org/paper/5bd258e18edb298191306dfb84f078a5c05019bc",
+      "title": "Coordination, Communication and Robustness in Multi-Agents: An Industrial Network Scenario Using Trust Region Policy Optimization",
+      "venue": "International Journal of Advanced Computer Science and Applications",
+      "year": 2025,
+      "referenceCount": 35,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "35191617",
+          "name": "M. Shah"
+        }
+      ]
+    },
+    {
+      "paperId": "9b06fcd1468c44d2cc1623d1b123ca66ed26f4e3",
+      "externalIds": {
+        "ArXiv": "2505.17714",
+        "DBLP": "journals/corr/abs-2505-17714",
+        "DOI": "10.48550/arXiv.2505.17714",
+        "CorpusId": 278885983
+      },
+      "url": "https://www.semanticscholar.org/paper/9b06fcd1468c44d2cc1623d1b123ca66ed26f4e3",
+      "title": "PPO-BR: Dual-Signal Entropy-Reward Adaptation for Trust Region Policy Optimization",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "referenceCount": 18,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2363582282",
+          "name": "Ben Rahman"
+        }
+      ]
+    },
+    {
+      "paperId": "2497e7cc761a99f2fe21976bbdc3e19636811ab1",
+      "externalIds": {
+        "DBLP": "journals/asc/ZhaoY26",
+        "DOI": "10.1016/j.asoc.2025.114212",
+        "CorpusId": 282980149
+      },
+      "url": "https://www.semanticscholar.org/paper/2497e7cc761a99f2fe21976bbdc3e19636811ab1",
+      "title": "Quantum-inspired multi-step trust region policy optimization for integrated rotor angle stability control of time-varying renewable energy sources",
+      "venue": "Applied Soft Computing",
+      "year": 2025,
+      "referenceCount": 44,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "3211317",
+          "name": "Lulin Zhao"
+        },
+        {
+          "authorId": "9152493",
+          "name": "Linfei Yin"
+        }
+      ]
+    },
+    {
+      "paperId": "1b086d01d9b9335fed895fc8dbab592ea6644f1e",
+      "externalIds": {
+        "ArXiv": "2512.17636",
+        "DBLP": "journals/corr/abs-2512-17636",
+        "DOI": "10.48550/arXiv.2512.17636",
+        "CorpusId": 284058169
+      },
+      "url": "https://www.semanticscholar.org/paper/1b086d01d9b9335fed895fc8dbab592ea6644f1e",
+      "title": "Trust-Region Adaptive Policy Optimization",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "referenceCount": 48,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2174699606",
+          "name": "Mingyu Su"
+        },
+        {
+          "authorId": "2323534462",
+          "name": "Jian Guan"
+        },
+        {
+          "authorId": "2116405624",
+          "name": "Yuxian Gu"
+        },
+        {
+          "authorId": "2254009342",
+          "name": "Minlie Huang"
+        },
+        {
+          "authorId": "2257375900",
+          "name": "Hongning Wang"
+        }
+      ]
+    }
+  ]
+}

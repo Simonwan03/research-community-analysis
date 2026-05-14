@@ -1,0 +1,300 @@
+{
+  "total": 2383,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "1dc5c685830056b1642d5c69ab2311979d680e54",
+      "externalIds": {
+        "MAG": "2786811224",
+        "DBLP": "journals/corr/abs-1802-04016",
+        "ArXiv": "1802.04016",
+        "CorpusId": 3613313
+      },
+      "url": "https://www.semanticscholar.org/paper/1dc5c685830056b1642d5c69ab2311979d680e54",
+      "title": "Geodesic Convolutional Shape Optimization",
+      "venue": "International Conference on Machine Learning",
+      "year": 2018,
+      "referenceCount": 44,
+      "citationCount": 91,
+      "authors": [
+        {
+          "authorId": "3357546",
+          "name": "P. Baqué"
+        },
+        {
+          "authorId": "29370175",
+          "name": "Edoardo Remelli"
+        },
+        {
+          "authorId": "2721983",
+          "name": "F. Fleuret"
+        },
+        {
+          "authorId": "1717736",
+          "name": "P. Fua"
+        }
+      ]
+    },
+    {
+      "paperId": "a743115795375666593919cbd48590213c229ae9",
+      "externalIds": {
+        "MAG": "2240571584",
+        "DBLP": "conf/iccvw/MasciBBV15",
+        "DOI": "10.1109/ICCVW.2015.112",
+        "CorpusId": 11170942
+      },
+      "url": "https://www.semanticscholar.org/paper/a743115795375666593919cbd48590213c229ae9",
+      "title": "Geodesic Convolutional Neural Networks on Riemannian Manifolds",
+      "venue": "2015 IEEE International Conference on Computer Vision Workshop (ICCVW)",
+      "year": 2015,
+      "referenceCount": 51,
+      "citationCount": 784,
+      "authors": [
+        {
+          "authorId": "2426718",
+          "name": "Jonathan Masci"
+        },
+        {
+          "authorId": "1804261",
+          "name": "Davide Boscaini"
+        },
+        {
+          "authorId": "1732570",
+          "name": "M. Bronstein"
+        },
+        {
+          "authorId": "1697397",
+          "name": "P. Vandergheynst"
+        }
+      ]
+    },
+    {
+      "paperId": "1b331c13e22ee46c12b9acb6bd5a02613c1ad0ed",
+      "externalIds": {
+        "MAG": "2964850605",
+        "CorpusId": 201036115
+      },
+      "url": "https://www.semanticscholar.org/paper/1b331c13e22ee46c12b9acb6bd5a02613c1ad0ed",
+      "title": "Aerodynamic shape optimization via surrogate modelling with convolutional neural networks",
+      "venue": "",
+      "year": 2019,
+      "referenceCount": 7,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "48436810",
+          "name": "Francesco Bardi"
+        }
+      ]
+    },
+    {
+      "paperId": "4fcb266c334b0e649426a0b92c0199d3a0c726b0",
+      "externalIds": {
+        "MAG": "1619816297",
+        "DBLP": "journals/corr/MasciBBV15",
+        "ArXiv": "1501.06297",
+        "CorpusId": 17828221
+      },
+      "url": "https://www.semanticscholar.org/paper/4fcb266c334b0e649426a0b92c0199d3a0c726b0",
+      "title": "ShapeNet: Convolutional Neural Networks on Non-Euclidean Manifolds",
+      "venue": "arXiv.org",
+      "year": 2015,
+      "referenceCount": 67,
+      "citationCount": 61,
+      "authors": [
+        {
+          "authorId": "2426718",
+          "name": "Jonathan Masci"
+        },
+        {
+          "authorId": "1804261",
+          "name": "Davide Boscaini"
+        },
+        {
+          "authorId": "1732570",
+          "name": "M. Bronstein"
+        },
+        {
+          "authorId": "1697397",
+          "name": "P. Vandergheynst"
+        }
+      ]
+    },
+    {
+      "paperId": "2b12e6077770ffa13b2e3f8c829adc2955e9a6eb",
+      "externalIds": {
+        "ArXiv": "2504.01564",
+        "DBLP": "conf/gsi/LoayzaRomeroW25",
+        "DOI": "10.1007/978-3-032-03924-8_12",
+        "CorpusId": 277502369
+      },
+      "url": "https://www.semanticscholar.org/paper/2b12e6077770ffa13b2e3f8c829adc2955e9a6eb",
+      "title": "Numerical Techniques for Geodesic Approximation in Riemannian Shape Optimization",
+      "venue": "International Conference on Geometric Science of Information",
+      "year": 2025,
+      "referenceCount": 31,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "1423382575",
+          "name": "Estefanía Loayza-Romero"
+        },
+        {
+          "authorId": "39675403",
+          "name": "Kathrin Welker"
+        }
+      ]
+    },
+    {
+      "paperId": "9e258956834db4fa59c9f1c9cc091ec0170a2b68",
+      "externalIds": {
+        "DOI": "10.1063/5.0205780",
+        "CorpusId": 269813360
+      },
+      "url": "https://www.semanticscholar.org/paper/9e258956834db4fa59c9f1c9cc091ec0170a2b68",
+      "title": "Multi-fidelity deep learning for aerodynamic shape optimization using convolutional neural network",
+      "venue": "The Physics of Fluids",
+      "year": 2024,
+      "referenceCount": 55,
+      "citationCount": 19,
+      "authors": [
+        {
+          "authorId": "2134771301",
+          "name": "Guocheng Tao"
+        },
+        {
+          "authorId": "2267022626",
+          "name": "Chengwei Fan"
+        },
+        {
+          "authorId": "2144329267",
+          "name": "Wen Wang"
+        },
+        {
+          "authorId": "2301988774",
+          "name": "Wenjun Guo"
+        },
+        {
+          "authorId": "2114355556",
+          "name": "Jiahuan Cui"
+        }
+      ]
+    },
+    {
+      "paperId": "1f67c3c3b956ed596357267a38d5d026f8e8813e",
+      "externalIds": {
+        "ArXiv": "2301.05597",
+        "DOI": "10.2139/ssrn.4376050",
+        "CorpusId": 255825702
+      },
+      "url": "https://www.semanticscholar.org/paper/1f67c3c3b956ed596357267a38d5d026f8e8813e",
+      "title": "A Parametric Level Set Method with Convolutional Encoder-Decoder Network for Shape Optimization with Fluid Flow",
+      "venue": "Social Science Research Network",
+      "year": 2023,
+      "referenceCount": 54,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "72216413",
+          "name": "Wrik Mallik"
+        },
+        {
+          "authorId": "6330065",
+          "name": "R. Jaiman"
+        },
+        {
+          "authorId": "71859411",
+          "name": "J. Jelovica"
+        }
+      ]
+    },
+    {
+      "paperId": "9a38560ed6f6bca3840939fff83fa6959c39c62a",
+      "externalIds": {
+        "ArXiv": "2201.06210",
+        "DBLP": "journals/corr/abs-2201-06210",
+        "CorpusId": 246016347
+      },
+      "url": "https://www.semanticscholar.org/paper/9a38560ed6f6bca3840939fff83fa6959c39c62a",
+      "title": "Deep convolutional neural network for shape optimization using level-set approach",
+      "venue": "arXiv.org",
+      "year": 2022,
+      "referenceCount": 59,
+      "citationCount": 5,
+      "authors": [
+        {
+          "authorId": "72216413",
+          "name": "Wrik Mallik"
+        },
+        {
+          "authorId": "97875575",
+          "name": "N. Farvolden"
+        },
+        {
+          "authorId": "6330065",
+          "name": "R. Jaiman"
+        },
+        {
+          "authorId": "71859411",
+          "name": "J. Jelovica"
+        }
+      ]
+    },
+    {
+      "paperId": "3befa4dcb44fa4f1ef6e6f4735850189f0a28239",
+      "externalIds": {
+        "DOI": "10.3390/aerospace12050389",
+        "CorpusId": 278218463
+      },
+      "url": "https://www.semanticscholar.org/paper/3befa4dcb44fa4f1ef6e6f4735850189f0a28239",
+      "title": "End-to-End Deep-Learning-Based Surrogate Modeling for Supersonic Airfoil Shape Optimization",
+      "venue": "Aerospace",
+      "year": 2025,
+      "referenceCount": 0,
+      "citationCount": 7,
+      "authors": [
+        {
+          "authorId": "2358622548",
+          "name": "Diogo Pereira"
+        },
+        {
+          "authorId": "72578228",
+          "name": "F. Afonso"
+        },
+        {
+          "authorId": "2282686667",
+          "name": "Fernando Lau"
+        }
+      ]
+    },
+    {
+      "paperId": "677c9b3720a2518ac3799854f36949e9548e3c56",
+      "externalIds": {
+        "DOI": "10.1002/nbm.5307",
+        "CorpusId": 275754645,
+        "PubMed": "39832921"
+      },
+      "url": "https://www.semanticscholar.org/paper/677c9b3720a2518ac3799854f36949e9548e3c56",
+      "title": "Classification and Pixel Change Detection of Brain Tumor Using Adam Kookaburra Optimization–Based Shepard Convolutional Neural Network",
+      "venue": "NMR in Biomedicine",
+      "year": 2025,
+      "referenceCount": 48,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "2160991951",
+          "name": "S. Abirami"
+        },
+        {
+          "authorId": "144860699",
+          "name": "K. Ramesh"
+        },
+        {
+          "authorId": "2341305733",
+          "name": "K. Lalitha VaniSree"
+        }
+      ]
+    }
+  ]
+}

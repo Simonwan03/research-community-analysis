@@ -1,0 +1,309 @@
+{
+  "total": 11,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "049139382018f07899c8686437a60e8fe623e8a1",
+      "externalIds": {
+        "MAG": "2962723887",
+        "DBLP": "journals/corr/CzarneckiSJOVK17",
+        "ArXiv": "1703.00522",
+        "CorpusId": 8489617
+      },
+      "url": "https://www.semanticscholar.org/paper/049139382018f07899c8686437a60e8fe623e8a1",
+      "title": "Understanding Synthetic Gradients and Decoupled Neural Interfaces",
+      "venue": "International Conference on Machine Learning",
+      "year": 2017,
+      "referenceCount": 22,
+      "citationCount": 91,
+      "authors": [
+        {
+          "authorId": "144792148",
+          "name": "Wojciech M. Czarnecki"
+        },
+        {
+          "authorId": "1782475",
+          "name": "G. Swirszcz"
+        },
+        {
+          "authorId": "3093886",
+          "name": "Max Jaderberg"
+        },
+        {
+          "authorId": "2217144",
+          "name": "Simon Osindero"
+        },
+        {
+          "authorId": "1689108",
+          "name": "O. Vinyals"
+        },
+        {
+          "authorId": "2645384",
+          "name": "K. Kavukcuoglu"
+        }
+      ]
+    },
+    {
+      "paperId": "27760cc69be4ce445962ccb270a02d1944a9d4c9",
+      "externalIds": {
+        "MAG": "2952665334",
+        "ArXiv": "1608.05343",
+        "DBLP": "conf/icml/JaderbergCOVGSK17",
+        "CorpusId": 5615093
+      },
+      "url": "https://www.semanticscholar.org/paper/27760cc69be4ce445962ccb270a02d1944a9d4c9",
+      "title": "Decoupled Neural Interfaces using Synthetic Gradients",
+      "venue": "International Conference on Machine Learning",
+      "year": 2016,
+      "referenceCount": 35,
+      "citationCount": 403,
+      "authors": [
+        {
+          "authorId": "3093886",
+          "name": "Max Jaderberg"
+        },
+        {
+          "authorId": "144792148",
+          "name": "Wojciech M. Czarnecki"
+        },
+        {
+          "authorId": "2217144",
+          "name": "Simon Osindero"
+        },
+        {
+          "authorId": "1689108",
+          "name": "O. Vinyals"
+        },
+        {
+          "authorId": "1753223",
+          "name": "Alex Graves"
+        },
+        {
+          "authorId": "145824029",
+          "name": "David Silver"
+        },
+        {
+          "authorId": "2645384",
+          "name": "K. Kavukcuoglu"
+        }
+      ]
+    },
+    {
+      "paperId": "304594e8ce2f917732146cbef566dc74de44c09d",
+      "externalIds": {
+        "CorpusId": 8732828
+      },
+      "url": "https://www.semanticscholar.org/paper/304594e8ce2f917732146cbef566dc74de44c09d",
+      "title": "Material for Decoupled Neural Interfaces using Synthetic Gradients",
+      "venue": "",
+      "year": 2017,
+      "referenceCount": 15,
+      "citationCount": 1,
+      "authors": []
+    },
+    {
+      "paperId": "ebe0681c68bdf6f66cde53647c7a87914add6161",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-1712-08314",
+        "MAG": "2779724516",
+        "ArXiv": "1712.08314",
+        "CorpusId": 9201290
+      },
+      "url": "https://www.semanticscholar.org/paper/ebe0681c68bdf6f66cde53647c7a87914add6161",
+      "title": "Benchmarking Decoupled Neural Interfaces with Synthetic Gradients",
+      "venue": "arXiv.org",
+      "year": 2017,
+      "referenceCount": 24,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "19182651",
+          "name": "Ekaba Bisong"
+        }
+      ]
+    },
+    {
+      "paperId": "481cc0f37d0452bc61adf0e08f2cf40bc5e56a00",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-1902-10630",
+        "MAG": "2934787937",
+        "ArXiv": "1902.10630",
+        "CorpusId": 67856224
+      },
+      "url": "https://www.semanticscholar.org/paper/481cc0f37d0452bc61adf0e08f2cf40bc5e56a00",
+      "title": "Alternating Synthetic and Real Gradients for Neural Language Modeling",
+      "venue": "arXiv.org",
+      "year": 2019,
+      "referenceCount": 17,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "9136995",
+          "name": "Fangxin Shang"
+        },
+        {
+          "authorId": "2144614295",
+          "name": "Hao Zhang"
+        }
+      ]
+    },
+    {
+      "paperId": "c1b23989602264f4c8fea82e17e65e6bef9cfb0e",
+      "externalIds": {
+        "MAG": "2898886394",
+        "DBLP": "conf/embc/ZhangCY018",
+        "DOI": "10.1109/EMBC.2018.8512241",
+        "CorpusId": 53096669,
+        "PubMed": "30440371"
+      },
+      "url": "https://www.semanticscholar.org/paper/c1b23989602264f4c8fea82e17e65e6bef9cfb0e",
+      "title": "Tracking the Time Varying Neural Tuning via Adam on Point Process Observations",
+      "venue": "Annual International Conference of the IEEE Engineering in Medicine and Biology Society",
+      "year": 2018,
+      "referenceCount": 14,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "2128158869",
+          "name": "Zitong Zhang"
+        },
+        {
+          "authorId": "122665192",
+          "name": "Shuhang Chen"
+        },
+        {
+          "authorId": "50109663",
+          "name": "Zaiyue Yang"
+        },
+        {
+          "authorId": "2108841998",
+          "name": "Yiwen Wang"
+        }
+      ]
+    },
+    {
+      "paperId": "f906b4117eceb6577948e111e3ad393672d60ce1",
+      "externalIds": {
+        "ArXiv": "2603.21695",
+        "CorpusId": 286766168
+      },
+      "url": "https://www.semanticscholar.org/paper/f906b4117eceb6577948e111e3ad393672d60ce1",
+      "title": "RefracGS: Novel View Synthesis Through Refractive Water Surfaces with 3D Gaussian Ray Tracing",
+      "venue": "",
+      "year": 2026,
+      "referenceCount": 35,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2336251464",
+          "name": "Yiming Shao"
+        },
+        {
+          "authorId": "2282527888",
+          "name": "Qiyu Dai"
+        },
+        {
+          "authorId": "2328624239",
+          "name": "Chong Gao"
+        },
+        {
+          "authorId": "2384860482",
+          "name": "Guanbin Li"
+        },
+        {
+          "authorId": "2278790145",
+          "name": "Ye Wang"
+        },
+        {
+          "authorId": "2309193844",
+          "name": "He Sun"
+        },
+        {
+          "authorId": "2337235063",
+          "name": "Qiong Zeng"
+        },
+        {
+          "authorId": "2282563846",
+          "name": "Baoquan Chen"
+        },
+        {
+          "authorId": "2282541780",
+          "name": "Wenzheng Chen"
+        }
+      ]
+    },
+    {
+      "paperId": "aec8206bc9551b5ab06414378881cdb5f4cdb195",
+      "externalIds": {
+        "PubMedCentral": "12935490",
+        "DOI": "10.1055/a-2673-4339",
+        "CorpusId": 281385993,
+        "PubMed": "40962128"
+      },
+      "url": "https://www.semanticscholar.org/paper/aec8206bc9551b5ab06414378881cdb5f4cdb195",
+      "title": "Current State-of-the-Art 3D MRI Sequences for Assessing Bone Morphology with Emphasis on Cranial and Spinal Imaging: A Narrative Review",
+      "venue": "RöFo - Fortschritte auf dem Gebiet der Röntgenstrahlen und der bildgebenden Verfahren",
+      "year": 2025,
+      "referenceCount": 73,
+      "citationCount": 4,
+      "authors": [
+        {
+          "authorId": "2380979555",
+          "name": "Irena Georgieva Kavrakova"
+        },
+        {
+          "authorId": "2237771193",
+          "name": "Patrick Haage"
+        },
+        {
+          "authorId": "2294843709",
+          "name": "Christoph Alexander Stueckle"
+        }
+      ]
+    },
+    {
+      "paperId": "3d02132a46105c722cab61429463c46d3b0cad1f",
+      "externalIds": {
+        "CorpusId": 253139980
+      },
+      "url": "https://www.semanticscholar.org/paper/3d02132a46105c722cab61429463c46d3b0cad1f",
+      "title": "Frontiers in Soft Condensed Matter Artificial",
+      "venue": "",
+      "year": 2022,
+      "referenceCount": 13,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2183598520",
+          "name": "E. M. Rafael"
+        },
+        {
+          "authorId": "1753625540",
+          "name": "Luca Tonti"
+        },
+        {
+          "authorId": "145153186",
+          "name": "D. Corbett"
+        },
+        {
+          "authorId": "4872952",
+          "name": "A. Cuetos"
+        }
+      ]
+    },
+    {
+      "paperId": "7e439e4863df0f4f5663d49fcbcc35fcd7a186da",
+      "externalIds": {
+        "CorpusId": 252433603
+      },
+      "url": "https://www.semanticscholar.org/paper/7e439e4863df0f4f5663d49fcbcc35fcd7a186da",
+      "title": "2020 Undergraduate Research Symposium The Calculus of Clovers UW Undergraduate Research Symposium",
+      "venue": "",
+      "year": null,
+      "referenceCount": 0,
+      "citationCount": 0,
+      "authors": []
+    }
+  ]
+}

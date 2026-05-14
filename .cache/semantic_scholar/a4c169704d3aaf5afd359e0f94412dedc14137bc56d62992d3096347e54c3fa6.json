@@ -1,0 +1,74 @@
+{
+  "total": 2,
+  "offset": 0,
+  "data": [
+    {
+      "paperId": "23ab532b9cfc597a92491e5fbfcfec6b0be17c35",
+      "externalIds": {
+        "MAG": "2787645920",
+        "DBLP": "conf/icml/OlofssonDM18",
+        "ArXiv": "1802.04170",
+        "CorpusId": 51876472
+      },
+      "url": "https://www.semanticscholar.org/paper/23ab532b9cfc597a92491e5fbfcfec6b0be17c35",
+      "title": "Design of Experiments for Model Discrimination Hybridising Analytical and Data-Driven Approaches",
+      "venue": "International Conference on Machine Learning",
+      "year": 2018,
+      "referenceCount": 45,
+      "citationCount": 10,
+      "authors": [
+        {
+          "authorId": "46837854",
+          "name": "Simon Olofsson"
+        },
+        {
+          "authorId": "2261881",
+          "name": "M. Deisenroth"
+        },
+        {
+          "authorId": "2067058",
+          "name": "R. Misener"
+        }
+      ]
+    },
+    {
+      "paperId": "9dfe4482873cafd31fe1170215487726ba35ce97",
+      "externalIds": {
+        "ArXiv": "2102.03782",
+        "CorpusId": 240354242
+      },
+      "url": "https://www.semanticscholar.org/paper/9dfe4482873cafd31fe1170215487726ba35ce97",
+      "title": "Using Gaussian Processes to Design Dynamic Experiments for Black-Box Model Discrimination under Uncertainty",
+      "venue": "",
+      "year": 2021,
+      "referenceCount": 51,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "46837854",
+          "name": "Simon Olofsson"
+        },
+        {
+          "authorId": "38064854",
+          "name": "Eduardo S. Schultz"
+        },
+        {
+          "authorId": "31873079",
+          "name": "A. Mhamdi"
+        },
+        {
+          "authorId": "46356209",
+          "name": "A. Mitsos"
+        },
+        {
+          "authorId": "2261881",
+          "name": "M. Deisenroth"
+        },
+        {
+          "authorId": "2067058",
+          "name": "R. Misener"
+        }
+      ]
+    }
+  ]
+}

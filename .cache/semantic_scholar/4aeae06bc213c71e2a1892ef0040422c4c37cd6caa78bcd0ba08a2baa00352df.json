@@ -1,0 +1,407 @@
+{
+  "total": 26,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "cab81775baae7ba2d056ebbc60437f2e03358ca3",
+      "externalIds": {
+        "DBLP": "conf/icml/RiedmillerHLNDW18",
+        "MAG": "2950462477",
+        "ArXiv": "1802.10567",
+        "CorpusId": 3562704
+      },
+      "url": "https://www.semanticscholar.org/paper/cab81775baae7ba2d056ebbc60437f2e03358ca3",
+      "title": "Learning by Playing - Solving Sparse Reward Tasks from Scratch",
+      "venue": "International Conference on Machine Learning",
+      "year": 2018,
+      "referenceCount": 55,
+      "citationCount": 499,
+      "authors": [
+        {
+          "authorId": "3137672",
+          "name": "Martin A. Riedmiller"
+        },
+        {
+          "authorId": "49512734",
+          "name": "Roland Hafner"
+        },
+        {
+          "authorId": "2066153554",
+          "name": "Thomas Lampe"
+        },
+        {
+          "authorId": "2366050",
+          "name": "M. Neunert"
+        },
+        {
+          "authorId": "3110620",
+          "name": "Jonas Degrave"
+        },
+        {
+          "authorId": "8023592",
+          "name": "T. Wiele"
+        },
+        {
+          "authorId": "3255983",
+          "name": "Volodymyr Mnih"
+        },
+        {
+          "authorId": "2801204",
+          "name": "N. Heess"
+        },
+        {
+          "authorId": "2060551",
+          "name": "Jost Tobias Springenberg"
+        }
+      ]
+    },
+    {
+      "paperId": "de436f69427e922c3c38d88791feb4a37e57f0cf",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2208-00843",
+        "DOI": "10.48550/arXiv.2208.00843",
+        "CorpusId": 251223547
+      },
+      "url": "https://www.semanticscholar.org/paper/de436f69427e922c3c38d88791feb4a37e57f0cf",
+      "title": "Relay Hindsight Experience Replay: Continual Reinforcement Learning for Robot Manipulation Tasks with Sparse Rewards",
+      "venue": "arXiv.org",
+      "year": 2022,
+      "referenceCount": 38,
+      "citationCount": 7,
+      "authors": [
+        {
+          "authorId": "97685390",
+          "name": "Yongle Luo"
+        },
+        {
+          "authorId": "2180352936",
+          "name": "Yuxin Wang"
+        },
+        {
+          "authorId": "2057564824",
+          "name": "Kun Dong"
+        },
+        {
+          "authorId": "19219781",
+          "name": "Q. Zhang"
+        },
+        {
+          "authorId": "2065660974",
+          "name": "Erkang Cheng"
+        },
+        {
+          "authorId": "48064593",
+          "name": "Zhiyong Sun"
+        },
+        {
+          "authorId": "2105722685",
+          "name": "Bo Song"
+        }
+      ]
+    },
+    {
+      "paperId": "df51d8936e440829ef52a668176c98ca8e51db8b",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2509-21126",
+        "ArXiv": "2509.21126",
+        "DOI": "10.48550/arXiv.2509.21126",
+        "CorpusId": 281525827
+      },
+      "url": "https://www.semanticscholar.org/paper/df51d8936e440829ef52a668176c98ca8e51db8b",
+      "title": "Teaching RL Agents to Act Better: VLM as Action Advisor for Online Reinforcement Learning",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "referenceCount": 33,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "2300128501",
+          "name": "Xiefeng Wu"
+        },
+        {
+          "authorId": "2398765431",
+          "name": "Jing Zhao"
+        },
+        {
+          "authorId": "2382035908",
+          "name": "Shu Zhang"
+        },
+        {
+          "authorId": "2213330919",
+          "name": "Ming Hu"
+        }
+      ]
+    },
+    {
+      "paperId": "d051076c1356c3f9fc573d70b9a384984386c3bf",
+      "externalIds": {
+        "ArXiv": "2106.08050",
+        "DBLP": "journals/corr/abs-2106-08050",
+        "CorpusId": 235435881
+      },
+      "url": "https://www.semanticscholar.org/paper/d051076c1356c3f9fc573d70b9a384984386c3bf",
+      "title": "Residual Reinforcement Learning from Demonstrations",
+      "venue": "arXiv.org",
+      "year": 2021,
+      "referenceCount": 36,
+      "citationCount": 37,
+      "authors": [
+        {
+          "authorId": "2112206379",
+          "name": "Minttu Alakuijala"
+        },
+        {
+          "authorId": "1387885286",
+          "name": "Gabriel Dulac-Arnold"
+        },
+        {
+          "authorId": "2599292",
+          "name": "J. Mairal"
+        },
+        {
+          "authorId": "144189388",
+          "name": "J. Ponce"
+        },
+        {
+          "authorId": "2462253",
+          "name": "C. Schmid"
+        }
+      ]
+    },
+    {
+      "paperId": "05603c65d813105eb136e867abfc412ea1735cf0",
+      "externalIds": {
+        "DBLP": "conf/nips/LiZG0L23",
+        "ArXiv": "2311.05067",
+        "DOI": "10.48550/arXiv.2311.05067",
+        "CorpusId": 265067478
+      },
+      "url": "https://www.semanticscholar.org/paper/05603c65d813105eb136e867abfc412ea1735cf0",
+      "title": "Accelerating Exploration with Unlabeled Prior Data",
+      "venue": "Neural Information Processing Systems",
+      "year": 2023,
+      "referenceCount": 68,
+      "citationCount": 18,
+      "authors": [
+        {
+          "authorId": "8194287",
+          "name": "Qiyang Li"
+        },
+        {
+          "authorId": "2359412551",
+          "name": "Jason Zhang"
+        },
+        {
+          "authorId": "8021910",
+          "name": "Dibya Ghosh"
+        },
+        {
+          "authorId": "2258311158",
+          "name": "Amy Zhang"
+        },
+        {
+          "authorId": "2254622427",
+          "name": "Sergey Levine"
+        }
+      ]
+    },
+    {
+      "paperId": "b422493e8b8d6ff4da2bdf93984d6919ae563fb3",
+      "externalIds": {
+        "ArXiv": "2109.05022",
+        "DBLP": "journals/corr/abs-2109-05022",
+        "CorpusId": 237492174
+      },
+      "url": "https://www.semanticscholar.org/paper/b422493e8b8d6ff4da2bdf93984d6919ae563fb3",
+      "title": "Potential-based Reward Shaping in Sokoban",
+      "venue": "arXiv.org",
+      "year": 2021,
+      "referenceCount": 22,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "2116370920",
+          "name": "Zhao Yang"
+        },
+        {
+          "authorId": "1950379",
+          "name": "M. Preuss"
+        },
+        {
+          "authorId": "2562595",
+          "name": "A. Plaat"
+        }
+      ]
+    },
+    {
+      "paperId": "b380e3bd2cd9eb9fd8fa302dd9be453d4442be4e",
+      "externalIds": {
+        "DBLP": "journals/sensors/BussolaFPFP24",
+        "PubMedCentral": "11314636",
+        "ArXiv": "2309.07038",
+        "DOI": "10.3390/s24154981",
+        "CorpusId": 261706087,
+        "PubMed": "39124028"
+      },
+      "url": "https://www.semanticscholar.org/paper/b380e3bd2cd9eb9fd8fa302dd9be453d4442be4e",
+      "title": "Efficient Reinforcement Learning for 3D Jumping Monopods",
+      "venue": "Italian National Conference on Sensors",
+      "year": 2023,
+      "referenceCount": 47,
+      "citationCount": 7,
+      "authors": [
+        {
+          "authorId": "2239202012",
+          "name": "Riccardo Bussola"
+        },
+        {
+          "authorId": "1900872",
+          "name": "Michele Focchi"
+        },
+        {
+          "authorId": "2239201923",
+          "name": "Andrea Del Prete"
+        },
+        {
+          "authorId": "3039414",
+          "name": "D. Fontanelli"
+        },
+        {
+          "authorId": "1749050",
+          "name": "L. Palopoli"
+        }
+      ]
+    },
+    {
+      "paperId": "f204041dd567025217adc8070ca292e89cc80488",
+      "externalIds": {
+        "ArXiv": "2010.14500",
+        "MAG": "3097907450",
+        "DBLP": "journals/corr/abs-2010-14500",
+        "CorpusId": 225076440
+      },
+      "url": "https://www.semanticscholar.org/paper/f204041dd567025217adc8070ca292e89cc80488",
+      "title": "COG: Connecting New Skills to Past Experience with Offline Reinforcement Learning",
+      "venue": "arXiv.org",
+      "year": 2020,
+      "referenceCount": 51,
+      "citationCount": 114,
+      "authors": [
+        {
+          "authorId": "1899992",
+          "name": "Avi Singh"
+        },
+        {
+          "authorId": "2055846675",
+          "name": "Albert Yu"
+        },
+        {
+          "authorId": "2143067490",
+          "name": "Jonathan Yang"
+        },
+        {
+          "authorId": "2255687520",
+          "name": "Jesse Zhang"
+        },
+        {
+          "authorId": "1488785534",
+          "name": "Aviral Kumar"
+        },
+        {
+          "authorId": "1736651",
+          "name": "S. Levine"
+        }
+      ]
+    },
+    {
+      "paperId": "e6c3937c8876a6ab5c01dca117a81b4f7c029fc5",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2109-06409",
+        "ArXiv": "2109.06409",
+        "DOI": "10.1109/LRA.2022.3145495",
+        "CorpusId": 237504104
+      },
+      "url": "https://www.semanticscholar.org/paper/e6c3937c8876a6ab5c01dca117a81b4f7c029fc5",
+      "title": "Reinforcement Learning with Evolutionary Trajectory Generator: A General Approach for Quadrupedal Locomotion",
+      "venue": "IEEE Robotics and Automation Letters",
+      "year": 2021,
+      "referenceCount": 31,
+      "citationCount": 66,
+      "authors": [
+        {
+          "authorId": "2112498131",
+          "name": "Hao-bin Shi"
+        },
+        {
+          "authorId": "2115369957",
+          "name": "Bo Zhou"
+        },
+        {
+          "authorId": "14093621",
+          "name": "Hongsheng Zeng"
+        },
+        {
+          "authorId": "49451147",
+          "name": "Fan Wang"
+        },
+        {
+          "authorId": "2033912848",
+          "name": "Yueqiang Dong"
+        },
+        {
+          "authorId": "47786519",
+          "name": "Jiangyong Li"
+        },
+        {
+          "authorId": "2390562373",
+          "name": "Kang Wang"
+        },
+        {
+          "authorId": "2069988265",
+          "name": "Hao Tian"
+        },
+        {
+          "authorId": "1735045",
+          "name": "M. Meng"
+        }
+      ]
+    },
+    {
+      "paperId": "b56fcbc32adcbe19caec31aaaf0fe045db5ad2b3",
+      "externalIds": {
+        "MAG": "2891160484",
+        "DBLP": "conf/nips/SiDRNS18",
+        "CorpusId": 53319040
+      },
+      "url": "https://www.semanticscholar.org/paper/b56fcbc32adcbe19caec31aaaf0fe045db5ad2b3",
+      "title": "Learning Loop Invariants for Program Verification",
+      "venue": "Neural Information Processing Systems",
+      "year": 2018,
+      "referenceCount": 51,
+      "citationCount": 148,
+      "authors": [
+        {
+          "authorId": "2457284",
+          "name": "X. Si"
+        },
+        {
+          "authorId": "2791430",
+          "name": "H. Dai"
+        },
+        {
+          "authorId": "2780408",
+          "name": "Mukund Raghothaman"
+        },
+        {
+          "authorId": "145835621",
+          "name": "M. Naik"
+        },
+        {
+          "authorId": "1779453",
+          "name": "Le Song"
+        }
+      ]
+    }
+  ]
+}

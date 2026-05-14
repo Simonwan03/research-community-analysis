@@ -1,0 +1,305 @@
+{
+  "total": 22,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "e64a0cb57d20be45c0814c968c2a540d109fb484",
+      "externalIds": {
+        "DBLP": "conf/icml/SenKS18",
+        "MAG": "2803774846",
+        "CorpusId": 51870956
+      },
+      "url": "https://www.semanticscholar.org/paper/e64a0cb57d20be45c0814c968c2a540d109fb484",
+      "title": "Multi-Fidelity Black-Box Optimization with Hierarchical Partitions",
+      "venue": "International Conference on Machine Learning",
+      "year": 2018,
+      "referenceCount": 30,
+      "citationCount": 54,
+      "authors": [
+        {
+          "authorId": "145897034",
+          "name": "Rajat Sen"
+        },
+        {
+          "authorId": "1887808",
+          "name": "Kirthevasan Kandasamy"
+        },
+        {
+          "authorId": "1688634",
+          "name": "S. Shakkottai"
+        }
+      ]
+    },
+    {
+      "paperId": "f690d2bb932a0d29b3000e3790fe466af9d38eaa",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-1810-10482",
+        "MAG": "2896107853",
+        "ArXiv": "1810.10482",
+        "CorpusId": 53085405
+      },
+      "url": "https://www.semanticscholar.org/paper/f690d2bb932a0d29b3000e3790fe466af9d38eaa",
+      "title": "Noisy Blackbox Optimization with Multi-Fidelity Queries: A Tree Search Approach",
+      "venue": "International Conference on Artificial Intelligence and Statistics",
+      "year": 2018,
+      "referenceCount": 41,
+      "citationCount": 23,
+      "authors": [
+        {
+          "authorId": "145897034",
+          "name": "Rajat Sen"
+        },
+        {
+          "authorId": "1887808",
+          "name": "Kirthevasan Kandasamy"
+        },
+        {
+          "authorId": "1688634",
+          "name": "S. Shakkottai"
+        }
+      ]
+    },
+    {
+      "paperId": "e7346fd7f63d61f20aa1b3af5f2effc49da77b85",
+      "externalIds": {
+        "DBLP": "conf/aaai/WangBT22",
+        "ArXiv": "2110.07232",
+        "DOI": "10.1609/aaai.v36i9.21280",
+        "CorpusId": 238856807
+      },
+      "url": "https://www.semanticscholar.org/paper/e7346fd7f63d61f20aa1b3af5f2effc49da77b85",
+      "title": "Procrastinated Tree Search: Black-box Optimization with Delayed, Noisy, and Multi-fidelity Feedback",
+      "venue": "AAAI Conference on Artificial Intelligence",
+      "year": 2021,
+      "referenceCount": 67,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "2110248299",
+          "name": "Junxiong Wang"
+        },
+        {
+          "authorId": "3214072",
+          "name": "D. Basu"
+        },
+        {
+          "authorId": "2636156",
+          "name": "Immanuel Trummer"
+        }
+      ]
+    },
+    {
+      "paperId": "c92af9ff2167b29700ff512c25dadf6e84f6579c",
+      "externalIds": {
+        "DBLP": "journals/kbs/LiuDW21",
+        "MAG": "3171165863",
+        "DOI": "10.1016/J.KNOSYS.2021.107212",
+        "CorpusId": 236289243
+      },
+      "url": "https://www.semanticscholar.org/paper/c92af9ff2167b29700ff512c25dadf6e84f6579c",
+      "title": "Multi-fidelity global optimization using a data-mining strategy for computationally intensive black-box problems",
+      "venue": "Knowledge-Based Systems",
+      "year": 2021,
+      "referenceCount": 59,
+      "citationCount": 23,
+      "authors": [
+        {
+          "authorId": "2146651111",
+          "name": "Jie Liu"
+        },
+        {
+          "authorId": "9093510",
+          "name": "Huachao Dong"
+        },
+        {
+          "authorId": "40156219",
+          "name": "Peng Wang"
+        }
+      ]
+    },
+    {
+      "paperId": "93f79916b344ead604fe8e57ad14b0c11bb8ce9c",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2402-09638",
+        "ArXiv": "2402.09638",
+        "DOI": "10.1145/3801959",
+        "CorpusId": 267682197
+      },
+      "url": "https://www.semanticscholar.org/paper/93f79916b344ead604fe8e57ad14b0c11bb8ce9c",
+      "title": "Multi-Fidelity Methods for Optimization: A Survey",
+      "venue": "ACM Computing Surveys",
+      "year": 2024,
+      "referenceCount": 324,
+      "citationCount": 18,
+      "authors": [
+        {
+          "authorId": "2284404075",
+          "name": "Ke Li"
+        },
+        {
+          "authorId": "2284769208",
+          "name": "Fan Li"
+        }
+      ]
+    },
+    {
+      "paperId": "66e43c7c0870cae41d70239b71566a218aa87f35",
+      "externalIds": {
+        "DOI": "10.1007/s00158-023-03607-8",
+        "CorpusId": 259140840
+      },
+      "url": "https://www.semanticscholar.org/paper/66e43c7c0870cae41d70239b71566a218aa87f35",
+      "title": "Alternative variable-fidelity acquisition functions for efficient global optimization of black-box functions",
+      "venue": "Structural And Multidisciplinary Optimization",
+      "year": 2023,
+      "referenceCount": 86,
+      "citationCount": 8,
+      "authors": [
+        {
+          "authorId": "2056879862",
+          "name": "L. G. Ribeiro"
+        },
+        {
+          "authorId": "66091352",
+          "name": "E. Parente"
+        },
+        {
+          "authorId": "2129011037",
+          "name": "Antônio Macário Cartaxo de Melo"
+        }
+      ]
+    },
+    {
+      "paperId": "fd573a9ce0b06a4570e83b885d216b64761116e8",
+      "externalIds": {
+        "DBLP": "conf/aaai/ZengJLWTJ26",
+        "ArXiv": "2508.07263",
+        "DOI": "10.48550/arXiv.2508.07263",
+        "CorpusId": 280566404
+      },
+      "url": "https://www.semanticscholar.org/paper/fd573a9ce0b06a4570e83b885d216b64761116e8",
+      "title": "Fading the Digital Ink: A Universal Black-Box Attack Framework for 3DGS Watermarking Systems",
+      "venue": "AAAI Conference on Artificial Intelligence",
+      "year": 2025,
+      "referenceCount": 27,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "2293413359",
+          "name": "Qingyuan Zeng"
+        },
+        {
+          "authorId": "2333238874",
+          "name": "Shu Jiang"
+        },
+        {
+          "authorId": "2320727509",
+          "name": "Jiajing Lin"
+        },
+        {
+          "authorId": "2278525873",
+          "name": "Zhenzhong Wang"
+        },
+        {
+          "authorId": "2253313612",
+          "name": "Kay Chen Tan"
+        },
+        {
+          "authorId": "2268453556",
+          "name": "Min Jiang"
+        }
+      ]
+    },
+    {
+      "paperId": "112d3aeaf12e24f8cd69093351ed89b276459543",
+      "externalIds": {
+        "ArXiv": "2604.18046",
+        "CorpusId": 287635705
+      },
+      "url": "https://www.semanticscholar.org/paper/112d3aeaf12e24f8cd69093351ed89b276459543",
+      "title": "EvoMarket: A High-Fidelity and Scalable Financial Market Simulator",
+      "venue": "",
+      "year": 2026,
+      "referenceCount": 59,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2269556672",
+          "name": "Muyao Zhong"
+        },
+        {
+          "authorId": "2300037451",
+          "name": "Zhen Yang"
+        },
+        {
+          "authorId": "2278400180",
+          "name": "Yuxiang Liu"
+        },
+        {
+          "authorId": "2241838592",
+          "name": "Ke Tang"
+        },
+        {
+          "authorId": "2315894612",
+          "name": "Peng Yang"
+        }
+      ]
+    },
+    {
+      "paperId": "d78a0017f1ae9647247e47a868cc31d2f5bdedf4",
+      "externalIds": {
+        "ArXiv": "2401.13334",
+        "DBLP": "journals/corr/abs-2401-13334",
+        "DOI": "10.48550/arXiv.2401.13334",
+        "CorpusId": 267199965
+      },
+      "url": "https://www.semanticscholar.org/paper/d78a0017f1ae9647247e47a868cc31d2f5bdedf4",
+      "title": "Explainable Bayesian Optimization",
+      "venue": "xAI",
+      "year": 2024,
+      "referenceCount": 67,
+      "citationCount": 9,
+      "authors": [
+        {
+          "authorId": "2280907271",
+          "name": "Tanmay Chakraborty"
+        },
+        {
+          "authorId": "2280905920",
+          "name": "C. Seifert"
+        },
+        {
+          "authorId": "2280911742",
+          "name": "Christian Wirth"
+        }
+      ]
+    },
+    {
+      "paperId": "b8c437effa967e86d4d8a928b16a1962d19a6cb7",
+      "externalIds": {
+        "ArXiv": "1612.08412",
+        "DBLP": "journals/isci/Al-DujailiS18",
+        "MAG": "2963495607",
+        "DOI": "10.1016/j.ins.2017.09.066",
+        "CorpusId": 23413453
+      },
+      "url": "https://www.semanticscholar.org/paper/b8c437effa967e86d4d8a928b16a1962d19a6cb7",
+      "title": "Multi-Objective Simultaneous Optimistic Optimization",
+      "venue": "Information Sciences",
+      "year": 2016,
+      "referenceCount": 66,
+      "citationCount": 14,
+      "authors": [
+        {
+          "authorId": "1397402079",
+          "name": "Abdullah Al-Dujaili"
+        },
+        {
+          "authorId": "2000307852",
+          "name": "S. Sundaram"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "total": 2,
+  "offset": 0,
+  "data": [
+    {
+      "paperId": "8624b044712b46a425ef06f59dd4cf57265bbb24",
+      "externalIds": {
+        "DBLP": "conf/icml/Weller16",
+        "MAG": "2472143053",
+        "DOI": "10.17863/CAM.236",
+        "CorpusId": 567350
+      },
+      "url": "https://www.semanticscholar.org/paper/8624b044712b46a425ef06f59dd4cf57265bbb24",
+      "title": "Uprooting and Rerooting Graphical Models",
+      "venue": "International Conference on Machine Learning",
+      "year": 2016,
+      "referenceCount": 39,
+      "citationCount": 9,
+      "authors": [
+        {
+          "authorId": "145689461",
+          "name": "Adrian Weller"
+        }
+      ]
+    },
+    {
+      "paperId": "c4b9831ae0c7645bf365032dc8f1eda0ec1d32a9",
+      "externalIds": {
+        "MAG": "2750677016",
+        "DBLP": "conf/nips/RowlandW17",
+        "CorpusId": 9955177
+      },
+      "url": "https://www.semanticscholar.org/paper/c4b9831ae0c7645bf365032dc8f1eda0ec1d32a9",
+      "title": "Uprooting and Rerooting Higher-Order Graphical Models",
+      "venue": "Neural Information Processing Systems",
+      "year": 2017,
+      "referenceCount": 25,
+      "citationCount": 4,
+      "authors": [
+        {
+          "authorId": "144845456",
+          "name": "Mark Rowland"
+        },
+        {
+          "authorId": "145689461",
+          "name": "Adrian Weller"
+        }
+      ]
+    }
+  ]
+}

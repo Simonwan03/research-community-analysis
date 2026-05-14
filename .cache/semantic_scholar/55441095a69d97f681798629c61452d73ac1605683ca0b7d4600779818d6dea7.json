@@ -1,0 +1,289 @@
+{
+  "total": 188,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "e11a38cfd503e1d80c64855a59e64dcd6aea53fc",
+      "externalIds": {
+        "ArXiv": "1708.04783",
+        "MAG": "2963623467",
+        "DBLP": "conf/icml/QuLX18",
+        "CorpusId": 51872671
+      },
+      "url": "https://www.semanticscholar.org/paper/e11a38cfd503e1d80c64855a59e64dcd6aea53fc",
+      "title": "Non-convex Conditional Gradient Sliding",
+      "venue": "International Conference on Machine Learning",
+      "year": 2017,
+      "referenceCount": 34,
+      "citationCount": 29,
+      "authors": [
+        {
+          "authorId": "2064702529",
+          "name": "C. Qu"
+        },
+        {
+          "authorId": "2152887354",
+          "name": "Yan Li"
+        },
+        {
+          "authorId": "143719795",
+          "name": "Huan Xu"
+        }
+      ]
+    },
+    {
+      "paperId": "35ff841518dff1748891d2aa1d93f60286974419",
+      "externalIds": {
+        "ArXiv": "2303.02778",
+        "CorpusId": 257365593
+      },
+      "url": "https://www.semanticscholar.org/paper/35ff841518dff1748891d2aa1d93f60286974419",
+      "title": "Zero-Order Stochastic Conditional Gradient Sliding Method for Non-smooth Convex Optimization",
+      "venue": "",
+      "year": 2023,
+      "referenceCount": 51,
+      "citationCount": 7,
+      "authors": [
+        {
+          "authorId": "145403137",
+          "name": "A. Lobanov"
+        },
+        {
+          "authorId": "145116394",
+          "name": "A. Anikin"
+        },
+        {
+          "authorId": "2300474543",
+          "name": "Alexander Gasnikov"
+        },
+        {
+          "authorId": "145431713",
+          "name": "Alexander Gornov"
+        },
+        {
+          "authorId": "21523959",
+          "name": "S. Chukanov"
+        }
+      ]
+    },
+    {
+      "paperId": "9e29e8e82f9040b82f1bdcd3f928a1b5b7c7864a",
+      "externalIds": {
+        "MAG": "2946286543",
+        "DBLP": "conf/icml/YurtseverSC19",
+        "CorpusId": 174800119
+      },
+      "url": "https://www.semanticscholar.org/paper/9e29e8e82f9040b82f1bdcd3f928a1b5b7c7864a",
+      "title": "Conditional Gradient Methods via Stochastic Path-Integrated Differential Estimator",
+      "venue": "International Conference on Machine Learning",
+      "year": 2019,
+      "referenceCount": 28,
+      "citationCount": 53,
+      "authors": [
+        {
+          "authorId": "34119589",
+          "name": "A. Yurtsever"
+        },
+        {
+          "authorId": "3072326",
+          "name": "S. Sra"
+        },
+        {
+          "authorId": "1678641",
+          "name": "V. Cevher"
+        }
+      ]
+    },
+    {
+      "paperId": "0d1956b633624a399e5ef4ab1b8b88fdbe86c6d5",
+      "externalIds": {
+        "DBLP": "conf/icml/GaoH20",
+        "MAG": "3034839415",
+        "CorpusId": 221088467
+      },
+      "url": "https://www.semanticscholar.org/paper/0d1956b633624a399e5ef4ab1b8b88fdbe86c6d5",
+      "title": "Can Stochastic Zeroth-Order Frank-Wolfe Method Converge Faster for Non-Convex Problems?",
+      "venue": "International Conference on Machine Learning",
+      "year": 2020,
+      "referenceCount": 34,
+      "citationCount": 16,
+      "authors": [
+        {
+          "authorId": "2141896",
+          "name": "Hongchang Gao"
+        },
+        {
+          "authorId": "145114933",
+          "name": "Heng Huang"
+        }
+      ]
+    },
+    {
+      "paperId": "c45d71a8c31c4dec80ae6f5c863f16d6d808f824",
+      "externalIds": {
+        "MAG": "2900795900",
+        "ArXiv": "1811.06416",
+        "DOI": "10.1088/1361-6420/ab2a29",
+        "CorpusId": 92981425
+      },
+      "url": "https://www.semanticscholar.org/paper/c45d71a8c31c4dec80ae6f5c863f16d6d808f824",
+      "title": "The sliding Frank–Wolfe algorithm and its application to super-resolution microscopy",
+      "venue": "Inverse Problems",
+      "year": 2018,
+      "referenceCount": 98,
+      "citationCount": 126,
+      "authors": [
+        {
+          "authorId": "1817974",
+          "name": "Quentin Denoyelle"
+        },
+        {
+          "authorId": "145626265",
+          "name": "V. Duval"
+        },
+        {
+          "authorId": "2075301023",
+          "name": "G. Peyr'e"
+        },
+        {
+          "authorId": "1921221",
+          "name": "Emmanuel Soubies"
+        }
+      ]
+    },
+    {
+      "paperId": "32b147051fdaf19f270600cfb54617235cc1bc8c",
+      "externalIds": {
+        "MAG": "3041526100",
+        "CorpusId": 229286307
+      },
+      "url": "https://www.semanticscholar.org/paper/32b147051fdaf19f270600cfb54617235cc1bc8c",
+      "title": "The Sliding Frank-Wolfe Algorithm for the BLASSO",
+      "venue": "",
+      "year": 2019,
+      "referenceCount": 11,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "1817974",
+          "name": "Quentin Denoyelle"
+        },
+        {
+          "authorId": "145626265",
+          "name": "V. Duval"
+        },
+        {
+          "authorId": "145481009",
+          "name": "G. Peyré"
+        },
+        {
+          "authorId": "1921221",
+          "name": "Emmanuel Soubies"
+        }
+      ]
+    },
+    {
+      "paperId": "5f0b949d820be85ee0f3feb89bb0b50b49bcd867",
+      "externalIds": {
+        "ArXiv": "2302.12808",
+        "DBLP": "journals/corr/abs-2302-12808",
+        "DOI": "10.48550/arXiv.2302.12808",
+        "CorpusId": 257206110
+      },
+      "url": "https://www.semanticscholar.org/paper/5f0b949d820be85ee0f3feb89bb0b50b49bcd867",
+      "title": "Linearization Algorithms for Fully Composite Optimization",
+      "venue": "Annual Conference Computational Learning Theory",
+      "year": 2023,
+      "referenceCount": 55,
+      "citationCount": 5,
+      "authors": [
+        {
+          "authorId": "8815875",
+          "name": "Maria-Luiza Vladarean"
+        },
+        {
+          "authorId": "51127990",
+          "name": "N. Doikov"
+        },
+        {
+          "authorId": "2456863",
+          "name": "Martin Jaggi"
+        },
+        {
+          "authorId": "2286826919",
+          "name": "Nicolas Flammarion"
+        }
+      ]
+    },
+    {
+      "paperId": "d83cdc5518b3b79e889f55e869e82e4ef0e04b9d",
+      "externalIds": {
+        "ArXiv": "2601.20443",
+        "CorpusId": 285101776
+      },
+      "url": "https://www.semanticscholar.org/paper/d83cdc5518b3b79e889f55e869e82e4ef0e04b9d",
+      "title": "Adaptive Conditional Gradient Sliding: Projection-Free and Line-Search-Free Acceleration",
+      "venue": "",
+      "year": 2026,
+      "referenceCount": 33,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2305539",
+          "name": "Shota Takahashi"
+        }
+      ]
+    },
+    {
+      "paperId": "57c9cd529bbd446713c04ee38d70e5a7cf47ea35",
+      "externalIds": {
+        "ArXiv": "2103.11026",
+        "DBLP": "journals/siamjo/OuyangS23",
+        "DOI": "10.1137/21m1406234",
+        "CorpusId": 232306995
+      },
+      "url": "https://www.semanticscholar.org/paper/57c9cd529bbd446713c04ee38d70e5a7cf47ea35",
+      "title": "Universal Conditional Gradient Sliding for Convex Optimization",
+      "venue": "SIAM Journal on Optimization",
+      "year": 2021,
+      "referenceCount": 23,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "3054677",
+          "name": "Yuyuan Ouyang"
+        },
+        {
+          "authorId": "153665190",
+          "name": "Trevor Squires"
+        }
+      ]
+    },
+    {
+      "paperId": "5b7513ad8e8fb691f5243278965dce549dbcc827",
+      "externalIds": {
+        "MAG": "2188195356",
+        "DBLP": "journals/siamjo/LanZ16",
+        "DOI": "10.1137/140992382",
+        "CorpusId": 16718343
+      },
+      "url": "https://www.semanticscholar.org/paper/5b7513ad8e8fb691f5243278965dce549dbcc827",
+      "title": "Conditional Gradient Sliding for Convex Optimization",
+      "venue": "SIAM Journal on Optimization",
+      "year": 2016,
+      "referenceCount": 40,
+      "citationCount": 160,
+      "authors": [
+        {
+          "authorId": "2070945",
+          "name": "Guanghui Lan"
+        },
+        {
+          "authorId": "2118764630",
+          "name": "Yi Zhou"
+        }
+      ]
+    }
+  ]
+}

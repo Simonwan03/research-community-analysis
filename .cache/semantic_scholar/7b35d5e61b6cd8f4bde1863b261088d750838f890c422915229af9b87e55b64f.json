@@ -1,0 +1,311 @@
+{
+  "total": 86,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "bd575b481405fa6d6ada0277c30cb8f58a4e6d44",
+      "externalIds": {
+        "DBLP": "conf/icml/NiculaeMBC18",
+        "MAG": "2949852701",
+        "ArXiv": "1802.04223",
+        "CorpusId": 3652390
+      },
+      "url": "https://www.semanticscholar.org/paper/bd575b481405fa6d6ada0277c30cb8f58a4e6d44",
+      "title": "SparseMAP: Differentiable Sparse Structured Inference",
+      "venue": "International Conference on Machine Learning",
+      "year": 2018,
+      "referenceCount": 73,
+      "citationCount": 129,
+      "authors": [
+        {
+          "authorId": "2114966",
+          "name": "Vlad Niculae"
+        },
+        {
+          "authorId": "145644643",
+          "name": "André F. T. Martins"
+        },
+        {
+          "authorId": "27257992",
+          "name": "Mathieu Blondel"
+        },
+        {
+          "authorId": "1748501",
+          "name": "Claire Cardie"
+        }
+      ]
+    },
+    {
+      "paperId": "55c5fec09097dee09879d52a6a30eedc2db381aa",
+      "externalIds": {
+        "MAG": "2999688250",
+        "DBLP": "conf/icml/NiculaeM20",
+        "ArXiv": "2001.04437",
+        "CorpusId": 210164619
+      },
+      "url": "https://www.semanticscholar.org/paper/55c5fec09097dee09879d52a6a30eedc2db381aa",
+      "title": "LP-SparseMAP: Differentiable Relaxed Optimization for Sparse Structured Prediction",
+      "venue": "International Conference on Machine Learning",
+      "year": 2020,
+      "referenceCount": 73,
+      "citationCount": 22,
+      "authors": [
+        {
+          "authorId": "2114966",
+          "name": "Vlad Niculae"
+        },
+        {
+          "authorId": "145644643",
+          "name": "André F. T. Martins"
+        }
+      ]
+    },
+    {
+      "paperId": "ef537d6519fadfaf4a4c27782a2b7c3d2928accd",
+      "externalIds": {
+        "ArXiv": "2509.25996",
+        "DBLP": "journals/corr/abs-2509-25996",
+        "DOI": "10.48550/arXiv.2509.25996",
+        "CorpusId": 281682355
+      },
+      "url": "https://www.semanticscholar.org/paper/ef537d6519fadfaf4a4c27782a2b7c3d2928accd",
+      "title": "CAST: Continuous and Differentiable Semi-Structured Sparsity-Aware Training for Large Language Models",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "referenceCount": 60,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2314309138",
+          "name": "Weiyu Huang"
+        },
+        {
+          "authorId": "2314057255",
+          "name": "Yuezhou Hu"
+        },
+        {
+          "authorId": "2287800407",
+          "name": "Jun Zhu"
+        },
+        {
+          "authorId": "2276707",
+          "name": "Jianfei Chen"
+        }
+      ]
+    },
+    {
+      "paperId": "3144a63dc86fc58096a027779658694ee16b1ab6",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2402-13725",
+        "ArXiv": "2402.13725",
+        "DOI": "10.48550/arXiv.2402.13725",
+        "CorpusId": 267770455
+      },
+      "url": "https://www.semanticscholar.org/paper/3144a63dc86fc58096a027779658694ee16b1ab6",
+      "title": "Sparse and Structured Hopfield Networks",
+      "venue": "International Conference on Machine Learning",
+      "year": 2024,
+      "referenceCount": 51,
+      "citationCount": 12,
+      "authors": [
+        {
+          "authorId": "143864538",
+          "name": "Saul Santos"
+        },
+        {
+          "authorId": "2264431013",
+          "name": "Vlad Niculae"
+        },
+        {
+          "authorId": "2284872073",
+          "name": "Daniel C. McNamee"
+        },
+        {
+          "authorId": "2284993421",
+          "name": "André F. T. Martins"
+        }
+      ]
+    },
+    {
+      "paperId": "a0969030c6beab991e33f44a4ccf8e75dc55bef2",
+      "externalIds": {
+        "DBLP": "conf/iccv/BelhadiDB25",
+        "DOI": "10.1109/ICCVW69036.2025.00179",
+        "CorpusId": 286014012
+      },
+      "url": "https://www.semanticscholar.org/paper/a0969030c6beab991e33f44a4ccf8e75dc55bef2",
+      "title": "LightPrune: Latency-Aware Structured Pruning for Efficient Deep Inference on Embedded Devices",
+      "venue": "2025 IEEE/CVF International Conference on Computer Vision Workshops (ICCVW)",
+      "year": 2025,
+      "referenceCount": 54,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "2210067",
+          "name": "Asma Belhadi"
+        },
+        {
+          "authorId": "2816085",
+          "name": "Y. Djenouri"
+        },
+        {
+          "authorId": "1768812",
+          "name": "A. Belbachir"
+        }
+      ]
+    },
+    {
+      "paperId": "ee95231fe084ff59c1a7fb027be58a9759cd4e6f",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2109-04552",
+        "ACL": "2021.emnlp-main.525",
+        "ArXiv": "2109.04552",
+        "DOI": "10.18653/v1/2021.emnlp-main.525",
+        "CorpusId": 237485244
+      },
+      "url": "https://www.semanticscholar.org/paper/ee95231fe084ff59c1a7fb027be58a9759cd4e6f",
+      "title": "SPECTRA: Sparse Structured Text Rationalization",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2021,
+      "referenceCount": 57,
+      "citationCount": 30,
+      "authors": [
+        {
+          "authorId": "144726818",
+          "name": "Nuno M. Guerreiro"
+        },
+        {
+          "authorId": "2113367250",
+          "name": "André F. T. Martins"
+        }
+      ]
+    },
+    {
+      "paperId": "c302150751e13ef36419bbcbbe1f91fcb1c56008",
+      "externalIds": {
+        "ArXiv": "2603.08065",
+        "CorpusId": 286377033
+      },
+      "url": "https://www.semanticscholar.org/paper/c302150751e13ef36419bbcbbe1f91fcb1c56008",
+      "title": "Deterministic Differentiable Structured Pruning for Large Language Models",
+      "venue": "",
+      "year": 2026,
+      "referenceCount": 35,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2314309138",
+          "name": "Weiyu Huang"
+        },
+        {
+          "authorId": "2261405658",
+          "name": "Pengle Zhang"
+        },
+        {
+          "authorId": "2344830091",
+          "name": "Xiaolu Zhang"
+        },
+        {
+          "authorId": "2344081478",
+          "name": "Jun Zhou"
+        },
+        {
+          "authorId": "2313183978",
+          "name": "Jun Zhu"
+        },
+        {
+          "authorId": "2276707",
+          "name": "Jianfei Chen"
+        }
+      ]
+    },
+    {
+      "paperId": "f1fa4fd79ee58a491687a537aa876628d302ff16",
+      "externalIds": {
+        "MAG": "2963142938",
+        "DBLP": "journals/corr/abs-1802-03676",
+        "ArXiv": "1802.03676",
+        "CorpusId": 3302467
+      },
+      "url": "https://www.semanticscholar.org/paper/f1fa4fd79ee58a491687a537aa876628d302ff16",
+      "title": "Differentiable Dynamic Programming for Structured Prediction and Attention",
+      "venue": "International Conference on Machine Learning",
+      "year": 2018,
+      "referenceCount": 66,
+      "citationCount": 152,
+      "authors": [
+        {
+          "authorId": "2408767085",
+          "name": "Arthur Mensch"
+        },
+        {
+          "authorId": "27257992",
+          "name": "Mathieu Blondel"
+        }
+      ]
+    },
+    {
+      "paperId": "4eed041c8f28295f6093ca6127e74b946549f722",
+      "externalIds": {
+        "DOI": "10.1101/2025.06.10.657924",
+        "CorpusId": 279329235
+      },
+      "url": "https://www.semanticscholar.org/paper/4eed041c8f28295f6093ca6127e74b946549f722",
+      "title": "Biologically Guided Variational Inference for Interpretable Multimodal Single-Cell Integration and Mechanistic Discovery",
+      "venue": "bioRxiv",
+      "year": 2025,
+      "referenceCount": 60,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2216915623",
+          "name": "L. Arnoldt"
+        },
+        {
+          "authorId": "147168790",
+          "name": "J. Upmeier zu Belzen"
+        },
+        {
+          "authorId": "2366687079",
+          "name": "Luis Herrmann"
+        },
+        {
+          "authorId": "2365413518",
+          "name": "Khue Nguyen"
+        },
+        {
+          "authorId": "2062902410",
+          "name": "F. Theis"
+        },
+        {
+          "authorId": "2288279596",
+          "name": "Benjamin Wild"
+        },
+        {
+          "authorId": "2288184901",
+          "name": "Roland Eils"
+        }
+      ]
+    },
+    {
+      "paperId": "d53ee3274a7af25b6a5a5d023e5e1c3fa35f9353",
+      "externalIds": {
+        "ArXiv": "2603.17469",
+        "CorpusId": 286643535
+      },
+      "url": "https://www.semanticscholar.org/paper/d53ee3274a7af25b6a5a5d023e5e1c3fa35f9353",
+      "title": "Fast and scalable inference in hidden Markov models with Gaussian fields",
+      "venue": "",
+      "year": 2026,
+      "referenceCount": 44,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2238586271",
+          "name": "Jannick Fischer"
+        }
+      ]
+    }
+  ]
+}

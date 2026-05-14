@@ -1,0 +1,81 @@
+{
+  "total": 3,
+  "offset": 0,
+  "data": [
+    {
+      "paperId": "fcc9a75d0cd12cfce81fcd22b22867f76b258e0c",
+      "externalIds": {
+        "MAG": "1697545848",
+        "DBLP": "conf/icml/ZhangL15a",
+        "CorpusId": 2769327
+      },
+      "url": "https://www.semanticscholar.org/paper/fcc9a75d0cd12cfce81fcd22b22867f76b258e0c",
+      "title": "DiSCO: Distributed Optimization for Self-Concordant Empirical Loss",
+      "venue": "International Conference on Machine Learning",
+      "year": 2015,
+      "referenceCount": 25,
+      "citationCount": 232,
+      "authors": [
+        {
+          "authorId": "2108471978",
+          "name": "Yuchen Zhang"
+        },
+        {
+          "authorId": "143724437",
+          "name": "Xiao Lin"
+        }
+      ]
+    },
+    {
+      "paperId": "1490606c6a07d4eb8bb69fd45d6f834e2e6a890e",
+      "externalIds": {
+        "MAG": "2165905842",
+        "ArXiv": "1510.06688",
+        "DBLP": "journals/corr/MaT15",
+        "CorpusId": 15253877
+      },
+      "url": "https://www.semanticscholar.org/paper/1490606c6a07d4eb8bb69fd45d6f834e2e6a890e",
+      "title": "Partitioning Data on Features or Samples in Communication-Efficient Distributed Optimization?",
+      "venue": "arXiv.org",
+      "year": 2015,
+      "referenceCount": 19,
+      "citationCount": 11,
+      "authors": [
+        {
+          "authorId": "2008023",
+          "name": "Chenxin Ma"
+        },
+        {
+          "authorId": "144696183",
+          "name": "Martin Takác"
+        }
+      ]
+    },
+    {
+      "paperId": "5ca4d70ceb3e01dbc4470645281bd9d40ed53817",
+      "externalIds": {
+        "MAG": "2238591594",
+        "ArXiv": "1501.00263",
+        "DBLP": "journals/corr/ZhangX15a",
+        "DOI": "10.1007/978-3-319-97478-1_11",
+        "CorpusId": 14667197
+      },
+      "url": "https://www.semanticscholar.org/paper/5ca4d70ceb3e01dbc4470645281bd9d40ed53817",
+      "title": "Communication-Efficient Distributed Optimization of Self-Concordant Empirical Loss",
+      "venue": "arXiv.org",
+      "year": 2015,
+      "referenceCount": 62,
+      "citationCount": 75,
+      "authors": [
+        {
+          "authorId": "2108471978",
+          "name": "Yuchen Zhang"
+        },
+        {
+          "authorId": "145942106",
+          "name": "Lin Xiao"
+        }
+      ]
+    }
+  ]
+}

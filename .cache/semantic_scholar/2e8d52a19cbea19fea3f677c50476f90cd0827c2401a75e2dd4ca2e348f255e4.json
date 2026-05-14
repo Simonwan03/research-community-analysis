@@ -1,0 +1,704 @@
+{
+  "offset": 0,
+  "citingPaperInfo": {
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/1503.00332, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "title": "JUMP-Means: Small-Variance Asymptotics for Markov Jump Processes",
+    "authors": [
+      {
+        "authorId": "39256289",
+        "name": "Jonathan Huggins"
+      },
+      {
+        "authorId": "144958935",
+        "name": "Karthik Narasimhan"
+      },
+      {
+        "authorId": "3231182",
+        "name": "A. Saeedi"
+      },
+      {
+        "authorId": "1735083",
+        "name": "Vikash K. Mansinghka"
+      }
+    ]
+  },
+  "data": [
+    {
+      "citedPaper": {
+        "paperId": "26ac1a9097af80afe6504e62aa401deb31151592",
+        "externalIds": {
+          "MAG": "2601819675",
+          "CorpusId": 125139543
+        },
+        "url": "https://www.semanticscholar.org/paper/26ac1a9097af80afe6504e62aa401deb31151592",
+        "title": "Latent Continuous Time Markov Chains for Partially-Observed Multistate Disease Processes",
+        "venue": "",
+        "year": 2014,
+        "referenceCount": 116,
+        "citationCount": 4,
+        "authors": [
+          {
+            "authorId": "1399857183",
+            "name": "J. Lange"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "86dcdfd60db3142539dff6246e049193e68c273b",
+        "externalIds": {
+          "MAG": "2112321969",
+          "DBLP": "conf/nips/RoychowdhuryJK13",
+          "CorpusId": 15058596
+        },
+        "url": "https://www.semanticscholar.org/paper/86dcdfd60db3142539dff6246e049193e68c273b",
+        "title": "Small-Variance Asymptotics for Hidden Markov Models",
+        "venue": "Neural Information Processing Systems",
+        "year": 2013,
+        "referenceCount": 15,
+        "citationCount": 31,
+        "authors": [
+          {
+            "authorId": "34481173",
+            "name": "A. Roychowdhury"
+          },
+          {
+            "authorId": "153264047",
+            "name": "Ke Jiang"
+          },
+          {
+            "authorId": "1692670",
+            "name": "Brian Kulis"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "bfc3fe8484bf3ea63dfaf4a3b9ff0855ac1253c1",
+        "externalIds": {
+          "DBLP": "conf/icml/HajiaghayiKWB14",
+          "MAG": "2112628407",
+          "ArXiv": "1309.3250",
+          "CorpusId": 2287095
+        },
+        "url": "https://www.semanticscholar.org/paper/bfc3fe8484bf3ea63dfaf4a3b9ff0855ac1253c1",
+        "title": "Efficient Continuous-Time Markov Chain Estimation",
+        "venue": "International Conference on Machine Learning",
+        "year": 2013,
+        "referenceCount": 37,
+        "citationCount": 32,
+        "authors": [
+          {
+            "authorId": "2466335",
+            "name": "Monir Hajiaghayi"
+          },
+          {
+            "authorId": "38719537",
+            "name": "Bonnie Kirkpatrick"
+          },
+          {
+            "authorId": "2144696792",
+            "name": "Liangliang Wang"
+          },
+          {
+            "authorId": "1398531195",
+            "name": "A. Bouchard-Côté"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "c00aea380e90615e653845b55dc8ecfdd352c6d2",
+        "externalIds": {
+          "ArXiv": "1212.2126",
+          "MAG": "2951573799",
+          "DBLP": "conf/icml/BroderickKJ13",
+          "CorpusId": 719070
+        },
+        "url": "https://www.semanticscholar.org/paper/c00aea380e90615e653845b55dc8ecfdd352c6d2",
+        "title": "MAD-Bayes: MAP-based Asymptotic Derivations from Bayes",
+        "venue": "International Conference on Machine Learning",
+        "year": 2012,
+        "referenceCount": 27,
+        "citationCount": 95,
+        "authors": [
+          {
+            "authorId": "1840690",
+            "name": "Tamara Broderick"
+          },
+          {
+            "authorId": "1692670",
+            "name": "Brian Kulis"
+          },
+          {
+            "authorId": "1694621",
+            "name": "Michael I. Jordan"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "131bfea7ba37a60b891d4442cce5d49af978faf8",
+        "externalIds": {
+          "MAG": "2163281959",
+          "DBLP": "conf/nips/JiangKJ12",
+          "CorpusId": 17715309
+        },
+        "url": "https://www.semanticscholar.org/paper/131bfea7ba37a60b891d4442cce5d49af978faf8",
+        "title": "Small-Variance Asymptotics for Exponential Family Dirichlet Process Mixture Models",
+        "venue": "Neural Information Processing Systems",
+        "year": 2012,
+        "referenceCount": 17,
+        "citationCount": 78,
+        "authors": [
+          {
+            "authorId": "153264047",
+            "name": "Ke Jiang"
+          },
+          {
+            "authorId": "1692670",
+            "name": "Brian Kulis"
+          },
+          {
+            "authorId": "1694621",
+            "name": "Michael I. Jordan"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "81cdf6e92591787daf8d6e46925de63e74421c6b",
+        "externalIds": {
+          "MAG": "2114134972",
+          "ArXiv": "1208.4818",
+          "DBLP": "journals/jmlr/RaoT13",
+          "DOI": "10.5555/2567709.2567768",
+          "CorpusId": 14776145
+        },
+        "url": "https://www.semanticscholar.org/paper/81cdf6e92591787daf8d6e46925de63e74421c6b",
+        "title": "Fast MCMC sampling for Markov jump processes and extensions",
+        "venue": "Journal of machine learning research",
+        "year": 2012,
+        "referenceCount": 44,
+        "citationCount": 118,
+        "authors": [
+          {
+            "authorId": "144208693",
+            "name": "Vinayak A. Rao"
+          },
+          {
+            "authorId": "1725303",
+            "name": "Y. Teh"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "8c3c15104cb35140fa40dbb4a69f9dfb49565e65",
+        "externalIds": {
+          "DBLP": "conf/nips/SaeediB11",
+          "MAG": "2161628378",
+          "CorpusId": 11477846
+        },
+        "url": "https://www.semanticscholar.org/paper/8c3c15104cb35140fa40dbb4a69f9dfb49565e65",
+        "title": "Priors over Recurrent Continuous Time Processes",
+        "venue": "Neural Information Processing Systems",
+        "year": 2011,
+        "referenceCount": 24,
+        "citationCount": 29,
+        "authors": [
+          {
+            "authorId": "3231182",
+            "name": "A. Saeedi"
+          },
+          {
+            "authorId": "1398531195",
+            "name": "A. Bouchard-Côté"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "b026ae62a9789501e002d1bc5f7d3d417a3c1ab1",
+        "externalIds": {
+          "DBLP": "journals/corr/abs-1111-0352",
+          "MAG": "2143776582",
+          "ArXiv": "1111.0352",
+          "CorpusId": 12274243
+        },
+        "url": "https://www.semanticscholar.org/paper/b026ae62a9789501e002d1bc5f7d3d417a3c1ab1",
+        "title": "Revisiting k-means: New Algorithms via Bayesian Nonparametrics",
+        "venue": "International Conference on Machine Learning",
+        "year": 2011,
+        "referenceCount": 32,
+        "citationCount": 401,
+        "authors": [
+          {
+            "authorId": "1692670",
+            "name": "Brian Kulis"
+          },
+          {
+            "authorId": "1694621",
+            "name": "Michael I. Jordan"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "c52a9ee60e0c809a2cfafde72a0ced7ef694bcd6",
+        "externalIds": {
+          "MAG": "1501586228",
+          "DOI": "10.1111/j.1467-9868.2009.00736.x",
+          "CorpusId": 13962777
+        },
+        "url": "https://www.semanticscholar.org/paper/c52a9ee60e0c809a2cfafde72a0ced7ef694bcd6",
+        "title": "Particle Markov chain Monte Carlo methods",
+        "venue": "",
+        "year": 2010,
+        "referenceCount": 147,
+        "citationCount": 2156,
+        "authors": [
+          {
+            "authorId": "49630843",
+            "name": "C. Andrieu"
+          },
+          {
+            "authorId": "1701800",
+            "name": "A. Doucet"
+          },
+          {
+            "authorId": "2119543",
+            "name": "R. Holenstein"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "1f631b7a161a0cdc5265f664da9acd30e1284b9a",
+        "externalIds": {
+          "DBLP": "books/cu/10/OLBC2010",
+          "MAG": "2912081450",
+          "CorpusId": 62646318
+        },
+        "url": "https://www.semanticscholar.org/paper/1f631b7a161a0cdc5265f664da9acd30e1284b9a",
+        "title": "NIST Handbook of Mathematical Functions",
+        "venue": "",
+        "year": 2010,
+        "referenceCount": 0,
+        "citationCount": 4882,
+        "authors": [
+          {
+            "authorId": "2668590",
+            "name": "F. Olver"
+          },
+          {
+            "authorId": "2630496",
+            "name": "D. Lozier"
+          },
+          {
+            "authorId": "1951061",
+            "name": "R. Boisvert"
+          },
+          {
+            "authorId": "2113263037",
+            "name": "Charles W. Clark"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "f54e8ababafdcc6ac68a21a14bfb5847d0e13ee2",
+        "externalIds": {
+          "MAG": "2134822464",
+          "DOI": "10.1093/biostatistics/kxp057",
+          "CorpusId": 301191,
+          "PubMed": "20064845"
+        },
+        "url": "https://www.semanticscholar.org/paper/f54e8ababafdcc6ac68a21a14bfb5847d0e13ee2",
+        "title": "Estimating disease progression using panel data.",
+        "venue": "Biostatistics",
+        "year": 2010,
+        "referenceCount": 17,
+        "citationCount": 22,
+        "authors": [
+          {
+            "authorId": "48853749",
+            "name": "M. Mandel"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "c92b1433f57d8a1b650ad7f36eafefde31d730fc",
+        "externalIds": {
+          "DBLP": "conf/nips/Perkins09",
+          "MAG": "2144736080",
+          "CorpusId": 14185344
+        },
+        "url": "https://www.semanticscholar.org/paper/c92b1433f57d8a1b650ad7f36eafefde31d730fc",
+        "title": "Maximum likelihood trajectories for continuous-time Markov chains",
+        "venue": "Neural Information Processing Systems",
+        "year": 2009,
+        "referenceCount": 15,
+        "citationCount": 23,
+        "authors": [
+          {
+            "authorId": "2261353",
+            "name": "T. Perkins"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "41a0daed093a3ef761accbf8855b0f74aefeb19b",
+        "externalIds": {
+          "MAG": "2088917349",
+          "DOI": "10.1080/14697680802624948",
+          "CorpusId": 14311565
+        },
+        "url": "https://www.semanticscholar.org/paper/41a0daed093a3ef761accbf8855b0f74aefeb19b",
+        "title": "Efficient estimation of transition rates between credit ratings from observations at discrete time points",
+        "venue": "",
+        "year": 2009,
+        "referenceCount": 27,
+        "citationCount": 51,
+        "authors": [
+          {
+            "authorId": "2949559",
+            "name": "M. Bladt"
+          },
+          {
+            "authorId": "1751739403",
+            "name": "Michael SØrensen"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "b90d922ff07d0eb8d77b8687aba7f55bd3926436",
+        "externalIds": {
+          "MAG": "2158266063",
+          "DOI": "10.1198/016214506000000302",
+          "CorpusId": 7934949
+        },
+        "url": "https://www.semanticscholar.org/paper/b90d922ff07d0eb8d77b8687aba7f55bd3926436",
+        "title": "Hierarchical Dirichlet Processes",
+        "venue": "",
+        "year": 2006,
+        "referenceCount": 70,
+        "citationCount": 4012,
+        "authors": [
+          {
+            "authorId": "1725303",
+            "name": "Y. Teh"
+          },
+          {
+            "authorId": "1694621",
+            "name": "Michael I. Jordan"
+          },
+          {
+            "authorId": "1773821",
+            "name": "Matthew J. Beal"
+          },
+          {
+            "authorId": "1796335",
+            "name": "D. Blei"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "f312852b31a76bc09b59aca6e4017a9382f9cb39",
+        "externalIds": {
+          "MAG": "286466995",
+          "DBLP": "journals/jmlr/BanerjeeMDG05",
+          "DOI": "10.1137/1.9781611972740.22",
+          "CorpusId": 8197416
+        },
+        "url": "https://www.semanticscholar.org/paper/f312852b31a76bc09b59aca6e4017a9382f9cb39",
+        "title": "Clustering with Bregman Divergences",
+        "venue": "Journal of machine learning research",
+        "year": 2005,
+        "referenceCount": 64,
+        "citationCount": 1908,
+        "authors": [
+          {
+            "authorId": "144205696",
+            "name": "A. Banerjee"
+          },
+          {
+            "authorId": "2945239",
+            "name": "S. Merugu"
+          },
+          {
+            "authorId": "1783667",
+            "name": "I. Dhillon"
+          },
+          {
+            "authorId": "34724702",
+            "name": "Joydeep Ghosh"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "ed8c729ee1cb213e9115ffe68e98983f33a8c715",
+        "externalIds": {
+          "MAG": "1968776642",
+          "DOI": "10.1111/j.1467-9868.2005.00508.x",
+          "CorpusId": 18724289
+        },
+        "url": "https://www.semanticscholar.org/paper/ed8c729ee1cb213e9115ffe68e98983f33a8c715",
+        "title": "Statistical inference for discretely observed Markov jump processes",
+        "venue": "",
+        "year": 2005,
+        "referenceCount": 29,
+        "citationCount": 179,
+        "authors": [
+          {
+            "authorId": "2949559",
+            "name": "M. Bladt"
+          },
+          {
+            "authorId": "2730355",
+            "name": "Michael Sørensen"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "ddb5712113afef0f4c7adc4a56c6f6e58a696c5e",
+        "externalIds": {
+          "MAG": "2169713586",
+          "DOI": "10.1109/CIC.1996.542622",
+          "CorpusId": 28498264
+        },
+        "url": "https://www.semanticscholar.org/paper/ddb5712113afef0f4c7adc4a56c6f6e58a696c5e",
+        "title": "A database to support development and evaluation of intelligent intensive care monitoring",
+        "venue": "Computers in cardiology",
+        "year": 1996,
+        "referenceCount": 3,
+        "citationCount": 277,
+        "authors": [
+          {
+            "authorId": "2113468686",
+            "name": "George B. Moody"
+          },
+          {
+            "authorId": "2228907712",
+            "name": "R. G. Mark"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "70353a3db501048bdbbd408ae5add5a9f6102dee",
+        "externalIds": {
+          "CorpusId": 26293820
+        },
+        "url": "https://www.semanticscholar.org/paper/70353a3db501048bdbbd408ae5add5a9f6102dee",
+        "title": "Statistical Applications in Genetics and Molecular Biology Statistical Inference in Evolutionary Models of DNA Sequences via the EM Algorithm",
+        "venue": "",
+        "year": 2011,
+        "referenceCount": 19,
+        "citationCount": 51,
+        "authors": [
+          {
+            "authorId": "3077430",
+            "name": "A. Hobolth"
+          },
+          {
+            "authorId": "2569170",
+            "name": "J. L. Jensen"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "Digital Library of Mathematical Functions. http://dlmf.nist.gov/, Release 1.0.8 of 2014-04-25",
+        "venue": "Digital Library of Mathematical Functions. http://dlmf.nist.gov/, Release 1.0.8 of 2014-04-25",
+        "year": 2010,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "01629b75a797e27a1d21311cb698da77176eda3e",
+        "externalIds": {
+          "DOI": "10.1002/0471667196.ess2000.pub2",
+          "CorpusId": 15504792
+        },
+        "url": "https://www.semanticscholar.org/paper/01629b75a797e27a1d21311cb698da77176eda3e",
+        "title": "Poisson Processes",
+        "venue": "",
+        "year": 2004,
+        "referenceCount": 3,
+        "citationCount": 1218,
+        "authors": [
+          {
+            "authorId": "2162326000",
+            "name": "Pankayaraj Pathmanathan"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "fd9691e196c17191a102b9c4fb70e645e923ecca",
+        "externalIds": {
+          "MAG": "1502203205",
+          "CorpusId": 263894593
+        },
+        "url": "https://www.semanticscholar.org/paper/fd9691e196c17191a102b9c4fb70e645e923ecca",
+        "title": "Physionet: components of a new research resource for complex physiologic signals",
+        "venue": "",
+        "year": 2000,
+        "referenceCount": 0,
+        "citationCount": 7746,
+        "authors": [
+          {
+            "authorId": "2246351308",
+            "name": "A. Goldberger"
+          },
+          {
+            "authorId": "2066235559",
+            "name": "L. A. N. Amaral"
+          },
+          {
+            "authorId": "2237458208",
+            "name": "Leon Glass"
+          },
+          {
+            "authorId": "40191926",
+            "name": "S. Havlin"
+          },
+          {
+            "authorId": "2257303755",
+            "name": "J. M. Hausdorg"
+          },
+          {
+            "authorId": "2091929",
+            "name": "P. Ivanov"
+          },
+          {
+            "authorId": "2228907712",
+            "name": "R. G. Mark"
+          },
+          {
+            "authorId": "34728990",
+            "name": "J. Mietus"
+          },
+          {
+            "authorId": "2113468686",
+            "name": "George B. Moody"
+          },
+          {
+            "authorId": "2252235222",
+            "name": "Chung-Kang Peng"
+          },
+          {
+            "authorId": "2238629202",
+            "name": "H. Stanley"
+          },
+          {
+            "authorId": "2257304567",
+            "name": "Physiotool-kit Physiobank"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "gamma-exponential process ( Γ EP). We denote the Moran gamma process with base measure H and rate parameter γ by ΓP( H, γ )",
+        "venue": "",
+        "year": 1993,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "Initialize the state transition matrix P and rate vector λ with uniform values. model",
+        "venue": "The iMJP",
+        "year": null,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "For each O , use a modiﬁed Viterbi algorithm (see re-mark below) to ﬁnd the best state sequence to optimize (4), while keeping the jump points ﬁxed",
+        "venue": "",
+        "year": null,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "For every observation sequence O",
+        "venue": "instantiate the jump points by adding",
+        "year": null,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "Optimize the dwell times t k with the state sequences of the trajectories ﬁxed",
+        "venue": "",
+        "year": null,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    }
+  ]
+}

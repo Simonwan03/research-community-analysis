@@ -1,0 +1,1431 @@
+{
+  "offset": 0,
+  "citingPaperInfo": {
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/1501.05427, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "title": "Enabling scalable stochastic gradient-based inference for Gaussian processes by employing the Unbiased LInear System SolvEr (ULISSE)",
+    "authors": [
+      {
+        "authorId": "3138895",
+        "name": "M. Filippone"
+      },
+      {
+        "authorId": "144610569",
+        "name": "Raphael Engler"
+      }
+    ]
+  },
+  "data": [
+    {
+      "citedPaper": {
+        "paperId": "c9c7a14b0bc1418f24625c0b32738c645154eafa",
+        "externalIds": {
+          "ArXiv": "1501.00438",
+          "MAG": "2263340393",
+          "CorpusId": 88520998
+        },
+        "url": "https://www.semanticscholar.org/paper/c9c7a14b0bc1418f24625c0b32738c645154eafa",
+        "title": "(Non-) asymptotic properties of Stochastic Gradient Langevin Dynamics",
+        "venue": "",
+        "year": 2015,
+        "referenceCount": 25,
+        "citationCount": 51,
+        "authors": [
+          {
+            "authorId": "3070196",
+            "name": "S. Vollmer"
+          },
+          {
+            "authorId": "1965903",
+            "name": "K. Zygalakis"
+          },
+          {
+            "authorId": "2353139741",
+            "name": "A. Teh"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "aaee41270a6397024a68188dbf61614d87f891fb",
+        "externalIds": {
+          "MAG": "2949188030",
+          "DBLP": "journals/jmlr/TehTV16",
+          "ArXiv": "1409.0578",
+          "CorpusId": 6722055
+        },
+        "url": "https://www.semanticscholar.org/paper/aaee41270a6397024a68188dbf61614d87f891fb",
+        "title": "Consistency and Fluctuations For Stochastic Gradient Langevin Dynamics",
+        "venue": "Journal of machine learning research",
+        "year": 2014,
+        "referenceCount": 60,
+        "citationCount": 254,
+        "authors": [
+          {
+            "authorId": "1725303",
+            "name": "Y. Teh"
+          },
+          {
+            "authorId": "50755057",
+            "name": "Alexandre Hoang Thiery"
+          },
+          {
+            "authorId": "3070196",
+            "name": "S. Vollmer"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "a09e59fdad035c3eacd3cdcf2651be11c4755e2a",
+        "externalIds": {
+          "DBLP": "journals/corr/SrinivasanHGMD14",
+          "MAG": "137054687",
+          "ArXiv": "1408.1237",
+          "CorpusId": 791013
+        },
+        "url": "https://www.semanticscholar.org/paper/a09e59fdad035c3eacd3cdcf2651be11c4755e2a",
+        "title": "Preconditioned Krylov solvers for kernel regression",
+        "venue": "arXiv.org",
+        "year": 2014,
+        "referenceCount": 25,
+        "citationCount": 8,
+        "authors": [
+          {
+            "authorId": "2881425",
+            "name": "Balaji Vasan Srinivasan"
+          },
+          {
+            "authorId": "2113360450",
+            "name": "Qi Hu"
+          },
+          {
+            "authorId": "1697880",
+            "name": "N. Gumerov"
+          },
+          {
+            "authorId": "2879039",
+            "name": "R. Murtugudde"
+          },
+          {
+            "authorId": "1719541",
+            "name": "R. Duraiswami"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "dd408d2b21c333c3da117f903c00f51dfeb3029b",
+        "externalIds": {
+          "ArXiv": "1406.2660",
+          "MAG": "1566525371",
+          "CorpusId": 88519654
+        },
+        "url": "https://www.semanticscholar.org/paper/dd408d2b21c333c3da117f903c00f51dfeb3029b",
+        "title": "Accelerating Metropolis-Hastings algorithms: Delayed acceptance with prefetching",
+        "venue": "",
+        "year": 2014,
+        "referenceCount": 32,
+        "citationCount": 13,
+        "authors": [
+          {
+            "authorId": "90067367",
+            "name": "Marco Banterle"
+          },
+          {
+            "authorId": "2307088219",
+            "name": "Clara Grazian"
+          },
+          {
+            "authorId": "145155783",
+            "name": "C. Robert"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "87ffd2c4dac4ddcee5fcb366b7615ea85549e910",
+        "externalIds": {
+          "DBLP": "conf/ijcai/MaclaurinA15",
+          "MAG": "2125447377",
+          "ArXiv": "1403.5693",
+          "CorpusId": 1607379
+        },
+        "url": "https://www.semanticscholar.org/paper/87ffd2c4dac4ddcee5fcb366b7615ea85549e910",
+        "title": "Firefly Monte Carlo: Exact MCMC with Subsets of Data",
+        "venue": "Conference on Uncertainty in Artificial Intelligence",
+        "year": 2014,
+        "referenceCount": 26,
+        "citationCount": 182,
+        "authors": [
+          {
+            "authorId": "1683298",
+            "name": "D. Maclaurin"
+          },
+          {
+            "authorId": "1722180",
+            "name": "Ryan P. Adams"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "d034bd2047b3de047261b9557864d3229caa48ed",
+        "externalIds": {
+          "MAG": "2964051671",
+          "DBLP": "journals/corr/Hennig14",
+          "ArXiv": "1402.2058",
+          "DOI": "10.1137/140955501",
+          "CorpusId": 16121233
+        },
+        "url": "https://www.semanticscholar.org/paper/d034bd2047b3de047261b9557864d3229caa48ed",
+        "title": "Probabilistic Interpretation of Linear Solvers",
+        "venue": "SIAM Journal on Optimization",
+        "year": 2014,
+        "referenceCount": 39,
+        "citationCount": 109,
+        "authors": [
+          {
+            "authorId": "2517795",
+            "name": "Philipp Hennig"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "73831a612f1e31203728593077c8eadd14dea430",
+        "externalIds": {
+          "ArXiv": "1312.1476",
+          "MAG": "2526826214",
+          "CorpusId": 88519473
+        },
+        "url": "https://www.semanticscholar.org/paper/73831a612f1e31203728593077c8eadd14dea430",
+        "title": "Scalable iterative methods for sampling from massive Gaussian random vectors",
+        "venue": "",
+        "year": 2013,
+        "referenceCount": 56,
+        "citationCount": 11,
+        "authors": [
+          {
+            "authorId": "144418895",
+            "name": "Daniel P. Simpson"
+          },
+          {
+            "authorId": "143878513",
+            "name": "I. Turner"
+          },
+          {
+            "authorId": "2186016",
+            "name": "C. Strickland"
+          },
+          {
+            "authorId": "1783985",
+            "name": "A. Pettitt"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "13f980b4eafd33b788762128c94fc96a286785f0",
+        "externalIds": {
+          "MAG": "2953181726",
+          "ArXiv": "1311.7320",
+          "DBLP": "conf/icpr/Filippone14",
+          "DOI": "10.1109/ICPR.2014.116",
+          "CorpusId": 26569519
+        },
+        "url": "https://www.semanticscholar.org/paper/13f980b4eafd33b788762128c94fc96a286785f0",
+        "title": "Bayesian Inference for Gaussian Process Classifiers with Annealing and Pseudo-Marginal MCMC",
+        "venue": "International Conference on Pattern Recognition",
+        "year": 2013,
+        "referenceCount": 33,
+        "citationCount": 6,
+        "authors": [
+          {
+            "authorId": "3138895",
+            "name": "M. Filippone"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "7499259fa8bf1bee9ffab62251617f1df916ee07",
+        "externalIds": {
+          "MAG": "2953388559",
+          "DBLP": "journals/pami/FilipponeG14",
+          "ArXiv": "1310.0740",
+          "DOI": "10.1109/TPAMI.2014.2316530",
+          "CorpusId": 1244467,
+          "PubMed": "26353062"
+        },
+        "url": "https://www.semanticscholar.org/paper/7499259fa8bf1bee9ffab62251617f1df916ee07",
+        "title": "Pseudo-Marginal Bayesian Inference for Gaussian Processes",
+        "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+        "year": 2013,
+        "referenceCount": 58,
+        "citationCount": 65,
+        "authors": [
+          {
+            "authorId": "3138895",
+            "name": "M. Filippone"
+          },
+          {
+            "authorId": "50859190",
+            "name": "M. Girolami"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "e301beb0e17805dbabf5add06d99c53e8703ea34",
+        "externalIds": {
+          "MAG": "1777124189",
+          "DBLP": "journals/corr/HensmanFL13",
+          "ArXiv": "1309.6835",
+          "CorpusId": 10741325
+        },
+        "url": "https://www.semanticscholar.org/paper/e301beb0e17805dbabf5add06d99c53e8703ea34",
+        "title": "Gaussian Processes for Big Data",
+        "venue": "Conference on Uncertainty in Artificial Intelligence",
+        "year": 2013,
+        "referenceCount": 17,
+        "citationCount": 1339,
+        "authors": [
+          {
+            "authorId": "3166500",
+            "name": "J. Hensman"
+          },
+          {
+            "authorId": "2723245",
+            "name": "Nicoló Fusi"
+          },
+          {
+            "authorId": "145306271",
+            "name": "Neil D. Lawrence"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "8f7987ad1ecdd1cb91616c50f04aa6e7e6d262b8",
+        "externalIds": {
+          "MAG": "2055340805",
+          "DBLP": "journals/ml/FilipponeZG13",
+          "DOI": "10.1007/s10994-013-5388-x",
+          "CorpusId": 16125023
+        },
+        "url": "https://www.semanticscholar.org/paper/8f7987ad1ecdd1cb91616c50f04aa6e7e6d262b8",
+        "title": "A comparative evaluation of stochastic-based inference methods for Gaussian process models",
+        "venue": "Machine-mediated learning",
+        "year": 2013,
+        "referenceCount": 42,
+        "citationCount": 58,
+        "authors": [
+          {
+            "authorId": "3138895",
+            "name": "M. Filippone"
+          },
+          {
+            "authorId": "40452788",
+            "name": "Mingjun Zhong"
+          },
+          {
+            "authorId": "50859190",
+            "name": "M. Girolami"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "05bcafe43bd83daf76a6b136f3e49ef9f5dad307",
+        "externalIds": {
+          "MAG": "3103578989",
+          "ArXiv": "1306.4032",
+          "DOI": "10.1214/15-STS523",
+          "CorpusId": 15807817
+        },
+        "url": "https://www.semanticscholar.org/paper/05bcafe43bd83daf76a6b136f3e49ef9f5dad307",
+        "title": "On Russian Roulette Estimates for Bayesian Inference with Doubly-Intractable Likelihoods",
+        "venue": "",
+        "year": 2013,
+        "referenceCount": 109,
+        "citationCount": 147,
+        "authors": [
+          {
+            "authorId": "122670697",
+            "name": "A. Lyne"
+          },
+          {
+            "authorId": "50859190",
+            "name": "M. Girolami"
+          },
+          {
+            "authorId": "51041099",
+            "name": "Yves F. Atchad'e"
+          },
+          {
+            "authorId": "1679743",
+            "name": "Heiko Strathmann"
+          },
+          {
+            "authorId": "144418895",
+            "name": "Daniel P. Simpson"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "9ad3e15fe57bf9e04bc6edf79b09c23fb7d788bd",
+        "externalIds": {
+          "ArXiv": "1312.2687",
+          "MAG": "2033672086",
+          "DOI": "10.1214/13-AOAS627",
+          "CorpusId": 14094730
+        },
+        "url": "https://www.semanticscholar.org/paper/9ad3e15fe57bf9e04bc6edf79b09c23fb7d788bd",
+        "title": "STOCHASTIC APPROXIMATION OF SCORE FUNCTIONS FOR GAUSSIAN PROCESSES",
+        "venue": "",
+        "year": 2013,
+        "referenceCount": 59,
+        "citationCount": 82,
+        "authors": [
+          {
+            "authorId": "145605141",
+            "name": "M. Stein"
+          },
+          {
+            "authorId": "47740805",
+            "name": "Jie Chen"
+          },
+          {
+            "authorId": "1760979",
+            "name": "M. Anitescu"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "c21dabafc7f14cf2231cbd9ad70f42f9dc485406",
+        "externalIds": {
+          "MAG": "2001170890",
+          "ArXiv": "1301.2878",
+          "DOI": "10.1214/12-AOAS562",
+          "CorpusId": 13902231,
+          "PubMed": "24523851"
+        },
+        "url": "https://www.semanticscholar.org/paper/c21dabafc7f14cf2231cbd9ad70f42f9dc485406",
+        "title": "PROBABILISTIC PREDICTION OF NEUROLOGICAL DISORDERS WITH A STATISTICAL ASSESSMENT OF NEUROIMAGING DATA MODALITIES.",
+        "venue": "Annals of Applied Statistics",
+        "year": 2012,
+        "referenceCount": 35,
+        "citationCount": 39,
+        "authors": [
+          {
+            "authorId": "3138895",
+            "name": "M. Filippone"
+          },
+          {
+            "authorId": "2272611900",
+            "name": "Andre F. Marquand"
+          },
+          {
+            "authorId": "3816157",
+            "name": "Camilla Blain"
+          },
+          {
+            "authorId": "2108670258",
+            "name": "Steven C. R. Williams"
+          },
+          {
+            "authorId": "1397392958",
+            "name": "J. Mourão-Miranda"
+          },
+          {
+            "authorId": "50859190",
+            "name": "M. Girolami"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "9782e5b97e7a29d12c3da00a6678066a9e2ef418",
+        "externalIds": {
+          "DBLP": "journals/pami/GilboaSC15",
+          "MAG": "2951843066",
+          "ArXiv": "1209.4120",
+          "DOI": "10.1109/TPAMI.2013.192",
+          "CorpusId": 6878550,
+          "PubMed": "26353252"
+        },
+        "url": "https://www.semanticscholar.org/paper/9782e5b97e7a29d12c3da00a6678066a9e2ef418",
+        "title": "Scaling Multidimensional Inference for Structured Gaussian Processes",
+        "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+        "year": 2012,
+        "referenceCount": 62,
+        "citationCount": 65,
+        "authors": [
+          {
+            "authorId": "35158761",
+            "name": "Elad Gilboa"
+          },
+          {
+            "authorId": "1708052",
+            "name": "Yunus Saatci"
+          },
+          {
+            "authorId": "2575774",
+            "name": "J. Cunningham"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "f56e77b637af934626b359ffe149c6bc3de76d06",
+        "externalIds": {
+          "MAG": "2952472390",
+          "ArXiv": "1202.1738",
+          "DOI": "10.1080/00949655.2013.788653",
+          "CorpusId": 88511801
+        },
+        "url": "https://www.semanticscholar.org/paper/f56e77b637af934626b359ffe149c6bc3de76d06",
+        "title": "INLA or MCMC? A tutorial and comparative evaluation for spatial prediction in log-Gaussian Cox processes",
+        "venue": "",
+        "year": 2012,
+        "referenceCount": 28,
+        "citationCount": 116,
+        "authors": [
+          {
+            "authorId": "8147574",
+            "name": "Benjamin M. Taylor"
+          },
+          {
+            "authorId": "145785254",
+            "name": "P. Diggle"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "789ea725a65b76ca44cbb1e09bfcc4c94c76b88d",
+        "externalIds": {
+          "MAG": "2963207152",
+          "ArXiv": "1111.0125",
+          "DOI": "10.22323/1.139.0309",
+          "CorpusId": 55787741
+        },
+        "url": "https://www.semanticscholar.org/paper/789ea725a65b76ca44cbb1e09bfcc4c94c76b88d",
+        "title": "Multi GPU Performance of Conjugate Gradient Solver with Staggered Fermions in Mixed Precision",
+        "venue": "",
+        "year": 2011,
+        "referenceCount": 11,
+        "citationCount": 4,
+        "authors": [
+          {
+            "authorId": "3232476",
+            "name": "Yong-Chull Jang"
+          },
+          {
+            "authorId": "2144362525",
+            "name": "Hyungjin Kim"
+          },
+          {
+            "authorId": "48115442",
+            "name": "Weonjong Lee"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "4a1944152ba0282f85fce7a7e918cf8686b5a901",
+        "externalIds": {
+          "MAG": "2025207305",
+          "ArXiv": "1106.5779",
+          "DOI": "10.1093/BIOMET/ASS068",
+          "CorpusId": 15007054,
+          "PubMed": "23869109"
+        },
+        "url": "https://www.semanticscholar.org/paper/4a1944152ba0282f85fce7a7e918cf8686b5a901",
+        "title": "Efficient Gaussian process regression for large datasets.",
+        "venue": "Biometrika",
+        "year": 2011,
+        "referenceCount": 56,
+        "citationCount": 174,
+        "authors": [
+          {
+            "authorId": "1784884",
+            "name": "A. Banerjee"
+          },
+          {
+            "authorId": "39775017",
+            "name": "D. Dunson"
+          },
+          {
+            "authorId": "2128056",
+            "name": "S. Tokdar"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "aeed631d6a84100b5e9a021ec1914095c66de415",
+        "externalIds": {
+          "MAG": "2167433878",
+          "DBLP": "conf/icml/WellingT11",
+          "CorpusId": 2178983
+        },
+        "url": "https://www.semanticscholar.org/paper/aeed631d6a84100b5e9a021ec1914095c66de415",
+        "title": "Bayesian Learning via Stochastic Gradient Langevin Dynamics",
+        "venue": "International Conference on Machine Learning",
+        "year": 2011,
+        "referenceCount": 14,
+        "citationCount": 2999,
+        "authors": [
+          {
+            "authorId": "1678311",
+            "name": "M. Welling"
+          },
+          {
+            "authorId": "1725303",
+            "name": "Y. Teh"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "ad1c556d8279ab5f87dd65a4bf82d7ae7cfdcf29",
+        "externalIds": {
+          "MAG": "2042545789",
+          "DBLP": "journals/siamsc/ChenAS11",
+          "DOI": "10.1137/090778250",
+          "CorpusId": 12080744
+        },
+        "url": "https://www.semanticscholar.org/paper/ad1c556d8279ab5f87dd65a4bf82d7ae7cfdcf29",
+        "title": "Computing f(A)b via Least Squares Polynomial Approximations",
+        "venue": "SIAM Journal on Scientific Computing",
+        "year": 2011,
+        "referenceCount": 47,
+        "citationCount": 45,
+        "authors": [
+          {
+            "authorId": "47740805",
+            "name": "Jie Chen"
+          },
+          {
+            "authorId": "1760979",
+            "name": "M. Anitescu"
+          },
+          {
+            "authorId": "1765199",
+            "name": "Y. Saad"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "413c1142de9d91804d6d11c67ff3fed59c9fc279",
+        "externalIds": {
+          "MAG": "2405601855",
+          "DBLP": "journals/jmlr/DuchiHS11",
+          "DOI": "10.5555/1953048.2021068",
+          "CorpusId": 538820
+        },
+        "url": "https://www.semanticscholar.org/paper/413c1142de9d91804d6d11c67ff3fed59c9fc279",
+        "title": "Adaptive Subgradient Methods for Online Learning and Stochastic Optimization",
+        "venue": "Journal of machine learning research",
+        "year": 2011,
+        "referenceCount": 55,
+        "citationCount": 11242,
+        "authors": [
+          {
+            "authorId": "1734693",
+            "name": "John C. Duchi"
+          },
+          {
+            "authorId": "34840427",
+            "name": "Elad Hazan"
+          },
+          {
+            "authorId": "1740765",
+            "name": "Y. Singer"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "124cdab2119e8b5c5a4b6484553baea28267b997",
+        "externalIds": {
+          "DBLP": "conf/nips/MurrayA10",
+          "MAG": "2129458072",
+          "ArXiv": "1006.0868",
+          "CorpusId": 9152657
+        },
+        "url": "https://www.semanticscholar.org/paper/124cdab2119e8b5c5a4b6484553baea28267b997",
+        "title": "Slice sampling covariance hyperparameters of latent Gaussian models",
+        "venue": "Neural Information Processing Systems",
+        "year": 2010,
+        "referenceCount": 18,
+        "citationCount": 237,
+        "authors": [
+          {
+            "authorId": "145797336",
+            "name": "Iain Murray"
+          },
+          {
+            "authorId": "1722180",
+            "name": "Ryan P. Adams"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "6efea58f22545b539c1ec213c2eebc158b002c9b",
+        "externalIds": {
+          "DBLP": "conf/iccS/CevahirNM09",
+          "MAG": "1555620806",
+          "DOI": "10.1007/978-3-642-01970-8_90",
+          "CorpusId": 532281
+        },
+        "url": "https://www.semanticscholar.org/paper/6efea58f22545b539c1ec213c2eebc158b002c9b",
+        "title": "Fast Conjugate Gradients with Multiple GPUs",
+        "venue": "International Conference on Conceptual Structures",
+        "year": 2009,
+        "referenceCount": 21,
+        "citationCount": 105,
+        "authors": [
+          {
+            "authorId": "2064683",
+            "name": "Ali Cevahir"
+          },
+          {
+            "authorId": "2763806",
+            "name": "Akira Nukada"
+          },
+          {
+            "authorId": "145936011",
+            "name": "S. Matsuoka"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "f4de6082e2af026b5925810f7e7a1b04736496e2",
+        "externalIds": {
+          "MAG": "137285897",
+          "DBLP": "journals/jmlr/Titsias09",
+          "CorpusId": 7811257
+        },
+        "url": "https://www.semanticscholar.org/paper/f4de6082e2af026b5925810f7e7a1b04736496e2",
+        "title": "Variational Learning of Inducing Variables in Sparse Gaussian Processes",
+        "venue": "International Conference on Artificial Intelligence and Statistics",
+        "year": 2009,
+        "referenceCount": 12,
+        "citationCount": 1879,
+        "authors": [
+          {
+            "authorId": "1722732",
+            "name": "Michalis K. Titsias"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "65bb01b985035307f7b1102e17b8a5c0f2dafff8",
+        "externalIds": {
+          "MAG": "2144898279",
+          "DOI": "10.1111/J.1467-9868.2008.00700.X",
+          "CorpusId": 1657669
+        },
+        "url": "https://www.semanticscholar.org/paper/65bb01b985035307f7b1102e17b8a5c0f2dafff8",
+        "title": "Approximate Bayesian inference for latent Gaussian models by using integrated nested Laplace approximations",
+        "venue": "",
+        "year": 2009,
+        "referenceCount": 241,
+        "citationCount": 5089,
+        "authors": [
+          {
+            "authorId": "2194841",
+            "name": "H. Rue"
+          },
+          {
+            "authorId": "116156469",
+            "name": "S. Martino"
+          },
+          {
+            "authorId": "2593810",
+            "name": "N. Chopin"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "f222ae64c00a2c3bf1294d9acf89a3cf38b74982",
+        "externalIds": {
+          "MAG": "1977146902",
+          "DBLP": "journals/corr/abs-0808-2794",
+          "ArXiv": "0808.2794",
+          "DOI": "10.1016/j.cpc.2008.11.005",
+          "CorpusId": 2237830
+        },
+        "url": "https://www.semanticscholar.org/paper/f222ae64c00a2c3bf1294d9acf89a3cf38b74982",
+        "title": "Accelerating scientific computations with mixed precision algorithms",
+        "venue": "Computer Physics Communications",
+        "year": 2008,
+        "referenceCount": 64,
+        "citationCount": 244,
+        "authors": [
+          {
+            "authorId": "1794112",
+            "name": "M. Baboulin"
+          },
+          {
+            "authorId": "1760511",
+            "name": "A. Buttari"
+          },
+          {
+            "authorId": "1708869",
+            "name": "J. Dongarra"
+          },
+          {
+            "authorId": "1753279",
+            "name": "J. Kurzak"
+          },
+          {
+            "authorId": "1786954",
+            "name": "J. Langou"
+          },
+          {
+            "authorId": "1786954",
+            "name": "J. Langou"
+          },
+          {
+            "authorId": "1741269",
+            "name": "P. Luszczek"
+          },
+          {
+            "authorId": "1706099",
+            "name": "S. Tomov"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "3371d7f50540dc8e157df672c71bd0317047c3a2",
+        "externalIds": {
+          "MAG": "171922849",
+          "DBLP": "books/daglib/0020241",
+          "DOI": "10.1137/1.9780898717778",
+          "CorpusId": 17405251
+        },
+        "url": "https://www.semanticscholar.org/paper/3371d7f50540dc8e157df672c71bd0317047c3a2",
+        "title": "Functions of matrices - theory and computation",
+        "venue": "",
+        "year": 2008,
+        "referenceCount": 53,
+        "citationCount": 2556,
+        "authors": [
+          {
+            "authorId": "1699285",
+            "name": "N. Higham"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "713fb831bf324690aa7a7e07ace3443770046007",
+        "externalIds": {
+          "MAG": "1571870753",
+          "DBLP": "journals/jmlr/CandelaR05",
+          "CorpusId": 16005390
+        },
+        "url": "https://www.semanticscholar.org/paper/713fb831bf324690aa7a7e07ace3443770046007",
+        "title": "A Unifying View of Sparse Approximate Gaussian Process Regression",
+        "venue": "Journal of machine learning research",
+        "year": 2005,
+        "referenceCount": 22,
+        "citationCount": 2173,
+        "authors": [
+          {
+            "authorId": "3177568",
+            "name": "J. Q. Candela"
+          },
+          {
+            "authorId": "3472959",
+            "name": "C. Rasmussen"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "320c39f8768ceff3da719623a2615b072ce682cc",
+        "externalIds": {
+          "DBLP": "conf/icml/GramacyLM04",
+          "MAG": "2131975033",
+          "DOI": "10.1145/1015330.1015367",
+          "CorpusId": 8746722
+        },
+        "url": "https://www.semanticscholar.org/paper/320c39f8768ceff3da719623a2615b072ce682cc",
+        "title": "Parameter space exploration with Gaussian process trees",
+        "venue": "International Conference on Machine Learning",
+        "year": 2004,
+        "referenceCount": 49,
+        "citationCount": 82,
+        "authors": [
+          {
+            "authorId": "2388276",
+            "name": "R. Gramacy"
+          },
+          {
+            "authorId": "48723705",
+            "name": "Herbert K. H. Lee"
+          },
+          {
+            "authorId": "2957256",
+            "name": "W. Macready"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "53bccfba60460d189ccc366cf320cebb58a5f7f9",
+        "externalIds": {
+          "DBLP": "conf/uai/Moore00",
+          "MAG": "2138064700",
+          "CorpusId": 5541615
+        },
+        "url": "https://www.semanticscholar.org/paper/53bccfba60460d189ccc366cf320cebb58a5f7f9",
+        "title": "The Anchors Hierarchy: Using the Triangle Inequality to Survive High Dimensional Data",
+        "venue": "Conference on Uncertainty in Artificial Intelligence",
+        "year": 2000,
+        "referenceCount": 25,
+        "citationCount": 188,
+        "authors": [
+          {
+            "authorId": "1760402",
+            "name": "A. Moore"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "3ee13ddf286f4a87a424a28f8ef651540a2a6471",
+        "externalIds": {
+          "MAG": "1949216959",
+          "DOI": "10.1007/978-3-642-58333-9_11",
+          "CorpusId": 119887756
+        },
+        "url": "https://www.semanticscholar.org/paper/3ee13ddf286f4a87a424a28f8ef651540a2a6471",
+        "title": "A Noisy Monte Carlo Algorithm with Fermion Determinant",
+        "venue": "",
+        "year": 2000,
+        "referenceCount": 8,
+        "citationCount": 3,
+        "authors": [
+          {
+            "authorId": "2499163",
+            "name": "Keh-Fei Liu"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "f0ddbcb32e50514de5c89c8ceca58345c5a43948",
+        "externalIds": {
+          "MAG": "2117063635",
+          "DBLP": "journals/pami/WilliamsB98",
+          "DOI": "10.1109/34.735807",
+          "CorpusId": 18841569
+        },
+        "url": "https://www.semanticscholar.org/paper/f0ddbcb32e50514de5c89c8ceca58345c5a43948",
+        "title": "Bayesian Classification With Gaussian Processes",
+        "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+        "year": 1998,
+        "referenceCount": 34,
+        "citationCount": 892,
+        "authors": [
+          {
+            "authorId": "145715698",
+            "name": "Christopher K. I. Williams"
+          },
+          {
+            "authorId": "145617808",
+            "name": "D. Barber"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "daa63f57c3fbe994c4356f8d986a22e696e776d2",
+        "externalIds": {
+          "MAG": "1510052597",
+          "DBLP": "journals/jgo/JonesSW98",
+          "DOI": "10.1023/A:1008306431147",
+          "CorpusId": 263864014
+        },
+        "url": "https://www.semanticscholar.org/paper/daa63f57c3fbe994c4356f8d986a22e696e776d2",
+        "title": "Efficient Global Optimization of Expensive Black-Box Functions",
+        "venue": "Journal of Global Optimization",
+        "year": 1998,
+        "referenceCount": 37,
+        "citationCount": 5649,
+        "authors": [
+          {
+            "authorId": "2118096690",
+            "name": "Donald R. Jones"
+          },
+          {
+            "authorId": "2257210524",
+            "name": "Matthias Schonlau"
+          },
+          {
+            "authorId": "145228938",
+            "name": "W. Welch"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "4d98ce60f4f8ed822503b8d13b0605f8c5d74ca7",
+        "externalIds": {
+          "DBLP": "conf/nips/WilliamsR95",
+          "MAG": "2161767008",
+          "CorpusId": 2877073
+        },
+        "url": "https://www.semanticscholar.org/paper/4d98ce60f4f8ed822503b8d13b0605f8c5d74ca7",
+        "title": "Gaussian Processes for Regression",
+        "venue": "Neural Information Processing Systems",
+        "year": 1995,
+        "referenceCount": 11,
+        "citationCount": 6593,
+        "authors": [
+          {
+            "authorId": "2248834664",
+            "name": "Christopher K. I. Williams"
+          },
+          {
+            "authorId": "3472959",
+            "name": "C. Rasmussen"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "9c67f30235a47e305dc57c9f185d5587faca4236",
+        "externalIds": {
+          "MAG": "2148534890",
+          "DOI": "10.1214/SS/1177011136",
+          "CorpusId": 14661921
+        },
+        "url": "https://www.semanticscholar.org/paper/9c67f30235a47e305dc57c9f185d5587faca4236",
+        "title": "Inference from Iterative Simulation Using Multiple Sequences",
+        "venue": "",
+        "year": 1992,
+        "referenceCount": 41,
+        "citationCount": 16241,
+        "authors": [
+          {
+            "authorId": "144389145",
+            "name": "A. Gelman"
+          },
+          {
+            "authorId": "2235217",
+            "name": "D. Rubin"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "60ac0522d2403f5e50373450b258551fbd1d40f4",
+        "externalIds": {
+          "MAG": "2043529353",
+          "DOI": "10.1103/PHYSREVLETT.54.2473",
+          "CorpusId": 20570468,
+          "PubMed": "10031352"
+        },
+        "url": "https://www.semanticscholar.org/paper/60ac0522d2403f5e50373450b258551fbd1d40f4",
+        "title": "Noise without noise: A new Monte Carlo method.",
+        "venue": "Physical Review Letters",
+        "year": 1985,
+        "referenceCount": 0,
+        "citationCount": 68,
+        "authors": [
+          {
+            "authorId": "79087632",
+            "name": "Kennedy Ad"
+          },
+          {
+            "authorId": "145671008",
+            "name": "J. Kuti"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "34ddd8865569c2c32dec9bf7ffc817ff42faaa01",
+        "externalIds": {
+          "MAG": "1994616650",
+          "DOI": "10.1214/AOMS/1177729586",
+          "CorpusId": 16945044
+        },
+        "url": "https://www.semanticscholar.org/paper/34ddd8865569c2c32dec9bf7ffc817ff42faaa01",
+        "title": "A Stochastic Approximation Method",
+        "venue": "",
+        "year": 1951,
+        "referenceCount": 0,
+        "citationCount": 10260,
+        "authors": [
+          {
+            "authorId": "145648751",
+            "name": "H. Robbins"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "e7ed8c6f3ee323e7c92397cc6fa6323872fe3857",
+        "externalIds": {
+          "MAG": "2256644448",
+          "CorpusId": 61775330
+        },
+        "url": "https://www.semanticscholar.org/paper/e7ed8c6f3ee323e7c92397cc6fa6323872fe3857",
+        "title": "Scalable stochastic gradient-based inference for gaussian processes",
+        "venue": "",
+        "year": 2015,
+        "referenceCount": 5,
+        "citationCount": 1,
+        "authors": [
+          {
+            "authorId": "3138895",
+            "name": "M. Filippone"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "63285a59e5a313d79339855ffe0a5b816494e8f7",
+        "externalIds": {
+          "DBLP": "journals/siamsc/AnitescuCW12",
+          "MAG": "2091922944",
+          "DOI": "10.1137/110831143",
+          "CorpusId": 207064091
+        },
+        "url": "https://www.semanticscholar.org/paper/63285a59e5a313d79339855ffe0a5b816494e8f7",
+        "title": "A Matrix-free Approach for Solving the Parametric Gaussian Process Maximum Likelihood Problem",
+        "venue": "SIAM Journal on Scientific Computing",
+        "year": 2012,
+        "referenceCount": 31,
+        "citationCount": 72,
+        "authors": [
+          {
+            "authorId": "1760979",
+            "name": "M. Anitescu"
+          },
+          {
+            "authorId": "47740805",
+            "name": "Jie Chen"
+          },
+          {
+            "authorId": "2152511397",
+            "name": "Lei Wang"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "444d70e3331b5083b40ef32e49390ef683a65e67",
+        "externalIds": {
+          "DBLP": "reference/parallel/X11ja",
+          "DOI": "10.1007/978-0-387-09766-4_2219",
+          "CorpusId": 291377
+        },
+        "url": "https://www.semanticscholar.org/paper/444d70e3331b5083b40ef32e49390ef683a65e67",
+        "title": "Matrix Computations",
+        "venue": "Encyclopedia of Parallel Computing",
+        "year": 2011,
+        "referenceCount": 5,
+        "citationCount": 13899,
+        "authors": [
+          {
+            "authorId": "2262191825",
+            "name": "Andrzej Chrzeszczyk"
+          },
+          {
+            "authorId": "1920259",
+            "name": "J. Kochanowski"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "87e865e0a0c14ce7b2cf1137dd60deb29109cf5f",
+        "externalIds": {
+          "MAG": "1481900670",
+          "CorpusId": 18410811
+        },
+        "url": "https://www.semanticscholar.org/paper/87e865e0a0c14ce7b2cf1137dd60deb29109cf5f",
+        "title": "Gaussian Processes and Fast Matrix-Vector Multiplies",
+        "venue": "",
+        "year": 2009,
+        "referenceCount": 14,
+        "citationCount": 18,
+        "authors": [
+          {
+            "authorId": "145797336",
+            "name": "Iain Murray"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "c2f80c32e5b922a634991ea89bcf31eee2f82a4e",
+        "externalIds": {
+          "MAG": "2971975224",
+          "CorpusId": 16700850
+        },
+        "url": "https://www.semanticscholar.org/paper/c2f80c32e5b922a634991ea89bcf31eee2f82a4e",
+        "title": "Regression and Classification Using Gaussian Process Priors",
+        "venue": "",
+        "year": 2009,
+        "referenceCount": 21,
+        "citationCount": 434,
+        "authors": [
+          {
+            "authorId": "39201543",
+            "name": "J. Berger"
+          },
+          {
+            "authorId": "144845488",
+            "name": "A. Dawid"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "UCI machine learning repository",
+        "venue": "UCI machine learning repository",
+        "year": 2007,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "c67ff56d0f5d252e80b48de917e3fc71e47d13a0",
+        "externalIds": {
+          "MAG": "1973333099",
+          "DOI": "10.1111/1467-9868.00294",
+          "CorpusId": 119562136
+        },
+        "url": "https://www.semanticscholar.org/paper/c67ff56d0f5d252e80b48de917e3fc71e47d13a0",
+        "title": "Bayesian calibration of computer models",
+        "venue": "",
+        "year": 2001,
+        "referenceCount": 92,
+        "citationCount": 4271,
+        "authors": [
+          {
+            "authorId": "144581339",
+            "name": "M. Kennedy"
+          },
+          {
+            "authorId": "1406409112",
+            "name": "A. O’Hagan"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "93c473358b063cec9bb9ea7cb3036bbce7b76493",
+        "externalIds": {
+          "DBLP": "conf/nips/GrayM00",
+          "MAG": "2146558186",
+          "CorpusId": 14961407
+        },
+        "url": "https://www.semanticscholar.org/paper/93c473358b063cec9bb9ea7cb3036bbce7b76493",
+        "title": "'N-Body' Problems in Statistical Learning",
+        "venue": "Neural Information Processing Systems",
+        "year": 2000,
+        "referenceCount": 19,
+        "citationCount": 321,
+        "authors": [
+          {
+            "authorId": "1703070",
+            "name": "Alexander G. Gray"
+          },
+          {
+            "authorId": "1760402",
+            "name": "A. Moore"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "ee67b18db12698aea68331c5f2c61cb8fd0f6510",
+        "externalIds": {
+          "MAG": "1009705999",
+          "CorpusId": 118940380
+        },
+        "url": "https://www.semanticscholar.org/paper/ee67b18db12698aea68331c5f2c61cb8fd0f6510",
+        "title": "Bayesian numerical analysis",
+        "venue": "",
+        "year": 2000,
+        "referenceCount": 0,
+        "citationCount": 184,
+        "authors": [
+          {
+            "authorId": "145369815",
+            "name": "K. Ritter"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "Skilling techniques for Bayesian analysis. Technical report",
+        "venue": "",
+        "year": 2000,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "a0a448d8e1e0d43085673317a801570a9ab2e652",
+        "externalIds": {
+          "CorpusId": 117952703
+        },
+        "url": "https://www.semanticscholar.org/paper/a0a448d8e1e0d43085673317a801570a9ab2e652",
+        "title": "Implementation of Gaussian ProcessesMark GibbsCavendish LaboratoryCambridge CB 3 0 HEUnited Kingdom",
+        "venue": "",
+        "year": 1997,
+        "referenceCount": 22,
+        "citationCount": 193,
+        "authors": [
+          {
+            "authorId": "1446388769",
+            "name": "C. DavidJ."
+          },
+          {
+            "authorId": "2087926458",
+            "name": "MacKayCavendish"
+          },
+          {
+            "authorId": "2100345331",
+            "name": "LaboratoryCambridge"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "bed94ff3851ea67c44da91968cf04acb6fe50f2a",
+        "externalIds": {
+          "MAG": "2486824498",
+          "DOI": "10.1007/978-1-4613-8768-8_20",
+          "CorpusId": 123740858
+        },
+        "url": "https://www.semanticscholar.org/paper/bed94ff3851ea67c44da91968cf04acb6fe50f2a",
+        "title": "Bayesian Numerical Analysis",
+        "venue": "",
+        "year": 1988,
+        "referenceCount": 21,
+        "citationCount": 141,
+        "authors": [
+          {
+            "authorId": "2796350",
+            "name": "P. Diaconis"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "4f32357e576b3b20cfc61299fe49a58e0d77cc97",
+        "externalIds": {
+          "MAG": "103099295",
+          "CorpusId": 115308266
+        },
+        "url": "https://www.semanticscholar.org/paper/4f32357e576b3b20cfc61299fe49a58e0d77cc97",
+        "title": "Annals of Mathematical Statistics",
+        "venue": "",
+        "year": 1962,
+        "referenceCount": 0,
+        "citationCount": 808,
+        "authors": [
+          {
+            "authorId": "2856152",
+            "name": "E. Parzen"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "Playing Russian Roulette with In-tractable Likelihoods, July 2014",
+        "venue": "arXiv",
+        "year": null,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    }
+  ]
+}

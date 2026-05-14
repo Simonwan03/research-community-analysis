@@ -1,0 +1,321 @@
+{
+  "total": 953,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "e933fe98075d4e998505dbbf65d9c17711fdda1b",
+      "externalIds": {
+        "MAG": "3136036499",
+        "DBLP": "journals/algorithmica/AhnCGMW21",
+        "ArXiv": "1812.02023",
+        "DOI": "10.1007/s00453-021-00816-9",
+        "CorpusId": 1288257
+      },
+      "url": "https://www.semanticscholar.org/paper/e933fe98075d4e998505dbbf65d9c17711fdda1b",
+      "title": "Correlation Clustering in Data Streams",
+      "venue": "Algorithmica",
+      "year": 2015,
+      "referenceCount": 62,
+      "citationCount": 68,
+      "authors": [
+        {
+          "authorId": "48434092",
+          "name": "Kook Jin Ahn"
+        },
+        {
+          "authorId": "1709589",
+          "name": "Graham Cormode"
+        },
+        {
+          "authorId": "144392463",
+          "name": "S. Guha"
+        },
+        {
+          "authorId": "144078750",
+          "name": "A. Mcgregor"
+        },
+        {
+          "authorId": "40009100",
+          "name": "Anthony Wirth"
+        }
+      ]
+    },
+    {
+      "paperId": "89576139894b8e6e42b314bee2bd63a4efe29ee1",
+      "externalIds": {
+        "DBLP": "conf/icml/Cohen-AddadLMP24",
+        "ArXiv": "2406.09137",
+        "DOI": "10.48550/arXiv.2406.09137",
+        "CorpusId": 270440504
+      },
+      "url": "https://www.semanticscholar.org/paper/89576139894b8e6e42b314bee2bd63a4efe29ee1",
+      "title": "Dynamic Correlation Clustering in Sublinear Update Time",
+      "venue": "International Conference on Machine Learning",
+      "year": 2024,
+      "referenceCount": 36,
+      "citationCount": 7,
+      "authors": [
+        {
+          "authorId": "2248219819",
+          "name": "Vincent Cohen-Addad"
+        },
+        {
+          "authorId": "2248217680",
+          "name": "Silvio Lattanzi"
+        },
+        {
+          "authorId": "102499616",
+          "name": "Andreas Maggiori"
+        },
+        {
+          "authorId": "3170658",
+          "name": "Nikos Parotsidis"
+        }
+      ]
+    },
+    {
+      "paperId": "c8082978542c7b1c3a7c074496eadf744af9a267",
+      "externalIds": {
+        "ArXiv": "2205.07593",
+        "DBLP": "journals/theoretics/CambusKLPU25",
+        "DOI": "10.46298/theoretics.25.6",
+        "CorpusId": 264909454
+      },
+      "url": "https://www.semanticscholar.org/paper/c8082978542c7b1c3a7c074496eadf744af9a267",
+      "title": "A (3+ε)-Approximate Correlation Clustering Algorithm in Dynamic Streams",
+      "venue": "TheoretiCS",
+      "year": 2022,
+      "referenceCount": 45,
+      "citationCount": 9,
+      "authors": [
+        {
+          "authorId": "2051416267",
+          "name": "Mélanie Cambus"
+        },
+        {
+          "authorId": "2263825363",
+          "name": "Fabian Kuhn"
+        },
+        {
+          "authorId": "2213469830",
+          "name": "Etna Lindy"
+        },
+        {
+          "authorId": "13179363",
+          "name": "Shreyas Pai"
+        },
+        {
+          "authorId": "2991465",
+          "name": "Jara Uitto"
+        }
+      ]
+    },
+    {
+      "paperId": "66b491eb839e040eff212be28f5e46476f2ca6cb",
+      "externalIds": {
+        "DBLP": "journals/itc/CuiLLL19",
+        "MAG": "2941276724",
+        "DOI": "10.5755/J01.ITC.48.1.18753",
+        "CorpusId": 109938575
+      },
+      "url": "https://www.semanticscholar.org/paper/66b491eb839e040eff212be28f5e46476f2ca6cb",
+      "title": "Clustering Over Multiple Evolving Data Streams of the Traffic Cyber-Physical Systems",
+      "venue": "Information Technology and Control",
+      "year": 2019,
+      "referenceCount": 26,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2514052",
+          "name": "Mingyue Cui"
+        },
+        {
+          "authorId": "3337335",
+          "name": "Hongzhao Liu"
+        },
+        {
+          "authorId": "46641573",
+          "name": "W. Liu"
+        },
+        {
+          "authorId": "2117951669",
+          "name": "Shuyi Li"
+        }
+      ]
+    },
+    {
+      "paperId": "63dd888b4ded3d49ca2ee07992958707d447c79f",
+      "externalIds": {
+        "MAG": "2890079988",
+        "DBLP": "conf/ispec/TekliBIKH18",
+        "DOI": "10.1007/978-3-319-99807-7_35",
+        "CorpusId": 52286451
+      },
+      "url": "https://www.semanticscholar.org/paper/63dd888b4ded3d49ca2ee07992958707d447c79f",
+      "title": "(k, l)-Clustering for Transactional Data Streams Anonymization",
+      "venue": "Information Security Practice and Experience",
+      "year": 2018,
+      "referenceCount": 34,
+      "citationCount": 12,
+      "authors": [
+        {
+          "authorId": "51286055",
+          "name": "Jimmy Tekli"
+        },
+        {
+          "authorId": "9166938",
+          "name": "Bechara al Bouna"
+        },
+        {
+          "authorId": "2153713",
+          "name": "Youssef Bou Issa"
+        },
+        {
+          "authorId": "51310398",
+          "name": "Marc Kamradt"
+        },
+        {
+          "authorId": "145557551",
+          "name": "R. Haraty"
+        }
+      ]
+    },
+    {
+      "paperId": "533d0a93bcc8a73d3abbdba468f15b9303286e4c",
+      "externalIds": {
+        "DBLP": "journals/jidm/BonesRS16",
+        "MAG": "2604315617",
+        "CorpusId": 23753822
+      },
+      "url": "https://www.semanticscholar.org/paper/533d0a93bcc8a73d3abbdba468f15b9303286e4c",
+      "title": "Clustering Multivariate Data Streams by Correlating Attributes using Fractal Dimension",
+      "venue": "Journal of Information and Data Management",
+      "year": 2017,
+      "referenceCount": 27,
+      "citationCount": 5,
+      "authors": [
+        {
+          "authorId": "3418833",
+          "name": "C. C. Bones"
+        },
+        {
+          "authorId": "1738299",
+          "name": "L. A. Romani"
+        },
+        {
+          "authorId": "143732518",
+          "name": "Elaine P. M. de Sousa"
+        }
+      ]
+    },
+    {
+      "paperId": "c28cfccfd7a39d9d07c0d215699321e44fbdfd77",
+      "externalIds": {
+        "MAG": "2466214382",
+        "DBLP": "conf/iccS/BonesRS16",
+        "DOI": "10.1016/j.procs.2016.05.325",
+        "CorpusId": 4268671
+      },
+      "url": "https://www.semanticscholar.org/paper/c28cfccfd7a39d9d07c0d215699321e44fbdfd77",
+      "title": "Improving Multivariate Data Streams Clustering",
+      "venue": "International Conference on Conceptual Structures",
+      "year": 2016,
+      "referenceCount": 18,
+      "citationCount": 8,
+      "authors": [
+        {
+          "authorId": "3418833",
+          "name": "C. C. Bones"
+        },
+        {
+          "authorId": "1738299",
+          "name": "L. A. Romani"
+        },
+        {
+          "authorId": "143732518",
+          "name": "Elaine P. M. de Sousa"
+        }
+      ]
+    },
+    {
+      "paperId": "5ba51b17b251cdec0b80cc54b8b70861dff8e9e4",
+      "externalIds": {
+        "MAG": "2945140709",
+        "CorpusId": 182500660
+      },
+      "url": "https://www.semanticscholar.org/paper/5ba51b17b251cdec0b80cc54b8b70861dff8e9e4",
+      "title": "Efficient Distributed Outlier Detection in Data Streams",
+      "venue": "",
+      "year": 2019,
+      "referenceCount": 20,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "146978358",
+          "name": "Ioannis Kalliantzis"
+        },
+        {
+          "authorId": "145009388",
+          "name": "A. Papadopoulos"
+        },
+        {
+          "authorId": "1698942",
+          "name": "A. Gounaris"
+        },
+        {
+          "authorId": "2101623630",
+          "name": "Konstantinos Tsichlas"
+        }
+      ]
+    },
+    {
+      "paperId": "30a30db806c4a82ef24777c12db1b17661ff8f7e",
+      "externalIds": {
+        "MAG": "1969778754",
+        "DBLP": "journals/apin/SangS14",
+        "DOI": "10.1007/s10489-014-0526-0",
+        "CorpusId": 2451612
+      },
+      "url": "https://www.semanticscholar.org/paper/30a30db806c4a82ef24777c12db1b17661ff8f7e",
+      "title": "Co-clustering over multiple dynamic data streams based on non-negative matrix factorization",
+      "venue": "Applied intelligence (Boston)",
+      "year": 2014,
+      "referenceCount": 32,
+      "citationCount": 7,
+      "authors": [
+        {
+          "authorId": "3144150",
+          "name": "Chunyan Sang"
+        },
+        {
+          "authorId": "2731304",
+          "name": "Dihua Sun"
+        }
+      ]
+    },
+    {
+      "paperId": "e42b78df692f289e4abbb3c78b572ca4697ef67b",
+      "externalIds": {
+        "DOI": "10.1007/s10489-014-0526-0",
+        "CorpusId": 254226697
+      },
+      "url": "https://www.semanticscholar.org/paper/e42b78df692f289e4abbb3c78b572ca4697ef67b",
+      "title": "Co-clustering over multiple dynamic data streams based on non-negative matrix factorization",
+      "venue": "Applied intelligence (Boston)",
+      "year": 2014,
+      "referenceCount": 0,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "3144150",
+          "name": "Chunyan Sang"
+        },
+        {
+          "authorId": "2191527848",
+          "name": "Di-hua Sun"
+        }
+      ]
+    }
+  ]
+}

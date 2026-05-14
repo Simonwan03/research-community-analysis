@@ -1,0 +1,279 @@
+{
+  "total": 13,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "a061bada28431bfe6aea205df33c4b7338b991a2",
+      "externalIds": {
+        "DBLP": "conf/icml/GyorgyS16",
+        "MAG": "2465908909",
+        "CorpusId": 15711771
+      },
+      "url": "https://www.semanticscholar.org/paper/a061bada28431bfe6aea205df33c4b7338b991a2",
+      "title": "Shifting Regret, Mirror Descent, and Matrices",
+      "venue": "International Conference on Machine Learning",
+      "year": 2016,
+      "referenceCount": 18,
+      "citationCount": 31,
+      "authors": [
+        {
+          "authorId": "145350541",
+          "name": "A. György"
+        },
+        {
+          "authorId": "40868287",
+          "name": "Csaba Szepesvari"
+        }
+      ]
+    },
+    {
+      "paperId": "c5dbe315e4623eaaeba9c904c641cfc40a551d1a",
+      "externalIds": {
+        "MAG": "2962807687",
+        "ArXiv": "1202.3323",
+        "DBLP": "conf/nips/Cesa-BianchiGLS12",
+        "CorpusId": 1825260
+      },
+      "url": "https://www.semanticscholar.org/paper/c5dbe315e4623eaaeba9c904c641cfc40a551d1a",
+      "title": "Mirror Descent Meets Fixed Share (and feels no regret)",
+      "venue": "Neural Information Processing Systems",
+      "year": 2012,
+      "referenceCount": 11,
+      "citationCount": 103,
+      "authors": [
+        {
+          "authorId": "1388387856",
+          "name": "N. Cesa-Bianchi"
+        },
+        {
+          "authorId": "2165801682",
+          "name": "Pierre Gaillard"
+        },
+        {
+          "authorId": "1755694",
+          "name": "G. Lugosi"
+        },
+        {
+          "authorId": "1806997",
+          "name": "Gilles Stoltz"
+        }
+      ]
+    },
+    {
+      "paperId": "903dd6833d3f6d8f869f3afeebff1299b1826455",
+      "externalIds": {
+        "CorpusId": 18938539
+      },
+      "url": "https://www.semanticscholar.org/paper/903dd6833d3f6d8f869f3afeebff1299b1826455",
+      "title": "Collaborative Filtering via Online Mirror Descent",
+      "venue": "",
+      "year": 2014,
+      "referenceCount": 13,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "3543672",
+          "name": "Reza Takapoui"
+        }
+      ]
+    },
+    {
+      "paperId": "3dd44f3ec98ea7d334f3468d9983c3c36b6abda0",
+      "externalIds": {
+        "ArXiv": "2603.09006",
+        "CorpusId": 286424078
+      },
+      "url": "https://www.semanticscholar.org/paper/3dd44f3ec98ea7d334f3468d9983c3c36b6abda0",
+      "title": "Spectral Portfolio Theory: From SGD Weight Matrices to Wealth Dynamics",
+      "venue": "",
+      "year": 2026,
+      "referenceCount": 51,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "92174703",
+          "name": "A. Frøseth"
+        }
+      ]
+    },
+    {
+      "paperId": "cbc67508880b9906e9f1401de1ce9820ecd1877b",
+      "externalIds": {
+        "ArXiv": "2501.08330",
+        "DBLP": "journals/jmlr/AngelopoulosJT25",
+        "DOI": "10.48550/arXiv.2501.08330",
+        "CorpusId": 275515498
+      },
+      "url": "https://www.semanticscholar.org/paper/cbc67508880b9906e9f1401de1ce9820ecd1877b",
+      "title": "Gradient Equilibrium in Online Learning: Theory and Applications",
+      "venue": "Journal of machine learning research",
+      "year": 2025,
+      "referenceCount": 0,
+      "citationCount": 10,
+      "authors": [
+        {
+          "authorId": "153331364",
+          "name": "Anastasios Nikolas Angelopoulos"
+        },
+        {
+          "authorId": "2256990591",
+          "name": "Michael I. Jordan"
+        },
+        {
+          "authorId": "7135376",
+          "name": "R. Tibshirani"
+        }
+      ]
+    },
+    {
+      "paperId": "3988b7648e895ea6d11e3cc67f4c348c1e966f24",
+      "externalIds": {
+        "DBLP": "conf/icml/HallW13",
+        "MAG": "2951808352",
+        "ArXiv": "1301.1254",
+        "CorpusId": 8935567
+      },
+      "url": "https://www.semanticscholar.org/paper/3988b7648e895ea6d11e3cc67f4c348c1e966f24",
+      "title": "Dynamical Models and tracking regret in online convex programming",
+      "venue": "International Conference on Machine Learning",
+      "year": 2013,
+      "referenceCount": 28,
+      "citationCount": 131,
+      "authors": [
+        {
+          "authorId": "1914480",
+          "name": "Eric C. Hall"
+        },
+        {
+          "authorId": "145952380",
+          "name": "R. Willett"
+        }
+      ]
+    },
+    {
+      "paperId": "634a4efefb6023a2066c35735d2454a88972071b",
+      "externalIds": {
+        "ArXiv": "2307.03136",
+        "DBLP": "journals/corr/abs-2307-03136",
+        "DOI": "10.48550/arXiv.2307.03136",
+        "CorpusId": 259360954
+      },
+      "url": "https://www.semanticscholar.org/paper/634a4efefb6023a2066c35735d2454a88972071b",
+      "title": "Multiplicative Updates for Online Convex Optimization over Symmetric Cones",
+      "venue": "arXiv.org",
+      "year": 2023,
+      "referenceCount": 37,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "2150484001",
+          "name": "Ilayda Canyakmaz"
+        },
+        {
+          "authorId": "2158121954",
+          "name": "Wayne Lin"
+        },
+        {
+          "authorId": "1787822",
+          "name": "G. Piliouras"
+        },
+        {
+          "authorId": "1774386",
+          "name": "Antonios Varvitsiotis"
+        }
+      ]
+    },
+    {
+      "paperId": "ac3fe607d712350e991f90466e79e5e2969b7e5a",
+      "externalIds": {
+        "DBLP": "conf/aistats/Zhou0ZWCW022",
+        "ArXiv": "2106.06526",
+        "CorpusId": 235417219
+      },
+      "url": "https://www.semanticscholar.org/paper/ac3fe607d712350e991f90466e79e5e2969b7e5a",
+      "title": "Online Continual Adaptation with Active Self-Training",
+      "venue": "International Conference on Artificial Intelligence and Statistics",
+      "year": 2021,
+      "referenceCount": 58,
+      "citationCount": 14,
+      "authors": [
+        {
+          "authorId": "2149195194",
+          "name": "Shiji Zhou"
+        },
+        {
+          "authorId": "145034731",
+          "name": "Han Zhao"
+        },
+        {
+          "authorId": "2437353",
+          "name": "Shanghang Zhang"
+        },
+        {
+          "authorId": "3817190",
+          "name": "Lianzhe Wang"
+        },
+        {
+          "authorId": "2140312584",
+          "name": "Heng Chang"
+        },
+        {
+          "authorId": "2135451624",
+          "name": "Zhi Wang"
+        },
+        {
+          "authorId": "145583986",
+          "name": "Wenwu Zhu"
+        }
+      ]
+    },
+    {
+      "paperId": "5fd949138153489128a16be920d9aafff81ecc42",
+      "externalIds": {
+        "MAG": "2611773154",
+        "DBLP": "journals/corr/MohriY17",
+        "CorpusId": 43187639
+      },
+      "url": "https://www.semanticscholar.org/paper/5fd949138153489128a16be920d9aafff81ecc42",
+      "title": "Online Learning with Expert Automata",
+      "venue": "arXiv.org",
+      "year": 2017,
+      "referenceCount": 0,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "81080659",
+          "name": "M. Mohri"
+        },
+        {
+          "authorId": "2108926107",
+          "name": "Scott Yang"
+        }
+      ]
+    },
+    {
+      "paperId": "e691da62a4fc0a2e578c85962ffda9fb472682df",
+      "externalIds": {
+        "MAG": "2913174806",
+        "CorpusId": 127928791
+      },
+      "url": "https://www.semanticscholar.org/paper/e691da62a4fc0a2e578c85962ffda9fb472682df",
+      "title": "Online Learning against Expert Automata",
+      "venue": "",
+      "year": 2017,
+      "referenceCount": 45,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "81080659",
+          "name": "M. Mohri"
+        },
+        {
+          "authorId": "2108926107",
+          "name": "Scott Yang"
+        }
+      ]
+    }
+  ]
+}

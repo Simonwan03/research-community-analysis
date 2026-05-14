@@ -1,0 +1,193 @@
+{
+  "total": 7,
+  "offset": 0,
+  "data": [
+    {
+      "paperId": "75984da0cbf2ea6994b6dd8c3ade0278b6300bc9",
+      "externalIds": {
+        "ArXiv": "1804.09629",
+        "MAG": "2798332588",
+        "DBLP": "journals/jmlr/KhamaruW19",
+        "CorpusId": 13745248
+      },
+      "url": "https://www.semanticscholar.org/paper/75984da0cbf2ea6994b6dd8c3ade0278b6300bc9",
+      "title": "Convergence guarantees for a class of non-convex and non-smooth optimization problems",
+      "venue": "International Conference on Machine Learning",
+      "year": 2018,
+      "referenceCount": 43,
+      "citationCount": 81,
+      "authors": [
+        {
+          "authorId": "2923207",
+          "name": "K. Khamaru"
+        },
+        {
+          "authorId": "1721860",
+          "name": "M. Wainwright"
+        }
+      ]
+    },
+    {
+      "paperId": "f163d2898ff48dea6f101d4319045f74958cb960",
+      "externalIds": {
+        "CorpusId": 272555067
+      },
+      "url": "https://www.semanticscholar.org/paper/f163d2898ff48dea6f101d4319045f74958cb960",
+      "title": "Convergence guarantees for a class of non-convex and non-smooth optimization problems",
+      "venue": "",
+      "year": 2018,
+      "referenceCount": 0,
+      "citationCount": 0,
+      "authors": []
+    },
+    {
+      "paperId": "0ff4692271e921b613adef434eaece6cdb3d7cd1",
+      "externalIds": {
+        "DBLP": "journals/jota/GurbuzbalabanRZ22",
+        "DOI": "10.1007/s10957-022-02063-6",
+        "CorpusId": 250400128
+      },
+      "url": "https://www.semanticscholar.org/paper/0ff4692271e921b613adef434eaece6cdb3d7cd1",
+      "title": "A Stochastic Subgradient Method for Distributionally Robust Non-convex and Non-smooth Learning",
+      "venue": "Journal of Optimization Theory and Applications",
+      "year": 2022,
+      "referenceCount": 65,
+      "citationCount": 19,
+      "authors": [
+        {
+          "authorId": "1783387",
+          "name": "M. Gürbüzbalaban"
+        },
+        {
+          "authorId": "1996654",
+          "name": "A. Ruszczynski"
+        },
+        {
+          "authorId": "2158002003",
+          "name": "Landi Zhu"
+        }
+      ]
+    },
+    {
+      "paperId": "3291de81cbeb7f3fdf49c31ecc3446e018b3898e",
+      "externalIds": {
+        "ArXiv": "2306.02159",
+        "DBLP": "journals/jmlr/AkhavanCPT24",
+        "CorpusId": 259075646
+      },
+      "url": "https://www.semanticscholar.org/paper/3291de81cbeb7f3fdf49c31ecc3446e018b3898e",
+      "title": "Gradient-free optimization of highly smooth functions: improved analysis and a new algorithm",
+      "venue": "Journal of machine learning research",
+      "year": 2023,
+      "referenceCount": 38,
+      "citationCount": 20,
+      "authors": [
+        {
+          "authorId": "2074533544",
+          "name": "A. Akhavan"
+        },
+        {
+          "authorId": "9958440",
+          "name": "Evgenii Chzhen"
+        },
+        {
+          "authorId": "1704699",
+          "name": "M. Pontil"
+        },
+        {
+          "authorId": "2667773",
+          "name": "A. Tsybakov"
+        }
+      ]
+    },
+    {
+      "paperId": "4014d84af154f4911e1b9d1356360317ff29bd66",
+      "externalIds": {
+        "ArXiv": "2307.16059",
+        "DBLP": "journals/pcs/AivazianSPARB23",
+        "DOI": "10.1134/S0361768823060038",
+        "CorpusId": 265572745
+      },
+      "url": "https://www.semanticscholar.org/paper/4014d84af154f4911e1b9d1356360317ff29bd66",
+      "title": "Adaptive Variant of the Frank–Wolfe Algorithm for Convex Optimization Problems",
+      "venue": "Programming and computer software",
+      "year": 2023,
+      "referenceCount": 16,
+      "citationCount": 6,
+      "authors": [
+        {
+          "authorId": "2268775094",
+          "name": "G. V. Aivazian"
+        },
+        {
+          "authorId": "30746338",
+          "name": "F. Stonyakin"
+        },
+        {
+          "authorId": "2268772752",
+          "name": "D. A. Pasechnyk"
+        },
+        {
+          "authorId": "102377975",
+          "name": "M. Alkousa"
+        },
+        {
+          "authorId": "2274341522",
+          "name": "A. M. Raigorodsky"
+        },
+        {
+          "authorId": "2065406608",
+          "name": "I. Baran"
+        }
+      ]
+    },
+    {
+      "paperId": "4a1464e37b4945fdf354c54f7940e058a9a443a8",
+      "externalIds": {
+        "MAG": "2964233044",
+        "ArXiv": "1810.12361",
+        "DBLP": "journals/corr/abs-1810-12361",
+        "CorpusId": 53115042
+      },
+      "url": "https://www.semanticscholar.org/paper/4a1464e37b4945fdf354c54f7940e058a9a443a8",
+      "title": "Global Non-convex Optimization with Discretized Diffusions",
+      "venue": "Neural Information Processing Systems",
+      "year": 2018,
+      "referenceCount": 34,
+      "citationCount": 107,
+      "authors": [
+        {
+          "authorId": "2090630",
+          "name": "Murat A. Erdogdu"
+        },
+        {
+          "authorId": "143722101",
+          "name": "Lester W. Mackey"
+        },
+        {
+          "authorId": "1768909",
+          "name": "Ohad Shamir"
+        }
+      ]
+    },
+    {
+      "paperId": "03262e2298cf033d06b40605ec9a091d9a85fae8",
+      "externalIds": {
+        "MAG": "2999600110",
+        "CorpusId": 213468293
+      },
+      "url": "https://www.semanticscholar.org/paper/03262e2298cf033d06b40605ec9a091d9a85fae8",
+      "title": "Modern Problems in Mathematical Signal Processing: Quantized Compressed Sensing and Randomized Neural Networks",
+      "venue": "",
+      "year": 2019,
+      "referenceCount": 87,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2072897983",
+          "name": "Aaron A. Nelson"
+        }
+      ]
+    }
+  ]
+}

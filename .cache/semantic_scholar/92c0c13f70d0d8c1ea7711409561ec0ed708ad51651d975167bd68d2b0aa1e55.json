@@ -1,0 +1,381 @@
+{
+  "total": 523,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "9b9cc4c6dfaca662a2dfea3a9fcc6e8d6c250fd7",
+      "externalIds": {
+        "MAG": "2964323881",
+        "ArXiv": "1605.01832",
+        "DBLP": "journals/corr/LiuY16b",
+        "CorpusId": 572768
+      },
+      "url": "https://www.semanticscholar.org/paper/9b9cc4c6dfaca662a2dfea3a9fcc6e8d6c250fd7",
+      "title": "Cross-Graph Learning of Multi-Relational Associations",
+      "venue": "International Conference on Machine Learning",
+      "year": 2016,
+      "referenceCount": 21,
+      "citationCount": 16,
+      "authors": [
+        {
+          "authorId": "2391802",
+          "name": "Hanxiao Liu"
+        },
+        {
+          "authorId": "35729970",
+          "name": "Yiming Yang"
+        }
+      ]
+    },
+    {
+      "paperId": "21ab8424db07ec5b2dc353bc8a757aa5d09c5cca",
+      "externalIds": {
+        "DBLP": "conf/bibm/ZhuDLP25",
+        "DOI": "10.1109/BIBM66473.2025.11356634",
+        "CorpusId": 285175791
+      },
+      "url": "https://www.semanticscholar.org/paper/21ab8424db07ec5b2dc353bc8a757aa5d09c5cca",
+      "title": "Integrating Molecular Large Model with Multi-View Representations for miRNA-Drug Association Prediction",
+      "venue": "IEEE International Conference on Bioinformatics and Biomedicine",
+      "year": 2025,
+      "referenceCount": 12,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2426465846",
+          "name": "Jiyue Zhu"
+        },
+        {
+          "authorId": "2278807078",
+          "name": "Yulian Ding"
+        },
+        {
+          "authorId": "2297064711",
+          "name": "Yajun Liu"
+        },
+        {
+          "authorId": "2376343733",
+          "name": "Yi Pan"
+        }
+      ]
+    },
+    {
+      "paperId": "09c34f197253d222a5983be06ca8f023bc27f7cf",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2402-18127",
+        "ArXiv": "2402.18127",
+        "DOI": "10.1109/TBDATA.2025.3536924",
+        "CorpusId": 268041311
+      },
+      "url": "https://www.semanticscholar.org/paper/09c34f197253d222a5983be06ca8f023bc27f7cf",
+      "title": "Hierarchical Multi-Relational Graph Representation Learning for Large-Scale Prediction of Drug-Drug Interactions",
+      "venue": "IEEE Transactions on Big Data",
+      "year": 2024,
+      "referenceCount": 52,
+      "citationCount": 9,
+      "authors": [
+        {
+          "authorId": "47843213",
+          "name": "Mengying Jiang"
+        },
+        {
+          "authorId": "2146431814",
+          "name": "Guizhong Liu"
+        },
+        {
+          "authorId": "27069390",
+          "name": "Yuanchao Su"
+        },
+        {
+          "authorId": "2151509980",
+          "name": "Weiqiang Jin"
+        },
+        {
+          "authorId": "2200563019",
+          "name": "Biao Zhao"
+        }
+      ]
+    },
+    {
+      "paperId": "c2329f77e4ffd816c160aa26a8d39b4f3063cd1e",
+      "externalIds": {
+        "DBLP": "conf/bibm/GuoCJQWX25",
+        "DOI": "10.1109/BIBM66473.2025.11357028",
+        "CorpusId": 285175461
+      },
+      "url": "https://www.semanticscholar.org/paper/c2329f77e4ffd816c160aa26a8d39b4f3063cd1e",
+      "title": "Predicting miRNA-Disease Associations by Multikernel Learning and Relational Graph Convolutional Neural Network",
+      "venue": "IEEE International Conference on Bioinformatics and Biomedicine",
+      "year": 2025,
+      "referenceCount": 28,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2382189509",
+          "name": "Zihao Guo"
+        },
+        {
+          "authorId": "2312572358",
+          "name": "Shengkai Chen"
+        },
+        {
+          "authorId": "2330546618",
+          "name": "Jie Jiang"
+        },
+        {
+          "authorId": "2407783975",
+          "name": "Yuting Qu"
+        },
+        {
+          "authorId": "2407759988",
+          "name": "Yuzhou Wu"
+        },
+        {
+          "authorId": "2386087165",
+          "name": "Ju Xiang"
+        }
+      ]
+    },
+    {
+      "paperId": "bedbe220ca3990ad8448768e0f14d66c422b6293",
+      "externalIds": {
+        "DOI": "10.1109/jbhi.2025.3531427",
+        "CorpusId": 275683882,
+        "PubMed": "40031229"
+      },
+      "url": "https://www.semanticscholar.org/paper/bedbe220ca3990ad8448768e0f14d66c422b6293",
+      "title": "Autonomously Adjusting Multi-Relational Hypergraphs Structure for Predicting circRNA-MiRNA Associations.",
+      "venue": "IEEE journal of biomedical and health informatics",
+      "year": 2025,
+      "referenceCount": 0,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "2066490660",
+          "name": "Wenjing Yin"
+        },
+        {
+          "authorId": "2144172129",
+          "name": "Shudong Wang"
+        },
+        {
+          "authorId": "2299667738",
+          "name": "Yuanyuan Zhang"
+        },
+        {
+          "authorId": "2325147077",
+          "name": "Sibo Qiao"
+        },
+        {
+          "authorId": "2241555259",
+          "name": "Shuqiang Wang"
+        },
+        {
+          "authorId": "2256383962",
+          "name": "Fazlullah Khan"
+        },
+        {
+          "authorId": "2340916637",
+          "name": "Ryan Altuki"
+        },
+        {
+          "authorId": "2240172646",
+          "name": "Zhihan Lyu"
+        }
+      ]
+    },
+    {
+      "paperId": "f200527d06c8d931433f88531a2579d727c1b190",
+      "externalIds": {
+        "DBLP": "conf/icassp/ChenWH025",
+        "DOI": "10.1109/ICASSP49660.2025.10890714",
+        "CorpusId": 276963473
+      },
+      "url": "https://www.semanticscholar.org/paper/f200527d06c8d931433f88531a2579d727c1b190",
+      "title": "Multi-Relational Variational Contrastive Learning for Next POI Recommendation",
+      "venue": "IEEE International Conference on Acoustics, Speech, and Signal Processing",
+      "year": 2025,
+      "referenceCount": 18,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "2355589045",
+          "name": "Lin Chen"
+        },
+        {
+          "authorId": "2320535979",
+          "name": "Peipei Wang"
+        },
+        {
+          "authorId": "2293940150",
+          "name": "Xiaohui Han"
+        },
+        {
+          "authorId": "2346554954",
+          "name": "Lijuan Xu"
+        }
+      ]
+    },
+    {
+      "paperId": "bc25fd34b5f8bd9afeb6c79d0cee16cf75b4fae1",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2206-12236",
+        "ArXiv": "2206.12236",
+        "DOI": "10.48550/arXiv.2206.12236",
+        "CorpusId": 250050420
+      },
+      "url": "https://www.semanticscholar.org/paper/bc25fd34b5f8bd9afeb6c79d0cee16cf75b4fae1",
+      "title": "Multi-relational Instruction Association Graph for Cross-architecture Binary Similarity Comparison",
+      "venue": "Security and Privacy in Communication Networks",
+      "year": 2022,
+      "referenceCount": 46,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2112703645",
+          "name": "Qi Song"
+        },
+        {
+          "authorId": "2719690",
+          "name": "Yongzheng Zhang"
+        },
+        {
+          "authorId": "31934087",
+          "name": "Shuhao Li"
+        }
+      ]
+    },
+    {
+      "paperId": "b71c9b7383124bd37454b3e5d3b3b7de8defbf19",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2110-02059",
+        "ArXiv": "2110.02059",
+        "DOI": "10.1145/3459637.3482279",
+        "CorpusId": 238354306
+      },
+      "url": "https://www.semanticscholar.org/paper/b71c9b7383124bd37454b3e5d3b3b7de8defbf19",
+      "title": "Multi-Relational Graph based Heterogeneous Multi-Task Learning in Community Question Answering",
+      "venue": "International Conference on Information and Knowledge Management",
+      "year": 2021,
+      "referenceCount": 49,
+      "citationCount": 12,
+      "authors": [
+        {
+          "authorId": "152106404",
+          "name": "Zizheng Lin"
+        },
+        {
+          "authorId": "46372180",
+          "name": "Hao Ke"
+        },
+        {
+          "authorId": "39526068",
+          "name": "N. Wong"
+        },
+        {
+          "authorId": "145677395",
+          "name": "Jiaxin Bai"
+        },
+        {
+          "authorId": "1809614",
+          "name": "Yangqiu Song"
+        },
+        {
+          "authorId": "2153033246",
+          "name": "Huan Zhao"
+        },
+        {
+          "authorId": "2110733530",
+          "name": "Junpeng Ye"
+        }
+      ]
+    },
+    {
+      "paperId": "21007ed085d28f58014e68e93ca850c164e3dec4",
+      "externalIds": {
+        "ArXiv": "2411.16787",
+        "DBLP": "journals/corr/abs-2411-16787",
+        "DOI": "10.48550/arXiv.2411.16787",
+        "CorpusId": 274280862
+      },
+      "url": "https://www.semanticscholar.org/paper/21007ed085d28f58014e68e93ca850c164e3dec4",
+      "title": "Contrastive Multi-graph Learning with Neighbor Hierarchical Sifting for Semi-supervised Text Classification",
+      "venue": "arXiv.org",
+      "year": 2024,
+      "referenceCount": 67,
+      "citationCount": 6,
+      "authors": [
+        {
+          "authorId": "2058030542",
+          "name": "Wei Ai"
+        },
+        {
+          "authorId": "2327512011",
+          "name": "Jianbin Li"
+        },
+        {
+          "authorId": "2327669694",
+          "name": "Ze Wang"
+        },
+        {
+          "authorId": "2298219034",
+          "name": "Yingying Wei"
+        },
+        {
+          "authorId": "2149703522",
+          "name": "Tao Meng"
+        },
+        {
+          "authorId": "2269467772",
+          "name": "Yuntao Shou"
+        },
+        {
+          "authorId": "2238045394",
+          "name": "Keqin Li"
+        }
+      ]
+    },
+    {
+      "paperId": "799616b214098ca739e131c986766513d99c0965",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2507-22268",
+        "ArXiv": "2507.22268",
+        "DOI": "10.48550/arXiv.2507.22268",
+        "CorpusId": 280391333
+      },
+      "url": "https://www.semanticscholar.org/paper/799616b214098ca739e131c986766513d99c0965",
+      "title": "Multi-modal Relational Item Representation Learning for Inferring Substitutable and Complementary Items",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "referenceCount": 36,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2110153028",
+          "name": "Junting Wang"
+        },
+        {
+          "authorId": "2346895018",
+          "name": "Chenghuan Guo"
+        },
+        {
+          "authorId": "2109733161",
+          "name": "Jiao Yang"
+        },
+        {
+          "authorId": "2374348970",
+          "name": "Yanhui Guo"
+        },
+        {
+          "authorId": "2374082710",
+          "name": "Yan Gao"
+        },
+        {
+          "authorId": "2277601107",
+          "name": "Hari Sundaram"
+        }
+      ]
+    }
+  ]
+}

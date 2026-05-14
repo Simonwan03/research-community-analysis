@@ -1,0 +1,341 @@
+{
+  "total": 107,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "45b7b5514a65126d39a51d5a68da53e7aa244c1f",
+      "externalIds": {
+        "MAG": "2885820039",
+        "DBLP": "conf/icml/BenderKZVL18",
+        "CorpusId": 51763580
+      },
+      "url": "https://www.semanticscholar.org/paper/45b7b5514a65126d39a51d5a68da53e7aa244c1f",
+      "title": "Understanding and Simplifying One-Shot Architecture Search",
+      "venue": "International Conference on Machine Learning",
+      "year": 2018,
+      "referenceCount": 29,
+      "citationCount": 812,
+      "authors": [
+        {
+          "authorId": "2065121524",
+          "name": "Gabriel Bender"
+        },
+        {
+          "authorId": "2113697",
+          "name": "Pieter-Jan Kindermans"
+        },
+        {
+          "authorId": "2368067",
+          "name": "Barret Zoph"
+        },
+        {
+          "authorId": "2053781980",
+          "name": "Vijay Vasudevan"
+        },
+        {
+          "authorId": "2827616",
+          "name": "Quoc V. Le"
+        }
+      ]
+    },
+    {
+      "paperId": "f55b7e06c7656d3ef235d72e9d0eab4148c01ead",
+      "externalIds": {
+        "ArXiv": "2001.10422",
+        "DBLP": "journals/corr/abs-2001-10422",
+        "MAG": "2994842046",
+        "CorpusId": 210932183
+      },
+      "url": "https://www.semanticscholar.org/paper/f55b7e06c7656d3ef235d72e9d0eab4148c01ead",
+      "title": "NAS-Bench-1Shot1: Benchmarking and Dissecting One-shot Neural Architecture Search",
+      "venue": "International Conference on Learning Representations",
+      "year": 2020,
+      "referenceCount": 35,
+      "citationCount": 155,
+      "authors": [
+        {
+          "authorId": "51109984",
+          "name": "Arber Zela"
+        },
+        {
+          "authorId": "81742501",
+          "name": "Julien N. Siems"
+        },
+        {
+          "authorId": "144661829",
+          "name": "F. Hutter"
+        }
+      ]
+    },
+    {
+      "paperId": "20a9bb23cafb79259052f1f00fc34a677484ec55",
+      "externalIds": {
+        "DBLP": "journals/tmlr/XuYLY23",
+        "CorpusId": 258765761
+      },
+      "url": "https://www.semanticscholar.org/paper/20a9bb23cafb79259052f1f00fc34a677484ec55",
+      "title": "Understanding and Simplifying Architecture Search in Spatio-Temporal Graph Neural Networks",
+      "venue": "Trans. Mach. Learn. Res.",
+      "year": 2023,
+      "referenceCount": 57,
+      "citationCount": 6,
+      "authors": [
+        {
+          "authorId": "2149238127",
+          "name": "Zhen Xu"
+        },
+        {
+          "authorId": "2186405993",
+          "name": "Quanming Yao"
+        },
+        {
+          "authorId": "2154405111",
+          "name": "Yong Li"
+        },
+        {
+          "authorId": "2117860282",
+          "name": "Qiang Yang"
+        }
+      ]
+    },
+    {
+      "paperId": "aa94d3236eacc11d318538771c8bc481c568f0a9",
+      "externalIds": {
+        "DOI": "10.3390/electronics12143156",
+        "CorpusId": 260081845
+      },
+      "url": "https://www.semanticscholar.org/paper/aa94d3236eacc11d318538771c8bc481c568f0a9",
+      "title": "Skeleton-Based Human Action Recognition Based on Single Path One-Shot Neural Architecture Search",
+      "venue": "Electronics",
+      "year": 2023,
+      "referenceCount": 39,
+      "citationCount": 6,
+      "authors": [
+        {
+          "authorId": "2346458329",
+          "name": "Yujian Jiang"
+        },
+        {
+          "authorId": "9372333",
+          "name": "Saisai Yu"
+        },
+        {
+          "authorId": "2386831948",
+          "name": "Tianhao Wang"
+        },
+        {
+          "authorId": "2179697491",
+          "name": "Zhaoneng Sun"
+        },
+        {
+          "authorId": "2224480101",
+          "name": "Shuang Wang"
+        }
+      ]
+    },
+    {
+      "paperId": "79e523beb1e1411a241edde0464b07c2ebc231d1",
+      "externalIds": {
+        "MAG": "2932077855",
+        "DBLP": "conf/eccv/GuoZMHLWS20",
+        "ArXiv": "1904.00420",
+        "DOI": "10.1007/978-3-030-58517-4_32",
+        "CorpusId": 90262841
+      },
+      "url": "https://www.semanticscholar.org/paper/79e523beb1e1411a241edde0464b07c2ebc231d1",
+      "title": "Single Path One-Shot Neural Architecture Search with Uniform Sampling",
+      "venue": "European Conference on Computer Vision",
+      "year": 2019,
+      "referenceCount": 48,
+      "citationCount": 1017,
+      "authors": [
+        {
+          "authorId": "3450466",
+          "name": "Zichao Guo"
+        },
+        {
+          "authorId": "50875121",
+          "name": "Xiangyu Zhang"
+        },
+        {
+          "authorId": "2047503068",
+          "name": "Haoyuan Mu"
+        },
+        {
+          "authorId": "145577184",
+          "name": "Wen Heng"
+        },
+        {
+          "authorId": "2109370860",
+          "name": "Zechun Liu"
+        },
+        {
+          "authorId": "1732264",
+          "name": "Yichen Wei"
+        },
+        {
+          "authorId": null,
+          "name": "Jian Sun"
+        }
+      ]
+    },
+    {
+      "paperId": "d9de807d75d49321230c39245081b12c6efc2667",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-1909-10815",
+        "MAG": "2976301098",
+        "CorpusId": 202734172
+      },
+      "url": "https://www.semanticscholar.org/paper/d9de807d75d49321230c39245081b12c6efc2667",
+      "title": "Understanding and Improving One-shot Neural Architecture Optimization",
+      "venue": "arXiv.org",
+      "year": 2019,
+      "referenceCount": 23,
+      "citationCount": 13,
+      "authors": [
+        {
+          "authorId": "3440939",
+          "name": "Renqian Luo"
+        },
+        {
+          "authorId": "143826491",
+          "name": "Tao Qin"
+        },
+        {
+          "authorId": "2227868312",
+          "name": "Enhong Chen"
+        }
+      ]
+    },
+    {
+      "paperId": "8550e84524327b871bc51edd9f5c02fa1381c74d",
+      "externalIds": {
+        "ArXiv": "2508.12977",
+        "DBLP": "journals/tmlr/AsthanaCOB25",
+        "DOI": "10.48550/arXiv.2508.12977",
+        "CorpusId": 280677190
+      },
+      "url": "https://www.semanticscholar.org/paper/8550e84524327b871bc51edd9f5c02fa1381c74d",
+      "title": "Dextr: Zero-Shot Neural Architecture Search with Singular Value Decomposition and Extrinsic Curvature",
+      "venue": "Trans. Mach. Learn. Res.",
+      "year": 2025,
+      "referenceCount": 72,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "1453606397",
+          "name": "Rohan Asthana"
+        },
+        {
+          "authorId": "1729174954",
+          "name": "Joschua Conrad"
+        },
+        {
+          "authorId": "2271447774",
+          "name": "M. Ortmanns"
+        },
+        {
+          "authorId": "2312050810",
+          "name": "Vasileios Belagiannis"
+        }
+      ]
+    },
+    {
+      "paperId": "67621905dc525696f3e22bdc9f4ac10f3b6725d1",
+      "externalIds": {
+        "CorpusId": 215823040
+      },
+      "url": "https://www.semanticscholar.org/paper/67621905dc525696f3e22bdc9f4ac10f3b6725d1",
+      "title": "Towards Benchmarking and Dissecting One-shot Neural Architecture Search",
+      "venue": "",
+      "year": 2019,
+      "referenceCount": 32,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "81742501",
+          "name": "Julien N. Siems"
+        },
+        {
+          "authorId": "51109984",
+          "name": "Arber Zela"
+        },
+        {
+          "authorId": "144661829",
+          "name": "F. Hutter"
+        }
+      ]
+    },
+    {
+      "paperId": "882e57cacb7119e0c7e7700212805b946e34b18d",
+      "externalIds": {
+        "ArXiv": "2108.05647",
+        "CorpusId": 257038002
+      },
+      "url": "https://www.semanticscholar.org/paper/882e57cacb7119e0c7e7700212805b946e34b18d",
+      "title": "Is Differentiable Architecture Search truly a One-Shot Method?",
+      "venue": "",
+      "year": 2021,
+      "referenceCount": 34,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "8284185",
+          "name": "Jonas Geiping"
+        },
+        {
+          "authorId": "1454195179",
+          "name": "Jovita Lukasik"
+        },
+        {
+          "authorId": "3316866",
+          "name": "Margret Keuper"
+        },
+        {
+          "authorId": "2155273305",
+          "name": "Michael Moeller"
+        }
+      ]
+    },
+    {
+      "paperId": "e106decbab408d64781f2a6bbc6016cd1d138d27",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2109-07582",
+        "CorpusId": 283558302
+      },
+      "url": "https://www.semanticscholar.org/paper/e106decbab408d64781f2a6bbc6016cd1d138d27",
+      "title": "How to Simplify Search: Classification-wise Pareto Evolution for One-shot Neural Architecture Search",
+      "venue": "arXiv.org",
+      "year": 2021,
+      "referenceCount": 62,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2281908435",
+          "name": "Lianbo Ma"
+        },
+        {
+          "authorId": "2155791891",
+          "name": "Nan Li"
+        },
+        {
+          "authorId": "2281960439",
+          "name": "Guo Yu"
+        },
+        {
+          "authorId": "2344114074",
+          "name": "Xiaoyu Geng"
+        },
+        {
+          "authorId": "2354140518",
+          "name": "Minhan Huang"
+        },
+        {
+          "authorId": "2237953669",
+          "name": "Xingwei Wang"
+        }
+      ]
+    }
+  ]
+}

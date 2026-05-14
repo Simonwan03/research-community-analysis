@@ -1,0 +1,339 @@
+{
+  "total": 60076,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "7d89abfe87ed7d1b40391d37364560656d208117",
+      "externalIds": {
+        "MAG": "2792738181",
+        "ArXiv": "1803.02329",
+        "DBLP": "journals/corr/abs-1803-02329",
+        "CorpusId": 3759373
+      },
+      "url": "https://www.semanticscholar.org/paper/7d89abfe87ed7d1b40391d37364560656d208117",
+      "title": "Learning Memory Access Patterns",
+      "venue": "International Conference on Machine Learning",
+      "year": 2018,
+      "referenceCount": 51,
+      "citationCount": 232,
+      "authors": [
+        {
+          "authorId": "33798741",
+          "name": "Milad Hashemi"
+        },
+        {
+          "authorId": "2329092656",
+          "name": "Kevin Swersky"
+        },
+        {
+          "authorId": "2119124568",
+          "name": "Jamie A. Smith"
+        },
+        {
+          "authorId": "46369381",
+          "name": "Grant Ayers"
+        },
+        {
+          "authorId": "2655459",
+          "name": "Heiner Litz"
+        },
+        {
+          "authorId": "1698747",
+          "name": "Jichuan Chang"
+        },
+        {
+          "authorId": "117272782",
+          "name": "Christos Kozyrakis"
+        },
+        {
+          "authorId": "1770926",
+          "name": "Parthasarathy Ranganathan"
+        }
+      ]
+    },
+    {
+      "paperId": "5bdb9af6cdf412f466126140ed30f5712e058a34",
+      "externalIds": {
+        "DBLP": "journals/compsec/HiranoK25",
+        "DOI": "10.1016/j.cose.2024.104202",
+        "CorpusId": 274118670
+      },
+      "url": "https://www.semanticscholar.org/paper/5bdb9af6cdf412f466126140ed30f5712e058a34",
+      "title": "RanSMAP: Open dataset of Ransomware Storage and Memory Access Patterns for creating deep learning based ransomware detectors",
+      "venue": "Computers & security",
+      "year": 2024,
+      "referenceCount": 52,
+      "citationCount": 21,
+      "authors": [
+        {
+          "authorId": "2537493",
+          "name": "Manabu Hirano"
+        },
+        {
+          "authorId": "2331196390",
+          "name": "Ryotaro Kobayashi"
+        }
+      ]
+    },
+    {
+      "paperId": "ff01326310c2ef994aebef36db9a6f7f32881d68",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2205-13765",
+        "ArXiv": "2205.13765",
+        "DOI": "10.1109/CSR54599.2022.9850340",
+        "CorpusId": 249152051
+      },
+      "url": "https://www.semanticscholar.org/paper/ff01326310c2ef994aebef36db9a6f7f32881d68",
+      "title": "Machine Learning-based Ransomware Detection Using Low-level Memory Access Patterns Obtained From Live-forensic Hypervisor",
+      "venue": "Computer Science Symposium in Russia",
+      "year": 2022,
+      "referenceCount": 21,
+      "citationCount": 13,
+      "authors": [
+        {
+          "authorId": "2537493",
+          "name": "Manabu Hirano"
+        },
+        {
+          "authorId": "144598634",
+          "name": "R. Kobayashi"
+        }
+      ]
+    },
+    {
+      "paperId": "18e252515b7fe485ba64e38b61820db574eb8076",
+      "externalIds": {
+        "DBLP": "conf/date/XuRSM17",
+        "MAG": "2612449038",
+        "DOI": "10.23919/DATE.2017.7926977",
+        "CorpusId": 8999282
+      },
+      "url": "https://www.semanticscholar.org/paper/18e252515b7fe485ba64e38b61820db574eb8076",
+      "title": "Malware detection using machine learning based analysis of virtual memory access patterns",
+      "venue": "Design, Automation and Test in Europe",
+      "year": 2017,
+      "referenceCount": 24,
+      "citationCount": 99,
+      "authors": [
+        {
+          "authorId": "2602406",
+          "name": "Zhixing Xu"
+        },
+        {
+          "authorId": "2244156",
+          "name": "Sayak Ray"
+        },
+        {
+          "authorId": "145164241",
+          "name": "P. Subramanyan"
+        },
+        {
+          "authorId": "144682958",
+          "name": "S. Malik"
+        }
+      ]
+    },
+    {
+      "paperId": "a908b2f369d96d0da1db33b6c952eb74f0eda6d7",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2002-12798",
+        "MAG": "3007106712",
+        "ArXiv": "2002.12798",
+        "CorpusId": 211572558
+      },
+      "url": "https://www.semanticscholar.org/paper/a908b2f369d96d0da1db33b6c952eb74f0eda6d7",
+      "title": "Optimizing Memory-Access Patterns for Deep Learning Accelerators",
+      "venue": "arXiv.org",
+      "year": 2020,
+      "referenceCount": 11,
+      "citationCount": 11,
+      "authors": [
+        {
+          "authorId": "3281029",
+          "name": "Hongbin Zheng"
+        },
+        {
+          "authorId": "1751646713",
+          "name": "Sejong Oh"
+        },
+        {
+          "authorId": "2108920972",
+          "name": "Huiqing Wang"
+        },
+        {
+          "authorId": "37779433",
+          "name": "Preston Briggs"
+        },
+        {
+          "authorId": "2150613",
+          "name": "Jiading Gai"
+        },
+        {
+          "authorId": "101682296",
+          "name": "Animesh Jain"
+        },
+        {
+          "authorId": "2136341779",
+          "name": "Yizhi Liu"
+        },
+        {
+          "authorId": "145255061",
+          "name": "R. Heaton"
+        },
+        {
+          "authorId": "2185941",
+          "name": "Randy Huang"
+        },
+        {
+          "authorId": null,
+          "name": "Yida Wang"
+        }
+      ]
+    },
+    {
+      "paperId": "308156dd59a1ad69dcbc2fcfa6d9cce906b9975b",
+      "externalIds": {
+        "DBLP": "journals/access/CheshmikhaniFB26",
+        "DOI": "10.1109/ACCESS.2026.3659222",
+        "CorpusId": 285202925
+      },
+      "url": "https://www.semanticscholar.org/paper/308156dd59a1ad69dcbc2fcfa6d9cce906b9975b",
+      "title": "A Low-Cost Multi-Objective Cache Prefetcher for Complex and Irregular Memory Access Patterns",
+      "venue": "IEEE Access",
+      "year": 2026,
+      "referenceCount": 73,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "3113822",
+          "name": "Elham Cheshmikhani"
+        },
+        {
+          "authorId": "2151207865",
+          "name": "Hamed Farbeh"
+        },
+        {
+          "authorId": "2280006799",
+          "name": "Sandro Bartolini"
+        }
+      ]
+    },
+    {
+      "paperId": "0a99825584e20ca6926b7e9b604e84911d861163",
+      "externalIds": {
+        "DBLP": "journals/cal/WuTSW21",
+        "DOI": "10.1109/LCA.2021.3101505",
+        "CorpusId": 236981094
+      },
+      "url": "https://www.semanticscholar.org/paper/0a99825584e20ca6926b7e9b604e84911d861163",
+      "title": "Guessing Outputs of Dynamically Pruned CNNs Using Memory Access Patterns",
+      "venue": "IEEE computer architecture letters",
+      "year": 2021,
+      "referenceCount": 0,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "1859389728",
+          "name": "Benjamin Wu"
+        },
+        {
+          "authorId": "40225457",
+          "name": "Trishita Tiwari"
+        },
+        {
+          "authorId": "145691878",
+          "name": "G. Suh"
+        },
+        {
+          "authorId": "145606712",
+          "name": "Aaron B. Wagner"
+        }
+      ]
+    },
+    {
+      "paperId": "0f5bede8ed9412fecffbeafdc4581a7b51753e95",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2010-13619",
+        "MAG": "3094360998",
+        "ArXiv": "2010.13619",
+        "DOI": "10.18420/btw2021-05",
+        "CorpusId": 225066932
+      },
+      "url": "https://www.semanticscholar.org/paper/0f5bede8ed9412fecffbeafdc4581a7b51753e95",
+      "title": "Exploring Memory Access Patterns for Graph Processing Accelerators",
+      "venue": "Datenbanksysteme für Business, Technologie und Web",
+      "year": 2020,
+      "referenceCount": 30,
+      "citationCount": 7,
+      "authors": [
+        {
+          "authorId": "1411128014",
+          "name": "Jonas Dann"
+        },
+        {
+          "authorId": "144405144",
+          "name": "Daniel Ritter"
+        },
+        {
+          "authorId": "1731123",
+          "name": "H. Fröning"
+        }
+      ]
+    },
+    {
+      "paperId": "58c2aec5c1bee0442df9f14408d21dbb2afa442c",
+      "externalIds": {
+        "DBLP": "conf/bigdataconf/BaninD20",
+        "DOI": "10.1109/BigData50022.2020.9377933",
+        "CorpusId": 232373412
+      },
+      "url": "https://www.semanticscholar.org/paper/58c2aec5c1bee0442df9f14408d21dbb2afa442c",
+      "title": "Detection of Previously Unseen Malware using Memory Access Patterns Recorded Before the Entry Point",
+      "venue": "2020 IEEE International Conference on Big Data (Big Data)",
+      "year": 2020,
+      "referenceCount": 31,
+      "citationCount": 4,
+      "authors": [
+        {
+          "authorId": "51134092",
+          "name": "Sergii Banin"
+        },
+        {
+          "authorId": "2135465",
+          "name": "Geir Olav Dyrkolbotn"
+        }
+      ]
+    },
+    {
+      "paperId": "f41aef07a35e45ccfe017430a1d1c77312fde49d",
+      "externalIds": {
+        "MAG": "3101328903",
+        "DBLP": "journals/taco/PeledWE20",
+        "ArXiv": "1804.00478",
+        "DOI": "10.1145/3345000",
+        "CorpusId": 204728596
+      },
+      "url": "https://www.semanticscholar.org/paper/f41aef07a35e45ccfe017430a1d1c77312fde49d",
+      "title": "A Neural Network Prefetcher for Arbitrary Memory Access Patterns",
+      "venue": "ACM Transactions on Architecture and Code Optimization (TACO)",
+      "year": 2018,
+      "referenceCount": 66,
+      "citationCount": 51,
+      "authors": [
+        {
+          "authorId": "2874359",
+          "name": "L. Peled"
+        },
+        {
+          "authorId": "1948330",
+          "name": "U. Weiser"
+        },
+        {
+          "authorId": "2913809",
+          "name": "Yoav Etsion"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,288 @@
+{
+  "total": 140,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "6a26831ad30d48bf9eeb15a097bba8558a6cfddd",
+      "externalIds": {
+        "DBLP": "conf/icml/NatoleYL18",
+        "MAG": "2804547655",
+        "CorpusId": 51873754
+      },
+      "url": "https://www.semanticscholar.org/paper/6a26831ad30d48bf9eeb15a097bba8558a6cfddd",
+      "title": "Stochastic Proximal Algorithms for AUC Maximization",
+      "venue": "International Conference on Machine Learning",
+      "year": 2018,
+      "referenceCount": 43,
+      "citationCount": 67,
+      "authors": [
+        {
+          "authorId": "51134277",
+          "name": "Michael Natole"
+        },
+        {
+          "authorId": "144359603",
+          "name": "Yiming Ying"
+        },
+        {
+          "authorId": "1794837",
+          "name": "Siwei Lyu"
+        }
+      ]
+    },
+    {
+      "paperId": "17b7bbe1975d4797c787de1ea27100abd9ccb0b5",
+      "externalIds": {
+        "ArXiv": "1911.03548",
+        "DBLP": "journals/corr/abs-1911-03548",
+        "MAG": "2984946518",
+        "DOI": "10.1007/978-3-030-86523-8_12",
+        "CorpusId": 207852750
+      },
+      "url": "https://www.semanticscholar.org/paper/17b7bbe1975d4797c787de1ea27100abd9ccb0b5",
+      "title": "Variance Reduced Stochastic Proximal Algorithm for AUC Maximization",
+      "venue": "ECML/PKDD",
+      "year": 2019,
+      "referenceCount": 40,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "3420683",
+          "name": "Soham Dan"
+        },
+        {
+          "authorId": "3016352",
+          "name": "Dushyant Sahoo"
+        }
+      ]
+    },
+    {
+      "paperId": "7a6ef455683eaefd8ca1355db0f614292edc5757",
+      "externalIds": {
+        "CorpusId": 267861560
+      },
+      "url": "https://www.semanticscholar.org/paper/7a6ef455683eaefd8ca1355db0f614292edc5757",
+      "title": "OPT2020: 12th Annual Workshop on Optimization for Machine Learning Variance Reduced Stochastic Proximal Algorithm for AUC Maximization",
+      "venue": "",
+      "year": 2020,
+      "referenceCount": 18,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2281637777",
+          "name": "S. Dan"
+        },
+        {
+          "authorId": "3016352",
+          "name": "Dushyant Sahoo"
+        }
+      ]
+    },
+    {
+      "paperId": "c4af7a8b6c8f78e664b955511bc7083befaffb40",
+      "externalIds": {
+        "DBLP": "journals/jmlr/LeiY21",
+        "MAG": "2952288970",
+        "ArXiv": "1906.06053",
+        "CorpusId": 189898374
+      },
+      "url": "https://www.semanticscholar.org/paper/c4af7a8b6c8f78e664b955511bc7083befaffb40",
+      "title": "Stochastic Proximal AUC Maximization",
+      "venue": "Journal of machine learning research",
+      "year": 2019,
+      "referenceCount": 59,
+      "citationCount": 30,
+      "authors": [
+        {
+          "authorId": "2365013",
+          "name": "Yunwen Lei"
+        },
+        {
+          "authorId": "144359603",
+          "name": "Yiming Ying"
+        }
+      ]
+    },
+    {
+      "paperId": "451f4fd655ae0eb08fa3f7eefaef5626e7599811",
+      "externalIds": {
+        "CorpusId": 235252425
+      },
+      "url": "https://www.semanticscholar.org/paper/451f4fd655ae0eb08fa3f7eefaef5626e7599811",
+      "title": "University of Birmingham Stochastic proximal AUC maximization",
+      "venue": "",
+      "year": 2021,
+      "referenceCount": 57,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2090477448",
+          "name": "Yunwen Lei"
+        },
+        {
+          "authorId": "144359603",
+          "name": "Yiming Ying"
+        }
+      ]
+    },
+    {
+      "paperId": "9828a8ff8d810449ec267bd873330dae51def142",
+      "externalIds": {
+        "MAG": "3090115752",
+        "DBLP": "conf/ijcnn/KhalidCR20",
+        "DOI": "10.1109/IJCNN48605.2020.9206926",
+        "CorpusId": 221593629
+      },
+      "url": "https://www.semanticscholar.org/paper/9828a8ff8d810449ec267bd873330dae51def142",
+      "title": "Proximal Stochastic AUC Maximization",
+      "venue": "IEEE International Joint Conference on Neural Network",
+      "year": 2020,
+      "referenceCount": 30,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "32890545",
+          "name": "Majdi Khalid"
+        },
+        {
+          "authorId": "1820515",
+          "name": "H. Chitsaz"
+        },
+        {
+          "authorId": "144039860",
+          "name": "I. Ray"
+        }
+      ]
+    },
+    {
+      "paperId": "cf3eedef9187e1b2b32a40db7a6ae4f315c6cf7d",
+      "externalIds": {
+        "DBLP": "journals/jmlr/Guo0YY23",
+        "ArXiv": "2006.06889",
+        "CorpusId": 219635945
+      },
+      "url": "https://www.semanticscholar.org/paper/cf3eedef9187e1b2b32a40db7a6ae4f315c6cf7d",
+      "title": "Fast Objective & Duality Gap Convergence for Non-Convex Strongly-Concave Min-Max Problems with PL Condition",
+      "venue": "Journal of machine learning research",
+      "year": 2020,
+      "referenceCount": 72,
+      "citationCount": 37,
+      "authors": [
+        {
+          "authorId": "50815914",
+          "name": "Zhishuai Guo"
+        },
+        {
+          "authorId": "2147852",
+          "name": "Zhuoning Yuan"
+        },
+        {
+          "authorId": "144761066",
+          "name": "Yan Yan"
+        },
+        {
+          "authorId": "40381920",
+          "name": "Tianbao Yang"
+        }
+      ]
+    },
+    {
+      "paperId": "1f48313558911d369a4b054dd4e4ea23add2d299",
+      "externalIds": {
+        "CorpusId": 272555137
+      },
+      "url": "https://www.semanticscholar.org/paper/1f48313558911d369a4b054dd4e4ea23add2d299",
+      "title": "Fast Objective & Duality Gap Convergence for Non-convex Strongly-concave Min-max Problems",
+      "venue": "",
+      "year": 2020,
+      "referenceCount": 41,
+      "citationCount": 10,
+      "authors": [
+        {
+          "authorId": "50815914",
+          "name": "Zhishuai Guo"
+        },
+        {
+          "authorId": "2147852",
+          "name": "Zhuoning Yuan"
+        },
+        {
+          "authorId": "2376228757",
+          "name": "Yan Yan"
+        },
+        {
+          "authorId": "2320814390",
+          "name": "Tianbao Yang"
+        }
+      ]
+    },
+    {
+      "paperId": "5f1f7aa9a4a1c4119564520781f0d8b60c763589",
+      "externalIds": {
+        "ArXiv": "2011.02396",
+        "MAG": "3128564580",
+        "DBLP": "journals/corr/abs-2011-02396",
+        "DOI": "10.1109/ICDM50108.2020.00083",
+        "CorpusId": 226246043
+      },
+      "url": "https://www.semanticscholar.org/paper/5f1f7aa9a4a1c4119564520781f0d8b60c763589",
+      "title": "Stochastic Hard Thresholding Algorithms for AUC Maximization",
+      "venue": "Industrial Conference on Data Mining",
+      "year": 2020,
+      "referenceCount": 56,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "48598603",
+          "name": "Zhenhuan Yang"
+        },
+        {
+          "authorId": "2787368",
+          "name": "Baojian Zhou"
+        },
+        {
+          "authorId": "2365013",
+          "name": "Yunwen Lei"
+        },
+        {
+          "authorId": "144359602",
+          "name": "Yiming Ying"
+        }
+      ]
+    },
+    {
+      "paperId": "10c024100680363cad4c11509301593c4772e9ad",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2505-21944",
+        "ArXiv": "2505.21944",
+        "DOI": "10.48550/arXiv.2505.21944",
+        "CorpusId": 278960191
+      },
+      "url": "https://www.semanticscholar.org/paper/10c024100680363cad4c11509301593c4772e9ad",
+      "title": "Stochastic Primal-Dual Double Block-Coordinate for Two-way Partial AUC Maximization",
+      "venue": "Trans. Mach. Learn. Res.",
+      "year": 2025,
+      "referenceCount": 39,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2363848561",
+          "name": "Linli Zhou"
+        },
+        {
+          "authorId": "30296838",
+          "name": "Bokun Wang"
+        },
+        {
+          "authorId": "2360497851",
+          "name": "My T. Thai"
+        },
+        {
+          "authorId": "2270547071",
+          "name": "Tianbao Yang"
+        }
+      ]
+    }
+  ]
+}

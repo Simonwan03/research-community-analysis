@@ -1,0 +1,275 @@
+{
+  "total": 32,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "9c0b482314dc8c10875b217b86cc5df5a4fe4bdf",
+      "externalIds": {
+        "DBLP": "conf/icml/Fazel0KM18",
+        "MAG": "2886474253",
+        "ArXiv": "1801.05039",
+        "CorpusId": 51881649
+      },
+      "url": "https://www.semanticscholar.org/paper/9c0b482314dc8c10875b217b86cc5df5a4fe4bdf",
+      "title": "Global Convergence of Policy Gradient Methods for the Linear Quadratic Regulator",
+      "venue": "International Conference on Machine Learning",
+      "year": 2018,
+      "referenceCount": 61,
+      "citationCount": 695,
+      "authors": [
+        {
+          "authorId": "144651919",
+          "name": "Maryam Fazel"
+        },
+        {
+          "authorId": "144804200",
+          "name": "Rong Ge"
+        },
+        {
+          "authorId": "144695232",
+          "name": "S. Kakade"
+        },
+        {
+          "authorId": "1778153",
+          "name": "M. Mesbahi"
+        }
+      ]
+    },
+    {
+      "paperId": "591825618080582ef400604a4935c4d550858ecd",
+      "externalIds": {
+        "CorpusId": 264492923
+      },
+      "url": "https://www.semanticscholar.org/paper/591825618080582ef400604a4935c4d550858ecd",
+      "title": "Global Convergence of Policy Gradient Methods for the Linear Quadratic Regulator A. Planning with a model",
+      "venue": "",
+      "year": 2018,
+      "referenceCount": 0,
+      "citationCount": 1,
+      "authors": []
+    },
+    {
+      "paperId": "6a97c620dc3d7b356afee1aa9d41b635f86a424c",
+      "externalIds": {
+        "DBLP": "journals/siamco/HamblyXY21",
+        "ArXiv": "2011.10300",
+        "MAG": "3108890229",
+        "DOI": "10.2139/SSRN.3734179",
+        "CorpusId": 227118874
+      },
+      "url": "https://www.semanticscholar.org/paper/6a97c620dc3d7b356afee1aa9d41b635f86a424c",
+      "title": "Policy Gradient Methods for the Noisy Linear Quadratic Regulator over a Finite Horizon",
+      "venue": "SIAM Journal of Control and Optimization",
+      "year": 2020,
+      "referenceCount": 52,
+      "citationCount": 88,
+      "authors": [
+        {
+          "authorId": "144705189",
+          "name": "B. Hambly"
+        },
+        {
+          "authorId": "81216601",
+          "name": "Renyuan Xu"
+        },
+        {
+          "authorId": "2155586333",
+          "name": "Huining Yang"
+        }
+      ]
+    },
+    {
+      "paperId": "e01185bcf8b9596f6ed10fbeb69608954aa2a005",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2303-16548",
+        "ArXiv": "2303.16548",
+        "DOI": "10.1051/cocv/2024014",
+        "CorpusId": 257804775
+      },
+      "url": "https://www.semanticscholar.org/paper/e01185bcf8b9596f6ed10fbeb69608954aa2a005",
+      "title": "Policy Gradient Methods for Discrete Time Linear Quadratic Regulator With Random Parameters",
+      "venue": "E S A I M: Control, Optimisation and Calculus of Variations",
+      "year": 2023,
+      "referenceCount": 19,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "91208873",
+          "name": "Deyue Li"
+        }
+      ]
+    },
+    {
+      "paperId": "079825f94f4ee07bb6718b45a14c0d172eca9b01",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2406-03734",
+        "ArXiv": "2406.03734",
+        "DOI": "10.1109/TAC.2025.3587111",
+        "CorpusId": 270286066
+      },
+      "url": "https://www.semanticscholar.org/paper/079825f94f4ee07bb6718b45a14c0d172eca9b01",
+      "title": "Policy Gradient Methods for the Cost-Constrained LQR: Strong Duality and Global Convergence",
+      "venue": "IEEE Transactions on Automatic Control",
+      "year": 2024,
+      "referenceCount": 28,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "1410334972",
+          "name": "Feiran Zhao"
+        },
+        {
+          "authorId": "2257184834",
+          "name": "Keyou You"
+        }
+      ]
+    },
+    {
+      "paperId": "78df70cff8edea9efb79f11551610d69611a2d46",
+      "externalIds": {
+        "DBLP": "journals/tac/ZhaoYB23",
+        "ArXiv": "2104.04901",
+        "DOI": "10.1109/TAC.2023.3234176",
+        "CorpusId": 233210122
+      },
+      "url": "https://www.semanticscholar.org/paper/78df70cff8edea9efb79f11551610d69611a2d46",
+      "title": "Global Convergence of Policy Gradient Primal–Dual Methods for Risk-Constrained LQRs",
+      "venue": "IEEE Transactions on Automatic Control",
+      "year": 2021,
+      "referenceCount": 64,
+      "citationCount": 55,
+      "authors": [
+        {
+          "authorId": "1410334972",
+          "name": "Feiran Zhao"
+        },
+        {
+          "authorId": "3527062",
+          "name": "Keyou You"
+        },
+        {
+          "authorId": "2243689",
+          "name": "T. Başar"
+        }
+      ]
+    },
+    {
+      "paperId": "5fa956e7f2007003f2a72a33c5ff77cd3e939b8d",
+      "externalIds": {
+        "CorpusId": 221068809
+      },
+      "url": "https://www.semanticscholar.org/paper/5fa956e7f2007003f2a72a33c5ff77cd3e939b8d",
+      "title": "Decentralized Policy Gradient Method for Mean-Field Linear Quadratic Regulator with Global Convergence",
+      "venue": "",
+      "year": 2020,
+      "referenceCount": 54,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "2145377749",
+          "name": "Lewis Liu"
+        },
+        {
+          "authorId": "150358650",
+          "name": "Zhuoran Yang"
+        },
+        {
+          "authorId": "12016940",
+          "name": "Yuchen Lu"
+        },
+        {
+          "authorId": "3113442",
+          "name": "Zhaoran Wang"
+        }
+      ]
+    },
+    {
+      "paperId": "cce09be00200346dd1f41e8fb2de3fdaa39b99b6",
+      "externalIds": {
+        "DBLP": "conf/cdc/ZhaoDY23",
+        "ArXiv": "2303.17958",
+        "DOI": "10.1109/CDC49753.2023.10383470",
+        "CorpusId": 257900648
+      },
+      "url": "https://www.semanticscholar.org/paper/cce09be00200346dd1f41e8fb2de3fdaa39b99b6",
+      "title": "Data-Enabled Policy Optimization for the Linear Quadratic Regulator",
+      "venue": "IEEE Conference on Decision and Control",
+      "year": 2023,
+      "referenceCount": 34,
+      "citationCount": 22,
+      "authors": [
+        {
+          "authorId": "1410334972",
+          "name": "Feiran Zhao"
+        },
+        {
+          "authorId": "2371136272",
+          "name": "Florian Dörfler"
+        },
+        {
+          "authorId": "3527062",
+          "name": "Keyou You"
+        }
+      ]
+    },
+    {
+      "paperId": "eb0068e26ff842e995fd1a1f87fc30a26e55199a",
+      "externalIds": {
+        "MAG": "3041520079",
+        "ArXiv": "2007.03861",
+        "DOI": "10.1007/s40305-024-00546-z",
+        "CorpusId": 220404277
+      },
+      "url": "https://www.semanticscholar.org/paper/eb0068e26ff842e995fd1a1f87fc30a26e55199a",
+      "title": "On the Analysis of Model-Free Methods for the Linear Quadratic Regulator",
+      "venue": "Journal of the Operations Research Society of China",
+      "year": 2020,
+      "referenceCount": 30,
+      "citationCount": 12,
+      "authors": [
+        {
+          "authorId": "2144105871",
+          "name": "Zeyu Jin"
+        },
+        {
+          "authorId": "2093130105",
+          "name": "J. M. Schmitt"
+        },
+        {
+          "authorId": "3293339",
+          "name": "Zaiwen Wen"
+        }
+      ]
+    },
+    {
+      "paperId": "b8a5ea1211592858b6c1a20d36350108cbc693be",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2510-02140",
+        "ArXiv": "2510.02140",
+        "DOI": "10.48550/arXiv.2510.02140",
+        "CorpusId": 281724303
+      },
+      "url": "https://www.semanticscholar.org/paper/b8a5ea1211592858b6c1a20d36350108cbc693be",
+      "title": "On the (almost) Global Exponential Convergence of the Overparameterized Policy Optimization for the LQR Problem",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "referenceCount": 33,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "108498111",
+          "name": "Moh Kamalul Wafi"
+        },
+        {
+          "authorId": "2148438222",
+          "name": "A. C. B. D. Oliveira"
+        },
+        {
+          "authorId": "122646775",
+          "name": "E.D. Sontag"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1120 @@
+{
+  "offset": 0,
+  "citingPaperInfo": {
+    "openAccessPdf": {
+      "url": "",
+      "status": "CLOSED",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/1505.05663, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "title": "Inferring Graphs from Cascades: A Sparse Recovery Framework",
+    "authors": [
+      {
+        "authorId": "1403025868",
+        "name": "Jean Pouget-Abadie"
+      },
+      {
+        "authorId": "2142860",
+        "name": "Thibaut Horel"
+      }
+    ]
+  },
+  "data": [
+    {
+      "citedPaper": {
+        "paperId": "cf280ce6e6c0d54030386a91cec5ebb50f720ce1",
+        "externalIds": {
+          "DBLP": "conf/icml/DuLBS14",
+          "MAG": "1576828772",
+          "CorpusId": 2278578,
+          "PubMed": "25973445"
+        },
+        "url": "https://www.semanticscholar.org/paper/cf280ce6e6c0d54030386a91cec5ebb50f720ce1",
+        "title": "Influence Function Learning in Information Diffusion Networks",
+        "venue": "International Conference on Machine Learning",
+        "year": 2014,
+        "referenceCount": 26,
+        "citationCount": 86,
+        "authors": [
+          {
+            "authorId": "145585757",
+            "name": "Nan Du"
+          },
+          {
+            "authorId": "40609253",
+            "name": "Yingyu Liang"
+          },
+          {
+            "authorId": "1745410",
+            "name": "Maria-Florina Balcan"
+          },
+          {
+            "authorId": "1779453",
+            "name": "Le Song"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "6b273f87b7148cd8f32ac6dd207fa37103e6791c",
+        "externalIds": {
+          "MAG": "2950143436",
+          "ArXiv": "1405.2936",
+          "DBLP": "journals/corr/DaneshmandGSS14",
+          "CorpusId": 1783774,
+          "PubMed": "25932466"
+        },
+        "url": "https://www.semanticscholar.org/paper/6b273f87b7148cd8f32ac6dd207fa37103e6791c",
+        "title": "Estimating Diffusion Network Structures: Recovery Conditions, Sample Complexity & Soft-thresholding Algorithm",
+        "venue": "International Conference on Machine Learning",
+        "year": 2014,
+        "referenceCount": 23,
+        "citationCount": 127,
+        "authors": [
+          {
+            "authorId": "1764651",
+            "name": "Hadi Daneshmand"
+          },
+          {
+            "authorId": "1388404108",
+            "name": "M. Gomez-Rodriguez"
+          },
+          {
+            "authorId": "1779453",
+            "name": "Le Song"
+          },
+          {
+            "authorId": "1707625",
+            "name": "B. Scholkopf"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "d4b2703233a61ea36a2420639e20d5d047d1d4df",
+        "externalIds": {
+          "ArXiv": "1308.2954",
+          "DBLP": "journals/corr/AbrahaoCKP13",
+          "MAG": "2131997358",
+          "DOI": "10.1145/2487575.2487664",
+          "CorpusId": 13943276
+        },
+        "url": "https://www.semanticscholar.org/paper/d4b2703233a61ea36a2420639e20d5d047d1d4df",
+        "title": "Trace complexity of network inference",
+        "venue": "Knowledge Discovery and Data Mining",
+        "year": 2013,
+        "referenceCount": 28,
+        "citationCount": 94,
+        "authors": [
+          {
+            "authorId": "3007612",
+            "name": "B. Abrahao"
+          },
+          {
+            "authorId": "34996452",
+            "name": "Flavio Chierichetti"
+          },
+          {
+            "authorId": "2633757",
+            "name": "Robert D. Kleinberg"
+          },
+          {
+            "authorId": "1773845",
+            "name": "A. Panconesi"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "67f33b4ea84c8cf815a9919dd34fee6e85c22f6f",
+        "externalIds": {
+          "MAG": "2128235479",
+          "DBLP": "journals/corr/JavanmardM13",
+          "ArXiv": "1306.3171",
+          "DOI": "10.5555/2627435.2697057",
+          "CorpusId": 1802449
+        },
+        "url": "https://www.semanticscholar.org/paper/67f33b4ea84c8cf815a9919dd34fee6e85c22f6f",
+        "title": "Confidence intervals and hypothesis testing for high-dimensional regression",
+        "venue": "Journal of machine learning research",
+        "year": 2013,
+        "referenceCount": 62,
+        "citationCount": 816,
+        "authors": [
+          {
+            "authorId": "2548570",
+            "name": "Adel Javanmard"
+          },
+          {
+            "authorId": "145071265",
+            "name": "A. Montanari"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "9e0252d3b4b88531d122900423369e7167cd84a3",
+        "externalIds": {
+          "DBLP": "conf/aistats/DuSWZ13",
+          "MAG": "188609219",
+          "CorpusId": 138816
+        },
+        "url": "https://www.semanticscholar.org/paper/9e0252d3b4b88531d122900423369e7167cd84a3",
+        "title": "Uncover Topic-Sensitive Information Diffusion Networks",
+        "venue": "International Conference on Artificial Intelligence and Statistics",
+        "year": 2013,
+        "referenceCount": 22,
+        "citationCount": 99,
+        "authors": [
+          {
+            "authorId": "145585757",
+            "name": "Nan Du"
+          },
+          {
+            "authorId": "1779453",
+            "name": "Le Song"
+          },
+          {
+            "authorId": "2912155",
+            "name": "Hyenkyun Woo"
+          },
+          {
+            "authorId": "145203884",
+            "name": "H. Zha"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "4b94714860c61c0b9aa42e7e57dc496bfb928160",
+        "externalIds": {
+          "DBLP": "conf/isit/PriceW12",
+          "MAG": "2037795929",
+          "DOI": "10.1109/ISIT.2012.6283954",
+          "CorpusId": 9642164
+        },
+        "url": "https://www.semanticscholar.org/paper/4b94714860c61c0b9aa42e7e57dc496bfb928160",
+        "title": "Applications of the Shannon-Hartley theorem to data streams and sparse recovery",
+        "venue": "IEEE International Symposium on Information Theory. Proceedings",
+        "year": 2012,
+        "referenceCount": 22,
+        "citationCount": 35,
+        "authors": [
+          {
+            "authorId": "4989538",
+            "name": "Eric Price"
+          },
+          {
+            "authorId": "143982862",
+            "name": "David P. Woodruff"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "21f876b1ee1f637e3d3be08286fa6bbd0d67fc02",
+        "externalIds": {
+          "MAG": "2092418988",
+          "DBLP": "conf/sigmetrics/NetrapalliS12",
+          "DOI": "10.1145/2254756.2254783",
+          "CorpusId": 18725191
+        },
+        "url": "https://www.semanticscholar.org/paper/21f876b1ee1f637e3d3be08286fa6bbd0d67fc02",
+        "title": "Learning the graph of epidemic cascades",
+        "venue": "Measurement and Modeling of Computer Systems",
+        "year": 2012,
+        "referenceCount": 17,
+        "citationCount": 169,
+        "authors": [
+          {
+            "authorId": "1751626",
+            "name": "Praneeth Netrapalli"
+          },
+          {
+            "authorId": "1701677",
+            "name": "S. Sanghavi"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "61b9b5e22d5082009b3f905cb6dd76bf934d0579",
+        "externalIds": {
+          "MAG": "3005169540",
+          "DOI": "10.1145/2318857.2254783",
+          "CorpusId": 232439192
+        },
+        "url": "https://www.semanticscholar.org/paper/61b9b5e22d5082009b3f905cb6dd76bf934d0579",
+        "title": "Learning the graph of epidemic cascades",
+        "venue": "",
+        "year": 2012,
+        "referenceCount": 8,
+        "citationCount": 26,
+        "authors": [
+          {
+            "authorId": "1644689938",
+            "name": "NetrapalliPraneeth"
+          },
+          {
+            "authorId": "1665827971",
+            "name": "SanghaviSujay"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "34a8ee0693e93e8b4bf1f606863ac64ac5242d93",
+        "externalIds": {
+          "ArXiv": "1111.4452",
+          "MAG": "2951255083",
+          "DBLP": "journals/dcg/PlanV14",
+          "DOI": "10.1007/s00454-013-9561-6",
+          "CorpusId": 17091189
+        },
+        "url": "https://www.semanticscholar.org/paper/34a8ee0693e93e8b4bf1f606863ac64ac5242d93",
+        "title": "Dimension Reduction by Random Hyperplane Tessellations",
+        "venue": "Discrete & Computational Geometry",
+        "year": 2011,
+        "referenceCount": 26,
+        "citationCount": 161,
+        "authors": [
+          {
+            "authorId": "1800179",
+            "name": "Y. Plan"
+          },
+          {
+            "authorId": "1806615",
+            "name": "R. Vershynin"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "3317e8b16bc11c1273044b3c8ad2a5a8a05e54a3",
+        "externalIds": {
+          "DBLP": "journals/corr/abs-1110-4414",
+          "MAG": "2952574641",
+          "ArXiv": "1110.4414",
+          "DOI": "10.1109/FOCS.2011.92",
+          "CorpusId": 6200068
+        },
+        "url": "https://www.semanticscholar.org/paper/3317e8b16bc11c1273044b3c8ad2a5a8a05e54a3",
+        "title": "(1 + eps)-Approximate Sparse Recovery",
+        "venue": "IEEE Annual Symposium on Foundations of Computer Science",
+        "year": 2011,
+        "referenceCount": 22,
+        "citationCount": 38,
+        "authors": [
+          {
+            "authorId": "4989538",
+            "name": "Eric Price"
+          },
+          {
+            "authorId": "143982862",
+            "name": "David P. Woodruff"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "46be236b6c3896aea3866672bb4606496694fc77",
+        "externalIds": {
+          "ArXiv": "1110.2563",
+          "MAG": "2069119359",
+          "DOI": "10.1111/rssb.12026",
+          "CorpusId": 88511799
+        },
+        "url": "https://www.semanticscholar.org/paper/46be236b6c3896aea3866672bb4606496694fc77",
+        "title": "Confidence intervals for low dimensional parameters in high dimensional linear models",
+        "venue": "",
+        "year": 2011,
+        "referenceCount": 65,
+        "citationCount": 1131,
+        "authors": [
+          {
+            "authorId": "153884534",
+            "name": "Cun-Hui Zhang"
+          },
+          {
+            "authorId": "38654394",
+            "name": "Shenmin Zhang"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "5d03416c5dbfb1b63e6f297fbd350b7798a047f2",
+        "externalIds": {
+          "DBLP": "journals/corr/abs-1105-0697",
+          "ArXiv": "1105.0697",
+          "MAG": "2164900957",
+          "CorpusId": 12901792
+        },
+        "url": "https://www.semanticscholar.org/paper/5d03416c5dbfb1b63e6f297fbd350b7798a047f2",
+        "title": "Uncovering the Temporal Dynamics of Diffusion Networks",
+        "venue": "International Conference on Machine Learning",
+        "year": 2011,
+        "referenceCount": 19,
+        "citationCount": 615,
+        "authors": [
+          {
+            "authorId": "1388404108",
+            "name": "M. Gomez-Rodriguez"
+          },
+          {
+            "authorId": "1722983",
+            "name": "David Balduzzi"
+          },
+          {
+            "authorId": "1707625",
+            "name": "B. Scholkopf"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "a84d79ffa8b4ded2296921f64b3af10693e95e28",
+        "externalIds": {
+          "DBLP": "conf/isit/GuptaNR10",
+          "MAG": "2137990311",
+          "DOI": "10.1109/ISIT.2010.5513510",
+          "CorpusId": 3897126
+        },
+        "url": "https://www.semanticscholar.org/paper/a84d79ffa8b4ded2296921f64b3af10693e95e28",
+        "title": "Sample complexity for 1-bit compressed sensing and sparse classification",
+        "venue": "2010 IEEE International Symposium on Information Theory",
+        "year": 2010,
+        "referenceCount": 13,
+        "citationCount": 86,
+        "authors": [
+          {
+            "authorId": "2157857667",
+            "name": "Ankit Gupta"
+          },
+          {
+            "authorId": "50033772",
+            "name": "R. Nowak"
+          },
+          {
+            "authorId": "9229182",
+            "name": "B. Recht"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "f07b535e3f69161cea69fea25221615f33bae4c4",
+        "externalIds": {
+          "DBLP": "journals/corr/abs-1006-0234",
+          "ArXiv": "1006.0234",
+          "MAG": "2949567784",
+          "DOI": "10.1145/1835804.1835933",
+          "CorpusId": 2327990
+        },
+        "url": "https://www.semanticscholar.org/paper/f07b535e3f69161cea69fea25221615f33bae4c4",
+        "title": "Inferring networks of diffusion and influence",
+        "venue": "Knowledge Discovery and Data Mining",
+        "year": 2010,
+        "referenceCount": 77,
+        "citationCount": 1158,
+        "authors": [
+          {
+            "authorId": "1388404108",
+            "name": "M. Gomez-Rodriguez"
+          },
+          {
+            "authorId": "1702139",
+            "name": "J. Leskovec"
+          },
+          {
+            "authorId": "153243248",
+            "name": "A. Krause"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "6e4a477ec52d60db64621c0839fad1bc6da018fc",
+        "externalIds": {
+          "MAG": "2164595191",
+          "DBLP": "journals/corr/abs-1004-1218",
+          "ArXiv": "1004.1218",
+          "DOI": "10.1109/TIT.2011.2165823",
+          "CorpusId": 1024788
+        },
+        "url": "https://www.semanticscholar.org/paper/6e4a477ec52d60db64621c0839fad1bc6da018fc",
+        "title": "The Noise-Sensitivity Phase Transition in Compressed Sensing",
+        "venue": "IEEE Transactions on Information Theory",
+        "year": 2010,
+        "referenceCount": 41,
+        "citationCount": 388,
+        "authors": [
+          {
+            "authorId": "1709392",
+            "name": "D. Donoho"
+          },
+          {
+            "authorId": "35240261",
+            "name": "A. Maleki"
+          },
+          {
+            "authorId": "145071265",
+            "name": "A. Montanari"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "ece5045d0f495834b25d2188735bcee982edd8c2",
+        "externalIds": {
+          "DBLP": "journals/jmlr/RaskuttiWY10",
+          "MAG": "2162312215",
+          "DOI": "10.5555/1756006.1859929",
+          "CorpusId": 17530746
+        },
+        "url": "https://www.semanticscholar.org/paper/ece5045d0f495834b25d2188735bcee982edd8c2",
+        "title": "Restricted Eigenvalue Properties for Correlated Gaussian Designs",
+        "venue": "Journal of machine learning research",
+        "year": 2010,
+        "referenceCount": 35,
+        "citationCount": 523,
+        "authors": [
+          {
+            "authorId": "3110269",
+            "name": "Garvesh Raskutti"
+          },
+          {
+            "authorId": "1721860",
+            "name": "M. Wainwright"
+          },
+          {
+            "authorId": "144923779",
+            "name": "Bin Yu"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "2a77da9a650bcf5564bcb568f511557366b46eea",
+        "externalIds": {
+          "DBLP": "conf/soda/BaIPW10",
+          "MAG": "2949204716",
+          "ArXiv": "1106.0365",
+          "DOI": "10.1137/1.9781611973075.95",
+          "CorpusId": 1170794
+        },
+        "url": "https://www.semanticscholar.org/paper/2a77da9a650bcf5564bcb568f511557366b46eea",
+        "title": "Lower bounds for sparse recovery",
+        "venue": "ACM-SIAM Symposium on Discrete Algorithms",
+        "year": 2010,
+        "referenceCount": 30,
+        "citationCount": 205,
+        "authors": [
+          {
+            "authorId": "2836805",
+            "name": "Khanh Do Ba"
+          },
+          {
+            "authorId": "1688317",
+            "name": "P. Indyk"
+          },
+          {
+            "authorId": "4989538",
+            "name": "Eric Price"
+          },
+          {
+            "authorId": "143982862",
+            "name": "David P. Woodruff"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "5f56320c5979faeab78dbd9ddb7db755ba4550f3",
+        "externalIds": {
+          "ArXiv": "1010.2731",
+          "DBLP": "journals/corr/abs-1010-2731",
+          "MAG": "3103870504",
+          "DOI": "10.1214/12-STS400",
+          "CorpusId": 656534
+        },
+        "url": "https://www.semanticscholar.org/paper/5f56320c5979faeab78dbd9ddb7db755ba4550f3",
+        "title": "A unified framework for high-dimensional analysis of $M$-estimators with decomposable regularizers",
+        "venue": "Neural Information Processing Systems",
+        "year": 2009,
+        "referenceCount": 105,
+        "citationCount": 1446,
+        "authors": [
+          {
+            "authorId": "145537739",
+            "name": "S. Negahban"
+          },
+          {
+            "authorId": "145969795",
+            "name": "Pradeep Ravikumar"
+          },
+          {
+            "authorId": "1721860",
+            "name": "M. Wainwright"
+          },
+          {
+            "authorId": "144923779",
+            "name": "Bin Yu"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "2540b36616761e6fde519eed00aef8f0e5e412a0",
+        "externalIds": {
+          "ArXiv": "0910.0722",
+          "MAG": "2092058109",
+          "DOI": "10.1214/09-EJS506",
+          "CorpusId": 18820474
+        },
+        "url": "https://www.semanticscholar.org/paper/2540b36616761e6fde519eed00aef8f0e5e412a0",
+        "title": "On the conditions used to prove oracle results for the Lasso",
+        "venue": "",
+        "year": 2009,
+        "referenceCount": 26,
+        "citationCount": 747,
+        "authors": [
+          {
+            "authorId": "88941006",
+            "name": "S. Geer"
+          },
+          {
+            "authorId": "152235246",
+            "name": "Peter Buhlmann"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "7c1a89a59c0c61f3459a53c8d8f72caa9466fcc3",
+        "externalIds": {
+          "MAG": "2112681514",
+          "DBLP": "journals/jmlr/LeskovecCKFG10",
+          "ArXiv": "0812.4905",
+          "DOI": "10.5555/1756006.1756039",
+          "CorpusId": 15565327
+        },
+        "url": "https://www.semanticscholar.org/paper/7c1a89a59c0c61f3459a53c8d8f72caa9466fcc3",
+        "title": "Kronecker Graphs: An Approach to Modeling Networks",
+        "venue": "Journal of machine learning research",
+        "year": 2008,
+        "referenceCount": 95,
+        "citationCount": 1114,
+        "authors": [
+          {
+            "authorId": "1702139",
+            "name": "J. Leskovec"
+          },
+          {
+            "authorId": "143856744",
+            "name": "Deepayan Chakrabarti"
+          },
+          {
+            "authorId": "3371403",
+            "name": "J. Kleinberg"
+          },
+          {
+            "authorId": "1702392",
+            "name": "C. Faloutsos"
+          },
+          {
+            "authorId": "1744700",
+            "name": "Zoubin Ghahramani"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "65580b0b2970d18a34c94f3bd6eac9b871dbe2f5",
+        "externalIds": {
+          "MAG": "2128893310",
+          "DBLP": "journals/pnas/Liben-NowellK08",
+          "DOI": "10.1073/pnas.0708471105",
+          "CorpusId": 5691227,
+          "PubMed": "18353985"
+        },
+        "url": "https://www.semanticscholar.org/paper/65580b0b2970d18a34c94f3bd6eac9b871dbe2f5",
+        "title": "Tracing information flow on a global scale using Internet chain-letter data",
+        "venue": "Proceedings of the National Academy of Sciences of the United States of America",
+        "year": 2008,
+        "referenceCount": 31,
+        "citationCount": 412,
+        "authors": [
+          {
+            "authorId": "1397896615",
+            "name": "David Liben-Nowell"
+          },
+          {
+            "authorId": "3371403",
+            "name": "J. Kleinberg"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "ff37286eeddad768239de87567c35e082eca62b7",
+        "externalIds": {
+          "MAG": "2060430274",
+          "DBLP": "conf/ciss/BoufounosB08",
+          "DOI": "10.1109/CISS.2008.4558487",
+          "CorpusId": 206563812
+        },
+        "url": "https://www.semanticscholar.org/paper/ff37286eeddad768239de87567c35e082eca62b7",
+        "title": "1-Bit compressive sensing",
+        "venue": "Annual Conference on Information Sciences and Systems",
+        "year": 2008,
+        "referenceCount": 15,
+        "citationCount": 743,
+        "authors": [
+          {
+            "authorId": "2132949",
+            "name": "P. Boufounos"
+          },
+          {
+            "authorId": "144908066",
+            "name": "Richard Baraniuk"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "bb92178d5133f9165b704500cbe2e5a1b2dab01d",
+        "externalIds": {
+          "MAG": "2116581043",
+          "ArXiv": "0801.1095",
+          "DOI": "10.1214/08-AOS620",
+          "CorpusId": 7048603
+        },
+        "url": "https://www.semanticscholar.org/paper/bb92178d5133f9165b704500cbe2e5a1b2dab01d",
+        "title": "SIMULTANEOUS ANALYSIS OF LASSO AND DANTZIG SELECTOR",
+        "venue": "",
+        "year": 2008,
+        "referenceCount": 37,
+        "citationCount": 2618,
+        "authors": [
+          {
+            "authorId": "1678771",
+            "name": "P. Bickel"
+          },
+          {
+            "authorId": "100532061",
+            "name": "Y. Ritov"
+          },
+          {
+            "authorId": "2667773",
+            "name": "A. Tsybakov"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "e6e7ea1190505daa05f36ef9bbfe269cbb5de0ec",
+        "externalIds": {
+          "MAG": "2952992547",
+          "DBLP": "conf/sdm/LeskovecMFGH07",
+          "ArXiv": "0704.2803",
+          "DOI": "10.1137/1.9781611972771.60",
+          "CorpusId": 1830435
+        },
+        "url": "https://www.semanticscholar.org/paper/e6e7ea1190505daa05f36ef9bbfe269cbb5de0ec",
+        "title": "Patterns of Cascading Behavior in Large Blog Graphs",
+        "venue": "SDM",
+        "year": 2007,
+        "referenceCount": 29,
+        "citationCount": 509,
+        "authors": [
+          {
+            "authorId": "1702139",
+            "name": "J. Leskovec"
+          },
+          {
+            "authorId": "1982698",
+            "name": "Mary McGlohon"
+          },
+          {
+            "authorId": "1702392",
+            "name": "C. Faloutsos"
+          },
+          {
+            "authorId": "1726974",
+            "name": "N. Glance"
+          },
+          {
+            "authorId": "145501780",
+            "name": "Matthew F. Hurst"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "dc5b06753fac11268bc2300b7c25d50cbbcdeb5c",
+        "externalIds": {
+          "MAG": "2150940164",
+          "DBLP": "journals/jmlr/ZhaoY06",
+          "CorpusId": 2174351
+        },
+        "url": "https://www.semanticscholar.org/paper/dc5b06753fac11268bc2300b7c25d50cbbcdeb5c",
+        "title": "On Model Selection Consistency of Lasso",
+        "venue": "Journal of machine learning research",
+        "year": 2006,
+        "referenceCount": 16,
+        "citationCount": 2922,
+        "authors": [
+          {
+            "authorId": "2114870993",
+            "name": "P. Zhao"
+          },
+          {
+            "authorId": "144923779",
+            "name": "Bin Yu"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "99dc70afc02f49f56c0c511a578c10bc60c10c84",
+        "externalIds": {
+          "MAG": "2020925091",
+          "DOI": "10.1198/016214506000000735",
+          "CorpusId": 13998761
+        },
+        "url": "https://www.semanticscholar.org/paper/99dc70afc02f49f56c0c511a578c10bc60c10c84",
+        "title": "The Adaptive Lasso and Its Oracle Properties",
+        "venue": "",
+        "year": 2006,
+        "referenceCount": 30,
+        "citationCount": 7667,
+        "authors": [
+          {
+            "authorId": "48861660",
+            "name": "H. Zou"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "e63a855799bdfcc236d28d6db606e0904c6652f5",
+        "externalIds": {
+          "MAG": "2107666336",
+          "DBLP": "conf/webi/AdarA05",
+          "DOI": "10.1109/WI.2005.151",
+          "CorpusId": 372491
+        },
+        "url": "https://www.semanticscholar.org/paper/e63a855799bdfcc236d28d6db606e0904c6652f5",
+        "title": "Tracking information epidemics in blogspace",
+        "venue": "International Conference on Wirtschaftsinformatik",
+        "year": 2005,
+        "referenceCount": 33,
+        "citationCount": 456,
+        "authors": [
+          {
+            "authorId": "2630700",
+            "name": "Eytan Adar"
+          },
+          {
+            "authorId": "1778398",
+            "name": "Lada A. Adamic"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "a898ad13c96e5c068a2e4fc88227278e646b712e",
+        "externalIds": {
+          "ArXiv": "math/0410542",
+          "MAG": "2129638195",
+          "DBLP": "journals/tit/CandesT06",
+          "DOI": "10.1109/TIT.2006.885507",
+          "CorpusId": 1431305
+        },
+        "url": "https://www.semanticscholar.org/paper/a898ad13c96e5c068a2e4fc88227278e646b712e",
+        "title": "Near-Optimal Signal Recovery From Random Projections: Universal Encoding Strategies?",
+        "venue": "IEEE Transactions on Information Theory",
+        "year": 2004,
+        "referenceCount": 60,
+        "citationCount": 7100,
+        "authors": [
+          {
+            "authorId": "2006869",
+            "name": "E. Candès"
+          },
+          {
+            "authorId": "50383069",
+            "name": "T. Tao"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "13df42f24714d1d0c365a2ca6f62dd5cac9534de",
+        "externalIds": {
+          "MAG": "2402962589",
+          "DBLP": "conf/kdd/KempeKT03",
+          "DOI": "10.1145/956750.956769",
+          "CorpusId": 7214363
+        },
+        "url": "https://www.semanticscholar.org/paper/13df42f24714d1d0c365a2ca6f62dd5cac9534de",
+        "title": "Maximizing the spread of influence through a social network",
+        "venue": "Knowledge Discovery and Data Mining",
+        "year": 2003,
+        "referenceCount": 47,
+        "citationCount": 9042,
+        "authors": [
+          {
+            "authorId": "1765196",
+            "name": "D. Kempe"
+          },
+          {
+            "authorId": "3371403",
+            "name": "J. Kleinberg"
+          },
+          {
+            "authorId": "1746222",
+            "name": "É. Tardos"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "b3c081e9c6f21ec9867d70b8a382c44f6e760276",
+        "externalIds": {
+          "ArXiv": "cond-mat/0110452",
+          "MAG": "1983275606",
+          "DOI": "10.1103/PhysRevE.65.026107",
+          "CorpusId": 4643442,
+          "PubMed": "11863587"
+        },
+        "url": "https://www.semanticscholar.org/paper/b3c081e9c6f21ec9867d70b8a382c44f6e760276",
+        "title": "Growing scale-free networks with tunable clustering.",
+        "venue": "Physical review. E, Statistical, nonlinear, and soft matter physics",
+        "year": 2001,
+        "referenceCount": 9,
+        "citationCount": 1051,
+        "authors": [
+          {
+            "authorId": "3049099",
+            "name": "Petter Holme"
+          },
+          {
+            "authorId": "1825211",
+            "name": "Beom Jun Kim"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "dce8146987557735a19771aefa1f027211a2c275",
+        "externalIds": {
+          "DBLP": "journals/corr/cond-mat-0106096",
+          "MAG": "3005250946",
+          "ArXiv": "cond-mat/0106096",
+          "DOI": "10.1103/RevModPhys.74.47",
+          "CorpusId": 60545
+        },
+        "url": "https://www.semanticscholar.org/paper/dce8146987557735a19771aefa1f027211a2c275",
+        "title": "Statistical mechanics of complex networks",
+        "venue": "arXiv.org",
+        "year": 2001,
+        "referenceCount": 238,
+        "citationCount": 19874,
+        "authors": [
+          {
+            "authorId": "2069424108",
+            "name": "R. Albert"
+          },
+          {
+            "authorId": "1745069",
+            "name": "A. Barabási"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "d61031326150ba23f90e6587c13d99188209250e",
+        "externalIds": {
+          "MAG": "2112090702",
+          "DOI": "10.1038/30918",
+          "CorpusId": 3034643,
+          "PubMed": "9623998"
+        },
+        "url": "https://www.semanticscholar.org/paper/d61031326150ba23f90e6587c13d99188209250e",
+        "title": "Collective dynamics of ‘small-world’ networks",
+        "venue": "Nature",
+        "year": 1998,
+        "referenceCount": 52,
+        "citationCount": 42253,
+        "authors": [
+          {
+            "authorId": "1783914",
+            "name": "D. Watts"
+          },
+          {
+            "authorId": "2343210",
+            "name": "S. Strogatz"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "e7321ab0f3be0b29aaf5f073fd7de7da5fed2f92",
+        "externalIds": {
+          "MAG": "340244495",
+          "DBLP": "books/cu/12/EK2012",
+          "DOI": "10.1017/CBO9780511794308",
+          "CorpusId": 14790051
+        },
+        "url": "https://www.semanticscholar.org/paper/e7321ab0f3be0b29aaf5f073fd7de7da5fed2f92",
+        "title": "Compressed Sensing",
+        "venue": "",
+        "year": 2012,
+        "referenceCount": 50,
+        "citationCount": 17589,
+        "authors": [
+          {
+            "authorId": "3125779",
+            "name": "Gitta Kutyniok"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "0beecd1fd6594ffafdcd483ee09e9cca7ebb29f8",
+        "externalIds": {
+          "MAG": "2084768311",
+          "DOI": "10.1214/11-EJS624",
+          "CorpusId": 17855947
+        },
+        "url": "https://www.semanticscholar.org/paper/0beecd1fd6594ffafdcd483ee09e9cca7ebb29f8",
+        "title": "The adaptive and the thresholded Lasso for potentially misspecified models (and a lower bound for the Lasso)",
+        "venue": "",
+        "year": 2011,
+        "referenceCount": 40,
+        "citationCount": 142,
+        "authors": [
+          {
+            "authorId": "88941006",
+            "name": "S. Geer"
+          },
+          {
+            "authorId": "2265956629",
+            "name": "Peter Bühlmann"
+          },
+          {
+            "authorId": "33542690",
+            "name": "Shuheng Zhou"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "7e7e66e946c1a6600c46283347d8adbba7dd7cce",
+        "externalIds": {
+          "CorpusId": 309291
+        },
+        "url": "https://www.semanticscholar.org/paper/7e7e66e946c1a6600c46283347d8adbba7dd7cce",
+        "title": "(1 + eps)-Approximate Sparse Recovery",
+        "venue": "IEEE Annual Symposium on Foundations of Computer Science",
+        "year": 2011,
+        "referenceCount": 17,
+        "citationCount": 39,
+        "authors": [
+          {
+            "authorId": "4989538",
+            "name": "Eric Price"
+          },
+          {
+            "authorId": "143982862",
+            "name": "David P. Woodruff"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "0e7d2d3eb60e627af8ccb572b0502c477fb8c2ba",
+        "externalIds": {
+          "CorpusId": 13929339
+        },
+        "url": "https://www.semanticscholar.org/paper/0e7d2d3eb60e627af8ccb572b0502c477fb8c2ba",
+        "title": "Sparse Recovery",
+        "venue": "",
+        "year": 2009,
+        "referenceCount": 18,
+        "citationCount": 11,
+        "authors": [
+          {
+            "authorId": "3023562",
+            "name": "H. Rauhut"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "Inferring Graphs from Cascades: A Sparse Recovery Framework Liben-Nowell, David and Kleinberg",
+        "venue": "Proceedings of the National Academy of Sciences",
+        "year": 2008,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "e716688ddc25dcc8871ef04c7f864063949aa8b9",
+        "externalIds": {
+          "CorpusId": 7342281
+        },
+        "url": "https://www.semanticscholar.org/paper/e716688ddc25dcc8871ef04c7f864063949aa8b9",
+        "title": "25th Annual Conference on Learning Theory Reconstruction from Anisotropic Random Measurements",
+        "venue": "",
+        "year": null,
+        "referenceCount": 0,
+        "citationCount": 220,
+        "authors": []
+      }
+    }
+  ]
+}

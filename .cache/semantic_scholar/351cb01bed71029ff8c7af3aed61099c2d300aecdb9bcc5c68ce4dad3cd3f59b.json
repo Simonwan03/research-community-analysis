@@ -1,0 +1,323 @@
+{
+  "total": 62,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "12789eec5f20ce1818382ea542c61bbea2f3a8c1",
+      "externalIds": {
+        "DBLP": "conf/icml/KolarijaniEK18",
+        "MAG": "2804251798",
+        "CorpusId": 51877692
+      },
+      "url": "https://www.semanticscholar.org/paper/12789eec5f20ce1818382ea542c61bbea2f3a8c1",
+      "title": "Fast Gradient-Based Methods with Exponential Rate: A Hybrid Control Framework",
+      "venue": "International Conference on Machine Learning",
+      "year": 2018,
+      "referenceCount": 32,
+      "citationCount": 11,
+      "authors": [
+        {
+          "authorId": "3334844",
+          "name": "A. S. Kolarijani"
+        },
+        {
+          "authorId": "1787177",
+          "name": "Peyman Mohajerin Esfahani"
+        },
+        {
+          "authorId": "2678392",
+          "name": "T. Keviczky"
+        }
+      ]
+    },
+    {
+      "paperId": "1f76a41de0a15b9108bc38fdeb08fe3a62ef034d",
+      "externalIds": {
+        "MAG": "3091896388",
+        "DBLP": "conf/cdc/KolarijaniEK18",
+        "DOI": "10.1109/CDC.2018.8618707",
+        "CorpusId": 58669855
+      },
+      "url": "https://www.semanticscholar.org/paper/1f76a41de0a15b9108bc38fdeb08fe3a62ef034d",
+      "title": "A Hybrid Control Framework for Fast Methods Under Invexity: Non-Zeno Trajectories with Exponential Rate",
+      "venue": "IEEE Conference on Decision and Control",
+      "year": 2018,
+      "referenceCount": 25,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "3334844",
+          "name": "A. S. Kolarijani"
+        },
+        {
+          "authorId": "1787177",
+          "name": "Peyman Mohajerin Esfahani"
+        },
+        {
+          "authorId": "2678392",
+          "name": "T. Keviczky"
+        }
+      ]
+    },
+    {
+      "paperId": "98f279496424ec9cbb3d41a80db2d53872456f7c",
+      "externalIds": {
+        "ArXiv": "2508.08485",
+        "DBLP": "journals/corr/abs-2508-08485",
+        "DOI": "10.48550/arXiv.2508.08485",
+        "CorpusId": 280635005
+      },
+      "url": "https://www.semanticscholar.org/paper/98f279496424ec9cbb3d41a80db2d53872456f7c",
+      "title": "Gradient- and Newton-Based Unit Vector Extremum Seeking Control",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "referenceCount": 41,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2136663163",
+          "name": "Roberto Luo"
+        },
+        {
+          "authorId": "26910446",
+          "name": "V. H. P. Rodrigues"
+        },
+        {
+          "authorId": "2296001243",
+          "name": "Tiago Roux Oliveira"
+        },
+        {
+          "authorId": "2295988846",
+          "name": "M. Krstic"
+        }
+      ]
+    },
+    {
+      "paperId": "11ca9788f90ae3117ff0bab36ae47ada94231337",
+      "externalIds": {
+        "DOI": "10.11591/ijpeds.v17.i1.pp107-122",
+        "CorpusId": 286409622
+      },
+      "url": "https://www.semanticscholar.org/paper/11ca9788f90ae3117ff0bab36ae47ada94231337",
+      "title": "Fuzzy adaptive sliding mode control with exponential reaching law for enhanced 4WD electric vehicle speed control",
+      "venue": "International Journal of Power Electronics and Drive Systems (IJPEDS)",
+      "year": 2026,
+      "referenceCount": 27,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2422869625",
+          "name": "Abdelhamid Bouregba"
+        },
+        {
+          "authorId": "102180597",
+          "name": "A. Hazzab"
+        },
+        {
+          "authorId": "2128713167",
+          "name": "Aissa Benhammou"
+        },
+        {
+          "authorId": "2106051",
+          "name": "S. Hadjeri"
+        }
+      ]
+    },
+    {
+      "paperId": "3d211ce87b65aead17cada15c946b5089386f72a",
+      "externalIds": {
+        "DBLP": "conf/cdc/DostiVC22",
+        "DOI": "10.1109/CDC51059.2022.9993313",
+        "CorpusId": 255600001
+      },
+      "url": "https://www.semanticscholar.org/paper/3d211ce87b65aead17cada15c946b5089386f72a",
+      "title": "A new accelerated gradient-based estimating sequence technique for solving large-scale optimization problems with composite structure",
+      "venue": "IEEE Conference on Decision and Control",
+      "year": 2022,
+      "referenceCount": 29,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "8802250",
+          "name": "Endrit Dosti"
+        },
+        {
+          "authorId": "144385678",
+          "name": "S. Vorobyov"
+        },
+        {
+          "authorId": "2052992143",
+          "name": "Themistoklis Charalambous"
+        }
+      ]
+    },
+    {
+      "paperId": "222f5afbda04d1b4801c2625adc02c04fa050ad4",
+      "externalIds": {
+        "DOI": "10.1109/ACCESS.2026.3684124",
+        "CorpusId": 287565810
+      },
+      "url": "https://www.semanticscholar.org/paper/222f5afbda04d1b4801c2625adc02c04fa050ad4",
+      "title": "Max-Min Rate Optimization in Hybrid Active-Passive RIS-Assisted MU-MISO Systems: A DDPG-Based Joint Beamforming Approach",
+      "venue": "IEEE Access",
+      "year": 2026,
+      "referenceCount": 41,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "1414430369",
+          "name": "Noura A. El-Alfi"
+        },
+        {
+          "authorId": "2391761874",
+          "name": "M. A. Mohamed"
+        },
+        {
+          "authorId": "115289131",
+          "name": "Emad El-Sayed"
+        },
+        {
+          "authorId": "1404610614",
+          "name": "H. Abdel-Atty"
+        }
+      ]
+    },
+    {
+      "paperId": "efd3f2b667e5e97580d552a3732bc15829616df4",
+      "externalIds": {
+        "MAG": "2961423372",
+        "DOI": "10.1002/stc.2419",
+        "CorpusId": 199089694
+      },
+      "url": "https://www.semanticscholar.org/paper/efd3f2b667e5e97580d552a3732bc15829616df4",
+      "title": "A computational framework for fast‐time hybrid simulation based on partitioned time integration and state‐space modeling",
+      "venue": "Structural Control & Health Monitoring",
+      "year": 2019,
+      "referenceCount": 28,
+      "citationCount": 39,
+      "authors": [
+        {
+          "authorId": "21110336",
+          "name": "G. Abbiati"
+        },
+        {
+          "authorId": "36149180",
+          "name": "I. Lanese"
+        },
+        {
+          "authorId": "73317634",
+          "name": "E. Cazzador"
+        },
+        {
+          "authorId": "1901636",
+          "name": "O. Bursi"
+        },
+        {
+          "authorId": "50766684",
+          "name": "A. Pavese"
+        }
+      ]
+    },
+    {
+      "paperId": "5da2de9fb596ebeb8aa267574110b9cd78549d19",
+      "externalIds": {
+        "DBLP": "conf/acssc/NguyenNSSJ23",
+        "DOI": "10.1109/IEEECONF59524.2023.10476967",
+        "CorpusId": 268869645
+      },
+      "url": "https://www.semanticscholar.org/paper/5da2de9fb596ebeb8aa267574110b9cd78549d19",
+      "title": "Fast Deep Unfolded Hybrid Beamforming in Multiuser Large MIMO Systems",
+      "venue": "Asilomar Conference on Signals, Systems and Computers",
+      "year": 2023,
+      "referenceCount": 32,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "153500011",
+          "name": "N. Nguyen"
+        },
+        {
+          "authorId": "2294656745",
+          "name": "Ly Van Nguyen"
+        },
+        {
+          "authorId": "1734023",
+          "name": "Nir Shlezinger"
+        },
+        {
+          "authorId": "9091877",
+          "name": "A. L. Swindlehurst"
+        },
+        {
+          "authorId": "2288481274",
+          "name": "Markku J. Juntti"
+        }
+      ]
+    },
+    {
+      "paperId": "e3de2bda23bfd6bf4fed7e6f8b8901d9ca005d13",
+      "externalIds": {
+        "ArXiv": "2604.13505",
+        "CorpusId": 287479403
+      },
+      "url": "https://www.semanticscholar.org/paper/e3de2bda23bfd6bf4fed7e6f8b8901d9ca005d13",
+      "title": "Cascaded TD3-PID Hybrid Controller for Quadrotor Trajectory Tracking in Wind Disturbance Environments",
+      "venue": "",
+      "year": 2026,
+      "referenceCount": 37,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2422943310",
+          "name": "Yukang Zhang"
+        },
+        {
+          "authorId": "72889762",
+          "name": "Shuqi Chai"
+        },
+        {
+          "authorId": "2048036958",
+          "name": "Yuhang Zhang"
+        },
+        {
+          "authorId": "2338055776",
+          "name": "Danlan Huang"
+        },
+        {
+          "authorId": "2379947623",
+          "name": "Quanbo Ge"
+        }
+      ]
+    },
+    {
+      "paperId": "7e5befd19dde217783dbee35a52d4614e523aed1",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2501-15661",
+        "ArXiv": "2501.15661",
+        "DOI": "10.1016/j.ins.2025.122185.",
+        "CorpusId": 275920598
+      },
+      "url": "https://www.semanticscholar.org/paper/7e5befd19dde217783dbee35a52d4614e523aed1",
+      "title": "Constrained Hybrid Metaheuristic Algorithm for Probabilistic Neural Networks Learning",
+      "venue": "Information Sciences",
+      "year": 2025,
+      "referenceCount": 66,
+      "citationCount": 12,
+      "authors": [
+        {
+          "authorId": "2266351489",
+          "name": "Piotr A. Kowalski"
+        },
+        {
+          "authorId": "2370687300",
+          "name": "S. Kucharczyk"
+        },
+        {
+          "authorId": "2274938237",
+          "name": "Jacek Ma'ndziuk"
+        }
+      ]
+    }
+  ]
+}

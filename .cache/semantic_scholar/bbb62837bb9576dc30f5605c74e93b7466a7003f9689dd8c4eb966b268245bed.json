@@ -1,0 +1,361 @@
+{
+  "total": 24949,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "f9d94a7ed0984052f46aba17978b14a7cf187d0b",
+      "externalIds": {
+        "MAG": "2941860132",
+        "DBLP": "conf/icml/BachmanST17",
+        "ArXiv": "1708.00088",
+        "CorpusId": 30819066
+      },
+      "url": "https://www.semanticscholar.org/paper/f9d94a7ed0984052f46aba17978b14a7cf187d0b",
+      "title": "Learning Algorithms for Active Learning",
+      "venue": "International Conference on Machine Learning",
+      "year": 2017,
+      "referenceCount": 45,
+      "citationCount": 160,
+      "authors": [
+        {
+          "authorId": "143902541",
+          "name": "Philip Bachman"
+        },
+        {
+          "authorId": "2041695",
+          "name": "Alessandro Sordoni"
+        },
+        {
+          "authorId": "3382568",
+          "name": "Adam Trischler"
+        }
+      ]
+    },
+    {
+      "paperId": "ca9a66f802d83706c353d11ea5d18b276092c9f9",
+      "externalIds": {
+        "DBLP": "conf/hri/BiyikTS22",
+        "ArXiv": "2108.07259",
+        "DOI": "10.1109/HRI53351.2022.9889650",
+        "CorpusId": 237091752
+      },
+      "url": "https://www.semanticscholar.org/paper/ca9a66f802d83706c353d11ea5d18b276092c9f9",
+      "title": "APReL: A Library for Active Preference-based Reward Learning Algorithms",
+      "venue": "IEEE/ACM International Conference on Human-Robot Interaction",
+      "year": 2021,
+      "referenceCount": 34,
+      "citationCount": 40,
+      "authors": [
+        {
+          "authorId": "8307674",
+          "name": "Erdem Biyik"
+        },
+        {
+          "authorId": "1482546251",
+          "name": "Aditi Talati"
+        },
+        {
+          "authorId": "1779671",
+          "name": "Dorsa Sadigh"
+        }
+      ]
+    },
+    {
+      "paperId": "c01ce9a5de750efcb37406998ff8108b8db44aae",
+      "externalIds": {
+        "MAG": "3133551656",
+        "DOI": "10.20944/PREPRINTS202103.0194.V1",
+        "CorpusId": 233812236
+      },
+      "url": "https://www.semanticscholar.org/paper/c01ce9a5de750efcb37406998ff8108b8db44aae",
+      "title": "scikit-activeml: A Library and Toolbox for Active Learning Algorithms",
+      "venue": "",
+      "year": 2021,
+      "referenceCount": 19,
+      "citationCount": 22,
+      "authors": [
+        {
+          "authorId": "2182658",
+          "name": "D. Kottke"
+        },
+        {
+          "authorId": "79325054",
+          "name": "M. Herde"
+        },
+        {
+          "authorId": "2099795201",
+          "name": "Minh Tuan Pham"
+        },
+        {
+          "authorId": "2159206343",
+          "name": "Alexander Benz"
+        },
+        {
+          "authorId": "2124183359",
+          "name": "Pascal Mergard"
+        },
+        {
+          "authorId": "2124184333",
+          "name": "Atal Roghman"
+        },
+        {
+          "authorId": "1389766829",
+          "name": "Christoph Sandrock"
+        },
+        {
+          "authorId": "1734720",
+          "name": "B. Sick"
+        }
+      ]
+    },
+    {
+      "paperId": "601db490a9e2079b2db725e7f93881d13e3a3a63",
+      "externalIds": {
+        "MAG": "2151199721",
+        "DBLP": "journals/tsmc/MadkourHDY07",
+        "DOI": "10.1109/TSMCC.2007.900640",
+        "CorpusId": 15171164
+      },
+      "url": "https://www.semanticscholar.org/paper/601db490a9e2079b2db725e7f93881d13e3a3a63",
+      "title": "Intelligent Learning Algorithms for Active Vibration Control",
+      "venue": "IEEE Transactions on Systems Man and Cybernetics Part C (Applications and Reviews)",
+      "year": 2007,
+      "referenceCount": 41,
+      "citationCount": 65,
+      "authors": [
+        {
+          "authorId": "145502941",
+          "name": "A. Madkour"
+        },
+        {
+          "authorId": "2350514996",
+          "name": "Mohammed Alamgir Hossain"
+        },
+        {
+          "authorId": "1783262",
+          "name": "K. Dahal"
+        },
+        {
+          "authorId": "1758381",
+          "name": "Hongnian Yu"
+        }
+      ]
+    },
+    {
+      "paperId": "d02f1c91b5865bfcc68928cd40507b29210d5b3b",
+      "externalIds": {
+        "MAG": "2952661746",
+        "DBLP": "conf/alt/CarpentierLGMA11",
+        "ArXiv": "1507.04523",
+        "DOI": "10.1007/978-3-642-24412-4_17",
+        "CorpusId": 25394
+      },
+      "url": "https://www.semanticscholar.org/paper/d02f1c91b5865bfcc68928cd40507b29210d5b3b",
+      "title": "Upper-Confidence-Bound Algorithms for Active Learning in Multi-Armed Bandits",
+      "venue": "International Conference on Algorithmic Learning Theory",
+      "year": 2011,
+      "referenceCount": 14,
+      "citationCount": 117,
+      "authors": [
+        {
+          "authorId": "37178915",
+          "name": "A. Carpentier"
+        },
+        {
+          "authorId": "3254390",
+          "name": "A. Lazaric"
+        },
+        {
+          "authorId": "1678622",
+          "name": "M. Ghavamzadeh"
+        },
+        {
+          "authorId": "1708654",
+          "name": "R. Munos"
+        },
+        {
+          "authorId": "144543541",
+          "name": "P. Auer"
+        },
+        {
+          "authorId": "1729122",
+          "name": "A. Antos"
+        }
+      ]
+    },
+    {
+      "paperId": "11f47765fdca8f7c5300f50a096e91a2245f0120",
+      "externalIds": {
+        "DBLP": "phd/basesearch/Hsu10",
+        "MAG": "2135986977",
+        "CorpusId": 3932071
+      },
+      "url": "https://www.semanticscholar.org/paper/11f47765fdca8f7c5300f50a096e91a2245f0120",
+      "title": "Algorithms for active learning",
+      "venue": "",
+      "year": 2010,
+      "referenceCount": 54,
+      "citationCount": 57,
+      "authors": [
+        {
+          "authorId": "143724861",
+          "name": "Daniel J. Hsu"
+        }
+      ]
+    },
+    {
+      "paperId": "45ad5dec5710c2e5920df471819f88ea96c8587b",
+      "externalIds": {
+        "MAG": "3171149191",
+        "DOI": "10.1016/J.PETROL.2021.108999",
+        "CorpusId": 236283830
+      },
+      "url": "https://www.semanticscholar.org/paper/45ad5dec5710c2e5920df471819f88ea96c8587b",
+      "title": "Evaluation of active learning algorithms for formation lithology identification",
+      "venue": "",
+      "year": 2021,
+      "referenceCount": 49,
+      "citationCount": 35,
+      "authors": [
+        {
+          "authorId": "2100552031",
+          "name": "Ting Xu"
+        },
+        {
+          "authorId": "122549800",
+          "name": "Ji Chang"
+        },
+        {
+          "authorId": "144714706",
+          "name": "Deyong Feng"
+        },
+        {
+          "authorId": "9292983",
+          "name": "Wenjun Lv"
+        },
+        {
+          "authorId": "2110042076",
+          "name": "Yu Kang"
+        },
+        {
+          "authorId": "2108961427",
+          "name": "Haining Liu"
+        },
+        {
+          "authorId": "2152912663",
+          "name": "Jing Li"
+        },
+        {
+          "authorId": "9247896",
+          "name": "Zerui Li"
+        }
+      ]
+    },
+    {
+      "paperId": "e423bc9433111e7a775907ce34ba7f13c54f713a",
+      "externalIds": {
+        "DBLP": "conf/colt/ZhangL21",
+        "ArXiv": "2102.05312",
+        "CorpusId": 231861853
+      },
+      "url": "https://www.semanticscholar.org/paper/e423bc9433111e7a775907ce34ba7f13c54f713a",
+      "title": "Improved Algorithms for Efficient Active Learning Halfspaces with Massart and Tsybakov noise",
+      "venue": "Annual Conference Computational Learning Theory",
+      "year": 2021,
+      "referenceCount": 50,
+      "citationCount": 25,
+      "authors": [
+        {
+          "authorId": "40201729",
+          "name": "Chicheng Zhang"
+        },
+        {
+          "authorId": "2261448121",
+          "name": "Yinan Li"
+        }
+      ]
+    },
+    {
+      "paperId": "586e324a69fa70ba72eb41498502b580dea73716",
+      "externalIds": {
+        "DBLP": "journals/csur/WuSZLDSCZ20",
+        "MAG": "3011604043",
+        "DOI": "10.1145/3379504",
+        "CorpusId": 215866431,
+        "PubMed": "34421185"
+      },
+      "url": "https://www.semanticscholar.org/paper/586e324a69fa70ba72eb41498502b580dea73716",
+      "title": "Multi-Label Active Learning Algorithms for Image Classification",
+      "venue": "ACM Computing Surveys",
+      "year": 2020,
+      "referenceCount": 126,
+      "citationCount": 97,
+      "authors": [
+        {
+          "authorId": "97569165",
+          "name": "Jian Wu"
+        },
+        {
+          "authorId": "2858764",
+          "name": "Victor S. Sheng"
+        },
+        {
+          "authorId": "2155697505",
+          "name": "Jing Zhang"
+        },
+        {
+          "authorId": "2108839893",
+          "name": "Hua Li"
+        },
+        {
+          "authorId": "6876224",
+          "name": "Tetiana Dadakova"
+        },
+        {
+          "authorId": "31407831",
+          "name": "C. Swisher"
+        },
+        {
+          "authorId": "1765993",
+          "name": "Zhiming Cui"
+        },
+        {
+          "authorId": "2927967",
+          "name": "Pengpeng Zhao"
+        }
+      ]
+    },
+    {
+      "paperId": "df763fff7e9ba2af7e6676d074bdccf171f5b85f",
+      "externalIds": {
+        "DOI": "10.1007/s43452-024-01067-5",
+        "CorpusId": 274011775
+      },
+      "url": "https://www.semanticscholar.org/paper/df763fff7e9ba2af7e6676d074bdccf171f5b85f",
+      "title": "Active learning on stacked machine learning techniques for predicting compressive strength of alkali-activated ultra-high-performance concrete",
+      "venue": "Archives of Civil and Mechanical Engineering",
+      "year": 2024,
+      "referenceCount": 65,
+      "citationCount": 72,
+      "authors": [
+        {
+          "authorId": "2277758610",
+          "name": "Farzin Kazemi"
+        },
+        {
+          "authorId": "98291281",
+          "name": "Torkan Shafighfard"
+        },
+        {
+          "authorId": "2255397729",
+          "name": "R. Jankowski"
+        },
+        {
+          "authorId": "2277758309",
+          "name": "Doo-Yeol Yoo"
+        }
+      ]
+    }
+  ]
+}

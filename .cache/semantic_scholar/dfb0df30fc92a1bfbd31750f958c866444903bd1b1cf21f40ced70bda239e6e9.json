@@ -1,0 +1,312 @@
+{
+  "total": 49,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "da3e22c1f3cd7f7f68421f7295e56cfa0642baf4",
+      "externalIds": {
+        "DBLP": "conf/icml/SuiGBK15",
+        "MAG": "2120034667",
+        "CorpusId": 16582615
+      },
+      "url": "https://www.semanticscholar.org/paper/da3e22c1f3cd7f7f68421f7295e56cfa0642baf4",
+      "title": "Safe Exploration for Optimization with Gaussian Processes",
+      "venue": "International Conference on Machine Learning",
+      "year": 2015,
+      "referenceCount": 17,
+      "citationCount": 438,
+      "authors": [
+        {
+          "authorId": "3285568",
+          "name": "Yanan Sui"
+        },
+        {
+          "authorId": "1709051",
+          "name": "Alkis Gotovos"
+        },
+        {
+          "authorId": "144751617",
+          "name": "J. Burdick"
+        },
+        {
+          "authorId": "145343838",
+          "name": "Andreas Krause"
+        }
+      ]
+    },
+    {
+      "paperId": "f3b78a8b96eec9b30721022e10604a4b04a4f23b",
+      "externalIds": {
+        "DBLP": "conf/aaai/WachiSYO18",
+        "MAG": "2788084076",
+        "DOI": "10.1609/aaai.v32i1.12103",
+        "CorpusId": 19488932
+      },
+      "url": "https://www.semanticscholar.org/paper/f3b78a8b96eec9b30721022e10604a4b04a4f23b",
+      "title": "Safe Exploration and Optimization of Constrained MDPs Using Gaussian Processes",
+      "venue": "AAAI Conference on Artificial Intelligence",
+      "year": 2018,
+      "referenceCount": 22,
+      "citationCount": 132,
+      "authors": [
+        {
+          "authorId": "41036308",
+          "name": "Akifumi Wachi"
+        },
+        {
+          "authorId": "3285568",
+          "name": "Yanan Sui"
+        },
+        {
+          "authorId": "1740159",
+          "name": "Yisong Yue"
+        },
+        {
+          "authorId": "50124086",
+          "name": "M. Ono"
+        }
+      ]
+    },
+    {
+      "paperId": "2475b6d55812a7b3c52a3ba20a827ef8212babd2",
+      "externalIds": {
+        "DBLP": "journals/ral/WangLZBV25",
+        "ArXiv": "2408.16307",
+        "DOI": "10.1109/LRA.2025.3612756",
+        "CorpusId": 272146212
+      },
+      "url": "https://www.semanticscholar.org/paper/2475b6d55812a7b3c52a3ba20a827ef8212babd2",
+      "title": "Safe Bayesian Optimization for Complex Control Systems via Additive Gaussian Processes",
+      "venue": "IEEE Robotics and Automation Letters",
+      "year": 2024,
+      "referenceCount": 44,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2292208964",
+          "name": "Hongxuan Wang"
+        },
+        {
+          "authorId": "2318007728",
+          "name": "Xiaocong Li"
+        },
+        {
+          "authorId": "2330464556",
+          "name": "Lihao Zheng"
+        },
+        {
+          "authorId": "9105461",
+          "name": "Adrish Bhaumik"
+        },
+        {
+          "authorId": "1812023",
+          "name": "P. Vadakkepat"
+        }
+      ]
+    },
+    {
+      "paperId": "6e14f1929eeae2b869927691b2f9ce9b7c244816",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2111-05589",
+        "ArXiv": "2111.05589",
+        "DOI": "10.1109/CDC45484.2021.9683599",
+        "CorpusId": 243938309
+      },
+      "url": "https://www.semanticscholar.org/paper/6e14f1929eeae2b869927691b2f9ce9b7c244816",
+      "title": "Safe Real-Time Optimization using Multi-Fidelity Gaussian Processes",
+      "venue": "IEEE Conference on Decision and Control",
+      "year": 2021,
+      "referenceCount": 34,
+      "citationCount": 8,
+      "authors": [
+        {
+          "authorId": "51221068",
+          "name": "Panagiotis Petsagkourakis"
+        },
+        {
+          "authorId": "48962186",
+          "name": "B. Chachuat"
+        },
+        {
+          "authorId": "1401647281",
+          "name": "E. A. Rio-Chanona"
+        }
+      ]
+    },
+    {
+      "paperId": "96aba6773c6ce428f75bfc3df1b702d35a38df78",
+      "externalIds": {
+        "ArXiv": "2511.18214",
+        "DBLP": "journals/corr/abs-2511-18214",
+        "DOI": "10.48550/arXiv.2511.18214",
+        "CorpusId": 283244958
+      },
+      "url": "https://www.semanticscholar.org/paper/96aba6773c6ce428f75bfc3df1b702d35a38df78",
+      "title": "Deep Gaussian Process Proximal Policy Optimization",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "referenceCount": 24,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2357083408",
+          "name": "Matthijs van der Lende"
+        },
+        {
+          "authorId": "2331326464",
+          "name": "Juan Cardenas-Cartagena"
+        }
+      ]
+    },
+    {
+      "paperId": "bd37b837eea0772fc49053d3fc3991db0c6e8bf0",
+      "externalIds": {
+        "DOI": "10.69997/sct.139993",
+        "CorpusId": 279777060
+      },
+      "url": "https://www.semanticscholar.org/paper/bd37b837eea0772fc49053d3fc3991db0c6e8bf0",
+      "title": "Safe Bayesian Optimization in Process System Engineering",
+      "venue": "Systems and Control Transactions",
+      "year": 2025,
+      "referenceCount": 3,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2206751826",
+          "name": "Donggyu Lee"
+        },
+        {
+          "authorId": "2027127746",
+          "name": "E. A. D. Chanona"
+        }
+      ]
+    },
+    {
+      "paperId": "ecb0f8c19af03bb6fde5db20fe3b931f090c173a",
+      "externalIds": {
+        "DBLP": "conf/uai/PhanTrongTG25",
+        "CorpusId": 280676154
+      },
+      "url": "https://www.semanticscholar.org/paper/ecb0f8c19af03bb6fde5db20fe3b931f090c173a",
+      "title": "Black-box Optimization with Unknown Constraints via Overparameterized Deep Neural Networks",
+      "venue": "Conference on Uncertainty in Artificial Intelligence",
+      "year": 2025,
+      "referenceCount": 31,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2210729542",
+          "name": "Dat Phan-Trong"
+        },
+        {
+          "authorId": "2282572913",
+          "name": "H. Tran"
+        },
+        {
+          "authorId": "2282608213",
+          "name": "Sunil Gupta"
+        }
+      ]
+    },
+    {
+      "paperId": "a47e0c8f4f1fcef924cba87faf2b8d13016bba9d",
+      "externalIds": {
+        "ArXiv": "2211.05495",
+        "CorpusId": 256390620
+      },
+      "url": "https://www.semanticscholar.org/paper/a47e0c8f4f1fcef924cba87faf2b8d13016bba9d",
+      "title": "Safe and Adaptive Decision-Making for Optimization of Safety-Critical Systems: The ARTEO Algorithm",
+      "venue": "",
+      "year": 2022,
+      "referenceCount": 47,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "2137680862",
+          "name": "Buse Sibel Korkmaz"
+        },
+        {
+          "authorId": "2203370844",
+          "name": "Marta Zag'orowska"
+        },
+        {
+          "authorId": "30920087",
+          "name": "Mehmet Mercangoz"
+        }
+      ]
+    },
+    {
+      "paperId": "dbc4920f397d5a9d53e66b9135e7973b6dfc5d35",
+      "externalIds": {
+        "ArXiv": "2211.13019",
+        "DBLP": "journals/corr/abs-2211-13019",
+        "DOI": "10.48550/arXiv.2211.13019",
+        "CorpusId": 253801916
+      },
+      "url": "https://www.semanticscholar.org/paper/dbc4920f397d5a9d53e66b9135e7973b6dfc5d35",
+      "title": "Safe Optimization of an Industrial Refrigeration Process Using an Adaptive and Explorative Framework",
+      "venue": "IFAC-PapersOnLine",
+      "year": 2022,
+      "referenceCount": 16,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "2137680862",
+          "name": "Buse Sibel Korkmaz"
+        },
+        {
+          "authorId": "2839073",
+          "name": "M. Zagorowska"
+        },
+        {
+          "authorId": "2866933",
+          "name": "Mehmet Mercangöz"
+        }
+      ]
+    },
+    {
+      "paperId": "d3f0ada4d78c5f73d9c0725082f02090ea051d22",
+      "externalIds": {
+        "DOI": "10.1109/TMECH.2025.3569744",
+        "CorpusId": 279095992
+      },
+      "url": "https://www.semanticscholar.org/paper/d3f0ada4d78c5f73d9c0725082f02090ea051d22",
+      "title": "Safety-Aware Controller Optimization for a Flexure-Joint Biaxial Gantry Robot",
+      "venue": "IEEE/ASME transactions on mechatronics",
+      "year": 2025,
+      "referenceCount": 39,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "2292208964",
+          "name": "Hongxuan Wang"
+        },
+        {
+          "authorId": "2318007728",
+          "name": "Xiaocong Li"
+        },
+        {
+          "authorId": "2108596400",
+          "name": "Wenxin Wang"
+        },
+        {
+          "authorId": "9105461",
+          "name": "Adrish Bhaumik"
+        },
+        {
+          "authorId": "2364916402",
+          "name": "Ronghao Xie"
+        },
+        {
+          "authorId": "2330464556",
+          "name": "Lihao Zheng"
+        },
+        {
+          "authorId": "1812023",
+          "name": "P. Vadakkepat"
+        }
+      ]
+    }
+  ]
+}

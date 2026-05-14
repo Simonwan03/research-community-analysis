@@ -1,0 +1,335 @@
+{
+  "total": 96,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "cc67bd91f763e69d344ae41c97e8bf83a19889de",
+      "externalIds": {
+        "MAG": "2809702612",
+        "DBLP": "conf/icml/WangVLGGZ18",
+        "ArXiv": "1806.10317",
+        "CorpusId": 49472391
+      },
+      "url": "https://www.semanticscholar.org/paper/cc67bd91f763e69d344ae41c97e8bf83a19889de",
+      "title": "Adversarial Distillation of Bayesian Neural Network Posteriors",
+      "venue": "International Conference on Machine Learning",
+      "year": 2018,
+      "referenceCount": 45,
+      "citationCount": 60,
+      "authors": [
+        {
+          "authorId": "122782486",
+          "name": "Kuan-Chieh Jackson Wang"
+        },
+        {
+          "authorId": "2039154",
+          "name": "Paul Vicol"
+        },
+        {
+          "authorId": "145202377",
+          "name": "James Lucas"
+        },
+        {
+          "authorId": "2048254240",
+          "name": "Li Gu"
+        },
+        {
+          "authorId": "1785346",
+          "name": "R. Grosse"
+        },
+        {
+          "authorId": "1804104",
+          "name": "R. Zemel"
+        }
+      ]
+    },
+    {
+      "paperId": "6ee636061fd0a3fbd5d43ad28c981b856fbfd9c9",
+      "externalIds": {
+        "MAG": "3004627164",
+        "DBLP": "journals/corr/abs-2002-02842",
+        "ArXiv": "2002.02842",
+        "CorpusId": 211066285
+      },
+      "url": "https://www.semanticscholar.org/paper/6ee636061fd0a3fbd5d43ad28c981b856fbfd9c9",
+      "title": "Assessing the Adversarial Robustness of Monte Carlo and Distillation Methods for Deep Bayesian Neural Network Classification",
+      "venue": "arXiv.org",
+      "year": 2020,
+      "referenceCount": 27,
+      "citationCount": 6,
+      "authors": [
+        {
+          "authorId": "71008399",
+          "name": "Meet P. Vadera"
+        },
+        {
+          "authorId": "35194054",
+          "name": "Satya Narayan Shukla"
+        },
+        {
+          "authorId": "3116427",
+          "name": "B. Jalaeian"
+        },
+        {
+          "authorId": "1805742",
+          "name": "Benjamin M Marlin"
+        }
+      ]
+    },
+    {
+      "paperId": "d0409dc46c1e5062e62337df02734d21dcc542fe",
+      "externalIds": {
+        "DOI": "10.15446/rce.v48n2.116416",
+        "CorpusId": 280919953
+      },
+      "url": "https://www.semanticscholar.org/paper/d0409dc46c1e5062e62337df02734d21dcc542fe",
+      "title": "Adversarial Image Detection Based on Bayesian Neural Layers",
+      "venue": "Revista Colombiana de Estadística",
+      "year": 2025,
+      "referenceCount": 40,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2379493801",
+          "name": "Andrés Mora Valencia"
+        },
+        {
+          "authorId": "2379494305",
+          "name": "Héctor J. Hortúa"
+        },
+        {
+          "authorId": "2379495513",
+          "name": "Diego Nicolás Ávila Moreno"
+        }
+      ]
+    },
+    {
+      "paperId": "51003e10de33c80be270732eacc91ce741f1ae08",
+      "externalIds": {
+        "DBLP": "journals/tnn/BortolussiCLPSW25",
+        "ArXiv": "2207.06154",
+        "DOI": "10.1109/TNNLS.2024.3386642",
+        "CorpusId": 250491607,
+        "PubMed": "38648123"
+      },
+      "url": "https://www.semanticscholar.org/paper/51003e10de33c80be270732eacc91ce741f1ae08",
+      "title": "On the Robustness of Bayesian Neural Networks to Adversarial Attacks",
+      "venue": "IEEE Transactions on Neural Networks and Learning Systems",
+      "year": 2022,
+      "referenceCount": 85,
+      "citationCount": 20,
+      "authors": [
+        {
+          "authorId": "1774460",
+          "name": "L. Bortolussi"
+        },
+        {
+          "authorId": "1491820284",
+          "name": "Ginevra Carbone"
+        },
+        {
+          "authorId": "2572466",
+          "name": "L. Laurenti"
+        },
+        {
+          "authorId": "145870046",
+          "name": "A. Patané"
+        },
+        {
+          "authorId": "1693720",
+          "name": "G. Sanguinetti"
+        },
+        {
+          "authorId": "40537892",
+          "name": "Matthew Wicker"
+        }
+      ]
+    },
+    {
+      "paperId": "ab0d1b915f27f7b9fede0fed0ce0d21b1bf59d46",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2404-19640",
+        "ArXiv": "2404.19640",
+        "DOI": "10.48550/arXiv.2404.19640",
+        "CorpusId": 269457028
+      },
+      "url": "https://www.semanticscholar.org/paper/ab0d1b915f27f7b9fede0fed0ce0d21b1bf59d46",
+      "title": "Attacking Bayes: On the Adversarial Robustness of Bayesian Neural Networks",
+      "venue": "Trans. Mach. Learn. Res.",
+      "year": 2024,
+      "referenceCount": 89,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "2266414281",
+          "name": "Yunzhen Feng"
+        },
+        {
+          "authorId": "2107677984",
+          "name": "Tim G. J. Rudner"
+        },
+        {
+          "authorId": "2151791923",
+          "name": "Nikolaos Tsilivis"
+        },
+        {
+          "authorId": "2268760351",
+          "name": "Julia Kempe"
+        }
+      ]
+    },
+    {
+      "paperId": "c1f76891bdfa07d9a61ad11a15de13b139b20d2a",
+      "externalIds": {
+        "MAG": "2950386210",
+        "DBLP": "journals/corr/abs-1810-01279",
+        "ArXiv": "1810.01279",
+        "CorpusId": 52909682
+      },
+      "url": "https://www.semanticscholar.org/paper/c1f76891bdfa07d9a61ad11a15de13b139b20d2a",
+      "title": "Adv-BNN: Improved Adversarial Defense through Robust Bayesian Neural Network",
+      "venue": "International Conference on Learning Representations",
+      "year": 2018,
+      "referenceCount": 43,
+      "citationCount": 185,
+      "authors": [
+        {
+          "authorId": "23979212",
+          "name": "Xuanqing Liu"
+        },
+        {
+          "authorId": "2110974353",
+          "name": "Yao Li"
+        },
+        {
+          "authorId": "22539483",
+          "name": "Chongruo Wu"
+        },
+        {
+          "authorId": "1793529",
+          "name": "Cho-Jui Hsieh"
+        }
+      ]
+    },
+    {
+      "paperId": "1def98f70ec304a0d9ed3eb767a3bcd79b48dace",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2002-04359",
+        "ArXiv": "2002.04359",
+        "MAG": "3006315234",
+        "CorpusId": 211075850
+      },
+      "url": "https://www.semanticscholar.org/paper/1def98f70ec304a0d9ed3eb767a3bcd79b48dace",
+      "title": "Robustness of Bayesian Neural Networks to Gradient-Based Attacks",
+      "venue": "Neural Information Processing Systems",
+      "year": 2020,
+      "referenceCount": 43,
+      "citationCount": 83,
+      "authors": [
+        {
+          "authorId": "1491820284",
+          "name": "Ginevra Carbone"
+        },
+        {
+          "authorId": "40537892",
+          "name": "Matthew Wicker"
+        },
+        {
+          "authorId": "2572466",
+          "name": "L. Laurenti"
+        },
+        {
+          "authorId": "145870046",
+          "name": "A. Patané"
+        },
+        {
+          "authorId": "1774460",
+          "name": "L. Bortolussi"
+        },
+        {
+          "authorId": "1693720",
+          "name": "G. Sanguinetti"
+        }
+      ]
+    },
+    {
+      "paperId": "7ad63820937487bb36e963eaa06a20ceda039088",
+      "externalIds": {
+        "ArXiv": "2101.02689",
+        "DBLP": "journals/corr/abs-2101-02689",
+        "CorpusId": 230799290
+      },
+      "url": "https://www.semanticscholar.org/paper/7ad63820937487bb36e963eaa06a20ceda039088",
+      "title": "The Effect of Prior Lipschitz Continuity on the Adversarial Robustness of Bayesian Neural Networks",
+      "venue": "arXiv.org",
+      "year": 2021,
+      "referenceCount": 39,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "51321151",
+          "name": "Arno Blaas"
+        },
+        {
+          "authorId": "145029236",
+          "name": "S. Roberts"
+        }
+      ]
+    },
+    {
+      "paperId": "46aed9ab665fdf595b659c25c8ed7af041639486",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2209-02188",
+        "ArXiv": "2209.02188",
+        "DOI": "10.48550/arXiv.2209.02188",
+        "CorpusId": 252089252
+      },
+      "url": "https://www.semanticscholar.org/paper/46aed9ab665fdf595b659c25c8ed7af041639486",
+      "title": "Bayesian Neural Network Inference via Implicit Models and the Posterior Predictive Distribution",
+      "venue": "arXiv.org",
+      "year": 2022,
+      "referenceCount": 41,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "31419087",
+          "name": "J. Dabrowski"
+        },
+        {
+          "authorId": "2321505",
+          "name": "D. Pagendam"
+        }
+      ]
+    },
+    {
+      "paperId": "3ce36e16953bb552e68d67357fa352b083c39a1a",
+      "externalIds": {
+        "ArXiv": "2411.00273",
+        "DBLP": "journals/corr/abs-2411-00273",
+        "DOI": "10.48550/arXiv.2411.00273",
+        "CorpusId": 273798571
+      },
+      "url": "https://www.semanticscholar.org/paper/3ce36e16953bb552e68d67357fa352b083c39a1a",
+      "title": "Efficient Model Compression for Bayesian Neural Networks",
+      "venue": "arXiv.org",
+      "year": 2024,
+      "referenceCount": 71,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2328976996",
+          "name": "Diptarka Saha"
+        },
+        {
+          "authorId": "2329178255",
+          "name": "Zihe Liu"
+        },
+        {
+          "authorId": "2328978440",
+          "name": "Feng Liang"
+        }
+      ]
+    }
+  ]
+}

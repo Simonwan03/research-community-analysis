@@ -1,0 +1,283 @@
+{
+  "total": 32474,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "645c920bb71c0bc7fed6721f7e31ad08fbd236ab",
+      "externalIds": {
+        "DBLP": "journals/corr/BalleGP16",
+        "MAG": "2952963829",
+        "ArXiv": "1603.02010",
+        "CorpusId": 88252
+      },
+      "url": "https://www.semanticscholar.org/paper/645c920bb71c0bc7fed6721f7e31ad08fbd236ab",
+      "title": "Differentially Private Policy Evaluation",
+      "venue": "International Conference on Machine Learning",
+      "year": 2016,
+      "referenceCount": 21,
+      "citationCount": 37,
+      "authors": [
+        {
+          "authorId": "1718064",
+          "name": "Borja Balle"
+        },
+        {
+          "authorId": "2956733",
+          "name": "Maziar Gomrokchi"
+        },
+        {
+          "authorId": "144368601",
+          "name": "Doina Precup"
+        }
+      ]
+    },
+    {
+      "paperId": "d6651e17dc16d73ca08aa9e7d2ab80fc3040dfbe",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-1911-12704",
+        "ArXiv": "1911.12704",
+        "MAG": "2990005119",
+        "CorpusId": 208513447
+      },
+      "url": "https://www.semanticscholar.org/paper/d6651e17dc16d73ca08aa9e7d2ab80fc3040dfbe",
+      "title": "Comparative Study of Differentially Private Synthetic Data Algorithms and Evaluation Standards",
+      "venue": "arXiv.org",
+      "year": 2019,
+      "referenceCount": 63,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2821985",
+          "name": "C. Bowen"
+        },
+        {
+          "authorId": "40493899",
+          "name": "Joshua Snoke"
+        }
+      ]
+    },
+    {
+      "paperId": "59fb460d80196899b564423c3ad9ac19b4da3c83",
+      "externalIds": {
+        "DBLP": "journals/jpc/BowenS21",
+        "MAG": "3035866228",
+        "DOI": "10.29012/JPC.748",
+        "CorpusId": 219981098
+      },
+      "url": "https://www.semanticscholar.org/paper/59fb460d80196899b564423c3ad9ac19b4da3c83",
+      "title": "Comparative Study of Differentially Private Synthetic Data Algorithms from the NIST PSCR Differential Privacy Synthetic Data Challenge",
+      "venue": "Journal of Privacy and Confidentiality",
+      "year": 2019,
+      "referenceCount": 71,
+      "citationCount": 59,
+      "authors": [
+        {
+          "authorId": "2821985",
+          "name": "C. Bowen"
+        },
+        {
+          "authorId": "40493899",
+          "name": "Joshua Snoke"
+        }
+      ]
+    },
+    {
+      "paperId": "c68bd0519f26737d352d3132dc92ab68a3cdb61d",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-1910-05876",
+        "MAG": "2979300045",
+        "ArXiv": "1910.05876",
+        "CorpusId": 204512315
+      },
+      "url": "https://www.semanticscholar.org/paper/c68bd0519f26737d352d3132dc92ab68a3cdb61d",
+      "title": "Actor Critic with Differentially Private Critic",
+      "venue": "arXiv.org",
+      "year": 2019,
+      "referenceCount": 32,
+      "citationCount": 10,
+      "authors": [
+        {
+          "authorId": "134180432",
+          "name": "Jonathan Lebensold"
+        },
+        {
+          "authorId": "2057555891",
+          "name": "William Hamilton"
+        },
+        {
+          "authorId": "1718064",
+          "name": "Borja Balle"
+        },
+        {
+          "authorId": "144368601",
+          "name": "Doina Precup"
+        }
+      ]
+    },
+    {
+      "paperId": "b152f900f8b4039884d1bdda31cf099fcbee8e06",
+      "externalIds": {
+        "MAG": "2911882896",
+        "ArXiv": "1902.00174",
+        "DBLP": "journals/corr/abs-1902-00174",
+        "CorpusId": 59553501
+      },
+      "url": "https://www.semanticscholar.org/paper/b152f900f8b4039884d1bdda31cf099fcbee8e06",
+      "title": "Privacy Preserving Off-Policy Evaluation",
+      "venue": "arXiv.org",
+      "year": 2019,
+      "referenceCount": 29,
+      "citationCount": 5,
+      "authors": [
+        {
+          "authorId": "51437774",
+          "name": "Tengyang Xie"
+        },
+        {
+          "authorId": "143640165",
+          "name": "P. Thomas"
+        },
+        {
+          "authorId": "1729605",
+          "name": "G. Miklau"
+        }
+      ]
+    },
+    {
+      "paperId": "da99eafbd45f15ae49e32ba14a2808414ad5bb28",
+      "externalIds": {
+        "ArXiv": "2001.11718",
+        "DBLP": "journals/corr/abs-2001-11718",
+        "MAG": "3003845025",
+        "CorpusId": 211004060
+      },
+      "url": "https://www.semanticscholar.org/paper/da99eafbd45f15ae49e32ba14a2808414ad5bb28",
+      "title": "Locally Private Distributed Reinforcement Learning",
+      "venue": "arXiv.org",
+      "year": 2020,
+      "referenceCount": 32,
+      "citationCount": 23,
+      "authors": [
+        {
+          "authorId": "143620543",
+          "name": "Hajime Ono"
+        },
+        {
+          "authorId": "1477964506",
+          "name": "Tsubasa Takahashi"
+        }
+      ]
+    },
+    {
+      "paperId": "9f384ac5c8ce821f1103b79dbbd3b3f99c64b6f8",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2505-05707",
+        "ArXiv": "2505.05707",
+        "DOI": "10.48550/arXiv.2505.05707",
+        "CorpusId": 278481563
+      },
+      "url": "https://www.semanticscholar.org/paper/9f384ac5c8ce821f1103b79dbbd3b3f99c64b6f8",
+      "title": "Crowding Out The Noise: Algorithmic Collective Action Under Differential Privacy",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "referenceCount": 63,
+      "citationCount": 4,
+      "authors": [
+        {
+          "authorId": "2331509861",
+          "name": "Rushabh Solanki"
+        },
+        {
+          "authorId": "1417469573",
+          "name": "Meghana Bhange"
+        },
+        {
+          "authorId": "2279845359",
+          "name": "Ulrich Aïvodji"
+        },
+        {
+          "authorId": "2334359063",
+          "name": "Elliot Creager"
+        }
+      ]
+    },
+    {
+      "paperId": "026b49cbbe77c4918fca292fc51545d879576a01",
+      "externalIds": {
+        "DBLP": "journals/sigmod/Cormode23",
+        "DOI": "10.1145/3604437.3604461",
+        "CorpusId": 259112780
+      },
+      "url": "https://www.semanticscholar.org/paper/026b49cbbe77c4918fca292fc51545d879576a01",
+      "title": "Technical Perspective on 'R2T: Instance-optimal Truncation for Differentially Private Query Evaluation with Foreign Keys",
+      "venue": "SIGMOD record",
+      "year": 2023,
+      "referenceCount": 4,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "1709589",
+          "name": "Graham Cormode"
+        }
+      ]
+    },
+    {
+      "paperId": "31bef7484377065e11dc561bc3eaa55cc8dba074",
+      "externalIds": {
+        "DBLP": "journals/tifs/LuLXD25",
+        "DOI": "10.1109/TIFS.2024.3515814",
+        "CorpusId": 274661294
+      },
+      "url": "https://www.semanticscholar.org/paper/31bef7484377065e11dc561bc3eaa55cc8dba074",
+      "title": "Reinforcement Learning-Based Personalized Differentially Private Federated Learning",
+      "venue": "IEEE Transactions on Information Forensics and Security",
+      "year": 2025,
+      "referenceCount": 40,
+      "citationCount": 4,
+      "authors": [
+        {
+          "authorId": "47062683",
+          "name": "Xiaozhen Lu"
+        },
+        {
+          "authorId": "2335147029",
+          "name": "Zihan Liu"
+        },
+        {
+          "authorId": "2149552816",
+          "name": "Liang Xiao"
+        },
+        {
+          "authorId": "2256647671",
+          "name": "Huaiyu Dai"
+        }
+      ]
+    },
+    {
+      "paperId": "201ff688944c8b1015938ea9ebc75e95ad38437f",
+      "externalIds": {
+        "DBLP": "conf/sp/HodC25",
+        "ArXiv": "2405.00267",
+        "DOI": "10.1109/SP61157.2025.00101",
+        "CorpusId": 269484308
+      },
+      "url": "https://www.semanticscholar.org/paper/201ff688944c8b1015938ea9ebc75e95ad38437f",
+      "title": "Differentially Private Release of Israel's National Registry of Live Births",
+      "venue": "IEEE Symposium on Security and Privacy",
+      "year": 2024,
+      "referenceCount": 79,
+      "citationCount": 36,
+      "authors": [
+        {
+          "authorId": "1557572573",
+          "name": "Shlomi Hod"
+        },
+        {
+          "authorId": "2252768844",
+          "name": "R. Canetti"
+        }
+      ]
+    }
+  ]
+}

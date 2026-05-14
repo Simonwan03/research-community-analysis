@@ -1,0 +1,289 @@
+{
+  "total": 1312,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "3413af6c689eedb4fe3e7d6c5dc626647976307a",
+      "externalIds": {
+        "DBLP": "conf/icml/LucicBZK16",
+        "ArXiv": "1605.09619",
+        "MAG": "2963935045",
+        "CorpusId": 2109379
+      },
+      "url": "https://www.semanticscholar.org/paper/3413af6c689eedb4fe3e7d6c5dc626647976307a",
+      "title": "Horizontally Scalable Submodular Maximization",
+      "venue": "International Conference on Machine Learning",
+      "year": 2016,
+      "referenceCount": 18,
+      "citationCount": 8,
+      "authors": [
+        {
+          "authorId": "34302129",
+          "name": "M. Lučić"
+        },
+        {
+          "authorId": "1936951",
+          "name": "Olivier Bachem"
+        },
+        {
+          "authorId": "1724391",
+          "name": "Morteza Zadimoghaddam"
+        },
+        {
+          "authorId": "145343838",
+          "name": "Andreas Krause"
+        }
+      ]
+    },
+    {
+      "paperId": "04817a5a0d6b5576113cb6f337d4f6b72376e811",
+      "externalIds": {
+        "ArXiv": "1606.00389",
+        "DBLP": "journals/corr/ZhouB16a",
+        "MAG": "2416514130",
+        "CorpusId": 15567746
+      },
+      "url": "https://www.semanticscholar.org/paper/04817a5a0d6b5576113cb6f337d4f6b72376e811",
+      "title": "Stream Clipper: Scalable Submodular Maximization on Stream",
+      "venue": "arXiv.org",
+      "year": 2016,
+      "referenceCount": 26,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "1805655",
+          "name": "Tianyi Zhou"
+        },
+        {
+          "authorId": "1748118",
+          "name": "J. Bilmes"
+        }
+      ]
+    },
+    {
+      "paperId": "a5515c517b08d120bb8e9ebfad36cccac4c6d4cd",
+      "externalIds": {
+        "ArXiv": "2604.03419",
+        "CorpusId": 287200336
+      },
+      "url": "https://www.semanticscholar.org/paper/a5515c517b08d120bb8e9ebfad36cccac4c6d4cd",
+      "title": "Adaptive Threshold-Driven Continuous Greedy Method for Scalable Submodular Optimization",
+      "venue": "",
+      "year": 2026,
+      "referenceCount": 25,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2292201591",
+          "name": "M. Rostami"
+        },
+        {
+          "authorId": "2324058735",
+          "name": "S. S. Kia"
+        }
+      ]
+    },
+    {
+      "paperId": "7791fd277c7c7d984bb55cd3d0cfaec6b0b96075",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2601-22584",
+        "ArXiv": "2601.22584",
+        "DOI": "10.48550/arXiv.2601.22584",
+        "CorpusId": 285241698
+      },
+      "url": "https://www.semanticscholar.org/paper/7791fd277c7c7d984bb55cd3d0cfaec6b0b96075",
+      "title": "Scalable Fair Influence Blocking Maximization via Approximately Monotonic Submodular Optimization",
+      "venue": "arXiv.org",
+      "year": 2026,
+      "referenceCount": 29,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2383004914",
+          "name": "Qiangpeng Fang"
+        },
+        {
+          "authorId": "2393369270",
+          "name": "Jilong Shi"
+        },
+        {
+          "authorId": "51115491",
+          "name": "Xiaobin Rui"
+        },
+        {
+          "authorId": "2244529752",
+          "name": "Jian Zhang"
+        },
+        {
+          "authorId": "2337776293",
+          "name": "Zhixiao Wang"
+        }
+      ]
+    },
+    {
+      "paperId": "56dc62b2b892d31f5061f251695014813f336dc5",
+      "externalIds": {
+        "ArXiv": "2507.13834",
+        "DBLP": "journals/corr/abs-2507-13834",
+        "DOI": "10.48550/arXiv.2507.13834",
+        "CorpusId": 280048515
+      },
+      "url": "https://www.semanticscholar.org/paper/56dc62b2b892d31f5061f251695014813f336dc5",
+      "title": "Scalable Submodular Policy Optimization via Pruned Submodularity Graph",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "referenceCount": 31,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2372252069",
+          "name": "A. Anand"
+        },
+        {
+          "authorId": "2193043793",
+          "name": "Suman Banerjee"
+        },
+        {
+          "authorId": "2280066933",
+          "name": "Dildar Ali"
+        }
+      ]
+    },
+    {
+      "paperId": "fcbfb0435dbec9641ab84dd9f589cd2e042efd2e",
+      "externalIds": {
+        "ArXiv": "2505.09525",
+        "DBLP": "conf/icml/Spaeh025",
+        "DOI": "10.48550/arXiv.2505.09525",
+        "CorpusId": 278602613
+      },
+      "url": "https://www.semanticscholar.org/paper/fcbfb0435dbec9641ab84dd9f589cd2e042efd2e",
+      "title": "An Asymptotically Optimal Approximation Algorithm for Multiobjective Submodular Maximization at Scale",
+      "venue": "International Conference on Machine Learning",
+      "year": 2025,
+      "referenceCount": 55,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "1394839681",
+          "name": "Fabian Spaeh"
+        },
+        {
+          "authorId": "2282467845",
+          "name": "Atsushi Miyauchi"
+        }
+      ]
+    },
+    {
+      "paperId": "9a316001497c3ed0a20077ae293e907a929c56eb",
+      "externalIds": {
+        "ArXiv": "2206.09563",
+        "DBLP": "journals/jair/ChenDK24",
+        "DOI": "10.1613/jair.1.15484",
+        "CorpusId": 256808759
+      },
+      "url": "https://www.semanticscholar.org/paper/9a316001497c3ed0a20077ae293e907a929c56eb",
+      "title": "Scalable Distributed Algorithms for Size-Constrained Submodular Maximization in the MapReduce and Adaptive Complexity Models",
+      "venue": "Journal of Artificial Intelligence Research",
+      "year": 2022,
+      "referenceCount": 51,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2069141730",
+          "name": "Tonmoy Dey"
+        },
+        {
+          "authorId": "2116664331",
+          "name": "Yixing Chen"
+        },
+        {
+          "authorId": "2154609",
+          "name": "Alan Kuhnle"
+        }
+      ]
+    },
+    {
+      "paperId": "64bbbc0d815d1c2fbfb67b3805422f30f7b397f2",
+      "externalIds": {
+        "DBLP": "conf/kdd/ChenT25",
+        "DOI": "10.1145/3690624.3709190",
+        "CorpusId": 277581571
+      },
+      "url": "https://www.semanticscholar.org/paper/64bbbc0d815d1c2fbfb67b3805422f30f7b397f2",
+      "title": "Scalable Link Recommendation for Influence Maximization",
+      "venue": "Knowledge Discovery and Data Mining",
+      "year": 2025,
+      "referenceCount": 42,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2288251385",
+          "name": "Xiaolong Chen"
+        },
+        {
+          "authorId": "2285394426",
+          "name": "Jing Tang"
+        }
+      ]
+    },
+    {
+      "paperId": "62599f741551c1f8a12336714f6cd7d4a7004e54",
+      "externalIds": {
+        "MAG": "2804439311",
+        "DBLP": "conf/icml/0001ZK18",
+        "CorpusId": 51880773
+      },
+      "url": "https://www.semanticscholar.org/paper/62599f741551c1f8a12336714f6cd7d4a7004e54",
+      "title": "Scalable Deletion-Robust Submodular Maximization: Data Summarization with Privacy and Fairness Constraints",
+      "venue": "International Conference on Machine Learning",
+      "year": 2018,
+      "referenceCount": 35,
+      "citationCount": 64,
+      "authors": [
+        {
+          "authorId": "145735687",
+          "name": "Ehsan Kazemi"
+        },
+        {
+          "authorId": "1724391",
+          "name": "Morteza Zadimoghaddam"
+        },
+        {
+          "authorId": "1697131",
+          "name": "Amin Karbasi"
+        }
+      ]
+    },
+    {
+      "paperId": "2ba38bba199405e4a6194e5526f458b4e1936024",
+      "externalIds": {
+        "DBLP": "conf/icc/YuHS19",
+        "MAG": "2958981029",
+        "DOI": "10.1109/ICC.2019.8761979",
+        "CorpusId": 198169066
+      },
+      "url": "https://www.semanticscholar.org/paper/2ba38bba199405e4a6194e5526f458b4e1936024",
+      "title": "Stochastic Submodular Maximization for Scalable Network Adaptation in Dense Cloud-RAN",
+      "venue": "ICC 2019 - 2019 IEEE International Conference on Communications (ICC)",
+      "year": 2019,
+      "referenceCount": 20,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2114076598",
+          "name": "Kaiqiang Yu"
+        },
+        {
+          "authorId": "34898117",
+          "name": "Jinglian He"
+        },
+        {
+          "authorId": "1754997",
+          "name": "Yuanming Shi"
+        }
+      ]
+    }
+  ]
+}

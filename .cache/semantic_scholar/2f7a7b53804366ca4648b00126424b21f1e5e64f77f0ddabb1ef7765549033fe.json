@@ -1,0 +1,372 @@
+{
+  "total": 30934,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "c99864cc50d26172e5db49c73eb5a1af96a23cca",
+      "externalIds": {
+        "DBLP": "conf/icml/HeLMWSYR17",
+        "MAG": "2739547565",
+        "CorpusId": 30001668
+      },
+      "url": "https://www.semanticscholar.org/paper/c99864cc50d26172e5db49c73eb5a1af96a23cca",
+      "title": "Kernelized Support Tensor Machines",
+      "venue": "International Conference on Machine Learning",
+      "year": 2017,
+      "referenceCount": 35,
+      "citationCount": 48,
+      "authors": [
+        {
+          "authorId": "40901820",
+          "name": "Lifang He"
+        },
+        {
+          "authorId": "2828701",
+          "name": "Chun-Ta Lu"
+        },
+        {
+          "authorId": "2068988549",
+          "name": "Guixiang Ma"
+        },
+        {
+          "authorId": "2151226033",
+          "name": "Shen Wang"
+        },
+        {
+          "authorId": "1687690",
+          "name": "L. Shen"
+        },
+        {
+          "authorId": "144019071",
+          "name": "Philip S. Yu"
+        },
+        {
+          "authorId": "1679791",
+          "name": "A. Ragin"
+        }
+      ]
+    },
+    {
+      "paperId": "0f8af08e554fdaaf64e3605cd3f50c7b601abd7e",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2001-00360",
+        "ArXiv": "2001.00360",
+        "MAG": "2997064740",
+        "DOI": "10.1016/j.patcog.2021.108337",
+        "CorpusId": 209531869
+      },
+      "url": "https://www.semanticscholar.org/paper/0f8af08e554fdaaf64e3605cd3f50c7b601abd7e",
+      "title": "Kernelized Support Tensor Train Machines",
+      "venue": "Pattern Recognition",
+      "year": 2020,
+      "referenceCount": 47,
+      "citationCount": 34,
+      "authors": [
+        {
+          "authorId": "2110240849",
+          "name": "Cong Chen"
+        },
+        {
+          "authorId": "1423653737",
+          "name": "Kim Batselier"
+        },
+        {
+          "authorId": "48729651",
+          "name": "Wenjian Yu"
+        },
+        {
+          "authorId": "145837604",
+          "name": "N. Wong"
+        }
+      ]
+    },
+    {
+      "paperId": "5d8d49b823ff465ec6d9905fcce0fb6aac1234a9",
+      "externalIds": {
+        "DBLP": "journals/lgrs/RenHHZYY24",
+        "DOI": "10.1109/LGRS.2024.3489434",
+        "CorpusId": 273765707
+      },
+      "url": "https://www.semanticscholar.org/paper/5d8d49b823ff465ec6d9905fcce0fb6aac1234a9",
+      "title": "PolSAR Ship Detection Based on Kernelized Support Tensor Machine",
+      "venue": "IEEE Geoscience and Remote Sensing Letters",
+      "year": 2024,
+      "referenceCount": 0,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2304829352",
+          "name": "Dawei Ren"
+        },
+        {
+          "authorId": "2304902677",
+          "name": "Songli Han"
+        },
+        {
+          "authorId": "2260698594",
+          "name": "Qianqian Han"
+        },
+        {
+          "authorId": "2274460564",
+          "name": "Zhenhua Zhang"
+        },
+        {
+          "authorId": "3046920",
+          "name": "Junjun Yin"
+        },
+        {
+          "authorId": "2292687251",
+          "name": "Jian Yang"
+        }
+      ]
+    },
+    {
+      "paperId": "0c61bbc5298c9983a10db11ee55d8aa59829b066",
+      "externalIds": {
+        "DOI": "10.1109/ICEITSA54226.2021.00039",
+        "CorpusId": 246870624
+      },
+      "url": "https://www.semanticscholar.org/paper/0c61bbc5298c9983a10db11ee55d8aa59829b066",
+      "title": "A Kernelized Support Tensor-Ring Machine for High-Dimensional Data Classification",
+      "venue": "2021 International Conference on Electronic Information Technology and Smart Agriculture (ICEITSA)",
+      "year": 2021,
+      "referenceCount": 0,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "1845887946",
+          "name": "Xiaowu Deng"
+        },
+        {
+          "authorId": "2118758328",
+          "name": "Yuanquan Shi"
+        },
+        {
+          "authorId": "1752878049",
+          "name": "Dunhong Yao"
+        },
+        {
+          "authorId": "2357863578",
+          "name": "Xiyan Tang"
+        },
+        {
+          "authorId": "2478571",
+          "name": "Chunqiao Mi"
+        },
+        {
+          "authorId": "2154888324",
+          "name": "Jianhua Xiao"
+        },
+        {
+          "authorId": "2108303911",
+          "name": "Xian Zhang"
+        }
+      ]
+    },
+    {
+      "paperId": "a7cff8cc8e7746bfd4c0b4f58a9919b99204b7c1",
+      "externalIds": {
+        "ArXiv": "2302.08134",
+        "DBLP": "journals/corr/abs-2302-08134",
+        "DOI": "10.48550/arXiv.2302.08134",
+        "CorpusId": 256901186
+      },
+      "url": "https://www.semanticscholar.org/paper/a7cff8cc8e7746bfd4c0b4f58a9919b99204b7c1",
+      "title": "A weighted subspace exponential kernel for support tensor machines",
+      "venue": "arXiv.org",
+      "year": 2023,
+      "referenceCount": 39,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "103881829",
+          "name": "K. Kour"
+        },
+        {
+          "authorId": "6597626",
+          "name": "S. Dolgov"
+        },
+        {
+          "authorId": "144175464",
+          "name": "P. Benner"
+        },
+        {
+          "authorId": "1961977",
+          "name": "M. Stoll"
+        },
+        {
+          "authorId": "2069081432",
+          "name": "Max Pfeffer"
+        }
+      ]
+    },
+    {
+      "paperId": "eac11b45bea387257a6474171d1cbbad3383a2e8",
+      "externalIds": {
+        "MAG": "3132447096",
+        "DOI": "10.1109/TII.2021.3061559",
+        "CorpusId": 233942582
+      },
+      "url": "https://www.semanticscholar.org/paper/eac11b45bea387257a6474171d1cbbad3383a2e8",
+      "title": "Weighted Support Tensor Machines for Human Activity Recognition with Smartphone Sensors",
+      "venue": "",
+      "year": 2021,
+      "referenceCount": 0,
+      "citationCount": 20,
+      "authors": [
+        {
+          "authorId": "2125040533",
+          "name": "Zhenchao Ma"
+        },
+        {
+          "authorId": "1690341",
+          "name": "L. Yang"
+        },
+        {
+          "authorId": "145239453",
+          "name": "Man Lin"
+        },
+        {
+          "authorId": "2108076070",
+          "name": "Qingchen Zhang"
+        },
+        {
+          "authorId": "144568969",
+          "name": "Cheng Dai"
+        }
+      ]
+    },
+    {
+      "paperId": "0cdcbf831defd6d1b6e1148c53734134bfb8f2d2",
+      "externalIds": {
+        "ArXiv": "2405.02630",
+        "DBLP": "journals/mlst/ChenLWSWWCYL25",
+        "DOI": "10.1088/2632-2153/adb4ba",
+        "CorpusId": 269605829
+      },
+      "url": "https://www.semanticscholar.org/paper/0cdcbf831defd6d1b6e1148c53734134bfb8f2d2",
+      "title": "Validating large-scale quantum machine learning: efficient simulation of quantum support vector machines using tensor networks",
+      "venue": "Machine Learning: Science and Technology",
+      "year": 2024,
+      "referenceCount": 36,
+      "citationCount": 30,
+      "authors": [
+        {
+          "authorId": "2300214121",
+          "name": "Kuan-Cheng Chen"
+        },
+        {
+          "authorId": "2300417022",
+          "name": "Tai-Yue Li"
+        },
+        {
+          "authorId": "2290928580",
+          "name": "Yun-Yuan Wang"
+        },
+        {
+          "authorId": "2300098099",
+          "name": "Simon See"
+        },
+        {
+          "authorId": "2302465046",
+          "name": "Chun-Chieh Wang"
+        },
+        {
+          "authorId": "2297769609",
+          "name": "Robert Wille"
+        },
+        {
+          "authorId": "2300338621",
+          "name": "Nan-Yow Chen"
+        },
+        {
+          "authorId": "2326252727",
+          "name": "An-Cheng Yang"
+        },
+        {
+          "authorId": "2288911700",
+          "name": "Chun-Yu Lin"
+        }
+      ]
+    },
+    {
+      "paperId": "a931e3449bc0cebc0ca071f768f01c107475e028",
+      "externalIds": {
+        "DOI": "10.4310/23-sii796",
+        "CorpusId": 267394406
+      },
+      "url": "https://www.semanticscholar.org/paper/a931e3449bc0cebc0ca071f768f01c107475e028",
+      "title": "Density-convoluted tensor support vector machines",
+      "venue": "Statistics and its Interface",
+      "year": 2024,
+      "referenceCount": 49,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2315951641",
+          "name": "Boxiang Wang"
+        },
+        {
+          "authorId": "2144765046",
+          "name": "Le Zhou"
+        },
+        {
+          "authorId": "2341189250",
+          "name": "Jian Yang"
+        },
+        {
+          "authorId": "2244630318",
+          "name": "Qing Mai"
+        }
+      ]
+    },
+    {
+      "paperId": "3ace1d1b06db1e618c4ebfdf005412d7e5d8bd18",
+      "externalIds": {
+        "MAG": "3090161454",
+        "DBLP": "conf/ijcnn/RazzakK20",
+        "DOI": "10.1109/IJCNN48605.2020.9207429",
+        "CorpusId": 221559428
+      },
+      "url": "https://www.semanticscholar.org/paper/3ace1d1b06db1e618c4ebfdf005412d7e5d8bd18",
+      "title": "One-Class Support Tensor Machines with Bounded Hinge Loss Function for Anomaly Detection",
+      "venue": "IEEE International Joint Conference on Neural Network",
+      "year": 2020,
+      "referenceCount": 39,
+      "citationCount": 5,
+      "authors": [
+        {
+          "authorId": "1630421985",
+          "name": "Imran Razzak"
+        },
+        {
+          "authorId": "2073311805",
+          "name": "T. M. Khan"
+        }
+      ]
+    },
+    {
+      "paperId": "ca941039c60b9dd1ba5eb1df39a966cbc09ab115",
+      "externalIds": {
+        "MAG": "3080655271",
+        "DBLP": "journals/tnn/Lian21",
+        "DOI": "10.1109/TNNLS.2020.3015477",
+        "CorpusId": 221306100,
+        "PubMed": "32833645"
+      },
+      "url": "https://www.semanticscholar.org/paper/ca941039c60b9dd1ba5eb1df39a966cbc09ab115",
+      "title": "Learning Rate for Convex Support Tensor Machines",
+      "venue": "IEEE Transactions on Neural Networks and Learning Systems",
+      "year": 2020,
+      "referenceCount": 0,
+      "citationCount": 8,
+      "authors": [
+        {
+          "authorId": "50427496",
+          "name": "Heng Lian"
+        }
+      ]
+    }
+  ]
+}

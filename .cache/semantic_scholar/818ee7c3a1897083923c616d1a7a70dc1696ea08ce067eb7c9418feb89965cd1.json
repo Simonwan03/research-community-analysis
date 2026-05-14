@@ -1,0 +1,272 @@
+{
+  "total": 15706,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "9ff595f7f26b3becfc86d7d38cbdb0dd78f632d1",
+      "externalIds": {
+        "MAG": "2962709699",
+        "ArXiv": "1602.06606",
+        "DBLP": "conf/icml/MelnykB16",
+        "CorpusId": 14779896
+      },
+      "url": "https://www.semanticscholar.org/paper/9ff595f7f26b3becfc86d7d38cbdb0dd78f632d1",
+      "title": "Estimating Structured Vector Autoregressive Models",
+      "venue": "International Conference on Machine Learning",
+      "year": 2016,
+      "referenceCount": 43,
+      "citationCount": 60,
+      "authors": [
+        {
+          "authorId": "2144953189",
+          "name": "Igor Melnyk"
+        },
+        {
+          "authorId": "144205696",
+          "name": "A. Banerjee"
+        }
+      ]
+    },
+    {
+      "paperId": "8ad7af4da98983b7d56a01b69f6743534b0d2f1e",
+      "externalIds": {
+        "DBLP": "conf/nips/LvCL21",
+        "CorpusId": 245116847
+      },
+      "url": "https://www.semanticscholar.org/paper/8ad7af4da98983b7d56a01b69f6743534b0d2f1e",
+      "title": "Linear Convergence of Gradient Methods for Estimating Structured Transition Matrices in High-dimensional Vector Autoregressive Models",
+      "venue": "Neural Information Processing Systems",
+      "year": 2021,
+      "referenceCount": 51,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "2090383772",
+          "name": "Xiao Lv"
+        },
+        {
+          "authorId": "12662589",
+          "name": "Weiliang Cui"
+        },
+        {
+          "authorId": "2108353212",
+          "name": "Yulong Liu"
+        }
+      ]
+    },
+    {
+      "paperId": "c73ed91a0218ea8b1d5482ac9cbeb7691641fffd",
+      "externalIds": {
+        "MAG": "2016920816",
+        "DOI": "10.1016/S0165-1889(02)00105-7",
+        "CorpusId": 121241937
+      },
+      "url": "https://www.semanticscholar.org/paper/c73ed91a0218ea8b1d5482ac9cbeb7691641fffd",
+      "title": "Estimating seemingly unrelated regression models with vector autoregressive disturbances",
+      "venue": "",
+      "year": 2003,
+      "referenceCount": 27,
+      "citationCount": 15,
+      "authors": [
+        {
+          "authorId": "2975742",
+          "name": "P. Foschi"
+        },
+        {
+          "authorId": "3075396",
+          "name": "E. Kontoghiorghes"
+        }
+      ]
+    },
+    {
+      "paperId": "c790fb04da8b27a8f777fae719f704cdb5fb06c4",
+      "externalIds": {
+        "MAG": "2907768713",
+        "ArXiv": "1812.03568",
+        "DBLP": "journals/tsp/BasuLM19",
+        "DOI": "10.1109/TSP.2018.2887401",
+        "CorpusId": 58011151
+      },
+      "url": "https://www.semanticscholar.org/paper/c790fb04da8b27a8f777fae719f704cdb5fb06c4",
+      "title": "Low Rank and Structured Modeling of High-Dimensional Vector Autoregressions",
+      "venue": "IEEE Transactions on Signal Processing",
+      "year": 2018,
+      "referenceCount": 40,
+      "citationCount": 79,
+      "authors": [
+        {
+          "authorId": "3352106",
+          "name": "Sumanta Basu"
+        },
+        {
+          "authorId": "2108814672",
+          "name": "Xianqi Li"
+        },
+        {
+          "authorId": "1742426",
+          "name": "G. Michailidis"
+        }
+      ]
+    },
+    {
+      "paperId": "0c108cba4f759c4faea134a0598c6e27f2e320a1",
+      "externalIds": {
+        "MAG": "1840278770",
+        "DOI": "10.1111/jtsa.12001",
+        "CorpusId": 17352725
+      },
+      "url": "https://www.semanticscholar.org/paper/0c108cba4f759c4faea134a0598c6e27f2e320a1",
+      "title": "Estimation of vector error correction models with mixed‐frequency data",
+      "venue": "",
+      "year": 2013,
+      "referenceCount": 52,
+      "citationCount": 33,
+      "authors": [
+        {
+          "authorId": "39604322",
+          "name": "B. Seong"
+        },
+        {
+          "authorId": "145449661",
+          "name": "Sung K. Ahn"
+        },
+        {
+          "authorId": "2018187",
+          "name": "P. Zadrozny"
+        }
+      ]
+    },
+    {
+      "paperId": "a8f5c43a88d8b41101602069d6ef5772ccf0e5b1",
+      "externalIds": {
+        "DBLP": "journals/toms/Jonasson08",
+        "MAG": "2033460334",
+        "DOI": "10.1145/1377603.1377609",
+        "CorpusId": 6712141
+      },
+      "url": "https://www.semanticscholar.org/paper/a8f5c43a88d8b41101602069d6ef5772ccf0e5b1",
+      "title": "Algorithm 878: Exact VARMA likelihood and its gradient for complete and incomplete data with Matlab",
+      "venue": "TOMS",
+      "year": 2008,
+      "referenceCount": 9,
+      "citationCount": 7,
+      "authors": [
+        {
+          "authorId": "144812231",
+          "name": "K. Jónasson"
+        }
+      ]
+    },
+    {
+      "paperId": "5f78dd5b4b1c8ff97315a19f03d3f2bfbbee619c",
+      "externalIds": {
+        "MAG": "3044171821",
+        "DOI": "10.2139/ssrn.3660950",
+        "CorpusId": 226413838
+      },
+      "url": "https://www.semanticscholar.org/paper/5f78dd5b4b1c8ff97315a19f03d3f2bfbbee619c",
+      "title": "Estimating U.S. Housing Price Network Connectedness: Evidence from Dynamic Elastic Net, Lasso, and Ridge Vector Autoregressive Models",
+      "venue": "Social Science Research Network",
+      "year": 2023,
+      "referenceCount": 49,
+      "citationCount": 28,
+      "authors": [
+        {
+          "authorId": "121574699",
+          "name": "David Gabauer"
+        },
+        {
+          "authorId": "47495923",
+          "name": "Rangan Gupta"
+        },
+        {
+          "authorId": "82879953",
+          "name": "Hardik A. Marfatia"
+        },
+        {
+          "authorId": "2274755893",
+          "name": "S. Miller"
+        }
+      ]
+    },
+    {
+      "paperId": "d4c0d59bac327c597227ff3542dfbc26dd199105",
+      "externalIds": {
+        "ArXiv": "1711.05204",
+        "MAG": "2982519896",
+        "DOI": "10.1080/00273171.2020.1743630",
+        "CorpusId": 204937995,
+        "PubMed": "32324066"
+      },
+      "url": "https://www.semanticscholar.org/paper/d4c0d59bac327c597227ff3542dfbc26dd199105",
+      "title": "A Tutorial on Estimating Time-Varying Vector Autoregressive Models",
+      "venue": "Multivariate Behavioral Research",
+      "year": 2017,
+      "referenceCount": 65,
+      "citationCount": 155,
+      "authors": [
+        {
+          "authorId": "5590544",
+          "name": "Jonas M. B. Haslbeck"
+        },
+        {
+          "authorId": "1935592",
+          "name": "L. Bringmann"
+        },
+        {
+          "authorId": "2936830",
+          "name": "L. Waldorp"
+        }
+      ]
+    },
+    {
+      "paperId": "8bcd20fde539911e70cd01b0d223e1378f55e9e7",
+      "externalIds": {
+        "ArXiv": "2001.02250",
+        "MAG": "3134382996",
+        "DOI": "10.1007/s13253-021-00444-4",
+        "CorpusId": 210064353
+      },
+      "url": "https://www.semanticscholar.org/paper/8bcd20fde539911e70cd01b0d223e1378f55e9e7",
+      "title": "Vector Autoregressive Models with Spatially Structured Coefficients for Time Series on a Spatial Grid",
+      "venue": "Journal of Agricultural Biological and Environmental Statistics",
+      "year": 2020,
+      "referenceCount": 42,
+      "citationCount": 7,
+      "authors": [
+        {
+          "authorId": "2115359107",
+          "name": "Yuan Yan"
+        },
+        {
+          "authorId": "2154486009",
+          "name": "Hsin‐Cheng Huang"
+        },
+        {
+          "authorId": "1877479",
+          "name": "M. Genton"
+        }
+      ]
+    },
+    {
+      "paperId": "2c43b45e7dc0a3e8293d77509f56935c4822dcd5",
+      "externalIds": {
+        "DOI": "10.7868/s3034617725020078",
+        "CorpusId": 283212009
+      },
+      "url": "https://www.semanticscholar.org/paper/2c43b45e7dc0a3e8293d77509f56935c4822dcd5",
+      "title": "Regional effects of fiscal policy: Analysis with spatial vector autoregressive models",
+      "venue": "Экономика и математические методы / Economics and the Mathematical Methods",
+      "year": 2025,
+      "referenceCount": 0,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2393755109",
+          "name": "Artem Demyanenko"
+        }
+      ]
+    }
+  ]
+}

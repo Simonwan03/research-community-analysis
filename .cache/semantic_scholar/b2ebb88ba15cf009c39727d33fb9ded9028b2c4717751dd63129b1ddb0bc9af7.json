@@ -1,0 +1,71 @@
+{
+  "total": 2,
+  "offset": 0,
+  "data": [
+    {
+      "paperId": "3d6e308d2f947e5395b1b97b0efe2a4a0d6bb056",
+      "externalIds": {
+        "MAG": "2804342876",
+        "DBLP": "conf/icml/TaoBZ18",
+        "CorpusId": 51882357
+      },
+      "url": "https://www.semanticscholar.org/paper/3d6e308d2f947e5395b1b97b0efe2a4a0d6bb056",
+      "title": "Best Arm Identification in Linear Bandits with Linear Dimension Dependency",
+      "venue": "International Conference on Machine Learning",
+      "year": 2018,
+      "referenceCount": 32,
+      "citationCount": 71,
+      "authors": [
+        {
+          "authorId": "2053905021",
+          "name": "Chao Tao"
+        },
+        {
+          "authorId": "144635079",
+          "name": "Saúl A. Blanco"
+        },
+        {
+          "authorId": "2046913376",
+          "name": "Yuanshuo Zhou"
+        }
+      ]
+    },
+    {
+      "paperId": "6bf5c5a62a984e112b331dc1b538682656899c5d",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2307-15154",
+        "ArXiv": "2307.15154",
+        "DOI": "10.48550/arXiv.2307.15154",
+        "CorpusId": 260316244
+      },
+      "url": "https://www.semanticscholar.org/paper/6bf5c5a62a984e112b331dc1b538682656899c5d",
+      "title": "A/B Testing and Best-arm Identification for Linear Bandits with Robustness to Non-stationarity",
+      "venue": "International Conference on Artificial Intelligence and Statistics",
+      "year": 2023,
+      "referenceCount": 47,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "71108546",
+          "name": "Zhihan Xiong"
+        },
+        {
+          "authorId": "2091819229",
+          "name": "Romain Camilleri"
+        },
+        {
+          "authorId": "144651919",
+          "name": "Maryam Fazel"
+        },
+        {
+          "authorId": "34939951",
+          "name": "Lalit P. Jain"
+        },
+        {
+          "authorId": "40566417",
+          "name": "Kevin G. Jamieson"
+        }
+      ]
+    }
+  ]
+}

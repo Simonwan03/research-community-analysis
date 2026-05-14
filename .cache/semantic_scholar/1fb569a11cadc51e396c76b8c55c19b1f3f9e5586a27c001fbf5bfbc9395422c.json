@@ -1,0 +1,229 @@
+{
+  "total": 7,
+  "offset": 0,
+  "data": [
+    {
+      "paperId": "4ad915a10be9d443206e8ae707d64638be604f8a",
+      "externalIds": {
+        "MAG": "1825821140",
+        "DBLP": "conf/icml/PlessisNS15",
+        "CorpusId": 15313053
+      },
+      "url": "https://www.semanticscholar.org/paper/4ad915a10be9d443206e8ae707d64638be604f8a",
+      "title": "Convex Formulation for Learning from Positive and Unlabeled Data",
+      "venue": "International Conference on Machine Learning",
+      "year": 2015,
+      "referenceCount": 23,
+      "citationCount": 371,
+      "authors": [
+        {
+          "authorId": "3277454",
+          "name": "M. C. D. Plessis"
+        },
+        {
+          "authorId": "47537639",
+          "name": "Gang Niu"
+        },
+        {
+          "authorId": "67154907",
+          "name": "Masashi Sugiyama"
+        }
+      ]
+    },
+    {
+      "paperId": "25354df2930ba12b36e58a3bf059db7a314bd740",
+      "externalIds": {
+        "MAG": "2788765230",
+        "DBLP": "journals/nn/BaoSSS18",
+        "DOI": "10.1016/j.neunet.2018.05.001",
+        "CorpusId": 3377337,
+        "PubMed": "29804041"
+      },
+      "url": "https://www.semanticscholar.org/paper/25354df2930ba12b36e58a3bf059db7a314bd740",
+      "title": "Convex formulation of multiple instance learning from positive and unlabeled bags",
+      "venue": "Neural Networks",
+      "year": 2017,
+      "referenceCount": 24,
+      "citationCount": 20,
+      "authors": [
+        {
+          "authorId": "2052378544",
+          "name": "Han Bao"
+        },
+        {
+          "authorId": "151357825",
+          "name": "Tomoya Sakai"
+        },
+        {
+          "authorId": "73355331",
+          "name": "Issei Sato"
+        },
+        {
+          "authorId": "67154907",
+          "name": "Masashi Sugiyama"
+        }
+      ]
+    },
+    {
+      "paperId": "bc8ddfe564994aec0ec60a4503c4b59c2fdfc76b",
+      "externalIds": {
+        "DBLP": "journals/ml/BacaicoaBarberC25",
+        "DOI": "10.1007/s10994-025-06841-x",
+        "CorpusId": 280746856
+      },
+      "url": "https://www.semanticscholar.org/paper/bc8ddfe564994aec0ec60a4503c4b59c2fdfc76b",
+      "title": "A unified view of forward and backward losses for learning from weak labels",
+      "venue": "Machine-mediated learning",
+      "year": 2025,
+      "referenceCount": 57,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2126917745",
+          "name": "Daniel Bacaicoa-Barber"
+        },
+        {
+          "authorId": "1397209264",
+          "name": "Jesús Cid-Sueiro"
+        }
+      ]
+    },
+    {
+      "paperId": "9a71558ab1b1f938bd96aa4d8d016f60692289bc",
+      "externalIds": {
+        "DBLP": "conf/ijcai/Chang0Z20",
+        "MAG": "3035218163",
+        "DOI": "10.24963/ijcai.2020/279",
+        "CorpusId": 220484215
+      },
+      "url": "https://www.semanticscholar.org/paper/9a71558ab1b1f938bd96aa4d8d016f60692289bc",
+      "title": "Positive Unlabeled Learning with Class-prior Approximation",
+      "venue": "International Joint Conference on Artificial Intelligence",
+      "year": 2020,
+      "referenceCount": 29,
+      "citationCount": 24,
+      "authors": [
+        {
+          "authorId": "30947218",
+          "name": "Shizhen Chang"
+        },
+        {
+          "authorId": "145728792",
+          "name": "Bo Du"
+        },
+        {
+          "authorId": null,
+          "name": "Liangpei Zhang"
+        }
+      ]
+    },
+    {
+      "paperId": "b3da7e39237e2d46f56ec7e2633cd6c2a6515438",
+      "externalIds": {
+        "DBLP": "journals/tist/ZhouSWWXL24",
+        "DOI": "10.1145/3696460",
+        "CorpusId": 273020312
+      },
+      "url": "https://www.semanticscholar.org/paper/b3da7e39237e2d46f56ec7e2633cd6c2a6515438",
+      "title": "Multiple-Instance Learning from Pairwise Comparison Bags",
+      "venue": "ACM Transactions on Intelligent Systems and Technology",
+      "year": 2024,
+      "referenceCount": 49,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2315253327",
+          "name": "Shengjie Zhou"
+        },
+        {
+          "authorId": "1491237082",
+          "name": "Senlin Shu"
+        },
+        {
+          "authorId": "2108909691",
+          "name": "Haobo Wang"
+        },
+        {
+          "authorId": "2325203755",
+          "name": "Hongxin Wei"
+        },
+        {
+          "authorId": "2120489252",
+          "name": "Tao Xiang"
+        },
+        {
+          "authorId": "2323522319",
+          "name": "Beibei Li"
+        }
+      ]
+    },
+    {
+      "paperId": "0c3a90f602f0ae6c7ccccf57971e97291893581a",
+      "externalIds": {
+        "ArXiv": "2505.21182",
+        "DBLP": "journals/corr/abs-2505-21182",
+        "DOI": "10.48550/arXiv.2505.21182",
+        "CorpusId": 278910630
+      },
+      "url": "https://www.semanticscholar.org/paper/0c3a90f602f0ae6c7ccccf57971e97291893581a",
+      "title": "Learning What to Do and What Not To Do: Offline Imitation from Expert and Undesirable Demonstrations",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "referenceCount": 44,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2275053728",
+          "name": "Huy Hoang"
+        },
+        {
+          "authorId": "2276424295",
+          "name": "Tien Mai"
+        },
+        {
+          "authorId": "2293479395",
+          "name": "Pradeep Varakantham"
+        },
+        {
+          "authorId": "24907680",
+          "name": "Tanvi Verma"
+        }
+      ]
+    },
+    {
+      "paperId": "1d345d406b94cbc4a3e65fb192536f18c4bda7b1",
+      "externalIds": {
+        "MAG": "2949658187",
+        "CorpusId": 196189077
+      },
+      "url": "https://www.semanticscholar.org/paper/1d345d406b94cbc4a3e65fb192536f18c4bda7b1",
+      "title": "Kernel Learning: Automatic Selection of Optimal Kernels",
+      "venue": "Neural Information Processing Systems",
+      "year": 2008,
+      "referenceCount": 0,
+      "citationCount": 29,
+      "authors": [
+        {
+          "authorId": "145115014",
+          "name": "Corinna Cortes"
+        },
+        {
+          "authorId": "1708497",
+          "name": "A. Gretton"
+        },
+        {
+          "authorId": "1725533",
+          "name": "Gert R. G. Lanckriet"
+        },
+        {
+          "authorId": "81080659",
+          "name": "M. Mohri"
+        },
+        {
+          "authorId": "2435268",
+          "name": "A. Rostamizadeh"
+        }
+      ]
+    }
+  ]
+}

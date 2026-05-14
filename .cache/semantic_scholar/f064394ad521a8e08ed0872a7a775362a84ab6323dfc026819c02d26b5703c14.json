@@ -1,0 +1,315 @@
+{
+  "total": 19734,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "7e45b68037b5f86c4bce305b2725f4871c6b091e",
+      "externalIds": {
+        "MAG": "2950297649",
+        "ArXiv": "1602.02218",
+        "DBLP": "journals/corr/BalduzziG16",
+        "CorpusId": 1513925
+      },
+      "url": "https://www.semanticscholar.org/paper/7e45b68037b5f86c4bce305b2725f4871c6b091e",
+      "title": "Strongly-Typed Recurrent Neural Networks",
+      "venue": "International Conference on Machine Learning",
+      "year": 2016,
+      "referenceCount": 40,
+      "citationCount": 66,
+      "authors": [
+        {
+          "authorId": "1722983",
+          "name": "David Balduzzi"
+        },
+        {
+          "authorId": "1900979",
+          "name": "Muhammad Ghifary"
+        }
+      ]
+    },
+    {
+      "paperId": "cdc4d3346c9b1673448a4f4df280e75b98db44c4",
+      "externalIds": {
+        "CorpusId": 198187057
+      },
+      "url": "https://www.semanticscholar.org/paper/cdc4d3346c9b1673448a4f4df280e75b98db44c4",
+      "title": "LG ] 24 M ay 2 01 6 Strongly-Typed Recurrent Neural Networks",
+      "venue": "",
+      "year": 2018,
+      "referenceCount": 18,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "1722983",
+          "name": "David Balduzzi"
+        },
+        {
+          "authorId": "1900979",
+          "name": "Muhammad Ghifary"
+        }
+      ]
+    },
+    {
+      "paperId": "11ec7f3adbda26b0ca8cb83a3c3aebd561ba5cc6",
+      "externalIds": {
+        "ACL": "2024.blackboxnlp-1.17",
+        "DBLP": "journals/corr/abs-2408-10920",
+        "ArXiv": "2408.10920",
+        "DOI": "10.48550/arXiv.2408.10920",
+        "CorpusId": 271909206
+      },
+      "url": "https://www.semanticscholar.org/paper/11ec7f3adbda26b0ca8cb83a3c3aebd561ba5cc6",
+      "title": "Recurrent Neural Networks Learn to Store and Generate Sequences using Non-Linear Representations",
+      "venue": "BlackboxNLP Workshop on Analyzing and Interpreting Neural Networks for NLP",
+      "year": 2024,
+      "referenceCount": 46,
+      "citationCount": 42,
+      "authors": [
+        {
+          "authorId": "2303405517",
+          "name": "R'obert Csord'as"
+        },
+        {
+          "authorId": "2280333621",
+          "name": "Christopher Potts"
+        },
+        {
+          "authorId": "2290916250",
+          "name": "Christopher D. Manning"
+        },
+        {
+          "authorId": "80833908",
+          "name": "Atticus Geiger"
+        }
+      ]
+    },
+    {
+      "paperId": "ac3ee98020251797c2b401e1389461df88e52e62",
+      "externalIds": {
+        "MAG": "1924770834",
+        "DBLP": "journals/corr/ChungGCB14",
+        "ArXiv": "1412.3555",
+        "CorpusId": 5201925
+      },
+      "url": "https://www.semanticscholar.org/paper/ac3ee98020251797c2b401e1389461df88e52e62",
+      "title": "Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling",
+      "venue": "arXiv.org",
+      "year": 2014,
+      "referenceCount": 20,
+      "citationCount": 14507,
+      "authors": [
+        {
+          "authorId": "8270717",
+          "name": "Junyoung Chung"
+        },
+        {
+          "authorId": "1854385",
+          "name": "Çaglar Gülçehre"
+        },
+        {
+          "authorId": "1979489",
+          "name": "Kyunghyun Cho"
+        },
+        {
+          "authorId": "1751762",
+          "name": "Yoshua Bengio"
+        }
+      ]
+    },
+    {
+      "paperId": "36cca3b33324bd9d9735b96663549a42feed7fe4",
+      "externalIds": {
+        "PubMedCentral": "12259464",
+        "DOI": "10.1038/s41529-025-00638-y",
+        "CorpusId": 280069729,
+        "PubMed": "40672643"
+      },
+      "url": "https://www.semanticscholar.org/paper/36cca3b33324bd9d9735b96663549a42feed7fe4",
+      "title": "Corrosion type identification in flanged joints using recurrent neural networks on electrochemical noise measurements",
+      "venue": "npj Materials Degradation",
+      "year": 2025,
+      "referenceCount": 65,
+      "citationCount": 4,
+      "authors": [
+        {
+          "authorId": "2176414687",
+          "name": "Soroosh Hakimian"
+        },
+        {
+          "authorId": "143990254",
+          "name": "A. Bouzid"
+        },
+        {
+          "authorId": "2376682928",
+          "name": "Lucas A. Hof"
+        }
+      ]
+    },
+    {
+      "paperId": "60b4da85a3fc55278b55bad3c3a7214c3380d449",
+      "externalIds": {
+        "DOI": "10.3390/electronics14142778",
+        "CorpusId": 280265629
+      },
+      "url": "https://www.semanticscholar.org/paper/60b4da85a3fc55278b55bad3c3a7214c3380d449",
+      "title": "Sound Source Localization Using Hybrid Convolutional Recurrent Neural Networks in Undesirable Conditions",
+      "venue": "Electronics",
+      "year": 2025,
+      "referenceCount": 18,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "2373372081",
+          "name": "Bastian Estay Zamorano"
+        },
+        {
+          "authorId": "30646640",
+          "name": "Ali Dehghan Firoozabadi"
+        },
+        {
+          "authorId": "2020562",
+          "name": "A. Brutti"
+        },
+        {
+          "authorId": "2284345312",
+          "name": "Pablo Adasme"
+        },
+        {
+          "authorId": "1492127271",
+          "name": "David Zabala-Blanco"
+        },
+        {
+          "authorId": "2120347413",
+          "name": "Palacios Játiva Palacios Játiva"
+        },
+        {
+          "authorId": "1381708916",
+          "name": "César A. Azurdia-Meza"
+        }
+      ]
+    },
+    {
+      "paperId": "586a70677785a8543c6bba3c37aa21b9ed8ca14b",
+      "externalIds": {
+        "DOI": "10.1016/j.joes.2024.01.002",
+        "CorpusId": 267108941
+      },
+      "url": "https://www.semanticscholar.org/paper/586a70677785a8543c6bba3c37aa21b9ed8ca14b",
+      "title": "Vessel trajectory prediction with recurrent neural networks: An evaluation of datasets, features, and architectures",
+      "venue": "Journal of Ocean Engineering and Science",
+      "year": 2024,
+      "referenceCount": 8,
+      "citationCount": 29,
+      "authors": [
+        {
+          "authorId": "2304957402",
+          "name": "Isaac Slaughter"
+        },
+        {
+          "authorId": "2280508207",
+          "name": "Jagir Laxmichand Charla"
+        },
+        {
+          "authorId": "2280508303",
+          "name": "Martin Siderius"
+        },
+        {
+          "authorId": "2265563318",
+          "name": "John Lipor"
+        }
+      ]
+    },
+    {
+      "paperId": "2b15006ec7a09b14b7f13f9e6b8f85ca753f36b1",
+      "externalIds": {
+        "DOI": "10.1109/SATC65530.2025.11137017",
+        "CorpusId": 281150466
+      },
+      "url": "https://www.semanticscholar.org/paper/2b15006ec7a09b14b7f13f9e6b8f85ca753f36b1",
+      "title": "Predictive Analytics for Sepsis Using Time-Series Data and Recurrent Neural Networks",
+      "venue": "2025 1st International Conference on Secure IoT, Assured and Trusted Computing (SATC)",
+      "year": 2025,
+      "referenceCount": 22,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "51444874",
+          "name": "S. Althubiti"
+        }
+      ]
+    },
+    {
+      "paperId": "bd429686b9b3bc1d060ee1fe8ef8f1d0f017112c",
+      "externalIds": {
+        "DBLP": "conf/nips/XuGSLRT023",
+        "ArXiv": "2401.03719",
+        "DOI": "10.48550/arXiv.2401.03719",
+        "CorpusId": 266844961
+      },
+      "url": "https://www.semanticscholar.org/paper/bd429686b9b3bc1d060ee1fe8ef8f1d0f017112c",
+      "title": "Enhancing Adaptive History Reserving by Spiking Convolutional Block Attention Module in Recurrent Neural Networks",
+      "venue": "Neural Information Processing Systems",
+      "year": 2024,
+      "referenceCount": 33,
+      "citationCount": 24,
+      "authors": [
+        {
+          "authorId": "2110405890",
+          "name": "Qi Xu"
+        },
+        {
+          "authorId": "2278506803",
+          "name": "Yuyuan Gao"
+        },
+        {
+          "authorId": "28995069",
+          "name": "Jiangrong Shen"
+        },
+        {
+          "authorId": "2110438427",
+          "name": "Yaxin Li"
+        },
+        {
+          "authorId": "1596207029",
+          "name": "Xuming Ran"
+        },
+        {
+          "authorId": "2266385607",
+          "name": "Huajin Tang"
+        },
+        {
+          "authorId": "2055725832",
+          "name": "Gang Pan"
+        }
+      ]
+    },
+    {
+      "paperId": "58a454d4fcffbaa557d5effdb6746dd95b26d7b3",
+      "externalIds": {
+        "DOI": "10.14569/ijacsa.2025.01610105",
+        "CorpusId": 282736760
+      },
+      "url": "https://www.semanticscholar.org/paper/58a454d4fcffbaa557d5effdb6746dd95b26d7b3",
+      "title": "Virtual Assistant Based on Recurrent Neural Networks: Scope and Coverage of Health Insurance",
+      "venue": "International Journal of Advanced Computer Science and Applications",
+      "year": 2025,
+      "referenceCount": 23,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2390374635",
+          "name": "Diego Alberto Paz-Medina"
+        },
+        {
+          "authorId": "2390376305",
+          "name": "David Eduardo Rojas-Cavassa"
+        },
+        {
+          "authorId": "2319725637",
+          "name": "Ernesto Adolfo Carrera-Salas"
+        }
+      ]
+    }
+  ]
+}

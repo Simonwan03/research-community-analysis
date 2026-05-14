@@ -1,0 +1,76 @@
+{
+  "total": 3,
+  "offset": 0,
+  "data": [
+    {
+      "paperId": "4b23012689e0f17912fb38d4984775e567cff8d6",
+      "externalIds": {
+        "MAG": "2963496101",
+        "DBLP": "journals/corr/abs-1711-00851",
+        "ArXiv": "1711.00851",
+        "CorpusId": 3659467
+      },
+      "url": "https://www.semanticscholar.org/paper/4b23012689e0f17912fb38d4984775e567cff8d6",
+      "title": "Provable defenses against adversarial examples via the convex outer adversarial polytope",
+      "venue": "International Conference on Machine Learning",
+      "year": 2017,
+      "referenceCount": 35,
+      "citationCount": 1603,
+      "authors": [
+        {
+          "authorId": "145116464",
+          "name": "J. Kolter"
+        },
+        {
+          "authorId": "51026953",
+          "name": "Eric Wong"
+        }
+      ]
+    },
+    {
+      "paperId": "1fdbde91ad49fd8a1c3045094d66d6b9a1b3a470",
+      "externalIds": {
+        "CorpusId": 53516997
+      },
+      "url": "https://www.semanticscholar.org/paper/1fdbde91ad49fd8a1c3045094d66d6b9a1b3a470",
+      "title": "Provable Defenses via the Convex Outer Adversarial Polytope",
+      "venue": "",
+      "year": 2018,
+      "referenceCount": 0,
+      "citationCount": 4,
+      "authors": []
+    },
+    {
+      "paperId": "7cb6a6369c6b01de8f88539687cb4acc121edb94",
+      "externalIds": {
+        "DBLP": "conf/iclr/Dimitrov0GV22",
+        "ArXiv": "2007.12133",
+        "CorpusId": 247595391
+      },
+      "url": "https://www.semanticscholar.org/paper/7cb6a6369c6b01de8f88539687cb4acc121edb94",
+      "title": "Provably Robust Adversarial Examples",
+      "venue": "International Conference on Learning Representations",
+      "year": 2020,
+      "referenceCount": 43,
+      "citationCount": 12,
+      "authors": [
+        {
+          "authorId": "2057210414",
+          "name": "Dimitar I. Dimitrov"
+        },
+        {
+          "authorId": "122085719",
+          "name": "Gagandeep Singh"
+        },
+        {
+          "authorId": "2959734",
+          "name": "T. Gehr"
+        },
+        {
+          "authorId": "1736447",
+          "name": "Martin T. Vechev"
+        }
+      ]
+    }
+  ]
+}

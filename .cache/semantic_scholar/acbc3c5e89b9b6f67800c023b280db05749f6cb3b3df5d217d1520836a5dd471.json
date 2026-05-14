@@ -1,0 +1,294 @@
+{
+  "total": 882,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "0811597b0851b7ebe21aadce7cb4daac4664b44f",
+      "externalIds": {
+        "MAG": "2949247522",
+        "DBLP": "journals/corr/RezendeMDGW16",
+        "ArXiv": "1603.05106",
+        "CorpusId": 5985692
+      },
+      "url": "https://www.semanticscholar.org/paper/0811597b0851b7ebe21aadce7cb4daac4664b44f",
+      "title": "One-Shot Generalization in Deep Generative Models",
+      "venue": "International Conference on Machine Learning",
+      "year": 2016,
+      "referenceCount": 33,
+      "citationCount": 259,
+      "authors": [
+        {
+          "authorId": "1748523",
+          "name": "Danilo Jimenez Rezende"
+        },
+        {
+          "authorId": "14594344",
+          "name": "S. Mohamed"
+        },
+        {
+          "authorId": "1841008",
+          "name": "Ivo Danihelka"
+        },
+        {
+          "authorId": "144717963",
+          "name": "Karol Gregor"
+        },
+        {
+          "authorId": "1688276",
+          "name": "Daan Wierstra"
+        }
+      ]
+    },
+    {
+      "paperId": "5cc74c7ad52af332c5106c2e5ef03092d854534a",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2205-10370",
+        "ArXiv": "2205.10370",
+        "DOI": "10.48550/arXiv.2205.10370",
+        "CorpusId": 248987256
+      },
+      "url": "https://www.semanticscholar.org/paper/5cc74c7ad52af332c5106c2e5ef03092d854534a",
+      "title": "Diversity vs. Recognizability: Human-like generalization in one-shot generative models",
+      "venue": "Neural Information Processing Systems",
+      "year": 2022,
+      "referenceCount": 71,
+      "citationCount": 12,
+      "authors": [
+        {
+          "authorId": "51454878",
+          "name": "Victor Boutin"
+        },
+        {
+          "authorId": "2128038565",
+          "name": "Lakshya Singhal"
+        },
+        {
+          "authorId": "40661962",
+          "name": "Xavier Thomas"
+        },
+        {
+          "authorId": "1981539",
+          "name": "Thomas Serre"
+        }
+      ]
+    },
+    {
+      "paperId": "672943b1186e7c5efe241a5283f4228e32d99d5f",
+      "externalIds": {
+        "MAG": "2784631807",
+        "CorpusId": 53962153
+      },
+      "url": "https://www.semanticscholar.org/paper/672943b1186e7c5efe241a5283f4228e32d99d5f",
+      "title": "One-shot Learning In Deep Sequential Generative Models",
+      "venue": "",
+      "year": 2017,
+      "referenceCount": 54,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "32583336",
+          "name": "Hanyu Guo"
+        }
+      ]
+    },
+    {
+      "paperId": "9a85e2c2ef61b31617b85ca4e59e306671bc0091",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2110-12279",
+        "CorpusId": 239768726
+      },
+      "url": "https://www.semanticscholar.org/paper/9a85e2c2ef61b31617b85ca4e59e306671bc0091",
+      "title": "Hierarchical Few-Shot Generative Models",
+      "venue": "arXiv.org",
+      "year": 2021,
+      "referenceCount": 58,
+      "citationCount": 7,
+      "authors": [
+        {
+          "authorId": "2059816",
+          "name": "Giorgio Giannone"
+        },
+        {
+          "authorId": "1724252",
+          "name": "O. Winther"
+        }
+      ]
+    },
+    {
+      "paperId": "b9495c86d62be8123107e46a56ae6835963a2420",
+      "externalIds": {
+        "DBLP": "journals/tits/DengHXZW22",
+        "DOI": "10.1109/TITS.2022.3199805",
+        "CorpusId": 251867753
+      },
+      "url": "https://www.semanticscholar.org/paper/b9495c86d62be8123107e46a56ae6835963a2420",
+      "title": "PcGAN: A Noise Robust Conditional Generative Adversarial Network for One Shot Learning",
+      "venue": "IEEE transactions on intelligent transportation systems (Print)",
+      "year": 2022,
+      "referenceCount": 45,
+      "citationCount": 27,
+      "authors": [
+        {
+          "authorId": "47121627",
+          "name": "Lizhen Deng"
+        },
+        {
+          "authorId": "93231783",
+          "name": "Chunming He"
+        },
+        {
+          "authorId": "1510763055",
+          "name": "Guoxia Xu"
+        },
+        {
+          "authorId": "48808930",
+          "name": "Hu Zhu"
+        },
+        {
+          "authorId": "2144220577",
+          "name": "Hao Wang"
+        }
+      ]
+    },
+    {
+      "paperId": "8fb76c7963ac36e1bdfcc996d99dd9245827e0dc",
+      "externalIds": {
+        "MAG": "2799251726",
+        "DBLP": "conf/aistats/BartunovV18",
+        "CorpusId": 4865465
+      },
+      "url": "https://www.semanticscholar.org/paper/8fb76c7963ac36e1bdfcc996d99dd9245827e0dc",
+      "title": "Few-shot Generative Modelling with Generative Matching Networks",
+      "venue": "International Conference on Artificial Intelligence and Statistics",
+      "year": 2018,
+      "referenceCount": 26,
+      "citationCount": 103,
+      "authors": [
+        {
+          "authorId": "2258504",
+          "name": "Sergey Bartunov"
+        },
+        {
+          "authorId": "2492721",
+          "name": "D. Vetrov"
+        }
+      ]
+    },
+    {
+      "paperId": "65f626dab0fb7e8ab759300996bd86e31a23e7ba",
+      "externalIds": {
+        "ArXiv": "1809.02383",
+        "DBLP": "journals/corr/abs-1809-02383",
+        "MAG": "2891626246",
+        "CorpusId": 52177742
+      },
+      "url": "https://www.semanticscholar.org/paper/65f626dab0fb7e8ab759300996bd86e31a23e7ba",
+      "title": "A simple probabilistic deep generative model for learning generalizable disentangled representations from grouped data",
+      "venue": "arXiv.org",
+      "year": 2018,
+      "referenceCount": 19,
+      "citationCount": 9,
+      "authors": [
+        {
+          "authorId": "50005921",
+          "name": "H. Hosoya"
+        }
+      ]
+    },
+    {
+      "paperId": "16f27c7f52466d79f208a14c2dd2bde2331ff978",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-1905-10864",
+        "MAG": "2945593568",
+        "CorpusId": 166228485
+      },
+      "url": "https://www.semanticscholar.org/paper/16f27c7f52466d79f208a14c2dd2bde2331ff978",
+      "title": "Generalizable Adversarial Attacks Using Generative Models",
+      "venue": "arXiv.org",
+      "year": 2019,
+      "referenceCount": 39,
+      "citationCount": 12,
+      "authors": [
+        {
+          "authorId": "26418299",
+          "name": "A. Bose"
+        },
+        {
+          "authorId": "35090018",
+          "name": "Andre Cianflone"
+        },
+        {
+          "authorId": "49437682",
+          "name": "William L. Hamilton"
+        }
+      ]
+    },
+    {
+      "paperId": "7e7ecb6d72cc6584082d412355641121bc91db34",
+      "externalIds": {
+        "MAG": "2964135650",
+        "DBLP": "conf/iclr/BartunovV17",
+        "ArXiv": "1612.02192",
+        "CorpusId": 10082291
+      },
+      "url": "https://www.semanticscholar.org/paper/7e7ecb6d72cc6584082d412355641121bc91db34",
+      "title": "Fast Adaptation in Generative Models with Generative Matching Networks",
+      "venue": "International Conference on Learning Representations",
+      "year": 2016,
+      "referenceCount": 26,
+      "citationCount": 24,
+      "authors": [
+        {
+          "authorId": "2258504",
+          "name": "Sergey Bartunov"
+        },
+        {
+          "authorId": "2492721",
+          "name": "D. Vetrov"
+        }
+      ]
+    },
+    {
+      "paperId": "f5e12275137386657e8e1eafed52b1908ff057c3",
+      "externalIds": {
+        "ArXiv": "1807.03711",
+        "MAG": "2848679307",
+        "DBLP": "journals/corr/abs-1807-03711",
+        "CorpusId": 49664803
+      },
+      "url": "https://www.semanticscholar.org/paper/f5e12275137386657e8e1eafed52b1908ff057c3",
+      "title": "Geometric Generalization Based Zero-Shot Learning Dataset Infinite World: Simple Yet Powerful",
+      "venue": "arXiv.org",
+      "year": 2018,
+      "referenceCount": 48,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "32127751",
+          "name": "R. Chidambaram"
+        },
+        {
+          "authorId": "2293273322",
+          "name": "Michael C. Kampffmeyer"
+        },
+        {
+          "authorId": "2934259",
+          "name": "Willie Neiswanger"
+        },
+        {
+          "authorId": "40250403",
+          "name": "Xiaodan Liang"
+        },
+        {
+          "authorId": "4502927",
+          "name": "T. Lachmann"
+        },
+        {
+          "authorId": "143977260",
+          "name": "E. Xing"
+        }
+      ]
+    }
+  ]
+}

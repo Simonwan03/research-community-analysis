@@ -1,0 +1,328 @@
+{
+  "total": 48,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "c4b2c711b5b5ed56c3b01cbac67a127e0a4f872a",
+      "externalIds": {
+        "ArXiv": "1411.1134",
+        "MAG": "2963979747",
+        "DBLP": "journals/corr/SaOR14",
+        "CorpusId": 14418885
+      },
+      "url": "https://www.semanticscholar.org/paper/c4b2c711b5b5ed56c3b01cbac67a127e0a4f872a",
+      "title": "Global Convergence of Stochastic Gradient Descent for Some Non-convex Matrix Problems",
+      "venue": "International Conference on Machine Learning",
+      "year": 2014,
+      "referenceCount": 47,
+      "citationCount": 153,
+      "authors": [
+        {
+          "authorId": "1801197",
+          "name": "Christopher De Sa"
+        },
+        {
+          "authorId": "1803218",
+          "name": "Christopher Ré"
+        },
+        {
+          "authorId": "1746638",
+          "name": "K. Olukotun"
+        }
+      ]
+    },
+    {
+      "paperId": "fa4645d24d6f200e8d318b295e22590ce40ef81c",
+      "externalIds": {
+        "ArXiv": "2003.08844",
+        "DBLP": "journals/corr/abs-2003-08844",
+        "MAG": "3012080681",
+        "CorpusId": 213175571
+      },
+      "url": "https://www.semanticscholar.org/paper/fa4645d24d6f200e8d318b295e22590ce40ef81c",
+      "title": "NeCPD: An Online Tensor Decomposition with Optimal Stochastic Gradient Descent",
+      "venue": "arXiv.org",
+      "year": 2020,
+      "referenceCount": 31,
+      "citationCount": 5,
+      "authors": [
+        {
+          "authorId": "3333168",
+          "name": "Ali Anaissi"
+        },
+        {
+          "authorId": "145379996",
+          "name": "Basem Suleiman"
+        },
+        {
+          "authorId": "7261022",
+          "name": "S. M. Zandavi"
+        }
+      ]
+    },
+    {
+      "paperId": "82a43eae44558b9b5ede7267dab8c1ce785dfe13",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2504-12601",
+        "ArXiv": "2504.12601",
+        "DOI": "10.48550/arXiv.2504.12601",
+        "CorpusId": 277856909
+      },
+      "url": "https://www.semanticscholar.org/paper/82a43eae44558b9b5ede7267dab8c1ce785dfe13",
+      "title": "Stochastic Gradient Descent in Non-Convex Problems: Asymptotic Convergence with Relaxed Step-Size via Stopping Time Methods",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "referenceCount": 19,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2281087980",
+          "name": "Ruinan Jin"
+        },
+        {
+          "authorId": "2140524005",
+          "name": "Difei Cheng"
+        },
+        {
+          "authorId": "2270831798",
+          "name": "Hong Qiao"
+        },
+        {
+          "authorId": "2361897488",
+          "name": "X. Shi"
+        },
+        {
+          "authorId": "2193107019",
+          "name": "Shao-dian Liu"
+        },
+        {
+          "authorId": "2356428275",
+          "name": "Bo Zhang"
+        }
+      ]
+    },
+    {
+      "paperId": "7d1029cd5b2391f06d4af6c49a464893db55f4b8",
+      "externalIds": {
+        "DBLP": "conf/aistats/0002JKN17",
+        "MAG": "2601280495",
+        "ArXiv": "1507.05854",
+        "CorpusId": 14223243
+      },
+      "url": "https://www.semanticscholar.org/paper/7d1029cd5b2391f06d4af6c49a464893db55f4b8",
+      "title": "Global Convergence of Non-Convex Gradient Descent for Computing Matrix Squareroot",
+      "venue": "International Conference on Artificial Intelligence and Statistics",
+      "year": 2015,
+      "referenceCount": 36,
+      "citationCount": 37,
+      "authors": [
+        {
+          "authorId": "48964143",
+          "name": "Prateek Jain"
+        },
+        {
+          "authorId": "3335298",
+          "name": "Chi Jin"
+        },
+        {
+          "authorId": "144695232",
+          "name": "S. Kakade"
+        },
+        {
+          "authorId": "1751626",
+          "name": "Praneeth Netrapalli"
+        }
+      ]
+    },
+    {
+      "paperId": "70742a8a089c9e42291b3d2f039786449779a8e6",
+      "externalIds": {
+        "MAG": "2996707908",
+        "DBLP": "journals/corr/abs-1912-07527",
+        "ArXiv": "1912.07527",
+        "CorpusId": 209376552
+      },
+      "url": "https://www.semanticscholar.org/paper/70742a8a089c9e42291b3d2f039786449779a8e6",
+      "title": "Leveraging Two Reference Functions in Block Bregman Proximal Gradient Descent for Non-convex and Non-Lipschitz Problems",
+      "venue": "arXiv.org",
+      "year": 2019,
+      "referenceCount": 47,
+      "citationCount": 5,
+      "authors": [
+        {
+          "authorId": "50263823",
+          "name": "Tianxiang Gao"
+        },
+        {
+          "authorId": "8090366",
+          "name": "Songtao Lu"
+        },
+        {
+          "authorId": "48210927",
+          "name": "Jia Liu"
+        },
+        {
+          "authorId": "1791176",
+          "name": "C. Chu"
+        }
+      ]
+    },
+    {
+      "paperId": "ba524d2b65f02bc581fa3b3ce12f4d87c2a73320",
+      "externalIds": {
+        "ArXiv": "2203.11579",
+        "DBLP": "journals/corr/abs-2203-11579",
+        "DOI": "10.48550/arXiv.2203.11579",
+        "CorpusId": 247596793
+      },
+      "url": "https://www.semanticscholar.org/paper/ba524d2b65f02bc581fa3b3ce12f4d87c2a73320",
+      "title": "Local Stochastic Factored Gradient Descent for Distributed Quantum State Tomography",
+      "venue": "IEEE Control Systems Letters",
+      "year": 2022,
+      "referenceCount": 33,
+      "citationCount": 4,
+      "authors": [
+        {
+          "authorId": "2120215686",
+          "name": "J. Kim"
+        },
+        {
+          "authorId": "102151203",
+          "name": "Taha Toghani"
+        },
+        {
+          "authorId": "32030988",
+          "name": "César A. Uribe"
+        },
+        {
+          "authorId": "2126894228",
+          "name": "Anastasios Kyrillidis"
+        }
+      ]
+    },
+    {
+      "paperId": "554e511f2773091338fcbe251a40619fffae454e",
+      "externalIds": {
+        "MAG": "2758178927",
+        "ArXiv": "1709.10432",
+        "DBLP": "journals/corr/abs-1709-10432",
+        "DOI": "10.1016/J.NEUCOM.2019.01.037",
+        "CorpusId": 3759799
+      },
+      "url": "https://www.semanticscholar.org/paper/554e511f2773091338fcbe251a40619fffae454e",
+      "title": "Convergence Analysis of Distributed Stochastic Gradient Descent with Shuffling",
+      "venue": "Neurocomputing",
+      "year": 2017,
+      "referenceCount": 28,
+      "citationCount": 118,
+      "authors": [
+        {
+          "authorId": "47580728",
+          "name": "Qi Meng"
+        },
+        {
+          "authorId": null,
+          "name": "Wei Chen"
+        },
+        {
+          "authorId": null,
+          "name": "Yue Wang"
+        },
+        {
+          "authorId": "2249674",
+          "name": "Zhi-Ming Ma"
+        },
+        {
+          "authorId": "2110264337",
+          "name": "Tie-Yan Liu"
+        }
+      ]
+    },
+    {
+      "paperId": "6032e809b1d1fa0809a8cf56f20e7d2d121a9183",
+      "externalIds": {
+        "DBLP": "journals/entropy/LiWPY24",
+        "PubMedCentral": "11675914",
+        "DOI": "10.3390/e26121104",
+        "CorpusId": 274850040,
+        "PubMed": "39766733"
+      },
+      "url": "https://www.semanticscholar.org/paper/6032e809b1d1fa0809a8cf56f20e7d2d121a9183",
+      "title": "Stochastic Gradient Descent for Kernel-Based Maximum Correntropy Criterion",
+      "venue": "Entropy",
+      "year": 2024,
+      "referenceCount": 38,
+      "citationCount": 4,
+      "authors": [
+        {
+          "authorId": "2118911357",
+          "name": "Tian Li"
+        },
+        {
+          "authorId": "46270255",
+          "name": "Baobin Wang"
+        },
+        {
+          "authorId": "2113568185",
+          "name": "Chaoquan Peng"
+        },
+        {
+          "authorId": "2331453439",
+          "name": "Hong Yin"
+        }
+      ]
+    },
+    {
+      "paperId": "480a81964387b7c30083b522f00ec9129f062052",
+      "externalIds": {
+        "MAG": "2780752111",
+        "DBLP": "journals/corr/abs-1712-09677",
+        "ArXiv": "1712.09677",
+        "DOI": "10.1007/s10589-020-00220-z",
+        "CorpusId": 4442618
+      },
+      "url": "https://www.semanticscholar.org/paper/480a81964387b7c30083b522f00ec9129f062052",
+      "title": "Momentum and stochastic momentum for stochastic gradient, Newton, proximal point and subspace descent methods",
+      "venue": "Computational optimization and applications",
+      "year": 2017,
+      "referenceCount": 103,
+      "citationCount": 227,
+      "authors": [
+        {
+          "authorId": "1941365",
+          "name": "Nicolas Loizou"
+        },
+        {
+          "authorId": "2662221",
+          "name": "Peter Richtárik"
+        }
+      ]
+    },
+    {
+      "paperId": "72bd1383684aea6fdc901c6a7cce57577a12ca5a",
+      "externalIds": {
+        "ArXiv": "2504.19530",
+        "DBLP": "journals/corr/abs-2504-19530",
+        "DOI": "10.1109/TSP.2025.3650509",
+        "CorpusId": 278164847
+      },
+      "url": "https://www.semanticscholar.org/paper/72bd1383684aea6fdc901c6a7cce57577a12ca5a",
+      "title": "Euclidean Distance Matrix Completion via Asymmetric Projected Gradient Descent",
+      "venue": "IEEE Transactions on Signal Processing",
+      "year": 2025,
+      "referenceCount": 80,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2291083440",
+          "name": "Yicheng Li"
+        },
+        {
+          "authorId": "2261674821",
+          "name": "Xinghua Sun"
+        }
+      ]
+    }
+  ]
+}

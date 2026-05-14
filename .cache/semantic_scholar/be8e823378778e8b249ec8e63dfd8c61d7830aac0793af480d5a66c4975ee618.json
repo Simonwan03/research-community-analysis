@@ -1,0 +1,354 @@
+{
+  "total": 98138,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "93bc65d2842b8cc5f3cf72ebc5b8f75daeacea35",
+      "externalIds": {
+        "ArXiv": "1502.05700",
+        "DBLP": "conf/icml/SnoekRSKSSPPA15",
+        "MAG": "2950277768",
+        "CorpusId": 12604141
+      },
+      "url": "https://www.semanticscholar.org/paper/93bc65d2842b8cc5f3cf72ebc5b8f75daeacea35",
+      "title": "Scalable Bayesian Optimization Using Deep Neural Networks",
+      "venue": "International Conference on Machine Learning",
+      "year": 2015,
+      "referenceCount": 64,
+      "citationCount": 1125,
+      "authors": [
+        {
+          "authorId": "144108062",
+          "name": "Jasper Snoek"
+        },
+        {
+          "authorId": "1757324",
+          "name": "Oren Rippel"
+        },
+        {
+          "authorId": "1754860",
+          "name": "Kevin Swersky"
+        },
+        {
+          "authorId": "3450996",
+          "name": "Ryan Kiros"
+        },
+        {
+          "authorId": "143758120",
+          "name": "N. Satish"
+        },
+        {
+          "authorId": "1789372",
+          "name": "N. Sundaram"
+        },
+        {
+          "authorId": "8176660",
+          "name": "Md. Mostofa Ali Patwary"
+        },
+        {
+          "authorId": "1764912",
+          "name": "Prabhat"
+        },
+        {
+          "authorId": "1722180",
+          "name": "Ryan P. Adams"
+        }
+      ]
+    },
+    {
+      "paperId": "9a084851c6aa3e599216c34a688ae98e040f6f50",
+      "externalIds": {
+        "ArXiv": "2302.07260",
+        "DBLP": "journals/corr/abs-2302-07260",
+        "DOI": "10.48550/arXiv.2302.07260",
+        "CorpusId": 256846970
+      },
+      "url": "https://www.semanticscholar.org/paper/9a084851c6aa3e599216c34a688ae98e040f6f50",
+      "title": "Scalable Bayesian optimization with high-dimensional outputs using randomized prior networks",
+      "venue": "arXiv.org",
+      "year": 2023,
+      "referenceCount": 107,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "3437232",
+          "name": "Mohamed Aziz Bhouri"
+        },
+        {
+          "authorId": "34470522",
+          "name": "M. Joly"
+        },
+        {
+          "authorId": "50598510",
+          "name": "R. Yu"
+        },
+        {
+          "authorId": "2898655",
+          "name": "S. Sarkar"
+        },
+        {
+          "authorId": "3410970",
+          "name": "P. Perdikaris"
+        }
+      ]
+    },
+    {
+      "paperId": "063b4577d2a6eefc4551267e948ed7d8f747868c",
+      "externalIds": {
+        "DBLP": "journals/tits/MallickMB24",
+        "DOI": "10.1109/TITS.2024.3381099",
+        "CorpusId": 269051996
+      },
+      "url": "https://www.semanticscholar.org/paper/063b4577d2a6eefc4551267e948ed7d8f747868c",
+      "title": "Uncertainty Quantification for Traffic Forecasting Using Deep-Ensemble-Based Spatiotemporal Graph Neural Networks",
+      "venue": "IEEE transactions on intelligent transportation systems (Print)",
+      "year": 2024,
+      "referenceCount": 64,
+      "citationCount": 20,
+      "authors": [
+        {
+          "authorId": "39004576",
+          "name": "Tanwi Mallick"
+        },
+        {
+          "authorId": "2292336186",
+          "name": "Jane MacFarlane"
+        },
+        {
+          "authorId": "2320037950",
+          "name": "P. Balaprakash"
+        }
+      ]
+    },
+    {
+      "paperId": "9f7869892857bd69c4919cf5abebc745c8fe90cb",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2106-00942",
+        "ArXiv": "2106.00942",
+        "CorpusId": 235293717
+      },
+      "url": "https://www.semanticscholar.org/paper/9f7869892857bd69c4919cf5abebc745c8fe90cb",
+      "title": "JUMBO: Scalable Multi-task Bayesian Optimization using Offline Data",
+      "venue": "arXiv.org",
+      "year": 2021,
+      "referenceCount": 38,
+      "citationCount": 12,
+      "authors": [
+        {
+          "authorId": "88670415",
+          "name": "Kourosh Hakhamaneshi"
+        },
+        {
+          "authorId": "1689992",
+          "name": "P. Abbeel"
+        },
+        {
+          "authorId": "29809634",
+          "name": "V. Stojanovic"
+        },
+        {
+          "authorId": "1954250",
+          "name": "Aditya Grover"
+        }
+      ]
+    },
+    {
+      "paperId": "84aaedc38cf6409665be4e12ccf80a99767bf1da",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2104-11667",
+        "CorpusId": 233388202
+      },
+      "url": "https://www.semanticscholar.org/paper/84aaedc38cf6409665be4e12ccf80a99767bf1da",
+      "title": "Scalable and Flexible Deep Bayesian Optimization with Auxiliary Information for Scientific Problems",
+      "venue": "arXiv.org",
+      "year": 2021,
+      "referenceCount": 75,
+      "citationCount": 12,
+      "authors": [
+        {
+          "authorId": "2110027248",
+          "name": "Samuel Kim"
+        },
+        {
+          "authorId": "48985656",
+          "name": "Peter Y. Lu"
+        },
+        {
+          "authorId": "40917646",
+          "name": "Charlotte Loh"
+        },
+        {
+          "authorId": "2119124568",
+          "name": "Jamie A. Smith"
+        },
+        {
+          "authorId": "144108062",
+          "name": "Jasper Snoek"
+        },
+        {
+          "authorId": "2395890156",
+          "name": "Marin Soljavci'c"
+        }
+      ]
+    },
+    {
+      "paperId": "9b437a86c4cd410b035754741b48ee7ad42730f4",
+      "externalIds": {
+        "DBLP": "journals/tmlr/KimLLSSS22",
+        "ArXiv": "2104.11667",
+        "CorpusId": 247363037
+      },
+      "url": "https://www.semanticscholar.org/paper/9b437a86c4cd410b035754741b48ee7ad42730f4",
+      "title": "Deep Learning for Bayesian Optimization of Scientific Problems with High-Dimensional Structure",
+      "venue": "Trans. Mach. Learn. Res.",
+      "year": 2021,
+      "referenceCount": 103,
+      "citationCount": 24,
+      "authors": [
+        {
+          "authorId": "2110027248",
+          "name": "Samuel Kim"
+        },
+        {
+          "authorId": "48985656",
+          "name": "Peter Y. Lu"
+        },
+        {
+          "authorId": "40917646",
+          "name": "Charlotte Loh"
+        },
+        {
+          "authorId": "2119126237",
+          "name": "Jamie Smith"
+        },
+        {
+          "authorId": "144108062",
+          "name": "Jasper Snoek"
+        },
+        {
+          "authorId": "2395890156",
+          "name": "Marin Soljavci'c"
+        }
+      ]
+    },
+    {
+      "paperId": "7f82ee7134ec4b58c9fb1b09f8d9fec5360b2115",
+      "externalIds": {
+        "CorpusId": 235430747
+      },
+      "url": "https://www.semanticscholar.org/paper/7f82ee7134ec4b58c9fb1b09f8d9fec5360b2115",
+      "title": "MARIO HUMBERTO BECERRA CONTRERAS A comparison of frequentist methods and Bayesian approximations in the implementation of Convolutional Neural Networks in an Active Learning setting",
+      "venue": "",
+      "year": null,
+      "referenceCount": 53,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2114373024",
+          "name": "Mario Becerra"
+        },
+        {
+          "authorId": "48727427",
+          "name": "Contreras."
+        }
+      ]
+    },
+    {
+      "paperId": "69807d9c35bea3f3b552e3ed41b91485580b8a2d",
+      "externalIds": {
+        "MAG": "2976332861",
+        "DBLP": "journals/jcisd/ZhangMNS19",
+        "DOI": "10.1021/acs.jcim.9b00633",
+        "CorpusId": 203567735,
+        "PubMed": "31560206"
+      },
+      "url": "https://www.semanticscholar.org/paper/69807d9c35bea3f3b552e3ed41b91485580b8a2d",
+      "title": "LightGBM: An Effective and Scalable Algorithm for Prediction of Chemical Toxicity-Application to the Tox21 and Mutagenicity Data Sets",
+      "venue": "Journal of Chemical Information and Modeling",
+      "year": 2019,
+      "referenceCount": 46,
+      "citationCount": 222,
+      "authors": [
+        {
+          "authorId": "2108931215",
+          "name": "Jin Zhang"
+        },
+        {
+          "authorId": "2542722",
+          "name": "Daniel Mucs"
+        },
+        {
+          "authorId": "1721941",
+          "name": "U. Norinder"
+        },
+        {
+          "authorId": "3240053",
+          "name": "Fredrik Svensson"
+        }
+      ]
+    },
+    {
+      "paperId": "a82e68fe28ddcc08ffd3a8422013af61fd05aecd",
+      "externalIds": {
+        "MAG": "2794644743",
+        "DOI": "10.1101/292037",
+        "CorpusId": 90809312
+      },
+      "url": "https://www.semanticscholar.org/paper/a82e68fe28ddcc08ffd3a8422013af61fd05aecd",
+      "title": "Bayesian Inference for a Generative Model of Transcriptome Profiles from Single-cell RNA Sequencing",
+      "venue": "bioRxiv",
+      "year": 2018,
+      "referenceCount": 59,
+      "citationCount": 39,
+      "authors": [
+        {
+          "authorId": "39848341",
+          "name": "Romain Lopez"
+        },
+        {
+          "authorId": "39967607",
+          "name": "J. Regier"
+        },
+        {
+          "authorId": "39435306",
+          "name": "Michael Cole"
+        },
+        {
+          "authorId": "49071005",
+          "name": "Michael I. Jordan"
+        },
+        {
+          "authorId": "2163873",
+          "name": "N. Yosef"
+        }
+      ]
+    },
+    {
+      "paperId": "7f9e7bd7b00dc122da2757d449af8843cc27b34d",
+      "externalIds": {
+        "DBLP": "journals/pr/LimJ21",
+        "MAG": "3111088274",
+        "ArXiv": "2412.08951",
+        "DOI": "10.1016/j.patcog.2020.107783",
+        "CorpusId": 230547147
+      },
+      "url": "https://www.semanticscholar.org/paper/7f9e7bd7b00dc122da2757d449af8843cc27b34d",
+      "title": "Variational posterior approximation using stochastic gradient ascent with adaptive stepsize",
+      "venue": "Pattern Recognition",
+      "year": 2021,
+      "referenceCount": 40,
+      "citationCount": 4,
+      "authors": [
+        {
+          "authorId": "3427959",
+          "name": "Kart-Leong Lim"
+        },
+        {
+          "authorId": "3307580",
+          "name": "Xudong Jiang"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,296 @@
+{
+  "total": 13516,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "d7b32bf240bb3b2f2a98d87ea21b669226e0f9d8",
+      "externalIds": {
+        "ArXiv": "1802.03493",
+        "MAG": "2962785510",
+        "DBLP": "journals/corr/abs-1802-03493",
+        "CorpusId": 3634264
+      },
+      "url": "https://www.semanticscholar.org/paper/d7b32bf240bb3b2f2a98d87ea21b669226e0f9d8",
+      "title": "More Robust Doubly Robust Off-policy Evaluation",
+      "venue": "International Conference on Machine Learning",
+      "year": 2018,
+      "referenceCount": 33,
+      "citationCount": 286,
+      "authors": [
+        {
+          "authorId": "1682124",
+          "name": "Mehrdad Farajtabar"
+        },
+        {
+          "authorId": "1819830",
+          "name": "Yinlam Chow"
+        },
+        {
+          "authorId": "1678622",
+          "name": "M. Ghavamzadeh"
+        }
+      ]
+    },
+    {
+      "paperId": "8ae4f95029bd00508342818f40ae4b0ca53b0192",
+      "externalIds": {
+        "MAG": "2963482016",
+        "DBLP": "conf/icml/SuDKD20",
+        "ArXiv": "1907.09623",
+        "CorpusId": 198179772
+      },
+      "url": "https://www.semanticscholar.org/paper/8ae4f95029bd00508342818f40ae4b0ca53b0192",
+      "title": "Doubly robust off-policy evaluation with shrinkage",
+      "venue": "International Conference on Machine Learning",
+      "year": 2019,
+      "referenceCount": 36,
+      "citationCount": 127,
+      "authors": [
+        {
+          "authorId": "144908640",
+          "name": "Yi-Hsun Su"
+        },
+        {
+          "authorId": "8472327",
+          "name": "Maria Dimakopoulou"
+        },
+        {
+          "authorId": "37019006",
+          "name": "A. Krishnamurthy"
+        },
+        {
+          "authorId": "144652072",
+          "name": "Miroslav Dudík"
+        }
+      ]
+    },
+    {
+      "paperId": "51a90a3266d1c37e4b58dfc910f1ee9c7a4edb3f",
+      "externalIds": {
+        "ArXiv": "2202.01562",
+        "DBLP": "conf/wsdm/KiyoharaSMNSY22",
+        "DOI": "10.1145/3488560.3498380",
+        "CorpusId": 246485621
+      },
+      "url": "https://www.semanticscholar.org/paper/51a90a3266d1c37e4b58dfc910f1ee9c7a4edb3f",
+      "title": "Doubly Robust Off-Policy Evaluation for Ranking Policies under the Cascade Behavior Model",
+      "venue": "Web Search and Data Mining",
+      "year": 2022,
+      "referenceCount": 25,
+      "citationCount": 53,
+      "authors": [
+        {
+          "authorId": "2107059617",
+          "name": "Haruka Kiyohara"
+        },
+        {
+          "authorId": "47046740",
+          "name": "Yuta Saito"
+        },
+        {
+          "authorId": "2152221139",
+          "name": "Tatsuya Matsuhiro"
+        },
+        {
+          "authorId": "35976308",
+          "name": "Yusuke Narita"
+        },
+        {
+          "authorId": "3037066",
+          "name": "N. Shimizu"
+        },
+        {
+          "authorId": "2152741960",
+          "name": "Yasuo Yamamoto"
+        }
+      ]
+    },
+    {
+      "paperId": "e5309d90535f7f798ef8482e2450f78900a53651",
+      "externalIds": {
+        "DBLP": "journals/corr/JiangL15",
+        "CorpusId": 5980182
+      },
+      "url": "https://www.semanticscholar.org/paper/e5309d90535f7f798ef8482e2450f78900a53651",
+      "title": "Doubly Robust Off-policy Evaluation for Reinforcement Learning",
+      "venue": "arXiv.org",
+      "year": 2015,
+      "referenceCount": 32,
+      "citationCount": 67,
+      "authors": [
+        {
+          "authorId": "48272707",
+          "name": "Nan Jiang"
+        },
+        {
+          "authorId": "47681372",
+          "name": "Lihong Li"
+        }
+      ]
+    },
+    {
+      "paperId": "f9a702ce8326fe758a53bdb7a979cac557ad1be3",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2412-08052",
+        "ArXiv": "2412.08052",
+        "DOI": "10.48550/arXiv.2412.08052",
+        "CorpusId": 274638654
+      },
+      "url": "https://www.semanticscholar.org/paper/f9a702ce8326fe758a53bdb7a979cac557ad1be3",
+      "title": "CANDOR: Counterfactual ANnotated DOubly Robust Off-Policy Evaluation",
+      "venue": "arXiv.org",
+      "year": 2024,
+      "referenceCount": 0,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "1600678273",
+          "name": "Aishwarya Mandyam"
+        },
+        {
+          "authorId": "134763925",
+          "name": "Shengpu Tang"
+        },
+        {
+          "authorId": "2283873063",
+          "name": "Jiayu Yao"
+        },
+        {
+          "authorId": "2261738199",
+          "name": "Jenna Wiens"
+        },
+        {
+          "authorId": "2322992139",
+          "name": "Barbara E. Engelhardt"
+        }
+      ]
+    },
+    {
+      "paperId": "0028a0b7df09d75e4ca2b2b8ff4e61df1d5b74fa",
+      "externalIds": {
+        "DBLP": "conf/icml/KallusMWZ22",
+        "ArXiv": "2202.09667",
+        "CorpusId": 247011645
+      },
+      "url": "https://www.semanticscholar.org/paper/0028a0b7df09d75e4ca2b2b8ff4e61df1d5b74fa",
+      "title": "Doubly Robust Distributionally Robust Off-Policy Evaluation and Learning",
+      "venue": "International Conference on Machine Learning",
+      "year": 2022,
+      "referenceCount": 67,
+      "citationCount": 39,
+      "authors": [
+        {
+          "authorId": "3174388",
+          "name": "Nathan Kallus"
+        },
+        {
+          "authorId": "9184524",
+          "name": "Xiaojie Mao"
+        },
+        {
+          "authorId": "2148352172",
+          "name": "Kaiwen Wang"
+        },
+        {
+          "authorId": "47230320",
+          "name": "Zhengyuan Zhou"
+        }
+      ]
+    },
+    {
+      "paperId": "2fdb536da39a014c598ea67b0db88431fcd852a8",
+      "externalIds": {
+        "MAG": "2952690945",
+        "DBLP": "conf/icml/JiangL16",
+        "ArXiv": "1511.03722",
+        "CorpusId": 5806691
+      },
+      "url": "https://www.semanticscholar.org/paper/2fdb536da39a014c598ea67b0db88431fcd852a8",
+      "title": "Doubly Robust Off-policy Value Evaluation for Reinforcement Learning",
+      "venue": "International Conference on Machine Learning",
+      "year": 2015,
+      "referenceCount": 44,
+      "citationCount": 695,
+      "authors": [
+        {
+          "authorId": "48272707",
+          "name": "Nan Jiang"
+        },
+        {
+          "authorId": "47681372",
+          "name": "Lihong Li"
+        }
+      ]
+    },
+    {
+      "paperId": "baf8acffd7472b9155a6cab71f83d750ad6fdbd1",
+      "externalIds": {
+        "ArXiv": "2404.01830",
+        "DBLP": "journals/corr/abs-2404-01830",
+        "DOI": "10.48550/arXiv.2404.01830",
+        "CorpusId": 268856509
+      },
+      "url": "https://www.semanticscholar.org/paper/baf8acffd7472b9155a6cab71f83d750ad6fdbd1",
+      "title": "Doubly-Robust Off-Policy Evaluation with Estimated Logging Policy",
+      "venue": "arXiv.org",
+      "year": 2024,
+      "referenceCount": 21,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "71486814",
+          "name": "Kyungbok Lee"
+        },
+        {
+          "authorId": "1893021",
+          "name": "M. Paik"
+        }
+      ]
+    },
+    {
+      "paperId": "a3bdc00a85b1ca08e5dc7d122d2a5469af812006",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2308-03443",
+        "ArXiv": "2308.03443",
+        "DOI": "10.1109/SSCI52147.2023.10372057",
+        "CorpusId": 260681239
+      },
+      "url": "https://www.semanticscholar.org/paper/a3bdc00a85b1ca08e5dc7d122d2a5469af812006",
+      "title": "Doubly Robust Estimator for Off-Policy Evaluation with Large Action Spaces",
+      "venue": "IEEE Symposium Series on Computational Intelligence",
+      "year": 2023,
+      "referenceCount": 27,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2227972958",
+          "name": "Tatsuhiro Shimizu"
+        },
+        {
+          "authorId": "2367214571",
+          "name": "Laura Forastiere"
+        }
+      ]
+    },
+    {
+      "paperId": "1849f09ee507f44bd0f9ae14a5c4ccf1facc38d2",
+      "externalIds": {
+        "DOI": "10.3390/math14050846",
+        "CorpusId": 286296545
+      },
+      "url": "https://www.semanticscholar.org/paper/1849f09ee507f44bd0f9ae14a5c4ccf1facc38d2",
+      "title": "Deep Contextual Bandits with Multivariate Outcomes: Empirical Copula Normalization, Temporal Feature Learning, and Doubly Robust Policy Evaluation",
+      "venue": "Mathematics",
+      "year": 2026,
+      "referenceCount": 11,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2269116050",
+          "name": "Jong-Min Kim"
+        }
+      ]
+    }
+  ]
+}

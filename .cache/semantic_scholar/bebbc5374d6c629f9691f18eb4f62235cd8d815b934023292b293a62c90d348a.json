@@ -1,0 +1,285 @@
+{
+  "total": 12,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "48d272eed7c19a9230ecf4ee5c6c8a758f2b470d",
+      "externalIds": {
+        "MAG": "2788036723",
+        "DBLP": "conf/icml/JaffeWCKN18",
+        "ArXiv": "1802.09656",
+        "CorpusId": 51874917
+      },
+      "url": "https://www.semanticscholar.org/paper/48d272eed7c19a9230ecf4ee5c6c8a758f2b470d",
+      "title": "Learning Binary Latent Variable Models: A Tensor Eigenpair Approach",
+      "venue": "International Conference on Machine Learning",
+      "year": 2018,
+      "referenceCount": 55,
+      "citationCount": 13,
+      "authors": [
+        {
+          "authorId": "38415036",
+          "name": "Ariel Jaffe"
+        },
+        {
+          "authorId": "27755643",
+          "name": "Roi Weiss"
+        },
+        {
+          "authorId": "2765857",
+          "name": "S. Carmi"
+        },
+        {
+          "authorId": "40021520",
+          "name": "Y. Kluger"
+        },
+        {
+          "authorId": "1786884",
+          "name": "B. Nadler"
+        }
+      ]
+    },
+    {
+      "paperId": "8dbb9432e7e7e5c11bbe7bdbbe8eb9a14811c970",
+      "externalIds": {
+        "MAG": "2799795748",
+        "DBLP": "phd/dnb/Yang18",
+        "CorpusId": 13686878
+      },
+      "url": "https://www.semanticscholar.org/paper/8dbb9432e7e7e5c11bbe7bdbbe8eb9a14811c970",
+      "title": "Enhancing representation learning with tensor decompositions for knowledge graphs and high dimensional sequence modeling",
+      "venue": "",
+      "year": 2018,
+      "referenceCount": 103,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "3104845",
+          "name": "Yinchong Yang"
+        }
+      ]
+    },
+    {
+      "paperId": "fe50a6a9856b41e87fbb21f4bcfc049318a79c5f",
+      "externalIds": {
+        "DBLP": "journals/access/AlawadHH23",
+        "DOI": "10.1109/ACCESS.2022.3224922",
+        "CorpusId": 256799153
+      },
+      "url": "https://www.semanticscholar.org/paper/fe50a6a9856b41e87fbb21f4bcfc049318a79c5f",
+      "title": "Innovative Variational AutoEncoder for an End-to-End Communication System",
+      "venue": "IEEE Access",
+      "year": 2023,
+      "referenceCount": 56,
+      "citationCount": 22,
+      "authors": [
+        {
+          "authorId": "2144262004",
+          "name": "Mohamad A. Alawad"
+        },
+        {
+          "authorId": "1404317854",
+          "name": "Mutasem Q. Hamdan"
+        },
+        {
+          "authorId": "1719632",
+          "name": "K. Hamdi"
+        }
+      ]
+    },
+    {
+      "paperId": "92e0f569d8fb17559d580d1c3b16a70e682b48b9",
+      "externalIds": {
+        "MAG": "97016928",
+        "DBLP": "journals/jmlr/TaylorHR11",
+        "DOI": "10.5555/1953048.2021035",
+        "CorpusId": 12653008
+      },
+      "url": "https://www.semanticscholar.org/paper/92e0f569d8fb17559d580d1c3b16a70e682b48b9",
+      "title": "Two Distributed-State Models For Generating High-Dimensional Time Series",
+      "venue": "Journal of machine learning research",
+      "year": 2011,
+      "referenceCount": 72,
+      "citationCount": 125,
+      "authors": [
+        {
+          "authorId": "144639556",
+          "name": "Graham W. Taylor"
+        },
+        {
+          "authorId": "1695689",
+          "name": "Geoffrey E. Hinton"
+        },
+        {
+          "authorId": "9330607",
+          "name": "S. Roweis"
+        }
+      ]
+    },
+    {
+      "paperId": "9e31f877b897f03dcfed5cf04cc01ea48b1d7518",
+      "externalIds": {
+        "MAG": "2772964679",
+        "ArXiv": "1711.11057",
+        "DOI": "10.1214/18-AOAS1169",
+        "CorpusId": 25756491
+      },
+      "url": "https://www.semanticscholar.org/paper/9e31f877b897f03dcfed5cf04cc01ea48b1d7518",
+      "title": "On the use of bootstrap with variational inference: Theory, interpretation, and a two-sample test example",
+      "venue": "Annals of Applied Statistics",
+      "year": 2017,
+      "referenceCount": 60,
+      "citationCount": 23,
+      "authors": [
+        {
+          "authorId": "50580372",
+          "name": "Yen-Chi Chen"
+        },
+        {
+          "authorId": "2152607207",
+          "name": "Y. S. Wang"
+        },
+        {
+          "authorId": "1868490",
+          "name": "E. Erosheva"
+        }
+      ]
+    },
+    {
+      "paperId": "da7d596c9720ee5d877585ecbff0a8768a1bb8b3",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-1802-02498",
+        "MAG": "2786414664",
+        "ArXiv": "1802.02498",
+        "CorpusId": 3648102
+      },
+      "url": "https://www.semanticscholar.org/paper/da7d596c9720ee5d877585ecbff0a8768a1bb8b3",
+      "title": "Spectral Learning of Binomial HMMs for DNA Methylation Data",
+      "venue": "arXiv.org",
+      "year": 2018,
+      "referenceCount": 17,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "40201729",
+          "name": "Chicheng Zhang"
+        },
+        {
+          "authorId": "40377684",
+          "name": "E. Mukamel"
+        },
+        {
+          "authorId": "38120884",
+          "name": "Kamalika Chaudhuri"
+        }
+      ]
+    },
+    {
+      "paperId": "b32e0f9d5a99c9ed2d245c6947f9b09773ddfe9f",
+      "externalIds": {
+        "DBLP": "phd/ca/Taylor10",
+        "MAG": "2464714129",
+        "CorpusId": 64241811
+      },
+      "url": "https://www.semanticscholar.org/paper/b32e0f9d5a99c9ed2d245c6947f9b09773ddfe9f",
+      "title": "Composable, Distributed-state Models for High-dimensional Time Series",
+      "venue": "",
+      "year": 2009,
+      "referenceCount": 111,
+      "citationCount": 36,
+      "authors": [
+        {
+          "authorId": "144639556",
+          "name": "Graham W. Taylor"
+        }
+      ]
+    },
+    {
+      "paperId": "c9945ca481eb9fb827fa49b05ff72ac0ef4b6a70",
+      "externalIds": {
+        "DBLP": "conf/caip/JuniorCP17",
+        "MAG": "2740526244",
+        "DOI": "10.1007/978-3-319-64689-3_14",
+        "CorpusId": 42466902
+      },
+      "url": "https://www.semanticscholar.org/paper/c9945ca481eb9fb827fa49b05ff72ac0ef4b6a70",
+      "title": "Deep Boltzmann Machines Using Adaptive Temperatures",
+      "venue": "International Conference on Computer Analysis of Images and Patterns",
+      "year": 2017,
+      "referenceCount": 17,
+      "citationCount": 5,
+      "authors": [
+        {
+          "authorId": "2813782",
+          "name": "L. A. P. Júnior"
+        },
+        {
+          "authorId": "2380158",
+          "name": "K. Costa"
+        },
+        {
+          "authorId": "1759037",
+          "name": "J. Papa"
+        }
+      ]
+    },
+    {
+      "paperId": "85ea076e5114c4309d1f1fe6cb0a386397c72390",
+      "externalIds": {
+        "CorpusId": 15850987
+      },
+      "url": "https://www.semanticscholar.org/paper/85ea076e5114c4309d1f1fe6cb0a386397c72390",
+      "title": "1 Introduction – Problem Statements and Models",
+      "venue": "",
+      "year": null,
+      "referenceCount": 144,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "9377326",
+          "name": "A. Phan"
+        },
+        {
+          "authorId": "144362425",
+          "name": "S. Amari"
+        }
+      ]
+    },
+    {
+      "paperId": "23f45904bc151300e3dac80177b2982439676b4d",
+      "externalIds": {
+        "MAG": "2774947588",
+        "CorpusId": 148608400
+      },
+      "url": "https://www.semanticscholar.org/paper/23f45904bc151300e3dac80177b2982439676b4d",
+      "title": "How to analyse age effects in electrophysiological signatures of second language grammar processing",
+      "venue": "",
+      "year": 2017,
+      "referenceCount": 0,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "143940582",
+          "name": "Sanne Berends"
+        },
+        {
+          "authorId": "117326293",
+          "name": "Martijn B. Wieling"
+        },
+        {
+          "authorId": "46195634",
+          "name": "Simone A. Sprenger"
+        },
+        {
+          "authorId": "2190642",
+          "name": "S. Brouwer"
+        },
+        {
+          "authorId": "3461698",
+          "name": "M. Schmid"
+        }
+      ]
+    }
+  ]
+}

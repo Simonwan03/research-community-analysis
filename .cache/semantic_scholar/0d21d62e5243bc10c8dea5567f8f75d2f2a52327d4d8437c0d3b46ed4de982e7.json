@@ -1,0 +1,314 @@
+{
+  "total": 79,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "dcad2fd88e432f337018e410c44fd45d52851039",
+      "externalIds": {
+        "MAG": "2950649479",
+        "ArXiv": "1511.06727",
+        "DBLP": "journals/corr/LuketinaBR15",
+        "CorpusId": 6281930
+      },
+      "url": "https://www.semanticscholar.org/paper/dcad2fd88e432f337018e410c44fd45d52851039",
+      "title": "Scalable Gradient-Based Tuning of Continuous Regularization Hyperparameters",
+      "venue": "International Conference on Machine Learning",
+      "year": 2015,
+      "referenceCount": 29,
+      "citationCount": 181,
+      "authors": [
+        {
+          "authorId": "1818756",
+          "name": "Jelena Luketina"
+        },
+        {
+          "authorId": "2785022",
+          "name": "T. Raiko"
+        },
+        {
+          "authorId": "2438071",
+          "name": "Mathias Berglund"
+        },
+        {
+          "authorId": "3035541",
+          "name": "Klaus Greff"
+        }
+      ]
+    },
+    {
+      "paperId": "a3be4df28b8d91d93af7f56a51d8156a0bab7128",
+      "externalIds": {
+        "DBLP": "journals/ol/SinhaKM24",
+        "DOI": "10.1007/s11590-023-02057-x",
+        "CorpusId": 263276957
+      },
+      "url": "https://www.semanticscholar.org/paper/a3be4df28b8d91d93af7f56a51d8156a0bab7128",
+      "title": "A gradient-based bilevel optimization approach for tuning regularization hyperparameters",
+      "venue": "Optimization Letters",
+      "year": 2023,
+      "referenceCount": 63,
+      "citationCount": 7,
+      "authors": [
+        {
+          "authorId": "2249120217",
+          "name": "Ankur Sinha"
+        },
+        {
+          "authorId": "2248801505",
+          "name": "Tanmay Khandait"
+        },
+        {
+          "authorId": "2058007044",
+          "name": "R. Mohanty"
+        }
+      ]
+    },
+    {
+      "paperId": "b694d478bc9b7e4828c8fca4ff23433f9bf5e9d3",
+      "externalIds": {
+        "CorpusId": 36828027
+      },
+      "url": "https://www.semanticscholar.org/paper/b694d478bc9b7e4828c8fca4ff23433f9bf5e9d3",
+      "title": "Experiments With Scalable Gradient-based Hyperparameter Optimization for Deep Neural Networks by",
+      "venue": "",
+      "year": 2017,
+      "referenceCount": 70,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "3364784",
+          "name": "Michael St. Jules"
+        }
+      ]
+    },
+    {
+      "paperId": "33af51312f6e5662fbfc908d352394027e434292",
+      "externalIds": {
+        "CorpusId": 51761332
+      },
+      "url": "https://www.semanticscholar.org/paper/33af51312f6e5662fbfc908d352394027e434292",
+      "title": "CONTINUOUS REGULARIZATION HYPERPARAMETERS",
+      "venue": "",
+      "year": 2016,
+      "referenceCount": 22,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "1818756",
+          "name": "Jelena Luketina"
+        },
+        {
+          "authorId": "2438071",
+          "name": "Mathias Berglund"
+        },
+        {
+          "authorId": "2785022",
+          "name": "T. Raiko"
+        }
+      ]
+    },
+    {
+      "paperId": "8abe833756009c406a18da52ca9be7703a70c4c3",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2006-06705",
+        "ArXiv": "2006.06705",
+        "MAG": "3035562355",
+        "CorpusId": 219636217
+      },
+      "url": "https://www.semanticscholar.org/paper/8abe833756009c406a18da52ca9be7703a70c4c3",
+      "title": "Optimizing generalization on the train set: a novel gradient-based framework to train parameters and hyperparameters simultaneously",
+      "venue": "arXiv.org",
+      "year": 2020,
+      "referenceCount": 57,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2777800",
+          "name": "Karim Lounici"
+        },
+        {
+          "authorId": "2638682",
+          "name": "K. Meziani"
+        },
+        {
+          "authorId": "1748971362",
+          "name": "Benjamin Riu"
+        }
+      ]
+    },
+    {
+      "paperId": "0ef6910cb25305a447aaa8c4be89ead9879a5016",
+      "externalIds": {
+        "MAG": "2907670343",
+        "ArXiv": "1903.03088",
+        "DBLP": "conf/iclr/MacKayVLDG19",
+        "CorpusId": 59551640
+      },
+      "url": "https://www.semanticscholar.org/paper/0ef6910cb25305a447aaa8c4be89ead9879a5016",
+      "title": "Self-Tuning Networks: Bilevel Optimization of Hyperparameters using Structured Best-Response Functions",
+      "venue": "International Conference on Learning Representations",
+      "year": 2019,
+      "referenceCount": 67,
+      "citationCount": 186,
+      "authors": [
+        {
+          "authorId": "2777803",
+          "name": "M. Mackay"
+        },
+        {
+          "authorId": "2039154",
+          "name": "Paul Vicol"
+        },
+        {
+          "authorId": "35839440",
+          "name": "Jonathan Lorraine"
+        },
+        {
+          "authorId": "1704657",
+          "name": "D. Duvenaud"
+        },
+        {
+          "authorId": "1785346",
+          "name": "R. Grosse"
+        }
+      ]
+    },
+    {
+      "paperId": "82e29fcba37765566ddf3c66c3ab57be9797ab0d",
+      "externalIds": {
+        "DBLP": "journals/jcise/OrtizMEMTCS24",
+        "DOI": "10.1115/1.4065777",
+        "CorpusId": 270601009
+      },
+      "url": "https://www.semanticscholar.org/paper/82e29fcba37765566ddf3c66c3ab57be9797ab0d",
+      "title": "An Enhanced Modeling Framework for Bearing Fault Simulation and Machine Learning-Based Identification With Bayesian-Optimized Hyperparameter Tuning",
+      "venue": "Journal of Computing and Information Science in Engineering",
+      "year": 2024,
+      "referenceCount": 0,
+      "citationCount": 11,
+      "authors": [
+        {
+          "authorId": "2307330998",
+          "name": "Ricardo Ortiz"
+        },
+        {
+          "authorId": "2307331849",
+          "name": "Piedad Miranda‐Chiquito"
+        },
+        {
+          "authorId": "2060882160",
+          "name": "Á. Encalada-Dávila"
+        },
+        {
+          "authorId": "2307332005",
+          "name": "Luis Marquez"
+        },
+        {
+          "authorId": "8675978",
+          "name": "C. Tutivén"
+        },
+        {
+          "authorId": "2300628060",
+          "name": "Eleni Chatzi"
+        },
+        {
+          "authorId": "2174937731",
+          "name": "Christian E. Silva"
+        }
+      ]
+    },
+    {
+      "paperId": "ed4e9c26f15fbb72c512aaf74e74b3495872591d",
+      "externalIds": {
+        "ArXiv": "2310.17588",
+        "DBLP": "journals/corr/abs-2310-17588",
+        "DOI": "10.48550/arXiv.2310.17588",
+        "CorpusId": 264491122
+      },
+      "url": "https://www.semanticscholar.org/paper/ed4e9c26f15fbb72c512aaf74e74b3495872591d",
+      "title": "PAC-tuning: Fine-tuning Pretrained Language Models with PAC-driven Perturbed Gradient Descent",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2023,
+      "referenceCount": 46,
+      "citationCount": 8,
+      "authors": [
+        {
+          "authorId": "2152758698",
+          "name": "Guang-Da Liu"
+        },
+        {
+          "authorId": "2146718060",
+          "name": "Zhiyu Xue"
+        },
+        {
+          "authorId": "2257363307",
+          "name": "Xitong Zhang"
+        },
+        {
+          "authorId": "2262203039",
+          "name": "K. Johnson"
+        },
+        {
+          "authorId": "2258699836",
+          "name": "Rongrong Wang"
+        }
+      ]
+    },
+    {
+      "paperId": "a1130e4bf9fc53cd8c77437fc3f0d37dcf0025ec",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2004-09434",
+        "MAG": "3167761096",
+        "ArXiv": "2004.09434",
+        "DOI": "10.1007/s10851-021-01035-1",
+        "CorpusId": 215827892
+      },
+      "url": "https://www.semanticscholar.org/paper/a1130e4bf9fc53cd8c77437fc3f0d37dcf0025ec",
+      "title": "Automated Data-Driven Selection of the Hyperparameters for Total-Variation-Based Texture Segmentation",
+      "venue": "Journal of Mathematical Imaging and Vision",
+      "year": 2020,
+      "referenceCount": 84,
+      "citationCount": 21,
+      "authors": [
+        {
+          "authorId": "51258290",
+          "name": "B. Pascal"
+        },
+        {
+          "authorId": "3310559",
+          "name": "Samuel Vaiter"
+        },
+        {
+          "authorId": "1748202",
+          "name": "N. Pustelnik"
+        },
+        {
+          "authorId": "1731012",
+          "name": "P. Abry"
+        }
+      ]
+    },
+    {
+      "paperId": "75dfa2019e45595e193ee1af0e67aa3a88521faf",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2509-00174",
+        "ArXiv": "2509.00174",
+        "DOI": "10.48550/arXiv.2509.00174",
+        "CorpusId": 281079671
+      },
+      "url": "https://www.semanticscholar.org/paper/75dfa2019e45595e193ee1af0e67aa3a88521faf",
+      "title": "Principled Approximation Methods for Efficient and Scalable Deep Learning",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "referenceCount": 0,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "1387999547",
+          "name": "Pedro H. P. Savarese"
+        }
+      ]
+    }
+  ]
+}

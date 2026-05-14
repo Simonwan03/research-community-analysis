@@ -1,0 +1,313 @@
+{
+  "total": 69,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "1f61a3b80d12343b91ea00c85c8dd5eb1486e2d1",
+      "externalIds": {
+        "ArXiv": "1603.01912",
+        "MAG": "2951236218",
+        "DBLP": "conf/icml/CarlsonSPP16",
+        "CorpusId": 1146685
+      },
+      "url": "https://www.semanticscholar.org/paper/1f61a3b80d12343b91ea00c85c8dd5eb1486e2d1",
+      "title": "Partition Functions from Rao-Blackwellized Tempered Sampling",
+      "venue": "International Conference on Machine Learning",
+      "year": 2016,
+      "referenceCount": 45,
+      "citationCount": 13,
+      "authors": [
+        {
+          "authorId": "144752689",
+          "name": "David Edwin Carlson"
+        },
+        {
+          "authorId": "1938854",
+          "name": "Patrick Stinson"
+        },
+        {
+          "authorId": "3314041",
+          "name": "Ari Pakman"
+        },
+        {
+          "authorId": "1763504",
+          "name": "L. Paninski"
+        }
+      ]
+    },
+    {
+      "paperId": "786d7b1eee3e3755f51def3a514f8b0cc1f5b139",
+      "externalIds": {
+        "ArXiv": "2511.19568",
+        "CorpusId": 283250609
+      },
+      "url": "https://www.semanticscholar.org/paper/786d7b1eee3e3755f51def3a514f8b0cc1f5b139",
+      "title": "Rao-Blackwellized Coverage Estimation in Poisson Networks: A High-Fidelity Hybrid Framework",
+      "venue": "",
+      "year": 2025,
+      "referenceCount": 16,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "1765552",
+          "name": "Sunder Ram Krishnan"
+        },
+        {
+          "authorId": "2064725437",
+          "name": "Junaid Farooq"
+        },
+        {
+          "authorId": "2276429245",
+          "name": "K. V. Mishra"
+        },
+        {
+          "authorId": "2244627592",
+          "name": "Xingchen Liu"
+        },
+        {
+          "authorId": "2265497076",
+          "name": "S. Pillai"
+        },
+        {
+          "authorId": "2366166805",
+          "name": "Theodore S. Rappaport"
+        }
+      ]
+    },
+    {
+      "paperId": "129a83c5bd1e807cba6dc90f9ea850e9f9ef402e",
+      "externalIds": {
+        "ArXiv": "2312.14000",
+        "DBLP": "journals/corr/abs-2312-14000",
+        "DOI": "10.48550/arXiv.2312.14000",
+        "CorpusId": 266435750
+      },
+      "url": "https://www.semanticscholar.org/paper/129a83c5bd1e807cba6dc90f9ea850e9f9ef402e",
+      "title": "Risk-Sensitive Stochastic Optimal Control as Rao-Blackwellized Markovian Score Climbing",
+      "venue": "arXiv.org",
+      "year": 2023,
+      "referenceCount": 49,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "2624923",
+          "name": "Hany Abdulsamad"
+        },
+        {
+          "authorId": "2275602443",
+          "name": "Sahel Iqbal"
+        },
+        {
+          "authorId": "2047549155",
+          "name": "Adrien Corenflos"
+        },
+        {
+          "authorId": "30443320",
+          "name": "Simo Särkkä"
+        }
+      ]
+    },
+    {
+      "paperId": "12321a8c35448747824b56e985f192b790707586",
+      "externalIds": {
+        "ArXiv": "2603.13207",
+        "CorpusId": 286519915
+      },
+      "url": "https://www.semanticscholar.org/paper/12321a8c35448747824b56e985f192b790707586",
+      "title": "Estimating the Missing Mass, Partition Function or Evidence for a Case of Sampling from a Discrete Set",
+      "venue": "",
+      "year": 2026,
+      "referenceCount": 39,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2042575",
+          "name": "B. Braams"
+        }
+      ]
+    },
+    {
+      "paperId": "9e5ed12f44ff09ba0d9c32ab1cdf4602fe6d1110",
+      "externalIds": {
+        "MAG": "2552036097",
+        "DBLP": "journals/taes/MurangiraMD16",
+        "DOI": "10.1109/TAES.2016.150089",
+        "CorpusId": 3558531
+      },
+      "url": "https://www.semanticscholar.org/paper/9e5ed12f44ff09ba0d9c32ab1cdf4602fe6d1110",
+      "title": "A mixture regularized rao-blackwellized particle filter for terrain positioning",
+      "venue": "IEEE Transactions on Aerospace and Electronic Systems",
+      "year": 2016,
+      "referenceCount": 30,
+      "citationCount": 33,
+      "authors": [
+        {
+          "authorId": "1831725",
+          "name": "Achille Murangira"
+        },
+        {
+          "authorId": "4475763",
+          "name": "C. Musso"
+        },
+        {
+          "authorId": "2437153",
+          "name": "K. Dahia"
+        }
+      ]
+    },
+    {
+      "paperId": "d2cdd85672e22cda84dc846ca8fcd727fe221866",
+      "externalIds": {
+        "MAG": "2075123966",
+        "DOI": "10.14429/DSJ.59.1512",
+        "CorpusId": 54948253
+      },
+      "url": "https://www.semanticscholar.org/paper/d2cdd85672e22cda84dc846ca8fcd727fe221866",
+      "title": "Multiple Model Rao-Blackwellized Particle Filter for Manoeuvring Target Tracking",
+      "venue": "",
+      "year": 2009,
+      "referenceCount": 15,
+      "citationCount": 17,
+      "authors": [
+        {
+          "authorId": "2127490",
+          "name": "Liang-qun Li"
+        },
+        {
+          "authorId": "144028636",
+          "name": "Wei-xin Xie"
+        },
+        {
+          "authorId": "2154905921",
+          "name": "Jingqi Huang"
+        },
+        {
+          "authorId": "2135634533",
+          "name": "Jianjun Huang"
+        }
+      ]
+    },
+    {
+      "paperId": "3c60c7f9147f09762e5aac474a93f030df9b33e0",
+      "externalIds": {
+        "ArXiv": "2210.03138",
+        "DOI": "10.1093/mnras/stad1471",
+        "CorpusId": 252762530
+      },
+      "url": "https://www.semanticscholar.org/paper/3c60c7f9147f09762e5aac474a93f030df9b33e0",
+      "title": "Partition function approach to non-Gaussian likelihoods: Formalism and expansions for weakly non-Gaussian cosmological inference",
+      "venue": "Monthly notices of the Royal Astronomical Society",
+      "year": 2022,
+      "referenceCount": 6,
+      "citationCount": 4,
+      "authors": [
+        {
+          "authorId": "2146257910",
+          "name": "Lennart Rover"
+        },
+        {
+          "authorId": "2187208843",
+          "name": "L. Bartels"
+        },
+        {
+          "authorId": "102408503",
+          "name": "B. M. Schafer"
+        }
+      ]
+    },
+    {
+      "paperId": "656c1ea9baaaf51df32ea5dc346e3eacd396f1c0",
+      "externalIds": {
+        "ArXiv": "2512.17977",
+        "DBLP": "journals/corr/abs-2512-17977",
+        "DOI": "10.48550/arXiv.2512.17977",
+        "CorpusId": 284078277
+      },
+      "url": "https://www.semanticscholar.org/paper/656c1ea9baaaf51df32ea5dc346e3eacd396f1c0",
+      "title": "Sampling from multimodal distributions with warm starts: Non-asymptotic bounds for the Reweighted Annealed Leap-Point Sampler",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "referenceCount": 0,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2304370866",
+          "name": "Holden Lee"
+        },
+        {
+          "authorId": "2303845069",
+          "name": "Matheau Santana-Gijzen"
+        }
+      ]
+    },
+    {
+      "paperId": "f00a2a2dbc7828b667b75b369317e4fbb20466f0",
+      "externalIds": {
+        "ArXiv": "2405.15376",
+        "DBLP": "conf/iclr/BereuxDFRS25",
+        "CorpusId": 270045103
+      },
+      "url": "https://www.semanticscholar.org/paper/f00a2a2dbc7828b667b75b369317e4fbb20466f0",
+      "title": "Fast training and sampling of Restricted Boltzmann Machines",
+      "venue": "International Conference on Learning Representations",
+      "year": 2024,
+      "referenceCount": 55,
+      "citationCount": 12,
+      "authors": [
+        {
+          "authorId": "2303254310",
+          "name": "Nicolas B'ereux"
+        },
+        {
+          "authorId": "2769325",
+          "name": "A. Decelle"
+        },
+        {
+          "authorId": "2237990161",
+          "name": "Cyril Furtlehner"
+        },
+        {
+          "authorId": "2089553681",
+          "name": "Lorenzo Rosset"
+        },
+        {
+          "authorId": "2237989085",
+          "name": "Beatriz Seoane"
+        }
+      ]
+    },
+    {
+      "paperId": "5c0a2c365b7db0d1d11bf2b135b214d36e3b669f",
+      "externalIds": {
+        "MAG": "3109228496",
+        "DOI": "10.1007/s42519-020-00139-y",
+        "CorpusId": 229406356
+      },
+      "url": "https://www.semanticscholar.org/paper/5c0a2c365b7db0d1d11bf2b135b214d36e3b669f",
+      "title": "Unordering of Estimators in Sampling Theory: Revisited",
+      "venue": "Journal of Statistical Theory and Practice",
+      "year": 2020,
+      "referenceCount": 26,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "152371309",
+          "name": "T. J. Rao"
+        },
+        {
+          "authorId": "47770482",
+          "name": "R. Khattree"
+        },
+        {
+          "authorId": "1877358",
+          "name": "S. Jammalamadaka"
+        },
+        {
+          "authorId": "2263904259",
+          "name": "M. Rao"
+        }
+      ]
+    }
+  ]
+}

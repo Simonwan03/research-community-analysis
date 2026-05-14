@@ -1,0 +1,702 @@
+{
+  "offset": 0,
+  "citingPaperInfo": {
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/1502.03509, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "title": "MADE: Masked Autoencoder for Distribution Estimation",
+    "authors": [
+      {
+        "authorId": "39844381",
+        "name": "M. Germain"
+      },
+      {
+        "authorId": "144717963",
+        "name": "Karol Gregor"
+      },
+      {
+        "authorId": "145797336",
+        "name": "Iain Murray"
+      },
+      {
+        "authorId": "1777528",
+        "name": "H. Larochelle"
+      }
+    ]
+  },
+  "data": [
+    {
+      "citedPaper": {
+        "paperId": "dc8301b67f98accbb331190dd7bd987952a692af",
+        "externalIds": {
+          "MAG": "2964020555",
+          "DBLP": "journals/corr/DinhKB14",
+          "ArXiv": "1410.8516",
+          "CorpusId": 13995862
+        },
+        "url": "https://www.semanticscholar.org/paper/dc8301b67f98accbb331190dd7bd987952a692af",
+        "title": "NICE: Non-linear Independent Components Estimation",
+        "venue": "International Conference on Learning Representations",
+        "year": 2014,
+        "referenceCount": 35,
+        "citationCount": 2564,
+        "authors": [
+          {
+            "authorId": "46573521",
+            "name": "Laurent Dinh"
+          },
+          {
+            "authorId": "145055042",
+            "name": "David Krueger"
+          },
+          {
+            "authorId": "1751762",
+            "name": "Yoshua Bengio"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "484ad17c926292fbe0d5211540832a8c8a8e958b",
+        "externalIds": {
+          "MAG": "1909320841",
+          "DBLP": "conf/icml/RezendeMW14",
+          "CorpusId": 16895865
+        },
+        "url": "https://www.semanticscholar.org/paper/484ad17c926292fbe0d5211540832a8c8a8e958b",
+        "title": "Stochastic Backpropagation and Approximate Inference in Deep Generative Models",
+        "venue": "International Conference on Machine Learning",
+        "year": 2014,
+        "referenceCount": 39,
+        "citationCount": 5612,
+        "authors": [
+          {
+            "authorId": "1748523",
+            "name": "Danilo Jimenez Rezende"
+          },
+          {
+            "authorId": "14594344",
+            "name": "S. Mohamed"
+          },
+          {
+            "authorId": "1688276",
+            "name": "Daan Wierstra"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "5f5dc5b9a2ba710937e2c413b37b053cd673df02",
+        "externalIds": {
+          "DBLP": "journals/corr/KingmaW13",
+          "MAG": "2951004968",
+          "ArXiv": "1312.6114",
+          "CorpusId": 216078090
+        },
+        "url": "https://www.semanticscholar.org/paper/5f5dc5b9a2ba710937e2c413b37b053cd673df02",
+        "title": "Auto-Encoding Variational Bayes",
+        "venue": "International Conference on Learning Representations",
+        "year": 2013,
+        "referenceCount": 26,
+        "citationCount": 17030,
+        "authors": [
+          {
+            "authorId": "1726807",
+            "name": "Diederik P. Kingma"
+          },
+          {
+            "authorId": "1678311",
+            "name": "M. Welling"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "695a2c95eacdbccb7a73d2f1e90e7b35b4b3d864",
+        "externalIds": {
+          "DBLP": "conf/icml/GregorDMBW14",
+          "ArXiv": "1310.8499",
+          "MAG": "2949595773",
+          "CorpusId": 14576846
+        },
+        "url": "https://www.semanticscholar.org/paper/695a2c95eacdbccb7a73d2f1e90e7b35b4b3d864",
+        "title": "Deep AutoRegressive Networks",
+        "venue": "International Conference on Machine Learning",
+        "year": 2013,
+        "referenceCount": 28,
+        "citationCount": 303,
+        "authors": [
+          {
+            "authorId": "144717963",
+            "name": "Karol Gregor"
+          },
+          {
+            "authorId": "1841008",
+            "name": "Ivo Danihelka"
+          },
+          {
+            "authorId": "1714004",
+            "name": "A. Mnih"
+          },
+          {
+            "authorId": "1723876",
+            "name": "C. Blundell"
+          },
+          {
+            "authorId": "1688276",
+            "name": "Daan Wierstra"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "705fd4febe2fff810d2f72f48dcda20826eca77a",
+        "externalIds": {
+          "DBLP": "journals/corr/UriaML13a",
+          "MAG": "2170111110",
+          "ArXiv": "1310.1757",
+          "CorpusId": 13147238
+        },
+        "url": "https://www.semanticscholar.org/paper/705fd4febe2fff810d2f72f48dcda20826eca77a",
+        "title": "A Deep and Tractable Density Estimator",
+        "venue": "International Conference on Machine Learning",
+        "year": 2013,
+        "referenceCount": 20,
+        "citationCount": 193,
+        "authors": [
+          {
+            "authorId": "2825051",
+            "name": "Benigno Uria"
+          },
+          {
+            "authorId": "145797336",
+            "name": "Iain Murray"
+          },
+          {
+            "authorId": "1777528",
+            "name": "H. Larochelle"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "38f35dd624cd1cf827416e31ac5e0e0454028eca",
+        "externalIds": {
+          "DBLP": "conf/icml/WanZZLF13",
+          "MAG": "4919037",
+          "CorpusId": 2936324
+        },
+        "url": "https://www.semanticscholar.org/paper/38f35dd624cd1cf827416e31ac5e0e0454028eca",
+        "title": "Regularization of Neural Networks using DropConnect",
+        "venue": "International Conference on Machine Learning",
+        "year": 2013,
+        "referenceCount": 15,
+        "citationCount": 2634,
+        "authors": [
+          {
+            "authorId": "2053671127",
+            "name": "Li Wan"
+          },
+          {
+            "authorId": "48799969",
+            "name": "Matthew D. Zeiler"
+          },
+          {
+            "authorId": "33551113",
+            "name": "Sixin Zhang"
+          },
+          {
+            "authorId": "1688882",
+            "name": "Yann LeCun"
+          },
+          {
+            "authorId": "2276554",
+            "name": "R. Fergus"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "5ffa8bf1bf3e39227be28de4ff6915d3b21eb52d",
+        "externalIds": {
+          "MAG": "2951446714",
+          "ArXiv": "1306.1091",
+          "DBLP": "conf/icml/BengioLAY14",
+          "CorpusId": 9494295
+        },
+        "url": "https://www.semanticscholar.org/paper/5ffa8bf1bf3e39227be28de4ff6915d3b21eb52d",
+        "title": "Deep Generative Stochastic Networks Trainable by Backprop",
+        "venue": "International Conference on Machine Learning",
+        "year": 2013,
+        "referenceCount": 41,
+        "citationCount": 400,
+        "authors": [
+          {
+            "authorId": "1751762",
+            "name": "Yoshua Bengio"
+          },
+          {
+            "authorId": "1398746441",
+            "name": "Eric Thibodeau-Laufer"
+          },
+          {
+            "authorId": "1815021",
+            "name": "Guillaume Alain"
+          },
+          {
+            "authorId": "2965424",
+            "name": "J. Yosinski"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "309494da0769345cb35ca0b7b0aae8143eee85a2",
+        "externalIds": {
+          "ArXiv": "1306.0186",
+          "MAG": "2140574335",
+          "DBLP": "conf/nips/UriaML13",
+          "CorpusId": 14249325
+        },
+        "url": "https://www.semanticscholar.org/paper/309494da0769345cb35ca0b7b0aae8143eee85a2",
+        "title": "RNADE: The real-valued neural autoregressive density-estimator",
+        "venue": "Neural Information Processing Systems",
+        "year": 2013,
+        "referenceCount": 35,
+        "citationCount": 242,
+        "authors": [
+          {
+            "authorId": "2825051",
+            "name": "Benigno Uria"
+          },
+          {
+            "authorId": "145797336",
+            "name": "Iain Murray"
+          },
+          {
+            "authorId": "1777528",
+            "name": "H. Larochelle"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "8729441d734782c3ed532a7d2d9611b438c0a09a",
+        "externalIds": {
+          "ArXiv": "1212.5701",
+          "MAG": "6908809",
+          "DBLP": "journals/corr/abs-1212-5701",
+          "CorpusId": 7365802
+        },
+        "url": "https://www.semanticscholar.org/paper/8729441d734782c3ed532a7d2d9611b438c0a09a",
+        "title": "ADADELTA: An Adaptive Learning Rate Method",
+        "venue": "arXiv.org",
+        "year": 2012,
+        "referenceCount": 8,
+        "citationCount": 6833,
+        "authors": [
+          {
+            "authorId": "48799969",
+            "name": "Matthew D. Zeiler"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "855d0f722d75cc56a66a00ede18ace96bafee6bd",
+        "externalIds": {
+          "ArXiv": "1211.5590",
+          "DBLP": "journals/corr/abs-1211-5590",
+          "MAG": "1606347560",
+          "CorpusId": 8180128
+        },
+        "url": "https://www.semanticscholar.org/paper/855d0f722d75cc56a66a00ede18ace96bafee6bd",
+        "title": "Theano: new features and speed improvements",
+        "venue": "arXiv.org",
+        "year": 2012,
+        "referenceCount": 15,
+        "citationCount": 1407,
+        "authors": [
+          {
+            "authorId": "3227028",
+            "name": "Frédéric Bastien"
+          },
+          {
+            "authorId": "3087941",
+            "name": "Pascal Lamblin"
+          },
+          {
+            "authorId": "1996134",
+            "name": "Razvan Pascanu"
+          },
+          {
+            "authorId": "32837403",
+            "name": "J. Bergstra"
+          },
+          {
+            "authorId": "153440022",
+            "name": "I. Goodfellow"
+          },
+          {
+            "authorId": "47944877",
+            "name": "Arnaud Bergeron"
+          },
+          {
+            "authorId": "2065828537",
+            "name": "Nicolas Bouchard"
+          },
+          {
+            "authorId": "1393680089",
+            "name": "David Warde-Farley"
+          },
+          {
+            "authorId": "1751762",
+            "name": "Yoshua Bengio"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "bf326ddb9b9b15f5a285600af29e43c558ac890f",
+        "externalIds": {
+          "ArXiv": "1108.1169",
+          "DBLP": "journals/corr/abs-1108-1169",
+          "MAG": "1537436316",
+          "CorpusId": 7450691
+        },
+        "url": "https://www.semanticscholar.org/paper/bf326ddb9b9b15f5a285600af29e43c558ac890f",
+        "title": "Learning Representations by Maximizing Compression",
+        "venue": "arXiv.org",
+        "year": 2011,
+        "referenceCount": 9,
+        "citationCount": 17,
+        "authors": [
+          {
+            "authorId": "144717963",
+            "name": "Karol Gregor"
+          },
+          {
+            "authorId": "1688882",
+            "name": "Yann LeCun"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "d1b21442aa4a6af708d64082d61f6e63e1d4cdf1",
+        "externalIds": {
+          "MAG": "2949869425",
+          "DBLP": "journals/corr/abs-1202-3732",
+          "ArXiv": "1202.3732",
+          "DOI": "10.1109/ICCVW.2011.6130310",
+          "CorpusId": 2139779
+        },
+        "url": "https://www.semanticscholar.org/paper/d1b21442aa4a6af708d64082d61f6e63e1d4cdf1",
+        "title": "Sum-product networks: A new deep architecture",
+        "venue": "IEEE International Conference on Computer Vision",
+        "year": 2011,
+        "referenceCount": 39,
+        "citationCount": 812,
+        "authors": [
+          {
+            "authorId": "1759772",
+            "name": "Hoifung Poon"
+          },
+          {
+            "authorId": "1740213",
+            "name": "Pedro M. Domingos"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "413c1142de9d91804d6d11c67ff3fed59c9fc279",
+        "externalIds": {
+          "MAG": "2405601855",
+          "DBLP": "journals/jmlr/DuchiHS11",
+          "DOI": "10.5555/1953048.2021068",
+          "CorpusId": 538820
+        },
+        "url": "https://www.semanticscholar.org/paper/413c1142de9d91804d6d11c67ff3fed59c9fc279",
+        "title": "Adaptive Subgradient Methods for Online Learning and Stochastic Optimization",
+        "venue": "Journal of machine learning research",
+        "year": 2011,
+        "referenceCount": 55,
+        "citationCount": 11242,
+        "authors": [
+          {
+            "authorId": "1734693",
+            "name": "John C. Duchi"
+          },
+          {
+            "authorId": "34840427",
+            "name": "Elad Hazan"
+          },
+          {
+            "authorId": "1740765",
+            "name": "Y. Singer"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "4e3aaac4439825650480f9cb914aa895d55d1e13",
+        "externalIds": {
+          "MAG": "2162747531",
+          "DBLP": "conf/nips/SchmahHZSS08",
+          "CorpusId": 9695661
+        },
+        "url": "https://www.semanticscholar.org/paper/4e3aaac4439825650480f9cb914aa895d55d1e13",
+        "title": "Generative versus discriminative training of RBMs for classification of fMRI images",
+        "venue": "Neural Information Processing Systems",
+        "year": 2008,
+        "referenceCount": 18,
+        "citationCount": 82,
+        "authors": [
+          {
+            "authorId": "1783426",
+            "name": "T. Schmah"
+          },
+          {
+            "authorId": "1695689",
+            "name": "Geoffrey E. Hinton"
+          },
+          {
+            "authorId": "1804104",
+            "name": "R. Zemel"
+          },
+          {
+            "authorId": "1756977",
+            "name": "S. Small"
+          },
+          {
+            "authorId": "2790050",
+            "name": "S. Strother"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "08d0ea90b53aba0008d25811268fe46562cfb38c",
+        "externalIds": {
+          "MAG": "2096192494",
+          "DBLP": "conf/icml/SalakhutdinovM08",
+          "DOI": "10.1145/1390156.1390266",
+          "CorpusId": 458722
+        },
+        "url": "https://www.semanticscholar.org/paper/08d0ea90b53aba0008d25811268fe46562cfb38c",
+        "title": "On the quantitative analysis of deep belief networks",
+        "venue": "International Conference on Machine Learning",
+        "year": 2008,
+        "referenceCount": 18,
+        "citationCount": 524,
+        "authors": [
+          {
+            "authorId": "145124475",
+            "name": "R. Salakhutdinov"
+          },
+          {
+            "authorId": "145797336",
+            "name": "Iain Murray"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "190e4800c67ef445e4bd0944a55debaccebcf43f",
+        "externalIds": {
+          "MAG": "2103936488",
+          "DBLP": "conf/nips/BengioB99",
+          "CorpusId": 9580239
+        },
+        "url": "https://www.semanticscholar.org/paper/190e4800c67ef445e4bd0944a55debaccebcf43f",
+        "title": "Modeling High-Dimensional Discrete Data with Multi-Layer Neural Networks",
+        "venue": "Neural Information Processing Systems",
+        "year": 1999,
+        "referenceCount": 6,
+        "citationCount": 152,
+        "authors": [
+          {
+            "authorId": "1751762",
+            "name": "Yoshua Bengio"
+          },
+          {
+            "authorId": "1751569",
+            "name": "Samy Bengio"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "34f25a8704614163c4095b3ee2fc969b60de4698",
+        "externalIds": {
+          "DBLP": "journals/jmlr/SrivastavaHKSS14",
+          "MAG": "2095705004",
+          "DOI": "10.5555/2627435.2670313",
+          "CorpusId": 6844431
+        },
+        "url": "https://www.semanticscholar.org/paper/34f25a8704614163c4095b3ee2fc969b60de4698",
+        "title": "Dropout: a simple way to prevent neural networks from overfitting",
+        "venue": "Journal of machine learning research",
+        "year": 2014,
+        "referenceCount": 38,
+        "citationCount": 42911,
+        "authors": [
+          {
+            "authorId": "2897313",
+            "name": "Nitish Srivastava"
+          },
+          {
+            "authorId": "1695689",
+            "name": "Geoffrey E. Hinton"
+          },
+          {
+            "authorId": "2064160",
+            "name": "A. Krizhevsky"
+          },
+          {
+            "authorId": "1701686",
+            "name": "I. Sutskever"
+          },
+          {
+            "authorId": "145124475",
+            "name": "R. Salakhutdinov"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "b893e7053c9c7e266a23fb13a42261a88f650210",
+        "externalIds": {
+          "DBLP": "journals/jmlr/LarochelleM11",
+          "MAG": "2135181320",
+          "CorpusId": 141054998
+        },
+        "url": "https://www.semanticscholar.org/paper/b893e7053c9c7e266a23fb13a42261a88f650210",
+        "title": "The Neural Autoregressive Distribution Estimator",
+        "venue": "International Conference on Artificial Intelligence and Statistics",
+        "year": 2011,
+        "referenceCount": 29,
+        "citationCount": 586,
+        "authors": [
+          {
+            "authorId": "1777528",
+            "name": "H. Larochelle"
+          },
+          {
+            "authorId": "145797336",
+            "name": "Iain Murray"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "Theano: a CPU and GPU math expression compiler",
+        "venue": "Proceedings of the Python for Scientific Computing Conference (SciPy)",
+        "year": 2010,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "Table 8. Binarized MNIST negative log-likelihood and 95% confidence intervals for Table 6 in the main document",
+        "venue": "Table 8. Binarized MNIST negative log-likelihood and 95% confidence intervals for Table 6 in the main document",
+        "year": null,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "ea9381d2aa2690596660d930420fe752e3905b19",
+        "externalIds": {
+          "CorpusId": 402835
+        },
+        "url": "https://www.semanticscholar.org/paper/ea9381d2aa2690596660d930420fe752e3905b19",
+        "title": "Edinburgh Research Explorer Modelling acoustic feature dependencies with artificial neural networks: Trajectory-RNADE",
+        "venue": "",
+        "year": null,
+        "referenceCount": 24,
+        "citationCount": 31,
+        "authors": [
+          {
+            "authorId": "2825051",
+            "name": "Benigno Uria"
+          },
+          {
+            "authorId": "145797336",
+            "name": "Iain Murray"
+          },
+          {
+            "authorId": "2240309448",
+            "name": "Steve Renals"
+          },
+          {
+            "authorId": "1401922561",
+            "name": "Cassia Valentini-Botinhao"
+          },
+          {
+            "authorId": "2110094",
+            "name": "J. Bridle"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "The best result as well as any other result with an overlapping confidence interval is shown in bold",
+        "venue": "The best result as well as any other result with an overlapping confidence interval is shown in bold",
+        "year": null,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "UCI Negative log-likelihood test results of different models on multiple datasets",
+        "venue": "UCI Negative log-likelihood test results of different models on multiple datasets",
+        "year": null,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    }
+  ]
+}

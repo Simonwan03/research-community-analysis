@@ -1,0 +1,168 @@
+{
+  "total": 6,
+  "offset": 0,
+  "data": [
+    {
+      "paperId": "0ca51467d034828689a723b6faeccbbbcada5485",
+      "externalIds": {
+        "MAG": "2950050692",
+        "DBLP": "conf/icml/AsadiL17",
+        "CorpusId": 8104710
+      },
+      "url": "https://www.semanticscholar.org/paper/0ca51467d034828689a723b6faeccbbbcada5485",
+      "title": "An Alternative Softmax Operator for Reinforcement Learning",
+      "venue": "International Conference on Machine Learning",
+      "year": 2016,
+      "referenceCount": 38,
+      "citationCount": 231,
+      "authors": [
+        {
+          "authorId": "7981071",
+          "name": "Kavosh Asadi"
+        },
+        {
+          "authorId": "144885169",
+          "name": "M. Littman"
+        }
+      ]
+    },
+    {
+      "paperId": "1df68657d62cf94ee95b8d44ff0fec073f88ab05",
+      "externalIds": {
+        "DBLP": "journals/corr/AsadiL16",
+        "ArXiv": "1612.05628",
+        "MAG": "2561341241",
+        "CorpusId": 9028592
+      },
+      "url": "https://www.semanticscholar.org/paper/1df68657d62cf94ee95b8d44ff0fec073f88ab05",
+      "title": "A New Softmax Operator for Reinforcement Learning",
+      "venue": "arXiv.org",
+      "year": 2016,
+      "referenceCount": 34,
+      "citationCount": 10,
+      "authors": [
+        {
+          "authorId": "7981071",
+          "name": "Kavosh Asadi"
+        },
+        {
+          "authorId": "144885169",
+          "name": "M. Littman"
+        }
+      ]
+    },
+    {
+      "paperId": "8321641f955713efa53caba33b6d7cbf87964f38",
+      "externalIds": {
+        "DBLP": "journals/tmlr/MiahiMAMW23",
+        "CorpusId": 266820592
+      },
+      "url": "https://www.semanticscholar.org/paper/8321641f955713efa53caba33b6d7cbf87964f38",
+      "title": "Resmax: An Alternative Soft-Greedy Operator for Reinforcement Learning",
+      "venue": "Trans. Mach. Learn. Res.",
+      "year": 2023,
+      "referenceCount": 28,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "1388010628",
+          "name": "Erfan Miahi"
+        },
+        {
+          "authorId": "2030713966",
+          "name": "Revan MacQueen"
+        },
+        {
+          "authorId": "2330412701",
+          "name": "Alex Ayoub"
+        },
+        {
+          "authorId": "2278285803",
+          "name": "Abbas Masoumzadeh"
+        },
+        {
+          "authorId": "2292188165",
+          "name": "Martha White"
+        }
+      ]
+    },
+    {
+      "paperId": "bd933323dacfaa0e243bd28d81eca28f253688fe",
+      "externalIds": {
+        "CorpusId": 208980169
+      },
+      "url": "https://www.semanticscholar.org/paper/bd933323dacfaa0e243bd28d81eca28f253688fe",
+      "title": "Adaptive Temperature Tuning for Mellowmax in Deep Reinforcement Learning",
+      "venue": "",
+      "year": 2019,
+      "referenceCount": 12,
+      "citationCount": 4,
+      "authors": [
+        {
+          "authorId": "2144254660",
+          "name": "Seungchan Kim"
+        }
+      ]
+    },
+    {
+      "paperId": "5a7326adb18303cb05500330ddc8a0bb1cf2d5c2",
+      "externalIds": {
+        "DBLP": "conf/ijcai/KimALK19",
+        "MAG": "2964547635",
+        "DOI": "10.24963/ijcai.2019/379",
+        "CorpusId": 197638361
+      },
+      "url": "https://www.semanticscholar.org/paper/5a7326adb18303cb05500330ddc8a0bb1cf2d5c2",
+      "title": "DeepMellow: Removing the Need for a Target Network in Deep Q-Learning",
+      "venue": "International Joint Conference on Artificial Intelligence",
+      "year": 2019,
+      "referenceCount": 33,
+      "citationCount": 66,
+      "authors": [
+        {
+          "authorId": "2144254660",
+          "name": "Seungchan Kim"
+        },
+        {
+          "authorId": "7981071",
+          "name": "Kavosh Asadi"
+        },
+        {
+          "authorId": "144885169",
+          "name": "M. Littman"
+        },
+        {
+          "authorId": "1765407",
+          "name": "G. Konidaris"
+        }
+      ]
+    },
+    {
+      "paperId": "dda57b63aa93b1846a5a25da1addfc46f74ac7a1",
+      "externalIds": {
+        "DOI": "10.1109/KSE68178.2025.11309571",
+        "CorpusId": 284357689
+      },
+      "url": "https://www.semanticscholar.org/paper/dda57b63aa93b1846a5a25da1addfc46f74ac7a1",
+      "title": "An Experimental Study of Linear Attention in Multi-Agent Transformer",
+      "venue": "International Conference on Knowledge and Systems Engineering",
+      "year": 2025,
+      "referenceCount": 26,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2367045782",
+          "name": "Xuan Duy Ta"
+        },
+        {
+          "authorId": "2401890543",
+          "name": "Vu Minh Le"
+        },
+        {
+          "authorId": "3301579",
+          "name": "Viet-Cuong Ta"
+        }
+      ]
+    }
+  ]
+}

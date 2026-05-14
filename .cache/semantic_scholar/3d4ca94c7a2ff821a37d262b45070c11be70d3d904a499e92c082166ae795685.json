@@ -1,0 +1,277 @@
+{
+  "total": 467,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "f95e2f1c3fb37dc82621408ca5e9fcc72f056dee",
+      "externalIds": {
+        "DBLP": "conf/icml/TosattoPDR17",
+        "MAG": "2739559388",
+        "CorpusId": 19984067
+      },
+      "url": "https://www.semanticscholar.org/paper/f95e2f1c3fb37dc82621408ca5e9fcc72f056dee",
+      "title": "Boosted Fitted Q-Iteration",
+      "venue": "International Conference on Machine Learning",
+      "year": 2017,
+      "referenceCount": 31,
+      "citationCount": 47,
+      "authors": [
+        {
+          "authorId": "20827107",
+          "name": "Samuele Tosatto"
+        },
+        {
+          "authorId": "6234609",
+          "name": "Matteo Pirotta"
+        },
+        {
+          "authorId": "1399348619",
+          "name": "Carlo D'Eramo"
+        },
+        {
+          "authorId": "1792167",
+          "name": "Marcello Restelli"
+        }
+      ]
+    },
+    {
+      "paperId": "2ad2841391bf7a98dfb96b1379679e1b4fb24310",
+      "externalIds": {
+        "ArXiv": "2512.23927",
+        "DBLP": "journals/corr/abs-2512-23927",
+        "DOI": "10.48550/arXiv.2512.23927",
+        "CorpusId": 284350902
+      },
+      "url": "https://www.semanticscholar.org/paper/2ad2841391bf7a98dfb96b1379679e1b4fb24310",
+      "title": "Stationary Reweighting Yields Local Convergence of Soft Fitted Q-Iteration",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "referenceCount": 0,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "151412676",
+          "name": "L. Laan"
+        },
+        {
+          "authorId": "2325151437",
+          "name": "Nathan Kallus"
+        }
+      ]
+    },
+    {
+      "paperId": "23aecddb01d1bbb487e430401b4c1edd319684ce",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2512-20220",
+        "ArXiv": "2512.20220",
+        "DOI": "10.48550/arXiv.2512.20220",
+        "CorpusId": 284132421
+      },
+      "url": "https://www.semanticscholar.org/paper/23aecddb01d1bbb487e430401b4c1edd319684ce",
+      "title": "Generalisation in Multitask Fitted Q-Iteration and Offline Q-learning",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "referenceCount": 22,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2400417255",
+          "name": "Kausthubh Manda"
+        },
+        {
+          "authorId": "23975960",
+          "name": "Raghuram Bharadwaj Diddigi"
+        }
+      ]
+    },
+    {
+      "paperId": "8ae34b4014feb5513612b86f392e3d5eac9357b1",
+      "externalIds": {
+        "ArXiv": "2510.03912",
+        "DBLP": "journals/corr/abs-2510-03912",
+        "DOI": "10.1002/sta4.70112",
+        "CorpusId": 281842863
+      },
+      "url": "https://www.semanticscholar.org/paper/8ae34b4014feb5513612b86f392e3d5eac9357b1",
+      "title": "Generalized Fitted Q‐Iteration With Clustered Data",
+      "venue": "Stat",
+      "year": 2025,
+      "referenceCount": 109,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2309680936",
+          "name": "Liyuan Hu"
+        },
+        {
+          "authorId": "2136585001",
+          "name": "Jitao Wang"
+        },
+        {
+          "authorId": "2261793468",
+          "name": "Zhenke Wu"
+        },
+        {
+          "authorId": "2342074068",
+          "name": "Chengchun Shi"
+        }
+      ]
+    },
+    {
+      "paperId": "5c94d1908756537161cbf48c561cb787a970328f",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2510-17391",
+        "ArXiv": "2510.17391",
+        "DOI": "10.48550/arXiv.2510.17391",
+        "CorpusId": 282210754
+      },
+      "url": "https://www.semanticscholar.org/paper/5c94d1908756537161cbf48c561cb787a970328f",
+      "title": "Finite-Time Bounds for Average-Reward Fitted Q-Iteration",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "referenceCount": 95,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2154961243",
+          "name": "Jongmin Lee"
+        },
+        {
+          "authorId": "2355354997",
+          "name": "Ernest K. Ryu"
+        }
+      ]
+    },
+    {
+      "paperId": "52189edbb1b2f83d082212291c14b6c5499a835a",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2409-08422",
+        "ArXiv": "2409.08422",
+        "DOI": "10.1109/LCSYS.2024.3520060",
+        "CorpusId": 272654143
+      },
+      "url": "https://www.semanticscholar.org/paper/52189edbb1b2f83d082212291c14b6c5499a835a",
+      "title": "Fitted Q-Iteration via Max-Plus-Linear Approximation",
+      "venue": "IEEE Control Systems Letters",
+      "year": 2024,
+      "referenceCount": 32,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "2370723097",
+          "name": "Yicheng Liu"
+        },
+        {
+          "authorId": "2339009182",
+          "name": "Mohamad Amin Sharifi Kolarijani"
+        }
+      ]
+    },
+    {
+      "paperId": "458282465ae50db3356770c42aff77e8c4072e02",
+      "externalIds": {
+        "DOI": "10.1016/j.ifacol.2025.08.160",
+        "CorpusId": 281434242
+      },
+      "url": "https://www.semanticscholar.org/paper/458282465ae50db3356770c42aff77e8c4072e02",
+      "title": "Multi-Objective Fitted Q-Iteration: Random sampling for enhanced weights simplex exploration",
+      "venue": "IFAC-PapersOnLine",
+      "year": 2025,
+      "referenceCount": 7,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "31739638",
+          "name": "Emiliano Longo"
+        },
+        {
+          "authorId": "2308313717",
+          "name": "Davide Spinelli"
+        },
+        {
+          "authorId": "47340819",
+          "name": "M. Giuliani"
+        },
+        {
+          "authorId": "2062659",
+          "name": "A. Castelletti"
+        }
+      ]
+    },
+    {
+      "paperId": "d1e0e267dd1fbf26f6663bc9e00dcd03efb3487e",
+      "externalIds": {
+        "DBLP": "conf/isgteurope/BexPD23",
+        "DOI": "10.1109/ISGTEUROPE56780.2023.10407485",
+        "CorpusId": 267338469
+      },
+      "url": "https://www.semanticscholar.org/paper/d1e0e267dd1fbf26f6663bc9e00dcd03efb3487e",
+      "title": "Seasonal Performance of Fitted Q-iteration for Space Heating and Cooling with Heat Pumps",
+      "venue": "IEEE PES Innovative Smart Grid Technologies Conference Europe",
+      "year": 2023,
+      "referenceCount": 29,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "2281980469",
+          "name": "L. Bex"
+        },
+        {
+          "authorId": "30780133",
+          "name": "Thijs Peirelinck"
+        },
+        {
+          "authorId": "49526415",
+          "name": "G. Deconinck"
+        }
+      ]
+    },
+    {
+      "paperId": "e3ed5a30b1e684aff8534ecbaa8576d07a0751e1",
+      "externalIds": {
+        "DBLP": "journals/tnn/YuT24",
+        "DOI": "10.1109/TNNLS.2022.3176204",
+        "CorpusId": 249313545,
+        "PubMed": "35653445"
+      },
+      "url": "https://www.semanticscholar.org/paper/e3ed5a30b1e684aff8534ecbaa8576d07a0751e1",
+      "title": "An XGBoost-Based Fitted Q Iteration for Finding the Optimal STI Strategies for HIV Patients",
+      "venue": "IEEE Transactions on Neural Networks and Learning Systems",
+      "year": 2022,
+      "referenceCount": 38,
+      "citationCount": 11,
+      "authors": [
+        {
+          "authorId": "2035518495",
+          "name": "Yahe Yu"
+        },
+        {
+          "authorId": "2156917617",
+          "name": "Hien Tran"
+        }
+      ]
+    },
+    {
+      "paperId": "282001869bd502c7917db8b32b75593addfbbc68",
+      "externalIds": {
+        "MAG": "166862392",
+        "DBLP": "conf/ecml/Riedmiller05",
+        "DOI": "10.1007/11564096_32",
+        "CorpusId": 6921329
+      },
+      "url": "https://www.semanticscholar.org/paper/282001869bd502c7917db8b32b75593addfbbc68",
+      "title": "Neural Fitted Q Iteration - First Experiences with a Data Efficient Neural Reinforcement Learning Method",
+      "venue": "European Conference on Machine Learning",
+      "year": 2005,
+      "referenceCount": 10,
+      "citationCount": 1083,
+      "authors": [
+        {
+          "authorId": "3137672",
+          "name": "Martin A. Riedmiller"
+        }
+      ]
+    }
+  ]
+}

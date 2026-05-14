@@ -1,0 +1,333 @@
+{
+  "total": 4155,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "d43d3402f536e05bbbfae939a956b52ce9c48608",
+      "externalIds": {
+        "MAG": "2962894463",
+        "DBLP": "journals/corr/ChierichettiG0L17",
+        "ArXiv": "1705.06730",
+        "CorpusId": 26499369
+      },
+      "url": "https://www.semanticscholar.org/paper/d43d3402f536e05bbbfae939a956b52ce9c48608",
+      "title": "Algorithms for $\\ell_p$ Low-Rank Approximation",
+      "venue": "International Conference on Machine Learning",
+      "year": 2017,
+      "referenceCount": 25,
+      "citationCount": 27,
+      "authors": [
+        {
+          "authorId": "34996452",
+          "name": "Flavio Chierichetti"
+        },
+        {
+          "authorId": "144979147",
+          "name": "Sreenivas Gollapudi"
+        },
+        {
+          "authorId": "2109226273",
+          "name": "Ravi Kumar"
+        },
+        {
+          "authorId": "1895843",
+          "name": "Silvio Lattanzi"
+        },
+        {
+          "authorId": "1679451",
+          "name": "R. Panigrahy"
+        },
+        {
+          "authorId": "143982862",
+          "name": "David P. Woodruff"
+        }
+      ]
+    },
+    {
+      "paperId": "b19452d25b8d40e320dec4a3eb913248ab3754dd",
+      "externalIds": {
+        "MAG": "2950161683",
+        "ArXiv": "1805.09464",
+        "CorpusId": 43983432
+      },
+      "url": "https://www.semanticscholar.org/paper/b19452d25b8d40e320dec4a3eb913248ab3754dd",
+      "title": "Simple and practical algorithms for $\\ell_p$-norm low-rank approximation",
+      "venue": "",
+      "year": 2018,
+      "referenceCount": 69,
+      "citationCount": 5,
+      "authors": [
+        {
+          "authorId": "3393746",
+          "name": "Anastasios Kyrillidis"
+        }
+      ]
+    },
+    {
+      "paperId": "e1a945617ba7d3ed68c040b3948b7e7e549f3a08",
+      "externalIds": {
+        "MAG": "2964349877",
+        "ArXiv": "1807.06101",
+        "CorpusId": 51679337
+      },
+      "url": "https://www.semanticscholar.org/paper/e1a945617ba7d3ed68c040b3948b7e7e549f3a08",
+      "title": "A PTAS for $\\ell_p$-Low Rank Approximation",
+      "venue": "ACM-SIAM Symposium on Discrete Algorithms",
+      "year": 2018,
+      "referenceCount": 74,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "51108938",
+          "name": "F. Ban"
+        },
+        {
+          "authorId": "32539022",
+          "name": "V. Bhattiprolu"
+        },
+        {
+          "authorId": "2535238",
+          "name": "K. Bringmann"
+        },
+        {
+          "authorId": "2662064",
+          "name": "Pavel Kolev"
+        },
+        {
+          "authorId": "37359504",
+          "name": "Euiwoong Lee"
+        },
+        {
+          "authorId": "143982862",
+          "name": "David P. Woodruff"
+        }
+      ]
+    },
+    {
+      "paperId": "041a7d424f54052da06340738f01bf8c682fafe7",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2009-05647",
+        "ArXiv": "2009.05647",
+        "MAG": "3084569637",
+        "CorpusId": 221655014
+      },
+      "url": "https://www.semanticscholar.org/paper/041a7d424f54052da06340738f01bf8c682fafe7",
+      "title": "Compressed Deep Networks: Goodbye SVD, Hello Robust Low-Rank Approximation",
+      "venue": "arXiv.org",
+      "year": 2020,
+      "referenceCount": 69,
+      "citationCount": 9,
+      "authors": [
+        {
+          "authorId": "72000738",
+          "name": "M. Tukan"
+        },
+        {
+          "authorId": "146119964",
+          "name": "Alaa Maalouf"
+        },
+        {
+          "authorId": "1942965782",
+          "name": "Matan Weksler"
+        },
+        {
+          "authorId": "40347602",
+          "name": "Dan Feldman"
+        }
+      ]
+    },
+    {
+      "paperId": "2b54f9a37c2d1d634f9f2c749bc828aebfe4ebc3",
+      "externalIds": {
+        "ArXiv": "1910.13618",
+        "CorpusId": 202712976
+      },
+      "url": "https://www.semanticscholar.org/paper/2b54f9a37c2d1d634f9f2c749bc828aebfe4ebc3",
+      "title": "Optimal Analysis of Subset-Selection Based L_p Low Rank Approximation",
+      "venue": "",
+      "year": 2019,
+      "referenceCount": 38,
+      "citationCount": 17,
+      "authors": [
+        {
+          "authorId": "47051836",
+          "name": "Chen Dan"
+        },
+        {
+          "authorId": "2144274081",
+          "name": "Hong Wang"
+        },
+        {
+          "authorId": "40975176",
+          "name": "Hongyang Zhang"
+        },
+        {
+          "authorId": "2378043476",
+          "name": "Yuchen Zhou"
+        },
+        {
+          "authorId": "145969795",
+          "name": "Pradeep Ravikumar"
+        }
+      ]
+    },
+    {
+      "paperId": "f6062a9de4a7254a1948b45bf5fd51fe2c8ecdf0",
+      "externalIds": {
+        "DBLP": "conf/icml/EsfandiariKMWZ24",
+        "ArXiv": "2406.02910",
+        "DOI": "10.48550/arXiv.2406.02910",
+        "CorpusId": 270258128
+      },
+      "url": "https://www.semanticscholar.org/paper/f6062a9de4a7254a1948b45bf5fd51fe2c8ecdf0",
+      "title": "High-Dimensional Geometric Streaming for Nearly Low Rank Data",
+      "venue": "International Conference on Machine Learning",
+      "year": 2024,
+      "referenceCount": 24,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2266873",
+          "name": "Hossein Esfandiari"
+        },
+        {
+          "authorId": "1728881",
+          "name": "V. Mirrokni"
+        },
+        {
+          "authorId": "1471876925",
+          "name": "Praneeth Kacham"
+        },
+        {
+          "authorId": "2268673251",
+          "name": "David P. Woodruff"
+        },
+        {
+          "authorId": "2249561001",
+          "name": "Peilin Zhong"
+        }
+      ]
+    },
+    {
+      "paperId": "55c5373f605457e4f334d163f487ffb22c89a1ac",
+      "externalIds": {
+        "DBLP": "conf/nips/DanWZZR19",
+        "MAG": "2982489076",
+        "CorpusId": 260537614
+      },
+      "url": "https://www.semanticscholar.org/paper/55c5373f605457e4f334d163f487ffb22c89a1ac",
+      "title": "Optimal Analysis of Subset-Selection Based L_p Low Rank Approximation",
+      "venue": "Neural Information Processing Systems",
+      "year": 2019,
+      "referenceCount": 42,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "47051836",
+          "name": "Chen Dan"
+        },
+        {
+          "authorId": "2144274081",
+          "name": "Hong Wang"
+        },
+        {
+          "authorId": "40975176",
+          "name": "Hongyang Zhang"
+        },
+        {
+          "authorId": "2378043476",
+          "name": "Yuchen Zhou"
+        },
+        {
+          "authorId": "145969795",
+          "name": "Pradeep Ravikumar"
+        }
+      ]
+    },
+    {
+      "paperId": "a4222f99f87a1a96c74dc2f31521d5a59e49052a",
+      "externalIds": {
+        "MAG": "2883833117",
+        "CorpusId": 125932718
+      },
+      "url": "https://www.semanticscholar.org/paper/a4222f99f87a1a96c74dc2f31521d5a59e49052a",
+      "title": "Robust Low-Rank Approximation of Matrices in lp-Space",
+      "venue": "",
+      "year": 2018,
+      "referenceCount": 131,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "3140309",
+          "name": "W. Zeng"
+        }
+      ]
+    },
+    {
+      "paperId": "3f91a8845e68e4e4ebdebf7d370d997d822f563b",
+      "externalIds": {
+        "MAG": "3043651652",
+        "DBLP": "journals/corr/abs-2007-09890",
+        "CorpusId": 220646548
+      },
+      "url": "https://www.semanticscholar.org/paper/3f91a8845e68e4e4ebdebf7d370d997d822f563b",
+      "title": "On Learned Sketches for Randomized Numerical Linear Algebra",
+      "venue": "arXiv.org",
+      "year": 2020,
+      "referenceCount": 49,
+      "citationCount": 5,
+      "authors": [
+        {
+          "authorId": "47130332",
+          "name": "Simin Liu"
+        },
+        {
+          "authorId": "2115347769",
+          "name": "Tianrui Liu"
+        },
+        {
+          "authorId": "2115885855",
+          "name": "A. Vakilian"
+        },
+        {
+          "authorId": "2075390254",
+          "name": "Yulin Wan"
+        },
+        {
+          "authorId": "143982862",
+          "name": "David P. Woodruff"
+        }
+      ]
+    },
+    {
+      "paperId": "9a42ae8f2ece8c8409c2269c1e157db854d35b81",
+      "externalIds": {
+        "ArXiv": "2507.13731",
+        "DBLP": "journals/corr/abs-2507-13731",
+        "DOI": "10.48550/arXiv.2507.13731",
+        "CorpusId": 280047912
+      },
+      "url": "https://www.semanticscholar.org/paper/9a42ae8f2ece8c8409c2269c1e157db854d35b81",
+      "title": "Pass-efficient Randomized Algorithms for Low-rank Approximation of Quaternion Matrices",
+      "venue": "Numerical Algorithms",
+      "year": 2025,
+      "referenceCount": 33,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "103347141",
+          "name": "Salman Ahmadi-Asl"
+        },
+        {
+          "authorId": "2354173770",
+          "name": "Malihe Nobakht Kooshkghazi"
+        },
+        {
+          "authorId": "67199335",
+          "name": "V. Leplat"
+        }
+      ]
+    }
+  ]
+}

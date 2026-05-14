@@ -1,0 +1,390 @@
+{
+  "total": 39573,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "7e5cc3f813c30ed051f263cad17af1b07b58e8cc",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-1710-09668",
+        "MAG": "2933234755",
+        "ArXiv": "1710.09668",
+        "CorpusId": 5776935
+      },
+      "url": "https://www.semanticscholar.org/paper/7e5cc3f813c30ed051f263cad17af1b07b58e8cc",
+      "title": "PDE-Net: Learning PDEs from Data",
+      "venue": "International Conference on Machine Learning",
+      "year": 2017,
+      "referenceCount": 26,
+      "citationCount": 858,
+      "authors": [
+        {
+          "authorId": "27726739",
+          "name": "Zichao Long"
+        },
+        {
+          "authorId": "48518029",
+          "name": "Yiping Lu"
+        },
+        {
+          "authorId": "27699233",
+          "name": "Xianzhong Ma"
+        },
+        {
+          "authorId": "145496882",
+          "name": "Bin Dong"
+        }
+      ]
+    },
+    {
+      "paperId": "3ad8760d9e86a7bed1ad230eaa7bae3ab799457c",
+      "externalIds": {
+        "MAG": "2971967902",
+        "DBLP": "journals/jcphy/LongLD19",
+        "ArXiv": "1812.04426",
+        "DOI": "10.1016/j.jcp.2019.108925",
+        "CorpusId": 54559221
+      },
+      "url": "https://www.semanticscholar.org/paper/3ad8760d9e86a7bed1ad230eaa7bae3ab799457c",
+      "title": "PDE-Net 2.0: Learning PDEs from Data with A Numeric-Symbolic Hybrid Deep Network",
+      "venue": "Journal of Computational Physics",
+      "year": 2018,
+      "referenceCount": 48,
+      "citationCount": 620,
+      "authors": [
+        {
+          "authorId": "27726739",
+          "name": "Zichao Long"
+        },
+        {
+          "authorId": "48518029",
+          "name": "Yiping Lu"
+        },
+        {
+          "authorId": "145496882",
+          "name": "Bin Dong"
+        }
+      ]
+    },
+    {
+      "paperId": "324418714d7e0426c49f5f34f117e09ce209f7dd",
+      "externalIds": {
+        "DBLP": "journals/braininf/BicaTHSZZ25",
+        "PubMedCentral": "12686305",
+        "ArXiv": "2410.18110",
+        "DOI": "10.1186/s40708-025-00283-w",
+        "CorpusId": 273549870,
+        "PubMed": "41359149"
+      },
+      "url": "https://www.semanticscholar.org/paper/324418714d7e0426c49f5f34f117e09ce209f7dd",
+      "title": "Learning image derived PDE-phenotypes from fMRI data",
+      "venue": "Brain Informatics",
+      "year": 2024,
+      "referenceCount": 41,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2231550498",
+          "name": "Ion Bica"
+        },
+        {
+          "authorId": "2327338017",
+          "name": "Ryan Trang"
+        },
+        {
+          "authorId": "2327827581",
+          "name": "Rui Hu"
+        },
+        {
+          "authorId": "2327960769",
+          "name": "Wanhua Su"
+        },
+        {
+          "authorId": "13867561",
+          "name": "Zhichun Zhai"
+        },
+        {
+          "authorId": "2291454121",
+          "name": "Qingrun Zhang"
+        }
+      ]
+    },
+    {
+      "paperId": "1ad28f6be3fb3fe75f55dcb2ff513f22d59d476b",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2411-00040",
+        "ArXiv": "2411.00040",
+        "DOI": "10.48550/arXiv.2411.00040",
+        "CorpusId": 273798458
+      },
+      "url": "https://www.semanticscholar.org/paper/1ad28f6be3fb3fe75f55dcb2ff513f22d59d476b",
+      "title": "P2C2Net: PDE-Preserved Coarse Correction Network for efficient prediction of spatiotemporal dynamics",
+      "venue": "Neural Information Processing Systems",
+      "year": 2024,
+      "referenceCount": 47,
+      "citationCount": 18,
+      "authors": [
+        {
+          "authorId": "2323797625",
+          "name": "Qi Wang"
+        },
+        {
+          "authorId": "2061531076",
+          "name": "Pu Ren"
+        },
+        {
+          "authorId": "2329139553",
+          "name": "Hao Zhou"
+        },
+        {
+          "authorId": "2284030324",
+          "name": "Xin-yang Liu"
+        },
+        {
+          "authorId": "2330076422",
+          "name": "Zhiwen Deng"
+        },
+        {
+          "authorId": "2323906963",
+          "name": "Yi Zhang"
+        },
+        {
+          "authorId": "2323781490",
+          "name": "Ruizhi Chengze"
+        },
+        {
+          "authorId": "2323851133",
+          "name": "Hongsheng Liu"
+        },
+        {
+          "authorId": "2284803261",
+          "name": "Zidong Wang"
+        },
+        {
+          "authorId": "2266801627",
+          "name": "Jian-Xun Wang"
+        },
+        {
+          "authorId": "2265728957",
+          "name": "Ji-Rong Wen"
+        },
+        {
+          "authorId": "2118181807",
+          "name": "Hao Sun"
+        },
+        {
+          "authorId": "2323870751",
+          "name": "Yang Liu"
+        }
+      ]
+    },
+    {
+      "paperId": "41a937613b023d03ef2f43e7b8bb5556cf7d969d",
+      "externalIds": {
+        "ArXiv": "2408.04846",
+        "DBLP": "journals/corr/abs-2408-04846",
+        "DOI": "10.48550/arXiv.2408.04846",
+        "CorpusId": 271843119
+      },
+      "url": "https://www.semanticscholar.org/paper/41a937613b023d03ef2f43e7b8bb5556cf7d969d",
+      "title": "UGrid: An Efficient-And-Rigorous Neural Multigrid Solver for Linear PDEs",
+      "venue": "International Conference on Machine Learning",
+      "year": 2024,
+      "referenceCount": 33,
+      "citationCount": 8,
+      "authors": [
+        {
+          "authorId": "2334226564",
+          "name": "Xi Han"
+        },
+        {
+          "authorId": "2315807970",
+          "name": "Fei Hou"
+        },
+        {
+          "authorId": "2282451189",
+          "name": "Hong Qin"
+        }
+      ]
+    },
+    {
+      "paperId": "9892628c5207890a3987a196304fc32a2bbacafd",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2101-06182",
+        "ArXiv": "2101.06182",
+        "CorpusId": 231627675
+      },
+      "url": "https://www.semanticscholar.org/paper/9892628c5207890a3987a196304fc32a2bbacafd",
+      "title": "STENCIL-NET: Data-driven solution-adaptive discretization of partial differential equations",
+      "venue": "arXiv.org",
+      "year": 2021,
+      "referenceCount": 36,
+      "citationCount": 9,
+      "authors": [
+        {
+          "authorId": "151212958",
+          "name": "S. Maddu"
+        },
+        {
+          "authorId": "1404662389",
+          "name": "D. Sturm"
+        },
+        {
+          "authorId": "35117214",
+          "name": "B. Cheeseman"
+        },
+        {
+          "authorId": "25833907",
+          "name": "Christian L. Müller"
+        },
+        {
+          "authorId": "1756929",
+          "name": "I. Sbalzarini"
+        }
+      ]
+    },
+    {
+      "paperId": "d3d478d7a6b91ae88c61876500702a0ea6a70a7a",
+      "externalIds": {
+        "DBLP": "journals/jossac/ChenLLCS24",
+        "ArXiv": "2401.13494",
+        "DOI": "10.1007/s11424-024-3294-x",
+        "CorpusId": 267200029
+      },
+      "url": "https://www.semanticscholar.org/paper/d3d478d7a6b91ae88c61876500702a0ea6a70a7a",
+      "title": "NSNO: Neumann Series Neural Operator for Solving Helmholtz Equations in Inhomogeneous Medium",
+      "venue": "Journal of Systems Science and Complexity",
+      "year": 2024,
+      "referenceCount": 41,
+      "citationCount": 9,
+      "authors": [
+        {
+          "authorId": "2261887690",
+          "name": "Fukai Chen"
+        },
+        {
+          "authorId": "2281025246",
+          "name": "Ziyang Liu"
+        },
+        {
+          "authorId": "2152178908",
+          "name": "Guochang Lin"
+        },
+        {
+          "authorId": "2131213018",
+          "name": "Junqing Chen"
+        },
+        {
+          "authorId": "2281430840",
+          "name": "Zuoqiang Shi"
+        }
+      ]
+    },
+    {
+      "paperId": "2deebc5b3134bea437aaef6ce329fef127c5a4f2",
+      "externalIds": {
+        "ArXiv": "2201.12354",
+        "DBLP": "conf/iclr/RaoRLS22",
+        "CorpusId": 246430821
+      },
+      "url": "https://www.semanticscholar.org/paper/2deebc5b3134bea437aaef6ce329fef127c5a4f2",
+      "title": "Discovering Nonlinear PDEs from Scarce Data with Physics-encoded Learning",
+      "venue": "International Conference on Learning Representations",
+      "year": 2022,
+      "referenceCount": 56,
+      "citationCount": 36,
+      "authors": [
+        {
+          "authorId": "2068089366",
+          "name": "Chengping Rao"
+        },
+        {
+          "authorId": "2061531076",
+          "name": "Pu Ren"
+        },
+        {
+          "authorId": "2152801405",
+          "name": "Yang Liu"
+        },
+        {
+          "authorId": null,
+          "name": "Hao Sun"
+        }
+      ]
+    },
+    {
+      "paperId": "d0954fc407403a403b5755f9aca38d2a6110b465",
+      "externalIds": {
+        "ArXiv": "2107.03673",
+        "DBLP": "journals/corr/abs-2107-03673",
+        "DOI": "10.4208/cicp.OA-2021-0257",
+        "CorpusId": 235765809
+      },
+      "url": "https://www.semanticscholar.org/paper/d0954fc407403a403b5755f9aca38d2a6110b465",
+      "title": "MOD-Net: A Machine Learning Approach via Model-Operator-Data Network for Solving PDEs",
+      "venue": "Communications in Computational Physics",
+      "year": 2021,
+      "referenceCount": 26,
+      "citationCount": 40,
+      "authors": [
+        {
+          "authorId": "2156148080",
+          "name": "Lulu Zhang"
+        },
+        {
+          "authorId": "2976748",
+          "name": "Tao Luo"
+        },
+        {
+          "authorId": "46867879",
+          "name": "Yaoyu Zhang"
+        },
+        {
+          "authorId": "2136355451",
+          "name": "Z. Xu"
+        },
+        {
+          "authorId": "2125040520",
+          "name": "Zheng Ma"
+        }
+      ]
+    },
+    {
+      "paperId": "3cd2eaef441f4dee0ede9a46df9d67a839f3cf4c",
+      "externalIds": {
+        "ArXiv": "2409.02431",
+        "DBLP": "journals/corr/abs-2409-02431",
+        "DOI": "10.48550/arXiv.2409.02431",
+        "CorpusId": 272398306
+      },
+      "url": "https://www.semanticscholar.org/paper/3cd2eaef441f4dee0ede9a46df9d67a839f3cf4c",
+      "title": "Adversarial Learning for Neural PDE Solvers with Sparse Data",
+      "venue": "arXiv.org",
+      "year": 2024,
+      "referenceCount": 29,
+      "citationCount": 23,
+      "authors": [
+        {
+          "authorId": "2279931691",
+          "name": "Yunpeng Gong"
+        },
+        {
+          "authorId": "2312272161",
+          "name": "Yongjie Hou"
+        },
+        {
+          "authorId": "2278525873",
+          "name": "Zhenzhong Wang"
+        },
+        {
+          "authorId": "2319615847",
+          "name": "Zexin Lin"
+        },
+        {
+          "authorId": "2279954616",
+          "name": "Min Jiang"
+        }
+      ]
+    }
+  ]
+}

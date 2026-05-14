@@ -1,0 +1,269 @@
+{
+  "total": 10,
+  "offset": 0,
+  "data": [
+    {
+      "paperId": "bd29b616423b0b724ecd43a176f85052dd5e113a",
+      "externalIds": {
+        "MAG": "2803702329",
+        "ArXiv": "1802.08941",
+        "DBLP": "conf/icml/HongRL18",
+        "CorpusId": 3534775
+      },
+      "url": "https://www.semanticscholar.org/paper/bd29b616423b0b724ecd43a176f85052dd5e113a",
+      "title": "Gradient Primal-Dual Algorithm Converges to Second-Order Stationary Solutions for Nonconvex Distributed Optimization",
+      "venue": "International Conference on Machine Learning",
+      "year": 2018,
+      "referenceCount": 42,
+      "citationCount": 34,
+      "authors": [
+        {
+          "authorId": "1793717",
+          "name": "Mingyi Hong"
+        },
+        {
+          "authorId": "2421201",
+          "name": "J. Lee"
+        },
+        {
+          "authorId": "1800298",
+          "name": "Meisam Razaviyayn"
+        }
+      ]
+    },
+    {
+      "paperId": "2134ee2332896d2d59b39525eef84a6f71e982b5",
+      "externalIds": {
+        "ArXiv": "2603.09524",
+        "CorpusId": 286429196
+      },
+      "url": "https://www.semanticscholar.org/paper/2134ee2332896d2d59b39525eef84a6f71e982b5",
+      "title": "A Unifying Primal-Dual Proximal Framework for Distributed Nonconvex Optimization",
+      "venue": "",
+      "year": 2026,
+      "referenceCount": 29,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2191612302",
+          "name": "Zichong Ou"
+        },
+        {
+          "authorId": "2237945827",
+          "name": "Jie Lu"
+        }
+      ]
+    },
+    {
+      "paperId": "7ec50d5afddd354cfed0005b86f682aafceb601a",
+      "externalIds": {
+        "ArXiv": "2011.05082",
+        "DBLP": "journals/corr/abs-2011-05082",
+        "MAG": "3105600443",
+        "DOI": "10.1109/TSP.2021.3097211",
+        "CorpusId": 226289596
+      },
+      "url": "https://www.semanticscholar.org/paper/7ec50d5afddd354cfed0005b86f682aafceb601a",
+      "title": "Distributed Stochastic Consensus Optimization With Momentum for Nonconvex Nonsmooth Problems",
+      "venue": "IEEE Transactions on Signal Processing",
+      "year": 2020,
+      "referenceCount": 33,
+      "citationCount": 45,
+      "authors": [
+        {
+          "authorId": "2108217713",
+          "name": "Zhiguo Wang"
+        },
+        {
+          "authorId": "2144138528",
+          "name": "Jiawei Zhang"
+        },
+        {
+          "authorId": "2678812",
+          "name": "Tsung-Hui Chang"
+        },
+        {
+          "authorId": "71003878",
+          "name": "Jian Li"
+        },
+        {
+          "authorId": "144657347",
+          "name": "Z. Luo"
+        }
+      ]
+    },
+    {
+      "paperId": "eb0d4056ba637a51bca30bf37e0fb48625609ca7",
+      "externalIds": {
+        "DBLP": "journals/siamjo/DaneshmandSK20",
+        "ArXiv": "1809.08694",
+        "MAG": "3093673559",
+        "DOI": "10.1137/18m121784x",
+        "CorpusId": 52814128
+      },
+      "url": "https://www.semanticscholar.org/paper/eb0d4056ba637a51bca30bf37e0fb48625609ca7",
+      "title": "Second-order Guarantees of Distributed Gradient Algorithms",
+      "venue": "SIAM Journal on Optimization",
+      "year": 2018,
+      "referenceCount": 64,
+      "citationCount": 64,
+      "authors": [
+        {
+          "authorId": "39842855",
+          "name": "Amir Daneshmand"
+        },
+        {
+          "authorId": "1690788",
+          "name": "G. Scutari"
+        },
+        {
+          "authorId": "144014137",
+          "name": "V. Kungurtsev"
+        }
+      ]
+    },
+    {
+      "paperId": "45dda3644747d4c5c6a900fa4c51cb8b5f0dbe6b",
+      "externalIds": {
+        "ArXiv": "1904.04650",
+        "MAG": "2913662279",
+        "DBLP": "conf/cdc/HajinezhadZ18",
+        "DOI": "10.1109/CDC.2018.8619333",
+        "CorpusId": 58669445
+      },
+      "url": "https://www.semanticscholar.org/paper/45dda3644747d4c5c6a900fa4c51cb8b5f0dbe6b",
+      "title": "Gradient-Free Multi-Agent Nonconvex Nonsmooth Optimization",
+      "venue": "IEEE Conference on Decision and Control",
+      "year": 2018,
+      "referenceCount": 39,
+      "citationCount": 16,
+      "authors": [
+        {
+          "authorId": "3369291",
+          "name": "Davood Hajinezhad"
+        },
+        {
+          "authorId": "1764546",
+          "name": "M. Zavlanos"
+        }
+      ]
+    },
+    {
+      "paperId": "43c0712ac0d7df56034970799131ac9515f552f9",
+      "externalIds": {
+        "MAG": "2911344305",
+        "DBLP": "conf/allerton/DaneshmandSK18",
+        "DOI": "10.1109/ALLERTON.2018.8636044",
+        "CorpusId": 59618907
+      },
+      "url": "https://www.semanticscholar.org/paper/43c0712ac0d7df56034970799131ac9515f552f9",
+      "title": "Second-order Guarantees of Gradient Algorithms over Networks",
+      "venue": "Allerton Conference on Communication, Control, and Computing",
+      "year": 2018,
+      "referenceCount": 26,
+      "citationCount": 13,
+      "authors": [
+        {
+          "authorId": "39842855",
+          "name": "Amir Daneshmand"
+        },
+        {
+          "authorId": "1690788",
+          "name": "G. Scutari"
+        },
+        {
+          "authorId": "144014137",
+          "name": "V. Kungurtsev"
+        }
+      ]
+    },
+    {
+      "paperId": "c179df97f493543f488a5ac5f1903dcccb132107",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2304-10902",
+        "ArXiv": "2304.10902",
+        "DOI": "10.48550/arXiv.2304.10902",
+        "CorpusId": 258291658
+      },
+      "url": "https://www.semanticscholar.org/paper/c179df97f493543f488a5ac5f1903dcccb132107",
+      "title": "Near-Optimal Decentralized Momentum Method for Nonconvex-PL Minimax Problems",
+      "venue": "arXiv.org",
+      "year": 2023,
+      "referenceCount": 57,
+      "citationCount": 9,
+      "authors": [
+        {
+          "authorId": "3057688",
+          "name": "Feihu Huang"
+        },
+        {
+          "authorId": "48848338",
+          "name": "Songcan Chen"
+        }
+      ]
+    },
+    {
+      "paperId": "da4bb7cd9b974df05bb93e9ede0ae8029fa091a6",
+      "externalIds": {
+        "MAG": "2798084932",
+        "DBLP": "journals/automatica/AndersonCM19",
+        "ArXiv": "1804.06238",
+        "DOI": "10.1016/j.automatica.2019.108538",
+        "CorpusId": 119157825
+      },
+      "url": "https://www.semanticscholar.org/paper/da4bb7cd9b974df05bb93e9ede0ae8029fa091a6",
+      "title": "Distributed approximate Newton algorithms and weight design for constrained optimization",
+      "venue": "at - Automatisierungstechnik",
+      "year": 2018,
+      "referenceCount": 34,
+      "citationCount": 31,
+      "authors": [
+        {
+          "authorId": "118521004",
+          "name": "Tor Anderson"
+        },
+        {
+          "authorId": "2293746",
+          "name": "Chin-Yao Chang"
+        },
+        {
+          "authorId": "144448834",
+          "name": "S. Martínez"
+        }
+      ]
+    },
+    {
+      "paperId": "12ec3d9ddddde9d40282f0341e5b7e3b73d0202b",
+      "externalIds": {
+        "MAG": "2761921260",
+        "DOI": "10.20868/upm.thesis.47855",
+        "CorpusId": 126313626
+      },
+      "url": "https://www.semanticscholar.org/paper/12ec3d9ddddde9d40282f0341e5b7e3b73d0202b",
+      "title": "Nonconvex quadratic problems and games with separable constraints",
+      "venue": "",
+      "year": 2017,
+      "referenceCount": 81,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "153833490",
+          "name": "Javier Zazo Ruiz"
+        }
+      ]
+    },
+    {
+      "paperId": "ea3a0a1a4d44f063fc3fc668940f99798531888e",
+      "externalIds": {
+        "CorpusId": 248947019
+      },
+      "url": "https://www.semanticscholar.org/paper/ea3a0a1a4d44f063fc3fc668940f99798531888e",
+      "title": "Proceedings of 23rd Nordic Process Control Workshop",
+      "venue": "",
+      "year": null,
+      "referenceCount": 0,
+      "citationCount": 0,
+      "authors": []
+    }
+  ]
+}

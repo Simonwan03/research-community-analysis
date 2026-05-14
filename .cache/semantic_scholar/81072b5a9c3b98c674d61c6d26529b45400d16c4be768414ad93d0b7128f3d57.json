@@ -1,0 +1,310 @@
+{
+  "total": 71,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "2adce1a5e7606157950b1899a2a4c709a6820429",
+      "externalIds": {
+        "DBLP": "conf/icml/MirzasoleimanBK16",
+        "MAG": "2473929617",
+        "CorpusId": 9399780
+      },
+      "url": "https://www.semanticscholar.org/paper/2adce1a5e7606157950b1899a2a4c709a6820429",
+      "title": "Fast Constrained Submodular Maximization: Personalized Data Summarization",
+      "venue": "International Conference on Machine Learning",
+      "year": 2016,
+      "referenceCount": 43,
+      "citationCount": 185,
+      "authors": [
+        {
+          "authorId": "2389094",
+          "name": "Baharan Mirzasoleiman"
+        },
+        {
+          "authorId": "1797240",
+          "name": "Ashwinkumar Badanidiyuru"
+        },
+        {
+          "authorId": "1697131",
+          "name": "Amin Karbasi"
+        }
+      ]
+    },
+    {
+      "paperId": "30a18cdf3be61d23af36be71788bf7fea8880f9e",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2102-06486",
+        "ArXiv": "2102.06486",
+        "CorpusId": 231918643
+      },
+      "url": "https://www.semanticscholar.org/paper/30a18cdf3be61d23af36be71788bf7fea8880f9e",
+      "title": "Adaptive Sampling for Fast Constrained Maximization of Submodular Function",
+      "venue": "International Conference on Artificial Intelligence and Statistics",
+      "year": 2021,
+      "referenceCount": 52,
+      "citationCount": 7,
+      "authors": [
+        {
+          "authorId": "3440213",
+          "name": "Francesco Quinzan"
+        },
+        {
+          "authorId": "1439663447",
+          "name": "Vanja Doskoč"
+        },
+        {
+          "authorId": "49561638",
+          "name": "Andreas Göbel"
+        },
+        {
+          "authorId": "4780027",
+          "name": "T. Friedrich"
+        }
+      ]
+    },
+    {
+      "paperId": "1c59fec57564a36685a755aa10e1910edbedc4a2",
+      "externalIds": {
+        "MAG": "2952656810",
+        "ArXiv": "1706.03583",
+        "DBLP": "conf/aaai/MirzasoleimanJ018",
+        "DOI": "10.1609/aaai.v32i1.11529",
+        "CorpusId": 10832073
+      },
+      "url": "https://www.semanticscholar.org/paper/1c59fec57564a36685a755aa10e1910edbedc4a2",
+      "title": "Streaming Non-monotone Submodular Maximization: Personalized Video Summarization on the Fly",
+      "venue": "AAAI Conference on Artificial Intelligence",
+      "year": 2017,
+      "referenceCount": 34,
+      "citationCount": 89,
+      "authors": [
+        {
+          "authorId": "2389094",
+          "name": "Baharan Mirzasoleiman"
+        },
+        {
+          "authorId": "2594093",
+          "name": "S. Jegelka"
+        },
+        {
+          "authorId": "145343838",
+          "name": "Andreas Krause"
+        }
+      ]
+    },
+    {
+      "paperId": "222f93b6f6e7ca1ea7cda71b688505b81f684a09",
+      "externalIds": {
+        "DBLP": "conf/ebimcs/LiWL24",
+        "DOI": "10.1145/3723420.3723421",
+        "CorpusId": 278775519
+      },
+      "url": "https://www.semanticscholar.org/paper/222f93b6f6e7ca1ea7cda71b688505b81f684a09",
+      "title": "Research on Submodular Maximization Algorithm of Viral Marketing Data Abstract Extraction based on SMM Matroid Constraints",
+      "venue": "EBIMCS",
+      "year": 2024,
+      "referenceCount": 9,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2362692845",
+          "name": "Hui Li"
+        },
+        {
+          "authorId": "2362614516",
+          "name": "Lingling Wang"
+        },
+        {
+          "authorId": "2331459525",
+          "name": "Chunhui Li"
+        }
+      ]
+    },
+    {
+      "paperId": "c6ad42dd71afdb358e805d83656adef7b07a48f4",
+      "externalIds": {
+        "DBLP": "conf/mmasia/Lu020",
+        "DOI": "10.1145/3444685.3446285",
+        "CorpusId": 233486368
+      },
+      "url": "https://www.semanticscholar.org/paper/c6ad42dd71afdb358e805d83656adef7b07a48f4",
+      "title": "Fixed-size video summarization over streaming data via non-monotone submodular maximization",
+      "venue": "ACM Multimedia Asia",
+      "year": 2021,
+      "referenceCount": 30,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "1806822419",
+          "name": "Ganfeng Lu"
+        },
+        {
+          "authorId": "2371430",
+          "name": "Jiping Zheng"
+        }
+      ]
+    },
+    {
+      "paperId": "2aacb2a897dfddd49bb162d87ca80863ca8ef1c2",
+      "externalIds": {
+        "MAG": "1910566948",
+        "DBLP": "conf/cvpr/XuMLWRS15",
+        "DOI": "10.1109/CVPR.2015.7298836",
+        "CorpusId": 416449,
+        "PubMed": "26973428"
+      },
+      "url": "https://www.semanticscholar.org/paper/2aacb2a897dfddd49bb162d87ca80863ca8ef1c2",
+      "title": "Gaze-enabled egocentric video summarization via constrained submodular maximization",
+      "venue": "Computer Vision and Pattern Recognition",
+      "year": 2015,
+      "referenceCount": 47,
+      "citationCount": 167,
+      "authors": [
+        {
+          "authorId": "2110562225",
+          "name": "Jia Xu"
+        },
+        {
+          "authorId": "144324490",
+          "name": "L. Mukherjee"
+        },
+        {
+          "authorId": "47002659",
+          "name": "Yin Li"
+        },
+        {
+          "authorId": "2317096892",
+          "name": "Jamieson Warner"
+        },
+        {
+          "authorId": "144177248",
+          "name": "James M. Rehg"
+        },
+        {
+          "authorId": "144711711",
+          "name": "Vikas Singh"
+        }
+      ]
+    },
+    {
+      "paperId": "e912edd7f1b82df95cc569ef73cf602bf7118ea8",
+      "externalIds": {
+        "DBLP": "conf/aaai/DeyCK23",
+        "DOI": "10.1609/aaai.v37i4.25508",
+        "CorpusId": 263891114
+      },
+      "url": "https://www.semanticscholar.org/paper/e912edd7f1b82df95cc569ef73cf602bf7118ea8",
+      "title": "DASH: A Distributed and Parallelizable Algorithm for Size-Constrained Submodular Maximization",
+      "venue": "AAAI Conference on Artificial Intelligence",
+      "year": 2023,
+      "referenceCount": 26,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "2069141730",
+          "name": "Tonmoy Dey"
+        },
+        {
+          "authorId": "2116664331",
+          "name": "Yixing Chen"
+        },
+        {
+          "authorId": "2154609",
+          "name": "Alan Kuhnle"
+        }
+      ]
+    },
+    {
+      "paperId": "15d67d6303cd873ede3e695dc180bb44742e6615",
+      "externalIds": {
+        "DBLP": "conf/nips/MirzasoleimanZK16",
+        "MAG": "2549654239",
+        "CorpusId": 1268832
+      },
+      "url": "https://www.semanticscholar.org/paper/15d67d6303cd873ede3e695dc180bb44742e6615",
+      "title": "Fast Distributed Submodular Cover: Public-Private Data Summarization",
+      "venue": "Neural Information Processing Systems",
+      "year": 2016,
+      "referenceCount": 25,
+      "citationCount": 53,
+      "authors": [
+        {
+          "authorId": "2389094",
+          "name": "Baharan Mirzasoleiman"
+        },
+        {
+          "authorId": "1724391",
+          "name": "Morteza Zadimoghaddam"
+        },
+        {
+          "authorId": "1697131",
+          "name": "Amin Karbasi"
+        }
+      ]
+    },
+    {
+      "paperId": "18e0dd393835eb903239cf534aeafdfa296a2eff",
+      "externalIds": {
+        "ArXiv": "2506.03171",
+        "DBLP": "journals/corr/abs-2506-03171",
+        "DOI": "10.48550/arXiv.2506.03171",
+        "CorpusId": 279154918
+      },
+      "url": "https://www.semanticscholar.org/paper/18e0dd393835eb903239cf534aeafdfa296a2eff",
+      "title": "EdgeVidSum: Real-Time Personalized Video Summarization at the Edge",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "referenceCount": 31,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2269555712",
+          "name": "Ghulam Mujtaba"
+        },
+        {
+          "authorId": "2267529",
+          "name": "Eun‐Seok Ryu"
+        }
+      ]
+    },
+    {
+      "paperId": "f6d87b8eba4765eb42ba19a5cd2caefcf2965ce0",
+      "externalIds": {
+        "MAG": "3041795140",
+        "DBLP": "journals/jair/AmanatidisFLLR22",
+        "ArXiv": "2007.05014",
+        "DOI": "10.1613/jair.1.13472",
+        "CorpusId": 220487060
+      },
+      "url": "https://www.semanticscholar.org/paper/f6d87b8eba4765eb42ba19a5cd2caefcf2965ce0",
+      "title": "Fast Adaptive Non-Monotone Submodular Maximization Subject to a Knapsack Constraint",
+      "venue": "Neural Information Processing Systems",
+      "year": 2020,
+      "referenceCount": 66,
+      "citationCount": 53,
+      "authors": [
+        {
+          "authorId": "2883746",
+          "name": "Georgios Amanatidis"
+        },
+        {
+          "authorId": "1616150925",
+          "name": "Federico Fusco"
+        },
+        {
+          "authorId": "9535380",
+          "name": "Philip Lazos"
+        },
+        {
+          "authorId": "144954554",
+          "name": "S. Leonardi"
+        },
+        {
+          "authorId": "1807484657",
+          "name": "Rebecca Reiffenhauser"
+        }
+      ]
+    }
+  ]
+}

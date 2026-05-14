@@ -1,0 +1,922 @@
+{
+  "offset": 0,
+  "citingPaperInfo": {
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/1502.02312, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "title": "Bayesian and Empirical Bayesian Forests",
+    "authors": [
+      {
+        "authorId": "32407682",
+        "name": "Matt Taddy"
+      },
+      {
+        "authorId": "2144629177",
+        "name": "Chun-Sheng Chen"
+      },
+      {
+        "authorId": "49402439",
+        "name": "Jun Yu"
+      },
+      {
+        "authorId": "2365458",
+        "name": "Mitch Wyle"
+      }
+    ]
+  },
+  "data": [
+    {
+      "citedPaper": {
+        "paperId": "d7f568da2fbf0956db8a68d3ff4d51839161cb3e",
+        "externalIds": {
+          "MAG": "1838196823",
+          "ArXiv": "1412.8563",
+          "CorpusId": 88513950
+        },
+        "url": "https://www.semanticscholar.org/paper/d7f568da2fbf0956db8a68d3ff4d51839161cb3e",
+        "title": "Heterogeneous Treatment Effects in Digital Experimentation",
+        "venue": "",
+        "year": 2014,
+        "referenceCount": 27,
+        "citationCount": 67,
+        "authors": [
+          {
+            "authorId": "32407682",
+            "name": "Matt Taddy"
+          },
+          {
+            "authorId": "2061751274",
+            "name": "Matt Gardner"
+          },
+          {
+            "authorId": "2108547005",
+            "name": "Liyun Chen"
+          },
+          {
+            "authorId": "144177076",
+            "name": "D. Draper"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "cf4d2c26b608ed898f6a1fc865d80fa8d9593286",
+        "externalIds": {
+          "MAG": "1618214481",
+          "DOI": "10.1080/07350015.2016.1172013",
+          "CorpusId": 265099305
+        },
+        "url": "https://www.semanticscholar.org/paper/cf4d2c26b608ed898f6a1fc865d80fa8d9593286",
+        "title": "A Nonparametric Bayesian Analysis of Heterogenous Treatment Effects in Digital Experimentation",
+        "venue": "",
+        "year": 2014,
+        "referenceCount": 57,
+        "citationCount": 55,
+        "authors": [
+          {
+            "authorId": "2239778582",
+            "name": "Matthew A. Taddy"
+          },
+          {
+            "authorId": "2061751274",
+            "name": "Matt Gardner"
+          },
+          {
+            "authorId": "2108547005",
+            "name": "Liyun Chen"
+          },
+          {
+            "authorId": "2238141605",
+            "name": "D. Draper"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "5092375789732afbfbfe2f5ede0792af6c562813",
+        "externalIds": {
+          "DBLP": "conf/icml/AppelFDP13",
+          "MAG": "2113635748",
+          "CorpusId": 1415792
+        },
+        "url": "https://www.semanticscholar.org/paper/5092375789732afbfbfe2f5ede0792af6c562813",
+        "title": "Quickly Boosting Decision Trees - Pruning Underachieving Features Early",
+        "venue": "International Conference on Machine Learning",
+        "year": 2013,
+        "referenceCount": 40,
+        "citationCount": 144,
+        "authors": [
+          {
+            "authorId": "2060858809",
+            "name": "Ron Appel"
+          },
+          {
+            "authorId": "34459632",
+            "name": "Thomas J. Fuchs"
+          },
+          {
+            "authorId": "3127283",
+            "name": "Piotr Dollár"
+          },
+          {
+            "authorId": "1690922",
+            "name": "P. Perona"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "0105d6e1aff775cd06afb51accc54e718c7321e0",
+        "externalIds": {
+          "MAG": "2517673213",
+          "DOI": "10.1080/09332480.2012.726568",
+          "CorpusId": 267871454
+        },
+        "url": "https://www.semanticscholar.org/paper/0105d6e1aff775cd06afb51accc54e718c7321e0",
+        "title": "Large-Scale Inference: Empirical Bayes Methods for Estimation, Testing, and Prediction",
+        "venue": "",
+        "year": 2012,
+        "referenceCount": 8,
+        "citationCount": 203,
+        "authors": [
+          {
+            "authorId": "2238435802",
+            "name": "Christian Robert"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "fbf9f8650c9521472f0297e7c82292235738449b",
+        "externalIds": {
+          "MAG": "2058308089",
+          "DOI": "10.1007/s00038-011-0315-z",
+          "CorpusId": 26300103,
+          "PubMed": "22015650"
+        },
+        "url": "https://www.semanticscholar.org/paper/fbf9f8650c9521472f0297e7c82292235738449b",
+        "title": "Classification and regression trees",
+        "venue": "International Journal of Public Health",
+        "year": 2012,
+        "referenceCount": 13,
+        "citationCount": 16790,
+        "authors": [
+          {
+            "authorId": "1998964",
+            "name": "N. Speybroeck"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "b56c71b2fac88470286d82a69aa3b72a537372b5",
+        "externalIds": {
+          "MAG": "1968208665",
+          "DOI": "10.1080/07474938.2011.553542",
+          "CorpusId": 36590105
+        },
+        "url": "https://www.semanticscholar.org/paper/b56c71b2fac88470286d82a69aa3b72a537372b5",
+        "title": "Bayesian Interpretations of Heteroskedastic Consistent Covariance Estimators Using the Informed Bayesian Bootstrap",
+        "venue": "",
+        "year": 2011,
+        "referenceCount": 30,
+        "citationCount": 18,
+        "authors": [
+          {
+            "authorId": "1989965",
+            "name": "D. Poirier"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "ad4fd2c149f220a62441576af92a8a669fe81246",
+        "externalIds": {
+          "DBLP": "journals/jmlr/PedregosaVGMTGBPWDVPCBPD11",
+          "ArXiv": "1201.0490",
+          "MAG": "2101234009",
+          "DOI": "10.5555/1953048.2078195",
+          "CorpusId": 10659969
+        },
+        "url": "https://www.semanticscholar.org/paper/ad4fd2c149f220a62441576af92a8a669fe81246",
+        "title": "Scikit-learn: Machine Learning in Python",
+        "venue": "Journal of machine learning research",
+        "year": 2011,
+        "referenceCount": 17,
+        "citationCount": 88066,
+        "authors": [
+          {
+            "authorId": "2570016",
+            "name": "Fabian Pedregosa"
+          },
+          {
+            "authorId": "3025780",
+            "name": "G. Varoquaux"
+          },
+          {
+            "authorId": "1797840",
+            "name": "Alexandre Gramfort"
+          },
+          {
+            "authorId": "52200573",
+            "name": "V. Michel"
+          },
+          {
+            "authorId": "8493461",
+            "name": "B. Thirion"
+          },
+          {
+            "authorId": "2958756",
+            "name": "O. Grisel"
+          },
+          {
+            "authorId": "27257992",
+            "name": "Mathieu Blondel"
+          },
+          {
+            "authorId": "1881041",
+            "name": "Gilles Louppe"
+          },
+          {
+            "authorId": "2780213",
+            "name": "P. Prettenhofer"
+          },
+          {
+            "authorId": "2067827437",
+            "name": "Ron Weiss"
+          },
+          {
+            "authorId": "39571582",
+            "name": "Ron J. Weiss"
+          },
+          {
+            "authorId": "2081469",
+            "name": "J. Vanderplas"
+          },
+          {
+            "authorId": "144720379",
+            "name": "Alexandre Passos"
+          },
+          {
+            "authorId": "3084321",
+            "name": "D. Cournapeau"
+          },
+          {
+            "authorId": "2423884",
+            "name": "M. Brucher"
+          },
+          {
+            "authorId": "35243423",
+            "name": "M. Perrot"
+          },
+          {
+            "authorId": "1710398",
+            "name": "E. Duchesnay"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "44d86f3ba9167f4931dae729d814c13fbc7a0efb",
+        "externalIds": {
+          "MAG": "2911749200",
+          "DOI": "10.1017/CBO9780511761362",
+          "CorpusId": 63263072
+        },
+        "url": "https://www.semanticscholar.org/paper/44d86f3ba9167f4931dae729d814c13fbc7a0efb",
+        "title": "Large-scale inference",
+        "venue": "",
+        "year": 2010,
+        "referenceCount": 112,
+        "citationCount": 832,
+        "authors": [
+          {
+            "authorId": "2170324454",
+            "name": "Bradley Efron"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "f476856bcc7bc22b19bacd87d97ad7e81dbee37f",
+        "externalIds": {
+          "ArXiv": "0912.1586",
+          "MAG": "2094352577",
+          "DOI": "10.1198/jasa.2011.ap09769",
+          "CorpusId": 153583
+        },
+        "url": "https://www.semanticscholar.org/paper/f476856bcc7bc22b19bacd87d97ad7e81dbee37f",
+        "title": "Dynamic Trees for Learning and Design",
+        "venue": "",
+        "year": 2009,
+        "referenceCount": 33,
+        "citationCount": 135,
+        "authors": [
+          {
+            "authorId": "2239778582",
+            "name": "Matthew A. Taddy"
+          },
+          {
+            "authorId": "2388276",
+            "name": "R. Gramacy"
+          },
+          {
+            "authorId": "2262186659",
+            "name": "Nicholas G. Polson"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "bf15a0ccc14ac1deb5cea570c870389c16be019c",
+        "externalIds": {
+          "MAG": "2103459159",
+          "DBLP": "journals/dss/CortezCAMR09",
+          "DOI": "10.1016/j.dss.2009.05.016",
+          "CorpusId": 2996254
+        },
+        "url": "https://www.semanticscholar.org/paper/bf15a0ccc14ac1deb5cea570c870389c16be019c",
+        "title": "Modeling wine preferences by data mining from physicochemical properties",
+        "venue": "Decision Support Systems",
+        "year": 2009,
+        "referenceCount": 46,
+        "citationCount": 1475,
+        "authors": [
+          {
+            "authorId": "145286037",
+            "name": "P. Cortez"
+          },
+          {
+            "authorId": "87429533",
+            "name": "A. Cerdeira"
+          },
+          {
+            "authorId": "2053385052",
+            "name": "Fernando Almeida"
+          },
+          {
+            "authorId": "2074116890",
+            "name": "Telmo Matos"
+          },
+          {
+            "authorId": "2056181012",
+            "name": "J. Reis"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "74c170f55160fcdbf558390cc768625b76c52cc9",
+        "externalIds": {
+          "DBLP": "journals/pvldb/PandaHBB09",
+          "MAG": "2125816831",
+          "DOI": "10.14778/1687553.1687569",
+          "CorpusId": 9775238
+        },
+        "url": "https://www.semanticscholar.org/paper/74c170f55160fcdbf558390cc768625b76c52cc9",
+        "title": "PLANET: Massively Parallel Learning of Tree Ensembles with MapReduce",
+        "venue": "Proceedings of the VLDB Endowment",
+        "year": 2009,
+        "referenceCount": 38,
+        "citationCount": 318,
+        "authors": [
+          {
+            "authorId": "34547779",
+            "name": "Biswanath Panda"
+          },
+          {
+            "authorId": "101285460",
+            "name": "Josh Herbach"
+          },
+          {
+            "authorId": "40632403",
+            "name": "Sugato Basu"
+          },
+          {
+            "authorId": "1692160",
+            "name": "R. Bayardo"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "c34467299f20cd47a0f155d357439967030de972",
+        "externalIds": {
+          "MAG": "2126292488",
+          "ArXiv": "0806.3286",
+          "DOI": "10.1214/09-AOAS285",
+          "CorpusId": 12852360
+        },
+        "url": "https://www.semanticscholar.org/paper/c34467299f20cd47a0f155d357439967030de972",
+        "title": "BART: Bayesian Additive Regression Trees",
+        "venue": "",
+        "year": 2008,
+        "referenceCount": 41,
+        "citationCount": 2001,
+        "authors": [
+          {
+            "authorId": "1960946",
+            "name": "H. Chipman"
+          },
+          {
+            "authorId": "2347035",
+            "name": "E. George"
+          },
+          {
+            "authorId": "2840298",
+            "name": "R. McCulloch"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "2c1ac493143df6a38197a2d2cef58e45b75df9ca",
+        "externalIds": {
+          "MAG": "2950708302",
+          "ArXiv": "0710.4536",
+          "DOI": "10.1198/016214508000000689",
+          "CorpusId": 529408
+        },
+        "url": "https://www.semanticscholar.org/paper/2c1ac493143df6a38197a2d2cef58e45b75df9ca",
+        "title": "Bayesian Treed Gaussian Process Models With an Application to Computer Modeling",
+        "venue": "",
+        "year": 2007,
+        "referenceCount": 49,
+        "citationCount": 725,
+        "authors": [
+          {
+            "authorId": "2388276",
+            "name": "R. Gramacy"
+          },
+          {
+            "authorId": "48723705",
+            "name": "Herbert K. H. Lee"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "072d09ba865b5c2cfac279696c555730f0cdbce4",
+        "externalIds": {
+          "MAG": "2123998733",
+          "DOI": "10.1198/106186006X133933",
+          "CorpusId": 6074128
+        },
+        "url": "https://www.semanticscholar.org/paper/072d09ba865b5c2cfac279696c555730f0cdbce4",
+        "title": "Unbiased Recursive Partitioning: A Conditional Inference Framework",
+        "venue": "",
+        "year": 2006,
+        "referenceCount": 63,
+        "citationCount": 3680,
+        "authors": [
+          {
+            "authorId": "1970375",
+            "name": "T. Hothorn"
+          },
+          {
+            "authorId": "1764952",
+            "name": "K. Hornik"
+          },
+          {
+            "authorId": "2144516",
+            "name": "A. Zeileis"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "336a165c17c9c56160d332b9f4a2b403fccbdbfb",
+        "externalIds": {
+          "DBLP": "journals/ml/GeurtsEW06",
+          "MAG": "2056132907",
+          "DOI": "10.1007/s10994-006-6226-1",
+          "CorpusId": 15137276
+        },
+        "url": "https://www.semanticscholar.org/paper/336a165c17c9c56160d332b9f4a2b403fccbdbfb",
+        "title": "Extremely randomized trees",
+        "venue": "Machine-mediated learning",
+        "year": 2006,
+        "referenceCount": 51,
+        "citationCount": 8017,
+        "authors": [
+          {
+            "authorId": "50206577",
+            "name": "P. Geurts"
+          },
+          {
+            "authorId": "1751167",
+            "name": "D. Ernst"
+          },
+          {
+            "authorId": "1695713",
+            "name": "L. Wehenkel"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "6b23ca353a3ab15b4caac4868909aadabc6cc683",
+        "externalIds": {
+          "MAG": "1794660055",
+          "DOI": "10.2139/SSRN.896764",
+          "CorpusId": 8252684
+        },
+        "url": "https://www.semanticscholar.org/paper/6b23ca353a3ab15b4caac4868909aadabc6cc683",
+        "title": "A Note on Bootstraps and Robustness",
+        "venue": "",
+        "year": 2006,
+        "referenceCount": 14,
+        "citationCount": 26,
+        "authors": [
+          {
+            "authorId": "152529127",
+            "name": "T. Lancaster"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "c0036e999bc4fd36ef9e6e4dcffbf7fe17fd47d5",
+        "externalIds": {
+          "MAG": "2465493330",
+          "DOI": "10.1198/tech.2003.s33",
+          "CorpusId": 58158317
+        },
+        "url": "https://www.semanticscholar.org/paper/c0036e999bc4fd36ef9e6e4dcffbf7fe17fd47d5",
+        "title": "Modern Applied Statistics With S",
+        "venue": "",
+        "year": 2003,
+        "referenceCount": 3,
+        "citationCount": 6518,
+        "authors": [
+          {
+            "authorId": "52538626",
+            "name": "Christina Gloeckner"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "9d8c63d0043cb96e3423cef18b42be996ec8e52c",
+        "externalIds": {
+          "MAG": "2125845509",
+          "DOI": "10.1198/073500102288618711",
+          "CorpusId": 51948400
+        },
+        "url": "https://www.semanticscholar.org/paper/9d8c63d0043cb96e3423cef18b42be996ec8e52c",
+        "title": "Nonparametric Applications of Bayesian Inference",
+        "venue": "",
+        "year": 2003,
+        "referenceCount": 18,
+        "citationCount": 120,
+        "authors": [
+          {
+            "authorId": "113315486",
+            "name": "G. Chamberlain"
+          },
+          {
+            "authorId": "47166531",
+            "name": "G. Imbens"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "c116336862b6ab82f6374ca869d6493dfca702cc",
+        "externalIds": {
+          "DBLP": "conf/ecml/GeurtsW00",
+          "MAG": "1550699463",
+          "DOI": "10.1007/3-540-45164-1_17",
+          "CorpusId": 3158274
+        },
+        "url": "https://www.semanticscholar.org/paper/c116336862b6ab82f6374ca869d6493dfca702cc",
+        "title": "Investigation and Reduction of Discretization Variance in Decision Tree Induction",
+        "venue": "European Conference on Machine Learning",
+        "year": 2000,
+        "referenceCount": 13,
+        "citationCount": 24,
+        "authors": [
+          {
+            "authorId": "50206577",
+            "name": "P. Geurts"
+          },
+          {
+            "authorId": "1695713",
+            "name": "L. Wehenkel"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "2d1e0a5d5309354d4948fa88b01232e59eee94dc",
+        "externalIds": {
+          "MAG": "2151832869",
+          "DOI": "10.1080/01621459.1998.10473750",
+          "CorpusId": 122667720
+        },
+        "url": "https://www.semanticscholar.org/paper/2d1e0a5d5309354d4948fa88b01232e59eee94dc",
+        "title": "Bayesian CART Model Search",
+        "venue": "",
+        "year": 1998,
+        "referenceCount": 18,
+        "citationCount": 837,
+        "authors": [
+          {
+            "authorId": "1960946",
+            "name": "H. Chipman"
+          },
+          {
+            "authorId": "2347035",
+            "name": "E. George"
+          },
+          {
+            "authorId": "2840298",
+            "name": "R. McCulloch"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "d0116e7670c00392d3f12e473e80ea77e6a377b8",
+        "externalIds": {
+          "MAG": "2023320048",
+          "DOI": "10.1016/S0167-7152(96)00140-X",
+          "CorpusId": 122038477
+        },
+        "url": "https://www.semanticscholar.org/paper/d0116e7670c00392d3f12e473e80ea77e6a377b8",
+        "title": "Sparse spatial autoregressions",
+        "venue": "",
+        "year": 1997,
+        "referenceCount": 9,
+        "citationCount": 675,
+        "authors": [
+          {
+            "authorId": "41131547",
+            "name": "R. Pace"
+          },
+          {
+            "authorId": "2053501673",
+            "name": "Ronald P. Barry"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "974bf001626115b669aa92f6851d02accd8b9f00",
+        "externalIds": {
+          "MAG": "2168016523",
+          "DOI": "10.1080/01621459.1989.10478825",
+          "CorpusId": 124300843
+        },
+        "url": "https://www.semanticscholar.org/paper/974bf001626115b669aa92f6851d02accd8b9f00",
+        "title": "Approximate Bayesian Inference in Conditionally Independent Hierarchical Models (Parametric Empirical Bayes Models)",
+        "venue": "",
+        "year": 1989,
+        "referenceCount": 41,
+        "citationCount": 502,
+        "authors": [
+          {
+            "authorId": "1840562",
+            "name": "R. Kass"
+          },
+          {
+            "authorId": "4173210",
+            "name": "D. Steffey"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "daaeb4a428097fb1f40fd8b9f7210d5cce60922d",
+        "externalIds": {
+          "MAG": "2153476503",
+          "DOI": "10.2307/2986296",
+          "CorpusId": 61329067
+        },
+        "url": "https://www.semanticscholar.org/paper/daaeb4a428097fb1f40fd8b9f7210d5cce60922d",
+        "title": "An Exploratory Technique for Investigating Large Quantities of Categorical Data",
+        "venue": "",
+        "year": 1980,
+        "referenceCount": 16,
+        "citationCount": 3122,
+        "authors": [
+          {
+            "authorId": "70141842",
+            "name": "G. V. Kass"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "de6c025dbb37afe5041d1f7d0343c1db48869bfc",
+        "externalIds": {
+          "MAG": "2132304432",
+          "DBLP": "journals/technometrics/Ramsey00",
+          "DOI": "10.1080/00401706.2000.10486020",
+          "CorpusId": 11391676
+        },
+        "url": "https://www.semanticscholar.org/paper/de6c025dbb37afe5041d1f7d0343c1db48869bfc",
+        "title": "Nonparametric Statistical Methods",
+        "venue": "Technometrics",
+        "year": 1974,
+        "referenceCount": 13,
+        "citationCount": 4156,
+        "authors": [
+          {
+            "authorId": "40010529",
+            "name": "Philip H. Ramsey"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "943308bbc933a01ded9eb185a062b756e03d4fa6",
+        "externalIds": {
+          "MAG": "2069429561",
+          "DOI": "10.1214/AOS/1176342360",
+          "CorpusId": 9777424
+        },
+        "url": "https://www.semanticscholar.org/paper/943308bbc933a01ded9eb185a062b756e03d4fa6",
+        "title": "A Bayesian Analysis of Some Nonparametric Problems",
+        "venue": "",
+        "year": 1973,
+        "referenceCount": 10,
+        "citationCount": 5403,
+        "authors": [
+          {
+            "authorId": "2792323",
+            "name": "T. Ferguson"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "23d6818a67bcbfc82ff57f2b1727aa451149b212",
+        "externalIds": {
+          "CorpusId": 122429869
+        },
+        "url": "https://www.semanticscholar.org/paper/23d6818a67bcbfc82ff57f2b1727aa451149b212",
+        "title": "Bayesian Additive Regression Trees",
+        "venue": "",
+        "year": 2006,
+        "referenceCount": 0,
+        "citationCount": 320,
+        "authors": []
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "5447b71c96aaff6400ccf4267f373f184eec07d2",
+        "externalIds": {
+          "MAG": "182248535",
+          "CorpusId": 5789022
+        },
+        "url": "https://www.semanticscholar.org/paper/5447b71c96aaff6400ccf4267f373f184eec07d2",
+        "title": "REGRESSION TREES WITH UNBIASED VARIABLE SELECTION AND INTERACTION DETECTION",
+        "venue": "",
+        "year": 2002,
+        "referenceCount": 29,
+        "citationCount": 637,
+        "authors": [
+          {
+            "authorId": "1887059",
+            "name": "Wei-Yin Loh"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "8e0be569ea77b8cb29bb0e8b031887630fe7a96c",
+        "externalIds": {
+          "MAG": "2342146255",
+          "DBLP": "reference/ml/X17sy",
+          "DOI": "10.1023/A:1010933404324",
+          "CorpusId": 89141
+        },
+        "url": "https://www.semanticscholar.org/paper/8e0be569ea77b8cb29bb0e8b031887630fe7a96c",
+        "title": "Random Forests",
+        "venue": "Machine-mediated learning",
+        "year": 2001,
+        "referenceCount": 22,
+        "citationCount": 114507,
+        "authors": [
+          {
+            "authorId": "2423230",
+            "name": "L. Breiman"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "6adccf6dddda9bbb060ea65afac6e15798962942",
+        "externalIds": {
+          "DBLP": "conf/aistats/ClydeL01",
+          "MAG": "2295947459",
+          "CorpusId": 14673241
+        },
+        "url": "https://www.semanticscholar.org/paper/6adccf6dddda9bbb060ea65afac6e15798962942",
+        "title": "Bagging and the Bayesian Bootstrap",
+        "venue": "International Conference on Artificial Intelligence and Statistics",
+        "year": 2001,
+        "referenceCount": 15,
+        "citationCount": 54,
+        "authors": [
+          {
+            "authorId": "3028496",
+            "name": "M. Clyde"
+          },
+          {
+            "authorId": "48723705",
+            "name": "Herbert K. H. Lee"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "28689e89714d34d9428db5f0a8a7dfafc5db1214",
+        "externalIds": {
+          "MAG": "79582936",
+          "DOI": "10.1007/978-3-642-48850-4_20",
+          "CorpusId": 116620205
+        },
+        "url": "https://www.semanticscholar.org/paper/28689e89714d34d9428db5f0a8a7dfafc5db1214",
+        "title": "On The Bayesian Bootstrap",
+        "venue": "",
+        "year": 1992,
+        "referenceCount": 3,
+        "citationCount": 736,
+        "authors": [
+          {
+            "authorId": "2062724529",
+            "name": "R. Cano"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "Multivariate adaptive regression splines. The Annals of Statistics",
+        "venue": "Multivariate adaptive regression splines. The Annals of Statistics",
+        "year": 1991,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "378e8a238d156859dfc88cc13489441d47cf661a",
+        "externalIds": {
+          "MAG": "1594031697",
+          "CorpusId": 262261025
+        },
+        "url": "https://www.semanticscholar.org/paper/378e8a238d156859dfc88cc13489441d47cf661a",
+        "title": "Classification and regression trees",
+        "venue": "",
+        "year": 1983,
+        "referenceCount": 24,
+        "citationCount": 2632,
+        "authors": [
+          {
+            "authorId": "2423230",
+            "name": "L. Breiman"
+          }
+        ]
+      }
+    }
+  ]
+}

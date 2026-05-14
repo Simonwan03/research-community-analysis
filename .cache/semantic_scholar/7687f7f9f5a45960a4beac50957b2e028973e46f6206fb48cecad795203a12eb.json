@@ -1,0 +1,57 @@
+{
+  "total": 2,
+  "offset": 0,
+  "data": [
+    {
+      "paperId": "2fb38ad08da427ff88cf064ad79002165c4ea9b2",
+      "externalIds": {
+        "DBLP": "conf/icml/RoychowdhuryKP16",
+        "MAG": "2474478148",
+        "CorpusId": 9166734
+      },
+      "url": "https://www.semanticscholar.org/paper/2fb38ad08da427ff88cf064ad79002165c4ea9b2",
+      "title": "Robust Monte Carlo Sampling using Riemannian Nosé-Poincaré Hamiltonian Dynamics",
+      "venue": "International Conference on Machine Learning",
+      "year": 2016,
+      "referenceCount": 20,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "34481173",
+          "name": "A. Roychowdhury"
+        },
+        {
+          "authorId": "1692670",
+          "name": "Brian Kulis"
+        },
+        {
+          "authorId": "145022640",
+          "name": "S. Parthasarathy"
+        }
+      ]
+    },
+    {
+      "paperId": "0e17fb4e34a0cf3b8dd94ddf3aa5165ea8d78618",
+      "externalIds": {
+        "DBLP": "conf/icml/XuG24",
+        "CorpusId": 271882562
+      },
+      "url": "https://www.semanticscholar.org/paper/0e17fb4e34a0cf3b8dd94ddf3aa5165ea8d78618",
+      "title": "Practical Hamiltonian Monte Carlo on Riemannian Manifolds via Relativity Theory",
+      "venue": "International Conference on Machine Learning",
+      "year": 2024,
+      "referenceCount": 30,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2301426779",
+          "name": "Kai Xu"
+        },
+        {
+          "authorId": "2364009771",
+          "name": "Hong Ge"
+        }
+      ]
+    }
+  ]
+}

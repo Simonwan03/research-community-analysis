@@ -1,0 +1,284 @@
+{
+  "total": 128,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "d1bed006df75658c3157831537440e0c98e3809d",
+      "externalIds": {
+        "MAG": "2952873162",
+        "ArXiv": "1806.04326",
+        "DBLP": "conf/icml/SunZWZLG18",
+        "CorpusId": 48355590
+      },
+      "url": "https://www.semanticscholar.org/paper/d1bed006df75658c3157831537440e0c98e3809d",
+      "title": "Differentiable Compositional Kernel Learning for Gaussian Processes",
+      "venue": "International Conference on Machine Learning",
+      "year": 2018,
+      "referenceCount": 35,
+      "citationCount": 77,
+      "authors": [
+        {
+          "authorId": null,
+          "name": "Shengyang Sun"
+        },
+        {
+          "authorId": "46266081",
+          "name": "Guodong Zhang"
+        },
+        {
+          "authorId": "13817193",
+          "name": "Chaoqi Wang"
+        },
+        {
+          "authorId": "3468942",
+          "name": "Wenyuan Zeng"
+        },
+        {
+          "authorId": "22133106",
+          "name": "Jiaman Li"
+        },
+        {
+          "authorId": "1785346",
+          "name": "R. Grosse"
+        }
+      ]
+    },
+    {
+      "paperId": "38df375deb8b907ae5e201945a7eca64d6926c06",
+      "externalIds": {
+        "CorpusId": 260549286
+      },
+      "url": "https://www.semanticscholar.org/paper/38df375deb8b907ae5e201945a7eca64d6926c06",
+      "title": "Differentiable Compositional Kernel Learning for Gaussian Processes",
+      "venue": "",
+      "year": 2018,
+      "referenceCount": 0,
+      "citationCount": 3,
+      "authors": []
+    },
+    {
+      "paperId": "ea8dc3d7aaace0e1e59bbc3c989537f003db4dd8",
+      "externalIds": {
+        "DBLP": "conf/copa/KirsteinSE22",
+        "CorpusId": 253508204
+      },
+      "url": "https://www.semanticscholar.org/paper/ea8dc3d7aaace0e1e59bbc3c989537f003db4dd8",
+      "title": "Tensor-Train Kernel Learning for Gaussian Processes",
+      "venue": "International Symposium on Conformal and Probabilistic Prediction with Applications",
+      "year": 2022,
+      "referenceCount": 55,
+      "citationCount": 4,
+      "authors": [
+        {
+          "authorId": "2105736648",
+          "name": "Max Kirstein"
+        },
+        {
+          "authorId": "2142454960",
+          "name": "David Sommer"
+        },
+        {
+          "authorId": "2193724",
+          "name": "M. Eigel"
+        }
+      ]
+    },
+    {
+      "paperId": "988005b8eabd8e2429a1bc916ebf83fe8fd0b8d6",
+      "externalIds": {
+        "DBLP": "journals/entropy/LuS21a",
+        "PubMedCentral": "8625033",
+        "ArXiv": "2002.02826",
+        "DOI": "10.3390/e23111545",
+        "CorpusId": 238259313,
+        "PubMed": "34828243"
+      },
+      "url": "https://www.semanticscholar.org/paper/988005b8eabd8e2429a1bc916ebf83fe8fd0b8d6",
+      "title": "Conditional Deep Gaussian Processes: Multi-Fidelity Kernel Learning",
+      "venue": "Entropy",
+      "year": 2020,
+      "referenceCount": 42,
+      "citationCount": 6,
+      "authors": [
+        {
+          "authorId": "10050563",
+          "name": "Chi-Ken Lu"
+        },
+        {
+          "authorId": "3210220",
+          "name": "Patrick Shafto"
+        }
+      ]
+    },
+    {
+      "paperId": "ba067e7cb582c63086fd81d5f863e093de863237",
+      "externalIds": {
+        "MAG": "3026116758",
+        "DOI": "10.1007/s00158-020-02559-7",
+        "CorpusId": 219448548
+      },
+      "url": "https://www.semanticscholar.org/paper/ba067e7cb582c63086fd81d5f863e093de863237",
+      "title": "Compositional kernel learning using tree-based genetic programming for Gaussian process regression",
+      "venue": "Structural And Multidisciplinary Optimization",
+      "year": 2020,
+      "referenceCount": 55,
+      "citationCount": 22,
+      "authors": [
+        {
+          "authorId": "103666164",
+          "name": "Seung-Seop Jin"
+        }
+      ]
+    },
+    {
+      "paperId": "4522d04e6dff6e05e83e4c595dffd8176711da4d",
+      "externalIds": {
+        "DBLP": "conf/aaai/TongTBC21",
+        "ArXiv": "2012.11339",
+        "DOI": "10.1609/aaai.v35i11.17190",
+        "CorpusId": 229339691
+      },
+      "url": "https://www.semanticscholar.org/paper/4522d04e6dff6e05e83e4c595dffd8176711da4d",
+      "title": "Learning Compositional Sparse Gaussian Processes with a Shrinkage Prior",
+      "venue": "AAAI Conference on Artificial Intelligence",
+      "year": 2020,
+      "referenceCount": 44,
+      "citationCount": 4,
+      "authors": [
+        {
+          "authorId": "145331465",
+          "name": "Anh Tong"
+        },
+        {
+          "authorId": "143678789",
+          "name": "Toan Tran"
+        },
+        {
+          "authorId": "145365341",
+          "name": "H. Bui"
+        },
+        {
+          "authorId": "7629367",
+          "name": "Jaesik Choi"
+        }
+      ]
+    },
+    {
+      "paperId": "0c121fea951850e3e716f91b35e25340778a790b",
+      "externalIds": {
+        "DBLP": "journals/asc/Jin21",
+        "MAG": "3105074610",
+        "DOI": "10.1016/j.asoc.2020.106909",
+        "CorpusId": 228886214
+      },
+      "url": "https://www.semanticscholar.org/paper/0c121fea951850e3e716f91b35e25340778a790b",
+      "title": "Accelerating Gaussian Process surrogate modeling using Compositional Kernel Learning and multi-stage sampling framework",
+      "venue": "Applied Soft Computing",
+      "year": 2020,
+      "referenceCount": 72,
+      "citationCount": 13,
+      "authors": [
+        {
+          "authorId": "103666164",
+          "name": "Seung-Seop Jin"
+        }
+      ]
+    },
+    {
+      "paperId": "25c31144df38d3d244614708aa5d58428493cc2b",
+      "externalIds": {
+        "DBLP": "conf/icmlc2/EressaBLG23",
+        "DOI": "10.1145/3587716.3587730",
+        "CorpusId": 261583511
+      },
+      "url": "https://www.semanticscholar.org/paper/25c31144df38d3d244614708aa5d58428493cc2b",
+      "title": "Stochastic Compositional Kernel Estimation for Gaussian Process Models",
+      "venue": "International Conference on Machine Learning and Computing",
+      "year": 2023,
+      "referenceCount": 20,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "9024243",
+          "name": "Muluken Regas Eressa"
+        },
+        {
+          "authorId": "2223944269",
+          "name": "Hakim Badis"
+        },
+        {
+          "authorId": "2238215623",
+          "name": "Rami Langar"
+        },
+        {
+          "authorId": "2178415658",
+          "name": "Dorian Grosso"
+        }
+      ]
+    },
+    {
+      "paperId": "4c2bbc9f3144ccc86a73afef758ba566f581e5f0",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2601-11775",
+        "ArXiv": "2601.11775",
+        "DOI": "10.48550/arXiv.2601.11775",
+        "CorpusId": 284910153
+      },
+      "url": "https://www.semanticscholar.org/paper/4c2bbc9f3144ccc86a73afef758ba566f581e5f0",
+      "title": "Quantum Kernel Machine Learning for Autonomous Materials Science",
+      "venue": "APL Quantum",
+      "year": 2026,
+      "referenceCount": 30,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "2220304761",
+          "name": "Felix Adams"
+        },
+        {
+          "authorId": "2331463272",
+          "name": "Daiwei Zhu"
+        },
+        {
+          "authorId": "5038754",
+          "name": "D. Steuerman"
+        },
+        {
+          "authorId": "4833974",
+          "name": "A. Kusne"
+        },
+        {
+          "authorId": "2303471855",
+          "name": "Ichiro Takeuchi"
+        }
+      ]
+    },
+    {
+      "paperId": "994ad32e11dcb853d17791ee312f59a891a459dc",
+      "externalIds": {
+        "CorpusId": 248524932
+      },
+      "url": "https://www.semanticscholar.org/paper/994ad32e11dcb853d17791ee312f59a891a459dc",
+      "title": "Meta-learning Feature Representations for Adaptive Gaussian Processes via Implicit Differentiation",
+      "venue": "",
+      "year": 2022,
+      "referenceCount": 56,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "48993665",
+          "name": "Wenlin Chen"
+        },
+        {
+          "authorId": "115766771",
+          "name": "Austin Tripp"
+        },
+        {
+          "authorId": "1388574431",
+          "name": "José Miguel Hernández-Lobato"
+        }
+      ]
+    }
+  ]
+}

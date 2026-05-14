@@ -1,0 +1,295 @@
+{
+  "total": 22,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "675768fece136751be9673c16bcadf459ae4e476",
+      "externalIds": {
+        "DBLP": "conf/icml/HenriquesV17",
+        "MAG": "2962686123",
+        "ArXiv": "1609.04382",
+        "CorpusId": 4910681
+      },
+      "url": "https://www.semanticscholar.org/paper/675768fece136751be9673c16bcadf459ae4e476",
+      "title": "Warped Convolutions: Efficient Invariance to Spatial Transformations",
+      "venue": "International Conference on Machine Learning",
+      "year": 2016,
+      "referenceCount": 27,
+      "citationCount": 116,
+      "authors": [
+        {
+          "authorId": "143848064",
+          "name": "João F. Henriques"
+        },
+        {
+          "authorId": "1687524",
+          "name": "A. Vedaldi"
+        }
+      ]
+    },
+    {
+      "paperId": "7117ed0be436c0291bc6fb6ea6db18de74e2464a",
+      "externalIds": {
+        "DOI": "10.1007/978-3-319-51899-2_3",
+        "CorpusId": 51731450
+      },
+      "url": "https://www.semanticscholar.org/paper/7117ed0be436c0291bc6fb6ea6db18de74e2464a",
+      "title": "SPATIAL TRANSFORMATIONS",
+      "venue": "",
+      "year": 2017,
+      "referenceCount": 19,
+      "citationCount": 17,
+      "authors": [
+        {
+          "authorId": "143848064",
+          "name": "João F. Henriques"
+        },
+        {
+          "authorId": "1687524",
+          "name": "A. Vedaldi"
+        }
+      ]
+    },
+    {
+      "paperId": "e87513700355aba1b7ea3d8ae58a3ed894bc7755",
+      "externalIds": {
+        "MAG": "2809840990",
+        "DBLP": "conf/ieea/MeiGY18",
+        "DOI": "10.1145/3208854.3208886",
+        "CorpusId": 49563382
+      },
+      "url": "https://www.semanticscholar.org/paper/e87513700355aba1b7ea3d8ae58a3ed894bc7755",
+      "title": "Learning Geometric Invariance Features and Discrimination Representation for Image Classification via Spatial Transform Network and XGBoost Modeling",
+      "venue": "IEEA '18",
+      "year": 2018,
+      "referenceCount": 12,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "50991649",
+          "name": "Liye Mei"
+        },
+        {
+          "authorId": "2146370710",
+          "name": "Xiaopeng Guo"
+        },
+        {
+          "authorId": "2147191684",
+          "name": "Wang Yin"
+        }
+      ]
+    },
+    {
+      "paperId": "dbb6ded623159c867fbeca0772db7b2eb9489523",
+      "externalIds": {
+        "ArXiv": "1506.02025",
+        "MAG": "603908379",
+        "DBLP": "conf/nips/JaderbergSZK15",
+        "CorpusId": 6099034
+      },
+      "url": "https://www.semanticscholar.org/paper/dbb6ded623159c867fbeca0772db7b2eb9489523",
+      "title": "Spatial Transformer Networks",
+      "venue": "Neural Information Processing Systems",
+      "year": 2015,
+      "referenceCount": 42,
+      "citationCount": 8024,
+      "authors": [
+        {
+          "authorId": "3093886",
+          "name": "Max Jaderberg"
+        },
+        {
+          "authorId": "34838386",
+          "name": "K. Simonyan"
+        },
+        {
+          "authorId": "1688869",
+          "name": "Andrew Zisserman"
+        },
+        {
+          "authorId": "2645384",
+          "name": "K. Kavukcuoglu"
+        }
+      ]
+    },
+    {
+      "paperId": "83c3978c292fcce584a2075be239ec3cb8ee38cc",
+      "externalIds": {
+        "DBLP": "conf/icdsp/DeBPKM25",
+        "DOI": "10.1109/DSP65409.2025.11074953",
+        "CorpusId": 280169602
+      },
+      "url": "https://www.semanticscholar.org/paper/83c3978c292fcce584a2075be239ec3cb8ee38cc",
+      "title": "Geometric Knowledge Distillation via Procrustes Analysis for Efficient Motion Sequence Classification",
+      "venue": "International Conference on Digital Signal Processing",
+      "year": 2025,
+      "referenceCount": 14,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "2315319081",
+          "name": "Bikram De"
+        },
+        {
+          "authorId": "3398917",
+          "name": "Kostas Blekos"
+        },
+        {
+          "authorId": "2374050439",
+          "name": "Vassilis Pikoulis"
+        },
+        {
+          "authorId": "2307294262",
+          "name": "D. Kosmopoulos"
+        },
+        {
+          "authorId": "2270033",
+          "name": "V. Metsis"
+        }
+      ]
+    },
+    {
+      "paperId": "e3f0aaf1da96233dbc78d269625c1192e0a82224",
+      "externalIds": {
+        "DOI": "10.1109/RICAI64321.2024.10911682",
+        "CorpusId": 276994742
+      },
+      "url": "https://www.semanticscholar.org/paper/e3f0aaf1da96233dbc78d269625c1192e0a82224",
+      "title": "A VMamba Attention Network for Efficient Deformable Image Registration in Lung 4DCT",
+      "venue": "International Conference on Robotics, Intelligent Control and Artificial Intelligence",
+      "year": 2024,
+      "referenceCount": 18,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2350019432",
+          "name": "Mengyuan Bai"
+        },
+        {
+          "authorId": "2350047969",
+          "name": "Xiaofang Liu"
+        },
+        {
+          "authorId": "2350462459",
+          "name": "Zijun Meng"
+        },
+        {
+          "authorId": "2350034573",
+          "name": "Jinfeng Yang"
+        }
+      ]
+    },
+    {
+      "paperId": "6fc505fada5c832c84861cbb5e1552b51080af96",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2506-07357",
+        "ArXiv": "2506.07357",
+        "DOI": "10.48550/arXiv.2506.07357",
+        "CorpusId": 279250682
+      },
+      "url": "https://www.semanticscholar.org/paper/6fc505fada5c832c84861cbb5e1552b51080af96",
+      "title": "CBAM-STN-TPS-YOLO: Enhancing Agricultural Object Detection through Spatially Adaptive Attention Mechanisms",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "referenceCount": 27,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "2366071841",
+          "name": "S. Praveen"
+        },
+        {
+          "authorId": "73042266",
+          "name": "Y. Jung"
+        }
+      ]
+    },
+    {
+      "paperId": "037d0264f162ca8858bcd6020654124c56dde31f",
+      "externalIds": {
+        "MAG": "2902016669",
+        "DBLP": "journals/corr/abs-1811-11856",
+        "ArXiv": "1811.11856",
+        "CorpusId": 54069866
+      },
+      "url": "https://www.semanticscholar.org/paper/037d0264f162ca8858bcd6020654124c56dde31f",
+      "title": "Efficient Measuring of Congruence on High Dimensional Time Series",
+      "venue": "arXiv.org",
+      "year": 2018,
+      "referenceCount": 14,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "144662357",
+          "name": "Jörg P. Bachmann"
+        },
+        {
+          "authorId": "1751739",
+          "name": "J. Freytag"
+        }
+      ]
+    },
+    {
+      "paperId": "40863dd926798abe167ac74ba762cca021d48065",
+      "externalIds": {
+        "DOI": "10.5566/ias.3695",
+        "CorpusId": 286560273
+      },
+      "url": "https://www.semanticscholar.org/paper/40863dd926798abe167ac74ba762cca021d48065",
+      "title": "Deep Learning Driven Breast Cancer MalignancyPrediction in Ultrasound Leveraging Multiscale FeatureFusion and Self Supervised Learning",
+      "venue": "Image Analysis and Stereology",
+      "year": 2026,
+      "referenceCount": 19,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2307330367",
+          "name": "Zhaoxi Li"
+        },
+        {
+          "authorId": "2388838425",
+          "name": "Meichen Wang"
+        },
+        {
+          "authorId": "2277149871",
+          "name": "Wen Li"
+        },
+        {
+          "authorId": "2277167319",
+          "name": "Huihui Zhu"
+        }
+      ]
+    },
+    {
+      "paperId": "53bcd8b809af8c376643f1023e634e5b6d819698",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2007-09433",
+        "MAG": "3094892677",
+        "ArXiv": "2007.09433",
+        "DOI": "10.1007/978-3-030-58604-1_34",
+        "CorpusId": 220647084
+      },
+      "url": "https://www.semanticscholar.org/paper/53bcd8b809af8c376643f1023e634e5b6d819698",
+      "title": "Volumetric Transformer Networks",
+      "venue": "European Conference on Computer Vision",
+      "year": 2020,
+      "referenceCount": 77,
+      "citationCount": 5,
+      "authors": [
+        {
+          "authorId": "2099537",
+          "name": "Seungryong Kim"
+        },
+        {
+          "authorId": "1735035",
+          "name": "S. Süsstrunk"
+        },
+        {
+          "authorId": "2862871",
+          "name": "M. Salzmann"
+        }
+      ]
+    }
+  ]
+}

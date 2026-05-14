@@ -1,0 +1,318 @@
+{
+  "total": 877,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "c982c90a52ecd4e6c8509a2f20c0908704032ede",
+      "externalIds": {
+        "DBLP": "conf/icml/NamkoongSYD17",
+        "MAG": "2741107118",
+        "CorpusId": 20636138
+      },
+      "url": "https://www.semanticscholar.org/paper/c982c90a52ecd4e6c8509a2f20c0908704032ede",
+      "title": "Adaptive Sampling Probabilities for Non-Smooth Optimization",
+      "venue": "International Conference on Machine Learning",
+      "year": 2017,
+      "referenceCount": 35,
+      "citationCount": 36,
+      "authors": [
+        {
+          "authorId": "40281109",
+          "name": "Hongseok Namkoong"
+        },
+        {
+          "authorId": "2635549",
+          "name": "Aman Sinha"
+        },
+        {
+          "authorId": "2856607",
+          "name": "Steve Yadlowsky"
+        },
+        {
+          "authorId": "1734693",
+          "name": "John C. Duchi"
+        }
+      ]
+    },
+    {
+      "paperId": "b8dce9dac5e2981b3e5daf09951b17806f392bef",
+      "externalIds": {
+        "DOI": "10.23952/jnva.9.2025.4.07",
+        "CorpusId": 278656233
+      },
+      "url": "https://www.semanticscholar.org/paper/b8dce9dac5e2981b3e5daf09951b17806f392bef",
+      "title": "Convergence analysis of a proximal stochastic gradient algorithm with adaptive sampling for non-convex and non-smooth composite optimization problems",
+      "venue": "Journal of Nonlinear and Variational Analysis",
+      "year": 2025,
+      "referenceCount": 0,
+      "citationCount": 0,
+      "authors": []
+    },
+    {
+      "paperId": "402a4ea7a5c880d0d19006ba6bbaa083563f2495",
+      "externalIds": {
+        "DBLP": "journals/oms/CurtisQ13",
+        "MAG": "2084788303",
+        "DOI": "10.1080/10556788.2012.714781",
+        "CorpusId": 13967516
+      },
+      "url": "https://www.semanticscholar.org/paper/402a4ea7a5c880d0d19006ba6bbaa083563f2495",
+      "title": "An adaptive gradient sampling algorithm for non-smooth optimization",
+      "venue": "Optim. Methods Softw.",
+      "year": 2013,
+      "referenceCount": 39,
+      "citationCount": 62,
+      "authors": [
+        {
+          "authorId": "2198436",
+          "name": "Frank E. Curtis"
+        },
+        {
+          "authorId": "27459264",
+          "name": "Xiaocun Que"
+        }
+      ]
+    },
+    {
+      "paperId": "da076a684748b8b130c4ce7cf10b1383097354d8",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2210-12334",
+        "ArXiv": "2210.12334",
+        "DOI": "10.48550/arXiv.2210.12334",
+        "CorpusId": 253098209
+      },
+      "url": "https://www.semanticscholar.org/paper/da076a684748b8b130c4ce7cf10b1383097354d8",
+      "title": "Adaptive Data Fusion for Multi-task Non-smooth Optimization",
+      "venue": "arXiv.org",
+      "year": 2022,
+      "referenceCount": 26,
+      "citationCount": 4,
+      "authors": [
+        {
+          "authorId": "49893525",
+          "name": "H. Lam"
+        },
+        {
+          "authorId": "2262470490",
+          "name": "Kaizheng Wang"
+        },
+        {
+          "authorId": "2135325996",
+          "name": "Yuhang Wu"
+        },
+        {
+          "authorId": "2129513945",
+          "name": "Yichen Zhang"
+        }
+      ]
+    },
+    {
+      "paperId": "9b80b85b9df6b37745263575d6349e9d247d6cec",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2107-01355",
+        "ArXiv": "2107.01355",
+        "DOI": "10.1615/int.j.uncertaintyquantification.2022041034",
+        "CorpusId": 235732176
+      },
+      "url": "https://www.semanticscholar.org/paper/9b80b85b9df6b37745263575d6349e9d247d6cec",
+      "title": "Adaptive stratified sampling for non-smooth problems",
+      "venue": "International Journal for Uncertainty Quantification",
+      "year": 2021,
+      "referenceCount": 43,
+      "citationCount": 11,
+      "authors": [
+        {
+          "authorId": "103180784",
+          "name": "Per Pettersson"
+        },
+        {
+          "authorId": "2335969225",
+          "name": "Sebastian Krumscheid"
+        }
+      ]
+    },
+    {
+      "paperId": "be96debf4e14e7410ea4e7eff441dfab5b9d058b",
+      "externalIds": {
+        "DBLP": "journals/tcsv/LiDKLZX25",
+        "DOI": "10.1109/TCSVT.2025.3546765",
+        "CorpusId": 276712089
+      },
+      "url": "https://www.semanticscholar.org/paper/be96debf4e14e7410ea4e7eff441dfab5b9d058b",
+      "title": "Learnable Non-Uniform Quantization With Sampling-Based Optimization for Variable-Rate Learned Image Compression",
+      "venue": "IEEE transactions on circuits and systems for video technology (Print)",
+      "year": 2025,
+      "referenceCount": 81,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "122616272",
+          "name": "Shaohui Li"
+        },
+        {
+          "authorId": "3207464",
+          "name": "Wenrui Dai"
+        },
+        {
+          "authorId": "51265968",
+          "name": "Nuowen Kan"
+        },
+        {
+          "authorId": "144535686",
+          "name": "Chenglin Li"
+        },
+        {
+          "authorId": "38871632",
+          "name": "Junni Zou"
+        },
+        {
+          "authorId": "2258553760",
+          "name": "Hongkai Xiong"
+        }
+      ]
+    },
+    {
+      "paperId": "0d0cedfc163799f93ac9e2e00d53dfebed6e57a0",
+      "externalIds": {
+        "DOI": "10.1109/AIIM64537.2024.10934332",
+        "CorpusId": 277321932
+      },
+      "url": "https://www.semanticscholar.org/paper/0d0cedfc163799f93ac9e2e00d53dfebed6e57a0",
+      "title": "A robotic arm RRT* path planning algorithm based on adaptive target point sampling and path smoothing optimization",
+      "venue": "2024 4th International Symposium on Artificial Intelligence and Intelligent Manufacturing (AIIM)",
+      "year": 2024,
+      "referenceCount": 10,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2339473122",
+          "name": "Ze Cui"
+        },
+        {
+          "authorId": "2339095484",
+          "name": "Rongyang Gu"
+        },
+        {
+          "authorId": "2339276068",
+          "name": "Zixiang Xiong"
+        },
+        {
+          "authorId": "2339257335",
+          "name": "Qishuang Yang"
+        }
+      ]
+    },
+    {
+      "paperId": "f4873d41c1fd2d897d6fc969f97b3e7df3ce5f66",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2404-02239",
+        "ArXiv": "2404.02239",
+        "DOI": "10.1007/s10957-026-02937-z",
+        "CorpusId": 268875966
+      },
+      "url": "https://www.semanticscholar.org/paper/f4873d41c1fd2d897d6fc969f97b3e7df3ce5f66",
+      "title": "Proximal Oracles for Optimization and Sampling",
+      "venue": "Journal of Optimization Theory and Applications",
+      "year": 2024,
+      "referenceCount": 78,
+      "citationCount": 6,
+      "authors": [
+        {
+          "authorId": "2298210543",
+          "name": "Jiaming Liang"
+        },
+        {
+          "authorId": "2295062272",
+          "name": "Yongxin Chen"
+        }
+      ]
+    },
+    {
+      "paperId": "e830ad8dc3681708851b4938cb6c97bafb5e910d",
+      "externalIds": {
+        "ArXiv": "2402.02461",
+        "CorpusId": 267411971
+      },
+      "url": "https://www.semanticscholar.org/paper/e830ad8dc3681708851b4938cb6c97bafb5e910d",
+      "title": "Median Clipping for Zeroth-order Non-Smooth Convex Optimization and Multi-Armed Bandit Problem with Heavy-tailed Symmetric Noise",
+      "venue": "",
+      "year": 2024,
+      "referenceCount": 49,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2218416335",
+          "name": "Nikita Kornilov"
+        },
+        {
+          "authorId": "102230025",
+          "name": "Yuriy Dorn"
+        },
+        {
+          "authorId": "145403137",
+          "name": "A. Lobanov"
+        },
+        {
+          "authorId": "2096201219",
+          "name": "Nikolay Kutuzov"
+        },
+        {
+          "authorId": "1753624473",
+          "name": "Innokentiy Shibaev"
+        },
+        {
+          "authorId": "144044688",
+          "name": "Eduard A. Gorbunov"
+        },
+        {
+          "authorId": "2663409",
+          "name": "A. Gasnikov"
+        },
+        {
+          "authorId": "2282534026",
+          "name": "Alexander Nazin"
+        }
+      ]
+    },
+    {
+      "paperId": "3f85ab80d5efb5a7d668f4a50371b70b4364624e",
+      "externalIds": {
+        "ArXiv": "2604.18264",
+        "CorpusId": 287635095
+      },
+      "url": "https://www.semanticscholar.org/paper/3f85ab80d5efb5a7d668f4a50371b70b4364624e",
+      "title": "Universally Empowering Zeroth-Order Optimization via Adaptive Layer-wise Sampling",
+      "venue": "",
+      "year": 2026,
+      "referenceCount": 50,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2430730224",
+          "name": "Fei Wang"
+        },
+        {
+          "authorId": "2352757516",
+          "name": "Liping Shen"
+        },
+        {
+          "authorId": "46573238",
+          "name": "Liang Ding"
+        },
+        {
+          "authorId": "2325879903",
+          "name": "Chao Xue"
+        },
+        {
+          "authorId": "2218867185",
+          "name": "Ye Liu"
+        },
+        {
+          "authorId": "2279741414",
+          "name": "Changxing Ding"
+        }
+      ]
+    }
+  ]
+}

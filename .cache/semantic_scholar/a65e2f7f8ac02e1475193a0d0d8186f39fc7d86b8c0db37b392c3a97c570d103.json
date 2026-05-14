@@ -1,0 +1,330 @@
+{
+  "total": 2314,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "1d761eb8c4385388dab330a6b0b986c9791783fe",
+      "externalIds": {
+        "DBLP": "journals/corr/White16",
+        "MAG": "2514813345",
+        "ArXiv": "1609.01995",
+        "CorpusId": 570214
+      },
+      "url": "https://www.semanticscholar.org/paper/1d761eb8c4385388dab330a6b0b986c9791783fe",
+      "title": "Unifying Task Specification in Reinforcement Learning",
+      "venue": "International Conference on Machine Learning",
+      "year": 2016,
+      "referenceCount": 25,
+      "citationCount": 93,
+      "authors": [
+        {
+          "authorId": "144542337",
+          "name": "Martha White"
+        }
+      ]
+    },
+    {
+      "paperId": "2b6aa365c01fef6599a6dd49781285eb12e694d8",
+      "externalIds": {
+        "DBLP": "journals/jair/TasseJR25",
+        "DOI": "10.1613/jair.1.16817",
+        "CorpusId": 277933799
+      },
+      "url": "https://www.semanticscholar.org/paper/2b6aa365c01fef6599a6dd49781285eb12e694d8",
+      "title": "Composition and Zero-Shot Transfer with Lattice Structures in Reinforcement Learning",
+      "venue": "Journal of Artificial Intelligence Research",
+      "year": 2025,
+      "referenceCount": 0,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "1477287813",
+          "name": "Geraud Nangue Tasse"
+        },
+        {
+          "authorId": "145968470",
+          "name": "Steven James"
+        },
+        {
+          "authorId": "2256903437",
+          "name": "Benjamin Rosman"
+        }
+      ]
+    },
+    {
+      "paperId": "390ba2d438a33bf0add55e0e7b2831fc034db41f",
+      "externalIds": {
+        "ArXiv": "2410.12136",
+        "DBLP": "journals/tac/KantarosW25",
+        "DOI": "10.1109/TAC.2024.3484290",
+        "CorpusId": 273375678
+      },
+      "url": "https://www.semanticscholar.org/paper/390ba2d438a33bf0add55e0e7b2831fc034db41f",
+      "title": "Sample-Efficient Reinforcement Learning With Temporal Logic Objectives: Leveraging the Task Specification to Guide Exploration",
+      "venue": "IEEE Transactions on Automatic Control",
+      "year": 2024,
+      "referenceCount": 55,
+      "citationCount": 7,
+      "authors": [
+        {
+          "authorId": "3092871",
+          "name": "Y. Kantaros"
+        },
+        {
+          "authorId": "2267697061",
+          "name": "Jun Wang"
+        }
+      ]
+    },
+    {
+      "paperId": "00ec8123dd2ba03afab7c1fa02f774062f769181",
+      "externalIds": {
+        "MAG": "2804948070",
+        "DBLP": "conf/icml/IcarteKVM18",
+        "CorpusId": 51868784
+      },
+      "url": "https://www.semanticscholar.org/paper/00ec8123dd2ba03afab7c1fa02f774062f769181",
+      "title": "Using Reward Machines for High-Level Task Specification and Decomposition in Reinforcement Learning",
+      "venue": "International Conference on Machine Learning",
+      "year": 2018,
+      "referenceCount": 26,
+      "citationCount": 341,
+      "authors": [
+        {
+          "authorId": "15316342",
+          "name": "Rodrigo Toro Icarte"
+        },
+        {
+          "authorId": "1758085",
+          "name": "Toryn Q. Klassen"
+        },
+        {
+          "authorId": "2682734",
+          "name": "R. Valenzano"
+        },
+        {
+          "authorId": "1683896",
+          "name": "Sheila A. McIlraith"
+        }
+      ]
+    },
+    {
+      "paperId": "60a94721d2198ca41a8bfb7e8136564f3217826c",
+      "externalIds": {
+        "DBLP": "conf/aaai/OlivieriLGP26",
+        "ArXiv": "2602.06227",
+        "DOI": "10.1609/aaai.v40i29.39645",
+        "CorpusId": 282385591
+      },
+      "url": "https://www.semanticscholar.org/paper/60a94721d2198ca41a8bfb7e8136564f3217826c",
+      "title": "Do It for HER: First-Order Temporal Logic Reward Specification in Reinforcement Learning (Extended Version)",
+      "venue": "AAAI Conference on Artificial Intelligence",
+      "year": 2026,
+      "referenceCount": 51,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2120331807",
+          "name": "Pierriccardo Olivieri"
+        },
+        {
+          "authorId": "2387800058",
+          "name": "Fausto Lasca"
+        },
+        {
+          "authorId": "2387800177",
+          "name": "Alessandro Gianola"
+        },
+        {
+          "authorId": "2387800461",
+          "name": "Matteo Papini"
+        }
+      ]
+    },
+    {
+      "paperId": "01714c4da16ac7f6f3c9f639d593f4e16a732b74",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2508-01561",
+        "ArXiv": "2508.01561",
+        "DOI": "10.48550/arXiv.2508.01561",
+        "CorpusId": 280421967
+      },
+      "url": "https://www.semanticscholar.org/paper/01714c4da16ac7f6f3c9f639d593f4e16a732b74",
+      "title": "One Subgoal at a Time: Zero-Shot Generalization to Arbitrary Linear Temporal Logic Requirements in Multi-Task Reinforcement Learning",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "referenceCount": 61,
+      "citationCount": 7,
+      "authors": [
+        {
+          "authorId": "2287873298",
+          "name": "Zijian Guo"
+        },
+        {
+          "authorId": "2137508907",
+          "name": "I. Isik"
+        },
+        {
+          "authorId": "2006599378",
+          "name": "H. Ahmad"
+        },
+        {
+          "authorId": "2108689185",
+          "name": "Wenchao Li"
+        }
+      ]
+    },
+    {
+      "paperId": "37989f7b0424142e4c0bb4456e07cdbfebc6d8e2",
+      "externalIds": {
+        "ArXiv": "2511.00391",
+        "DBLP": "journals/corr/abs-2511-00391",
+        "DOI": "10.48550/arXiv.2511.00391",
+        "CorpusId": 282739571
+      },
+      "url": "https://www.semanticscholar.org/paper/37989f7b0424142e4c0bb4456e07cdbfebc6d8e2",
+      "title": "VinciCoder: Unifying Multimodal Code Generation via Coarse-to-fine Visual Reinforcement Learning",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "referenceCount": 55,
+      "citationCount": 11,
+      "authors": [
+        {
+          "authorId": "2374154501",
+          "name": "Xuanle Zhao"
+        },
+        {
+          "authorId": "2392376107",
+          "name": "Deyang Jiang"
+        },
+        {
+          "authorId": "2358994948",
+          "name": "Zhixiong Zeng"
+        },
+        {
+          "authorId": "2238921374",
+          "name": "Lei Chen"
+        },
+        {
+          "authorId": "2354610320",
+          "name": "Haibo Qiu"
+        },
+        {
+          "authorId": "2358860521",
+          "name": "Jing Huang"
+        },
+        {
+          "authorId": "2334674042",
+          "name": "Yufeng Zhong"
+        },
+        {
+          "authorId": "2308477129",
+          "name": "Liming Zheng"
+        },
+        {
+          "authorId": "2390776942",
+          "name": "Yilin Cao"
+        },
+        {
+          "authorId": "2358630787",
+          "name": "Lin Ma"
+        }
+      ]
+    },
+    {
+      "paperId": "7abd7544894819cdf0bda8aa1fb28db6d2228c27",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2412-07177",
+        "ArXiv": "2412.07177",
+        "DOI": "10.48550/arXiv.2412.07177",
+        "CorpusId": 274610360
+      },
+      "url": "https://www.semanticscholar.org/paper/7abd7544894819cdf0bda8aa1fb28db6d2228c27",
+      "title": "Effective Reward Specification in Deep Reinforcement Learning",
+      "venue": "arXiv.org",
+      "year": 2024,
+      "referenceCount": 0,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2299333582",
+          "name": "Julien Roy"
+        }
+      ]
+    },
+    {
+      "paperId": "9e90095245112509c20bb70911ae4d6504779455",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2111-11647",
+        "ArXiv": "2111.11647",
+        "CorpusId": 244488561
+      },
+      "url": "https://www.semanticscholar.org/paper/9e90095245112509c20bb70911ae4d6504779455",
+      "title": "Inducing Functions through Reinforcement Learning without Task Specification",
+      "venue": "arXiv.org",
+      "year": 2021,
+      "referenceCount": 29,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "70053495",
+          "name": "Junmo Cho"
+        },
+        {
+          "authorId": "47381648",
+          "name": "Dong-hwan Lee"
+        },
+        {
+          "authorId": "49691229",
+          "name": "Young-Gyu Yoon"
+        }
+      ]
+    },
+    {
+      "paperId": "a8225928305390355b25dd0064b4048ffc5c5e74",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2506-11470",
+        "ArXiv": "2506.11470",
+        "DOI": "10.48550/arXiv.2506.11470",
+        "CorpusId": 279391293
+      },
+      "url": "https://www.semanticscholar.org/paper/a8225928305390355b25dd0064b4048ffc5c5e74",
+      "title": "Multi-Loco: Unifying Multi-Embodiment Legged Locomotion via Reinforcement Learning Augmented Diffusion",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "referenceCount": 33,
+      "citationCount": 5,
+      "authors": [
+        {
+          "authorId": "2131873201",
+          "name": "Shunpeng Yang"
+        },
+        {
+          "authorId": "2334337376",
+          "name": "Zhen Fu"
+        },
+        {
+          "authorId": "1422038105",
+          "name": "Zhefeng Cao"
+        },
+        {
+          "authorId": "2333664742",
+          "name": "Junde Guo"
+        },
+        {
+          "authorId": "2954119",
+          "name": "Patrick M. Wensing"
+        },
+        {
+          "authorId": "41052788",
+          "name": "Wei Zhang"
+        },
+        {
+          "authorId": "2331031298",
+          "name": "Hua Chen"
+        }
+      ]
+    }
+  ]
+}

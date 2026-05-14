@@ -1,0 +1,328 @@
+{
+  "total": 21,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "5f3aaee0f9d870d4cbe78f54f81416dcce891309",
+      "externalIds": {
+        "MAG": "2952463676",
+        "DBLP": "conf/icml/CremerLD18",
+        "ArXiv": "1801.03558",
+        "CorpusId": 3524184
+      },
+      "url": "https://www.semanticscholar.org/paper/5f3aaee0f9d870d4cbe78f54f81416dcce891309",
+      "title": "Inference Suboptimality in Variational Autoencoders",
+      "venue": "International Conference on Machine Learning",
+      "year": 2018,
+      "referenceCount": 39,
+      "citationCount": 305,
+      "authors": [
+        {
+          "authorId": "33792410",
+          "name": "Chris Cremer"
+        },
+        {
+          "authorId": "2145429039",
+          "name": "Xuechen Li"
+        },
+        {
+          "authorId": "1704657",
+          "name": "D. Duvenaud"
+        }
+      ]
+    },
+    {
+      "paperId": "67c9362192aed71c621b3a86d76c7f763fde1f7d",
+      "externalIds": {
+        "DBLP": "phd/ca/Cremer20",
+        "CorpusId": 251161776
+      },
+      "url": "https://www.semanticscholar.org/paper/67c9362192aed71c621b3a86d76c7f763fde1f7d",
+      "title": "Approximate Inference in Variational Autoencoders",
+      "venue": "",
+      "year": 2020,
+      "referenceCount": 112,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "33792410",
+          "name": "Chris Cremer"
+        }
+      ]
+    },
+    {
+      "paperId": "55d9185626d6d68cf2b6e81681af413d41690f5d",
+      "externalIds": {
+        "DOI": "10.1109/ICSPCC66825.2025.11194375",
+        "CorpusId": 282149561
+      },
+      "url": "https://www.semanticscholar.org/paper/55d9185626d6d68cf2b6e81681af413d41690f5d",
+      "title": "Flow-Augmented Variational Autoencoders: A Lightweight Alternative for Galaxy Distribution Generation",
+      "venue": "International Conference on Signal Processing, Communications and Computing",
+      "year": 2025,
+      "referenceCount": 12,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2316406216",
+          "name": "Karunya Harikrishnan"
+        },
+        {
+          "authorId": "2416513225",
+          "name": "Abhiroop I"
+        },
+        {
+          "authorId": "2391095861",
+          "name": "Malathi M"
+        },
+        {
+          "authorId": "2348597371",
+          "name": "K. G"
+        },
+        {
+          "authorId": null,
+          "name": "Dhivya S"
+        }
+      ]
+    },
+    {
+      "paperId": "49694a3c8fddb0292641dc2cfaf346c79b76b72a",
+      "externalIds": {
+        "MAG": "2921682319",
+        "DBLP": "conf/aistats/ShuBWE19",
+        "ArXiv": "1902.10294",
+        "CorpusId": 67856249
+      },
+      "url": "https://www.semanticscholar.org/paper/49694a3c8fddb0292641dc2cfaf346c79b76b72a",
+      "title": "Training Variational Autoencoders with Buffered Stochastic Variational Inference",
+      "venue": "International Conference on Artificial Intelligence and Statistics",
+      "year": 2019,
+      "referenceCount": 33,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "1978777",
+          "name": "Rui Shu"
+        },
+        {
+          "authorId": "145365341",
+          "name": "H. Bui"
+        },
+        {
+          "authorId": "21040156",
+          "name": "Jay Whang"
+        },
+        {
+          "authorId": "2490652",
+          "name": "Stefano Ermon"
+        }
+      ]
+    },
+    {
+      "paperId": "9eb5e0327ef7314bfe9387650cfc56999167e5ff",
+      "externalIds": {
+        "ArXiv": "2409.02327",
+        "DBLP": "journals/corr/abs-2409-02327",
+        "DOI": "10.48550/arXiv.2409.02327",
+        "CorpusId": 272397692
+      },
+      "url": "https://www.semanticscholar.org/paper/9eb5e0327ef7314bfe9387650cfc56999167e5ff",
+      "title": "Generative Principal Component Regression via Variational Inference",
+      "venue": "arXiv.org",
+      "year": 2024,
+      "referenceCount": 46,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "50692823",
+          "name": "Austin Talbot"
+        },
+        {
+          "authorId": "2263822406",
+          "name": "C. Keller"
+        },
+        {
+          "authorId": "2279240107",
+          "name": "David E. Carlson"
+        },
+        {
+          "authorId": "8803240",
+          "name": "Alex V. Kotlar"
+        }
+      ]
+    },
+    {
+      "paperId": "ef399c4d8738279c8ce29f8a98d3bd7ce4b7f631",
+      "externalIds": {
+        "ArXiv": "2604.06796",
+        "CorpusId": 287247889
+      },
+      "url": "https://www.semanticscholar.org/paper/ef399c4d8738279c8ce29f8a98d3bd7ce4b7f631",
+      "title": "Instance-Adaptive Parametrization for Amortized Variational Inference",
+      "venue": "",
+      "year": 2026,
+      "referenceCount": 43,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2103383570",
+          "name": "A. Pollastro"
+        },
+        {
+          "authorId": "2059496831",
+          "name": "Andrea Apicella"
+        },
+        {
+          "authorId": "2220780018",
+          "name": "Francesco Isgrò"
+        },
+        {
+          "authorId": "145123169",
+          "name": "R. Prevete"
+        }
+      ]
+    },
+    {
+      "paperId": "cb8f1840a018fddcc7a453dd73cc082ebea82e7b",
+      "externalIds": {
+        "DBLP": "conf/icml/KimWMSR18",
+        "ArXiv": "1802.02550",
+        "MAG": "2952471899",
+        "CorpusId": 334803
+      },
+      "url": "https://www.semanticscholar.org/paper/cb8f1840a018fddcc7a453dd73cc082ebea82e7b",
+      "title": "Semi-Amortized Variational Autoencoders",
+      "venue": "International Conference on Machine Learning",
+      "year": 2018,
+      "referenceCount": 69,
+      "citationCount": 261,
+      "authors": [
+        {
+          "authorId": "38367242",
+          "name": "Yoon Kim"
+        },
+        {
+          "authorId": "2844243",
+          "name": "Sam Wiseman"
+        },
+        {
+          "authorId": "144360230",
+          "name": "Andrew C. Miller"
+        },
+        {
+          "authorId": "1746662",
+          "name": "D. Sontag"
+        },
+        {
+          "authorId": "2531268",
+          "name": "Alexander M. Rush"
+        }
+      ]
+    },
+    {
+      "paperId": "0b4f40e36bb5099de6fc37710a43ba98dcf6f89d",
+      "externalIds": {
+        "DBLP": "conf/bibm/ZhouXZHTP24",
+        "DOI": "10.1109/BIBM62325.2024.10822212",
+        "CorpusId": 275439919
+      },
+      "url": "https://www.semanticscholar.org/paper/0b4f40e36bb5099de6fc37710a43ba98dcf6f89d",
+      "title": "Robust One-Shot Brain Tissue Segmentation via Patch-wise Contrastive Learning and Dual-Head Variational Autoencoder",
+      "venue": "IEEE International Conference on Bioinformatics and Biomedicine",
+      "year": 2024,
+      "referenceCount": 36,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2255960545",
+          "name": "Feng Zhou"
+        },
+        {
+          "authorId": "2339480486",
+          "name": "Fengjun Xi"
+        },
+        {
+          "authorId": "2255469051",
+          "name": "Yanjie Zhou"
+        },
+        {
+          "authorId": "2293773538",
+          "name": "Di Hu"
+        },
+        {
+          "authorId": "2254327344",
+          "name": "Liyun Tu"
+        },
+        {
+          "authorId": "2315440903",
+          "name": "Yun Peng"
+        }
+      ]
+    },
+    {
+      "paperId": "31c53e910462fb6d1b06c125608eb9c57ec10904",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2310-04706",
+        "ArXiv": "2310.04706",
+        "DOI": "10.48550/arXiv.2310.04706",
+        "CorpusId": 263828755
+      },
+      "url": "https://www.semanticscholar.org/paper/31c53e910462fb6d1b06c125608eb9c57ec10904",
+      "title": "Offline Imitation Learning with Variational Counterfactual Reasoning",
+      "venue": "Neural Information Processing Systems",
+      "year": 2023,
+      "referenceCount": 41,
+      "citationCount": 11,
+      "authors": [
+        {
+          "authorId": "2257124500",
+          "name": "Zexu Sun"
+        },
+        {
+          "authorId": "2256987771",
+          "name": "Bowei He"
+        },
+        {
+          "authorId": "2375077787",
+          "name": "Jinxi Liu"
+        },
+        {
+          "authorId": "2281683684",
+          "name": "Xu Chen"
+        },
+        {
+          "authorId": "2258189274",
+          "name": "Chen Ma"
+        },
+        {
+          "authorId": "2339764610",
+          "name": "Shuai Zhang"
+        }
+      ]
+    },
+    {
+      "paperId": "c0fde934ffbfbb563c093ed69014253766c83895",
+      "externalIds": {
+        "DBLP": "journals/tmlr/Liu025",
+        "CorpusId": 275781536
+      },
+      "url": "https://www.semanticscholar.org/paper/c0fde934ffbfbb563c093ed69014253766c83895",
+      "title": "Doubly Robust Conditional VAE via Decoder Calibration: An Implicit KL Annealing Approach",
+      "venue": "Trans. Mach. Learn. Res.",
+      "year": 2025,
+      "referenceCount": 55,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2341473825",
+          "name": "Chuanhui Liu"
+        },
+        {
+          "authorId": "2341805052",
+          "name": "Xiao Wang"
+        }
+      ]
+    }
+  ]
+}

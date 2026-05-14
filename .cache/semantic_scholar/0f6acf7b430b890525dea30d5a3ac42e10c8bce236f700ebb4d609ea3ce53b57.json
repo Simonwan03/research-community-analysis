@@ -1,0 +1,294 @@
+{
+  "total": 134,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "8b24874afb1d60fdc353c25347347603a64e94f5",
+      "externalIds": {
+        "DBLP": "conf/icml/RukatHTY17",
+        "MAG": "2952104984",
+        "ArXiv": "1702.06166",
+        "CorpusId": 10219819
+      },
+      "url": "https://www.semanticscholar.org/paper/8b24874afb1d60fdc353c25347347603a64e94f5",
+      "title": "Bayesian Boolean Matrix Factorisation",
+      "venue": "International Conference on Machine Learning",
+      "year": 2017,
+      "referenceCount": 27,
+      "citationCount": 36,
+      "authors": [
+        {
+          "authorId": "4730639",
+          "name": "Tammo Rukat"
+        },
+        {
+          "authorId": "1815670",
+          "name": "C. Holmes"
+        },
+        {
+          "authorId": "1722732",
+          "name": "Michalis K. Titsias"
+        },
+        {
+          "authorId": "47598013",
+          "name": "C. Yau"
+        }
+      ]
+    },
+    {
+      "paperId": "178040eb729ec87a73f32a5bf626dfd14de6c636",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-1907-00063",
+        "MAG": "2955422499",
+        "ArXiv": "1907.00063",
+        "CorpusId": 195766947
+      },
+      "url": "https://www.semanticscholar.org/paper/178040eb729ec87a73f32a5bf626dfd14de6c636",
+      "title": "Bayesian Nonparametric Boolean Factor Models",
+      "venue": "arXiv.org",
+      "year": 2019,
+      "referenceCount": 9,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "4730639",
+          "name": "Tammo Rukat"
+        },
+        {
+          "authorId": "47598013",
+          "name": "C. Yau"
+        }
+      ]
+    },
+    {
+      "paperId": "06ecebce604095c68a1ea4295076ccbdb31ff3e7",
+      "externalIds": {
+        "DBLP": "conf/aaai/VisscherFY26",
+        "ArXiv": "2509.06192",
+        "DOI": "10.1609/aaai.v40i31.39806",
+        "CorpusId": 281204110
+      },
+      "url": "https://www.semanticscholar.org/paper/06ecebce604095c68a1ea4295076ccbdb31ff3e7",
+      "title": "Hybrid Restricted Master Problem for Boolean Matrix Factorisation",
+      "venue": "AAAI Conference on Artificial Intelligence",
+      "year": 2025,
+      "referenceCount": 17,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2341719483",
+          "name": "Ellen Visscher"
+        },
+        {
+          "authorId": "2058057904",
+          "name": "Michael W. Forbes"
+        },
+        {
+          "authorId": "2341719647",
+          "name": "Christopher Yau"
+        }
+      ]
+    },
+    {
+      "paperId": "a007521fc1e3d6b394cd12e836f15ea4b87244ad",
+      "externalIds": {
+        "DBLP": "conf/ijcai/IgnatovY21",
+        "CorpusId": 240005340
+      },
+      "url": "https://www.semanticscholar.org/paper/a007521fc1e3d6b394cd12e836f15ea4b87244ad",
+      "title": "On Suboptimality of GreConD for Boolean Matrix Factorisation of Contranominal Scales",
+      "venue": "FCA4AI@IJCAI",
+      "year": 2021,
+      "referenceCount": 18,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "2656565",
+          "name": "D. Ignatov"
+        },
+        {
+          "authorId": "2044364291",
+          "name": "A. Yakovleva"
+        }
+      ]
+    },
+    {
+      "paperId": "6d8cdd2b2be63e1d77c1f912011518ee72a69466",
+      "externalIds": {
+        "DBLP": "conf/cla/AkhmatnurovI15",
+        "MAG": "2293945858",
+        "CorpusId": 7890406
+      },
+      "url": "https://www.semanticscholar.org/paper/6d8cdd2b2be63e1d77c1f912011518ee72a69466",
+      "title": "Context-Aware Recommender System Based on Boolean Matrix Factorisation",
+      "venue": "International Conference on Concept Lattices and their Applications",
+      "year": 2015,
+      "referenceCount": 18,
+      "citationCount": 14,
+      "authors": [
+        {
+          "authorId": "2062744",
+          "name": "Marat Akhmatnurov"
+        },
+        {
+          "authorId": "2656565",
+          "name": "D. Ignatov"
+        }
+      ]
+    },
+    {
+      "paperId": "ff9531592fc6267ccc127ffa4ed8dc5918876cc9",
+      "externalIds": {
+        "MAG": "118675370",
+        "DBLP": "conf/aimsa/IgnatovNKK14",
+        "DOI": "10.1007/978-3-319-10554-3_5",
+        "CorpusId": 19267457
+      },
+      "url": "https://www.semanticscholar.org/paper/ff9531592fc6267ccc127ffa4ed8dc5918876cc9",
+      "title": "Boolean Matrix Factorisation for Collaborative Filtering: An FCA-Based Approach",
+      "venue": "Artificial Intelligence: Methodology, Systems, Applications",
+      "year": 2014,
+      "referenceCount": 20,
+      "citationCount": 30,
+      "authors": [
+        {
+          "authorId": "2656565",
+          "name": "D. Ignatov"
+        },
+        {
+          "authorId": "46545011",
+          "name": "Elena Nenova"
+        },
+        {
+          "authorId": "2005322183",
+          "name": "N. Konstantinova"
+        },
+        {
+          "authorId": "40100126",
+          "name": "Andrey V. Konstantinov"
+        }
+      ]
+    },
+    {
+      "paperId": "0d75f75b4813116f9b95362ae893d8cab34a56fb",
+      "externalIds": {
+        "DBLP": "journals/corr/NenovaIK13",
+        "ArXiv": "1310.4366",
+        "CorpusId": 2606800
+      },
+      "url": "https://www.semanticscholar.org/paper/0d75f75b4813116f9b95362ae893d8cab34a56fb",
+      "title": "An FCA-based Boolean Matrix Factorisation for Collaborative Filtering",
+      "venue": "arXiv.org",
+      "year": 2013,
+      "referenceCount": 22,
+      "citationCount": 11,
+      "authors": [
+        {
+          "authorId": "46545011",
+          "name": "Elena Nenova"
+        },
+        {
+          "authorId": "2656565",
+          "name": "D. Ignatov"
+        },
+        {
+          "authorId": "40100126",
+          "name": "Andrey V. Konstantinov"
+        }
+      ]
+    },
+    {
+      "paperId": "18c3e57f98e46a9827fb0f50603c4665d750bd2a",
+      "externalIds": {
+        "MAG": "1482437849",
+        "CorpusId": 204089324
+      },
+      "url": "https://www.semanticscholar.org/paper/18c3e57f98e46a9827fb0f50603c4665d750bd2a",
+      "title": "An FCA-based Boolean Matrix Factorisation for Collaborative Filtering",
+      "venue": "",
+      "year": 2013,
+      "referenceCount": 17,
+      "citationCount": 4,
+      "authors": [
+        {
+          "authorId": "1388198072",
+          "name": "Nenova Elena"
+        },
+        {
+          "authorId": "71092598",
+          "name": "I. Dmitry"
+        },
+        {
+          "authorId": "73255752",
+          "name": "V. K. Andrey"
+        }
+      ]
+    },
+    {
+      "paperId": "7a2d039e92ddbb13e5c47076f764c169bd0bcc89",
+      "externalIds": {
+        "DBLP": "conf/eacl/SchramBC23",
+        "ACL": "2023.eacl-main.131",
+        "DOI": "10.18653/v1/2023.eacl-main.131",
+        "CorpusId": 258378277
+      },
+      "url": "https://www.semanticscholar.org/paper/7a2d039e92ddbb13e5c47076f764c169bd0bcc89",
+      "title": "Performance Prediction via Bayesian Matrix Factorisation for Multilingual Natural Language Processing Tasks",
+      "venue": "Conference of the European Chapter of the Association for Computational Linguistics",
+      "year": 2023,
+      "referenceCount": 47,
+      "citationCount": 5,
+      "authors": [
+        {
+          "authorId": "73777484",
+          "name": "Viktoria Schram"
+        },
+        {
+          "authorId": "143984297",
+          "name": "Daniel Beck"
+        },
+        {
+          "authorId": "143620680",
+          "name": "Trevor Cohn"
+        }
+      ]
+    },
+    {
+      "paperId": "c2ed79e3ab4534eff78b26760b26b4ccc6828847",
+      "externalIds": {
+        "MAG": "2901123560",
+        "DOI": "10.1049/IET-SMT.2018.5432",
+        "CorpusId": 126380152
+      },
+      "url": "https://www.semanticscholar.org/paper/c2ed79e3ab4534eff78b26760b26b4ccc6828847",
+      "title": "Feature extraction of analogue circuit fault signals via cross‐wavelet transform and variational Bayesian matrix factorisation",
+      "venue": "IET Science, Measurement & Technology",
+      "year": 2019,
+      "referenceCount": 38,
+      "citationCount": 31,
+      "authors": [
+        {
+          "authorId": "2153474425",
+          "name": "Wei He"
+        },
+        {
+          "authorId": "2145970453",
+          "name": "Yigang He"
+        },
+        {
+          "authorId": "1798104",
+          "name": "Yigang He"
+        },
+        {
+          "authorId": "2152710829",
+          "name": "Bing Li"
+        },
+        {
+          "authorId": "47423283",
+          "name": "Chaolong Zhang"
+        }
+      ]
+    }
+  ]
+}

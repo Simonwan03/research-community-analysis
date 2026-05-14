@@ -1,0 +1,321 @@
+{
+  "total": 604,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "04db998ba290683c0313a851e8df2592c99c6be5",
+      "externalIds": {
+        "DBLP": "conf/icml/TaylorBXSPG16",
+        "ArXiv": "1605.02026",
+        "MAG": "2949966795",
+        "CorpusId": 6218757
+      },
+      "url": "https://www.semanticscholar.org/paper/04db998ba290683c0313a851e8df2592c99c6be5",
+      "title": "Training Neural Networks Without Gradients: A Scalable ADMM Approach",
+      "venue": "International Conference on Machine Learning",
+      "year": 2016,
+      "referenceCount": 27,
+      "citationCount": 290,
+      "authors": [
+        {
+          "authorId": "2189083",
+          "name": "Gavin Taylor"
+        },
+        {
+          "authorId": "49060470",
+          "name": "R. Burmeister"
+        },
+        {
+          "authorId": "144897102",
+          "name": "Zheng Xu"
+        },
+        {
+          "authorId": "2111282196",
+          "name": "Bharat Singh"
+        },
+        {
+          "authorId": "46463998",
+          "name": "Ankit B. Patel"
+        },
+        {
+          "authorId": "1962083",
+          "name": "T. Goldstein"
+        }
+      ]
+    },
+    {
+      "paperId": "20b83f259c91cb2462b7f22d99c5410380ae111c",
+      "externalIds": {
+        "DBLP": "conf/ijcnn/WenL24",
+        "DOI": "10.1109/IJCNN60899.2024.10650825",
+        "CorpusId": 272588244
+      },
+      "url": "https://www.semanticscholar.org/paper/20b83f259c91cb2462b7f22d99c5410380ae111c",
+      "title": "A Fast ADMM Framework for Training Deep Neural Networks Without Gradients",
+      "venue": "IEEE International Joint Conference on Neural Network",
+      "year": 2024,
+      "referenceCount": 21,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "2320805771",
+          "name": "Xueting Wen"
+        },
+        {
+          "authorId": "2320731064",
+          "name": "Yongmei Lei"
+        }
+      ]
+    },
+    {
+      "paperId": "9791223a744f50f4123b9af6493c16a1dc02e511",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2506-14464",
+        "ArXiv": "2506.14464",
+        "DOI": "10.1088/2634-4386/ae46d4",
+        "CorpusId": 279410439
+      },
+      "url": "https://www.semanticscholar.org/paper/9791223a744f50f4123b9af6493c16a1dc02e511",
+      "title": "A scalable hybrid training approach for recurrent spiking neural networks",
+      "venue": "Neuromorphic Computing and Engineering",
+      "year": 2025,
+      "referenceCount": 47,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "2282676108",
+          "name": "Maximilian Baronig"
+        },
+        {
+          "authorId": "2295912266",
+          "name": "Yeganeh Bahariasl"
+        },
+        {
+          "authorId": "3282521",
+          "name": "Ozan Özdenizci"
+        },
+        {
+          "authorId": "2073142",
+          "name": "R. Legenstein"
+        }
+      ]
+    },
+    {
+      "paperId": "2dd0a92e93cf3ee450badbaeed84ef2f4a66a45d",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2509-13053",
+        "ArXiv": "2509.13053",
+        "DOI": "10.1088/2634-4386/ae2ef9",
+        "CorpusId": 281325427
+      },
+      "url": "https://www.semanticscholar.org/paper/2dd0a92e93cf3ee450badbaeed84ef2f4a66a45d",
+      "title": "Traces propagation: memory-efficient and scalable forward-only learning in spiking neural networks",
+      "venue": "Neuromorph. Comput. Eng.",
+      "year": 2025,
+      "referenceCount": 34,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2214105830",
+          "name": "Lorenzo Pes"
+        },
+        {
+          "authorId": "50974581",
+          "name": "Bojian Yin"
+        },
+        {
+          "authorId": "115679894",
+          "name": "S. Stuijk"
+        },
+        {
+          "authorId": "2258473407",
+          "name": "Federico Corradi"
+        }
+      ]
+    },
+    {
+      "paperId": "e33c517c2ea2535455f002d9fc58427c5a631dff",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2410-04332",
+        "ArXiv": "2410.04332",
+        "DOI": "10.48550/arXiv.2410.04332",
+        "CorpusId": 273186481
+      },
+      "url": "https://www.semanticscholar.org/paper/e33c517c2ea2535455f002d9fc58427c5a631dff",
+      "title": "Gradient Routing: Masking Gradients to Localize Computation in Neural Networks",
+      "venue": "arXiv.org",
+      "year": 2024,
+      "referenceCount": 140,
+      "citationCount": 19,
+      "authors": [
+        {
+          "authorId": "2324789481",
+          "name": "Alex Cloud"
+        },
+        {
+          "authorId": "2324789468",
+          "name": "Jacob Goldman-Wetzler"
+        },
+        {
+          "authorId": "2324789465",
+          "name": "Evžen Wybitul"
+        },
+        {
+          "authorId": "2189440279",
+          "name": "Joseph Miller"
+        },
+        {
+          "authorId": "2324790222",
+          "name": "Alexander Matt Turner"
+        }
+      ]
+    },
+    {
+      "paperId": "028bdc5832ddff0468302a268d5c8fa170e717a8",
+      "externalIds": {
+        "ArXiv": "2505.05527",
+        "DBLP": "journals/corr/abs-2505-05527",
+        "DOI": "10.48550/arXiv.2505.05527",
+        "CorpusId": 278481506
+      },
+      "url": "https://www.semanticscholar.org/paper/028bdc5832ddff0468302a268d5c8fa170e717a8",
+      "title": "ADMM-Based Training for Spiking Neural Networks",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "referenceCount": 17,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2316746396",
+          "name": "Giovanni Perin"
+        },
+        {
+          "authorId": "2360171304",
+          "name": "Cesare Bidini"
+        },
+        {
+          "authorId": "1580985577",
+          "name": "Riccardo Mazzieri"
+        },
+        {
+          "authorId": "2268804599",
+          "name": "Michele Rossi"
+        }
+      ]
+    },
+    {
+      "paperId": "f5373da80c9c05eb367fc9c4fdc025629b930767",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2505-17962",
+        "ArXiv": "2505.17962",
+        "DOI": "10.48550/arXiv.2505.17962",
+        "CorpusId": 278886207
+      },
+      "url": "https://www.semanticscholar.org/paper/f5373da80c9c05eb367fc9c4fdc025629b930767",
+      "title": "A Principled Bayesian Framework for Training Binary and Spiking Neural Networks",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "referenceCount": 29,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2298759953",
+          "name": "James A. Walker"
+        },
+        {
+          "authorId": "34606412",
+          "name": "Moein Khajehnejad"
+        },
+        {
+          "authorId": "2275168419",
+          "name": "Adeel Razi"
+        }
+      ]
+    },
+    {
+      "paperId": "05dabe9b0d5cd18edeeb3c8394f91ddc9de515b9",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2512-08160",
+        "ArXiv": "2512.08160",
+        "DOI": "10.1109/IEEECONF67917.2025.11443520",
+        "CorpusId": 283711952
+      },
+      "url": "https://www.semanticscholar.org/paper/05dabe9b0d5cd18edeeb3c8394f91ddc9de515b9",
+      "title": "LayerPipe2: Multistage Pipelining and Weight Recompute via Improved Exponential Moving Average for Training Neural Networks",
+      "venue": "Asilomar Conference on Signals, Systems and Computers",
+      "year": 2025,
+      "referenceCount": 30,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2065974440",
+          "name": "Nanda K. Unnikrishnan"
+        },
+        {
+          "authorId": "144062727",
+          "name": "Keshab K. Parhi"
+        }
+      ]
+    },
+    {
+      "paperId": "e1e339908b75ffe76dc8f98eed4c4d689d8a1abb",
+      "externalIds": {
+        "DBLP": "journals/sivp/KhrissEB25",
+        "DOI": "10.1007/s11760-025-04319-w",
+        "CorpusId": 279248659
+      },
+      "url": "https://www.semanticscholar.org/paper/e1e339908b75ffe76dc8f98eed4c4d689d8a1abb",
+      "title": "QIOT-WI: quantum-inspired weight initialization for convolutional neural networks",
+      "venue": "Signal, Image and Video Processing",
+      "year": 2025,
+      "referenceCount": 32,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2302488655",
+          "name": "Abdelaadim Khriss"
+        },
+        {
+          "authorId": "52316945",
+          "name": "Aissa Kerkour Elmiad"
+        },
+        {
+          "authorId": "2277666354",
+          "name": "Mohammed Badaoui"
+        }
+      ]
+    },
+    {
+      "paperId": "f661f956b4e22d4e3461b1084c2e6b6adc5a39d6",
+      "externalIds": {
+        "DBLP": "journals/tmlr/AKMC26",
+        "CorpusId": 284476758
+      },
+      "url": "https://www.semanticscholar.org/paper/f661f956b4e22d4e3461b1084c2e6b6adc5a39d6",
+      "title": "Proper Orthogonal Decomposition for Scalable Training of Graph Neural Networks",
+      "venue": "Trans. Mach. Learn. Res.",
+      "year": 2026,
+      "referenceCount": 48,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2392875102",
+          "name": "A. Abhishek"
+        },
+        {
+          "authorId": "2351404958",
+          "name": "Manohar Kaul"
+        },
+        {
+          "authorId": "2392873712",
+          "name": "Mohit Meena"
+        },
+        {
+          "authorId": "2351699792",
+          "name": "Mahesh Chandran"
+        }
+      ]
+    }
+  ]
+}

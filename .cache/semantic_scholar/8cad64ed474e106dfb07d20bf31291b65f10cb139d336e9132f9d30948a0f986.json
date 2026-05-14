@@ -1,0 +1,303 @@
+{
+  "total": 51,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "0e2b3faed39561f712c3b14a08c7c36272d9857a",
+      "externalIds": {
+        "MAG": "2300805302",
+        "DBLP": "conf/icml/ShangSAL16",
+        "ArXiv": "1603.05201",
+        "CorpusId": 7986092
+      },
+      "url": "https://www.semanticscholar.org/paper/0e2b3faed39561f712c3b14a08c7c36272d9857a",
+      "title": "Understanding and Improving Convolutional Neural Networks via Concatenated Rectified Linear Units",
+      "venue": "International Conference on Machine Learning",
+      "year": 2016,
+      "referenceCount": 35,
+      "citationCount": 525,
+      "authors": [
+        {
+          "authorId": "3163480",
+          "name": "Wenling Shang"
+        },
+        {
+          "authorId": "1729571",
+          "name": "Kihyuk Sohn"
+        },
+        {
+          "authorId": "2061137049",
+          "name": "Diogo Almeida"
+        },
+        {
+          "authorId": "1697141",
+          "name": "Honglak Lee"
+        }
+      ]
+    },
+    {
+      "paperId": "b1c362941385e53b52d3ec8e127bb2bd2b6da995",
+      "externalIds": {
+        "MAG": "3108606085",
+        "DOI": "10.1088/1742-6596/1651/1/012163",
+        "CorpusId": 229494643
+      },
+      "url": "https://www.semanticscholar.org/paper/b1c362941385e53b52d3ec8e127bb2bd2b6da995",
+      "title": "Improving Convolutional Neural Network Expression via Difference Exponentially Linear Units",
+      "venue": "Journal of Physics: Conference Series",
+      "year": 2020,
+      "referenceCount": 19,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "2111297807",
+          "name": "Zhiying Hu"
+        },
+        {
+          "authorId": "1561537507",
+          "name": "Hongbo Huang"
+        },
+        {
+          "authorId": "2041975577",
+          "name": "Qinglin Ran"
+        },
+        {
+          "authorId": "2007682600",
+          "name": "M. Yuan"
+        }
+      ]
+    },
+    {
+      "paperId": "747c0280fe67f14b1920b0532d51edf4f272585a",
+      "externalIds": {
+        "MAG": "2604237878",
+        "DBLP": "conf/aaai/ShangCS17",
+        "DOI": "10.1609/aaai.v31i1.10759",
+        "CorpusId": 29164225
+      },
+      "url": "https://www.semanticscholar.org/paper/747c0280fe67f14b1920b0532d51edf4f272585a",
+      "title": "Exploring Normalization in Deep Residual Networks with Concatenated Rectified Linear Units",
+      "venue": "AAAI Conference on Artificial Intelligence",
+      "year": 2017,
+      "referenceCount": 29,
+      "citationCount": 33,
+      "authors": [
+        {
+          "authorId": "3163480",
+          "name": "Wenling Shang"
+        },
+        {
+          "authorId": "30819111",
+          "name": "Justin T Chiu"
+        },
+        {
+          "authorId": "1729571",
+          "name": "Kihyuk Sohn"
+        }
+      ]
+    },
+    {
+      "paperId": "f8984b51c6a60f0faec4233ac4ec3e2b65ab0dee",
+      "externalIds": {
+        "DBLP": "journals/access/MowlaAMR25",
+        "DOI": "10.1109/ACCESS.2024.3524320",
+        "CorpusId": 275149720
+      },
+      "url": "https://www.semanticscholar.org/paper/f8984b51c6a60f0faec4233ac4ec3e2b65ab0dee",
+      "title": "Adaptive Hierarchical Multi-Headed Convolutional Neural Network With Modified Convolutional Block Attention for Aerial Forest Fire Detection",
+      "venue": "IEEE Access",
+      "year": 2025,
+      "referenceCount": 0,
+      "citationCount": 11,
+      "authors": [
+        {
+          "authorId": "2141351993",
+          "name": "Md. Najmul Mowla"
+        },
+        {
+          "authorId": "145669340",
+          "name": "D. Asadi"
+        },
+        {
+          "authorId": "46243276",
+          "name": "S. Masum"
+        },
+        {
+          "authorId": "2310161960",
+          "name": "Khaled M. Rabie"
+        }
+      ]
+    },
+    {
+      "paperId": "1561d615e24a07041ec94ccddce71effbbb13af2",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2110-03403",
+        "ArXiv": "2110.03403",
+        "CorpusId": 238419487
+      },
+      "url": "https://www.semanticscholar.org/paper/1561d615e24a07041ec94ccddce71effbbb13af2",
+      "title": "Disentangling deep neural networks with rectified linear units using duality",
+      "venue": "arXiv.org",
+      "year": 2021,
+      "referenceCount": 12,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2054618",
+          "name": "Chandrashekar Lakshminarayanan"
+        },
+        {
+          "authorId": "2121456592",
+          "name": "Amit Singh"
+        }
+      ]
+    },
+    {
+      "paperId": "b1fa16e876058f8ac376cc190dcf235ddec4cb45",
+      "externalIds": {
+        "MAG": "2891621551",
+        "DBLP": "journals/mta/WangC20",
+        "DOI": "10.1007/s11042-018-6661-6",
+        "CorpusId": 52278600
+      },
+      "url": "https://www.semanticscholar.org/paper/b1fa16e876058f8ac376cc190dcf235ddec4cb45",
+      "title": "Fruit category classification via an eight-layer convolutional neural network with parametric rectified linear unit and dropout technique",
+      "venue": "Multimedia tools and applications",
+      "year": 2018,
+      "referenceCount": 38,
+      "citationCount": 70,
+      "authors": [
+        {
+          "authorId": "2121366199",
+          "name": "Shui-hua Wang"
+        },
+        {
+          "authorId": "2118049918",
+          "name": "Yi Chen"
+        }
+      ]
+    },
+    {
+      "paperId": "46741262f5ea0b67da80802d69331213e653e513",
+      "externalIds": {
+        "DOI": "10.1109/CISCT62494.2024.11134208",
+        "CorpusId": 280975918
+      },
+      "url": "https://www.semanticscholar.org/paper/46741262f5ea0b67da80802d69331213e653e513",
+      "title": "A Method Noise Based-Multi-Modal Medical Image Fusion Technique Using Non-Subsampled Shearlet Transform and Convolutional Neural Network",
+      "venue": "2024 4th International Conference on Innovative Sustainable Computational Technologies (CISCT)",
+      "year": 2024,
+      "referenceCount": 8,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2355620078",
+          "name": "Shailesh Bhosekar"
+        },
+        {
+          "authorId": "2276123467",
+          "name": "Prabhishek Singh"
+        },
+        {
+          "authorId": "2293452166",
+          "name": "Deepak Garg"
+        }
+      ]
+    },
+    {
+      "paperId": "73e3c207bb2fc09a31175ab5e7406bf5b2339a09",
+      "externalIds": {
+        "DBLP": "journals/tnn/GuoZLLC24",
+        "DOI": "10.1109/TNNLS.2022.3226301",
+        "CorpusId": 254626543,
+        "PubMed": "37015693"
+      },
+      "url": "https://www.semanticscholar.org/paper/73e3c207bb2fc09a31175ab5e7406bf5b2339a09",
+      "title": "Context-Aware Poly(A) Signal Prediction Model via Deep Spatial–Temporal Neural Networks",
+      "venue": "IEEE Transactions on Neural Networks and Learning Systems",
+      "year": 2022,
+      "referenceCount": 47,
+      "citationCount": 96,
+      "authors": [
+        {
+          "authorId": "36447598",
+          "name": "Yanbu Guo"
+        },
+        {
+          "authorId": "2153594632",
+          "name": "Dongming Zhou"
+        },
+        {
+          "authorId": "2145015319",
+          "name": "Pu Li"
+        },
+        {
+          "authorId": "2150358567",
+          "name": "Chaoyang Li"
+        },
+        {
+          "authorId": "2161849202",
+          "name": "Jinde Cao"
+        }
+      ]
+    },
+    {
+      "paperId": "d301951c57f3fdb884b717136afd90b159f35f07",
+      "externalIds": {
+        "DBLP": "journals/eswa/ParisiNMC22",
+        "DOI": "10.1016/j.eswa.2021.115892",
+        "CorpusId": 239145311
+      },
+      "url": "https://www.semanticscholar.org/paper/d301951c57f3fdb884b717136afd90b159f35f07",
+      "title": "Quantum ReLU activation for Convolutional Neural Networks to improve diagnosis of Parkinson's disease and COVID-19",
+      "venue": "Expert systems with applications",
+      "year": 2022,
+      "referenceCount": 40,
+      "citationCount": 19,
+      "authors": [
+        {
+          "authorId": "40612656",
+          "name": "Luca Parisi"
+        },
+        {
+          "authorId": "144200141",
+          "name": "D. Neagu"
+        },
+        {
+          "authorId": "73024421",
+          "name": "R. Ma"
+        },
+        {
+          "authorId": "2740576",
+          "name": "F. Campean"
+        }
+      ]
+    },
+    {
+      "paperId": "8984fe2b85ef5d62ef1932ef287d7a957cd59de2",
+      "externalIds": {
+        "MAG": "2960060338",
+        "DBLP": "journals/eswa/GaiB19",
+        "DOI": "10.1016/J.ESWA.2019.07.032",
+        "CorpusId": 199008942
+      },
+      "url": "https://www.semanticscholar.org/paper/8984fe2b85ef5d62ef1932ef287d7a957cd59de2",
+      "title": "New image denoising algorithm via improved deep convolutional neural network with perceptive loss",
+      "venue": "Expert systems with applications",
+      "year": 2019,
+      "referenceCount": 27,
+      "citationCount": 63,
+      "authors": [
+        {
+          "authorId": "144141407",
+          "name": "S. Gai"
+        },
+        {
+          "authorId": "153524113",
+          "name": "Zhongyun Bao"
+        }
+      ]
+    }
+  ]
+}

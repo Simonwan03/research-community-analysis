@@ -1,0 +1,970 @@
+{
+  "offset": 0,
+  "citingPaperInfo": {
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/1502.05336, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "title": "Probabilistic Backpropagation for Scalable Learning of Bayesian Neural Networks",
+    "authors": [
+      {
+        "authorId": "1388574431",
+        "name": "José Miguel Hernández-Lobato"
+      },
+      {
+        "authorId": "1722180",
+        "name": "Ryan P. Adams"
+      }
+    ]
+  },
+  "data": [
+    {
+      "citedPaper": {
+        "paperId": "f5ce3abf942cdd685fb0f290f3e741f7b4749f0a",
+        "externalIds": {
+          "ArXiv": "1501.02876",
+          "DBLP": "journals/corr/WuYSDS15",
+          "MAG": "1563686443",
+          "CorpusId": 7480530
+        },
+        "url": "https://www.semanticscholar.org/paper/f5ce3abf942cdd685fb0f290f3e741f7b4749f0a",
+        "title": "Deep Image: Scaling up Image Recognition",
+        "venue": "arXiv.org",
+        "year": 2015,
+        "referenceCount": 54,
+        "citationCount": 384,
+        "authors": [
+          {
+            "authorId": "2116926120",
+            "name": "Ren Wu"
+          },
+          {
+            "authorId": "2725514",
+            "name": "Shengen Yan"
+          },
+          {
+            "authorId": "2143689293",
+            "name": "Yi Shan"
+          },
+          {
+            "authorId": "2066154565",
+            "name": "Qingqing Dang"
+          },
+          {
+            "authorId": "2087137982",
+            "name": "Gang Sun"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "24741d280869ad9c60321f5ab6e5f01b7852507d",
+        "externalIds": {
+          "ArXiv": "1412.5567",
+          "MAG": "1922655562",
+          "DBLP": "journals/corr/HannunCCCDEPSSCN14",
+          "CorpusId": 16979536
+        },
+        "url": "https://www.semanticscholar.org/paper/24741d280869ad9c60321f5ab6e5f01b7852507d",
+        "title": "Deep Speech: Scaling up end-to-end speech recognition",
+        "venue": "arXiv.org",
+        "year": 2014,
+        "referenceCount": 49,
+        "citationCount": 2235,
+        "authors": [
+          {
+            "authorId": "144479015",
+            "name": "Awni Y. Hannun"
+          },
+          {
+            "authorId": "2065131508",
+            "name": "Carl Case"
+          },
+          {
+            "authorId": "48991386",
+            "name": "J. Casper"
+          },
+          {
+            "authorId": "2301680",
+            "name": "Bryan Catanzaro"
+          },
+          {
+            "authorId": "2040049",
+            "name": "G. Diamos"
+          },
+          {
+            "authorId": "152585800",
+            "name": "Erich Elsen"
+          },
+          {
+            "authorId": "3283879",
+            "name": "R. Prenger"
+          },
+          {
+            "authorId": "145031342",
+            "name": "S. Satheesh"
+          },
+          {
+            "authorId": "2264597",
+            "name": "Shubho Sengupta"
+          },
+          {
+            "authorId": "2066757989",
+            "name": "Vinay Rao"
+          },
+          {
+            "authorId": "144638694",
+            "name": "A. Coates"
+          },
+          {
+            "authorId": "34699434",
+            "name": "A. Ng"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "feaa7e295c7a43ec52091ed9ade1a9a1e5d9bed2",
+        "externalIds": {
+          "DBLP": "conf/nips/SoudryHM14",
+          "MAG": "2161758346",
+          "CorpusId": 14245558
+        },
+        "url": "https://www.semanticscholar.org/paper/feaa7e295c7a43ec52091ed9ade1a9a1e5d9bed2",
+        "title": "Expectation Backpropagation: Parameter-Free Training of Multilayer Neural Networks with Continuous or Discrete Weights",
+        "venue": "Neural Information Processing Systems",
+        "year": 2014,
+        "referenceCount": 28,
+        "citationCount": 236,
+        "authors": [
+          {
+            "authorId": "1912398",
+            "name": "Daniel Soudry"
+          },
+          {
+            "authorId": "2477463",
+            "name": "Itay Hubara"
+          },
+          {
+            "authorId": "1766683",
+            "name": "R. Meir"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "cea967b59209c6be22829699f05b8b1ac4dc092d",
+        "externalIds": {
+          "MAG": "2130942839",
+          "DBLP": "conf/nips/SutskeverVL14",
+          "ArXiv": "1409.3215",
+          "CorpusId": 7961699
+        },
+        "url": "https://www.semanticscholar.org/paper/cea967b59209c6be22829699f05b8b1ac4dc092d",
+        "title": "Sequence to Sequence Learning with Neural Networks",
+        "venue": "Neural Information Processing Systems",
+        "year": 2014,
+        "referenceCount": 41,
+        "citationCount": 21934,
+        "authors": [
+          {
+            "authorId": "1701686",
+            "name": "I. Sutskever"
+          },
+          {
+            "authorId": "1689108",
+            "name": "O. Vinyals"
+          },
+          {
+            "authorId": "2827616",
+            "name": "Quoc V. Le"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "08f5824cb7ff51579d89d2c464fcb12452ade980",
+        "externalIds": {
+          "ArXiv": "1303.6938",
+          "MAG": "2951268112",
+          "DBLP": "journals/jmlr/JylankiNV14",
+          "DOI": "10.5555/2627435.2638593",
+          "CorpusId": 752210
+        },
+        "url": "https://www.semanticscholar.org/paper/08f5824cb7ff51579d89d2c464fcb12452ade980",
+        "title": "Expectation propagation for neural networks with sparsity-promoting priors",
+        "venue": "Journal of machine learning research",
+        "year": 2013,
+        "referenceCount": 47,
+        "citationCount": 38,
+        "authors": [
+          {
+            "authorId": "2206678",
+            "name": "Pasi Jylänki"
+          },
+          {
+            "authorId": "1772342",
+            "name": "A. Nummenmaa"
+          },
+          {
+            "authorId": "3104170",
+            "name": "Aki Vehtari"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "4b2e2f84dc768f6d16dfb54c5b03b6a58f80198b",
+        "externalIds": {
+          "DBLP": "conf/nips/HoulsbyHHG12",
+          "MAG": "2121499119",
+          "CorpusId": 262549
+        },
+        "url": "https://www.semanticscholar.org/paper/4b2e2f84dc768f6d16dfb54c5b03b6a58f80198b",
+        "title": "Collaborative Gaussian Processes for Preference Learning",
+        "venue": "Neural Information Processing Systems",
+        "year": 2012,
+        "referenceCount": 21,
+        "citationCount": 131,
+        "authors": [
+          {
+            "authorId": "2815290",
+            "name": "N. Houlsby"
+          },
+          {
+            "authorId": "1388574431",
+            "name": "José Miguel Hernández-Lobato"
+          },
+          {
+            "authorId": "3108066",
+            "name": "Ferenc Huszár"
+          },
+          {
+            "authorId": "1744700",
+            "name": "Zoubin Ghahramani"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "abd1c342495432171beb7ca8fd9551ef13cbd0ff",
+        "externalIds": {
+          "DBLP": "conf/nips/KrizhevskySH12",
+          "MAG": "2618530766",
+          "DOI": "10.1145/3065386",
+          "CorpusId": 195908774
+        },
+        "url": "https://www.semanticscholar.org/paper/abd1c342495432171beb7ca8fd9551ef13cbd0ff",
+        "title": "ImageNet classification with deep convolutional neural networks",
+        "venue": "Communications of the ACM",
+        "year": 2012,
+        "referenceCount": 71,
+        "citationCount": 128332,
+        "authors": [
+          {
+            "authorId": "2064160",
+            "name": "A. Krizhevsky"
+          },
+          {
+            "authorId": "1701686",
+            "name": "I. Sutskever"
+          },
+          {
+            "authorId": "1695689",
+            "name": "Geoffrey E. Hinton"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "31868290adf1c000c611dfc966b514d5a34e8d23",
+        "externalIds": {
+          "MAG": "2160815625",
+          "DBLP": "journals/spm/X12a",
+          "DOI": "10.1109/MSP.2012.2205597",
+          "CorpusId": 58623492
+        },
+        "url": "https://www.semanticscholar.org/paper/31868290adf1c000c611dfc966b514d5a34e8d23",
+        "title": "Deep Neural Networks for Acoustic Modeling in Speech Recognition: The Shared Views of Four Research Groups",
+        "venue": "IEEE Signal Processing Magazine",
+        "year": 2012,
+        "referenceCount": 72,
+        "citationCount": 2844,
+        "authors": [
+          {
+            "authorId": "2323658448",
+            "name": "G. Hinton"
+          },
+          {
+            "authorId": "2286434959",
+            "name": "L. Deng"
+          },
+          {
+            "authorId": "144580027",
+            "name": "Dong Yu"
+          },
+          {
+            "authorId": "35188630",
+            "name": "George E. Dahl"
+          },
+          {
+            "authorId": "2259645624",
+            "name": "Abdel-rahman Mohamed"
+          },
+          {
+            "authorId": "3111912",
+            "name": "N. Jaitly"
+          },
+          {
+            "authorId": "33666044",
+            "name": "A. Senior"
+          },
+          {
+            "authorId": "2657155",
+            "name": "Vincent Vanhoucke"
+          },
+          {
+            "authorId": "14902530",
+            "name": "Patrick Nguyen"
+          },
+          {
+            "authorId": "1784851",
+            "name": "Tara N. Sainath"
+          },
+          {
+            "authorId": "2343639834",
+            "name": "Brian Kingsbury"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "2e2089ae76fe914706e6fa90081a79c8fe01611e",
+        "externalIds": {
+          "ArXiv": "1206.2944",
+          "MAG": "2950182411",
+          "DBLP": "conf/nips/SnoekLA12",
+          "CorpusId": 632197
+        },
+        "url": "https://www.semanticscholar.org/paper/2e2089ae76fe914706e6fa90081a79c8fe01611e",
+        "title": "Practical Bayesian Optimization of Machine Learning Algorithms",
+        "venue": "Neural Information Processing Systems",
+        "year": 2012,
+        "referenceCount": 28,
+        "citationCount": 9211,
+        "authors": [
+          {
+            "authorId": "144108062",
+            "name": "Jasper Snoek"
+          },
+          {
+            "authorId": "1777528",
+            "name": "H. Larochelle"
+          },
+          {
+            "authorId": "1722180",
+            "name": "Ryan P. Adams"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "5a9ef216bf11f222438fff130c778267d39a9564",
+        "externalIds": {
+          "DBLP": "conf/nips/Graves11",
+          "MAG": "2108677974",
+          "CorpusId": 14885866
+        },
+        "url": "https://www.semanticscholar.org/paper/5a9ef216bf11f222438fff130c778267d39a9564",
+        "title": "Practical Variational Inference for Neural Networks",
+        "venue": "Neural Information Processing Systems",
+        "year": 2011,
+        "referenceCount": 27,
+        "citationCount": 1839,
+        "authors": [
+          {
+            "authorId": "1753223",
+            "name": "Alex Graves"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "9a0d8d8df8e2158230067cc9edc39e3c8c1fed6a",
+        "externalIds": {
+          "MAG": "2108688935",
+          "DBLP": "journals/sac/PaquetTW12",
+          "DOI": "10.1007/s11222-011-9264-x",
+          "CorpusId": 9643757
+        },
+        "url": "https://www.semanticscholar.org/paper/9a0d8d8df8e2158230067cc9edc39e3c8c1fed6a",
+        "title": "A hierarchical model for ordinal matrix factorization",
+        "venue": "Statistics and computing",
+        "year": 2011,
+        "referenceCount": 37,
+        "citationCount": 42,
+        "authors": [
+          {
+            "authorId": "1722403",
+            "name": "U. Paquet"
+          },
+          {
+            "authorId": "145462220",
+            "name": "Blaise Thomson"
+          },
+          {
+            "authorId": "1724252",
+            "name": "O. Winther"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "a538b05ebb01a40323997629e171c91aa28b8e2f",
+        "externalIds": {
+          "MAG": "1665214252",
+          "DBLP": "conf/icml/NairH10",
+          "CorpusId": 15539264
+        },
+        "url": "https://www.semanticscholar.org/paper/a538b05ebb01a40323997629e171c91aa28b8e2f",
+        "title": "Rectified Linear Units Improve Restricted Boltzmann Machines",
+        "venue": "International Conference on Machine Learning",
+        "year": 2010,
+        "referenceCount": 21,
+        "citationCount": 18596,
+        "authors": [
+          {
+            "authorId": "2073603971",
+            "name": "Vinod Nair"
+          },
+          {
+            "authorId": "1695689",
+            "name": "Geoffrey E. Hinton"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "57458bc1cffe5caa45a885af986d70f723f406b4",
+        "externalIds": {
+          "MAG": "2117130368",
+          "DBLP": "conf/icml/CollobertW08",
+          "DOI": "10.1145/1390156.1390177",
+          "CorpusId": 2617020
+        },
+        "url": "https://www.semanticscholar.org/paper/57458bc1cffe5caa45a885af986d70f723f406b4",
+        "title": "A unified architecture for natural language processing: deep neural networks with multitask learning",
+        "venue": "International Conference on Machine Learning",
+        "year": 2008,
+        "referenceCount": 24,
+        "citationCount": 5991,
+        "authors": [
+          {
+            "authorId": "2939803",
+            "name": "R. Collobert"
+          },
+          {
+            "authorId": "145183709",
+            "name": "J. Weston"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "6daf578847accea9775b21bb2ecb07b9e49c6656",
+        "externalIds": {
+          "MAG": "1549777868",
+          "DOI": "10.1017/CBO9780511569920.017",
+          "CorpusId": 60985485
+        },
+        "url": "https://www.semanticscholar.org/paper/6daf578847accea9775b21bb2ecb07b9e49c6656",
+        "title": "A Bayesian approach to on-line learning",
+        "venue": "",
+        "year": 1999,
+        "referenceCount": 0,
+        "citationCount": 150,
+        "authors": [
+          {
+            "authorId": "1691022",
+            "name": "M. Opper"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "25c9f33aceac6dcff357727cbe2faf145b01d13c",
+        "externalIds": {
+          "MAG": "2047229728",
+          "DBLP": "conf/colt/HintonC93",
+          "DOI": "10.1145/168304.168306",
+          "CorpusId": 9346534
+        },
+        "url": "https://www.semanticscholar.org/paper/25c9f33aceac6dcff357727cbe2faf145b01d13c",
+        "title": "Keeping the neural networks simple by minimizing the description length of the weights",
+        "venue": "Annual Conference Computational Learning Theory",
+        "year": 1993,
+        "referenceCount": 9,
+        "citationCount": 1287,
+        "authors": [
+          {
+            "authorId": "1695689",
+            "name": "Geoffrey E. Hinton"
+          },
+          {
+            "authorId": "32536207",
+            "name": "D. Camp"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "2046412fecff64e095cc5190b69172055afd2094",
+        "externalIds": {
+          "DBLP": "journals/neco/MacKay92b",
+          "MAG": "2115305054",
+          "DOI": "10.1162/neco.1992.4.4.590",
+          "CorpusId": 15819455
+        },
+        "url": "https://www.semanticscholar.org/paper/2046412fecff64e095cc5190b69172055afd2094",
+        "title": "Information-Based Objective Functions for Active Data Selection",
+        "venue": "Neural Computation",
+        "year": 1992,
+        "referenceCount": 18,
+        "citationCount": 1494,
+        "authors": [
+          {
+            "authorId": "145852650",
+            "name": "D. MacKay"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "b959164d1efca4b73986ba5d21e664aadbbc0457",
+        "externalIds": {
+          "MAG": "2111051539",
+          "DBLP": "journals/neco/MacKay92a",
+          "DOI": "10.1162/neco.1992.4.3.448",
+          "CorpusId": 16543854
+        },
+        "url": "https://www.semanticscholar.org/paper/b959164d1efca4b73986ba5d21e664aadbbc0457",
+        "title": "A Practical Bayesian Framework for Backpropagation Networks",
+        "venue": "Neural Computation",
+        "year": 1992,
+        "referenceCount": 25,
+        "citationCount": 3446,
+        "authors": [
+          {
+            "authorId": "145852650",
+            "name": "D. MacKay"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "f22f6972e66bdd2e769fa64b0df0a13063c0c101",
+        "externalIds": {
+          "DBLP": "journals/nn/HornikSW89",
+          "MAG": "2137983211",
+          "DOI": "10.1016/0893-6080(89)90020-8",
+          "CorpusId": 2757547
+        },
+        "url": "https://www.semanticscholar.org/paper/f22f6972e66bdd2e769fa64b0df0a13063c0c101",
+        "title": "Multilayer feedforward networks are universal approximators",
+        "venue": "Neural Networks",
+        "year": 1989,
+        "referenceCount": 25,
+        "citationCount": 23902,
+        "authors": [
+          {
+            "authorId": "1764952",
+            "name": "K. Hornik"
+          },
+          {
+            "authorId": "2964655",
+            "name": "M. Stinchcombe"
+          },
+          {
+            "authorId": "2149702798",
+            "name": "H. White"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "052b1d8ce63b07fec3de9dbb583772d860b7c769",
+        "externalIds": {
+          "MAG": "1498436455",
+          "DOI": "10.1038/323533a0",
+          "CorpusId": 205001834
+        },
+        "url": "https://www.semanticscholar.org/paper/052b1d8ce63b07fec3de9dbb583772d860b7c769",
+        "title": "Learning representations by back-propagating errors",
+        "venue": "Nature",
+        "year": 1986,
+        "referenceCount": 2,
+        "citationCount": 30850,
+        "authors": [
+          {
+            "authorId": "2681887",
+            "name": "D. Rumelhart"
+          },
+          {
+            "authorId": "1695689",
+            "name": "Geoffrey E. Hinton"
+          },
+          {
+            "authorId": "2116648700",
+            "name": "Ronald J. Williams"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "34f25a8704614163c4095b3ee2fc969b60de4698",
+        "externalIds": {
+          "DBLP": "journals/jmlr/SrivastavaHKSS14",
+          "MAG": "2095705004",
+          "DOI": "10.5555/2627435.2670313",
+          "CorpusId": 6844431
+        },
+        "url": "https://www.semanticscholar.org/paper/34f25a8704614163c4095b3ee2fc969b60de4698",
+        "title": "Dropout: a simple way to prevent neural networks from overfitting",
+        "venue": "Journal of machine learning research",
+        "year": 2014,
+        "referenceCount": 38,
+        "citationCount": 42912,
+        "authors": [
+          {
+            "authorId": "2897313",
+            "name": "Nitish Srivastava"
+          },
+          {
+            "authorId": "1695689",
+            "name": "Geoffrey E. Hinton"
+          },
+          {
+            "authorId": "2064160",
+            "name": "A. Krizhevsky"
+          },
+          {
+            "authorId": "1701686",
+            "name": "I. Sutskever"
+          },
+          {
+            "authorId": "145124475",
+            "name": "R. Salakhutdinov"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "6bdf523ada308b2cbdb8cf9eedb9e60a65b937d0",
+        "externalIds": {
+          "MAG": "2988436301",
+          "CorpusId": 17237413
+        },
+        "url": "https://www.semanticscholar.org/paper/6bdf523ada308b2cbdb8cf9eedb9e60a65b937d0",
+        "title": "Bayesian Methods for Adaptive Models",
+        "venue": "",
+        "year": 2011,
+        "referenceCount": 91,
+        "citationCount": 396,
+        "authors": [
+          {
+            "authorId": "2110094",
+            "name": "J. Bridle"
+          },
+          {
+            "authorId": "40484982",
+            "name": "P. Cheeseman"
+          },
+          {
+            "authorId": "23111666",
+            "name": "S. Fels"
+          },
+          {
+            "authorId": "143791812",
+            "name": "S. Gull"
+          },
+          {
+            "authorId": "4649483",
+            "name": "A. Herz"
+          },
+          {
+            "authorId": "3219867",
+            "name": "J. Hopfield"
+          },
+          {
+            "authorId": "46371903",
+            "name": "D. Kerns"
+          },
+          {
+            "authorId": "1453735242",
+            "name": "Allen Knutsen"
+          },
+          {
+            "authorId": "2075109103",
+            "name": "David Koerner"
+          },
+          {
+            "authorId": "2374408846",
+            "name": "Mike Lewicki"
+          },
+          {
+            "authorId": "65793277",
+            "name": "T. Loredo"
+          },
+          {
+            "authorId": "1694254",
+            "name": "S. Luttrell"
+          },
+          {
+            "authorId": "1766683",
+            "name": "R. Meir"
+          },
+          {
+            "authorId": "144742305",
+            "name": "K. Miller"
+          },
+          {
+            "authorId": "2067793681",
+            "name": "M. Mitchell"
+          },
+          {
+            "authorId": "1764325",
+            "name": "Radford M. Neal"
+          },
+          {
+            "authorId": "1802785",
+            "name": "S. Nowlan"
+          },
+          {
+            "authorId": "2115106992",
+            "name": "D. Robinson"
+          },
+          {
+            "authorId": "66009933",
+            "name": "K. Rose"
+          },
+          {
+            "authorId": "91961129",
+            "name": "S. Sibisi"
+          },
+          {
+            "authorId": "2010050",
+            "name": "J. Skilling"
+          },
+          {
+            "authorId": "1720547",
+            "name": "H. Sompolinsky"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "fbc6562814e08e416e28a268ce7beeaa3d0708c8",
+        "externalIds": {
+          "MAG": "114517082",
+          "DBLP": "conf/compstat/Bottou10",
+          "DOI": "10.1007/978-3-7908-2604-3_16",
+          "CorpusId": 115963355
+        },
+        "url": "https://www.semanticscholar.org/paper/fbc6562814e08e416e28a268ce7beeaa3d0708c8",
+        "title": "Large-Scale Machine Learning with Stochastic Gradient Descent",
+        "venue": "International Conference on Computational Statistics",
+        "year": 2010,
+        "referenceCount": 25,
+        "citationCount": 6292,
+        "authors": [
+          {
+            "authorId": "52184096",
+            "name": "L. Bottou"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "Theano: a CPU and GPU math expression compiler",
+        "venue": "Proceedings of the Python for Scientiﬁc Computing Conference (SciPy)",
+        "year": 2010,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "818826f356444f3daa3447755bf63f171f39ec47",
+        "externalIds": {
+          "MAG": "2903158431",
+          "CorpusId": 324600
+        },
+        "url": "https://www.semanticscholar.org/paper/818826f356444f3daa3447755bf63f171f39ec47",
+        "title": "Active Learning Literature Survey",
+        "venue": "",
+        "year": 2009,
+        "referenceCount": 168,
+        "citationCount": 6556,
+        "authors": [
+          {
+            "authorId": "1717452",
+            "name": "Burr Settles"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "199e1fe8cf3646f6352532dec35017d0a48d357b",
+        "externalIds": {
+          "MAG": "163742544",
+          "CorpusId": 35992754
+        },
+        "url": "https://www.semanticscholar.org/paper/199e1fe8cf3646f6352532dec35017d0a48d357b",
+        "title": "A Bayesian Approach to Online Learning",
+        "venue": "",
+        "year": 2006,
+        "referenceCount": 6,
+        "citationCount": 86,
+        "authors": [
+          {
+            "authorId": "1691022",
+            "name": "M. Opper"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "b3fc233d08518e2b362f36e33c9c70381474b7a9",
+        "externalIds": {
+          "CorpusId": 15214298
+        },
+        "url": "https://www.semanticscholar.org/paper/b3fc233d08518e2b362f36e33c9c70381474b7a9",
+        "title": "MCMC Methods for MLP-network and Gaussian Process and Stuff – A documentation for Matlab Toolbox",
+        "venue": "",
+        "year": 2006,
+        "referenceCount": 31,
+        "citationCount": 12,
+        "authors": [
+          {
+            "authorId": "1890840",
+            "name": "J. Vanhatalo"
+          },
+          {
+            "authorId": "3104170",
+            "name": "Aki Vehtari"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "92ef5c77a438c7c920ee4fc068052d103815f6ff",
+        "externalIds": {
+          "CorpusId": 8632802
+        },
+        "url": "https://www.semanticscholar.org/paper/92ef5c77a438c7c920ee4fc068052d103815f6ff",
+        "title": "Thesis Supervisor Accepted by.......................................................................",
+        "venue": "",
+        "year": 2001,
+        "referenceCount": 0,
+        "citationCount": 728,
+        "authors": []
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "a22b36cf5dba3e85eb064220be7ef03be4efba48",
+        "externalIds": {
+          "MAG": "1567512734",
+          "DBLP": "phd/ca/Neal95",
+          "DOI": "10.1007/978-1-4612-0745-0",
+          "CorpusId": 251471788
+        },
+        "url": "https://www.semanticscholar.org/paper/a22b36cf5dba3e85eb064220be7ef03be4efba48",
+        "title": "Bayesian learning for neural networks",
+        "venue": "",
+        "year": 1995,
+        "referenceCount": 0,
+        "citationCount": 4947,
+        "authors": [
+          {
+            "authorId": "1764325",
+            "name": "Radford M. Neal"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "3930376440ffd434b15c727c898790b0c1a36079",
+        "externalIds": {
+          "MAG": "34015635",
+          "CorpusId": 115606926
+        },
+        "url": "https://www.semanticscholar.org/paper/3930376440ffd434b15c727c898790b0c1a36079",
+        "title": "A comparison of sequential learning methods for incomplete data",
+        "venue": "",
+        "year": 1995,
+        "referenceCount": 9,
+        "citationCount": 32,
+        "authors": [
+          {
+            "authorId": "34631309",
+            "name": "R. Cowell"
+          },
+          {
+            "authorId": "144845491",
+            "name": "A. Dawid"
+          },
+          {
+            "authorId": "2714284",
+            "name": "P. Sebastiani"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "Probabilistic Backpropagation",
+        "venue": "",
+        "year": null,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    }
+  ]
+}

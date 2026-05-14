@@ -1,0 +1,331 @@
+{
+  "total": 509,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "a98069051b3c6d9eedb576baad25c97c926c614b",
+      "externalIds": {
+        "MAG": "2950530498",
+        "ArXiv": "1709.03625",
+        "DBLP": "conf/icml/GhassamiSKB18",
+        "CorpusId": 24591184
+      },
+      "url": "https://www.semanticscholar.org/paper/a98069051b3c6d9eedb576baad25c97c926c614b",
+      "title": "Budgeted Experiment Design for Causal Structure Learning",
+      "venue": "International Conference on Machine Learning",
+      "year": 2017,
+      "referenceCount": 51,
+      "citationCount": 71,
+      "authors": [
+        {
+          "authorId": "2550591",
+          "name": "AmirEmad Ghassami"
+        },
+        {
+          "authorId": "2452436",
+          "name": "Saber Salehkaleybar"
+        },
+        {
+          "authorId": "1801295",
+          "name": "N. Kiyavash"
+        },
+        {
+          "authorId": "2778721",
+          "name": "E. Bareinboim"
+        }
+      ]
+    },
+    {
+      "paperId": "dfe263f82b61cf87fcac4bb9ec420d7a670107ce",
+      "externalIds": {
+        "MAG": "2979821415",
+        "ArXiv": "1910.05651",
+        "DBLP": "journals/corr/abs-1910-05651",
+        "CorpusId": 204509107
+      },
+      "url": "https://www.semanticscholar.org/paper/dfe263f82b61cf87fcac4bb9ec420d7a670107ce",
+      "title": "Interventional Experiment Design for Causal Structure Learning",
+      "venue": "arXiv.org",
+      "year": 2019,
+      "referenceCount": 47,
+      "citationCount": 12,
+      "authors": [
+        {
+          "authorId": "2550591",
+          "name": "AmirEmad Ghassami"
+        },
+        {
+          "authorId": "2452436",
+          "name": "Saber Salehkaleybar"
+        },
+        {
+          "authorId": "1801295",
+          "name": "N. Kiyavash"
+        }
+      ]
+    },
+    {
+      "paperId": "bad47c294e972d4997d6c121a14e719a5b4a9e99",
+      "externalIds": {
+        "MAG": "3167183573",
+        "ArXiv": "2105.14024",
+        "DBLP": "conf/nips/SussexUK21",
+        "CorpusId": 235254240
+      },
+      "url": "https://www.semanticscholar.org/paper/bad47c294e972d4997d6c121a14e719a5b4a9e99",
+      "title": "Near-Optimal Multi-Perturbation Experimental Design for Causal Structure Learning",
+      "venue": "Neural Information Processing Systems",
+      "year": 2021,
+      "referenceCount": 40,
+      "citationCount": 23,
+      "authors": [
+        {
+          "authorId": "118635228",
+          "name": "Scott Sussex"
+        },
+        {
+          "authorId": "153243248",
+          "name": "A. Krause"
+        },
+        {
+          "authorId": "3338091",
+          "name": "Caroline Uhler"
+        }
+      ]
+    },
+    {
+      "paperId": "c6b461bf9a63f7498eb25fc79f3734276806255c",
+      "externalIds": {
+        "DBLP": "journals/tpds/DouHZZZ25",
+        "DOI": "10.1109/TPDS.2025.3560304",
+        "CorpusId": 277844213
+      },
+      "url": "https://www.semanticscholar.org/paper/c6b461bf9a63f7498eb25fc79f3734276806255c",
+      "title": "CausalConf: Datasize-Aware Configuration Auto-Tuning for Recurring Big Data Processing Jobs via Adaptive Causal Structure Learning",
+      "venue": "IEEE Transactions on Parallel and Distributed Systems",
+      "year": 2025,
+      "referenceCount": 51,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2099113460",
+          "name": "Hui Dou"
+        },
+        {
+          "authorId": "2400066310",
+          "name": "Mingjie He"
+        },
+        {
+          "authorId": "2335100051",
+          "name": "Lei Zhang"
+        },
+        {
+          "authorId": "2154556002",
+          "name": "Yiwen Zhang"
+        },
+        {
+          "authorId": "2256386421",
+          "name": "Zibin Zheng"
+        }
+      ]
+    },
+    {
+      "paperId": "e2f2160ad089f3e2632d1e2c322cf1fd530820b4",
+      "externalIds": {
+        "MAG": "2950615205",
+        "DBLP": "conf/aistats/AgrawalSYSU19",
+        "ArXiv": "1902.10347",
+        "CorpusId": 88500825
+      },
+      "url": "https://www.semanticscholar.org/paper/e2f2160ad089f3e2632d1e2c322cf1fd530820b4",
+      "title": "ABCD-Strategy: Budgeted Experimental Design for Targeted Causal Structure Discovery",
+      "venue": "International Conference on Artificial Intelligence and Statistics",
+      "year": 2019,
+      "referenceCount": 38,
+      "citationCount": 74,
+      "authors": [
+        {
+          "authorId": "15280200",
+          "name": "Raj Agrawal"
+        },
+        {
+          "authorId": "81010730",
+          "name": "C. Squires"
+        },
+        {
+          "authorId": "2806097",
+          "name": "Karren D. Yang"
+        },
+        {
+          "authorId": "145455859",
+          "name": "Karthikeyan Shanmugam"
+        },
+        {
+          "authorId": "3338091",
+          "name": "Caroline Uhler"
+        }
+      ]
+    },
+    {
+      "paperId": "26b45d58101e90ba71f0a30fb575e1d67e0adbdc",
+      "externalIds": {
+        "DBLP": "journals/tkde/GuoYLLLCW24",
+        "DOI": "10.1109/TKDE.2024.3461832",
+        "CorpusId": 272712823
+      },
+      "url": "https://www.semanticscholar.org/paper/26b45d58101e90ba71f0a30fb575e1d67e0adbdc",
+      "title": "Progressive Skeleton Learning for Effective Local-to-Global Causal Structure Learning",
+      "venue": "IEEE Transactions on Knowledge and Data Engineering",
+      "year": 2024,
+      "referenceCount": 50,
+      "citationCount": 6,
+      "authors": [
+        {
+          "authorId": "1387835221",
+          "name": "Xianjie Guo"
+        },
+        {
+          "authorId": "2246444008",
+          "name": "Kui Yu"
+        },
+        {
+          "authorId": "2146017365",
+          "name": "Lin Liu"
+        },
+        {
+          "authorId": "2257372048",
+          "name": "Jiuyong Li"
+        },
+        {
+          "authorId": "2237914945",
+          "name": "Jiye Liang"
+        },
+        {
+          "authorId": "40460915",
+          "name": "Fuyuan Cao"
+        },
+        {
+          "authorId": "2255396936",
+          "name": "Xindong Wu"
+        }
+      ]
+    },
+    {
+      "paperId": "9526a5ea850cccf7fb610805bcc616ed2f33197d",
+      "externalIds": {
+        "PubMedCentral": "12135439",
+        "DBLP": "journals/bmcbi/SandorA25",
+        "DOI": "10.1186/s12859-025-06149-6",
+        "CorpusId": 279121278,
+        "PubMed": "40461994"
+      },
+      "url": "https://www.semanticscholar.org/paper/9526a5ea850cccf7fb610805bcc616ed2f33197d",
+      "title": "Efficient structure learning of gene regulatory networks with Bayesian active learning",
+      "venue": "BMC Bioinformatics",
+      "year": 2025,
+      "referenceCount": 55,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2201646885",
+          "name": "Dániel Sándor"
+        },
+        {
+          "authorId": "2300569027",
+          "name": "Péter Antal"
+        }
+      ]
+    },
+    {
+      "paperId": "627aee54b3a69adfe5b0be7d6c62cee8d746562b",
+      "externalIds": {
+        "ArXiv": "2509.21423",
+        "DBLP": "journals/corr/abs-2509-21423",
+        "DOI": "10.48550/arXiv.2509.21423",
+        "CorpusId": 281659156
+      },
+      "url": "https://www.semanticscholar.org/paper/627aee54b3a69adfe5b0be7d6c62cee8d746562b",
+      "title": "Near-Optimal Experiment Design in Linear non-Gaussian Cyclic Models",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "referenceCount": 37,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2382766587",
+          "name": "Ehsan Sharifian"
+        },
+        {
+          "authorId": "2452436",
+          "name": "Saber Salehkaleybar"
+        },
+        {
+          "authorId": "2237987614",
+          "name": "Negar Kiyavash"
+        }
+      ]
+    },
+    {
+      "paperId": "203bf57f34e2e84e7dc9882f10142405cc63b462",
+      "externalIds": {
+        "DBLP": "conf/www/ZhengCHC24",
+        "DOI": "10.1145/3589334.3645442",
+        "CorpusId": 269707333
+      },
+      "url": "https://www.semanticscholar.org/paper/203bf57f34e2e84e7dc9882f10142405cc63b462",
+      "title": "MULAN: Multi-modal Causal Structure Learning and Root Cause Analysis for Microservice Systems",
+      "venue": "The Web Conference",
+      "year": 2024,
+      "referenceCount": 54,
+      "citationCount": 50,
+      "authors": [
+        {
+          "authorId": "65990885",
+          "name": "Lecheng Zheng"
+        },
+        {
+          "authorId": "1766853",
+          "name": "Zhengzhang Chen"
+        },
+        {
+          "authorId": "2258335272",
+          "name": "Jingrui He"
+        },
+        {
+          "authorId": "2145225646",
+          "name": "Haifeng Chen"
+        }
+      ]
+    },
+    {
+      "paperId": "87df8c5cb15b211d35571a3188d536f230f4d17f",
+      "externalIds": {
+        "ArXiv": "1702.08567",
+        "MAG": "2592910719",
+        "DBLP": "journals/corr/GhassamiSK17",
+        "CorpusId": 14169423
+      },
+      "url": "https://www.semanticscholar.org/paper/87df8c5cb15b211d35571a3188d536f230f4d17f",
+      "title": "Optimal Experiment Design for Causal Discovery from Fixed Number of Experiments",
+      "venue": "arXiv.org",
+      "year": 2017,
+      "referenceCount": 24,
+      "citationCount": 5,
+      "authors": [
+        {
+          "authorId": "2550591",
+          "name": "AmirEmad Ghassami"
+        },
+        {
+          "authorId": "2452436",
+          "name": "Saber Salehkaleybar"
+        },
+        {
+          "authorId": "1801295",
+          "name": "N. Kiyavash"
+        }
+      ]
+    }
+  ]
+}

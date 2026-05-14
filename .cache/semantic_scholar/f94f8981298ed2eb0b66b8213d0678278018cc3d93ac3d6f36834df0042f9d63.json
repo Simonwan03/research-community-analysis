@@ -1,0 +1,331 @@
+{
+  "total": 71,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "b6dceb2828dfe8ccc8f5d42cdd3218d8d829fbd8",
+      "externalIds": {
+        "MAG": "2940943374",
+        "ArXiv": "1607.03597",
+        "DBLP": "conf/iclr/TompsonSSP17",
+        "CorpusId": 41947
+      },
+      "url": "https://www.semanticscholar.org/paper/b6dceb2828dfe8ccc8f5d42cdd3218d8d829fbd8",
+      "title": "Accelerating Eulerian Fluid Simulation With Convolutional Networks",
+      "venue": "International Conference on Machine Learning",
+      "year": 2016,
+      "referenceCount": 60,
+      "citationCount": 600,
+      "authors": [
+        {
+          "authorId": "2704494",
+          "name": "Jonathan Tompson"
+        },
+        {
+          "authorId": "3432599",
+          "name": "Kristofer Schlachter"
+        },
+        {
+          "authorId": "2905900",
+          "name": "P. Sprechmann"
+        },
+        {
+          "authorId": "2307214",
+          "name": "K. Perlin"
+        }
+      ]
+    },
+    {
+      "paperId": "0834bbc1d9d4aec3ee96b753db0123b6320df3f8",
+      "externalIds": {
+        "DOI": "10.1007/s11242-021-01590-6",
+        "CorpusId": 233365523
+      },
+      "url": "https://www.semanticscholar.org/paper/0834bbc1d9d4aec3ee96b753db0123b6320df3f8",
+      "title": "ML-LBM: Predicting and Accelerating Steady State Flow Simulation in Porous Media with Convolutional Neural Networks",
+      "venue": "Transport in Porous Media",
+      "year": 2021,
+      "referenceCount": 57,
+      "citationCount": 58,
+      "authors": [
+        {
+          "authorId": "46395705",
+          "name": "Y. Wang"
+        },
+        {
+          "authorId": "118109157",
+          "name": "Traiwit Chung"
+        },
+        {
+          "authorId": "48408621",
+          "name": "R. Armstrong"
+        },
+        {
+          "authorId": "3548245",
+          "name": "P. Mostaghimi"
+        }
+      ]
+    },
+    {
+      "paperId": "534e4cba23b18986d734c9577487329d01aadcd2",
+      "externalIds": {
+        "MAG": "2947189395",
+        "DOI": "10.3311/PPME.14134",
+        "CorpusId": 191209124
+      },
+      "url": "https://www.semanticscholar.org/paper/534e4cba23b18986d734c9577487329d01aadcd2",
+      "title": "Accelerating Convergence of Fluid Dynamics Simulations with Convolutional Neural Networks",
+      "venue": "Periodica Polytechnica: Mechanical Engineering",
+      "year": 2019,
+      "referenceCount": 19,
+      "citationCount": 6,
+      "authors": [
+        {
+          "authorId": "2064361558",
+          "name": "Gergely Hajgató"
+        },
+        {
+          "authorId": "1410814528",
+          "name": "Bálint Gyires-Tóth"
+        },
+        {
+          "authorId": "36278556",
+          "name": "G. Paál"
+        }
+      ]
+    },
+    {
+      "paperId": "b43105b8d6627a8fff78a1792fe10813c65f7521",
+      "externalIds": {
+        "MAG": "2987081155",
+        "DBLP": "journals/corr/abs-2008-11832",
+        "ArXiv": "2008.11832",
+        "DOI": "10.1145/3295500.3356147",
+        "CorpusId": 207955800
+      },
+      "url": "https://www.semanticscholar.org/paper/b43105b8d6627a8fff78a1792fe10813c65f7521",
+      "title": "Adaptive Neural Network-Based Approximation to Accelerate Eulerian Fluid Simulation",
+      "venue": "International Conference for High Performance Computing, Networking, Storage and Analysis",
+      "year": 2019,
+      "referenceCount": 53,
+      "citationCount": 28,
+      "authors": [
+        {
+          "authorId": "2051627055",
+          "name": "Wenqian Dong"
+        },
+        {
+          "authorId": "2146651445",
+          "name": "Jie Liu"
+        },
+        {
+          "authorId": "2051649010",
+          "name": "Zhen Xie"
+        },
+        {
+          "authorId": "48937589",
+          "name": "Dong Li"
+        }
+      ]
+    },
+    {
+      "paperId": "74a37f76344350efcb7f552eb1c4fa89367d1c66",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2502-18591",
+        "ArXiv": "2502.18591",
+        "DOI": "10.48550/arXiv.2502.18591",
+        "CorpusId": 276618154
+      },
+      "url": "https://www.semanticscholar.org/paper/74a37f76344350efcb7f552eb1c4fa89367d1c66",
+      "title": "Transported Memory Networks accelerating Computational Fluid Dynamics",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "referenceCount": 0,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2057456609",
+          "name": "M. Schulz"
+        },
+        {
+          "authorId": "102422464",
+          "name": "Gwendal Jouan"
+        },
+        {
+          "authorId": "2053459981",
+          "name": "D. Berger"
+        },
+        {
+          "authorId": "104331040",
+          "name": "Stefan Gavranovic"
+        },
+        {
+          "authorId": "2324461898",
+          "name": "Dirk Hartmann"
+        }
+      ]
+    },
+    {
+      "paperId": "4e02ccf599c88a1354153aa9c9f1c2a824671d17",
+      "externalIds": {
+        "DBLP": "conf/ijcnn/WieczorekSW25",
+        "DOI": "10.1109/IJCNN64981.2025.11227697",
+        "CorpusId": 283015684
+      },
+      "url": "https://www.semanticscholar.org/paper/4e02ccf599c88a1354153aa9c9f1c2a824671d17",
+      "title": "One-shot Deep Learning Pressure Solver for 2D Eulerian Smoke Simulation Application",
+      "venue": "IEEE International Joint Conference on Neural Network",
+      "year": 2025,
+      "referenceCount": 12,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "114210786",
+          "name": "Michał Wieczorek"
+        },
+        {
+          "authorId": "1879289685",
+          "name": "Jakub Siłka"
+        },
+        {
+          "authorId": "2321841895",
+          "name": "Katarzyna Wiltos"
+        }
+      ]
+    },
+    {
+      "paperId": "f9c082a6373e94f1899027ed2164a43ff5b3e253",
+      "externalIds": {
+        "DOI": "10.1063/5.0280212",
+        "CorpusId": 280590957
+      },
+      "url": "https://www.semanticscholar.org/paper/f9c082a6373e94f1899027ed2164a43ff5b3e253",
+      "title": "Physics-informed neural networks for multi-material high-accuracy Riemann solver in Eulerian framework",
+      "venue": "The Physics of Fluids",
+      "year": 2025,
+      "referenceCount": 58,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2107968382",
+          "name": "Sen Zhang"
+        },
+        {
+          "authorId": "2276425646",
+          "name": "Yanxu Zhong"
+        },
+        {
+          "authorId": "2315627953",
+          "name": "Xi Yang"
+        },
+        {
+          "authorId": "2341906500",
+          "name": "Xiao-Wei Guo"
+        },
+        {
+          "authorId": "2349400011",
+          "name": "Zhuo Zhang"
+        },
+        {
+          "authorId": "2276317084",
+          "name": "Wei Wang"
+        },
+        {
+          "authorId": "2302035773",
+          "name": "Canqun Yang"
+        }
+      ]
+    },
+    {
+      "paperId": "bbe6c15285a311d18d831c0b95776467a2d6f0bb",
+      "externalIds": {
+        "DOI": "10.62051/6bg3ab97",
+        "CorpusId": 280730508
+      },
+      "url": "https://www.semanticscholar.org/paper/bbe6c15285a311d18d831c0b95776467a2d6f0bb",
+      "title": "Fluid Simulation Analysis of Eulerian, Lagrangian, and Hybrid Approaches for Graphics and CFD Applications",
+      "venue": "Transactions on Computer Science and Intelligent Systems Research",
+      "year": 2025,
+      "referenceCount": 0,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2270928176",
+          "name": "Y. Zhang"
+        }
+      ]
+    },
+    {
+      "paperId": "ed3ddbdf2498521ec5456e288a76bbe8ef8a118f",
+      "externalIds": {
+        "ArXiv": "2412.18379",
+        "CorpusId": 274992583
+      },
+      "url": "https://www.semanticscholar.org/paper/ed3ddbdf2498521ec5456e288a76bbe8ef8a118f",
+      "title": "A CNN-based particle tracking method for large-scale fluid simulations with Lagrangian-Eulerian approaches",
+      "venue": "",
+      "year": 2024,
+      "referenceCount": 45,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2279244770",
+          "name": "Xuan Luo"
+        },
+        {
+          "authorId": "2242165956",
+          "name": "Zichao Jiang"
+        },
+        {
+          "authorId": "2242024809",
+          "name": "Yi Zhang"
+        },
+        {
+          "authorId": "2320574563",
+          "name": "Qinghe Yao"
+        },
+        {
+          "authorId": "2224083611",
+          "name": "Zhuolin Wang"
+        },
+        {
+          "authorId": "2157946366",
+          "name": "Gengchao Yang"
+        },
+        {
+          "authorId": "2302400667",
+          "name": "Bohua Huang"
+        }
+      ]
+    },
+    {
+      "paperId": "95c0d3343523dd4408836a430d77ed257cbcbe52",
+      "externalIds": {
+        "MAG": "2903705965",
+        "DOI": "10.1109/OCEANSKOBE.2018.8559443",
+        "CorpusId": 54449359
+      },
+      "url": "https://www.semanticscholar.org/paper/95c0d3343523dd4408836a430d77ed257cbcbe52",
+      "title": "Accelerating Underwater Vehicle Hydrodynamic Analysis Using Convolutional Networks",
+      "venue": "Oceans",
+      "year": 2018,
+      "referenceCount": 13,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2118125062",
+          "name": "Q. Chen"
+        },
+        {
+          "authorId": "145845007",
+          "name": "Zheng Zeng"
+        },
+        {
+          "authorId": "50578023",
+          "name": "L. Lian"
+        }
+      ]
+    }
+  ]
+}

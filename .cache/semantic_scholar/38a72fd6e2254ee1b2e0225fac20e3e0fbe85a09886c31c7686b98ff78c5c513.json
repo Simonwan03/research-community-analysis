@@ -1,0 +1,1614 @@
+{
+  "offset": 0,
+  "citingPaperInfo": {
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/1504.07218, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "title": "Spectral MLE: Top-K Rank Aggregation from Pairwise Comparisons",
+    "authors": [
+      {
+        "authorId": "47557914",
+        "name": "Yuxin Chen"
+      },
+      {
+        "authorId": "1788941",
+        "name": "Changho Suh"
+      }
+    ]
+  },
+  "data": [
+    {
+      "citedPaper": {
+        "paperId": "bef149935f994883b6d27d34597424612f848e39",
+        "externalIds": {
+          "DBLP": "conf/icml/ParkNZSD15",
+          "ArXiv": "1507.04457",
+          "MAG": "643977996",
+          "CorpusId": 1172140
+        },
+        "url": "https://www.semanticscholar.org/paper/bef149935f994883b6d27d34597424612f848e39",
+        "title": "Preference Completion: Large-scale Collaborative Ranking from Pairwise Comparisons",
+        "venue": "International Conference on Machine Learning",
+        "year": 2015,
+        "referenceCount": 38,
+        "citationCount": 79,
+        "authors": [
+          {
+            "authorId": "13453640",
+            "name": "Dohyung Park"
+          },
+          {
+            "authorId": "1836319",
+            "name": "Joe Neeman"
+          },
+          {
+            "authorId": "2117170157",
+            "name": "Jin Zhang"
+          },
+          {
+            "authorId": "1701677",
+            "name": "S. Sanghavi"
+          },
+          {
+            "authorId": "1783667",
+            "name": "I. Dhillon"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "935c7a26514dad9d11cdc4692cac10e08c766099",
+        "externalIds": {
+          "MAG": "2542482481",
+          "DBLP": "journals/corr/ChenC15a",
+          "ArXiv": "1505.05114",
+          "DOI": "10.1002/cpa.21638",
+          "CorpusId": 262364667
+        },
+        "url": "https://www.semanticscholar.org/paper/935c7a26514dad9d11cdc4692cac10e08c766099",
+        "title": "Solving Random Quadratic Systems of Equations Is Nearly as Easy as Solving Linear Systems",
+        "venue": "Neural Information Processing Systems",
+        "year": 2015,
+        "referenceCount": 66,
+        "citationCount": 618,
+        "authors": [
+          {
+            "authorId": "47557914",
+            "name": "Yuxin Chen"
+          },
+          {
+            "authorId": "2006869",
+            "name": "E. Candès"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "d00ff0e779eab252e2f8024904e23266f264fc70",
+        "externalIds": {
+          "DBLP": "conf/isit/ChenSG15",
+          "MAG": "1648163154",
+          "DOI": "10.1109/ISIT.2015.7282873",
+          "CorpusId": 52799921
+        },
+        "url": "https://www.semanticscholar.org/paper/d00ff0e779eab252e2f8024904e23266f264fc70",
+        "title": "Information recovery from pairwise measurements: A shannon-theoretic approach",
+        "venue": "International Symposium on Information Theory",
+        "year": 2015,
+        "referenceCount": 55,
+        "citationCount": 38,
+        "authors": [
+          {
+            "authorId": "47557914",
+            "name": "Yuxin Chen"
+          },
+          {
+            "authorId": "1788941",
+            "name": "Changho Suh"
+          },
+          {
+            "authorId": "1746299",
+            "name": "A. Goldsmith"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "7e99c9e97dc6207a766c7d2cb4879e5e9994b3e7",
+        "externalIds": {
+          "MAG": "1480348078",
+          "DBLP": "journals/corr/OstingXXY15",
+          "ArXiv": "1503.00164",
+          "DOI": "10.1016/j.acha.2016.03.007",
+          "CorpusId": 15335406
+        },
+        "url": "https://www.semanticscholar.org/paper/7e99c9e97dc6207a766c7d2cb4879e5e9994b3e7",
+        "title": "Analysis of Crowdsourced Sampling Strategies for HodgeRank with Sparse Random Graphs",
+        "venue": "Applied and Computational Harmonic Analysis",
+        "year": 2015,
+        "referenceCount": 55,
+        "citationCount": 12,
+        "authors": [
+          {
+            "authorId": "2877186",
+            "name": "B. Osting"
+          },
+          {
+            "authorId": "3081531",
+            "name": "Jiechao Xiong"
+          },
+          {
+            "authorId": "34679664",
+            "name": "Qianqian Xu"
+          },
+          {
+            "authorId": "144779803",
+            "name": "Y. Yao"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "a82074319bed0e892543ca6082afc614b6f7b000",
+        "externalIds": {
+          "MAG": "2259211863",
+          "ArXiv": "1411.0073",
+          "DBLP": "conf/nips/OhS14",
+          "CorpusId": 14368114
+        },
+        "url": "https://www.semanticscholar.org/paper/a82074319bed0e892543ca6082afc614b6f7b000",
+        "title": "Learning Mixed Multinomial Logit Model from Ordinal Data",
+        "venue": "Neural Information Processing Systems",
+        "year": 2014,
+        "referenceCount": 29,
+        "citationCount": 56,
+        "authors": [
+          {
+            "authorId": "34184418",
+            "name": "Sewoong Oh"
+          },
+          {
+            "authorId": "145081804",
+            "name": "Devavrat Shah"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "6d37239dbb8c4120d987fa4478d5e5155557a5c4",
+        "externalIds": {
+          "CorpusId": 218700114
+        },
+        "url": "https://www.semanticscholar.org/paper/6d37239dbb8c4120d987fa4478d5e5155557a5c4",
+        "title": "Learning Mixtures of Ranking Models",
+        "venue": "Neural Information Processing Systems",
+        "year": 2014,
+        "referenceCount": 0,
+        "citationCount": 65,
+        "authors": [
+          {
+            "authorId": "144030228",
+            "name": "Pranjal Awasthi"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "e95e72d882ea5e2d45478463a2d186444c565ac3",
+        "externalIds": {
+          "MAG": "2138170247",
+          "DBLP": "conf/nips/SoufianiPX14",
+          "ArXiv": "1410.7856",
+          "CorpusId": 5211171
+        },
+        "url": "https://www.semanticscholar.org/paper/e95e72d882ea5e2d45478463a2d186444c565ac3",
+        "title": "A Statistical Decision-Theoretic Framework for Social Choice",
+        "venue": "Neural Information Processing Systems",
+        "year": 2014,
+        "referenceCount": 38,
+        "citationCount": 30,
+        "authors": [
+          {
+            "authorId": "1753515",
+            "name": "Hossein Azari Soufiani"
+          },
+          {
+            "authorId": "30907562",
+            "name": "D. Parkes"
+          },
+          {
+            "authorId": "35276487",
+            "name": "Lirong Xia"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "0e16b8e60515916f740f9ca7ffb4139c655d957f",
+        "externalIds": {
+          "MAG": "1032589285",
+          "DBLP": "conf/alt/Busa-FeketeH14",
+          "DOI": "10.1007/978-3-319-11662-4_3",
+          "CorpusId": 4725298
+        },
+        "url": "https://www.semanticscholar.org/paper/0e16b8e60515916f740f9ca7ffb4139c655d957f",
+        "title": "A Survey of Preference-Based Online Learning with Bandit Algorithms",
+        "venue": "International Conference on Algorithmic Learning Theory",
+        "year": 2014,
+        "referenceCount": 56,
+        "citationCount": 50,
+        "authors": [
+          {
+            "authorId": "1398396696",
+            "name": "R. Busa-Fekete"
+          },
+          {
+            "authorId": "1691955",
+            "name": "Eyke Hüllermeier"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "9f9da455f20745cd0e5e812ef3a264a162a3c1c5",
+        "externalIds": {
+          "MAG": "2951556347",
+          "DBLP": "conf/allerton/LuN15",
+          "ArXiv": "1410.0860",
+          "DOI": "10.1109/ALLERTON.2015.7447183",
+          "CorpusId": 14661414
+        },
+        "url": "https://www.semanticscholar.org/paper/9f9da455f20745cd0e5e812ef3a264a162a3c1c5",
+        "title": "Individualized rank aggregation using nuclear norm regularization",
+        "venue": "Allerton Conference on Communication, Control, and Computing",
+        "year": 2014,
+        "referenceCount": 36,
+        "citationCount": 44,
+        "authors": [
+          {
+            "authorId": "2140044738",
+            "name": "Yu Lu"
+          },
+          {
+            "authorId": "145537739",
+            "name": "S. Negahban"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "b422a2d3ef04399c1d2135d941196613f6255f16",
+        "externalIds": {
+          "ArXiv": "1408.2156",
+          "MAG": "2149734713",
+          "DBLP": "journals/corr/BalakrishnanWY14",
+          "DOI": "10.1214/16-AOS1435",
+          "CorpusId": 504588
+        },
+        "url": "https://www.semanticscholar.org/paper/b422a2d3ef04399c1d2135d941196613f6255f16",
+        "title": "Statistical guarantees for the EM algorithm: From population to sample-based analysis",
+        "venue": "arXiv.org",
+        "year": 2014,
+        "referenceCount": 63,
+        "citationCount": 524,
+        "authors": [
+          {
+            "authorId": "3261943",
+            "name": "Sivaraman Balakrishnan"
+          },
+          {
+            "authorId": "1721860",
+            "name": "M. Wainwright"
+          },
+          {
+            "authorId": "144923779",
+            "name": "Bin Yu"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "b405bea2b8d76364abcb5be2ba8edb372a348cb7",
+        "externalIds": {
+          "MAG": "1980940798",
+          "DBLP": "journals/tit/HassanzadehM14",
+          "DOI": "10.1109/TIT.2014.2345760",
+          "CorpusId": 7587179
+        },
+        "url": "https://www.semanticscholar.org/paper/b405bea2b8d76364abcb5be2ba8edb372a348cb7",
+        "title": "An Axiomatic Approach to Constructing Distances for Rank Comparison and Aggregation",
+        "venue": "IEEE Transactions on Information Theory",
+        "year": 2014,
+        "referenceCount": 47,
+        "citationCount": 31,
+        "authors": [
+          {
+            "authorId": "8661634",
+            "name": "Farzad Farnoud"
+          },
+          {
+            "authorId": "1743831",
+            "name": "O. Milenkovic"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "9abd6d2f72ce92f8723eaf9bd275f543498d9e91",
+        "externalIds": {
+          "DBLP": "conf/cocoon/HassanzadehYB14",
+          "MAG": "2259700187",
+          "DOI": "10.1007/s10878-015-9930-6",
+          "CorpusId": 11584018
+        },
+        "url": "https://www.semanticscholar.org/paper/9abd6d2f72ce92f8723eaf9bd275f543498d9e91",
+        "title": "Approximate sorting of data streams with limited storage",
+        "venue": "Journal of combinatorial optimization",
+        "year": 2014,
+        "referenceCount": 22,
+        "citationCount": 5,
+        "authors": [
+          {
+            "authorId": "8661634",
+            "name": "Farzad Farnoud"
+          },
+          {
+            "authorId": "1736016",
+            "name": "Eitan Yaakobi"
+          },
+          {
+            "authorId": "143742406",
+            "name": "Jehoshua Bruck"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "da457a529ee78d44f1aa07fe1960657f6cec7957",
+        "externalIds": {
+          "DBLP": "journals/corr/CandesLS14",
+          "MAG": "2142949395",
+          "ArXiv": "1407.1065",
+          "DOI": "10.1109/TIT.2015.2399924",
+          "CorpusId": 7599380
+        },
+        "url": "https://www.semanticscholar.org/paper/da457a529ee78d44f1aa07fe1960657f6cec7957",
+        "title": "Phase Retrieval via Wirtinger Flow: Theory and Algorithms",
+        "venue": "IEEE Transactions on Information Theory",
+        "year": 2014,
+        "referenceCount": 75,
+        "citationCount": 1371,
+        "authors": [
+          {
+            "authorId": "2006869",
+            "name": "E. Candès"
+          },
+          {
+            "authorId": "2118899110",
+            "name": "Xiaodong Li"
+          },
+          {
+            "authorId": "2766123",
+            "name": "M. Soltanolkotabi"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "39c5cfc0ff6660a17364cb4af1eb071d6efa463d",
+        "externalIds": {
+          "ArXiv": "1406.6618",
+          "MAG": "2249663999",
+          "DBLP": "journals/corr/ShahBBPRW14",
+          "CorpusId": 3119360
+        },
+        "url": "https://www.semanticscholar.org/paper/39c5cfc0ff6660a17364cb4af1eb071d6efa463d",
+        "title": "When is it Better to Compare than to Score?",
+        "venue": "arXiv.org",
+        "year": 2014,
+        "referenceCount": 31,
+        "citationCount": 24,
+        "authors": [
+          {
+            "authorId": "1737249",
+            "name": "Nihar B. Shah"
+          },
+          {
+            "authorId": "3261943",
+            "name": "Sivaraman Balakrishnan"
+          },
+          {
+            "authorId": "1798270",
+            "name": "Joseph K. Bradley"
+          },
+          {
+            "authorId": "1750527",
+            "name": "Abhay K. Parekh"
+          },
+          {
+            "authorId": "144161012",
+            "name": "K. Ramchandran"
+          },
+          {
+            "authorId": "1721860",
+            "name": "M. Wainwright"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "195d727dffd486d9262e00d2f5868460571851a1",
+        "externalIds": {
+          "DBLP": "conf/nips/HajekOX14",
+          "ArXiv": "1406.5638",
+          "MAG": "2950552877",
+          "CorpusId": 13803486
+        },
+        "url": "https://www.semanticscholar.org/paper/195d727dffd486d9262e00d2f5868460571851a1",
+        "title": "Minimax-optimal Inference from Partial Rankings",
+        "venue": "Neural Information Processing Systems",
+        "year": 2014,
+        "referenceCount": 19,
+        "citationCount": 102,
+        "authors": [
+          {
+            "authorId": "1741615",
+            "name": "B. Hajek"
+          },
+          {
+            "authorId": "34184418",
+            "name": "Sewoong Oh"
+          },
+          {
+            "authorId": "2350860428",
+            "name": "Jiaming Xu"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "499a5bcde2abe9d0ba38219d112d8c54f7a5b8af",
+        "externalIds": {
+          "DBLP": "conf/icml/RajkumarA14",
+          "MAG": "2140560120",
+          "CorpusId": 13910694
+        },
+        "url": "https://www.semanticscholar.org/paper/499a5bcde2abe9d0ba38219d112d8c54f7a5b8af",
+        "title": "A Statistical Convergence Perspective of Algorithms for Rank Aggregation from Pairwise Data",
+        "venue": "International Conference on Machine Learning",
+        "year": 2014,
+        "referenceCount": 26,
+        "citationCount": 160,
+        "authors": [
+          {
+            "authorId": "143952254",
+            "name": "A. Rajkumar"
+          },
+          {
+            "authorId": "2797063",
+            "name": "S. Agarwal"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "adfeb1674822daae79183e196e45c0e2ac68ffb9",
+        "externalIds": {
+          "DBLP": "conf/icml/Busa-FeketeHS14",
+          "MAG": "79079207",
+          "CorpusId": 14102415
+        },
+        "url": "https://www.semanticscholar.org/paper/adfeb1674822daae79183e196e45c0e2ac68ffb9",
+        "title": "Preference-Based Rank Elicitation using Statistical Models: The Case of Mallows",
+        "venue": "International Conference on Machine Learning",
+        "year": 2014,
+        "referenceCount": 28,
+        "citationCount": 69,
+        "authors": [
+          {
+            "authorId": "1398396696",
+            "name": "R. Busa-Fekete"
+          },
+          {
+            "authorId": "1691955",
+            "name": "Eyke Hüllermeier"
+          },
+          {
+            "authorId": "2206023",
+            "name": "Balázs Szörényi"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "5d006df015f4967518ef7427ce0540784aa295aa",
+        "externalIds": {
+          "MAG": "2150559086",
+          "DBLP": "conf/icml/SoufianiPX14",
+          "CorpusId": 2732308
+        },
+        "url": "https://www.semanticscholar.org/paper/5d006df015f4967518ef7427ce0540784aa295aa",
+        "title": "Computing Parametric Ranking Models via Rank-Breaking",
+        "venue": "International Conference on Machine Learning",
+        "year": 2014,
+        "referenceCount": 29,
+        "citationCount": 75,
+        "authors": [
+          {
+            "authorId": "1753515",
+            "name": "Hossein Azari Soufiani"
+          },
+          {
+            "authorId": "30907562",
+            "name": "D. Parkes"
+          },
+          {
+            "authorId": "35276487",
+            "name": "Lirong Xia"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "53b967ac34b5a422f81fb6947da0ba148ba90221",
+        "externalIds": {
+          "MAG": "2951259917",
+          "ArXiv": "1312.7308",
+          "DBLP": "journals/corr/JamiesonMNB13a",
+          "CorpusId": 2606438
+        },
+        "url": "https://www.semanticscholar.org/paper/53b967ac34b5a422f81fb6947da0ba148ba90221",
+        "title": "lil' UCB : An Optimal Exploration Algorithm for Multi-Armed Bandits",
+        "venue": "Annual Conference Computational Learning Theory",
+        "year": 2013,
+        "referenceCount": 17,
+        "citationCount": 439,
+        "authors": [
+          {
+            "authorId": "40566417",
+            "name": "Kevin G. Jamieson"
+          },
+          {
+            "authorId": "7447690",
+            "name": "Matthew Malloy"
+          },
+          {
+            "authorId": "50033772",
+            "name": "R. Nowak"
+          },
+          {
+            "authorId": "1815542",
+            "name": "Sébastien Bubeck"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "b8b85c39b74a625755e3fab3cf01485e05b821e4",
+        "externalIds": {
+          "DBLP": "conf/nips/SoufianiCPX13",
+          "MAG": "2122913573",
+          "CorpusId": 5895871
+        },
+        "url": "https://www.semanticscholar.org/paper/b8b85c39b74a625755e3fab3cf01485e05b821e4",
+        "title": "Generalized Method-of-Moments for Rank Aggregation",
+        "venue": "Neural Information Processing Systems",
+        "year": 2013,
+        "referenceCount": 22,
+        "citationCount": 89,
+        "authors": [
+          {
+            "authorId": "1753515",
+            "name": "Hossein Azari Soufiani"
+          },
+          {
+            "authorId": "2333639214",
+            "name": "Willy Chen"
+          },
+          {
+            "authorId": "30907562",
+            "name": "D. Parkes"
+          },
+          {
+            "authorId": "35276487",
+            "name": "Lirong Xia"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "cacdebe0309aa9062e399dd3bb50ef9c4585d1a6",
+        "externalIds": {
+          "MAG": "1909146639",
+          "DBLP": "conf/icml/Busa-FeketeSCWH13",
+          "CorpusId": 4760582
+        },
+        "url": "https://www.semanticscholar.org/paper/cacdebe0309aa9062e399dd3bb50ef9c4585d1a6",
+        "title": "Top-k Selection based on Adaptive Sampling of Noisy Preferences",
+        "venue": "International Conference on Machine Learning",
+        "year": 2013,
+        "referenceCount": 28,
+        "citationCount": 75,
+        "authors": [
+          {
+            "authorId": "1398396696",
+            "name": "R. Busa-Fekete"
+          },
+          {
+            "authorId": "2206023",
+            "name": "Balázs Szörényi"
+          },
+          {
+            "authorId": "49767752",
+            "name": "Weiwei Cheng"
+          },
+          {
+            "authorId": "144834415",
+            "name": "Paul Weng"
+          },
+          {
+            "authorId": "1691955",
+            "name": "Eyke Hüllermeier"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "753a2ec1ed2f543c6734ae1cf574d698acd0abcc",
+        "externalIds": {
+          "DBLP": "conf/icml/WauthierJJ13",
+          "MAG": "2105089228",
+          "CorpusId": 5559732
+        },
+        "url": "https://www.semanticscholar.org/paper/753a2ec1ed2f543c6734ae1cf574d698acd0abcc",
+        "title": "Efficient Ranking from Pairwise Comparisons",
+        "venue": "International Conference on Machine Learning",
+        "year": 2013,
+        "referenceCount": 31,
+        "citationCount": 203,
+        "authors": [
+          {
+            "authorId": "2624567",
+            "name": "Fabian L. Wauthier"
+          },
+          {
+            "authorId": "1694621",
+            "name": "Michael I. Jordan"
+          },
+          {
+            "authorId": "1698689",
+            "name": "N. Jojic"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "944ef766160f1f937ab0e9b136b92547c8c9c9d8",
+        "externalIds": {
+          "MAG": "2556681649",
+          "ArXiv": "1306.0160",
+          "DBLP": "conf/nips/Netrapalli0S13",
+          "DOI": "10.1109/TSP.2015.2448516",
+          "CorpusId": 1850423
+        },
+        "url": "https://www.semanticscholar.org/paper/944ef766160f1f937ab0e9b136b92547c8c9c9d8",
+        "title": "Phase Retrieval Using Alternating Minimization",
+        "venue": "IEEE Transactions on Signal Processing",
+        "year": 2013,
+        "referenceCount": 61,
+        "citationCount": 660,
+        "authors": [
+          {
+            "authorId": "1751626",
+            "name": "Praneeth Netrapalli"
+          },
+          {
+            "authorId": "48964143",
+            "name": "Prateek Jain"
+          },
+          {
+            "authorId": "1701677",
+            "name": "S. Sanghavi"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "b9c5cb9c5b469e7f82ce5eb087038f3cac280a90",
+        "externalIds": {
+          "DBLP": "conf/aistats/Eriksson13",
+          "MAG": "2102977876",
+          "CorpusId": 2756964
+        },
+        "url": "https://www.semanticscholar.org/paper/b9c5cb9c5b469e7f82ce5eb087038f3cac280a90",
+        "title": "Learning to Top-K Search using Pairwise Comparisons",
+        "venue": "International Conference on Artificial Intelligence and Statistics",
+        "year": 2013,
+        "referenceCount": 13,
+        "citationCount": 52,
+        "authors": [
+          {
+            "authorId": "34012755",
+            "name": "Brian Eriksson"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "199dcbb1e5287eedb458c867b171cc83c06b0d2a",
+        "externalIds": {
+          "MAG": "2164545125",
+          "DBLP": "conf/wsdm/ChenBCH13",
+          "DOI": "10.1145/2433396.2433420",
+          "CorpusId": 6647354
+        },
+        "url": "https://www.semanticscholar.org/paper/199dcbb1e5287eedb458c867b171cc83c06b0d2a",
+        "title": "Pairwise ranking aggregation in a crowdsourced setting",
+        "venue": "Web Search and Data Mining",
+        "year": 2013,
+        "referenceCount": 32,
+        "citationCount": 363,
+        "authors": [
+          {
+            "authorId": "2145307038",
+            "name": "Xi Chen"
+          },
+          {
+            "authorId": "144609235",
+            "name": "Paul N. Bennett"
+          },
+          {
+            "authorId": "1403434962",
+            "name": "K. Collins-Thompson"
+          },
+          {
+            "authorId": "145479841",
+            "name": "E. Horvitz"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "40d50a0cb39012bb1aae8b2a8358d41e1786df87",
+        "externalIds": {
+          "MAG": "2106005123",
+          "DBLP": "journals/corr/abs-1212-0467",
+          "ArXiv": "1212.0467",
+          "DOI": "10.1145/2488608.2488693",
+          "CorpusId": 447011
+        },
+        "url": "https://www.semanticscholar.org/paper/40d50a0cb39012bb1aae8b2a8358d41e1786df87",
+        "title": "Low-rank matrix completion using alternating minimization",
+        "venue": "Symposium on the Theory of Computing",
+        "year": 2012,
+        "referenceCount": 25,
+        "citationCount": 1123,
+        "authors": [
+          {
+            "authorId": "48964143",
+            "name": "Prateek Jain"
+          },
+          {
+            "authorId": "1751626",
+            "name": "Praneeth Netrapalli"
+          },
+          {
+            "authorId": "1701677",
+            "name": "S. Sanghavi"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "ad8d6d835be4663cd179c1605456a0bcd71f4188",
+        "externalIds": {
+          "ArXiv": "1209.1688",
+          "MAG": "1517040319",
+          "DBLP": "journals/ior/NegahbanOS17",
+          "DOI": "10.1287/opre.2016.1534",
+          "CorpusId": 3602049
+        },
+        "url": "https://www.semanticscholar.org/paper/ad8d6d835be4663cd179c1605456a0bcd71f4188",
+        "title": "Rank Centrality: Ranking from Pairwise Comparisons",
+        "venue": "Operational Research",
+        "year": 2012,
+        "referenceCount": 62,
+        "citationCount": 248,
+        "authors": [
+          {
+            "authorId": "145537739",
+            "name": "S. Negahban"
+          },
+          {
+            "authorId": "34184418",
+            "name": "Sewoong Oh"
+          },
+          {
+            "authorId": "145081804",
+            "name": "Devavrat Shah"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "5dd170f0705f0e1a657021b5427ca983cccd7a59",
+        "externalIds": {
+          "MAG": "3099890586",
+          "DBLP": "journals/tit/ErvenH14",
+          "ArXiv": "1206.2459",
+          "DOI": "10.1109/TIT.2014.2320500",
+          "CorpusId": 17522805
+        },
+        "url": "https://www.semanticscholar.org/paper/5dd170f0705f0e1a657021b5427ca983cccd7a59",
+        "title": "Rényi Divergence and Kullback-Leibler Divergence",
+        "venue": "IEEE Transactions on Information Theory",
+        "year": 2012,
+        "referenceCount": 67,
+        "citationCount": 1528,
+        "authors": [
+          {
+            "authorId": "1775951",
+            "name": "T. Erven"
+          },
+          {
+            "authorId": "2621446",
+            "name": "P. Harremoës"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "9b9648756413f2a5a85573b8d52013414e7dc487",
+        "externalIds": {
+          "DBLP": "conf/sigmetrics/AmmarS12",
+          "MAG": "1969327548",
+          "DOI": "10.1145/2254756.2254799",
+          "CorpusId": 3602667
+        },
+        "url": "https://www.semanticscholar.org/paper/9b9648756413f2a5a85573b8d52013414e7dc487",
+        "title": "Efficient rank aggregation using partial data",
+        "venue": "Measurement and Modeling of Computer Systems",
+        "year": 2012,
+        "referenceCount": 30,
+        "citationCount": 37,
+        "authors": [
+          {
+            "authorId": "3181175",
+            "name": "A. Ammar"
+          },
+          {
+            "authorId": "145081804",
+            "name": "Devavrat Shah"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "e1643d265d20ee034351fcd69767e5a9f11e25ce",
+        "externalIds": {
+          "MAG": "2951794346",
+          "DBLP": "journals/corr/abs-1205-3181",
+          "ArXiv": "1205.3181",
+          "CorpusId": 3025271
+        },
+        "url": "https://www.semanticscholar.org/paper/e1643d265d20ee034351fcd69767e5a9f11e25ce",
+        "title": "Multiple Identifications in Multi-Armed Bandits",
+        "venue": "International Conference on Machine Learning",
+        "year": 2012,
+        "referenceCount": 7,
+        "citationCount": 183,
+        "authors": [
+          {
+            "authorId": "1815542",
+            "name": "Sébastien Bubeck"
+          },
+          {
+            "authorId": "2196654",
+            "name": "Tengyao Wang"
+          },
+          {
+            "authorId": "3042430",
+            "name": "N. Viswanathan"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "9b0efc79f34dfff7a18a06954ded784e6399e906",
+        "externalIds": {
+          "DBLP": "conf/nips/GabillonGLB11",
+          "MAG": "2124277268",
+          "CorpusId": 13982470
+        },
+        "url": "https://www.semanticscholar.org/paper/9b0efc79f34dfff7a18a06954ded784e6399e906",
+        "title": "Multi-Bandit Best Arm Identification",
+        "venue": "Neural Information Processing Systems",
+        "year": 2011,
+        "referenceCount": 17,
+        "citationCount": 119,
+        "authors": [
+          {
+            "authorId": "3038127",
+            "name": "Victor Gabillon"
+          },
+          {
+            "authorId": "1678622",
+            "name": "M. Ghavamzadeh"
+          },
+          {
+            "authorId": "3254390",
+            "name": "A. Lazaric"
+          },
+          {
+            "authorId": "1815542",
+            "name": "Sébastien Bubeck"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "cc10c3fe118067d46319c4e221a14e40f6782855",
+        "externalIds": {
+          "MAG": "2161073979",
+          "DBLP": "conf/nips/Ailon11",
+          "CorpusId": 1333337
+        },
+        "url": "https://www.semanticscholar.org/paper/cc10c3fe118067d46319c4e221a14e40f6782855",
+        "title": "Active Learning Ranking from Pairwise Preferences with Almost Optimal Query Complexity",
+        "venue": "Neural Information Processing Systems",
+        "year": 2011,
+        "referenceCount": 27,
+        "citationCount": 58,
+        "authors": [
+          {
+            "authorId": "2048494",
+            "name": "Nir Ailon"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "b5dfea70185c58f4e63f99f9ecc9924a201ed7a4",
+        "externalIds": {
+          "MAG": "2155817812",
+          "ArXiv": "1109.3701",
+          "DBLP": "journals/corr/abs-1109-3701",
+          "CorpusId": 6776449
+        },
+        "url": "https://www.semanticscholar.org/paper/b5dfea70185c58f4e63f99f9ecc9924a201ed7a4",
+        "title": "Active Ranking using Pairwise Comparisons",
+        "venue": "Neural Information Processing Systems",
+        "year": 2011,
+        "referenceCount": 27,
+        "citationCount": 277,
+        "authors": [
+          {
+            "authorId": "40566417",
+            "name": "Kevin G. Jamieson"
+          },
+          {
+            "authorId": "50033772",
+            "name": "R. Nowak"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "dd69c490d732a45d83e14124bbcc04f041d40174",
+        "externalIds": {
+          "MAG": "2066389806",
+          "DBLP": "conf/allerton/AmmarS11",
+          "DOI": "10.1109/Allerton.2011.6120246",
+          "CorpusId": 3674126
+        },
+        "url": "https://www.semanticscholar.org/paper/dd69c490d732a45d83e14124bbcc04f041d40174",
+        "title": "Ranking: Compare, don't score",
+        "venue": "Allerton Conference on Communication, Control, and Computing",
+        "year": 2011,
+        "referenceCount": 25,
+        "citationCount": 42,
+        "authors": [
+          {
+            "authorId": "3181175",
+            "name": "A. Ammar"
+          },
+          {
+            "authorId": "145081804",
+            "name": "Devavrat Shah"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "018cd9c7bd3670c05b851edd87db6077f008ae0e",
+        "externalIds": {
+          "DBLP": "conf/icml/LuB11",
+          "MAG": "2186184713",
+          "CorpusId": 8012113
+        },
+        "url": "https://www.semanticscholar.org/paper/018cd9c7bd3670c05b851edd87db6077f008ae0e",
+        "title": "Learning Mallows Models with Pairwise Preferences",
+        "venue": "International Conference on Machine Learning",
+        "year": 2011,
+        "referenceCount": 20,
+        "citationCount": 198,
+        "authors": [
+          {
+            "authorId": "2409297",
+            "name": "Tyler Lu"
+          },
+          {
+            "authorId": "145646162",
+            "name": "Craig Boutilier"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "12dfd8248c0216544e1438b01b9f11615108688a",
+        "externalIds": {
+          "MAG": "2950085543",
+          "ArXiv": "1011.0108",
+          "DBLP": "journals/jmlr/Ailon12",
+          "DOI": "10.5555/2503308.2188390",
+          "CorpusId": 5574095
+        },
+        "url": "https://www.semanticscholar.org/paper/12dfd8248c0216544e1438b01b9f11615108688a",
+        "title": "An Active Learning Algorithm for Ranking from Pairwise Preferences with an Almost Optimal Query Complexity",
+        "venue": "Journal of machine learning research",
+        "year": 2010,
+        "referenceCount": 49,
+        "citationCount": 104,
+        "authors": [
+          {
+            "authorId": "2048494",
+            "name": "Nir Ailon"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "02e573d518abc7fa29d5120468cde1fcc97b170f",
+        "externalIds": {
+          "MAG": "2003605635",
+          "DBLP": "conf/recsys/BaltrunasMR10",
+          "DOI": "10.1145/1864708.1864733",
+          "CorpusId": 2139694
+        },
+        "url": "https://www.semanticscholar.org/paper/02e573d518abc7fa29d5120468cde1fcc97b170f",
+        "title": "Group recommendations with rank aggregation and collaborative filtering",
+        "venue": "ACM Conference on Recommender Systems",
+        "year": 2010,
+        "referenceCount": 20,
+        "citationCount": 534,
+        "authors": [
+          {
+            "authorId": "2666397",
+            "name": "L. Baltrunas"
+          },
+          {
+            "authorId": "2652951",
+            "name": "Tadas Makcinskas"
+          },
+          {
+            "authorId": "40169260",
+            "name": "F. Ricci"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "7147f96dc58b37837ec87d9d14b505ca7afb040a",
+        "externalIds": {
+          "DBLP": "journals/jmlr/KeshavanMO10",
+          "MAG": "2952066970",
+          "ArXiv": "0906.2027",
+          "DOI": "10.5555/1756006.1859920",
+          "CorpusId": 1838117
+        },
+        "url": "https://www.semanticscholar.org/paper/7147f96dc58b37837ec87d9d14b505ca7afb040a",
+        "title": "Matrix Completion from Noisy Entries",
+        "venue": "Journal of machine learning research",
+        "year": 2009,
+        "referenceCount": 28,
+        "citationCount": 738,
+        "authors": [
+          {
+            "authorId": "2443945",
+            "name": "Raghunandan H. Keshavan"
+          },
+          {
+            "authorId": "145071265",
+            "name": "A. Montanari"
+          },
+          {
+            "authorId": "34184418",
+            "name": "Sewoong Oh"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "0e716a68650437cde42bdfb752085964d5e05437",
+        "externalIds": {
+          "ArXiv": "0901.3150",
+          "DBLP": "conf/isit/KeshavanOM09",
+          "MAG": "2949834189",
+          "DOI": "10.1109/ISIT.2009.5205567",
+          "CorpusId": 53504
+        },
+        "url": "https://www.semanticscholar.org/paper/0e716a68650437cde42bdfb752085964d5e05437",
+        "title": "Matrix completion from a few entries",
+        "venue": "2009 IEEE International Symposium on Information Theory",
+        "year": 2009,
+        "referenceCount": 39,
+        "citationCount": 1283,
+        "authors": [
+          {
+            "authorId": "2443945",
+            "name": "Raghunandan H. Keshavan"
+          },
+          {
+            "authorId": "145071265",
+            "name": "A. Montanari"
+          },
+          {
+            "authorId": "34184418",
+            "name": "Sewoong Oh"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "fc45cd4563ce8ab02a5fe5facb22ea69864d9ef0",
+        "externalIds": {
+          "MAG": "108696806",
+          "DOI": "10.5860/choice.46-5079",
+          "CorpusId": 438461
+        },
+        "url": "https://www.semanticscholar.org/paper/fc45cd4563ce8ab02a5fe5facb22ea69864d9ef0",
+        "title": "Information Theory and Network Coding",
+        "venue": "",
+        "year": 2008,
+        "referenceCount": 0,
+        "citationCount": 906,
+        "authors": [
+          {
+            "authorId": "2410076",
+            "name": "R. Yeung"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "14464d3c3c965c71eb4d06e6843967bb0c05e6f4",
+        "externalIds": {
+          "MAG": "2952149393",
+          "ArXiv": "0707.1051",
+          "DBLP": "journals/corr/abs-0707-1051",
+          "CorpusId": 10095244
+        },
+        "url": "https://www.semanticscholar.org/paper/14464d3c3c965c71eb4d06e6843967bb0c05e6f4",
+        "title": "Noisy sorting without resampling",
+        "venue": "ACM-SIAM Symposium on Discrete Algorithms",
+        "year": 2007,
+        "referenceCount": 10,
+        "citationCount": 223,
+        "authors": [
+          {
+            "authorId": "143803467",
+            "name": "M. Braverman"
+          },
+          {
+            "authorId": "1688109",
+            "name": "Elchanan Mossel"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "7dbdb4209626fd92d2436a058663206216036e68",
+        "externalIds": {
+          "MAG": "2099111195",
+          "DBLP": "books/wi/01/CT2001",
+          "DOI": "10.1002/047174882X",
+          "CorpusId": 190432
+        },
+        "url": "https://www.semanticscholar.org/paper/7dbdb4209626fd92d2436a058663206216036e68",
+        "title": "Elements of Information Theory",
+        "venue": "",
+        "year": 2005,
+        "referenceCount": 8,
+        "citationCount": 48124,
+        "authors": [
+          {
+            "authorId": "1752732",
+            "name": "T. Cover"
+          },
+          {
+            "authorId": "2115282352",
+            "name": "Joy A. Thomas"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "9c8bacf5f0a5341d2a20b5441d7f2c22d9023216",
+        "externalIds": {
+          "MAG": "2120350143",
+          "DBLP": "conf/icml/Harrington03",
+          "CorpusId": 14658975
+        },
+        "url": "https://www.semanticscholar.org/paper/9c8bacf5f0a5341d2a20b5441d7f2c22d9023216",
+        "title": "Online Ranking/Collaborative Filtering Using the Perceptron Algorithm",
+        "venue": "International Conference on Machine Learning",
+        "year": 2003,
+        "referenceCount": 17,
+        "citationCount": 113,
+        "authors": [
+          {
+            "authorId": "1869969",
+            "name": "Edward F. Harrington"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "1a569c3349e6538947c4ddb0eed0307bfd5dad15",
+        "externalIds": {
+          "MAG": "2160637580",
+          "DOI": "10.1214/AOS/1079120141",
+          "CorpusId": 17436309
+        },
+        "url": "https://www.semanticscholar.org/paper/1a569c3349e6538947c4ddb0eed0307bfd5dad15",
+        "title": "MM algorithms for generalized Bradley-Terry models",
+        "venue": "",
+        "year": 2003,
+        "referenceCount": 33,
+        "citationCount": 631,
+        "authors": [
+          {
+            "authorId": "49406642",
+            "name": "D. Hunter"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "d7d4e474392501c1bd6f17f2b12844831e0b8bbb",
+        "externalIds": {
+          "MAG": "2509636232",
+          "DOI": "10.1891/9780826168597.0007",
+          "CorpusId": 12564685
+        },
+        "url": "https://www.semanticscholar.org/paper/d7d4e474392501c1bd6f17f2b12844831e0b8bbb",
+        "title": "Categorical Data Analysis",
+        "venue": "",
+        "year": 2003,
+        "referenceCount": 47,
+        "citationCount": 13865,
+        "authors": [
+          {
+            "authorId": "2245830025",
+            "name": "Jeremy Freese"
+          },
+          {
+            "authorId": "2059195899",
+            "name": "Jason Beckfield"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "4bc2ba9723e34832e35976654e56388cbbdfde17",
+        "externalIds": {
+          "DBLP": "conf/www/DworkKNS01",
+          "MAG": "2051834357",
+          "DOI": "10.1145/371920.372165",
+          "CorpusId": 8393813
+        },
+        "url": "https://www.semanticscholar.org/paper/4bc2ba9723e34832e35976654e56388cbbdfde17",
+        "title": "Rank aggregation methods for the Web",
+        "venue": "The Web Conference",
+        "year": 2001,
+        "referenceCount": 25,
+        "citationCount": 2053,
+        "authors": [
+          {
+            "authorId": "1781565",
+            "name": "C. Dwork"
+          },
+          {
+            "authorId": "1683442",
+            "name": "Ravi Kumar"
+          },
+          {
+            "authorId": "1693267",
+            "name": "M. Naor"
+          },
+          {
+            "authorId": "1765251",
+            "name": "D. Sivakumar"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "10d6778bc45aebcd58d336b4062b935861d2fe8a",
+        "externalIds": {
+          "MAG": "3013264884",
+          "DBLP": "journals/cn/BrinP98",
+          "DOI": "10.1016/S0169-7552(98)00110-X",
+          "CorpusId": 7587743
+        },
+        "url": "https://www.semanticscholar.org/paper/10d6778bc45aebcd58d336b4062b935861d2fe8a",
+        "title": "The Anatomy of a Large-Scale Hypertextual Web Search Engine",
+        "venue": "Comput. Networks",
+        "year": 1998,
+        "referenceCount": 27,
+        "citationCount": 17420,
+        "authors": [
+          {
+            "authorId": "1786259",
+            "name": "Sergey Brin"
+          },
+          {
+            "authorId": "48479130",
+            "name": "Lawrence Page"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "2b7fab6363e9206db85b08be427763ffec1e0db9",
+        "externalIds": {
+          "DBLP": "journals/tit/HanV94",
+          "MAG": "2144792840",
+          "DOI": "10.1109/18.335943",
+          "CorpusId": 27606507
+        },
+        "url": "https://www.semanticscholar.org/paper/2b7fab6363e9206db85b08be427763ffec1e0db9",
+        "title": "Generalizing the Fano inequality",
+        "venue": "IEEE Transactions on Information Theory",
+        "year": 1994,
+        "referenceCount": 3,
+        "citationCount": 132,
+        "authors": [
+          {
+            "authorId": "2257228",
+            "name": "T. Han"
+          },
+          {
+            "authorId": "145980949",
+            "name": "S. Verdú"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "f8222304ca201f8d524b3aa270673023334e7ed1",
+        "externalIds": {
+          "MAG": "2094536313",
+          "DOI": "10.1037/14396-000",
+          "CorpusId": 123178801
+        },
+        "url": "https://www.semanticscholar.org/paper/f8222304ca201f8d524b3aa270673023334e7ed1",
+        "title": "Individual Choice Behavior: A Theoretical Analysis",
+        "venue": "",
+        "year": 1979,
+        "referenceCount": 0,
+        "citationCount": 2843,
+        "authors": [
+          {
+            "authorId": "104060925",
+            "name": "R. Luce"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "d244943df2e046157057220e46b64a868fed3549",
+        "externalIds": {
+          "MAG": "2802052711",
+          "DOI": "10.2307/2343282",
+          "CorpusId": 125306131
+        },
+        "url": "https://www.semanticscholar.org/paper/d244943df2e046157057220e46b64a868fed3549",
+        "title": "Individual Choice Behavior: A Theoretical Analysis.",
+        "venue": "",
+        "year": 1960,
+        "referenceCount": 0,
+        "citationCount": 1840,
+        "authors": [
+          {
+            "authorId": "40758719",
+            "name": "V. Cane"
+          },
+          {
+            "authorId": "104060925",
+            "name": "R. Luce"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "3724784e99333503cd5ca9b44a7b4847d5f627fc",
+        "externalIds": {
+          "MAG": "2320532185",
+          "DOI": "10.1080/00029890.1957.11989117",
+          "CorpusId": 203043631
+        },
+        "url": "https://www.semanticscholar.org/paper/3724784e99333503cd5ca9b44a7b4847d5f627fc",
+        "title": "Solution of a Ranking Problem from Binary Comparisons",
+        "venue": "",
+        "year": 1957,
+        "referenceCount": 1,
+        "citationCount": 274,
+        "authors": [
+          {
+            "authorId": "2458887",
+            "name": "L. R. Ford"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "7d47ee5f84103529f84297c98c21dadb4742e3ff",
+        "externalIds": {
+          "MAG": "2013784666",
+          "DOI": "10.1093/BIOMET/39.3-4.324",
+          "CorpusId": 121987403
+        },
+        "url": "https://www.semanticscholar.org/paper/7d47ee5f84103529f84297c98c21dadb4742e3ff",
+        "title": "RANK ANALYSIS OF INCOMPLETE BLOCK DESIGNS THE METHOD OF PAIRED COMPARISONS",
+        "venue": "",
+        "year": 1952,
+        "referenceCount": 0,
+        "citationCount": 4100,
+        "authors": [
+          {
+            "authorId": "69566971",
+            "name": "R. Bradley"
+          },
+          {
+            "authorId": "49491973",
+            "name": "M. E. Terry"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "6d4cc5a2702ed95f620e8232e3bbe49fd7e42d4c",
+        "externalIds": {
+          "MAG": "2558685010",
+          "DBLP": "books/daglib/0012859",
+          "DOI": "10.1017/cbo9780511813603",
+          "CorpusId": 6966808
+        },
+        "url": "https://www.semanticscholar.org/paper/6d4cc5a2702ed95f620e8232e3bbe49fd7e42d4c",
+        "title": "Probability and Computing: Randomized Algorithms and Probabilistic Analysis",
+        "venue": "",
+        "year": 2005,
+        "referenceCount": 5,
+        "citationCount": 2411,
+        "authors": [
+          {
+            "authorId": "1745699",
+            "name": "M. Mitzenmacher"
+          },
+          {
+            "authorId": "1735099",
+            "name": "E. Upfal"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "4d38382e28f544df204b2ac761b1d89b24b7d5c4",
+        "externalIds": {
+          "MAG": "2129719636",
+          "DOI": "10.2307/2938238",
+          "CorpusId": 15258177
+        },
+        "url": "https://www.semanticscholar.org/paper/4d38382e28f544df204b2ac761b1d89b24b7d5c4",
+        "title": "Aggregation and Social Choice: A Mean Voter Theorem",
+        "venue": "",
+        "year": 1991,
+        "referenceCount": 38,
+        "citationCount": 313,
+        "authors": [
+          {
+            "authorId": "1846683",
+            "name": "Andrew Caplin"
+          },
+          {
+            "authorId": "66231216",
+            "name": "B. Nalebuff"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "Key feature: With a proper initialization, the iterative stage converges rapidly",
+        "venue": "Key feature: With a proper initialization, the iterative stage converges rapidly",
+        "year": null,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "matrix completion) Jain-Netrapalli-Sangavi (robust PCA) Candes-Li-Soltanolkotabi (phase retrieval) Balakrishnan-Wainwright-Yu (EM algorithm) etc",
+        "venue": "matrix completion) Jain-Netrapalli-Sangavi (robust PCA) Candes-Li-Soltanolkotabi (phase retrieval) Balakrishnan-Wainwright-Yu (EM algorithm) etc",
+        "year": null,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    }
+  ]
+}

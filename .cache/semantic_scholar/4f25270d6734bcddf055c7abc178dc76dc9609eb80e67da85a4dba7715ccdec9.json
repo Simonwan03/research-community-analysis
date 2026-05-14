@@ -1,0 +1,97 @@
+{
+  "total": 3,
+  "offset": 0,
+  "data": [
+    {
+      "paperId": "573277bf56dd1cd73f0bf27115f9a6a974c25358",
+      "externalIds": {
+        "DBLP": "conf/icml/GrosseM16",
+        "ArXiv": "1602.01407",
+        "MAG": "2271349422",
+        "CorpusId": 11724661
+      },
+      "url": "https://www.semanticscholar.org/paper/573277bf56dd1cd73f0bf27115f9a6a974c25358",
+      "title": "A Kronecker-factored approximate Fisher matrix for convolution layers",
+      "venue": "International Conference on Machine Learning",
+      "year": 2016,
+      "referenceCount": 46,
+      "citationCount": 296,
+      "authors": [
+        {
+          "authorId": "1785346",
+          "name": "R. Grosse"
+        },
+        {
+          "authorId": "145704247",
+          "name": "James Martens"
+        }
+      ]
+    },
+    {
+      "paperId": "669ac67246b0b77806d3fb5a76ab33e6140260f3",
+      "externalIds": {
+        "CorpusId": 17900157
+      },
+      "url": "https://www.semanticscholar.org/paper/669ac67246b0b77806d3fb5a76ab33e6140260f3",
+      "title": "A Kronecker-factored approximate Fisher matrix for convolution layers",
+      "venue": "",
+      "year": 2016,
+      "referenceCount": 0,
+      "citationCount": 11,
+      "authors": [
+        {
+          "authorId": "2078459295",
+          "name": "A. Conv"
+        }
+      ]
+    },
+    {
+      "paperId": "f9cee194487d6cb578c90209b13e83f3806bf9d0",
+      "externalIds": {
+        "DBLP": "conf/cvpr/TangJG00YW021",
+        "DOI": "10.1109/CVPR46437.2021.01327",
+        "CorpusId": 235694077
+      },
+      "url": "https://www.semanticscholar.org/paper/f9cee194487d6cb578c90209b13e83f3806bf9d0",
+      "title": "SKFAC: Training Neural Networks with Faster Kronecker-Factored Approximate Curvature",
+      "venue": "Computer Vision and Pattern Recognition",
+      "year": 2021,
+      "referenceCount": 25,
+      "citationCount": 25,
+      "authors": [
+        {
+          "authorId": "7172411",
+          "name": "Zedong Tang"
+        },
+        {
+          "authorId": "151499559",
+          "name": "Fenlong Jiang"
+        },
+        {
+          "authorId": "2052304304",
+          "name": "Maoguo Gong"
+        },
+        {
+          "authorId": null,
+          "name": "Hao Li"
+        },
+        {
+          "authorId": "46220633",
+          "name": "Yue Wu"
+        },
+        {
+          "authorId": "2087106044",
+          "name": "Fan Yu"
+        },
+        {
+          "authorId": "2145027228",
+          "name": "Zidong Wang"
+        },
+        {
+          "authorId": "2145299561",
+          "name": "Min Wang"
+        }
+      ]
+    }
+  ]
+}

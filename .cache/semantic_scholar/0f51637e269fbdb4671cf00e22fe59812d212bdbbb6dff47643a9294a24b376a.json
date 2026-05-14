@@ -1,0 +1,385 @@
+{
+  "total": 40306,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "ba3971f737618edc9e697357ce99d9a07023267d",
+      "externalIds": {
+        "MAG": "2951971769",
+        "DBLP": "conf/icml/JoseCF18",
+        "ArXiv": "1705.10142",
+        "CorpusId": 3331622
+      },
+      "url": "https://www.semanticscholar.org/paper/ba3971f737618edc9e697357ce99d9a07023267d",
+      "title": "Kronecker Recurrent Units",
+      "venue": "International Conference on Machine Learning",
+      "year": 2017,
+      "referenceCount": 48,
+      "citationCount": 49,
+      "authors": [
+        {
+          "authorId": "39602054",
+          "name": "C. Jose"
+        },
+        {
+          "authorId": "5723508",
+          "name": "Moustapha Cissé"
+        },
+        {
+          "authorId": "2721983",
+          "name": "F. Fleuret"
+        }
+      ]
+    },
+    {
+      "paperId": "eb67af02d99c2491658eb45215cf72bc98714d0a",
+      "externalIds": {
+        "MAG": "2104843786",
+        "DBLP": "journals/nn/Valle-LisboaRAM05",
+        "DOI": "10.1016/J.NEUNET.2005.03.009",
+        "CorpusId": 11069523,
+        "PubMed": "15935616"
+      },
+      "url": "https://www.semanticscholar.org/paper/eb67af02d99c2491658eb45215cf72bc98714d0a",
+      "title": "Elman topology with sigma-pi units: An application to the modeling of verbal hallucinations in schizophrenia",
+      "venue": "Neural Networks",
+      "year": 2005,
+      "referenceCount": 68,
+      "citationCount": 25,
+      "authors": [
+        {
+          "authorId": "1403404610",
+          "name": "J. Valle-Lisboa"
+        },
+        {
+          "authorId": "2099561",
+          "name": "Florencia Reali"
+        },
+        {
+          "authorId": "2084857248",
+          "name": "Héctor Anastasía"
+        },
+        {
+          "authorId": "3231949",
+          "name": "E. Mizraji"
+        }
+      ]
+    },
+    {
+      "paperId": "802d2c555bf742f96616f1b8840dd56d5f85d40d",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2404-17123",
+        "ArXiv": "2404.17123",
+        "DOI": "10.54254/2755-2721/77/20240670",
+        "CorpusId": 269430929
+      },
+      "url": "https://www.semanticscholar.org/paper/802d2c555bf742f96616f1b8840dd56d5f85d40d",
+      "title": "Text Sentiment Analysis and Classification Based on Bidirectional Gated Recurrent Units (GRUs) Model",
+      "venue": "Applied and Computational Engineering",
+      "year": 2024,
+      "referenceCount": 10,
+      "citationCount": 33,
+      "authors": [
+        {
+          "authorId": "2298986859",
+          "name": "Wei Xu"
+        },
+        {
+          "authorId": "2298858777",
+          "name": "Jianlong Chen"
+        },
+        {
+          "authorId": "2298837876",
+          "name": "Zhicheng Ding"
+        },
+        {
+          "authorId": "2298862733",
+          "name": "Jinyin Wang"
+        }
+      ]
+    },
+    {
+      "paperId": "fa0038fd38e2d9835091e26f1b40197f579efe70",
+      "externalIds": {
+        "DBLP": "journals/comintsys/ImranaXANSA24",
+        "DOI": "10.1007/s40747-023-01313-y",
+        "CorpusId": 267430141
+      },
+      "url": "https://www.semanticscholar.org/paper/fa0038fd38e2d9835091e26f1b40197f579efe70",
+      "title": "CNN-GRU-FF: a double-layer feature fusion-based network intrusion detection system using convolutional neural network and gated recurrent units",
+      "venue": "Complex & Intelligent Systems",
+      "year": 2024,
+      "referenceCount": 65,
+      "citationCount": 61,
+      "authors": [
+        {
+          "authorId": "2135996579",
+          "name": "Yakubu Imrana"
+        },
+        {
+          "authorId": "2158018240",
+          "name": "Yanping Xiang"
+        },
+        {
+          "authorId": "2279765200",
+          "name": "Liaqat Ali"
+        },
+        {
+          "authorId": "2278711874",
+          "name": "Adeeb Noor"
+        },
+        {
+          "authorId": "51462009",
+          "name": "K. Sarpong"
+        },
+        {
+          "authorId": "1977997973",
+          "name": "M. A. Abdullah"
+        }
+      ]
+    },
+    {
+      "paperId": "09ccf2e1179d2a896d0b5abc8111b91953f8cc99",
+      "externalIds": {
+        "DBLP": "journals/access/LohLOL24",
+        "DOI": "10.1109/ACCESS.2024.3394930",
+        "CorpusId": 269465391
+      },
+      "url": "https://www.semanticscholar.org/paper/09ccf2e1179d2a896d0b5abc8111b91953f8cc99",
+      "title": "MPNet-GRUs: Sentiment Analysis With Masked and Permuted Pre-Training for Language Understanding and Gated Recurrent Units",
+      "venue": "IEEE Access",
+      "year": 2024,
+      "referenceCount": 27,
+      "citationCount": 21,
+      "authors": [
+        {
+          "authorId": "2304020223",
+          "name": "Nicole Kai Ning Loh"
+        },
+        {
+          "authorId": "2125953656",
+          "name": "Chin Poo Lee"
+        },
+        {
+          "authorId": "2304020305",
+          "name": "Thian Song Ong"
+        },
+        {
+          "authorId": "2125953176",
+          "name": "Kian Ming Lim"
+        }
+      ]
+    },
+    {
+      "paperId": "d72edbeb87b586ca8920971c462f7305db003a65",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2406-12580",
+        "ArXiv": "2406.12580",
+        "DOI": "10.1145/3627673.3679717",
+        "CorpusId": 270562466
+      },
+      "url": "https://www.semanticscholar.org/paper/d72edbeb87b586ca8920971c462f7305db003a65",
+      "title": "Behavior-Dependent Linear Recurrent Units for Efficient Sequential Recommendation",
+      "venue": "International Conference on Information and Knowledge Management",
+      "year": 2024,
+      "referenceCount": 50,
+      "citationCount": 19,
+      "authors": [
+        {
+          "authorId": "2290195906",
+          "name": "Chengkai Liu"
+        },
+        {
+          "authorId": "2290182896",
+          "name": "Jianghao Lin"
+        },
+        {
+          "authorId": "2140163253",
+          "name": "Hanzhou Liu"
+        },
+        {
+          "authorId": "46584367",
+          "name": "Jianling Wang"
+        },
+        {
+          "authorId": "1697232",
+          "name": "James Caverlee"
+        }
+      ]
+    },
+    {
+      "paperId": "5fed032f5ebf36c6d6df00817780ae35e90b87fd",
+      "externalIds": {
+        "DOI": "10.1007/s42452-024-06326-x",
+        "CorpusId": 273983973
+      },
+      "url": "https://www.semanticscholar.org/paper/5fed032f5ebf36c6d6df00817780ae35e90b87fd",
+      "title": "Prediction of electric vehicle charging demand using enhanced gated recurrent units with RKOA based graph convolutional network",
+      "venue": "Discover Applied Sciences",
+      "year": 2024,
+      "referenceCount": 30,
+      "citationCount": 21,
+      "authors": [
+        {
+          "authorId": "2389516578",
+          "name": "R. Gunasekaran"
+        },
+        {
+          "authorId": "2365178960",
+          "name": "M. B."
+        },
+        {
+          "authorId": "2137348577",
+          "name": "A. S."
+        },
+        {
+          "authorId": "32636848",
+          "name": "P. Pareek"
+        },
+        {
+          "authorId": "2330560926",
+          "name": "Sandeep Gupta"
+        },
+        {
+          "authorId": "2308196831",
+          "name": "Anand Shukla"
+        }
+      ]
+    },
+    {
+      "paperId": "f3c477a19c3682056cbdbc911f86f700ae394d51",
+      "externalIds": {
+        "DBLP": "conf/kdd/Zhang0WG0YW0025",
+        "ArXiv": "2406.10244",
+        "DOI": "10.1145/3690624.3709304",
+        "CorpusId": 270560500
+      },
+      "url": "https://www.semanticscholar.org/paper/f3c477a19c3682056cbdbc911f86f700ae394d51",
+      "title": "GLINT-RU: Gated Lightweight Intelligent Recurrent Units for Sequential Recommender Systems",
+      "venue": "Knowledge Discovery and Data Mining",
+      "year": 2024,
+      "referenceCount": 38,
+      "citationCount": 16,
+      "authors": [
+        {
+          "authorId": "2282233261",
+          "name": "Sheng Zhang"
+        },
+        {
+          "authorId": "2262447141",
+          "name": "Maolin Wang"
+        },
+        {
+          "authorId": "2211473272",
+          "name": "Wanyu Wang"
+        },
+        {
+          "authorId": "2161309826",
+          "name": "Jingtong Gao"
+        },
+        {
+          "authorId": "2267385868",
+          "name": "Xiangyu Zhao"
+        },
+        {
+          "authorId": "2344622793",
+          "name": "Yu Yang"
+        },
+        {
+          "authorId": "2275279345",
+          "name": "Xuetao Wei"
+        },
+        {
+          "authorId": "2357404627",
+          "name": "Zitao Liu"
+        },
+        {
+          "authorId": "2151647484",
+          "name": "Tong Xu"
+        }
+      ]
+    },
+    {
+      "paperId": "7529f2be24aacc7d65f5d8f654560d144f076906",
+      "externalIds": {
+        "ArXiv": "2310.02367",
+        "DBLP": "journals/corr/abs-2310-02367",
+        "DOI": "10.1145/3616855.3635760",
+        "CorpusId": 263620500
+      },
+      "url": "https://www.semanticscholar.org/paper/7529f2be24aacc7d65f5d8f654560d144f076906",
+      "title": "Linear Recurrent Units for Sequential Recommendation",
+      "venue": "Web Search and Data Mining",
+      "year": 2023,
+      "referenceCount": 43,
+      "citationCount": 107,
+      "authors": [
+        {
+          "authorId": "2028213158",
+          "name": "Zhenrui Yue"
+        },
+        {
+          "authorId": "2253442064",
+          "name": "Yueqi Wang"
+        },
+        {
+          "authorId": "51002202",
+          "name": "Zhankui He"
+        },
+        {
+          "authorId": "2113559163",
+          "name": "Huimin Zeng"
+        },
+        {
+          "authorId": "2258962117",
+          "name": "Julian McAuley"
+        },
+        {
+          "authorId": "2254248851",
+          "name": "Dong Wang"
+        }
+      ]
+    },
+    {
+      "paperId": "f1349ae6d15bb4652c7ab246b1164bba3e01b516",
+      "externalIds": {
+        "DBLP": "journals/iotj/KhanPAZHS23",
+        "DOI": "10.1109/JIOT.2022.3200048",
+        "CorpusId": 251703453
+      },
+      "url": "https://www.semanticscholar.org/paper/f1349ae6d15bb4652c7ab246b1164bba3e01b516",
+      "title": "Federated-SRUs: A Federated-Simple-Recurrent-Units-Based IDS for Accurate Detection of Cyber Attacks Against IoT-Augmented Industrial Control Systems",
+      "venue": "IEEE Internet of Things Journal",
+      "year": 2023,
+      "referenceCount": 33,
+      "citationCount": 47,
+      "authors": [
+        {
+          "authorId": "49525434",
+          "name": "I. A. Khan"
+        },
+        {
+          "authorId": "2064637985",
+          "name": "Dechang Pi"
+        },
+        {
+          "authorId": "32276007",
+          "name": "Muhammad Zahid Abbas"
+        },
+        {
+          "authorId": "2066186747",
+          "name": "Umar Zia"
+        },
+        {
+          "authorId": "48377962",
+          "name": "Yasir Hussain"
+        },
+        {
+          "authorId": "1577913952",
+          "name": "Hatem Soliman"
+        }
+      ]
+    }
+  ]
+}

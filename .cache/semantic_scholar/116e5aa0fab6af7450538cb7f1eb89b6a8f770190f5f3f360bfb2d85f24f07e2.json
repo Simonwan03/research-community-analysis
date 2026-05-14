@@ -1,0 +1,305 @@
+{
+  "total": 415,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "c4f529934b6f22aa38e014e295a9737daa6e7db5",
+      "externalIds": {
+        "DBLP": "conf/icml/AsadiML18",
+        "MAG": "2797811993",
+        "ArXiv": "1804.07193",
+        "CorpusId": 4949295
+      },
+      "url": "https://www.semanticscholar.org/paper/c4f529934b6f22aa38e014e295a9737daa6e7db5",
+      "title": "Lipschitz Continuity in Model-based Reinforcement Learning",
+      "venue": "International Conference on Machine Learning",
+      "year": 2018,
+      "referenceCount": 64,
+      "citationCount": 179,
+      "authors": [
+        {
+          "authorId": "7981071",
+          "name": "Kavosh Asadi"
+        },
+        {
+          "authorId": "31498163",
+          "name": "Dipendra Kumar Misra"
+        },
+        {
+          "authorId": "144885169",
+          "name": "M. Littman"
+        }
+      ]
+    },
+    {
+      "paperId": "dd7a2e0648c6e5395896efc20d092fedc4e4928f",
+      "externalIds": {
+        "CorpusId": 53497407
+      },
+      "url": "https://www.semanticscholar.org/paper/dd7a2e0648c6e5395896efc20d092fedc4e4928f",
+      "title": "Appendix: Lipschitz Continuity in Model-based Reinforcement Learning",
+      "venue": "",
+      "year": 2018,
+      "referenceCount": 6,
+      "citationCount": 0,
+      "authors": []
+    },
+    {
+      "paperId": "df298ef4717dadb23be3571852f6b522a7ab237a",
+      "externalIds": {
+        "DBLP": "conf/icml/ZhangFM024",
+        "ArXiv": "2404.03037",
+        "DOI": "10.48550/arXiv.2404.03037",
+        "CorpusId": 268889958
+      },
+      "url": "https://www.semanticscholar.org/paper/df298ef4717dadb23be3571852f6b522a7ab237a",
+      "title": "Model-based Reinforcement Learning for Parameterized Action Spaces",
+      "venue": "International Conference on Machine Learning",
+      "year": 2024,
+      "referenceCount": 50,
+      "citationCount": 8,
+      "authors": [
+        {
+          "authorId": "2383247969",
+          "name": "Renhao Zhang"
+        },
+        {
+          "authorId": "81875788",
+          "name": "Haotian Fu"
+        },
+        {
+          "authorId": "2153966057",
+          "name": "Yilin Miao"
+        },
+        {
+          "authorId": "1765407",
+          "name": "G. Konidaris"
+        }
+      ]
+    },
+    {
+      "paperId": "64f3ba0e812dd88c2b8288351a8e01e01dbc4e86",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-1904-10090",
+        "ArXiv": "1904.10090",
+        "MAG": "2970309030",
+        "CorpusId": 128358667
+      },
+      "url": "https://www.semanticscholar.org/paper/64f3ba0e812dd88c2b8288351a8e01e01dbc4e86",
+      "title": "Non-Stationary Markov Decision Processes a Worst-Case Approach using Model-Based Reinforcement Learning",
+      "venue": "Neural Information Processing Systems",
+      "year": 2019,
+      "referenceCount": 48,
+      "citationCount": 96,
+      "authors": [
+        {
+          "authorId": "34632439",
+          "name": "Erwan Lecarpentier"
+        },
+        {
+          "authorId": "2558054",
+          "name": "Emmanuel Rachelson"
+        }
+      ]
+    },
+    {
+      "paperId": "94dc6821062ef57537fd902bfbb0b15de994310c",
+      "externalIds": {
+        "DBLP": "journals/tetci/TanQXZQJ24",
+        "DOI": "10.1109/TETCI.2024.3369636",
+        "CorpusId": 268394572
+      },
+      "url": "https://www.semanticscholar.org/paper/94dc6821062ef57537fd902bfbb0b15de994310c",
+      "title": "Model-Based Off-Policy Deep Reinforcement Learning With Model-Embedding",
+      "venue": "IEEE Transactions on Emerging Topics in Computational Intelligence",
+      "year": 2024,
+      "referenceCount": 0,
+      "citationCount": 8,
+      "authors": [
+        {
+          "authorId": "2155269979",
+          "name": "X. Tan"
+        },
+        {
+          "authorId": "2268107128",
+          "name": "Chao Qu"
+        },
+        {
+          "authorId": "2663138",
+          "name": "Junwu Xiong"
+        },
+        {
+          "authorId": "2268175197",
+          "name": "James Zhang"
+        },
+        {
+          "authorId": "1500386397",
+          "name": "Xihe Qiu"
+        },
+        {
+          "authorId": "2257387647",
+          "name": "Yaochu Jin"
+        }
+      ]
+    },
+    {
+      "paperId": "002845b4b21c2ca1206474abe5df43a473f165bc",
+      "externalIds": {
+        "ArXiv": "2006.09234",
+        "MAG": "3035337758",
+        "DBLP": "journals/corr/abs-2006-09234",
+        "CorpusId": 219708924
+      },
+      "url": "https://www.semanticscholar.org/paper/002845b4b21c2ca1206474abe5df43a473f165bc",
+      "title": "Model Embedding Model-Based Reinforcement Learning",
+      "venue": "arXiv.org",
+      "year": 2020,
+      "referenceCount": 34,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2112781363",
+          "name": "Xiao Tan"
+        },
+        {
+          "authorId": "2064702529",
+          "name": "C. Qu"
+        },
+        {
+          "authorId": "2663138",
+          "name": "Junwu Xiong"
+        },
+        {
+          "authorId": "2108020140",
+          "name": "James Zhang"
+        }
+      ]
+    },
+    {
+      "paperId": "39bc32206fd30f7306740248612ae1cac54f6410",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-1806-01265",
+        "ArXiv": "1806.01265",
+        "MAG": "2807366257",
+        "CorpusId": 49654371
+      },
+      "url": "https://www.semanticscholar.org/paper/39bc32206fd30f7306740248612ae1cac54f6410",
+      "title": "Equivalence Between Wasserstein and Value-Aware Model-based Reinforcement Learning",
+      "venue": "arXiv.org",
+      "year": 2018,
+      "referenceCount": 23,
+      "citationCount": 11,
+      "authors": [
+        {
+          "authorId": "7981071",
+          "name": "Kavosh Asadi"
+        },
+        {
+          "authorId": "51000733",
+          "name": "Evan Cater"
+        },
+        {
+          "authorId": "31498163",
+          "name": "Dipendra Kumar Misra"
+        },
+        {
+          "authorId": "144885169",
+          "name": "M. Littman"
+        }
+      ]
+    },
+    {
+      "paperId": "ec3c6912db55209be30039462f0a737cd434a428",
+      "externalIds": {
+        "CorpusId": 126400119
+      },
+      "url": "https://www.semanticscholar.org/paper/ec3c6912db55209be30039462f0a737cd434a428",
+      "title": "L G ] 1 J un 2 01 8 Equivalence Between Wasserstein and Value-Aware Model-based Reinforcement Learning",
+      "venue": "",
+      "year": 2018,
+      "referenceCount": 22,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "7981071",
+          "name": "Kavosh Asadi"
+        },
+        {
+          "authorId": "51000733",
+          "name": "Evan Cater"
+        },
+        {
+          "authorId": "31498163",
+          "name": "Dipendra Kumar Misra"
+        },
+        {
+          "authorId": "144885169",
+          "name": "M. Littman"
+        }
+      ]
+    },
+    {
+      "paperId": "53a058a02c16d31acd2176c1104ac95e544fdcfa",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2302-01244",
+        "ArXiv": "2302.01244",
+        "DOI": "10.48550/arXiv.2302.01244",
+        "CorpusId": 256503666
+      },
+      "url": "https://www.semanticscholar.org/paper/53a058a02c16d31acd2176c1104ac95e544fdcfa",
+      "title": "Is Model Ensemble Necessary? Model-based RL via a Single Model with Lipschitz Regularized Value Function",
+      "venue": "International Conference on Learning Representations",
+      "year": 2023,
+      "referenceCount": 32,
+      "citationCount": 19,
+      "authors": [
+        {
+          "authorId": "2108815599",
+          "name": "Ruijie Zheng"
+        },
+        {
+          "authorId": "48630770",
+          "name": "Xiyao Wang"
+        },
+        {
+          "authorId": "3286703",
+          "name": "Huazhe Xu"
+        },
+        {
+          "authorId": "2117426487",
+          "name": "Furong Huang"
+        }
+      ]
+    },
+    {
+      "paperId": "03bccba9349f257ebc90a3d717e0a14f7703a12b",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2402-05724",
+        "ArXiv": "2402.05724",
+        "DOI": "10.48550/arXiv.2402.05724",
+        "CorpusId": 267547606
+      },
+      "url": "https://www.semanticscholar.org/paper/03bccba9349f257ebc90a3d717e0a14f7703a12b",
+      "title": "Model-Based RL for Mean-Field Games is not Statistically Harder than Single-Agent RL",
+      "venue": "International Conference on Machine Learning",
+      "year": 2024,
+      "referenceCount": 53,
+      "citationCount": 8,
+      "authors": [
+        {
+          "authorId": "2276814091",
+          "name": "Jiawei Huang"
+        },
+        {
+          "authorId": "2258713385",
+          "name": "Niao He"
+        },
+        {
+          "authorId": "2283303657",
+          "name": "Andreas Krause"
+        }
+      ]
+    }
+  ]
+}

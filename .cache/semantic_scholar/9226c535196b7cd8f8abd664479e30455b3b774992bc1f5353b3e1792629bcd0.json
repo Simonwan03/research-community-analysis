@@ -1,0 +1,302 @@
+{
+  "total": 12156,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "43428880d75b3a14257c3ee9bda054e61eb869c0",
+      "externalIds": {
+        "ArXiv": "1705.03122",
+        "MAG": "2950686565",
+        "DBLP": "journals/corr/GehringAGYD17",
+        "CorpusId": 3648736
+      },
+      "url": "https://www.semanticscholar.org/paper/43428880d75b3a14257c3ee9bda054e61eb869c0",
+      "title": "Convolutional Sequence to Sequence Learning",
+      "venue": "International Conference on Machine Learning",
+      "year": 2017,
+      "referenceCount": 51,
+      "citationCount": 3508,
+      "authors": [
+        {
+          "authorId": "2401865",
+          "name": "Jonas Gehring"
+        },
+        {
+          "authorId": "2325985",
+          "name": "Michael Auli"
+        },
+        {
+          "authorId": "2529182",
+          "name": "David Grangier"
+        },
+        {
+          "authorId": "13759615",
+          "name": "Denis Yarats"
+        },
+        {
+          "authorId": "2921469",
+          "name": "Yann Dauphin"
+        }
+      ]
+    },
+    {
+      "paperId": "8fd61ae673e79de6723f800e06b38b2bda1dc3db",
+      "externalIds": {
+        "CorpusId": 260555275
+      },
+      "url": "https://www.semanticscholar.org/paper/8fd61ae673e79de6723f800e06b38b2bda1dc3db",
+      "title": "Convolutional Sequence to Sequence Learning",
+      "venue": "",
+      "year": 2017,
+      "referenceCount": 0,
+      "citationCount": 134,
+      "authors": []
+    },
+    {
+      "paperId": "83a288409a28fef92629728d57c498fc0cf6accc",
+      "externalIds": {
+        "DOI": "10.1109/I3CS58314.2023.10127426",
+        "CorpusId": 258857714
+      },
+      "url": "https://www.semanticscholar.org/paper/83a288409a28fef92629728d57c498fc0cf6accc",
+      "title": "Convolutional Sequence to Sequence Learning for English-Khasi Neural Machine Translation",
+      "venue": "2023 4th International Conference on Computing and Communication Systems (I3CS)",
+      "year": 2023,
+      "referenceCount": 19,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "66559886",
+          "name": "A. V. Hujon"
+        },
+        {
+          "authorId": "51894482",
+          "name": "Khwairakpam Amitab"
+        },
+        {
+          "authorId": "2305086",
+          "name": "Thoudam Doren Singh"
+        }
+      ]
+    },
+    {
+      "paperId": "d58438041e8d645a3e531325d4f0aed3dbe41920",
+      "externalIds": {
+        "MAG": "2968941217",
+        "ACL": "Q19-1019",
+        "DBLP": "journals/tacl/GuoZTL19",
+        "ArXiv": "1908.05957",
+        "DOI": "10.1162/tacl_a_00269",
+        "CorpusId": 195064954
+      },
+      "url": "https://www.semanticscholar.org/paper/d58438041e8d645a3e531325d4f0aed3dbe41920",
+      "title": "Densely Connected Graph Convolutional Networks for Graph-to-Sequence Learning",
+      "venue": "Transactions of the Association for Computational Linguistics",
+      "year": 2019,
+      "referenceCount": 55,
+      "citationCount": 145,
+      "authors": [
+        {
+          "authorId": "2681038",
+          "name": "Zhijiang Guo"
+        },
+        {
+          "authorId": "39831806",
+          "name": "Yan Zhang"
+        },
+        {
+          "authorId": "2272668",
+          "name": "Zhiyang Teng"
+        },
+        {
+          "authorId": "143844110",
+          "name": "Wei Lu"
+        }
+      ]
+    },
+    {
+      "paperId": "db34cc2492bb49f099c0ab69a9d7dc5d090c0c2e",
+      "externalIds": {
+        "MAG": "2896686593",
+        "DBLP": "journals/corr/abs-1810-10237",
+        "ArXiv": "1810.10237",
+        "CorpusId": 53084595
+      },
+      "url": "https://www.semanticscholar.org/paper/db34cc2492bb49f099c0ab69a9d7dc5d090c0c2e",
+      "title": "Multistep Speed Prediction on Traffic Networks: A Graph Convolutional Sequence-to-Sequence Learning Approach with Attention Mechanism",
+      "venue": "arXiv.org",
+      "year": 2018,
+      "referenceCount": 45,
+      "citationCount": 22,
+      "authors": [
+        {
+          "authorId": "1589670712",
+          "name": "Zhengchao Zhang"
+        },
+        {
+          "authorId": "49141099",
+          "name": "Meng Li"
+        },
+        {
+          "authorId": "2292685254",
+          "name": "Xi Lin"
+        },
+        {
+          "authorId": "49416230",
+          "name": "Yinhai Wang"
+        },
+        {
+          "authorId": "49484872",
+          "name": "Fang He"
+        }
+      ]
+    },
+    {
+      "paperId": "921196c32213a229245a9705ee4768bc941e7a26",
+      "externalIds": {
+        "MAG": "2792764867",
+        "DBLP": "journals/corr/abs-1803-01271",
+        "ArXiv": "1803.01271",
+        "CorpusId": 4747877
+      },
+      "url": "https://www.semanticscholar.org/paper/921196c32213a229245a9705ee4768bc941e7a26",
+      "title": "An Empirical Evaluation of Generic Convolutional and Recurrent Networks for Sequence Modeling",
+      "venue": "arXiv.org",
+      "year": 2018,
+      "referenceCount": 84,
+      "citationCount": 6371,
+      "authors": [
+        {
+          "authorId": "35836381",
+          "name": "Shaojie Bai"
+        },
+        {
+          "authorId": "145116464",
+          "name": "J. Kolter"
+        },
+        {
+          "authorId": "145231047",
+          "name": "V. Koltun"
+        }
+      ]
+    },
+    {
+      "paperId": "72a2193040e2c792f696561bbd2cda528459c8f9",
+      "externalIds": {
+        "MAG": "2906377082",
+        "CorpusId": 69362270
+      },
+      "url": "https://www.semanticscholar.org/paper/72a2193040e2c792f696561bbd2cda528459c8f9",
+      "title": "Convolutional Sequence to Sequence Learning to Improve Nanopore Basecalling Efficiency",
+      "venue": "",
+      "year": 2018,
+      "referenceCount": 0,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "80558952",
+          "name": "Ammar Alqatari"
+        }
+      ]
+    },
+    {
+      "paperId": "f9c990b1b5724e50e5632b94fdb7484ece8a6ce7",
+      "externalIds": {
+        "ArXiv": "1506.04214",
+        "DBLP": "conf/nips/ShiCWYWW15",
+        "MAG": "2953118818",
+        "CorpusId": 6352419
+      },
+      "url": "https://www.semanticscholar.org/paper/f9c990b1b5724e50e5632b94fdb7484ece8a6ce7",
+      "title": "Convolutional LSTM Network: A Machine Learning Approach for Precipitation Nowcasting",
+      "venue": "Neural Information Processing Systems",
+      "year": 2015,
+      "referenceCount": 26,
+      "citationCount": 9424,
+      "authors": [
+        {
+          "authorId": "3008587",
+          "name": "Xingjian Shi"
+        },
+        {
+          "authorId": "2192200",
+          "name": "Zhourong Chen"
+        },
+        {
+          "authorId": "49528584",
+          "name": "Hao Wang"
+        },
+        {
+          "authorId": "1739816",
+          "name": "D. Yeung"
+        },
+        {
+          "authorId": "145771919",
+          "name": "W. Wong"
+        },
+        {
+          "authorId": "2183294",
+          "name": "W. Woo"
+        }
+      ]
+    },
+    {
+      "paperId": "105bc35308f1fcab18ec6cc36d53db49dac05e22",
+      "externalIds": {
+        "DBLP": "journals/tits/AbdelraoufAM23",
+        "DOI": "10.1109/TITS.2022.3168865",
+        "CorpusId": 256392358
+      },
+      "url": "https://www.semanticscholar.org/paper/105bc35308f1fcab18ec6cc36d53db49dac05e22",
+      "title": "Sequence-to-Sequence Recurrent Graph Convolutional Networks for Traffic Estimation and Prediction Using Connected Probe Vehicle Data",
+      "venue": "IEEE transactions on intelligent transportation systems (Print)",
+      "year": 2023,
+      "referenceCount": 60,
+      "citationCount": 34,
+      "authors": [
+        {
+          "authorId": "2349378942",
+          "name": "Amr Abdelraouf"
+        },
+        {
+          "authorId": "1400973403",
+          "name": "M. Abdel-Aty"
+        },
+        {
+          "authorId": "2088681991",
+          "name": "Nada Mahmoud"
+        }
+      ]
+    },
+    {
+      "paperId": "2a8e0d6f4c6d0203b9892bfe02eaea13d0e9aa6c",
+      "externalIds": {
+        "DBLP": "conf/iccv/ZhangCW19",
+        "MAG": "2981501041",
+        "DOI": "10.1109/ICCV.2019.00080",
+        "CorpusId": 204956885
+      },
+      "url": "https://www.semanticscholar.org/paper/2a8e0d6f4c6d0203b9892bfe02eaea13d0e9aa6c",
+      "title": "Spatio-Temporal Fusion Based Convolutional Sequence Learning for Lip Reading",
+      "venue": "IEEE International Conference on Computer Vision",
+      "year": 2019,
+      "referenceCount": 42,
+      "citationCount": 86,
+      "authors": [
+        {
+          "authorId": "2155084217",
+          "name": "Xingxuan Zhang"
+        },
+        {
+          "authorId": "2057583205",
+          "name": "Feng Cheng"
+        },
+        {
+          "authorId": "2135752272",
+          "name": "Shilin Wang"
+        }
+      ]
+    }
+  ]
+}

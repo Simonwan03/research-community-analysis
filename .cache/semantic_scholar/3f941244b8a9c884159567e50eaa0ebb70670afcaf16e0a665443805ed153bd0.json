@@ -1,0 +1,286 @@
+{
+  "total": 65,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "861e093c9c6da05c474658f65852781e388d1493",
+      "externalIds": {
+        "MAG": "1835900096",
+        "DBLP": "journals/jmlr/SwaminathanJ15",
+        "DOI": "10.5555/2789272.2886805",
+        "CorpusId": 7297845
+      },
+      "url": "https://www.semanticscholar.org/paper/861e093c9c6da05c474658f65852781e388d1493",
+      "title": "Batch learning from logged bandit feedback through counterfactual risk minimization",
+      "venue": "Journal of machine learning research",
+      "year": 2015,
+      "referenceCount": 32,
+      "citationCount": 377,
+      "authors": [
+        {
+          "authorId": "40261572",
+          "name": "Adith Swaminathan"
+        },
+        {
+          "authorId": "1680188",
+          "name": "T. Joachims"
+        }
+      ]
+    },
+    {
+      "paperId": "57514226a3648f86fd1a5bbae9cbce8e285066e6",
+      "externalIds": {
+        "DBLP": "conf/icml/ZenatiDMMG23",
+        "ArXiv": "2302.12120",
+        "DOI": "10.48550/arXiv.2302.12120",
+        "CorpusId": 257102879
+      },
+      "url": "https://www.semanticscholar.org/paper/57514226a3648f86fd1a5bbae9cbce8e285066e6",
+      "title": "Sequential Counterfactual Risk Minimization",
+      "venue": "International Conference on Machine Learning",
+      "year": 2023,
+      "referenceCount": 58,
+      "citationCount": 5,
+      "authors": [
+        {
+          "authorId": "35366981",
+          "name": "Houssam Zenati"
+        },
+        {
+          "authorId": "2123693923",
+          "name": "Eustache Diemert"
+        },
+        {
+          "authorId": "2110740997",
+          "name": "Matthieu Martin"
+        },
+        {
+          "authorId": "2599292",
+          "name": "J. Mairal"
+        },
+        {
+          "authorId": "2165801682",
+          "name": "Pierre Gaillard"
+        }
+      ]
+    },
+    {
+      "paperId": "22e57e3b1a45a615678ed1ee08c7f4f2acca088f",
+      "externalIds": {
+        "DBLP": "conf/www/SwaminathanJ15",
+        "MAG": "2099471337",
+        "ArXiv": "1502.02362",
+        "DOI": "10.1145/2740908.2742564",
+        "CorpusId": 1297110
+      },
+      "url": "https://www.semanticscholar.org/paper/22e57e3b1a45a615678ed1ee08c7f4f2acca088f",
+      "title": "Counterfactual Risk Minimization",
+      "venue": "International Conference on Machine Learning",
+      "year": 2015,
+      "referenceCount": 36,
+      "citationCount": 170,
+      "authors": [
+        {
+          "authorId": "40261572",
+          "name": "Adith Swaminathan"
+        },
+        {
+          "authorId": "1680188",
+          "name": "T. Joachims"
+        }
+      ]
+    },
+    {
+      "paperId": "52782e1865611a374f8938fc83e735525e2253da",
+      "externalIds": {
+        "MAG": "2785875001",
+        "DBLP": "conf/iclr/JoachimsSR18",
+        "CorpusId": 64564101
+      },
+      "url": "https://www.semanticscholar.org/paper/52782e1865611a374f8938fc83e735525e2253da",
+      "title": "Deep Learning with Logged Bandit Feedback",
+      "venue": "International Conference on Learning Representations",
+      "year": 2018,
+      "referenceCount": 17,
+      "citationCount": 156,
+      "authors": [
+        {
+          "authorId": "1680188",
+          "name": "T. Joachims"
+        },
+        {
+          "authorId": "40261572",
+          "name": "Adith Swaminathan"
+        },
+        {
+          "authorId": "1696030",
+          "name": "M. de Rijke"
+        }
+      ]
+    },
+    {
+      "paperId": "71ffd408d46696247645198815512d6f7319e644",
+      "externalIds": {
+        "MAG": "2953143146",
+        "DBLP": "journals/corr/abs-1806-11500",
+        "ArXiv": "1806.11500",
+        "CorpusId": 49553156
+      },
+      "url": "https://www.semanticscholar.org/paper/71ffd408d46696247645198815512d6f7319e644",
+      "title": "Bayesian Counterfactual Risk Minimization",
+      "venue": "International Conference on Machine Learning",
+      "year": 2018,
+      "referenceCount": 37,
+      "citationCount": 38,
+      "authors": [
+        {
+          "authorId": "2085850",
+          "name": "Ben London"
+        },
+        {
+          "authorId": "2138911",
+          "name": "Ted Sandler"
+        }
+      ]
+    },
+    {
+      "paperId": "7a4ae1e6713eae3fce9c762d410f2cbd6e85affc",
+      "externalIds": {
+        "MAG": "2964033619",
+        "DBLP": "conf/emnlp/LawrenceSR17",
+        "ACL": "D17-1272",
+        "ArXiv": "1707.09118",
+        "DOI": "10.18653/v1/D17-1272",
+        "CorpusId": 7181359
+      },
+      "url": "https://www.semanticscholar.org/paper/7a4ae1e6713eae3fce9c762d410f2cbd6e85affc",
+      "title": "Counterfactual Learning from Bandit Feedback under Deterministic Logging : A Case Study in Statistical Machine Translation",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2017,
+      "referenceCount": 32,
+      "citationCount": 34,
+      "authors": [
+        {
+          "authorId": "19752252",
+          "name": "Carolin (Haas) Lawrence"
+        },
+        {
+          "authorId": "2297341",
+          "name": "Artem Sokolov"
+        },
+        {
+          "authorId": "3289329",
+          "name": "S. Riezler"
+        }
+      ]
+    },
+    {
+      "paperId": "148d909f7a613b470139e3139bb427d4a7e8ad60",
+      "externalIds": {
+        "ArXiv": "1907.10409",
+        "MAG": "2964172236",
+        "DBLP": "journals/corr/abs-1907-10409",
+        "CorpusId": 198229585
+      },
+      "url": "https://www.semanticscholar.org/paper/148d909f7a613b470139e3139bb427d4a7e8ad60",
+      "title": "Counterfactual Learning from Logs for Improved Ranking of E-Commerce Products",
+      "venue": "arXiv.org",
+      "year": 2019,
+      "referenceCount": 25,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "66618448",
+          "name": "M. Anwaar"
+        },
+        {
+          "authorId": "150975241",
+          "name": "D. Rybalko"
+        },
+        {
+          "authorId": "1744239",
+          "name": "M. Kleinsteuber"
+        }
+      ]
+    },
+    {
+      "paperId": "42ba8ecee544a7ed87b201bca3f88d742ecfe6a1",
+      "externalIds": {
+        "DBLP": "conf/nips/SwaminathanJ15",
+        "MAG": "2188353343",
+        "CorpusId": 6359643
+      },
+      "url": "https://www.semanticscholar.org/paper/42ba8ecee544a7ed87b201bca3f88d742ecfe6a1",
+      "title": "The Self-Normalized Estimator for Counterfactual Learning",
+      "venue": "Neural Information Processing Systems",
+      "year": 2015,
+      "referenceCount": 31,
+      "citationCount": 425,
+      "authors": [
+        {
+          "authorId": "40261572",
+          "name": "Adith Swaminathan"
+        },
+        {
+          "authorId": "1680188",
+          "name": "T. Joachims"
+        }
+      ]
+    },
+    {
+      "paperId": "c3638a8524e402a643b39e34e72020240a69f53c",
+      "externalIds": {
+        "MAG": "3001686658",
+        "DBLP": "conf/pkdd/AnwaarRK20",
+        "DOI": "10.1007/978-3-030-67670-4_16",
+        "CorpusId": 214713652
+      },
+      "url": "https://www.semanticscholar.org/paper/c3638a8524e402a643b39e34e72020240a69f53c",
+      "title": "Mend the Learning Approach, Not the Data: Insights for Ranking E-Commerce Products",
+      "venue": "ECML/PKDD",
+      "year": 2019,
+      "referenceCount": 36,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "66618448",
+          "name": "M. Anwaar"
+        },
+        {
+          "authorId": "150975241",
+          "name": "D. Rybalko"
+        },
+        {
+          "authorId": "1744239",
+          "name": "M. Kleinsteuber"
+        }
+      ]
+    },
+    {
+      "paperId": "d20f3c5f7c7e54ac7013688cb01e333022da1774",
+      "externalIds": {
+        "ArXiv": "2509.00333",
+        "DBLP": "journals/corr/abs-2509-00333",
+        "DOI": "10.48550/arXiv.2509.00333",
+        "CorpusId": 281080941
+      },
+      "url": "https://www.semanticscholar.org/paper/d20f3c5f7c7e54ac7013688cb01e333022da1774",
+      "title": "Counterfactual Risk Minimization with IPS-Weighted BPR and Self-Normalized Evaluation in Recommender Systems",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "referenceCount": 13,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2288210431",
+          "name": "Rahul Raja"
+        },
+        {
+          "authorId": "13847026",
+          "name": "A. Vats"
+        }
+      ]
+    }
+  ]
+}

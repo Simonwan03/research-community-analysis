@@ -1,0 +1,437 @@
+{
+  "offset": 0,
+  "citingPaperInfo": {
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/1411.3224, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "title": "On TD(0) with function approximation: Concentration bounds and a centered variant with exponential convergence",
+    "authors": [
+      {
+        "authorId": "33656309",
+        "name": "N. Korda"
+      },
+      {
+        "authorId": "2229032821",
+        "name": "Prashanth La"
+      }
+    ]
+  },
+  "data": [
+    {
+      "citedPaper": {
+        "paperId": "dd781ba01e48b4dee8ae840c5cff5dae70c88479",
+        "externalIds": {
+          "DBLP": "reference/ml/X10s",
+          "DOI": "10.1007/978-1-4899-7687-1_100018",
+          "CorpusId": 12037234
+        },
+        "url": "https://www.semanticscholar.org/paper/dd781ba01e48b4dee8ae840c5cff5dae70c88479",
+        "title": "Approximate Dynamic Programming",
+        "venue": "Encyclopedia of Machine Learning and Data Mining",
+        "year": 2018,
+        "referenceCount": 1,
+        "citationCount": 458,
+        "authors": [
+          {
+            "authorId": "2487768",
+            "name": "Sanjiban Choudhury"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "43c05444fbc239321f6676f3cd539cac34fde7b8",
+        "externalIds": {
+          "MAG": "2107438106",
+          "DBLP": "conf/nips/Johnson013",
+          "CorpusId": 6587578
+        },
+        "url": "https://www.semanticscholar.org/paper/43c05444fbc239321f6676f3cd539cac34fde7b8",
+        "title": "Accelerating Stochastic Gradient Descent using Predictive Variance Reduction",
+        "venue": "Neural Information Processing Systems",
+        "year": 2013,
+        "referenceCount": 6,
+        "citationCount": 2961,
+        "authors": [
+          {
+            "authorId": "2108925678",
+            "name": "Rie Johnson"
+          },
+          {
+            "authorId": "50728655",
+            "name": "Tong Zhang"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "3191ea9baf635a7bc4452bec53dcf1d07dc28f1f",
+        "externalIds": {
+          "DOI": "10.1007/s12045-013-0136-x",
+          "CorpusId": 125688137
+        },
+        "url": "https://www.semanticscholar.org/paper/3191ea9baf635a7bc4452bec53dcf1d07dc28f1f",
+        "title": "Stochastic approximation",
+        "venue": "Resonance",
+        "year": 2013,
+        "referenceCount": 3,
+        "citationCount": 379,
+        "authors": [
+          {
+            "authorId": "2282738737",
+            "name": "V. S. Borkar"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "aec996b53156dd0fc3f9d93cc302a9844e9fa55e",
+        "externalIds": {
+          "MAG": "1989260982",
+          "ArXiv": "1301.7740",
+          "DOI": "10.1214/EJP.V18-2586",
+          "CorpusId": 15094439
+        },
+        "url": "https://www.semanticscholar.org/paper/aec996b53156dd0fc3f9d93cc302a9844e9fa55e",
+        "title": "Transport-Entropy inequalities and deviation estimates for stochastic approximation schemes",
+        "venue": "",
+        "year": 2013,
+        "referenceCount": 25,
+        "citationCount": 26,
+        "authors": [
+          {
+            "authorId": "23585410",
+            "name": "M. Fathi"
+          },
+          {
+            "authorId": "31658809",
+            "name": "N. Frikha"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "d343749148ed2142a8f8fb6d3b26f2f002db323f",
+        "externalIds": {
+          "MAG": "1964211927",
+          "ArXiv": "1204.3730",
+          "DOI": "10.1214/ECP.V17-1952",
+          "CorpusId": 54853922
+        },
+        "url": "https://www.semanticscholar.org/paper/d343749148ed2142a8f8fb6d3b26f2f002db323f",
+        "title": "Concentration bounds for stochastic approximations",
+        "venue": "",
+        "year": 2012,
+        "referenceCount": 19,
+        "citationCount": 37,
+        "authors": [
+          {
+            "authorId": "31658809",
+            "name": "N. Frikha"
+          },
+          {
+            "authorId": "2570443",
+            "name": "S. Menozzi"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "7cb82d264e5f6fcc64389f2616cea3d225b9d9bc",
+        "externalIds": {
+          "DBLP": "conf/icml/LazaricGM10a",
+          "MAG": "2124144580",
+          "CorpusId": 14997282
+        },
+        "url": "https://www.semanticscholar.org/paper/7cb82d264e5f6fcc64389f2616cea3d225b9d9bc",
+        "title": "Finite-Sample Analysis of LSTD",
+        "venue": "International Conference on Machine Learning",
+        "year": 2010,
+        "referenceCount": 15,
+        "citationCount": 72,
+        "authors": [
+          {
+            "authorId": "3254390",
+            "name": "A. Lazaric"
+          },
+          {
+            "authorId": "1678622",
+            "name": "M. Ghavamzadeh"
+          },
+          {
+            "authorId": "1708654",
+            "name": "R. Munos"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "ed271815949e2fd283fd62a8e52a5b30cc769594",
+        "externalIds": {
+          "MAG": "2094387729",
+          "DBLP": "journals/automatica/BhatnagarSGL09",
+          "DOI": "10.1016/j.automatica.2009.07.008",
+          "CorpusId": 268173461
+        },
+        "url": "https://www.semanticscholar.org/paper/ed271815949e2fd283fd62a8e52a5b30cc769594",
+        "title": "Natural actor-critic algorithms",
+        "venue": "at - Automatisierungstechnik",
+        "year": 2009,
+        "referenceCount": 88,
+        "citationCount": 641,
+        "authors": [
+          {
+            "authorId": "2251495981",
+            "name": "Shalabh Bhatnagar"
+          },
+          {
+            "authorId": "2289437712",
+            "name": "Richard S. Sutton"
+          },
+          {
+            "authorId": "2289495001",
+            "name": "Mohammad Ghavamzadeh"
+          },
+          {
+            "authorId": "2115790916",
+            "name": "Mark Lee"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "296519f4980f023a0eb5a684621415c597a02ba7",
+        "externalIds": {
+          "MAG": "1522848019",
+          "DBLP": "journals/tac/YuB09",
+          "DOI": "10.1109/TAC.2009.2022097",
+          "CorpusId": 6753921
+        },
+        "url": "https://www.semanticscholar.org/paper/296519f4980f023a0eb5a684621415c597a02ba7",
+        "title": "Convergence Results for Some Temporal Difference Methods Based on Least Squares",
+        "venue": "IEEE Transactions on Automatic Control",
+        "year": 2009,
+        "referenceCount": 35,
+        "citationCount": 126,
+        "authors": [
+          {
+            "authorId": "40355806",
+            "name": "Huizhen Yu"
+          },
+          {
+            "authorId": "1786249",
+            "name": "D. Bertsekas"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "6dc61f37ecc552413606d8c89ffbc46ec98ed887",
+        "externalIds": {
+          "MAG": "2086161653",
+          "DOI": "10.1137/0330046",
+          "CorpusId": 3548228
+        },
+        "url": "https://www.semanticscholar.org/paper/6dc61f37ecc552413606d8c89ffbc46ec98ed887",
+        "title": "Acceleration of stochastic approximation by averaging",
+        "venue": "",
+        "year": 1992,
+        "referenceCount": 34,
+        "citationCount": 2328,
+        "authors": [
+          {
+            "authorId": "1703847",
+            "name": "Boris Polyak"
+          },
+          {
+            "authorId": "1754887",
+            "name": "A. Juditsky"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "On TD(0) with function approximation: Concentration bounds and a centered variant with exponential convergence",
+        "venue": "",
+        "year": 2014,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "d193b76178412e99e310e90668a498fa8fe11a5c",
+        "externalIds": {
+          "MAG": "2257420332",
+          "CorpusId": 61181574
+        },
+        "url": "https://www.semanticscholar.org/paper/d193b76178412e99e310e90668a498fa8fe11a5c",
+        "title": "An Introduction to Reinforcement Learning",
+        "venue": "",
+        "year": 2013,
+        "referenceCount": 0,
+        "citationCount": 2362,
+        "authors": [
+          {
+            "authorId": "21285272",
+            "name": "S. Carden"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "ac4af1df88e178386d782705acc159eaa0c3904a",
+        "externalIds": {
+          "MAG": "2156737235",
+          "DBLP": "phd/ndltd/Konda02",
+          "CorpusId": 207779694
+        },
+        "url": "https://www.semanticscholar.org/paper/ac4af1df88e178386d782705acc159eaa0c3904a",
+        "title": "Actor-Critic Algorithms",
+        "venue": "Neural Information Processing Systems",
+        "year": 1999,
+        "referenceCount": 20,
+        "citationCount": 3824,
+        "authors": [
+          {
+            "authorId": "50844636",
+            "name": "Vijay R. Konda"
+          },
+          {
+            "authorId": "144224173",
+            "name": "J. Tsitsiklis"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "24da3011dfdefbdcee20d12ca3c2a348ad6f3aad",
+        "externalIds": {
+          "CorpusId": 7353554
+        },
+        "url": "https://www.semanticscholar.org/paper/24da3011dfdefbdcee20d12ca3c2a348ad6f3aad",
+        "title": "An Analysis of Temporal-Difference Learning with Function Approximation",
+        "venue": "",
+        "year": 1998,
+        "referenceCount": 23,
+        "citationCount": 1576,
+        "authors": [
+          {
+            "authorId": "144224173",
+            "name": "J. Tsitsiklis"
+          },
+          {
+            "authorId": "1731282",
+            "name": "Benjamin Van Roy"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "97efafdb4a3942ab3efba53ded7413199f79c054",
+        "externalIds": {
+          "MAG": "2121863487",
+          "DBLP": "journals/tnn/SuttonB98",
+          "DOI": "10.1109/TNN.1998.712192",
+          "CorpusId": 60035920
+        },
+        "url": "https://www.semanticscholar.org/paper/97efafdb4a3942ab3efba53ded7413199f79c054",
+        "title": "Reinforcement Learning: An Introduction",
+        "venue": "IEEE Trans. Neural Networks",
+        "year": 1998,
+        "referenceCount": 456,
+        "citationCount": 42376,
+        "authors": [
+          {
+            "authorId": "2238176724",
+            "name": "R. S. Sutton"
+          },
+          {
+            "authorId": "1730590",
+            "name": "A. Barto"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "7c268394c54e26f1488a23640291d71267d6a97c",
+        "externalIds": {
+          "MAG": "1995713768",
+          "DBLP": "books/sp/MeynT93",
+          "DOI": "10.1007/978-1-4471-3267-7",
+          "CorpusId": 58179897
+        },
+        "url": "https://www.semanticscholar.org/paper/7c268394c54e26f1488a23640291d71267d6a97c",
+        "title": "Markov Chains and Stochastic Stability",
+        "venue": "Communications and Control Engineering Series",
+        "year": 1993,
+        "referenceCount": 104,
+        "citationCount": 6245,
+        "authors": [
+          {
+            "authorId": "29815791",
+            "name": "S. Meyn"
+          },
+          {
+            "authorId": "3371359",
+            "name": "R. Tweedie"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "555a7921231b86464a8db34ada9edade765bf8f0",
+        "externalIds": {
+          "DOI": "10.1038/2231393a0",
+          "CorpusId": 4224834
+        },
+        "url": "https://www.semanticscholar.org/paper/555a7921231b86464a8db34ada9edade765bf8f0",
+        "title": "Stochastic Approximation",
+        "venue": "Nature",
+        "year": 1969,
+        "referenceCount": 0,
+        "citationCount": 670,
+        "authors": [
+          {
+            "authorId": "48801723",
+            "name": "F. Downton"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "The ﬁnal step is to invoke a standard martingale concentration bound using the L i -Lipschitz property of the g i functions and the assumption (A3) to",
+        "venue": "obtain",
+        "year": null,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    }
+  ]
+}

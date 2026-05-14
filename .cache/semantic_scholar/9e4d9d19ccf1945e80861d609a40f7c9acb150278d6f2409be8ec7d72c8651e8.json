@@ -1,0 +1,265 @@
+{
+  "total": 15,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "b8cd2ba7647f546048960fdf1895a1d30ec5f33c",
+      "externalIds": {
+        "MAG": "1901429906",
+        "DBLP": "journals/corr/HazanLS15",
+        "ArXiv": "1503.03712",
+        "CorpusId": 12146655
+      },
+      "url": "https://www.semanticscholar.org/paper/b8cd2ba7647f546048960fdf1895a1d30ec5f33c",
+      "title": "On Graduated Optimization for Stochastic Non-Convex Problems",
+      "venue": "International Conference on Machine Learning",
+      "year": 2015,
+      "referenceCount": 22,
+      "citationCount": 121,
+      "authors": [
+        {
+          "authorId": "34840427",
+          "name": "Elad Hazan"
+        },
+        {
+          "authorId": "2886057",
+          "name": "K. Levy"
+        },
+        {
+          "authorId": "1389955537",
+          "name": "S. Shalev-Shwartz"
+        }
+      ]
+    },
+    {
+      "paperId": "64e98dbdcbd63a13ab7d226f006d07aa99363381",
+      "externalIds": {
+        "DBLP": "journals/corr/ChenZZ17",
+        "MAG": "2736138841",
+        "ArXiv": "1707.02727",
+        "CorpusId": 2411584
+      },
+      "url": "https://www.semanticscholar.org/paper/64e98dbdcbd63a13ab7d226f006d07aa99363381",
+      "title": "Stochastic Variance Reduction Gradient for a Non-convex Problem Using Graduated Optimization",
+      "venue": "arXiv.org",
+      "year": 2017,
+      "referenceCount": 30,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "2146027240",
+          "name": "Li Chen"
+        },
+        {
+          "authorId": "34678057",
+          "name": "Shuisheng Zhou"
+        },
+        {
+          "authorId": "2109108730",
+          "name": "Zhuan Zhang"
+        }
+      ]
+    },
+    {
+      "paperId": "59ee15fbcbe2622bd550d8d62cccd91cd21601dd",
+      "externalIds": {
+        "MAG": "2786130465",
+        "DBLP": "journals/jifs/ChenZZ18",
+        "DOI": "10.3233/JIFS-171019",
+        "CorpusId": 21677945
+      },
+      "url": "https://www.semanticscholar.org/paper/59ee15fbcbe2622bd550d8d62cccd91cd21601dd",
+      "title": "SVRG for a non-convex problem using graduated optimization algorithm",
+      "venue": "Journal of Intelligent & Fuzzy Systems",
+      "year": 2018,
+      "referenceCount": 38,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2146027240",
+          "name": "Li Chen"
+        },
+        {
+          "authorId": "34678057",
+          "name": "Shuisheng Zhou"
+        },
+        {
+          "authorId": "2109108730",
+          "name": "Zhuan Zhang"
+        }
+      ]
+    },
+    {
+      "paperId": "0c9c9b41840b0d700ede87da245292ba0982b2b1",
+      "externalIds": {
+        "ArXiv": "2308.06775",
+        "CorpusId": 260887777
+      },
+      "url": "https://www.semanticscholar.org/paper/0c9c9b41840b0d700ede87da245292ba0982b2b1",
+      "title": "Stochastic Gradient Descent in the Viewpoint of Graduated Optimization",
+      "venue": "",
+      "year": 2023,
+      "referenceCount": 25,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "2108339220",
+          "name": "Da Li"
+        },
+        {
+          "authorId": "2149267593",
+          "name": "Jingjing Wu"
+        },
+        {
+          "authorId": "153441799",
+          "name": "Qingru Zhang"
+        }
+      ]
+    },
+    {
+      "paperId": "812f40bf0eeaa43b8468820df2107c683dbc939e",
+      "externalIds": {
+        "DBLP": "journals/mor/LimNSZ25",
+        "ArXiv": "2210.13193",
+        "DOI": "10.48550/arXiv.2210.13193",
+        "CorpusId": 253185044
+      },
+      "url": "https://www.semanticscholar.org/paper/812f40bf0eeaa43b8468820df2107c683dbc939e",
+      "title": "Langevin dynamics based algorithm e-THεO POULA for stochastic optimization problems with discontinuous stochastic gradient",
+      "venue": "Mathematics of Operations Research",
+      "year": 2022,
+      "referenceCount": 81,
+      "citationCount": 8,
+      "authors": [
+        {
+          "authorId": "122907115",
+          "name": "Dongjae Lim"
+        },
+        {
+          "authorId": "144642043",
+          "name": "Ariel Neufeld"
+        },
+        {
+          "authorId": "3433047",
+          "name": "S. Sabanis"
+        },
+        {
+          "authorId": "48379149",
+          "name": "Ying Zhang"
+        }
+      ]
+    },
+    {
+      "paperId": "0be41c7859b1204e23f6dc40d419d17b94040249",
+      "externalIds": {
+        "MAG": "2403939168",
+        "CorpusId": 63019455
+      },
+      "url": "https://www.semanticscholar.org/paper/0be41c7859b1204e23f6dc40d419d17b94040249",
+      "title": "Model-Based Stochastic Adaptive Search Algorithms for Global Optimization",
+      "venue": "",
+      "year": 2016,
+      "referenceCount": 0,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "50778789",
+          "name": "Jiajia Hu"
+        }
+      ]
+    },
+    {
+      "paperId": "86d0e17a9245c1deaac93fc8f0d0a867378330c7",
+      "externalIds": {
+        "MAG": "1492998457",
+        "DBLP": "series/isrl/2012-35",
+        "DOI": "10.1007/978-3-642-27479-4",
+        "CorpusId": 37663593
+      },
+      "url": "https://www.semanticscholar.org/paper/86d0e17a9245c1deaac93fc8f0d0a867378330c7",
+      "title": "Stochastic Global Optimization and Its Applications with Fuzzy Adaptive Simulated Annealing",
+      "venue": "Intelligent Systems Reference Library",
+      "year": 2012,
+      "referenceCount": 0,
+      "citationCount": 97,
+      "authors": [
+        {
+          "authorId": "34666822",
+          "name": "H. Oliveira"
+        },
+        {
+          "authorId": "1712562",
+          "name": "L. Ingber"
+        },
+        {
+          "authorId": "1725987",
+          "name": "A. Petraglia"
+        },
+        {
+          "authorId": "1729266",
+          "name": "M. R. Petraglia"
+        },
+        {
+          "authorId": "38983552",
+          "name": "Maria Augusta Soares Machado"
+        }
+      ]
+    },
+    {
+      "paperId": "716c9a9eaa86aecf2bee447d8958062eb33c5993",
+      "externalIds": {
+        "MAG": "2788404691",
+        "CorpusId": 64704287
+      },
+      "url": "https://www.semanticscholar.org/paper/716c9a9eaa86aecf2bee447d8958062eb33c5993",
+      "title": "Stochastic Optimization for Multi-Agent Statistical Learning and Control",
+      "venue": "",
+      "year": 2017,
+      "referenceCount": 213,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2063871",
+          "name": "Alec Koppel"
+        }
+      ]
+    },
+    {
+      "paperId": "cbdf3d463c264387c3a6beeccb803c912eb92948",
+      "externalIds": {
+        "MAG": "2274921471",
+        "CorpusId": 123904295
+      },
+      "url": "https://www.semanticscholar.org/paper/cbdf3d463c264387c3a6beeccb803c912eb92948",
+      "title": "Parallel deterministic and stochastic optimization algorithms for computer vision",
+      "venue": "",
+      "year": 1988,
+      "referenceCount": 0,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "1872163",
+          "name": "T. Simchony"
+        },
+        {
+          "authorId": "9215658",
+          "name": "R. Chellappa"
+        }
+      ]
+    },
+    {
+      "paperId": "fdc2517aefd061c6ef9ed40308e3e0cedfe5b4fe",
+      "externalIds": {
+        "CorpusId": 244523065
+      },
+      "url": "https://www.semanticscholar.org/paper/fdc2517aefd061c6ef9ed40308e3e0cedfe5b4fe",
+      "title": "An Introduction To Mathematical Optimal Control Theory Epdf Download",
+      "venue": "",
+      "year": 2021,
+      "referenceCount": 0,
+      "citationCount": 48,
+      "authors": []
+    }
+  ]
+}

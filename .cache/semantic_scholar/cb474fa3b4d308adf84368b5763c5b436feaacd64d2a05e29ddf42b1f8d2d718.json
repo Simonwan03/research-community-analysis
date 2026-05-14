@@ -1,0 +1,251 @@
+{
+  "total": 8,
+  "offset": 0,
+  "data": [
+    {
+      "paperId": "ff9318366692bdf16b31b0b74ff71c0deeb4b227",
+      "externalIds": {
+        "MAG": "2952181799",
+        "ArXiv": "1801.02608",
+        "DBLP": "conf/icml/KarmonZG18",
+        "CorpusId": 3641286
+      },
+      "url": "https://www.semanticscholar.org/paper/ff9318366692bdf16b31b0b74ff71c0deeb4b227",
+      "title": "LaVAN: Localized and Visible Adversarial Noise",
+      "venue": "International Conference on Machine Learning",
+      "year": 2018,
+      "referenceCount": 11,
+      "citationCount": 295,
+      "authors": [
+        {
+          "authorId": "94623284",
+          "name": "D. Karmon"
+        },
+        {
+          "authorId": "2944502",
+          "name": "Daniel Zoran"
+        },
+        {
+          "authorId": "2089067",
+          "name": "Yoav Goldberg"
+        }
+      ]
+    },
+    {
+      "paperId": "7adca25a733b536686810462a74c0d04710fccf9",
+      "externalIds": {
+        "MAG": "2950421753",
+        "DBLP": "journals/corr/abs-1807-01216",
+        "ArXiv": "1807.01216",
+        "DOI": "10.1109/WACV.2019.00143",
+        "CorpusId": 49563208
+      },
+      "url": "https://www.semanticscholar.org/paper/7adca25a733b536686810462a74c0d04710fccf9",
+      "title": "Local Gradients Smoothing: Defense Against Localized Adversarial Attacks",
+      "venue": "IEEE Workshop/Winter Conference on Applications of Computer Vision",
+      "year": 2018,
+      "referenceCount": 28,
+      "citationCount": 210,
+      "authors": [
+        {
+          "authorId": "40894826",
+          "name": "Muzammal Naseer"
+        },
+        {
+          "authorId": "152973423",
+          "name": "Salman Hameed Khan"
+        },
+        {
+          "authorId": "29905643",
+          "name": "F. Porikli"
+        }
+      ]
+    },
+    {
+      "paperId": "95a761c88d04179feba562d99d87bf140fc60754",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2511-07755",
+        "ArXiv": "2511.07755",
+        "DOI": "10.1609/aaaiss.v7i1.36928",
+        "CorpusId": 282921671
+      },
+      "url": "https://www.semanticscholar.org/paper/95a761c88d04179feba562d99d87bf140fc60754",
+      "title": "Filtered-ViT: A Robust Defense Against Multiple Adversarial Patch Attacks",
+      "venue": "Proceedings of the AAAI Symposium Series",
+      "year": 2025,
+      "referenceCount": 19,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2391804331",
+          "name": "Aja Khanal"
+        },
+        {
+          "authorId": "2391804945",
+          "name": "Ahmed Faid"
+        },
+        {
+          "authorId": "2292312338",
+          "name": "Apurva Narayan"
+        }
+      ]
+    },
+    {
+      "paperId": "ff9d64c2829baef8a36edfa7c93d185ada817a54",
+      "externalIds": {
+        "ArXiv": "2603.12688",
+        "CorpusId": 286517803
+      },
+      "url": "https://www.semanticscholar.org/paper/ff9d64c2829baef8a36edfa7c93d185ada817a54",
+      "title": "STRAP-ViT: Segregated Tokens with Randomized -- Transformations for Defense against Adversarial Patches in ViTs",
+      "venue": "",
+      "year": 2026,
+      "referenceCount": 41,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "1381314104",
+          "name": "Nandish Chattopadhyay"
+        },
+        {
+          "authorId": "2362593010",
+          "name": "Anadi Goyal"
+        },
+        {
+          "authorId": "2350012",
+          "name": "C. Karfa"
+        },
+        {
+          "authorId": "2294727838",
+          "name": "Anupam Chattopadhyay"
+        }
+      ]
+    },
+    {
+      "paperId": "1eb51d1117677eca4f8110e899f2c92be8d4a6f5",
+      "externalIds": {
+        "PubMedCentral": "11294601",
+        "DOI": "10.1117/1.JBO.29.8.086003",
+        "CorpusId": 271670130,
+        "PubMed": "39099678"
+      },
+      "url": "https://www.semanticscholar.org/paper/1eb51d1117677eca4f8110e899f2c92be8d4a6f5",
+      "title": "DermoGAN: multi-task cycle generative adversarial networks for unsupervised automatic cell identification on in-vivo reflectance confocal microscopy images of the human epidermis",
+      "venue": "Journal of Biomedical Optics",
+      "year": 2024,
+      "referenceCount": 44,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2161097279",
+          "name": "I. Lboukili"
+        },
+        {
+          "authorId": "2247860198",
+          "name": "Georgios N Stamatas"
+        },
+        {
+          "authorId": "2292351126",
+          "name": "Xavier Descombes"
+        }
+      ]
+    },
+    {
+      "paperId": "1026a37b56b4c9924a5604c522488aced90c0817",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-1912-02316",
+        "ArXiv": "1912.02316",
+        "CorpusId": 208637411
+      },
+      "url": "https://www.semanticscholar.org/paper/1026a37b56b4c9924a5604c522488aced90c0817",
+      "title": "Scratch that! An Evolution-based Adversarial Attack against Neural Networks",
+      "venue": "arXiv.org",
+      "year": 2019,
+      "referenceCount": 57,
+      "citationCount": 18,
+      "authors": [
+        {
+          "authorId": "51182282",
+          "name": "Malhar Jere"
+        },
+        {
+          "authorId": "1997436",
+          "name": "B. Hitaj"
+        },
+        {
+          "authorId": "1405524003",
+          "name": "Gabriela F. Cretu-Ciocarlie"
+        },
+        {
+          "authorId": "3018662",
+          "name": "F. Koushanfar"
+        }
+      ]
+    },
+    {
+      "paperId": "7345b999c6ea56f08f3cf3554b69c2a483e88904",
+      "externalIds": {
+        "PubMedCentral": "12470975",
+        "DBLP": "journals/jimaging/GuJ25",
+        "DOI": "10.3390/jimaging11090316",
+        "CorpusId": 281458955,
+        "PubMed": "41003366"
+      },
+      "url": "https://www.semanticscholar.org/paper/7345b999c6ea56f08f3cf3554b69c2a483e88904",
+      "title": "Segment and Recover: Defending Object Detectors Against Adversarial Patch Attacks",
+      "venue": "Journal of Imaging",
+      "year": 2025,
+      "referenceCount": 77,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2382851747",
+          "name": "Haotian Gu"
+        },
+        {
+          "authorId": "2103377",
+          "name": "Hamidreza Jafarnejadsani"
+        }
+      ]
+    },
+    {
+      "paperId": "d551eead683318ce3a75341642476f0a81ee7e9a",
+      "externalIds": {
+        "DOI": "10.3390/app16052351",
+        "CorpusId": 286265798
+      },
+      "url": "https://www.semanticscholar.org/paper/d551eead683318ce3a75341642476f0a81ee7e9a",
+      "title": "SAMCM-SR: Applying SAM3 Under Data-Scarce Conditions for Cross-Modal Segmentation of Power Equipment Infrared Images with Super-Resolution Enhancement",
+      "venue": "Applied Sciences",
+      "year": 2026,
+      "referenceCount": 23,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2311824869",
+          "name": "Junchao Wang"
+        },
+        {
+          "authorId": "2357119147",
+          "name": "Xiang Wu"
+        },
+        {
+          "authorId": "2292734829",
+          "name": "Tianrui Yang"
+        },
+        {
+          "authorId": "2357227614",
+          "name": "Yin Wang"
+        },
+        {
+          "authorId": "2422047464",
+          "name": "Mengru Xiao"
+        },
+        {
+          "authorId": "2382875160",
+          "name": "Gaoxing Zheng"
+        }
+      ]
+    }
+  ]
+}

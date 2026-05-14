@@ -1,0 +1,108 @@
+{
+  "total": 3,
+  "offset": 0,
+  "data": [
+    {
+      "paperId": "abd037236f814ad58ab8c55e26daf6b6f6c73cd5",
+      "externalIds": {
+        "DBLP": "conf/icml/WuHS18",
+        "MAG": "2964071914",
+        "ArXiv": "1803.00114",
+        "CorpusId": 3651991
+      },
+      "url": "https://www.semanticscholar.org/paper/abd037236f814ad58ab8c55e26daf6b6f6c73cd5",
+      "title": "SQL-Rank: A Listwise Approach to Collaborative Ranking",
+      "venue": "International Conference on Machine Learning",
+      "year": 2018,
+      "referenceCount": 30,
+      "citationCount": 46,
+      "authors": [
+        {
+          "authorId": "2326354223",
+          "name": "Liwei Wu"
+        },
+        {
+          "authorId": "1793529",
+          "name": "Cho-Jui Hsieh"
+        },
+        {
+          "authorId": "1745601",
+          "name": "J. Sharpnack"
+        }
+      ]
+    },
+    {
+      "paperId": "5e46153e537d4930e25e35b01d6a253b83f48fa4",
+      "externalIds": {
+        "DBLP": "conf/ijcnn/YuanLPM22",
+        "DOI": "10.1109/IJCNN55064.2022.9891935",
+        "CorpusId": 252625939
+      },
+      "url": "https://www.semanticscholar.org/paper/5e46153e537d4930e25e35b01d6a253b83f48fa4",
+      "title": "SQL-Rank++: A Novel Listwise Approach for Collaborative Ranking with Implicit Feedback",
+      "venue": "IEEE International Joint Conference on Neural Network",
+      "year": 2022,
+      "referenceCount": 36,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "2186634481",
+          "name": "Zheng Yuan"
+        },
+        {
+          "authorId": "66953961",
+          "name": "Dugang Liu"
+        },
+        {
+          "authorId": "144282460",
+          "name": "Weike Pan"
+        },
+        {
+          "authorId": "2106680008",
+          "name": "Zhong Ming"
+        }
+      ]
+    },
+    {
+      "paperId": "9e41cd86a5ebdcbecfef6fd7395e736e2453e495",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2305-05754",
+        "ArXiv": "2305.05754",
+        "DOI": "10.48550/arXiv.2305.05754",
+        "CorpusId": 258588164
+      },
+      "url": "https://www.semanticscholar.org/paper/9e41cd86a5ebdcbecfef6fd7395e736e2453e495",
+      "title": "When and What to Ask Through World States and Text Instructions: IGLU NLP Challenge Solution",
+      "venue": "arXiv.org",
+      "year": 2023,
+      "referenceCount": 17,
+      "citationCount": 10,
+      "authors": [
+        {
+          "authorId": "2110398077",
+          "name": "Zhengxiang Shi"
+        },
+        {
+          "authorId": "116586183",
+          "name": "Jerome Ramos"
+        },
+        {
+          "authorId": "2175557537",
+          "name": "To Eun Kim"
+        },
+        {
+          "authorId": "102872728",
+          "name": "Xi Wang"
+        },
+        {
+          "authorId": "2065968996",
+          "name": "Hossein A. Rahmani"
+        },
+        {
+          "authorId": "2121294485",
+          "name": "Aldo Lipani"
+        }
+      ]
+    }
+  ]
+}

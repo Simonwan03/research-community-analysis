@@ -1,0 +1,287 @@
+{
+  "total": 80,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "75ffdce867d30585bff0111ae7c861433cb474f0",
+      "externalIds": {
+        "DBLP": "conf/icml/Allen-ZhuLSW17",
+        "MAG": "2741825000",
+        "CorpusId": 27005189
+      },
+      "url": "https://www.semanticscholar.org/paper/75ffdce867d30585bff0111ae7c861433cb474f0",
+      "title": "Near-Optimal Design of Experiments via Regret Minimization",
+      "venue": "International Conference on Machine Learning",
+      "year": 2017,
+      "referenceCount": 39,
+      "citationCount": 63,
+      "authors": [
+        {
+          "authorId": "1388725932",
+          "name": "Zeyuan Allen-Zhu"
+        },
+        {
+          "authorId": "2110486765",
+          "name": "Yuanzhi Li"
+        },
+        {
+          "authorId": "2109423866",
+          "name": "Aarti Singh"
+        },
+        {
+          "authorId": "2108741701",
+          "name": "Yining Wang"
+        }
+      ]
+    },
+    {
+      "paperId": "224c1a6ab6cbce09b666e6c60f0f5dd5c9edb001",
+      "externalIds": {
+        "ArXiv": "2503.19874",
+        "CorpusId": 277313919
+      },
+      "url": "https://www.semanticscholar.org/paper/224c1a6ab6cbce09b666e6c60f0f5dd5c9edb001",
+      "title": "Extensions of the regret-minimization algorithm for optimal design",
+      "venue": "",
+      "year": 2025,
+      "referenceCount": 0,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2288238776",
+          "name": "Youguang Chen"
+        },
+        {
+          "authorId": "2395747",
+          "name": "G. Biros"
+        }
+      ]
+    },
+    {
+      "paperId": "658a1652daba1c19fbb9b285028d0fe194a2fe44",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2504-09339",
+        "ArXiv": "2504.09339",
+        "DOI": "10.48550/arXiv.2504.09339",
+        "CorpusId": 277780155
+      },
+      "url": "https://www.semanticscholar.org/paper/658a1652daba1c19fbb9b285028d0fe194a2fe44",
+      "title": "Towards Optimal Differentially Private Regret Bounds in Linear MDPs",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "referenceCount": 34,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2381726614",
+          "name": "Sharan Sahu"
+        }
+      ]
+    },
+    {
+      "paperId": "31bb0ae62f93b18e5dbb251479e61f59eedb4e84",
+      "externalIds": {
+        "DBLP": "conf/nips/WagenmakerJ22",
+        "ArXiv": "2207.02575",
+        "DOI": "10.48550/arXiv.2207.02575",
+        "CorpusId": 250311411
+      },
+      "url": "https://www.semanticscholar.org/paper/31bb0ae62f93b18e5dbb251479e61f59eedb4e84",
+      "title": "Instance-Dependent Near-Optimal Policy Identification in Linear MDPs via Online Experiment Design",
+      "venue": "Neural Information Processing Systems",
+      "year": 2022,
+      "referenceCount": 67,
+      "citationCount": 38,
+      "authors": [
+        {
+          "authorId": "9041933",
+          "name": "Andrew Wagenmaker"
+        },
+        {
+          "authorId": "40566417",
+          "name": "Kevin G. Jamieson"
+        }
+      ]
+    },
+    {
+      "paperId": "88298748d970690e09fe6043d68125b93ccce89d",
+      "externalIds": {
+        "ArXiv": "2210.00701",
+        "DBLP": "journals/corr/abs-2210-00701",
+        "DOI": "10.48550/arXiv.2210.00701",
+        "CorpusId": 252683860
+      },
+      "url": "https://www.semanticscholar.org/paper/88298748d970690e09fe6043d68125b93ccce89d",
+      "title": "Near-Optimal Deployment Efficiency in Reward-Free Reinforcement Learning with Linear Function Approximation",
+      "venue": "International Conference on Learning Representations",
+      "year": 2022,
+      "referenceCount": 75,
+      "citationCount": 15,
+      "authors": [
+        {
+          "authorId": "2140207495",
+          "name": "Dan Qiao"
+        },
+        {
+          "authorId": "2115829225",
+          "name": "Yu-Xiang Wang"
+        }
+      ]
+    },
+    {
+      "paperId": "cfec82a031b74f8a471ecc6d09f2ea9083651860",
+      "externalIds": {
+        "DBLP": "journals/ton/QuanES24a",
+        "DOI": "10.1109/TNET.2024.3420758",
+        "CorpusId": 271025346
+      },
+      "url": "https://www.semanticscholar.org/paper/cfec82a031b74f8a471ecc6d09f2ea9083651860",
+      "title": "Minimizing Edge Caching Service Costs Through Regret-Optimal Online Learning",
+      "venue": "IEEE/ACM Transactions on Networking",
+      "year": 2024,
+      "referenceCount": 40,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "24006739",
+          "name": "Guocong Quan"
+        },
+        {
+          "authorId": "1688915",
+          "name": "A. Eryilmaz"
+        },
+        {
+          "authorId": "1750487",
+          "name": "N. Shroff"
+        }
+      ]
+    },
+    {
+      "paperId": "74d3f033e168891ee5cefb9e8df4787652eb1104",
+      "externalIds": {
+        "DBLP": "conf/icml/BhatnagarWX023",
+        "ArXiv": "2302.07869",
+        "DOI": "10.48550/arXiv.2302.07869",
+        "CorpusId": 256868761
+      },
+      "url": "https://www.semanticscholar.org/paper/74d3f033e168891ee5cefb9e8df4787652eb1104",
+      "title": "Improved Online Conformal Prediction via Strongly Adaptive Online Learning",
+      "venue": "International Conference on Machine Learning",
+      "year": 2023,
+      "referenceCount": 78,
+      "citationCount": 86,
+      "authors": [
+        {
+          "authorId": "31553879",
+          "name": "Aadyot Bhatnagar"
+        },
+        {
+          "authorId": "46507194",
+          "name": "Haiquan Wang"
+        },
+        {
+          "authorId": "2228109",
+          "name": "Caiming Xiong"
+        },
+        {
+          "authorId": "8681368",
+          "name": "Yu Bai"
+        }
+      ]
+    },
+    {
+      "paperId": "476833519c3f7e61f08893a1c99b952b76e12741",
+      "externalIds": {
+        "DBLP": "conf/wiopt/QuanES22",
+        "DOI": "10.23919/WiOpt56218.2022.9930560",
+        "CorpusId": 251305006
+      },
+      "url": "https://www.semanticscholar.org/paper/476833519c3f7e61f08893a1c99b952b76e12741",
+      "title": "Regret-Optimal Learning for Minimizing Edge Caching Service Costs",
+      "venue": "International Symposium on Modeling and Optimization in Mobile, Ad-Hoc and Wireless Networks",
+      "year": 2022,
+      "referenceCount": 27,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "24006739",
+          "name": "Guocong Quan"
+        },
+        {
+          "authorId": "1688915",
+          "name": "A. Eryilmaz"
+        },
+        {
+          "authorId": "1750487",
+          "name": "N. Shroff"
+        }
+      ]
+    },
+    {
+      "paperId": "11e37060abd3a325a9c775daddcf212e99dd0cc0",
+      "externalIds": {
+        "ArXiv": "2511.19905",
+        "CorpusId": 283251378
+      },
+      "url": "https://www.semanticscholar.org/paper/11e37060abd3a325a9c775daddcf212e99dd0cc0",
+      "title": "Sigmoid-FTRL: Design-Based Adaptive Neyman Allocation for AIPW Estimators",
+      "venue": "",
+      "year": 2025,
+      "referenceCount": 0,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2303856207",
+          "name": "Fangyi Chen"
+        },
+        {
+          "authorId": "2305748334",
+          "name": "Shu Ge"
+        },
+        {
+          "authorId": "2257268968",
+          "name": "Jian Qian"
+        },
+        {
+          "authorId": "3359798",
+          "name": "Christopher Harshaw"
+        }
+      ]
+    },
+    {
+      "paperId": "16983cbd1b2b2c43f74bd81a0f6d2c39b6762261",
+      "externalIds": {
+        "CorpusId": 207811813
+      },
+      "url": "https://www.semanticscholar.org/paper/16983cbd1b2b2c43f74bd81a0f6d2c39b6762261",
+      "title": "Study of Energy Optimal and Near-optimal Control of a.c. Drives with Constant, Linear and Quadratic Frictions",
+      "venue": "",
+      "year": 2018,
+      "referenceCount": 0,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "47396317",
+          "name": "J. Vittek"
+        },
+        {
+          "authorId": "31364436",
+          "name": "B. Ftorek"
+        },
+        {
+          "authorId": "47983447",
+          "name": "P. Butko"
+        },
+        {
+          "authorId": "51004777",
+          "name": "L. Gorel"
+        },
+        {
+          "authorId": "101403685",
+          "name": "P. Oršanský"
+        }
+      ]
+    }
+  ]
+}

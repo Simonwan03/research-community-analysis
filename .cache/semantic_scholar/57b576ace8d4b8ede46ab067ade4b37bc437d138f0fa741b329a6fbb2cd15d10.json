@@ -1,0 +1,55 @@
+{
+  "total": 2,
+  "offset": 0,
+  "data": [
+    {
+      "paperId": "d4c4a5f0c71eba13d2827b24f70bbfdc3bd858ec",
+      "externalIds": {
+        "MAG": "2963580001",
+        "DBLP": "conf/icml/LeeC18",
+        "CorpusId": 3350728
+      },
+      "url": "https://www.semanticscholar.org/paper/d4c4a5f0c71eba13d2827b24f70bbfdc3bd858ec",
+      "title": "Gradient-Based Meta-Learning with Learned Layerwise Metric and Subspace",
+      "venue": "International Conference on Machine Learning",
+      "year": 2018,
+      "referenceCount": 37,
+      "citationCount": 373,
+      "authors": [
+        {
+          "authorId": "2110392124",
+          "name": "Yoonho Lee"
+        },
+        {
+          "authorId": "3960497",
+          "name": "Seungjin Choi"
+        }
+      ]
+    },
+    {
+      "paperId": "7418addb4245d69ec1614dc9d977e3fc50ee8f66",
+      "externalIds": {
+        "ArXiv": "1801.05558",
+        "DBLP": "journals/corr/abs-1801-05558",
+        "MAG": "2783494467",
+        "CorpusId": 125734953
+      },
+      "url": "https://www.semanticscholar.org/paper/7418addb4245d69ec1614dc9d977e3fc50ee8f66",
+      "title": "Meta-Learning with Adaptive Layerwise Metric and Subspace",
+      "venue": "arXiv.org",
+      "year": 2018,
+      "referenceCount": 33,
+      "citationCount": 27,
+      "authors": [
+        {
+          "authorId": "2110392124",
+          "name": "Yoonho Lee"
+        },
+        {
+          "authorId": "2118850142",
+          "name": "Seungjin Choi"
+        }
+      ]
+    }
+  ]
+}

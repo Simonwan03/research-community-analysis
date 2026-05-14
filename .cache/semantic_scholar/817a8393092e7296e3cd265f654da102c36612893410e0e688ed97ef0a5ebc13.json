@@ -1,0 +1,123 @@
+{
+  "total": 4,
+  "offset": 0,
+  "data": [
+    {
+      "paperId": "71d3db1343e1d80e5588c6cef9a0cb49dbf18551",
+      "externalIds": {
+        "DBLP": "conf/icml/NutiniSLFK15",
+        "ArXiv": "1506.00552",
+        "MAG": "1871644925",
+        "CorpusId": 8890061
+      },
+      "url": "https://www.semanticscholar.org/paper/71d3db1343e1d80e5588c6cef9a0cb49dbf18551",
+      "title": "Coordinate Descent Converges Faster with the Gauss-Southwell Rule Than Random Selection",
+      "venue": "International Conference on Machine Learning",
+      "year": 2015,
+      "referenceCount": 37,
+      "citationCount": 241,
+      "authors": [
+        {
+          "authorId": "3348081",
+          "name": "J. Nutini"
+        },
+        {
+          "authorId": "145610994",
+          "name": "Mark W. Schmidt"
+        },
+        {
+          "authorId": "3266173",
+          "name": "I. Laradji"
+        },
+        {
+          "authorId": "143725917",
+          "name": "M. Friedlander"
+        },
+        {
+          "authorId": "40625423",
+          "name": "H. Koepke"
+        }
+      ]
+    },
+    {
+      "paperId": "2b25f8bf35624e6113345c442c2983aa27284e9f",
+      "externalIds": {
+        "MAG": "2777891128",
+        "CorpusId": 3269027
+      },
+      "url": "https://www.semanticscholar.org/paper/2b25f8bf35624e6113345c442c2983aa27284e9f",
+      "title": "Let's Make Block Coordinate Descent Go Fast: Faster Greedy Rules, Message-Passing, Active-Set Complexity, and Superlinear Convergence",
+      "venue": "",
+      "year": 2017,
+      "referenceCount": 102,
+      "citationCount": 50,
+      "authors": [
+        {
+          "authorId": "3348081",
+          "name": "J. Nutini"
+        },
+        {
+          "authorId": "3266173",
+          "name": "I. Laradji"
+        },
+        {
+          "authorId": "145610994",
+          "name": "Mark W. Schmidt"
+        }
+      ]
+    },
+    {
+      "paperId": "aac612fd5661eb405705b80ff39974e019b3e16b",
+      "externalIds": {
+        "ArXiv": "1712.08859",
+        "CorpusId": 249605369
+      },
+      "url": "https://www.semanticscholar.org/paper/aac612fd5661eb405705b80ff39974e019b3e16b",
+      "title": "Let's Make Block Coordinate Descent Converge Faster: Faster Greedy Rules, Message-Passing, Active-Set Complexity, and Superlinear Convergence",
+      "venue": "",
+      "year": 2017,
+      "referenceCount": 110,
+      "citationCount": 38,
+      "authors": [
+        {
+          "authorId": "3348081",
+          "name": "J. Nutini"
+        },
+        {
+          "authorId": "3266173",
+          "name": "I. Laradji"
+        },
+        {
+          "authorId": "145610994",
+          "name": "Mark W. Schmidt"
+        }
+      ]
+    },
+    {
+      "paperId": "5b5ce429e5733b42492616d99e8433205b832519",
+      "externalIds": {
+        "CorpusId": 202663279
+      },
+      "url": "https://www.semanticscholar.org/paper/5b5ce429e5733b42492616d99e8433205b832519",
+      "title": "Coordinate Descent algorithm to compute the minimum volume enclosing ellipsoid",
+      "venue": "",
+      "year": 2018,
+      "referenceCount": 22,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2070799132",
+          "name": "Tao Jie"
+        },
+        {
+          "authorId": "2149150759",
+          "name": "Zhang Wei"
+        },
+        {
+          "authorId": "2056015332",
+          "name": "Lu Chao"
+        }
+      ]
+    }
+  ]
+}

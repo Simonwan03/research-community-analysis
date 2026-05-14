@@ -1,0 +1,352 @@
+{
+  "total": 50,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "b3f83e8416010e9c3a705a0b6390d268e5ddf5c0",
+      "externalIds": {
+        "ArXiv": "1804.08598",
+        "DBLP": "journals/corr/abs-1804-08598",
+        "MAG": "2963062382",
+        "CorpusId": 5046541
+      },
+      "url": "https://www.semanticscholar.org/paper/b3f83e8416010e9c3a705a0b6390d268e5ddf5c0",
+      "title": "Black-box Adversarial Attacks with Limited Queries and Information",
+      "venue": "International Conference on Machine Learning",
+      "year": 2018,
+      "referenceCount": 34,
+      "citationCount": 1360,
+      "authors": [
+        {
+          "authorId": "34562927",
+          "name": "Andrew Ilyas"
+        },
+        {
+          "authorId": "39468283",
+          "name": "Logan Engstrom"
+        },
+        {
+          "authorId": "38939786",
+          "name": "Anish Athalye"
+        },
+        {
+          "authorId": "32815692",
+          "name": "Jessy Lin"
+        }
+      ]
+    },
+    {
+      "paperId": "edabab811aaf44b7b626efe5278a32bddd3bb77f",
+      "externalIds": {
+        "MAG": "2971126145",
+        "ArXiv": "1906.06919",
+        "DBLP": "conf/nips/ChengDPSZ19",
+        "CorpusId": 189928401
+      },
+      "url": "https://www.semanticscholar.org/paper/edabab811aaf44b7b626efe5278a32bddd3bb77f",
+      "title": "Improving Black-box Adversarial Attacks with a Transfer-based Prior",
+      "venue": "Neural Information Processing Systems",
+      "year": 2019,
+      "referenceCount": 38,
+      "citationCount": 304,
+      "authors": [
+        {
+          "authorId": "94727217",
+          "name": "Shuyu Cheng"
+        },
+        {
+          "authorId": "3431029",
+          "name": "Yinpeng Dong"
+        },
+        {
+          "authorId": "19201674",
+          "name": "Tianyu Pang"
+        },
+        {
+          "authorId": "2093561216",
+          "name": "Hang Su"
+        },
+        {
+          "authorId": "145254043",
+          "name": "Jun Zhu"
+        }
+      ]
+    },
+    {
+      "paperId": "ccdc9444667f206bfd82253354852e61148c9ccc",
+      "externalIds": {
+        "DBLP": "journals/pami/DongCPSZ22",
+        "ArXiv": "2203.06560",
+        "DOI": "10.1109/TPAMI.2021.3126733",
+        "CorpusId": 243941001,
+        "PubMed": "34752388"
+      },
+      "url": "https://www.semanticscholar.org/paper/ccdc9444667f206bfd82253354852e61148c9ccc",
+      "title": "Query-Efficient Black-box Adversarial Attacks Guided by a Transfer-based Prior",
+      "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+      "year": 2021,
+      "referenceCount": 52,
+      "citationCount": 73,
+      "authors": [
+        {
+          "authorId": "3431029",
+          "name": "Yinpeng Dong"
+        },
+        {
+          "authorId": "94727217",
+          "name": "Shuyu Cheng"
+        },
+        {
+          "authorId": "19201674",
+          "name": "Tianyu Pang"
+        },
+        {
+          "authorId": "2093561216",
+          "name": "Hang Su"
+        },
+        {
+          "authorId": "145254043",
+          "name": "Jun Zhu"
+        }
+      ]
+    },
+    {
+      "paperId": "0a34c81636b793c50991199cfbcc2f0a7d55296f",
+      "externalIds": {
+        "ArXiv": "2301.00364",
+        "DBLP": "journals/pami/YinZWFZFY24",
+        "DOI": "10.1109/TPAMI.2022.3194988",
+        "CorpusId": 255372300,
+        "PubMed": "37021863"
+      },
+      "url": "https://www.semanticscholar.org/paper/0a34c81636b793c50991199cfbcc2f0a7d55296f",
+      "title": "Generalizable Black-Box Adversarial Attack With Meta Learning",
+      "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+      "year": 2023,
+      "referenceCount": 75,
+      "citationCount": 55,
+      "authors": [
+        {
+          "authorId": "2158117676",
+          "name": "Fei Yin"
+        },
+        {
+          "authorId": "2144289260",
+          "name": "Yong Zhang"
+        },
+        {
+          "authorId": "143905981",
+          "name": "Baoyuan Wu"
+        },
+        {
+          "authorId": "2115388500",
+          "name": "Yan Feng"
+        },
+        {
+          "authorId": "2199184021",
+          "name": "Jingyi Zhang"
+        },
+        {
+          "authorId": "2140245719",
+          "name": "Yanbo Fan"
+        },
+        {
+          "authorId": "3001727",
+          "name": "Yujiu Yang"
+        }
+      ]
+    },
+    {
+      "paperId": "11bd044e8b8067dd43daf4125eaa40244196e78f",
+      "externalIds": {
+        "DBLP": "conf/kdd/ShuklaSWK21",
+        "ArXiv": "2007.07210",
+        "DOI": "10.1145/3447548.3467386",
+        "CorpusId": 220514326
+      },
+      "url": "https://www.semanticscholar.org/paper/11bd044e8b8067dd43daf4125eaa40244196e78f",
+      "title": "Simple and Efficient Hard Label Black-box Adversarial Attacks in Low Query Budget Regimes",
+      "venue": "Knowledge Discovery and Data Mining",
+      "year": 2020,
+      "referenceCount": 39,
+      "citationCount": 37,
+      "authors": [
+        {
+          "authorId": "35194054",
+          "name": "Satya Narayan Shukla"
+        },
+        {
+          "authorId": "2894821",
+          "name": "Anit Kumar Sahu"
+        },
+        {
+          "authorId": "2853458",
+          "name": "Devin Willmott"
+        },
+        {
+          "authorId": "145116464",
+          "name": "J. Kolter"
+        }
+      ]
+    },
+    {
+      "paperId": "8655386f9c2cdb91f783b24f7b84126c2a867fc5",
+      "externalIds": {
+        "ArXiv": "2203.09849",
+        "DBLP": "journals/corr/abs-2203-09849",
+        "DOI": "10.48550/arXiv.2203.09849",
+        "CorpusId": 247594782
+      },
+      "url": "https://www.semanticscholar.org/paper/8655386f9c2cdb91f783b24f7b84126c2a867fc5",
+      "title": "Neural Predictor for Black-Box Adversarial Attacks on Speech Recognition",
+      "venue": "arXiv.org",
+      "year": 2022,
+      "referenceCount": 30,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "2159542836",
+          "name": "Marie Biolkov'a"
+        },
+        {
+          "authorId": "143840062",
+          "name": "Bac Nguyen"
+        }
+      ]
+    },
+    {
+      "paperId": "0f3d22581fc0455388c2303a549455f2136f6fd6",
+      "externalIds": {
+        "DBLP": "journals/nn/ChengLWPL25",
+        "DOI": "10.1016/j.neunet.2024.106971",
+        "CorpusId": 274431994,
+        "PubMed": "39662200"
+      },
+      "url": "https://www.semanticscholar.org/paper/0f3d22581fc0455388c2303a549455f2136f6fd6",
+      "title": "Strongly concealed adversarial attack against text classification models with limited queries",
+      "venue": "Neural Networks",
+      "year": 2024,
+      "referenceCount": 34,
+      "citationCount": 6,
+      "authors": [
+        {
+          "authorId": "2307556786",
+          "name": "Yao Cheng"
+        },
+        {
+          "authorId": "1690457",
+          "name": "Senlin Luo"
+        },
+        {
+          "authorId": "2307892574",
+          "name": "Yunwei Wan"
+        },
+        {
+          "authorId": "1734548",
+          "name": "Limin Pan"
+        },
+        {
+          "authorId": "2185014588",
+          "name": "Xinshuai Li"
+        }
+      ]
+    },
+    {
+      "paperId": "6cefb3f25e9b1f83e8ac51ef94a30467e065e9df",
+      "externalIds": {
+        "MAG": "3112742539",
+        "DBLP": "journals/corr/abs-2012-06757",
+        "CorpusId": 229156462
+      },
+      "url": "https://www.semanticscholar.org/paper/6cefb3f25e9b1f83e8ac51ef94a30467e065e9df",
+      "title": "Query-free Black-box Adversarial Attacks on Graphs",
+      "venue": "arXiv.org",
+      "year": 2020,
+      "referenceCount": 43,
+      "citationCount": 5,
+      "authors": [
+        {
+          "authorId": "49394731",
+          "name": "Jiarong Xu"
+        },
+        {
+          "authorId": "2261929192",
+          "name": "Yizhou Sun"
+        },
+        {
+          "authorId": "2152179789",
+          "name": "Xin Jiang"
+        },
+        {
+          "authorId": "2155359444",
+          "name": "Yanhao Wang"
+        },
+        {
+          "authorId": "2152915866",
+          "name": "Yang Yang"
+        },
+        {
+          "authorId": "2108714551",
+          "name": "Chunping Wang"
+        },
+        {
+          "authorId": "2152960439",
+          "name": "Jiangang Lu"
+        }
+      ]
+    },
+    {
+      "paperId": "9510d6843c7bdeee2effe4901cc929eec18c74ab",
+      "externalIds": {
+        "MAG": "3042656994",
+        "DBLP": "journals/corr/abs-2007-07210",
+        "CorpusId": 263895264
+      },
+      "url": "https://www.semanticscholar.org/paper/9510d6843c7bdeee2effe4901cc929eec18c74ab",
+      "title": "Hard Label Black-box Adversarial Attacks in Low Query Budget Regimes",
+      "venue": "arXiv.org",
+      "year": 2020,
+      "referenceCount": 33,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "35194054",
+          "name": "Satya Narayan Shukla"
+        },
+        {
+          "authorId": "2894821",
+          "name": "Anit Kumar Sahu"
+        }
+      ]
+    },
+    {
+      "paperId": "c3779565fa750f5438cd617e0126a38a5427a600",
+      "externalIds": {
+        "DBLP": "conf/eccv/TranLZ22",
+        "DOI": "10.1007/978-3-031-20065-6_19",
+        "CorpusId": 253448379
+      },
+      "url": "https://www.semanticscholar.org/paper/c3779565fa750f5438cd617e0126a38a5427a600",
+      "title": "Exploiting the Local Parabolic Landscapes of Adversarial Losses to Accelerate Black-Box Adversarial Attack",
+      "venue": "European Conference on Computer Vision",
+      "year": 2022,
+      "referenceCount": 35,
+      "citationCount": 7,
+      "authors": [
+        {
+          "authorId": "2057078412",
+          "name": "Hoang Tran"
+        },
+        {
+          "authorId": "2111832285",
+          "name": "Dan Lu"
+        },
+        {
+          "authorId": "119557985",
+          "name": "Guannan Zhang"
+        }
+      ]
+    }
+  ]
+}

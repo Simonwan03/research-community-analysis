@@ -1,0 +1,990 @@
+{
+  "offset": 0,
+  "citingPaperInfo": {
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/1601.03855, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "title": "A Relative Exponential Weighing Algorithm for Adversarial Utility-based Dueling Bandits",
+    "authors": [
+      {
+        "authorId": "3144996",
+        "name": "Pratik Gajane"
+      },
+      {
+        "authorId": "2827705",
+        "name": "Tanguy Urvoy"
+      },
+      {
+        "authorId": "1783724",
+        "name": "F. Clérot"
+      }
+    ]
+  },
+  "data": [
+    {
+      "citedPaper": {
+        "paperId": "855516ff715ade3633a9b5aadf12644f8629d377",
+        "externalIds": {
+          "DBLP": "conf/wsdm/ZoghiWR15",
+          "MAG": "2015236210",
+          "DOI": "10.1145/2684822.2685290",
+          "CorpusId": 16027524
+        },
+        "url": "https://www.semanticscholar.org/paper/855516ff715ade3633a9b5aadf12644f8629d377",
+        "title": "MergeRUCB: A Method for Large-Scale Online Ranker Evaluation",
+        "venue": "Web Search and Data Mining",
+        "year": 2015,
+        "referenceCount": 39,
+        "citationCount": 58,
+        "authors": [
+          {
+            "authorId": "36572609",
+            "name": "M. Zoghi"
+          },
+          {
+            "authorId": "1766767",
+            "name": "Shimon Whiteson"
+          },
+          {
+            "authorId": "1696030",
+            "name": "M. de Rijke"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "0e16b8e60515916f740f9ca7ffb4139c655d957f",
+        "externalIds": {
+          "MAG": "1032589285",
+          "DBLP": "conf/alt/Busa-FeketeH14",
+          "DOI": "10.1007/978-3-319-11662-4_3",
+          "CorpusId": 4725298
+        },
+        "url": "https://www.semanticscholar.org/paper/0e16b8e60515916f740f9ca7ffb4139c655d957f",
+        "title": "A Survey of Preference-Based Online Learning with Bandit Algorithms",
+        "venue": "International Conference on Algorithmic Learning Theory",
+        "year": 2014,
+        "referenceCount": 56,
+        "citationCount": 50,
+        "authors": [
+          {
+            "authorId": "1398396696",
+            "name": "R. Busa-Fekete"
+          },
+          {
+            "authorId": "1691955",
+            "name": "Eyke Hüllermeier"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "2e21b210c3cd3ac621b4fac372a48aa8364c7b9a",
+        "externalIds": {
+          "DBLP": "journals/mor/BartokFPRS14",
+          "MAG": "1987292194",
+          "DOI": "10.1287/moor.2014.0663",
+          "CorpusId": 2047046
+        },
+        "url": "https://www.semanticscholar.org/paper/2e21b210c3cd3ac621b4fac372a48aa8364c7b9a",
+        "title": "Partial Monitoring - Classification, Regret Bounds, and Algorithms",
+        "venue": "Mathematics of Operations Research",
+        "year": 2014,
+        "referenceCount": 26,
+        "citationCount": 183,
+        "authors": [
+          {
+            "authorId": "145144587",
+            "name": "Gábor Bartók"
+          },
+          {
+            "authorId": "145346319",
+            "name": "Dean Phillips Foster"
+          },
+          {
+            "authorId": "2153912",
+            "name": "Dávid Pál"
+          },
+          {
+            "authorId": "1680046",
+            "name": "A. Rakhlin"
+          },
+          {
+            "authorId": "40868287",
+            "name": "Csaba Szepesvari"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "adfeb1674822daae79183e196e45c0e2ac68ffb9",
+        "externalIds": {
+          "DBLP": "conf/icml/Busa-FeketeHS14",
+          "MAG": "79079207",
+          "CorpusId": 14102415
+        },
+        "url": "https://www.semanticscholar.org/paper/adfeb1674822daae79183e196e45c0e2ac68ffb9",
+        "title": "Preference-Based Rank Elicitation using Statistical Models: The Case of Mallows",
+        "venue": "International Conference on Machine Learning",
+        "year": 2014,
+        "referenceCount": 28,
+        "citationCount": 69,
+        "authors": [
+          {
+            "authorId": "1398396696",
+            "name": "R. Busa-Fekete"
+          },
+          {
+            "authorId": "1691955",
+            "name": "Eyke Hüllermeier"
+          },
+          {
+            "authorId": "2206023",
+            "name": "Balázs Szörényi"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "df742fb7b0106df3970cd4781a72d5ef9a155a34",
+        "externalIds": {
+          "DBLP": "journals/corr/AilonJK14",
+          "MAG": "2951175152",
+          "ArXiv": "1405.3396",
+          "CorpusId": 12943223
+        },
+        "url": "https://www.semanticscholar.org/paper/df742fb7b0106df3970cd4781a72d5ef9a155a34",
+        "title": "Reducing Dueling Bandits to Cardinal Bandits",
+        "venue": "International Conference on Machine Learning",
+        "year": 2014,
+        "referenceCount": 21,
+        "citationCount": 150,
+        "authors": [
+          {
+            "authorId": "2048494",
+            "name": "Nir Ailon"
+          },
+          {
+            "authorId": "3386660",
+            "name": "Zohar S. Karnin"
+          },
+          {
+            "authorId": "1680188",
+            "name": "T. Joachims"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "3a53576ca90389a43209a094933c68dc3a90acff",
+        "externalIds": {
+          "MAG": "2090589280",
+          "DBLP": "conf/wsdm/ZoghiWRM14",
+          "DOI": "10.1145/2556195.2556256",
+          "CorpusId": 17184576
+        },
+        "url": "https://www.semanticscholar.org/paper/3a53576ca90389a43209a094933c68dc3a90acff",
+        "title": "Relative confidence sampling for efficient on-line ranker evaluation",
+        "venue": "Web Search and Data Mining",
+        "year": 2014,
+        "referenceCount": 42,
+        "citationCount": 65,
+        "authors": [
+          {
+            "authorId": "36572609",
+            "name": "M. Zoghi"
+          },
+          {
+            "authorId": "1766767",
+            "name": "Shimon Whiteson"
+          },
+          {
+            "authorId": "1696030",
+            "name": "M. de Rijke"
+          },
+          {
+            "authorId": "1708654",
+            "name": "R. Munos"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "cacdebe0309aa9062e399dd3bb50ef9c4585d1a6",
+        "externalIds": {
+          "MAG": "1909146639",
+          "DBLP": "conf/icml/Busa-FeketeSCWH13",
+          "CorpusId": 4760582
+        },
+        "url": "https://www.semanticscholar.org/paper/cacdebe0309aa9062e399dd3bb50ef9c4585d1a6",
+        "title": "Top-k Selection based on Adaptive Sampling of Noisy Preferences",
+        "venue": "International Conference on Machine Learning",
+        "year": 2013,
+        "referenceCount": 28,
+        "citationCount": 75,
+        "authors": [
+          {
+            "authorId": "1398396696",
+            "name": "R. Busa-Fekete"
+          },
+          {
+            "authorId": "2206023",
+            "name": "Balázs Szörényi"
+          },
+          {
+            "authorId": "49767752",
+            "name": "Weiwei Cheng"
+          },
+          {
+            "authorId": "144834415",
+            "name": "Paul Weng"
+          },
+          {
+            "authorId": "1691955",
+            "name": "Eyke Hüllermeier"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "933334cd73c452613daa302c887c38c577afe658",
+        "externalIds": {
+          "MAG": "50636094",
+          "DBLP": "conf/icml/UrvoyCFN13",
+          "CorpusId": 405707
+        },
+        "url": "https://www.semanticscholar.org/paper/933334cd73c452613daa302c887c38c577afe658",
+        "title": "Generic Exploration and K-armed Voting Bandits",
+        "venue": "International Conference on Machine Learning",
+        "year": 2013,
+        "referenceCount": 21,
+        "citationCount": 105,
+        "authors": [
+          {
+            "authorId": "2827705",
+            "name": "Tanguy Urvoy"
+          },
+          {
+            "authorId": "1783724",
+            "name": "F. Clérot"
+          },
+          {
+            "authorId": "3430625",
+            "name": "Raphaël Féraud"
+          },
+          {
+            "authorId": "1880658",
+            "name": "Sami Naamane"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "8b7fb93d51ebd58b8d05b6694f60855f5f2c7e41",
+        "externalIds": {
+          "MAG": "148375489",
+          "DBLP": "conf/colt/Bartok13",
+          "CorpusId": 7080739
+        },
+        "url": "https://www.semanticscholar.org/paper/8b7fb93d51ebd58b8d05b6694f60855f5f2c7e41",
+        "title": "A near-optimal algorithm for finite partial-monitoring games against adversarial opponents",
+        "venue": "Annual Conference Computational Learning Theory",
+        "year": 2013,
+        "referenceCount": 12,
+        "citationCount": 34,
+        "authors": [
+          {
+            "authorId": "145144587",
+            "name": "Gábor Bartók"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "61e2cca4cd40837149f0f97ecc86817584fe2355",
+        "externalIds": {
+          "MAG": "659523800",
+          "DBLP": "conf/ewrl/SeldinSAA12",
+          "CorpusId": 1608838
+        },
+        "url": "https://www.semanticscholar.org/paper/61e2cca4cd40837149f0f97ecc86817584fe2355",
+        "title": "Evaluation and Analysis of the Performance of the EXP3 Algorithm in Stochastic Environments",
+        "venue": "European Workshop on Reinforcement Learning",
+        "year": 2013,
+        "referenceCount": 17,
+        "citationCount": 53,
+        "authors": [
+          {
+            "authorId": "3290824",
+            "name": "Yevgeny Seldin"
+          },
+          {
+            "authorId": "40868287",
+            "name": "Csaba Szepesvari"
+          },
+          {
+            "authorId": "144543541",
+            "name": "P. Auer"
+          },
+          {
+            "authorId": "1388837087",
+            "name": "Yasin Abbasi-Yadkori"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "91c68fe8851bfdb660797f30e39376c4de80ede4",
+        "externalIds": {
+          "MAG": "2914156981",
+          "DBLP": "conf/colt/Cesa-BianchiL09",
+          "DOI": "10.1016/J.JCSS.2012.01.001",
+          "CorpusId": 6854100
+        },
+        "url": "https://www.semanticscholar.org/paper/91c68fe8851bfdb660797f30e39376c4de80ede4",
+        "title": "Combinatorial Bandits",
+        "venue": "Annual Conference Computational Learning Theory",
+        "year": 2012,
+        "referenceCount": 106,
+        "citationCount": 498,
+        "authors": [
+          {
+            "authorId": "1388387856",
+            "name": "N. Cesa-Bianchi"
+          },
+          {
+            "authorId": "1755694",
+            "name": "G. Lugosi"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "10468b38072f70cad77109441c73f5f470da33f9",
+        "externalIds": {
+          "DBLP": "journals/jcss/YueBKJ12",
+          "MAG": "2408060014",
+          "DOI": "10.1016/J.JCSS.2011.12.028",
+          "CorpusId": 2145272
+        },
+        "url": "https://www.semanticscholar.org/paper/10468b38072f70cad77109441c73f5f470da33f9",
+        "title": "The K-armed Dueling Bandits Problem",
+        "venue": "Annual Conference Computational Learning Theory",
+        "year": 2012,
+        "referenceCount": 31,
+        "citationCount": 433,
+        "authors": [
+          {
+            "authorId": "1740159",
+            "name": "Yisong Yue"
+          },
+          {
+            "authorId": "2994187",
+            "name": "J. Broder"
+          },
+          {
+            "authorId": "2633757",
+            "name": "Robert D. Kleinberg"
+          },
+          {
+            "authorId": "1680188",
+            "name": "T. Joachims"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "ab0463d8aef96697ad0e4d2c86fd1b41ffd4633d",
+        "externalIds": {
+          "MAG": "1982530130",
+          "DBLP": "journals/tois/ChapelleJRY12",
+          "DOI": "10.1145/2094072.2094078",
+          "CorpusId": 18396200
+        },
+        "url": "https://www.semanticscholar.org/paper/ab0463d8aef96697ad0e4d2c86fd1b41ffd4633d",
+        "title": "Large-scale validation and analysis of interleaved search evaluation",
+        "venue": "TOIS",
+        "year": 2012,
+        "referenceCount": 75,
+        "citationCount": 235,
+        "authors": [
+          {
+            "authorId": "1730609",
+            "name": "O. Chapelle"
+          },
+          {
+            "authorId": "1680188",
+            "name": "T. Joachims"
+          },
+          {
+            "authorId": "1803571",
+            "name": "Filip Radlinski"
+          },
+          {
+            "authorId": "1740159",
+            "name": "Yisong Yue"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "39ef51f907ac2785d99f604888cf8c4e2401849d",
+        "externalIds": {
+          "DBLP": "conf/icml/YueJ11",
+          "MAG": "2249408652",
+          "CorpusId": 1591846
+        },
+        "url": "https://www.semanticscholar.org/paper/39ef51f907ac2785d99f604888cf8c4e2401849d",
+        "title": "Beat the Mean Bandit",
+        "venue": "International Conference on Machine Learning",
+        "year": 2011,
+        "referenceCount": 11,
+        "citationCount": 134,
+        "authors": [
+          {
+            "authorId": "1740159",
+            "name": "Yisong Yue"
+          },
+          {
+            "authorId": "1680188",
+            "name": "T. Joachims"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "1402ac4469c3fc64eff02674f96a71bf3feedd7a",
+        "externalIds": {
+          "DBLP": "reference/ml/FurnkranzH17",
+          "MAG": "2614429009",
+          "DOI": "10.1007/978-1-4899-7687-1_667",
+          "CorpusId": 2743367
+        },
+        "url": "https://www.semanticscholar.org/paper/1402ac4469c3fc64eff02674f96a71bf3feedd7a",
+        "title": "Preference Learning",
+        "venue": "Encyclopedia of Machine Learning and Data Mining",
+        "year": 2010,
+        "referenceCount": 91,
+        "citationCount": 317,
+        "authors": [
+          {
+            "authorId": "1747752",
+            "name": "Johannes Fürnkranz"
+          },
+          {
+            "authorId": "1691955",
+            "name": "Eyke Hüllermeier"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "d85c5f763579632cf264aed6c36748031bbb892b",
+        "externalIds": {
+          "MAG": "1972789308",
+          "DBLP": "journals/anor/CharonH10",
+          "DOI": "10.1007/s10479-009-0648-7",
+          "CorpusId": 19754713
+        },
+        "url": "https://www.semanticscholar.org/paper/d85c5f763579632cf264aed6c36748031bbb892b",
+        "title": "An updated survey on the linear ordering problem for weighted or unweighted tournaments",
+        "venue": "Annals of Operations Research",
+        "year": 2010,
+        "referenceCount": 254,
+        "citationCount": 78,
+        "authors": [
+          {
+            "authorId": "2615720",
+            "name": "I. Charon"
+          },
+          {
+            "authorId": "2759728",
+            "name": "O. Hudry"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "035bd1607d664b0c10143ca055f1c645b7d04a11",
+        "externalIds": {
+          "MAG": "2098025379",
+          "DBLP": "conf/icml/YueJ09",
+          "DOI": "10.1145/1553374.1553527",
+          "CorpusId": 13141692
+        },
+        "url": "https://www.semanticscholar.org/paper/035bd1607d664b0c10143ca055f1c645b7d04a11",
+        "title": "Interactively optimizing information retrieval systems as a dueling bandits problem",
+        "venue": "International Conference on Machine Learning",
+        "year": 2009,
+        "referenceCount": 15,
+        "citationCount": 386,
+        "authors": [
+          {
+            "authorId": "1740159",
+            "name": "Yisong Yue"
+          },
+          {
+            "authorId": "1680188",
+            "name": "T. Joachims"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "8159fa7727322545b120d35e6a59446f031103a4",
+        "externalIds": {
+          "DBLP": "conf/kdd/RadlinskiJ07",
+          "MAG": "2142927605",
+          "DOI": "10.1145/1281192.1281254",
+          "CorpusId": 228061
+        },
+        "url": "https://www.semanticscholar.org/paper/8159fa7727322545b120d35e6a59446f031103a4",
+        "title": "Active exploration for learning rankings from clickthrough data",
+        "venue": "Knowledge Discovery and Data Mining",
+        "year": 2007,
+        "referenceCount": 32,
+        "citationCount": 176,
+        "authors": [
+          {
+            "authorId": "1803571",
+            "name": "Filip Radlinski"
+          },
+          {
+            "authorId": "1680188",
+            "name": "T. Joachims"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "539d6e9d4ac23f285c1e49a430d6bab4d5a4e95b",
+        "externalIds": {
+          "MAG": "1974360117",
+          "DBLP": "journals/tois/JoachimsGPHRG07",
+          "DOI": "10.1145/1229179.1229181",
+          "CorpusId": 5700664
+        },
+        "url": "https://www.semanticscholar.org/paper/539d6e9d4ac23f285c1e49a430d6bab4d5a4e95b",
+        "title": "Evaluating the accuracy of implicit feedback from clicks and query reformulations in Web search",
+        "venue": "TOIS",
+        "year": 2007,
+        "referenceCount": 59,
+        "citationCount": 692,
+        "authors": [
+          {
+            "authorId": "1680188",
+            "name": "T. Joachims"
+          },
+          {
+            "authorId": "2709281",
+            "name": "Laura A. Granka"
+          },
+          {
+            "authorId": "2053572868",
+            "name": "Bing Pan"
+          },
+          {
+            "authorId": "3249086",
+            "name": "H. Hembrooke"
+          },
+          {
+            "authorId": "1803571",
+            "name": "Filip Radlinski"
+          },
+          {
+            "authorId": "40413539",
+            "name": "Geri Gay"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "3310bd8d8914393493800ec740f2877fa2f768f7",
+        "externalIds": {
+          "DBLP": "conf/soda/KarpK07",
+          "MAG": "2045086034",
+          "CorpusId": 774118
+        },
+        "url": "https://www.semanticscholar.org/paper/3310bd8d8914393493800ec740f2877fa2f768f7",
+        "title": "Noisy binary search and its applications",
+        "venue": "ACM-SIAM Symposium on Discrete Algorithms",
+        "year": 2007,
+        "referenceCount": 8,
+        "citationCount": 152,
+        "authors": [
+          {
+            "authorId": "47546648",
+            "name": "R. Karp"
+          },
+          {
+            "authorId": "2633757",
+            "name": "Robert D. Kleinberg"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "0538e399046c74d95124c715760aa51ab4716dce",
+        "externalIds": {
+          "MAG": "2966891380",
+          "DBLP": "books/daglib/0016248",
+          "DOI": "10.1017/CBO9780511546921",
+          "CorpusId": 28709420
+        },
+        "url": "https://www.semanticscholar.org/paper/0538e399046c74d95124c715760aa51ab4716dce",
+        "title": "Prediction, learning, and games",
+        "venue": "",
+        "year": 2006,
+        "referenceCount": 301,
+        "citationCount": 4335,
+        "authors": [
+          {
+            "authorId": "1388387856",
+            "name": "N. Cesa-Bianchi"
+          },
+          {
+            "authorId": "1755694",
+            "name": "G. Lugosi"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "1e1d35136b1bf3b13ef6b53f6039f39d9ee820e3",
+        "externalIds": {
+          "MAG": "2168405694",
+          "DBLP": "journals/ml/AuerCF02",
+          "DOI": "10.1023/A:1013689704352",
+          "CorpusId": 207609497
+        },
+        "url": "https://www.semanticscholar.org/paper/1e1d35136b1bf3b13ef6b53f6039f39d9ee820e3",
+        "title": "Finite-time Analysis of the Multiarmed Bandit Problem",
+        "venue": "Machine-mediated learning",
+        "year": 2002,
+        "referenceCount": 17,
+        "citationCount": 7346,
+        "authors": [
+          {
+            "authorId": "144543541",
+            "name": "P. Auer"
+          },
+          {
+            "authorId": "1388387856",
+            "name": "N. Cesa-Bianchi"
+          },
+          {
+            "authorId": "152702481",
+            "name": "P. Fischer"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "eb3289c8315d3aa232587455107d9dea828cd1be",
+        "externalIds": {
+          "DOI": "10.1007/3-540-44581-1_14",
+          "CorpusId": 33430572
+        },
+        "url": "https://www.semanticscholar.org/paper/eb3289c8315d3aa232587455107d9dea828cd1be",
+        "title": "Discrete Prediction Games with Arbitrary Feedback and Loss",
+        "venue": "COLT/EuroCOLT",
+        "year": 2001,
+        "referenceCount": 16,
+        "citationCount": 76,
+        "authors": [
+          {
+            "authorId": "2300203824",
+            "name": "Antonio Piccolboni"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "08894e24c6bf120365c870157c7e3944615a45cc",
+        "externalIds": {
+          "MAG": "2106887613",
+          "DOI": "10.1006/GAME.1999.0738",
+          "CorpusId": 15295656
+        },
+        "url": "https://www.semanticscholar.org/paper/08894e24c6bf120365c870157c7e3944615a45cc",
+        "title": "Adaptive game playing using multiplicative weights",
+        "venue": "",
+        "year": 1999,
+        "referenceCount": 38,
+        "citationCount": 707,
+        "authors": [
+          {
+            "authorId": "1703537",
+            "name": "Y. Freund"
+          },
+          {
+            "authorId": "1716301",
+            "name": "R. Schapire"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "e478fe3666e7cd630a40c81776fc2b55db61e085",
+        "externalIds": {
+          "MAG": "1552767446",
+          "DBLP": "journals/jmlr/FreundISS03",
+          "CorpusId": 16692650
+        },
+        "url": "https://www.semanticscholar.org/paper/e478fe3666e7cd630a40c81776fc2b55db61e085",
+        "title": "An Efficient Boosting Algorithm for Combining Preferences",
+        "venue": "Journal of machine learning research",
+        "year": 1998,
+        "referenceCount": 26,
+        "citationCount": 2236,
+        "authors": [
+          {
+            "authorId": "1703537",
+            "name": "Y. Freund"
+          },
+          {
+            "authorId": "2068005320",
+            "name": "Raj D. Iyer"
+          },
+          {
+            "authorId": "1716301",
+            "name": "R. Schapire"
+          },
+          {
+            "authorId": "1740765",
+            "name": "Y. Singer"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "ff25a0a000205e21fc39abe3dc7f920e4236b38b",
+        "externalIds": {
+          "CorpusId": 216077420
+        },
+        "url": "https://www.semanticscholar.org/paper/ff25a0a000205e21fc39abe3dc7f920e4236b38b",
+        "title": "UvA-DARE (Digital Academic Repository) Relative Upper Confidence Bound for the K-Armed Dueling Bandit Problem",
+        "venue": "",
+        "year": 2014,
+        "referenceCount": 32,
+        "citationCount": 152,
+        "authors": [
+          {
+            "authorId": "36572609",
+            "name": "M. Zoghi"
+          },
+          {
+            "authorId": "1766767",
+            "name": "Shimon Whiteson"
+          },
+          {
+            "authorId": "1708654",
+            "name": "R. Munos"
+          },
+          {
+            "authorId": "1696030",
+            "name": "M. de Rijke"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "ICML 2014 JMLR Proceedings",
+        "venue": "ICML 2014 JMLR Proceedings",
+        "year": 2014,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "Microsoft learning to rank dataset",
+        "venue": "MSLR30K",
+        "year": 2012,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "MSLR30K",
+        "venue": "Microsoft learning to rank dataset",
+        "year": 2012,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "dbcd79bd7edcdcbb5912a50796fc3c2746729eb5",
+        "externalIds": {
+          "MAG": "2129245267",
+          "CorpusId": 14596754
+        },
+        "url": "https://www.semanticscholar.org/paper/dbcd79bd7edcdcbb5912a50796fc3c2746729eb5",
+        "title": "LETOR: Benchmark Dataset for Research on Learning to Rank for Information Retrieval",
+        "venue": "",
+        "year": 2007,
+        "referenceCount": 36,
+        "citationCount": 527,
+        "authors": [
+          {
+            "authorId": "2110264337",
+            "name": "Tie-Yan Liu"
+          },
+          {
+            "authorId": "2150635498",
+            "name": "Jun Xu"
+          },
+          {
+            "authorId": "143826491",
+            "name": "Tao Qin"
+          },
+          {
+            "authorId": "8574112",
+            "name": "Wen-Ying Xiong"
+          },
+          {
+            "authorId": "2145572104",
+            "name": "Hang Li"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "26e17f6b62a7caec660b3356d49e879e6e0eeabc",
+        "externalIds": {
+          "MAG": "2098339418",
+          "DBLP": "journals/siamcomp/AuerCFS02",
+          "DOI": "10.1137/S0097539701398375",
+          "CorpusId": 13209702
+        },
+        "url": "https://www.semanticscholar.org/paper/26e17f6b62a7caec660b3356d49e879e6e0eeabc",
+        "title": "The Nonstochastic Multiarmed Bandit Problem",
+        "venue": "SIAM journal on computing (Print)",
+        "year": 2002,
+        "referenceCount": 26,
+        "citationCount": 2689,
+        "authors": [
+          {
+            "authorId": "144543541",
+            "name": "P. Auer"
+          },
+          {
+            "authorId": "1388387856",
+            "name": "N. Cesa-Bianchi"
+          },
+          {
+            "authorId": "1703537",
+            "name": "Y. Freund"
+          },
+          {
+            "authorId": "1716301",
+            "name": "R. Schapire"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "c878cd7d2c68905e37c64a385479d6805c70dc44",
+        "externalIds": {
+          "CorpusId": 258302365
+        },
+        "url": "https://www.semanticscholar.org/paper/c878cd7d2c68905e37c64a385479d6805c70dc44",
+        "title": "An EÆcient Boosting Algorithm for Combining Preferences",
+        "venue": "",
+        "year": 2001,
+        "referenceCount": 59,
+        "citationCount": 414,
+        "authors": [
+          {
+            "authorId": "6908633",
+            "name": "R. Dharmarajan"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "Proc. COLT",
+        "venue": "Proc. COLT",
+        "year": null,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "At step 9, the condition a (cid:54) = b is only a slight improvement for matrix-based dueling bandits where the outcome of a duel of an arm against itself is randomized as in",
+        "venue": "",
+        "year": null,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "Relative Exponential Weighing for Dueling Bandits (extended version)",
+        "venue": "Relative Exponential Weighing for Dueling Bandits (extended version)",
+        "year": null,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    }
+  ]
+}

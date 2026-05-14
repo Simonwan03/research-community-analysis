@@ -1,0 +1,270 @@
+{
+  "total": 47,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "033f7570be9877c5a4bcbb71f6aec8f95cee3608",
+      "externalIds": {
+        "ArXiv": "1802.01396",
+        "MAG": "2964034630",
+        "DBLP": "conf/icml/BelkinMM18",
+        "CorpusId": 3617641
+      },
+      "url": "https://www.semanticscholar.org/paper/033f7570be9877c5a4bcbb71f6aec8f95cee3608",
+      "title": "To understand deep learning we need to understand kernel learning",
+      "venue": "International Conference on Machine Learning",
+      "year": 2018,
+      "referenceCount": 56,
+      "citationCount": 442,
+      "authors": [
+        {
+          "authorId": "145520115",
+          "name": "Mikhail Belkin"
+        },
+        {
+          "authorId": "143791100",
+          "name": "Siyuan Ma"
+        },
+        {
+          "authorId": "151213231",
+          "name": "Soumik Mandal"
+        }
+      ]
+    },
+    {
+      "paperId": "639acfebc47ac0b905d390510346c48c0e112624",
+      "externalIds": {
+        "DBLP": "conf/nips/GuoWKX21",
+        "CorpusId": 240291198
+      },
+      "url": "https://www.semanticscholar.org/paper/639acfebc47ac0b905d390510346c48c0e112624",
+      "title": "EDGE: Explaining Deep Reinforcement Learning Policies",
+      "venue": "Neural Information Processing Systems",
+      "year": 2021,
+      "referenceCount": 115,
+      "citationCount": 71,
+      "authors": [
+        {
+          "authorId": "3138660",
+          "name": "Wenbo Guo"
+        }
+      ]
+    },
+    {
+      "paperId": "02433ee64d5e3a0059267e9a07e1f2a78ce4729e",
+      "externalIds": {
+        "MAG": "2746008277",
+        "DBLP": "conf/dasip/KrutschN16",
+        "DOI": "10.1109/DASIP.2016.7853814",
+        "CorpusId": 15368713
+      },
+      "url": "https://www.semanticscholar.org/paper/02433ee64d5e3a0059267e9a07e1f2a78ce4729e",
+      "title": "Monte Carlo method based precision analysis of deep convolution nets",
+      "venue": "2016 Conference on Design and Architectures for Signal and Image Processing (DASIP)",
+      "year": 2016,
+      "referenceCount": 17,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "9516723",
+          "name": "Robert Krutsch"
+        },
+        {
+          "authorId": "2060450374",
+          "name": "S. Naidu"
+        }
+      ]
+    },
+    {
+      "paperId": "ecf1330185c0ef6ac9942f260c7b732dd7315f92",
+      "externalIds": {
+        "DOI": "10.1145/3724979.3725029",
+        "CorpusId": 278492344
+      },
+      "url": "https://www.semanticscholar.org/paper/ecf1330185c0ef6ac9942f260c7b732dd7315f92",
+      "title": "MSADN: A Method for Predicting ncRNA Family Based on Deep Learning with Chemical Properties",
+      "venue": "Proceedings of the 2025 5th International Conference on Bioinformatics and Intelligent Computing",
+      "year": 2025,
+      "referenceCount": 15,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2360346679",
+          "name": "Zhi Guo"
+        },
+        {
+          "authorId": "2115434055",
+          "name": "Yongxian Fan"
+        },
+        {
+          "authorId": "2164891681",
+          "name": "Guicong Sun"
+        }
+      ]
+    },
+    {
+      "paperId": "beb0f8e962ebcd54e3066a41a3da5b4e321ef6a6",
+      "externalIds": {
+        "DBLP": "journals/ijon/QayyumLM22",
+        "PubMedCentral": "9095500",
+        "DOI": "10.1016/j.neucom.2022.05.009",
+        "CorpusId": 248698251,
+        "PubMed": "35578654"
+      },
+      "url": "https://www.semanticscholar.org/paper/beb0f8e962ebcd54e3066a41a3da5b4e321ef6a6",
+      "title": "Effective multiscale deep learning model for COVID19 segmentation tasks: A further step towards helping radiologist",
+      "venue": "Neurocomputing",
+      "year": 2022,
+      "referenceCount": 69,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "2150283773",
+          "name": "Abdul Qayyum"
+        },
+        {
+          "authorId": "2185063",
+          "name": "A. Lalande"
+        },
+        {
+          "authorId": "1744434",
+          "name": "F. Mériaudeau"
+        }
+      ]
+    },
+    {
+      "paperId": "11cfe791cde06121ce53c84fc09e7939722f8464",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2205-01491",
+        "ArXiv": "2205.01491",
+        "DOI": "10.1016/j.patcog.2023.109347",
+        "CorpusId": 248505691
+      },
+      "url": "https://www.semanticscholar.org/paper/11cfe791cde06121ce53c84fc09e7939722f8464",
+      "title": "A Comprehensive Survey of Image Augmentation Techniques for Deep Learning",
+      "venue": "Pattern Recognition",
+      "year": 2022,
+      "referenceCount": 116,
+      "citationCount": 595,
+      "authors": [
+        {
+          "authorId": "2153557760",
+          "name": "Mingle Xu"
+        },
+        {
+          "authorId": "144056872",
+          "name": "Sook Yoon"
+        },
+        {
+          "authorId": "145178229",
+          "name": "A. Fuentes"
+        },
+        {
+          "authorId": "2172680",
+          "name": "D. Park"
+        }
+      ]
+    },
+    {
+      "paperId": "d6d265d2ea2ff8c251923f3c871a15a51ee53623",
+      "externalIds": {
+        "CorpusId": 245835367
+      },
+      "url": "https://www.semanticscholar.org/paper/d6d265d2ea2ff8c251923f3c871a15a51ee53623",
+      "title": "on Matter under Extreme Conditions in Solar System Giant Planets and Exoplanets, Inverse Problems and Deep Learning",
+      "venue": "",
+      "year": 2022,
+      "referenceCount": 4,
+      "citationCount": 0,
+      "authors": []
+    },
+    {
+      "paperId": "93232e8be6606cc46614c9b6a9d68a943437ca4a",
+      "externalIds": {
+        "PubMedCentral": "6722613",
+        "MAG": "2965952014",
+        "DOI": "10.3390/genes10080587",
+        "CorpusId": 199388622,
+        "PubMed": "31374967"
+      },
+      "url": "https://www.semanticscholar.org/paper/93232e8be6606cc46614c9b6a9d68a943437ca4a",
+      "title": "Deep Splicing Code: Classifying Alternative Splicing Events Using Deep Learning",
+      "venue": "Genes",
+      "year": 2019,
+      "referenceCount": 51,
+      "citationCount": 30,
+      "authors": [
+        {
+          "authorId": "51940461",
+          "name": "Z. Louadi"
+        },
+        {
+          "authorId": "51894989",
+          "name": "Mhaned Oubounyt"
+        },
+        {
+          "authorId": "8652102",
+          "name": "Hilal Tayara"
+        },
+        {
+          "authorId": "1968184",
+          "name": "K. Chong"
+        }
+      ]
+    },
+    {
+      "paperId": "e58f32380f4138bf39e8711b9eb58c112b51416a",
+      "externalIds": {
+        "MAG": "2963740276",
+        "DOI": "10.1177/0972150919845160",
+        "CorpusId": 200060380
+      },
+      "url": "https://www.semanticscholar.org/paper/e58f32380f4138bf39e8711b9eb58c112b51416a",
+      "title": "Deep Learning-based Sentiment Analysis: Establishing Customer Dimension as the Lifeblood of Business Management",
+      "venue": "Global Business Review",
+      "year": 2019,
+      "referenceCount": 20,
+      "citationCount": 27,
+      "authors": [
+        {
+          "authorId": "145092061",
+          "name": "Sonali Agarwal"
+        }
+      ]
+    },
+    {
+      "paperId": "81b166898e83eb7ae127bc99e45bcf889069088b",
+      "externalIds": {
+        "MAG": "2896699990",
+        "DBLP": "journals/access/OubounytLTC18",
+        "DOI": "10.1109/ACCESS.2018.2874208",
+        "CorpusId": 53230411
+      },
+      "url": "https://www.semanticscholar.org/paper/81b166898e83eb7ae127bc99e45bcf889069088b",
+      "title": "Deep Learning Models Based on Distributed Feature Representations for Alternative Splicing Prediction",
+      "venue": "IEEE Access",
+      "year": 2018,
+      "referenceCount": 30,
+      "citationCount": 32,
+      "authors": [
+        {
+          "authorId": "51894989",
+          "name": "Mhaned Oubounyt"
+        },
+        {
+          "authorId": "51940461",
+          "name": "Z. Louadi"
+        },
+        {
+          "authorId": "8652102",
+          "name": "Hilal Tayara"
+        },
+        {
+          "authorId": "134271928",
+          "name": "Kil To Chong"
+        }
+      ]
+    }
+  ]
+}

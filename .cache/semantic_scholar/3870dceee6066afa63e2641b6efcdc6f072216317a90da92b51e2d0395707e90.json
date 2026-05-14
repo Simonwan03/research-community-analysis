@@ -1,0 +1,315 @@
+{
+  "total": 25,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "d39e1ad6f47b2edcfb3b8333b7469e849602ddd4",
+      "externalIds": {
+        "MAG": "2786384882",
+        "DBLP": "conf/icml/RyderGMP18",
+        "ArXiv": "1802.03335",
+        "CorpusId": 51882380
+      },
+      "url": "https://www.semanticscholar.org/paper/d39e1ad6f47b2edcfb3b8333b7469e849602ddd4",
+      "title": "Black-Box Variational Inference for Stochastic Differential Equations",
+      "venue": "International Conference on Machine Learning",
+      "year": 2018,
+      "referenceCount": 38,
+      "citationCount": 70,
+      "authors": [
+        {
+          "authorId": "51987067",
+          "name": "Tom Ryder"
+        },
+        {
+          "authorId": "1796875",
+          "name": "A. Golightly"
+        },
+        {
+          "authorId": "145924176",
+          "name": "A. Mcgough"
+        },
+        {
+          "authorId": "1990222",
+          "name": "D. Prangle"
+        }
+      ]
+    },
+    {
+      "paperId": "c73211167d621446593f0859f12b6f0679f06b22",
+      "externalIds": {
+        "ArXiv": "1905.09883",
+        "MAG": "2945959973",
+        "DBLP": "journals/corr/abs-1905-09883",
+        "CorpusId": 165163523
+      },
+      "url": "https://www.semanticscholar.org/paper/c73211167d621446593f0859f12b6f0679f06b22",
+      "title": "Neural Stochastic Differential Equations: Deep Latent Gaussian Models in the Diffusion Limit",
+      "venue": "arXiv.org",
+      "year": 2019,
+      "referenceCount": 41,
+      "citationCount": 251,
+      "authors": [
+        {
+          "authorId": "5842884",
+          "name": "Belinda Tzen"
+        },
+        {
+          "authorId": "1693598",
+          "name": "M. Raginsky"
+        }
+      ]
+    },
+    {
+      "paperId": "e1380f2e78bc4185b341856a705dfb15972ef218",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2408-06069",
+        "ArXiv": "2408.06069",
+        "DOI": "10.48550/arXiv.2408.06069",
+        "CorpusId": 271855821
+      },
+      "url": "https://www.semanticscholar.org/paper/e1380f2e78bc4185b341856a705dfb15972ef218",
+      "title": "Fully Bayesian Differential Gaussian Processes through Stochastic Differential Equations",
+      "venue": "Knowledge-Based Systems",
+      "year": 2024,
+      "referenceCount": 78,
+      "citationCount": 4,
+      "authors": [
+        {
+          "authorId": "2244162557",
+          "name": "Jian Xu"
+        },
+        {
+          "authorId": "2315123395",
+          "name": "Zhiqi Lin"
+        },
+        {
+          "authorId": "2315316251",
+          "name": "Min Chen"
+        },
+        {
+          "authorId": "2243330371",
+          "name": "Junmei Yang"
+        },
+        {
+          "authorId": "2244622763",
+          "name": "Delu Zeng"
+        },
+        {
+          "authorId": "2310341385",
+          "name": "John W. Paisley"
+        }
+      ]
+    },
+    {
+      "paperId": "fd3e774174f660408915d09125234648bbe517d9",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2412-12112",
+        "ArXiv": "2412.12112",
+        "DOI": "10.48550/arXiv.2412.12112",
+        "CorpusId": 274788892
+      },
+      "url": "https://www.semanticscholar.org/paper/fd3e774174f660408915d09125234648bbe517d9",
+      "title": "Generative Modeling of Neural Dynamics via Latent Stochastic Differential Equations",
+      "venue": "arXiv.org",
+      "year": 2024,
+      "referenceCount": 87,
+      "citationCount": 6,
+      "authors": [
+        {
+          "authorId": "2248260730",
+          "name": "A. Elgazzar"
+        },
+        {
+          "authorId": "143799386",
+          "name": "M. Gerven"
+        }
+      ]
+    },
+    {
+      "paperId": "c7a013e15be6fcef46f6a211b62f0410f57d4a5c",
+      "externalIds": {
+        "CorpusId": 209318657
+      },
+      "url": "https://www.semanticscholar.org/paper/c7a013e15be6fcef46f6a211b62f0410f57d4a5c",
+      "title": "Distributional Bayesian optimisation for variational inference on black-box simulators",
+      "venue": "",
+      "year": 2019,
+      "referenceCount": 20,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "144880277",
+          "name": "Rafael Oliveira"
+        },
+        {
+          "authorId": "2065760",
+          "name": "Lionel Ott"
+        },
+        {
+          "authorId": "153279354",
+          "name": "Fabio Ramos"
+        }
+      ]
+    },
+    {
+      "paperId": "b6a5444a6e705283d0bf77c5ab115e320bb0e419",
+      "externalIds": {
+        "ArXiv": "2407.20697",
+        "DBLP": "journals/corr/abs-2407-20697",
+        "DOI": "10.48550/arXiv.2407.20697",
+        "CorpusId": 271544030
+      },
+      "url": "https://www.semanticscholar.org/paper/b6a5444a6e705283d0bf77c5ab115e320bb0e419",
+      "title": "Weak neural variational inference for solving Bayesian inverse problems without forward models: applications in elastography",
+      "venue": "Computer Methods in Applied Mechanics and Engineering",
+      "year": 2024,
+      "referenceCount": 80,
+      "citationCount": 8,
+      "authors": [
+        {
+          "authorId": "2313728355",
+          "name": "Vincent C. Scholz"
+        },
+        {
+          "authorId": "2313729535",
+          "name": "Yaohua Zang"
+        },
+        {
+          "authorId": "2415520",
+          "name": "P. Koutsourelakis"
+        }
+      ]
+    },
+    {
+      "paperId": "be28302579cc0dcf46d3acdcfba36564070fc36c",
+      "externalIds": {
+        "CorpusId": 251342215
+      },
+      "url": "https://www.semanticscholar.org/paper/be28302579cc0dcf46d3acdcfba36564070fc36c",
+      "title": "Variational Inference for Soil Biogeochemical Models",
+      "venue": "",
+      "year": 2022,
+      "referenceCount": 28,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "20479351",
+          "name": "D. Sujono"
+        },
+        {
+          "authorId": "2117711950",
+          "name": "Hua W. Xie"
+        },
+        {
+          "authorId": "2168425",
+          "name": "S. Allison"
+        },
+        {
+          "authorId": "1799035",
+          "name": "Erik B. Sudderth"
+        }
+      ]
+    },
+    {
+      "paperId": "c274c48827a543ceb032855081e5362caaf53c31",
+      "externalIds": {
+        "DBLP": "conf/uai/ChapfuwaRCMH22",
+        "ArXiv": "2202.12932",
+        "CorpusId": 247158848,
+        "PubMed": "40969331"
+      },
+      "url": "https://www.semanticscholar.org/paper/c274c48827a543ceb032855081e5362caaf53c31",
+      "title": "Capturing Actionable Dynamics with Structured Latent Ordinary Differential Equations",
+      "venue": "Conference on Uncertainty in Artificial Intelligence",
+      "year": 2022,
+      "referenceCount": 45,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "41066349",
+          "name": "Paidamoyo Chapfuwa"
+        },
+        {
+          "authorId": "48345067",
+          "name": "Sherri Rose"
+        },
+        {
+          "authorId": "145006560",
+          "name": "L. Carin"
+        },
+        {
+          "authorId": "2848132",
+          "name": "Edward Meeds"
+        },
+        {
+          "authorId": "145153424",
+          "name": "Ricardo Henao"
+        }
+      ]
+    },
+    {
+      "paperId": "309c5ae93a4cabfd37747abd130866240e265b2d",
+      "externalIds": {
+        "ArXiv": "1905.12090",
+        "MAG": "2949148662",
+        "DBLP": "conf/icml/RoederGPDM19",
+        "CorpusId": 168169766
+      },
+      "url": "https://www.semanticscholar.org/paper/309c5ae93a4cabfd37747abd130866240e265b2d",
+      "title": "Efficient Amortised Bayesian Inference for Hierarchical and Nonlinear Dynamical Systems",
+      "venue": "International Conference on Machine Learning",
+      "year": 2019,
+      "referenceCount": 51,
+      "citationCount": 25,
+      "authors": [
+        {
+          "authorId": "6574647",
+          "name": "Geoffrey Roeder"
+        },
+        {
+          "authorId": "4063037",
+          "name": "Paul K. Grant"
+        },
+        {
+          "authorId": "145792830",
+          "name": "Andrew Phillips"
+        },
+        {
+          "authorId": "1939942",
+          "name": "Neil Dalchau"
+        },
+        {
+          "authorId": "2848132",
+          "name": "Edward Meeds"
+        }
+      ]
+    },
+    {
+      "paperId": "c16b4afe1389b99c43e07d30db6e05e2338e54bf",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2007-02725",
+        "ArXiv": "2007.02725",
+        "MAG": "3039366874",
+        "CorpusId": 220363617
+      },
+      "url": "https://www.semanticscholar.org/paper/c16b4afe1389b99c43e07d30db6e05e2338e54bf",
+      "title": "The FMRIB Variational Bayesian Inference Tutorial II: Stochastic Variational Bayes",
+      "venue": "arXiv.org",
+      "year": 2020,
+      "referenceCount": 4,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "145750031",
+          "name": "M. Chappell"
+        },
+        {
+          "authorId": "1813998",
+          "name": "M. Woolrich"
+        }
+      ]
+    }
+  ]
+}

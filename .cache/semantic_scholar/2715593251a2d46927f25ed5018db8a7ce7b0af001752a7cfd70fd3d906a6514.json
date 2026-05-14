@@ -1,0 +1,322 @@
+{
+  "total": 10016,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "123b9de009865472c660192f8072493a48352dc2",
+      "externalIds": {
+        "DBLP": "conf/icml/LebretPC15",
+        "MAG": "1828348983",
+        "ArXiv": "1502.03671",
+        "CorpusId": 12064358
+      },
+      "url": "https://www.semanticscholar.org/paper/123b9de009865472c660192f8072493a48352dc2",
+      "title": "Phrase-based Image Captioning",
+      "venue": "International Conference on Machine Learning",
+      "year": 2015,
+      "referenceCount": 31,
+      "citationCount": 124,
+      "authors": [
+        {
+          "authorId": "2875254",
+          "name": "R. Lebret"
+        },
+        {
+          "authorId": "2708655",
+          "name": "Pedro H. O. Pinheiro"
+        },
+        {
+          "authorId": "2939803",
+          "name": "R. Collobert"
+        }
+      ]
+    },
+    {
+      "paperId": "e70af721dbf04ab8aacc138d75c808588612289b",
+      "externalIds": {
+        "ArXiv": "1711.05557",
+        "MAG": "2768944112",
+        "DBLP": "journals/corr/abs-1711-05557",
+        "CorpusId": 11630380
+      },
+      "url": "https://www.semanticscholar.org/paper/e70af721dbf04ab8aacc138d75c808588612289b",
+      "title": "Phrase-based Image Captioning with Hierarchical LSTM Model",
+      "venue": "arXiv.org",
+      "year": 2017,
+      "referenceCount": 50,
+      "citationCount": 5,
+      "authors": [
+        {
+          "authorId": "143692915",
+          "name": "Y. Tan"
+        },
+        {
+          "authorId": "2863960",
+          "name": "Chee Seng Chan"
+        }
+      ]
+    },
+    {
+      "paperId": "760a7ed58cf49fa5dbcfb7f06b67cea2cd35f768",
+      "externalIds": {
+        "MAG": "2907279673",
+        "DBLP": "journals/ijon/TanC19",
+        "DOI": "10.1016/J.NEUCOM.2018.12.026",
+        "CorpusId": 67789014
+      },
+      "url": "https://www.semanticscholar.org/paper/760a7ed58cf49fa5dbcfb7f06b67cea2cd35f768",
+      "title": "Phrase-based image caption generator with hierarchical LSTM network",
+      "venue": "Neurocomputing",
+      "year": 2019,
+      "referenceCount": 57,
+      "citationCount": 68,
+      "authors": [
+        {
+          "authorId": "143692915",
+          "name": "Y. Tan"
+        },
+        {
+          "authorId": "2863960",
+          "name": "Chee Seng Chan"
+        }
+      ]
+    },
+    {
+      "paperId": "e07183a8d585a9c5860ea712095fbff6ab893103",
+      "externalIds": {
+        "DBLP": "conf/accv/TanC16",
+        "MAG": "2952646630",
+        "ArXiv": "1608.05813",
+        "DOI": "10.1007/978-3-319-54193-8_7",
+        "CorpusId": 8486003
+      },
+      "url": "https://www.semanticscholar.org/paper/e07183a8d585a9c5860ea712095fbff6ab893103",
+      "title": "phi-LSTM: A Phrase-Based Hierarchical LSTM Model for Image Captioning",
+      "venue": "Asian Conference on Computer Vision",
+      "year": 2016,
+      "referenceCount": 40,
+      "citationCount": 33,
+      "authors": [
+        {
+          "authorId": "143692915",
+          "name": "Y. Tan"
+        },
+        {
+          "authorId": "2863960",
+          "name": "Chee Seng Chan"
+        }
+      ]
+    },
+    {
+      "paperId": "97a38643c8c06320277582453287e6a43dfc150a",
+      "externalIds": {
+        "DOI": "10.1109/ASIP65980.2025.00024",
+        "CorpusId": 282611935
+      },
+      "url": "https://www.semanticscholar.org/paper/97a38643c8c06320277582453287e6a43dfc150a",
+      "title": "Enhancing Boosting-Guided Image Captioning with Scene-Graph-Based Vision Transformer Integrated with GAN",
+      "venue": "2025 7th Asia Symposium on Image Processing (ASIP)",
+      "year": 2025,
+      "referenceCount": 38,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2116758309",
+          "name": "Yizhen Wang"
+        }
+      ]
+    },
+    {
+      "paperId": "69412966c12141043e0a4d17ec693b4b536fce81",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2504-16072",
+        "ArXiv": "2504.16072",
+        "DOI": "10.48550/arXiv.2504.16072",
+        "CorpusId": 277993689
+      },
+      "url": "https://www.semanticscholar.org/paper/69412966c12141043e0a4d17ec693b4b536fce81",
+      "title": "Describe Anything: Detailed Localized Image and Video Captioning",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "referenceCount": 96,
+      "citationCount": 69,
+      "authors": [
+        {
+          "authorId": "2249587117",
+          "name": "Long Lian"
+        },
+        {
+          "authorId": "2356785654",
+          "name": "Yifan Ding"
+        },
+        {
+          "authorId": "2299104362",
+          "name": "Yunhao Ge"
+        },
+        {
+          "authorId": "2307567816",
+          "name": "Sifei Liu"
+        },
+        {
+          "authorId": "2313167739",
+          "name": "Hanzi Mao"
+        },
+        {
+          "authorId": "2381417161",
+          "name": "Boyi Li"
+        },
+        {
+          "authorId": "2328979520",
+          "name": "Marco Pavone"
+        },
+        {
+          "authorId": "2299018949",
+          "name": "Ming-Yu Liu"
+        },
+        {
+          "authorId": "2327334625",
+          "name": "Trevor Darrell"
+        },
+        {
+          "authorId": "2281035913",
+          "name": "A. Yala"
+        },
+        {
+          "authorId": "2299115514",
+          "name": "Yin Cui"
+        }
+      ]
+    },
+    {
+      "paperId": "89f7f043d086c20bb741795599014c7dc834bbc0",
+      "externalIds": {
+        "DOI": "10.47974/jdmsc-1728",
+        "CorpusId": 263323071
+      },
+      "url": "https://www.semanticscholar.org/paper/89f7f043d086c20bb741795599014c7dc834bbc0",
+      "title": "Double awareness mechanism based deep learning framework for image captioning",
+      "venue": "Journal of Discrete Mathematical Sciences and Cryptography",
+      "year": 2023,
+      "referenceCount": 0,
+      "citationCount": 0,
+      "authors": []
+    },
+    {
+      "paperId": "8474e1be5a67a1674b96cf9f9089f508735c915f",
+      "externalIds": {
+        "DOI": "10.1109/ICOIACT55506.2022.9971855",
+        "CorpusId": 254610997
+      },
+      "url": "https://www.semanticscholar.org/paper/8474e1be5a67a1674b96cf9f9089f508735c915f",
+      "title": "Automatic Indonesian Image Captioning using CNN and Transformer-Based Model Approach",
+      "venue": "2022 5th International Conference on Information and Communications Technology (ICOIACT)",
+      "year": 2022,
+      "referenceCount": 30,
+      "citationCount": 4,
+      "authors": [
+        {
+          "authorId": "2196030872",
+          "name": "Rifqi Mulyawan"
+        },
+        {
+          "authorId": "2079586900",
+          "name": "A. Sunyoto"
+        },
+        {
+          "authorId": "2176268393",
+          "name": "Alva Hendi Muhammad"
+        }
+      ]
+    },
+    {
+      "paperId": "5911fbced535d59784f515adc00b283e6f8c1405",
+      "externalIds": {
+        "MAG": "2760496796",
+        "DBLP": "journals/mta/ZhengWMCXS18",
+        "DOI": "10.1007/s11042-017-5236-2",
+        "CorpusId": 23375207
+      },
+      "url": "https://www.semanticscholar.org/paper/5911fbced535d59784f515adc00b283e6f8c1405",
+      "title": "Weakly-supervised image captioning based on rich contextual information",
+      "venue": "Multimedia tools and applications",
+      "year": 2018,
+      "referenceCount": 32,
+      "citationCount": 11,
+      "authors": [
+        {
+          "authorId": "16215052",
+          "name": "Haitao Zheng"
+        },
+        {
+          "authorId": "2108194296",
+          "name": "Zhe Wang"
+        },
+        {
+          "authorId": "47582400",
+          "name": "Ningning Ma"
+        },
+        {
+          "authorId": "2108216248",
+          "name": "Jin-Yuan Chen"
+        },
+        {
+          "authorId": "144432144",
+          "name": "Xi Xiao"
+        },
+        {
+          "authorId": "3097765",
+          "name": "A. K. Sangaiah"
+        }
+      ]
+    },
+    {
+      "paperId": "8e17d54fc97c5e3d34606531ea59260f48365310",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2301-01955",
+        "DOI": "10.48550/arXiv.2301.01955",
+        "CorpusId": 255440590
+      },
+      "url": "https://www.semanticscholar.org/paper/8e17d54fc97c5e3d34606531ea59260f48365310",
+      "title": "Adaptively Clustering Neighbor Elements for Image Captioning",
+      "venue": "arXiv.org",
+      "year": 2023,
+      "referenceCount": 66,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "2193451398",
+          "name": "Zihua Wang"
+        },
+        {
+          "authorId": "2143731503",
+          "name": "Xu Yang"
+        },
+        {
+          "authorId": "153194420",
+          "name": "Haiyang Xu"
+        },
+        {
+          "authorId": "5462268",
+          "name": "Hanwang Zhang"
+        },
+        {
+          "authorId": "143971529",
+          "name": "Chenliang Li"
+        },
+        {
+          "authorId": "2410938",
+          "name": "Songfang Huang"
+        },
+        {
+          "authorId": "4443395",
+          "name": "Feisi Huang"
+        },
+        {
+          "authorId": "2153638435",
+          "name": "Yu Zhang"
+        }
+      ]
+    }
+  ]
+}

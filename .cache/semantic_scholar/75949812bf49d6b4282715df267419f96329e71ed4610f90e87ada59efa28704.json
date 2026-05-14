@@ -1,0 +1,315 @@
+{
+  "total": 5057,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "66021a920001bc3e6258bffe7076d647614147b7",
+      "externalIds": {
+        "MAG": "658020064",
+        "DBLP": "conf/icml/KusnerSKW15",
+        "CorpusId": 14674248
+      },
+      "url": "https://www.semanticscholar.org/paper/66021a920001bc3e6258bffe7076d647614147b7",
+      "title": "From Word Embeddings To Document Distances",
+      "venue": "International Conference on Machine Learning",
+      "year": 2015,
+      "referenceCount": 49,
+      "citationCount": 2243,
+      "authors": [
+        {
+          "authorId": "1940272",
+          "name": "Matt J. Kusner"
+        },
+        {
+          "authorId": "2117103358",
+          "name": "Yu Sun"
+        },
+        {
+          "authorId": "1971973",
+          "name": "Nicholas I. Kolkin"
+        },
+        {
+          "authorId": "7446832",
+          "name": "Kilian Q. Weinberger"
+        }
+      ]
+    },
+    {
+      "paperId": "d134beb5212a804ff23a2867b4c549dc75d42913",
+      "externalIds": {
+        "DBLP": "journals/tnn/ChengLC24",
+        "DOI": "10.1109/TNNLS.2022.3222336",
+        "CorpusId": 253839080,
+        "PubMed": "36417733"
+      },
+      "url": "https://www.semanticscholar.org/paper/d134beb5212a804ff23a2867b4c549dc75d42913",
+      "title": "Eliminating Negative Word Similarities for Measuring Document Distances: A Thoroughly Empirical Study on Word Mover’s Distance",
+      "venue": "IEEE Transactions on Neural Networks and Learning Systems",
+      "year": 2022,
+      "referenceCount": 50,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "2192036026",
+          "name": "Bo Cheng"
+        },
+        {
+          "authorId": "2394129064",
+          "name": "Ximing Li"
+        },
+        {
+          "authorId": "145882798",
+          "name": "Yi Chang"
+        }
+      ]
+    },
+    {
+      "paperId": "430f82ed07f8235564605d87754d80e74be13f3c",
+      "externalIds": {
+        "MAG": "2990173481",
+        "DBLP": "journals/ijdsa/UnnamR20",
+        "DOI": "10.1007/s41060-019-00200-5",
+        "CorpusId": 208279561
+      },
+      "url": "https://www.semanticscholar.org/paper/430f82ed07f8235564605d87754d80e74be13f3c",
+      "title": "A document representation framework with interpretable features using pre-trained word embeddings",
+      "venue": "International Journal of Data Science and Analysis",
+      "year": 2019,
+      "referenceCount": 42,
+      "citationCount": 7,
+      "authors": [
+        {
+          "authorId": "1430770887",
+          "name": "N. Unnam"
+        },
+        {
+          "authorId": "2245963108",
+          "name": "P. Krishna Reddy"
+        }
+      ]
+    },
+    {
+      "paperId": "0f779a09a1a11756f85eed151f8071058bc7030b",
+      "externalIds": {
+        "DOI": "10.1007/s41060-019-00200-5",
+        "CorpusId": 256471848
+      },
+      "url": "https://www.semanticscholar.org/paper/0f779a09a1a11756f85eed151f8071058bc7030b",
+      "title": "A document representation framework with interpretable features using pre-trained word embeddings",
+      "venue": "International Journal of Data Science and Analysis",
+      "year": 2019,
+      "referenceCount": 0,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "1430770887",
+          "name": "N. Unnam"
+        },
+        {
+          "authorId": "1406013475",
+          "name": "P. Reddy"
+        }
+      ]
+    },
+    {
+      "paperId": "395252774cd479508d27988d6246ce8c2555bea8",
+      "externalIds": {
+        "DBLP": "conf/ecai/WernerL20",
+        "MAG": "2989649782",
+        "ArXiv": "1912.00509",
+        "DOI": "10.3233/FAIA200346",
+        "CorpusId": 208527158
+      },
+      "url": "https://www.semanticscholar.org/paper/395252774cd479508d27988d6246ce8c2555bea8",
+      "title": "Speeding up Word Mover's Distance and its variants via properties of distances between embeddings",
+      "venue": "European Conference on Artificial Intelligence",
+      "year": 2019,
+      "referenceCount": 26,
+      "citationCount": 14,
+      "authors": [
+        {
+          "authorId": "1438928416",
+          "name": "Matheus Werner"
+        },
+        {
+          "authorId": "1741948",
+          "name": "E. Laber"
+        }
+      ]
+    },
+    {
+      "paperId": "6f2f98675111546c74bc4bdc19dcf33a92594afb",
+      "externalIds": {
+        "MAG": "2984905658",
+        "DBLP": "conf/cikm/WangA019",
+        "DOI": "10.1145/3357384.3358051",
+        "CorpusId": 207757574
+      },
+      "url": "https://www.semanticscholar.org/paper/6f2f98675111546c74bc4bdc19dcf33a92594afb",
+      "title": "Beyond word2vec: Distance-graph Tensor Factorization for Word and Document Embeddings",
+      "venue": "International Conference on Information and Knowledge Management",
+      "year": 2019,
+      "referenceCount": 43,
+      "citationCount": 6,
+      "authors": [
+        {
+          "authorId": "2893721",
+          "name": "Suhang Wang"
+        },
+        {
+          "authorId": "1682418",
+          "name": "C. Aggarwal"
+        },
+        {
+          "authorId": "145896397",
+          "name": "Huan Liu"
+        }
+      ]
+    },
+    {
+      "paperId": "ab4d732a188e8f722cb279b1e3f8afada6721819",
+      "externalIds": {
+        "DBLP": "conf/dexaw/WittSG16",
+        "MAG": "2576766583",
+        "DOI": "10.1109/DEXA.2016.052",
+        "CorpusId": 1215666
+      },
+      "url": "https://www.semanticscholar.org/paper/ab4d732a188e8f722cb279b1e3f8afada6721819",
+      "title": "Explaining Topical Distances Using Word Embeddings",
+      "venue": "International Conference on Database and Expert Systems Applications",
+      "year": 2016,
+      "referenceCount": 14,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "2074816352",
+          "name": "Nils Witt"
+        },
+        {
+          "authorId": "145566115",
+          "name": "C. Seifert"
+        },
+        {
+          "authorId": "2389675",
+          "name": "M. Granitzer"
+        }
+      ]
+    },
+    {
+      "paperId": "7ed9bb7cc195a1459ffce66e3abd89ade56a2b67",
+      "externalIds": {
+        "MAG": "2771973693",
+        "DBLP": "conf/ijcnlp/MasumuraAMSNH17",
+        "ACL": "I17-2036",
+        "CorpusId": 39388676
+      },
+      "url": "https://www.semanticscholar.org/paper/7ed9bb7cc195a1459ffce66e3abd89ade56a2b67",
+      "title": "Hyperspherical Query Likelihood Models with Word Embeddings",
+      "venue": "International Joint Conference on Natural Language Processing",
+      "year": 2017,
+      "referenceCount": 26,
+      "citationCount": 4,
+      "authors": [
+        {
+          "authorId": "2874205",
+          "name": "Ryo Masumura"
+        },
+        {
+          "authorId": "2468596",
+          "name": "Taichi Asami"
+        },
+        {
+          "authorId": "2303809",
+          "name": "H. Masataki"
+        },
+        {
+          "authorId": "2804963",
+          "name": "Kugatsu Sadamitsu"
+        },
+        {
+          "authorId": "2963420",
+          "name": "Kyosuke Nishida"
+        },
+        {
+          "authorId": "1727547",
+          "name": "Ryuichiro Higashinaka"
+        }
+      ]
+    },
+    {
+      "paperId": "2af621d0cb9e7ae92cc9c5b8b38868335db22824",
+      "externalIds": {
+        "MAG": "2806728004",
+        "DBLP": "conf/lrec/SuzukiKASS18",
+        "ACL": "L18-1162",
+        "CorpusId": 21709802
+      },
+      "url": "https://www.semanticscholar.org/paper/2af621d0cb9e7ae92cc9c5b8b38868335db22824",
+      "title": "All-words Word Sense Disambiguation Using Concept Embeddings",
+      "venue": "International Conference on Language Resources and Evaluation",
+      "year": 2018,
+      "referenceCount": 10,
+      "citationCount": 8,
+      "authors": [
+        {
+          "authorId": "153372791",
+          "name": "Rui Suzuki"
+        },
+        {
+          "authorId": "1760273",
+          "name": "Kanako Komiya"
+        },
+        {
+          "authorId": "1749558",
+          "name": "Masayuki Asahara"
+        },
+        {
+          "authorId": "151439121",
+          "name": "Minoru Sasaki"
+        },
+        {
+          "authorId": "1734560",
+          "name": "Hiroyuki Shinnou"
+        }
+      ]
+    },
+    {
+      "paperId": "d17aa2406193a3d89f5330561095236fdc3c65c3",
+      "externalIds": {
+        "DBLP": "conf/IEEEwisa/HeLQZ018",
+        "MAG": "2901404471",
+        "DOI": "10.1007/978-3-030-02934-0_22",
+        "CorpusId": 59336915
+      },
+      "url": "https://www.semanticscholar.org/paper/d17aa2406193a3d89f5330561095236fdc3c65c3",
+      "title": "Word Embedding Based Document Similarity for the Inferring of Penalty",
+      "venue": "Web Information System and Application Conference",
+      "year": 2018,
+      "referenceCount": 29,
+      "citationCount": 7,
+      "authors": [
+        {
+          "authorId": "2281761",
+          "name": "Tieke He"
+        },
+        {
+          "authorId": "2098204",
+          "name": "Hao Lian"
+        },
+        {
+          "authorId": "46243673",
+          "name": "Zemin Qin"
+        },
+        {
+          "authorId": "73478256",
+          "name": "Zhipeng Zou"
+        },
+        {
+          "authorId": "152196691",
+          "name": "B. Luo"
+        }
+      ]
+    }
+  ]
+}

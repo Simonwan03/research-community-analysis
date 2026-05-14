@@ -1,0 +1,55 @@
+{
+  "total": 2,
+  "offset": 0,
+  "data": [
+    {
+      "paperId": "deb421b829dfd30ee1105b9fc9542084269dcbaf",
+      "externalIds": {
+        "DBLP": "conf/icml/ChouMS17",
+        "MAG": "2740828027",
+        "CorpusId": 36653144
+      },
+      "url": "https://www.semanticscholar.org/paper/deb421b829dfd30ee1105b9fc9542084269dcbaf",
+      "title": "Improving Stochastic Policy Gradients in Continuous Control with Deep Reinforcement Learning using the Beta Distribution",
+      "venue": "International Conference on Machine Learning",
+      "year": 2017,
+      "referenceCount": 42,
+      "citationCount": 211,
+      "authors": [
+        {
+          "authorId": "34687381",
+          "name": "Po-wei Chou"
+        },
+        {
+          "authorId": "2043965",
+          "name": "D. Maturana"
+        },
+        {
+          "authorId": "32634992",
+          "name": "S. Scherer"
+        }
+      ]
+    },
+    {
+      "paperId": "03b6dc793a3b76e81223f6f37a5c327b93f3f8af",
+      "externalIds": {
+        "ArXiv": "2409.04971",
+        "DBLP": "journals/corr/abs-2409-04971",
+        "DOI": "10.48550/arXiv.2409.04971",
+        "CorpusId": 272525081
+      },
+      "url": "https://www.semanticscholar.org/paper/03b6dc793a3b76e81223f6f37a5c327b93f3f8af",
+      "title": "Soft Actor-Critic with Beta Policy via Implicit Reparameterization Gradients",
+      "venue": "arXiv.org",
+      "year": 2024,
+      "referenceCount": 27,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "122566053",
+          "name": "Luca Della Libera"
+        }
+      ]
+    }
+  ]
+}

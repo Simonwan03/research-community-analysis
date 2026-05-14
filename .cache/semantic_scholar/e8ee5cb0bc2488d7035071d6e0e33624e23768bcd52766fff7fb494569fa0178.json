@@ -1,0 +1,320 @@
+{
+  "total": 1401,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "3b36b51f540e0b5a9455bdd0cae6eeddf57f63a3",
+      "externalIds": {
+        "MAG": "2950698768",
+        "ArXiv": "1703.02645",
+        "DBLP": "conf/icml/KocaogluDV17",
+        "CorpusId": 223223
+      },
+      "url": "https://www.semanticscholar.org/paper/3b36b51f540e0b5a9455bdd0cae6eeddf57f63a3",
+      "title": "Cost-Optimal Learning of Causal Graphs",
+      "venue": "International Conference on Machine Learning",
+      "year": 2017,
+      "referenceCount": 32,
+      "citationCount": 75,
+      "authors": [
+        {
+          "authorId": "3124214",
+          "name": "Murat Kocaoglu"
+        },
+        {
+          "authorId": "1718469",
+          "name": "A. Dimakis"
+        },
+        {
+          "authorId": "144367713",
+          "name": "S. Vishwanath"
+        }
+      ]
+    },
+    {
+      "paperId": "90e814297de699bb269e75be98ea8209605fd33f",
+      "externalIds": {
+        "MAG": "2952352951",
+        "DBLP": "conf/nips/LindgrenKDV18",
+        "ArXiv": "1810.11867",
+        "CorpusId": 53095780
+      },
+      "url": "https://www.semanticscholar.org/paper/90e814297de699bb269e75be98ea8209605fd33f",
+      "title": "Experimental Design for Cost-Aware Learning of Causal Graphs",
+      "venue": "Neural Information Processing Systems",
+      "year": 2018,
+      "referenceCount": 37,
+      "citationCount": 38,
+      "authors": [
+        {
+          "authorId": "2091327589",
+          "name": "Erik M. Lindgren"
+        },
+        {
+          "authorId": "3124214",
+          "name": "Murat Kocaoglu"
+        },
+        {
+          "authorId": "1718469",
+          "name": "A. Dimakis"
+        },
+        {
+          "authorId": "144367713",
+          "name": "S. Vishwanath"
+        }
+      ]
+    },
+    {
+      "paperId": "3c1a477964909b76bfea1ce3fab5a6ac6070379c",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2505-08343",
+        "ArXiv": "2505.08343",
+        "DOI": "10.48550/arXiv.2505.08343",
+        "CorpusId": 278534926,
+        "PubMed": "41161205"
+      },
+      "url": "https://www.semanticscholar.org/paper/3c1a477964909b76bfea1ce3fab5a6ac6070379c",
+      "title": "An Identifiable Cost-Aware Causal Decision-Making Framework Using Counterfactual Reasoning",
+      "venue": "Neural Networks",
+      "year": 2025,
+      "referenceCount": 45,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "39913331",
+          "name": "Ruichu Cai"
+        },
+        {
+          "authorId": "2316793384",
+          "name": "Xi Chen"
+        },
+        {
+          "authorId": "2054649406",
+          "name": "Jie Qiao"
+        },
+        {
+          "authorId": "2296827897",
+          "name": "Zijian Li"
+        },
+        {
+          "authorId": "2145578798",
+          "name": "Yuequn Liu"
+        },
+        {
+          "authorId": "2154941589",
+          "name": "Wei Chen"
+        },
+        {
+          "authorId": "2119058743",
+          "name": "Keli Zhang"
+        },
+        {
+          "authorId": "2362701228",
+          "name": "Jiale Zheng"
+        }
+      ]
+    },
+    {
+      "paperId": "894ea65d929e073fc587d47eee86f993e6681c6b",
+      "externalIds": {
+        "MAG": "3099471412",
+        "DBLP": "conf/nips/Gao0A20",
+        "ArXiv": "2006.11970",
+        "CorpusId": 219966789
+      },
+      "url": "https://www.semanticscholar.org/paper/894ea65d929e073fc587d47eee86f993e6681c6b",
+      "title": "A polynomial-time algorithm for learning nonparametric causal graphs",
+      "venue": "Neural Information Processing Systems",
+      "year": 2020,
+      "referenceCount": 72,
+      "citationCount": 35,
+      "authors": [
+        {
+          "authorId": "2147416188",
+          "name": "Ming Gao"
+        },
+        {
+          "authorId": "2111239073",
+          "name": "Yi Ding"
+        },
+        {
+          "authorId": "2050920",
+          "name": "Bryon Aragam"
+        }
+      ]
+    },
+    {
+      "paperId": "8fb181c65d6739873ce22591efdaba2163c444a1",
+      "externalIds": {
+        "CorpusId": 204867486
+      },
+      "url": "https://www.semanticscholar.org/paper/8fb181c65d6739873ce22591efdaba2163c444a1",
+      "title": "Learning Causal Graphs with Constraints",
+      "venue": "",
+      "year": 2016,
+      "referenceCount": 10,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "3124214",
+          "name": "Murat Kocaoglu"
+        },
+        {
+          "authorId": "1718469",
+          "name": "A. Dimakis"
+        },
+        {
+          "authorId": "144367713",
+          "name": "S. Vishwanath"
+        }
+      ]
+    },
+    {
+      "paperId": "f3a247746a9c9c0cd8c6208e2e8d51ac825aeda0",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2205-02232",
+        "DOI": "10.48550/arXiv.2205.02232",
+        "CorpusId": 263876713
+      },
+      "url": "https://www.semanticscholar.org/paper/f3a247746a9c9c0cd8c6208e2e8d51ac825aeda0",
+      "title": "Minimum Cost Intervention Design for Causal Effect Identification",
+      "venue": "International Conference on Machine Learning",
+      "year": 2022,
+      "referenceCount": 47,
+      "citationCount": 8,
+      "authors": [
+        {
+          "authorId": "120360385",
+          "name": "S. Akbari"
+        },
+        {
+          "authorId": "1810719",
+          "name": "Jalal Etesami"
+        },
+        {
+          "authorId": "1801295",
+          "name": "N. Kiyavash"
+        }
+      ]
+    },
+    {
+      "paperId": "89c06af318bf297ed5b7fee5ea0d46f991a7b3c0",
+      "externalIds": {
+        "DBLP": "journals/tsmc/YanJWY26",
+        "DOI": "10.1109/TSMC.2025.3647753",
+        "CorpusId": 284710201
+      },
+      "url": "https://www.semanticscholar.org/paper/89c06af318bf297ed5b7fee5ea0d46f991a7b3c0",
+      "title": "Causal Federated Graph Neural Networks for Multiobjective Facility Location",
+      "venue": "IEEE Transactions on Systems, Man, and Cybernetics: Systems",
+      "year": 2026,
+      "referenceCount": 48,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2244254094",
+          "name": "Xueming Yan"
+        },
+        {
+          "authorId": "2257387647",
+          "name": "Yaochu Jin"
+        },
+        {
+          "authorId": "2314526688",
+          "name": "Chuyue Wang"
+        },
+        {
+          "authorId": "29550077",
+          "name": "Shangshang Yang"
+        }
+      ]
+    },
+    {
+      "paperId": "eeb8427b6730b6f88ee7793dbe58e77a16ff2b1c",
+      "externalIds": {
+        "ArXiv": "2406.15012",
+        "DBLP": "conf/clear2/RiosMK25",
+        "CorpusId": 270688210
+      },
+      "url": "https://www.semanticscholar.org/paper/eeb8427b6730b6f88ee7793dbe58e77a16ff2b1c",
+      "title": "Exact discovery is polynomial for certain sparse causal Bayesian networks",
+      "venue": "CLEaR",
+      "year": 2024,
+      "referenceCount": 33,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2307915565",
+          "name": "Felix L. Rios"
+        },
+        {
+          "authorId": "2659727",
+          "name": "G. Moffa"
+        },
+        {
+          "authorId": "47484919",
+          "name": "J. Kuipers"
+        }
+      ]
+    },
+    {
+      "paperId": "39a07b56b008cf82c8f07af6318e9d7d7304862a",
+      "externalIds": {
+        "DBLP": "conf/socs/BackstromJO18",
+        "MAG": "2965189824",
+        "DOI": "10.1609/socs.v9i1.18455",
+        "CorpusId": 51878514
+      },
+      "url": "https://www.semanticscholar.org/paper/39a07b56b008cf82c8f07af6318e9d7d7304862a",
+      "title": "A Refined Understanding of Cost-Optimal Planning with Polytree Causal Graphs",
+      "venue": "Symposium on Combinatorial Search",
+      "year": 2019,
+      "referenceCount": 32,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "144507365",
+          "name": "Christer Bäckström"
+        },
+        {
+          "authorId": "7539122",
+          "name": "Peter Jonsson"
+        },
+        {
+          "authorId": "1793339",
+          "name": "S. Ordyniak"
+        }
+      ]
+    },
+    {
+      "paperId": "6ededbebdd9424f9568baa63f81ec2fcd1ae2a2e",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2506-18285",
+        "ArXiv": "2506.18285",
+        "DOI": "10.48550/arXiv.2506.18285",
+        "CorpusId": 279999928
+      },
+      "url": "https://www.semanticscholar.org/paper/6ededbebdd9424f9568baa63f81ec2fcd1ae2a2e",
+      "title": "Learning Causal Graphs at Scale: A Foundation Model Approach",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "referenceCount": 42,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2275300330",
+          "name": "Naiyu Yin"
+        },
+        {
+          "authorId": "2316174511",
+          "name": "Tian Gao"
+        },
+        {
+          "authorId": "2275689332",
+          "name": "Yue Yu"
+        }
+      ]
+    }
+  ]
+}

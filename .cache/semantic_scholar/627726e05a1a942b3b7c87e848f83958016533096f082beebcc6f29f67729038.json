@@ -1,0 +1,282 @@
+{
+  "total": 13,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "f302e136c41db5de1d624412f68c9174cf7ae8be",
+      "externalIds": {
+        "DBLP": "journals/corr/SundararajanTY17",
+        "MAG": "2949197630",
+        "ArXiv": "1703.01365",
+        "CorpusId": 16747630
+      },
+      "url": "https://www.semanticscholar.org/paper/f302e136c41db5de1d624412f68c9174cf7ae8be",
+      "title": "Axiomatic Attribution for Deep Networks",
+      "venue": "International Conference on Machine Learning",
+      "year": 2017,
+      "referenceCount": 35,
+      "citationCount": 7666,
+      "authors": [
+        {
+          "authorId": "30740726",
+          "name": "Mukund Sundararajan"
+        },
+        {
+          "authorId": "40511120",
+          "name": "Ankur Taly"
+        },
+        {
+          "authorId": "34789908",
+          "name": "Qiqi Yan"
+        }
+      ]
+    },
+    {
+      "paperId": "f3632a7f829a9686c6f6b57131d2d1e62f798dac",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2111-07668",
+        "ArXiv": "2111.07668",
+        "CorpusId": 244117719
+      },
+      "url": "https://www.semanticscholar.org/paper/f3632a7f829a9686c6f6b57131d2d1e62f798dac",
+      "title": "Fast Axiomatic Attribution for Neural Networks",
+      "venue": "Neural Information Processing Systems",
+      "year": 2021,
+      "referenceCount": 47,
+      "citationCount": 50,
+      "authors": [
+        {
+          "authorId": "34379237",
+          "name": "R. Hesse"
+        },
+        {
+          "authorId": "1412432168",
+          "name": "Simone Schaub-Meyer"
+        },
+        {
+          "authorId": "145920814",
+          "name": "S. Roth"
+        }
+      ]
+    },
+    {
+      "paperId": "44089e781222415d5629e9c573016205f78d34d3",
+      "externalIds": {
+        "MAG": "3105856249",
+        "DBLP": "journals/natmi/ErionJSLL21",
+        "DOI": "10.1038/s42256-021-00343-w",
+        "CorpusId": 226299932
+      },
+      "url": "https://www.semanticscholar.org/paper/44089e781222415d5629e9c573016205f78d34d3",
+      "title": "Improving performance of deep learning models with axiomatic attribution priors and expected gradients",
+      "venue": "Nature Machine Intelligence",
+      "year": 2020,
+      "referenceCount": 73,
+      "citationCount": 322,
+      "authors": [
+        {
+          "authorId": "6579861",
+          "name": "Gabriel Erion-Barner"
+        },
+        {
+          "authorId": "51290559",
+          "name": "Joseph D. Janizek"
+        },
+        {
+          "authorId": "8575816",
+          "name": "Pascal Sturmfels"
+        },
+        {
+          "authorId": "23451726",
+          "name": "Scott M. Lundberg"
+        },
+        {
+          "authorId": "2180463",
+          "name": "Su-In Lee"
+        }
+      ]
+    },
+    {
+      "paperId": "798ea191aad9401462b405fde1a6cefb4fe53fd5",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2002-04138",
+        "ArXiv": "2002.04138",
+        "MAG": "3005535506",
+        "CorpusId": 211075890
+      },
+      "url": "https://www.semanticscholar.org/paper/798ea191aad9401462b405fde1a6cefb4fe53fd5",
+      "title": "Explaining Explanations: Axiomatic Feature Interactions for Deep Networks",
+      "venue": "Journal of machine learning research",
+      "year": 2020,
+      "referenceCount": 125,
+      "citationCount": 179,
+      "authors": [
+        {
+          "authorId": "51290559",
+          "name": "Joseph D. Janizek"
+        },
+        {
+          "authorId": "8575816",
+          "name": "Pascal Sturmfels"
+        },
+        {
+          "authorId": "2180463",
+          "name": "Su-In Lee"
+        }
+      ]
+    },
+    {
+      "paperId": "e0123c966e2dd5083e53379073610f23366757bc",
+      "externalIds": {
+        "ArXiv": "2502.12108",
+        "DBLP": "journals/corr/abs-2502-12108",
+        "DOI": "10.48550/arXiv.2502.12108",
+        "CorpusId": 276422243
+      },
+      "url": "https://www.semanticscholar.org/paper/e0123c966e2dd5083e53379073610f23366757bc",
+      "title": "Using the Path of Least Resistance to Explain Deep Networks",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "referenceCount": 28,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "144781594",
+          "name": "S. Salek"
+        },
+        {
+          "authorId": "68973956",
+          "name": "Joseph Enguehard"
+        }
+      ]
+    },
+    {
+      "paperId": "c5f34ad0e0dfb818f3304f318512271b77f1b954",
+      "externalIds": {
+        "DBLP": "journals/jmlr/LundstromR25",
+        "ArXiv": "2306.13753",
+        "DOI": "10.48550/arXiv.2306.13753",
+        "CorpusId": 259251450
+      },
+      "url": "https://www.semanticscholar.org/paper/c5f34ad0e0dfb818f3304f318512271b77f1b954",
+      "title": "Four Axiomatic Characterizations of the Integrated Gradients Attribution Method",
+      "venue": "Journal of machine learning research",
+      "year": 2023,
+      "referenceCount": 45,
+      "citationCount": 5,
+      "authors": [
+        {
+          "authorId": "104202482",
+          "name": "Daniel Lundstrom"
+        },
+        {
+          "authorId": "1800298",
+          "name": "Meisam Razaviyayn"
+        }
+      ]
+    },
+    {
+      "paperId": "bcf35117a0cb08fba6b4d00f9aa4f499946b57d9",
+      "externalIds": {
+        "DBLP": "conf/acl/SikdarBH20",
+        "ACL": "2021.acl-long.71",
+        "DOI": "10.18653/v1/2021.acl-long.71",
+        "CorpusId": 236460258
+      },
+      "url": "https://www.semanticscholar.org/paper/bcf35117a0cb08fba6b4d00f9aa4f499946b57d9",
+      "title": "Integrated Directional Gradients: Feature Interaction Attribution for Neural NLP Models",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2021,
+      "referenceCount": 41,
+      "citationCount": 48,
+      "authors": [
+        {
+          "authorId": "2632448",
+          "name": "Sandipan Sikdar"
+        },
+        {
+          "authorId": "18989661",
+          "name": "P. Bhattacharya"
+        },
+        {
+          "authorId": "2121302009",
+          "name": "Kieran Heese"
+        }
+      ]
+    },
+    {
+      "paperId": "0aa08ea51d362b6b900052d22f615a2b46c1820f",
+      "externalIds": {
+        "MAG": "3099540969",
+        "ArXiv": "2006.10965",
+        "DBLP": "journals/corr/abs-2006-10965",
+        "CorpusId": 219955933
+      },
+      "url": "https://www.semanticscholar.org/paper/0aa08ea51d362b6b900052d22f615a2b46c1820f",
+      "title": "How does this interaction affect me? Interpretable attribution for feature interactions",
+      "venue": "Neural Information Processing Systems",
+      "year": 2020,
+      "referenceCount": 61,
+      "citationCount": 100,
+      "authors": [
+        {
+          "authorId": "1879592819",
+          "name": "Michael Tsang"
+        },
+        {
+          "authorId": "2267664",
+          "name": "Sirisha Rambhatla"
+        },
+        {
+          "authorId": "47909587",
+          "name": "Yan Liu"
+        }
+      ]
+    },
+    {
+      "paperId": "a05041a2ce7b69bbb85f9c9944d736be9fd44257",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2505-24729",
+        "ArXiv": "2505.24729",
+        "DOI": "10.48550/arXiv.2505.24729",
+        "CorpusId": 279071259
+      },
+      "url": "https://www.semanticscholar.org/paper/a05041a2ce7b69bbb85f9c9944d736be9fd44257",
+      "title": "Feature Attribution from First Principles",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "referenceCount": 41,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2294571325",
+          "name": "Magamed Taimeskhanov"
+        },
+        {
+          "authorId": "2294565824",
+          "name": "Damien Garreau"
+        }
+      ]
+    },
+    {
+      "paperId": "ccb1cde9867efe6e76305d2299e50b933df14e74",
+      "externalIds": {
+        "DOI": "10.56947/amcs.v33.792",
+        "CorpusId": 286857919
+      },
+      "url": "https://www.semanticscholar.org/paper/ccb1cde9867efe6e76305d2299e50b933df14e74",
+      "title": "Fixed-point analysis of weighted integrated gradients",
+      "venue": "Annals of Mathematics and Computer Science",
+      "year": 2026,
+      "referenceCount": 20,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2265867930",
+          "name": "Saidjon Kamolov"
+        }
+      ]
+    }
+  ]
+}

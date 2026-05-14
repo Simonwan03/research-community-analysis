@@ -1,0 +1,371 @@
+{
+  "total": 8226,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "630bf4c0b7e5abd276ec38468f490b7d6222f3a2",
+      "externalIds": {
+        "MAG": "2951952563",
+        "DBLP": "journals/corr/MacGlashanHLPRT17",
+        "ArXiv": "1701.06049",
+        "CorpusId": 8818528
+      },
+      "url": "https://www.semanticscholar.org/paper/630bf4c0b7e5abd276ec38468f490b7d6222f3a2",
+      "title": "Interactive Learning from Policy-Dependent Human Feedback",
+      "venue": "International Conference on Machine Learning",
+      "year": 2017,
+      "referenceCount": 28,
+      "citationCount": 340,
+      "authors": [
+        {
+          "authorId": "2700008",
+          "name": "J. MacGlashan"
+        },
+        {
+          "authorId": "2543534",
+          "name": "Mark K. Ho"
+        },
+        {
+          "authorId": "32182645",
+          "name": "R. Loftin"
+        },
+        {
+          "authorId": "2323268",
+          "name": "Bei Peng"
+        },
+        {
+          "authorId": "2152582666",
+          "name": "Guan Wang"
+        },
+        {
+          "authorId": "2113538648",
+          "name": "David L. Roberts"
+        },
+        {
+          "authorId": "39286677",
+          "name": "Matthew E. Taylor"
+        },
+        {
+          "authorId": "144885169",
+          "name": "M. Littman"
+        }
+      ]
+    },
+    {
+      "paperId": "1c0266940db8c7a46d73bbcdb33392012e960ace",
+      "externalIds": {
+        "DBLP": "conf/aiide/Spaulding20",
+        "MAG": "3093934915",
+        "DOI": "10.1609/aiide.v16i1.7455",
+        "CorpusId": 226371108
+      },
+      "url": "https://www.semanticscholar.org/paper/1c0266940db8c7a46d73bbcdb33392012e960ace",
+      "title": "Towards Transferrable Affective Models for Educational Play",
+      "venue": "Artificial Intelligence and Interactive Digital Entertainment Conference",
+      "year": 2020,
+      "referenceCount": 14,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "47475540",
+          "name": "Samuel Spaulding"
+        }
+      ]
+    },
+    {
+      "paperId": "2b46e8f2f2339e4dfbc8c3db33b7a6fb65ee62ad",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-1902-04257",
+        "MAG": "2911719076",
+        "ArXiv": "1902.04257",
+        "CorpusId": 21704492
+      },
+      "url": "https://www.semanticscholar.org/paper/2b46e8f2f2339e4dfbc8c3db33b7a6fb65ee62ad",
+      "title": "Deep Reinforcement Learning from Policy-Dependent Human Feedback",
+      "venue": "arXiv.org",
+      "year": 2019,
+      "referenceCount": 41,
+      "citationCount": 109,
+      "authors": [
+        {
+          "authorId": "34544888",
+          "name": "Dilip Arumugam"
+        },
+        {
+          "authorId": "2108618765",
+          "name": "Jun Ki Lee"
+        },
+        {
+          "authorId": "69941068",
+          "name": "S. Saskin"
+        },
+        {
+          "authorId": "144885169",
+          "name": "M. Littman"
+        }
+      ]
+    },
+    {
+      "paperId": "c3bb8d030a47d28c7a965ee5112a453d86e098ad",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2406-07455",
+        "ArXiv": "2406.07455",
+        "DOI": "10.48550/arXiv.2406.07455",
+        "CorpusId": 270379830
+      },
+      "url": "https://www.semanticscholar.org/paper/c3bb8d030a47d28c7a965ee5112a453d86e098ad",
+      "title": "Reinforcement Learning from Human Feedback without Reward Inference: Model-Free Algorithm and Instance-Dependent Analysis",
+      "venue": "RLJ",
+      "year": 2024,
+      "referenceCount": 72,
+      "citationCount": 4,
+      "authors": [
+        {
+          "authorId": "2237583393",
+          "name": "Qining Zhang"
+        },
+        {
+          "authorId": "66022476",
+          "name": "Honghao Wei"
+        },
+        {
+          "authorId": "2237427333",
+          "name": "Lei Ying"
+        }
+      ]
+    },
+    {
+      "paperId": "fbabcd556be1da89c6c59339ccdbdb62e3b659d9",
+      "externalIds": {
+        "DBLP": "journals/eswa/LiuSLXZZL26",
+        "DOI": "10.1016/j.eswa.2025.130113",
+        "CorpusId": 283149381
+      },
+      "url": "https://www.semanticscholar.org/paper/fbabcd556be1da89c6c59339ccdbdb62e3b659d9",
+      "title": "CoRLHF: Reinforcement learning from human feedback with cooperative policy-reward optimization for LLMs",
+      "venue": "Expert systems with applications",
+      "year": 2025,
+      "referenceCount": 37,
+      "citationCount": 17,
+      "authors": [
+        {
+          "authorId": "2144832221",
+          "name": "Qi Liu"
+        },
+        {
+          "authorId": "2267224340",
+          "name": "Zhuoyang Song"
+        },
+        {
+          "authorId": "2220431223",
+          "name": "Yuxin Liang"
+        },
+        {
+          "authorId": "2266912737",
+          "name": "Zejian Xie"
+        },
+        {
+          "authorId": "2266803682",
+          "name": "Songxin Zhang"
+        },
+        {
+          "authorId": "2345313971",
+          "name": "Jiaxing Zhang"
+        },
+        {
+          "authorId": "2393793946",
+          "name": "Yanjie Li"
+        }
+      ]
+    },
+    {
+      "paperId": "c4780fcb8c1b646114fb7bcd48176379fe0c989c",
+      "externalIds": {
+        "ArXiv": "2507.04340",
+        "DBLP": "journals/corr/abs-2507-04340",
+        "DOI": "10.1111/cgf.70290",
+        "CorpusId": 280150157
+      },
+      "url": "https://www.semanticscholar.org/paper/c4780fcb8c1b646114fb7bcd48176379fe0c989c",
+      "title": "Interactive Groupwise Comparison for Reinforcement Learning from Human Feedback",
+      "venue": "Computer graphics forum (Print)",
+      "year": 2025,
+      "referenceCount": 79,
+      "citationCount": 4,
+      "authors": [
+        {
+          "authorId": "2373027215",
+          "name": "Jan Kompatscher"
+        },
+        {
+          "authorId": "2301129896",
+          "name": "Danqing Shi"
+        },
+        {
+          "authorId": "2373029579",
+          "name": "Giovanna Varni"
+        },
+        {
+          "authorId": "1730185",
+          "name": "T. Weinkauf"
+        },
+        {
+          "authorId": "2298362600",
+          "name": "Antti Oulasvirta"
+        }
+      ]
+    },
+    {
+      "paperId": "a843674f2aae1b2670bb6f2cde5a90e1cb15fccd",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2505-09925",
+        "ArXiv": "2505.09925",
+        "DOI": "10.48550/arXiv.2505.09925",
+        "CorpusId": 278636503
+      },
+      "url": "https://www.semanticscholar.org/paper/a843674f2aae1b2670bb6f2cde5a90e1cb15fccd",
+      "title": "Reinforced Interactive Continual Learning via Real-time Noisy Human Feedback",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "referenceCount": 55,
+      "citationCount": 4,
+      "authors": [
+        {
+          "authorId": "2303799141",
+          "name": "Yutao Yang"
+        },
+        {
+          "authorId": "145558445",
+          "name": "Jie Zhou"
+        },
+        {
+          "authorId": "2274071511",
+          "name": "Junsong Li"
+        },
+        {
+          "authorId": "2319606952",
+          "name": "Qianjun Pan"
+        },
+        {
+          "authorId": "2351814214",
+          "name": "Bihao Zhan"
+        },
+        {
+          "authorId": "2256591738",
+          "name": "Qin Chen"
+        },
+        {
+          "authorId": "2361484236",
+          "name": "Xipeng Qiu"
+        },
+        {
+          "authorId": "2268703214",
+          "name": "Liang He"
+        }
+      ]
+    },
+    {
+      "paperId": "16e9c41fb335e3fa23bc382d20f738d40b029299",
+      "externalIds": {
+        "DBLP": "conf/aaai/FengJKXHWZ25",
+        "DOI": "10.1609/aaai.v39i16.33824",
+        "CorpusId": 277765158
+      },
+      "url": "https://www.semanticscholar.org/paper/16e9c41fb335e3fa23bc382d20f738d40b029299",
+      "title": "DUO: Diverse, Uncertain, On-Policy Query Generation and Selection for Reinforcement Learning from Human Feedback",
+      "venue": "AAAI Conference on Artificial Intelligence",
+      "year": 2025,
+      "referenceCount": 0,
+      "citationCount": 7,
+      "authors": [
+        {
+          "authorId": "2325109051",
+          "name": "Xuening Feng"
+        },
+        {
+          "authorId": "47653888",
+          "name": "Zhaohui Jiang"
+        },
+        {
+          "authorId": "2276205601",
+          "name": "Timo Kaufmann"
+        },
+        {
+          "authorId": "2355253324",
+          "name": "Puchen Xu"
+        },
+        {
+          "authorId": "1691955",
+          "name": "Eyke Hüllermeier"
+        },
+        {
+          "authorId": "2323426226",
+          "name": "Paul Weng"
+        },
+        {
+          "authorId": "2324979272",
+          "name": "Yifei Zhu"
+        }
+      ]
+    },
+    {
+      "paperId": "ede28224a1d6633826198d1702a5a737ea236575",
+      "externalIds": {
+        "ArXiv": "2402.09401",
+        "DBLP": "journals/corr/abs-2402-09401",
+        "DOI": "10.48550/arXiv.2402.09401",
+        "CorpusId": 267657539
+      },
+      "url": "https://www.semanticscholar.org/paper/ede28224a1d6633826198d1702a5a737ea236575",
+      "title": "Reinforcement Learning from Human Feedback with Active Queries",
+      "venue": "Trans. Mach. Learn. Res.",
+      "year": 2024,
+      "referenceCount": 101,
+      "citationCount": 40,
+      "authors": [
+        {
+          "authorId": "2065056119",
+          "name": "Kaixuan Ji"
+        },
+        {
+          "authorId": "35420640",
+          "name": "Jiafan He"
+        },
+        {
+          "authorId": "2253398016",
+          "name": "Quanquan Gu"
+        }
+      ]
+    },
+    {
+      "paperId": "00fc92a444573dfaada5251b45a45067c4b6d131",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2507-15507",
+        "ArXiv": "2507.15507",
+        "DOI": "10.48550/arXiv.2507.15507",
+        "CorpusId": 280281897
+      },
+      "url": "https://www.semanticscholar.org/paper/00fc92a444573dfaada5251b45a45067c4b6d131",
+      "title": "Off-Policy Corrected Reward Modeling for Reinforcement Learning from Human Feedback",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "referenceCount": 38,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "2295988632",
+          "name": "Johannes Ackermann"
+        },
+        {
+          "authorId": "2069409929",
+          "name": "Takashi Ishida"
+        },
+        {
+          "authorId": "2363581400",
+          "name": "Masashi Sugiyama"
+        }
+      ]
+    }
+  ]
+}

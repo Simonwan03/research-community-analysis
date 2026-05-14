@@ -1,0 +1,278 @@
+{
+  "total": 26,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "4b712a5959a3aa90f88be866c9359479818870e6",
+      "externalIds": {
+        "MAG": "2952524027",
+        "DBLP": "journals/corr/DunnerFTJ16",
+        "ArXiv": "1602.05205",
+        "CorpusId": 1800270
+      },
+      "url": "https://www.semanticscholar.org/paper/4b712a5959a3aa90f88be866c9359479818870e6",
+      "title": "Primal-Dual Rates and Certificates",
+      "venue": "International Conference on Machine Learning",
+      "year": 2016,
+      "referenceCount": 53,
+      "citationCount": 60,
+      "authors": [
+        {
+          "authorId": "1403842911",
+          "name": "Celestine Mendler-Dünner"
+        },
+        {
+          "authorId": "2820634",
+          "name": "Simone Forte"
+        },
+        {
+          "authorId": "144696183",
+          "name": "Martin Takác"
+        },
+        {
+          "authorId": "2456863",
+          "name": "Martin Jaggi"
+        }
+      ]
+    },
+    {
+      "paperId": "775b7e6b3282b9a3ad6029385261dbd047246c76",
+      "externalIds": {
+        "ArXiv": "2604.18321",
+        "CorpusId": 287635485
+      },
+      "url": "https://www.semanticscholar.org/paper/775b7e6b3282b9a3ad6029385261dbd047246c76",
+      "title": "Accuracy Certificates for Convex Optimization at Accelerated Rates via Primal-Dual Averaging",
+      "venue": "",
+      "year": 2026,
+      "referenceCount": 37,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2324973360",
+          "name": "Matthew X. Burns"
+        },
+        {
+          "authorId": "2311463518",
+          "name": "Jiaming Liang"
+        }
+      ]
+    },
+    {
+      "paperId": "63c2af06894988861ae78d7081e705261eeabbe4",
+      "externalIds": {
+        "MAG": "2912802815",
+        "DBLP": "conf/cdc/DingHDJ18",
+        "DOI": "10.1109/CDC.2018.8619760",
+        "CorpusId": 58675965
+      },
+      "url": "https://www.semanticscholar.org/paper/63c2af06894988861ae78d7081e705261eeabbe4",
+      "title": "An Exponentially Convergent Primal-Dual Algorithm for Nonsmooth Composite Minimization",
+      "venue": "IEEE Conference on Decision and Control",
+      "year": 2018,
+      "referenceCount": 19,
+      "citationCount": 14,
+      "authors": [
+        {
+          "authorId": "1821365",
+          "name": "Dongsheng Ding"
+        },
+        {
+          "authorId": "144010725",
+          "name": "B. Hu"
+        },
+        {
+          "authorId": "2598367",
+          "name": "Neil K. Dhingra"
+        },
+        {
+          "authorId": "145531120",
+          "name": "M. Jovanović"
+        }
+      ]
+    },
+    {
+      "paperId": "9c724a2af65c3c64e535072a4921192111dcf35c",
+      "externalIds": {
+        "ArXiv": "2407.16144",
+        "CorpusId": 271333990
+      },
+      "url": "https://www.semanticscholar.org/paper/9c724a2af65c3c64e535072a4921192111dcf35c",
+      "title": "Restarted Halpern PDHG for Linear Programming",
+      "venue": "",
+      "year": 2024,
+      "referenceCount": 76,
+      "citationCount": 23,
+      "authors": [
+        {
+          "authorId": "2266708892",
+          "name": "Haihao Lu"
+        },
+        {
+          "authorId": "2266698755",
+          "name": "Jinwen Yang"
+        }
+      ]
+    },
+    {
+      "paperId": "64af1b5da4acd415178ff10cd48d53b67c88e932",
+      "externalIds": {
+        "MAG": "1708022953",
+        "CorpusId": 14490544
+      },
+      "url": "https://www.semanticscholar.org/paper/64af1b5da4acd415178ff10cd48d53b67c88e932",
+      "title": "Stochastic first order methods in smooth convex optimization",
+      "venue": "",
+      "year": 2011,
+      "referenceCount": 69,
+      "citationCount": 87,
+      "authors": [
+        {
+          "authorId": "2530996",
+          "name": "Olivier Devolder"
+        }
+      ]
+    },
+    {
+      "paperId": "6d841271c4b7228e16211f70a2f0b6f155544b7d",
+      "externalIds": {
+        "ArXiv": "2507.01866",
+        "CorpusId": 280135905
+      },
+      "url": "https://www.semanticscholar.org/paper/6d841271c4b7228e16211f70a2f0b6f155544b7d",
+      "title": "On the asymptotic behavior of a higher-order extrapolation primal-dual interior-point method for nonlinear programming",
+      "venue": "",
+      "year": 2025,
+      "referenceCount": 21,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2158527893",
+          "name": "P. Heeman"
+        },
+        {
+          "authorId": "2309479786",
+          "name": "Anders Forsgren"
+        }
+      ]
+    },
+    {
+      "paperId": "232971a012b8586a19372717616dfcaad6da7e0b",
+      "externalIds": {
+        "DBLP": "journals/siamjo/ApplegateDLL24",
+        "ArXiv": "2102.04592",
+        "DOI": "10.1137/22m1510467",
+        "CorpusId": 231855490
+      },
+      "url": "https://www.semanticscholar.org/paper/232971a012b8586a19372717616dfcaad6da7e0b",
+      "title": "Infeasibility Detection with Primal-Dual Hybrid Gradient for Large-Scale Linear Programming",
+      "venue": "SIAM Journal on Optimization",
+      "year": 2021,
+      "referenceCount": 73,
+      "citationCount": 37,
+      "authors": [
+        {
+          "authorId": "145337873",
+          "name": "D. Applegate"
+        },
+        {
+          "authorId": "153343557",
+          "name": "M. D'iaz"
+        },
+        {
+          "authorId": "9537209",
+          "name": "Haihao Lu"
+        },
+        {
+          "authorId": "4780977",
+          "name": "Miles Lubin"
+        }
+      ]
+    },
+    {
+      "paperId": "5633039c88bea83f991656f56d8ed1341851ba98",
+      "externalIds": {
+        "ArXiv": "2312.10336",
+        "DBLP": "journals/corr/abs-2312-10336",
+        "DOI": "10.48550/arXiv.2312.10336",
+        "CorpusId": 266348774
+      },
+      "url": "https://www.semanticscholar.org/paper/5633039c88bea83f991656f56d8ed1341851ba98",
+      "title": "Certified Minimax Unlearning with Generalization Rates and Deletion Capacity",
+      "venue": "Neural Information Processing Systems",
+      "year": 2023,
+      "referenceCount": 68,
+      "citationCount": 33,
+      "authors": [
+        {
+          "authorId": "2268538599",
+          "name": "Jiaqi Liu"
+        },
+        {
+          "authorId": "2187312292",
+          "name": "Jian Lou"
+        },
+        {
+          "authorId": "2260857611",
+          "name": "Zhan Qin"
+        },
+        {
+          "authorId": "2145257973",
+          "name": "Kui Ren"
+        }
+      ]
+    },
+    {
+      "paperId": "2a9cdce3d5a15ff1bde90fec159ddad43ef16629",
+      "externalIds": {
+        "MAG": "1836569189",
+        "DBLP": "conf/hybrid/PrajnaR05",
+        "DOI": "10.1007/978-3-540-31954-2_35",
+        "CorpusId": 14061305
+      },
+      "url": "https://www.semanticscholar.org/paper/2a9cdce3d5a15ff1bde90fec159ddad43ef16629",
+      "title": "Primal-Dual Tests for Safety and Reachability",
+      "venue": "International Conference on Hybrid Systems: Computation and Control",
+      "year": 2005,
+      "referenceCount": 27,
+      "citationCount": 52,
+      "authors": [
+        {
+          "authorId": "3221582",
+          "name": "S. Prajna"
+        },
+        {
+          "authorId": "1777623",
+          "name": "A. Rantzer"
+        }
+      ]
+    },
+    {
+      "paperId": "de832353788bf47ec7f890c638624b423aac467d",
+      "externalIds": {
+        "CorpusId": 266168010
+      },
+      "url": "https://www.semanticscholar.org/paper/de832353788bf47ec7f890c638624b423aac467d",
+      "title": "A SMOOTH PRIMAL-DUAL",
+      "venue": "",
+      "year": null,
+      "referenceCount": 72,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "1403374767",
+          "name": "Quoc Tran-Dinh"
+        },
+        {
+          "authorId": "2442024",
+          "name": "Olivier Fercoq"
+        },
+        {
+          "authorId": "2273589284",
+          "name": "And Volkan Cevher"
+        }
+      ]
+    }
+  ]
+}

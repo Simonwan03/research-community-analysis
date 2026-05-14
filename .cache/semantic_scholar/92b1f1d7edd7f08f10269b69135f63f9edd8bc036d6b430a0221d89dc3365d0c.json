@@ -1,0 +1,351 @@
+{
+  "total": 365,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "b8ff7e02ffa1577d125acd3e998e8ce76a9059dc",
+      "externalIds": {
+        "DBLP": "conf/icml/WichrowskaMHCDF17",
+        "MAG": "2951634833",
+        "ArXiv": "1703.04813",
+        "CorpusId": 12885891
+      },
+      "url": "https://www.semanticscholar.org/paper/b8ff7e02ffa1577d125acd3e998e8ce76a9059dc",
+      "title": "Learned Optimizers that Scale and Generalize",
+      "venue": "International Conference on Machine Learning",
+      "year": 2017,
+      "referenceCount": 36,
+      "citationCount": 305,
+      "authors": [
+        {
+          "authorId": "52495223",
+          "name": "Olga Wichrowska"
+        },
+        {
+          "authorId": "2333223",
+          "name": "Niru Maheswaranathan"
+        },
+        {
+          "authorId": "3243579",
+          "name": "Matthew W. Hoffman"
+        },
+        {
+          "authorId": "2016840",
+          "name": "Sergio Gomez Colmenarejo"
+        },
+        {
+          "authorId": "1715051",
+          "name": "Misha Denil"
+        },
+        {
+          "authorId": "1737568",
+          "name": "Nando de Freitas"
+        },
+        {
+          "authorId": "1407546424",
+          "name": "Jascha Narain Sohl-Dickstein"
+        }
+      ]
+    },
+    {
+      "paperId": "6ef667f852aba545328c0cd398c001d6f4c47579",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2602-19142",
+        "ArXiv": "2602.19142",
+        "DOI": "10.48550/arXiv.2602.19142",
+        "CorpusId": 285974167
+      },
+      "url": "https://www.semanticscholar.org/paper/6ef667f852aba545328c0cd398c001d6f4c47579",
+      "title": "Celo2: Towards Learned Optimization Free Lunch",
+      "venue": "arXiv.org",
+      "year": 2026,
+      "referenceCount": 41,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "32587693",
+          "name": "A. Moudgil"
+        },
+        {
+          "authorId": "2301806744",
+          "name": "Boris Knyazev"
+        },
+        {
+          "authorId": "2064781956",
+          "name": "Eugene Belilovsky"
+        }
+      ]
+    },
+    {
+      "paperId": "5ab741c31aa5b7fb8aad8228c8b370bb2ad177f6",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2007-14546",
+        "MAG": "3045910385",
+        "CorpusId": 220845688
+      },
+      "url": "https://www.semanticscholar.org/paper/5ab741c31aa5b7fb8aad8228c8b370bb2ad177f6",
+      "title": "Meta-LR-Schedule-Net: Learned LR Schedules that Scale and Generalize",
+      "venue": "arXiv.org",
+      "year": 2020,
+      "referenceCount": 76,
+      "citationCount": 7,
+      "authors": [
+        {
+          "authorId": "143653076",
+          "name": "Jun Shu"
+        },
+        {
+          "authorId": "1390861265",
+          "name": "Yanwen Zhu"
+        },
+        {
+          "authorId": "1410449127",
+          "name": "Qian Zhao"
+        },
+        {
+          "authorId": "1803714",
+          "name": "Deyu Meng"
+        },
+        {
+          "authorId": "98220533",
+          "name": "Zongben Xu"
+        }
+      ]
+    },
+    {
+      "paperId": "d92fe2b8861e8ef74e030d674bedcd505a98def9",
+      "externalIds": {
+        "ArXiv": "2310.18191",
+        "DBLP": "journals/corr/abs-2310-18191",
+        "DOI": "10.48550/arXiv.2310.18191",
+        "CorpusId": 264555559
+      },
+      "url": "https://www.semanticscholar.org/paper/d92fe2b8861e8ef74e030d674bedcd505a98def9",
+      "title": "Is Scaling Learned Optimizers Worth It? Evaluating The Value of VeLO's 4000 TPU Months",
+      "venue": "ICBINB",
+      "year": 2023,
+      "referenceCount": 20,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "2262217583",
+          "name": "Fady Rezk"
+        },
+        {
+          "authorId": "2063959275",
+          "name": "Antreas Antoniou"
+        },
+        {
+          "authorId": "2319565",
+          "name": "Henry Gouk"
+        },
+        {
+          "authorId": "1697755",
+          "name": "Timothy M. Hospedales"
+        }
+      ]
+    },
+    {
+      "paperId": "11bcea8beeb91a8144ee1afa08d53e05fd5ce254",
+      "externalIds": {
+        "DOI": "10.1063/5.0260447",
+        "CorpusId": 277295987
+      },
+      "url": "https://www.semanticscholar.org/paper/11bcea8beeb91a8144ee1afa08d53e05fd5ce254",
+      "title": "Exploiting semantic backpropagation to impose near-wall scaling constraints in machine-learned symbolic subgrid-scale closures",
+      "venue": "The Physics of Fluids",
+      "year": 2025,
+      "referenceCount": 33,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "93225380",
+          "name": "J. Hasslberger"
+        },
+        {
+          "authorId": "2351951164",
+          "name": "M. Reissmann"
+        },
+        {
+          "authorId": "2265788136",
+          "name": "R. Sandberg"
+        },
+        {
+          "authorId": "2265669013",
+          "name": "M. Klein"
+        }
+      ]
+    },
+    {
+      "paperId": "119be7d7a061fbbc2d2c1e67b68a5057e1bed42b",
+      "externalIds": {
+        "CorpusId": 283692403
+      },
+      "url": "https://www.semanticscholar.org/paper/119be7d7a061fbbc2d2c1e67b68a5057e1bed42b",
+      "title": "Towards Robust Unroll Generalization in Learned Optimizers",
+      "venue": "",
+      "year": null,
+      "referenceCount": 25,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2364128048",
+          "name": "Xiaolong Huang"
+        },
+        {
+          "authorId": "2397366814",
+          "name": "Benjamin Th´erien"
+        },
+        {
+          "authorId": "2064781956",
+          "name": "Eugene Belilovsky"
+        },
+        {
+          "authorId": "2397366811",
+          "name": "©. X. Huang"
+        }
+      ]
+    },
+    {
+      "paperId": "ee5e68355a1c5e9141715bb8311a68cd325bfdad",
+      "externalIds": {
+        "DBLP": "conf/icip/Xie0PG24",
+        "ArXiv": "2402.05582",
+        "DOI": "10.48550/arXiv.2402.05582",
+        "CorpusId": 267547808
+      },
+      "url": "https://www.semanticscholar.org/paper/ee5e68355a1c5e9141715bb8311a68cd325bfdad",
+      "title": "Joint End-to-End Image Compression and Denoising: Leveraging Contrastive Learning and Multi-Scale Self-ONNs",
+      "venue": "International Conference on Information Photonics",
+      "year": 2024,
+      "referenceCount": 24,
+      "citationCount": 4,
+      "authors": [
+        {
+          "authorId": "2306871988",
+          "name": "Yuxin Xie"
+        },
+        {
+          "authorId": "2282592213",
+          "name": "Li Yu"
+        },
+        {
+          "authorId": "2708258",
+          "name": "Farhad Pakdaman"
+        },
+        {
+          "authorId": "1715200",
+          "name": "M. Gabbouj"
+        }
+      ]
+    },
+    {
+      "paperId": "73c07e0a998576bb9d9409e5eed713788c0be037",
+      "externalIds": {
+        "MAG": "2939117106",
+        "ArXiv": "1904.05160",
+        "DBLP": "journals/corr/abs-1904-05160",
+        "DOI": "10.1109/CVPR.2019.00264",
+        "CorpusId": 115137311
+      },
+      "url": "https://www.semanticscholar.org/paper/73c07e0a998576bb9d9409e5eed713788c0be037",
+      "title": "Large-Scale Long-Tailed Recognition in an Open World",
+      "venue": "Computer Vision and Pattern Recognition",
+      "year": 2019,
+      "referenceCount": 68,
+      "citationCount": 1379,
+      "authors": [
+        {
+          "authorId": "2117940996",
+          "name": "Ziwei Liu"
+        },
+        {
+          "authorId": "89139426",
+          "name": "Zhongqi Miao"
+        },
+        {
+          "authorId": "31818765",
+          "name": "Xiaohang Zhan"
+        },
+        {
+          "authorId": "2035768213",
+          "name": "Jiayun Wang"
+        },
+        {
+          "authorId": "40206014",
+          "name": "Boqing Gong"
+        },
+        {
+          "authorId": "2107881808",
+          "name": "Stella X. Yu"
+        }
+      ]
+    },
+    {
+      "paperId": "3f0760f8e6494f72a0f460836ea226b8d7c334e2",
+      "externalIds": {
+        "DBLP": "journals/pvldb/HuynhSCA25",
+        "DOI": "10.14778/3773731.3773735",
+        "CorpusId": 282616968
+      },
+      "url": "https://www.semanticscholar.org/paper/3f0760f8e6494f72a0f460836ea226b8d7c334e2",
+      "title": "AXE: A Task Decomposition Approach to Learned LSM Tuning",
+      "venue": "Proceedings of the VLDB Endowment",
+      "year": 2025,
+      "referenceCount": 58,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2266841587",
+          "name": "Andy Huynh"
+        },
+        {
+          "authorId": "2395425899",
+          "name": "A. Saha"
+        },
+        {
+          "authorId": "35615080",
+          "name": "Harshal A. Chaudhari"
+        },
+        {
+          "authorId": "1840402",
+          "name": "Manos Athanassoulis"
+        }
+      ]
+    },
+    {
+      "paperId": "48ca3d237f4c3d616c2413a8c5fbfd2344fae329",
+      "externalIds": {
+        "ArXiv": "2504.19322",
+        "DBLP": "journals/corr/abs-2504-19322",
+        "DOI": "10.48550/arXiv.2504.19322",
+        "CorpusId": 278165577
+      },
+      "url": "https://www.semanticscholar.org/paper/48ca3d237f4c3d616c2413a8c5fbfd2344fae329",
+      "title": "Learned Perceptive Forward Dynamics Model for Safe and Platform-aware Robotic Navigation",
+      "venue": "Robotics",
+      "year": 2025,
+      "referenceCount": 44,
+      "citationCount": 16,
+      "authors": [
+        {
+          "authorId": "2253395059",
+          "name": "Pascal Roth"
+        },
+        {
+          "authorId": "2249531943",
+          "name": "Jonas Frey"
+        },
+        {
+          "authorId": "2254273659",
+          "name": "César Cadena"
+        },
+        {
+          "authorId": "2309005217",
+          "name": "Marco Hutter"
+        }
+      ]
+    }
+  ]
+}

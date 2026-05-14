@@ -1,0 +1,72 @@
+{
+  "total": 2,
+  "offset": 0,
+  "data": [
+    {
+      "paperId": "a35385317de8580b6e12e51ab53b1e79aa2ec504",
+      "externalIds": {
+        "MAG": "2953244351",
+        "ArXiv": "1904.11608",
+        "DBLP": "journals/corr/abs-1904-11608",
+        "CorpusId": 51880421
+      },
+      "url": "https://www.semanticscholar.org/paper/a35385317de8580b6e12e51ab53b1e79aa2ec504",
+      "title": "Gradient Descent for Sparse Rank-One Matrix Completion for Crowd-Sourced Aggregation of Sparsely Interacting Workers",
+      "venue": "International Conference on Machine Learning",
+      "year": 2018,
+      "referenceCount": 38,
+      "citationCount": 27,
+      "authors": [
+        {
+          "authorId": "1409870962",
+          "name": "Yao Ma"
+        },
+        {
+          "authorId": "1705458",
+          "name": "Alexander Olshevsky"
+        },
+        {
+          "authorId": "40868287",
+          "name": "Csaba Szepesvari"
+        },
+        {
+          "authorId": "1699322",
+          "name": "Venkatesh Saligrama"
+        }
+      ]
+    },
+    {
+      "paperId": "dd4bce84bce559820380c9a0ab1ec492e0c1563b",
+      "externalIds": {
+        "MAG": "2636291236",
+        "DBLP": "journals/corr/MaOSS17",
+        "ArXiv": "1706.06660",
+        "CorpusId": 35773111
+      },
+      "url": "https://www.semanticscholar.org/paper/dd4bce84bce559820380c9a0ab1ec492e0c1563b",
+      "title": "Crowdsourcing with Sparsely Interacting Workers",
+      "venue": "arXiv.org",
+      "year": 2017,
+      "referenceCount": 18,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "1409870962",
+          "name": "Yao Ma"
+        },
+        {
+          "authorId": "1705458",
+          "name": "Alexander Olshevsky"
+        },
+        {
+          "authorId": "1699322",
+          "name": "Venkatesh Saligrama"
+        },
+        {
+          "authorId": "40868287",
+          "name": "Csaba Szepesvari"
+        }
+      ]
+    }
+  ]
+}

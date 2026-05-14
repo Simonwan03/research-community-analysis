@@ -1,0 +1,111 @@
+{
+  "total": 4,
+  "offset": 0,
+  "data": [
+    {
+      "paperId": "e54a7bf9b5f610a2c19e058e005296049e180aad",
+      "externalIds": {
+        "MAG": "2952032007",
+        "DBLP": "conf/icml/SrinivasF18",
+        "ArXiv": "1803.00443",
+        "CorpusId": 3603145
+      },
+      "url": "https://www.semanticscholar.org/paper/e54a7bf9b5f610a2c19e058e005296049e180aad",
+      "title": "Knowledge Transfer with Jacobian Matching",
+      "venue": "International Conference on Machine Learning",
+      "year": 2018,
+      "referenceCount": 22,
+      "citationCount": 179,
+      "authors": [
+        {
+          "authorId": "2822290",
+          "name": "Suraj Srinivas"
+        },
+        {
+          "authorId": "2721983",
+          "name": "F. Fleuret"
+        }
+      ]
+    },
+    {
+      "paperId": "1770df851ffba2ea4e520604a177595efc8d6c72",
+      "externalIds": {
+        "ArXiv": "2506.05398",
+        "CorpusId": 279243125
+      },
+      "url": "https://www.semanticscholar.org/paper/1770df851ffba2ea4e520604a177595efc8d6c72",
+      "title": "2ndMatch: Finetuning Pruned Diffusion Models via Second-Order Jacobian Matching",
+      "venue": "",
+      "year": 2025,
+      "referenceCount": 69,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2367660278",
+          "name": "Caleb Zheng"
+        },
+        {
+          "authorId": "2003419",
+          "name": "Eli Shlizerman"
+        }
+      ]
+    },
+    {
+      "paperId": "10ca300e2f5deaa00ebdb471baabbf7b909bc843",
+      "externalIds": {
+        "CorpusId": 28387579
+      },
+      "url": "https://www.semanticscholar.org/paper/10ca300e2f5deaa00ebdb471baabbf7b909bc843",
+      "title": "Local Affine Approximators for Improving Knowledge Transfer",
+      "venue": "",
+      "year": 2017,
+      "referenceCount": 6,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "2822290",
+          "name": "Suraj Srinivas"
+        },
+        {
+          "authorId": "2721983",
+          "name": "F. Fleuret"
+        }
+      ]
+    },
+    {
+      "paperId": "fb55f9d411fca3cf29b27857998c45e0c761dfce",
+      "externalIds": {
+        "DBLP": "conf/unireps/WuLMKK23",
+        "CorpusId": 269913673
+      },
+      "url": "https://www.semanticscholar.org/paper/fb55f9d411fca3cf29b27857998c45e0c761dfce",
+      "title": "What Mechanisms Does Knowledge Distillation Distill?",
+      "venue": "UniReps",
+      "year": 2023,
+      "referenceCount": 108,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "2312342000",
+          "name": "Cindy Wu"
+        },
+        {
+          "authorId": "35573359",
+          "name": "E. Lubana"
+        },
+        {
+          "authorId": "2283134637",
+          "name": "B. Mlodozeniec"
+        },
+        {
+          "authorId": "2302245592",
+          "name": "Robert Kirk"
+        },
+        {
+          "authorId": "2267487568",
+          "name": "D. Krueger"
+        }
+      ]
+    }
+  ]
+}

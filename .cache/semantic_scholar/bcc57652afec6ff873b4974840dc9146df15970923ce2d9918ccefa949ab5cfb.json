@@ -1,0 +1,290 @@
+{
+  "total": 10,
+  "offset": 0,
+  "data": [
+    {
+      "paperId": "b455a72e7f26eb81a337fc3418568efa6ecc4db9",
+      "externalIds": {
+        "DBLP": "conf/icml/ChenF17",
+        "ArXiv": "1706.04304",
+        "MAG": "2963999040",
+        "CorpusId": 6761481
+      },
+      "url": "https://www.semanticscholar.org/paper/b455a72e7f26eb81a337fc3418568efa6ecc4db9",
+      "title": "Dueling Bandits with Weak Regret",
+      "venue": "International Conference on Machine Learning",
+      "year": 2017,
+      "referenceCount": 23,
+      "citationCount": 28,
+      "authors": [
+        {
+          "authorId": "3174011",
+          "name": "Bangrui Chen"
+        },
+        {
+          "authorId": "1922747",
+          "name": "P. Frazier"
+        }
+      ]
+    },
+    {
+      "paperId": "2b3b95510339192d471286e648b051664639cdd2",
+      "externalIds": {
+        "DBLP": "conf/nips/SaadCKV24",
+        "DOI": "10.52202/079017-1289",
+        "CorpusId": 276185071
+      },
+      "url": "https://www.semanticscholar.org/paper/2b3b95510339192d471286e648b051664639cdd2",
+      "title": "On Weak Regret Analysis for Dueling Bandits",
+      "venue": "Neural Information Processing Systems",
+      "year": 2024,
+      "referenceCount": 24,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "2028199093",
+          "name": "E. Saad"
+        },
+        {
+          "authorId": "2253401180",
+          "name": "Alexandra Carpentier"
+        },
+        {
+          "authorId": "2889720",
+          "name": "Tomás Kocák"
+        },
+        {
+          "authorId": "2256425755",
+          "name": "Nicolas Verzelen"
+        }
+      ]
+    },
+    {
+      "paperId": "759956310572760def9c6ce3ddbce0f65d0245aa",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2407-01887",
+        "DOI": "10.48550/arXiv.2407.01887",
+        "CorpusId": 285278206
+      },
+      "url": "https://www.semanticscholar.org/paper/759956310572760def9c6ce3ddbce0f65d0245aa",
+      "title": "Beyond Numeric Awards: In-Context Dueling Bandits with LLM Agents",
+      "venue": "arXiv.org",
+      "year": 2024,
+      "referenceCount": 43,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "2309248309",
+          "name": "Fanzeng Xia"
+        },
+        {
+          "authorId": "2309724247",
+          "name": "Hao Liu"
+        },
+        {
+          "authorId": "2401928098",
+          "name": "Yisong Yue"
+        },
+        {
+          "authorId": "2309451581",
+          "name": "Tongxin Li"
+        }
+      ]
+    },
+    {
+      "paperId": "6bbdf3b089d7de2424bebbb9efd94183616ebfcf",
+      "externalIds": {
+        "ArXiv": "2407.01887",
+        "DBLP": "conf/acl/XiaLYL25",
+        "DOI": "10.18653/v1/2025.findings-acl.519",
+        "CorpusId": 270878258
+      },
+      "url": "https://www.semanticscholar.org/paper/6bbdf3b089d7de2424bebbb9efd94183616ebfcf",
+      "title": "Beyond Numeric Rewards: In-Context Dueling Bandits with LLM Agents",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2024,
+      "referenceCount": 18,
+      "citationCount": 4,
+      "authors": [
+        {
+          "authorId": "2309248309",
+          "name": "Fanzeng Xia"
+        },
+        {
+          "authorId": "2309724247",
+          "name": "Hao Liu"
+        },
+        {
+          "authorId": "2280146537",
+          "name": "Yisong Yue"
+        },
+        {
+          "authorId": "2309451581",
+          "name": "Tongxin Li"
+        }
+      ]
+    },
+    {
+      "paperId": "8d7660b9d6cfc0fac6a6e11c6e63349a9b92b7e5",
+      "externalIds": {
+        "ArXiv": "2202.00935",
+        "DBLP": "journals/corr/abs-2202-00935",
+        "CorpusId": 246473205
+      },
+      "url": "https://www.semanticscholar.org/paper/8d7660b9d6cfc0fac6a6e11c6e63349a9b92b7e5",
+      "title": "Non-Stationary Dueling Bandits",
+      "venue": "arXiv.org",
+      "year": 2022,
+      "referenceCount": 33,
+      "citationCount": 7,
+      "authors": [
+        {
+          "authorId": "2135971073",
+          "name": "Patrick Kolpaczki"
+        },
+        {
+          "authorId": "2126870500",
+          "name": "Viktor Bengs"
+        },
+        {
+          "authorId": "1691955",
+          "name": "Eyke Hüllermeier"
+        }
+      ]
+    },
+    {
+      "paperId": "f9bb387ff0aa344dda341462393e0dc834fea5a1",
+      "externalIds": {
+        "DBLP": "journals/corr/ChenF16",
+        "ArXiv": "1605.08838",
+        "MAG": "2411443440",
+        "CorpusId": 15636052
+      },
+      "url": "https://www.semanticscholar.org/paper/f9bb387ff0aa344dda341462393e0dc834fea5a1",
+      "title": "Dueling Bandits with Dependent Arms",
+      "venue": "arXiv.org",
+      "year": 2016,
+      "referenceCount": 19,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "3174011",
+          "name": "Bangrui Chen"
+        },
+        {
+          "authorId": "1922747",
+          "name": "P. Frazier"
+        }
+      ]
+    },
+    {
+      "paperId": "546de22033ead2a01443b71acddaf434a9459d8f",
+      "externalIds": {
+        "MAG": "3110284231",
+        "DOI": "10.1017/S0269964820000601",
+        "CorpusId": 229507898
+      },
+      "url": "https://www.semanticscholar.org/paper/546de22033ead2a01443b71acddaf434a9459d8f",
+      "title": "DUELING BANDIT PROBLEMS",
+      "venue": "Probability in the engineering and informational sciences (Print)",
+      "year": 2020,
+      "referenceCount": 13,
+      "citationCount": 4,
+      "authors": [
+        {
+          "authorId": "3044732",
+          "name": "E. Peköz"
+        },
+        {
+          "authorId": "2352366",
+          "name": "S. Ross"
+        },
+        {
+          "authorId": "2148906973",
+          "name": "Zhengyu Zhang"
+        }
+      ]
+    },
+    {
+      "paperId": "2e1b658399bc5aff10470c9235489ad61406dd71",
+      "externalIds": {
+        "DBLP": "conf/kdd/Ma0ZZ25",
+        "DOI": "10.1145/3690624.3709279",
+        "CorpusId": 277592602
+      },
+      "url": "https://www.semanticscholar.org/paper/2e1b658399bc5aff10470c9235489ad61406dd71",
+      "title": "Achieving Nearly-Optimal Regret and Sample Complexity in Dueling Bandits with Applications in Online Recommendations",
+      "venue": "Knowledge Discovery and Data Mining",
+      "year": 2025,
+      "referenceCount": 39,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2316955512",
+          "name": "Lanjihong Ma"
+        },
+        {
+          "authorId": "22424919",
+          "name": "Yao-Xiang Ding"
+        },
+        {
+          "authorId": "2157122563",
+          "name": "Zhenyu Zhang"
+        },
+        {
+          "authorId": "2293477964",
+          "name": "Zhi-Hua Zhou"
+        }
+      ]
+    },
+    {
+      "paperId": "24cc8195e49eda9d0b4bfb585b6d2bd15330bca8",
+      "externalIds": {
+        "ArXiv": "1812.04152",
+        "DBLP": "journals/corr/abs-1812-04152",
+        "MAG": "2905521188",
+        "CorpusId": 54514432
+      },
+      "url": "https://www.semanticscholar.org/paper/24cc8195e49eda9d0b4bfb585b6d2bd15330bca8",
+      "title": "Duelling Bandits with Weak Regret in Adversarial Environments",
+      "venue": "arXiv.org",
+      "year": 2018,
+      "referenceCount": 26,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "52136347",
+          "name": "Lennard Hilgendorf"
+        }
+      ]
+    },
+    {
+      "paperId": "9ba7b24cac6243348563ec5be8ca15f4088ba7a1",
+      "externalIds": {
+        "DBLP": "conf/icml/BengsSH22",
+        "ArXiv": "2202.04593",
+        "CorpusId": 246680014
+      },
+      "url": "https://www.semanticscholar.org/paper/9ba7b24cac6243348563ec5be8ca15f4088ba7a1",
+      "title": "Stochastic Contextual Dueling Bandits under Linear Stochastic Transitivity Models",
+      "venue": "International Conference on Machine Learning",
+      "year": 2022,
+      "referenceCount": 40,
+      "citationCount": 30,
+      "authors": [
+        {
+          "authorId": "2126870500",
+          "name": "Viktor Bengs"
+        },
+        {
+          "authorId": "2892691",
+          "name": "Aadirupa Saha"
+        },
+        {
+          "authorId": "1691955",
+          "name": "Eyke Hüllermeier"
+        }
+      ]
+    }
+  ]
+}

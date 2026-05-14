@@ -1,0 +1,277 @@
+{
+  "total": 141,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "e2d5f129655914438452c88a47e865789fa533d8",
+      "externalIds": {
+        "ArXiv": "1706.04381",
+        "MAG": "2624692385",
+        "DBLP": "conf/icml/HuL17",
+        "CorpusId": 9183394
+      },
+      "url": "https://www.semanticscholar.org/paper/e2d5f129655914438452c88a47e865789fa533d8",
+      "title": "Dissipativity Theory for Nesterov's Accelerated Method",
+      "venue": "International Conference on Machine Learning",
+      "year": 2017,
+      "referenceCount": 17,
+      "citationCount": 139,
+      "authors": [
+        {
+          "authorId": "144010725",
+          "name": "B. Hu"
+        },
+        {
+          "authorId": "1723445",
+          "name": "Laurent Lessard"
+        }
+      ]
+    },
+    {
+      "paperId": "6a17e23fd63f1bccca7e0e602152ce31170e5945",
+      "externalIds": {
+        "ArXiv": "1503.01243",
+        "DBLP": "conf/nips/SuBC14",
+        "MAG": "2951248065",
+        "CorpusId": 9292502
+      },
+      "url": "https://www.semanticscholar.org/paper/6a17e23fd63f1bccca7e0e602152ce31170e5945",
+      "title": "A Differential Equation for Modeling Nesterov's Accelerated Gradient Method: Theory and Insights",
+      "venue": "Journal of machine learning research",
+      "year": 2014,
+      "referenceCount": 40,
+      "citationCount": 1345,
+      "authors": [
+        {
+          "authorId": "33747720",
+          "name": "Weijie Su"
+        },
+        {
+          "authorId": "1843103",
+          "name": "Stephen P. Boyd"
+        },
+        {
+          "authorId": "2006869",
+          "name": "E. Candès"
+        }
+      ]
+    },
+    {
+      "paperId": "e57874515a93d4299311a812a312a9c8ecf27299",
+      "externalIds": {
+        "ArXiv": "2510.23513",
+        "CorpusId": 282389616
+      },
+      "url": "https://www.semanticscholar.org/paper/e57874515a93d4299311a812a312a9c8ecf27299",
+      "title": "Point Convergence of Nesterov's Accelerated Gradient Method: An AI-Assisted Proof",
+      "venue": "",
+      "year": 2025,
+      "referenceCount": 33,
+      "citationCount": 21,
+      "authors": [
+        {
+          "authorId": "2284684754",
+          "name": "Uijeong Jang"
+        },
+        {
+          "authorId": "2376694250",
+          "name": "Ernest K. Ryu"
+        }
+      ]
+    },
+    {
+      "paperId": "0043252b985678d4f8ca836a07be79d269f0a13a",
+      "externalIds": {
+        "DBLP": "conf/ijcai/004200ZWP24",
+        "ArXiv": "2208.03941",
+        "DOI": "10.24963/ijcai.2024/508",
+        "CorpusId": 251402652
+      },
+      "url": "https://www.semanticscholar.org/paper/0043252b985678d4f8ca836a07be79d269f0a13a",
+      "title": "Provable Acceleration of Nesterov's Accelerated Gradient Method over Heavy Ball Method in Training Over-Parameterized Neural Networks",
+      "venue": "International Joint Conference on Artificial Intelligence",
+      "year": 2022,
+      "referenceCount": 37,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2120100683",
+          "name": "Xin Liu"
+        },
+        {
+          "authorId": "39085395",
+          "name": "Wei Tao"
+        },
+        {
+          "authorId": "2152811315",
+          "name": "Jun Wang"
+        },
+        {
+          "authorId": "1794876",
+          "name": "Zhisong Pan"
+        }
+      ]
+    },
+    {
+      "paperId": "061c9052427db82551d36e5a7967a21ba0175b96",
+      "externalIds": {
+        "DOI": "10.1088/1361-6420/ada8d3",
+        "CorpusId": 275488243
+      },
+      "url": "https://www.semanticscholar.org/paper/061c9052427db82551d36e5a7967a21ba0175b96",
+      "title": "Adaptive Nesterov momentum method for solving ill-posed inverse problems",
+      "venue": "Inverse Problems",
+      "year": 2025,
+      "referenceCount": 34,
+      "citationCount": 6,
+      "authors": [
+        {
+          "authorId": "2256997391",
+          "name": "Qinian Jin"
+        }
+      ]
+    },
+    {
+      "paperId": "1239aed88ab36a666c9a9f934bfeeaa3c1cb72be",
+      "externalIds": {
+        "ArXiv": "2304.14642",
+        "DBLP": "journals/corr/abs-2304-14642",
+        "DOI": "10.48550/arXiv.2304.14642",
+        "CorpusId": 258418167
+      },
+      "url": "https://www.semanticscholar.org/paper/1239aed88ab36a666c9a9f934bfeeaa3c1cb72be",
+      "title": "On Underdamped Nesterov's Acceleration",
+      "venue": "arXiv.org",
+      "year": 2023,
+      "referenceCount": 25,
+      "citationCount": 5,
+      "authors": [
+        {
+          "authorId": "2142733837",
+          "name": "Shuo Chen"
+        },
+        {
+          "authorId": "144861199",
+          "name": "Bin Shi"
+        },
+        {
+          "authorId": "1790701",
+          "name": "Ya-Xiang Yuan"
+        }
+      ]
+    },
+    {
+      "paperId": "7616dda32c3cc47c851f19e0d1a536cce3e79008",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2512-04523",
+        "ArXiv": "2512.04523",
+        "DOI": "10.48550/arXiv.2512.04523",
+        "CorpusId": 283557602
+      },
+      "url": "https://www.semanticscholar.org/paper/7616dda32c3cc47c851f19e0d1a536cce3e79008",
+      "title": "An accelerated proximal bundle method for convex optimization",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "referenceCount": 30,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "31026574",
+          "name": "Feng Liao"
+        },
+        {
+          "authorId": "2000541436",
+          "name": "T. Madden"
+        },
+        {
+          "authorId": "2276610169",
+          "name": "Yang Zheng"
+        }
+      ]
+    },
+    {
+      "paperId": "0ac967deda4739f663707d007b4697794d38eacb",
+      "externalIds": {
+        "MAG": "3082625493",
+        "DBLP": "journals/jmlr/YeLZ20",
+        "ArXiv": "1710.08496",
+        "CorpusId": 8439321
+      },
+      "url": "https://www.semanticscholar.org/paper/0ac967deda4739f663707d007b4697794d38eacb",
+      "title": "Nesterov's Acceleration For Approximate Newton",
+      "venue": "Journal of machine learning research",
+      "year": 2017,
+      "referenceCount": 39,
+      "citationCount": 16,
+      "authors": [
+        {
+          "authorId": "2729522",
+          "name": "Haishan Ye"
+        },
+        {
+          "authorId": "47294286",
+          "name": "Zhihua Zhang"
+        }
+      ]
+    },
+    {
+      "paperId": "8da275509eed58a50180db0b222e59bda15ae6b7",
+      "externalIds": {
+        "MAG": "2949302905",
+        "DBLP": "journals/corr/abs-1806-03677",
+        "ArXiv": "1806.03677",
+        "CorpusId": 47018233
+      },
+      "url": "https://www.semanticscholar.org/paper/8da275509eed58a50180db0b222e59bda15ae6b7",
+      "title": "Dissipativity Theory for Accelerating Stochastic Variance Reduction: A Unified Analysis of SVRG and Katyusha Using Semidefinite Programs",
+      "venue": "International Conference on Machine Learning",
+      "year": 2018,
+      "referenceCount": 38,
+      "citationCount": 20,
+      "authors": [
+        {
+          "authorId": "144010725",
+          "name": "B. Hu"
+        },
+        {
+          "authorId": "152506763",
+          "name": "S. Wright"
+        },
+        {
+          "authorId": "1723445",
+          "name": "Laurent Lessard"
+        }
+      ]
+    },
+    {
+      "paperId": "9787e96fa6240b3b90d2c5408f2d576ffbc93a01",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2509-13628",
+        "ArXiv": "2509.13628",
+        "DOI": "10.48550/arXiv.2509.13628",
+        "CorpusId": 281332720
+      },
+      "url": "https://www.semanticscholar.org/paper/9787e96fa6240b3b90d2c5408f2d576ffbc93a01",
+      "title": "Accelerated Gradient Methods with Biased Gradient Estimates: Risk Sensitivity, High-Probability Guarantees, and Large Deviation Bounds",
+      "venue": "Journal of Nonlinear and Variational Analysis",
+      "year": 2025,
+      "referenceCount": 112,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "1783387",
+          "name": "M. Gürbüzbalaban"
+        },
+        {
+          "authorId": "2302804542",
+          "name": "Yasa Syed"
+        },
+        {
+          "authorId": "2960355",
+          "name": "N. Aybat"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,743 @@
+{
+  "offset": 0,
+  "citingPaperInfo": {
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/1506.02344, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "title": "Stay on path: PCA along graph paths",
+    "authors": [
+      {
+        "authorId": "1813447",
+        "name": "Megasthenis Asteris"
+      },
+      {
+        "authorId": "3393746",
+        "name": "Anastasios Kyrillidis"
+      },
+      {
+        "authorId": "1718469",
+        "name": "A. Dimakis"
+      },
+      {
+        "authorId": "2821280",
+        "name": "Han-Gyol Yi"
+      },
+      {
+        "authorId": "1921912",
+        "name": "B. Chandrasekaran"
+      }
+    ]
+  },
+  "data": [
+    {
+      "citedPaper": {
+        "paperId": "6d2f0bf0c05b767e64cb0f29538db03dddf113ae",
+        "externalIds": {
+          "MAG": "37129894",
+          "DBLP": "conf/icml/AsterisPD14",
+          "CorpusId": 382070
+        },
+        "url": "https://www.semanticscholar.org/paper/6d2f0bf0c05b767e64cb0f29538db03dddf113ae",
+        "title": "Nonnegative Sparse PCA with Provable Guarantees",
+        "venue": "International Conference on Machine Learning",
+        "year": 2014,
+        "referenceCount": 33,
+        "citationCount": 52,
+        "authors": [
+          {
+            "authorId": "1813447",
+            "name": "Megasthenis Asteris"
+          },
+          {
+            "authorId": "1740595",
+            "name": "Dimitris Papailiopoulos"
+          },
+          {
+            "authorId": "1718469",
+            "name": "A. Dimakis"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "7072ef929fa3d7c3177ca868309523c588a67bd1",
+        "externalIds": {
+          "MAG": "2024729467",
+          "DBLP": "journals/neuroimage/EssenSBBYU13",
+          "DOI": "10.1016/j.neuroimage.2013.05.041",
+          "CorpusId": 3207782,
+          "PubMed": "23684880"
+        },
+        "url": "https://www.semanticscholar.org/paper/7072ef929fa3d7c3177ca868309523c588a67bd1",
+        "title": "The WU-Minn Human Connectome Project: An overview",
+        "venue": "NeuroImage",
+        "year": 2013,
+        "referenceCount": 82,
+        "citationCount": 5666,
+        "authors": [
+          {
+            "authorId": "2880368",
+            "name": "D. C. Essen"
+          },
+          {
+            "authorId": "2162210436",
+            "name": "Stephen M. Smith"
+          },
+          {
+            "authorId": "2478230",
+            "name": "D. Barch"
+          },
+          {
+            "authorId": "2591098",
+            "name": "Timothy Edward John Behrens"
+          },
+          {
+            "authorId": "1761064",
+            "name": "E. Yacoub"
+          },
+          {
+            "authorId": "1804349",
+            "name": "K. Uğurbil"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "db28d73271d46ae74c0ed64fb9435e2cbb0a5988",
+        "externalIds": {
+          "MAG": "1940842577",
+          "DBLP": "journals/tit/BaldassarreBCKS16",
+          "ArXiv": "1303.3207",
+          "DOI": "10.1109/TIT.2016.2602222",
+          "CorpusId": 1066477
+        },
+        "url": "https://www.semanticscholar.org/paper/db28d73271d46ae74c0ed64fb9435e2cbb0a5988",
+        "title": "Group-Sparse Model Selection: Hardness and Relaxations",
+        "venue": "IEEE Transactions on Information Theory",
+        "year": 2013,
+        "referenceCount": 52,
+        "citationCount": 35,
+        "authors": [
+          {
+            "authorId": "36235599",
+            "name": "Luca Baldassarre"
+          },
+          {
+            "authorId": "3312391",
+            "name": "Nirav Bhan"
+          },
+          {
+            "authorId": "1678641",
+            "name": "V. Cevher"
+          },
+          {
+            "authorId": "3393746",
+            "name": "Anastasios Kyrillidis"
+          },
+          {
+            "authorId": "1746648",
+            "name": "Siddhartha Satpathi"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "95f50431a8d418a52a7b2e488ec50e29bcdd5521",
+        "externalIds": {
+          "DBLP": "journals/corr/abs-1303-0551",
+          "ArXiv": "1303.0551",
+          "MAG": "2140477921",
+          "CorpusId": 15636279
+        },
+        "url": "https://www.semanticscholar.org/paper/95f50431a8d418a52a7b2e488ec50e29bcdd5521",
+        "title": "Sparse PCA through Low-rank Approximations",
+        "venue": "International Conference on Machine Learning",
+        "year": 2013,
+        "referenceCount": 34,
+        "citationCount": 75,
+        "authors": [
+          {
+            "authorId": "1740595",
+            "name": "Dimitris Papailiopoulos"
+          },
+          {
+            "authorId": "1718469",
+            "name": "A. Dimakis"
+          },
+          {
+            "authorId": "2910157",
+            "name": "Stavros Korokythakis"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "5c42623f912812066da58b8be42d4ed603039416",
+        "externalIds": {
+          "MAG": "1974160512",
+          "DBLP": "journals/corr/abs-1203-2936",
+          "ArXiv": "1203.2936",
+          "DOI": "10.1109/ISIT.2012.6283847",
+          "CorpusId": 14311006
+        },
+        "url": "https://www.semanticscholar.org/paper/5c42623f912812066da58b8be42d4ed603039416",
+        "title": "Combinatorial selection and least absolute shrinkage via the Clash algorithm",
+        "venue": "IEEE International Symposium on Information Theory. Proceedings",
+        "year": 2012,
+        "referenceCount": 26,
+        "citationCount": 41,
+        "authors": [
+          {
+            "authorId": "3393746",
+            "name": "Anastasios Kyrillidis"
+          },
+          {
+            "authorId": "1678641",
+            "name": "V. Cevher"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "8792aa556188bd4f8fd5edcd3372f934eeb16afd",
+        "externalIds": {
+          "MAG": "2964342269",
+          "DBLP": "journals/jmlr/VuL12",
+          "ArXiv": "1202.0786",
+          "CorpusId": 1575924
+        },
+        "url": "https://www.semanticscholar.org/paper/8792aa556188bd4f8fd5edcd3372f934eeb16afd",
+        "title": "Minimax Rates of Estimation for Sparse PCA in High Dimensions",
+        "venue": "International Conference on Artificial Intelligence and Statistics",
+        "year": 2012,
+        "referenceCount": 30,
+        "citationCount": 145,
+        "authors": [
+          {
+            "authorId": "144023064",
+            "name": "Vincent Q. Vu"
+          },
+          {
+            "authorId": "145258822",
+            "name": "Jing Lei"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "0992a9b9011672f77b88a94ae9728a455daa1d91",
+        "externalIds": {
+          "MAG": "2137404238",
+          "DBLP": "journals/jmlr/Yuan013",
+          "ArXiv": "1112.2679",
+          "DOI": "10.5555/2567709.2502610",
+          "CorpusId": 938396
+        },
+        "url": "https://www.semanticscholar.org/paper/0992a9b9011672f77b88a94ae9728a455daa1d91",
+        "title": "Truncated power method for sparse eigenvalue problems",
+        "venue": "Journal of machine learning research",
+        "year": 2011,
+        "referenceCount": 40,
+        "citationCount": 344,
+        "authors": [
+          {
+            "authorId": "2115844686",
+            "name": "Xiao-Tong Yuan"
+          },
+          {
+            "authorId": "49104973",
+            "name": "Tong Zhang"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "27fc802e7ee75ecd05303575513af1ff856bb546",
+        "externalIds": {
+          "MAG": "2169382351",
+          "DOI": "10.1007/S00039-010-0084-5",
+          "CorpusId": 1461694
+        },
+        "url": "https://www.semanticscholar.org/paper/27fc802e7ee75ecd05303575513af1ff856bb546",
+        "title": "Empirical Processes with a Bounded Ψ1 Diameter",
+        "venue": "",
+        "year": 2010,
+        "referenceCount": 43,
+        "citationCount": 86,
+        "authors": [
+          {
+            "authorId": "2266267",
+            "name": "S. Mendelson"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "ee1477dcbf768cd589cdcf45ca8f9427666dfe4d",
+        "externalIds": {
+          "MAG": "1592941960",
+          "ArXiv": "0909.1440",
+          "DBLP": "journals/jmlr/JenattonOB10",
+          "CorpusId": 1450197
+        },
+        "url": "https://www.semanticscholar.org/paper/ee1477dcbf768cd589cdcf45ca8f9427666dfe4d",
+        "title": "Structured Sparse Principal Component Analysis",
+        "venue": "International Conference on Artificial Intelligence and Statistics",
+        "year": 2009,
+        "referenceCount": 28,
+        "citationCount": 362,
+        "authors": [
+          {
+            "authorId": "2068720",
+            "name": "Rodolphe Jenatton"
+          },
+          {
+            "authorId": "2533906",
+            "name": "G. Obozinski"
+          },
+          {
+            "authorId": "144570279",
+            "name": "F. Bach"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "39ac586c519ef8569b4f401a257c29b2039d5d25",
+        "externalIds": {
+          "ArXiv": "0901.4392",
+          "MAG": "2952244874",
+          "CorpusId": 6718933
+        },
+        "url": "https://www.semanticscholar.org/paper/39ac586c519ef8569b4f401a257c29b2039d5d25",
+        "title": "Sparse Principal Components Analysis",
+        "venue": "",
+        "year": 2009,
+        "referenceCount": 17,
+        "citationCount": 213,
+        "authors": [
+          {
+            "authorId": "2364792",
+            "name": "I. Johnstone"
+          },
+          {
+            "authorId": "32746202",
+            "name": "A. Lu"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "bf852287566cda9c2f391fa8f7f19122e0671558",
+        "externalIds": {
+          "MAG": "2125680629",
+          "ArXiv": "0808.3572",
+          "DBLP": "journals/corr/abs-0808-3572",
+          "DOI": "10.1109/TIT.2010.2040894",
+          "CorpusId": 168049
+        },
+        "url": "https://www.semanticscholar.org/paper/bf852287566cda9c2f391fa8f7f19122e0671558",
+        "title": "Model-Based Compressive Sensing",
+        "venue": "IEEE Transactions on Information Theory",
+        "year": 2008,
+        "referenceCount": 58,
+        "citationCount": 2611,
+        "authors": [
+          {
+            "authorId": "144908066",
+            "name": "Richard Baraniuk"
+          },
+          {
+            "authorId": "1678641",
+            "name": "V. Cevher"
+          },
+          {
+            "authorId": "1888626",
+            "name": "Marco F. Duarte"
+          },
+          {
+            "authorId": "144398138",
+            "name": "C. Hegde"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "bab4ebd7c361f0704ae38661b121d244707f3040",
+        "externalIds": {
+          "MAG": "1982052391",
+          "DBLP": "conf/isit/AminiW08",
+          "ArXiv": "0803.4026",
+          "DOI": "10.1214/08-AOS664",
+          "CorpusId": 1110006
+        },
+        "url": "https://www.semanticscholar.org/paper/bab4ebd7c361f0704ae38661b121d244707f3040",
+        "title": "High-dimensional analysis of semidefinite relaxations for sparse principal components",
+        "venue": "2008 IEEE International Symposium on Information Theory",
+        "year": 2008,
+        "referenceCount": 41,
+        "citationCount": 326,
+        "authors": [
+          {
+            "authorId": "3443191",
+            "name": "A. Amini"
+          },
+          {
+            "authorId": "1721860",
+            "name": "M. Wainwright"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "01c6a61f0e43689f7e4efad21aca1282642107a3",
+        "externalIds": {
+          "MAG": "2952736586",
+          "DBLP": "journals/corr/abs-0707-0705",
+          "ArXiv": "0707.0705",
+          "DOI": "10.5555/1390681.1442775",
+          "CorpusId": 6306308
+        },
+        "url": "https://www.semanticscholar.org/paper/01c6a61f0e43689f7e4efad21aca1282642107a3",
+        "title": "Optimal Solutions for Sparse Principal Component Analysis",
+        "venue": "Journal of machine learning research",
+        "year": 2007,
+        "referenceCount": 36,
+        "citationCount": 367,
+        "authors": [
+          {
+            "authorId": "1387902104",
+            "name": "A. d'Aspremont"
+          },
+          {
+            "authorId": "144570279",
+            "name": "F. Bach"
+          },
+          {
+            "authorId": "1701847",
+            "name": "L. Ghaoui"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "ad4e281293237bdb8efbbd639ac823536815f42b",
+        "externalIds": {
+          "DBLP": "journals/neuroimage/DesikanSFQDBBDM06",
+          "MAG": "2101135654",
+          "DOI": "10.1016/J.NEUROIMAGE.2006.01.021",
+          "CorpusId": 12420386,
+          "PubMed": "16530430"
+        },
+        "url": "https://www.semanticscholar.org/paper/ad4e281293237bdb8efbbd639ac823536815f42b",
+        "title": "An automated labeling system for subdividing the human cerebral cortex on MRI scans into gyral based regions of interest",
+        "venue": "NeuroImage",
+        "year": 2006,
+        "referenceCount": 63,
+        "citationCount": 12716,
+        "authors": [
+          {
+            "authorId": "143727348",
+            "name": "R. Desikan"
+          },
+          {
+            "authorId": "2945611",
+            "name": "F. Ségonne"
+          },
+          {
+            "authorId": "145815766",
+            "name": "B. Fischl"
+          },
+          {
+            "authorId": "34838229",
+            "name": "B. Quinn"
+          },
+          {
+            "authorId": "1769416",
+            "name": "B. Dickerson"
+          },
+          {
+            "authorId": "2971502",
+            "name": "D. Blacker"
+          },
+          {
+            "authorId": "1761695",
+            "name": "R. Buckner"
+          },
+          {
+            "authorId": "143619169",
+            "name": "A. Dale"
+          },
+          {
+            "authorId": "144079633",
+            "name": "R. P. Maguire"
+          },
+          {
+            "authorId": "2349067",
+            "name": "B. Hyman"
+          },
+          {
+            "authorId": "35047388",
+            "name": "M. Albert"
+          },
+          {
+            "authorId": "2241876002",
+            "name": "R. Killiany"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "0025fc4f00c21960297fbdf83220d6bde75da645",
+        "externalIds": {
+          "MAG": "1975900269",
+          "DOI": "10.1198/106186006X113430",
+          "CorpusId": 5730904
+        },
+        "url": "https://www.semanticscholar.org/paper/0025fc4f00c21960297fbdf83220d6bde75da645",
+        "title": "Sparse Principal Component Analysis",
+        "venue": "",
+        "year": 2006,
+        "referenceCount": 24,
+        "citationCount": 3287,
+        "authors": [
+          {
+            "authorId": "48861660",
+            "name": "H. Zou"
+          },
+          {
+            "authorId": "1784682",
+            "name": "T. Hastie"
+          },
+          {
+            "authorId": "1761784",
+            "name": "R. Tibshirani"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "0497a44551c8d3bb52cad0299ebd59c2071fc791",
+        "externalIds": {
+          "MAG": "2605028413",
+          "DOI": "10.1016/J.NEURON.2005.01.010",
+          "CorpusId": 6776050,
+          "PubMed": "15694331"
+        },
+        "url": "https://www.semanticscholar.org/paper/0497a44551c8d3bb52cad0299ebd59c2071fc791",
+        "title": "Reward-related fMRI activation of dopaminergic midbrain is associated with enhanced hippocampus-dependent long-term memory formation",
+        "venue": "Neuron",
+        "year": 2005,
+        "referenceCount": 61,
+        "citationCount": 675,
+        "authors": [
+          {
+            "authorId": "33193341",
+            "name": "B. Wittmann"
+          },
+          {
+            "authorId": "34758343",
+            "name": "B. Schott"
+          },
+          {
+            "authorId": "145433862",
+            "name": "S. Guderian"
+          },
+          {
+            "authorId": "1704935",
+            "name": "J. Frey"
+          },
+          {
+            "authorId": "145825580",
+            "name": "H. Heinze"
+          },
+          {
+            "authorId": "2606465",
+            "name": "E. Düzel"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "14e10498f4f12e18aaf4706969746b3cfb36132f",
+        "externalIds": {
+          "DBLP": "conf/nips/dAspremontGJL04",
+          "MAG": "2950988875",
+          "ArXiv": "cs/0406021",
+          "DOI": "10.2139/SSRN.563524",
+          "CorpusId": 5490061
+        },
+        "url": "https://www.semanticscholar.org/paper/14e10498f4f12e18aaf4706969746b3cfb36132f",
+        "title": "A Direct Formulation for Sparse PCA Using Semidefinite Programming",
+        "venue": "SIAM Review",
+        "year": 2004,
+        "referenceCount": 37,
+        "citationCount": 1101,
+        "authors": [
+          {
+            "authorId": "1387902104",
+            "name": "A. d'Aspremont"
+          },
+          {
+            "authorId": "1701847",
+            "name": "L. Ghaoui"
+          },
+          {
+            "authorId": "1694621",
+            "name": "Michael I. Jordan"
+          },
+          {
+            "authorId": "1725533",
+            "name": "Gert R. G. Lanckriet"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "f2c1830eedc095b92a78dc3afa39a36343ed81ad",
+        "externalIds": {
+          "MAG": "2946046356",
+          "DOI": "10.1007/BF02837777",
+          "CorpusId": 123556377
+        },
+        "url": "https://www.semanticscholar.org/paper/f2c1830eedc095b92a78dc3afa39a36343ed81ad",
+        "title": "Introduction to algorithms",
+        "venue": "",
+        "year": 1996,
+        "referenceCount": 2,
+        "citationCount": 22518,
+        "authors": [
+          {
+            "authorId": "2111973920",
+            "name": "R. Shyamasundar"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "9b388d9ccb3c4f67c7708104c7ff5e938c22856f",
+        "externalIds": {
+          "CorpusId": 1047521
+        },
+        "url": "https://www.semanticscholar.org/paper/9b388d9ccb3c4f67c7708104c7ff5e938c22856f",
+        "title": "Path Coding Penalties for Directed Acyclic Graphs",
+        "venue": "",
+        "year": 2011,
+        "referenceCount": 23,
+        "citationCount": 4,
+        "authors": [
+          {
+            "authorId": "2599292",
+            "name": "J. Mairal"
+          },
+          {
+            "authorId": "144923779",
+            "name": "Bin Yu"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "a5b84e86af708ac4e4b24dbb483644b3b1c6a9e9",
+        "externalIds": {
+          "MAG": "2106396500",
+          "DOI": "10.1093/cercor/bhn059",
+          "CorpusId": 9915285,
+          "PubMed": "18403396"
+        },
+        "url": "https://www.semanticscholar.org/paper/a5b84e86af708ac4e4b24dbb483644b3b1c6a9e9",
+        "title": "Resting-state functional connectivity reflects structural connectivity in the default mode network.",
+        "venue": "Cerebral Cortex",
+        "year": 2009,
+        "referenceCount": 61,
+        "citationCount": 2142,
+        "authors": [
+          {
+            "authorId": "3266708",
+            "name": "M. Greicius"
+          },
+          {
+            "authorId": "2183910",
+            "name": "Kaustubh Supekar"
+          },
+          {
+            "authorId": "143968470",
+            "name": "V. Menon"
+          },
+          {
+            "authorId": "34197536",
+            "name": "R. Dougherty"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "01e4fb65c450930c02208663644b1f7a62b0f0b6",
+        "externalIds": {
+          "MAG": "2910940231",
+          "CorpusId": 68187126
+        },
+        "url": "https://www.semanticscholar.org/paper/01e4fb65c450930c02208663644b1f7a62b0f0b6",
+        "title": "Introduction to Algorithms, 2nd edition.",
+        "venue": "",
+        "year": 2001,
+        "referenceCount": 0,
+        "citationCount": 3837,
+        "authors": [
+          {
+            "authorId": "1725180",
+            "name": "T. Cormen"
+          },
+          {
+            "authorId": "145372049",
+            "name": "C. Leiserson"
+          },
+          {
+            "authorId": "2113911099",
+            "name": "R. Rivest"
+          },
+          {
+            "authorId": "1690758",
+            "name": "C. Stein"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "Assouad",
+        "venue": "Festschrift for Lucien Le Cam",
+        "year": 1997,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    }
+  ]
+}

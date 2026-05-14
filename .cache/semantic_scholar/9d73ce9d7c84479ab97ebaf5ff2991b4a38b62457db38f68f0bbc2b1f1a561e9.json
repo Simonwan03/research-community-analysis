@@ -1,0 +1,387 @@
+{
+  "total": 72,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "123df44051ac8170a5cd60abd17c0e404e23955f",
+      "externalIds": {
+        "MAG": "2951179962",
+        "ArXiv": "1808.00529",
+        "DBLP": "journals/corr/abs-1808-00529",
+        "CorpusId": 51871857
+      },
+      "url": "https://www.semanticscholar.org/paper/123df44051ac8170a5cd60abd17c0e404e23955f",
+      "title": "Open Category Detection with PAC Guarantees",
+      "venue": "International Conference on Machine Learning",
+      "year": 2018,
+      "referenceCount": 27,
+      "citationCount": 89,
+      "authors": [
+        {
+          "authorId": "2108638678",
+          "name": "Si Liu"
+        },
+        {
+          "authorId": "51112441",
+          "name": "Risheek Garrepalli"
+        },
+        {
+          "authorId": "144299726",
+          "name": "Thomas G. Dietterich"
+        },
+        {
+          "authorId": "145841336",
+          "name": "Alan Fern"
+        },
+        {
+          "authorId": "3422872",
+          "name": "Dan Hendrycks"
+        }
+      ]
+    },
+    {
+      "paperId": "0aaa5f51faa9a5c03f788009cbf2288988880278",
+      "externalIds": {
+        "CorpusId": 265096934
+      },
+      "url": "https://www.semanticscholar.org/paper/0aaa5f51faa9a5c03f788009cbf2288988880278",
+      "title": "Open Category Detection with PAC Guarantees",
+      "venue": "",
+      "year": 2018,
+      "referenceCount": 0,
+      "citationCount": 0,
+      "authors": []
+    },
+    {
+      "paperId": "c45ea2d5fbd0d4dffd513331f8bdd7e2579614b0",
+      "externalIds": {
+        "DBLP": "journals/jmlr/LiuGHFMD22",
+        "CorpusId": 246554263
+      },
+      "url": "https://www.semanticscholar.org/paper/c45ea2d5fbd0d4dffd513331f8bdd7e2579614b0",
+      "title": "PAC Guarantees and Effective Algorithms for Detecting Novel Categories",
+      "venue": "Journal of machine learning research",
+      "year": 2022,
+      "referenceCount": 40,
+      "citationCount": 8,
+      "authors": [
+        {
+          "authorId": "2108638678",
+          "name": "Si Liu"
+        },
+        {
+          "authorId": "51112441",
+          "name": "Risheek Garrepalli"
+        },
+        {
+          "authorId": "3422872",
+          "name": "Dan Hendrycks"
+        },
+        {
+          "authorId": "2286260253",
+          "name": "Alan Fern"
+        },
+        {
+          "authorId": "2329096990",
+          "name": "Debashis Mondal"
+        },
+        {
+          "authorId": "144299726",
+          "name": "Thomas G. Dietterich"
+        }
+      ]
+    },
+    {
+      "paperId": "eb824169b2a22816fceeee1f4d80601201f42057",
+      "externalIds": {
+        "MAG": "2886621120",
+        "DBLP": "conf/aaai/LiuGFD18",
+        "CorpusId": 51872343
+      },
+      "url": "https://www.semanticscholar.org/paper/eb824169b2a22816fceeee1f4d80601201f42057",
+      "title": "Can We Achieve Open Category Detection with Guarantees?",
+      "venue": "AAAI Workshops",
+      "year": 2018,
+      "referenceCount": 25,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2108638678",
+          "name": "Si Liu"
+        },
+        {
+          "authorId": "51112441",
+          "name": "Risheek Garrepalli"
+        },
+        {
+          "authorId": "145841336",
+          "name": "Alan Fern"
+        },
+        {
+          "authorId": "144299726",
+          "name": "Thomas G. Dietterich"
+        }
+      ]
+    },
+    {
+      "paperId": "c05040e18f007883c7dc098a29bc5a270b937c9e",
+      "externalIds": {
+        "ArXiv": "2509.23316",
+        "DBLP": "journals/corr/abs-2509-23316",
+        "DOI": "10.48550/arXiv.2509.23316",
+        "CorpusId": 281674324
+      },
+      "url": "https://www.semanticscholar.org/paper/c05040e18f007883c7dc098a29bc5a270b937c9e",
+      "title": "C3-OWD: A Curriculum Cross-modal Contrastive Learning Framework for Open-World Detection",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "referenceCount": 66,
+      "citationCount": 6,
+      "authors": [
+        {
+          "authorId": "2375153720",
+          "name": "Siheng Wang"
+        },
+        {
+          "authorId": "2383845284",
+          "name": "Zhengdao Li"
+        },
+        {
+          "authorId": "2349304855",
+          "name": "Yanshu Li"
+        },
+        {
+          "authorId": "2395599102",
+          "name": "Canran Xiao"
+        },
+        {
+          "authorId": "2372698262",
+          "name": "Haibo Zhan"
+        },
+        {
+          "authorId": "2354256911",
+          "name": "Zhengtao Yao"
+        },
+        {
+          "authorId": "2358296972",
+          "name": "Xuzhi Zhang"
+        },
+        {
+          "authorId": "2322651706",
+          "name": "Jiale Kang"
+        },
+        {
+          "authorId": "2382944658",
+          "name": "Linshan Li"
+        },
+        {
+          "authorId": "2382939864",
+          "name": "Weiming Liu"
+        },
+        {
+          "authorId": "2386598941",
+          "name": "Zhikang Dong"
+        },
+        {
+          "authorId": "2382942885",
+          "name": "Jifeng Shen"
+        },
+        {
+          "authorId": "2329328324",
+          "name": "Junhao Dong"
+        },
+        {
+          "authorId": "2238403937",
+          "name": "Qiang Sun"
+        },
+        {
+          "authorId": "2386840267",
+          "name": "Piotr Koniusz"
+        }
+      ]
+    },
+    {
+      "paperId": "fc3b9d02cdd2c2d54dac0730d442fc2cb65d8318",
+      "externalIds": {
+        "DBLP": "journals/pami/WangLCLTZW25",
+        "DOI": "10.1109/TPAMI.2024.3411595",
+        "CorpusId": 270389968,
+        "PubMed": "38861430"
+      },
+      "url": "https://www.semanticscholar.org/paper/fc3b9d02cdd2c2d54dac0730d442fc2cb65d8318",
+      "title": "UniDetector: Towards Universal Object Detection With Heterogeneous Supervision",
+      "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+      "year": 2024,
+      "referenceCount": 113,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "2108305352",
+          "name": "Zhenyu Wang"
+        },
+        {
+          "authorId": "47002847",
+          "name": "Yali Li"
+        },
+        {
+          "authorId": "2257714495",
+          "name": "Xi Chen"
+        },
+        {
+          "authorId": "2290970408",
+          "name": "Ser-Nam Lim"
+        },
+        {
+          "authorId": "2257247342",
+          "name": "Antonio Torralba"
+        },
+        {
+          "authorId": "2293765898",
+          "name": "Hengshuang Zhao"
+        },
+        {
+          "authorId": "2257325562",
+          "name": "Shengjin Wang"
+        }
+      ]
+    },
+    {
+      "paperId": "af6db7ae134ebad3fc12c34ff3a3c2139aa97bd8",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2303-11749",
+        "ArXiv": "2303.11749",
+        "DOI": "10.1109/CVPR52729.2023.01100",
+        "CorpusId": 257636989
+      },
+      "url": "https://www.semanticscholar.org/paper/af6db7ae134ebad3fc12c34ff3a3c2139aa97bd8",
+      "title": "Detecting Everything in the Open World: Towards Universal Object Detection",
+      "venue": "Computer Vision and Pattern Recognition",
+      "year": 2023,
+      "referenceCount": 72,
+      "citationCount": 115,
+      "authors": [
+        {
+          "authorId": "2108305352",
+          "name": "Zhenyu Wang"
+        },
+        {
+          "authorId": "47002847",
+          "name": "Yali Li"
+        },
+        {
+          "authorId": "2145309103",
+          "name": "Xi Chen"
+        },
+        {
+          "authorId": "153317808",
+          "name": "S. Lim"
+        },
+        {
+          "authorId": "143805211",
+          "name": "A. Torralba"
+        },
+        {
+          "authorId": "3459894",
+          "name": "Hengshuang Zhao"
+        },
+        {
+          "authorId": "1678689",
+          "name": "Shengjin Wang"
+        }
+      ]
+    },
+    {
+      "paperId": "51df0fc62c69353353192fcb8af6e1a2a1e71415",
+      "externalIds": {
+        "ArXiv": "2408.14032",
+        "DBLP": "journals/corr/abs-2408-14032",
+        "DOI": "10.48550/arXiv.2408.14032",
+        "CorpusId": 271956674
+      },
+      "url": "https://www.semanticscholar.org/paper/51df0fc62c69353353192fcb8af6e1a2a1e71415",
+      "title": "More Pictures Say More: Visual Intersection Network for Open Set Object Detection",
+      "venue": "arXiv.org",
+      "year": 2024,
+      "referenceCount": 24,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2316949508",
+          "name": "Bingcheng Dong"
+        },
+        {
+          "authorId": "2316978964",
+          "name": "Yuning Ding"
+        },
+        {
+          "authorId": "2248021491",
+          "name": "Jinrong Zhang"
+        },
+        {
+          "authorId": "2316952937",
+          "name": "Sifan Zhang"
+        },
+        {
+          "authorId": "2303840146",
+          "name": "Shenglan Liu"
+        }
+      ]
+    },
+    {
+      "paperId": "943a5e53084bbcf0facc75886f1975c719184225",
+      "externalIds": {
+        "CorpusId": 208636021
+      },
+      "url": "https://www.semanticscholar.org/paper/943a5e53084bbcf0facc75886f1975c719184225",
+      "title": "Title: Contextual MDPs: A New Model and PAC Guarantees for Reinforcement Learning with Rich Observations",
+      "venue": "",
+      "year": 2016,
+      "referenceCount": 0,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "47982033",
+          "name": "A. Navrotsky"
+        },
+        {
+          "authorId": "1808676",
+          "name": "Vikas Sindhwani"
+        },
+        {
+          "authorId": "1793529",
+          "name": "Cho-Jui Hsieh"
+        }
+      ]
+    },
+    {
+      "paperId": "a48602a17a9776ab5b35f574bdd7650cf1594da4",
+      "externalIds": {
+        "ArXiv": "2407.09174",
+        "DBLP": "journals/corr/abs-2407-09174",
+        "DOI": "10.1016/j.eswa.2024.125124",
+        "CorpusId": 271162149
+      },
+      "url": "https://www.semanticscholar.org/paper/a48602a17a9776ab5b35f574bdd7650cf1594da4",
+      "title": "DART: An Automated End-to-End Object Detection Pipeline with Data Diversification, Open-Vocabulary Bounding Box Annotation, Pseudo-Label Review, and Model Training",
+      "venue": "Expert systems with applications",
+      "year": 2024,
+      "referenceCount": 23,
+      "citationCount": 9,
+      "authors": [
+        {
+          "authorId": "2311115884",
+          "name": "Chen Xin"
+        },
+        {
+          "authorId": "2311123554",
+          "name": "Andreas Hartel"
+        },
+        {
+          "authorId": "1884159",
+          "name": "Enkelejda Kasneci"
+        }
+      ]
+    }
+  ]
+}

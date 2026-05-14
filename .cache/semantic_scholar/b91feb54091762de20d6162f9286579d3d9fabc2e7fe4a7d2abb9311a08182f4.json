@@ -1,0 +1,314 @@
+{
+  "total": 140,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "367b85c20ad8140496f30088382a0529ed4011f8",
+      "externalIds": {
+        "DBLP": "conf/icml/YangRV15",
+        "MAG": "1826721227",
+        "CorpusId": 7740116
+      },
+      "url": "https://www.semanticscholar.org/paper/367b85c20ad8140496f30088382a0529ed4011f8",
+      "title": "Sparse Subspace Clustering with Missing Entries",
+      "venue": "International Conference on Machine Learning",
+      "year": 2015,
+      "referenceCount": 30,
+      "citationCount": 97,
+      "authors": [
+        {
+          "authorId": "2410303810",
+          "name": "Congyuan Yang"
+        },
+        {
+          "authorId": "1780452",
+          "name": "Daniel P. Robinson"
+        },
+        {
+          "authorId": "144020730",
+          "name": "R. Vidal"
+        }
+      ]
+    },
+    {
+      "paperId": "e796935db682a7eec15750473f5c6324826bd433",
+      "externalIds": {
+        "DBLP": "conf/icml/TsakirisV18",
+        "MAG": "2782139123",
+        "ArXiv": "1801.00393",
+        "CorpusId": 2072669
+      },
+      "url": "https://www.semanticscholar.org/paper/e796935db682a7eec15750473f5c6324826bd433",
+      "title": "Theoretical Analysis of Sparse Subspace Clustering with Missing Entries",
+      "venue": "International Conference on Machine Learning",
+      "year": 2018,
+      "referenceCount": 44,
+      "citationCount": 35,
+      "authors": [
+        {
+          "authorId": "2900173",
+          "name": "M. Tsakiris"
+        },
+        {
+          "authorId": "144020730",
+          "name": "R. Vidal"
+        }
+      ]
+    },
+    {
+      "paperId": "8d152057cdc4eb0da992483e120fccce13075651",
+      "externalIds": {
+        "MAG": "2609983914",
+        "DBLP": "journals/nn/FanC17",
+        "DOI": "10.1016/j.neunet.2017.04.005",
+        "CorpusId": 608335,
+        "PubMed": "28531874"
+      },
+      "url": "https://www.semanticscholar.org/paper/8d152057cdc4eb0da992483e120fccce13075651",
+      "title": "Sparse subspace clustering for data with missing entries and high-rank matrix completion",
+      "venue": "Neural Networks",
+      "year": 2017,
+      "referenceCount": 58,
+      "citationCount": 51,
+      "authors": [
+        {
+          "authorId": "2599803",
+          "name": "Jicong Fan"
+        },
+        {
+          "authorId": "144134805",
+          "name": "T. Chow"
+        }
+      ]
+    },
+    {
+      "paperId": "b193fa02868032f244529c43c638a4930d534bff",
+      "externalIds": {
+        "MAG": "2805651580",
+        "ArXiv": "1707.02461",
+        "DBLP": "conf/dsw/Charles0W18",
+        "DOI": "10.1109/DSW.2018.8439907",
+        "CorpusId": 52052803
+      },
+      "url": "https://www.semanticscholar.org/paper/b193fa02868032f244529c43c638a4930d534bff",
+      "title": "SPARSE SUBSPACE CLUSTERING WITH MISSING AND CORRUPTED DATA",
+      "venue": "Data Science Workshop",
+      "year": 2017,
+      "referenceCount": 37,
+      "citationCount": 15,
+      "authors": [
+        {
+          "authorId": "143676545",
+          "name": "Zachary B. Charles"
+        },
+        {
+          "authorId": "144757408",
+          "name": "Amin Jalali"
+        },
+        {
+          "authorId": "145952380",
+          "name": "R. Willett"
+        }
+      ]
+    },
+    {
+      "paperId": "04e22bdb206478341e3e02768a2ed611f2362d15",
+      "externalIds": {
+        "MAG": "3011696451",
+        "DBLP": "conf/iccvw/LaneBYTHV19",
+        "DOI": "10.1109/ICCVW.2019.00081",
+        "CorpusId": 207913689
+      },
+      "url": "https://www.semanticscholar.org/paper/04e22bdb206478341e3e02768a2ed611f2362d15",
+      "title": "Classifying and Comparing Approaches to Subspace Clustering with Missing Data",
+      "venue": "2019 IEEE/CVF International Conference on Computer Vision Workshop (ICCVW)",
+      "year": 2019,
+      "referenceCount": 42,
+      "citationCount": 20,
+      "authors": [
+        {
+          "authorId": "6466028",
+          "name": "Connor Lane"
+        },
+        {
+          "authorId": "2067072111",
+          "name": "Ron Boger"
+        },
+        {
+          "authorId": "1878841",
+          "name": "Chong You"
+        },
+        {
+          "authorId": "2900173",
+          "name": "M. Tsakiris"
+        },
+        {
+          "authorId": "2663366",
+          "name": "B. Haeffele"
+        },
+        {
+          "authorId": "144020730",
+          "name": "R. Vidal"
+        }
+      ]
+    },
+    {
+      "paperId": "50ad34be37e30696603655bc7fa7edaf6e0ec0ee",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-1709-01467",
+        "MAG": "2750892579",
+        "ArXiv": "1709.01467",
+        "CorpusId": 9267723
+      },
+      "url": "https://www.semanticscholar.org/paper/50ad34be37e30696603655bc7fa7edaf6e0ec0ee",
+      "title": "Subspace Segmentation by Successive Approximations: A Method for Low-Rank and High-Rank Data with Missing Entries",
+      "venue": "arXiv.org",
+      "year": 2017,
+      "referenceCount": 30,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2067740122",
+          "name": "João Carvalho"
+        },
+        {
+          "authorId": "143606667",
+          "name": "Manuel Marques"
+        },
+        {
+          "authorId": "145848221",
+          "name": "J. Costeira"
+        }
+      ]
+    },
+    {
+      "paperId": "f0ca58fb3bc7ce0c0023413ef4668d07c25964ec",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2602-00262",
+        "ArXiv": "2602.00262",
+        "DOI": "10.48550/arXiv.2602.00262",
+        "CorpusId": 285269687
+      },
+      "url": "https://www.semanticscholar.org/paper/f0ca58fb3bc7ce0c0023413ef4668d07c25964ec",
+      "title": "Subspace Clustering on Incomplete Data with Self-Supervised Contrastive Learning",
+      "venue": "arXiv.org",
+      "year": 2026,
+      "referenceCount": 51,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2294177990",
+          "name": "Huanran Li"
+        },
+        {
+          "authorId": "2293613788",
+          "name": "Daniel Pimentel-Alarc'on"
+        }
+      ]
+    },
+    {
+      "paperId": "1f52cb2290e66a384fe4861454cc7e7288f4b949",
+      "externalIds": {
+        "DBLP": "journals/apin/DengWJY23",
+        "DOI": "10.1007/s10489-023-05168-1",
+        "CorpusId": 265556872
+      },
+      "url": "https://www.semanticscholar.org/paper/1f52cb2290e66a384fe4861454cc7e7288f4b949",
+      "title": "Semi-supervised sparse representation collaborative clustering of incomplete data",
+      "venue": "Applied intelligence (Boston)",
+      "year": 2023,
+      "referenceCount": 42,
+      "citationCount": 6,
+      "authors": [
+        {
+          "authorId": "2243096708",
+          "name": "Tingquan Deng"
+        },
+        {
+          "authorId": "2243320804",
+          "name": "Jingyu Wang"
+        },
+        {
+          "authorId": "2242897159",
+          "name": "Qingwei Jia"
+        },
+        {
+          "authorId": "2269507479",
+          "name": "Ming Yang"
+        }
+      ]
+    },
+    {
+      "paperId": "4160573ce9a3995bcbf6d4fcaac81c5a22195d27",
+      "externalIds": {
+        "DBLP": "journals/corr/WangAA16",
+        "MAG": "2336330100",
+        "ArXiv": "1604.04615",
+        "DOI": "10.1109/ISIT.2016.7541419",
+        "CorpusId": 1702057
+      },
+      "url": "https://www.semanticscholar.org/paper/4160573ce9a3995bcbf6d4fcaac81c5a22195d27",
+      "title": "On deterministic conditions for subspace clustering under missing data",
+      "venue": "International Symposium on Information Theory",
+      "year": 2016,
+      "referenceCount": 25,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "2108476666",
+          "name": "Wenqi Wang"
+        },
+        {
+          "authorId": "1980683",
+          "name": "S. Aeron"
+        },
+        {
+          "authorId": "1732805",
+          "name": "V. Aggarwal"
+        }
+      ]
+    },
+    {
+      "paperId": "78e128e2a9a7eced381c39d8d053b628d2e89f48",
+      "externalIds": {
+        "DBLP": "journals/tnn/YangCDDWZ24",
+        "DOI": "10.1109/TNNLS.2022.3215983",
+        "CorpusId": 253267626,
+        "PubMed": "36327183"
+      },
+      "url": "https://www.semanticscholar.org/paper/78e128e2a9a7eced381c39d8d053b628d2e89f48",
+      "title": "Robust Corrupted Data Recovery and Clustering via Generalized Transformed Tensor Low-Rank Representation",
+      "venue": "IEEE Transactions on Neural Networks and Learning Systems",
+      "year": 2022,
+      "referenceCount": 82,
+      "citationCount": 27,
+      "authors": [
+        {
+          "authorId": "2121280123",
+          "name": "Jinghua Yang"
+        },
+        {
+          "authorId": "50434146",
+          "name": "Chuan Chen"
+        },
+        {
+          "authorId": "2065113593",
+          "name": "Hong-ning Dai"
+        },
+        {
+          "authorId": "50386176",
+          "name": "Meng Ding"
+        },
+        {
+          "authorId": "2146269190",
+          "name": "Zhebin Wu"
+        },
+        {
+          "authorId": "144291579",
+          "name": "Zibin Zheng"
+        }
+      ]
+    }
+  ]
+}

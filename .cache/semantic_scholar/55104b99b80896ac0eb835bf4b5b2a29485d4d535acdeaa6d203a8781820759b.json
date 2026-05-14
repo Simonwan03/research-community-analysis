@@ -1,0 +1,275 @@
+{
+  "total": 3168,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "cc2591bec7073a5165d76698f5838bf8aa6d67fd",
+      "externalIds": {
+        "MAG": "2962783804",
+        "DBLP": "journals/corr/abs-1807-01604",
+        "ArXiv": "1807.01604",
+        "CorpusId": 49317028
+      },
+      "url": "https://www.semanticscholar.org/paper/cc2591bec7073a5165d76698f5838bf8aa6d67fd",
+      "title": "Quasi-Monte Carlo Variational Inference",
+      "venue": "International Conference on Machine Learning",
+      "year": 2018,
+      "referenceCount": 62,
+      "citationCount": 67,
+      "authors": [
+        {
+          "authorId": "11843959",
+          "name": "Alexander Buchholz"
+        },
+        {
+          "authorId": "39798982",
+          "name": "F. Wenzel"
+        },
+        {
+          "authorId": "1783468",
+          "name": "S. Mandt"
+        }
+      ]
+    },
+    {
+      "paperId": "70c82ae07f1864704e9ecc8130c7424cbac032a5",
+      "externalIds": {
+        "CorpusId": 260444791
+      },
+      "url": "https://www.semanticscholar.org/paper/70c82ae07f1864704e9ecc8130c7424cbac032a5",
+      "title": "Quasi-Monte Carlo Variational Inference",
+      "venue": "",
+      "year": null,
+      "referenceCount": 0,
+      "citationCount": 1,
+      "authors": []
+    },
+    {
+      "paperId": "1250623eff12a9a48da43d895a018820dc8145fa",
+      "externalIds": {
+        "MAG": "2905394295",
+        "DOI": "10.29007/gxnq",
+        "CorpusId": 126110423
+      },
+      "url": "https://www.semanticscholar.org/paper/1250623eff12a9a48da43d895a018820dc8145fa",
+      "title": "Quasi-Monte Carlo Flows",
+      "venue": "EasyChair Preprints",
+      "year": 2018,
+      "referenceCount": 20,
+      "citationCount": 6,
+      "authors": [
+        {
+          "authorId": "39798982",
+          "name": "F. Wenzel"
+        },
+        {
+          "authorId": "11843959",
+          "name": "Alexander Buchholz"
+        },
+        {
+          "authorId": "1783468",
+          "name": "S. Mandt"
+        }
+      ]
+    },
+    {
+      "paperId": "93a410b4f5428cb3e93b9617e95b15518fbbd46e",
+      "externalIds": {
+        "CorpusId": 199462061
+      },
+      "url": "https://www.semanticscholar.org/paper/93a410b4f5428cb3e93b9617e95b15518fbbd46e",
+      "title": "EasyChair Preprint No 684 Quasi-Monte Carlo Flows",
+      "venue": "",
+      "year": null,
+      "referenceCount": 20,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "39798982",
+          "name": "F. Wenzel"
+        },
+        {
+          "authorId": "11843959",
+          "name": "Alexander Buchholz"
+        },
+        {
+          "authorId": "1783468",
+          "name": "S. Mandt"
+        }
+      ]
+    },
+    {
+      "paperId": "af7ca402cbd3823d53627d65383a68e78948854a",
+      "externalIds": {
+        "PubMedCentral": "12987689",
+        "ArXiv": "2108.03782",
+        "DBLP": "journals/corr/abs-2108-03782",
+        "CorpusId": 236956538,
+        "PubMed": "41835013"
+      },
+      "url": "https://www.semanticscholar.org/paper/af7ca402cbd3823d53627d65383a68e78948854a",
+      "title": "Pathfinder: Parallel quasi-Newton variational inference",
+      "venue": "Journal of machine learning research",
+      "year": 2021,
+      "referenceCount": 67,
+      "citationCount": 56,
+      "authors": [
+        {
+          "authorId": "2156147729",
+          "name": "Lu Zhang"
+        },
+        {
+          "authorId": "2579894",
+          "name": "Bob Carpenter"
+        },
+        {
+          "authorId": "2063960687",
+          "name": "A. Gelman"
+        },
+        {
+          "authorId": "3104170",
+          "name": "Aki Vehtari"
+        }
+      ]
+    },
+    {
+      "paperId": "3aa800a37a2d68998c205efbc481f8176d66b319",
+      "externalIds": {
+        "ArXiv": "2406.02838",
+        "DBLP": "journals/corr/abs-2406-02838",
+        "DOI": "10.48550/arXiv.2406.02838",
+        "CorpusId": 270258359
+      },
+      "url": "https://www.semanticscholar.org/paper/3aa800a37a2d68998c205efbc481f8176d66b319",
+      "title": "You Only Accept Samples Once: Fast, Self-Correcting Stochastic Variational Inference",
+      "venue": "arXiv.org",
+      "year": 2024,
+      "referenceCount": 28,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2300370610",
+          "name": "Dominic B. Dayta"
+        }
+      ]
+    },
+    {
+      "paperId": "4820491e8b687240d5dcd322d1463c1ddba5d5cb",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2006-07487",
+        "MAG": "3034678031",
+        "ArXiv": "2006.07487",
+        "DOI": "10.1007/978-3-030-98319-2_10",
+        "CorpusId": 219687320
+      },
+      "url": "https://www.semanticscholar.org/paper/4820491e8b687240d5dcd322d1463c1ddba5d5cb",
+      "title": "Scalable Control Variates for Monte Carlo Methods via Stochastic Optimization",
+      "venue": "Monte Carlo and Quasi-Monte Carlo Methods",
+      "year": 2020,
+      "referenceCount": 73,
+      "citationCount": 23,
+      "authors": [
+        {
+          "authorId": "81065454",
+          "name": "Shijing Si"
+        },
+        {
+          "authorId": "3353497",
+          "name": "C. Oates"
+        },
+        {
+          "authorId": "38584218",
+          "name": "A. Duncan"
+        },
+        {
+          "authorId": "145006560",
+          "name": "L. Carin"
+        },
+        {
+          "authorId": "121585633",
+          "name": "F. Briol"
+        }
+      ]
+    },
+    {
+      "paperId": "7a729f1ed63beda491f494ee9b0c5ea732357253",
+      "externalIds": {
+        "DBLP": "journals/siamsc/HeXW22",
+        "ArXiv": "2109.12728",
+        "DOI": "10.1137/21m1449051",
+        "CorpusId": 237940980
+      },
+      "url": "https://www.semanticscholar.org/paper/7a729f1ed63beda491f494ee9b0c5ea732357253",
+      "title": "Unbiased MLMC-based variational Bayes for likelihood-free inference",
+      "venue": "SIAM Journal on Scientific Computing",
+      "year": 2021,
+      "referenceCount": 40,
+      "citationCount": 4,
+      "authors": [
+        {
+          "authorId": "2227069",
+          "name": "Zhijian He"
+        },
+        {
+          "authorId": "2149238629",
+          "name": "Zhenghang Xu"
+        },
+        {
+          "authorId": "2144684495",
+          "name": "Xiaoqun Wang"
+        }
+      ]
+    },
+    {
+      "paperId": "f80a9d3861a665c09a8269109f1143145bb7d853",
+      "externalIds": {
+        "DBLP": "conf/nips/EvansN18",
+        "MAG": "2950838826",
+        "ArXiv": "1809.04279",
+        "CorpusId": 52196192
+      },
+      "url": "https://www.semanticscholar.org/paper/f80a9d3861a665c09a8269109f1143145bb7d853",
+      "title": "Discretely Relaxing Continuous Variables for tractable Variational Inference",
+      "venue": "Neural Information Processing Systems",
+      "year": 2018,
+      "referenceCount": 36,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "41075246",
+          "name": "Trefor W. Evans"
+        },
+        {
+          "authorId": "144475330",
+          "name": "P. Nair"
+        }
+      ]
+    },
+    {
+      "paperId": "071a3d69f97c5b0fc4459b74f2213a6ce85b2b83",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2009-01675",
+        "MAG": "3082874492",
+        "ArXiv": "2009.01675",
+        "CorpusId": 221670105
+      },
+      "url": "https://www.semanticscholar.org/paper/071a3d69f97c5b0fc4459b74f2213a6ce85b2b83",
+      "title": "Quasi-symplectic Langevin Variational Autoencoder",
+      "venue": "arXiv.org",
+      "year": 2020,
+      "referenceCount": 30,
+      "citationCount": 4,
+      "authors": [
+        {
+          "authorId": "1390879204",
+          "name": "Zihao Wang"
+        },
+        {
+          "authorId": "1781157",
+          "name": "H. Delingette"
+        }
+      ]
+    }
+  ]
+}

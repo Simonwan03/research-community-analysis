@@ -1,0 +1,292 @@
+{
+  "total": 4644,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "285b7f8efabf3c90971d949e0d881ec48370b1c4",
+      "externalIds": {
+        "MAG": "2294404254",
+        "DBLP": "conf/icml/LiuSSF16",
+        "ArXiv": "1504.00624",
+        "CorpusId": 12760511
+      },
+      "url": "https://www.semanticscholar.org/paper/285b7f8efabf3c90971d949e0d881ec48370b1c4",
+      "title": "Structure Learning of Partitioned Markov Networks",
+      "venue": "International Conference on Machine Learning",
+      "year": 2015,
+      "referenceCount": 36,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "2109030005",
+          "name": "Song Liu"
+        },
+        {
+          "authorId": "2026193813",
+          "name": "Taiji Suzuki"
+        },
+        {
+          "authorId": "67154907",
+          "name": "Masashi Sugiyama"
+        },
+        {
+          "authorId": "1693668",
+          "name": "K. Fukumizu"
+        }
+      ]
+    },
+    {
+      "paperId": "bf96a02b17bc1a1379dd9e02ae6ba793276ed566",
+      "externalIds": {
+        "MAG": "2162240241",
+        "DOI": "10.1109/CNNA.1994.381664",
+        "CorpusId": 57796391
+      },
+      "url": "https://www.semanticscholar.org/paper/bf96a02b17bc1a1379dd9e02ae6ba793276ed566",
+      "title": "Distributed neural control for Markov decision processes in hierarchic communication networks",
+      "venue": "Proceedings of the Third IEEE International Workshop on Cellular Neural Networks and their Applications (CNNA-94)",
+      "year": 1994,
+      "referenceCount": 4,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "34632501",
+          "name": "A. Murgu"
+        }
+      ]
+    },
+    {
+      "paperId": "b130463eee68880a0e045ae76a5b45fc9c5350ee",
+      "externalIds": {
+        "DBLP": "conf/aistats/KorhonenFP24",
+        "ArXiv": "2403.08562",
+        "DOI": "10.48550/arXiv.2403.08562",
+        "CorpusId": 268379021
+      },
+      "url": "https://www.semanticscholar.org/paper/b130463eee68880a0e045ae76a5b45fc9c5350ee",
+      "title": "Structural perspective on constraint-based learning of Markov networks",
+      "venue": "International Conference on Artificial Intelligence and Statistics",
+      "year": 2024,
+      "referenceCount": 25,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "32319688",
+          "name": "T. Korhonen"
+        },
+        {
+          "authorId": "2256637009",
+          "name": "Fedor V. Fomin"
+        },
+        {
+          "authorId": "2280920168",
+          "name": "Pekka Parviainen"
+        }
+      ]
+    },
+    {
+      "paperId": "38309ab72b0dbdef7d39faeff8e4df59cadaeabd",
+      "externalIds": {
+        "ArXiv": "1901.04345",
+        "MAG": "2955413567",
+        "DBLP": "journals/csda/PensarXPPKC20",
+        "DOI": "10.1016/j.csda.2019.06.012",
+        "CorpusId": 58006633
+      },
+      "url": "https://www.semanticscholar.org/paper/38309ab72b0dbdef7d39faeff8e4df59cadaeabd",
+      "title": "High-dimensional structure learning of binary pairwise Markov networks: A comparative numerical study",
+      "venue": "Computational Statistics & Data Analysis",
+      "year": 2019,
+      "referenceCount": 29,
+      "citationCount": 4,
+      "authors": [
+        {
+          "authorId": "3287803",
+          "name": "J. Pensar"
+        },
+        {
+          "authorId": "2145204590",
+          "name": "Y. Xu"
+        },
+        {
+          "authorId": "7618585",
+          "name": "S. Puranen"
+        },
+        {
+          "authorId": "3063309",
+          "name": "M. Pesonen"
+        },
+        {
+          "authorId": "2329517",
+          "name": "Y. Kabashima"
+        },
+        {
+          "authorId": "1712741",
+          "name": "J. Corander"
+        }
+      ]
+    },
+    {
+      "paperId": "c8ac43be2905aa900a0c67075b66874e9e9dd419",
+      "externalIds": {
+        "MAG": "2587420134",
+        "ArXiv": "2103.15540",
+        "DOI": "10.1111/sjos.12260",
+        "CorpusId": 125782760
+      },
+      "url": "https://www.semanticscholar.org/paper/c8ac43be2905aa900a0c67075b66874e9e9dd419",
+      "title": "Structure Learning of Contextual Markov Networks using Marginal Pseudo‐likelihood",
+      "venue": "",
+      "year": 2017,
+      "referenceCount": 38,
+      "citationCount": 7,
+      "authors": [
+        {
+          "authorId": "3287803",
+          "name": "J. Pensar"
+        },
+        {
+          "authorId": "39736381",
+          "name": "Henrik J. Nyman"
+        },
+        {
+          "authorId": "1712741",
+          "name": "J. Corander"
+        }
+      ]
+    },
+    {
+      "paperId": "947bd0c7c035cfbfd21bbd0eaf9a63f58736347d",
+      "externalIds": {
+        "MAG": "2899018717",
+        "DBLP": "conf/pgm/BarnardP18",
+        "CorpusId": 52963767,
+        "PubMed": "40259924"
+      },
+      "url": "https://www.semanticscholar.org/paper/947bd0c7c035cfbfd21bbd0eaf9a63f58736347d",
+      "title": "Causal Structure Learning via Temporal Markov Networks",
+      "venue": "European Workshop on Probabilistic Graphical Models",
+      "year": 2018,
+      "referenceCount": 39,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "40163445",
+          "name": "Aubrey Barnard"
+        },
+        {
+          "authorId": "2075395484",
+          "name": "David Page"
+        }
+      ]
+    },
+    {
+      "paperId": "f08dbceec9b790e73139c39681768ffb2ce5eef6",
+      "externalIds": {
+        "MAG": "2100236179",
+        "DBLP": "conf/nips/LeeGK06",
+        "DOI": "10.7551/mitpress/7503.003.0107",
+        "CorpusId": 2712572
+      },
+      "url": "https://www.semanticscholar.org/paper/f08dbceec9b790e73139c39681768ffb2ce5eef6",
+      "title": "Efficient Structure Learning of Markov Networks using L1-Regularization",
+      "venue": "Neural Information Processing Systems",
+      "year": 2006,
+      "referenceCount": 31,
+      "citationCount": 220,
+      "authors": [
+        {
+          "authorId": "2180463",
+          "name": "Su-In Lee"
+        },
+        {
+          "authorId": "1981419",
+          "name": "Varun Ganapathi"
+        },
+        {
+          "authorId": "1736370",
+          "name": "D. Koller"
+        }
+      ]
+    },
+    {
+      "paperId": "a6b80923dd30f920234a1ac965bea768062882f8",
+      "externalIds": {
+        "MAG": "2540616960",
+        "CorpusId": 63936062
+      },
+      "url": "https://www.semanticscholar.org/paper/a6b80923dd30f920234a1ac965bea768062882f8",
+      "title": "Efficient Structure Learning of Markov Networks using L1-Regularization",
+      "venue": "",
+      "year": 2007,
+      "referenceCount": 0,
+      "citationCount": 161,
+      "authors": [
+        {
+          "authorId": "1707625",
+          "name": "B. Scholkopf"
+        },
+        {
+          "authorId": "145039030",
+          "name": "J. Platt"
+        },
+        {
+          "authorId": "153379696",
+          "name": "T. Hofmann"
+        }
+      ]
+    },
+    {
+      "paperId": "83a302abc0c51d203771721aea4d19c37b859319",
+      "externalIds": {
+        "CorpusId": 3629999
+      },
+      "url": "https://www.semanticscholar.org/paper/83a302abc0c51d203771721aea4d19c37b859319",
+      "title": "Structure Learning for Markov Logic Networks",
+      "venue": "",
+      "year": 2018,
+      "referenceCount": 35,
+      "citationCount": 4,
+      "authors": [
+        {
+          "authorId": "1770643",
+          "name": "Tuyen N. Huynh"
+        },
+        {
+          "authorId": "1797655",
+          "name": "R. Mooney"
+        }
+      ]
+    },
+    {
+      "paperId": "4e348a80a1db729b33fe393c2cf3e731f7afa50f",
+      "externalIds": {
+        "MAG": "1576159843",
+        "DBLP": "conf/ilp/BibaFE08",
+        "DOI": "10.1007/978-3-540-85928-4_9",
+        "CorpusId": 17475088
+      },
+      "url": "https://www.semanticscholar.org/paper/4e348a80a1db729b33fe393c2cf3e731f7afa50f",
+      "title": "Discriminative Structure Learning of Markov Logic Networks",
+      "venue": "International Conference on Inductive Logic Programming",
+      "year": 2008,
+      "referenceCount": 39,
+      "citationCount": 42,
+      "authors": [
+        {
+          "authorId": "1704423",
+          "name": "M. Biba"
+        },
+        {
+          "authorId": "1725650",
+          "name": "S. Ferilli"
+        },
+        {
+          "authorId": "1700821",
+          "name": "F. Esposito"
+        }
+      ]
+    }
+  ]
+}

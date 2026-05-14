@@ -1,0 +1,341 @@
+{
+  "total": 559,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "7d475bac8987969c4e695bfc41661cce5ea2d545",
+      "externalIds": {
+        "MAG": "2785967771",
+        "DBLP": "journals/corr/abs-1802-01282",
+        "ArXiv": "1802.01282",
+        "CorpusId": 3653922
+      },
+      "url": "https://www.semanticscholar.org/paper/7d475bac8987969c4e695bfc41661cce5ea2d545",
+      "title": "Coordinated Exploration in Concurrent Reinforcement Learning",
+      "venue": "International Conference on Machine Learning",
+      "year": 2018,
+      "referenceCount": 21,
+      "citationCount": 45,
+      "authors": [
+        {
+          "authorId": "8472327",
+          "name": "Maria Dimakopoulou"
+        },
+        {
+          "authorId": "1731282",
+          "name": "Benjamin Van Roy"
+        }
+      ]
+    },
+    {
+      "paperId": "7da97ba0cc89b90a2e95c94b215e91328333f6a8",
+      "externalIds": {
+        "ArXiv": "1805.08948",
+        "MAG": "2963421140",
+        "DBLP": "conf/nips/DimakopoulouOR18",
+        "CorpusId": 43941185
+      },
+      "url": "https://www.semanticscholar.org/paper/7da97ba0cc89b90a2e95c94b215e91328333f6a8",
+      "title": "Scalable Coordinated Exploration in Concurrent Reinforcement Learning",
+      "venue": "Neural Information Processing Systems",
+      "year": 2018,
+      "referenceCount": 23,
+      "citationCount": 27,
+      "authors": [
+        {
+          "authorId": "8472327",
+          "name": "Maria Dimakopoulou"
+        },
+        {
+          "authorId": "2561924",
+          "name": "Ian Osband"
+        },
+        {
+          "authorId": "1731282",
+          "name": "Benjamin Van Roy"
+        }
+      ]
+    },
+    {
+      "paperId": "a38f554b6ad7d0f95ca0090fd7bf4360bc26dfa8",
+      "externalIds": {
+        "ArXiv": "2401.18012",
+        "DBLP": "journals/corr/abs-2401-18012",
+        "DOI": "10.48550/arXiv.2401.18012",
+        "CorpusId": 267335213
+      },
+      "url": "https://www.semanticscholar.org/paper/a38f554b6ad7d0f95ca0090fd7bf4360bc26dfa8",
+      "title": "Causal Coordinated Concurrent Reinforcement Learning",
+      "venue": "arXiv.org",
+      "year": 2024,
+      "referenceCount": 21,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2067221193",
+          "name": "Tim Tse"
+        },
+        {
+          "authorId": "2281947446",
+          "name": "Isaac Chan"
+        },
+        {
+          "authorId": "2827164",
+          "name": "Zhitang Chen"
+        }
+      ]
+    },
+    {
+      "paperId": "0dfd8a889c812872c1fe413e6e8fe7a48d47ee1a",
+      "externalIds": {
+        "DBLP": "conf/atal/ToquebiauBAJ24",
+        "ArXiv": "2402.03972",
+        "DOI": "10.48550/arXiv.2402.03972",
+        "CorpusId": 267499731
+      },
+      "url": "https://www.semanticscholar.org/paper/0dfd8a889c812872c1fe413e6e8fe7a48d47ee1a",
+      "title": "Joint Intrinsic Motivation for Coordinated Exploration in Multi-Agent Deep Reinforcement Learning",
+      "venue": "Adaptive Agents and Multi-Agent Systems",
+      "year": 2024,
+      "referenceCount": 36,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "2282973161",
+          "name": "Maxime Toquebiau"
+        },
+        {
+          "authorId": "2278428886",
+          "name": "Nicolas Bredeche"
+        },
+        {
+          "authorId": "1902084",
+          "name": "F. Benamar"
+        },
+        {
+          "authorId": "2282959591",
+          "name": "Jae-Yun Jun"
+        }
+      ]
+    },
+    {
+      "paperId": "33e3f13087abd5241d55523140720f5e684b7bee",
+      "externalIds": {
+        "ArXiv": "2201.09765",
+        "DBLP": "conf/iclr/ZhangXY22",
+        "CorpusId": 246241075
+      },
+      "url": "https://www.semanticscholar.org/paper/33e3f13087abd5241d55523140720f5e684b7bee",
+      "title": "Generative Planning for Temporally Coordinated Exploration in Reinforcement Learning",
+      "venue": "International Conference on Learning Representations",
+      "year": 2022,
+      "referenceCount": 66,
+      "citationCount": 12,
+      "authors": [
+        {
+          "authorId": null,
+          "name": "Haichao Zhang"
+        },
+        {
+          "authorId": "2155782544",
+          "name": "Wei Xu"
+        },
+        {
+          "authorId": "2910174",
+          "name": "Haonan Yu"
+        }
+      ]
+    },
+    {
+      "paperId": "f8564d05a3bf9a178849ed60ae523e3b07f50363",
+      "externalIds": {
+        "DBLP": "journals/tmlr/LaoGLY0F25",
+        "CorpusId": 278824826
+      },
+      "url": "https://www.semanticscholar.org/paper/f8564d05a3bf9a178849ed60ae523e3b07f50363",
+      "title": "Efficient Exploration in Multi-Agent Reinforcement Learning via Farsighted Self-Direction",
+      "venue": "Trans. Mach. Learn. Res.",
+      "year": 2025,
+      "referenceCount": 39,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2362942212",
+          "name": "Tiancheng Lao"
+        },
+        {
+          "authorId": "2124466167",
+          "name": "Xudong Guo"
+        },
+        {
+          "authorId": "46332065",
+          "name": "Mengge Liu"
+        },
+        {
+          "authorId": "2295592472",
+          "name": "Junjie Yu"
+        },
+        {
+          "authorId": "2359663860",
+          "name": "Yi Liu"
+        },
+        {
+          "authorId": "2113532692",
+          "name": "Wenhui Fan"
+        }
+      ]
+    },
+    {
+      "paperId": "c01dd6bc93ed01124079938cae19aba040273fc6",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-1905-12127",
+        "MAG": "2947526499",
+        "ArXiv": "1905.12127",
+        "CorpusId": 168169628
+      },
+      "url": "https://www.semanticscholar.org/paper/c01dd6bc93ed01124079938cae19aba040273fc6",
+      "title": "Coordinated Exploration via Intrinsic Rewards for Multi-Agent Reinforcement Learning",
+      "venue": "arXiv.org",
+      "year": 2019,
+      "referenceCount": 40,
+      "citationCount": 57,
+      "authors": [
+        {
+          "authorId": "2899335",
+          "name": "Shariq Iqbal"
+        },
+        {
+          "authorId": "145757665",
+          "name": "Fei Sha"
+        }
+      ]
+    },
+    {
+      "paperId": "b897f2f44d649de9ffa61377833196a53770d710",
+      "externalIds": {
+        "DBLP": "journals/anor/BalIPA25",
+        "DOI": "10.1007/s10479-023-05798-1",
+        "CorpusId": 267019779
+      },
+      "url": "https://www.semanticscholar.org/paper/b897f2f44d649de9ffa61377833196a53770d710",
+      "title": "Population-based exploration in reinforcement learning through repulsive reward shaping using eligibility traces",
+      "venue": "Annals of Operations Research",
+      "year": 2024,
+      "referenceCount": 28,
+      "citationCount": 4,
+      "authors": [
+        {
+          "authorId": "2279688149",
+          "name": "Melis Ilayda Bal"
+        },
+        {
+          "authorId": "2920454",
+          "name": "C. Iyigun"
+        },
+        {
+          "authorId": "2279684498",
+          "name": "Faruk Polat"
+        },
+        {
+          "authorId": "2068324777",
+          "name": "Hüseyin Aydın"
+        }
+      ]
+    },
+    {
+      "paperId": "9b001d73ff9804370c29cf57f20eeaacf334bcce",
+      "externalIds": {
+        "DOI": "10.1109/DOCS63458.2024.10704285",
+        "CorpusId": 273240804
+      },
+      "url": "https://www.semanticscholar.org/paper/9b001d73ff9804370c29cf57f20eeaacf334bcce",
+      "title": "Improving Cooperation via Joint Intrinsic Motivation Exploration in Multi-Agent Reinforcement Learning",
+      "venue": "2024 6th International Conference on Data-driven Optimization of Complex Systems (DOCS)",
+      "year": 2024,
+      "referenceCount": 24,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2325812363",
+          "name": "Hongfei Du"
+        },
+        {
+          "authorId": "2325787243",
+          "name": "Zhiyou Yang"
+        },
+        {
+          "authorId": "2325467270",
+          "name": "Yunhan Wu"
+        },
+        {
+          "authorId": "2268349981",
+          "name": "Ning Xie"
+        }
+      ]
+    },
+    {
+      "paperId": "7557083d2ff7bd397ee8c22a6bc095b1c4faadf6",
+      "externalIds": {
+        "ArXiv": "2509.21690",
+        "CorpusId": 281659314
+      },
+      "url": "https://www.semanticscholar.org/paper/7557083d2ff7bd397ee8c22a6bc095b1c4faadf6",
+      "title": "PACE: Physics Augmentation for Coordinated End-to-end Reinforcement Learning toward Versatile Humanoid Table Tennis",
+      "venue": "",
+      "year": 2025,
+      "referenceCount": 37,
+      "citationCount": 6,
+      "authors": [
+        {
+          "authorId": "2264743925",
+          "name": "Muqun Hu"
+        },
+        {
+          "authorId": "2355781402",
+          "name": "Wenxi Chen"
+        },
+        {
+          "authorId": "2408577609",
+          "name": "Wenjing Li"
+        },
+        {
+          "authorId": "2223177318",
+          "name": "Falak Mandali"
+        },
+        {
+          "authorId": "2293318313",
+          "name": "Zijian He"
+        },
+        {
+          "authorId": "2382841764",
+          "name": "Renhong Zhang"
+        },
+        {
+          "authorId": "2382767985",
+          "name": "Praveen Krisna"
+        },
+        {
+          "authorId": "2382768492",
+          "name": "Katherine Christian"
+        },
+        {
+          "authorId": "2382767915",
+          "name": "Leo Benaharon"
+        },
+        {
+          "authorId": "2312342301",
+          "name": "Dizhi Ma"
+        },
+        {
+          "authorId": "2259215555",
+          "name": "Karthik Ramani"
+        },
+        {
+          "authorId": "2382831453",
+          "name": "Yan Gu"
+        }
+      ]
+    }
+  ]
+}

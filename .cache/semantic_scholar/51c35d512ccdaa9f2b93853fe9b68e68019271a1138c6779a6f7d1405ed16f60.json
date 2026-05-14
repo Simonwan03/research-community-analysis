@@ -1,0 +1,312 @@
+{
+  "total": 2228,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "5e083e35ee82c8dd75570a92913d08d625532837",
+      "externalIds": {
+        "DBLP": "conf/icml/LuGDL18",
+        "MAG": "2803435037",
+        "CorpusId": 51881443
+      },
+      "url": "https://www.semanticscholar.org/paper/5e083e35ee82c8dd75570a92913d08d625532837",
+      "title": "Structured Variationally Auto-encoded Optimization",
+      "venue": "International Conference on Machine Learning",
+      "year": 2018,
+      "referenceCount": 23,
+      "citationCount": 64,
+      "authors": [
+        {
+          "authorId": "47062530",
+          "name": "Xiaoyu Lu"
+        },
+        {
+          "authorId": "1390665327",
+          "name": "Javier I. González"
+        },
+        {
+          "authorId": "2024189708",
+          "name": "Zhenwen Dai"
+        },
+        {
+          "authorId": "145306271",
+          "name": "Neil D. Lawrence"
+        }
+      ]
+    },
+    {
+      "paperId": "48a56cdff6979009ab5f38596c68a810605556ab",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2303-12558",
+        "ArXiv": "2303.12558",
+        "DOI": "10.48550/arXiv.2303.12558",
+        "CorpusId": 257663689
+      },
+      "url": "https://www.semanticscholar.org/paper/48a56cdff6979009ab5f38596c68a810605556ab",
+      "title": "Wasserstein Auto-encoded MDPs: Formal Verification of Efficiently Distilled RL Policies with Many-sided Guarantees",
+      "venue": "International Conference on Learning Representations",
+      "year": 2023,
+      "referenceCount": 61,
+      "citationCount": 6,
+      "authors": [
+        {
+          "authorId": "66658734",
+          "name": "Florent Delgrange"
+        },
+        {
+          "authorId": "2203371340",
+          "name": "Ann Now'e"
+        },
+        {
+          "authorId": "2162365979",
+          "name": "Guillermo A. P'erez"
+        }
+      ]
+    },
+    {
+      "paperId": "ab1a227a6fa8017aa4c8461446362a62a3dc0ffc",
+      "externalIds": {
+        "DOI": "10.3389/fmars.2025.1560958",
+        "CorpusId": 282168812
+      },
+      "url": "https://www.semanticscholar.org/paper/ab1a227a6fa8017aa4c8461446362a62a3dc0ffc",
+      "title": "The design of multiple orthogonal signals based on auto-encoder optimization network",
+      "venue": "Frontiers in Marine Science",
+      "year": 2025,
+      "referenceCount": 14,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "121541249",
+          "name": "B. Liang"
+        },
+        {
+          "authorId": "1739345900",
+          "name": "Mingzhi Wang"
+        },
+        {
+          "authorId": "2386393283",
+          "name": "Sen Zhang"
+        }
+      ]
+    },
+    {
+      "paperId": "db7a3c8ebc7c9bf97baecf43f6a628d1e052003f",
+      "externalIds": {
+        "DBLP": "journals/tkde/ChenWCZZL24",
+        "DOI": "10.1109/TKDE.2023.3298490",
+        "CorpusId": 260225107
+      },
+      "url": "https://www.semanticscholar.org/paper/db7a3c8ebc7c9bf97baecf43f6a628d1e052003f",
+      "title": "Denoising Variational Graph of Graphs Auto-Encoder for Predicting Structured Entity Interactions",
+      "venue": "IEEE Transactions on Knowledge and Data Engineering",
+      "year": 2024,
+      "referenceCount": 47,
+      "citationCount": 9,
+      "authors": [
+        {
+          "authorId": "2225236719",
+          "name": "Han Chen"
+        },
+        {
+          "authorId": "97699982",
+          "name": "Hanchen Wang"
+        },
+        {
+          "authorId": "2225540417",
+          "name": "Hongmei Chen"
+        },
+        {
+          "authorId": "48379623",
+          "name": "Y. Zhang"
+        },
+        {
+          "authorId": "19262604",
+          "name": "W. Zhang"
+        },
+        {
+          "authorId": "2118200994",
+          "name": "Xuemin Lin"
+        }
+      ]
+    },
+    {
+      "paperId": "24085002276537d77c3447a2883a6eac66062e4a",
+      "externalIds": {
+        "DOI": "10.1007/s00158-024-03835-6",
+        "CorpusId": 271070235
+      },
+      "url": "https://www.semanticscholar.org/paper/24085002276537d77c3447a2883a6eac66062e4a",
+      "title": "TOMAS: topology optimization of multiscale fluid flow devices using variational auto-encoders and super-shapes",
+      "venue": "Structural And Multidisciplinary Optimization",
+      "year": 2024,
+      "referenceCount": 99,
+      "citationCount": 10,
+      "authors": [
+        {
+          "authorId": "2185423210",
+          "name": "Rahul Kumar Padhy"
+        },
+        {
+          "authorId": "2267823283",
+          "name": "Krishnan Suresh"
+        },
+        {
+          "authorId": "145736376",
+          "name": "A. Chandrasekhar"
+        }
+      ]
+    },
+    {
+      "paperId": "9ae934cb967a79827e26d1c9b79bbcc28040c3b3",
+      "externalIds": {
+        "ArXiv": "2409.04692",
+        "DOI": "10.1016/j.cma.2025.117772",
+        "CorpusId": 272524184
+      },
+      "url": "https://www.semanticscholar.org/paper/9ae934cb967a79827e26d1c9b79bbcc28040c3b3",
+      "title": "Data-driven multifidelity topology design with multi-channel variational auto-encoder for concurrent optimization of multiple design variable fields",
+      "venue": "Computer Methods in Applied Mechanics and Engineering",
+      "year": 2024,
+      "referenceCount": 52,
+      "citationCount": 8,
+      "authors": [
+        {
+          "authorId": "2005727988",
+          "name": "Hiroki Kawabe"
+        },
+        {
+          "authorId": "2697209",
+          "name": "K. Yaji"
+        },
+        {
+          "authorId": "2289591194",
+          "name": "Yuichiro Aoki"
+        }
+      ]
+    },
+    {
+      "paperId": "b7e60f9de6bb8941815a9e088c69d5c792423928",
+      "externalIds": {
+        "DOI": "10.1109/AP-S/INC-USNC-URSI52054.2024.10686102",
+        "CorpusId": 273012684
+      },
+      "url": "https://www.semanticscholar.org/paper/b7e60f9de6bb8941815a9e088c69d5c792423928",
+      "title": "An Efficient Antenna Decoupling Optimization Method Using Variational Auto-Encoders",
+      "venue": "2024 IEEE International Symposium on Antennas and Propagation and INC/USNC‐URSI Radio Science Meeting (AP-S/INC-USNC-URSI)",
+      "year": 2024,
+      "referenceCount": 7,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2143569102",
+          "name": "Hao Huang"
+        },
+        {
+          "authorId": "2323856531",
+          "name": "Xue-Song Yang"
+        }
+      ]
+    },
+    {
+      "paperId": "9fdbc9b62e7677aba55297dc56378994b824558e",
+      "externalIds": {
+        "DOI": "10.1007/s11468-024-02613-w",
+        "CorpusId": 273934471
+      },
+      "url": "https://www.semanticscholar.org/paper/9fdbc9b62e7677aba55297dc56378994b824558e",
+      "title": "Design and Optimization of Encoded and Tunable Graphene-Silver Metasurface Surface Plasmon Resonance Sensor for Detection of Low Refractive Index Variation in Terahertz Regime",
+      "venue": "Plasmonics",
+      "year": 2024,
+      "referenceCount": 55,
+      "citationCount": 24,
+      "authors": [
+        {
+          "authorId": "2122665",
+          "name": "A. Almawgani"
+        },
+        {
+          "authorId": "2224145739",
+          "name": "Jacob Wekalao"
+        },
+        {
+          "authorId": "2238472042",
+          "name": "A. U."
+        },
+        {
+          "authorId": "2341873329",
+          "name": "Shobhitkumar Patel"
+        },
+        {
+          "authorId": "1992812750",
+          "name": "A. Alkorbi"
+        },
+        {
+          "authorId": "2273403932",
+          "name": "Mohammed Jalalah"
+        },
+        {
+          "authorId": "6623804",
+          "name": "F. A. Harraz"
+        }
+      ]
+    },
+    {
+      "paperId": "29220a9c007263fb3440374dfefab819e89d6daa",
+      "externalIds": {
+        "DBLP": "journals/eswa/HaridasanHM25",
+        "DOI": "10.1016/j.eswa.2024.126199",
+        "CorpusId": 274902867
+      },
+      "url": "https://www.semanticscholar.org/paper/29220a9c007263fb3440374dfefab819e89d6daa",
+      "title": "Gazelle optimization and conditional variational auto encoder for telecom user service recommendation based on churn analysis",
+      "venue": "Expert systems with applications",
+      "year": 2024,
+      "referenceCount": 23,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "2336385321",
+          "name": "Vani Haridassan"
+        },
+        {
+          "authorId": "2168728731",
+          "name": "K. Hariharanath"
+        },
+        {
+          "authorId": "98923911",
+          "name": "K. Muthukumaran"
+        }
+      ]
+    },
+    {
+      "paperId": "343c68aee5fd4b87d2be3c52021d86cded820045",
+      "externalIds": {
+        "DBLP": "journals/winet/SenthilkumarTP24",
+        "DOI": "10.1007/s11276-023-03571-7",
+        "CorpusId": 265543868
+      },
+      "url": "https://www.semanticscholar.org/paper/343c68aee5fd4b87d2be3c52021d86cded820045",
+      "title": "Cloud intrusion detection framework using variational auto encoder Wasserstein generative adversarial network optimized with archerfish hunting optimization algorithm",
+      "venue": "Wireless networks",
+      "year": 2023,
+      "referenceCount": 62,
+      "citationCount": 19,
+      "authors": [
+        {
+          "authorId": "2260899832",
+          "name": "G. Senthilkumar"
+        },
+        {
+          "authorId": "2260900474",
+          "name": "K. Tamilarasi"
+        },
+        {
+          "authorId": "2260895247",
+          "name": "J. K. Periasamy"
+        }
+      ]
+    }
+  ]
+}

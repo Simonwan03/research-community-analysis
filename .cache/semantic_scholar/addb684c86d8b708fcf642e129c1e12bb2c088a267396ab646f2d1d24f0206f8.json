@@ -1,0 +1,301 @@
+{
+  "total": 2681,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "713ff427f83967d202082ee635f6e08631df5338",
+      "externalIds": {
+        "ArXiv": "2405.06909",
+        "DBLP": "conf/aies/ReuelM24",
+        "DOI": "10.48550/arXiv.2405.06909",
+        "CorpusId": 269757669
+      },
+      "url": "https://www.semanticscholar.org/paper/713ff427f83967d202082ee635f6e08631df5338",
+      "title": "Fairness in Reinforcement Learning: A Survey",
+      "venue": "AAAI/ACM Conference on AI, Ethics, and Society",
+      "year": 2024,
+      "referenceCount": 66,
+      "citationCount": 17,
+      "authors": [
+        {
+          "authorId": "2209882963",
+          "name": "Anka Reuel"
+        },
+        {
+          "authorId": "2301268266",
+          "name": "Devin Ma"
+        }
+      ]
+    },
+    {
+      "paperId": "8ee46050163873ef1f60efa1d7e3d1facbf4f808",
+      "externalIds": {
+        "DBLP": "conf/icml/EatonHK0SS25",
+        "ArXiv": "2502.11828",
+        "DOI": "10.48550/arXiv.2502.11828",
+        "CorpusId": 276408594
+      },
+      "url": "https://www.semanticscholar.org/paper/8ee46050163873ef1f60efa1d7e3d1facbf4f808",
+      "title": "Intersectional Fairness in Reinforcement Learning with Large State and Constraint Spaces",
+      "venue": "International Conference on Machine Learning",
+      "year": 2025,
+      "referenceCount": 34,
+      "citationCount": 4,
+      "authors": [
+        {
+          "authorId": "2290845692",
+          "name": "Eric Eaton"
+        },
+        {
+          "authorId": "1387979586",
+          "name": "Marcel Hussing"
+        },
+        {
+          "authorId": "2272749830",
+          "name": "Michael Kearns"
+        },
+        {
+          "authorId": "2272478086",
+          "name": "Aaron Roth"
+        },
+        {
+          "authorId": "2299804130",
+          "name": "S. Sengupta"
+        },
+        {
+          "authorId": "39715789",
+          "name": "Jessica Sorrell"
+        }
+      ]
+    },
+    {
+      "paperId": "ff29345e458bc21c55507e7db2d0e5649c176a2d",
+      "externalIds": {
+        "DBLP": "journals/tmlr/BlandinK24",
+        "CorpusId": 271046623
+      },
+      "url": "https://www.semanticscholar.org/paper/ff29345e458bc21c55507e7db2d0e5649c176a2d",
+      "title": "Group Fairness in Reinforcement Learning via Multi-Objective Rewards",
+      "venue": "Trans. Mach. Learn. Res.",
+      "year": 2024,
+      "referenceCount": 29,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "2123005812",
+          "name": "Jack Blandin"
+        },
+        {
+          "authorId": "2310282164",
+          "name": "Ian Kash"
+        }
+      ]
+    },
+    {
+      "paperId": "9beeb74e6cc38b65ec9f07766bb5a4b133aa0c39",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2404-10942",
+        "ArXiv": "2404.10942",
+        "DOI": "10.48550/arXiv.2404.10942",
+        "CorpusId": 269187572
+      },
+      "url": "https://www.semanticscholar.org/paper/9beeb74e6cc38b65ec9f07766bb5a4b133aa0c39",
+      "title": "What Hides behind Unfairness? Exploring Dynamics Fairness in Reinforcement Learning",
+      "venue": "International Joint Conference on Artificial Intelligence",
+      "year": 2024,
+      "referenceCount": 44,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "2075351197",
+          "name": "Zhihong Deng"
+        },
+        {
+          "authorId": "1746594",
+          "name": "Jing Jiang"
+        },
+        {
+          "authorId": "2062835",
+          "name": "Guodong Long"
+        },
+        {
+          "authorId": "2272171127",
+          "name": "Chengqi Zhang"
+        }
+      ]
+    },
+    {
+      "paperId": "03fb702dc685215a78595c8a0aaef6046075aab8",
+      "externalIds": {
+        "DBLP": "conf/icml/JabbariJKMR17",
+        "MAG": "2949116092",
+        "ArXiv": "1611.03071",
+        "CorpusId": 7137572
+      },
+      "url": "https://www.semanticscholar.org/paper/03fb702dc685215a78595c8a0aaef6046075aab8",
+      "title": "Fairness in Reinforcement Learning",
+      "venue": "International Conference on Machine Learning",
+      "year": 2016,
+      "referenceCount": 41,
+      "citationCount": 224,
+      "authors": [
+        {
+          "authorId": "1775136",
+          "name": "S. Jabbari"
+        },
+        {
+          "authorId": "144525693",
+          "name": "Matthew Joseph"
+        },
+        {
+          "authorId": "81338045",
+          "name": "Michael Kearns"
+        },
+        {
+          "authorId": "144848816",
+          "name": "Jamie H. Morgenstern"
+        },
+        {
+          "authorId": "1682008",
+          "name": "Aaron Roth"
+        }
+      ]
+    },
+    {
+      "paperId": "29bcebb46f4fbc3ae1eb6069bbfee9dc8cb5f2eb",
+      "externalIds": {
+        "DBLP": "journals/tmlr/SatijaLPP23",
+        "CorpusId": 258765728
+      },
+      "url": "https://www.semanticscholar.org/paper/29bcebb46f4fbc3ae1eb6069bbfee9dc8cb5f2eb",
+      "title": "Group Fairness in Reinforcement Learning",
+      "venue": "Trans. Mach. Learn. Res.",
+      "year": 2023,
+      "referenceCount": 82,
+      "citationCount": 5,
+      "authors": [
+        {
+          "authorId": "41017677",
+          "name": "Harsh Satija"
+        },
+        {
+          "authorId": "3254390",
+          "name": "A. Lazaric"
+        },
+        {
+          "authorId": "6234609",
+          "name": "Matteo Pirotta"
+        },
+        {
+          "authorId": "145134886",
+          "name": "Joelle Pineau"
+        }
+      ]
+    },
+    {
+      "paperId": "8b5a505643f7935d2210e95a5685062230b54f6e",
+      "externalIds": {
+        "ArXiv": "2412.17123",
+        "DBLP": "journals/corr/abs-2412-17123",
+        "DOI": "10.48550/arXiv.2412.17123",
+        "CorpusId": 274981549
+      },
+      "url": "https://www.semanticscholar.org/paper/8b5a505643f7935d2210e95a5685062230b54f6e",
+      "title": "Fairness in Reinforcement Learning with Bisimulation Metrics",
+      "venue": "arXiv.org",
+      "year": 2024,
+      "referenceCount": 72,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "1417282075",
+          "name": "S. Rezaei-Shoshtari"
+        },
+        {
+          "authorId": "2336865861",
+          "name": "Hanna Yurchyk"
+        },
+        {
+          "authorId": "14637819",
+          "name": "Scott Fujimoto"
+        },
+        {
+          "authorId": "2249762747",
+          "name": "D. Precup"
+        },
+        {
+          "authorId": "2462512",
+          "name": "D. Meger"
+        }
+      ]
+    },
+    {
+      "paperId": "481761524ca767bcdddabbc8dd1d1a60760ce73e",
+      "externalIds": {
+        "ArXiv": "1907.10323",
+        "MAG": "2963455877",
+        "DBLP": "journals/corr/abs-1907-10323",
+        "CorpusId": 198229539
+      },
+      "url": "https://www.semanticscholar.org/paper/481761524ca767bcdddabbc8dd1d1a60760ce73e",
+      "title": "Fairness in Reinforcement Learning",
+      "venue": "arXiv.org",
+      "year": 2019,
+      "referenceCount": 32,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "144834415",
+          "name": "Paul Weng"
+        }
+      ]
+    },
+    {
+      "paperId": "7a726f2c387f51abf6d7f793cdfd137cd4a8839e",
+      "externalIds": {
+        "CorpusId": 37265527
+      },
+      "url": "https://www.semanticscholar.org/paper/7a726f2c387f51abf6d7f793cdfd137cd4a8839e",
+      "title": "Fairness in Reinforcement Learning",
+      "venue": "",
+      "year": 2017,
+      "referenceCount": 0,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "144525693",
+          "name": "Matthew Joseph"
+        }
+      ]
+    },
+    {
+      "paperId": "8eff8f16c3cbaf3fbdd38e812bc11cb3962e93c8",
+      "externalIds": {
+        "DBLP": "journals/access/GhaziFN25",
+        "DOI": "10.1109/ACCESS.2025.3586943",
+        "CorpusId": 280131079
+      },
+      "url": "https://www.semanticscholar.org/paper/8eff8f16c3cbaf3fbdd38e812bc11cb3962e93c8",
+      "title": "Federated Learning for All: A Reinforcement Learning-Based Approach for Ensuring Fairness in Client Selection",
+      "venue": "IEEE Access",
+      "year": 2025,
+      "referenceCount": 65,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "2372823578",
+          "name": "Saeedeh Ghazi"
+        },
+        {
+          "authorId": "2331409525",
+          "name": "Saeed Farzi"
+        },
+        {
+          "authorId": "49811045",
+          "name": "A. Nikoofard"
+        }
+      ]
+    }
+  ]
+}

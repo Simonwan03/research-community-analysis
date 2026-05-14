@@ -1,0 +1,284 @@
+{
+  "total": 11,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "a8d5bbefb71695c0c8d42544fef32aed55f707a9",
+      "externalIds": {
+        "DBLP": "conf/icml/EsfandiariLM18",
+        "MAG": "2803164760",
+        "ArXiv": "1808.02546",
+        "CorpusId": 51875886
+      },
+      "url": "https://www.semanticscholar.org/paper/a8d5bbefb71695c0c8d42544fef32aed55f707a9",
+      "title": "Parallel and Streaming Algorithms for K-Core Decomposition",
+      "venue": "International Conference on Machine Learning",
+      "year": 2018,
+      "referenceCount": 34,
+      "citationCount": 37,
+      "authors": [
+        {
+          "authorId": "2266873",
+          "name": "Hossein Esfandiari"
+        },
+        {
+          "authorId": "1895843",
+          "name": "Silvio Lattanzi"
+        },
+        {
+          "authorId": "1728881",
+          "name": "V. Mirrokni"
+        }
+      ]
+    },
+    {
+      "paperId": "9845cf40b713dba138ab3874c67209063138c910",
+      "externalIds": {
+        "MAG": "2136834900",
+        "DBLP": "conf/sc/GaloppoGHM05",
+        "DOI": "10.1109/SC.2005.42",
+        "CorpusId": 7814665
+      },
+      "url": "https://www.semanticscholar.org/paper/9845cf40b713dba138ab3874c67209063138c910",
+      "title": "LU-GPU: Efficient Algorithms for Solving Dense Linear Systems on Graphics Hardware",
+      "venue": "International Conference on Software Composition",
+      "year": 2005,
+      "referenceCount": 41,
+      "citationCount": 263,
+      "authors": [
+        {
+          "authorId": "2665709",
+          "name": "Nico Galoppo"
+        },
+        {
+          "authorId": "3050319",
+          "name": "N. Govindaraju"
+        },
+        {
+          "authorId": "2067445625",
+          "name": "Michael Henson"
+        },
+        {
+          "authorId": "1699159",
+          "name": "Dinesh Manocha"
+        }
+      ]
+    },
+    {
+      "paperId": "937844d14286af73176d69c2f1e2cbfce4fa0a22",
+      "externalIds": {
+        "CorpusId": 245596236
+      },
+      "url": "https://www.semanticscholar.org/paper/937844d14286af73176d69c2f1e2cbfce4fa0a22",
+      "title": "ONLINE CLUSTERING OF EVOLVING DATASTREAMS INTO ARBITRARY SHAPED CLUSTERS (CEDAS) USING PARALLEL PROGRAMMING",
+      "venue": "",
+      "year": 2020,
+      "referenceCount": 13,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2287503931",
+          "name": "Alqasimi Saddam"
+        },
+        {
+          "authorId": "2246614607",
+          "name": "Mohammed Nasser"
+        },
+        {
+          "authorId": "35336411",
+          "name": "Elankovan A. Sundararajan"
+        }
+      ]
+    },
+    {
+      "paperId": "8cd1567e965ad329c1c0b44a1627cf92fabc5960",
+      "externalIds": {
+        "MAG": "2400950644",
+        "DBLP": "conf/edbt/ZhengLPCG16",
+        "DOI": "10.5441/002/edbt.2016.34",
+        "CorpusId": 6538461
+      },
+      "url": "https://www.semanticscholar.org/paper/8cd1567e965ad329c1c0b44a1627cf92fabc5960",
+      "title": "PARAGON: Parallel Architecture-Aware Graph Partition Refinement Algorithm",
+      "venue": "International Conference on Extending Database Technology",
+      "year": 2016,
+      "referenceCount": 35,
+      "citationCount": 16,
+      "authors": [
+        {
+          "authorId": "1973209",
+          "name": "Angen Zheng"
+        },
+        {
+          "authorId": "1716685",
+          "name": "Alexandros Labrinidis"
+        },
+        {
+          "authorId": "3380088",
+          "name": "P. Pisciuneri"
+        },
+        {
+          "authorId": "1728643",
+          "name": "Panos K. Chrysanthis"
+        },
+        {
+          "authorId": "3048761",
+          "name": "P. Givi"
+        }
+      ]
+    },
+    {
+      "paperId": "1d0a549fc01ec860455ceb064f7881e05c695e53",
+      "externalIds": {
+        "MAG": "1607281857",
+        "CorpusId": 5905333
+      },
+      "url": "https://www.semanticscholar.org/paper/1d0a549fc01ec860455ceb064f7881e05c695e53",
+      "title": "Parallel and distributed processing and applications : 5th international symposium, ISPA 2007, Niagara Falls, Canada, August 29-31, 2007 : proceedings",
+      "venue": "",
+      "year": 2007,
+      "referenceCount": 0,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "1695898",
+          "name": "I. Stojmenovic"
+        }
+      ]
+    },
+    {
+      "paperId": "18d825345a3c4c4ebc1d429e1878472f523b0edc",
+      "externalIds": {
+        "MAG": "2946109580",
+        "DOI": "10.5194/GMD-12-4901-2019",
+        "CorpusId": 182276308
+      },
+      "url": "https://www.semanticscholar.org/paper/18d825345a3c4c4ebc1d429e1878472f523b0edc",
+      "title": "WAVETRISK-1.0: an adaptive wavelet hydrostatic dynamical core",
+      "venue": "Geoscientific Model Development",
+      "year": 2019,
+      "referenceCount": 48,
+      "citationCount": 13,
+      "authors": [
+        {
+          "authorId": "46249444",
+          "name": "N. Kevlahan"
+        },
+        {
+          "authorId": "3531670",
+          "name": "T. Dubos"
+        }
+      ]
+    },
+    {
+      "paperId": "3afcd3a913a4be15db1a01925a1026c555813d9a",
+      "externalIds": {
+        "DBLP": "conf/seus/2007",
+        "MAG": "1554727828",
+        "DOI": "10.1007/978-3-540-75664-4",
+        "CorpusId": 30702559
+      },
+      "url": "https://www.semanticscholar.org/paper/3afcd3a913a4be15db1a01925a1026c555813d9a",
+      "title": "Software Technologies for Embedded and Ubiquitous Systems, 5th IFIP WG 10.2 International Workshop, SEUS 2007, Santorini Island, Greece, May 2007. Revised Papers",
+      "venue": "Software Technologies for Embedded and Ubiquitous Systems",
+      "year": 2007,
+      "referenceCount": 0,
+      "citationCount": 4,
+      "authors": [
+        {
+          "authorId": "1738770",
+          "name": "R. Obermaisser"
+        },
+        {
+          "authorId": "3061308",
+          "name": "Yunmook Nah"
+        },
+        {
+          "authorId": "3093644",
+          "name": "P. Puschner"
+        },
+        {
+          "authorId": "1682942",
+          "name": "F. Rammig"
+        }
+      ]
+    },
+    {
+      "paperId": "388dfd9651037dd60a951d191164aadd07c2252f",
+      "externalIds": {
+        "MAG": "1537678192",
+        "CorpusId": 60234848
+      },
+      "url": "https://www.semanticscholar.org/paper/388dfd9651037dd60a951d191164aadd07c2252f",
+      "title": "Automata, languages and programming : 12th colloquium, Nafplion, Greece, July 15-19, 1985",
+      "venue": "",
+      "year": 1985,
+      "referenceCount": 0,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "1799693",
+          "name": "W. Brauer"
+        },
+        {
+          "authorId": "1394849006",
+          "name": "Ethnikon Metsovion Polytechneion"
+        }
+      ]
+    },
+    {
+      "paperId": "2f5dc6f391645af58538a6b9f218147be2bcba77",
+      "externalIds": {
+        "MAG": "1569339104",
+        "CorpusId": 56796238
+      },
+      "url": "https://www.semanticscholar.org/paper/2f5dc6f391645af58538a6b9f218147be2bcba77",
+      "title": "Architectures and compilation techniques for fine and medium grain parallelism : proceedings of the IFIP WG 10.3 Working Conference on Architectures and Compilation Techniques for Fine and Medium Grain Parallelism, Orlando, Florida, USA, 20-22 January 1993",
+      "venue": "",
+      "year": 1993,
+      "referenceCount": 0,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2071103153",
+          "name": "Compilation Techniques for Fine"
+        },
+        {
+          "authorId": "52506902",
+          "name": "Medium Grain Parallelism"
+        },
+        {
+          "authorId": "1698782",
+          "name": "M. Cosnard"
+        },
+        {
+          "authorId": "3310105",
+          "name": "K. Ebcioglu"
+        },
+        {
+          "authorId": "144086037",
+          "name": "J. Gaudiot"
+        }
+      ]
+    },
+    {
+      "paperId": "fcd00ccbd61dfbb636eded89d2180f4df1dc45a3",
+      "externalIds": {
+        "CorpusId": 18549825
+      },
+      "url": "https://www.semanticscholar.org/paper/fcd00ccbd61dfbb636eded89d2180f4df1dc45a3",
+      "title": "FEDSM 2006-98485 LINEAR STABILITY ANALYSIS OF CHEVRON JET PROFILES",
+      "venue": "",
+      "year": 2006,
+      "referenceCount": 13,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "49063853",
+          "name": "K. Gudmundsson"
+        }
+      ]
+    }
+  ]
+}

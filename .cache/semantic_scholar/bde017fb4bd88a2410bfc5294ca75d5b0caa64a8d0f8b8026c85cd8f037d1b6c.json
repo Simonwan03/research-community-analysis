@@ -1,0 +1,1027 @@
+{
+  "offset": 0,
+  "citingPaperInfo": {
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/1506.00552, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "title": "Coordinate Descent Converges Faster with the Gauss-Southwell Rule Than Random Selection",
+    "authors": [
+      {
+        "authorId": "3348081",
+        "name": "J. Nutini"
+      },
+      {
+        "authorId": "145610994",
+        "name": "Mark W. Schmidt"
+      },
+      {
+        "authorId": "3266173",
+        "name": "I. Laradji"
+      },
+      {
+        "authorId": "143725917",
+        "name": "M. Friedlander"
+      },
+      {
+        "authorId": "40625423",
+        "name": "H. Koepke"
+      }
+    ]
+  },
+  "data": [
+    {
+      "citedPaper": {
+        "paperId": "2b25f8bf35624e6113345c442c2983aa27284e9f",
+        "externalIds": {
+          "MAG": "2777891128",
+          "CorpusId": 3269027
+        },
+        "url": "https://www.semanticscholar.org/paper/2b25f8bf35624e6113345c442c2983aa27284e9f",
+        "title": "Let's Make Block Coordinate Descent Go Fast: Faster Greedy Rules, Message-Passing, Active-Set Complexity, and Superlinear Convergence",
+        "venue": "",
+        "year": 2017,
+        "referenceCount": 102,
+        "citationCount": 50,
+        "authors": [
+          {
+            "authorId": "3348081",
+            "name": "J. Nutini"
+          },
+          {
+            "authorId": "3266173",
+            "name": "I. Laradji"
+          },
+          {
+            "authorId": "145610994",
+            "name": "Mark W. Schmidt"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "0db45e1f1c57f8e174a5f011f3f101ad82f59108",
+        "externalIds": {
+          "DBLP": "conf/nips/SongCJX17",
+          "ArXiv": "1702.07842",
+          "MAG": "2963112442",
+          "CorpusId": 41681028
+        },
+        "url": "https://www.semanticscholar.org/paper/0db45e1f1c57f8e174a5f011f3f101ad82f59108",
+        "title": "Accelerated Stochastic Greedy Coordinate Descent by Soft Thresholding Projection onto Simplex",
+        "venue": "Neural Information Processing Systems",
+        "year": 2017,
+        "referenceCount": 25,
+        "citationCount": 11,
+        "authors": [
+          {
+            "authorId": "35121904",
+            "name": "Chaobing Song"
+          },
+          {
+            "authorId": "49569784",
+            "name": "Shaobo Cui"
+          },
+          {
+            "authorId": "2117936923",
+            "name": "Yong Jiang"
+          },
+          {
+            "authorId": "3085483",
+            "name": "Shutao Xia"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "19512f42f12aba8da3a2ebd59deb4e8280e683fc",
+        "externalIds": {
+          "MAG": "2144070955",
+          "DBLP": "journals/siamjo/LiUZ15",
+          "DOI": "10.1137/130939110",
+          "CorpusId": 7903728
+        },
+        "url": "https://www.semanticscholar.org/paper/19512f42f12aba8da3a2ebd59deb4e8280e683fc",
+        "title": "On Convergence of the Maximum Block Improvement Method",
+        "venue": "SIAM Journal on Optimization",
+        "year": 2015,
+        "referenceCount": 53,
+        "citationCount": 41,
+        "authors": [
+          {
+            "authorId": "1792785",
+            "name": "Zhening Li"
+          },
+          {
+            "authorId": "2159091",
+            "name": "A. Uschmajew"
+          },
+          {
+            "authorId": "50202049",
+            "name": "Shuzhong Zhang"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "6dbffa57b3c6c5645cf701b9b444984a4b61bb57",
+        "externalIds": {
+          "MAG": "2169054943",
+          "DBLP": "journals/corr/Shrivastava014b",
+          "ArXiv": "1405.5869",
+          "CorpusId": 1653222
+        },
+        "url": "https://www.semanticscholar.org/paper/6dbffa57b3c6c5645cf701b9b444984a4b61bb57",
+        "title": "Asymmetric LSH (ALSH) for Sublinear Time Maximum Inner Product Search (MIPS)",
+        "venue": "Neural Information Processing Systems",
+        "year": 2014,
+        "referenceCount": 70,
+        "citationCount": 497,
+        "authors": [
+          {
+            "authorId": "4260659",
+            "name": "Anshumali Shrivastava"
+          },
+          {
+            "authorId": "144785135",
+            "name": "Ping Li"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "f244da7263ef3e5c25a7780c7c2f32ca07a25d12",
+        "externalIds": {
+          "DBLP": "books/sp/Nesterov04",
+          "MAG": "2124541940",
+          "CorpusId": 62288331
+        },
+        "url": "https://www.semanticscholar.org/paper/f244da7263ef3e5c25a7780c7c2f32ca07a25d12",
+        "title": "Introductory Lectures on Convex Optimization - A Basic Course",
+        "venue": "Applied Optimization",
+        "year": 2014,
+        "referenceCount": 0,
+        "citationCount": 6402,
+        "authors": [
+          {
+            "authorId": "143676697",
+            "name": "Y. Nesterov"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "8726098f7590cbe1f4b33361050ed1c53632c3c6",
+        "externalIds": {
+          "DBLP": "journals/corr/FercoqR13a",
+          "ArXiv": "1312.5799",
+          "MAG": "2951253949",
+          "DOI": "10.1137/130949993",
+          "CorpusId": 8068556
+        },
+        "url": "https://www.semanticscholar.org/paper/8726098f7590cbe1f4b33361050ed1c53632c3c6",
+        "title": "Accelerated, Parallel, and Proximal Coordinate Descent",
+        "venue": "SIAM Journal on Optimization",
+        "year": 2013,
+        "referenceCount": 37,
+        "citationCount": 387,
+        "authors": [
+          {
+            "authorId": "2442024",
+            "name": "Olivier Fercoq"
+          },
+          {
+            "authorId": "2662221",
+            "name": "Peter Richtárik"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "042b6d1ec41f070102f2a95db72b69a1824f18f7",
+        "externalIds": {
+          "DBLP": "journals/siamjo/BeckT13",
+          "MAG": "2023901033",
+          "DOI": "10.1137/120887679",
+          "CorpusId": 6866704
+        },
+        "url": "https://www.semanticscholar.org/paper/042b6d1ec41f070102f2a95db72b69a1824f18f7",
+        "title": "On the Convergence of Block Coordinate Descent Type Methods",
+        "venue": "SIAM Journal on Optimization",
+        "year": 2013,
+        "referenceCount": 20,
+        "citationCount": 667,
+        "authors": [
+          {
+            "authorId": "40204991",
+            "name": "A. Beck"
+          },
+          {
+            "authorId": "3344715",
+            "name": "Luba Tetruashvili"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "e0f4889a4748f051db1a904d2dbc0b235df38394",
+        "externalIds": {
+          "MAG": "2032395696",
+          "DBLP": "journals/mp/RichtarikT16",
+          "ArXiv": "1212.0873",
+          "DOI": "10.1007/s10107-015-0901-6",
+          "CorpusId": 16820218
+        },
+        "url": "https://www.semanticscholar.org/paper/e0f4889a4748f051db1a904d2dbc0b235df38394",
+        "title": "Parallel coordinate descent methods for big data optimization",
+        "venue": "Mathematical programming",
+        "year": 2012,
+        "referenceCount": 33,
+        "citationCount": 498,
+        "authors": [
+          {
+            "authorId": "2662221",
+            "name": "Peter Richtárik"
+          },
+          {
+            "authorId": "144696183",
+            "name": "Martin Takác"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "58ebca32116273ba9581a6794454521fbe936835",
+        "externalIds": {
+          "MAG": "2140057251",
+          "DBLP": "conf/nips/MeshiJG12",
+          "CorpusId": 7960938
+        },
+        "url": "https://www.semanticscholar.org/paper/58ebca32116273ba9581a6794454521fbe936835",
+        "title": "Convergence Rate Analysis of MAP Coordinate Minimization Algorithms",
+        "venue": "Neural Information Processing Systems",
+        "year": 2012,
+        "referenceCount": 31,
+        "citationCount": 34,
+        "authors": [
+          {
+            "authorId": "3174612",
+            "name": "Ofer Meshi"
+          },
+          {
+            "authorId": "35132120",
+            "name": "T. Jaakkola"
+          },
+          {
+            "authorId": "1786843",
+            "name": "A. Globerson"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "0c3751db5a24c636c1aa8abfd9d63321b38cfce5",
+        "externalIds": {
+          "ArXiv": "1209.1873",
+          "MAG": "1939652453",
+          "DBLP": "journals/jmlr/Shalev-Shwartz013",
+          "DOI": "10.5555/2567709.2502598",
+          "CorpusId": 1517652
+        },
+        "url": "https://www.semanticscholar.org/paper/0c3751db5a24c636c1aa8abfd9d63321b38cfce5",
+        "title": "Stochastic dual coordinate ascent methods for regularized loss",
+        "venue": "Journal of machine learning research",
+        "year": 2012,
+        "referenceCount": 25,
+        "citationCount": 1072,
+        "authors": [
+          {
+            "authorId": "1389955537",
+            "name": "S. Shalev-Shwartz"
+          },
+          {
+            "authorId": "2280890494",
+            "name": "Tong Zhang"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "0059cfac9c5b7811866f0729d0917b7478148fc5",
+        "externalIds": {
+          "MAG": "2095984592",
+          "DBLP": "journals/siamjo/Nesterov12",
+          "DOI": "10.1137/100802001",
+          "CorpusId": 1424102
+        },
+        "url": "https://www.semanticscholar.org/paper/0059cfac9c5b7811866f0729d0917b7478148fc5",
+        "title": "Efficiency of Coordinate Descent Methods on Huge-Scale Optimization Problems",
+        "venue": "SIAM Journal on Optimization",
+        "year": 2012,
+        "referenceCount": 51,
+        "citationCount": 1508,
+        "authors": [
+          {
+            "authorId": "143676697",
+            "name": "Y. Nesterov"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "adf27edeb21bc5e3128f8f3e7dfec34184c09171",
+        "externalIds": {
+          "DBLP": "journals/siamjo/Wright12",
+          "MAG": "2060777387",
+          "DOI": "10.1137/100808563",
+          "CorpusId": 10958258
+        },
+        "url": "https://www.semanticscholar.org/paper/adf27edeb21bc5e3128f8f3e7dfec34184c09171",
+        "title": "Accelerated Block-coordinate Relaxation for Regularized Optimization",
+        "venue": "SIAM Journal on Optimization",
+        "year": 2012,
+        "referenceCount": 34,
+        "citationCount": 103,
+        "authors": [
+          {
+            "authorId": "144731788",
+            "name": "Stephen J. Wright"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "58c1e98af6f8445c1a43268bc3ff4b360ac8be15",
+        "externalIds": {
+          "DBLP": "conf/nips/DhillonRT11",
+          "MAG": "2096725512",
+          "CorpusId": 893691
+        },
+        "url": "https://www.semanticscholar.org/paper/58c1e98af6f8445c1a43268bc3ff4b360ac8be15",
+        "title": "Nearest Neighbor based Greedy Coordinate Descent",
+        "venue": "Neural Information Processing Systems",
+        "year": 2011,
+        "referenceCount": 21,
+        "citationCount": 74,
+        "authors": [
+          {
+            "authorId": "1783667",
+            "name": "I. Dhillon"
+          },
+          {
+            "authorId": "145969795",
+            "name": "Pradeep Ravikumar"
+          },
+          {
+            "authorId": "3064914",
+            "name": "Ambuj Tewari"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "a8048db26cb78e785e82f06645da3f79d729528e",
+        "externalIds": {
+          "MAG": "2950679758",
+          "DBLP": "journals/mp/RichtarikT14",
+          "ArXiv": "1107.2848",
+          "DOI": "10.1007/s10107-012-0614-z",
+          "CorpusId": 16816638
+        },
+        "url": "https://www.semanticscholar.org/paper/a8048db26cb78e785e82f06645da3f79d729528e",
+        "title": "Iteration complexity of randomized block-coordinate descent methods for minimizing a composite function",
+        "venue": "Mathematical programming",
+        "year": 2011,
+        "referenceCount": 49,
+        "citationCount": 808,
+        "authors": [
+          {
+            "authorId": "2662221",
+            "name": "Peter Richtárik"
+          },
+          {
+            "authorId": "144696183",
+            "name": "Martin Takác"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "d0b8c324eacff55458d61275d642f7b340193d8c",
+        "externalIds": {
+          "DBLP": "journals/siamsc/FriedlanderS12",
+          "ArXiv": "1104.2373",
+          "MAG": "1751687266",
+          "DOI": "10.1137/110830629",
+          "CorpusId": 7851891
+        },
+        "url": "https://www.semanticscholar.org/paper/d0b8c324eacff55458d61275d642f7b340193d8c",
+        "title": "Hybrid Deterministic-Stochastic Methods for Data Fitting",
+        "venue": "SIAM Journal on Scientific Computing",
+        "year": 2011,
+        "referenceCount": 35,
+        "citationCount": 409,
+        "authors": [
+          {
+            "authorId": "143725917",
+            "name": "M. Friedlander"
+          },
+          {
+            "authorId": "145610994",
+            "name": "Mark W. Schmidt"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "4d6dbd7387bfab5d3b4a6d77fae325462dbab216",
+        "externalIds": {
+          "MAG": "2787198218",
+          "DOI": "10.3934/IPI.2009.3.487",
+          "CorpusId": 18780565
+        },
+        "url": "https://www.semanticscholar.org/paper/4d6dbd7387bfab5d3b4a6d77fae325462dbab216",
+        "title": "Coordinate descent optimization for l 1 minimization with application to compressed sensing; a greedy algorithm",
+        "venue": "",
+        "year": 2009,
+        "referenceCount": 29,
+        "citationCount": 189,
+        "authors": [
+          {
+            "authorId": "2144428604",
+            "name": "Yingying Li"
+          },
+          {
+            "authorId": "1782265",
+            "name": "S. Osher"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "f85c649d3d538f19617c692b986bef75e36e42a5",
+        "externalIds": {
+          "MAG": "1787720684",
+          "DBLP": "journals/corr/abs-1206-3238",
+          "ArXiv": "1206.3238",
+          "CorpusId": 2879432
+        },
+        "url": "https://www.semanticscholar.org/paper/f85c649d3d538f19617c692b986bef75e36e42a5",
+        "title": "Greedy Block Coordinate Descent for Large Scale Gaussian Process Regression",
+        "venue": "Conference on Uncertainty in Artificial Intelligence",
+        "year": 2008,
+        "referenceCount": 30,
+        "citationCount": 26,
+        "authors": [
+          {
+            "authorId": "144651486",
+            "name": "Liefeng Bo"
+          },
+          {
+            "authorId": "1781120",
+            "name": "C. Sminchisescu"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "0389a414c5d0ef50e06fe0c15f6102f374ce1b04",
+        "externalIds": {
+          "MAG": "2165966284",
+          "DBLP": "conf/icml/HsiehCLKS08",
+          "DOI": "10.1145/1390156.1390208",
+          "CorpusId": 7880266
+        },
+        "url": "https://www.semanticscholar.org/paper/0389a414c5d0ef50e06fe0c15f6102f374ce1b04",
+        "title": "A dual coordinate descent method for large-scale linear SVM",
+        "venue": "International Conference on Machine Learning",
+        "year": 2008,
+        "referenceCount": 29,
+        "citationCount": 1029,
+        "authors": [
+          {
+            "authorId": "1793529",
+            "name": "Cho-Jui Hsieh"
+          },
+          {
+            "authorId": "2782886",
+            "name": "Kai-Wei Chang"
+          },
+          {
+            "authorId": "1711460",
+            "name": "Chih-Jen Lin"
+          },
+          {
+            "authorId": "144106136",
+            "name": "S. Keerthi"
+          },
+          {
+            "authorId": "144833733",
+            "name": "S. Sundararajan"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "d69fcbe1d42cd028949b83902d0b8c1ba2e335dc",
+        "externalIds": {
+          "MAG": "2039050532",
+          "DBLP": "journals/mp/TsengY09",
+          "DOI": "10.1007/s10107-007-0170-0",
+          "CorpusId": 28677777
+        },
+        "url": "https://www.semanticscholar.org/paper/d69fcbe1d42cd028949b83902d0b8c1ba2e335dc",
+        "title": "A coordinate gradient descent method for nonsmooth separable minimization",
+        "venue": "Mathematical programming",
+        "year": 2008,
+        "referenceCount": 56,
+        "citationCount": 840,
+        "authors": [
+          {
+            "authorId": "1682823",
+            "name": "P. Tseng"
+          },
+          {
+            "authorId": "1719369",
+            "name": "S. Yun"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "0a043a5f666b4785245bf8f79f96b3543cbdedc6",
+        "externalIds": {
+          "MAG": "2949202641",
+          "ArXiv": "0806.3015",
+          "DBLP": "journals/mor/LeventhalL10",
+          "DOI": "10.1287/moor.1100.0456",
+          "CorpusId": 10414859
+        },
+        "url": "https://www.semanticscholar.org/paper/0a043a5f666b4785245bf8f79f96b3543cbdedc6",
+        "title": "Randomized Methods for Linear Constraints: Convergence Rates and Conditioning",
+        "venue": "Mathematics of Operations Research",
+        "year": 2008,
+        "referenceCount": 44,
+        "citationCount": 367,
+        "authors": [
+          {
+            "authorId": "144537989",
+            "name": "D. Leventhal"
+          },
+          {
+            "authorId": "32238160",
+            "name": "A. Lewis"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "afc473ea8e7e923246b27bd2790d71d93dffbadb",
+        "externalIds": {
+          "MAG": "3105543546",
+          "ArXiv": "0803.3876",
+          "DOI": "10.1214/07-AOAS147",
+          "CorpusId": 16350311
+        },
+        "url": "https://www.semanticscholar.org/paper/afc473ea8e7e923246b27bd2790d71d93dffbadb",
+        "title": "Coordinate descent algorithms for lasso penalized regression",
+        "venue": "",
+        "year": 2008,
+        "referenceCount": 38,
+        "citationCount": 841,
+        "authors": [
+          {
+            "authorId": "2112559323",
+            "name": "Tong Tong Wu"
+          },
+          {
+            "authorId": "143953625",
+            "name": "K. Lange"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "f08dbceec9b790e73139c39681768ffb2ce5eef6",
+        "externalIds": {
+          "MAG": "2100236179",
+          "DBLP": "conf/nips/LeeGK06",
+          "DOI": "10.7551/mitpress/7503.003.0107",
+          "CorpusId": 2712572
+        },
+        "url": "https://www.semanticscholar.org/paper/f08dbceec9b790e73139c39681768ffb2ce5eef6",
+        "title": "Efficient Structure Learning of Markov Networks using L1-Regularization",
+        "venue": "Neural Information Processing Systems",
+        "year": 2006,
+        "referenceCount": 31,
+        "citationCount": 220,
+        "authors": [
+          {
+            "authorId": "2180463",
+            "name": "Su-In Lee"
+          },
+          {
+            "authorId": "1981419",
+            "name": "Varun Ganapathi"
+          },
+          {
+            "authorId": "1736370",
+            "name": "D. Koller"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "f714b82aff5370bec8990671b30b9af743b147ba",
+        "externalIds": {
+          "MAG": "1520053542",
+          "DOI": "10.1201/9780203492024",
+          "CorpusId": 60632241
+        },
+        "url": "https://www.semanticscholar.org/paper/f714b82aff5370bec8990671b30b9af743b147ba",
+        "title": "Gaussian Markov Random Fields: Theory and Applications",
+        "venue": "",
+        "year": 2005,
+        "referenceCount": 1,
+        "citationCount": 2487,
+        "authors": [
+          {
+            "authorId": "2194841",
+            "name": "H. Rue"
+          },
+          {
+            "authorId": "144433364",
+            "name": "L. Held"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "46770a8e7e2af28f5253e5961f709be74e34c1f6",
+        "externalIds": {
+          "DBLP": "conf/nips/ZhouBLWS03",
+          "MAG": "2154455818",
+          "CorpusId": 508435
+        },
+        "url": "https://www.semanticscholar.org/paper/46770a8e7e2af28f5253e5961f709be74e34c1f6",
+        "title": "Learning with Local and Global Consistency",
+        "venue": "Neural Information Processing Systems",
+        "year": 2003,
+        "referenceCount": 21,
+        "citationCount": 4630,
+        "authors": [
+          {
+            "authorId": "24982365",
+            "name": "Dengyong Zhou"
+          },
+          {
+            "authorId": "1698617",
+            "name": "O. Bousquet"
+          },
+          {
+            "authorId": "2312432",
+            "name": "T. N. Lal"
+          },
+          {
+            "authorId": "145183709",
+            "name": "J. Weston"
+          },
+          {
+            "authorId": "1707625",
+            "name": "B. Scholkopf"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "476664d3a6968d578ebf2fc178b527eb014b1d38",
+        "externalIds": {
+          "DBLP": "conf/nips/RatschMW01",
+          "MAG": "2163308697",
+          "DOI": "10.7551/mitpress/1120.003.0067",
+          "CorpusId": 7412656
+        },
+        "url": "https://www.semanticscholar.org/paper/476664d3a6968d578ebf2fc178b527eb014b1d38",
+        "title": "On the Convergence of Leveraging",
+        "venue": "Neural Information Processing Systems",
+        "year": 2001,
+        "referenceCount": 39,
+        "citationCount": 47,
+        "authors": [
+          {
+            "authorId": "2414086",
+            "name": "G. Rätsch"
+          },
+          {
+            "authorId": "2459012",
+            "name": "S. Mika"
+          },
+          {
+            "authorId": "1794034",
+            "name": "Manfred K. Warmuth"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "b951b9f78b98a186ba259027996a48e4189d37e5",
+        "externalIds": {
+          "MAG": "2911427979",
+          "DBLP": "journals/corr/abs-cmp-lg-9506014",
+          "ArXiv": "cmp-lg/9506014",
+          "DOI": "10.1109/34.588021",
+          "CorpusId": 982
+        },
+        "url": "https://www.semanticscholar.org/paper/b951b9f78b98a186ba259027996a48e4189d37e5",
+        "title": "Inducing Features of Random Fields",
+        "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+        "year": 1995,
+        "referenceCount": 37,
+        "citationCount": 1355,
+        "authors": [
+          {
+            "authorId": "2714577",
+            "name": "S. D. Pietra"
+          },
+          {
+            "authorId": "39944066",
+            "name": "V. D. Pietra"
+          },
+          {
+            "authorId": "1739581",
+            "name": "J. Lafferty"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "330fa0bf59d2d554624daee36d66e55cfd4ae209",
+        "externalIds": {
+          "DBLP": "journals/anor/LuoT93",
+          "MAG": "2093417350",
+          "DOI": "10.1007/BF02096261",
+          "CorpusId": 206811621
+        },
+        "url": "https://www.semanticscholar.org/paper/330fa0bf59d2d554624daee36d66e55cfd4ae209",
+        "title": "Error bounds and convergence analysis of feasible descent methods: a general approach",
+        "venue": "Annals of Operations Research",
+        "year": 1993,
+        "referenceCount": 57,
+        "citationCount": 503,
+        "authors": [
+          {
+            "authorId": "144657347",
+            "name": "Z. Luo"
+          },
+          {
+            "authorId": "1682823",
+            "name": "P. Tseng"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "f3878d30fabe6e7ad68222c055c58a03a8e84681",
+        "externalIds": {
+          "MAG": "2009031743",
+          "DOI": "10.1080/01621459.1931.10503148",
+          "CorpusId": 119406958
+        },
+        "url": "https://www.semanticscholar.org/paper/f3878d30fabe6e7ad68222c055c58a03a8e84681",
+        "title": "The Nature and Use of the Harmonic Mean",
+        "venue": "",
+        "year": 1931,
+        "referenceCount": 0,
+        "citationCount": 73,
+        "authors": [
+          {
+            "authorId": "102706600",
+            "name": "W. Ferger"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "eef3a0a5f9a1b7d0f37cfecf141c7446e9a7e0c9",
+        "externalIds": {
+          "MAG": "1765309921",
+          "CorpusId": 153928419
+        },
+        "url": "https://www.semanticscholar.org/paper/eef3a0a5f9a1b7d0f37cfecf141c7446e9a7e0c9",
+        "title": "Greed is Good",
+        "venue": "",
+        "year": 2014,
+        "referenceCount": 0,
+        "citationCount": 68,
+        "authors": [
+          {
+            "authorId": "144911667",
+            "name": "M. Clifford"
+          },
+          {
+            "authorId": "2081284413",
+            "name": "Carl-Johan Pehrsson"
+          },
+          {
+            "authorId": "118772155",
+            "name": "P. Rosenquist"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "28fd6c26d45eec7b7586e28e3a5cfef2a7b1375c",
+        "externalIds": {
+          "MAG": "1496508106",
+          "CorpusId": 61067117
+        },
+        "url": "https://www.semanticscholar.org/paper/28fd6c26d45eec7b7586e28e3a5cfef2a7b1375c",
+        "title": "Five Balltree Construction Algorithms",
+        "venue": "",
+        "year": 2009,
+        "referenceCount": 7,
+        "citationCount": 515,
+        "authors": [
+          {
+            "authorId": "1808760",
+            "name": "S. Omohundro"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "560e58e3d1c569d6c3f42a18a90ff7f32d116fe2",
+        "externalIds": {
+          "MAG": "2183882915",
+          "CorpusId": 7803324
+        },
+        "url": "https://www.semanticscholar.org/paper/560e58e3d1c569d6c3f42a18a90ff7f32d116fe2",
+        "title": "IBM Research Report SINCO - A Greedy Coordinate Ascent Method for Sparse Inverse Covariance Selection Problem",
+        "venue": "",
+        "year": 2009,
+        "referenceCount": 15,
+        "citationCount": 36,
+        "authors": [
+          {
+            "authorId": "2005127",
+            "name": "K. Scheinberg"
+          },
+          {
+            "authorId": "2109771",
+            "name": "I. Rish"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "a6b80923dd30f920234a1ac965bea768062882f8",
+        "externalIds": {
+          "MAG": "2540616960",
+          "CorpusId": 63936062
+        },
+        "url": "https://www.semanticscholar.org/paper/a6b80923dd30f920234a1ac965bea768062882f8",
+        "title": "Efficient Structure Learning of Markov Networks using L1-Regularization",
+        "venue": "",
+        "year": 2007,
+        "referenceCount": 0,
+        "citationCount": 161,
+        "authors": [
+          {
+            "authorId": "1707625",
+            "name": "B. Scholkopf"
+          },
+          {
+            "authorId": "145039030",
+            "name": "J. Platt"
+          },
+          {
+            "authorId": "153379696",
+            "name": "T. Hofmann"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "d6d7de1293f880c6edc73ff06eb2a5050404fe41",
+        "externalIds": {
+          "MAG": "2461425060",
+          "CorpusId": 124234335
+        },
+        "url": "https://www.semanticscholar.org/paper/d6d7de1293f880c6edc73ff06eb2a5050404fe41",
+        "title": "Label Propagation and Quadratic Criterion",
+        "venue": "",
+        "year": 2006,
+        "referenceCount": 27,
+        "citationCount": 300,
+        "authors": [
+          {
+            "authorId": "1730609",
+            "name": "O. Chapelle"
+          },
+          {
+            "authorId": "1411416797",
+            "name": "Bernhard SchÃ¶lkopf"
+          },
+          {
+            "authorId": "2281542",
+            "name": "A. Zien"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "A simple and eﬃcient algorithm for gene selection using sparse logistic regression",
+        "venue": "Bioinformatics",
+        "year": 2003,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "Athena Scientific",
+        "venue": "Athena Scientific",
+        "year": 1999,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "4d2c09b57132c8edd710dbf7d3b758574793b792",
+        "externalIds": {
+          "MAG": "2798766386",
+          "CorpusId": 260633442
+        },
+        "url": "https://www.semanticscholar.org/paper/4d2c09b57132c8edd710dbf7d3b758574793b792",
+        "title": "Nonlinear Programming",
+        "venue": "",
+        "year": 1995,
+        "referenceCount": 0,
+        "citationCount": 7316,
+        "authors": [
+          {
+            "authorId": "1786249",
+            "name": "D. Bertsekas"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "Coordinate Descent is Faster with Gauss-Southwell",
+        "venue": "Coordinate Descent is Faster with Gauss-Southwell",
+        "year": null,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    }
+  ]
+}

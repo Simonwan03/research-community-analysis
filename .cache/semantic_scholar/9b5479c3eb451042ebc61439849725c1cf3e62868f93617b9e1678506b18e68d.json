@@ -1,0 +1,132 @@
+{
+  "total": 4,
+  "offset": 0,
+  "data": [
+    {
+      "paperId": "672f28e2772b7d7895c5ce08ccd07eac3e60219e",
+      "externalIds": {
+        "DBLP": "conf/icml/DiengRAB18",
+        "MAG": "2952556607",
+        "ArXiv": "1805.01500",
+        "CorpusId": 3276568
+      },
+      "url": "https://www.semanticscholar.org/paper/672f28e2772b7d7895c5ce08ccd07eac3e60219e",
+      "title": "Noisin: Unbiased Regularization for Recurrent Neural Networks",
+      "venue": "International Conference on Machine Learning",
+      "year": 2018,
+      "referenceCount": 49,
+      "citationCount": 27,
+      "authors": [
+        {
+          "authorId": "34205035",
+          "name": "A. B. Dieng"
+        },
+        {
+          "authorId": "2615814",
+          "name": "R. Ranganath"
+        },
+        {
+          "authorId": "2124555",
+          "name": "Jaan Altosaar"
+        },
+        {
+          "authorId": "1796335",
+          "name": "D. Blei"
+        }
+      ]
+    },
+    {
+      "paperId": "ef8c2bd8012d0c43f3b8b1394853ae03960d2fa2",
+      "externalIds": {
+        "MAG": "2979598391",
+        "DBLP": "conf/embc/FengN19",
+        "DOI": "10.1109/EMBC.2019.8856966",
+        "CorpusId": 204231954,
+        "PubMed": "31946412"
+      },
+      "url": "https://www.semanticscholar.org/paper/ef8c2bd8012d0c43f3b8b1394853ae03960d2fa2",
+      "title": "Imputing Missing Data In Large-Scale Multivariate Biomedical Wearable Recordings Using Bidirectional Recurrent Neural Networks With Temporal Activation Regularization",
+      "venue": "Annual International Conference of the IEEE Engineering in Medicine and Biology Society",
+      "year": 2019,
+      "referenceCount": 22,
+      "citationCount": 24,
+      "authors": [
+        {
+          "authorId": "50336596",
+          "name": "Tiantian Feng"
+        },
+        {
+          "authorId": "145254843",
+          "name": "Shrikanth S. Narayanan"
+        }
+      ]
+    },
+    {
+      "paperId": "4e664abeaecbc2b5f877a977c34d4e1963afb033",
+      "externalIds": {
+        "MAG": "2948695354",
+        "ArXiv": "1906.03742",
+        "DBLP": "journals/corr/abs-1906-03742",
+        "CorpusId": 182952569
+      },
+      "url": "https://www.semanticscholar.org/paper/4e664abeaecbc2b5f877a977c34d4e1963afb033",
+      "title": "Degrees of Freedom Analysis of Unrolled Neural Networks",
+      "venue": "arXiv.org",
+      "year": 2019,
+      "referenceCount": 34,
+      "citationCount": 9,
+      "authors": [
+        {
+          "authorId": "33002157",
+          "name": "M. Mardani"
+        },
+        {
+          "authorId": "3422968",
+          "name": "Qingyun Sun"
+        },
+        {
+          "authorId": "2734935",
+          "name": "Vardan Papyan"
+        },
+        {
+          "authorId": "143651271",
+          "name": "S. Vasanawala"
+        },
+        {
+          "authorId": "145854819",
+          "name": "J. Pauly"
+        },
+        {
+          "authorId": "1709392",
+          "name": "D. Donoho"
+        }
+      ]
+    },
+    {
+      "paperId": "cbda81a0527ca398c061b3662c39159986902e33",
+      "externalIds": {
+        "DBLP": "journals/tcyb/XuH16",
+        "MAG": "2476751262",
+        "DOI": "10.1109/TCYB.2015.2467167",
+        "CorpusId": 6471086,
+        "PubMed": "27455531"
+      },
+      "url": "https://www.semanticscholar.org/paper/cbda81a0527ca398c061b3662c39159986902e33",
+      "title": "Adaptive Elastic Echo State Network for Multivariate Time Series Prediction",
+      "venue": "IEEE Transactions on Cybernetics",
+      "year": 2016,
+      "referenceCount": 40,
+      "citationCount": 109,
+      "authors": [
+        {
+          "authorId": "8489468",
+          "name": "Meiling Xu"
+        },
+        {
+          "authorId": "145175023",
+          "name": "Min Han"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2704 @@
+{
+  "offset": 0,
+  "citingPaperInfo": {
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/1602.01024, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "title": "On Deep Multi-View Representation Learning",
+    "authors": [
+      {
+        "authorId": "1702290",
+        "name": "Weiran Wang"
+      },
+      {
+        "authorId": "144365054",
+        "name": "R. Arora"
+      },
+      {
+        "authorId": "2924113",
+        "name": "Karen Livescu"
+      },
+      {
+        "authorId": "1748118",
+        "name": "J. Bilmes"
+      }
+    ]
+  },
+  "data": [
+    {
+      "citedPaper": {
+        "paperId": "7fd94d0f623b622fa6359aae570eaf1f97a18e9c",
+        "externalIds": {
+          "MAG": "375304271",
+          "DBLP": "journals/fcsc/ZhangZPZ16",
+          "DOI": "10.1007/s11704-015-4538-7",
+          "CorpusId": 3429947
+        },
+        "url": "https://www.semanticscholar.org/paper/7fd94d0f623b622fa6359aae570eaf1f97a18e9c",
+        "title": "Multi-view dimensionality reduction via canonical random correlation analysis",
+        "venue": "Frontiers of Computer Science",
+        "year": 2016,
+        "referenceCount": 48,
+        "citationCount": 55,
+        "authors": [
+          {
+            "authorId": "1796249555",
+            "name": "Yanyan Zhang"
+          },
+          {
+            "authorId": "2144164472",
+            "name": "Jianchun Zhang"
+          },
+          {
+            "authorId": "1794876",
+            "name": "Zhisong Pan"
+          },
+          {
+            "authorId": "2839559",
+            "name": "Daoqiang Zhang"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "bfa8bda5679655200cf01ebf5423bf005ad173ef",
+        "externalIds": {
+          "MAG": "2951059559",
+          "ArXiv": "1510.02054",
+          "DBLP": "journals/corr/WangALS15",
+          "DOI": "10.1109/ALLERTON.2015.7447071",
+          "CorpusId": 6419793
+        },
+        "url": "https://www.semanticscholar.org/paper/bfa8bda5679655200cf01ebf5423bf005ad173ef",
+        "title": "Stochastic optimization for deep CCA via nonlinear orthogonal iterations",
+        "venue": "Allerton Conference on Communication, Control, and Computing",
+        "year": 2015,
+        "referenceCount": 61,
+        "citationCount": 68,
+        "authors": [
+          {
+            "authorId": "1702290",
+            "name": "Weiran Wang"
+          },
+          {
+            "authorId": "144365054",
+            "name": "R. Arora"
+          },
+          {
+            "authorId": "2924113",
+            "name": "Karen Livescu"
+          },
+          {
+            "authorId": "1706280",
+            "name": "N. Srebro"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "a35be901e0bf9dd8adfcdaae400f1458eb2c8f3d",
+        "externalIds": {
+          "MAG": "1853881680",
+          "ArXiv": "1506.08170",
+          "DBLP": "conf/icml/MaLF15",
+          "CorpusId": 8725374
+        },
+        "url": "https://www.semanticscholar.org/paper/a35be901e0bf9dd8adfcdaae400f1458eb2c8f3d",
+        "title": "Finding Linear Structure in Large Datasets with Scalable Canonical Correlation Analysis",
+        "venue": "International Conference on Machine Learning",
+        "year": 2015,
+        "referenceCount": 30,
+        "citationCount": 83,
+        "authors": [
+          {
+            "authorId": "48464836",
+            "name": "Zhuang Ma"
+          },
+          {
+            "authorId": "2505474",
+            "name": "Y. Lu"
+          },
+          {
+            "authorId": "145346319",
+            "name": "Dean Phillips Foster"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "efb0e69bc640171d1f115bb286d865bec6f21a7f",
+        "externalIds": {
+          "MAG": "1949478088",
+          "DBLP": "conf/cvpr/YanM15",
+          "DOI": "10.1109/CVPR.2015.7298966",
+          "CorpusId": 14932020
+        },
+        "url": "https://www.semanticscholar.org/paper/efb0e69bc640171d1f115bb286d865bec6f21a7f",
+        "title": "Deep correlation for matching images and text",
+        "venue": "Computer Vision and Pattern Recognition",
+        "year": 2015,
+        "referenceCount": 54,
+        "citationCount": 408,
+        "authors": [
+          {
+            "authorId": "144535340",
+            "name": "F. Yan"
+          },
+          {
+            "authorId": "1712041",
+            "name": "K. Mikolajczyk"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "39f525f231ea7c9ae335ffdd411c0a59bdf9c9e8",
+        "externalIds": {
+          "ArXiv": "1504.07225",
+          "MAG": "2953021999",
+          "DBLP": "journals/neco/ChandarKLR16",
+          "DOI": "10.1162/NECO_a_00801",
+          "CorpusId": 11533063,
+          "PubMed": "26654210"
+        },
+        "url": "https://www.semanticscholar.org/paper/39f525f231ea7c9ae335ffdd411c0a59bdf9c9e8",
+        "title": "Correlational Neural Networks",
+        "venue": "Neural Computation",
+        "year": 2015,
+        "referenceCount": 41,
+        "citationCount": 148,
+        "authors": [
+          {
+            "authorId": "144631588",
+            "name": "A. Chandar"
+          },
+          {
+            "authorId": "2361078",
+            "name": "Mitesh M. Khapra"
+          },
+          {
+            "authorId": "1777528",
+            "name": "H. Larochelle"
+          },
+          {
+            "authorId": "1723632",
+            "name": "Balaraman Ravindran"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "4f823237da9a5c68a8f955f0c372fcb34f0d4945",
+        "externalIds": {
+          "MAG": "1531883353",
+          "DBLP": "conf/icassp/WangALB15",
+          "DOI": "10.1109/ICASSP.2015.7178840",
+          "CorpusId": 14488097
+        },
+        "url": "https://www.semanticscholar.org/paper/4f823237da9a5c68a8f955f0c372fcb34f0d4945",
+        "title": "Unsupervised learning of acoustic features via deep canonical correlation analysis",
+        "venue": "IEEE International Conference on Acoustics, Speech, and Signal Processing",
+        "year": 2015,
+        "referenceCount": 27,
+        "citationCount": 138,
+        "authors": [
+          {
+            "authorId": "1702290",
+            "name": "Weiran Wang"
+          },
+          {
+            "authorId": "144365054",
+            "name": "R. Arora"
+          },
+          {
+            "authorId": "2924113",
+            "name": "Karen Livescu"
+          },
+          {
+            "authorId": "1748118",
+            "name": "J. Bilmes"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "64bfeb1ddd35838706e4fffc469234cc2f215631",
+        "externalIds": {
+          "DBLP": "conf/nips/SohnSL14",
+          "MAG": "2594866214",
+          "CorpusId": 8563582
+        },
+        "url": "https://www.semanticscholar.org/paper/64bfeb1ddd35838706e4fffc469234cc2f215631",
+        "title": "Improved Multimodal Deep Learning with Variation of Information",
+        "venue": "Neural Information Processing Systems",
+        "year": 2014,
+        "referenceCount": 36,
+        "citationCount": 191,
+        "authors": [
+          {
+            "authorId": "1729571",
+            "name": "Kihyuk Sohn"
+          },
+          {
+            "authorId": "3163480",
+            "name": "Wenling Shang"
+          },
+          {
+            "authorId": "1697141",
+            "name": "Honglak Lee"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "f37e1b62a767a307c046404ca96bc140b3e68cb5",
+        "externalIds": {
+          "DBLP": "conf/emnlp/PenningtonSM14",
+          "ACL": "D14-1162",
+          "MAG": "2250539671",
+          "DOI": "10.3115/v1/D14-1162",
+          "CorpusId": 1957433
+        },
+        "url": "https://www.semanticscholar.org/paper/f37e1b62a767a307c046404ca96bc140b3e68cb5",
+        "title": "GloVe: Global Vectors for Word Representation",
+        "venue": "Conference on Empirical Methods in Natural Language Processing",
+        "year": 2014,
+        "referenceCount": 32,
+        "citationCount": 34321,
+        "authors": [
+          {
+            "authorId": "143845796",
+            "name": "Jeffrey Pennington"
+          },
+          {
+            "authorId": "2166511",
+            "name": "R. Socher"
+          },
+          {
+            "authorId": "144783904",
+            "name": "Christopher D. Manning"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "4d86e45df67b4ba76132fe6f7a211745be6dd7cc",
+        "externalIds": {
+          "DBLP": "conf/nips/LuF14",
+          "MAG": "2126706529",
+          "ArXiv": "1407.4508",
+          "CorpusId": 277457
+        },
+        "url": "https://www.semanticscholar.org/paper/4d86e45df67b4ba76132fe6f7a211745be6dd7cc",
+        "title": "Large Scale Canonical Correlation Analysis with Iterative Least Squares",
+        "venue": "Neural Information Processing Systems",
+        "year": 2014,
+        "referenceCount": 25,
+        "citationCount": 57,
+        "authors": [
+          {
+            "authorId": "2505474",
+            "name": "Y. Lu"
+          },
+          {
+            "authorId": "145346319",
+            "name": "Dean Phillips Foster"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "b3c879b2430a61d8c4393436685c85bcfbd6c6d8",
+        "externalIds": {
+          "MAG": "1990470142",
+          "DBLP": "conf/icassp/HuangASSR14",
+          "DOI": "10.1109/ICASSP.2014.6853587",
+          "CorpusId": 5916235
+        },
+        "url": "https://www.semanticscholar.org/paper/b3c879b2430a61d8c4393436685c85bcfbd6c6d8",
+        "title": "Kernel methods match Deep Neural Networks on TIMIT",
+        "venue": "IEEE International Conference on Acoustics, Speech, and Signal Processing",
+        "year": 2014,
+        "referenceCount": 16,
+        "citationCount": 129,
+        "authors": [
+          {
+            "authorId": "2421691",
+            "name": "Po-Sen Huang"
+          },
+          {
+            "authorId": "1922753",
+            "name": "H. Avron"
+          },
+          {
+            "authorId": "1784851",
+            "name": "Tara N. Sainath"
+          },
+          {
+            "authorId": "1808676",
+            "name": "Vikas Sindhwani"
+          },
+          {
+            "authorId": "1720857",
+            "name": "B. Ramabhadran"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "13d5337085fb0c70d02a2f6764d45d546075c186",
+        "externalIds": {
+          "MAG": "2085406278",
+          "DBLP": "conf/icassp/AroraL14",
+          "DOI": "10.1109/ICASSP.2014.6854050",
+          "CorpusId": 1385625
+        },
+        "url": "https://www.semanticscholar.org/paper/13d5337085fb0c70d02a2f6764d45d546075c186",
+        "title": "Multi-view learning with supervision for transformed bottleneck features",
+        "venue": "IEEE International Conference on Acoustics, Speech, and Signal Processing",
+        "year": 2014,
+        "referenceCount": 35,
+        "citationCount": 37,
+        "authors": [
+          {
+            "authorId": "144365054",
+            "name": "R. Arora"
+          },
+          {
+            "authorId": "2924113",
+            "name": "Karen Livescu"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "9d3aaa919c78c06f24588d97ed1028d51860b321",
+        "externalIds": {
+          "DBLP": "conf/eacl/FaruquiD14",
+          "ACL": "E14-1049",
+          "MAG": "342285082",
+          "DOI": "10.3115/v1/E14-1049",
+          "CorpusId": 3792324
+        },
+        "url": "https://www.semanticscholar.org/paper/9d3aaa919c78c06f24588d97ed1028d51860b321",
+        "title": "Improving Vector Space Word Representations Using Multilingual Correlation",
+        "venue": "Conference of the European Chapter of the Association for Computational Linguistics",
+        "year": 2014,
+        "referenceCount": 45,
+        "citationCount": 613,
+        "authors": [
+          {
+            "authorId": "1779225",
+            "name": "Manaal Faruqui"
+          },
+          {
+            "authorId": "1745899",
+            "name": "Chris Dyer"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "70600593f870f460624c56c2a57b9a03b94f94a5",
+        "externalIds": {
+          "MAG": "2950682695",
+          "DBLP": "journals/corr/PLLKRRS14",
+          "ArXiv": "1402.1454",
+          "CorpusId": 217774
+        },
+        "url": "https://www.semanticscholar.org/paper/70600593f870f460624c56c2a57b9a03b94f94a5",
+        "title": "An Autoencoder Approach to Learning Bilingual Word Representations",
+        "venue": "Neural Information Processing Systems",
+        "year": 2014,
+        "referenceCount": 31,
+        "citationCount": 347,
+        "authors": [
+          {
+            "authorId": "144631588",
+            "name": "A. Chandar"
+          },
+          {
+            "authorId": "2159456",
+            "name": "Stanislas Lauly"
+          },
+          {
+            "authorId": "1777528",
+            "name": "H. Larochelle"
+          },
+          {
+            "authorId": "2361078",
+            "name": "Mitesh M. Khapra"
+          },
+          {
+            "authorId": "1723632",
+            "name": "Balaraman Ravindran"
+          },
+          {
+            "authorId": "145769639",
+            "name": "V. Raykar"
+          },
+          {
+            "authorId": "2909575",
+            "name": "Amrita Saha"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "42084b328669ae8a8c560d3e1457a663e78153ab",
+        "externalIds": {
+          "DBLP": "journals/corr/Lopez-PazSSGS14",
+          "MAG": "2949583171",
+          "ArXiv": "1402.0119",
+          "CorpusId": 5624519
+        },
+        "url": "https://www.semanticscholar.org/paper/42084b328669ae8a8c560d3e1457a663e78153ab",
+        "title": "Randomized Nonlinear Component Analysis",
+        "venue": "International Conference on Machine Learning",
+        "year": 2014,
+        "referenceCount": 34,
+        "citationCount": 183,
+        "authors": [
+          {
+            "authorId": "1401804750",
+            "name": "David Lopez-Paz"
+          },
+          {
+            "authorId": "3072326",
+            "name": "S. Sra"
+          },
+          {
+            "authorId": "46234526",
+            "name": "Alex Smola"
+          },
+          {
+            "authorId": "1744700",
+            "name": "Zoubin Ghahramani"
+          },
+          {
+            "authorId": "1707625",
+            "name": "B. Scholkopf"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "c20ed3a1600122e6cf03b8ed74d3d2920ad0a8c6",
+        "externalIds": {
+          "ArXiv": "1312.6173",
+          "MAG": "1562955078",
+          "CorpusId": 13805769
+        },
+        "url": "https://www.semanticscholar.org/paper/c20ed3a1600122e6cf03b8ed74d3d2920ad0a8c6",
+        "title": "Multilingual Distributed Representations without Word Alignment",
+        "venue": "International Conference on Learning Representations",
+        "year": 2013,
+        "referenceCount": 30,
+        "citationCount": 161,
+        "authors": [
+          {
+            "authorId": "2910877",
+            "name": "Karl Moritz Hermann"
+          },
+          {
+            "authorId": "1685771",
+            "name": "Phil Blunsom"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "fdb813d8b927bdd21ae1858cafa6c34b66a36268",
+        "externalIds": {
+          "MAG": "2136189984",
+          "DBLP": "conf/cikm/HuangHGDAH13",
+          "DOI": "10.1145/2505515.2505665",
+          "CorpusId": 8384258
+        },
+        "url": "https://www.semanticscholar.org/paper/fdb813d8b927bdd21ae1858cafa6c34b66a36268",
+        "title": "Learning deep structured semantic models for web search using clickthrough data",
+        "venue": "International Conference on Information and Knowledge Management",
+        "year": 2013,
+        "referenceCount": 26,
+        "citationCount": 2237,
+        "authors": [
+          {
+            "authorId": "2421691",
+            "name": "Po-Sen Huang"
+          },
+          {
+            "authorId": "144137069",
+            "name": "Xiaodong He"
+          },
+          {
+            "authorId": "1800422",
+            "name": "Jianfeng Gao"
+          },
+          {
+            "authorId": "144718788",
+            "name": "L. Deng"
+          },
+          {
+            "authorId": "1723644",
+            "name": "A. Acero"
+          },
+          {
+            "authorId": "46819684",
+            "name": "Larry Heck"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "0e53f13021746d195c298cceb2d7b43a5088c9da",
+        "externalIds": {
+          "DBLP": "journals/corr/McWilliamsBB13",
+          "MAG": "2162892577",
+          "ArXiv": "1306.5554",
+          "CorpusId": 6301172
+        },
+        "url": "https://www.semanticscholar.org/paper/0e53f13021746d195c298cceb2d7b43a5088c9da",
+        "title": "Correlated random features for fast semi-supervised learning",
+        "venue": "Neural Information Processing Systems",
+        "year": 2013,
+        "referenceCount": 21,
+        "citationCount": 48,
+        "authors": [
+          {
+            "authorId": "2953855",
+            "name": "B. McWilliams"
+          },
+          {
+            "authorId": "1722983",
+            "name": "David Balduzzi"
+          },
+          {
+            "authorId": "1682548",
+            "name": "J. Buhmann"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "e2257e3f56ccb12875a57bc0a8cca1d9d7e93ec6",
+        "externalIds": {
+          "MAG": "1523385540",
+          "DBLP": "conf/icml/AndrewABL13",
+          "CorpusId": 2495132
+        },
+        "url": "https://www.semanticscholar.org/paper/e2257e3f56ccb12875a57bc0a8cca1d9d7e93ec6",
+        "title": "Deep Canonical Correlation Analysis",
+        "venue": "International Conference on Machine Learning",
+        "year": 2013,
+        "referenceCount": 41,
+        "citationCount": 2041,
+        "authors": [
+          {
+            "authorId": "144339350",
+            "name": "Galen Andrew"
+          },
+          {
+            "authorId": "144365054",
+            "name": "R. Arora"
+          },
+          {
+            "authorId": "1748118",
+            "name": "J. Bilmes"
+          },
+          {
+            "authorId": "2924113",
+            "name": "Karen Livescu"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "a66169aef77dc88accac73d52c9f947e7f8a1e5a",
+        "externalIds": {
+          "MAG": "2063036810",
+          "DBLP": "conf/icassp/AroraL13",
+          "DOI": "10.1109/ICASSP.2013.6639047",
+          "CorpusId": 2380455
+        },
+        "url": "https://www.semanticscholar.org/paper/a66169aef77dc88accac73d52c9f947e7f8a1e5a",
+        "title": "Multi-view CCA-based acoustic features for phonetic recognition across speakers and domains",
+        "venue": "IEEE International Conference on Acoustics, Speech, and Signal Processing",
+        "year": 2013,
+        "referenceCount": 36,
+        "citationCount": 91,
+        "authors": [
+          {
+            "authorId": "144365054",
+            "name": "R. Arora"
+          },
+          {
+            "authorId": "2924113",
+            "name": "Karen Livescu"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "9814df8bd00ba999c4d1e305a7e9bca579dc7c75",
+        "externalIds": {
+          "MAG": "68733909",
+          "DBLP": "journals/jair/HodoshYH13",
+          "DOI": "10.1613/jair.3994",
+          "CorpusId": 928608
+        },
+        "url": "https://www.semanticscholar.org/paper/9814df8bd00ba999c4d1e305a7e9bca579dc7c75",
+        "title": "Framing Image Description as a Ranking Task: Data, Models and Evaluation Metrics",
+        "venue": "Journal of Artificial Intelligence Research",
+        "year": 2013,
+        "referenceCount": 82,
+        "citationCount": 1431,
+        "authors": [
+          {
+            "authorId": "2170746",
+            "name": "Micah Hodosh"
+          },
+          {
+            "authorId": "2052690705",
+            "name": "Peter Young"
+          },
+          {
+            "authorId": "3118681",
+            "name": "J. Hockenmaier"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "8f77e16f2834eb23307b0436f5422a9752339f0a",
+        "externalIds": {
+          "DBLP": "conf/nips/YangLMJZ12",
+          "MAG": "2107791152",
+          "CorpusId": 1830773
+        },
+        "url": "https://www.semanticscholar.org/paper/8f77e16f2834eb23307b0436f5422a9752339f0a",
+        "title": "Nyström Method vs Random Fourier Features: A Theoretical and Empirical Comparison",
+        "venue": "Neural Information Processing Systems",
+        "year": 2012,
+        "referenceCount": 22,
+        "citationCount": 365,
+        "authors": [
+          {
+            "authorId": "40381920",
+            "name": "Tianbao Yang"
+          },
+          {
+            "authorId": "2110463675",
+            "name": "Yu-Feng Li"
+          },
+          {
+            "authorId": "1694826",
+            "name": "M. Mahdavi"
+          },
+          {
+            "authorId": "1675329074",
+            "name": "Rong Jin"
+          },
+          {
+            "authorId": "145624000",
+            "name": "Zhi-Hua Zhou"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "cb1f37a35b2630ca07771d53db1bdac2e35c5be1",
+        "externalIds": {
+          "MAG": "120847089",
+          "DOI": "10.21236/ada576100",
+          "CorpusId": 115549688
+        },
+        "url": "https://www.semanticscholar.org/paper/cb1f37a35b2630ca07771d53db1bdac2e35c5be1",
+        "title": "User-Friendly Tools for Random Matrices: An Introduction",
+        "venue": "",
+        "year": 2012,
+        "referenceCount": 123,
+        "citationCount": 86,
+        "authors": [
+          {
+            "authorId": "1788107",
+            "name": "J. Tropp"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "adb4ea2c0f3eff8a17c97a67f28b923e8e5bdff1",
+        "externalIds": {
+          "DBLP": "journals/jmlr/SrivastavaS14",
+          "MAG": "2164587673",
+          "DOI": "10.5555/2627435.2697059",
+          "CorpusId": 710430
+        },
+        "url": "https://www.semanticscholar.org/paper/adb4ea2c0f3eff8a17c97a67f28b923e8e5bdff1",
+        "title": "Multimodal learning with deep Boltzmann machines",
+        "venue": "Journal of machine learning research",
+        "year": 2012,
+        "referenceCount": 44,
+        "citationCount": 1793,
+        "authors": [
+          {
+            "authorId": "2897313",
+            "name": "Nitish Srivastava"
+          },
+          {
+            "authorId": "145124475",
+            "name": "R. Salakhutdinov"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "8f3ff24a73ffb788545429ba82c78faa920e1529",
+        "externalIds": {
+          "ACL": "C12-2057",
+          "MAG": "2251749059",
+          "DBLP": "conf/coling/KimNG12",
+          "CorpusId": 13945591
+        },
+        "url": "https://www.semanticscholar.org/paper/8f3ff24a73ffb788545429ba82c78faa920e1529",
+        "title": "Learning Semantics with Deep Belief Network for Cross-Language Information Retrieval",
+        "venue": "International Conference on Computational Linguistics",
+        "year": 2012,
+        "referenceCount": 25,
+        "citationCount": 31,
+        "authors": [
+          {
+            "authorId": "7950307",
+            "name": "Jungi Kim"
+          },
+          {
+            "authorId": "1856915",
+            "name": "Jinseok Nam"
+          },
+          {
+            "authorId": "1730400",
+            "name": "Iryna Gurevych"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "7988ef10dc9770e5fa4dc40d5d2f3693fd2ed917",
+        "externalIds": {
+          "DBLP": "conf/emnlp/BlacoeL12",
+          "MAG": "97201605",
+          "ACL": "D12-1050",
+          "CorpusId": 11567084
+        },
+        "url": "https://www.semanticscholar.org/paper/7988ef10dc9770e5fa4dc40d5d2f3693fd2ed917",
+        "title": "A Comparison of Vector-based Representations for Semantic Composition",
+        "venue": "Conference on Empirical Methods in Natural Language Processing",
+        "year": 2012,
+        "referenceCount": 37,
+        "citationCount": 297,
+        "authors": [
+          {
+            "authorId": "3295137",
+            "name": "William Blacoe"
+          },
+          {
+            "authorId": "1747893",
+            "name": "Mirella Lapata"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "5db592bef4b5ff231e1de92588907808f00bfbb4",
+        "externalIds": {
+          "MAG": "2129625650",
+          "DBLP": "conf/nips/DhillonFU11",
+          "CorpusId": 519902
+        },
+        "url": "https://www.semanticscholar.org/paper/5db592bef4b5ff231e1de92588907808f00bfbb4",
+        "title": "Multi-View Learning of Word Embeddings via CCA",
+        "venue": "Neural Information Processing Systems",
+        "year": 2011,
+        "referenceCount": 0,
+        "citationCount": 133,
+        "authors": []
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "a78273144520d57e150744cf75206e881e11cc5b",
+        "externalIds": {
+          "ArXiv": "2301.04856",
+          "MAG": "2184188583",
+          "DBLP": "journals/corr/abs-2301-04856",
+          "DOI": "10.48550/arXiv.2301.04856",
+          "CorpusId": 352650
+        },
+        "url": "https://www.semanticscholar.org/paper/a78273144520d57e150744cf75206e881e11cc5b",
+        "title": "Multimodal Deep Learning",
+        "venue": "International Conference on Machine Learning",
+        "year": 2011,
+        "referenceCount": 31,
+        "citationCount": 3474,
+        "authors": [
+          {
+            "authorId": "2020608",
+            "name": "Jiquan Ngiam"
+          },
+          {
+            "authorId": "2556428",
+            "name": "A. Khosla"
+          },
+          {
+            "authorId": "1390603950",
+            "name": "Mingyu Kim"
+          },
+          {
+            "authorId": "145578392",
+            "name": "Juhan Nam"
+          },
+          {
+            "authorId": "1697141",
+            "name": "Honglak Lee"
+          },
+          {
+            "authorId": "34699434",
+            "name": "A. Ng"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "273dfbcb68080251f5e9ff38b4413d7bd84b10a1",
+        "externalIds": {
+          "MAG": "332049209",
+          "DBLP": "journals/tist/ChangL11",
+          "DOI": "10.1145/1961189.1961199",
+          "CorpusId": 961425
+        },
+        "url": "https://www.semanticscholar.org/paper/273dfbcb68080251f5e9ff38b4413d7bd84b10a1",
+        "title": "LIBSVM: A library for support vector machines",
+        "venue": "TIST",
+        "year": 2011,
+        "referenceCount": 61,
+        "citationCount": 44784,
+        "authors": [
+          {
+            "authorId": null,
+            "name": "Chih-Chung Chang"
+          },
+          {
+            "authorId": "1711460",
+            "name": "Chih-Jen Lin"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "745d86adca56ec50761591733e157f84cfb19671",
+        "externalIds": {
+          "DBLP": "journals/cogsci/MitchellL10",
+          "MAG": "1984052055",
+          "DOI": "10.1111/j.1551-6709.2010.01106.x",
+          "CorpusId": 26901423,
+          "PubMed": "21564253"
+        },
+        "url": "https://www.semanticscholar.org/paper/745d86adca56ec50761591733e157f84cfb19671",
+        "title": "Composition in Distributional Models of Semantics",
+        "venue": "Cognitive Sciences",
+        "year": 2010,
+        "referenceCount": 250,
+        "citationCount": 1028,
+        "authors": [
+          {
+            "authorId": "34902160",
+            "name": "Jeff Mitchell"
+          },
+          {
+            "authorId": "1747893",
+            "name": "Mirella Lapata"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "6eb3a15108dfdec25b46522ed94b866aeb156de9",
+        "externalIds": {
+          "MAG": "2062955551",
+          "DBLP": "conf/cvpr/Socher010",
+          "DOI": "10.1109/CVPR.2010.5540112",
+          "CorpusId": 9197086
+        },
+        "url": "https://www.semanticscholar.org/paper/6eb3a15108dfdec25b46522ed94b866aeb156de9",
+        "title": "Connecting modalities: Semi-supervised segmentation and annotation of images using unaligned text corpora",
+        "venue": "2010 IEEE Computer Society Conference on Computer Vision and Pattern Recognition",
+        "year": 2010,
+        "referenceCount": 24,
+        "citationCount": 255,
+        "authors": [
+          {
+            "authorId": "2166511",
+            "name": "R. Socher"
+          },
+          {
+            "authorId": "48004138",
+            "name": "Li Fei-Fei"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "621aac6e9d005d8b52a77200bc07ed2449034cd5",
+        "externalIds": {
+          "DBLP": "journals/ir/Mogotsi10",
+          "MAG": "1544399847",
+          "DOI": "10.1007/s10791-009-9115-y",
+          "CorpusId": 31674042
+        },
+        "url": "https://www.semanticscholar.org/paper/621aac6e9d005d8b52a77200bc07ed2449034cd5",
+        "title": "Christopher D. Manning, Prabhakar Raghavan, and Hinrich Schütze: Introduction to information retrieval",
+        "venue": "Information retrieval (Boston)",
+        "year": 2010,
+        "referenceCount": 4,
+        "citationCount": 225,
+        "authors": [
+          {
+            "authorId": "144783904",
+            "name": "Christopher D. Manning"
+          },
+          {
+            "authorId": "2200211393",
+            "name": "Prabhakar Raghavan"
+          },
+          {
+            "authorId": "144418438",
+            "name": "Hinrich Schütze"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "e2b7f37cd97a7907b1b8a41138721ed06a0b76cd",
+        "externalIds": {
+          "MAG": "2997574889",
+          "DBLP": "journals/jmlr/VincentLLBM10",
+          "DOI": "10.5555/1756006.1953039",
+          "CorpusId": 17804904
+        },
+        "url": "https://www.semanticscholar.org/paper/e2b7f37cd97a7907b1b8a41138721ed06a0b76cd",
+        "title": "Stacked Denoising Autoencoders: Learning Useful Representations in a Deep Network with a Local Denoising Criterion",
+        "venue": "Journal of machine learning research",
+        "year": 2010,
+        "referenceCount": 60,
+        "citationCount": 7489,
+        "authors": [
+          {
+            "authorId": "145467703",
+            "name": "P. Vincent"
+          },
+          {
+            "authorId": "1777528",
+            "name": "H. Larochelle"
+          },
+          {
+            "authorId": "2453026",
+            "name": "Isabelle Lajoie"
+          },
+          {
+            "authorId": "1751762",
+            "name": "Yoshua Bengio"
+          },
+          {
+            "authorId": "1798462",
+            "name": "Pierre-Antoine Manzagol"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "0728914a1dba0417bf2847548aa15711f3f8d4e8",
+        "externalIds": {
+          "DBLP": "conf/icml/ChaudhuriKLS09",
+          "MAG": "2142674578",
+          "DOI": "10.1145/1553374.1553391",
+          "CorpusId": 2800834
+        },
+        "url": "https://www.semanticscholar.org/paper/0728914a1dba0417bf2847548aa15711f3f8d4e8",
+        "title": "Multi-view clustering via canonical correlation analysis",
+        "venue": "International Conference on Machine Learning",
+        "year": 2009,
+        "referenceCount": 18,
+        "citationCount": 838,
+        "authors": [
+          {
+            "authorId": "38120884",
+            "name": "Kamalika Chaudhuri"
+          },
+          {
+            "authorId": "144695232",
+            "name": "S. Kakade"
+          },
+          {
+            "authorId": "2924113",
+            "name": "Karen Livescu"
+          },
+          {
+            "authorId": "37564609",
+            "name": "Karthik Sridharan"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "7fd700f4a010d765c506841de9884df394c1de1c",
+        "externalIds": {
+          "MAG": "2123576058",
+          "DBLP": "conf/cvpr/BlaschkoL08",
+          "DOI": "10.1109/CVPR.2008.4587353",
+          "CorpusId": 1145503
+        },
+        "url": "https://www.semanticscholar.org/paper/7fd700f4a010d765c506841de9884df394c1de1c",
+        "title": "Correlational spectral clustering",
+        "venue": "2008 IEEE Conference on Computer Vision and Pattern Recognition",
+        "year": 2008,
+        "referenceCount": 34,
+        "citationCount": 218,
+        "authors": [
+          {
+            "authorId": "1758219",
+            "name": "Matthew B. Blaschko"
+          },
+          {
+            "authorId": "1787591",
+            "name": "Christoph H. Lampert"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "3709b6cb2ed14c04b60e38d5f75e89c41317e93d",
+        "externalIds": {
+          "MAG": "2140406733",
+          "ACL": "P08-1088",
+          "DBLP": "conf/acl/HaghighiLBK08",
+          "CorpusId": 7185434
+        },
+        "url": "https://www.semanticscholar.org/paper/3709b6cb2ed14c04b60e38d5f75e89c41317e93d",
+        "title": "Learning Bilingual Lexicons from Monolingual Corpora",
+        "venue": "Annual Meeting of the Association for Computational Linguistics",
+        "year": 2008,
+        "referenceCount": 16,
+        "citationCount": 357,
+        "authors": [
+          {
+            "authorId": "1761880",
+            "name": "A. Haghighi"
+          },
+          {
+            "authorId": "2075292388",
+            "name": "P. Liang"
+          },
+          {
+            "authorId": "2353956494",
+            "name": "Taylor Berg-Kirkpatrick"
+          },
+          {
+            "authorId": "38666915",
+            "name": "D. Klein"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "5936754b5762260bf102ac95d7b26cfc9d31956a",
+        "externalIds": {
+          "DBLP": "conf/nips/BottouB07",
+          "MAG": "2113651538",
+          "CorpusId": 7431525
+        },
+        "url": "https://www.semanticscholar.org/paper/5936754b5762260bf102ac95d7b26cfc9d31956a",
+        "title": "The Tradeoffs of Large Scale Learning",
+        "venue": "Neural Information Processing Systems",
+        "year": 2007,
+        "referenceCount": 37,
+        "citationCount": 1729,
+        "authors": [
+          {
+            "authorId": "52184096",
+            "name": "L. Bottou"
+          },
+          {
+            "authorId": "1698617",
+            "name": "O. Bousquet"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "1caea0662cc8c62ce3ef49d8f54ba7ca2b39c92c",
+        "externalIds": {
+          "MAG": "1536675765",
+          "DBLP": "conf/colt/KakadeF07",
+          "DOI": "10.1007/978-3-540-72927-3_8",
+          "CorpusId": 6792954
+        },
+        "url": "https://www.semanticscholar.org/paper/1caea0662cc8c62ce3ef49d8f54ba7ca2b39c92c",
+        "title": "Multi-view Regression Via Canonical Correlation Analysis",
+        "venue": "Annual Conference Computational Learning Theory",
+        "year": 2007,
+        "referenceCount": 18,
+        "citationCount": 220,
+        "authors": [
+          {
+            "authorId": "144695232",
+            "name": "S. Kakade"
+          },
+          {
+            "authorId": "145346319",
+            "name": "Dean Phillips Foster"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "b81381d17baf6750c09bd58e96f4660d25be9225",
+        "externalIds": {
+          "MAG": "2169495281",
+          "DBLP": "conf/icml/DavisKJSD07",
+          "DOI": "10.1145/1273496.1273523",
+          "CorpusId": 2261947
+        },
+        "url": "https://www.semanticscholar.org/paper/b81381d17baf6750c09bd58e96f4660d25be9225",
+        "title": "Information-theoretic metric learning",
+        "venue": "International Conference on Machine Learning",
+        "year": 2006,
+        "referenceCount": 24,
+        "citationCount": 2120,
+        "authors": [
+          {
+            "authorId": "2111090524",
+            "name": "Jason V. Davis"
+          },
+          {
+            "authorId": "1692670",
+            "name": "Brian Kulis"
+          },
+          {
+            "authorId": "48964143",
+            "name": "Prateek Jain"
+          },
+          {
+            "authorId": "3072326",
+            "name": "S. Sra"
+          },
+          {
+            "authorId": "1783667",
+            "name": "I. Dhillon"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "793462a25db9514b942d6df93ab20ee0a7c3f257",
+        "externalIds": {
+          "DBLP": "journals/corr/abs-cs-0609071",
+          "MAG": "1497960466",
+          "ArXiv": "cs/0609071",
+          "CorpusId": 5702881
+        },
+        "url": "https://www.semanticscholar.org/paper/793462a25db9514b942d6df93ab20ee0a7c3f257",
+        "title": "A kernel method for canonical correlation analysis",
+        "venue": "arXiv.org",
+        "year": 2006,
+        "referenceCount": 12,
+        "citationCount": 559,
+        "authors": [
+          {
+            "authorId": "143683998",
+            "name": "S. Akaho"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "77f0d765e9557c8260bb39087985103527f7c702",
+        "externalIds": {
+          "DBLP": "conf/cvpr/HoiLLM06",
+          "MAG": "2137736727",
+          "DOI": "10.1109/CVPR.2006.167",
+          "CorpusId": 1845522
+        },
+        "url": "https://www.semanticscholar.org/paper/77f0d765e9557c8260bb39087985103527f7c702",
+        "title": "Learning Distance Metrics with Contextual Constraints for Image Retrieval",
+        "venue": "Computer Vision and Pattern Recognition",
+        "year": 2006,
+        "referenceCount": 25,
+        "citationCount": 326,
+        "authors": [
+          {
+            "authorId": "1741126",
+            "name": "S. Hoi"
+          },
+          {
+            "authorId": "46641573",
+            "name": "W. Liu"
+          },
+          {
+            "authorId": "1785083",
+            "name": "Michael R. Lyu"
+          },
+          {
+            "authorId": "1712167",
+            "name": "Wei-Ying Ma"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "d1f66ecdb910b103659f464cb39a0146789d99f8",
+        "externalIds": {
+          "DBLP": "conf/nips/GlobersonR05",
+          "MAG": "2104752854",
+          "CorpusId": 10315527
+        },
+        "url": "https://www.semanticscholar.org/paper/d1f66ecdb910b103659f464cb39a0146789d99f8",
+        "title": "Metric Learning by Collapsing Classes",
+        "venue": "Neural Information Processing Systems",
+        "year": 2005,
+        "referenceCount": 13,
+        "citationCount": 769,
+        "authors": [
+          {
+            "authorId": "1786843",
+            "name": "A. Globerson"
+          },
+          {
+            "authorId": "9330607",
+            "name": "S. Roweis"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "78947497cbbffc691aac3f590d972130259af9ce",
+        "externalIds": {
+          "MAG": "2106053110",
+          "DBLP": "conf/nips/WeinbergerBS05",
+          "DOI": "10.5555/1577069.1577078",
+          "CorpusId": 47325215
+        },
+        "url": "https://www.semanticscholar.org/paper/78947497cbbffc691aac3f590d972130259af9ce",
+        "title": "Distance Metric Learning for Large Margin Nearest Neighbor Classification",
+        "venue": "Neural Information Processing Systems",
+        "year": 2005,
+        "referenceCount": 35,
+        "citationCount": 5951,
+        "authors": [
+          {
+            "authorId": "7446832",
+            "name": "Kilian Q. Weinberger"
+          },
+          {
+            "authorId": "1796044",
+            "name": "L. Saul"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "b2746adae0413e87aec01303c2d8a2a67113bf11",
+        "externalIds": {
+          "DBLP": "journals/tkde/CaiHH05",
+          "MAG": "2169658215",
+          "DOI": "10.1109/TKDE.2005.198",
+          "CorpusId": 5709930
+        },
+        "url": "https://www.semanticscholar.org/paper/b2746adae0413e87aec01303c2d8a2a67113bf11",
+        "title": "Document clustering using locality preserving indexing",
+        "venue": "IEEE Transactions on Knowledge and Data Engineering",
+        "year": 2005,
+        "referenceCount": 34,
+        "citationCount": 792,
+        "authors": [
+          {
+            "authorId": "1724421",
+            "name": "Deng Cai"
+          },
+          {
+            "authorId": "3945955",
+            "name": "Xiaofei He"
+          },
+          {
+            "authorId": "145325584",
+            "name": "Jiawei Han"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "85ca6bf1968fe41603a0c08e097220652654c04e",
+        "externalIds": {
+          "MAG": "2152010828",
+          "DBLP": "journals/jmlr/Bar-HillelHSW05",
+          "CorpusId": 8600094
+        },
+        "url": "https://www.semanticscholar.org/paper/85ca6bf1968fe41603a0c08e097220652654c04e",
+        "title": "Learning a Mahalanobis Metric from Equivalence Constraints",
+        "venue": "Journal of machine learning research",
+        "year": 2005,
+        "referenceCount": 25,
+        "citationCount": 587,
+        "authors": [
+          {
+            "authorId": "1400556488",
+            "name": "Aharon Bar-Hillel"
+          },
+          {
+            "authorId": "1774536",
+            "name": "T. Hertz"
+          },
+          {
+            "authorId": "1787804",
+            "name": "N. Shental"
+          },
+          {
+            "authorId": "1789171",
+            "name": "D. Weinshall"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "91bfc3de8bfa6b9e7ccd685f53db8304a0c114ad",
+        "externalIds": {
+          "MAG": "2105582566",
+          "DBLP": "conf/cvpr/KidronSE05",
+          "DOI": "10.1109/CVPR.2005.274",
+          "CorpusId": 1302147
+        },
+        "url": "https://www.semanticscholar.org/paper/91bfc3de8bfa6b9e7ccd685f53db8304a0c114ad",
+        "title": "Pixels that sound",
+        "venue": "Computer Vision and Pattern Recognition",
+        "year": 2005,
+        "referenceCount": 36,
+        "citationCount": 199,
+        "authors": [
+          {
+            "authorId": "2211891",
+            "name": "Einat Kidron"
+          },
+          {
+            "authorId": "2159538",
+            "name": "Y. Schechner"
+          },
+          {
+            "authorId": "1753908",
+            "name": "Michael Elad"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "a6b5b20151c752beb74508f813699fa5216dedfa",
+        "externalIds": {
+          "DBLP": "journals/neco/HardoonSS04",
+          "MAG": "2100235303",
+          "DOI": "10.1162/0899766042321814",
+          "CorpusId": 202473,
+          "PubMed": "15516276"
+        },
+        "url": "https://www.semanticscholar.org/paper/a6b5b20151c752beb74508f813699fa5216dedfa",
+        "title": "Canonical Correlation Analysis: An Overview with Application to Learning Methods",
+        "venue": "Neural Computation",
+        "year": 2004,
+        "referenceCount": 19,
+        "citationCount": 3328,
+        "authors": [
+          {
+            "authorId": "1763894",
+            "name": "D. Hardoon"
+          },
+          {
+            "authorId": "2540580",
+            "name": "S. Szedmák"
+          },
+          {
+            "authorId": "1404459229",
+            "name": "J. Shawe-Taylor"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "58784cb37141480572be2c8687b874bac05073d2",
+        "externalIds": {
+          "DBLP": "conf/nips/GlobersonCPT04",
+          "MAG": "2166468440",
+          "DOI": "10.5555/1314498.1314572",
+          "CorpusId": 6728255
+        },
+        "url": "https://www.semanticscholar.org/paper/58784cb37141480572be2c8687b874bac05073d2",
+        "title": "Euclidean Embedding of Co-occurrence Data",
+        "venue": "Journal of machine learning research",
+        "year": 2004,
+        "referenceCount": 33,
+        "citationCount": 266,
+        "authors": [
+          {
+            "authorId": "1786843",
+            "name": "A. Globerson"
+          },
+          {
+            "authorId": "1732280",
+            "name": "Gal Chechik"
+          },
+          {
+            "authorId": "145366908",
+            "name": "Fernando C Pereira"
+          },
+          {
+            "authorId": "1777660",
+            "name": "Naftali Tishby"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "24c287d97982216c8f35c8d326dc2ec2d2475f3e",
+        "externalIds": {
+          "MAG": "2144935315",
+          "DBLP": "conf/nips/GoldbergerRHS04",
+          "CorpusId": 8616518
+        },
+        "url": "https://www.semanticscholar.org/paper/24c287d97982216c8f35c8d326dc2ec2d2475f3e",
+        "title": "Neighbourhood Components Analysis",
+        "venue": "Neural Information Processing Systems",
+        "year": 2004,
+        "referenceCount": 7,
+        "citationCount": 2137,
+        "authors": [
+          {
+            "authorId": "34508613",
+            "name": "J. Goldberger"
+          },
+          {
+            "authorId": "9330607",
+            "name": "S. Roweis"
+          },
+          {
+            "authorId": "1695689",
+            "name": "Geoffrey E. Hinton"
+          },
+          {
+            "authorId": "145124475",
+            "name": "R. Salakhutdinov"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "6386b3d3453c81967927863577745733615ecc2e",
+        "externalIds": {
+          "MAG": "2108502868",
+          "DBLP": "conf/icdm/BickelS04",
+          "DOI": "10.1109/ICDM.2004.10095",
+          "CorpusId": 14079018
+        },
+        "url": "https://www.semanticscholar.org/paper/6386b3d3453c81967927863577745733615ecc2e",
+        "title": "Multi-view clustering",
+        "venue": "Industrial Conference on Data Mining",
+        "year": 2004,
+        "referenceCount": 21,
+        "citationCount": 877,
+        "authors": [
+          {
+            "authorId": "2704747",
+            "name": "S. Bickel"
+          },
+          {
+            "authorId": "1751348",
+            "name": "T. Scheffer"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "9eda0fc7342d5fa7fef93ffa97d5472f1443585e",
+        "externalIds": {
+          "MAG": "2117533361",
+          "DBLP": "conf/nips/ChechikGTW03",
+          "CorpusId": 7774791
+        },
+        "url": "https://www.semanticscholar.org/paper/9eda0fc7342d5fa7fef93ffa97d5472f1443585e",
+        "title": "Information Bottleneck for Gaussian Variables",
+        "venue": "Journal of machine learning research",
+        "year": 2003,
+        "referenceCount": 41,
+        "citationCount": 321,
+        "authors": [
+          {
+            "authorId": "1732280",
+            "name": "Gal Chechik"
+          },
+          {
+            "authorId": "1786843",
+            "name": "A. Globerson"
+          },
+          {
+            "authorId": "1777660",
+            "name": "Naftali Tishby"
+          },
+          {
+            "authorId": "30400079",
+            "name": "Yair Weiss"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "8c8fd8d39c2a632e9fff0b060fc87346685e8470",
+        "externalIds": {
+          "MAG": "2118393783",
+          "DBLP": "conf/nips/SchultzJ03",
+          "CorpusId": 9851945
+        },
+        "url": "https://www.semanticscholar.org/paper/8c8fd8d39c2a632e9fff0b060fc87346685e8470",
+        "title": "Learning a Distance Metric from Relative Comparisons",
+        "venue": "Neural Information Processing Systems",
+        "year": 2003,
+        "referenceCount": 15,
+        "citationCount": 782,
+        "authors": [
+          {
+            "authorId": "143892581",
+            "name": "Matthew Schultz"
+          },
+          {
+            "authorId": "1680188",
+            "name": "T. Joachims"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "66a6dde6a6a20f77ce52cb2464a52777837bd81e",
+        "externalIds": {
+          "MAG": "2013029404",
+          "DBLP": "conf/sigir/XuLG03",
+          "DOI": "10.1145/860435.860485",
+          "CorpusId": 2237682
+        },
+        "url": "https://www.semanticscholar.org/paper/66a6dde6a6a20f77ce52cb2464a52777837bd81e",
+        "title": "Document clustering based on non-negative matrix factorization",
+        "venue": "Annual International ACM SIGIR Conference on Research and Development in Information Retrieval",
+        "year": 2003,
+        "referenceCount": 15,
+        "citationCount": 2143,
+        "authors": [
+          {
+            "authorId": "143836295",
+            "name": "W. Xu"
+          },
+          {
+            "authorId": "2146074322",
+            "name": "Xin Liu"
+          },
+          {
+            "authorId": "144768792",
+            "name": "Yihong Gong"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "3898f4c600cf7d27f7e3e14fca3f95f369bc75d3",
+        "externalIds": {
+          "MAG": "191923771",
+          "CorpusId": 5034909
+        },
+        "url": "https://www.semanticscholar.org/paper/3898f4c600cf7d27f7e3e14fca3f95f369bc75d3",
+        "title": "On the Regularization of Canonical Correlation Analysis",
+        "venue": "",
+        "year": 2003,
+        "referenceCount": 13,
+        "citationCount": 60,
+        "authors": [
+          {
+            "authorId": "51204489",
+            "name": "T. D. Bie"
+          },
+          {
+            "authorId": "143750713",
+            "name": "B. Moor"
+          },
+          {
+            "authorId": "66721764",
+            "name": "Kasteelpark Arenberg"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "8d4f4601940d5b13455541a643a39538bb54b6f3",
+        "externalIds": {
+          "DBLP": "journals/jmlr/BachJ02",
+          "MAG": "2124101779",
+          "DOI": "10.1109/ICASSP.2003.1202783",
+          "CorpusId": 7691428
+        },
+        "url": "https://www.semanticscholar.org/paper/8d4f4601940d5b13455541a643a39538bb54b6f3",
+        "title": "Kernel independent component analysis",
+        "venue": "IEEE International Conference on Acoustics, Speech, and Signal Processing",
+        "year": 2003,
+        "referenceCount": 56,
+        "citationCount": 1994,
+        "authors": [
+          {
+            "authorId": "144570279",
+            "name": "F. Bach"
+          },
+          {
+            "authorId": "1694621",
+            "name": "Michael I. Jordan"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "5f619c286efec9931ac0f52d62bc149c62cdbf6e",
+        "externalIds": {
+          "MAG": "1620759536",
+          "DBLP": "conf/eccv/ShentalHWP02",
+          "DOI": "10.1007/3-540-47979-1_52",
+          "CorpusId": 15514193
+        },
+        "url": "https://www.semanticscholar.org/paper/5f619c286efec9931ac0f52d62bc149c62cdbf6e",
+        "title": "Adjustment Learning and Relevant Component Analysis",
+        "venue": "European Conference on Computer Vision",
+        "year": 2002,
+        "referenceCount": 11,
+        "citationCount": 275,
+        "authors": [
+          {
+            "authorId": "1787804",
+            "name": "N. Shental"
+          },
+          {
+            "authorId": "1774536",
+            "name": "T. Hertz"
+          },
+          {
+            "authorId": "1789171",
+            "name": "D. Weinshall"
+          },
+          {
+            "authorId": "1800603",
+            "name": "M. Pavel"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "05357314fe2da7c2248b03d89b7ab9e358cbf01e",
+        "externalIds": {
+          "DBLP": "books/lib/ScholkopfS02",
+          "MAG": "3023786531",
+          "DOI": "10.7551/mitpress/4175.001.0001",
+          "CorpusId": 52872213
+        },
+        "url": "https://www.semanticscholar.org/paper/05357314fe2da7c2248b03d89b7ab9e358cbf01e",
+        "title": "Learning with Kernels: support vector machines, regularization, optimization, and beyond",
+        "venue": "Adaptive computation and machine learning series",
+        "year": 2001,
+        "referenceCount": 85,
+        "citationCount": 5317,
+        "authors": [
+          {
+            "authorId": "1707625",
+            "name": "B. Scholkopf"
+          },
+          {
+            "authorId": "46234526",
+            "name": "Alex Smola"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "fbc913faf39b1e369dfcdcfefb354d846a46573c",
+        "externalIds": {
+          "MAG": "1560724230",
+          "DOI": "10.1198/jasa.2003.s269",
+          "CorpusId": 219598966
+        },
+        "url": "https://www.semanticscholar.org/paper/fbc913faf39b1e369dfcdcfefb354d846a46573c",
+        "title": "Learning With Kernels: Support Vector Machines, Regularization, Optimization, and Beyond",
+        "venue": "",
+        "year": 2001,
+        "referenceCount": 0,
+        "citationCount": 1454,
+        "authors": [
+          {
+            "authorId": "2285968829",
+            "name": "Christopher K. I. Williams"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "260e6ff494c26202bcd2929de40cf7d1c732b4f9",
+        "externalIds": {
+          "MAG": "1484147505",
+          "DBLP": "conf/icann/MelzerRB01",
+          "DOI": "10.1007/3-540-44668-0_50",
+          "CorpusId": 33570889
+        },
+        "url": "https://www.semanticscholar.org/paper/260e6ff494c26202bcd2929de40cf7d1c732b4f9",
+        "title": "Nonlinear Feature Extraction Using Generalized Canonical Correlation Analysis",
+        "venue": "International Conference on Artificial Neural Networks",
+        "year": 2001,
+        "referenceCount": 11,
+        "citationCount": 106,
+        "authors": [
+          {
+            "authorId": "143842629",
+            "name": "T. Melzer"
+          },
+          {
+            "authorId": "2060020641",
+            "name": "M. Reiter"
+          },
+          {
+            "authorId": "144746444",
+            "name": "H. Bischof"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "c02dfd94b11933093c797c362e2f8f6a3b9b8012",
+        "externalIds": {
+          "MAG": "2165874743",
+          "DBLP": "conf/nips/NgJW01",
+          "CorpusId": 18764978
+        },
+        "url": "https://www.semanticscholar.org/paper/c02dfd94b11933093c797c362e2f8f6a3b9b8012",
+        "title": "On Spectral Clustering: Analysis and an algorithm",
+        "venue": "Neural Information Processing Systems",
+        "year": 2001,
+        "referenceCount": 12,
+        "citationCount": 10662,
+        "authors": [
+          {
+            "authorId": "34699434",
+            "name": "A. Ng"
+          },
+          {
+            "authorId": "1694621",
+            "name": "Michael I. Jordan"
+          },
+          {
+            "authorId": "30400079",
+            "name": "Yair Weiss"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "f0a3e1752e1146da927adc24ae07144ab2e744ec",
+        "externalIds": {
+          "MAG": "2053186076",
+          "DOI": "10.1126/SCIENCE.290.5500.2323",
+          "CorpusId": 5987139,
+          "PubMed": "11125150"
+        },
+        "url": "https://www.semanticscholar.org/paper/f0a3e1752e1146da927adc24ae07144ab2e744ec",
+        "title": "Nonlinear dimensionality reduction by locally linear embedding.",
+        "venue": "Science",
+        "year": 2000,
+        "referenceCount": 38,
+        "citationCount": 15936,
+        "authors": [
+          {
+            "authorId": "9330607",
+            "name": "S. Roweis"
+          },
+          {
+            "authorId": "1796044",
+            "name": "L. Saul"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "2ce5ed20ab67209cbaa4205a56e0dcd2f2a823e4",
+        "externalIds": {
+          "MAG": "2055513867",
+          "DBLP": "journals/nn/Hsieh00",
+          "DOI": "10.1016/S0893-6080(00)00067-8",
+          "CorpusId": 5740053,
+          "PubMed": "11156190"
+        },
+        "url": "https://www.semanticscholar.org/paper/2ce5ed20ab67209cbaa4205a56e0dcd2f2a823e4",
+        "title": "Nonlinear canonical correlation analysis by neural networks",
+        "venue": "Neural Networks",
+        "year": 2000,
+        "referenceCount": 13,
+        "citationCount": 141,
+        "authors": [
+          {
+            "authorId": "2239231317",
+            "name": "W. W. Hsieh"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "bc46fe9f9e1378e2248b56561c3b018a42d9da8d",
+        "externalIds": {
+          "MAG": "2400898759",
+          "DBLP": "conf/ijcnn/LaiF00",
+          "DOI": "10.1109/IJCNN.2000.10005",
+          "CorpusId": 19536953,
+          "PubMed": "11195936"
+        },
+        "url": "https://www.semanticscholar.org/paper/bc46fe9f9e1378e2248b56561c3b018a42d9da8d",
+        "title": "Kernel and Nonlinear Canonical Correlation Analysis",
+        "venue": "IEEE International Joint Conference on Neural Network",
+        "year": 2000,
+        "referenceCount": 9,
+        "citationCount": 537,
+        "authors": [
+          {
+            "authorId": "9370258",
+            "name": "P. L. Lai"
+          },
+          {
+            "authorId": "1742997",
+            "name": "C. Fyfe"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "5e9082caea65c76bfd23b8763872804473ee7872",
+        "externalIds": {
+          "MAG": "2165712214",
+          "DBLP": "conf/icassp/HermanskyES00",
+          "DOI": "10.1109/ICASSP.2000.862024",
+          "CorpusId": 5807992
+        },
+        "url": "https://www.semanticscholar.org/paper/5e9082caea65c76bfd23b8763872804473ee7872",
+        "title": "Tandem connectionist feature extraction for conventional HMM systems",
+        "venue": "2000 IEEE International Conference on Acoustics, Speech, and Signal Processing. Proceedings (Cat. No.00CH37100)",
+        "year": 2000,
+        "referenceCount": 14,
+        "citationCount": 833,
+        "authors": [
+          {
+            "authorId": "1738798",
+            "name": "H. Hermansky"
+          },
+          {
+            "authorId": "1745455",
+            "name": "D. Ellis"
+          },
+          {
+            "authorId": "2109947002",
+            "name": "Sangita Sharma"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "4ef483f819e11873822416042a4b6dc4652e010c",
+        "externalIds": {
+          "MAG": "1686946872",
+          "ArXiv": "physics/0004057",
+          "DBLP": "journals/corr/physics-0004057",
+          "CorpusId": 8936496
+        },
+        "url": "https://www.semanticscholar.org/paper/4ef483f819e11873822416042a4b6dc4652e010c",
+        "title": "The information bottleneck method",
+        "venue": "arXiv.org",
+        "year": 2000,
+        "referenceCount": 8,
+        "citationCount": 4273,
+        "authors": [
+          {
+            "authorId": "1777660",
+            "name": "Naftali Tishby"
+          },
+          {
+            "authorId": "145366908",
+            "name": "Fernando C Pereira"
+          },
+          {
+            "authorId": "1762240",
+            "name": "W. Bialek"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "e3c40278e4990a4bfd241d6266758d8677be3f57",
+        "externalIds": {
+          "MAG": "2049252044",
+          "DBLP": "journals/nn/LaiF99",
+          "DOI": "10.1016/S0893-6080(99)00075-1",
+          "CorpusId": 10223494,
+          "PubMed": "12662622"
+        },
+        "url": "https://www.semanticscholar.org/paper/e3c40278e4990a4bfd241d6266758d8677be3f57",
+        "title": "A neural implementation of canonical correlation analysis",
+        "venue": "Neural Networks",
+        "year": 1999,
+        "referenceCount": 10,
+        "citationCount": 107,
+        "authors": [
+          {
+            "authorId": "9370258",
+            "name": "P. L. Lai"
+          },
+          {
+            "authorId": "1742997",
+            "name": "C. Fyfe"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "2e9d221c206e9503ceb452302d68d10e293f2a10",
+        "externalIds": {
+          "DBLP": "journals/neco/HochreiterS97",
+          "MAG": "2064675550",
+          "DOI": "10.1162/neco.1997.9.8.1735",
+          "CorpusId": 1915014,
+          "PubMed": "9377276"
+        },
+        "url": "https://www.semanticscholar.org/paper/2e9d221c206e9503ceb452302d68d10e293f2a10",
+        "title": "Long Short-Term Memory",
+        "venue": "Neural Computation",
+        "year": 1997,
+        "referenceCount": 48,
+        "citationCount": 103522,
+        "authors": [
+          {
+            "authorId": "3308557",
+            "name": "Sepp Hochreiter"
+          },
+          {
+            "authorId": "145341374",
+            "name": "J. Schmidhuber"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "9cdcedf059c0f810c45a638d0661e9eb075ebc22",
+        "externalIds": {
+          "MAG": "232947931",
+          "CorpusId": 60101507
+        },
+        "url": "https://www.semanticscholar.org/paper/9cdcedf059c0f810c45a638d0661e9eb075ebc22",
+        "title": "Linear Algebra for Signal Processing.",
+        "venue": "",
+        "year": 1993,
+        "referenceCount": 0,
+        "citationCount": 14,
+        "authors": [
+          {
+            "authorId": "145681070",
+            "name": "A. Friedman"
+          },
+          {
+            "authorId": "78769965",
+            "name": "W. Miller"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "228ee64f1bd79cc1bffa136ae6583031ba997b19",
+        "externalIds": {
+          "MAG": "1664345024",
+          "DOI": "10.1007/978-1-4612-4228-4_3",
+          "CorpusId": 44066054
+        },
+        "url": "https://www.semanticscholar.org/paper/228ee64f1bd79cc1bffa136ae6583031ba997b19",
+        "title": "The canonical correlations of matrix pairs and their numerical computation",
+        "venue": "",
+        "year": 1992,
+        "referenceCount": 16,
+        "citationCount": 130,
+        "authors": [
+          {
+            "authorId": "1712211",
+            "name": "G. Golub"
+          },
+          {
+            "authorId": "113146494",
+            "name": "Hongyuan Z ha"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "2c85b7fe70dda0adbbd7630e2a341a904c74fbd2",
+        "externalIds": {
+          "MAG": "2063971957",
+          "DOI": "10.1038/355161A0",
+          "CorpusId": 4332326,
+          "PubMed": "1729650"
+        },
+        "url": "https://www.semanticscholar.org/paper/2c85b7fe70dda0adbbd7630e2a341a904c74fbd2",
+        "title": "Self-organizing neural network that discovers surfaces in random-dot stereograms",
+        "venue": "Nature",
+        "year": 1992,
+        "referenceCount": 2,
+        "citationCount": 552,
+        "authors": [
+          {
+            "authorId": "50333420",
+            "name": "S. Becker"
+          },
+          {
+            "authorId": "1695689",
+            "name": "Geoffrey E. Hinton"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "761593973b2f86863fbfa8370d06083986f921f0",
+        "externalIds": {
+          "MAG": "2016538560",
+          "DOI": "10.1121/1.2029064",
+          "CorpusId": 121260171
+        },
+        "url": "https://www.semanticscholar.org/paper/761593973b2f86863fbfa8370d06083986f921f0",
+        "title": "X‐ray microbeam speech production database",
+        "venue": "",
+        "year": 1990,
+        "referenceCount": 0,
+        "citationCount": 369,
+        "authors": [
+          {
+            "authorId": "33731715",
+            "name": "J. Westbury"
+          },
+          {
+            "authorId": "47641812",
+            "name": "P. Milenkovic"
+          },
+          {
+            "authorId": "3461646",
+            "name": "G. Weismer"
+          },
+          {
+            "authorId": "2352997",
+            "name": "Raymond D. Kent"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "668087f0ae7ce1de6e0bd0965dbb480c08103260",
+        "externalIds": {
+          "MAG": "2110485445",
+          "DBLP": "journals/cogsci/Elman90",
+          "DOI": "10.1207/S15516709COG1402_1",
+          "CorpusId": 2763403
+        },
+        "url": "https://www.semanticscholar.org/paper/668087f0ae7ce1de6e0bd0965dbb480c08103260",
+        "title": "Finding Structure in Time",
+        "venue": "Cognitive Sciences",
+        "year": 1990,
+        "referenceCount": 59,
+        "citationCount": 12711,
+        "authors": [
+          {
+            "authorId": "2884373",
+            "name": "J. Elman"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "45db76270416a42517a21c63a77e9c4260fa979a",
+        "externalIds": {
+          "MAG": "2025341678",
+          "DOI": "10.1007/978-1-4612-4380-9_14",
+          "CorpusId": 122166830
+        },
+        "url": "https://www.semanticscholar.org/paper/45db76270416a42517a21c63a77e9c4260fa979a",
+        "title": "Relations Between Two Sets of Variates",
+        "venue": "",
+        "year": 1936,
+        "referenceCount": 0,
+        "citationCount": 6802,
+        "authors": [
+          {
+            "authorId": "47652868",
+            "name": "H. Hotelling"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "4f8d648c52edf74e41b0996128aa536e13cc7e82",
+        "externalIds": {
+          "DBLP": "journals/ijsc/HaoZM16",
+          "DOI": "10.1142/S1793351X16500045",
+          "CorpusId": 1779661
+        },
+        "url": "https://www.semanticscholar.org/paper/4f8d648c52edf74e41b0996128aa536e13cc7e82",
+        "title": "Deep Learning",
+        "venue": "International Journal of Semantic Computing",
+        "year": 2016,
+        "referenceCount": 2,
+        "citationCount": 74296,
+        "authors": [
+          {
+            "authorId": "2343609447",
+            "name": "Xingbang Hao"
+          },
+          {
+            "authorId": "8273966",
+            "name": "Guigang Zhang"
+          },
+          {
+            "authorId": "2118869556",
+            "name": "Shang Ma"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "389ab0215cfd94b73040a5f2d5c84b10162f4567",
+        "externalIds": {
+          "ACL": "N15-1028",
+          "MAG": "2295584157",
+          "DBLP": "conf/naacl/LuWBGL15",
+          "DOI": "10.3115/v1/N15-1028",
+          "CorpusId": 874413
+        },
+        "url": "https://www.semanticscholar.org/paper/389ab0215cfd94b73040a5f2d5c84b10162f4567",
+        "title": "Deep Multilingual Correlation for Improved Word Embeddings",
+        "venue": "North American Chapter of the Association for Computational Linguistics",
+        "year": 2015,
+        "referenceCount": 52,
+        "citationCount": 134,
+        "authors": [
+          {
+            "authorId": "2055010814",
+            "name": "Ang Lu"
+          },
+          {
+            "authorId": "1702290",
+            "name": "Weiran Wang"
+          },
+          {
+            "authorId": "143977268",
+            "name": "Mohit Bansal"
+          },
+          {
+            "authorId": "1700980",
+            "name": "Kevin Gimpel"
+          },
+          {
+            "authorId": "2924113",
+            "name": "Karen Livescu"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "ea67efe9866b245ea2b0bbb526239fbd7070f635",
+        "externalIds": {
+          "MAG": "142212369",
+          "DOI": "10.1007/978-3-642-39314-3_1",
+          "CorpusId": 262553219
+        },
+        "url": "https://www.semanticscholar.org/paper/ea67efe9866b245ea2b0bbb526239fbd7070f635",
+        "title": "An Introduction to Information Retrieval",
+        "venue": "",
+        "year": 2013,
+        "referenceCount": 11,
+        "citationCount": 13112,
+        "authors": [
+          {
+            "authorId": "144161686",
+            "name": "S. Ceri"
+          },
+          {
+            "authorId": "1710630",
+            "name": "A. Bozzon"
+          },
+          {
+            "authorId": "40350773",
+            "name": "Marco Brambilla"
+          },
+          {
+            "authorId": "2539248",
+            "name": "Emanuele Della Valle"
+          },
+          {
+            "authorId": "1704595",
+            "name": "P. Fraternali"
+          },
+          {
+            "authorId": "1794305",
+            "name": "S. Quarteroni"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "23a99224c7b7d148675c1798c796ec1b0904620a",
+        "externalIds": {
+          "MAG": "2138204974",
+          "DBLP": "journals/jmlr/GutmannH12",
+          "DOI": "10.5555/2503308.2188396",
+          "CorpusId": 11583904
+        },
+        "url": "https://www.semanticscholar.org/paper/23a99224c7b7d148675c1798c796ec1b0904620a",
+        "title": "Noise-Contrastive Estimation of Unnormalized Statistical Models, with Applications to Natural Image Statistics",
+        "venue": "Journal of machine learning research",
+        "year": 2012,
+        "referenceCount": 33,
+        "citationCount": 872,
+        "authors": [
+          {
+            "authorId": "145992652",
+            "name": "Michael U Gutmann"
+          },
+          {
+            "authorId": "1791548",
+            "name": "Aapo Hyvärinen"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "5d032cb993d5eafea73be85ee6db13d30f8d35ef",
+        "externalIds": {
+          "MAG": "2405732242",
+          "DBLP": "conf/mlslp/AroraL12",
+          "CorpusId": 1580352
+        },
+        "url": "https://www.semanticscholar.org/paper/5d032cb993d5eafea73be85ee6db13d30f8d35ef",
+        "title": "Kernel CCA for multi-view learning of acoustic features using articulatory measurements",
+        "venue": "Symposium on Machine Learning in Speech and Language Processing",
+        "year": 2012,
+        "referenceCount": 19,
+        "citationCount": 83,
+        "authors": [
+          {
+            "authorId": "144365054",
+            "name": "R. Arora"
+          },
+          {
+            "authorId": "2924113",
+            "name": "Karen Livescu"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "Code available at http",
+        "venue": "Code available at http",
+        "year": 2012,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "Partial-Hessian strategies for fast learning of nonlinear embeddings",
+        "venue": "Proc. of the 29th Int. Conf. Machine Learning (ICML 2012)",
+        "year": 2012,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "1c46943103bd7b7a2c7be86859995a4144d1938b",
+        "externalIds": {
+          "MAG": "2187089797",
+          "CorpusId": 5855042
+        },
+        "url": "https://www.semanticscholar.org/paper/1c46943103bd7b7a2c7be86859995a4144d1938b",
+        "title": "Visualizing Data using t-SNE",
+        "venue": "",
+        "year": 2008,
+        "referenceCount": 41,
+        "citationCount": 48577,
+        "authors": [
+          {
+            "authorId": "1803520",
+            "name": "L. Maaten"
+          },
+          {
+            "authorId": "1695689",
+            "name": "Geoffrey E. Hinton"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "4696e97ee32e0e47656973f554be4b5661715943",
+        "externalIds": {
+          "CorpusId": 15601387
+        },
+        "url": "https://www.semanticscholar.org/paper/4696e97ee32e0e47656973f554be4b5661715943",
+        "title": "Multi-View Dimensionality Reduction via Canonical Correlation Analysis",
+        "venue": "",
+        "year": 2008,
+        "referenceCount": 16,
+        "citationCount": 66,
+        "authors": [
+          {
+            "authorId": "145346319",
+            "name": "Dean Phillips Foster"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "7c59908c946a4157abc030cdbe2b63d08ba97db3",
+        "externalIds": {
+          "MAG": "2338600138",
+          "CorpusId": 262637400
+        },
+        "url": "https://www.semanticscholar.org/paper/7c59908c946a4157abc030cdbe2b63d08ba97db3",
+        "title": "Supporting Online Material for Reducing the Dimensionality of Data with Neural Networks",
+        "venue": "",
+        "year": 2006,
+        "referenceCount": 9,
+        "citationCount": 11851,
+        "authors": [
+          {
+            "authorId": "1695689",
+            "name": "Geoffrey E. Hinton"
+          },
+          {
+            "authorId": "145124475",
+            "name": "R. Salakhutdinov"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "8c8233a4560d00111b5436fd5d0c56a90e061708",
+        "externalIds": {
+          "MAG": "2125290066",
+          "CorpusId": 17380611
+        },
+        "url": "https://www.semanticscholar.org/paper/8c8233a4560d00111b5436fd5d0c56a90e061708",
+        "title": "A Probabilistic Interpretation of Canonical Correlation Analysis",
+        "venue": "",
+        "year": 2005,
+        "referenceCount": 8,
+        "citationCount": 531,
+        "authors": [
+          {
+            "authorId": "144570279",
+            "name": "F. Bach"
+          },
+          {
+            "authorId": "1694621",
+            "name": "Michael I. Jordan"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "55aa04b726ab68e23ec45602ac66e00336c242c8",
+        "externalIds": {
+          "MAG": "1719605830",
+          "CorpusId": 14679447
+        },
+        "url": "https://www.semanticscholar.org/paper/55aa04b726ab68e23ec45602ac66e00336c242c8",
+        "title": "Distance metric learning with kernels",
+        "venue": "",
+        "year": 2003,
+        "referenceCount": 15,
+        "citationCount": 89,
+        "authors": [
+          {
+            "authorId": "1807998",
+            "name": "I. Tsang"
+          },
+          {
+            "authorId": "145193332",
+            "name": "J. Kwok"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "18b8a90cd3668c826a10e01b2a9c680469ff28de",
+        "externalIds": {
+          "DBLP": "conf/nips/VinokourovSC02",
+          "MAG": "2125972593",
+          "CorpusId": 761978
+        },
+        "url": "https://www.semanticscholar.org/paper/18b8a90cd3668c826a10e01b2a9c680469ff28de",
+        "title": "Inferring a Semantic Representation of Text via Cross-Language Correlation Analysis",
+        "venue": "Neural Information Processing Systems",
+        "year": 2002,
+        "referenceCount": 11,
+        "citationCount": 302,
+        "authors": [
+          {
+            "authorId": "2916561",
+            "name": "Alexei Vinokourov"
+          },
+          {
+            "authorId": "1404459229",
+            "name": "J. Shawe-Taylor"
+          },
+          {
+            "authorId": "1685083",
+            "name": "N. Cristianini"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "d1a2d203733208deda7427c8e20318334193d9d7",
+        "externalIds": {
+          "MAG": "2117154949",
+          "DBLP": "conf/nips/XingNJR02",
+          "CorpusId": 2643381
+        },
+        "url": "https://www.semanticscholar.org/paper/d1a2d203733208deda7427c8e20318334193d9d7",
+        "title": "Distance Metric Learning with Application to Clustering with Side-Information",
+        "venue": "Neural Information Processing Systems",
+        "year": 2002,
+        "referenceCount": 12,
+        "citationCount": 3341,
+        "authors": [
+          {
+            "authorId": "143977260",
+            "name": "E. Xing"
+          },
+          {
+            "authorId": "34699434",
+            "name": "A. Ng"
+          },
+          {
+            "authorId": "1694621",
+            "name": "Michael I. Jordan"
+          },
+          {
+            "authorId": "145107462",
+            "name": "Stuart J. Russell"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "Canonical correlation: A tutorial Available at http",
+        "venue": "Canonical correlation: A tutorial Available at http",
+        "year": 2001,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "b6fff8b8ea77f157913986e7af53951d9fc1128e",
+        "externalIds": {
+          "DBLP": "conf/nips/WilliamsS00",
+          "MAG": "2112545207",
+          "CorpusId": 42041158
+        },
+        "url": "https://www.semanticscholar.org/paper/b6fff8b8ea77f157913986e7af53951d9fc1128e",
+        "title": "Using the Nyström Method to Speed Up Kernel Machines",
+        "venue": "Neural Information Processing Systems",
+        "year": 2000,
+        "referenceCount": 8,
+        "citationCount": 2693,
+        "authors": [
+          {
+            "authorId": "145715698",
+            "name": "Christopher K. I. Williams"
+          },
+          {
+            "authorId": "1680574",
+            "name": "M. Seeger"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "162d958ff885f1462aeda91cd72582323fd6a1f4",
+        "externalIds": {
+          "MAG": "2112796928",
+          "DBLP": "journals/pieee/LeCunBBH98",
+          "DOI": "10.1109/5.726791",
+          "CorpusId": 14542261
+        },
+        "url": "https://www.semanticscholar.org/paper/162d958ff885f1462aeda91cd72582323fd6a1f4",
+        "title": "Gradient-based learning applied to document recognition",
+        "venue": "Proceedings of the IEEE",
+        "year": 1998,
+        "referenceCount": 150,
+        "citationCount": 60063,
+        "authors": [
+          {
+            "authorId": "1688882",
+            "name": "Yann LeCun"
+          },
+          {
+            "authorId": "52184096",
+            "name": "L. Bottou"
+          },
+          {
+            "authorId": "1751762",
+            "name": "Yoshua Bengio"
+          },
+          {
+            "authorId": "1721248",
+            "name": "P. Haffner"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "848c717ba51e48afef714dfef4bd6ab1cc050dab",
+        "externalIds": {
+          "CorpusId": 15996572
+        },
+        "url": "https://www.semanticscholar.org/paper/848c717ba51e48afef714dfef4bd6ab1cc050dab",
+        "title": "ALGORITHMS FOR THE ASSIGNMENT AND TRANSIORTATION tROBLEMS*",
+        "venue": "",
+        "year": 1957,
+        "referenceCount": 1,
+        "citationCount": 3387,
+        "authors": [
+          {
+            "authorId": "69393819",
+            "name": "J. Munkres"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "Deep Multi-View Representation Learning",
+        "venue": "",
+        "year": null,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    }
+  ]
+}

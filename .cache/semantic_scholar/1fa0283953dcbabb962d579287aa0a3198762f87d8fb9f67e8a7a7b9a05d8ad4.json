@@ -1,0 +1,88 @@
+{
+  "total": 2,
+  "offset": 0,
+  "data": [
+    {
+      "paperId": "97c01b6cef7d7d88ec7eda488bfdc46fd601e76a",
+      "externalIds": {
+        "DBLP": "conf/icml/EngelRRDNES17",
+        "ArXiv": "1704.01279",
+        "MAG": "2606176153",
+        "CorpusId": 3697399
+      },
+      "url": "https://www.semanticscholar.org/paper/97c01b6cef7d7d88ec7eda488bfdc46fd601e76a",
+      "title": "Neural Audio Synthesis of Musical Notes with WaveNet Autoencoders",
+      "venue": "International Conference on Machine Learning",
+      "year": 2017,
+      "referenceCount": 37,
+      "citationCount": 750,
+      "authors": [
+        {
+          "authorId": "9695761",
+          "name": "Jesse Engel"
+        },
+        {
+          "authorId": "47267576",
+          "name": "Cinjon Resnick"
+        },
+        {
+          "authorId": "2070857331",
+          "name": "Adam Roberts"
+        },
+        {
+          "authorId": "48373216",
+          "name": "S. Dieleman"
+        },
+        {
+          "authorId": "144739074",
+          "name": "Mohammad Norouzi"
+        },
+        {
+          "authorId": "2396681",
+          "name": "D. Eck"
+        },
+        {
+          "authorId": "34838386",
+          "name": "K. Simonyan"
+        }
+      ]
+    },
+    {
+      "paperId": "889aa0021991008ae01aaadd9d3b51c5a26dd1a2",
+      "externalIds": {
+        "MAG": "2890043615",
+        "DBLP": "conf/nips/DefossezZUBB18",
+        "ArXiv": "1810.09785",
+        "CorpusId": 53038330
+      },
+      "url": "https://www.semanticscholar.org/paper/889aa0021991008ae01aaadd9d3b51c5a26dd1a2",
+      "title": "SING: Symbol-to-Instrument Neural Generator",
+      "venue": "Neural Information Processing Systems",
+      "year": 2018,
+      "referenceCount": 28,
+      "citationCount": 62,
+      "authors": [
+        {
+          "authorId": "119127240",
+          "name": "Alexandre Défossez"
+        },
+        {
+          "authorId": "3404556",
+          "name": "Neil Zeghidour"
+        },
+        {
+          "authorId": "1746841",
+          "name": "Nicolas Usunier"
+        },
+        {
+          "authorId": "52184096",
+          "name": "L. Bottou"
+        },
+        {
+          "authorId": "144570279",
+          "name": "F. Bach"
+        }
+      ]
+    }
+  ]
+}

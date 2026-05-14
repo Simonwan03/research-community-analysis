@@ -1,0 +1,719 @@
+{
+  "offset": 0,
+  "citingPaperInfo": {
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/1502.01176, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "title": "Learning Local Invariant Mahalanobis Distances",
+    "authors": [
+      {
+        "authorId": "2645055",
+        "name": "Ethan Fetaya"
+      },
+      {
+        "authorId": "1743045",
+        "name": "S. Ullman"
+      }
+    ]
+  },
+  "data": [
+    {
+      "citedPaper": {
+        "paperId": "263808c77c6c5cf4925bc9b3912c7deebbc24503",
+        "externalIds": {
+          "DBLP": "conf/icml/LimL14",
+          "MAG": "2130359109",
+          "CorpusId": 239018
+        },
+        "url": "https://www.semanticscholar.org/paper/263808c77c6c5cf4925bc9b3912c7deebbc24503",
+        "title": "Efficient Learning of Mahalanobis Metrics for Ranking",
+        "venue": "International Conference on Machine Learning",
+        "year": 2014,
+        "referenceCount": 26,
+        "citationCount": 57,
+        "authors": [
+          {
+            "authorId": "2068999146",
+            "name": "Daryl Lim"
+          },
+          {
+            "authorId": "1725533",
+            "name": "Gert R. G. Lanckriet"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "bf18fc550a57343421fbaa95cffbf65403611fa6",
+        "externalIds": {
+          "DBLP": "journals/jota/ODonoghueCPB16",
+          "MAG": "2288174618",
+          "DOI": "10.1007/s10957-016-0892-3",
+          "CorpusId": 8996428
+        },
+        "url": "https://www.semanticscholar.org/paper/bf18fc550a57343421fbaa95cffbf65403611fa6",
+        "title": "Conic Optimization via Operator Splitting and Homogeneous Self-Dual Embedding",
+        "venue": "Journal of Optimization Theory and Applications",
+        "year": 2013,
+        "referenceCount": 117,
+        "citationCount": 815,
+        "authors": [
+          {
+            "authorId": "1389654226",
+            "name": "Brendan O'Donoghue"
+          },
+          {
+            "authorId": "1737474",
+            "name": "E. Chu"
+          },
+          {
+            "authorId": "46822591",
+            "name": "Neal Parikh"
+          },
+          {
+            "authorId": "1843103",
+            "name": "Stephen P. Boyd"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "65ac13eb3c49f252a14faa704f04625ede5ff3e3",
+        "externalIds": {
+          "ArXiv": "1312.3039",
+          "MAG": "2970302411",
+          "CorpusId": 125836240
+        },
+        "url": "https://www.semanticscholar.org/paper/65ac13eb3c49f252a14faa704f04625ede5ff3e3",
+        "title": "Operator Splitting for Conic Optimization via Homogeneous Self-Dual Embedding",
+        "venue": "",
+        "year": 2013,
+        "referenceCount": 39,
+        "citationCount": 52,
+        "authors": [
+          {
+            "authorId": "1389654226",
+            "name": "Brendan O'Donoghue"
+          },
+          {
+            "authorId": "1737474",
+            "name": "E. Chu"
+          },
+          {
+            "authorId": "46822591",
+            "name": "Neal Parikh"
+          },
+          {
+            "authorId": "1843103",
+            "name": "Stephen P. Boyd"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "6f0cde3fcab0044f386b5b8a4244c371507bec15",
+        "externalIds": {
+          "MAG": "1898424075",
+          "DBLP": "journals/corr/BelletHS13",
+          "ArXiv": "1306.6709",
+          "CorpusId": 168956
+        },
+        "url": "https://www.semanticscholar.org/paper/6f0cde3fcab0044f386b5b8a4244c371507bec15",
+        "title": "A Survey on Metric Learning for Feature Vectors and Structured Data",
+        "venue": "arXiv.org",
+        "year": 2013,
+        "referenceCount": 214,
+        "citationCount": 708,
+        "authors": [
+          {
+            "authorId": "1702915",
+            "name": "A. Bellet"
+          },
+          {
+            "authorId": "1749327",
+            "name": "Amaury Habrard"
+          },
+          {
+            "authorId": "1738336",
+            "name": "M. Sebban"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "19574bf5190277a4957c738d69406cfc8e1b9d8b",
+        "externalIds": {
+          "DBLP": "conf/icml/CotterSS13",
+          "MAG": "2134507744",
+          "CorpusId": 2439454
+        },
+        "url": "https://www.semanticscholar.org/paper/19574bf5190277a4957c738d69406cfc8e1b9d8b",
+        "title": "Learning Optimally Sparse Support Vector Machines",
+        "venue": "International Conference on Machine Learning",
+        "year": 2013,
+        "referenceCount": 25,
+        "citationCount": 46,
+        "authors": [
+          {
+            "authorId": "145658292",
+            "name": "Andrew Cotter"
+          },
+          {
+            "authorId": "1389955537",
+            "name": "S. Shalev-Shwartz"
+          },
+          {
+            "authorId": "1706280",
+            "name": "N. Srebro"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "fc8ed6612230114c2cdd5c9351b4c2555c15eb77",
+        "externalIds": {
+          "MAG": "2140376886",
+          "DBLP": "conf/nips/KedemTWSL12",
+          "CorpusId": 262323
+        },
+        "url": "https://www.semanticscholar.org/paper/fc8ed6612230114c2cdd5c9351b4c2555c15eb77",
+        "title": "Non-linear Metric Learning",
+        "venue": "Neural Information Processing Systems",
+        "year": 2012,
+        "referenceCount": 33,
+        "citationCount": 206,
+        "authors": [
+          {
+            "authorId": "3038033",
+            "name": "Dor Kedem"
+          },
+          {
+            "authorId": "2342481",
+            "name": "Stephen Tyree"
+          },
+          {
+            "authorId": "7446832",
+            "name": "Kilian Q. Weinberger"
+          },
+          {
+            "authorId": "145757665",
+            "name": "Fei Sha"
+          },
+          {
+            "authorId": "1725533",
+            "name": "Gert R. G. Lanckriet"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "76fdf16bcc2cb260b9e6b2880c8fe128533bc2c6",
+        "externalIds": {
+          "DBLP": "conf/nips/HuangMLL12",
+          "MAG": "2157558673",
+          "CorpusId": 2226763
+        },
+        "url": "https://www.semanticscholar.org/paper/76fdf16bcc2cb260b9e6b2880c8fe128533bc2c6",
+        "title": "Learning to Align from Scratch",
+        "venue": "Neural Information Processing Systems",
+        "year": 2012,
+        "referenceCount": 44,
+        "citationCount": 355,
+        "authors": [
+          {
+            "authorId": "3219900",
+            "name": "Gary B. Huang"
+          },
+          {
+            "authorId": "2985062",
+            "name": "Marwan A. Mattar"
+          },
+          {
+            "authorId": "1697141",
+            "name": "Honglak Lee"
+          },
+          {
+            "authorId": "1389846455",
+            "name": "E. Learned-Miller"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "575279137b432376375de797c28b7fd99fe1aabb",
+        "externalIds": {
+          "MAG": "2950690897",
+          "DBLP": "conf/nips/WangKW12",
+          "ArXiv": "1209.3056",
+          "CorpusId": 2675059
+        },
+        "url": "https://www.semanticscholar.org/paper/575279137b432376375de797c28b7fd99fe1aabb",
+        "title": "Parametric Local Metric Learning for Nearest Neighbor Classification",
+        "venue": "Neural Information Processing Systems",
+        "year": 2012,
+        "referenceCount": 18,
+        "citationCount": 122,
+        "authors": [
+          {
+            "authorId": "40362307",
+            "name": "Jun Wang"
+          },
+          {
+            "authorId": "1784711",
+            "name": "Alexandros Kalousis"
+          },
+          {
+            "authorId": "2823007",
+            "name": "Adam Woznica"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "d124f004fed2ee15860f624005b2215cfaeff276",
+        "externalIds": {
+          "DBLP": "conf/iccv/MalisiewiczGE11",
+          "MAG": "1989684337",
+          "DOI": "10.1109/ICCV.2011.6126229",
+          "CorpusId": 14448882
+        },
+        "url": "https://www.semanticscholar.org/paper/d124f004fed2ee15860f624005b2215cfaeff276",
+        "title": "Ensemble of exemplar-SVMs for object detection and beyond",
+        "venue": "Vision",
+        "year": 2011,
+        "referenceCount": 23,
+        "citationCount": 994,
+        "authors": [
+          {
+            "authorId": "3045340",
+            "name": "Tomasz Malisiewicz"
+          },
+          {
+            "authorId": "1726095131",
+            "name": "A. Gupta"
+          },
+          {
+            "authorId": "1763086",
+            "name": "Alexei A. Efros"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "273dfbcb68080251f5e9ff38b4413d7bd84b10a1",
+        "externalIds": {
+          "MAG": "332049209",
+          "DBLP": "journals/tist/ChangL11",
+          "DOI": "10.1145/1961189.1961199",
+          "CorpusId": 961425
+        },
+        "url": "https://www.semanticscholar.org/paper/273dfbcb68080251f5e9ff38b4413d7bd84b10a1",
+        "title": "LIBSVM: A library for support vector machines",
+        "venue": "TIST",
+        "year": 2011,
+        "referenceCount": 61,
+        "citationCount": 44784,
+        "authors": [
+          {
+            "authorId": null,
+            "name": "Chih-Chung Chang"
+          },
+          {
+            "authorId": "1711460",
+            "name": "Chih-Jen Lin"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "7b362bf1dd0612b81b77b23c5e52a07d2d1c8769",
+        "externalIds": {
+          "DBLP": "journals/tomccap/HoiLC10",
+          "MAG": "1977193486",
+          "DOI": "10.1145/1823746.1823752",
+          "CorpusId": 174866
+        },
+        "url": "https://www.semanticscholar.org/paper/7b362bf1dd0612b81b77b23c5e52a07d2d1c8769",
+        "title": "Semi-supervised distance metric learning for collaborative image retrieval and clustering",
+        "venue": "ACM Trans. Multim. Comput. Commun. Appl.",
+        "year": 2010,
+        "referenceCount": 56,
+        "citationCount": 283,
+        "authors": [
+          {
+            "authorId": "1741126",
+            "name": "S. Hoi"
+          },
+          {
+            "authorId": "46641573",
+            "name": "W. Liu"
+          },
+          {
+            "authorId": "9546964",
+            "name": "Shih-Fu Chang"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "6e1cf77a796443e6b9fa703c33b069c523980871",
+        "externalIds": {
+          "DBLP": "conf/iccv/GuillauminVS09",
+          "MAG": "2109824782",
+          "DOI": "10.1109/ICCV.2009.5459197",
+          "CorpusId": 13417115
+        },
+        "url": "https://www.semanticscholar.org/paper/6e1cf77a796443e6b9fa703c33b069c523980871",
+        "title": "Is that you? Metric learning approaches for face identification",
+        "venue": "IEEE International Conference on Computer Vision",
+        "year": 2009,
+        "referenceCount": 26,
+        "citationCount": 922,
+        "authors": [
+          {
+            "authorId": "2737253",
+            "name": "M. Guillaumin"
+          },
+          {
+            "authorId": "1721683",
+            "name": "J. Verbeek"
+          },
+          {
+            "authorId": "2462253",
+            "name": "C. Schmid"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "13b3a1e7e0bd80bf38b444ce1568213ebe98d0df",
+        "externalIds": {
+          "MAG": "1532499126",
+          "DBLP": "conf/ibpria/ChechikSSB09",
+          "DOI": "10.5555/1756006.1756042",
+          "CorpusId": 2087262
+        },
+        "url": "https://www.semanticscholar.org/paper/13b3a1e7e0bd80bf38b444ce1568213ebe98d0df",
+        "title": "Large Scale Online Learning of Image Similarity Through Ranking",
+        "venue": "Journal of machine learning research",
+        "year": 2009,
+        "referenceCount": 38,
+        "citationCount": 917,
+        "authors": [
+          {
+            "authorId": "1732280",
+            "name": "Gal Chechik"
+          },
+          {
+            "authorId": "2112448321",
+            "name": "Varun Sharma"
+          },
+          {
+            "authorId": "2304764",
+            "name": "Uri Shalit"
+          },
+          {
+            "authorId": "1751569",
+            "name": "Samy Bengio"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "1aa90b3a1b1b757eabdab5207239f9c37029d85f",
+        "externalIds": {
+          "DBLP": "journals/pr/XiangNZ08",
+          "MAG": "2062112832",
+          "DOI": "10.1016/j.patcog.2008.05.018",
+          "CorpusId": 11489285
+        },
+        "url": "https://www.semanticscholar.org/paper/1aa90b3a1b1b757eabdab5207239f9c37029d85f",
+        "title": "Learning a Mahalanobis distance metric for data clustering and classification",
+        "venue": "Pattern Recognition",
+        "year": 2008,
+        "referenceCount": 73,
+        "citationCount": 619,
+        "authors": [
+          {
+            "authorId": "1683738",
+            "name": "Shiming Xiang"
+          },
+          {
+            "authorId": "144962210",
+            "name": "F. Nie"
+          },
+          {
+            "authorId": "14966740",
+            "name": "Changshui Zhang"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "b81381d17baf6750c09bd58e96f4660d25be9225",
+        "externalIds": {
+          "MAG": "2169495281",
+          "DBLP": "conf/icml/DavisKJSD07",
+          "DOI": "10.1145/1273496.1273523",
+          "CorpusId": 2261947
+        },
+        "url": "https://www.semanticscholar.org/paper/b81381d17baf6750c09bd58e96f4660d25be9225",
+        "title": "Information-theoretic metric learning",
+        "venue": "International Conference on Machine Learning",
+        "year": 2006,
+        "referenceCount": 24,
+        "citationCount": 2120,
+        "authors": [
+          {
+            "authorId": "2111090524",
+            "name": "Jason V. Davis"
+          },
+          {
+            "authorId": "1692670",
+            "name": "Brian Kulis"
+          },
+          {
+            "authorId": "48964143",
+            "name": "Prateek Jain"
+          },
+          {
+            "authorId": "3072326",
+            "name": "S. Sra"
+          },
+          {
+            "authorId": "1783667",
+            "name": "I. Dhillon"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "78947497cbbffc691aac3f590d972130259af9ce",
+        "externalIds": {
+          "MAG": "2106053110",
+          "DBLP": "conf/nips/WeinbergerBS05",
+          "DOI": "10.5555/1577069.1577078",
+          "CorpusId": 47325215
+        },
+        "url": "https://www.semanticscholar.org/paper/78947497cbbffc691aac3f590d972130259af9ce",
+        "title": "Distance Metric Learning for Large Margin Nearest Neighbor Classification",
+        "venue": "Neural Information Processing Systems",
+        "year": 2005,
+        "referenceCount": 35,
+        "citationCount": 5951,
+        "authors": [
+          {
+            "authorId": "7446832",
+            "name": "Kilian Q. Weinberger"
+          },
+          {
+            "authorId": "1796044",
+            "name": "L. Saul"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "85ca6bf1968fe41603a0c08e097220652654c04e",
+        "externalIds": {
+          "MAG": "2152010828",
+          "DBLP": "journals/jmlr/Bar-HillelHSW05",
+          "CorpusId": 8600094
+        },
+        "url": "https://www.semanticscholar.org/paper/85ca6bf1968fe41603a0c08e097220652654c04e",
+        "title": "Learning a Mahalanobis Metric from Equivalence Constraints",
+        "venue": "Journal of machine learning research",
+        "year": 2005,
+        "referenceCount": 25,
+        "citationCount": 587,
+        "authors": [
+          {
+            "authorId": "1400556488",
+            "name": "Aharon Bar-Hillel"
+          },
+          {
+            "authorId": "1774536",
+            "name": "T. Hertz"
+          },
+          {
+            "authorId": "1787804",
+            "name": "N. Shental"
+          },
+          {
+            "authorId": "1789171",
+            "name": "D. Weinshall"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "e8b12467bdc20bde976750b8a28decdb33246d1d",
+        "externalIds": {
+          "DBLP": "conf/cvpr/DalalT05",
+          "MAG": "2161969291",
+          "DOI": "10.1109/CVPR.2005.177",
+          "CorpusId": 206590483
+        },
+        "url": "https://www.semanticscholar.org/paper/e8b12467bdc20bde976750b8a28decdb33246d1d",
+        "title": "Histograms of oriented gradients for human detection",
+        "venue": "Computer Vision and Pattern Recognition",
+        "year": 2005,
+        "referenceCount": 26,
+        "citationCount": 35482,
+        "authors": [
+          {
+            "authorId": "48950628",
+            "name": "Navneet Dalal"
+          },
+          {
+            "authorId": "1756114",
+            "name": "B. Triggs"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "fe84db9e87a513b285ab32147cd901782e66616d",
+        "externalIds": {
+          "MAG": "2998762924",
+          "DBLP": "journals/datamine/Burges98",
+          "DOI": "10.1023/A:1009715923555",
+          "CorpusId": 215966761
+        },
+        "url": "https://www.semanticscholar.org/paper/fe84db9e87a513b285ab32147cd901782e66616d",
+        "title": "A Tutorial on Support Vector Machines for Pattern Recognition",
+        "venue": "Data mining and knowledge discovery",
+        "year": 1998,
+        "referenceCount": 76,
+        "citationCount": 18379,
+        "authors": [
+          {
+            "authorId": "2676309",
+            "name": "C. Burges"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "268cd46a06e8e3052bbd64e96fac73d600430281",
+        "externalIds": {
+          "MAG": "2355709631",
+          "CorpusId": 130535382
+        },
+        "url": "https://www.semanticscholar.org/paper/268cd46a06e8e3052bbd64e96fac73d600430281",
+        "title": "Distinctive Image Features from Scale-Invariant Keypoints Abstract by Matthijs Dorst Based on the paper by",
+        "venue": "",
+        "year": 2011,
+        "referenceCount": 23,
+        "citationCount": 11896,
+        "authors": [
+          {
+            "authorId": "2059876008",
+            "name": "Matthijs C. Dorst"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "c633c9a8bb41fbf23247fe26917d0848d4b58c66",
+        "externalIds": {
+          "DBLP": "conf/nips/FromeSM06",
+          "MAG": "2101098151",
+          "DOI": "10.7551/mitpress/7503.003.0057",
+          "CorpusId": 13917267
+        },
+        "url": "https://www.semanticscholar.org/paper/c633c9a8bb41fbf23247fe26917d0848d4b58c66",
+        "title": "Image Retrieval and Classification Using Local Distance Functions",
+        "venue": "Neural Information Processing Systems",
+        "year": 2006,
+        "referenceCount": 22,
+        "citationCount": 240,
+        "authors": [
+          {
+            "authorId": "2279670",
+            "name": "Andrea Frome"
+          },
+          {
+            "authorId": "1740765",
+            "name": "Y. Singer"
+          },
+          {
+            "authorId": "143751119",
+            "name": "Jitendra Malik"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "162d958ff885f1462aeda91cd72582323fd6a1f4",
+        "externalIds": {
+          "MAG": "2112796928",
+          "DBLP": "journals/pieee/LeCunBBH98",
+          "DOI": "10.1109/5.726791",
+          "CorpusId": 14542261
+        },
+        "url": "https://www.semanticscholar.org/paper/162d958ff885f1462aeda91cd72582323fd6a1f4",
+        "title": "Gradient-based learning applied to document recognition",
+        "venue": "Proceedings of the IEEE",
+        "year": 1998,
+        "referenceCount": 150,
+        "citationCount": 60063,
+        "authors": [
+          {
+            "authorId": "1688882",
+            "name": "Yann LeCun"
+          },
+          {
+            "authorId": "52184096",
+            "name": "L. Bottou"
+          },
+          {
+            "authorId": "1751762",
+            "name": "Yoshua Bengio"
+          },
+          {
+            "authorId": "1721248",
+            "name": "P. Haffner"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "Learning Local Invariant Mahalanobis Distances",
+        "venue": "Learning Local Invariant Mahalanobis Distances",
+        "year": null,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    }
+  ]
+}

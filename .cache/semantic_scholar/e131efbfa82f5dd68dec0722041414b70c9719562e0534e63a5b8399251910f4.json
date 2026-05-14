@@ -1,0 +1,278 @@
+{
+  "total": 12,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "dab9d16c1f6c7c333f2718ce69f0a182761352b3",
+      "externalIds": {
+        "MAG": "2950253609",
+        "DBLP": "journals/corr/CalandrielloLV17",
+        "ArXiv": "1706.04892",
+        "CorpusId": 11379717
+      },
+      "url": "https://www.semanticscholar.org/paper/dab9d16c1f6c7c333f2718ce69f0a182761352b3",
+      "title": "Second-Order Kernel Online Convex Optimization with Adaptive Sketching",
+      "venue": "International Conference on Machine Learning",
+      "year": 2017,
+      "referenceCount": 31,
+      "citationCount": 44,
+      "authors": [
+        {
+          "authorId": "2439765",
+          "name": "Daniele Calandriello"
+        },
+        {
+          "authorId": "3254390",
+          "name": "A. Lazaric"
+        },
+        {
+          "authorId": "1806291",
+          "name": "Michal Valko"
+        }
+      ]
+    },
+    {
+      "paperId": "bf3e7e274bd65b414d8d089543892afdec4dd0b3",
+      "externalIds": {
+        "DBLP": "conf/nips/CalandrielloLV17",
+        "MAG": "2752618134",
+        "CorpusId": 19160607
+      },
+      "url": "https://www.semanticscholar.org/paper/bf3e7e274bd65b414d8d089543892afdec4dd0b3",
+      "title": "Efficient Second-Order Online Kernel Learning with Adaptive Embedding",
+      "venue": "Neural Information Processing Systems",
+      "year": 2017,
+      "referenceCount": 26,
+      "citationCount": 33,
+      "authors": [
+        {
+          "authorId": "2439765",
+          "name": "Daniele Calandriello"
+        },
+        {
+          "authorId": "3254390",
+          "name": "A. Lazaric"
+        },
+        {
+          "authorId": "1806291",
+          "name": "Michal Valko"
+        }
+      ]
+    },
+    {
+      "paperId": "c14c741338790f99a6ac0754e556a81b6463401d",
+      "externalIds": {
+        "DBLP": "conf/icdm/YangLL21",
+        "DOI": "10.1109/ICDM51629.2021.00091",
+        "CorpusId": 246290324
+      },
+      "url": "https://www.semanticscholar.org/paper/c14c741338790f99a6ac0754e556a81b6463401d",
+      "title": "Graph-based Adversarial Online Kernel Learning with Adaptive Embedding",
+      "venue": "Industrial Conference on Data Mining",
+      "year": 2021,
+      "referenceCount": 0,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2119185448",
+          "name": "Peng Yang"
+        },
+        {
+          "authorId": "2141762434",
+          "name": "Xiaoyun Li"
+        },
+        {
+          "authorId": "144785122",
+          "name": "Ping Li"
+        }
+      ]
+    },
+    {
+      "paperId": "28927dcf5287bc3cce063beca3dfd6b9e240c0b9",
+      "externalIds": {
+        "MAG": "2901973666",
+        "DBLP": "journals/tsmc/TanG20",
+        "DOI": "10.1109/TSMC.2018.2876455",
+        "CorpusId": 126351634
+      },
+      "url": "https://www.semanticscholar.org/paper/28927dcf5287bc3cce063beca3dfd6b9e240c0b9",
+      "title": "Research Progress on Intelligent System’s Learning, Optimization, and Control—Part II: Online Sparse Kernel Adaptive Algorithm",
+      "venue": "IEEE Transactions on Systems, Man, and Cybernetics: Systems",
+      "year": 2020,
+      "referenceCount": 133,
+      "citationCount": 9,
+      "authors": [
+        {
+          "authorId": "2956136",
+          "name": "Fuxiao Tan"
+        },
+        {
+          "authorId": "145394028",
+          "name": "X. Guan"
+        }
+      ]
+    },
+    {
+      "paperId": "cbb02e9af091210126d103424c2f775f25e1b86d",
+      "externalIds": {
+        "MAG": "3037687211",
+        "DBLP": "conf/aistats/YangL20",
+        "CorpusId": 220092707
+      },
+      "url": "https://www.semanticscholar.org/paper/cbb02e9af091210126d103424c2f775f25e1b86d",
+      "title": "Adaptive Online Kernel Sampling for Vertex Classification",
+      "venue": "International Conference on Artificial Intelligence and Statistics",
+      "year": 2020,
+      "referenceCount": 37,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2119185448",
+          "name": "Peng Yang"
+        },
+        {
+          "authorId": "2420746",
+          "name": "P. Li"
+        }
+      ]
+    },
+    {
+      "paperId": "dde69c0eb38e0e12bf19032c8815f3291dcd23ea",
+      "externalIds": {
+        "DBLP": "conf/nips/FeinbergCSAH23",
+        "ArXiv": "2302.03764",
+        "DOI": "10.48550/arXiv.2302.03764",
+        "CorpusId": 256662333
+      },
+      "url": "https://www.semanticscholar.org/paper/dde69c0eb38e0e12bf19032c8815f3291dcd23ea",
+      "title": "Sketchy: Memory-efficient Adaptive Regularization with Frequent Directions",
+      "venue": "Neural Information Processing Systems",
+      "year": 2023,
+      "referenceCount": 81,
+      "citationCount": 20,
+      "authors": [
+        {
+          "authorId": "2275181199",
+          "name": "Vladimir Feinberg"
+        },
+        {
+          "authorId": "2109080835",
+          "name": "Xinyi Chen"
+        },
+        {
+          "authorId": "2145284893",
+          "name": "Y. Sun"
+        },
+        {
+          "authorId": "1508890387",
+          "name": "Rohan Anil"
+        },
+        {
+          "authorId": "34840427",
+          "name": "Elad Hazan"
+        }
+      ]
+    },
+    {
+      "paperId": "bc59efa93d671ff672d96b8277354d626c111962",
+      "externalIds": {
+        "DBLP": "journals/tnn/HeKZL17",
+        "MAG": "2325382775",
+        "DOI": "10.1109/TNNLS.2016.2527053",
+        "CorpusId": 6966009,
+        "PubMed": "26929066"
+      },
+      "url": "https://www.semanticscholar.org/paper/bc59efa93d671ff672d96b8277354d626c111962",
+      "title": "A Note on the Unification of Adaptive Online Learning",
+      "venue": "IEEE Transactions on Neural Networks and Learning Systems",
+      "year": 2017,
+      "referenceCount": 58,
+      "citationCount": 7,
+      "authors": [
+        {
+          "authorId": "2153233400",
+          "name": "Wenwu He"
+        },
+        {
+          "authorId": "145193332",
+          "name": "J. Kwok"
+        },
+        {
+          "authorId": "115816494",
+          "name": "Ji Zhu"
+        },
+        {
+          "authorId": "46179703",
+          "name": "Yang Liu"
+        }
+      ]
+    },
+    {
+      "paperId": "b72a61ddbf1e7e20bdb6f3b3a077b9cd19e9d570",
+      "externalIds": {
+        "CorpusId": 250242043
+      },
+      "url": "https://www.semanticscholar.org/paper/b72a61ddbf1e7e20bdb6f3b3a077b9cd19e9d570",
+      "title": "Title: Analyzing dropout training in neural networks from a stochastic perspective",
+      "venue": "",
+      "year": 2022,
+      "referenceCount": 0,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "144534186",
+          "name": "Marten van Dijk"
+        },
+        {
+          "authorId": "39257668",
+          "name": "Christian Coester"
+        },
+        {
+          "authorId": "1471173476",
+          "name": "Marek Eliáš"
+        },
+        {
+          "authorId": "9057710",
+          "name": "Adam Polak"
+        },
+        {
+          "authorId": "2455439",
+          "name": "Mathias Staudigl"
+        }
+      ]
+    },
+    {
+      "paperId": "ee032b635670276c7b03d3f5e614ad5d2fe8c0e9",
+      "externalIds": {
+        "CorpusId": 267820154
+      },
+      "url": "https://www.semanticscholar.org/paper/ee032b635670276c7b03d3f5e614ad5d2fe8c0e9",
+      "title": "A Hierarchical Hybrid Svm Method For Classification Of",
+      "venue": "",
+      "year": 2022,
+      "referenceCount": 0,
+      "citationCount": 0,
+      "authors": []
+    },
+    {
+      "paperId": "c328b509644371a49bdf3444731f0707ac2e49c8",
+      "externalIds": {
+        "MAG": "1565849836",
+        "CorpusId": 60748447
+      },
+      "url": "https://www.semanticscholar.org/paper/c328b509644371a49bdf3444731f0707ac2e49c8",
+      "title": "Structural, syntactic, and statistical pattern recognition : joint IAPR international workshops, SSPR 2004 and SPR 2004, Lisbon, Portugal, August 18-20, 2004 : proceedings",
+      "venue": "",
+      "year": 2004,
+      "referenceCount": 0,
+      "citationCount": 7,
+      "authors": [
+        {
+          "authorId": "1994778",
+          "name": "A. Fred"
+        }
+      ]
+    }
+  ]
+}

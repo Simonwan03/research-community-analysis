@@ -1,0 +1,339 @@
+{
+  "total": 17,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "a102ccbe6ccffa59cf4db4984bc95a6172c7da91",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-1806-01780",
+        "MAG": "2950650628",
+        "ArXiv": "1806.01780",
+        "CorpusId": 46940072
+      },
+      "url": "https://www.semanticscholar.org/paper/a102ccbe6ccffa59cf4db4984bc95a6172c7da91",
+      "title": "Mix&Match - Agent Curricula for Reinforcement Learning",
+      "venue": "International Conference on Machine Learning",
+      "year": 2018,
+      "referenceCount": 25,
+      "citationCount": 83,
+      "authors": [
+        {
+          "authorId": "144792148",
+          "name": "Wojciech M. Czarnecki"
+        },
+        {
+          "authorId": "35880964",
+          "name": "Siddhant M. Jayakumar"
+        },
+        {
+          "authorId": "3093886",
+          "name": "Max Jaderberg"
+        },
+        {
+          "authorId": "40401956",
+          "name": "Leonard Hasenclever"
+        },
+        {
+          "authorId": "1725303",
+          "name": "Y. Teh"
+        },
+        {
+          "authorId": "2801204",
+          "name": "N. Heess"
+        },
+        {
+          "authorId": "2217144",
+          "name": "Simon Osindero"
+        },
+        {
+          "authorId": "1996134",
+          "name": "Razvan Pascanu"
+        }
+      ]
+    },
+    {
+      "paperId": "8121a4dc2daec112be196801a9e4ecb697a8d7dc",
+      "externalIds": {
+        "DBLP": "conf/atal/WuYHHZWT23",
+        "DOI": "10.5555/3545946.3598967",
+        "CorpusId": 258845395
+      },
+      "url": "https://www.semanticscholar.org/paper/8121a4dc2daec112be196801a9e4ecb697a8d7dc",
+      "title": "PORTAL: Automatic Curricula Generation for Multiagent Reinforcement Learning",
+      "venue": "Adaptive Agents and Multi-Agent Systems",
+      "year": 2023,
+      "referenceCount": 34,
+      "citationCount": 12,
+      "authors": [
+        {
+          "authorId": null,
+          "name": "Jizhou Wu"
+        },
+        {
+          "authorId": "3449314",
+          "name": "Tianpei Yang"
+        },
+        {
+          "authorId": "1491630925",
+          "name": "Xiaotian Hao"
+        },
+        {
+          "authorId": "40513470",
+          "name": "Jianye Hao"
+        },
+        {
+          "authorId": "1752775197",
+          "name": "Yan Zheng"
+        },
+        {
+          "authorId": "2209431",
+          "name": "Weixun Wang"
+        },
+        {
+          "authorId": "1389208435",
+          "name": "Matthew E. Taylor"
+        }
+      ]
+    },
+    {
+      "paperId": "2baf5fc029effc9a6b3790a7221dc84dba9a0f8e",
+      "externalIds": {
+        "DBLP": "journals/ral/DaiRCCS25",
+        "DOI": "10.1109/LRA.2025.3534682",
+        "CorpusId": 275973963
+      },
+      "url": "https://www.semanticscholar.org/paper/2baf5fc029effc9a6b3790a7221dc84dba9a0f8e",
+      "title": "Heterogeneous Multi-robot Task Allocation and Scheduling via Reinforcement Learning",
+      "venue": "IEEE Robotics and Automation Letters",
+      "year": 2025,
+      "referenceCount": 39,
+      "citationCount": 19,
+      "authors": [
+        {
+          "authorId": "2315510079",
+          "name": "Weiheng Dai"
+        },
+        {
+          "authorId": "2342818160",
+          "name": "Utkarsh Rai"
+        },
+        {
+          "authorId": "2284773169",
+          "name": "Jimmy Chiun"
+        },
+        {
+          "authorId": "2146175818",
+          "name": "Yuhong Cao"
+        },
+        {
+          "authorId": "2292917033",
+          "name": "G. Sartoretti"
+        }
+      ]
+    },
+    {
+      "paperId": "488fe992c5953af742481b7b73fb028be698a8a6",
+      "externalIds": {
+        "MAG": "3129404076",
+        "DBLP": "journals/corr/abs-2102-11762",
+        "ArXiv": "2102.11762",
+        "DOI": "10.1145/3493700.3493709",
+        "CorpusId": 232014618
+      },
+      "url": "https://www.semanticscholar.org/paper/488fe992c5953af742481b7b73fb028be698a8a6",
+      "title": "Identifying efficient curricula for reinforcement learning in complex environments with a fixed computational budget",
+      "venue": "COMAD/CODS",
+      "year": 2021,
+      "referenceCount": 32,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "1402365052",
+          "name": "Omkar Shelke"
+        },
+        {
+          "authorId": "9169532",
+          "name": "Hardik Meisheri"
+        },
+        {
+          "authorId": "2512658",
+          "name": "H. Khadilkar"
+        }
+      ]
+    },
+    {
+      "paperId": "707eb919d3daa087e63d48930c8630b06c43d24f",
+      "externalIds": {
+        "CorpusId": 214047805
+      },
+      "url": "https://www.semanticscholar.org/paper/707eb919d3daa087e63d48930c8630b06c43d24f",
+      "title": "SCALING MULTI-AGENT REINFORCEMENT LEARNING",
+      "venue": "",
+      "year": 2020,
+      "referenceCount": 53,
+      "citationCount": 84,
+      "authors": [
+        {
+          "authorId": "2055685288",
+          "name": "Qian Long"
+        },
+        {
+          "authorId": "2112252771",
+          "name": "Zihan Zhou"
+        },
+        {
+          "authorId": "1726095131",
+          "name": "A. Gupta"
+        },
+        {
+          "authorId": "47324743",
+          "name": "Fei Fang"
+        },
+        {
+          "authorId": "31613801",
+          "name": "Yi Wu"
+        },
+        {
+          "authorId": "122024152",
+          "name": "Xiaolong Wang"
+        }
+      ]
+    },
+    {
+      "paperId": "8c8fec2a571807737f671a157d2f7f707a9ddc53",
+      "externalIds": {
+        "DBLP": "conf/noms/ShararaHV23",
+        "DOI": "10.1109/NOMS56928.2023.10154452",
+        "CorpusId": 259215902
+      },
+      "url": "https://www.semanticscholar.org/paper/8c8fec2a571807737f671a157d2f7f707a9ddc53",
+      "title": "Reinforcement Learning based model for Maximizing Operator's Profit in Open-RAN",
+      "venue": "IEEE/IFIP Network Operations and Management Symposium",
+      "year": 2023,
+      "referenceCount": 20,
+      "citationCount": 4,
+      "authors": [
+        {
+          "authorId": "73767061",
+          "name": "Mahdi Sharara"
+        },
+        {
+          "authorId": "2539342",
+          "name": "Sahar Hoteit"
+        },
+        {
+          "authorId": "2875137",
+          "name": "V. Vèque"
+        }
+      ]
+    },
+    {
+      "paperId": "08009c4e9b0a7754536cfc8f432e756fd337c624",
+      "externalIds": {
+        "DOI": "10.1117/12.2641860",
+        "CorpusId": 253483710
+      },
+      "url": "https://www.semanticscholar.org/paper/08009c4e9b0a7754536cfc8f432e756fd337c624",
+      "title": "Researches advanced in multi-agent credit assignment in reinforcement learning",
+      "venue": "Other Conferences",
+      "year": 2022,
+      "referenceCount": 40,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2130957143",
+          "name": "Yuzheng Wu"
+        }
+      ]
+    },
+    {
+      "paperId": "14903cf4df35936b8a5c1dfa638c59727be6112d",
+      "externalIds": {
+        "DBLP": "conf/icml/SharmaAF22",
+        "ArXiv": "2205.05212",
+        "DOI": "10.48550/arXiv.2205.05212",
+        "CorpusId": 248693327
+      },
+      "url": "https://www.semanticscholar.org/paper/14903cf4df35936b8a5c1dfa638c59727be6112d",
+      "title": "A State-Distribution Matching Approach to Non-Episodic Reinforcement Learning",
+      "venue": "International Conference on Machine Learning",
+      "year": 2022,
+      "referenceCount": 51,
+      "citationCount": 23,
+      "authors": [
+        {
+          "authorId": "50465276",
+          "name": "Archit Sharma"
+        },
+        {
+          "authorId": "2054232649",
+          "name": "Rehaan Ahmad"
+        },
+        {
+          "authorId": "46881670",
+          "name": "Chelsea Finn"
+        }
+      ]
+    },
+    {
+      "paperId": "e3c7b2ccc703e8b944d41c9d25fb570dd54e2d3b",
+      "externalIds": {
+        "DBLP": "journals/robotics/OBrienX25",
+        "DOI": "10.3390/robotics15010028",
+        "CorpusId": 284942768
+      },
+      "url": "https://www.semanticscholar.org/paper/e3c7b2ccc703e8b944d41c9d25fb570dd54e2d3b",
+      "title": "Relaxed Monotonic QMIX (R-QMIX): A Regularized Value Factorization Approach to Decentralized Multi-Agent Reinforcement Learning",
+      "venue": "Robotics",
+      "year": 2026,
+      "referenceCount": 32,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "1484616063",
+          "name": "L. O’Brien"
+        },
+        {
+          "authorId": "2280627036",
+          "name": "Hao Xu"
+        }
+      ]
+    },
+    {
+      "paperId": "9f0f4c74d8ed06c5b81869321061d8079763bfb3",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2112-06771",
+        "CorpusId": 245124657
+      },
+      "url": "https://www.semanticscholar.org/paper/9f0f4c74d8ed06c5b81869321061d8079763bfb3",
+      "title": "Value Function Factorisation with Hypergraph Convolution for Cooperative Multi-agent Reinforcement Learning",
+      "venue": "arXiv.org",
+      "year": 2021,
+      "referenceCount": 25,
+      "citationCount": 6,
+      "authors": [
+        {
+          "authorId": "46931357",
+          "name": "Yunpeng Bai"
+        },
+        {
+          "authorId": "2057185016",
+          "name": "Chen Gong"
+        },
+        {
+          "authorId": "2119453124",
+          "name": "Bin Zhang"
+        },
+        {
+          "authorId": "2067827377",
+          "name": "Guoliang Fan"
+        },
+        {
+          "authorId": "1761961",
+          "name": "Xinwen Hou"
+        }
+      ]
+    }
+  ]
+}

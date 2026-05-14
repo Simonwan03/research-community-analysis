@@ -1,0 +1,335 @@
+{
+  "total": 39,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "17409ae85c237983dc22a5e4750d8054e4b6edc9",
+      "externalIds": {
+        "MAG": "2548641835",
+        "DBLP": "conf/icml/ShalitJS17",
+        "CorpusId": 320456
+      },
+      "url": "https://www.semanticscholar.org/paper/17409ae85c237983dc22a5e4750d8054e4b6edc9",
+      "title": "Estimating individual treatment effect: generalization bounds and algorithms",
+      "venue": "International Conference on Machine Learning",
+      "year": 2016,
+      "referenceCount": 78,
+      "citationCount": 1207,
+      "authors": [
+        {
+          "authorId": "2304764",
+          "name": "Uri Shalit"
+        },
+        {
+          "authorId": "144602383",
+          "name": "Fredrik D. Johansson"
+        },
+        {
+          "authorId": "1746662",
+          "name": "D. Sontag"
+        }
+      ]
+    },
+    {
+      "paperId": "f15b290b71b9e8d8d7e2ea9cdc428759bc94ee19",
+      "externalIds": {
+        "CorpusId": 261250913
+      },
+      "url": "https://www.semanticscholar.org/paper/f15b290b71b9e8d8d7e2ea9cdc428759bc94ee19",
+      "title": "Supplemental Materials for : Estimating individual treatment effect : generalization bounds and algorithms",
+      "venue": "",
+      "year": 2017,
+      "referenceCount": 11,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "2304764",
+          "name": "Uri Shalit"
+        },
+        {
+          "authorId": "144602383",
+          "name": "Fredrik D. Johansson"
+        },
+        {
+          "authorId": "1746662",
+          "name": "D. Sontag"
+        }
+      ]
+    },
+    {
+      "paperId": "e30613c5d2a7b285ff3cc8c61b67e535c788a9fa",
+      "externalIds": {
+        "ArXiv": "2205.14692",
+        "DBLP": "journals/corr/abs-2205-14692",
+        "DOI": "10.48550/arXiv.2205.14692",
+        "CorpusId": 249191505
+      },
+      "url": "https://www.semanticscholar.org/paper/e30613c5d2a7b285ff3cc8c61b67e535c788a9fa",
+      "title": "Generalization bounds and algorithms for estimating conditional average treatment effect of dosage",
+      "venue": "arXiv.org",
+      "year": 2022,
+      "referenceCount": 27,
+      "citationCount": 12,
+      "authors": [
+        {
+          "authorId": "144558714",
+          "name": "A. Bellot"
+        },
+        {
+          "authorId": "1389044415",
+          "name": "Anish Dhir"
+        },
+        {
+          "authorId": "2077440",
+          "name": "G. Prando"
+        }
+      ]
+    },
+    {
+      "paperId": "9d78e0df6765d2c2f477d9afd943996c82843481",
+      "externalIds": {
+        "ArXiv": "2310.17917",
+        "PubMedCentral": "12645726",
+        "DOI": "10.1186/s13063-025-09265-z",
+        "CorpusId": 264555123,
+        "PubMed": "41286897"
+      },
+      "url": "https://www.semanticscholar.org/paper/9d78e0df6765d2c2f477d9afd943996c82843481",
+      "title": "Estimating quantile treatment effect on the original scale of the outcome variable: a case study of common cold treatments",
+      "venue": "Trials",
+      "year": 2023,
+      "referenceCount": 47,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "4922849",
+          "name": "H. Hemilä"
+        },
+        {
+          "authorId": "2248303163",
+          "name": "Matti Pirinen"
+        }
+      ]
+    },
+    {
+      "paperId": "9fd394e2e2e10d90dd7fe74ff7bdbaaea5198cd2",
+      "externalIds": {
+        "MAG": "3002720540",
+        "ArXiv": "2001.07426",
+        "DBLP": "journals/corr/abs-2001-07426",
+        "CorpusId": 210839169
+      },
+      "url": "https://www.semanticscholar.org/paper/9fd394e2e2e10d90dd7fe74ff7bdbaaea5198cd2",
+      "title": "Generalization Bounds and Representation Learning for Estimation of Potential Outcomes and Causal Effects",
+      "venue": "Journal of machine learning research",
+      "year": 2020,
+      "referenceCount": 115,
+      "citationCount": 123,
+      "authors": [
+        {
+          "authorId": "144602383",
+          "name": "Fredrik D. Johansson"
+        },
+        {
+          "authorId": "2304764",
+          "name": "Uri Shalit"
+        },
+        {
+          "authorId": "3174388",
+          "name": "Nathan Kallus"
+        },
+        {
+          "authorId": "1746662",
+          "name": "D. Sontag"
+        }
+      ]
+    },
+    {
+      "paperId": "942a657ac6ab6dcd8231a48a4b5c2d96a728d79e",
+      "externalIds": {
+        "DOI": "10.1109/TIT.2026.3679549",
+        "CorpusId": 287064690
+      },
+      "url": "https://www.semanticscholar.org/paper/942a657ac6ab6dcd8231a48a4b5c2d96a728d79e",
+      "title": "On the Effect of Client-Server Communication on the Generalization Error of Federated Learning",
+      "venue": "IEEE Transactions on Information Theory",
+      "year": 2026,
+      "referenceCount": 69,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2168253082",
+          "name": "Romain Chor"
+        },
+        {
+          "authorId": "1942106",
+          "name": "Milad Sefidgaran"
+        },
+        {
+          "authorId": "2282532184",
+          "name": "Abdellatif Zaidi"
+        }
+      ]
+    },
+    {
+      "paperId": "6e44c33dfc81e05c1ae9d836bc7c16f785092653",
+      "externalIds": {
+        "DBLP": "conf/nips/WangLWWC22",
+        "DOI": "10.52202/068431-0626",
+        "CorpusId": 258509030
+      },
+      "url": "https://www.semanticscholar.org/paper/6e44c33dfc81e05c1ae9d836bc7c16f785092653",
+      "title": "Generalization Bounds for Estimating Causal Effects of Continuous Treatments",
+      "venue": "Neural Information Processing Systems",
+      "year": 2022,
+      "referenceCount": 42,
+      "citationCount": 28,
+      "authors": [
+        {
+          "authorId": "2153690626",
+          "name": "Xin Wang"
+        },
+        {
+          "authorId": "1409427665",
+          "name": "Shengfei Lyu"
+        },
+        {
+          "authorId": "1452317432",
+          "name": "Xingyu Wu"
+        },
+        {
+          "authorId": "2150448925",
+          "name": "Tianhao Wu"
+        },
+        {
+          "authorId": "2145303232",
+          "name": "Huanhuan Chen"
+        }
+      ]
+    },
+    {
+      "paperId": "00102916233d568656659b8263efb6d8fb4a46d6",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2210-14080",
+        "ArXiv": "2210.14080",
+        "DOI": "10.1145/3673761",
+        "CorpusId": 253107774
+      },
+      "url": "https://www.semanticscholar.org/paper/00102916233d568656659b8263efb6d8fb4a46d6",
+      "title": "Learning Individual Treatment Effects under Heterogeneous Interference in Networks",
+      "venue": "ACM Transactions on Knowledge Discovery from Data",
+      "year": 2022,
+      "referenceCount": 50,
+      "citationCount": 17,
+      "authors": [
+        {
+          "authorId": "2279090109",
+          "name": "Ziyu Zhao"
+        },
+        {
+          "authorId": "2307116968",
+          "name": "Yuqi Bai"
+        },
+        {
+          "authorId": "50824401",
+          "name": "Ruoxuan Xiong"
+        },
+        {
+          "authorId": "2242974688",
+          "name": "Qingyu Cao"
+        },
+        {
+          "authorId": "2109467045",
+          "name": "Chao Ma"
+        },
+        {
+          "authorId": "2307080305",
+          "name": "Ning Jiang"
+        },
+        {
+          "authorId": "93192602",
+          "name": "Fei Wu"
+        },
+        {
+          "authorId": "2315590980",
+          "name": "Kun Kuang"
+        }
+      ]
+    },
+    {
+      "paperId": "72787ced723163d917f6fc2f84f8da6f8e461099",
+      "externalIds": {
+        "DBLP": "conf/nips/FrauenMF23",
+        "ArXiv": "2305.16988",
+        "DOI": "10.48550/arXiv.2305.16988",
+        "CorpusId": 258947328
+      },
+      "url": "https://www.semanticscholar.org/paper/72787ced723163d917f6fc2f84f8da6f8e461099",
+      "title": "Sharp Bounds for Generalized Causal Sensitivity Analysis",
+      "venue": "Neural Information Processing Systems",
+      "year": 2023,
+      "referenceCount": 83,
+      "citationCount": 29,
+      "authors": [
+        {
+          "authorId": "2156928565",
+          "name": "Dennis Frauen"
+        },
+        {
+          "authorId": "2067160835",
+          "name": "Valentyn Melnychuk"
+        },
+        {
+          "authorId": "3207649",
+          "name": "S. Feuerriegel"
+        }
+      ]
+    },
+    {
+      "paperId": "4061e8add7214a5d21751b0b54e5774b0f4aada8",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2204-10022",
+        "ArXiv": "2204.10022",
+        "DOI": "10.48550/arXiv.2204.10022",
+        "CorpusId": 248299891
+      },
+      "url": "https://www.semanticscholar.org/paper/4061e8add7214a5d21751b0b54e5774b0f4aada8",
+      "title": "Scalable Sensitivity and Uncertainty Analysis for Causal-Effect Estimates of Continuous-Valued Interventions",
+      "venue": "Neural Information Processing Systems",
+      "year": 2022,
+      "referenceCount": 88,
+      "citationCount": 32,
+      "authors": [
+        {
+          "authorId": "14343042",
+          "name": "A. Jesson"
+        },
+        {
+          "authorId": "94890524",
+          "name": "A. Douglas"
+        },
+        {
+          "authorId": "72814437",
+          "name": "P. Manshausen"
+        },
+        {
+          "authorId": "1941834",
+          "name": "N. Meinshausen"
+        },
+        {
+          "authorId": "4740883",
+          "name": "P. Stier"
+        },
+        {
+          "authorId": "2681954",
+          "name": "Y. Gal"
+        },
+        {
+          "authorId": "2304764",
+          "name": "Uri Shalit"
+        }
+      ]
+    }
+  ]
+}

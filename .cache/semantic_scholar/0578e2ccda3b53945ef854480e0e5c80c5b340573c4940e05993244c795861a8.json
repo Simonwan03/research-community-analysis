@@ -1,0 +1,293 @@
+{
+  "total": 127,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "780991e9d94dc7b032d1cee66e84edca02259d0f",
+      "externalIds": {
+        "MAG": "2739517340",
+        "DBLP": "conf/icml/Hoffman17",
+        "CorpusId": 639521
+      },
+      "url": "https://www.semanticscholar.org/paper/780991e9d94dc7b032d1cee66e84edca02259d0f",
+      "title": "Learning Deep Latent Gaussian Models with Markov Chain Monte Carlo",
+      "venue": "International Conference on Machine Learning",
+      "year": 2017,
+      "referenceCount": 35,
+      "citationCount": 94,
+      "authors": [
+        {
+          "authorId": "28552618",
+          "name": "M. Hoffman"
+        }
+      ]
+    },
+    {
+      "paperId": "32d1a4043fbea8148a9975a223a7289ee431c56f",
+      "externalIds": {
+        "DBLP": "conf/icmla/FuB18",
+        "MAG": "2909724110",
+        "DOI": "10.1109/ICMLA.2018.00195",
+        "CorpusId": 58671719
+      },
+      "url": "https://www.semanticscholar.org/paper/32d1a4043fbea8148a9975a223a7289ee431c56f",
+      "title": "Asymmetric Gaussian-Based Statistical Models Using Markov Chain Monte Carlo Techniques for Image Categorization",
+      "venue": "International Conference on Machine Learning and Applications",
+      "year": 2018,
+      "referenceCount": 16,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "48788494",
+          "name": "Shuai Fu"
+        },
+        {
+          "authorId": "1729109",
+          "name": "N. Bouguila"
+        }
+      ]
+    },
+    {
+      "paperId": "1a6e01f47e25d5f45490e57ffed107596fffd1d0",
+      "externalIds": {
+        "DBLP": "conf/nips/TaniguchiIKM22",
+        "ArXiv": "2209.07036",
+        "DOI": "10.48550/arXiv.2209.07036",
+        "CorpusId": 252280322
+      },
+      "url": "https://www.semanticscholar.org/paper/1a6e01f47e25d5f45490e57ffed107596fffd1d0",
+      "title": "Langevin Autoencoders for Learning Deep Latent Variable Models",
+      "venue": "Neural Information Processing Systems",
+      "year": 2022,
+      "referenceCount": 55,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "2184919803",
+          "name": "Shohei Taniguchi"
+        },
+        {
+          "authorId": "1715282",
+          "name": "Yusuke Iwasawa"
+        },
+        {
+          "authorId": "1896666",
+          "name": "Wataru Kumagai"
+        },
+        {
+          "authorId": "2153732825",
+          "name": "Yutaka Matsuo"
+        }
+      ]
+    },
+    {
+      "paperId": "9358df832174e6135f02a48fc53425a541d26373",
+      "externalIds": {
+        "DBLP": "journals/tmlr/ShihL25",
+        "CorpusId": 281888305
+      },
+      "url": "https://www.semanticscholar.org/paper/9358df832174e6135f02a48fc53425a541d26373",
+      "title": "Latent Trajectory: A New Framework for Deep Actor-Critic Reinforcement Learning with Uncertainty Quantification",
+      "venue": "Trans. Mach. Learn. Res.",
+      "year": 2025,
+      "referenceCount": 50,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2292260796",
+          "name": "Frank Shih"
+        },
+        {
+          "authorId": "2292261638",
+          "name": "Faming Liang"
+        }
+      ]
+    },
+    {
+      "paperId": "6521bd8cbd2b8ba9a6203eb6a50f20d66753ae89",
+      "externalIds": {
+        "DBLP": "conf/cvpr/AnXL21",
+        "DOI": "10.1109/CVPR46437.2021.01516",
+        "CorpusId": 233441729
+      },
+      "url": "https://www.semanticscholar.org/paper/6521bd8cbd2b8ba9a6203eb6a50f20d66753ae89",
+      "title": "Learning Deep Latent Variable Models by Short-Run MCMC Inference with Optimal Transport Correction",
+      "venue": "Computer Vision and Pattern Recognition",
+      "year": 2021,
+      "referenceCount": 48,
+      "citationCount": 12,
+      "authors": [
+        {
+          "authorId": "2137430",
+          "name": "Dongsheng An"
+        },
+        {
+          "authorId": "39380386",
+          "name": "Jianwen Xie"
+        },
+        {
+          "authorId": "2420746",
+          "name": "P. Li"
+        }
+      ]
+    },
+    {
+      "paperId": "775c368ac003596194ed3930237fc5be21d8e615",
+      "externalIds": {
+        "DOI": "10.1029/2024WR039665",
+        "CorpusId": 286379704
+      },
+      "url": "https://www.semanticscholar.org/paper/775c368ac003596194ed3930237fc5be21d8e615",
+      "title": "A Hybrid Data Assimilation Approach Integrating Kalman With Deep Learning‐Based Updates for Nonlinear and Non‐Gaussian Groundwater Systems",
+      "venue": "Water Resources Research",
+      "year": 2026,
+      "referenceCount": 90,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2422960031",
+          "name": "Lei Yao"
+        },
+        {
+          "authorId": "2282500676",
+          "name": "Jiangjiang Zhang"
+        },
+        {
+          "authorId": "2354614144",
+          "name": "Yuxin Ye"
+        },
+        {
+          "authorId": "2280415679",
+          "name": "Chenglong Cao"
+        },
+        {
+          "authorId": "2317353806",
+          "name": "Jianyun Zhang"
+        },
+        {
+          "authorId": "81632893",
+          "name": "Junliang Jin"
+        }
+      ]
+    },
+    {
+      "paperId": "7ff72b7b45ebd9d03dc658b4528cc996ba3cb3af",
+      "externalIds": {
+        "PubMedCentral": "10041350",
+        "DOI": "10.1098/rsta.2022.0147",
+        "CorpusId": 257758189,
+        "PubMed": "36970826"
+      },
+      "url": "https://www.semanticscholar.org/paper/7ff72b7b45ebd9d03dc658b4528cc996ba3cb3af",
+      "title": "Differentiable samplers for deep latent variable models",
+      "venue": "Philosophical Transactions of the Royal Society A",
+      "year": 2023,
+      "referenceCount": 59,
+      "citationCount": 8,
+      "authors": [
+        {
+          "authorId": "1701800",
+          "name": "A. Doucet"
+        },
+        {
+          "authorId": "2313661",
+          "name": "É. Moulines"
+        },
+        {
+          "authorId": "1509417744",
+          "name": "Achille Thin"
+        }
+      ]
+    },
+    {
+      "paperId": "ca5c0df547761148e507f11735470a4af4c19c81",
+      "externalIds": {
+        "ArXiv": "1812.00793",
+        "MAG": "2902106771",
+        "DBLP": "journals/corr/abs-1812-00793",
+        "CorpusId": 54441885
+      },
+      "url": "https://www.semanticscholar.org/paper/ca5c0df547761148e507f11735470a4af4c19c81",
+      "title": "Simulated Tempering Langevin Monte Carlo II: An Improved Proof using Soft Markov Chain Decomposition",
+      "venue": "arXiv.org",
+      "year": 2018,
+      "referenceCount": 56,
+      "citationCount": 37,
+      "authors": [
+        {
+          "authorId": "144804200",
+          "name": "Rong Ge"
+        },
+        {
+          "authorId": "40385395",
+          "name": "Holden Lee"
+        },
+        {
+          "authorId": "3181040",
+          "name": "Andrej Risteski"
+        }
+      ]
+    },
+    {
+      "paperId": "d237f63cac323ba6255c0db3f7aba2b618920232",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2502-18300",
+        "ArXiv": "2502.18300",
+        "DOI": "10.48550/arXiv.2502.18300",
+        "CorpusId": 276580931
+      },
+      "url": "https://www.semanticscholar.org/paper/d237f63cac323ba6255c0db3f7aba2b618920232",
+      "title": "Bayesian Computation in Deep Learning",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "referenceCount": 130,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2327990497",
+          "name": "Wenlong Chen"
+        },
+        {
+          "authorId": "2133146583",
+          "name": "Bolian Li"
+        },
+        {
+          "authorId": "2257078903",
+          "name": "Ruqi Zhang"
+        },
+        {
+          "authorId": "2327989827",
+          "name": "Yingzhen Li"
+        }
+      ]
+    },
+    {
+      "paperId": "e403da179e44bb9dde364a335149a647c8ef642b",
+      "externalIds": {
+        "ArXiv": "2604.10178",
+        "CorpusId": 287425040
+      },
+      "url": "https://www.semanticscholar.org/paper/e403da179e44bb9dde364a335149a647c8ef642b",
+      "title": "Bayesian Distance-to-Set Models: from Latent Variable to Latent Projection",
+      "venue": "",
+      "year": 2026,
+      "referenceCount": 0,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2248269277",
+          "name": "Leo L. Duan"
+        },
+        {
+          "authorId": "2369842936",
+          "name": "Yuexi Wang"
+        },
+        {
+          "authorId": "8613065",
+          "name": "Jason Xu"
+        }
+      ]
+    }
+  ]
+}

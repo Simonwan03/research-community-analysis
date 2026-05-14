@@ -1,0 +1,389 @@
+{
+  "total": 11219,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "6df40bf289ab0524eafa1161371d6368a3b6afc0",
+      "externalIds": {
+        "DBLP": "conf/icml/PlataniosDM16",
+        "MAG": "2471188054",
+        "CorpusId": 14874776
+      },
+      "url": "https://www.semanticscholar.org/paper/6df40bf289ab0524eafa1161371d6368a3b6afc0",
+      "title": "Estimating Accuracy from Unlabeled Data: A Bayesian Approach",
+      "venue": "International Conference on Machine Learning",
+      "year": 2016,
+      "referenceCount": 74,
+      "citationCount": 59,
+      "authors": [
+        {
+          "authorId": "144888672",
+          "name": "Emmanouil Antonios Platanios"
+        },
+        {
+          "authorId": "89890133",
+          "name": "Kumar Avinava Dubey"
+        },
+        {
+          "authorId": "40975594",
+          "name": "Tom Michael Mitchell"
+        }
+      ]
+    },
+    {
+      "paperId": "a94001091d65c8341c8c7bbd9257066e5958d8a8",
+      "externalIds": {
+        "DBLP": "journals/csda/ZhuG19",
+        "MAG": "2891032350",
+        "DOI": "10.1016/J.CSDA.2018.09.003",
+        "CorpusId": 126417188
+      },
+      "url": "https://www.semanticscholar.org/paper/a94001091d65c8341c8c7bbd9257066e5958d8a8",
+      "title": "Bayesian Semiparametric ROC surface estimation under verification bias",
+      "venue": "Computational Statistics & Data Analysis",
+      "year": 2019,
+      "referenceCount": 18,
+      "citationCount": 5,
+      "authors": [
+        {
+          "authorId": "2070269717",
+          "name": "Rui Zhu"
+        },
+        {
+          "authorId": "2291789",
+          "name": "S. Ghosal"
+        }
+      ]
+    },
+    {
+      "paperId": "eaa78c7842536ce321c0d7d095ac0a42ea34cd03",
+      "externalIds": {
+        "ArXiv": "1705.07086",
+        "MAG": "2951402316",
+        "DBLP": "journals/corr/PlataniosPMH17",
+        "CorpusId": 10848314
+      },
+      "url": "https://www.semanticscholar.org/paper/eaa78c7842536ce321c0d7d095ac0a42ea34cd03",
+      "title": "Estimating Accuracy from Unlabeled Data: A Probabilistic Logic Approach",
+      "venue": "Neural Information Processing Systems",
+      "year": 2017,
+      "referenceCount": 23,
+      "citationCount": 62,
+      "authors": [
+        {
+          "authorId": "144888672",
+          "name": "Emmanouil Antonios Platanios"
+        },
+        {
+          "authorId": "1759772",
+          "name": "Hoifung Poon"
+        },
+        {
+          "authorId": "40975594",
+          "name": "Tom Michael Mitchell"
+        },
+        {
+          "authorId": "145479841",
+          "name": "E. Horvitz"
+        }
+      ]
+    },
+    {
+      "paperId": "df25e3341858ce23a0292c3b8047a26e66281e7c",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2405-19789",
+        "ArXiv": "2405.19789",
+        "DOI": "10.48550/arXiv.2405.19789",
+        "CorpusId": 270123152
+      },
+      "url": "https://www.semanticscholar.org/paper/df25e3341858ce23a0292c3b8047a26e66281e7c",
+      "title": "Estimating before Debiasing: A Bayesian Approach to Detaching Prior Bias in Federated Semi-Supervised Learning",
+      "venue": "International Joint Conference on Artificial Intelligence",
+      "year": 2024,
+      "referenceCount": 33,
+      "citationCount": 5,
+      "authors": [
+        {
+          "authorId": "1470582221",
+          "name": "Guogang Zhu"
+        },
+        {
+          "authorId": "48033068",
+          "name": "Xuefeng Liu"
+        },
+        {
+          "authorId": "2176610035",
+          "name": "Xinghao Wu"
+        },
+        {
+          "authorId": "2185193392",
+          "name": "Shaojie Tang"
+        },
+        {
+          "authorId": "2286203489",
+          "name": "C. Tang"
+        },
+        {
+          "authorId": "2056283222",
+          "name": "Jianwei Niu"
+        },
+        {
+          "authorId": "2298847766",
+          "name": "Hao Su"
+        }
+      ]
+    },
+    {
+      "paperId": "5a345f1b119029a029332c3261094957572b64bc",
+      "externalIds": {
+        "MAG": "2997324774",
+        "DBLP": "conf/aaai/PensarTHK20",
+        "DOI": "10.1609/AAAI.V34I04.5988",
+        "CorpusId": 212927865
+      },
+      "url": "https://www.semanticscholar.org/paper/5a345f1b119029a029332c3261094957572b64bc",
+      "title": "A Bayesian Approach for Estimating Causal Effects from Observational Data",
+      "venue": "AAAI Conference on Artificial Intelligence",
+      "year": 2020,
+      "referenceCount": 43,
+      "citationCount": 15,
+      "authors": [
+        {
+          "authorId": "3287803",
+          "name": "J. Pensar"
+        },
+        {
+          "authorId": "2759926",
+          "name": "Topi Talvitie"
+        },
+        {
+          "authorId": "2995603",
+          "name": "Antti Hyttinen"
+        },
+        {
+          "authorId": "2251289",
+          "name": "Mikko Koivisto"
+        }
+      ]
+    },
+    {
+      "paperId": "f92494312019b81669b96adeb2b3f789f01bf779",
+      "externalIds": {
+        "MAG": "2984104071",
+        "DOI": "10.1016/j.trc.2019.10.006",
+        "CorpusId": 209788231
+      },
+      "url": "https://www.semanticscholar.org/paper/f92494312019b81669b96adeb2b3f789f01bf779",
+      "title": "A Bayesian approach for estimating vehicle queue lengths at signalized intersections using probe vehicle data",
+      "venue": "",
+      "year": 2019,
+      "referenceCount": 40,
+      "citationCount": 40,
+      "authors": [
+        {
+          "authorId": "46607196",
+          "name": "Y. Mei"
+        },
+        {
+          "authorId": "7842252",
+          "name": "Weihua Gu"
+        },
+        {
+          "authorId": "145352754",
+          "name": "E. Chung"
+        },
+        {
+          "authorId": "48003981",
+          "name": "Fuliang Li"
+        },
+        {
+          "authorId": "3086173",
+          "name": "Keshuang Tang"
+        }
+      ]
+    },
+    {
+      "paperId": "34a4bceca500b16bf3a012679b3d405896f52f72",
+      "externalIds": {
+        "DBLP": "journals/tbd/GuoWLL24",
+        "DOI": "10.1109/TBDATA.2023.3338019",
+        "CorpusId": 265639085
+      },
+      "url": "https://www.semanticscholar.org/paper/34a4bceca500b16bf3a012679b3d405896f52f72",
+      "title": "Learning Balanced Bayesian Classifiers From Labeled and Unlabeled Data",
+      "venue": "IEEE Transactions on Big Data",
+      "year": 2024,
+      "referenceCount": 45,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "2265361619",
+          "name": "Lu Guo"
+        },
+        {
+          "authorId": "2265107001",
+          "name": "Limin Wang"
+        },
+        {
+          "authorId": "2258435856",
+          "name": "Qilong Li"
+        },
+        {
+          "authorId": "2130335351",
+          "name": "Kuo Li"
+        }
+      ]
+    },
+    {
+      "paperId": "99f08178e5ec8b3c63b9df54eff34595d7c80f42",
+      "externalIds": {
+        "PubMedCentral": "9291985",
+        "MAG": "3091240030",
+        "DOI": "10.1002/sim.9159",
+        "CorpusId": 222306947,
+        "PubMed": "34428309"
+      },
+      "url": "https://www.semanticscholar.org/paper/99f08178e5ec8b3c63b9df54eff34595d7c80f42",
+      "title": "A Bayesian approach for estimating typhoid fever incidence from large‐scale facility‐based passive surveillance data",
+      "venue": "medRxiv",
+      "year": 2020,
+      "referenceCount": 47,
+      "citationCount": 18,
+      "authors": [
+        {
+          "authorId": "1381362666",
+          "name": "Maile T. Phillips"
+        },
+        {
+          "authorId": "35671772",
+          "name": "J. Meiring"
+        },
+        {
+          "authorId": "3520789",
+          "name": "M. Voysey"
+        },
+        {
+          "authorId": "6814287",
+          "name": "J. Warren"
+        },
+        {
+          "authorId": "2105670169",
+          "name": "S. Baker"
+        },
+        {
+          "authorId": "144851269",
+          "name": "B. Basnyat"
+        },
+        {
+          "authorId": "145409126",
+          "name": "J. Clemens"
+        },
+        {
+          "authorId": "5127605",
+          "name": "C. Dolecek"
+        },
+        {
+          "authorId": "144746183",
+          "name": "S. Dunstan"
+        },
+        {
+          "authorId": "2313711",
+          "name": "G. Dougan"
+        },
+        {
+          "authorId": "145357833",
+          "name": "M. Gordon"
+        },
+        {
+          "authorId": "5682989",
+          "name": "D. Thindwa"
+        },
+        {
+          "authorId": "5777984",
+          "name": "R. Heyderman"
+        },
+        {
+          "authorId": "8313107",
+          "name": "K. Holt"
+        },
+        {
+          "authorId": "6433346",
+          "name": "F. Qadri"
+        },
+        {
+          "authorId": "2681672",
+          "name": "A. Pollard"
+        },
+        {
+          "authorId": "6779721",
+          "name": "V. Pitzer"
+        }
+      ]
+    },
+    {
+      "paperId": "8d373f971018d13c25029853f21fd9cc91bd1127",
+      "externalIds": {
+        "MAG": "2757072205",
+        "DOI": "10.1080/01621459.2017.1379404",
+        "CorpusId": 51987551,
+        "PubMed": "30853734"
+      },
+      "url": "https://www.semanticscholar.org/paper/8d373f971018d13c25029853f21fd9cc91bd1127",
+      "title": "A Bayesian Approach for Estimating Dynamic Functional Network Connectivity in fMRI Data",
+      "venue": "Journal of the American Statistical Association",
+      "year": 2018,
+      "referenceCount": 87,
+      "citationCount": 68,
+      "authors": [
+        {
+          "authorId": "79728893",
+          "name": "R. Warnick"
+        },
+        {
+          "authorId": "2210927",
+          "name": "M. Guindani"
+        },
+        {
+          "authorId": "2109022",
+          "name": "Erik B. Erhardt"
+        },
+        {
+          "authorId": "1859027",
+          "name": "E. Allen"
+        },
+        {
+          "authorId": "144048760",
+          "name": "V. Calhoun"
+        },
+        {
+          "authorId": "9379477",
+          "name": "M. Vannucci"
+        }
+      ]
+    },
+    {
+      "paperId": "72b5c5928e2961f431d74b04a0bf749d9745bd60",
+      "externalIds": {
+        "DOI": "10.3390/forensicsci2040051",
+        "CorpusId": 253028612
+      },
+      "url": "https://www.semanticscholar.org/paper/72b5c5928e2961f431d74b04a0bf749d9745bd60",
+      "title": "A Bayesian Approach to Estimating Age from the Auricular Surface of the Ilium in Modern American Skeletal Samples",
+      "venue": "Forensic Sciences",
+      "year": 2022,
+      "referenceCount": 54,
+      "citationCount": 10,
+      "authors": [
+        {
+          "authorId": "4627220",
+          "name": "S. Hens"
+        },
+        {
+          "authorId": "6876025",
+          "name": "K. Godde"
+        }
+      ]
+    }
+  ]
+}

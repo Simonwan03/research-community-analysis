@@ -1,0 +1,60 @@
+{
+  "total": 2,
+  "offset": 0,
+  "data": [
+    {
+      "paperId": "722f29a4b964f0ea704d5a9e99977c71e1cc5db3",
+      "externalIds": {
+        "ArXiv": "1802.04383",
+        "MAG": "2963212995",
+        "DBLP": "conf/icml/RaguetL18",
+        "CorpusId": 51882206
+      },
+      "url": "https://www.semanticscholar.org/paper/722f29a4b964f0ea704d5a9e99977c71e1cc5db3",
+      "title": "Cut-Pursuit Algorithm for Regularizing Nonsmooth Functionals with Graph Total Variation",
+      "venue": "International Conference on Machine Learning",
+      "year": 2018,
+      "referenceCount": 30,
+      "citationCount": 8,
+      "authors": [
+        {
+          "authorId": "1857200",
+          "name": "Hugo Raguet"
+        },
+        {
+          "authorId": "115987954",
+          "name": "Loic Landrieu"
+        }
+      ]
+    },
+    {
+      "paperId": "ef00a4d96dc2e9192f18341e87a74e95008b19b4",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-1903-02858",
+        "ArXiv": "1903.02858",
+        "MAG": "2920943464",
+        "CorpusId": 71145904
+      },
+      "url": "https://www.semanticscholar.org/paper/ef00a4d96dc2e9192f18341e87a74e95008b19b4",
+      "title": "Variational Graph Methods for Efficient Point Cloud Sparsification",
+      "venue": "arXiv.org",
+      "year": 2019,
+      "referenceCount": 62,
+      "citationCount": 5,
+      "authors": [
+        {
+          "authorId": "1684319",
+          "name": "Daniel Tenbrinck"
+        },
+        {
+          "authorId": "2066458352",
+          "name": "Fjedor Gaede"
+        },
+        {
+          "authorId": "145020801",
+          "name": "M. Burger"
+        }
+      ]
+    }
+  ]
+}

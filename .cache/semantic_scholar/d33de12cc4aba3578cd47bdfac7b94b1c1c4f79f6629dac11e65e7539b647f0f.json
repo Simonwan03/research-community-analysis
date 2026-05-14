@@ -1,0 +1,299 @@
+{
+  "total": 85,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "d89c5e07bef5a4117388c5db44e0f866e39c35ae",
+      "externalIds": {
+        "MAG": "2787753865",
+        "DBLP": "conf/icml/WalderK18",
+        "ArXiv": "1802.03144",
+        "CorpusId": 3602671
+      },
+      "url": "https://www.semanticscholar.org/paper/d89c5e07bef5a4117388c5db44e0f866e39c35ae",
+      "title": "Neural Dynamic Programming for Musical Self Similarity",
+      "venue": "International Conference on Machine Learning",
+      "year": 2018,
+      "referenceCount": 33,
+      "citationCount": 10,
+      "authors": [
+        {
+          "authorId": "3093246",
+          "name": "Christian J. Walder"
+        },
+        {
+          "authorId": "2111896065",
+          "name": "Dongwoo Kim"
+        }
+      ]
+    },
+    {
+      "paperId": "c949e546e95b8de5494908ab49307cc27564fb9a",
+      "externalIds": {
+        "DBLP": "conf/ismir/IzumitaniK08",
+        "MAG": "63449781",
+        "CorpusId": 5559714
+      },
+      "url": "https://www.semanticscholar.org/paper/c949e546e95b8de5494908ab49307cc27564fb9a",
+      "title": "A Robust Musical Audio Search Method Based on Diagonal Dynamic Programming Matching of Self-Similarity Matrices",
+      "venue": "International Society for Music Information Retrieval Conference",
+      "year": 2008,
+      "referenceCount": 11,
+      "citationCount": 11,
+      "authors": [
+        {
+          "authorId": "2399898",
+          "name": "Tomonori Izumitani"
+        },
+        {
+          "authorId": "1718803",
+          "name": "K. Kashino"
+        }
+      ]
+    },
+    {
+      "paperId": "8d00087261faa4eddcf1b15785412fce6967dc2a",
+      "externalIds": {
+        "DBLP": "journals/tmm/LinZY24",
+        "DOI": "10.1109/TMM.2024.3390232",
+        "CorpusId": 269236575
+      },
+      "url": "https://www.semanticscholar.org/paper/8d00087261faa4eddcf1b15785412fce6967dc2a",
+      "title": "Music-Driven Choreography Based on Music Feature Clusters and Dynamic Programming",
+      "venue": "IEEE transactions on multimedia",
+      "year": 2024,
+      "referenceCount": 46,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "2264028942",
+          "name": "Shuhong Lin"
+        },
+        {
+          "authorId": "2242692683",
+          "name": "Moshe Zukerman"
+        },
+        {
+          "authorId": "2262426821",
+          "name": "Hong Yan"
+        }
+      ]
+    },
+    {
+      "paperId": "933a0931cc15accbdd3cd7d1c5ecb3ffc83d2cd1",
+      "externalIds": {
+        "DBLP": "journals/mta/ChenWWZC24",
+        "DOI": "10.1007/s11042-023-17985-0",
+        "CorpusId": 266831465
+      },
+      "url": "https://www.semanticscholar.org/paper/933a0931cc15accbdd3cd7d1c5ecb3ffc83d2cd1",
+      "title": "CSMB-VSS: video scene segmentation with cosine similarity matrix",
+      "venue": "Multimedia tools and applications",
+      "year": 2024,
+      "referenceCount": 21,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2275753829",
+          "name": "Zeyu Chen"
+        },
+        {
+          "authorId": "2374919241",
+          "name": "Xin-bin Wang"
+        },
+        {
+          "authorId": "2278533222",
+          "name": "Ji Wang"
+        },
+        {
+          "authorId": "2371077789",
+          "name": "Yi Zhang"
+        },
+        {
+          "authorId": "2199183420",
+          "name": "Xiang Cao"
+        }
+      ]
+    },
+    {
+      "paperId": "57c7d81f4068abc67a47f96e3f9dfd6a8f3c11b4",
+      "externalIds": {
+        "DBLP": "journals/tjs/ZhangCWCC25",
+        "DOI": "10.1007/s11227-025-07712-x",
+        "CorpusId": 280847597
+      },
+      "url": "https://www.semanticscholar.org/paper/57c7d81f4068abc67a47f96e3f9dfd6a8f3c11b4",
+      "title": "Service reliability prediction methodology based on multivariate time series and improved AdaRNN model",
+      "venue": "Journal of Supercomputing",
+      "year": 2025,
+      "referenceCount": 31,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2448947",
+          "name": "Xiuguo Zhang"
+        },
+        {
+          "authorId": "2146176747",
+          "name": "Yuhan Cao"
+        },
+        {
+          "authorId": "2155651050",
+          "name": "Peipeng Wang"
+        },
+        {
+          "authorId": "3388768",
+          "name": "Zhiying Cao"
+        },
+        {
+          "authorId": "2290866892",
+          "name": "Zhiwei Chen"
+        }
+      ]
+    },
+    {
+      "paperId": "9b9e2f7e5fe04b6ecc1bfcdf7a9143505e2e53b0",
+      "externalIds": {
+        "MAG": "2990268392",
+        "DBLP": "conf/ismir/KarsdorpKM19",
+        "CorpusId": 208334285
+      },
+      "url": "https://www.semanticscholar.org/paper/9b9e2f7e5fe04b6ecc1bfcdf7a9143505e2e53b0",
+      "title": "Learning Similarity Metrics for Melody Retrieval",
+      "venue": "International Society for Music Information Retrieval Conference",
+      "year": 2019,
+      "referenceCount": 36,
+      "citationCount": 11,
+      "authors": [
+        {
+          "authorId": "2797989",
+          "name": "Folgert Karsdorp"
+        },
+        {
+          "authorId": "1979313",
+          "name": "P. V. Kranenburg"
+        },
+        {
+          "authorId": "24907368",
+          "name": "Enrique Manjavacas"
+        }
+      ]
+    },
+    {
+      "paperId": "596e86f8e612b791bb5e2c4b3d72069db3c3075e",
+      "externalIds": {
+        "MAG": "1567309025",
+        "CorpusId": 61073580
+      },
+      "url": "https://www.semanticscholar.org/paper/596e86f8e612b791bb5e2c4b3d72069db3c3075e",
+      "title": "Melodic Similarity : concepts, procedures, and applications",
+      "venue": "",
+      "year": 1998,
+      "referenceCount": 0,
+      "citationCount": 102,
+      "authors": [
+        {
+          "authorId": "3174497",
+          "name": "Walter B. Hewlett"
+        },
+        {
+          "authorId": "1403627165",
+          "name": "E. Selfridge-Field"
+        }
+      ]
+    },
+    {
+      "paperId": "2cfddd33faf5eca273041dbbd1ea10a7605c5060",
+      "externalIds": {
+        "PubMedCentral": "9152395",
+        "DOI": "10.1155/2022/4999447",
+        "CorpusId": 249057246,
+        "PubMed": "35655518"
+      },
+      "url": "https://www.semanticscholar.org/paper/2cfddd33faf5eca273041dbbd1ea10a7605c5060",
+      "title": "A Study of Piano-Assisted Automated Accompaniment System Based on Heuristic Dynamic Planning",
+      "venue": "Computational Intelligence and Neuroscience",
+      "year": 2022,
+      "referenceCount": 19,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2166299866",
+          "name": "Mengqian Lin"
+        },
+        {
+          "authorId": "2305487980",
+          "name": "Rui Zhao"
+        }
+      ]
+    },
+    {
+      "paperId": "50282e026861f1889e85d9c5f5d49df7fa108482",
+      "externalIds": {
+        "DBLP": "journals/access/TianWGCW20",
+        "MAG": "3081587593",
+        "DOI": "10.1109/ACCESS.2020.3021184",
+        "CorpusId": 221715648
+      },
+      "url": "https://www.semanticscholar.org/paper/50282e026861f1889e85d9c5f5d49df7fa108482",
+      "title": "Plagiarism Detection of Multi-Threaded Programs via Siamese Neural Networks",
+      "venue": "IEEE Access",
+      "year": 2020,
+      "referenceCount": 51,
+      "citationCount": 6,
+      "authors": [
+        {
+          "authorId": "2475464",
+          "name": "Zhenzhou Tian"
+        },
+        {
+          "authorId": "2117944314",
+          "name": "Qing Wang"
+        },
+        {
+          "authorId": "1752880707",
+          "name": "Cong Gao"
+        },
+        {
+          "authorId": "2945314",
+          "name": "Lingwei Chen"
+        },
+        {
+          "authorId": "9180687",
+          "name": "Dinghao Wu"
+        }
+      ]
+    },
+    {
+      "paperId": "17e43b48b19297484c873c04e97bfd094418721a",
+      "externalIds": {
+        "CorpusId": 15124865
+      },
+      "url": "https://www.semanticscholar.org/paper/17e43b48b19297484c873c04e97bfd094418721a",
+      "title": "Title: Scaling and Coordination Deficits during Dynamic Object Manipulation in Parkinson's 1 Disease 2",
+      "venue": "",
+      "year": 2014,
+      "referenceCount": 40,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2794591",
+          "name": "J. Snider"
+        },
+        {
+          "authorId": "2212004",
+          "name": "Dongpyo Lee"
+        },
+        {
+          "authorId": "143899850",
+          "name": "D. Harrington"
+        },
+        {
+          "authorId": "1776035",
+          "name": "H. Poizner"
+        }
+      ]
+    }
+  ]
+}

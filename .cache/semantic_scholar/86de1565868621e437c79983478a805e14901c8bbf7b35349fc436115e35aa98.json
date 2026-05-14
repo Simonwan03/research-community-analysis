@@ -1,0 +1,301 @@
+{
+  "total": 18,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "2be9ae9ace1ec355a606bc714a5647cfbc890659",
+      "externalIds": {
+        "MAG": "2963592905",
+        "ArXiv": "1506.09039",
+        "DBLP": "conf/icml/ChenG16",
+        "CorpusId": 18286871
+      },
+      "url": "https://www.semanticscholar.org/paper/2be9ae9ace1ec355a606bc714a5647cfbc890659",
+      "title": "Scalable Discrete Sampling as a Multi-Armed Bandit Problem",
+      "venue": "International Conference on Machine Learning",
+      "year": 2015,
+      "referenceCount": 42,
+      "citationCount": 17,
+      "authors": [
+        {
+          "authorId": "2275897",
+          "name": "Yutian Chen"
+        },
+        {
+          "authorId": "1744700",
+          "name": "Zoubin Ghahramani"
+        }
+      ]
+    },
+    {
+      "paperId": "46fd17cf86235fd70e8dec50000bd3928e00af71",
+      "externalIds": {
+        "DBLP": "conf/nips/KalvitZ21",
+        "ArXiv": "2106.02126",
+        "CorpusId": 235352552
+      },
+      "url": "https://www.semanticscholar.org/paper/46fd17cf86235fd70e8dec50000bd3928e00af71",
+      "title": "A Closer Look at the Worst-case Behavior of Multi-armed Bandit Algorithms",
+      "venue": "Neural Information Processing Systems",
+      "year": 2021,
+      "referenceCount": 46,
+      "citationCount": 43,
+      "authors": [
+        {
+          "authorId": "51146522",
+          "name": "Anand Kalvit"
+        },
+        {
+          "authorId": "35002939",
+          "name": "A. Zeevi"
+        }
+      ]
+    },
+    {
+      "paperId": "8686fea66b2084c84fb7f76fc1f51981e1b57fde",
+      "externalIds": {
+        "MAG": "2978465060",
+        "DBLP": "journals/corr/abs-1910-02100",
+        "ArXiv": "1910.02100",
+        "DOI": "10.1145/3366701",
+        "CorpusId": 203836130
+      },
+      "url": "https://www.semanticscholar.org/paper/8686fea66b2084c84fb7f76fc1f51981e1b57fde",
+      "title": "Social Learning in Multi Agent Multi Armed Bandits",
+      "venue": "Proceedings of the ACM on Measurement and Analysis of Computing Systems",
+      "year": 2019,
+      "referenceCount": 60,
+      "citationCount": 97,
+      "authors": [
+        {
+          "authorId": "2809149",
+          "name": "Abishek Sankararaman"
+        },
+        {
+          "authorId": "50101444",
+          "name": "A. Ganesh"
+        },
+        {
+          "authorId": "1688634",
+          "name": "S. Shakkottai"
+        }
+      ]
+    },
+    {
+      "paperId": "85c7683711bb919c4d0c640e0c013c09bb61861c",
+      "externalIds": {
+        "ArXiv": "2401.10204",
+        "DBLP": "journals/corr/abs-2401-10204",
+        "DOI": "10.1109/TIT.2024.3522132",
+        "CorpusId": 275853389
+      },
+      "url": "https://www.semanticscholar.org/paper/85c7683711bb919c4d0c640e0c013c09bb61861c",
+      "title": "Maximal-Capacity Discrete Memoryless Channel Identification",
+      "venue": "IEEE Transactions on Information Theory",
+      "year": 2024,
+      "referenceCount": 60,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2154763552",
+          "name": "Maximilian Egger"
+        },
+        {
+          "authorId": "34734023",
+          "name": "Rawad Bitar"
+        },
+        {
+          "authorId": "1388800239",
+          "name": "A. Wachter-Zeh"
+        },
+        {
+          "authorId": "2316634913",
+          "name": "Deniz Gündüz"
+        },
+        {
+          "authorId": "38234690",
+          "name": "Nir Weinberger"
+        }
+      ]
+    },
+    {
+      "paperId": "4fffd2196bfb14d169bf14b33286018de51acd3a",
+      "externalIds": {
+        "DBLP": "conf/isit/EggerBWGW23",
+        "DOI": "10.1109/ISIT54713.2023.10206461",
+        "CorpusId": 261081602
+      },
+      "url": "https://www.semanticscholar.org/paper/4fffd2196bfb14d169bf14b33286018de51acd3a",
+      "title": "Maximal-Capacity Discrete Memoryless Channel Identification",
+      "venue": "International Symposium on Information Theory",
+      "year": 2023,
+      "referenceCount": 36,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "2154763552",
+          "name": "Maximilian Egger"
+        },
+        {
+          "authorId": "34734023",
+          "name": "Rawad Bitar"
+        },
+        {
+          "authorId": "1388800239",
+          "name": "A. Wachter-Zeh"
+        },
+        {
+          "authorId": "1727814",
+          "name": "Deniz Gündüz"
+        },
+        {
+          "authorId": "38234690",
+          "name": "Nir Weinberger"
+        }
+      ]
+    },
+    {
+      "paperId": "40de7dd6755860af49b0a9010e0e73e32db418f1",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2510-19531",
+        "ArXiv": "2510.19531",
+        "DOI": "10.48550/arXiv.2510.19531",
+        "CorpusId": 282272090
+      },
+      "url": "https://www.semanticscholar.org/paper/40de7dd6755860af49b0a9010e0e73e32db418f1",
+      "title": "The Confusing Instance Principle for Online Linear Quadratic Control",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "referenceCount": 57,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2187299844",
+          "name": "Waris Radji"
+        },
+        {
+          "authorId": "1794867",
+          "name": "Odalric-Ambrym Maillard"
+        }
+      ]
+    },
+    {
+      "paperId": "999d9aa831230e7ab080016da142fcfebc9418a7",
+      "externalIds": {
+        "DBLP": "conf/icdm/ParambathAAK24",
+        "DOI": "10.1109/ICDMW65004.2024.00023",
+        "CorpusId": 277111078
+      },
+      "url": "https://www.semanticscholar.org/paper/999d9aa831230e7ab080016da142fcfebc9418a7",
+      "title": "Sequential Block Elimination for Dynamic Pricing",
+      "venue": "2024 IEEE International Conference on Data Mining Workshops (ICDMW)",
+      "year": 2024,
+      "referenceCount": 25,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2066050998",
+          "name": "S. A. Parambath"
+        },
+        {
+          "authorId": "2213411025",
+          "name": "S. Alfahad"
+        },
+        {
+          "authorId": "2314568659",
+          "name": "Christos Anagnostopoulos"
+        },
+        {
+          "authorId": "2823733",
+          "name": "Kostas Kolomvatsos"
+        }
+      ]
+    },
+    {
+      "paperId": "5aeb3a2e00a854219fea5d42ba246bce74bd289d",
+      "externalIds": {
+        "MAG": "1808410902",
+        "DBLP": "journals/corr/GopalanMM13",
+        "CorpusId": 45738902
+      },
+      "url": "https://www.semanticscholar.org/paper/5aeb3a2e00a854219fea5d42ba246bce74bd289d",
+      "title": "Thompson Sampling for Complex Bandit Problems",
+      "venue": "arXiv.org",
+      "year": 2013,
+      "referenceCount": 14,
+      "citationCount": 13,
+      "authors": [
+        {
+          "authorId": "2226401",
+          "name": "Aditya Gopalan"
+        },
+        {
+          "authorId": "1712535",
+          "name": "Shie Mannor"
+        },
+        {
+          "authorId": "144830983",
+          "name": "Y. Mansour"
+        }
+      ]
+    },
+    {
+      "paperId": "6c65218317a99d494d2afebb872aa7e84d30fbd5",
+      "externalIds": {
+        "MAG": "2966820259",
+        "DBLP": "conf/uai/HuM019",
+        "CorpusId": 197660689
+      },
+      "url": "https://www.semanticscholar.org/paper/6c65218317a99d494d2afebb872aa7e84d30fbd5",
+      "title": "Problem-dependent Regret Bounds for Online Learning with Feedback Graphs",
+      "venue": "Conference on Uncertainty in Artificial Intelligence",
+      "year": 2019,
+      "referenceCount": 14,
+      "citationCount": 12,
+      "authors": [
+        {
+          "authorId": "2118095333",
+          "name": "Bingshan Hu"
+        },
+        {
+          "authorId": "144447714",
+          "name": "Nishant A. Mehta"
+        },
+        {
+          "authorId": "145431827",
+          "name": "Jianping Pan"
+        }
+      ]
+    },
+    {
+      "paperId": "797de63d3383a496df04ff2140830590f6fb128e",
+      "externalIds": {
+        "DBLP": "conf/icml/GopalanMM14",
+        "ArXiv": "1311.0466",
+        "MAG": "148122774",
+        "CorpusId": 2059032
+      },
+      "url": "https://www.semanticscholar.org/paper/797de63d3383a496df04ff2140830590f6fb128e",
+      "title": "Thompson Sampling for Complex Online Problems",
+      "venue": "International Conference on Machine Learning",
+      "year": 2013,
+      "referenceCount": 28,
+      "citationCount": 205,
+      "authors": [
+        {
+          "authorId": "2226401",
+          "name": "Aditya Gopalan"
+        },
+        {
+          "authorId": "1712535",
+          "name": "Shie Mannor"
+        },
+        {
+          "authorId": "144830983",
+          "name": "Y. Mansour"
+        }
+      ]
+    }
+  ]
+}

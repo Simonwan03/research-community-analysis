@@ -1,0 +1,296 @@
+{
+  "total": 4203,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "b7584cbddff33f557aa05df72dec28fd9ab86f08",
+      "externalIds": {
+        "MAG": "2469051754",
+        "DBLP": "conf/icml/DEramoRN16",
+        "CorpusId": 6079136
+      },
+      "url": "https://www.semanticscholar.org/paper/b7584cbddff33f557aa05df72dec28fd9ab86f08",
+      "title": "Estimating Maximum Expected Value through Gaussian Approximation",
+      "venue": "International Conference on Machine Learning",
+      "year": 2016,
+      "referenceCount": 14,
+      "citationCount": 45,
+      "authors": [
+        {
+          "authorId": "1399348619",
+          "name": "Carlo D'Eramo"
+        },
+        {
+          "authorId": "1792167",
+          "name": "Marcello Restelli"
+        },
+        {
+          "authorId": "3428870",
+          "name": "Alessandro Nuara"
+        }
+      ]
+    },
+    {
+      "paperId": "19b0f05e7053b00661d14980560d4393949a14c9",
+      "externalIds": {
+        "DBLP": "conf/aaai/DEramoNPR17",
+        "MAG": "2604550840",
+        "DOI": "10.1609/aaai.v31i1.10887",
+        "CorpusId": 29160812
+      },
+      "url": "https://www.semanticscholar.org/paper/19b0f05e7053b00661d14980560d4393949a14c9",
+      "title": "Estimating the Maximum Expected Value in Continuous Reinforcement Learning Problems",
+      "venue": "AAAI Conference on Artificial Intelligence",
+      "year": 2017,
+      "referenceCount": 19,
+      "citationCount": 20,
+      "authors": [
+        {
+          "authorId": "1399348619",
+          "name": "Carlo D'Eramo"
+        },
+        {
+          "authorId": "3428870",
+          "name": "Alessandro Nuara"
+        },
+        {
+          "authorId": "6234609",
+          "name": "Matteo Pirotta"
+        },
+        {
+          "authorId": "1792167",
+          "name": "Marcello Restelli"
+        }
+      ]
+    },
+    {
+      "paperId": "5a55921a9d83049fb0a2c138c706095c1028770d",
+      "externalIds": {
+        "DBLP": "journals/jmlr/DEramoCNPAPR21",
+        "CorpusId": 244837179
+      },
+      "url": "https://www.semanticscholar.org/paper/5a55921a9d83049fb0a2c138c706095c1028770d",
+      "title": "Gaussian Approximation for Bias Reduction in Q-Learning",
+      "venue": "Journal of machine learning research",
+      "year": 2021,
+      "referenceCount": 71,
+      "citationCount": 9,
+      "authors": [
+        {
+          "authorId": "1399348619",
+          "name": "Carlo D'Eramo"
+        },
+        {
+          "authorId": "3428870",
+          "name": "Alessandro Nuara"
+        },
+        {
+          "authorId": "6234609",
+          "name": "Matteo Pirotta"
+        },
+        {
+          "authorId": "1785004",
+          "name": "C. Alippi"
+        },
+        {
+          "authorId": "2107720654",
+          "name": "Jan Peters"
+        }
+      ]
+    },
+    {
+      "paperId": "c28a750b4607b319e6292dba12913893adec52b8",
+      "externalIds": {
+        "PubMedCentral": "11992650",
+        "ArXiv": "2401.16660",
+        "DOI": "10.1177/0272989X251324936",
+        "CorpusId": 267320762,
+        "PubMed": "40110682"
+      },
+      "url": "https://www.semanticscholar.org/paper/c28a750b4607b319e6292dba12913893adec52b8",
+      "title": "A Nonparametric Approach for Estimating the Effective Sample Size in Gaussian Approximation of Expected Value of Sample Information",
+      "venue": "Medical decision making",
+      "year": 2024,
+      "referenceCount": 9,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2281901870",
+          "name": "Linke Li"
+        },
+        {
+          "authorId": "5409318",
+          "name": "Hawre Jalal"
+        },
+        {
+          "authorId": "2281825453",
+          "name": "A. Heath"
+        }
+      ]
+    },
+    {
+      "paperId": "675e5c9a2fa4c81e7699d4cde8c6fb6254dfaf37",
+      "externalIds": {
+        "PubMedCentral": "11492544",
+        "DOI": "10.1177/0272989X241264287",
+        "CorpusId": 271569862,
+        "PubMed": "39082512"
+      },
+      "url": "https://www.semanticscholar.org/paper/675e5c9a2fa4c81e7699d4cde8c6fb6254dfaf37",
+      "title": "Accurate EVSI Estimation for Nonlinear Models Using the Gaussian Approximation Method",
+      "venue": "Medical decision making",
+      "year": 2024,
+      "referenceCount": 46,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2281901870",
+          "name": "Linke Li"
+        },
+        {
+          "authorId": "5409318",
+          "name": "Hawre Jalal"
+        },
+        {
+          "authorId": "2281825453",
+          "name": "A. Heath"
+        }
+      ]
+    },
+    {
+      "paperId": "118bdb1a809f1e3b1059dde8e8a2e25580a94a50",
+      "externalIds": {
+        "ArXiv": "2401.17393",
+        "CorpusId": 267335242
+      },
+      "url": "https://www.semanticscholar.org/paper/118bdb1a809f1e3b1059dde8e8a2e25580a94a50",
+      "title": "Estimating the EVSI with Gaussian Approximations and Spline-Based Series Methods",
+      "venue": "",
+      "year": 2024,
+      "referenceCount": 39,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2281901870",
+          "name": "Linke Li"
+        },
+        {
+          "authorId": "5409318",
+          "name": "Hawre Jalal"
+        },
+        {
+          "authorId": "2281825453",
+          "name": "A. Heath"
+        }
+      ]
+    },
+    {
+      "paperId": "3f2d3283beba036fa9e1218121c94b58474b30ca",
+      "externalIds": {
+        "DBLP": "conf/taai/ImagawaK17",
+        "MAG": "2802633170",
+        "DOI": "10.1109/TAAI.2017.19",
+        "CorpusId": 13713803
+      },
+      "url": "https://www.semanticscholar.org/paper/3f2d3283beba036fa9e1218121c94b58474b30ca",
+      "title": "Estimating the Maximum Expected Value through Upper Confidence Bound of Likelihood",
+      "venue": "International Conference on Technologies and Applications of Artificial Intelligence",
+      "year": 2017,
+      "referenceCount": 13,
+      "citationCount": 5,
+      "authors": [
+        {
+          "authorId": "22312167",
+          "name": "Takahisa Imagawa"
+        },
+        {
+          "authorId": "48999027",
+          "name": "Tomoyuki Kaneko"
+        }
+      ]
+    },
+    {
+      "paperId": "42cc1ea1a3c9fef41f65ab043cfd417b53b9dc94",
+      "externalIds": {
+        "MAG": "2952499606",
+        "PubMedCentral": "5031203",
+        "ArXiv": "1504.05436",
+        "DOI": "10.1002/sim.6983",
+        "CorpusId": 3599038,
+        "PubMed": "27189534"
+      },
+      "url": "https://www.semanticscholar.org/paper/42cc1ea1a3c9fef41f65ab043cfd417b53b9dc94",
+      "title": "Estimating the expected value of partial perfect information in health economic evaluations using integrated nested Laplace approximation",
+      "venue": "Statistics in Medicine",
+      "year": 2015,
+      "referenceCount": 85,
+      "citationCount": 47,
+      "authors": [
+        {
+          "authorId": "1637350750",
+          "name": "Anna Heath"
+        },
+        {
+          "authorId": "2273778",
+          "name": "I. Manolopoulou"
+        },
+        {
+          "authorId": "1903468",
+          "name": "G. Baio"
+        }
+      ]
+    },
+    {
+      "paperId": "cec260e6751945317b927fc95c8552357afdf27b",
+      "externalIds": {
+        "DBLP": "journals/computation/LehdiliON25",
+        "DOI": "10.3390/computation13060134",
+        "CorpusId": 279144448
+      },
+      "url": "https://www.semanticscholar.org/paper/cec260e6751945317b927fc95c8552357afdf27b",
+      "title": "Performance-Enhancing Market Risk Calculation Through Gaussian Process Regression and Multi-Fidelity Modeling",
+      "venue": "De Computis",
+      "year": 2025,
+      "referenceCount": 30,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2333498579",
+          "name": "N. Lehdili"
+        },
+        {
+          "authorId": "2333490423",
+          "name": "P. Oswald"
+        },
+        {
+          "authorId": "2290127592",
+          "name": "H. D. Nguyen"
+        }
+      ]
+    },
+    {
+      "paperId": "1d33049e7a871baadccb87d7131ad4fe97cf9e00",
+      "externalIds": {
+        "ArXiv": "2604.10232",
+        "CorpusId": 287425167
+      },
+      "url": "https://www.semanticscholar.org/paper/1d33049e7a871baadccb87d7131ad4fe97cf9e00",
+      "title": "Gaussian approximation for maximum score and non-smooth M-estimators with multiway dependence",
+      "venue": "",
+      "year": 2026,
+      "referenceCount": 38,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "144588838",
+          "name": "Harold D. Chiang"
+        },
+        {
+          "authorId": "72693886",
+          "name": "A. Rafi"
+        }
+      ]
+    }
+  ]
+}

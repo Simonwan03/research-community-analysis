@@ -1,0 +1,316 @@
+{
+  "total": 225,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "66edb2a8d33db2d133d3a3c8c032a06a95c6cd3b",
+      "externalIds": {
+        "MAG": "2270245739",
+        "ArXiv": "1602.02355",
+        "DBLP": "conf/icml/Pedregosa16",
+        "CorpusId": 552516
+      },
+      "url": "https://www.semanticscholar.org/paper/66edb2a8d33db2d133d3a3c8c032a06a95c6cd3b",
+      "title": "Hyperparameter optimization with approximate gradient",
+      "venue": "International Conference on Machine Learning",
+      "year": 2016,
+      "referenceCount": 40,
+      "citationCount": 508,
+      "authors": [
+        {
+          "authorId": "2570016",
+          "name": "Fabian Pedregosa"
+        }
+      ]
+    },
+    {
+      "paperId": "94abe5d83c4fb0a5619e1b4c9111e5a1bd48b682",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2208-12118",
+        "ArXiv": "2208.12118",
+        "DOI": "10.48550/arXiv.2208.12118",
+        "CorpusId": 251799836
+      },
+      "url": "https://www.semanticscholar.org/paper/94abe5d83c4fb0a5619e1b4c9111e5a1bd48b682",
+      "title": "A Globally Convergent Gradient-based Bilevel Hyperparameter Optimization Method",
+      "venue": "arXiv.org",
+      "year": 2022,
+      "referenceCount": 30,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "40411516",
+          "name": "Ankur Sinha"
+        },
+        {
+          "authorId": "2182687632",
+          "name": "Satender Gunwal"
+        },
+        {
+          "authorId": "2182663861",
+          "name": "Shivam Kumar"
+        }
+      ]
+    },
+    {
+      "paperId": "22a9216387c4d559d427f8200c6d6fe3ce6e2375",
+      "externalIds": {
+        "DBLP": "journals/tce/SinghSRN26",
+        "DOI": "10.1109/TCE.2026.3656716",
+        "CorpusId": 284989849
+      },
+      "url": "https://www.semanticscholar.org/paper/22a9216387c4d559d427f8200c6d6fe3ce6e2375",
+      "title": "Gradient-Based Compression and Approximate Computing for Deep Network Optimization in Multimedia Data Processing",
+      "venue": "IEEE transactions on consumer electronics",
+      "year": 2026,
+      "referenceCount": 53,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2283591002",
+          "name": "V. K. Singh"
+        },
+        {
+          "authorId": "2359264449",
+          "name": "Jagpreet Singh"
+        },
+        {
+          "authorId": "2258756270",
+          "name": "Rajkumar Singh Rathore"
+        },
+        {
+          "authorId": "112847380",
+          "name": "D. Nema"
+        }
+      ]
+    },
+    {
+      "paperId": "77d6d335672689f70473803558f81c87ec65234b",
+      "externalIds": {
+        "MAG": "2989730489",
+        "CorpusId": 215513533
+      },
+      "url": "https://www.semanticscholar.org/paper/77d6d335672689f70473803558f81c87ec65234b",
+      "title": "A Gradient-based Architecture HyperParameter Optimization Approach",
+      "venue": "",
+      "year": 2019,
+      "referenceCount": 62,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2109370860",
+          "name": "Zechun Liu"
+        },
+        {
+          "authorId": "50875121",
+          "name": "Xiangyu Zhang"
+        },
+        {
+          "authorId": "2109737990",
+          "name": "Zhe Li"
+        },
+        {
+          "authorId": "1732264",
+          "name": "Yichen Wei"
+        },
+        {
+          "authorId": "2256381600",
+          "name": "Kwang-Ting Cheng"
+        },
+        {
+          "authorId": "2152147773",
+          "name": "Jian Sun"
+        }
+      ]
+    },
+    {
+      "paperId": "15561ab20c298e113b0008b7a029486a422e7ca3",
+      "externalIds": {
+        "MAG": "2949709344",
+        "DBLP": "journals/corr/abs-1806-04910",
+        "ArXiv": "1806.04910",
+        "CorpusId": 49194806
+      },
+      "url": "https://www.semanticscholar.org/paper/15561ab20c298e113b0008b7a029486a422e7ca3",
+      "title": "Bilevel Programming for Hyperparameter Optimization and Meta-Learning",
+      "venue": "International Conference on Machine Learning",
+      "year": 2018,
+      "referenceCount": 47,
+      "citationCount": 836,
+      "authors": [
+        {
+          "authorId": "39883180",
+          "name": "Luca Franceschi"
+        },
+        {
+          "authorId": "1688235",
+          "name": "P. Frasconi"
+        },
+        {
+          "authorId": "2212342",
+          "name": "Saverio Salzo"
+        },
+        {
+          "authorId": "51004518",
+          "name": "Riccardo Grazzi"
+        },
+        {
+          "authorId": "1704699",
+          "name": "M. Pontil"
+        }
+      ]
+    },
+    {
+      "paperId": "72819e56b779ecdeae811f36e60b446b04d32394",
+      "externalIds": {
+        "DBLP": "conf/aaai/ShiG21",
+        "DOI": "10.1609/aaai.v35i11.17158",
+        "CorpusId": 235349003
+      },
+      "url": "https://www.semanticscholar.org/paper/72819e56b779ecdeae811f36e60b446b04d32394",
+      "title": "Improved Penalty Method via Doubly Stochastic Gradients for Bilevel Hyperparameter Optimization",
+      "venue": "AAAI Conference on Artificial Intelligence",
+      "year": 2021,
+      "referenceCount": 36,
+      "citationCount": 6,
+      "authors": [
+        {
+          "authorId": "1894626267",
+          "name": "Wanli Shi"
+        },
+        {
+          "authorId": "1491240128",
+          "name": "Bin Gu"
+        }
+      ]
+    },
+    {
+      "paperId": "386c030c671bdc7429f0d237b3c0e6eb935dc766",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2212-06150",
+        "ArXiv": "2212.06150",
+        "DOI": "10.1109/ICFTIC57696.2022.10075259",
+        "CorpusId": 254591589
+      },
+      "url": "https://www.semanticscholar.org/paper/386c030c671bdc7429f0d237b3c0e6eb935dc766",
+      "title": "CPMLHO: Hyperparameter Tuning via Cutting Plane and Mixed-Level Optimization",
+      "venue": "2022 4th International Conference on Frontiers Technology of Information and Computer (ICFTIC)",
+      "year": 2022,
+      "referenceCount": 24,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2303855268",
+          "name": "Shuo Yang"
+        },
+        {
+          "authorId": "2055181125",
+          "name": "Yang Jiao"
+        },
+        {
+          "authorId": "10675825",
+          "name": "Shaoyu Dou"
+        },
+        {
+          "authorId": "32421377",
+          "name": "Mana Zheng"
+        },
+        {
+          "authorId": "2162203362",
+          "name": "Chen Zhu"
+        }
+      ]
+    },
+    {
+      "paperId": "1e9d212e56434a4d5db456533dcb9607fd3e18d2",
+      "externalIds": {
+        "ArXiv": "2206.14412",
+        "DOI": "10.1103/PhysRevA.105.032433",
+        "CorpusId": 248852259
+      },
+      "url": "https://www.semanticscholar.org/paper/1e9d212e56434a4d5db456533dcb9607fd3e18d2",
+      "title": "Automatic Depth Optimization for Quantum Approximate Optimization Algorithm",
+      "venue": "",
+      "year": 2022,
+      "referenceCount": 45,
+      "citationCount": 11,
+      "authors": [
+        {
+          "authorId": "143749869",
+          "name": "Y. Pan"
+        },
+        {
+          "authorId": "98097559",
+          "name": "Yi-Xiang Tong"
+        },
+        {
+          "authorId": "2143686778",
+          "name": "Yi Yang"
+        }
+      ]
+    },
+    {
+      "paperId": "07c53171617771fa90ef90002a4f8d7e8461a2fb",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-1806-04941",
+        "MAG": "2808123587",
+        "ArXiv": "1806.04941",
+        "CorpusId": 49193817
+      },
+      "url": "https://www.semanticscholar.org/paper/07c53171617771fa90ef90002a4f8d7e8461a2fb",
+      "title": "Far-HO: A Bilevel Programming Package for Hyperparameter Optimization and Meta-Learning",
+      "venue": "arXiv.org",
+      "year": 2018,
+      "referenceCount": 20,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "39883180",
+          "name": "Luca Franceschi"
+        },
+        {
+          "authorId": "51004518",
+          "name": "Riccardo Grazzi"
+        },
+        {
+          "authorId": "1704699",
+          "name": "M. Pontil"
+        },
+        {
+          "authorId": "2212342",
+          "name": "Saverio Salzo"
+        },
+        {
+          "authorId": "1688235",
+          "name": "P. Frasconi"
+        }
+      ]
+    },
+    {
+      "paperId": "1f1f7407ad024bf32504b007fa1067bd3db49497",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2510-19226",
+        "ArXiv": "2510.19226",
+        "DOI": "10.48550/arXiv.2510.19226",
+        "CorpusId": 282272704
+      },
+      "url": "https://www.semanticscholar.org/paper/1f1f7407ad024bf32504b007fa1067bd3db49497",
+      "title": "Controllable Machine Unlearning via Gradient Pivoting",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "referenceCount": 42,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2323503259",
+          "name": "Youngsik Hwang"
+        },
+        {
+          "authorId": "2323376103",
+          "name": "Dong-Young Lim"
+        }
+      ]
+    }
+  ]
+}

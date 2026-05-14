@@ -1,0 +1,293 @@
+{
+  "total": 261,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "4debb99c0c63bfaa97dd433bc2828e4dac81c48b",
+      "externalIds": {
+        "MAG": "2963923407",
+        "DBLP": "journals/corr/abs-1802-09477",
+        "ArXiv": "1802.09477",
+        "CorpusId": 3544558
+      },
+      "url": "https://www.semanticscholar.org/paper/4debb99c0c63bfaa97dd433bc2828e4dac81c48b",
+      "title": "Addressing Function Approximation Error in Actor-Critic Methods",
+      "venue": "International Conference on Machine Learning",
+      "year": 2018,
+      "referenceCount": 50,
+      "citationCount": 6689,
+      "authors": [
+        {
+          "authorId": "14637819",
+          "name": "Scott Fujimoto"
+        },
+        {
+          "authorId": "47662867",
+          "name": "H. V. Hoof"
+        },
+        {
+          "authorId": "2462512",
+          "name": "D. Meger"
+        }
+      ]
+    },
+    {
+      "paperId": "d59333ec25fedff5358589a00043160f87148d32",
+      "externalIds": {
+        "CorpusId": 260495534
+      },
+      "url": "https://www.semanticscholar.org/paper/d59333ec25fedff5358589a00043160f87148d32",
+      "title": "Addressing Function Approximation Error in Actor-Critic Methods : Supplementary Material A . Proof of Convergence of Clipped Double Q-Learning",
+      "venue": "",
+      "year": 2018,
+      "referenceCount": 4,
+      "citationCount": 0,
+      "authors": []
+    },
+    {
+      "paperId": "cd1519ccd136a3808139c8e0da1c885a0d4f5f03",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2504-09929",
+        "ArXiv": "2504.09929",
+        "DOI": "10.48550/arXiv.2504.09929",
+        "CorpusId": 277781692
+      },
+      "url": "https://www.semanticscholar.org/paper/cd1519ccd136a3808139c8e0da1c885a0d4f5f03",
+      "title": "Moderate Actor-Critic Methods: Controlling Overestimation Bias via Expectile Loss",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "referenceCount": 43,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2216810813",
+          "name": "Ukjo Hwang"
+        },
+        {
+          "authorId": "2154321064",
+          "name": "Songnam Hong"
+        }
+      ]
+    },
+    {
+      "paperId": "1f5cce4456bf5143f5a1d9e79fc65a9e6e768292",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2406-01762",
+        "ArXiv": "2406.01762",
+        "DOI": "10.48550/arXiv.2406.01762",
+        "CorpusId": 270226415
+      },
+      "url": "https://www.semanticscholar.org/paper/1f5cce4456bf5143f5a1d9e79fc65a9e6e768292",
+      "title": "Non-Asymptotic Analysis for Single-Loop (Natural) Actor-Critic with Compatible Function Approximation",
+      "venue": "International Conference on Machine Learning",
+      "year": 2024,
+      "referenceCount": 0,
+      "citationCount": 11,
+      "authors": [
+        {
+          "authorId": "2218229013",
+          "name": "Yudan Wang"
+        },
+        {
+          "authorId": "2248994200",
+          "name": "Yue Wang"
+        },
+        {
+          "authorId": "2293545384",
+          "name": "Yi Zhou"
+        },
+        {
+          "authorId": "2275365726",
+          "name": "Shaofeng Zou"
+        }
+      ]
+    },
+    {
+      "paperId": "fe6be96be8d023a026f7754c8421fb3c3c6a72eb",
+      "externalIds": {
+        "ArXiv": "2305.15249",
+        "DBLP": "journals/corr/abs-2305-15249",
+        "DOI": "10.48550/arXiv.2305.15249",
+        "CorpusId": 258865806
+      },
+      "url": "https://www.semanticscholar.org/paper/fe6be96be8d023a026f7754c8421fb3c3c6a72eb",
+      "title": "Decision-Aware Actor-Critic with Function Approximation and Theoretical Guarantees",
+      "venue": "Neural Information Processing Systems",
+      "year": 2023,
+      "referenceCount": 65,
+      "citationCount": 6,
+      "authors": [
+        {
+          "authorId": "1711940",
+          "name": "Sharan Vaswani"
+        },
+        {
+          "authorId": "52209245",
+          "name": "A. Kazemi"
+        },
+        {
+          "authorId": "2207121",
+          "name": "Reza Babanezhad"
+        },
+        {
+          "authorId": "7245737",
+          "name": "Nicolas Le Roux"
+        }
+      ]
+    },
+    {
+      "paperId": "f3e1417a3552679e53dab907a61dca458f47f3bd",
+      "externalIds": {
+        "ArXiv": "2306.11271",
+        "DBLP": "journals/corr/abs-2306-11271",
+        "DOI": "10.48550/arXiv.2306.11271",
+        "CorpusId": 259203058
+      },
+      "url": "https://www.semanticscholar.org/paper/f3e1417a3552679e53dab907a61dca458f47f3bd",
+      "title": "Warm-Start Actor-Critic: From Approximation Error to Sub-optimality Gap",
+      "venue": "International Conference on Machine Learning",
+      "year": 2023,
+      "referenceCount": 59,
+      "citationCount": 4,
+      "authors": [
+        {
+          "authorId": "2155266301",
+          "name": "Hang Wang"
+        },
+        {
+          "authorId": "1641386905",
+          "name": "Sen Lin"
+        },
+        {
+          "authorId": "2144124930",
+          "name": "Junshan Zhang"
+        }
+      ]
+    },
+    {
+      "paperId": "38e36cbb83b1b39c07771083ac56df9a32a44bf0",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2501-10605",
+        "ArXiv": "2501.10605",
+        "DOI": "10.48550/arXiv.2501.10605",
+        "CorpusId": 275758503
+      },
+      "url": "https://www.semanticscholar.org/paper/38e36cbb83b1b39c07771083ac56df9a32a44bf0",
+      "title": "Wasserstein Adaptive Value Estimation for Actor-Critic Reinforcement Learning",
+      "venue": "Conference on Learning for Dynamics & Control",
+      "year": 2025,
+      "referenceCount": 18,
+      "citationCount": 4,
+      "authors": [
+        {
+          "authorId": "2410431",
+          "name": "Ali Baheri"
+        },
+        {
+          "authorId": "2341335885",
+          "name": "Zahra Sharooei"
+        },
+        {
+          "authorId": "2341335629",
+          "name": "Chirayu Salgarkar"
+        }
+      ]
+    },
+    {
+      "paperId": "91eba6a8c5db1b48d80df46a729620ae5d285dc7",
+      "externalIds": {
+        "DOI": "10.1109/CSIS-IAC65538.2025.11162050",
+        "CorpusId": 281605407
+      },
+      "url": "https://www.semanticscholar.org/paper/91eba6a8c5db1b48d80df46a729620ae5d285dc7",
+      "title": "Adaptive Cooperative Control for Nonlinear Multi-Agent Systems Using NN-Based Actor-Critic Structure",
+      "venue": "2025 IEEE International Annual Conference on Complex Systems and Intelligent Science (CSIS-IAC)",
+      "year": 2025,
+      "referenceCount": 20,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2380637229",
+          "name": "Lin Liu"
+        },
+        {
+          "authorId": "2075400516",
+          "name": "Biao Luo"
+        }
+      ]
+    },
+    {
+      "paperId": "423ed4ebb1c8b23cabf2ca36a5c5c28c86874fb0",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2109-10736",
+        "ArXiv": "2109.10736",
+        "DOI": "10.1109/ICTAI52525.2021.00027",
+        "CorpusId": 237593082
+      },
+      "url": "https://www.semanticscholar.org/paper/423ed4ebb1c8b23cabf2ca36a5c5c28c86874fb0",
+      "title": "Estimation Error Correction in Deep Reinforcement Learning for Deterministic Actor-Critic Methods",
+      "venue": "IEEE International Conference on Tools with Artificial Intelligence",
+      "year": 2021,
+      "referenceCount": 33,
+      "citationCount": 14,
+      "authors": [
+        {
+          "authorId": "2127728640",
+          "name": "Baturay Sağlam"
+        },
+        {
+          "authorId": "2127743985",
+          "name": "Enes Duran"
+        },
+        {
+          "authorId": "2127730684",
+          "name": "D. Çiçek"
+        },
+        {
+          "authorId": "2127736071",
+          "name": "F. Mutlu"
+        },
+        {
+          "authorId": "1685178",
+          "name": "S. Kozat"
+        }
+      ]
+    },
+    {
+      "paperId": "ec525010a2966093c032c2f1cc38fcc4d08587ad",
+      "externalIds": {
+        "ArXiv": "2311.00201",
+        "CorpusId": 264832920
+      },
+      "url": "https://www.semanticscholar.org/paper/ec525010a2966093c032c2f1cc38fcc4d08587ad",
+      "title": "Federated Natural Policy Gradient and Actor Critic Methods for Multi-task Reinforcement Learning",
+      "venue": "",
+      "year": 2023,
+      "referenceCount": 0,
+      "citationCount": 10,
+      "authors": [
+        {
+          "authorId": "2263762687",
+          "name": "Tong Yang"
+        },
+        {
+          "authorId": "113407411",
+          "name": "Shicong Cen"
+        },
+        {
+          "authorId": "2263999923",
+          "name": "Yuting Wei"
+        },
+        {
+          "authorId": "2264420174",
+          "name": "Yuxin Chen"
+        },
+        {
+          "authorId": "2257001378",
+          "name": "Yuejie Chi"
+        }
+      ]
+    }
+  ]
+}

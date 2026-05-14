@@ -1,0 +1,322 @@
+{
+  "total": 93,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "952f5a9a3c7f6f7d91eebe791c0cc0316ab1845a",
+      "externalIds": {
+        "MAG": "2950720464",
+        "ArXiv": "1705.05366",
+        "DBLP": "conf/icml/FalahatgarOPS17",
+        "CorpusId": 628638
+      },
+      "url": "https://www.semanticscholar.org/paper/952f5a9a3c7f6f7d91eebe791c0cc0316ab1845a",
+      "title": "Maximum Selection and Ranking under Noisy Comparisons",
+      "venue": "International Conference on Machine Learning",
+      "year": 2017,
+      "referenceCount": 32,
+      "citationCount": 54,
+      "authors": [
+        {
+          "authorId": "3307448",
+          "name": "Moein Falahatgar"
+        },
+        {
+          "authorId": "1691155",
+          "name": "A. Orlitsky"
+        },
+        {
+          "authorId": "1871787",
+          "name": "Venkatadheeraj Pichapati"
+        },
+        {
+          "authorId": "9486035",
+          "name": "A. Suresh"
+        }
+      ]
+    },
+    {
+      "paperId": "5119db3be09200428c0273599270a74c26ccb6cd",
+      "externalIds": {
+        "ArXiv": "2012.12550",
+        "DOI": "10.3982/ecta19304",
+        "CorpusId": 229363623
+      },
+      "url": "https://www.semanticscholar.org/paper/5119db3be09200428c0273599270a74c26ccb6cd",
+      "title": "Invidious Comparisons: Ranking and Selection as Compound Decisions",
+      "venue": "Econometrica",
+      "year": 2020,
+      "referenceCount": 73,
+      "citationCount": 39,
+      "authors": [
+        {
+          "authorId": "9534148",
+          "name": "J. Gu"
+        },
+        {
+          "authorId": "8923238",
+          "name": "R. Koenker"
+        }
+      ]
+    },
+    {
+      "paperId": "930c1f02b32baa6e47106b7549a156f2eaebc8af",
+      "externalIds": {
+        "ArXiv": "2501.02505",
+        "DOI": "10.1038/s42005-025-02461-y",
+        "CorpusId": 275336922
+      },
+      "url": "https://www.semanticscholar.org/paper/930c1f02b32baa6e47106b7549a156f2eaebc8af",
+      "title": "Estimation of partial rankings from sparse, noisy comparisons",
+      "venue": "Communications Physics",
+      "year": 2025,
+      "referenceCount": 84,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "1749516463",
+          "name": "Sebastian Morel-Balbi"
+        },
+        {
+          "authorId": "2300284603",
+          "name": "Alec Kirkley"
+        }
+      ]
+    },
+    {
+      "paperId": "3863b851c8a51d44191bf61ca6571724ae5b9e58",
+      "externalIds": {
+        "ArXiv": "2507.09388",
+        "DOI": "10.1080/01621459.2026.2612773",
+        "CorpusId": 280297823
+      },
+      "url": "https://www.semanticscholar.org/paper/3863b851c8a51d44191bf61ca6571724ae5b9e58",
+      "title": "Optimal Differentially Private Ranking from Pairwise Comparisons*",
+      "venue": "Journal of the American Statistical Association",
+      "year": 2025,
+      "referenceCount": 53,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "2305665729",
+          "name": "T. Cai"
+        },
+        {
+          "authorId": "2281827810",
+          "name": "Abhinav Chakraborty"
+        },
+        {
+          "authorId": "2373432818",
+          "name": "Yichen Wang"
+        }
+      ]
+    },
+    {
+      "paperId": "8dbd1a0e1720beaee0091a8db78f998acca56140",
+      "externalIds": {
+        "DBLP": "conf/cvpr/0040000GRXCM21",
+        "ArXiv": "2103.16047",
+        "DOI": "10.1109/CVPR46437.2021.00674",
+        "CorpusId": 232417299
+      },
+      "url": "https://www.semanticscholar.org/paper/8dbd1a0e1720beaee0091a8db78f998acca56140",
+      "title": "Noise-resistant Deep Metric Learning with Ranking-based Instance Selection",
+      "venue": "Computer Vision and Pattern Recognition",
+      "year": 2021,
+      "referenceCount": 59,
+      "citationCount": 43,
+      "authors": [
+        {
+          "authorId": "2144546171",
+          "name": "Chang Liu"
+        },
+        {
+          "authorId": "9380191",
+          "name": "Han Yu"
+        },
+        {
+          "authorId": "1728712",
+          "name": "Boyang Albert Li"
+        },
+        {
+          "authorId": "144506018",
+          "name": "Zhiqi Shen"
+        },
+        {
+          "authorId": "2687716",
+          "name": "Zhanning Gao"
+        },
+        {
+          "authorId": "3246404",
+          "name": "Peiran Ren"
+        },
+        {
+          "authorId": "65863521",
+          "name": "Xuansong Xie"
+        },
+        {
+          "authorId": "101457473",
+          "name": "Li-zhen Cui"
+        },
+        {
+          "authorId": "1679209",
+          "name": "C. Miao"
+        }
+      ]
+    },
+    {
+      "paperId": "78c16978314573be18c31f49a000b862afdba867",
+      "externalIds": {
+        "DBLP": "conf/nips/RenLS21",
+        "CorpusId": 245122515
+      },
+      "url": "https://www.semanticscholar.org/paper/78c16978314573be18c31f49a000b862afdba867",
+      "title": "Sample Complexity Bounds for Active Ranking from Multi-wise Comparisons",
+      "venue": "Neural Information Processing Systems",
+      "year": 2021,
+      "referenceCount": 23,
+      "citationCount": 5,
+      "authors": [
+        {
+          "authorId": "2075335822",
+          "name": "Wenbo Ren"
+        },
+        {
+          "authorId": "48210927",
+          "name": "Jia Liu"
+        },
+        {
+          "authorId": "1750487",
+          "name": "N. Shroff"
+        }
+      ]
+    },
+    {
+      "paperId": "1c1cd15d5319998db03eb8339bb349f17ae2a120",
+      "externalIds": {
+        "ArXiv": "2604.17805",
+        "CorpusId": 287634679
+      },
+      "url": "https://www.semanticscholar.org/paper/1c1cd15d5319998db03eb8339bb349f17ae2a120",
+      "title": "Ranking Abuse via Strategic Pairwise Data Perturbations",
+      "venue": "",
+      "year": 2026,
+      "referenceCount": 10,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2361675966",
+          "name": "Junyi Yao"
+        },
+        {
+          "authorId": "2337235108",
+          "name": "Zihao Zheng"
+        },
+        {
+          "authorId": "9584838",
+          "name": "Jiayu Long"
+        }
+      ]
+    },
+    {
+      "paperId": "8b97b375359fd9495bf89c8e16ddd5867b0daf4f",
+      "externalIds": {
+        "MAG": "2550094915",
+        "DOI": "10.1177/0954409716677075",
+        "CorpusId": 18328114
+      },
+      "url": "https://www.semanticscholar.org/paper/8b97b375359fd9495bf89c8e16ddd5867b0daf4f",
+      "title": "Selection and ranking of the main beam geometry of a freight wagon for lightweighting",
+      "venue": "",
+      "year": 2018,
+      "referenceCount": 37,
+      "citationCount": 7,
+      "authors": [
+        {
+          "authorId": "67158539",
+          "name": "E. Matsika"
+        },
+        {
+          "authorId": "1410551377",
+          "name": "Conor O’Neill"
+        },
+        {
+          "authorId": "47977755",
+          "name": "M. Grasso"
+        },
+        {
+          "authorId": "2125539463",
+          "name": "Antonio De Iorio"
+        }
+      ]
+    },
+    {
+      "paperId": "eb61d83d4b23b6d7677cb21342a190a0932c5111",
+      "externalIds": {
+        "DOI": "10.3390/computers15020119",
+        "CorpusId": 285500473
+      },
+      "url": "https://www.semanticscholar.org/paper/eb61d83d4b23b6d7677cb21342a190a0932c5111",
+      "title": "Evaluating LLMs for Source Code Generation and Summarization Using Machine Learning Classification and Ranking",
+      "venue": "Computers",
+      "year": 2026,
+      "referenceCount": 48,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2046871610",
+          "name": "H. Mahfoodh"
+        },
+        {
+          "authorId": "2384900257",
+          "name": "M. Hammad"
+        },
+        {
+          "authorId": "2410195842",
+          "name": "Bassam A. Y. Alqaralleh"
+        },
+        {
+          "authorId": "2200797",
+          "name": "A. Zreikat"
+        }
+      ]
+    },
+    {
+      "paperId": "0c1e3a288ac3a5850c4c1df65e306fc95037a00d",
+      "externalIds": {
+        "DBLP": "conf/nips/FalahatgarHOPR17",
+        "MAG": "2751647711",
+        "CorpusId": 9091786
+      },
+      "url": "https://www.semanticscholar.org/paper/0c1e3a288ac3a5850c4c1df65e306fc95037a00d",
+      "title": "Maxing and Ranking with Few Assumptions",
+      "venue": "Neural Information Processing Systems",
+      "year": 2017,
+      "referenceCount": 14,
+      "citationCount": 44,
+      "authors": [
+        {
+          "authorId": "3307448",
+          "name": "Moein Falahatgar"
+        },
+        {
+          "authorId": "145303610",
+          "name": "Yi Hao"
+        },
+        {
+          "authorId": "1691155",
+          "name": "A. Orlitsky"
+        },
+        {
+          "authorId": "1871787",
+          "name": "Venkatadheeraj Pichapati"
+        },
+        {
+          "authorId": "3408051",
+          "name": "V. Ravindrakumar"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,286 @@
+{
+  "total": 271,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "f4454131354a64362a232ce80e7e22157a84a4cc",
+      "externalIds": {
+        "MAG": "2210740898",
+        "DBLP": "conf/icml/ZhangYJXZ16",
+        "ArXiv": "1509.07728",
+        "CorpusId": 12620738
+      },
+      "url": "https://www.semanticscholar.org/paper/f4454131354a64362a232ce80e7e22157a84a4cc",
+      "title": "Online Stochastic Linear Optimization under One-bit Feedback",
+      "venue": "International Conference on Machine Learning",
+      "year": 2015,
+      "referenceCount": 42,
+      "citationCount": 70,
+      "authors": [
+        {
+          "authorId": "2108876951",
+          "name": "Lijun Zhang"
+        },
+        {
+          "authorId": "40381920",
+          "name": "Tianbao Yang"
+        },
+        {
+          "authorId": "144723884",
+          "name": "Rong Jin"
+        },
+        {
+          "authorId": "22646503",
+          "name": "Y. Xiao"
+        },
+        {
+          "authorId": "145624000",
+          "name": "Zhi-Hua Zhou"
+        }
+      ]
+    },
+    {
+      "paperId": "eaa5e873c611c7a6c19127fb2eaa2f4f67601a1c",
+      "externalIds": {
+        "ArXiv": "2511.10473",
+        "CorpusId": 282991894
+      },
+      "url": "https://www.semanticscholar.org/paper/eaa5e873c611c7a6c19127fb2eaa2f4f67601a1c",
+      "title": "Riccati-ZORO: An efficient algorithm for heuristic online optimization of internal feedback laws in robust and stochastic model predictive control",
+      "venue": "",
+      "year": 2025,
+      "referenceCount": 37,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "152209644",
+          "name": "Florian Messerer"
+        },
+        {
+          "authorId": "2265757852",
+          "name": "Yunfan Gao"
+        },
+        {
+          "authorId": "147066952",
+          "name": "Jonathan Frey"
+        },
+        {
+          "authorId": "2281035481",
+          "name": "Moritz Diehl"
+        }
+      ]
+    },
+    {
+      "paperId": "551e19e5113cdff60a3c545d684fc4b9eb9a7306",
+      "externalIds": {
+        "MAG": "50486269",
+        "DBLP": "conf/colt/DaniHK08",
+        "CorpusId": 9134969
+      },
+      "url": "https://www.semanticscholar.org/paper/551e19e5113cdff60a3c545d684fc4b9eb9a7306",
+      "title": "Stochastic Linear Optimization under Bandit Feedback",
+      "venue": "Annual Conference Computational Learning Theory",
+      "year": 2008,
+      "referenceCount": 16,
+      "citationCount": 946,
+      "authors": [
+        {
+          "authorId": "2714811",
+          "name": "Varsha Dani"
+        },
+        {
+          "authorId": "1806117",
+          "name": "T. Hayes"
+        },
+        {
+          "authorId": "144695232",
+          "name": "S. Kakade"
+        }
+      ]
+    },
+    {
+      "paperId": "515f58edca8a0e4330e7580e012b24456bbbe0ac",
+      "externalIds": {
+        "DBLP": "journals/mor/HuJX23",
+        "DOI": "10.1287/moor.2022.1319",
+        "CorpusId": 253049054
+      },
+      "url": "https://www.semanticscholar.org/paper/515f58edca8a0e4330e7580e012b24456bbbe0ac",
+      "title": "Optimization Under Rational Expectations: A Framework of Fully Coupled Forward-Backward Stochastic Linear Quadratic Systems",
+      "venue": "Mathematics of Operations Research",
+      "year": 2022,
+      "referenceCount": 20,
+      "citationCount": 10,
+      "authors": [
+        {
+          "authorId": "3396019",
+          "name": "Mingshang Hu"
+        },
+        {
+          "authorId": "3268643",
+          "name": "Shaolin Ji"
+        },
+        {
+          "authorId": "51186999",
+          "name": "Xiaole Xue"
+        }
+      ]
+    },
+    {
+      "paperId": "4948c5ce4b66a9d3e6fbb141faa9b849a7e24abf",
+      "externalIds": {
+        "CorpusId": 254152752
+      },
+      "url": "https://www.semanticscholar.org/paper/4948c5ce4b66a9d3e6fbb141faa9b849a7e24abf",
+      "title": "Machine Learning Theory ( CS 6783 ) Lecture 16 : Learning With Bandit Feedback 1 Online Linear Optimization With Bandit Feedback",
+      "venue": "",
+      "year": 2022,
+      "referenceCount": 0,
+      "citationCount": 0,
+      "authors": []
+    },
+    {
+      "paperId": "1a1525072a1e9c8ffa0e9cf86100a28b8cc318b0",
+      "externalIds": {
+        "DBLP": "conf/icml/VermaDL22",
+        "ArXiv": "2206.09341",
+        "DOI": "10.48550/arXiv.2206.09341",
+        "CorpusId": 249889020
+      },
+      "url": "https://www.semanticscholar.org/paper/1a1525072a1e9c8ffa0e9cf86100a28b8cc318b0",
+      "title": "Bayesian Optimization under Stochastic Delayed Feedback",
+      "venue": "International Conference on Machine Learning",
+      "year": 2022,
+      "referenceCount": 85,
+      "citationCount": 15,
+      "authors": [
+        {
+          "authorId": "11568185",
+          "name": "Arun Verma"
+        },
+        {
+          "authorId": "3042111",
+          "name": "Zhongxiang Dai"
+        },
+        {
+          "authorId": "40222533",
+          "name": "B. Low"
+        }
+      ]
+    },
+    {
+      "paperId": "d8fa0628fb3b1e434be52951cf68c4241f20bfcd",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2602-02634",
+        "ArXiv": "2602.02634",
+        "DOI": "10.48550/arXiv.2602.02634",
+        "CorpusId": 285275160
+      },
+      "url": "https://www.semanticscholar.org/paper/d8fa0628fb3b1e434be52951cf68c4241f20bfcd",
+      "title": "A Reduction from Delayed to Immediate Feedback for Online Convex Optimization with Improved Guarantees",
+      "venue": "arXiv.org",
+      "year": 2026,
+      "referenceCount": 41,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2352018945",
+          "name": "Alexander Ryabchenko"
+        },
+        {
+          "authorId": "83703007",
+          "name": "Idan Attias"
+        },
+        {
+          "authorId": "2257304927",
+          "name": "Daniel M. Roy"
+        }
+      ]
+    },
+    {
+      "paperId": "291dc7e2239afc606755d1ec07adf91a6e63e1f5",
+      "externalIds": {
+        "ArXiv": "2602.12830",
+        "DBLP": "journals/corr/abs-2602-12830",
+        "DOI": "10.48550/arXiv.2602.12830",
+        "CorpusId": 285607431
+      },
+      "url": "https://www.semanticscholar.org/paper/291dc7e2239afc606755d1ec07adf91a6e63e1f5",
+      "title": "Decentralized Optimal Equilibrium Learning in Stochastic Games via Single-bit Feedback",
+      "venue": "arXiv.org",
+      "year": 2026,
+      "referenceCount": 49,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2383005830",
+          "name": "Seref Taha Kiremitci"
+        },
+        {
+          "authorId": "2282534007",
+          "name": "Ahmed Said Donmez"
+        },
+        {
+          "authorId": "2282534146",
+          "name": "Muhammed O. Sayin"
+        }
+      ]
+    },
+    {
+      "paperId": "7e89f01fb35fed7043a7c1d6f487823bca9347b4",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2504-16581",
+        "ArXiv": "2504.16581",
+        "DOI": "10.1109/CDC57313.2025.11312691",
+        "CorpusId": 278000690
+      },
+      "url": "https://www.semanticscholar.org/paper/7e89f01fb35fed7043a7c1d6f487823bca9347b4",
+      "title": "Revisiting Regret Benchmarks in Online Non-Stochastic Control",
+      "venue": "IEEE Conference on Decision and Control",
+      "year": 2025,
+      "referenceCount": 25,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2122592408",
+          "name": "Vijeth Hebbar"
+        },
+        {
+          "authorId": "2284224285",
+          "name": "Cédric Langbort"
+        }
+      ]
+    },
+    {
+      "paperId": "c6a55714a936b14030f236044334bd3ee44be91f",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2012-06961",
+        "ArXiv": "2012.06961",
+        "MAG": "3112348608",
+        "DOI": "10.1287/mnsc.2020.03850",
+        "CorpusId": 229153027
+      },
+      "url": "https://www.semanticscholar.org/paper/c6a55714a936b14030f236044334bd3ee44be91f",
+      "title": "Online Stochastic Optimization with Wasserstein Based Non-stationarity",
+      "venue": "Management Sciences",
+      "year": 2020,
+      "referenceCount": 95,
+      "citationCount": 37,
+      "authors": [
+        {
+          "authorId": "152634563",
+          "name": "Jiashuo Jiang"
+        },
+        {
+          "authorId": "47056752",
+          "name": "Xiaocheng Li"
+        },
+        {
+          "authorId": "1739956009",
+          "name": "Jiawei Zhang"
+        }
+      ]
+    }
+  ]
+}

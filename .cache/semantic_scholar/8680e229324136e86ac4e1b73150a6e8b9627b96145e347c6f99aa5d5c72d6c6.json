@@ -1,0 +1,187 @@
+{
+  "total": 4,
+  "offset": 0,
+  "data": [
+    {
+      "paperId": "8ff3103f90dbd32d428b3f018af2204f1b8380fd",
+      "externalIds": {
+        "DBLP": "journals/corr/BuddenMSCS16",
+        "MAG": "2952713184",
+        "ArXiv": "1611.06565",
+        "CorpusId": 6213512
+      },
+      "url": "https://www.semanticscholar.org/paper/8ff3103f90dbd32d428b3f018af2204f1b8380fd",
+      "title": "Deep Tensor Convolution on Multicores",
+      "venue": "International Conference on Machine Learning",
+      "year": 2016,
+      "referenceCount": 68,
+      "citationCount": 39,
+      "authors": [
+        {
+          "authorId": "2508525",
+          "name": "D. Budden"
+        },
+        {
+          "authorId": "145846361",
+          "name": "A. Matveev"
+        },
+        {
+          "authorId": "2852106",
+          "name": "Shibani Santurkar"
+        },
+        {
+          "authorId": "32506952",
+          "name": "Shraman Ray Chaudhuri"
+        },
+        {
+          "authorId": "2613669",
+          "name": "N. Shavit"
+        }
+      ]
+    },
+    {
+      "paperId": "ed094bd285c55f915624a0917e8689aa96e6e974",
+      "externalIds": {
+        "DBLP": "journals/tecs/KwonCOY0L25",
+        "DOI": "10.1145/3759916",
+        "CorpusId": 282394212
+      },
+      "url": "https://www.semanticscholar.org/paper/ed094bd285c55f915624a0917e8689aa96e6e974",
+      "title": "Luthier: Bridging Auto-Tuning and Vendor Libraries for Efficient Deep Learning Inference",
+      "venue": "ACM Transactions on Embedded Computing Systems",
+      "year": 2025,
+      "referenceCount": 37,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "3156595",
+          "name": "Yongin Kwon"
+        },
+        {
+          "authorId": "2331320811",
+          "name": "Joohyoung Cha"
+        },
+        {
+          "authorId": "2347538405",
+          "name": "Sehyeon Oh"
+        },
+        {
+          "authorId": "2212155475",
+          "name": "Misun Yu"
+        },
+        {
+          "authorId": "2328135512",
+          "name": "Jeman Park"
+        },
+        {
+          "authorId": "2154961369",
+          "name": "Jemin Lee"
+        }
+      ]
+    },
+    {
+      "paperId": "d3bb06607e7ba13d26621d0824b139361d6c9f74",
+      "externalIds": {
+        "DBLP": "conf/cgo/JungJPONPQFGNLK23",
+        "DOI": "10.1145/3579990.3580015",
+        "CorpusId": 257051631
+      },
+      "url": "https://www.semanticscholar.org/paper/d3bb06607e7ba13d26621d0824b139361d6c9f74",
+      "title": "Accelerating Deep Neural Networks on Mobile Multicore NPUs",
+      "venue": "IEEE/ACM International Symposium on Code Generation and Optimization",
+      "year": 2023,
+      "referenceCount": 57,
+      "citationCount": 7,
+      "authors": [
+        {
+          "authorId": "2077423",
+          "name": "Hanwoong Jung"
+        },
+        {
+          "authorId": "2208981384",
+          "name": "Hexiang Ji"
+        },
+        {
+          "authorId": "104516371",
+          "name": "A. Pushchin"
+        },
+        {
+          "authorId": "2095518179",
+          "name": "Maxim Ostapenko"
+        },
+        {
+          "authorId": "2380649015",
+          "name": "Wenlong Niu"
+        },
+        {
+          "authorId": "104130992",
+          "name": "Ilya Palachev"
+        },
+        {
+          "authorId": "2208989892",
+          "name": "Yutian Qu"
+        },
+        {
+          "authorId": "2208984123",
+          "name": "P. Fedin"
+        },
+        {
+          "authorId": "2300593169",
+          "name": "Y. Gribov"
+        },
+        {
+          "authorId": "2124893278",
+          "name": "Heewoo Nam"
+        },
+        {
+          "authorId": "2150295313",
+          "name": "Dongguen Lim"
+        },
+        {
+          "authorId": "2040549694",
+          "name": "Hyunjun Kim"
+        },
+        {
+          "authorId": "2124635638",
+          "name": "Joonho Song"
+        },
+        {
+          "authorId": "2205851448",
+          "name": "Seungwon Lee"
+        },
+        {
+          "authorId": "1780653",
+          "name": "Hwansoo Han"
+        }
+      ]
+    },
+    {
+      "paperId": "c513e3f3e9adb0312bd35bb3e507a0d2bd2c637f",
+      "externalIds": {
+        "DBLP": "conf/europar/LinGO21",
+        "DOI": "10.1007/978-3-030-85665-6_15",
+        "CorpusId": 237404347
+      },
+      "url": "https://www.semanticscholar.org/paper/c513e3f3e9adb0312bd35bb3e507a0d2bd2c637f",
+      "title": "Towards Flexible and Compiler-Friendly Layer Fusion for CNNs on Multicore CPUs",
+      "venue": "European Conference on Parallel Processing",
+      "year": 2021,
+      "referenceCount": 26,
+      "citationCount": 4,
+      "authors": [
+        {
+          "authorId": "14628718",
+          "name": "Zhongyi Lin"
+        },
+        {
+          "authorId": "2418537",
+          "name": "E. Georganas"
+        },
+        {
+          "authorId": "2056137562",
+          "name": "John D. Owens"
+        }
+      ]
+    }
+  ]
+}

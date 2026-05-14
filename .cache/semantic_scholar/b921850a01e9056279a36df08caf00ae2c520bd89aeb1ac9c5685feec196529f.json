@@ -1,0 +1,369 @@
+{
+  "offset": 0,
+  "citingPaperInfo": {
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/1502.04585, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "title": "The Ladder: A Reliable Leaderboard for Machine Learning Competitions",
+    "authors": [
+      {
+        "authorId": "1690967",
+        "name": "Avrim Blum"
+      },
+      {
+        "authorId": "1775622",
+        "name": "Moritz Hardt"
+      }
+    ]
+  },
+  "data": [
+    {
+      "citedPaper": {
+        "paperId": "6f41fda4c8d776a392943c17c1e5859226dc4243",
+        "externalIds": {
+          "ArXiv": "1504.05800",
+          "MAG": "2113189502",
+          "DBLP": "journals/corr/NissimS15",
+          "CorpusId": 7143821
+        },
+        "url": "https://www.semanticscholar.org/paper/6f41fda4c8d776a392943c17c1e5859226dc4243",
+        "title": "On the Generalization Properties of Differential Privacy",
+        "venue": "arXiv.org",
+        "year": 2015,
+        "referenceCount": 7,
+        "citationCount": 39,
+        "authors": [
+          {
+            "authorId": "145725600",
+            "name": "Kobbi Nissim"
+          },
+          {
+            "authorId": "2734576",
+            "name": "Uri Stemmer"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "9261bce3ee5177c8c8698e37439b1a27117cd324",
+        "externalIds": {
+          "MAG": "2098302384",
+          "DBLP": "journals/corr/BassilySSU15",
+          "ArXiv": "1503.04843",
+          "CorpusId": 3025426
+        },
+        "url": "https://www.semanticscholar.org/paper/9261bce3ee5177c8c8698e37439b1a27117cd324",
+        "title": "More General Queries and Less Generalization Error in Adaptive Data Analysis",
+        "venue": "arXiv.org",
+        "year": 2015,
+        "referenceCount": 25,
+        "citationCount": 15,
+        "authors": [
+          {
+            "authorId": "1679638",
+            "name": "Raef Bassily"
+          },
+          {
+            "authorId": "39765787",
+            "name": "Adam D. Smith"
+          },
+          {
+            "authorId": "145268083",
+            "name": "T. Steinke"
+          },
+          {
+            "authorId": "5171324",
+            "name": "Jonathan Ullman"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "8963b5c1a754741d6599b95e47818fe3b79a6a51",
+        "externalIds": {
+          "MAG": "1982723861",
+          "ArXiv": "1411.2664",
+          "DBLP": "journals/corr/DworkFHPRR14",
+          "DOI": "10.1145/2746539.2746580",
+          "CorpusId": 2209606
+        },
+        "url": "https://www.semanticscholar.org/paper/8963b5c1a754741d6599b95e47818fe3b79a6a51",
+        "title": "Preserving Statistical Validity in Adaptive Data Analysis",
+        "venue": "Symposium on the Theory of Computing",
+        "year": 2014,
+        "referenceCount": 52,
+        "citationCount": 405,
+        "authors": [
+          {
+            "authorId": "1781565",
+            "name": "C. Dwork"
+          },
+          {
+            "authorId": "145818608",
+            "name": "V. Feldman"
+          },
+          {
+            "authorId": "1775622",
+            "name": "Moritz Hardt"
+          },
+          {
+            "authorId": "1695317",
+            "name": "T. Pitassi"
+          },
+          {
+            "authorId": "1746057",
+            "name": "Omer Reingold"
+          },
+          {
+            "authorId": "1682008",
+            "name": "Aaron Roth"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "03630ef6f249b9945c40da9c5cf6b76621ae7a4f",
+        "externalIds": {
+          "DBLP": "conf/ita/SteinkeU16",
+          "MAG": "2962677710",
+          "ArXiv": "1410.1228",
+          "DOI": "10.1109/ITA.2016.7888199",
+          "CorpusId": 653147
+        },
+        "url": "https://www.semanticscholar.org/paper/03630ef6f249b9945c40da9c5cf6b76621ae7a4f",
+        "title": "Interactive fingerprinting codes and the hardness of preventing false discovery",
+        "venue": "Information Theory and Applications Workshop",
+        "year": 2014,
+        "referenceCount": 26,
+        "citationCount": 115,
+        "authors": [
+          {
+            "authorId": "145268083",
+            "name": "T. Steinke"
+          },
+          {
+            "authorId": "5171324",
+            "name": "Jonathan Ullman"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "087fb7f1c25d3af48fb2603db6586184fe447cfc",
+        "externalIds": {
+          "DBLP": "conf/focs/HardtU14",
+          "MAG": "2952550721",
+          "ArXiv": "1408.1655",
+          "DOI": "10.1109/FOCS.2014.55",
+          "CorpusId": 7082593
+        },
+        "url": "https://www.semanticscholar.org/paper/087fb7f1c25d3af48fb2603db6586184fe447cfc",
+        "title": "Preventing False Discovery in Interactive Data Analysis Is Hard",
+        "venue": "IEEE Annual Symposium on Foundations of Computer Science",
+        "year": 2014,
+        "referenceCount": 15,
+        "citationCount": 136,
+        "authors": [
+          {
+            "authorId": "1775622",
+            "name": "Moritz Hardt"
+          },
+          {
+            "authorId": "5171324",
+            "name": "Jonathan Ullman"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "379daa0dabeffa72b9a0d8c48b361236c03fb302",
+        "externalIds": {
+          "DBLP": "books/daglib/0035708",
+          "MAG": "1511694993",
+          "DOI": "10.1007/b13794",
+          "CorpusId": 42933599
+        },
+        "url": "https://www.semanticscholar.org/paper/379daa0dabeffa72b9a0d8c48b361236c03fb302",
+        "title": "Introduction to Nonparametric Estimation",
+        "venue": "Springer Series in Statistics",
+        "year": 2008,
+        "referenceCount": 0,
+        "citationCount": 3360,
+        "authors": [
+          {
+            "authorId": "2667773",
+            "name": "A. Tsybakov"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "44fc4497fbd8de9f92c8cfd480b6f8a8c0b4ff39",
+        "externalIds": {
+          "PubMedCentral": "1182327",
+          "MAG": "2243629635",
+          "DOI": "10.1080/09332480.2005.10722754",
+          "CorpusId": 6213730,
+          "PubMed": "16060722"
+        },
+        "url": "https://www.semanticscholar.org/paper/44fc4497fbd8de9f92c8cfd480b6f8a8c0b4ff39",
+        "title": "Why Most Published Research Findings Are False",
+        "venue": "PLoS Medicine",
+        "year": 2005,
+        "referenceCount": 45,
+        "citationCount": 9319,
+        "authors": [
+          {
+            "authorId": "2247653542",
+            "name": "John P. A. Ioannidis"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "e41ba5dc12c79a64dfa905c0328f95976252ffe0",
+        "externalIds": {
+          "MAG": "2068914392",
+          "DBLP": "journals/technometrics/Ziegel03a",
+          "DOI": "10.1198/tech.2003.s770",
+          "CorpusId": 46701966
+        },
+        "url": "https://www.semanticscholar.org/paper/e41ba5dc12c79a64dfa905c0328f95976252ffe0",
+        "title": "The Elements of Statistical Learning",
+        "venue": "Technometrics",
+        "year": 2003,
+        "referenceCount": 7,
+        "citationCount": 18589,
+        "authors": [
+          {
+            "authorId": "3444394",
+            "name": "E. Ziegel"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "b338a4d3c27277eea578c75e1f7e3caaa184ce78",
+        "externalIds": {
+          "MAG": "172672489",
+          "DOI": "10.1137/1123095",
+          "CorpusId": 117070545
+        },
+        "url": "https://www.semanticscholar.org/paper/b338a4d3c27277eea578c75e1f7e3caaa184ce78",
+        "title": "A Lower Bound on the Risks of Non-Parametric Estimates of Densities in the Uniform Metric",
+        "venue": "",
+        "year": 1979,
+        "referenceCount": 0,
+        "citationCount": 104,
+        "authors": [
+          {
+            "authorId": "2434921",
+            "name": "R. Khasminskii"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "5618cd47f174c19f0f738fe947696d39cc3b114a",
+        "externalIds": {
+          "MAG": "2322006099",
+          "DOI": "10.1511/2014.111.460",
+          "CorpusId": 146855235
+        },
+        "url": "https://www.semanticscholar.org/paper/5618cd47f174c19f0f738fe947696d39cc3b114a",
+        "title": "The statistical crisis in science",
+        "venue": "",
+        "year": 2014,
+        "referenceCount": 95,
+        "citationCount": 786,
+        "authors": [
+          {
+            "authorId": "144389145",
+            "name": "A. Gelman"
+          },
+          {
+            "authorId": "145092174",
+            "name": "E. Loken"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "Output u * = maj ({u i : i ∈ I}) , where the majority function is applied coordinate-wise",
+        "venue": "Output u * = maj ({u i : i ∈ I}) , where the majority function is applied coordinate-wise",
+        "year": null,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "Pick u 1 , . . . , u k ∈ {0, 1} n uniformly at random",
+        "venue": "Pick u 1 , . . . , u k ∈ {0, 1} n uniformly at random",
+        "year": null,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "Let I = {i : l i 1/2}",
+        "venue": "Let I = {i : l i 1/2}",
+        "year": null,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "Observe loss estimates l 1 , . . . , l k ∈",
+        "venue": "Observe loss estimates l 1 , . . . , l k ∈",
+        "year": null,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "References",
+        "venue": "References",
+        "year": null,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    }
+  ]
+}

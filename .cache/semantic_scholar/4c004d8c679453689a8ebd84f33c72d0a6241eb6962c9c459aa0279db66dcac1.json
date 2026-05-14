@@ -1,0 +1,361 @@
+{
+  "total": 20,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "01fcbc77943a3b8b29e591b3da4eff8501878de0",
+      "externalIds": {
+        "MAG": "2949220319",
+        "DBLP": "journals/corr/abs-1805-09969",
+        "ArXiv": "1805.09969",
+        "CorpusId": 44117561
+      },
+      "url": "https://www.semanticscholar.org/paper/01fcbc77943a3b8b29e591b3da4eff8501878de0",
+      "title": "Towards More Efficient Stochastic Decentralized Learning: Faster Convergence and Sparse Communication",
+      "venue": "International Conference on Machine Learning",
+      "year": 2018,
+      "referenceCount": 32,
+      "citationCount": 60,
+      "authors": [
+        {
+          "authorId": "3350452",
+          "name": "Zebang Shen"
+        },
+        {
+          "authorId": "2706423",
+          "name": "Aryan Mokhtari"
+        },
+        {
+          "authorId": "2114110394",
+          "name": "Tengfei Zhou"
+        },
+        {
+          "authorId": "144259957",
+          "name": "P. Zhao"
+        },
+        {
+          "authorId": "33441723",
+          "name": "Hui Qian"
+        }
+      ]
+    },
+    {
+      "paperId": "3a0255ed25a72a43d83f57c025fd7db06b219bd9",
+      "externalIds": {
+        "ArXiv": "2411.09267",
+        "DBLP": "journals/corr/abs-2411-09267",
+        "DOI": "10.48550/arXiv.2411.09267",
+        "CorpusId": 274023088
+      },
+      "url": "https://www.semanticscholar.org/paper/3a0255ed25a72a43d83f57c025fd7db06b219bd9",
+      "title": "Towards efficient compression and communication for prototype-based decentralized learning",
+      "venue": "arXiv.org",
+      "year": 2024,
+      "referenceCount": 36,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2330587740",
+          "name": "Pablo Fernández-Piñeiro"
+        },
+        {
+          "authorId": "2330587006",
+          "name": "Manuel Fer'andez-Veiga"
+        },
+        {
+          "authorId": "2299942637",
+          "name": "Rebeca P. Díaz Redondo"
+        },
+        {
+          "authorId": "2268416945",
+          "name": "Ana Fernández Vilas"
+        },
+        {
+          "authorId": "2268319134",
+          "name": "Martín González Soto"
+        }
+      ]
+    },
+    {
+      "paperId": "c438890712a55f5d9fa0ef578e4d51a342fe1859",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2405-17932",
+        "ArXiv": "2405.17932",
+        "DOI": "10.1109/TSP.2025.3608715",
+        "CorpusId": 270067942
+      },
+      "url": "https://www.semanticscholar.org/paper/c438890712a55f5d9fa0ef578e4d51a342fe1859",
+      "title": "Towards Communication-Efficient Federated Learning via Sparse and Aligned Adaptive Optimization",
+      "venue": "IEEE Transactions on Signal Processing",
+      "year": 2024,
+      "referenceCount": 63,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2106415424",
+          "name": "Xiumei Deng"
+        },
+        {
+          "authorId": "2295710767",
+          "name": "Jun Li"
+        },
+        {
+          "authorId": "145158805",
+          "name": "Kang Wei"
+        },
+        {
+          "authorId": "2299117340",
+          "name": "Long Shi"
+        },
+        {
+          "authorId": "2287931732",
+          "name": "Zehui Xiong"
+        },
+        {
+          "authorId": "2283844299",
+          "name": "Ming Ding"
+        },
+        {
+          "authorId": "2190907757",
+          "name": "Wen Chen"
+        },
+        {
+          "authorId": "2296695526",
+          "name": "Shi Jin"
+        },
+        {
+          "authorId": "120463507",
+          "name": "H. Vincent Poor"
+        }
+      ]
+    },
+    {
+      "paperId": "1a5ad465680fbd31ce45cbd75c7e553a07edf611",
+      "externalIds": {
+        "DBLP": "conf/comsnets/KulkarniKSV24",
+        "DOI": "10.1109/COMSNETS59351.2024.10426966",
+        "CorpusId": 267702312
+      },
+      "url": "https://www.semanticscholar.org/paper/1a5ad465680fbd31ce45cbd75c7e553a07edf611",
+      "title": "Towards an Efficient Federated Learning Framework with Selective Aggregation",
+      "venue": "International Conference on Communication Systems and Networks",
+      "year": 2024,
+      "referenceCount": 10,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2342688275",
+          "name": "Anirudh Kulkarni"
+        },
+        {
+          "authorId": "2284452485",
+          "name": "Abhinav Kumar"
+        },
+        {
+          "authorId": "144609511",
+          "name": "R. Shorey"
+        },
+        {
+          "authorId": "2113421988",
+          "name": "Rohit Verma"
+        }
+      ]
+    },
+    {
+      "paperId": "25bfc43620a06a66b2961d60e41a68ba98dc6ea5",
+      "externalIds": {
+        "ArXiv": "2310.16106",
+        "DBLP": "conf/icc/HerreraCL24",
+        "DOI": "10.1109/ICC51166.2024.10622904",
+        "CorpusId": 264451930
+      },
+      "url": "https://www.semanticscholar.org/paper/25bfc43620a06a66b2961d60e41a68ba98dc6ea5",
+      "title": "Decentralized Learning Over Wireless Networks with Broadcast-Based Subgraph Sampling",
+      "venue": "ICC 2024 - IEEE International Conference on Communications",
+      "year": 2023,
+      "referenceCount": 18,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "2261494229",
+          "name": "Daniel Pérez Herrera"
+        },
+        {
+          "authorId": "2261782389",
+          "name": "Zheng Chen"
+        },
+        {
+          "authorId": "2261494284",
+          "name": "Erik G. Larsson"
+        }
+      ]
+    },
+    {
+      "paperId": "9e4a8177823d044deca512f5849a3f61af553a15",
+      "externalIds": {
+        "ArXiv": "2201.07598",
+        "DBLP": "conf/ppopp/0002H22",
+        "DOI": "10.1145/3503221.3508399",
+        "CorpusId": 246035776
+      },
+      "url": "https://www.semanticscholar.org/paper/9e4a8177823d044deca512f5849a3f61af553a15",
+      "title": "Near-optimal sparse allreduce for distributed deep learning",
+      "venue": "ACM SIGPLAN Symposium on Principles & Practice of Parallel Programming",
+      "year": 2022,
+      "referenceCount": 57,
+      "citationCount": 67,
+      "authors": [
+        {
+          "authorId": "2298884755",
+          "name": "Shigang Li"
+        },
+        {
+          "authorId": "1713648",
+          "name": "T. Hoefler"
+        }
+      ]
+    },
+    {
+      "paperId": "18140e61c2242369c7f960d4f1344110911fe498",
+      "externalIds": {
+        "DBLP": "conf/aaai/XianHH21",
+        "DOI": "10.1609/aaai.v35i12.17246",
+        "CorpusId": 235349282
+      },
+      "url": "https://www.semanticscholar.org/paper/18140e61c2242369c7f960d4f1344110911fe498",
+      "title": "Communication-Efficient Frank-Wolfe Algorithm for Nonconvex Decentralized Distributed Learning",
+      "venue": "AAAI Conference on Artificial Intelligence",
+      "year": 2021,
+      "referenceCount": 33,
+      "citationCount": 17,
+      "authors": [
+        {
+          "authorId": "151487059",
+          "name": "Wenhan Xian"
+        },
+        {
+          "authorId": "3057688",
+          "name": "Feihu Huang"
+        },
+        {
+          "authorId": "145114933",
+          "name": "Heng Huang"
+        }
+      ]
+    },
+    {
+      "paperId": "a39f2dce6f5c80238b6fd65ca81c776fb65714f3",
+      "externalIds": {
+        "DBLP": "journals/tce/LuDZE25",
+        "DOI": "10.1109/TCE.2024.3506915",
+        "CorpusId": 274359706
+      },
+      "url": "https://www.semanticscholar.org/paper/a39f2dce6f5c80238b6fd65ca81c776fb65714f3",
+      "title": "Distributed Stochastic Learning for Composite Sharing Optimization in Consumer Electronics",
+      "venue": "IEEE transactions on consumer electronics",
+      "year": 2025,
+      "referenceCount": 56,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "10677586",
+          "name": "Qingguo Lü"
+        },
+        {
+          "authorId": "2309680437",
+          "name": "Xiangguang Dai"
+        },
+        {
+          "authorId": "2155467960",
+          "name": "Wei Zhang"
+        },
+        {
+          "authorId": "100801506",
+          "name": "M. Ezilarasan"
+        }
+      ]
+    },
+    {
+      "paperId": "52d761b75b3fa681d25341e72314c2f4aafa3c02",
+      "externalIds": {
+        "DBLP": "journals/iotj/ChenWDG25",
+        "DOI": "10.1109/JIOT.2024.3462722",
+        "CorpusId": 272717850
+      },
+      "url": "https://www.semanticscholar.org/paper/52d761b75b3fa681d25341e72314c2f4aafa3c02",
+      "title": "Latency-Efficient Wireless Federated Learning With Spasification and Quantization for Heterogeneous Devices",
+      "venue": "IEEE Internet of Things Journal",
+      "year": 2025,
+      "referenceCount": 29,
+      "citationCount": 5,
+      "authors": [
+        {
+          "authorId": "2170312263",
+          "name": "Xuechen Chen"
+        },
+        {
+          "authorId": "2310654735",
+          "name": "Aixiang Wang"
+        },
+        {
+          "authorId": "2240732630",
+          "name": "Xiaoheng Deng"
+        },
+        {
+          "authorId": "34573874",
+          "name": "Jinsong Gui"
+        }
+      ]
+    },
+    {
+      "paperId": "2236af1c46f10ca32a9f6d89b7c645f71d9491d9",
+      "externalIds": {
+        "DBLP": "journals/icl/XiaoYHHMXMD21",
+        "MAG": "3178974671",
+        "DOI": "10.1109/lcomm.2021.3095362",
+        "CorpusId": 237768937
+      },
+      "url": "https://www.semanticscholar.org/paper/2236af1c46f10ca32a9f6d89b7c645f71d9491d9",
+      "title": "Fully Decentralized Federated Learning-Based On-Board Mission for UAV Swarm System",
+      "venue": "IEEE Communications Letters",
+      "year": 2021,
+      "referenceCount": 0,
+      "citationCount": 47,
+      "authors": [
+        {
+          "authorId": "1749827",
+          "name": "Yue Xiao"
+        },
+        {
+          "authorId": "1845874192",
+          "name": "Yu Ye"
+        },
+        {
+          "authorId": "9627149",
+          "name": "Shaocheng Huang"
+        },
+        {
+          "authorId": "144813679",
+          "name": "L. Hao"
+        },
+        {
+          "authorId": "1730232",
+          "name": "Zheng Ma"
+        },
+        {
+          "authorId": "2263629384",
+          "name": "Ming Xiao"
+        },
+        {
+          "authorId": "2241851465",
+          "name": "Shahid Mumtaz"
+        },
+        {
+          "authorId": "1739783",
+          "name": "O. Dobre"
+        }
+      ]
+    }
+  ]
+}

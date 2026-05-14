@@ -1,0 +1,362 @@
+{
+  "total": 603896,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "b2504b0b2a7e06eab02a3584dd46d94a3f05ffdf",
+      "externalIds": {
+        "MAG": "2804602357",
+        "ArXiv": "1807.01613",
+        "DBLP": "journals/corr/abs-1807-01613",
+        "CorpusId": 49574993
+      },
+      "url": "https://www.semanticscholar.org/paper/b2504b0b2a7e06eab02a3584dd46d94a3f05ffdf",
+      "title": "Conditional Neural Processes",
+      "venue": "International Conference on Machine Learning",
+      "year": 2018,
+      "referenceCount": 33,
+      "citationCount": 817,
+      "authors": [
+        {
+          "authorId": "3468254",
+          "name": "M. Garnelo"
+        },
+        {
+          "authorId": "2445250",
+          "name": "Dan Rosenbaum"
+        },
+        {
+          "authorId": "2772217",
+          "name": "Chris J. Maddison"
+        },
+        {
+          "authorId": "34505275",
+          "name": "Tiago Ramalho"
+        },
+        {
+          "authorId": "143810408",
+          "name": "D. Saxton"
+        },
+        {
+          "authorId": "1757629",
+          "name": "M. Shanahan"
+        },
+        {
+          "authorId": "1725303",
+          "name": "Y. Teh"
+        },
+        {
+          "authorId": "1748523",
+          "name": "Danilo Jimenez Rezende"
+        },
+        {
+          "authorId": "143648071",
+          "name": "S. Eslami"
+        }
+      ]
+    },
+    {
+      "paperId": "ab6418856eced17a5139e757fb9880c9e2df24fc",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-1910-13556",
+        "MAG": "2982320693",
+        "ArXiv": "1910.13556",
+        "DOI": "10.17863/CAM.48067",
+        "CorpusId": 204960684
+      },
+      "url": "https://www.semanticscholar.org/paper/ab6418856eced17a5139e757fb9880c9e2df24fc",
+      "title": "Convolutional Conditional Neural Processes",
+      "venue": "International Conference on Learning Representations",
+      "year": 2019,
+      "referenceCount": 47,
+      "citationCount": 199,
+      "authors": [
+        {
+          "authorId": "88090186",
+          "name": "Jonathan Gordon"
+        },
+        {
+          "authorId": "144674648",
+          "name": "W. Bruinsma"
+        },
+        {
+          "authorId": "153057516",
+          "name": "Andrew Y. K. Foong"
+        },
+        {
+          "authorId": "21223379",
+          "name": "James Requeima"
+        },
+        {
+          "authorId": "47367640",
+          "name": "Yann Dubois"
+        },
+        {
+          "authorId": "145369890",
+          "name": "Richard E. Turner"
+        }
+      ]
+    },
+    {
+      "paperId": "9d4521ed386eb5ebb657040e2ac89795642abd5b",
+      "externalIds": {
+        "DBLP": "conf/iclr/BruinsmaMRFAVBH23",
+        "ArXiv": "2303.14468",
+        "DOI": "10.48550/arXiv.2303.14468",
+        "CorpusId": 257767456
+      },
+      "url": "https://www.semanticscholar.org/paper/9d4521ed386eb5ebb657040e2ac89795642abd5b",
+      "title": "Autoregressive Conditional Neural Processes",
+      "venue": "International Conference on Learning Representations",
+      "year": 2023,
+      "referenceCount": 91,
+      "citationCount": 35,
+      "authors": [
+        {
+          "authorId": "144674648",
+          "name": "W. Bruinsma"
+        },
+        {
+          "authorId": "2124123422",
+          "name": "Stratis Markou"
+        },
+        {
+          "authorId": "2212796130",
+          "name": "James Requiema"
+        },
+        {
+          "authorId": "153057516",
+          "name": "Andrew Y. K. Foong"
+        },
+        {
+          "authorId": "2054134761",
+          "name": "Tom R. Andersson"
+        },
+        {
+          "authorId": "2053293791",
+          "name": "Anna Vaughan"
+        },
+        {
+          "authorId": "2122146443",
+          "name": "Anthony Buonomo"
+        },
+        {
+          "authorId": "144275121",
+          "name": "J. Hosking"
+        },
+        {
+          "authorId": "145369890",
+          "name": "Richard E. Turner"
+        }
+      ]
+    },
+    {
+      "paperId": "06e4361fe04e5ee3109677b7249cc7e0aae10879",
+      "externalIds": {
+        "DBLP": "journals/nn/BaoZZ24",
+        "DOI": "10.1016/j.neunet.2024.106201",
+        "CorpusId": 268189461,
+        "PubMed": "38447305"
+      },
+      "url": "https://www.semanticscholar.org/paper/06e4361fe04e5ee3109677b7249cc7e0aae10879",
+      "title": "Spatial multi-attention conditional neural processes",
+      "venue": "Neural Networks",
+      "year": 2024,
+      "referenceCount": 37,
+      "citationCount": 6,
+      "authors": [
+        {
+          "authorId": "2289253218",
+          "name": "Lili Bao"
+        },
+        {
+          "authorId": "2280633315",
+          "name": "Jiangshe Zhang"
+        },
+        {
+          "authorId": "2180426472",
+          "name": "Chunxia Zhang"
+        }
+      ]
+    },
+    {
+      "paperId": "1e86f26758c0823b85412d23b781ef8c9415790a",
+      "externalIds": {
+        "DBLP": "journals/ral/AdaU24",
+        "ArXiv": "2506.04399",
+        "DOI": "10.1109/LRA.2024.3443496",
+        "CorpusId": 271972875
+      },
+      "url": "https://www.semanticscholar.org/paper/1e86f26758c0823b85412d23b781ef8c9415790a",
+      "title": "Unsupervised Meta-Testing With Conditional Neural Processes for Hybrid Meta-Reinforcement Learning",
+      "venue": "IEEE Robotics and Automation Letters",
+      "year": 2024,
+      "referenceCount": 40,
+      "citationCount": 6,
+      "authors": [
+        {
+          "authorId": "152806163",
+          "name": "S. E. Ada"
+        },
+        {
+          "authorId": "2470383",
+          "name": "Emre Ugur"
+        }
+      ]
+    },
+    {
+      "paperId": "ae0c3108fca655bb8d7d7f248bb2dc1b1644f6d5",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2404-13182",
+        "ArXiv": "2404.13182",
+        "DOI": "10.48550/arXiv.2404.13182",
+        "CorpusId": 269292913
+      },
+      "url": "https://www.semanticscholar.org/paper/ae0c3108fca655bb8d7d7f248bb2dc1b1644f6d5",
+      "title": "Spectral Convolutional Conditional Neural Processes",
+      "venue": "arXiv.org",
+      "year": 2024,
+      "referenceCount": 135,
+      "citationCount": 4,
+      "authors": [
+        {
+          "authorId": "2218511655",
+          "name": "Peiman Mohseni"
+        },
+        {
+          "authorId": "2297768820",
+          "name": "Nick Duffield"
+        }
+      ]
+    },
+    {
+      "paperId": "53d90f941534752283d9700dffff9f186ffa91d5",
+      "externalIds": {
+        "DBLP": "journals/lgrs/WangMWLL24",
+        "DOI": "10.1109/LGRS.2024.3464629",
+        "CorpusId": 272834277
+      },
+      "url": "https://www.semanticscholar.org/paper/53d90f941534752283d9700dffff9f186ffa91d5",
+      "title": "GACNPs: Fine-Grained Drought Monitoring Using Remote Sensing Data Based on Conditional Neural Processes",
+      "venue": "IEEE Geoscience and Remote Sensing Letters",
+      "year": 2024,
+      "referenceCount": 19,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "2313071353",
+          "name": "Chen Wang"
+        },
+        {
+          "authorId": "2322760995",
+          "name": "Hengchen Mu"
+        },
+        {
+          "authorId": "2313183383",
+          "name": "Xiaochuan Wang"
+        },
+        {
+          "authorId": "2397427775",
+          "name": "Qingqing Liu"
+        },
+        {
+          "authorId": "2316009281",
+          "name": "Ruijun Liu"
+        }
+      ]
+    },
+    {
+      "paperId": "8e5a144667571360401cfd88a170fa0b019d262a",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2101-07950",
+        "ArXiv": "2101.07950",
+        "MAG": "3158910043",
+        "DOI": "10.5194/GMD-2020-420",
+        "CorpusId": 231648408
+      },
+      "url": "https://www.semanticscholar.org/paper/8e5a144667571360401cfd88a170fa0b019d262a",
+      "title": "Convolutional conditional neural processes for local climate downscaling",
+      "venue": "Geoscientific Model Development",
+      "year": 2021,
+      "referenceCount": 80,
+      "citationCount": 64,
+      "authors": [
+        {
+          "authorId": "2053293791",
+          "name": "Anna Vaughan"
+        },
+        {
+          "authorId": "90684986",
+          "name": "Will Tebbutt"
+        },
+        {
+          "authorId": "144275121",
+          "name": "J. Hosking"
+        },
+        {
+          "authorId": "145369890",
+          "name": "Richard E. Turner"
+        }
+      ]
+    },
+    {
+      "paperId": "8a95c7a1d0527f64921fbf5634c35c137d115782",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2203-08775",
+        "ArXiv": "2203.08775",
+        "DOI": "10.48550/arXiv.2203.08775",
+        "CorpusId": 247475764
+      },
+      "url": "https://www.semanticscholar.org/paper/8a95c7a1d0527f64921fbf5634c35c137d115782",
+      "title": "Practical Conditional Neural Processes Via Tractable Dependent Predictions",
+      "venue": "arXiv.org",
+      "year": 2022,
+      "referenceCount": 51,
+      "citationCount": 29,
+      "authors": [
+        {
+          "authorId": "2124123422",
+          "name": "Stratis Markou"
+        },
+        {
+          "authorId": "21223379",
+          "name": "James Requeima"
+        },
+        {
+          "authorId": "144674648",
+          "name": "W. Bruinsma"
+        },
+        {
+          "authorId": "2053293791",
+          "name": "Anna Vaughan"
+        },
+        {
+          "authorId": "145369890",
+          "name": "Richard E. Turner"
+        }
+      ]
+    },
+    {
+      "paperId": "b451e4e2f1f928269e6bea2a35c828d4b6f02e87",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2408-09583",
+        "ArXiv": "2408.09583",
+        "DOI": "10.17863/CAM.100216",
+        "CorpusId": 271903301
+      },
+      "url": "https://www.semanticscholar.org/paper/b451e4e2f1f928269e6bea2a35c828d4b6f02e87",
+      "title": "Convolutional Conditional Neural Processes",
+      "venue": "arXiv.org",
+      "year": 2024,
+      "referenceCount": 0,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "144674648",
+          "name": "W. Bruinsma"
+        }
+      ]
+    }
+  ]
+}

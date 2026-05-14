@@ -1,0 +1,267 @@
+{
+  "total": 11,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "49196db76c03912535e99e3b492917915e87f4a6",
+      "externalIds": {
+        "MAG": "2113149525",
+        "DBLP": "conf/icml/TanseyPSR15",
+        "ArXiv": "1505.05117",
+        "CorpusId": 7289472
+      },
+      "url": "https://www.semanticscholar.org/paper/49196db76c03912535e99e3b492917915e87f4a6",
+      "title": "Vector-Space Markov Random Fields via Exponential Families",
+      "venue": "International Conference on Machine Learning",
+      "year": 2015,
+      "referenceCount": 12,
+      "citationCount": 22,
+      "authors": [
+        {
+          "authorId": "145305182",
+          "name": "Wesley Tansey"
+        },
+        {
+          "authorId": "2527891",
+          "name": "Oscar Hernan Madrid Padilla"
+        },
+        {
+          "authorId": "2170091",
+          "name": "A. Suggala"
+        },
+        {
+          "authorId": "145969795",
+          "name": "Pradeep Ravikumar"
+        }
+      ]
+    },
+    {
+      "paperId": "9ce33a40bb9613cd178149bb8136bd13e3345b69",
+      "externalIds": {
+        "CorpusId": 265099509
+      },
+      "url": "https://www.semanticscholar.org/paper/9ce33a40bb9613cd178149bb8136bd13e3345b69",
+      "title": "Vector-Space Markov Random Fields via Exponential Families Appendix",
+      "venue": "",
+      "year": 2015,
+      "referenceCount": 1,
+      "citationCount": 0,
+      "authors": []
+    },
+    {
+      "paperId": "64f2978e128498da0849e4adb7878d05f9b5d450",
+      "externalIds": {
+        "ArXiv": "1503.01228",
+        "DBLP": "journals/corr/TangRBJ15",
+        "MAG": "1656881698",
+        "CorpusId": 15800230
+      },
+      "url": "https://www.semanticscholar.org/paper/64f2978e128498da0849e4adb7878d05f9b5d450",
+      "title": "Bethe Learning of Conditional Random Fields via MAP Decoding",
+      "venue": "arXiv.org",
+      "year": 2015,
+      "referenceCount": 44,
+      "citationCount": 5,
+      "authors": [
+        {
+          "authorId": "39986217",
+          "name": "K. Tang"
+        },
+        {
+          "authorId": "2273098",
+          "name": "Nicholas Ruozzi"
+        },
+        {
+          "authorId": "2636941",
+          "name": "David Belanger"
+        },
+        {
+          "authorId": "1768120",
+          "name": "Tony Jebara"
+        }
+      ]
+    },
+    {
+      "paperId": "44646078725387435e7f8b3267df9f8c8a97975b",
+      "externalIds": {
+        "MAG": "2952465509",
+        "PubMedCentral": "5009817",
+        "DBLP": "journals/bmcsb/WanABYRAL16",
+        "DOI": "10.1186/s12918-016-0313-0",
+        "CorpusId": 14560006,
+        "PubMed": "27586041"
+      },
+      "url": "https://www.semanticscholar.org/paper/44646078725387435e7f8b3267df9f8c8a97975b",
+      "title": "XMRF: an R package to fit Markov Networks to high-throughput genetics data",
+      "venue": "bioRxiv",
+      "year": 2015,
+      "referenceCount": 17,
+      "citationCount": 22,
+      "authors": [
+        {
+          "authorId": "47479973",
+          "name": "Ying-Wooi Wan"
+        },
+        {
+          "authorId": "2302572",
+          "name": "Genevera I. Allen"
+        },
+        {
+          "authorId": "13097574",
+          "name": "Yulia Baker"
+        },
+        {
+          "authorId": "1720494",
+          "name": "Eunho Yang"
+        },
+        {
+          "authorId": "145969795",
+          "name": "Pradeep Ravikumar"
+        },
+        {
+          "authorId": "2235247905",
+          "name": "Zhandong Liu"
+        }
+      ]
+    },
+    {
+      "paperId": "238b52a1ade952847be8b9f4dd4e0eae59256d9e",
+      "externalIds": {
+        "MAG": "600611274",
+        "ArXiv": "1506.03537",
+        "CorpusId": 88520054
+      },
+      "url": "https://www.semanticscholar.org/paper/238b52a1ade952847be8b9f4dd4e0eae59256d9e",
+      "title": "Exponential Series Approaches for Nonparametric Graphical Models",
+      "venue": "",
+      "year": 2015,
+      "referenceCount": 82,
+      "citationCount": 9,
+      "authors": [
+        {
+          "authorId": "30732241",
+          "name": "Eric Janofsky"
+        }
+      ]
+    },
+    {
+      "paperId": "345aa8ec4dd0942e90a5b0b200066576edba4e25",
+      "externalIds": {
+        "ArXiv": "1506.05934",
+        "DBLP": "conf/nips/LienartTD15",
+        "MAG": "2952049293",
+        "CorpusId": 710627
+      },
+      "url": "https://www.semanticscholar.org/paper/345aa8ec4dd0942e90a5b0b200066576edba4e25",
+      "title": "Expectation Particle Belief Propagation",
+      "venue": "Neural Information Processing Systems",
+      "year": 2015,
+      "referenceCount": 25,
+      "citationCount": 24,
+      "authors": [
+        {
+          "authorId": "3143707",
+          "name": "Thibaut Lienart"
+        },
+        {
+          "authorId": "1725303",
+          "name": "Y. Teh"
+        },
+        {
+          "authorId": "1701800",
+          "name": "A. Doucet"
+        }
+      ]
+    },
+    {
+      "paperId": "72b0535070a2147a2b98f309d75240616efd8fe2",
+      "externalIds": {
+        "MAG": "2586483162",
+        "ArXiv": "1505.06772",
+        "DOI": "10.1364/JOSAB.34.000052",
+        "CorpusId": 56336228
+      },
+      "url": "https://www.semanticscholar.org/paper/72b0535070a2147a2b98f309d75240616efd8fe2",
+      "title": "Homogenisation on homogeneous spaces",
+      "venue": "",
+      "year": 2015,
+      "referenceCount": 74,
+      "citationCount": 12,
+      "authors": [
+        {
+          "authorId": "48569997",
+          "name": "Xue-Mei Li"
+        }
+      ]
+    },
+    {
+      "paperId": "90df33a152682c127fedc11bb3dde62c16277c4e",
+      "externalIds": {
+        "CorpusId": 18713217
+      },
+      "url": "https://www.semanticscholar.org/paper/90df33a152682c127fedc11bb3dde62c16277c4e",
+      "title": "Random Polymers and Algebraic Combinatorics Abstracts of Talks",
+      "venue": "",
+      "year": 2015,
+      "referenceCount": 0,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": null,
+          "name": "Guillaume Barraquand"
+        },
+        {
+          "authorId": "8358309",
+          "name": "D. Betea"
+        },
+        {
+          "authorId": "100765077",
+          "name": "Alexey I. Bufetov"
+        }
+      ]
+    },
+    {
+      "paperId": "2097ca3e247c0ddbf614a520f9e964d60ec5b2bf",
+      "externalIds": {
+        "CorpusId": 48477711
+      },
+      "url": "https://www.semanticscholar.org/paper/2097ca3e247c0ddbf614a520f9e964d60ec5b2bf",
+      "title": "TITLES AND ABSTRACTS ROCKY MOUNTAIN DYNAMICAL SYSTEMS CONFERENCE",
+      "venue": "",
+      "year": 2015,
+      "referenceCount": 0,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2227249",
+          "name": "F. Cellarosi"
+        },
+        {
+          "authorId": "144805621",
+          "name": "B. Kalinin"
+        }
+      ]
+    },
+    {
+      "paperId": "5c3bfb93f6ef10490090c18b3ae214d0ed9c05d5",
+      "externalIds": {
+        "DBLP": "phd/basesearch/Naess15",
+        "MAG": "2477107071",
+        "CorpusId": 38275214
+      },
+      "url": "https://www.semanticscholar.org/paper/5c3bfb93f6ef10490090c18b3ae214d0ed9c05d5",
+      "title": "Nearest Neighbor Frame Classification for Articulatory Speech Recognition",
+      "venue": "",
+      "year": 2015,
+      "referenceCount": 111,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "2335570",
+          "name": "A. Næss"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,286 @@
+{
+  "total": 26,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "26eae7a58a57a780228417d0d2e8769fa306a298",
+      "externalIds": {
+        "DBLP": "conf/icml/ChenXW0G18",
+        "MAG": "2885634445",
+        "CorpusId": 263865790
+      },
+      "url": "https://www.semanticscholar.org/paper/26eae7a58a57a780228417d0d2e8769fa306a298",
+      "title": "Covariate Adjusted Precision Matrix Estimation via Nonconvex Optimization",
+      "venue": "International Conference on Machine Learning",
+      "year": 2018,
+      "referenceCount": 58,
+      "citationCount": 11,
+      "authors": [
+        {
+          "authorId": "7557913",
+          "name": "Jinghui Chen"
+        },
+        {
+          "authorId": "47568847",
+          "name": "Pan Xu"
+        },
+        {
+          "authorId": "2274192360",
+          "name": "Lingxiao Wang"
+        },
+        {
+          "authorId": "2146392673",
+          "name": "Jian Ma"
+        },
+        {
+          "authorId": "2253398018",
+          "name": "Quanquan Gu"
+        }
+      ]
+    },
+    {
+      "paperId": "075aacea15992a57c912d62a67983c0761aafc99",
+      "externalIds": {
+        "MAG": "2804132827",
+        "CorpusId": 51882935
+      },
+      "url": "https://www.semanticscholar.org/paper/075aacea15992a57c912d62a67983c0761aafc99",
+      "title": "Better and Faster: Covariate Adjusted Precision Matrix Estimation via Nonconvex Optimization",
+      "venue": "International Conference on Machine Learning",
+      "year": 2018,
+      "referenceCount": 0,
+      "citationCount": 6,
+      "authors": [
+        {
+          "authorId": "7557913",
+          "name": "Jinghui Chen"
+        },
+        {
+          "authorId": "47568847",
+          "name": "Pan Xu"
+        },
+        {
+          "authorId": "2151976110",
+          "name": "Lingxiao Wang"
+        },
+        {
+          "authorId": "2146392673",
+          "name": "Jian Ma"
+        },
+        {
+          "authorId": "9937103",
+          "name": "Quanquan Gu"
+        }
+      ]
+    },
+    {
+      "paperId": "4ad0680b9954180c3f28d4139e63db311f41c165",
+      "externalIds": {
+        "ArXiv": "2410.06326",
+        "CorpusId": 273228799
+      },
+      "url": "https://www.semanticscholar.org/paper/4ad0680b9954180c3f28d4139e63db311f41c165",
+      "title": "Convex estimation of Gaussian graphical regression models with covariates",
+      "venue": "",
+      "year": 2024,
+      "referenceCount": 57,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2325112147",
+          "name": "Ruobin Liu"
+        },
+        {
+          "authorId": "2325519245",
+          "name": "Guo Yu"
+        }
+      ]
+    },
+    {
+      "paperId": "d64e26dc9823978e05960656be3faaeff8f20089",
+      "externalIds": {
+        "DBLP": "journals/spl/LvCL22",
+        "DOI": "10.1109/lsp.2022.3159402",
+        "CorpusId": 247486683
+      },
+      "url": "https://www.semanticscholar.org/paper/d64e26dc9823978e05960656be3faaeff8f20089",
+      "title": "A Sharp Analysis of Covariate Adjusted Precision Matrix Estimation via Alternating Projected Gradient Descent",
+      "venue": "IEEE Signal Processing Letters",
+      "year": 2022,
+      "referenceCount": 0,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2090383772",
+          "name": "Xiao Lv"
+        },
+        {
+          "authorId": "145441562",
+          "name": "Wei Cui"
+        },
+        {
+          "authorId": "2108353212",
+          "name": "Yulong Liu"
+        }
+      ]
+    },
+    {
+      "paperId": "afe32acb254777de3e2ccaeb413f9997e1d77530",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2105-04157",
+        "CorpusId": 234334552
+      },
+      "url": "https://www.semanticscholar.org/paper/afe32acb254777de3e2ccaeb413f9997e1d77530",
+      "title": "A Sharp Analysis of Covariate Adjusted Precision Matrix Estimation via Alternating Gradient Descent with Hard Thresholding",
+      "venue": "arXiv.org",
+      "year": 2021,
+      "referenceCount": 39,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2090383772",
+          "name": "Xiao Lv"
+        },
+        {
+          "authorId": "12662589",
+          "name": "Weiliang Cui"
+        },
+        {
+          "authorId": "2108353212",
+          "name": "Yulong Liu"
+        }
+      ]
+    },
+    {
+      "paperId": "8a8fbd830a35421fb2c20df14cb0486650df4c55",
+      "externalIds": {
+        "MAG": "2409228305",
+        "ArXiv": "1606.00832",
+        "CorpusId": 6738870
+      },
+      "url": "https://www.semanticscholar.org/paper/8a8fbd830a35421fb2c20df14cb0486650df4c55",
+      "title": "High Dimensional Multivariate Regression and Precision Matrix Estimation via Nonconvex Optimization",
+      "venue": "",
+      "year": 2016,
+      "referenceCount": 33,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "7557913",
+          "name": "Jinghui Chen"
+        },
+        {
+          "authorId": "9937103",
+          "name": "Quanquan Gu"
+        }
+      ]
+    },
+    {
+      "paperId": "196ce9d46f1165b4ef0632feeaa737b6993757cd",
+      "externalIds": {
+        "ArXiv": "2403.02696",
+        "DBLP": "journals/eor/LiW25",
+        "DOI": "10.1016/j.ejor.2025.02.005",
+        "CorpusId": 268248782
+      },
+      "url": "https://www.semanticscholar.org/paper/196ce9d46f1165b4ef0632feeaa737b6993757cd",
+      "title": "Low-rank matrix estimation via nonconvex spectral regularized methods in errors-in-variables matrix regression",
+      "venue": "European Journal of Operational Research",
+      "year": 2024,
+      "referenceCount": 57,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2153899425",
+          "name": "Xin Li"
+        },
+        {
+          "authorId": "48198593",
+          "name": "Dongya Wu"
+        }
+      ]
+    },
+    {
+      "paperId": "5f9589d3a46c723c075a3f20a46e9db18607137c",
+      "externalIds": {
+        "DBLP": "journals/jgo/LiW24",
+        "ArXiv": "2012.05432",
+        "DOI": "10.1007/s10898-023-01293-w",
+        "CorpusId": 252355787
+      },
+      "url": "https://www.semanticscholar.org/paper/5f9589d3a46c723c075a3f20a46e9db18607137c",
+      "title": "Low-rank matrix estimation via nonconvex optimization methods in multi-response errors-in-variables regression",
+      "venue": "Journal of Global Optimization",
+      "year": 2020,
+      "referenceCount": 38,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "2153899425",
+          "name": "Xin Li"
+        },
+        {
+          "authorId": "48198593",
+          "name": "Dongya Wu"
+        }
+      ]
+    },
+    {
+      "paperId": "f24716424fdcf82486f66042295838d5c5fef0ae",
+      "externalIds": {
+        "DBLP": "journals/corr/XuMG17",
+        "ArXiv": "1702.08651",
+        "MAG": "2594924640",
+        "CorpusId": 3331779
+      },
+      "url": "https://www.semanticscholar.org/paper/f24716424fdcf82486f66042295838d5c5fef0ae",
+      "title": "Speeding Up Latent Variable Gaussian Graphical Model Estimation via Nonconvex Optimization",
+      "venue": "Neural Information Processing Systems",
+      "year": 2017,
+      "referenceCount": 46,
+      "citationCount": 25,
+      "authors": [
+        {
+          "authorId": "47568847",
+          "name": "Pan Xu"
+        },
+        {
+          "authorId": "2146392673",
+          "name": "Jian Ma"
+        },
+        {
+          "authorId": "9937103",
+          "name": "Quanquan Gu"
+        }
+      ]
+    },
+    {
+      "paperId": "ec0ed3f8ed0cd812d034a0c6eff6918a91d7e673",
+      "externalIds": {
+        "ArXiv": "2502.06671",
+        "CorpusId": 276249486
+      },
+      "url": "https://www.semanticscholar.org/paper/ec0ed3f8ed0cd812d034a0c6eff6918a91d7e673",
+      "title": "Covariates-Adjusted Mixed-Membership Estimation: A Novel Network Model with Optimal Guarantees",
+      "venue": "",
+      "year": 2025,
+      "referenceCount": 0,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2311310442",
+          "name": "Jianqing Fan"
+        },
+        {
+          "authorId": "2268400957",
+          "name": "Jiawei Ge"
+        },
+        {
+          "authorId": "2311452172",
+          "name": "Jikai Hou"
+        }
+      ]
+    }
+  ]
+}

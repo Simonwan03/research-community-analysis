@@ -1,0 +1,410 @@
+{
+  "total": 7027280,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "7a9a708ca61c14886aa0dcd6d13dac7879713f5f",
+      "externalIds": {
+        "DBLP": "conf/iccvw/LiangCSZGT21",
+        "ArXiv": "2108.10257",
+        "DOI": "10.1109/ICCVW54120.2021.00210",
+        "CorpusId": 237266491
+      },
+      "url": "https://www.semanticscholar.org/paper/7a9a708ca61c14886aa0dcd6d13dac7879713f5f",
+      "title": "SwinIR: Image Restoration Using Swin Transformer",
+      "venue": "2021 IEEE/CVF International Conference on Computer Vision Workshops (ICCVW)",
+      "year": 2021,
+      "referenceCount": 98,
+      "citationCount": 4478,
+      "authors": [
+        {
+          "authorId": "145270228",
+          "name": "Jingyun Liang"
+        },
+        {
+          "authorId": "2109811424",
+          "name": "Jie Cao"
+        },
+        {
+          "authorId": "15839174",
+          "name": "Guolei Sun"
+        },
+        {
+          "authorId": "144110274",
+          "name": "K. Zhang"
+        },
+        {
+          "authorId": "1681236",
+          "name": "L. Gool"
+        },
+        {
+          "authorId": "1732855",
+          "name": "R. Timofte"
+        }
+      ]
+    },
+    {
+      "paperId": "ea7cfe7f2340584cbe653da6077ee7c213e49b92",
+      "externalIds": {
+        "ArXiv": "2105.05537",
+        "DBLP": "journals/corr/abs-2105-05537",
+        "DOI": "10.1007/978-3-031-25066-8_9",
+        "CorpusId": 234469981
+      },
+      "url": "https://www.semanticscholar.org/paper/ea7cfe7f2340584cbe653da6077ee7c213e49b92",
+      "title": "Swin-Unet: Unet-like Pure Transformer for Medical Image Segmentation",
+      "venue": "ECCV Workshops",
+      "year": 2021,
+      "referenceCount": 39,
+      "citationCount": 4819,
+      "authors": [
+        {
+          "authorId": "40223253",
+          "name": "Hu Cao"
+        },
+        {
+          "authorId": "2115849834",
+          "name": "Yueyue Wang"
+        },
+        {
+          "authorId": "90972805",
+          "name": "Jieneng Chen"
+        },
+        {
+          "authorId": "49731273",
+          "name": "Dongsheng Jiang"
+        },
+        {
+          "authorId": "2108250420",
+          "name": "Xiaopeng Zhang"
+        },
+        {
+          "authorId": "1400120070",
+          "name": "Qi Tian"
+        },
+        {
+          "authorId": "40532896",
+          "name": "Manning Wang"
+        }
+      ]
+    },
+    {
+      "paperId": "7c597874535c1537d7ddff3b3723015b4dc79d30",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2202-04200",
+        "ArXiv": "2202.04200",
+        "DOI": "10.1109/CVPR52688.2022.01103",
+        "CorpusId": 246680316
+      },
+      "url": "https://www.semanticscholar.org/paper/7c597874535c1537d7ddff3b3723015b4dc79d30",
+      "title": "MaskGIT: Masked Generative Image Transformer",
+      "venue": "Computer Vision and Pattern Recognition",
+      "year": 2022,
+      "referenceCount": 61,
+      "citationCount": 1118,
+      "authors": [
+        {
+          "authorId": "2914394",
+          "name": "Huiwen Chang"
+        },
+        {
+          "authorId": "2119079641",
+          "name": "Han Zhang"
+        },
+        {
+          "authorId": "39978626",
+          "name": "Lu Jiang"
+        },
+        {
+          "authorId": "2107890439",
+          "name": "Ce Liu"
+        },
+        {
+          "authorId": "1768236",
+          "name": "W. Freeman"
+        }
+      ]
+    },
+    {
+      "paperId": "1e88d5afe19aea324d33541f60a90b7036894c32",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2111-09881",
+        "ArXiv": "2111.09881",
+        "DOI": "10.1109/CVPR52688.2022.00564",
+        "CorpusId": 244346144
+      },
+      "url": "https://www.semanticscholar.org/paper/1e88d5afe19aea324d33541f60a90b7036894c32",
+      "title": "Restormer: Efficient Transformer for High-Resolution Image Restoration",
+      "venue": "Computer Vision and Pattern Recognition",
+      "year": 2021,
+      "referenceCount": 109,
+      "citationCount": 3723,
+      "authors": [
+        {
+          "authorId": "3323621",
+          "name": "Syed Waqas Zamir"
+        },
+        {
+          "authorId": "153150198",
+          "name": "Aditya Arora"
+        },
+        {
+          "authorId": "152973423",
+          "name": "Salman Hameed Khan"
+        },
+        {
+          "authorId": "145684318",
+          "name": "Munawar Hayat"
+        },
+        {
+          "authorId": "2358803",
+          "name": "F. Khan"
+        },
+        {
+          "authorId": "37144787",
+          "name": "Ming-Hsuan Yang"
+        }
+      ]
+    },
+    {
+      "paperId": "658a017302d29e4acf4ca789cb5d9f27983717ff",
+      "externalIds": {
+        "DBLP": "conf/cvpr/ChengMSKG22",
+        "ArXiv": "2112.01527",
+        "DOI": "10.1109/CVPR52688.2022.00135",
+        "CorpusId": 244799297
+      },
+      "url": "https://www.semanticscholar.org/paper/658a017302d29e4acf4ca789cb5d9f27983717ff",
+      "title": "Masked-attention Mask Transformer for Universal Image Segmentation",
+      "venue": "Computer Vision and Pattern Recognition",
+      "year": 2021,
+      "referenceCount": 65,
+      "citationCount": 3752,
+      "authors": [
+        {
+          "authorId": "50563570",
+          "name": "Bowen Cheng"
+        },
+        {
+          "authorId": "1806773",
+          "name": "Ishan Misra"
+        },
+        {
+          "authorId": "2068227",
+          "name": "A. Schwing"
+        },
+        {
+          "authorId": "144843400",
+          "name": "Alexander Kirillov"
+        },
+        {
+          "authorId": "3102850",
+          "name": "Rohit Girdhar"
+        }
+      ]
+    },
+    {
+      "paperId": "1db9bd18681b96473f3c82b21edc9240b44dc329",
+      "externalIds": {
+        "ArXiv": "1802.05751",
+        "DBLP": "conf/icml/ParmarVUKSKT18",
+        "MAG": "2950739196",
+        "CorpusId": 3353110
+      },
+      "url": "https://www.semanticscholar.org/paper/1db9bd18681b96473f3c82b21edc9240b44dc329",
+      "title": "Image Transformer",
+      "venue": "International Conference on Machine Learning",
+      "year": 2018,
+      "referenceCount": 27,
+      "citationCount": 1886,
+      "authors": [
+        {
+          "authorId": "3877127",
+          "name": "Niki Parmar"
+        },
+        {
+          "authorId": "40348417",
+          "name": "Ashish Vaswani"
+        },
+        {
+          "authorId": "39328010",
+          "name": "Jakob Uszkoreit"
+        },
+        {
+          "authorId": "40527594",
+          "name": "Lukasz Kaiser"
+        },
+        {
+          "authorId": "1846258",
+          "name": "Noam Shazeer"
+        },
+        {
+          "authorId": "31702389",
+          "name": "Alexander Ku"
+        },
+        {
+          "authorId": "47497262",
+          "name": "Dustin Tran"
+        }
+      ]
+    },
+    {
+      "paperId": "f6d354ac63aecfb973256a75dee7ea24048bee8e",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2503-17076",
+        "ArXiv": "2503.17076",
+        "DOI": "10.48550/arXiv.2503.17076",
+        "CorpusId": 277244147
+      },
+      "url": "https://www.semanticscholar.org/paper/f6d354ac63aecfb973256a75dee7ea24048bee8e",
+      "title": "Halton Scheduler For Masked Generative Image Transformer",
+      "venue": "International Conference on Learning Representations",
+      "year": 2025,
+      "referenceCount": 78,
+      "citationCount": 26,
+      "authors": [
+        {
+          "authorId": "1400349847",
+          "name": "Victor Besnier"
+        },
+        {
+          "authorId": "2335122090",
+          "name": "Mickael Chen"
+        },
+        {
+          "authorId": "2687885",
+          "name": "David Hurych"
+        },
+        {
+          "authorId": "2237802082",
+          "name": "Eduardo Valle"
+        },
+        {
+          "authorId": "2238525173",
+          "name": "Matthieu Cord"
+        }
+      ]
+    },
+    {
+      "paperId": "c8b25fab5608c3e033d34b4483ec47e68ba109b7",
+      "externalIds": {
+        "DBLP": "conf/iccv/LiuL00W0LG21",
+        "ArXiv": "2103.14030",
+        "DOI": "10.1109/ICCV48922.2021.00986",
+        "CorpusId": 232352874
+      },
+      "url": "https://www.semanticscholar.org/paper/c8b25fab5608c3e033d34b4483ec47e68ba109b7",
+      "title": "Swin Transformer: Hierarchical Vision Transformer using Shifted Windows",
+      "venue": "IEEE International Conference on Computer Vision",
+      "year": 2021,
+      "referenceCount": 86,
+      "citationCount": 31334,
+      "authors": [
+        {
+          "authorId": "2109371439",
+          "name": "Ze Liu"
+        },
+        {
+          "authorId": "51091819",
+          "name": "Yutong Lin"
+        },
+        {
+          "authorId": "2112823372",
+          "name": "Yue Cao"
+        },
+        {
+          "authorId": "1823518756",
+          "name": "Han Hu"
+        },
+        {
+          "authorId": "2107995927",
+          "name": "Yixuan Wei"
+        },
+        {
+          "authorId": "2148904543",
+          "name": "Zheng Zhang"
+        },
+        {
+          "authorId": "145676588",
+          "name": "Stephen Lin"
+        },
+        {
+          "authorId": "2261753424",
+          "name": "B. Guo"
+        }
+      ]
+    },
+    {
+      "paperId": "2835951fabf12804e17d5a525b2be2bee70e7910",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2106-03106",
+        "ArXiv": "2106.03106",
+        "DOI": "10.1109/CVPR52688.2022.01716",
+        "CorpusId": 235358213
+      },
+      "url": "https://www.semanticscholar.org/paper/2835951fabf12804e17d5a525b2be2bee70e7910",
+      "title": "Uformer: A General U-Shaped Transformer for Image Restoration",
+      "venue": "Computer Vision and Pattern Recognition",
+      "year": 2021,
+      "referenceCount": 98,
+      "citationCount": 2068,
+      "authors": [
+        {
+          "authorId": "2108160372",
+          "name": "Zhendong Wang"
+        },
+        {
+          "authorId": "30176430",
+          "name": "Xiaodong Cun"
+        },
+        {
+          "authorId": "9324504",
+          "name": "Jianmin Bao"
+        },
+        {
+          "authorId": "2144167531",
+          "name": "Jianzhuang Liu"
+        }
+      ]
+    },
+    {
+      "paperId": "032304802e181df54b198ba91474dd4f97af5279",
+      "externalIds": {
+        "DBLP": "journals/pami/JinQZLL25",
+        "ArXiv": "2501.04486",
+        "DOI": "10.1109/TPAMI.2025.3559891",
+        "CorpusId": 275357769,
+        "PubMed": "40208767"
+      },
+      "url": "https://www.semanticscholar.org/paper/032304802e181df54b198ba91474dd4f97af5279",
+      "title": "MB-TaylorFormer V2: Improved Multi-Branch Linear Transformer Expanded by Taylor Formula for Image Restoration",
+      "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+      "year": 2025,
+      "referenceCount": 104,
+      "citationCount": 131,
+      "authors": [
+        {
+          "authorId": "2152843644",
+          "name": "Zhi Jin"
+        },
+        {
+          "authorId": "2114968624",
+          "name": "Yuwei Qiu"
+        },
+        {
+          "authorId": "3397429",
+          "name": "Kaihao Zhang"
+        },
+        {
+          "authorId": "2279766298",
+          "name": "Hongdong Li"
+        },
+        {
+          "authorId": "2279988437",
+          "name": "Wenhan Luo"
+        }
+      ]
+    }
+  ]
+}

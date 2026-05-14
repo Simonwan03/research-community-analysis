@@ -1,0 +1,283 @@
+{
+  "total": 26,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "6b06752559817fd846e48657f5f109a41c5eb9bf",
+      "externalIds": {
+        "MAG": "2963323942",
+        "ArXiv": "1601.01741",
+        "DBLP": "conf/icml/KusanoHF16",
+        "CorpusId": 8369823
+      },
+      "url": "https://www.semanticscholar.org/paper/6b06752559817fd846e48657f5f109a41c5eb9bf",
+      "title": "Persistence weighted Gaussian kernel for topological data analysis",
+      "venue": "International Conference on Machine Learning",
+      "year": 2016,
+      "referenceCount": 52,
+      "citationCount": 179,
+      "authors": [
+        {
+          "authorId": "33987154",
+          "name": "G. Kusano"
+        },
+        {
+          "authorId": "3070407",
+          "name": "Y. Hiraoka"
+        },
+        {
+          "authorId": "1693668",
+          "name": "K. Fukumizu"
+        }
+      ]
+    },
+    {
+      "paperId": "aec9493d922b2211cdb94940e5982c4f26e57f11",
+      "externalIds": {
+        "MAG": "2790815003",
+        "CorpusId": 125363001
+      },
+      "url": "https://www.semanticscholar.org/paper/aec9493d922b2211cdb94940e5982c4f26e57f11",
+      "title": "Persistence Weighted Gaussian Kernel for Probability Distributions on the Space of Persistence Diagrams",
+      "venue": "",
+      "year": 2018,
+      "referenceCount": 32,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "33987154",
+          "name": "G. Kusano"
+        }
+      ]
+    },
+    {
+      "paperId": "8c7e5745d9a900ee847a98056c7b4d7e645900ab",
+      "externalIds": {
+        "MAG": "2963812116",
+        "ArXiv": "1803.08269",
+        "DOI": "10.1007/s13160-019-00374-2",
+        "CorpusId": 55513497
+      },
+      "url": "https://www.semanticscholar.org/paper/8c7e5745d9a900ee847a98056c7b4d7e645900ab",
+      "title": "On the expectation of a persistence diagram by the persistence weighted kernel",
+      "venue": "Japan journal of industrial and applied mathematics",
+      "year": 2018,
+      "referenceCount": 44,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "33987154",
+          "name": "G. Kusano"
+        }
+      ]
+    },
+    {
+      "paperId": "007b56375aa24afdde0c2a600718255ef7aadcf1",
+      "externalIds": {
+        "DBLP": "journals/cgx/CorbetFKLW19",
+        "MAG": "2950906981",
+        "ArXiv": "1809.10231",
+        "DOI": "10.1016/j.cagx.2019.100005",
+        "CorpusId": 52877907,
+        "PubMed": "33367228"
+      },
+      "url": "https://www.semanticscholar.org/paper/007b56375aa24afdde0c2a600718255ef7aadcf1",
+      "title": "A Kernel for Multi-Parameter Persistent Homology",
+      "venue": "Computers & Graphics: X",
+      "year": 2018,
+      "referenceCount": 56,
+      "citationCount": 55,
+      "authors": [
+        {
+          "authorId": "79444722",
+          "name": "René Corbet"
+        },
+        {
+          "authorId": "2483668",
+          "name": "Ulderico Fugacci"
+        },
+        {
+          "authorId": "145492151",
+          "name": "Michael Kerber"
+        },
+        {
+          "authorId": "32417190",
+          "name": "C. Landi"
+        },
+        {
+          "authorId": "2143669870",
+          "name": "Bei Wang"
+        }
+      ]
+    },
+    {
+      "paperId": "dd5e5174be4a666713690437b71453b00416fe92",
+      "externalIds": {
+        "DBLP": "conf/esa/BoissonnatD24",
+        "DOI": "10.4230/LIPIcs.ESA.2024.29",
+        "CorpusId": 272820062
+      },
+      "url": "https://www.semanticscholar.org/paper/dd5e5174be4a666713690437b71453b00416fe92",
+      "title": "A Euclidean Embedding for Computing Persistent Homology with Gaussian Kernels",
+      "venue": "Embedded Systems and Applications",
+      "year": 2024,
+      "referenceCount": 34,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2244931258",
+          "name": "Jean-Daniel Boissonnat"
+        },
+        {
+          "authorId": "2304958081",
+          "name": "Kunal Dutta"
+        }
+      ]
+    },
+    {
+      "paperId": "6cff5c6dc9b87d33c1ef0faeb5b2b0545cf6699e",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-1904-12189",
+        "MAG": "2940926677",
+        "ArXiv": "1904.12189",
+        "CorpusId": 139107955
+      },
+      "url": "https://www.semanticscholar.org/paper/6cff5c6dc9b87d33c1ef0faeb5b2b0545cf6699e",
+      "title": "Learning metrics for persistence-based summaries and applications for graph classification",
+      "venue": "Neural Information Processing Systems",
+      "year": 2019,
+      "referenceCount": 56,
+      "citationCount": 119,
+      "authors": [
+        {
+          "authorId": "2143701061",
+          "name": "Qi Zhao"
+        },
+        {
+          "authorId": "49416382",
+          "name": "Yusu Wang"
+        }
+      ]
+    },
+    {
+      "paperId": "3c06ea3485d80187a44bf4307cbbe5b2eaa26e12",
+      "externalIds": {
+        "ArXiv": "2404.06676",
+        "DBLP": "journals/bspc/CaiZZZZX25",
+        "DOI": "10.48550/arXiv.2404.06676",
+        "CorpusId": 269033169
+      },
+      "url": "https://www.semanticscholar.org/paper/3c06ea3485d80187a44bf4307cbbe5b2eaa26e12",
+      "title": "Topological Feature Search Method for Multichannel EEG: Application in ADHD classification",
+      "venue": "Biomedical Signal Processing and Control",
+      "year": 2024,
+      "referenceCount": 67,
+      "citationCount": 15,
+      "authors": [
+        {
+          "authorId": "2291231261",
+          "name": "Tianming Cai"
+        },
+        {
+          "authorId": "2295953082",
+          "name": "Guoying Zhao"
+        },
+        {
+          "authorId": "9720668",
+          "name": "Junbin Zang"
+        },
+        {
+          "authorId": "2291308031",
+          "name": "Chen Zong"
+        },
+        {
+          "authorId": "2135585489",
+          "name": "Zhidong Zhang"
+        },
+        {
+          "authorId": "2056231723",
+          "name": "Chenyang Xue"
+        }
+      ]
+    },
+    {
+      "paperId": "43a59262a06e4a5ad934c86939da9050dc97c163",
+      "externalIds": {
+        "DOI": "10.1017/s0266466624000367",
+        "CorpusId": 276232606
+      },
+      "url": "https://www.semanticscholar.org/paper/43a59262a06e4a5ad934c86939da9050dc97c163",
+      "title": "CHRONOLOGICALLY TRIMMED LS FOR NONLINEAR PREDICTIVE REGRESSIONS WITH PERSISTENCE OF UNKNOWN FORM",
+      "venue": "Econometric Theory",
+      "year": 2025,
+      "referenceCount": 63,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2313186985",
+          "name": "Zhishui Hu"
+        },
+        {
+          "authorId": "90170547",
+          "name": "Ioannis Kasparis"
+        },
+        {
+          "authorId": "2313035679",
+          "name": "Qiying Wang"
+        }
+      ]
+    },
+    {
+      "paperId": "3d443d0346acd97a02c1fba48138882015dece35",
+      "externalIds": {
+        "DOI": "10.62051/ijcsit.v8n2.06",
+        "CorpusId": 286649293
+      },
+      "url": "https://www.semanticscholar.org/paper/3d443d0346acd97a02c1fba48138882015dece35",
+      "title": "Topology Aware EEG Classification Using Persistent Images and Color Equivariant CNNs",
+      "venue": "International Journal of Computer Science & Information Technology (IJCSIT)",
+      "year": 2026,
+      "referenceCount": 24,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2327662884",
+          "name": "Yuan Dong"
+        },
+        {
+          "authorId": "2312712016",
+          "name": "Guimei Yin"
+        }
+      ]
+    },
+    {
+      "paperId": "40d1a574ce0aa46066976df781824ef614797714",
+      "externalIds": {
+        "DBLP": "conf/icdm/UedaIY22",
+        "DOI": "10.1109/ICDM54844.2022.00153",
+        "CorpusId": 256463131
+      },
+      "url": "https://www.semanticscholar.org/paper/40d1a574ce0aa46066976df781824ef614797714",
+      "title": "Change Detection with Probabilistic Models on Persistence Diagrams",
+      "venue": "Industrial Conference on Data Mining",
+      "year": 2022,
+      "referenceCount": 27,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2147106765",
+          "name": "Kohei Ueda"
+        },
+        {
+          "authorId": "2149325362",
+          "name": "Yuichi Ike"
+        },
+        {
+          "authorId": "34755863",
+          "name": "K. Yamanishi"
+        }
+      ]
+    }
+  ]
+}

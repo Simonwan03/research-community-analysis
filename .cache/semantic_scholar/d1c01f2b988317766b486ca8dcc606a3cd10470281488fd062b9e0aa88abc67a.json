@@ -1,0 +1,296 @@
+{
+  "total": 302,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "16a26289d7c37e6a0179fa57b14a327286696d33",
+      "externalIds": {
+        "ArXiv": "1511.05212",
+        "MAG": "2173418170",
+        "DBLP": "conf/icml/ChoromanskaCBJK16",
+        "CorpusId": 745524
+      },
+      "url": "https://www.semanticscholar.org/paper/16a26289d7c37e6a0179fa57b14a327286696d33",
+      "title": "Binary embeddings with structured hashed projections",
+      "venue": "International Conference on Machine Learning",
+      "year": 2015,
+      "referenceCount": 57,
+      "citationCount": 33,
+      "authors": [
+        {
+          "authorId": "3216141",
+          "name": "A. Choromańska"
+        },
+        {
+          "authorId": "1805203",
+          "name": "K. Choromanski"
+        },
+        {
+          "authorId": "2065365958",
+          "name": "Mariusz Bojarski"
+        },
+        {
+          "authorId": "1768120",
+          "name": "Tony Jebara"
+        },
+        {
+          "authorId": "152663162",
+          "name": "Sanjiv Kumar"
+        },
+        {
+          "authorId": "1688882",
+          "name": "Yann LeCun"
+        }
+      ]
+    },
+    {
+      "paperId": "20eab24e250c9552fa74514b5974e127a96d69ac",
+      "externalIds": {
+        "CorpusId": 265097872
+      },
+      "url": "https://www.semanticscholar.org/paper/20eab24e250c9552fa74514b5974e127a96d69ac",
+      "title": "Binary Embeddings with Structured Hashed Projections",
+      "venue": "",
+      "year": null,
+      "referenceCount": 0,
+      "citationCount": 0,
+      "authors": []
+    },
+    {
+      "paperId": "2c82dbe82955e1e67c5b8e3dc839438b2786ccee",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2304-02481",
+        "ArXiv": "2304.02481",
+        "DOI": "10.48550/arXiv.2304.02481",
+        "CorpusId": 257952214
+      },
+      "url": "https://www.semanticscholar.org/paper/2c82dbe82955e1e67c5b8e3dc839438b2786ccee",
+      "title": "Rediscovering Hashed Random Projections for Efficient Quantization of Contextualized Sentence Embeddings",
+      "venue": "arXiv.org",
+      "year": 2023,
+      "referenceCount": 57,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2132404301",
+          "name": "Ulf A. Hamster"
+        },
+        {
+          "authorId": "2108605329",
+          "name": "Ji-Ung Lee"
+        },
+        {
+          "authorId": "3334925",
+          "name": "Alexander Geyken"
+        },
+        {
+          "authorId": "1730400",
+          "name": "Iryna Gurevych"
+        }
+      ]
+    },
+    {
+      "paperId": "f58b12314177989f58c7f04e9a7fbce7d111e425",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2409-20449",
+        "ArXiv": "2409.20449",
+        "DOI": "10.48550/arXiv.2409.20449",
+        "CorpusId": 272987375
+      },
+      "url": "https://www.semanticscholar.org/paper/f58b12314177989f58c7f04e9a7fbce7d111e425",
+      "title": "Linear Projections of Teacher Embeddings for Few-Class Distillation",
+      "venue": "arXiv.org",
+      "year": 2024,
+      "referenceCount": 35,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2028788047",
+          "name": "Noel Loo"
+        },
+        {
+          "authorId": "1701211",
+          "name": "Fotis Iliopoulos"
+        },
+        {
+          "authorId": "2293775823",
+          "name": "Wei Hu"
+        },
+        {
+          "authorId": "2258289018",
+          "name": "Erik Vee"
+        }
+      ]
+    },
+    {
+      "paperId": "fa6420fe98b82256bdbe5ae1a755e401559e6b85",
+      "externalIds": {
+        "CorpusId": 145034803
+      },
+      "url": "https://www.semanticscholar.org/paper/fa6420fe98b82256bdbe5ae1a755e401559e6b85",
+      "title": "D S ] 1 2 M ay 2 01 5 Efficient data hashing with structured binary embeddings",
+      "venue": "",
+      "year": 2018,
+      "referenceCount": 0,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "1805203",
+          "name": "K. Choromanski"
+        }
+      ]
+    },
+    {
+      "paperId": "da5e2365290bf5475e5385971a75f337c90a6776",
+      "externalIds": {
+        "ArXiv": "1505.03190",
+        "MAG": "1429637009",
+        "DBLP": "journals/corr/Choromanski15a",
+        "CorpusId": 10047549
+      },
+      "url": "https://www.semanticscholar.org/paper/da5e2365290bf5475e5385971a75f337c90a6776",
+      "title": "Efficient data hashing with structured binary embeddings",
+      "venue": "arXiv.org",
+      "year": 2015,
+      "referenceCount": 0,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "1805203",
+          "name": "K. Choromanski"
+        }
+      ]
+    },
+    {
+      "paperId": "9ac14ab07ce104e8f04dd12d36f8b0c3736c1a67",
+      "externalIds": {
+        "DBLP": "journals/corr/OymakR15",
+        "MAG": "2198959656",
+        "ArXiv": "1512.04433",
+        "CorpusId": 14487590
+      },
+      "url": "https://www.semanticscholar.org/paper/9ac14ab07ce104e8f04dd12d36f8b0c3736c1a67",
+      "title": "Near-Optimal Bounds for Binary Embeddings of Arbitrary Sets",
+      "venue": "arXiv.org",
+      "year": 2015,
+      "referenceCount": 29,
+      "citationCount": 40,
+      "authors": [
+        {
+          "authorId": "3103394",
+          "name": "Samet Oymak"
+        },
+        {
+          "authorId": "9229182",
+          "name": "B. Recht"
+        }
+      ]
+    },
+    {
+      "paperId": "973b31c805c568cd56f632ec5463daec2779928a",
+      "externalIds": {
+        "ArXiv": "2511.11221",
+        "DBLP": "journals/corr/abs-2511-11221",
+        "DOI": "10.48550/arXiv.2511.11221",
+        "CorpusId": 283055106
+      },
+      "url": "https://www.semanticscholar.org/paper/973b31c805c568cd56f632ec5463daec2779928a",
+      "title": "Sparse Methods for Vector Embeddings of TPC Data",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "referenceCount": 0,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2253824379",
+          "name": "T. Wheeler"
+        },
+        {
+          "authorId": "51468827",
+          "name": "M. Kuchera"
+        },
+        {
+          "authorId": "144268640",
+          "name": "R. Ramanujan"
+        },
+        {
+          "authorId": "2117382248",
+          "name": "R. Krupp"
+        },
+        {
+          "authorId": "2259535846",
+          "name": "C. Wrede"
+        },
+        {
+          "authorId": "145233481",
+          "name": "S. Ravishankar"
+        },
+        {
+          "authorId": "2392723537",
+          "name": "Connor L. Cross"
+        },
+        {
+          "authorId": "2392723012",
+          "name": "Hoi Yan Ian Heung"
+        },
+        {
+          "authorId": "2357522810",
+          "name": "Andrew J. Jones"
+        },
+        {
+          "authorId": "2392722554",
+          "name": "Benjamin Votaw"
+        }
+      ]
+    },
+    {
+      "paperId": "4c2352a3a7001f0b25dcb96310801f705694071a",
+      "externalIds": {
+        "DBLP": "conf/wifs/BoufounosR11",
+        "MAG": "2533461851",
+        "DOI": "10.1109/WIFS.2011.6123149",
+        "CorpusId": 6914359
+      },
+      "url": "https://www.semanticscholar.org/paper/4c2352a3a7001f0b25dcb96310801f705694071a",
+      "title": "Secure binary embeddings for privacy preserving nearest neighbors",
+      "venue": "2011 IEEE International Workshop on Information Forensics and Security",
+      "year": 2011,
+      "referenceCount": 16,
+      "citationCount": 66,
+      "authors": [
+        {
+          "authorId": "2132949",
+          "name": "P. Boufounos"
+        },
+        {
+          "authorId": "145720723",
+          "name": "S. Rane"
+        }
+      ]
+    },
+    {
+      "paperId": "6af3f8e3e5f5158fff3ba863854db9955510f3f6",
+      "externalIds": {
+        "DOI": "10.47989/ir31iconf64121",
+        "CorpusId": 286745981
+      },
+      "url": "https://www.semanticscholar.org/paper/6af3f8e3e5f5158fff3ba863854db9955510f3f6",
+      "title": "Beyond or within the binary? Constructing gendered meanings in generative AI use",
+      "venue": "Information research. An international electronic journal",
+      "year": 2026,
+      "referenceCount": 40,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "118354992",
+          "name": "Zhiyuan Lai"
+        },
+        {
+          "authorId": "2290023668",
+          "name": "Yun-Ping Tang"
+        }
+      ]
+    }
+  ]
+}

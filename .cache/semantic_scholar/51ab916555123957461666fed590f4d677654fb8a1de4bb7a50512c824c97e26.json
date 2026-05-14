@@ -1,0 +1,77 @@
+{
+  "total": 3,
+  "offset": 0,
+  "data": [
+    {
+      "paperId": "8833347924da4de06b83873c013b9f48585e29cd",
+      "externalIds": {
+        "ArXiv": "1703.02100",
+        "MAG": "2949203029",
+        "DBLP": "journals/corr/BianB0T17",
+        "CorpusId": 8871644
+      },
+      "url": "https://www.semanticscholar.org/paper/8833347924da4de06b83873c013b9f48585e29cd",
+      "title": "Guarantees for Greedy Maximization of Non-submodular Functions with Applications",
+      "venue": "International Conference on Machine Learning",
+      "year": 2017,
+      "referenceCount": 47,
+      "citationCount": 261,
+      "authors": [
+        {
+          "authorId": "2419616",
+          "name": "Yatao Bian"
+        },
+        {
+          "authorId": "1682548",
+          "name": "J. Buhmann"
+        },
+        {
+          "authorId": "145343838",
+          "name": "Andreas Krause"
+        },
+        {
+          "authorId": "3302876",
+          "name": "Sebastian Tschiatschek"
+        }
+      ]
+    },
+    {
+      "paperId": "74a25a90b4a2dbbd5b924a60214ef5d8eb65fa21",
+      "externalIds": {
+        "CorpusId": 260449401
+      },
+      "url": "https://www.semanticscholar.org/paper/74a25a90b4a2dbbd5b924a60214ef5d8eb65fa21",
+      "title": "Guarantees for Greedy Maximization of Non-submodular Functions with Applications",
+      "venue": "",
+      "year": 2017,
+      "referenceCount": 0,
+      "citationCount": 0,
+      "authors": []
+    },
+    {
+      "paperId": "720cd696ca3ccb154a6db7eba6547f34285cbfb5",
+      "externalIds": {
+        "MAG": "3033289058",
+        "ArXiv": "2006.04554",
+        "DBLP": "journals/jmlr/Jagalur-MohanM21",
+        "CorpusId": 219531804
+      },
+      "url": "https://www.semanticscholar.org/paper/720cd696ca3ccb154a6db7eba6547f34285cbfb5",
+      "title": "Batch greedy maximization of non-submodular functions: Guarantees and applications to experimental design",
+      "venue": "Journal of machine learning research",
+      "year": 2020,
+      "referenceCount": 111,
+      "citationCount": 32,
+      "authors": [
+        {
+          "authorId": "1402471581",
+          "name": "Jayanth Jagalur-Mohan"
+        },
+        {
+          "authorId": "144656638",
+          "name": "Y. Marzouk"
+        }
+      ]
+    }
+  ]
+}

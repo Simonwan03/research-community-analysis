@@ -1,0 +1,904 @@
+{
+  "offset": 0,
+  "citingPaperInfo": {
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/1502.02843, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "title": "Distributed Gaussian Processes",
+    "authors": [
+      {
+        "authorId": "2261881",
+        "name": "M. Deisenroth"
+      },
+      {
+        "authorId": "2359200",
+        "name": "Jun Wei Ng"
+      }
+    ]
+  },
+  "data": [
+    {
+      "citedPaper": {
+        "paperId": "718577588f38727ff28cf5321a5772a6fcdc1865",
+        "externalIds": {
+          "ArXiv": "1502.02860",
+          "MAG": "2018705428",
+          "DBLP": "journals/pami/DeisenrothFR15",
+          "DOI": "10.1109/TPAMI.2013.218",
+          "CorpusId": 8452555,
+          "PubMed": "26353251"
+        },
+        "url": "https://www.semanticscholar.org/paper/718577588f38727ff28cf5321a5772a6fcdc1865",
+        "title": "Gaussian Processes for Data-Efficient Learning in Robotics and Control",
+        "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+        "year": 2015,
+        "referenceCount": 64,
+        "citationCount": 737,
+        "authors": [
+          {
+            "authorId": "2261881",
+            "name": "M. Deisenroth"
+          },
+          {
+            "authorId": "145197953",
+            "name": "D. Fox"
+          },
+          {
+            "authorId": "3472959",
+            "name": "C. Rasmussen"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "69e9b84d89d5cf51f124ab199354e5f45a7ffdfa",
+        "externalIds": {
+          "MAG": "110304591",
+          "DBLP": "journals/corr/NgD14",
+          "ArXiv": "1412.3078",
+          "CorpusId": 17980483
+        },
+        "url": "https://www.semanticscholar.org/paper/69e9b84d89d5cf51f124ab199354e5f45a7ffdfa",
+        "title": "Hierarchical Mixture-of-Experts Model for Large-Scale Gaussian Process Regression",
+        "venue": "arXiv.org",
+        "year": 2014,
+        "referenceCount": 23,
+        "citationCount": 57,
+        "authors": [
+          {
+            "authorId": "2359200",
+            "name": "Jun Wei Ng"
+          },
+          {
+            "authorId": "2261881",
+            "name": "M. Deisenroth"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "12982be9bea3f456caa9b7b1d258bfc6285b7a5b",
+        "externalIds": {
+          "ArXiv": "1410.7827",
+          "DBLP": "journals/corr/CaoF14",
+          "MAG": "241901432",
+          "CorpusId": 9224182
+        },
+        "url": "https://www.semanticscholar.org/paper/12982be9bea3f456caa9b7b1d258bfc6285b7a5b",
+        "title": "Generalized Product of Experts for Automatic and Principled Fusion of Gaussian Process Predictions",
+        "venue": "arXiv.org",
+        "year": 2014,
+        "referenceCount": 10,
+        "citationCount": 200,
+        "authors": [
+          {
+            "authorId": "2902068",
+            "name": "Yanshuai Cao"
+          },
+          {
+            "authorId": "1793739",
+            "name": "David J. Fleet"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "a985ec351a05887c695ad23fbbd135344f466a60",
+        "externalIds": {
+          "MAG": "19169051",
+          "DBLP": "conf/icml/NguyenB14",
+          "CorpusId": 15989610
+        },
+        "url": "https://www.semanticscholar.org/paper/a985ec351a05887c695ad23fbbd135344f466a60",
+        "title": "Fast Allocation of Gaussian Process Experts",
+        "venue": "International Conference on Machine Learning",
+        "year": 2014,
+        "referenceCount": 22,
+        "citationCount": 60,
+        "authors": [
+          {
+            "authorId": "1792889",
+            "name": "T. Nguyen"
+          },
+          {
+            "authorId": "30561807",
+            "name": "Edwin V. Bonilla"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "6a00d1c642853f20c8c5e7b4d96619c419bc711c",
+        "externalIds": {
+          "DBLP": "journals/corr/GalWR14",
+          "MAG": "2949971467",
+          "ArXiv": "1402.1389",
+          "CorpusId": 1399138
+        },
+        "url": "https://www.semanticscholar.org/paper/6a00d1c642853f20c8c5e7b4d96619c419bc711c",
+        "title": "Distributed Variational Inference in Sparse Gaussian Process Regression and Latent Variable Models",
+        "venue": "Neural Information Processing Systems",
+        "year": 2014,
+        "referenceCount": 19,
+        "citationCount": 153,
+        "authors": [
+          {
+            "authorId": "2681954",
+            "name": "Y. Gal"
+          },
+          {
+            "authorId": "33567216",
+            "name": "Mark van der Wilk"
+          },
+          {
+            "authorId": "3472959",
+            "name": "C. Rasmussen"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "e301beb0e17805dbabf5add06d99c53e8703ea34",
+        "externalIds": {
+          "MAG": "1777124189",
+          "DBLP": "journals/corr/HensmanFL13",
+          "ArXiv": "1309.6835",
+          "CorpusId": 10741325
+        },
+        "url": "https://www.semanticscholar.org/paper/e301beb0e17805dbabf5add06d99c53e8703ea34",
+        "title": "Gaussian Processes for Big Data",
+        "venue": "Conference on Uncertainty in Artificial Intelligence",
+        "year": 2013,
+        "referenceCount": 17,
+        "citationCount": 1339,
+        "authors": [
+          {
+            "authorId": "3166500",
+            "name": "J. Hensman"
+          },
+          {
+            "authorId": "2723245",
+            "name": "Nicoló Fusi"
+          },
+          {
+            "authorId": "145306271",
+            "name": "Neil D. Lawrence"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "7a92e48d4ab63d982b6e5c70538bfd8a0d50c30e",
+        "externalIds": {
+          "DBLP": "journals/jmlr/ChalupkaWM13",
+          "MAG": "2952795334",
+          "ArXiv": "1205.6326",
+          "DOI": "10.5555/2567709.2502592",
+          "CorpusId": 15567320
+        },
+        "url": "https://www.semanticscholar.org/paper/7a92e48d4ab63d982b6e5c70538bfd8a0d50c30e",
+        "title": "A framework for evaluating approximation methods for Gaussian process regression",
+        "venue": "Journal of machine learning research",
+        "year": 2012,
+        "referenceCount": 34,
+        "citationCount": 184,
+        "authors": [
+          {
+            "authorId": "3180200",
+            "name": "Krzysztof Chalupka"
+          },
+          {
+            "authorId": "145715698",
+            "name": "Christopher K. I. Williams"
+          },
+          {
+            "authorId": "145797336",
+            "name": "Iain Murray"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "eb43e695646ca02a5e76750443583c630cd89635",
+        "externalIds": {
+          "DBLP": "journals/jmlr/LuttinenI12",
+          "MAG": "2160061195",
+          "CorpusId": 10290332
+        },
+        "url": "https://www.semanticscholar.org/paper/eb43e695646ca02a5e76750443583c630cd89635",
+        "title": "Efficient Gaussian Process Inference for Short-Scale Spatio-Temporal Modeling",
+        "venue": "International Conference on Artificial Intelligence and Statistics",
+        "year": 2012,
+        "referenceCount": 27,
+        "citationCount": 34,
+        "authors": [
+          {
+            "authorId": "3208701",
+            "name": "Jaakko Luttinen"
+          },
+          {
+            "authorId": "145096481",
+            "name": "A. Ilin"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "4f185ec16ce9c4e2d01d4acb0f9b46fe91b1b1eb",
+        "externalIds": {
+          "DBLP": "conf/rss/DeisenrothRF11",
+          "MAG": "1520597402",
+          "DOI": "10.15607/RSS.2011.VII.008",
+          "CorpusId": 16758749
+        },
+        "url": "https://www.semanticscholar.org/paper/4f185ec16ce9c4e2d01d4acb0f9b46fe91b1b1eb",
+        "title": "Learning to Control a Low-Cost Manipulator using Data-Efficient Reinforcement Learning",
+        "venue": "Robotics: Science and Systems",
+        "year": 2011,
+        "referenceCount": 22,
+        "citationCount": 249,
+        "authors": [
+          {
+            "authorId": "2261881",
+            "name": "M. Deisenroth"
+          },
+          {
+            "authorId": "3472959",
+            "name": "C. Rasmussen"
+          },
+          {
+            "authorId": "145197953",
+            "name": "D. Fox"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "cd5a26b89f0799db1cbc1dff5607cb6815739fe7",
+        "externalIds": {
+          "MAG": "2950338507",
+          "DBLP": "journals/corr/abs-1012-2599",
+          "ArXiv": "1012.2599",
+          "CorpusId": 1640103
+        },
+        "url": "https://www.semanticscholar.org/paper/cd5a26b89f0799db1cbc1dff5607cb6815739fe7",
+        "title": "A Tutorial on Bayesian Optimization of Expensive Cost Functions, with Application to Active User Modeling and Hierarchical Reinforcement Learning",
+        "venue": "arXiv.org",
+        "year": 2010,
+        "referenceCount": 109,
+        "citationCount": 2633,
+        "authors": [
+          {
+            "authorId": "144180357",
+            "name": "E. Brochu"
+          },
+          {
+            "authorId": "2221163",
+            "name": "Vlad M. Cora"
+          },
+          {
+            "authorId": "1737568",
+            "name": "Nando de Freitas"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "f2b1b678ee6295136fdc25d04a804df95badd065",
+        "externalIds": {
+          "MAG": "2170912685",
+          "DBLP": "journals/jmlr/Lazaro-GredillaCRF10",
+          "DOI": "10.5555/1756006.1859914",
+          "CorpusId": 8501263
+        },
+        "url": "https://www.semanticscholar.org/paper/f2b1b678ee6295136fdc25d04a804df95badd065",
+        "title": "Sparse Spectrum Gaussian Process Regression",
+        "venue": "Journal of machine learning research",
+        "year": 2010,
+        "referenceCount": 22,
+        "citationCount": 536,
+        "authors": [
+          {
+            "authorId": "1388666962",
+            "name": "M. Lázaro-Gredilla"
+          },
+          {
+            "authorId": "3177568",
+            "name": "J. Q. Candela"
+          },
+          {
+            "authorId": "3472959",
+            "name": "C. Rasmussen"
+          },
+          {
+            "authorId": "1398493114",
+            "name": "A. Figueiras-Vidal"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "f4de6082e2af026b5925810f7e7a1b04736496e2",
+        "externalIds": {
+          "MAG": "137285897",
+          "DBLP": "journals/jmlr/Titsias09",
+          "CorpusId": 7811257
+        },
+        "url": "https://www.semanticscholar.org/paper/f4de6082e2af026b5925810f7e7a1b04736496e2",
+        "title": "Variational Learning of Inducing Variables in Sparse Gaussian Processes",
+        "venue": "International Conference on Artificial Intelligence and Statistics",
+        "year": 2009,
+        "referenceCount": 12,
+        "citationCount": 1879,
+        "authors": [
+          {
+            "authorId": "1722732",
+            "name": "Michalis K. Titsias"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "66cc91d02f6a4481719f76bc9cff1ca80c9007dc",
+        "externalIds": {
+          "DBLP": "conf/nips/YuanN08",
+          "MAG": "2095849032",
+          "CorpusId": 18392
+        },
+        "url": "https://www.semanticscholar.org/paper/66cc91d02f6a4481719f76bc9cff1ca80c9007dc",
+        "title": "Variational Mixture of Gaussian Process Experts",
+        "venue": "Neural Information Processing Systems",
+        "year": 2008,
+        "referenceCount": 15,
+        "citationCount": 98,
+        "authors": [
+          {
+            "authorId": "2117730126",
+            "name": "Chao Yuan"
+          },
+          {
+            "authorId": "2076808000",
+            "name": "Claus Neubauer"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "a301edf25f11440569f6f81af5902a4532b1dcb8",
+        "externalIds": {
+          "DBLP": "journals/jmlr/KrauseSG08",
+          "MAG": "3003506411",
+          "DOI": "10.5555/1390681.1390689",
+          "CorpusId": 224110813
+        },
+        "url": "https://www.semanticscholar.org/paper/a301edf25f11440569f6f81af5902a4532b1dcb8",
+        "title": "Near-Optimal Sensor Placements in Gaussian Processes: Theory, Efficient Algorithms and Empirical Studies",
+        "venue": "Journal of machine learning research",
+        "year": 2008,
+        "referenceCount": 98,
+        "citationCount": 495,
+        "authors": [
+          {
+            "authorId": "2283668815",
+            "name": "Andreas Krause"
+          },
+          {
+            "authorId": "2341192782",
+            "name": "A. Singh"
+          },
+          {
+            "authorId": "1412355294",
+            "name": "Carlos Guestrin"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "7d9c0b209730a06cd9cb69b4720bcdb77aef9f80",
+        "externalIds": {
+          "DBLP": "conf/nips/MeedsO05",
+          "MAG": "2111683289",
+          "CorpusId": 14893774
+        },
+        "url": "https://www.semanticscholar.org/paper/7d9c0b209730a06cd9cb69b4720bcdb77aef9f80",
+        "title": "An Alternative Infinite Mixture Of Gaussian Process Experts",
+        "venue": "Neural Information Processing Systems",
+        "year": 2005,
+        "referenceCount": 11,
+        "citationCount": 153,
+        "authors": [
+          {
+            "authorId": "2848132",
+            "name": "Edward Meeds"
+          },
+          {
+            "authorId": "2217144",
+            "name": "Simon Osindero"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "fb00902d67f2fe224721b8a54c816e72883d28d2",
+        "externalIds": {
+          "DBLP": "conf/nips/ShenNS05",
+          "MAG": "2115519811",
+          "CorpusId": 1190939
+        },
+        "url": "https://www.semanticscholar.org/paper/fb00902d67f2fe224721b8a54c816e72883d28d2",
+        "title": "Fast Gaussian Process Regression using KD-Trees",
+        "venue": "Neural Information Processing Systems",
+        "year": 2005,
+        "referenceCount": 20,
+        "citationCount": 138,
+        "authors": [
+          {
+            "authorId": "2416039",
+            "name": "Yirong Shen"
+          },
+          {
+            "authorId": "34699434",
+            "name": "A. Ng"
+          },
+          {
+            "authorId": "1680574",
+            "name": "M. Seeger"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "b6a2d80854651a56e0f023543131744f14f20ab4",
+        "externalIds": {
+          "DBLP": "conf/nips/SnelsonG05",
+          "MAG": "2099768828",
+          "CorpusId": 394337
+        },
+        "url": "https://www.semanticscholar.org/paper/b6a2d80854651a56e0f023543131744f14f20ab4",
+        "title": "Sparse Gaussian Processes using Pseudo-inputs",
+        "venue": "Neural Information Processing Systems",
+        "year": 2005,
+        "referenceCount": 15,
+        "citationCount": 2008,
+        "authors": [
+          {
+            "authorId": "2081889",
+            "name": "Edward Snelson"
+          },
+          {
+            "authorId": "1744700",
+            "name": "Zoubin Ghahramani"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "713fb831bf324690aa7a7e07ace3443770046007",
+        "externalIds": {
+          "MAG": "1571870753",
+          "DBLP": "journals/jmlr/CandelaR05",
+          "CorpusId": 16005390
+        },
+        "url": "https://www.semanticscholar.org/paper/713fb831bf324690aa7a7e07ace3443770046007",
+        "title": "A Unifying View of Sparse Approximate Gaussian Process Regression",
+        "venue": "Journal of machine learning research",
+        "year": 2005,
+        "referenceCount": 22,
+        "citationCount": 2173,
+        "authors": [
+          {
+            "authorId": "3177568",
+            "name": "J. Q. Candela"
+          },
+          {
+            "authorId": "3472959",
+            "name": "C. Rasmussen"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "8d60f04d9677f1a5c439b6b1cef41606bd0ca646",
+        "externalIds": {
+          "MAG": "2136111243",
+          "DBLP": "journals/jmlr/Lawrence05",
+          "CorpusId": 1969477
+        },
+        "url": "https://www.semanticscholar.org/paper/8d60f04d9677f1a5c439b6b1cef41606bd0ca646",
+        "title": "Probabilistic Non-linear Principal Component Analysis with Gaussian Process Latent Variable Models",
+        "venue": "Journal of machine learning research",
+        "year": 2005,
+        "referenceCount": 44,
+        "citationCount": 1127,
+        "authors": [
+          {
+            "authorId": "145306271",
+            "name": "Neil D. Lawrence"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "8ca86e941da7254613a5d03dd7a6c36886fadc1d",
+        "externalIds": {
+          "MAG": "164706946",
+          "CorpusId": 262910797
+        },
+        "url": "https://www.semanticscholar.org/paper/8ca86e941da7254613a5d03dd7a6c36886fadc1d",
+        "title": "Gaussian Processes for Machine Learning (Adaptive Computation and Machine Learning)",
+        "venue": "",
+        "year": 2005,
+        "referenceCount": 0,
+        "citationCount": 4322,
+        "authors": [
+          {
+            "authorId": "2247411478",
+            "name": "Carl E. Rasmussen"
+          },
+          {
+            "authorId": "2248834664",
+            "name": "Christopher K. I. Williams"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "39e1c9b8d38bfed261674e24e9ef6bd1695b4b77",
+        "externalIds": {
+          "DBLP": "conf/icml/GuestrinKS05",
+          "MAG": "1999824796",
+          "DOI": "10.1145/1102351.1102385",
+          "CorpusId": 333449
+        },
+        "url": "https://www.semanticscholar.org/paper/39e1c9b8d38bfed261674e24e9ef6bd1695b4b77",
+        "title": "Near-optimal sensor placements in Gaussian processes",
+        "venue": "International Conference on Machine Learning",
+        "year": 2005,
+        "referenceCount": 97,
+        "citationCount": 1925,
+        "authors": [
+          {
+            "authorId": "145343838",
+            "name": "Andreas Krause"
+          },
+          {
+            "authorId": "2117775861",
+            "name": "A. Singh"
+          },
+          {
+            "authorId": "1730156",
+            "name": "Carlos Guestrin"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "480d517574a079d3e0159b978cb19b3f014e59a3",
+        "externalIds": {
+          "MAG": "2098949458",
+          "DBLP": "conf/nips/RasmussenG01",
+          "CorpusId": 5062147
+        },
+        "url": "https://www.semanticscholar.org/paper/480d517574a079d3e0159b978cb19b3f014e59a3",
+        "title": "Infinite Mixtures of Gaussian Process Experts",
+        "venue": "Neural Information Processing Systems",
+        "year": 2001,
+        "referenceCount": 10,
+        "citationCount": 545,
+        "authors": [
+          {
+            "authorId": "2242624081",
+            "name": "Carl E. Rasmussen"
+          },
+          {
+            "authorId": "1983575",
+            "name": "Z. Ghahramani"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "7eeea351d07ef9cc2d572d857e944ab59ee7c61b",
+        "externalIds": {
+          "MAG": "1973310094",
+          "DBLP": "journals/neco/Tresp00",
+          "DOI": "10.1162/089976600300014908",
+          "CorpusId": 930666,
+          "PubMed": "11110133"
+        },
+        "url": "https://www.semanticscholar.org/paper/7eeea351d07ef9cc2d572d857e944ab59ee7c61b",
+        "title": "A Bayesian Committee Machine",
+        "venue": "Neural Computation",
+        "year": 2000,
+        "referenceCount": 30,
+        "citationCount": 471,
+        "authors": [
+          {
+            "authorId": "1700754",
+            "name": "Volker Tresp"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "daa63f57c3fbe994c4356f8d986a22e696e776d2",
+        "externalIds": {
+          "MAG": "1510052597",
+          "DBLP": "journals/jgo/JonesSW98",
+          "DOI": "10.1023/A:1008306431147",
+          "CorpusId": 263864014
+        },
+        "url": "https://www.semanticscholar.org/paper/daa63f57c3fbe994c4356f8d986a22e696e776d2",
+        "title": "Efficient Global Optimization of Expensive Black-Box Functions",
+        "venue": "Journal of Global Optimization",
+        "year": 1998,
+        "referenceCount": 37,
+        "citationCount": 5649,
+        "authors": [
+          {
+            "authorId": "2118096690",
+            "name": "Donald R. Jones"
+          },
+          {
+            "authorId": "2257210524",
+            "name": "Matthias Schonlau"
+          },
+          {
+            "authorId": "145228938",
+            "name": "W. Welch"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "d919e2bf6e87607ea7de4cde1da6c77f0ea46fa3",
+        "externalIds": {
+          "MAG": "2148124601",
+          "DBLP": "conf/nips/Heskes97",
+          "CorpusId": 11312042
+        },
+        "url": "https://www.semanticscholar.org/paper/d919e2bf6e87607ea7de4cde1da6c77f0ea46fa3",
+        "title": "Selecting Weighting Factors in Logarithmic Opinion Pools",
+        "venue": "Neural Information Processing Systems",
+        "year": 1997,
+        "referenceCount": 9,
+        "citationCount": 107,
+        "authors": [
+          {
+            "authorId": "1790356",
+            "name": "T. Heskes"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "c8d90974c3f3b40fa05e322df2905fc16204aa56",
+        "externalIds": {
+          "DBLP": "journals/neco/JacobsJNH91",
+          "MAG": "2150884987",
+          "DOI": "10.1162/neco.1991.3.1.79",
+          "CorpusId": 572361,
+          "PubMed": "31141872"
+        },
+        "url": "https://www.semanticscholar.org/paper/c8d90974c3f3b40fa05e322df2905fc16204aa56",
+        "title": "Adaptive Mixtures of Local Experts",
+        "venue": "Neural Computation",
+        "year": 1991,
+        "referenceCount": 42,
+        "citationCount": 6479,
+        "authors": [
+          {
+            "authorId": "144215175",
+            "name": "R. Jacobs"
+          },
+          {
+            "authorId": "1694621",
+            "name": "Michael I. Jordan"
+          },
+          {
+            "authorId": "1802785",
+            "name": "S. Nowlan"
+          },
+          {
+            "authorId": "1695689",
+            "name": "Geoffrey E. Hinton"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "784a8e0baa1289c96b487a624015bb190cec80fa",
+        "externalIds": {
+          "MAG": "2105984000",
+          "DOI": "10.1287/MNSC.28.10.1137",
+          "CorpusId": 122753467
+        },
+        "url": "https://www.semanticscholar.org/paper/784a8e0baa1289c96b487a624015bb190cec80fa",
+        "title": "A Multiplicative Formula for Aggregating Probability Assessments",
+        "venue": "",
+        "year": 1982,
+        "referenceCount": 8,
+        "citationCount": 145,
+        "authors": [
+          {
+            "authorId": "2941737",
+            "name": "R. Bordley"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "b5940f8ceaf3c43d084d821f402cf4f868cabd08",
+        "externalIds": {
+          "MAG": "2547946039",
+          "CorpusId": 64425806
+        },
+        "url": "https://www.semanticscholar.org/paper/b5940f8ceaf3c43d084d821f402cf4f868cabd08",
+        "title": "Statistics For Spatial Data",
+        "venue": "",
+        "year": 2016,
+        "referenceCount": 0,
+        "citationCount": 3151,
+        "authors": [
+          {
+            "authorId": "66529848",
+            "name": "L. Vogt"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "Distributed Gaussian Processes Marc Deisenroth @ICML",
+        "venue": "Distributed Gaussian Processes Marc Deisenroth @ICML",
+        "year": 2015,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "7f922938fb881cc8517616f2f96c130b9dcc5148",
+        "externalIds": {
+          "DOI": "10.1080/01621459.1994.10476813",
+          "CorpusId": 17493949
+        },
+        "url": "https://www.semanticscholar.org/paper/7f922938fb881cc8517616f2f96c130b9dcc5148",
+        "title": "Adaptive Mixtures",
+        "venue": "",
+        "year": 2010,
+        "referenceCount": 30,
+        "citationCount": 52,
+        "authors": [
+          {
+            "authorId": "1693972",
+            "name": "C. Priebe"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "145512a08a7cd79a0efb1f0503ddc6a4e4ef02dc",
+        "externalIds": {
+          "MAG": "1512149552",
+          "DBLP": "conf/aistats/SeegerWL03",
+          "CorpusId": 17404261
+        },
+        "url": "https://www.semanticscholar.org/paper/145512a08a7cd79a0efb1f0503ddc6a4e4ef02dc",
+        "title": "Fast Forward Selection to Speed Up Sparse Gaussian Process Regression",
+        "venue": "International Conference on Artificial Intelligence and Statistics",
+        "year": 2003,
+        "referenceCount": 17,
+        "citationCount": 520,
+        "authors": [
+          {
+            "authorId": "1680574",
+            "name": "M. Seeger"
+          },
+          {
+            "authorId": "145715698",
+            "name": "Christopher K. I. Williams"
+          },
+          {
+            "authorId": "145306271",
+            "name": "Neil D. Lawrence"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "b6fff8b8ea77f157913986e7af53951d9fc1128e",
+        "externalIds": {
+          "DBLP": "conf/nips/WilliamsS00",
+          "MAG": "2112545207",
+          "CorpusId": 42041158
+        },
+        "url": "https://www.semanticscholar.org/paper/b6fff8b8ea77f157913986e7af53951d9fc1128e",
+        "title": "Using the Nyström Method to Speed Up Kernel Machines",
+        "venue": "Neural Information Processing Systems",
+        "year": 2000,
+        "referenceCount": 8,
+        "citationCount": 2693,
+        "authors": [
+          {
+            "authorId": "145715698",
+            "name": "Christopher K. I. Williams"
+          },
+          {
+            "authorId": "1680574",
+            "name": "M. Seeger"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "Table 2. Performance on the Kin40K data set and the time required to compute the gradient of the log-marginal likelihood averaged over 10 experiments",
+        "venue": "All standard errors",
+        "year": null,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,326 @@
+{
+  "total": 4050,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "4f2baff3195b6fc43a38e3e869496dab9fe9dbc3",
+      "externalIds": {
+        "MAG": "2952026991",
+        "DBLP": "conf/icml/LiuDRSH18",
+        "ArXiv": "1803.04383",
+        "DOI": "10.24963/ijcai.2019/862",
+        "CorpusId": 4701888
+      },
+      "url": "https://www.semanticscholar.org/paper/4f2baff3195b6fc43a38e3e869496dab9fe9dbc3",
+      "title": "Delayed Impact of Fair Machine Learning",
+      "venue": "International Conference on Machine Learning",
+      "year": 2018,
+      "referenceCount": 36,
+      "citationCount": 517,
+      "authors": [
+        {
+          "authorId": "1748108610",
+          "name": "Lydia T. Liu"
+        },
+        {
+          "authorId": "1491339790",
+          "name": "Sarah Dean"
+        },
+        {
+          "authorId": "144322309",
+          "name": "Esther Rolf"
+        },
+        {
+          "authorId": "2285675764",
+          "name": "Max Simchowitz"
+        },
+        {
+          "authorId": "1775622",
+          "name": "Moritz Hardt"
+        }
+      ]
+    },
+    {
+      "paperId": "42ccb83c44fb2ec4c022c4525edbb5030deb84bd",
+      "externalIds": {
+        "CorpusId": 53137055
+      },
+      "url": "https://www.semanticscholar.org/paper/42ccb83c44fb2ec4c022c4525edbb5030deb84bd",
+      "title": "Appendix for Delayed Impact of Fair Machine Learning A Further Examples",
+      "venue": "",
+      "year": 2018,
+      "referenceCount": 0,
+      "citationCount": 0,
+      "authors": []
+    },
+    {
+      "paperId": "13b06cfc4f11671b82939137d35719dd102ce820",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2208-11744",
+        "ArXiv": "2208.11744",
+        "DOI": "10.48550/arXiv.2208.11744",
+        "CorpusId": 251800125
+      },
+      "url": "https://www.semanticscholar.org/paper/13b06cfc4f11671b82939137d35719dd102ce820",
+      "title": "Enforcing Delayed-Impact Fairness Guarantees",
+      "venue": "arXiv.org",
+      "year": 2022,
+      "referenceCount": 39,
+      "citationCount": 12,
+      "authors": [
+        {
+          "authorId": "2068131901",
+          "name": "Aline Weber"
+        },
+        {
+          "authorId": "66908272",
+          "name": "Blossom Metevier"
+        },
+        {
+          "authorId": "2932798",
+          "name": "Yuriy Brun"
+        },
+        {
+          "authorId": "143640165",
+          "name": "P. Thomas"
+        },
+        {
+          "authorId": "2065418856",
+          "name": "B. C. Silva"
+        }
+      ]
+    },
+    {
+      "paperId": "08206f1b61efc20626ff1ca7a4b490165e0a5fd5",
+      "externalIds": {
+        "ArXiv": "2401.14438",
+        "DBLP": "conf/fat/ZezulkaG24",
+        "DOI": "10.1145/3630106.3659020",
+        "CorpusId": 267301091
+      },
+      "url": "https://www.semanticscholar.org/paper/08206f1b61efc20626ff1ca7a4b490165e0a5fd5",
+      "title": "From the Fair Distribution of Predictions to the Fair Distribution of Social Goods: Evaluating the Impact of Fair Machine Learning on Long-Term Unemployment",
+      "venue": "Conference on Fairness, Accountability and Transparency",
+      "year": 2024,
+      "referenceCount": 86,
+      "citationCount": 18,
+      "authors": [
+        {
+          "authorId": "2223928880",
+          "name": "Sebastian Zezulka"
+        },
+        {
+          "authorId": "2257348759",
+          "name": "Konstantin Genin"
+        }
+      ]
+    },
+    {
+      "paperId": "d0b1c6faf0a463a3dcf477e21b481b83dd082651",
+      "externalIds": {
+        "DBLP": "journals/jbi/HuangGCLTWXB24",
+        "DOI": "10.1101/2024.03.03.24303669",
+        "CorpusId": 268230247,
+        "PubMed": "38452862"
+      },
+      "url": "https://www.semanticscholar.org/paper/d0b1c6faf0a463a3dcf477e21b481b83dd082651",
+      "title": "A scoping review of fair machine learning techniques when using real-world data",
+      "venue": "medRxiv",
+      "year": 2024,
+      "referenceCount": 72,
+      "citationCount": 37,
+      "authors": [
+        {
+          "authorId": "2108861186",
+          "name": "Yu Huang"
+        },
+        {
+          "authorId": "2202046756",
+          "name": "Jingchuan Guo"
+        },
+        {
+          "authorId": "2166060080",
+          "name": "Wei-Han Chen"
+        },
+        {
+          "authorId": "2290297573",
+          "name": "Hsin-Yueh Lin"
+        },
+        {
+          "authorId": "2238141148",
+          "name": "Huilin Tang"
+        },
+        {
+          "authorId": "2247958042",
+          "name": "Fei Wang"
+        },
+        {
+          "authorId": "2290319975",
+          "name": "Hua Xu"
+        },
+        {
+          "authorId": "2251519433",
+          "name": "Jiang Bian"
+        }
+      ]
+    },
+    {
+      "paperId": "d2459ca6704c4354d1c52c2d7e64954dddd571f6",
+      "externalIds": {
+        "DBLP": "conf/aies/JorgensenRBCS23",
+        "DOI": "10.1145/3600211.3604699",
+        "CorpusId": 261279496
+      },
+      "url": "https://www.semanticscholar.org/paper/d2459ca6704c4354d1c52c2d7e64954dddd571f6",
+      "title": "Not So Fair: The Impact of Presumably Fair Machine Learning Models",
+      "venue": "AAAI/ACM Conference on AI, Ethics, and Society",
+      "year": 2023,
+      "referenceCount": 48,
+      "citationCount": 10,
+      "authors": [
+        {
+          "authorId": "39769237",
+          "name": "Mackenzie Jorgensen"
+        },
+        {
+          "authorId": "2235102005",
+          "name": "Hannah Richert"
+        },
+        {
+          "authorId": "2193249636",
+          "name": "Elizabeth Black"
+        },
+        {
+          "authorId": "1799571",
+          "name": "N. Criado"
+        },
+        {
+          "authorId": "144622087",
+          "name": "J. Such"
+        }
+      ]
+    },
+    {
+      "paperId": "cb17186112b1a1f233d760c6ac11ccd485b41190",
+      "externalIds": {
+        "ArXiv": "2007.10306",
+        "DBLP": "journals/corr/abs-2007-10306",
+        "MAG": "3101991465",
+        "DOI": "10.1016/j.jbi.2020.103621",
+        "CorpusId": 220647212,
+        "PubMed": "33220494"
+      },
+      "url": "https://www.semanticscholar.org/paper/cb17186112b1a1f233d760c6ac11ccd485b41190",
+      "title": "An Empirical Characterization of Fair Machine Learning For Clinical Risk Prediction",
+      "venue": "Journal of Biomedical Informatics",
+      "year": 2020,
+      "referenceCount": 113,
+      "citationCount": 147,
+      "authors": [
+        {
+          "authorId": "7790917",
+          "name": "S. Pfohl"
+        },
+        {
+          "authorId": "1491516389",
+          "name": "Agata Foryciarz"
+        },
+        {
+          "authorId": "143665076",
+          "name": "N. Shah"
+        }
+      ]
+    },
+    {
+      "paperId": "72e0df4eb1cfae52c059f5477369682bcd379f44",
+      "externalIds": {
+        "DBLP": "journals/make/HeidrichSSS23",
+        "DOI": "10.3390/make5040076",
+        "CorpusId": 264375473
+      },
+      "url": "https://www.semanticscholar.org/paper/72e0df4eb1cfae52c059f5477369682bcd379f44",
+      "title": "FairCaipi: A Combination of Explanatory Interactive and Fair Machine Learning for Human and Machine Bias Reduction",
+      "venue": "Machine Learning and Knowledge Extraction",
+      "year": 2023,
+      "referenceCount": 56,
+      "citationCount": 6,
+      "authors": [
+        {
+          "authorId": "2260802451",
+          "name": "Louisa Heidrich"
+        },
+        {
+          "authorId": "2260805795",
+          "name": "Emanuel Slany"
+        },
+        {
+          "authorId": "1757899",
+          "name": "Stephan Scheele"
+        },
+        {
+          "authorId": "2260730456",
+          "name": "Ute Schmid"
+        }
+      ]
+    },
+    {
+      "paperId": "c41f9c5c5fff18dd742908efdf7c2683f4b70ddd",
+      "externalIds": {
+        "DOI": "10.55041/ijsrem51300",
+        "CorpusId": 280211764
+      },
+      "url": "https://www.semanticscholar.org/paper/c41f9c5c5fff18dd742908efdf7c2683f4b70ddd",
+      "title": "Bias Detection and Mitigation in AI: A Framework for fair and inclusive Machine Learning Models",
+      "venue": "INTERNATIONAL JOURNAL OF SCIENTIFIC RESEARCH IN ENGINEERING AND MANAGEMENT",
+      "year": 2025,
+      "referenceCount": 0,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2408006409",
+          "name": "S. Sucharita"
+        },
+        {
+          "authorId": "2372497223",
+          "name": "Prof. Kamalakanta Shaw"
+        }
+      ]
+    },
+    {
+      "paperId": "8f52f6bf6f3bea829c1ddc1182f73a52701e4970",
+      "externalIds": {
+        "DOI": "10.3329/ijss.v24i2.77990",
+        "CorpusId": 274616837
+      },
+      "url": "https://www.semanticscholar.org/paper/8f52f6bf6f3bea829c1ddc1182f73a52701e4970",
+      "title": "Impact of COVID-19 on Square Pharmaceuticals Stock Prices: A Comparative Analysis of Machine Learning Models",
+      "venue": "International Journal of Statistical Sciences",
+      "year": 2024,
+      "referenceCount": 0,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2335159352",
+          "name": "Sojaul Islam"
+        },
+        {
+          "authorId": "2269753480",
+          "name": "Md. Mostafizur Rahman"
+        },
+        {
+          "authorId": "2334612761",
+          "name": "Md Asaduzzaman Khondoker"
+        },
+        {
+          "authorId": "2335261860",
+          "name": "Md. Abdur Rahman"
+        },
+        {
+          "authorId": "2269705818",
+          "name": "M. S. Rahman"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,303 @@
+{
+  "total": 4539,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "266e8622d57457ad76224649c6b00adf23c0b76d",
+      "externalIds": {
+        "DBLP": "journals/corr/MnihR16",
+        "MAG": "2278112683",
+        "ArXiv": "1602.06725",
+        "CorpusId": 5859948
+      },
+      "url": "https://www.semanticscholar.org/paper/266e8622d57457ad76224649c6b00adf23c0b76d",
+      "title": "Variational Inference for Monte Carlo Objectives",
+      "venue": "International Conference on Machine Learning",
+      "year": 2016,
+      "referenceCount": 24,
+      "citationCount": 303,
+      "authors": [
+        {
+          "authorId": "1714004",
+          "name": "A. Mnih"
+        },
+        {
+          "authorId": "1748523",
+          "name": "Danilo Jimenez Rezende"
+        }
+      ]
+    },
+    {
+      "paperId": "ca6c139f28ee09f2637661a139b4b81b0ba5bdff",
+      "externalIds": {
+        "MAG": "2895958066",
+        "DBLP": "journals/corr/abs-1810-04152",
+        "ArXiv": "1810.04152",
+        "CorpusId": 52947979
+      },
+      "url": "https://www.semanticscholar.org/paper/ca6c139f28ee09f2637661a139b4b81b0ba5bdff",
+      "title": "Doubly Reparameterized Gradient Estimators for Monte Carlo Objectives",
+      "venue": "arXiv.org",
+      "year": 2018,
+      "referenceCount": 37,
+      "citationCount": 114,
+      "authors": [
+        {
+          "authorId": "145499435",
+          "name": "G. Tucker"
+        },
+        {
+          "authorId": "36119458",
+          "name": "Dieterich Lawson"
+        },
+        {
+          "authorId": "2046135",
+          "name": "S. Gu"
+        },
+        {
+          "authorId": "2772217",
+          "name": "Chris J. Maddison"
+        }
+      ]
+    },
+    {
+      "paperId": "d8778f909eb027bcb7c5122bca23acb680ded647",
+      "externalIds": {
+        "MAG": "2963446624",
+        "DBLP": "conf/iclr/TuckerLGM19",
+        "CorpusId": 260492776
+      },
+      "url": "https://www.semanticscholar.org/paper/d8778f909eb027bcb7c5122bca23acb680ded647",
+      "title": "Doubly Reparameterized Gradient Estimators for Monte Carlo Objectives",
+      "venue": "International Conference on Learning Representations",
+      "year": 2019,
+      "referenceCount": 24,
+      "citationCount": 31,
+      "authors": [
+        {
+          "authorId": "145499435",
+          "name": "G. Tucker"
+        },
+        {
+          "authorId": "36119458",
+          "name": "Dieterich Lawson"
+        },
+        {
+          "authorId": "2046135",
+          "name": "S. Gu"
+        },
+        {
+          "authorId": "2772217",
+          "name": "Chris J. Maddison"
+        }
+      ]
+    },
+    {
+      "paperId": "24b55a974a53aed3273d5aac8087af32a437262c",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2201-10989",
+        "ArXiv": "2201.10989",
+        "CorpusId": 246285591
+      },
+      "url": "https://www.semanticscholar.org/paper/24b55a974a53aed3273d5aac8087af32a437262c",
+      "title": "Uphill Roads to Variational Tightness: Monotonicity and Monte Carlo Objectives",
+      "venue": "arXiv.org",
+      "year": 2022,
+      "referenceCount": 67,
+      "citationCount": 4,
+      "authors": [
+        {
+          "authorId": "32768756",
+          "name": "Pierre-Alexandre Mattei"
+        },
+        {
+          "authorId": "3010230",
+          "name": "J. Frellsen"
+        }
+      ]
+    },
+    {
+      "paperId": "cc2591bec7073a5165d76698f5838bf8aa6d67fd",
+      "externalIds": {
+        "MAG": "2962783804",
+        "DBLP": "journals/corr/abs-1807-01604",
+        "ArXiv": "1807.01604",
+        "CorpusId": 49317028
+      },
+      "url": "https://www.semanticscholar.org/paper/cc2591bec7073a5165d76698f5838bf8aa6d67fd",
+      "title": "Quasi-Monte Carlo Variational Inference",
+      "venue": "International Conference on Machine Learning",
+      "year": 2018,
+      "referenceCount": 62,
+      "citationCount": 67,
+      "authors": [
+        {
+          "authorId": "11843959",
+          "name": "Alexander Buchholz"
+        },
+        {
+          "authorId": "39798982",
+          "name": "F. Wenzel"
+        },
+        {
+          "authorId": "1783468",
+          "name": "S. Mandt"
+        }
+      ]
+    },
+    {
+      "paperId": "fb44c7c9da42e2e8af996e7f3cdb4b5261c311ac",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-1906-10115",
+        "ArXiv": "1906.10115",
+        "MAG": "2970799057",
+        "CorpusId": 195345465
+      },
+      "url": "https://www.semanticscholar.org/paper/fb44c7c9da42e2e8af996e7f3cdb4b5261c311ac",
+      "title": "Divide and Couple: Using Monte Carlo Variational Objectives for Posterior Approximation",
+      "venue": "Neural Information Processing Systems",
+      "year": 2019,
+      "referenceCount": 31,
+      "citationCount": 19,
+      "authors": [
+        {
+          "authorId": "1722101",
+          "name": "Justin Domke"
+        },
+        {
+          "authorId": "144799908",
+          "name": "D. Sheldon"
+        }
+      ]
+    },
+    {
+      "paperId": "96ebecb1bebd59dff73d8889fa0aca5d8ee6c1a4",
+      "externalIds": {
+        "ArXiv": "2407.00649",
+        "DBLP": "journals/corr/abs-2407-00649",
+        "DOI": "10.48550/arXiv.2407.00649",
+        "CorpusId": 270870037
+      },
+      "url": "https://www.semanticscholar.org/paper/96ebecb1bebd59dff73d8889fa0aca5d8ee6c1a4",
+      "title": "Particle Semi-Implicit Variational Inference",
+      "venue": "Neural Information Processing Systems",
+      "year": 2024,
+      "referenceCount": 62,
+      "citationCount": 11,
+      "authors": [
+        {
+          "authorId": "2273826189",
+          "name": "Jen Ning Lim"
+        },
+        {
+          "authorId": "2729416",
+          "name": "A. M. Johansen"
+        }
+      ]
+    },
+    {
+      "paperId": "8961a4fae57e9548781f43fe3215008f30dca17e",
+      "externalIds": {
+        "DBLP": "journals/pacmpl/BeckerLWGHRM24",
+        "ArXiv": "2406.15742",
+        "DOI": "10.1145/3656463",
+        "CorpusId": 270617809
+      },
+      "url": "https://www.semanticscholar.org/paper/8961a4fae57e9548781f43fe3215008f30dca17e",
+      "title": "Probabilistic Programming with Programmable Variational Inference",
+      "venue": "Proc. ACM Program. Lang.",
+      "year": 2024,
+      "referenceCount": 79,
+      "citationCount": 11,
+      "authors": [
+        {
+          "authorId": "2307478329",
+          "name": "McCoy R. Becker"
+        },
+        {
+          "authorId": "1393982589",
+          "name": "Alexander K. Lew"
+        },
+        {
+          "authorId": "2307473972",
+          "name": "Xiaoyan Wang"
+        },
+        {
+          "authorId": "2274110007",
+          "name": "Matin Ghavami"
+        },
+        {
+          "authorId": "21798862",
+          "name": "Mathieu Huot"
+        },
+        {
+          "authorId": "1720971",
+          "name": "M. Rinard"
+        },
+        {
+          "authorId": "1735083",
+          "name": "Vikash K. Mansinghka"
+        }
+      ]
+    },
+    {
+      "paperId": "86ab01dfe17fa9ea35f4e226c2f2f8882961ebbb",
+      "externalIds": {
+        "DBLP": "conf/iclr/WardBF25",
+        "ArXiv": "2407.15687",
+        "DOI": "10.48550/arXiv.2407.15687",
+        "CorpusId": 271329231
+      },
+      "url": "https://www.semanticscholar.org/paper/86ab01dfe17fa9ea35f4e226c2f2f8882961ebbb",
+      "title": "SoftCVI: contrastive variational inference with self-generated soft labels",
+      "venue": "International Conference on Learning Representations",
+      "year": 2024,
+      "referenceCount": 93,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2265087926",
+          "name": "Daniel Ward"
+        },
+        {
+          "authorId": "2265182850",
+          "name": "M. Beaumont"
+        },
+        {
+          "authorId": "2312328599",
+          "name": "Matteo Fasiolo"
+        }
+      ]
+    },
+    {
+      "paperId": "ea281ba28a1a4e1501180b565c2bbfe7466e56b8",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2602-01412",
+        "ArXiv": "2602.01412",
+        "DOI": "10.48550/arXiv.2602.01412",
+        "CorpusId": 285270415
+      },
+      "url": "https://www.semanticscholar.org/paper/ea281ba28a1a4e1501180b565c2bbfe7466e56b8",
+      "title": "Importance Weighted Variational Inference without the Reparameterization Trick",
+      "venue": "arXiv.org",
+      "year": 2026,
+      "referenceCount": 0,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "1388077918",
+          "name": "Kam'elia Daudel"
+        },
+        {
+          "authorId": "2274931335",
+          "name": "M-N. Tran"
+        },
+        {
+          "authorId": "2261777730",
+          "name": "Cheng Zhang"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,265 @@
+{
+  "total": 648,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "298138e121aa60c15615b565ebf8a785591da3e0",
+      "externalIds": {
+        "MAG": "2949621560",
+        "ArXiv": "1702.00763",
+        "DBLP": "conf/icml/Allen-Zhu17",
+        "CorpusId": 12305030
+      },
+      "url": "https://www.semanticscholar.org/paper/298138e121aa60c15615b565ebf8a785591da3e0",
+      "title": "Natasha: Faster Non-Convex Stochastic Optimization via Strongly Non-Convex Parameter",
+      "venue": "International Conference on Machine Learning",
+      "year": 2017,
+      "referenceCount": 30,
+      "citationCount": 82,
+      "authors": [
+        {
+          "authorId": "1388725932",
+          "name": "Zeyuan Allen-Zhu"
+        }
+      ]
+    },
+    {
+      "paperId": "b4b7e3370ea44f68911527a0254bdaca4f7a555c",
+      "externalIds": {
+        "MAG": "2587673585",
+        "CorpusId": 16829176
+      },
+      "url": "https://www.semanticscholar.org/paper/b4b7e3370ea44f68911527a0254bdaca4f7a555c",
+      "title": "Natasha: Faster Stochastic Non-Convex Optimization via Strongly Non-Convex Parameter",
+      "venue": "",
+      "year": 2017,
+      "referenceCount": 23,
+      "citationCount": 9,
+      "authors": [
+        {
+          "authorId": "1388725932",
+          "name": "Zeyuan Allen-Zhu"
+        }
+      ]
+    },
+    {
+      "paperId": "4e380ddae0a941769865ed2fb0520d3a5cf0844d",
+      "externalIds": {
+        "CorpusId": 16344462
+      },
+      "url": "https://www.semanticscholar.org/paper/4e380ddae0a941769865ed2fb0520d3a5cf0844d",
+      "title": "Natasha : Faster Non-Convex Stochastic Optimization Via Strongly Non-Convex Parameter ( version 5 )",
+      "venue": "",
+      "year": 2018,
+      "referenceCount": 31,
+      "citationCount": 8,
+      "authors": [
+        {
+          "authorId": "1388725932",
+          "name": "Zeyuan Allen-Zhu"
+        }
+      ]
+    },
+    {
+      "paperId": "c5f82c8ad3d216804c8654d5ff4f7e8f05866d95",
+      "externalIds": {
+        "ArXiv": "2505.02985",
+        "DBLP": "journals/corr/abs-2505-02985",
+        "DOI": "10.48550/arXiv.2505.02985",
+        "CorpusId": 278339696
+      },
+      "url": "https://www.semanticscholar.org/paper/c5f82c8ad3d216804c8654d5ff4f7e8f05866d95",
+      "title": "More Optimal Fractional-Order Stochastic Gradient Descent for Non-Convex Optimization Problems",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "referenceCount": 17,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "1379573770",
+          "name": "Mohammad Partohaghighi"
+        },
+        {
+          "authorId": "3211503",
+          "name": "Roummel F. Marcia"
+        },
+        {
+          "authorId": "2351506191",
+          "name": "YangQuan Chen"
+        }
+      ]
+    },
+    {
+      "paperId": "b22a245171b7c2ea20c98863574e5e55af16324c",
+      "externalIds": {
+        "DBLP": "journals/tmlr/YoshidaNI25",
+        "ArXiv": "2406.16032",
+        "DOI": "10.48550/arXiv.2406.16032",
+        "CorpusId": 270702316
+      },
+      "url": "https://www.semanticscholar.org/paper/b22a245171b7c2ea20c98863574e5e55af16324c",
+      "title": "Effect of Random Learning Rate: Theoretical Analysis of SGD Dynamics in Non-Convex Optimization via Stationary Distribution",
+      "venue": "Trans. Mach. Learn. Res.",
+      "year": 2024,
+      "referenceCount": 48,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2308030728",
+          "name": "Naoki Yoshida"
+        },
+        {
+          "authorId": "90258124",
+          "name": "Shogo H. Nakakita"
+        },
+        {
+          "authorId": "2290344238",
+          "name": "Masaaki Imaizumi"
+        }
+      ]
+    },
+    {
+      "paperId": "9f6710d0580d5c68b011f75c12f16cab3d774ae3",
+      "externalIds": {
+        "ArXiv": "2004.02823",
+        "MAG": "3014699496",
+        "CorpusId": 214802924
+      },
+      "url": "https://www.semanticscholar.org/paper/9f6710d0580d5c68b011f75c12f16cab3d774ae3",
+      "title": "Non-Convex Stochastic Optimization via Non-Reversible Stochastic Gradient Langevin Dynamics",
+      "venue": "",
+      "year": 2020,
+      "referenceCount": 54,
+      "citationCount": 5,
+      "authors": [
+        {
+          "authorId": "1611938298",
+          "name": "Yuanhan Hu"
+        },
+        {
+          "authorId": null,
+          "name": "Xiaoyu Wang"
+        },
+        {
+          "authorId": "49779805",
+          "name": "Xuefeng Gao"
+        },
+        {
+          "authorId": "52477244",
+          "name": "Mert Gurbuzbalaban"
+        },
+        {
+          "authorId": "2114337",
+          "name": "Lingjiong Zhu"
+        }
+      ]
+    },
+    {
+      "paperId": "3041ed227b7fc8d85c0151c4c73cc6ca9201a819",
+      "externalIds": {
+        "ArXiv": "2409.03188",
+        "CorpusId": 272424154
+      },
+      "url": "https://www.semanticscholar.org/paper/3041ed227b7fc8d85c0151c4c73cc6ca9201a819",
+      "title": "Predefined-time distributed non-convex optimization via a time-base generator",
+      "venue": "",
+      "year": 2024,
+      "referenceCount": 48,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2320197042",
+          "name": "Qinlong Lin"
+        },
+        {
+          "authorId": "2261475641",
+          "name": "Yang Liu"
+        },
+        {
+          "authorId": "2237416238",
+          "name": "Jianquan Lu"
+        },
+        {
+          "authorId": "2268871666",
+          "name": "Weihua Gui"
+        }
+      ]
+    },
+    {
+      "paperId": "ae0ce013b8c17e6c93ea4c679b3023951e01ac51",
+      "externalIds": {
+        "DBLP": "conf/nips/GaneshH0T23",
+        "ArXiv": "2305.13209",
+        "DOI": "10.48550/arXiv.2305.13209",
+        "CorpusId": 258833369
+      },
+      "url": "https://www.semanticscholar.org/paper/ae0ce013b8c17e6c93ea4c679b3023951e01ac51",
+      "title": "Faster Differentially Private Convex Optimization via Second-Order Methods",
+      "venue": "Neural Information Processing Systems",
+      "year": 2023,
+      "referenceCount": 55,
+      "citationCount": 17,
+      "authors": [
+        {
+          "authorId": "50101417",
+          "name": "Arun Ganesh"
+        },
+        {
+          "authorId": "3434973",
+          "name": "Mahdi Haghifam"
+        },
+        {
+          "authorId": "145268083",
+          "name": "T. Steinke"
+        },
+        {
+          "authorId": "2623159",
+          "name": "Abhradeep Thakurta"
+        }
+      ]
+    },
+    {
+      "paperId": "c7f5959958f6bcd3f64241ec09985b21cbc871a6",
+      "externalIds": {
+        "DOI": "10.3390/math14071236",
+        "CorpusId": 287298734
+      },
+      "url": "https://www.semanticscholar.org/paper/c7f5959958f6bcd3f64241ec09985b21cbc871a6",
+      "title": "Quantum-Inspired Variational Inference for Non-Convex Stochastic Optimization: A Unified Mathematical Framework with Convergence Guarantees and Applications to Machine Learning in Communication Networks",
+      "venue": "Mathematics",
+      "year": 2026,
+      "referenceCount": 34,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "51225317",
+          "name": "Abrar S. Alhazmi"
+        }
+      ]
+    },
+    {
+      "paperId": "ceb45be953341b3b920f7a478473c12b9153eae6",
+      "externalIds": {
+        "ArXiv": "2508.11073",
+        "CorpusId": 280671163
+      },
+      "url": "https://www.semanticscholar.org/paper/ceb45be953341b3b920f7a478473c12b9153eae6",
+      "title": "Zeroth-Order Non-smooth Non-convex Optimization via Gaussian Smoothing",
+      "venue": "",
+      "year": 2025,
+      "referenceCount": 24,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2192143531",
+          "name": "Anik Kumar Paul"
+        },
+        {
+          "authorId": "2391711444",
+          "name": "Shalabh Bhatnagar"
+        }
+      ]
+    }
+  ]
+}

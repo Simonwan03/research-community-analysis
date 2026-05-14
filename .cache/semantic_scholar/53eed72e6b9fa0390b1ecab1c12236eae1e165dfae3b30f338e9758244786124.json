@@ -1,0 +1,893 @@
+{
+  "offset": 0,
+  "citingPaperInfo": {
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/1502.02322, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "title": "Rademacher Observations, Private Data, and Boosting",
+    "authors": [
+      {
+        "authorId": "1718786",
+        "name": "R. Nock"
+      },
+      {
+        "authorId": "49047270",
+        "name": "Giorgio Patrini"
+      },
+      {
+        "authorId": "35090268",
+        "name": "Arik Friedman"
+      }
+    ]
+  },
+  "data": [
+    {
+      "citedPaper": {
+        "paperId": "35f64d05b13ec0a72e78d2c9795cc9a7707b7f56",
+        "externalIds": {
+          "MAG": "2092697020",
+          "DOI": "10.1126/science.aaa4961",
+          "CorpusId": 206634736,
+          "PubMed": "25635089"
+        },
+        "url": "https://www.semanticscholar.org/paper/35f64d05b13ec0a72e78d2c9795cc9a7707b7f56",
+        "title": "Control use of data to protect privacy",
+        "venue": "Science",
+        "year": 2015,
+        "referenceCount": 31,
+        "citationCount": 60,
+        "authors": [
+          {
+            "authorId": "144290300",
+            "name": "S. Landau"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "ed8d22b0c815b57b893dfe8f02b78285a5ae4e56",
+        "externalIds": {
+          "MAG": "2073413752",
+          "DOI": "10.1126/science.aaa3483",
+          "CorpusId": 206633922,
+          "PubMed": "25635075"
+        },
+        "url": "https://www.semanticscholar.org/paper/ed8d22b0c815b57b893dfe8f02b78285a5ae4e56",
+        "title": "Balancing privacy versus accuracy in research protocols",
+        "venue": "Science",
+        "year": 2015,
+        "referenceCount": 10,
+        "citationCount": 25,
+        "authors": [
+          {
+            "authorId": "13065618",
+            "name": "D. Goroff"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "e914461bef78d9f65ec63e219fc3285a6987dfe6",
+        "externalIds": {
+          "DBLP": "conf/nips/PatriniNCR14",
+          "MAG": "2114396536",
+          "CorpusId": 14445419
+        },
+        "url": "https://www.semanticscholar.org/paper/e914461bef78d9f65ec63e219fc3285a6987dfe6",
+        "title": "(Almost) No Label No Cry",
+        "venue": "Neural Information Processing Systems",
+        "year": 2014,
+        "referenceCount": 30,
+        "citationCount": 121,
+        "authors": [
+          {
+            "authorId": "49047270",
+            "name": "Giorgio Patrini"
+          },
+          {
+            "authorId": "1718786",
+            "name": "R. Nock"
+          },
+          {
+            "authorId": "2072343452",
+            "name": "Tibério S. Caetano"
+          },
+          {
+            "authorId": "144786886",
+            "name": "Paul Rivera"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "0023582fde36430c7e3ae81611a14e558c8f4bae",
+        "externalIds": {
+          "DBLP": "journals/fttcs/DworkR14",
+          "MAG": "2027595342",
+          "DOI": "10.1561/0400000042",
+          "CorpusId": 207178262
+        },
+        "url": "https://www.semanticscholar.org/paper/0023582fde36430c7e3ae81611a14e558c8f4bae",
+        "title": "The Algorithmic Foundations of Differential Privacy",
+        "venue": "Foundations and Trends® in Theoretical Computer Science",
+        "year": 2014,
+        "referenceCount": 96,
+        "citationCount": 9103,
+        "authors": [
+          {
+            "authorId": "1781565",
+            "name": "C. Dwork"
+          },
+          {
+            "authorId": "1682008",
+            "name": "Aaron Roth"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "54ae206d55191e920a891db3ace8726ba9d7fbe2",
+        "externalIds": {
+          "ArXiv": "1402.3329",
+          "MAG": "2953073161",
+          "DBLP": "journals/corr/HsuGHKNPR14",
+          "DOI": "10.1109/CSF.2014.35",
+          "CorpusId": 1128433
+        },
+        "url": "https://www.semanticscholar.org/paper/54ae206d55191e920a891db3ace8726ba9d7fbe2",
+        "title": "Differential Privacy: An Economic Method for Choosing Epsilon",
+        "venue": "IEEE Computer Security Foundations Symposium",
+        "year": 2014,
+        "referenceCount": 47,
+        "citationCount": 327,
+        "authors": [
+          {
+            "authorId": "39756252",
+            "name": "Justin Hsu"
+          },
+          {
+            "authorId": "1759699",
+            "name": "Marco Gaboardi"
+          },
+          {
+            "authorId": "1719236",
+            "name": "Andreas Haeberlen"
+          },
+          {
+            "authorId": "144335444",
+            "name": "S. Khanna"
+          },
+          {
+            "authorId": "2348923",
+            "name": "Arjun Narayan"
+          },
+          {
+            "authorId": "1734090",
+            "name": "B. Pierce"
+          },
+          {
+            "authorId": "1682008",
+            "name": "Aaron Roth"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "e83459e287654736a61569b2ad05e9da4dd5e72f",
+        "externalIds": {
+          "DBLP": "conf/nips/HardtP14",
+          "ArXiv": "1311.2495",
+          "MAG": "2952199998",
+          "CorpusId": 5299731
+        },
+        "url": "https://www.semanticscholar.org/paper/e83459e287654736a61569b2ad05e9da4dd5e72f",
+        "title": "The Noisy Power Method: A Meta Algorithm with Applications",
+        "venue": "Neural Information Processing Systems",
+        "year": 2013,
+        "referenceCount": 25,
+        "citationCount": 221,
+        "authors": [
+          {
+            "authorId": "1775622",
+            "name": "Moritz Hardt"
+          },
+          {
+            "authorId": "4989538",
+            "name": "Eric Price"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "2fb23de9524b13a32d9ed7f2441c46c81558a3c8",
+        "externalIds": {
+          "MAG": "2289331671",
+          "DOI": "10.1093/acprof:oso/9780199535255.001.0001",
+          "CorpusId": 124648595
+        },
+        "url": "https://www.semanticscholar.org/paper/2fb23de9524b13a32d9ed7f2441c46c81558a3c8",
+        "title": "Concentration Inequalities: A Nonasymptotic Theory of Independence",
+        "venue": "",
+        "year": 2013,
+        "referenceCount": 0,
+        "citationCount": 3218,
+        "authors": [
+          {
+            "authorId": "122051864",
+            "name": "S. Boucheron"
+          },
+          {
+            "authorId": "1755694",
+            "name": "G. Lugosi"
+          },
+          {
+            "authorId": "3226094",
+            "name": "P. Massart"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "39ec863025e8d1c1bbe78517abfc2fb6c5e196bd",
+        "externalIds": {
+          "DBLP": "journals/jacm/DuchiJW14",
+          "MAG": "2568821124",
+          "ArXiv": "1210.2085",
+          "DOI": "10.1145/2666468",
+          "CorpusId": 2692439
+        },
+        "url": "https://www.semanticscholar.org/paper/39ec863025e8d1c1bbe78517abfc2fb6c5e196bd",
+        "title": "Privacy Aware Learning",
+        "venue": "JACM",
+        "year": 2012,
+        "referenceCount": 65,
+        "citationCount": 296,
+        "authors": [
+          {
+            "authorId": "1734693",
+            "name": "John C. Duchi"
+          },
+          {
+            "authorId": "1694621",
+            "name": "Michael I. Jordan"
+          },
+          {
+            "authorId": "1721860",
+            "name": "M. Wainwright"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "50f03bae8d4ac97d5ad457e55114b780308bce23",
+        "externalIds": {
+          "MAG": "2401502000",
+          "DBLP": "journals/jmlr/ChaudhuriH11",
+          "CorpusId": 5784180,
+          "PubMed": "25285183"
+        },
+        "url": "https://www.semanticscholar.org/paper/50f03bae8d4ac97d5ad457e55114b780308bce23",
+        "title": "Sample Complexity Bounds for Differentially Private Learning",
+        "venue": "Annual Conference Computational Learning Theory",
+        "year": 2011,
+        "referenceCount": 38,
+        "citationCount": 162,
+        "authors": [
+          {
+            "authorId": "38120884",
+            "name": "Kamalika Chaudhuri"
+          },
+          {
+            "authorId": "143724861",
+            "name": "Daniel J. Hsu"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "3236c50980e28518ca572a4ef6cf1f4fef41e2a7",
+        "externalIds": {
+          "MAG": "1992519122",
+          "DOI": "10.1038/nrc3022",
+          "CorpusId": 31452830,
+          "PubMed": "21412253"
+        },
+        "url": "https://www.semanticscholar.org/paper/3236c50980e28518ca572a4ef6cf1f4fef41e2a7",
+        "title": "The Bio-PIN: a concept to improve biobanking",
+        "venue": "Nature Reviews. Cancer",
+        "year": 2011,
+        "referenceCount": 72,
+        "citationCount": 28,
+        "authors": [
+          {
+            "authorId": "114153876",
+            "name": "J. J. Nietfeld"
+          },
+          {
+            "authorId": "2265434",
+            "name": "J. Sugarman"
+          },
+          {
+            "authorId": "48614712",
+            "name": "Jan-Eric Litton"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "f8558a09553fc35415b271019be9f7d44354073e",
+        "externalIds": {
+          "DBLP": "conf/focs/DworkRV10",
+          "MAG": "2167372639",
+          "DOI": "10.1109/FOCS.2010.12",
+          "CorpusId": 9132611
+        },
+        "url": "https://www.semanticscholar.org/paper/f8558a09553fc35415b271019be9f7d44354073e",
+        "title": "Boosting and Differential Privacy",
+        "venue": "IEEE Annual Symposium on Foundations of Computer Science",
+        "year": 2010,
+        "referenceCount": 37,
+        "citationCount": 1068,
+        "authors": [
+          {
+            "authorId": "1781565",
+            "name": "C. Dwork"
+          },
+          {
+            "authorId": "2551824",
+            "name": "G. Rothblum"
+          },
+          {
+            "authorId": "1723744",
+            "name": "S. Vadhan"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "4dd22c01add4ef967e543063abca50b2476de1fb",
+        "externalIds": {
+          "MAG": "2155964055",
+          "DBLP": "conf/nips/NockN08",
+          "CorpusId": 1502623
+        },
+        "url": "https://www.semanticscholar.org/paper/4dd22c01add4ef967e543063abca50b2476de1fb",
+        "title": "On the Efficient Minimization of Classification Calibrated Surrogates",
+        "venue": "Neural Information Processing Systems",
+        "year": 2008,
+        "referenceCount": 14,
+        "citationCount": 49,
+        "authors": [
+          {
+            "authorId": "1718786",
+            "name": "R. Nock"
+          },
+          {
+            "authorId": "144863930",
+            "name": "F. Nielsen"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "83b60b919278bbf72a79cff23dce953a9d5b0110",
+        "externalIds": {
+          "PubMedCentral": "2516199",
+          "MAG": "2040228409",
+          "DOI": "10.1371/journal.pgen.1000167",
+          "CorpusId": 916355,
+          "PubMed": "18769715"
+        },
+        "url": "https://www.semanticscholar.org/paper/83b60b919278bbf72a79cff23dce953a9d5b0110",
+        "title": "Resolving Individuals Contributing Trace Amounts of DNA to Highly Complex Mixtures Using High-Density SNP Genotyping Microarrays",
+        "venue": "PLoS Genetics",
+        "year": 2008,
+        "referenceCount": 21,
+        "citationCount": 1330,
+        "authors": [
+          {
+            "authorId": "2410134",
+            "name": "Nils Homer"
+          },
+          {
+            "authorId": "2722534",
+            "name": "S. Szelinger"
+          },
+          {
+            "authorId": "40091712",
+            "name": "Margot Redman"
+          },
+          {
+            "authorId": "46450023",
+            "name": "D. Duggan"
+          },
+          {
+            "authorId": "2975912",
+            "name": "Waibhav Tembe"
+          },
+          {
+            "authorId": "14342632",
+            "name": "Jill Muehling"
+          },
+          {
+            "authorId": "2542404",
+            "name": "J. Pearson"
+          },
+          {
+            "authorId": "39700197",
+            "name": "D. Stephan"
+          },
+          {
+            "authorId": "35019999",
+            "name": "S. Nelson"
+          },
+          {
+            "authorId": "144800676",
+            "name": "D. Craig"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "539b3eafc14b1b16a1100199db16e6665ecb5b28",
+        "externalIds": {
+          "MAG": "2098986246",
+          "DBLP": "journals/jmlr/QuadriantoSCL09",
+          "DOI": "10.1145/1390156.1390254",
+          "CorpusId": 777651
+        },
+        "url": "https://www.semanticscholar.org/paper/539b3eafc14b1b16a1100199db16e6665ecb5b28",
+        "title": "Estimating labels from label proportions",
+        "venue": "International Conference on Machine Learning",
+        "year": 2008,
+        "referenceCount": 23,
+        "citationCount": 270,
+        "authors": [
+          {
+            "authorId": "1704531",
+            "name": "Novi Quadrianto"
+          },
+          {
+            "authorId": "46234526",
+            "name": "Alex Smola"
+          },
+          {
+            "authorId": "2072343452",
+            "name": "Tibério S. Caetano"
+          },
+          {
+            "authorId": "2827616",
+            "name": "Quoc V. Le"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "1bd76fbc541b68aaa91a10013559276b3c48b4e7",
+        "externalIds": {
+          "DBLP": "journals/corr/abs-0709-2196",
+          "ArXiv": "0709.2196",
+          "MAG": "2116327295",
+          "DOI": "10.1007/S00454-010-9256-1",
+          "CorpusId": 1327029
+        },
+        "url": "https://www.semanticscholar.org/paper/1bd76fbc541b68aaa91a10013559276b3c48b4e7",
+        "title": "Bregman Voronoi Diagrams",
+        "venue": "Discrete & Computational Geometry",
+        "year": 2007,
+        "referenceCount": 79,
+        "citationCount": 193,
+        "authors": [
+          {
+            "authorId": "144863930",
+            "name": "F. Nielsen"
+          },
+          {
+            "authorId": "1706020",
+            "name": "J. Boissonnat"
+          },
+          {
+            "authorId": "1718786",
+            "name": "R. Nock"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "16a8f4a2741c43bfc0e74abf4562c039e874d8cc",
+        "externalIds": {
+          "DBLP": "conf/ecai/NockN06",
+          "MAG": "2116041589",
+          "DOI": "10.1016/j.artint.2006.10.014",
+          "CorpusId": 2671082
+        },
+        "url": "https://www.semanticscholar.org/paper/16a8f4a2741c43bfc0e74abf4562c039e874d8cc",
+        "title": "A Real generalization of discrete AdaBoost",
+        "venue": "Artificial Intelligence",
+        "year": 2006,
+        "referenceCount": 0,
+        "citationCount": 51,
+        "authors": []
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "e4ce10063cd25447dcde75c2d9ce327446ced952",
+        "externalIds": {
+          "MAG": "1873763122",
+          "DBLP": "conf/tcc/DworkMNS06",
+          "DOI": "10.29012/JPC.V7I3.405",
+          "CorpusId": 2468323
+        },
+        "url": "https://www.semanticscholar.org/paper/e4ce10063cd25447dcde75c2d9ce327446ced952",
+        "title": "Calibrating Noise to Sensitivity in Private Data Analysis",
+        "venue": "Theory of Cryptography Conference",
+        "year": 2006,
+        "referenceCount": 25,
+        "citationCount": 9254,
+        "authors": [
+          {
+            "authorId": "1781565",
+            "name": "C. Dwork"
+          },
+          {
+            "authorId": "3137076",
+            "name": "Frank McSherry"
+          },
+          {
+            "authorId": "145725600",
+            "name": "Kobbi Nissim"
+          },
+          {
+            "authorId": "39765787",
+            "name": "Adam D. Smith"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "060d1b412dc3fb7d5f5d952adc8a4a8ecc4bd3fa",
+        "externalIds": {
+          "MAG": "204758353",
+          "DBLP": "conf/ac/BousquetBL03",
+          "DOI": "10.1007/978-3-540-28650-9_8",
+          "CorpusId": 669378
+        },
+        "url": "https://www.semanticscholar.org/paper/060d1b412dc3fb7d5f5d952adc8a4a8ecc4bd3fa",
+        "title": "Introduction to Statistical Learning Theory",
+        "venue": "Advanced Lectures on Machine Learning",
+        "year": 2004,
+        "referenceCount": 96,
+        "citationCount": 672,
+        "authors": [
+          {
+            "authorId": "1698617",
+            "name": "O. Bousquet"
+          },
+          {
+            "authorId": "122051864",
+            "name": "S. Boucheron"
+          },
+          {
+            "authorId": "1755694",
+            "name": "G. Lugosi"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "14e53403a0055dbe5faaf9f1f3be96ca0e692a4d",
+        "externalIds": {
+          "DBLP": "conf/colt/SchapireS98",
+          "MAG": "2032210760",
+          "DOI": "10.1023/A:1007614523901",
+          "CorpusId": 2329907
+        },
+        "url": "https://www.semanticscholar.org/paper/14e53403a0055dbe5faaf9f1f3be96ca0e692a4d",
+        "title": "Improved Boosting Algorithms Using Confidence-rated Predictions",
+        "venue": "COLT' 98",
+        "year": 1998,
+        "referenceCount": 33,
+        "citationCount": 3643,
+        "authors": [
+          {
+            "authorId": "1716301",
+            "name": "R. Schapire"
+          },
+          {
+            "authorId": "1740765",
+            "name": "Y. Singer"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "1779f3342cce2b506576a007e15abd8efffe3d20",
+        "externalIds": {
+          "MAG": "2420713400",
+          "CorpusId": 22462345,
+          "PubMed": "11660341"
+        },
+        "url": "https://www.semanticscholar.org/paper/1779f3342cce2b506576a007e15abd8efffe3d20",
+        "title": "The end of privacy.",
+        "venue": "America",
+        "year": 1997,
+        "referenceCount": 0,
+        "citationCount": 124,
+        "authors": [
+          {
+            "authorId": "2721079",
+            "name": "R. Spinello"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "84abb0f33d0f6116802d0984e7f7618a5c2039b0",
+        "externalIds": {
+          "MAG": "2039371991",
+          "DOI": "10.1007/BF00114011",
+          "CorpusId": 31320788
+        },
+        "url": "https://www.semanticscholar.org/paper/84abb0f33d0f6116802d0984e7f7618a5c2039b0",
+        "title": "On the limits of proper learnability of subclasses of DNF formulas",
+        "venue": "Machine-mediated learning",
+        "year": 1994,
+        "referenceCount": 30,
+        "citationCount": 8,
+        "authors": [
+          {
+            "authorId": "3014954",
+            "name": "Krishnan Pillaipakkamnatt"
+          },
+          {
+            "authorId": "2453247",
+            "name": "V. Raghavan"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "07713e4b39fa8a009238f730117dd4a4d96eb938",
+        "externalIds": {
+          "DOI": "10.1007/978-1-4419-1005-9_100364",
+          "CorpusId": 220802030
+        },
+        "url": "https://www.semanticscholar.org/paper/07713e4b39fa8a009238f730117dd4a4d96eb938",
+        "title": "Concentration",
+        "venue": "",
+        "year": 1894,
+        "referenceCount": 18,
+        "citationCount": 728,
+        "authors": [
+          {
+            "authorId": "2331671010",
+            "name": "EN UrsulaVONDERLEYEN"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "9e6060316394393c226b5c86ce51b06c4c75bee1",
+        "externalIds": {
+          "MAG": "2950800519",
+          "DBLP": "journals/iacr/BostPTG14",
+          "DOI": "10.14722/NDSS.2015.23241",
+          "CorpusId": 2259147
+        },
+        "url": "https://www.semanticscholar.org/paper/9e6060316394393c226b5c86ce51b06c4c75bee1",
+        "title": "Machine Learning Classification over Encrypted Data",
+        "venue": "Network and Distributed System Security Symposium",
+        "year": 2015,
+        "referenceCount": 63,
+        "citationCount": 762,
+        "authors": [
+          {
+            "authorId": "39940567",
+            "name": "R. Bost"
+          },
+          {
+            "authorId": "144963510",
+            "name": "R. A. Popa"
+          },
+          {
+            "authorId": "2058019574",
+            "name": "Stephen Tu"
+          },
+          {
+            "authorId": "1706681",
+            "name": "S. Goldwasser"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "Bulk collection of signal intelligence: technical options",
+        "venue": "Committee on responding",
+        "year": 2015,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "UCI machine learning repository",
+        "venue": "UCI machine learning repository",
+        "year": 2013,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "e7321ab0f3be0b29aaf5f073fd7de7da5fed2f92",
+        "externalIds": {
+          "MAG": "340244495",
+          "DBLP": "books/cu/12/EK2012",
+          "DOI": "10.1017/CBO9780511794308",
+          "CorpusId": 14790051
+        },
+        "url": "https://www.semanticscholar.org/paper/e7321ab0f3be0b29aaf5f073fd7de7da5fed2f92",
+        "title": "Compressed Sensing",
+        "venue": "",
+        "year": 2012,
+        "referenceCount": 50,
+        "citationCount": 17589,
+        "authors": [
+          {
+            "authorId": "3125779",
+            "name": "Gitta Kutyniok"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "e16e77ab199a10603384fa2b1a820d4dac0d28c7",
+        "externalIds": {
+          "MAG": "2163916252",
+          "DOI": "10.1073/pnas.0502269102",
+          "CorpusId": 15655879,
+          "PubMed": "15976026"
+        },
+        "url": "https://www.semanticscholar.org/paper/e16e77ab199a10603384fa2b1a820d4dac0d28c7",
+        "title": "Sparse nonnegative solution of underdetermined linear equations by linear programming.",
+        "venue": "Proceedings of the National Academy of Sciences of the United States of America",
+        "year": 2005,
+        "referenceCount": 30,
+        "citationCount": 645,
+        "authors": [
+          {
+            "authorId": "1709392",
+            "name": "D. Donoho"
+          },
+          {
+            "authorId": "144770610",
+            "name": "Jared Tanner"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "ab007b699310cf216ccd0457e0cd66b304a80684",
+        "externalIds": {
+          "MAG": "1486613786",
+          "DOI": "10.1007/978-3-662-12788-9",
+          "CorpusId": 118259651
+        },
+        "url": "https://www.semanticscholar.org/paper/ab007b699310cf216ccd0457e0cd66b304a80684",
+        "title": "Probabilistic methods for algorithmic discrete mathematics",
+        "venue": "",
+        "year": 1998,
+        "referenceCount": 0,
+        "citationCount": 576,
+        "authors": [
+          {
+            "authorId": "145024873",
+            "name": "M. Habib"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "f0130e07ddcaf9ae8c09494d32c3fb40db783e69",
+        "externalIds": {
+          "DBLP": "journals/ml/PillaipakkamnattR96",
+          "DOI": "10.1023/A:1026455409889",
+          "CorpusId": 15272834
+        },
+        "url": "https://www.semanticscholar.org/paper/f0130e07ddcaf9ae8c09494d32c3fb40db783e69",
+        "title": "On the Limits of Proper Learnability of Subclasses of DNF Formulas",
+        "venue": "Annual Conference Computational Learning Theory",
+        "year": 1994,
+        "referenceCount": 26,
+        "citationCount": 27,
+        "authors": [
+          {
+            "authorId": "3014954",
+            "name": "Krishnan Pillaipakkamnatt"
+          },
+          {
+            "authorId": "2453247",
+            "name": "V. Raghavan"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "4e3c22dc0c16f582944f2916b9cf06bac9ce4541",
+        "externalIds": {
+          "MAG": "2059355691",
+          "DOI": "10.1016/S0092-8240(89)80052-7",
+          "CorpusId": 1727355,
+          "PubMed": "2706397"
+        },
+        "url": "https://www.semanticscholar.org/paper/4e3c22dc0c16f582944f2916b9cf06bac9ce4541",
+        "title": "Tutorial on large deviations for the binomial distribution.",
+        "venue": "Bulletin of Mathematical Biology",
+        "year": 1989,
+        "referenceCount": 9,
+        "citationCount": 173,
+        "authors": [
+          {
+            "authorId": "2313616",
+            "name": "R. Arratia"
+          },
+          {
+            "authorId": "90661057",
+            "name": "L. Gordon"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "Rademacher observations , private data , and boosting",
+        "venue": "",
+        "year": null,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    }
+  ]
+}

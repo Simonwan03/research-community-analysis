@@ -1,0 +1,312 @@
+{
+  "total": 72,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "ba0fcccdea31b6d39857796032b0d2dd3b83e7b8",
+      "externalIds": {
+        "DBLP": "conf/icml/ChowdhuryG17",
+        "MAG": "2963271096",
+        "ArXiv": "1704.00445",
+        "CorpusId": 9055207
+      },
+      "url": "https://www.semanticscholar.org/paper/ba0fcccdea31b6d39857796032b0d2dd3b83e7b8",
+      "title": "On Kernelized Multi-armed Bandits",
+      "venue": "International Conference on Machine Learning",
+      "year": 2017,
+      "referenceCount": 36,
+      "citationCount": 542,
+      "authors": [
+        {
+          "authorId": "9575953",
+          "name": "Sayak Ray Chowdhury"
+        },
+        {
+          "authorId": "2226401",
+          "name": "Aditya Gopalan"
+        }
+      ]
+    },
+    {
+      "paperId": "76066a3a189b5c705ddd348033eb24b5c9faa2d3",
+      "externalIds": {
+        "ArXiv": "2203.15589",
+        "DBLP": "conf/nips/0001022",
+        "DOI": "10.48550/arXiv.2203.15589",
+        "CorpusId": 247779151
+      },
+      "url": "https://www.semanticscholar.org/paper/76066a3a189b5c705ddd348033eb24b5c9faa2d3",
+      "title": "On Kernelized Multi-Armed Bandits with Constraints",
+      "venue": "Neural Information Processing Systems",
+      "year": 2022,
+      "referenceCount": 50,
+      "citationCount": 41,
+      "authors": [
+        {
+          "authorId": "1995893007",
+          "name": "Xingyu Zhou"
+        },
+        {
+          "authorId": "46688866",
+          "name": "Bo Ji"
+        }
+      ]
+    },
+    {
+      "paperId": "25fd06f81d216d67baa29e71f002baf6c0366252",
+      "externalIds": {
+        "ArXiv": "2407.06321",
+        "DBLP": "journals/corr/abs-2407-06321",
+        "DOI": "10.48550/arXiv.2407.06321",
+        "CorpusId": 271065038
+      },
+      "url": "https://www.semanticscholar.org/paper/25fd06f81d216d67baa29e71f002baf6c0366252",
+      "title": "Open Problem: Tight Bounds for Kernelized Multi-Armed Bandits with Bernoulli Rewards",
+      "venue": "arXiv.org",
+      "year": 2024,
+      "referenceCount": 19,
+      "citationCount": 4,
+      "authors": [
+        {
+          "authorId": "2037986661",
+          "name": "Marco Mussi"
+        },
+        {
+          "authorId": "2310442883",
+          "name": "Simone Drago"
+        },
+        {
+          "authorId": "2141401054",
+          "name": "A. Metelli"
+        }
+      ]
+    },
+    {
+      "paperId": "85e607a209ef8d41f72fbe49f97f2356c9234eac",
+      "externalIds": {
+        "CorpusId": 88507774
+      },
+      "url": "https://www.semanticscholar.org/paper/85e607a209ef8d41f72fbe49f97f2356c9234eac",
+      "title": "L G ] 1 F eb 2 01 6 A Survey on Contextual Multi-armed Bandits",
+      "venue": "",
+      "year": 2018,
+      "referenceCount": 20,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2116636009",
+          "name": "Li Zhou"
+        }
+      ]
+    },
+    {
+      "paperId": "f3d41c2f97b99e4413954d445dc34b1b3ee145e7",
+      "externalIds": {
+        "ArXiv": "2206.04835",
+        "DBLP": "conf/nips/LiWWW22",
+        "DOI": "10.48550/arXiv.2206.04835",
+        "CorpusId": 249605829
+      },
+      "url": "https://www.semanticscholar.org/paper/f3d41c2f97b99e4413954d445dc34b1b3ee145e7",
+      "title": "Communication Efficient Distributed Learning for Kernelized Contextual Bandits",
+      "venue": "Neural Information Processing Systems",
+      "year": 2022,
+      "referenceCount": 48,
+      "citationCount": 19,
+      "authors": [
+        {
+          "authorId": "2118673816",
+          "name": "Chuanhao Li"
+        },
+        {
+          "authorId": null,
+          "name": "Huazheng Wang"
+        },
+        {
+          "authorId": "145731462",
+          "name": "Mengdi Wang"
+        },
+        {
+          "authorId": "2108883660",
+          "name": "Hongning Wang"
+        }
+      ]
+    },
+    {
+      "paperId": "6138de25cf5841b02589f59853d82ab7783e4775",
+      "externalIds": {
+        "MAG": "3094076229",
+        "DBLP": "journals/corr/abs-2010-12167",
+        "CorpusId": 225062167
+      },
+      "url": "https://www.semanticscholar.org/paper/6138de25cf5841b02589f59853d82ab7783e4775",
+      "title": "Approximation Methods for Kernelized Bandits",
+      "venue": "arXiv.org",
+      "year": 2020,
+      "referenceCount": 30,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "9524396",
+          "name": "S. Takemori"
+        },
+        {
+          "authorId": "2111955661",
+          "name": "Masahiro Sato"
+        }
+      ]
+    },
+    {
+      "paperId": "51762f1336d2935dae2dec998f4b4a8d2afe94c5",
+      "externalIds": {
+        "DBLP": "conf/icml/TakemoriS21",
+        "ArXiv": "2010.12167",
+        "CorpusId": 234358674
+      },
+      "url": "https://www.semanticscholar.org/paper/51762f1336d2935dae2dec998f4b4a8d2afe94c5",
+      "title": "Approximation Theory Based Methods for RKHS Bandits",
+      "venue": "International Conference on Machine Learning",
+      "year": 2020,
+      "referenceCount": 31,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "9524396",
+          "name": "S. Takemori"
+        },
+        {
+          "authorId": "2111955661",
+          "name": "Masahiro Sato"
+        }
+      ]
+    },
+    {
+      "paperId": "db81a05dd29b9e4df94df3d445ffec161d4748d4",
+      "externalIds": {
+        "ArXiv": "2310.05373",
+        "DBLP": "conf/nips/DaiLVSLJ23",
+        "DOI": "10.48550/arXiv.2310.05373",
+        "CorpusId": 263830432
+      },
+      "url": "https://www.semanticscholar.org/paper/db81a05dd29b9e4df94df3d445ffec161d4748d4",
+      "title": "Quantum Bayesian Optimization",
+      "venue": "Neural Information Processing Systems",
+      "year": 2023,
+      "referenceCount": 44,
+      "citationCount": 18,
+      "authors": [
+        {
+          "authorId": "3042111",
+          "name": "Zhongxiang Dai"
+        },
+        {
+          "authorId": "2295990115",
+          "name": "Gregory Kang Ruey Lau"
+        },
+        {
+          "authorId": "2257001445",
+          "name": "A. Verma"
+        },
+        {
+          "authorId": "2253679012",
+          "name": "Yao Shu"
+        },
+        {
+          "authorId": "145454065",
+          "name": "K. H. Low"
+        },
+        {
+          "authorId": "2066231840",
+          "name": "P. Jaillet"
+        }
+      ]
+    },
+    {
+      "paperId": "1f411fe8db82ee468d8eedf0737a0d4b41fb11fa",
+      "externalIds": {
+        "ArXiv": "2511.18868",
+        "CorpusId": 285470441
+      },
+      "url": "https://www.semanticscholar.org/paper/1f411fe8db82ee468d8eedf0737a0d4b41fb11fa",
+      "title": "KernelBand: Steering LLM-based Kernel Optimization via Hardware-Aware Multi-Armed Bandits",
+      "venue": "",
+      "year": 2025,
+      "referenceCount": 70,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2038503437",
+          "name": "Dezhi Ran"
+        },
+        {
+          "authorId": "2114081863",
+          "name": "S. Xie"
+        },
+        {
+          "authorId": "2375887404",
+          "name": "Mingfang Ji"
+        },
+        {
+          "authorId": "2278155131",
+          "name": "Anmin Liu"
+        },
+        {
+          "authorId": "2310818064",
+          "name": "Mengzhou Wu"
+        },
+        {
+          "authorId": "2363924471",
+          "name": "Yuan Cao"
+        },
+        {
+          "authorId": "2384778105",
+          "name": "Yuzhe Guo"
+        },
+        {
+          "authorId": "2338864747",
+          "name": "Hao Yu"
+        },
+        {
+          "authorId": "2296082487",
+          "name": "Linyi Li"
+        },
+        {
+          "authorId": "2298440078",
+          "name": "Yitao Hu"
+        },
+        {
+          "authorId": "2410265565",
+          "name": "Wei Yang"
+        },
+        {
+          "authorId": "2304599644",
+          "name": "Tao Xie"
+        }
+      ]
+    },
+    {
+      "paperId": "ee6a0908f020c0ccfe74e6b45d947ed851850402",
+      "externalIds": {
+        "ArXiv": "2603.21716",
+        "CorpusId": 286766299
+      },
+      "url": "https://www.semanticscholar.org/paper/ee6a0908f020c0ccfe74e6b45d947ed851850402",
+      "title": "When Exploration Comes for Free with Mixture-Greedy: Do we need UCB in Diversity-Aware Multi-Armed Bandits?",
+      "venue": "",
+      "year": 2026,
+      "referenceCount": 54,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2342503491",
+          "name": "B. Nia"
+        },
+        {
+          "authorId": "2614803",
+          "name": "Farzan Farnia"
+        }
+      ]
+    }
+  ]
+}

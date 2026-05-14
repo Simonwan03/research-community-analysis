@@ -1,0 +1,271 @@
+{
+  "total": 29,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "d737aac5f90a811efe1522e7a139e8d407aacaa1",
+      "externalIds": {
+        "MAG": "2181198700",
+        "ArXiv": "1509.09002",
+        "DBLP": "conf/icml/Shamir16a",
+        "CorpusId": 14597969
+      },
+      "url": "https://www.semanticscholar.org/paper/d737aac5f90a811efe1522e7a139e8d407aacaa1",
+      "title": "Convergence of Stochastic Gradient Descent for PCA",
+      "venue": "International Conference on Machine Learning",
+      "year": 2015,
+      "referenceCount": 34,
+      "citationCount": 87,
+      "authors": [
+        {
+          "authorId": "1768909",
+          "name": "Ohad Shamir"
+        }
+      ]
+    },
+    {
+      "paperId": "05f2c16d2e3aee530f5bb16114bcd9fd8f9fa0be",
+      "externalIds": {
+        "DBLP": "conf/nips/XuL21",
+        "CorpusId": 245011393
+      },
+      "url": "https://www.semanticscholar.org/paper/05f2c16d2e3aee530f5bb16114bcd9fd8f9fa0be",
+      "title": "A Comprehensively Tight Analysis of Gradient Descent for PCA",
+      "venue": "Neural Information Processing Systems",
+      "year": 2021,
+      "referenceCount": 24,
+      "citationCount": 6,
+      "authors": [
+        {
+          "authorId": "2136355504",
+          "name": "Zhiqiang Xu"
+        },
+        {
+          "authorId": "2420746",
+          "name": "P. Li"
+        }
+      ]
+    },
+    {
+      "paperId": "046af04e7c45b90287862a0104f699dc32c18779",
+      "externalIds": {
+        "ArXiv": "1802.09128",
+        "MAG": "2788611447",
+        "DBLP": "conf/colt/TripuraneniFBJ18",
+        "CorpusId": 3645092
+      },
+      "url": "https://www.semanticscholar.org/paper/046af04e7c45b90287862a0104f699dc32c18779",
+      "title": "Averaging Stochastic Gradient Descent on Riemannian Manifolds",
+      "venue": "Annual Conference Computational Learning Theory",
+      "year": 2018,
+      "referenceCount": 55,
+      "citationCount": 112,
+      "authors": [
+        {
+          "authorId": "1925801",
+          "name": "Nilesh Tripuraneni"
+        },
+        {
+          "authorId": "2288272039",
+          "name": "Nicolas Flammarion"
+        },
+        {
+          "authorId": "144570279",
+          "name": "F. Bach"
+        },
+        {
+          "authorId": "1694621",
+          "name": "Michael I. Jordan"
+        }
+      ]
+    },
+    {
+      "paperId": "4594486a2a2032ac8d090aebff781e65be646056",
+      "externalIds": {
+        "DOI": "10.5566/ias.2905",
+        "CorpusId": 259720051
+      },
+      "url": "https://www.semanticscholar.org/paper/4594486a2a2032ac8d090aebff781e65be646056",
+      "title": "Gradient Descent Batch Clustering for Image Classification",
+      "venue": "Image Analysis &amp; Stereology",
+      "year": 2023,
+      "referenceCount": 30,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "3255108",
+          "name": "Jae-Sam Park"
+        }
+      ]
+    },
+    {
+      "paperId": "0b4814974a71b70bcd9bb9d4bd9a7e534b5e7a73",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2203-09276",
+        "ArXiv": "2203.09276",
+        "DOI": "10.48550/arXiv.2203.09276",
+        "CorpusId": 247518971
+      },
+      "url": "https://www.semanticscholar.org/paper/0b4814974a71b70bcd9bb9d4bd9a7e534b5e7a73",
+      "title": "Stochastic and Private Nonconvex Outlier-Robust PCA",
+      "venue": "Mathematical and Scientific Machine Learning",
+      "year": 2022,
+      "referenceCount": 40,
+      "citationCount": 4,
+      "authors": [
+        {
+          "authorId": "1929091",
+          "name": "Tyler Maunu"
+        },
+        {
+          "authorId": "2148858199",
+          "name": "Chenyun Yu"
+        },
+        {
+          "authorId": "1919996",
+          "name": "Gilad Lerman"
+        }
+      ]
+    },
+    {
+      "paperId": "85c09dd32f3a3abf14d08b39f3a84b4d8bbb9284",
+      "externalIds": {
+        "CorpusId": 235456790
+      },
+      "url": "https://www.semanticscholar.org/paper/85c09dd32f3a3abf14d08b39f3a84b4d8bbb9284",
+      "title": "A STOCHASTIC VARIANCE REDUCTION METHOD FOR PCA BY AN EXACT PENALTY APPROACH",
+      "venue": "",
+      "year": 2018,
+      "referenceCount": 28,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2285344544",
+          "name": "Yoon Mo"
+        },
+        {
+          "authorId": "2155779863",
+          "name": "Jae Hwa Lee"
+        },
+        {
+          "authorId": "1719369",
+          "name": "S. Yun"
+        }
+      ]
+    },
+    {
+      "paperId": "a124ecd92ffa040233ce07144773defb582df8c3",
+      "externalIds": {
+        "DBLP": "journals/iet-ipr/LiLP19",
+        "MAG": "2898271637",
+        "DOI": "10.1049/IET-IPR.2018.5956",
+        "CorpusId": 56486462
+      },
+      "url": "https://www.semanticscholar.org/paper/a124ecd92ffa040233ce07144773defb582df8c3",
+      "title": "Development of a global batch clustering with gradient descent and initial parameters in colour image classification",
+      "venue": "IET Image Processing",
+      "year": 2019,
+      "referenceCount": 54,
+      "citationCount": 9,
+      "authors": [
+        {
+          "authorId": "50492618",
+          "name": "Peilin Li"
+        },
+        {
+          "authorId": "2144569109",
+          "name": "Sang-Heon Lee"
+        },
+        {
+          "authorId": "3255108",
+          "name": "Jae-Sam Park"
+        }
+      ]
+    },
+    {
+      "paperId": "23d95f2f7bdb16ceeb35b45348a2ca89ea8330fd",
+      "externalIds": {
+        "CorpusId": 51868677
+      },
+      "url": "https://www.semanticscholar.org/paper/23d95f2f7bdb16ceeb35b45348a2ca89ea8330fd",
+      "title": "Stochastic PCA with (cid:96) 2 and (cid:96) 1 Regularization",
+      "venue": "",
+      "year": 2018,
+      "referenceCount": 18,
+      "citationCount": 4,
+      "authors": [
+        {
+          "authorId": "3429002",
+          "name": "Poorya Mianjy"
+        },
+        {
+          "authorId": "144365054",
+          "name": "R. Arora"
+        }
+      ]
+    },
+    {
+      "paperId": "3abf31ab9d8f1f2c0380dbbd121a7ff499ec642e",
+      "externalIds": {
+        "DBLP": "conf/aaai/0005YYJZ16",
+        "MAG": "2509542487",
+        "DOI": "10.1609/aaai.v30i1.10242",
+        "CorpusId": 5952114
+      },
+      "url": "https://www.semanticscholar.org/paper/3abf31ab9d8f1f2c0380dbbd121a7ff499ec642e",
+      "title": "Stochastic Optimization for Kernel PCA",
+      "venue": "AAAI Conference on Artificial Intelligence",
+      "year": 2016,
+      "referenceCount": 51,
+      "citationCount": 23,
+      "authors": [
+        {
+          "authorId": "2108876951",
+          "name": "Lijun Zhang"
+        },
+        {
+          "authorId": "40381920",
+          "name": "Tianbao Yang"
+        },
+        {
+          "authorId": "2882166",
+          "name": "Jinfeng Yi"
+        },
+        {
+          "authorId": "144723884",
+          "name": "Rong Jin"
+        },
+        {
+          "authorId": "145624000",
+          "name": "Zhi-Hua Zhou"
+        }
+      ]
+    },
+    {
+      "paperId": "50fcae607a3b7d3c40dd2d53fa89be1a7afe396c",
+      "externalIds": {
+        "ArXiv": "2601.21487",
+        "DBLP": "journals/corr/abs-2601-21487",
+        "DOI": "10.48550/arXiv.2601.21487",
+        "CorpusId": 285139901
+      },
+      "url": "https://www.semanticscholar.org/paper/50fcae607a3b7d3c40dd2d53fa89be1a7afe396c",
+      "title": "Manifold constrained steepest descent",
+      "venue": "arXiv.org",
+      "year": 2026,
+      "referenceCount": 54,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2391730505",
+          "name": "Kaiwei Yang"
+        },
+        {
+          "authorId": "13035572",
+          "name": "Lexiao Lai"
+        }
+      ]
+    }
+  ]
+}

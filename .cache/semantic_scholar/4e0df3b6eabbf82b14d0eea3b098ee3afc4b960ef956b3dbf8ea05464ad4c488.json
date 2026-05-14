@@ -1,0 +1,123 @@
+{
+  "total": 4,
+  "offset": 0,
+  "data": [
+    {
+      "paperId": "aa084d5e3c2592f8ccced35d92775c4805429e20",
+      "externalIds": {
+        "DBLP": "conf/icml/AybatWI15",
+        "ArXiv": "1409.8547",
+        "MAG": "2952023151",
+        "CorpusId": 2665242
+      },
+      "url": "https://www.semanticscholar.org/paper/aa084d5e3c2592f8ccced35d92775c4805429e20",
+      "title": "An Asynchronous Distributed Proximal Gradient Method for Composite Convex Optimization",
+      "venue": "International Conference on Machine Learning",
+      "year": 2014,
+      "referenceCount": 25,
+      "citationCount": 38,
+      "authors": [
+        {
+          "authorId": "2960355",
+          "name": "N. Aybat"
+        },
+        {
+          "authorId": "2274070810",
+          "name": "Zi Wang"
+        },
+        {
+          "authorId": "145570534",
+          "name": "G. Iyengar"
+        }
+      ]
+    },
+    {
+      "paperId": "b9ddf6f1ff8917dcd2da60968094beb421c59cad",
+      "externalIds": {
+        "DBLP": "journals/tac/WangH24",
+        "DOI": "10.1109/TAC.2023.3261465",
+        "CorpusId": 257751668
+      },
+      "url": "https://www.semanticscholar.org/paper/b9ddf6f1ff8917dcd2da60968094beb421c59cad",
+      "title": "Composite Optimization With Coupling Constraints via Penalized Proximal Gradient Method in Asynchronous Networks",
+      "venue": "IEEE Transactions on Automatic Control",
+      "year": 2024,
+      "referenceCount": 63,
+      "citationCount": 6,
+      "authors": [
+        {
+          "authorId": "2110245779",
+          "name": "Jianzheng Wang"
+        },
+        {
+          "authorId": "145468453",
+          "name": "G. Hu"
+        }
+      ]
+    },
+    {
+      "paperId": "11b7165c0f77567325ee4ccc177fca612357d422",
+      "externalIds": {
+        "DBLP": "journals/siamis/XuXYC22",
+        "ArXiv": "2107.11513",
+        "DOI": "10.1137/21m1435719",
+        "CorpusId": 245425232
+      },
+      "url": "https://www.semanticscholar.org/paper/11b7165c0f77567325ee4ccc177fca612357d422",
+      "title": "Distributed Stochastic Inertial-Accelerated Methods with Delayed Derivatives for Nonconvex Problems",
+      "venue": "SIAM Journal of Imaging Sciences",
+      "year": 2021,
+      "referenceCount": 69,
+      "citationCount": 5,
+      "authors": [
+        {
+          "authorId": "47104078",
+          "name": "Yangyang Xu"
+        },
+        {
+          "authorId": "2131185530",
+          "name": "Yibo Xu"
+        },
+        {
+          "authorId": "10666457",
+          "name": "Yonggui Yan"
+        },
+        {
+          "authorId": "2155098483",
+          "name": "Jiewei Chen"
+        }
+      ]
+    },
+    {
+      "paperId": "7b071ca88e26b9a7e6d95b833c97b371af9e2740",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2107-11513",
+        "CorpusId": 236428416
+      },
+      "url": "https://www.semanticscholar.org/paper/7b071ca88e26b9a7e6d95b833c97b371af9e2740",
+      "title": "Distributed stochastic inertial methods with delayed derivatives",
+      "venue": "arXiv.org",
+      "year": 2021,
+      "referenceCount": 70,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "47104078",
+          "name": "Yangyang Xu"
+        },
+        {
+          "authorId": "2131185530",
+          "name": "Yibo Xu"
+        },
+        {
+          "authorId": "10666457",
+          "name": "Yonggui Yan"
+        },
+        {
+          "authorId": "2155098483",
+          "name": "Jiewei Chen"
+        }
+      ]
+    }
+  ]
+}

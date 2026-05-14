@@ -1,0 +1,364 @@
+{
+  "total": 17,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "c5420ef59d7508d82e53671b0d623027eb58e6ed",
+      "externalIds": {
+        "MAG": "2795282075",
+        "ArXiv": "1803.09050",
+        "DBLP": "conf/icml/RenZYU18",
+        "CorpusId": 4321928
+      },
+      "url": "https://www.semanticscholar.org/paper/c5420ef59d7508d82e53671b0d623027eb58e6ed",
+      "title": "Learning to Reweight Examples for Robust Deep Learning",
+      "venue": "International Conference on Machine Learning",
+      "year": 2018,
+      "referenceCount": 46,
+      "citationCount": 1631,
+      "authors": [
+        {
+          "authorId": "2540599",
+          "name": "Mengye Ren"
+        },
+        {
+          "authorId": "3468942",
+          "name": "Wenyuan Zeng"
+        },
+        {
+          "authorId": "49188662",
+          "name": "Binh Yang"
+        },
+        {
+          "authorId": "2422559",
+          "name": "R. Urtasun"
+        }
+      ]
+    },
+    {
+      "paperId": "68db35598bd127482cf48d77690394c5fb7bb605",
+      "externalIds": {
+        "ArXiv": "2405.06859",
+        "DBLP": "journals/corr/abs-2405-06859",
+        "DOI": "10.48550/arXiv.2405.06859",
+        "CorpusId": 269757477
+      },
+      "url": "https://www.semanticscholar.org/paper/68db35598bd127482cf48d77690394c5fb7bb605",
+      "title": "Reimplementation of Learning to Reweight Examples for Robust Deep Learning",
+      "venue": "arXiv.org",
+      "year": 2024,
+      "referenceCount": 8,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2057401332",
+          "name": "Parth Patil"
+        },
+        {
+          "authorId": "2301155588",
+          "name": "Ben Boardley"
+        },
+        {
+          "authorId": "2325939170",
+          "name": "Jack Gardner"
+        },
+        {
+          "authorId": "2301157003",
+          "name": "Emily Loiselle"
+        },
+        {
+          "authorId": "2082160201",
+          "name": "D. Parthipan"
+        }
+      ]
+    },
+    {
+      "paperId": "a99e78341eb79e23d91c9068d75cf4bafe771553",
+      "externalIds": {
+        "DBLP": "journals/tnn/DongWXLO25",
+        "DOI": "10.1109/TNNLS.2024.3379172",
+        "CorpusId": 268732095,
+        "PubMed": "38536695"
+      },
+      "url": "https://www.semanticscholar.org/paper/a99e78341eb79e23d91c9068d75cf4bafe771553",
+      "title": "Generalizable and Discriminative Representations for Adversarially Robust Few-Shot Learning",
+      "venue": "IEEE Transactions on Neural Networks and Learning Systems",
+      "year": 2024,
+      "referenceCount": 70,
+      "citationCount": 7,
+      "authors": [
+        {
+          "authorId": "1903047001",
+          "name": "Junhao Dong"
+        },
+        {
+          "authorId": "2163691024",
+          "name": "Yuan Wang"
+        },
+        {
+          "authorId": "2279671681",
+          "name": "Xiaohua Xie"
+        },
+        {
+          "authorId": "2151605931",
+          "name": "Jianhuang Lai"
+        },
+        {
+          "authorId": "8748397",
+          "name": "Y. Ong"
+        }
+      ]
+    },
+    {
+      "paperId": "0999671a12b3804fe3c50a80e5eecc7327b51574",
+      "externalIds": {
+        "CorpusId": 250985300
+      },
+      "url": "https://www.semanticscholar.org/paper/0999671a12b3804fe3c50a80e5eecc7327b51574",
+      "title": "Learning from noisy labels by importance reweighting: a deep learning approach",
+      "venue": "",
+      "year": 2019,
+      "referenceCount": 45,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "47852174",
+          "name": "Tongtong Fang"
+        }
+      ]
+    },
+    {
+      "paperId": "c3737fbfb9686bb69d10d1f5fa8d254bc75bafe6",
+      "externalIds": {
+        "MAG": "3092499601",
+        "DBLP": "journals/corr/abs-2010-03658",
+        "CorpusId": 222208896
+      },
+      "url": "https://www.semanticscholar.org/paper/c3737fbfb9686bb69d10d1f5fa8d254bc75bafe6",
+      "title": "Robust Semi-Supervised Learning with Out of Distribution Data",
+      "venue": "arXiv.org",
+      "year": 2020,
+      "referenceCount": 35,
+      "citationCount": 14,
+      "authors": [
+        {
+          "authorId": "50879401",
+          "name": "Xujiang Zhao"
+        },
+        {
+          "authorId": "2112203718",
+          "name": "Krishnateja Killamsetty"
+        },
+        {
+          "authorId": "145074006",
+          "name": "Rishabh K. Iyer"
+        },
+        {
+          "authorId": "1406251225",
+          "name": "Feng Chen"
+        }
+      ]
+    },
+    {
+      "paperId": "b780c72febb4be12d27b0c44f615207ab3915b63",
+      "externalIds": {
+        "DOI": "10.1109/ACCESS.2026.3681267",
+        "CorpusId": 287236908
+      },
+      "url": "https://www.semanticscholar.org/paper/b780c72febb4be12d27b0c44f615207ab3915b63",
+      "title": "ADODN: Attentive Dropout-Based Occlusion-Aware Deep Network for Facial Landmark Detection",
+      "venue": "IEEE Access",
+      "year": 2026,
+      "referenceCount": 31,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2198671782",
+          "name": "Muhammad Sadiq"
+        },
+        {
+          "authorId": "2146667356",
+          "name": "Junhao Wu"
+        },
+        {
+          "authorId": "2067506190",
+          "name": "Yu Geng"
+        },
+        {
+          "authorId": "2305359953",
+          "name": "Mohammad Sultan Mahmud"
+        },
+        {
+          "authorId": "2286874775",
+          "name": "Amar Khelloufi"
+        },
+        {
+          "authorId": "2234136670",
+          "name": "Hua Zheng"
+        },
+        {
+          "authorId": "2221559128",
+          "name": "Yunsheng Zhang"
+        },
+        {
+          "authorId": "2288045228",
+          "name": "Junwei Liang"
+        }
+      ]
+    },
+    {
+      "paperId": "c30e338836ed74b5d196df4c2823aa803635c912",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2403-12986",
+        "ArXiv": "2403.12986",
+        "DOI": "10.1609/aaai.v38i11.29084",
+        "CorpusId": 268537079
+      },
+      "url": "https://www.semanticscholar.org/paper/c30e338836ed74b5d196df4c2823aa803635c912",
+      "title": "BaCon: Boosting Imbalanced Semi-supervised Learning via Balanced Feature-Level Contrastive Learning",
+      "venue": "AAAI Conference on Artificial Intelligence",
+      "year": 2024,
+      "referenceCount": 34,
+      "citationCount": 20,
+      "authors": [
+        {
+          "authorId": "2292261675",
+          "name": "Qianhan Feng"
+        },
+        {
+          "authorId": "2292346614",
+          "name": "Lujing Xie"
+        },
+        {
+          "authorId": "2238639329",
+          "name": "Shijie Fang"
+        },
+        {
+          "authorId": "2238905623",
+          "name": "Tong Lin"
+        }
+      ]
+    },
+    {
+      "paperId": "42a8f0c5e863e44ac871986a6757adc9cbcc5e03",
+      "externalIds": {
+        "ArXiv": "2004.01459",
+        "DBLP": "journals/corr/abs-2004-01459",
+        "MAG": "3014676278",
+        "DOI": "10.1007/978-3-030-58577-8_17",
+        "CorpusId": 214795089
+      },
+      "url": "https://www.semanticscholar.org/paper/42a8f0c5e863e44ac871986a6757adc9cbcc5e03",
+      "title": "Self-Paced Deep Regression Forests with Consideration on Underrepresented Samples",
+      "venue": "European Conference on Computer Vision",
+      "year": 2020,
+      "referenceCount": 55,
+      "citationCount": 19,
+      "authors": [
+        {
+          "authorId": "144320549",
+          "name": "Lili Pan"
+        },
+        {
+          "authorId": "1388577802",
+          "name": "Shijie Ai"
+        },
+        {
+          "authorId": "2041980",
+          "name": "Yazhou Ren"
+        },
+        {
+          "authorId": "1683510",
+          "name": "Zenglin Xu"
+        }
+      ]
+    },
+    {
+      "paperId": "e3a9e70f3eabd8319def11e76c3ea379096cc939",
+      "externalIds": {
+        "DBLP": "journals/tip/DongYWXL23",
+        "DOI": "10.1109/TIP.2023.3290532",
+        "CorpusId": 259657708,
+        "PubMed": "37428673"
+      },
+      "url": "https://www.semanticscholar.org/paper/e3a9e70f3eabd8319def11e76c3ea379096cc939",
+      "title": "Toward Intrinsic Adversarial Robustness Through Probabilistic Training",
+      "venue": "IEEE Transactions on Image Processing",
+      "year": 2023,
+      "referenceCount": 68,
+      "citationCount": 20,
+      "authors": [
+        {
+          "authorId": "1903047001",
+          "name": "Junhao Dong"
+        },
+        {
+          "authorId": "49576171",
+          "name": "Lingxiao Yang"
+        },
+        {
+          "authorId": "2163691024",
+          "name": "Yuan Wang"
+        },
+        {
+          "authorId": "46397019",
+          "name": "Xiaohua Xie"
+        },
+        {
+          "authorId": "2151605931",
+          "name": "Jianhuang Lai"
+        }
+      ]
+    },
+    {
+      "paperId": "25af5ccef7835cb42e3ef29b6d2c2fee6964f3a6",
+      "externalIds": {
+        "DBLP": "conf/recsys/DongZCFCHXW20",
+        "MAG": "3089214483",
+        "DOI": "10.1145/3383313.3411552",
+        "CorpusId": 221785159
+      },
+      "url": "https://www.semanticscholar.org/paper/25af5ccef7835cb42e3ef29b6d2c2fee6964f3a6",
+      "title": "Counterfactual learning for recommender system",
+      "venue": "ACM Conference on Recommender Systems",
+      "year": 2020,
+      "referenceCount": 8,
+      "citationCount": 23,
+      "authors": [
+        {
+          "authorId": "3065080",
+          "name": "Zhenhua Dong"
+        },
+        {
+          "authorId": "2149670667",
+          "name": "Hong Zhu"
+        },
+        {
+          "authorId": "2087035377",
+          "name": "Pengxiang Cheng"
+        },
+        {
+          "authorId": "1830382641",
+          "name": "Xinhua Feng"
+        },
+        {
+          "authorId": "24140498",
+          "name": "Guohao Cai"
+        },
+        {
+          "authorId": "1996703",
+          "name": "Xiuqiang He"
+        },
+        {
+          "authorId": "2150636233",
+          "name": "Jun Xu"
+        },
+        {
+          "authorId": "2259699",
+          "name": "Ji-Rong Wen"
+        }
+      ]
+    }
+  ]
+}

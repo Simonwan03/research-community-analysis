@@ -1,0 +1,266 @@
+{
+  "total": 70,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "81cc843b3bfad58b8392511ff836eac891602bd3",
+      "externalIds": {
+        "MAG": "2963131997",
+        "DBLP": "journals/corr/abs-1806-06086",
+        "ArXiv": "1806.06086",
+        "CorpusId": 49305664
+      },
+      "url": "https://www.semanticscholar.org/paper/81cc843b3bfad58b8392511ff836eac891602bd3",
+      "title": "Minibatch Gibbs Sampling on Large Graphical Models",
+      "venue": "International Conference on Machine Learning",
+      "year": 2018,
+      "referenceCount": 21,
+      "citationCount": 22,
+      "authors": [
+        {
+          "authorId": "1801197",
+          "name": "Christopher De Sa"
+        },
+        {
+          "authorId": "2057942848",
+          "name": "Vincent Chen"
+        },
+        {
+          "authorId": "2093341863",
+          "name": "W. Wong"
+        }
+      ]
+    },
+    {
+      "paperId": "c58c9e5398b302bccc8e1bc173382d50ad69fbe5",
+      "externalIds": {
+        "MAG": "2989848887",
+        "ArXiv": "1911.09771",
+        "DBLP": "journals/corr/abs-1911-09771",
+        "CorpusId": 202774068
+      },
+      "url": "https://www.semanticscholar.org/paper/c58c9e5398b302bccc8e1bc173382d50ad69fbe5",
+      "title": "Poisson-Minibatching for Gibbs Sampling with Convergence Rate Guarantees",
+      "venue": "Neural Information Processing Systems",
+      "year": 2019,
+      "referenceCount": 18,
+      "citationCount": 12,
+      "authors": [
+        {
+          "authorId": "2257078903",
+          "name": "Ruqi Zhang"
+        },
+        {
+          "authorId": "1801197",
+          "name": "Christopher De Sa"
+        }
+      ]
+    },
+    {
+      "paperId": "85e8bfcce1096f90c47e0552268c426efabfbca6",
+      "externalIds": {
+        "DBLP": "conf/uai/VenugopalSC16",
+        "MAG": "2572411918",
+        "CorpusId": 9861517
+      },
+      "url": "https://www.semanticscholar.org/paper/85e8bfcce1096f90c47e0552268c426efabfbca6",
+      "title": "Non-parametric Domain Approximation for Scalable Gibbs Sampling in MLNs",
+      "venue": "Conference on Uncertainty in Artificial Intelligence",
+      "year": 2016,
+      "referenceCount": 32,
+      "citationCount": 4,
+      "authors": [
+        {
+          "authorId": "2220570",
+          "name": "D. Venugopal"
+        },
+        {
+          "authorId": "3281912",
+          "name": "Somdeb Sarkhel"
+        },
+        {
+          "authorId": "2052141041",
+          "name": "Kyle Cherry"
+        }
+      ]
+    },
+    {
+      "paperId": "aa0f9f542bb39dea4416662924ea0fcc82ae797e",
+      "externalIds": {
+        "ArXiv": "2107.11316",
+        "CorpusId": 237499186
+      },
+      "url": "https://www.semanticscholar.org/paper/aa0f9f542bb39dea4416662924ea0fcc82ae797e",
+      "title": "Bayesian Scalable Precision Factor Analysis for Massive Sparse Gaussian Graphical Models",
+      "venue": "",
+      "year": 2021,
+      "referenceCount": 89,
+      "citationCount": 12,
+      "authors": [
+        {
+          "authorId": "82640866",
+          "name": "N. K. Chandra"
+        },
+        {
+          "authorId": "2074163873",
+          "name": "Peter Mueller"
+        },
+        {
+          "authorId": "47133299",
+          "name": "A. Sarkar"
+        }
+      ]
+    },
+    {
+      "paperId": "ab1ab9bb378099eacf56b4055348a92bc9fa6ca4",
+      "externalIds": {
+        "MAG": "2551502543",
+        "ArXiv": "1611.06684",
+        "DBLP": "journals/corr/MeschederNG16",
+        "CorpusId": 1346942
+      },
+      "url": "https://www.semanticscholar.org/paper/ab1ab9bb378099eacf56b4055348a92bc9fa6ca4",
+      "title": "Probabilistic Duality for Parallel Gibbs Sampling without Graph Coloring",
+      "venue": "arXiv.org",
+      "year": 2016,
+      "referenceCount": 15,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "8226549",
+          "name": "L. Mescheder"
+        },
+        {
+          "authorId": "2388416",
+          "name": "Sebastian Nowozin"
+        },
+        {
+          "authorId": "47237027",
+          "name": "Andreas Geiger"
+        }
+      ]
+    },
+    {
+      "paperId": "5b57b55aec001bbc550ce07c1e3b2e7cce3f92eb",
+      "externalIds": {
+        "CorpusId": 236318542
+      },
+      "url": "https://www.semanticscholar.org/paper/5b57b55aec001bbc550ce07c1e3b2e7cce3f92eb",
+      "title": "Bayesian Precision Factor Analysis for High-dimensional Sparse Gaussian Graphical Models",
+      "venue": "",
+      "year": 2021,
+      "referenceCount": 87,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "82640866",
+          "name": "N. K. Chandra"
+        },
+        {
+          "authorId": "20365503",
+          "name": "Peter R. Mueller"
+        },
+        {
+          "authorId": "47133299",
+          "name": "A. Sarkar"
+        }
+      ]
+    },
+    {
+      "paperId": "465ab46511534ae79f8aea4091005c9dd17e6814",
+      "externalIds": {
+        "DBLP": "phd/us/Piao18",
+        "MAG": "863226439",
+        "DOI": "10.1184/r1/6723128.v1",
+        "CorpusId": 117939086
+      },
+      "url": "https://www.semanticscholar.org/paper/465ab46511534ae79f8aea4091005c9dd17e6814",
+      "title": "Speeding Up Gibbs Sampling in Probabilistic Optical Flow",
+      "venue": "",
+      "year": 2014,
+      "referenceCount": 47,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "40174032",
+          "name": "Dongzhen Piao"
+        }
+      ]
+    },
+    {
+      "paperId": "47591eeaba44936184ee6a7fca30166083b560c2",
+      "externalIds": {
+        "DBLP": "journals/sac/ThomasGAB00",
+        "MAG": "1490360753",
+        "DOI": "10.1023/A:1008947712763",
+        "CorpusId": 14911089
+      },
+      "url": "https://www.semanticscholar.org/paper/47591eeaba44936184ee6a7fca30166083b560c2",
+      "title": "Multilocus linkage analysis by blocked Gibbs sampling",
+      "venue": "Statistics and computing",
+      "year": 2000,
+      "referenceCount": 40,
+      "citationCount": 120,
+      "authors": [
+        {
+          "authorId": "2115806726",
+          "name": "Alun Thomas"
+        },
+        {
+          "authorId": "1774779",
+          "name": "A. Gutin"
+        },
+        {
+          "authorId": "3013000",
+          "name": "V. Abkevich"
+        },
+        {
+          "authorId": "49374535",
+          "name": "A. Bansal"
+        }
+      ]
+    },
+    {
+      "paperId": "26ae2e216f72e5dc11706f8918be882ab318b9c2",
+      "externalIds": {
+        "DBLP": "conf/nips/Lazaro-Gredilla21",
+        "ArXiv": "2111.02458",
+        "CorpusId": 242758258
+      },
+      "url": "https://www.semanticscholar.org/paper/26ae2e216f72e5dc11706f8918be882ab318b9c2",
+      "title": "Perturb-and-max-product: Sampling and learning in discrete energy-based models",
+      "venue": "Neural Information Processing Systems",
+      "year": 2021,
+      "referenceCount": 41,
+      "citationCount": 10,
+      "authors": [
+        {
+          "authorId": "1388666962",
+          "name": "M. Lázaro-Gredilla"
+        },
+        {
+          "authorId": "36361397",
+          "name": "A. Dedieu"
+        },
+        {
+          "authorId": "50021619",
+          "name": "Dileep George"
+        }
+      ]
+    },
+    {
+      "paperId": "3665104fb1b9a4d3b300b3768985dcc2e3c2e645",
+      "externalIds": {
+        "CorpusId": 3948905
+      },
+      "url": "https://www.semanticscholar.org/paper/3665104fb1b9a4d3b300b3768985dcc2e3c2e645",
+      "title": "Graphical Models and Approximate Posterior Inference 2.1 Latent Variable Graphical Models",
+      "venue": "",
+      "year": null,
+      "referenceCount": 0,
+      "citationCount": 1,
+      "authors": []
+    }
+  ]
+}

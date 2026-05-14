@@ -1,0 +1,383 @@
+{
+  "total": 977,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "02ccfc9b550d381b5df4365a2ae48bb5f7f7578e",
+      "externalIds": {
+        "ArXiv": "1803.04189",
+        "MAG": "2793146153",
+        "DBLP": "journals/corr/abs-1803-04189",
+        "CorpusId": 3846544
+      },
+      "url": "https://www.semanticscholar.org/paper/02ccfc9b550d381b5df4365a2ae48bb5f7f7578e",
+      "title": "Noise2Noise: Learning Image Restoration without Clean Data",
+      "venue": "International Conference on Machine Learning",
+      "year": 2018,
+      "referenceCount": 27,
+      "citationCount": 1957,
+      "authors": [
+        {
+          "authorId": "49244945",
+          "name": "J. Lehtinen"
+        },
+        {
+          "authorId": "1762967",
+          "name": "Jacob Munkberg"
+        },
+        {
+          "authorId": "2266452",
+          "name": "J. Hasselgren"
+        },
+        {
+          "authorId": "36436218",
+          "name": "S. Laine"
+        },
+        {
+          "authorId": "2976930",
+          "name": "Tero Karras"
+        },
+        {
+          "authorId": "1907688",
+          "name": "M. Aittala"
+        },
+        {
+          "authorId": "1761103",
+          "name": "Timo Aila"
+        }
+      ]
+    },
+    {
+      "paperId": "7c647e8b06c50bc499926c60c02120577e91f947",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2011-05105",
+        "ArXiv": "2011.05105",
+        "MAG": "3104069472",
+        "DOI": "10.1007/978-3-030-88552-6_10",
+        "CorpusId": 226289607
+      },
+      "url": "https://www.semanticscholar.org/paper/7c647e8b06c50bc499926c60c02120577e91f947",
+      "title": "Noise2Stack: Improving Image Restoration by Learning from Volumetric Data",
+      "venue": "MLMIR@MICCAI",
+      "year": 2020,
+      "referenceCount": 22,
+      "citationCount": 10,
+      "authors": [
+        {
+          "authorId": "2008248147",
+          "name": "Mikhail Papkov"
+        },
+        {
+          "authorId": "2387228563",
+          "name": "Kenny Roberts"
+        },
+        {
+          "authorId": "2008252018",
+          "name": "Lee Ann Madissoon"
+        },
+        {
+          "authorId": "30752735",
+          "name": "Ö. Bayraktar"
+        },
+        {
+          "authorId": "39084373",
+          "name": "D. Fishman"
+        },
+        {
+          "authorId": "4126369",
+          "name": "K. Palo"
+        },
+        {
+          "authorId": "2827805",
+          "name": "L. Parts"
+        }
+      ]
+    },
+    {
+      "paperId": "36858e107907c4a3e4746031a28090989f95fbcf",
+      "externalIds": {
+        "MAG": "2997662802",
+        "DOI": "10.13140/RG.2.2.29485.95202",
+        "CorpusId": 263048987
+      },
+      "url": "https://www.semanticscholar.org/paper/36858e107907c4a3e4746031a28090989f95fbcf",
+      "title": "Learning Image Restoration without Clean Data",
+      "venue": "",
+      "year": 2019,
+      "referenceCount": 0,
+      "citationCount": 82,
+      "authors": [
+        {
+          "authorId": "2256866075",
+          "name": "Abhay Patil"
+        }
+      ]
+    },
+    {
+      "paperId": "306b6d83b32e96df1a692d13276811c6a93df22c",
+      "externalIds": {
+        "ArXiv": "2205.08833",
+        "DBLP": "conf/icpr/TaiJHC22",
+        "DOI": "10.1109/ICPR56361.2022.9956194",
+        "CorpusId": 248863323
+      },
+      "url": "https://www.semanticscholar.org/paper/306b6d83b32e96df1a692d13276811c6a93df22c",
+      "title": "Speckle Image Restoration without Clean Data",
+      "venue": "International Conference on Pattern Recognition",
+      "year": 2022,
+      "referenceCount": 32,
+      "citationCount": 7,
+      "authors": [
+        {
+          "authorId": "27084141",
+          "name": "Tsung-Ming Tai"
+        },
+        {
+          "authorId": "27005053",
+          "name": "Yun-Jie Jhang"
+        },
+        {
+          "authorId": "143854007",
+          "name": "Wen-Jyi Hwang"
+        },
+        {
+          "authorId": "69900435",
+          "name": "Chau-Jern Cheng"
+        }
+      ]
+    },
+    {
+      "paperId": "282d211cb6441360143d5aee16d51f5d4ec31d77",
+      "externalIds": {
+        "PubMedCentral": "13015446",
+        "DOI": "10.1162/IMAG.a.1163",
+        "CorpusId": 285819644
+      },
+      "url": "https://www.semanticscholar.org/paper/282d211cb6441360143d5aee16d51f5d4ec31d77",
+      "title": "Noise2Average: An iterative residual learning strategy for image denoising without clean data",
+      "venue": "Imaging Neuroscience",
+      "year": 2026,
+      "referenceCount": 1,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2336614498",
+          "name": "Zihan Li"
+        },
+        {
+          "authorId": "2248583682",
+          "name": "Ziyu Li"
+        },
+        {
+          "authorId": "2918196",
+          "name": "B. Bilgiç"
+        },
+        {
+          "authorId": "2122898908",
+          "name": "Kui Ying"
+        },
+        {
+          "authorId": "2276221542",
+          "name": "David H. Salat"
+        },
+        {
+          "authorId": "2303260991",
+          "name": "J. Polimeni"
+        },
+        {
+          "authorId": "48917324",
+          "name": "Hongen Liao"
+        },
+        {
+          "authorId": "2266356723",
+          "name": "Susie Y. Huang"
+        },
+        {
+          "authorId": "2250939613",
+          "name": "Qiyuan Tian"
+        }
+      ]
+    },
+    {
+      "paperId": "79157909fcf6587ef8b07075d86b2416490132c6",
+      "externalIds": {
+        "DBLP": "conf/memea/BasileGCSCMBV24",
+        "DOI": "10.1109/MeMeA60663.2024.10596830",
+        "CorpusId": 271551860
+      },
+      "url": "https://www.semanticscholar.org/paper/79157909fcf6587ef8b07075d86b2416490132c6",
+      "title": "Unsupervised Learning of Speckle Removal from Real Ultrasound Acquisitions without Clean Data",
+      "venue": "IEEE International Symposium on Medical Measurements and Applications",
+      "year": 2024,
+      "referenceCount": 46,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2200516039",
+          "name": "Miriam Basile"
+        },
+        {
+          "authorId": "2265669547",
+          "name": "Fabio Gibiino"
+        },
+        {
+          "authorId": "2265674191",
+          "name": "Jacopo Cavazza"
+        },
+        {
+          "authorId": "2265671424",
+          "name": "Paolo Semplici"
+        },
+        {
+          "authorId": "2313799550",
+          "name": "Martina Cocco"
+        },
+        {
+          "authorId": "2271212968",
+          "name": "F. Marcelloni"
+        },
+        {
+          "authorId": "38395942",
+          "name": "A. Bechini"
+        },
+        {
+          "authorId": "2299654600",
+          "name": "N. Vanello"
+        }
+      ]
+    },
+    {
+      "paperId": "d0702b17b528d8414041ba674253288ed8d25394",
+      "externalIds": {
+        "ArXiv": "2507.06828",
+        "DBLP": "journals/mia/LiNJ25",
+        "DOI": "10.1016/j.media.2025.103755",
+        "CorpusId": 280113700,
+        "PubMed": "40829548"
+      },
+      "url": "https://www.semanticscholar.org/paper/d0702b17b528d8414041ba674253288ed8d25394",
+      "title": "Speckle2Self: Self-Supervised Ultrasound Speckle Reduction Without Clean Data",
+      "venue": "Medical Image Anal.",
+      "year": 2025,
+      "referenceCount": 91,
+      "citationCount": 4,
+      "authors": [
+        {
+          "authorId": "2108255656",
+          "name": "Xuesong Li"
+        },
+        {
+          "authorId": "2259265528",
+          "name": "Nassir Navab"
+        },
+        {
+          "authorId": "50676510",
+          "name": "Zhongliang Jiang"
+        }
+      ]
+    },
+    {
+      "paperId": "36bf9fd41197414d630b7677b771e946ee360887",
+      "externalIds": {
+        "DBLP": "conf/globecom/ChenWZAWY24",
+        "DOI": "10.1109/GLOBECOM52923.2024.10901693",
+        "CorpusId": 276935127
+      },
+      "url": "https://www.semanticscholar.org/paper/36bf9fd41197414d630b7677b771e946ee360887",
+      "title": "A Mutation-Based Method for Backdoored Sample Detection Without Clean Data",
+      "venue": "Global Communications Conference",
+      "year": 2024,
+      "referenceCount": 14,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2344241892",
+          "name": "Luoyu Chen"
+        },
+        {
+          "authorId": "2288069019",
+          "name": "Feng Wu"
+        },
+        {
+          "authorId": "2350252817",
+          "name": "Tao Zhang"
+        },
+        {
+          "authorId": "2338075591",
+          "name": "Ahmed Asiri"
+        },
+        {
+          "authorId": "2261439003",
+          "name": "Weiqi Wang"
+        },
+        {
+          "authorId": "2349949161",
+          "name": "Shui Yu"
+        }
+      ]
+    },
+    {
+      "paperId": "36e28bcf36e141dd8f3c74ca0269442dcf97479b",
+      "externalIds": {
+        "ArXiv": "2401.10128",
+        "DBLP": "journals/corr/abs-2401-10128",
+        "DOI": "10.1364/OL.518906",
+        "CorpusId": 267035238,
+        "PubMed": "38824328"
+      },
+      "url": "https://www.semanticscholar.org/paper/36e28bcf36e141dd8f3c74ca0269442dcf97479b",
+      "title": "Sub2Full: split spectrum to boost OCT despeckling without clean data",
+      "venue": "Optics Letters",
+      "year": 2024,
+      "referenceCount": 20,
+      "citationCount": 7,
+      "authors": [
+        {
+          "authorId": "2280039368",
+          "name": "Lingyun Wang"
+        },
+        {
+          "authorId": "2238243053",
+          "name": "J. Sahel"
+        },
+        {
+          "authorId": "2279840316",
+          "name": "Shaohua Pi"
+        }
+      ]
+    },
+    {
+      "paperId": "679946160a0be5a2fc46fa0f1f47ec68af02b5a1",
+      "externalIds": {
+        "DBLP": "conf/ijcnn/JiangCLF24",
+        "DOI": "10.1109/IJCNN60899.2024.10651351",
+        "CorpusId": 272583105
+      },
+      "url": "https://www.semanticscholar.org/paper/679946160a0be5a2fc46fa0f1f47ec68af02b5a1",
+      "title": "Learning with Noisy Labels: A Novel Meta Label Corrector without Clean Validation Data",
+      "venue": "IEEE International Joint Conference on Neural Network",
+      "year": 2024,
+      "referenceCount": 46,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2280406251",
+          "name": "Kai Jiang"
+        },
+        {
+          "authorId": "2276664312",
+          "name": "Bin Cao"
+        },
+        {
+          "authorId": "2108996247",
+          "name": "Yuqi Liu"
+        },
+        {
+          "authorId": "152223743",
+          "name": "Jing Fan"
+        }
+      ]
+    }
+  ]
+}

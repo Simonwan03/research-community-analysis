@@ -1,0 +1,354 @@
+{
+  "total": 1206,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "f4ce9a3117cbee652d64dc78ed66b6af92b4d5df",
+      "externalIds": {
+        "MAG": "1865606400",
+        "DBLP": "conf/icml/GeCWG15",
+        "CorpusId": 487360
+      },
+      "url": "https://www.semanticscholar.org/paper/f4ce9a3117cbee652d64dc78ed66b6af92b4d5df",
+      "title": "Distributed Inference for Dirichlet Process Mixture Models",
+      "venue": "International Conference on Machine Learning",
+      "year": 2015,
+      "referenceCount": 27,
+      "citationCount": 46,
+      "authors": [
+        {
+          "authorId": "49365036",
+          "name": "Hong Ge"
+        },
+        {
+          "authorId": "2275897",
+          "name": "Yutian Chen"
+        },
+        {
+          "authorId": "3216939",
+          "name": "Moquan Wan"
+        },
+        {
+          "authorId": "1744700",
+          "name": "Zoubin Ghahramani"
+        }
+      ]
+    },
+    {
+      "paperId": "0706cfc6a42ee2ff6a21b55bf5e5104595001e86",
+      "externalIds": {
+        "DBLP": "journals/ijon/KhoufacheLAGB25",
+        "DOI": "10.1016/j.neucom.2025.131119",
+        "CorpusId": 280568490
+      },
+      "url": "https://www.semanticscholar.org/paper/0706cfc6a42ee2ff6a21b55bf5e5104595001e86",
+      "title": "A distributed inference algorithm for Dirichlet process mixture models with exponential family components",
+      "venue": "Neurocomputing",
+      "year": 2025,
+      "referenceCount": 44,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2204839502",
+          "name": "Reda Khoufache"
+        },
+        {
+          "authorId": "1802000",
+          "name": "M. Lebbah"
+        },
+        {
+          "authorId": "1787431",
+          "name": "Hanene Azzag"
+        },
+        {
+          "authorId": "89093296",
+          "name": "Étienne Goffinet"
+        },
+        {
+          "authorId": "1697848",
+          "name": "D. Bouchaffra"
+        }
+      ]
+    },
+    {
+      "paperId": "27ebc4184d58fc5bdb89db357410858deb5c633d",
+      "externalIds": {
+        "DBLP": "conf/ccgrid/DinariYFF19",
+        "MAG": "2955007221",
+        "DOI": "10.1109/CCGRID.2019.00066",
+        "CorpusId": 195832519
+      },
+      "url": "https://www.semanticscholar.org/paper/27ebc4184d58fc5bdb89db357410858deb5c633d",
+      "title": "Distributed MCMC Inference in Dirichlet Process Mixture Models Using Julia",
+      "venue": "IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing",
+      "year": 2019,
+      "referenceCount": 42,
+      "citationCount": 24,
+      "authors": [
+        {
+          "authorId": "150253006",
+          "name": "Or Dinari"
+        },
+        {
+          "authorId": "46857264",
+          "name": "A. Yu"
+        },
+        {
+          "authorId": "2546556",
+          "name": "O. Freifeld"
+        },
+        {
+          "authorId": "31496901",
+          "name": "John W. Fisher III"
+        }
+      ]
+    },
+    {
+      "paperId": "e92a1e1cc5d4bb35c89c586015a4b8a1b59a52f3",
+      "externalIds": {
+        "DBLP": "conf/sdm/KhoufacheLAGB24",
+        "ArXiv": "2312.11169",
+        "DOI": "10.48550/arXiv.2312.11169",
+        "CorpusId": 266359592
+      },
+      "url": "https://www.semanticscholar.org/paper/e92a1e1cc5d4bb35c89c586015a4b8a1b59a52f3",
+      "title": "Distributed Collapsed Gibbs Sampler for Dirichlet Process Mixture Models in Federated Learning",
+      "venue": "SDM",
+      "year": 2023,
+      "referenceCount": 32,
+      "citationCount": 5,
+      "authors": [
+        {
+          "authorId": "2204839502",
+          "name": "Reda Khoufache"
+        },
+        {
+          "authorId": "1802000",
+          "name": "M. Lebbah"
+        },
+        {
+          "authorId": "1787431",
+          "name": "Hanene Azzag"
+        },
+        {
+          "authorId": "89093296",
+          "name": "Étienne Goffinet"
+        },
+        {
+          "authorId": "1697848",
+          "name": "D. Bouchaffra"
+        }
+      ]
+    },
+    {
+      "paperId": "97e74ce05bd4074e5e722fe212c4283db011a959",
+      "externalIds": {
+        "DBLP": "journals/prl/YerebakanD17",
+        "MAG": "2592739623",
+        "DOI": "10.1016/j.patrec.2017.03.009",
+        "CorpusId": 29025325
+      },
+      "url": "https://www.semanticscholar.org/paper/97e74ce05bd4074e5e722fe212c4283db011a959",
+      "title": "Partially collapsed parallel Gibbs sampler for Dirichlet process mixture models",
+      "venue": "Pattern Recognition Letters",
+      "year": 2017,
+      "referenceCount": 17,
+      "citationCount": 11,
+      "authors": [
+        {
+          "authorId": "40504369",
+          "name": "H. Yerebakan"
+        },
+        {
+          "authorId": "7816476",
+          "name": "M. Dundar"
+        }
+      ]
+    },
+    {
+      "paperId": "0dc271cce2909000088e6309ed7879ca06624847",
+      "externalIds": {
+        "MAG": "794177523",
+        "DBLP": "conf/dasfaa/LinhATT15",
+        "DOI": "10.1007/978-3-319-18123-3_9",
+        "CorpusId": 37677626
+      },
+      "url": "https://www.semanticscholar.org/paper/0dc271cce2909000088e6309ed7879ca06624847",
+      "title": "Effective and Interpretable Document Classification Using Distinctly Labeled Dirichlet Process Mixture Models of von Mises-Fisher Distributions",
+      "venue": "International Conference on Database Systems for Advanced Applications",
+      "year": 2015,
+      "referenceCount": 18,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "3169945",
+          "name": "Ngo Van Linh"
+        },
+        {
+          "authorId": "2523898",
+          "name": "N. K. Anh"
+        },
+        {
+          "authorId": "38685176",
+          "name": "Khoat Than"
+        },
+        {
+          "authorId": "2352131955",
+          "name": "Nguyen Nguyen Tat"
+        }
+      ]
+    },
+    {
+      "paperId": "932e2c4c5585ceec28cf83d51f28958e5efd8c06",
+      "externalIds": {
+        "PubMedCentral": "11650374",
+        "DBLP": "journals/jmlr/ChakrabartiNMSC24",
+        "ArXiv": "2302.09111",
+        "CorpusId": 260351557,
+        "PubMed": "39691937"
+      },
+      "url": "https://www.semanticscholar.org/paper/932e2c4c5585ceec28cf83d51f28958e5efd8c06",
+      "title": "Graphical Dirichlet Process for Clustering Non-Exchangeable Grouped Data",
+      "venue": "Journal of machine learning research",
+      "year": 2023,
+      "referenceCount": 52,
+      "citationCount": 4,
+      "authors": [
+        {
+          "authorId": "2208653347",
+          "name": "Arhit Chakrabarti"
+        },
+        {
+          "authorId": "48530292",
+          "name": "Yang Ni"
+        },
+        {
+          "authorId": "1381745603",
+          "name": "E. R. A. Morris"
+        },
+        {
+          "authorId": "50479160",
+          "name": "Michael L Salinas"
+        },
+        {
+          "authorId": "3029592",
+          "name": "R. Chapkin"
+        },
+        {
+          "authorId": "1789565",
+          "name": "B. Mallick"
+        }
+      ]
+    },
+    {
+      "paperId": "28963d95d17d8de10315bfe1c0e746201aa286f9",
+      "externalIds": {
+        "ArXiv": "2204.08988",
+        "DBLP": "journals/corr/abs-2204-08988",
+        "DOI": "10.48550/arXiv.2204.08988",
+        "CorpusId": 248240152
+      },
+      "url": "https://www.semanticscholar.org/paper/28963d95d17d8de10315bfe1c0e746201aa286f9",
+      "title": "CPU- and GPU-based Distributed Sampling in Dirichlet Process Mixtures for Large-scale Analysis",
+      "venue": "arXiv.org",
+      "year": 2022,
+      "referenceCount": 16,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "150253006",
+          "name": "Or Dinari"
+        },
+        {
+          "authorId": "2162837729",
+          "name": "Raz Zamir"
+        },
+        {
+          "authorId": "31496901",
+          "name": "John W. Fisher III"
+        },
+        {
+          "authorId": "2546556",
+          "name": "O. Freifeld"
+        }
+      ]
+    },
+    {
+      "paperId": "7006dd9ac7ab9a2fe986ccb8b6b1b581b7253812",
+      "externalIds": {
+        "CorpusId": 257039084
+      },
+      "url": "https://www.semanticscholar.org/paper/7006dd9ac7ab9a2fe986ccb8b6b1b581b7253812",
+      "title": "Graphical Dirichlet Process",
+      "venue": "",
+      "year": 2023,
+      "referenceCount": 43,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2208653347",
+          "name": "Arhit Chakrabarti"
+        },
+        {
+          "authorId": "48530292",
+          "name": "Yang Ni"
+        },
+        {
+          "authorId": "118512941",
+          "name": "E. Ruth"
+        },
+        {
+          "authorId": "2208389327",
+          "name": "A. Morris"
+        },
+        {
+          "authorId": "50479160",
+          "name": "Michael L Salinas"
+        },
+        {
+          "authorId": "3029592",
+          "name": "R. Chapkin"
+        },
+        {
+          "authorId": "1789565",
+          "name": "B. Mallick"
+        }
+      ]
+    },
+    {
+      "paperId": "3969ca01d744541f740e8d080100f56695a28b96",
+      "externalIds": {
+        "ArXiv": "1601.03117",
+        "MAG": "2950462457",
+        "DBLP": "journals/pami/ZhuCHH17",
+        "DOI": "10.1109/TPAMI.2016.2604816",
+        "CorpusId": 2882843
+      },
+      "url": "https://www.semanticscholar.org/paper/3969ca01d744541f740e8d080100f56695a28b96",
+      "title": "Blind Image Denoising via Dependent Dirichlet Process Tree",
+      "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+      "year": 2016,
+      "referenceCount": 52,
+      "citationCount": 20,
+      "authors": [
+        {
+          "authorId": "2943795",
+          "name": "Fengyuan Zhu"
+        },
+        {
+          "authorId": "2653181",
+          "name": "Guangyong Chen"
+        },
+        {
+          "authorId": "40513470",
+          "name": "Jianye Hao"
+        },
+        {
+          "authorId": "1714602",
+          "name": "P. Heng"
+        }
+      ]
+    }
+  ]
+}

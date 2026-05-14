@@ -1,0 +1,374 @@
+{
+  "total": 18,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "e8b8a7778ace2a02f8db6fe321a54520c6b283ca",
+      "externalIds": {
+        "DBLP": "conf/icml/LarsenSLW16",
+        "MAG": "2202109488",
+        "ArXiv": "1512.09300",
+        "CorpusId": 8785311
+      },
+      "url": "https://www.semanticscholar.org/paper/e8b8a7778ace2a02f8db6fe321a54520c6b283ca",
+      "title": "Autoencoding beyond pixels using a learned similarity metric",
+      "venue": "International Conference on Machine Learning",
+      "year": 2015,
+      "referenceCount": 29,
+      "citationCount": 2203,
+      "authors": [
+        {
+          "authorId": "46560485",
+          "name": "Anders Boesen Lindbo Larsen"
+        },
+        {
+          "authorId": "1388358166",
+          "name": "Søren Kaae Sønderby"
+        },
+        {
+          "authorId": "1777528",
+          "name": "H. Larochelle"
+        },
+        {
+          "authorId": "1724252",
+          "name": "O. Winther"
+        }
+      ]
+    },
+    {
+      "paperId": "0e191fd186c3b5cf3b6c7fe53d71853e08782145",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2512-03701",
+        "ArXiv": "2512.03701",
+        "DOI": "10.48550/arXiv.2512.03701",
+        "CorpusId": 283466820
+      },
+      "url": "https://www.semanticscholar.org/paper/0e191fd186c3b5cf3b6c7fe53d71853e08782145",
+      "title": "Structured Uncertainty Similarity Score (SUSS): Learning a Probabilistic, Interpretable, Perceptual Metric Between Images",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "referenceCount": 31,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2395894896",
+          "name": "Paula Seidler"
+        },
+        {
+          "authorId": "2248028681",
+          "name": "Neill D. F. Campbell"
+        },
+        {
+          "authorId": "144377239",
+          "name": "Ivor J. A. Simpson"
+        }
+      ]
+    },
+    {
+      "paperId": "43007d44e184f43e6caf475e9496fbf81cf54a0f",
+      "externalIds": {
+        "DBLP": "conf/iccvw/EngelenburgKG23",
+        "ArXiv": "2309.04357",
+        "DOI": "10.1109/ICCVW60793.2023.00172",
+        "CorpusId": 261660312
+      },
+      "url": "https://www.semanticscholar.org/paper/43007d44e184f43e6caf475e9496fbf81cf54a0f",
+      "title": "SSIG: A Visually-Guided Graph Edit Distance for Floor Plan Similarity",
+      "venue": "2023 IEEE/CVF International Conference on Computer Vision Workshops (ICCVW)",
+      "year": 2023,
+      "referenceCount": 31,
+      "citationCount": 10,
+      "authors": [
+        {
+          "authorId": "2238621670",
+          "name": "Casper van Engelenburg"
+        },
+        {
+          "authorId": "2424387",
+          "name": "Seyran Khademi"
+        },
+        {
+          "authorId": "2238624392",
+          "name": "Jan van Gemert"
+        }
+      ]
+    },
+    {
+      "paperId": "0dbd2e1018bdb61e5d39e8121747f2040bc0bad2",
+      "externalIds": {
+        "MAG": "2121008432",
+        "DOI": "10.1523/JNEUROSCI.5181-14.2015",
+        "CorpusId": 15634227,
+        "PubMed": "26424887"
+      },
+      "url": "https://www.semanticscholar.org/paper/0dbd2e1018bdb61e5d39e8121747f2040bc0bad2",
+      "title": "Simple Learned Weighted Sums of Inferior Temporal Neuronal Firing Rates Accurately Predict Human Core Object Recognition Performance",
+      "venue": "Journal of Neuroscience",
+      "year": 2015,
+      "referenceCount": 77,
+      "citationCount": 227,
+      "authors": [
+        {
+          "authorId": "2034026",
+          "name": "N. Majaj"
+        },
+        {
+          "authorId": "145270377",
+          "name": "Ha Hong"
+        },
+        {
+          "authorId": "1913449",
+          "name": "E. Solomon"
+        },
+        {
+          "authorId": "1865831",
+          "name": "J. DiCarlo"
+        }
+      ]
+    },
+    {
+      "paperId": "0fb3a6f335cf6c5217d28bd60a33f0b40418425a",
+      "externalIds": {
+        "DBLP": "conf/miccai/KamranHTZSB21",
+        "ArXiv": "2101.00535",
+        "DOI": "10.1007/978-3-030-87237-3_4",
+        "CorpusId": 234741309
+      },
+      "url": "https://www.semanticscholar.org/paper/0fb3a6f335cf6c5217d28bd60a33f0b40418425a",
+      "title": "RV-GAN: Segmenting Retinal Vascular Structure in Fundus Photographs Using a Novel Multi-scale Generative Adversarial Network",
+      "venue": "International Conference on Medical Image Computing and Computer-Assisted Intervention",
+      "year": 2021,
+      "referenceCount": 33,
+      "citationCount": 97,
+      "authors": [
+        {
+          "authorId": "68972376",
+          "name": "Sharif Amit Kamran"
+        },
+        {
+          "authorId": "83789264",
+          "name": "Khondker Fariha Hossain"
+        },
+        {
+          "authorId": "144391600",
+          "name": "A. Tavakkoli"
+        },
+        {
+          "authorId": "84360674",
+          "name": "S. Zuckerbrod"
+        },
+        {
+          "authorId": "1945220",
+          "name": "K. Sanders"
+        },
+        {
+          "authorId": "4163979",
+          "name": "S. Baker"
+        }
+      ]
+    },
+    {
+      "paperId": "2c28746d285176d3d60ba82ecb8c73948b7cf81f",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2211-06659",
+        "ArXiv": "2211.06659",
+        "PubMedCentral": "10399833",
+        "DOI": "10.1371/journal.pone.0288228",
+        "CorpusId": 260484297,
+        "PubMed": "37535557"
+      },
+      "url": "https://www.semanticscholar.org/paper/2c28746d285176d3d60ba82ecb8c73948b7cf81f",
+      "title": "Unsupervised anomaly appraisal of cleft faces using a StyleGAN2-based model adaptation technique",
+      "venue": "PLoS ONE",
+      "year": 2022,
+      "referenceCount": 73,
+      "citationCount": 14,
+      "authors": [
+        {
+          "authorId": "2134636422",
+          "name": "Abdullah Hayajneh"
+        },
+        {
+          "authorId": "70045087",
+          "name": "Mohammad Shaqfeh"
+        },
+        {
+          "authorId": "2138707436",
+          "name": "E. Serpedin"
+        },
+        {
+          "authorId": "6634928",
+          "name": "M. Stotland"
+        }
+      ]
+    },
+    {
+      "paperId": "4071ad05859823313d756e8324a8a0792d2bbd2d",
+      "externalIds": {
+        "MAG": "3094761124",
+        "ArXiv": "2004.01526",
+        "DBLP": "conf/eccv/ShenDEA20",
+        "DOI": "10.1007/978-3-030-58548-8_36",
+        "CorpusId": 214795150
+      },
+      "url": "https://www.semanticscholar.org/paper/4071ad05859823313d756e8324a8a0792d2bbd2d",
+      "title": "RANSAC-Flow: generic two-stage image alignment",
+      "venue": "European Conference on Computer Vision",
+      "year": 2020,
+      "referenceCount": 100,
+      "citationCount": 104,
+      "authors": [
+        {
+          "authorId": "2067219928",
+          "name": "XI Shen"
+        },
+        {
+          "authorId": "1610964686",
+          "name": "Franccois Darmon"
+        },
+        {
+          "authorId": "1763086",
+          "name": "Alexei A. Efros"
+        },
+        {
+          "authorId": "48582897",
+          "name": "Mathieu Aubry"
+        }
+      ]
+    },
+    {
+      "paperId": "1a81f8666cd8466b98b41e315cc8a2f9feb69ad4",
+      "externalIds": {
+        "PubMedCentral": "12213716",
+        "DOI": "10.3389/fnhum.2025.1532395",
+        "CorpusId": 279551623,
+        "PubMed": "40606499"
+      },
+      "url": "https://www.semanticscholar.org/paper/1a81f8666cd8466b98b41e315cc8a2f9feb69ad4",
+      "title": "Advancing 1.5T MR imaging: toward achieving 3T quality through deep learning super-resolution techniques",
+      "venue": "Frontiers in Human Neuroscience",
+      "year": 2025,
+      "referenceCount": 26,
+      "citationCount": 4,
+      "authors": [
+        {
+          "authorId": "150298486",
+          "name": "Sk Rahatul Jannat"
+        },
+        {
+          "authorId": "40303638",
+          "name": "Kirsten M. Lynch"
+        },
+        {
+          "authorId": "2274036356",
+          "name": "Maryam Fotouhi"
+        },
+        {
+          "authorId": "2201428716",
+          "name": "S. Cen"
+        },
+        {
+          "authorId": "3057500",
+          "name": "J. Choupan"
+        },
+        {
+          "authorId": "1401551648",
+          "name": "Nasim Sheikh-Bahaei"
+        },
+        {
+          "authorId": "2318931766",
+          "name": "Gaurav Pandey"
+        },
+        {
+          "authorId": "2254445173",
+          "name": "Bino A. Varghese"
+        }
+      ]
+    },
+    {
+      "paperId": "c667c2fd053f68dbc4162c9027748a847f70d56a",
+      "externalIds": {
+        "ArXiv": "2601.07531",
+        "DOI": "10.3390/tomography12040049",
+        "CorpusId": 284648771
+      },
+      "url": "https://www.semanticscholar.org/paper/c667c2fd053f68dbc4162c9027748a847f70d56a",
+      "title": "Standardized Images and Evaluation Metrics for Tomography",
+      "venue": "Tomography",
+      "year": 2026,
+      "referenceCount": 59,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "2273992155",
+          "name": "A. Frixou"
+        },
+        {
+          "authorId": "93655259",
+          "name": "T. Leontiou"
+        },
+        {
+          "authorId": "2281337669",
+          "name": "E. Stiliaris"
+        },
+        {
+          "authorId": "2273983183",
+          "name": "C. Papanicolas"
+        }
+      ]
+    },
+    {
+      "paperId": "c9d172c7aced1adaa5baf8acfa1813e83cd0ec43",
+      "externalIds": {
+        "DBLP": "journals/nca/OyarzunDomenoCEFMGBNV25",
+        "DOI": "10.1007/s00521-025-11000-3",
+        "CorpusId": 276062910
+      },
+      "url": "https://www.semanticscholar.org/paper/c9d172c7aced1adaa5baf8acfa1813e83cd0ec43",
+      "title": "Advancing ASL kidney image registration: a tailored pipeline with VoxelMorph",
+      "venue": "Neural computing & applications (Print)",
+      "year": 2025,
+      "referenceCount": 84,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2248863926",
+          "name": "Anne Oyarzun-Domeño"
+        },
+        {
+          "authorId": "2248856312",
+          "name": "Izaskun Cia"
+        },
+        {
+          "authorId": "1989762198",
+          "name": "Rebeca Echeverría-Chasco"
+        },
+        {
+          "authorId": "1397981111",
+          "name": "M. Fernández-Seara"
+        },
+        {
+          "authorId": "1404082544",
+          "name": "P. Martín-Moreno"
+        },
+        {
+          "authorId": "2303085255",
+          "name": "N. García-Fernández"
+        },
+        {
+          "authorId": "2798579",
+          "name": "G. Bastarrika"
+        },
+        {
+          "authorId": "2248869084",
+          "name": "Javier Navallas"
+        },
+        {
+          "authorId": "2248852738",
+          "name": "Arantxa Villanueva"
+        }
+      ]
+    }
+  ]
+}

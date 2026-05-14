@@ -1,0 +1,331 @@
+{
+  "total": 50,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "cb4dc7277d1c8c3bc76dd7425eb1cc7cbaf99487",
+      "externalIds": {
+        "MAG": "2155894447",
+        "DBLP": "journals/corr/MartensG15",
+        "ArXiv": "1503.05671",
+        "CorpusId": 11480464
+      },
+      "url": "https://www.semanticscholar.org/paper/cb4dc7277d1c8c3bc76dd7425eb1cc7cbaf99487",
+      "title": "Optimizing Neural Networks with Kronecker-factored Approximate Curvature",
+      "venue": "International Conference on Machine Learning",
+      "year": 2015,
+      "referenceCount": 58,
+      "citationCount": 1260,
+      "authors": [
+        {
+          "authorId": "145704247",
+          "name": "James Martens"
+        },
+        {
+          "authorId": "1785346",
+          "name": "R. Grosse"
+        }
+      ]
+    },
+    {
+      "paperId": "d1f8cb82001bee29b6b87971bb430d3deb553cdd",
+      "externalIds": {
+        "DBLP": "conf/nips/DangelMZ24",
+        "ArXiv": "2405.15603",
+        "DOI": "10.48550/arXiv.2405.15603",
+        "CorpusId": 270045349
+      },
+      "url": "https://www.semanticscholar.org/paper/d1f8cb82001bee29b6b87971bb430d3deb553cdd",
+      "title": "Kronecker-Factored Approximate Curvature for Physics-Informed Neural Networks",
+      "venue": "Neural Information Processing Systems",
+      "year": 2024,
+      "referenceCount": 62,
+      "citationCount": 22,
+      "authors": [
+        {
+          "authorId": "68973039",
+          "name": "Felix Dangel"
+        },
+        {
+          "authorId": "2110565034",
+          "name": "Johannes Müller"
+        },
+        {
+          "authorId": "1452732488",
+          "name": "Marius Zeinhofer"
+        }
+      ]
+    },
+    {
+      "paperId": "d9e97a293b98292713f4ab28b915b093fb923fb3",
+      "externalIds": {
+        "MAG": "2967791890",
+        "ArXiv": "1811.12019",
+        "DBLP": "conf/cvpr/OsawaTUNYM19",
+        "DOI": "10.1109/CVPR.2019.01264",
+        "CorpusId": 67856631
+      },
+      "url": "https://www.semanticscholar.org/paper/d9e97a293b98292713f4ab28b915b093fb923fb3",
+      "title": "Large-Scale Distributed Second-Order Optimization Using Kronecker-Factored Approximate Curvature for Deep Convolutional Neural Networks",
+      "venue": "Computer Vision and Pattern Recognition",
+      "year": 2018,
+      "referenceCount": 33,
+      "citationCount": 100,
+      "authors": [
+        {
+          "authorId": "25003800",
+          "name": "Kazuki Osawa"
+        },
+        {
+          "authorId": "2053290598",
+          "name": "Yohei Tsuji"
+        },
+        {
+          "authorId": "2067876652",
+          "name": "Yuichiro Ueno"
+        },
+        {
+          "authorId": "1753080252",
+          "name": "Akira Naruse"
+        },
+        {
+          "authorId": "2274654",
+          "name": "Rio Yokota"
+        },
+        {
+          "authorId": "145936011",
+          "name": "S. Matsuoka"
+        }
+      ]
+    },
+    {
+      "paperId": "f9cee194487d6cb578c90209b13e83f3806bf9d0",
+      "externalIds": {
+        "DBLP": "conf/cvpr/TangJG00YW021",
+        "DOI": "10.1109/CVPR46437.2021.01327",
+        "CorpusId": 235694077
+      },
+      "url": "https://www.semanticscholar.org/paper/f9cee194487d6cb578c90209b13e83f3806bf9d0",
+      "title": "SKFAC: Training Neural Networks with Faster Kronecker-Factored Approximate Curvature",
+      "venue": "Computer Vision and Pattern Recognition",
+      "year": 2021,
+      "referenceCount": 25,
+      "citationCount": 25,
+      "authors": [
+        {
+          "authorId": "7172411",
+          "name": "Zedong Tang"
+        },
+        {
+          "authorId": "151499559",
+          "name": "Fenlong Jiang"
+        },
+        {
+          "authorId": "2052304304",
+          "name": "Maoguo Gong"
+        },
+        {
+          "authorId": null,
+          "name": "Hao Li"
+        },
+        {
+          "authorId": "46220633",
+          "name": "Yue Wu"
+        },
+        {
+          "authorId": "2087106044",
+          "name": "Fan Yu"
+        },
+        {
+          "authorId": "2145027228",
+          "name": "Zidong Wang"
+        },
+        {
+          "authorId": "2145299561",
+          "name": "Min Wang"
+        }
+      ]
+    },
+    {
+      "paperId": "35bfd3eaa9760f04af07199faab4972f42b0fde4",
+      "externalIds": {
+        "ArXiv": "2311.00636",
+        "DBLP": "conf/nips/EschenhagenIT0H23",
+        "DOI": "10.48550/arXiv.2311.00636",
+        "CorpusId": 264833060
+      },
+      "url": "https://www.semanticscholar.org/paper/35bfd3eaa9760f04af07199faab4972f42b0fde4",
+      "title": "Kronecker-Factored Approximate Curvature for Modern Neural Network Architectures",
+      "venue": "Neural Information Processing Systems",
+      "year": 2023,
+      "referenceCount": 60,
+      "citationCount": 40,
+      "authors": [
+        {
+          "authorId": "134635400",
+          "name": "Runa Eschenhagen"
+        },
+        {
+          "authorId": "3460227",
+          "name": "Alexander Immer"
+        },
+        {
+          "authorId": "2263492293",
+          "name": "Richard E. Turner"
+        },
+        {
+          "authorId": "144223390",
+          "name": "Frank Schneider"
+        },
+        {
+          "authorId": "2257293132",
+          "name": "Philipp Hennig"
+        }
+      ]
+    },
+    {
+      "paperId": "b7e4a67368c5159e72bf62cbffcae65bc4d4111c",
+      "externalIds": {
+        "DBLP": "journals/mms/ZhangYSG23",
+        "DOI": "10.1007/s00530-023-01159-x",
+        "CorpusId": 261151751
+      },
+      "url": "https://www.semanticscholar.org/paper/b7e4a67368c5159e72bf62cbffcae65bc4d4111c",
+      "title": "Kronecker-factored Approximate Curvature with adaptive learning rate for optimizing model-agnostic meta-learning",
+      "venue": "Multimedia Systems",
+      "year": 2023,
+      "referenceCount": 21,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "1776014",
+          "name": "Ce Zhang"
+        },
+        {
+          "authorId": "2152174204",
+          "name": "Xiao Yao"
+        },
+        {
+          "authorId": "9445165",
+          "name": "Changfeng Shi"
+        },
+        {
+          "authorId": "2150082952",
+          "name": "Min Gu"
+        }
+      ]
+    },
+    {
+      "paperId": "e8689752804e51f32880d9b324e9af2e67567eb7",
+      "externalIds": {
+        "ArXiv": "2411.15002",
+        "DBLP": "journals/corr/abs-2411-15002",
+        "DOI": "10.48550/arXiv.2411.15002",
+        "CorpusId": 274192332
+      },
+      "url": "https://www.semanticscholar.org/paper/e8689752804e51f32880d9b324e9af2e67567eb7",
+      "title": "A New Way: Kronecker-Factored Approximate Curvature Deep Hedging and its Benefits",
+      "venue": "arXiv.org",
+      "year": 2024,
+      "referenceCount": 0,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2331856733",
+          "name": "Tsogt-Ochir Enkhbayar"
+        }
+      ]
+    },
+    {
+      "paperId": "3649b3f2a2e74ec98c77c6cd0fe5fb2afc7515e9",
+      "externalIds": {
+        "MAG": "3016875959",
+        "DBLP": "conf/cvpr/LeeHJK20",
+        "ArXiv": "2004.07507",
+        "DOI": "10.1109/cvpr42600.2020.00902",
+        "CorpusId": 215786151
+      },
+      "url": "https://www.semanticscholar.org/paper/3649b3f2a2e74ec98c77c6cd0fe5fb2afc7515e9",
+      "title": "Continual Learning With Extended Kronecker-Factored Approximate Curvature",
+      "venue": "Computer Vision and Pattern Recognition",
+      "year": 2020,
+      "referenceCount": 36,
+      "citationCount": 71,
+      "authors": [
+        {
+          "authorId": "2108621375",
+          "name": "Janghyeon Lee"
+        },
+        {
+          "authorId": "1441095973",
+          "name": "H. Hong"
+        },
+        {
+          "authorId": "50001046",
+          "name": "Donggyu Joo"
+        },
+        {
+          "authorId": "1769295",
+          "name": "Junmo Kim"
+        }
+      ]
+    },
+    {
+      "paperId": "42d74488ea64d5420257f547f6d0a7a2909d87c0",
+      "externalIds": {
+        "MAG": "2786263712",
+        "DBLP": "conf/iclr/MartensBJ18",
+        "CorpusId": 3534265
+      },
+      "url": "https://www.semanticscholar.org/paper/42d74488ea64d5420257f547f6d0a7a2909d87c0",
+      "title": "Kronecker-factored Curvature Approximations for Recurrent Neural Networks",
+      "venue": "International Conference on Learning Representations",
+      "year": 2018,
+      "referenceCount": 35,
+      "citationCount": 104,
+      "authors": [
+        {
+          "authorId": "145704247",
+          "name": "James Martens"
+        },
+        {
+          "authorId": "2503659",
+          "name": "Jimmy Ba"
+        },
+        {
+          "authorId": "2124469304",
+          "name": "Matt Johnson"
+        }
+      ]
+    },
+    {
+      "paperId": "7245f66aaa9036116b1682a39d70db241ea9e106",
+      "externalIds": {
+        "DBLP": "journals/ppna/JamaeshaKG24",
+        "DOI": "10.1007/s12083-024-01675-1",
+        "CorpusId": 270712162
+      },
+      "url": "https://www.semanticscholar.org/paper/7245f66aaa9036116b1682a39d70db241ea9e106",
+      "title": "Cluster based hybrid optimization and kronecker gradient factored approximate optimum path curvature network for energy efficiency routing in WSN",
+      "venue": "Peer-to-Peer Networking and Applications",
+      "year": 2024,
+      "referenceCount": 50,
+      "citationCount": 5,
+      "authors": [
+        {
+          "authorId": "31313313",
+          "name": "S. Jamaesha"
+        },
+        {
+          "authorId": "153411690",
+          "name": "R. Kumar"
+        },
+        {
+          "authorId": "2281337103",
+          "name": "M. S. Gowtham"
+        }
+      ]
+    }
+  ]
+}

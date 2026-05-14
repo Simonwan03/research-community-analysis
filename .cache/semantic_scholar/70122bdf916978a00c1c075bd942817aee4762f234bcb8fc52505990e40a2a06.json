@@ -1,0 +1,319 @@
+{
+  "total": 96,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "445f0e684e284a86b85f6ba6954cd3bbe452c395",
+      "externalIds": {
+        "MAG": "2964152930",
+        "ArXiv": "1706.04289",
+        "DBLP": "journals/corr/ZhaoDB17",
+        "CorpusId": 7901002
+      },
+      "url": "https://www.semanticscholar.org/paper/445f0e684e284a86b85f6ba6954cd3bbe452c395",
+      "title": "Leveraging Node Attributes for Incomplete Relational Data",
+      "venue": "International Conference on Machine Learning",
+      "year": 2017,
+      "referenceCount": 37,
+      "citationCount": 50,
+      "authors": [
+        {
+          "authorId": "1643682004",
+          "name": "He Zhao"
+        },
+        {
+          "authorId": "2068124441",
+          "name": "Lan Du"
+        },
+        {
+          "authorId": "70219052",
+          "name": "Wray L. Buntine"
+        }
+      ]
+    },
+    {
+      "paperId": "f43c95d03eafc48a81bfcb6dfebb96ede9a96428",
+      "externalIds": {
+        "DOI": "10.1080/10618600.2025.2510494",
+        "CorpusId": 279014697,
+        "PubMed": "40881311"
+      },
+      "url": "https://www.semanticscholar.org/paper/f43c95d03eafc48a81bfcb6dfebb96ede9a96428",
+      "title": "Missing Value Imputation in Relational Data Using Variational Inference",
+      "venue": "Journal of Computational And Graphical Statistics",
+      "year": 2025,
+      "referenceCount": 62,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2302417308",
+          "name": "Simon Fontaine"
+        },
+        {
+          "authorId": "2193145553",
+          "name": "Jian Kang"
+        },
+        {
+          "authorId": "2267082965",
+          "name": "Ji Zhu"
+        }
+      ]
+    },
+    {
+      "paperId": "4f24fdb70a70426d0cd75653148f783e69d9883b",
+      "externalIds": {
+        "DBLP": "conf/edbt/CappuzzoTP24",
+        "DOI": "10.48786/edbt.2024.20",
+        "CorpusId": 265663645
+      },
+      "url": "https://www.semanticscholar.org/paper/4f24fdb70a70426d0cd75653148f783e69d9883b",
+      "title": "Relational Data Imputation with Graph Neural Networks",
+      "venue": "International Conference on Extending Database Technology",
+      "year": 2024,
+      "referenceCount": 57,
+      "citationCount": 4,
+      "authors": [
+        {
+          "authorId": "51031408",
+          "name": "Riccardo Cappuzzo"
+        },
+        {
+          "authorId": "2934941",
+          "name": "Saravanan Thirumuruganathan"
+        },
+        {
+          "authorId": "2265384723",
+          "name": "Paolo Papotti"
+        }
+      ]
+    },
+    {
+      "paperId": "de6c3f569d5ac86a075c9faeca9113482416261f",
+      "externalIds": {
+        "DOI": "10.1109/ICICT64582.2025.00044",
+        "CorpusId": 279899807
+      },
+      "url": "https://www.semanticscholar.org/paper/de6c3f569d5ac86a075c9faeca9113482416261f",
+      "title": "Hierarchical Logic-Driven Relational Learning for Knowledge Graph Completion",
+      "venue": "International Congress on Information and Communication Technology",
+      "year": 2025,
+      "referenceCount": 14,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2159247828",
+          "name": "Yajian Zeng"
+        },
+        {
+          "authorId": "2279958019",
+          "name": "Xiaorong Hou"
+        },
+        {
+          "authorId": "2342619666",
+          "name": "Xinrui Wang"
+        },
+        {
+          "authorId": "2325693497",
+          "name": "Junying Li"
+        }
+      ]
+    },
+    {
+      "paperId": "695fae40f49be75bd2b824dff1c7fa5c558c949a",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2506-16003",
+        "ArXiv": "2506.16003",
+        "DOI": "10.1145/3731120.3744576",
+        "CorpusId": 279465205
+      },
+      "url": "https://www.semanticscholar.org/paper/695fae40f49be75bd2b824dff1c7fa5c558c949a",
+      "title": "SEP-GCN: Leveraging Similar Edge Pairs with Temporal and Spatial Contexts for Location-Based Recommender Systems",
+      "venue": "International Conference on the Theory of Information Retrieval",
+      "year": 2025,
+      "referenceCount": 37,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2334434524",
+          "name": "Tan-Loc Nguyen"
+        },
+        {
+          "authorId": "2197741402",
+          "name": "Tin T. Tran"
+        }
+      ]
+    },
+    {
+      "paperId": "5809978e42bcb596d4ec760c296466d85a6fb95f",
+      "externalIds": {
+        "ArXiv": "2512.03074",
+        "DBLP": "journals/corr/abs-2512-03074",
+        "DOI": "10.48550/arXiv.2512.03074",
+        "CorpusId": 283466839
+      },
+      "url": "https://www.semanticscholar.org/paper/5809978e42bcb596d4ec760c296466d85a6fb95f",
+      "title": "Model-Agnostic Fairness Regularization for GNNs with Incomplete Sensitive Information",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "referenceCount": 49,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "27719440",
+          "name": "M. T. Kejani"
+        },
+        {
+          "authorId": "2254142473",
+          "name": "Fadi Dornaika"
+        },
+        {
+          "authorId": "144736569",
+          "name": "J. Loubes"
+        }
+      ]
+    },
+    {
+      "paperId": "665df4b2b533b456640c70f7613e3c346b88eb0e",
+      "externalIds": {
+        "DBLP": "journals/information/TangYZ25",
+        "DOI": "10.3390/info16110946",
+        "CorpusId": 282695819
+      },
+      "url": "https://www.semanticscholar.org/paper/665df4b2b533b456640c70f7613e3c346b88eb0e",
+      "title": "DAHG: A Dynamic Augmented Heterogeneous Graph Framework for Precipitation Forecasting with Incomplete Data",
+      "venue": "Inf.",
+      "year": 2025,
+      "referenceCount": 58,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "2258534615",
+          "name": "Hailiang Tang"
+        },
+        {
+          "authorId": "2271377869",
+          "name": "Hyunho Yang"
+        },
+        {
+          "authorId": "2258510571",
+          "name": "Wenxiao Zhang"
+        }
+      ]
+    },
+    {
+      "paperId": "1fa675827857be16ca0047c2fc01edf9d81e71da",
+      "externalIds": {
+        "DOI": "10.1109/ICITES53477.2021.9637064",
+        "CorpusId": 245417969
+      },
+      "url": "https://www.semanticscholar.org/paper/1fa675827857be16ca0047c2fc01edf9d81e71da",
+      "title": "Leveraging Relational Database for Fast Construction of OPC UA Information Model",
+      "venue": "2021 International Conference on Intelligent Technology and Embedded Systems (ICITES)",
+      "year": 2021,
+      "referenceCount": 0,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "22260912",
+          "name": "Rongkai Wang"
+        },
+        {
+          "authorId": "35372976",
+          "name": "Shibo He"
+        },
+        {
+          "authorId": "2152801248",
+          "name": "Yang Liu"
+        },
+        {
+          "authorId": "3333021",
+          "name": "Chengwei Zhou"
+        },
+        {
+          "authorId": "144229680",
+          "name": "Zhiguo Shi"
+        },
+        {
+          "authorId": "51036744",
+          "name": "Jiming Chen"
+        }
+      ]
+    },
+    {
+      "paperId": "5b01e81ab23fbadc1bf0a972544070bba5eeaaea",
+      "externalIds": {
+        "DBLP": "journals/iotj/LiZSHHQZHCT25",
+        "DOI": "10.1109/JIOT.2025.3613449",
+        "CorpusId": 281572846
+      },
+      "url": "https://www.semanticscholar.org/paper/5b01e81ab23fbadc1bf0a972544070bba5eeaaea",
+      "title": "Unveiling Blockchain Transactions Insights: Behavioral Anomaly Detection via Relational Mechanisms",
+      "venue": "IEEE Internet of Things Journal",
+      "year": 2025,
+      "referenceCount": 45,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2383412503",
+          "name": "Zeyan Li"
+        },
+        {
+          "authorId": "2292601313",
+          "name": "Shengda Zhuo"
+        },
+        {
+          "authorId": "2305604576",
+          "name": "Yicheng Shi"
+        },
+        {
+          "authorId": "2316586284",
+          "name": "Jiadong Huang"
+        },
+        {
+          "authorId": "9534298",
+          "name": "Jinchun He"
+        },
+        {
+          "authorId": "2266534972",
+          "name": "Wangjie Qiu"
+        },
+        {
+          "authorId": "2292329614",
+          "name": "Zhiming Zheng"
+        },
+        {
+          "authorId": "2295127782",
+          "name": "Shuqiang Huang"
+        },
+        {
+          "authorId": "2108557202",
+          "name": "Min Chen"
+        },
+        {
+          "authorId": "2344316681",
+          "name": "Yin Tang"
+        }
+      ]
+    },
+    {
+      "paperId": "d712755ea6704cc0b7b39694fedb1c9f547cbc99",
+      "externalIds": {
+        "DOI": "10.1145/3730436.3730494",
+        "CorpusId": 280189591
+      },
+      "url": "https://www.semanticscholar.org/paper/d712755ea6704cc0b7b39694fedb1c9f547cbc99",
+      "title": "Leveraging Machine Learning for Employee Resignation Prediction in HR Analytics",
+      "venue": "Proceedings of the 2025 International Conference on Artificial Intelligence and Computational Intelligence",
+      "year": 2025,
+      "referenceCount": 21,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2117739340",
+          "name": "Xiang Fang"
+        }
+      ]
+    }
+  ]
+}

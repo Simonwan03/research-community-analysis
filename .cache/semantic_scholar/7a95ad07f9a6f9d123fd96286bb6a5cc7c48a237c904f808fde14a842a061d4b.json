@@ -1,0 +1,71 @@
+{
+  "total": 2,
+  "offset": 0,
+  "data": [
+    {
+      "paperId": "3a39db7c07d36f89afe0792b2cf9119bd93d2fed",
+      "externalIds": {
+        "MAG": "2963528163",
+        "ArXiv": "1803.00212",
+        "DBLP": "conf/icml/MetzlerSVB18",
+        "CorpusId": 49559835
+      },
+      "url": "https://www.semanticscholar.org/paper/3a39db7c07d36f89afe0792b2cf9119bd93d2fed",
+      "title": "prDeep: Robust Phase Retrieval with a Flexible Deep Network",
+      "venue": "International Conference on Machine Learning",
+      "year": 2018,
+      "referenceCount": 58,
+      "citationCount": 195,
+      "authors": [
+        {
+          "authorId": "49496926",
+          "name": "Christopher A. Metzler"
+        },
+        {
+          "authorId": "143747653",
+          "name": "Philip Schniter"
+        },
+        {
+          "authorId": "145280967",
+          "name": "A. Veeraraghavan"
+        },
+        {
+          "authorId": "144908066",
+          "name": "Richard Baraniuk"
+        }
+      ]
+    },
+    {
+      "paperId": "c6a427d93273df6b13d0202eb453047ea99448b5",
+      "externalIds": {
+        "MAG": "2963475884",
+        "DBLP": "journals/corr/abs-1803-00212",
+        "CorpusId": 195346230
+      },
+      "url": "https://www.semanticscholar.org/paper/c6a427d93273df6b13d0202eb453047ea99448b5",
+      "title": "prDeep: Robust Phase Retrieval with Flexible Deep Neural Networks",
+      "venue": "International Conference on Machine Learning",
+      "year": 2018,
+      "referenceCount": 58,
+      "citationCount": 18,
+      "authors": [
+        {
+          "authorId": "49496926",
+          "name": "Christopher A. Metzler"
+        },
+        {
+          "authorId": "143747653",
+          "name": "Philip Schniter"
+        },
+        {
+          "authorId": "145280967",
+          "name": "A. Veeraraghavan"
+        },
+        {
+          "authorId": "144908066",
+          "name": "Richard Baraniuk"
+        }
+      ]
+    }
+  ]
+}

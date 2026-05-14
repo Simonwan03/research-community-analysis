@@ -1,0 +1,297 @@
+{
+  "total": 305,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "99ed21b585f4d6cbc4e20002bedca8d6c08169c6",
+      "externalIds": {
+        "MAG": "2625063094",
+        "DBLP": "conf/icml/ZhongS0BD17",
+        "ArXiv": "1706.03175",
+        "CorpusId": 1002824
+      },
+      "url": "https://www.semanticscholar.org/paper/99ed21b585f4d6cbc4e20002bedca8d6c08169c6",
+      "title": "Recovery Guarantees for One-hidden-layer Neural Networks",
+      "venue": "International Conference on Machine Learning",
+      "year": 2017,
+      "referenceCount": 73,
+      "citationCount": 347,
+      "authors": [
+        {
+          "authorId": "144474630",
+          "name": "Kai Zhong"
+        },
+        {
+          "authorId": "143825455",
+          "name": "Zhao Song"
+        },
+        {
+          "authorId": "48964143",
+          "name": "Prateek Jain"
+        },
+        {
+          "authorId": "1745169",
+          "name": "P. Bartlett"
+        },
+        {
+          "authorId": "1783667",
+          "name": "I. Dhillon"
+        }
+      ]
+    },
+    {
+      "paperId": "397d70c77e3c8e16cd6d556472207fffdaa28564",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-1806-07808",
+        "MAG": "2952817981",
+        "ArXiv": "1806.07808",
+        "CorpusId": 49320712
+      },
+      "url": "https://www.semanticscholar.org/paper/397d70c77e3c8e16cd6d556472207fffdaa28564",
+      "title": "Learning One-hidden-layer ReLU Networks via Gradient Descent",
+      "venue": "International Conference on Artificial Intelligence and Statistics",
+      "year": 2018,
+      "referenceCount": 70,
+      "citationCount": 139,
+      "authors": [
+        {
+          "authorId": "2115476083",
+          "name": "Xiao Zhang"
+        },
+        {
+          "authorId": "29001000",
+          "name": "Yaodong Yu"
+        },
+        {
+          "authorId": "2151976110",
+          "name": "Lingxiao Wang"
+        },
+        {
+          "authorId": "9937103",
+          "name": "Quanquan Gu"
+        }
+      ]
+    },
+    {
+      "paperId": "610787fa0cc4a54450ae3ee9ade143042bc1d564",
+      "externalIds": {
+        "MAG": "2925259031",
+        "DBLP": "journals/corr/abs-1903-09231",
+        "CorpusId": 85459344
+      },
+      "url": "https://www.semanticscholar.org/paper/610787fa0cc4a54450ae3ee9ade143042bc1d564",
+      "title": "Learning Two layer Networks with Multinomial Activation and High Thresholds",
+      "venue": "arXiv.org",
+      "year": 2019,
+      "referenceCount": 12,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "9935792",
+          "name": "Surbhi Goel"
+        },
+        {
+          "authorId": "1679451",
+          "name": "R. Panigrahy"
+        }
+      ]
+    },
+    {
+      "paperId": "49d4e325403de1536c959b31c5fc2fdb386658bd",
+      "externalIds": {
+        "ArXiv": "1903.09231",
+        "MAG": "2909409043",
+        "CorpusId": 188266673
+      },
+      "url": "https://www.semanticscholar.org/paper/49d4e325403de1536c959b31c5fc2fdb386658bd",
+      "title": "Recovering the Lowest Layer of Deep Networks with High Threshold Activations",
+      "venue": "",
+      "year": 2018,
+      "referenceCount": 18,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "9935792",
+          "name": "Surbhi Goel"
+        },
+        {
+          "authorId": "1679451",
+          "name": "R. Panigrahy"
+        }
+      ]
+    },
+    {
+      "paperId": "4574d38c6962ed92cc2d3945f420d67296c6c295",
+      "externalIds": {
+        "DBLP": "journals/jstsp/LuHW25",
+        "ArXiv": "2407.11031",
+        "DOI": "10.1109/JSTSP.2025.3549950",
+        "CorpusId": 271218480
+      },
+      "url": "https://www.semanticscholar.org/paper/4574d38c6962ed92cc2d3945f420d67296c6c295",
+      "title": "Purification of Contaminated Convolutional Neural Networks via Robust Recovery: An Approach With Theoretical Guarantee in One-Hidden-Layer Case",
+      "venue": "IEEE Journal on Selected Topics in Signal Processing",
+      "year": 2024,
+      "referenceCount": 36,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2367245178",
+          "name": "Hanxiao Lu"
+        },
+        {
+          "authorId": "2135725616",
+          "name": "Zeyu Huang"
+        },
+        {
+          "authorId": "2267864838",
+          "name": "Ren Wang"
+        }
+      ]
+    },
+    {
+      "paperId": "f60244af6cd197c5686fafb179e74709d5577266",
+      "externalIds": {
+        "ArXiv": "1802.06463",
+        "MAG": "2914605961",
+        "DBLP": "journals/tsp/FuCL20",
+        "DOI": "10.1109/TSP.2020.2993153",
+        "CorpusId": 58981301
+      },
+      "url": "https://www.semanticscholar.org/paper/f60244af6cd197c5686fafb179e74709d5577266",
+      "title": "Guaranteed Recovery of One-Hidden-Layer Neural Networks via Cross Entropy",
+      "venue": "IEEE Transactions on Signal Processing",
+      "year": 2018,
+      "referenceCount": 49,
+      "citationCount": 41,
+      "authors": [
+        {
+          "authorId": "46340163",
+          "name": "H. Fu"
+        },
+        {
+          "authorId": "1784472",
+          "name": "Yuejie Chi"
+        },
+        {
+          "authorId": "50014661",
+          "name": "Yingbin Liang"
+        }
+      ]
+    },
+    {
+      "paperId": "6d7aaf0812269034bed4d14f17e6b968080bc55f",
+      "externalIds": {
+        "ArXiv": "2202.06233",
+        "DBLP": "conf/nips/VardiSS22",
+        "DOI": "10.52202/068431-0664",
+        "CorpusId": 246823399
+      },
+      "url": "https://www.semanticscholar.org/paper/6d7aaf0812269034bed4d14f17e6b968080bc55f",
+      "title": "The Sample Complexity of One-Hidden-Layer Neural Networks",
+      "venue": "Neural Information Processing Systems",
+      "year": 2022,
+      "referenceCount": 33,
+      "citationCount": 11,
+      "authors": [
+        {
+          "authorId": "11585315",
+          "name": "Gal Vardi"
+        },
+        {
+          "authorId": "1768909",
+          "name": "Ohad Shamir"
+        },
+        {
+          "authorId": "1706280",
+          "name": "N. Srebro"
+        }
+      ]
+    },
+    {
+      "paperId": "86630fcf9f4866dcd906384137dfaf2b7cc8edd1",
+      "externalIds": {
+        "DBLP": "conf/colt/VempalaW19",
+        "ArXiv": "1805.02677",
+        "MAG": "2966363981",
+        "CorpusId": 53289005
+      },
+      "url": "https://www.semanticscholar.org/paper/86630fcf9f4866dcd906384137dfaf2b7cc8edd1",
+      "title": "Gradient Descent for One-Hidden-Layer Neural Networks: Polynomial Convergence and SQ Lower Bounds",
+      "venue": "Annual Conference Computational Learning Theory",
+      "year": 2018,
+      "referenceCount": 33,
+      "citationCount": 51,
+      "authors": [
+        {
+          "authorId": "1737804",
+          "name": "S. Vempala"
+        },
+        {
+          "authorId": "1855835",
+          "name": "John Wilmes"
+        }
+      ]
+    },
+    {
+      "paperId": "922ecd2957a7ae3938975604e2abd05c8e691513",
+      "externalIds": {
+        "CorpusId": 245003868
+      },
+      "url": "https://www.semanticscholar.org/paper/922ecd2957a7ae3938975604e2abd05c8e691513",
+      "title": "Efﬁciently Learning One Hidden Layer Neural Networks From Queries",
+      "venue": "",
+      "year": 2021,
+      "referenceCount": 22,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2111635110",
+          "name": "Sitan Chen"
+        },
+        {
+          "authorId": "2286739225",
+          "name": "†. AdamR.Klivans"
+        },
+        {
+          "authorId": "2286713743",
+          "name": "UT Austin"
+        },
+        {
+          "authorId": "1751621",
+          "name": "Raghu Meka"
+        }
+      ]
+    },
+    {
+      "paperId": "89058c78189f7745c755d9769c47f0c16b42d396",
+      "externalIds": {
+        "MAG": "2975491454",
+        "DBLP": "conf/isit/FuCL19",
+        "DOI": "10.1109/ISIT.2019.8849289",
+        "CorpusId": 203567195
+      },
+      "url": "https://www.semanticscholar.org/paper/89058c78189f7745c755d9769c47f0c16b42d396",
+      "title": "Local Geometry of Cross Entropy Loss in Learning One-Hidden-Layer Neural Networks",
+      "venue": "International Symposium on Information Theory",
+      "year": 2019,
+      "referenceCount": 22,
+      "citationCount": 4,
+      "authors": [
+        {
+          "authorId": "46340163",
+          "name": "H. Fu"
+        },
+        {
+          "authorId": "1784472",
+          "name": "Yuejie Chi"
+        },
+        {
+          "authorId": "50014661",
+          "name": "Yingbin Liang"
+        }
+      ]
+    }
+  ]
+}

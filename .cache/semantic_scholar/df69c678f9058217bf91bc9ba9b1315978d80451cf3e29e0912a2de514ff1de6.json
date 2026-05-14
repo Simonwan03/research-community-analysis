@@ -1,0 +1,321 @@
+{
+  "total": 436,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "d65ce2b8300541414bfe51d03906fca72e93523c",
+      "externalIds": {
+        "MAG": "2950953798",
+        "ArXiv": "1706.04599",
+        "DBLP": "journals/corr/GuoPSW17",
+        "CorpusId": 28671436
+      },
+      "url": "https://www.semanticscholar.org/paper/d65ce2b8300541414bfe51d03906fca72e93523c",
+      "title": "On Calibration of Modern Neural Networks",
+      "venue": "International Conference on Machine Learning",
+      "year": 2017,
+      "referenceCount": 52,
+      "citationCount": 7738,
+      "authors": [
+        {
+          "authorId": "144993411",
+          "name": "Chuan Guo"
+        },
+        {
+          "authorId": "10804137",
+          "name": "Geoff Pleiss"
+        },
+        {
+          "authorId": "2117103358",
+          "name": "Yu Sun"
+        },
+        {
+          "authorId": "7446832",
+          "name": "Kilian Q. Weinberger"
+        }
+      ]
+    },
+    {
+      "paperId": "e757488d2e8684e3da7b14fbb000b7e4a0bab001",
+      "externalIds": {
+        "ArXiv": "2106.07998",
+        "DBLP": "journals/corr/abs-2106-07998",
+        "CorpusId": 235435823
+      },
+      "url": "https://www.semanticscholar.org/paper/e757488d2e8684e3da7b14fbb000b7e4a0bab001",
+      "title": "Revisiting the Calibration of Modern Neural Networks",
+      "venue": "Neural Information Processing Systems",
+      "year": 2021,
+      "referenceCount": 57,
+      "citationCount": 503,
+      "authors": [
+        {
+          "authorId": "46352821",
+          "name": "M. Minderer"
+        },
+        {
+          "authorId": "2941141",
+          "name": "J. Djolonga"
+        },
+        {
+          "authorId": "3451951",
+          "name": "Rob Romijnders"
+        },
+        {
+          "authorId": "73774594",
+          "name": "F. Hubis"
+        },
+        {
+          "authorId": "2743563",
+          "name": "Xiaohua Zhai"
+        },
+        {
+          "authorId": "2815290",
+          "name": "N. Houlsby"
+        },
+        {
+          "authorId": "47497262",
+          "name": "Dustin Tran"
+        },
+        {
+          "authorId": "34302129",
+          "name": "M. Lučić"
+        }
+      ]
+    },
+    {
+      "paperId": "6439d4e28820ebd37c704ef2f951bd983d988b84",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2210-16315",
+        "ArXiv": "2210.16315",
+        "DOI": "10.48550/arXiv.2210.16315",
+        "CorpusId": 253237320
+      },
+      "url": "https://www.semanticscholar.org/paper/6439d4e28820ebd37c704ef2f951bd983d988b84",
+      "title": "Beyond calibration: estimating the grouping loss of modern neural networks",
+      "venue": "International Conference on Learning Representations",
+      "year": 2022,
+      "referenceCount": 38,
+      "citationCount": 35,
+      "authors": [
+        {
+          "authorId": "2149725904",
+          "name": "Alexandre Perez-Lebel"
+        },
+        {
+          "authorId": "19288464",
+          "name": "Marine Le Morvan"
+        },
+        {
+          "authorId": "3025780",
+          "name": "G. Varoquaux"
+        }
+      ]
+    },
+    {
+      "paperId": "7c774772398a9909b6e954037e38bfe3c6eacd08",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2309-13866",
+        "ArXiv": "2309.13866",
+        "DOI": "10.48550/arXiv.2309.13866",
+        "CorpusId": 262465069
+      },
+      "url": "https://www.semanticscholar.org/paper/7c774772398a9909b6e954037e38bfe3c6eacd08",
+      "title": "On Calibration of Modern Quantized Efficient Neural Networks",
+      "venue": "arXiv.org",
+      "year": 2023,
+      "referenceCount": 29,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "122150374",
+          "name": "Joe-Hwa Kuang"
+        },
+        {
+          "authorId": "50381504",
+          "name": "Alexander Wong"
+        }
+      ]
+    },
+    {
+      "paperId": "ed6e2366cc66a6ec61fffd1c06015e7a7c95cc07",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2411-00265",
+        "DOI": "10.48550/arXiv.2411.00265",
+        "CorpusId": 280946440
+      },
+      "url": "https://www.semanticscholar.org/paper/ed6e2366cc66a6ec61fffd1c06015e7a7c95cc07",
+      "title": "Quantifying calibration error in modern neural networks through evidence based theory",
+      "venue": "arXiv.org",
+      "year": 2024,
+      "referenceCount": 7,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2325245886",
+          "name": "Koffi Ismael Ouattara"
+        }
+      ]
+    },
+    {
+      "paperId": "7794867c2ebc9efcc8af1b784dd3439fe890cba1",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2106-09385",
+        "CorpusId": 235458445
+      },
+      "url": "https://www.semanticscholar.org/paper/7794867c2ebc9efcc8af1b784dd3439fe890cba1",
+      "title": "On the Dark Side of Calibration for Modern Neural Networks",
+      "venue": "arXiv.org",
+      "year": 2021,
+      "referenceCount": 56,
+      "citationCount": 6,
+      "authors": [
+        {
+          "authorId": "2109434876",
+          "name": "Aditya Singh"
+        },
+        {
+          "authorId": "39720629",
+          "name": "Alessandro Bay"
+        },
+        {
+          "authorId": "39599054",
+          "name": "B. Sengupta"
+        },
+        {
+          "authorId": "2063974309",
+          "name": "Andrea Mirabile"
+        }
+      ]
+    },
+    {
+      "paperId": "641591622b350ba479503dd7065943cf22ae56ec",
+      "externalIds": {
+        "MAG": "2911395274",
+        "ArXiv": "1901.06852",
+        "DBLP": "journals/corr/abs-1901-06852",
+        "CorpusId": 58981599
+      },
+      "url": "https://www.semanticscholar.org/paper/641591622b350ba479503dd7065943cf22ae56ec",
+      "title": "Calibration with Bias-Corrected Temperature Scaling Improves Domain Adaptation Under Label Shift in Modern Neural Networks",
+      "venue": "arXiv.org",
+      "year": 2019,
+      "referenceCount": 19,
+      "citationCount": 9,
+      "authors": [
+        {
+          "authorId": "3407268",
+          "name": "Avanti Shrikumar"
+        },
+        {
+          "authorId": "2844479",
+          "name": "Anshul B Kundaje"
+        }
+      ]
+    },
+    {
+      "paperId": "5b4b92ed9170a8aed486855012a58cb3258cfb86",
+      "externalIds": {
+        "DOI": "10.1364/oe.574781",
+        "CorpusId": 281193638,
+        "PubMed": "41215299"
+      },
+      "url": "https://www.semanticscholar.org/paper/5b4b92ed9170a8aed486855012a58cb3258cfb86",
+      "title": "Reconfigurable photonic neural networks: distribution-aligned calibration and dynamic resource allocation for high-performance optical computing accelerators.",
+      "venue": "Optics Express",
+      "year": 2025,
+      "referenceCount": 0,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2379528234",
+          "name": "Songcheng Zhou"
+        },
+        {
+          "authorId": "2396350648",
+          "name": "Ziqian He"
+        },
+        {
+          "authorId": "4497030",
+          "name": "Yiheng Zhao"
+        },
+        {
+          "authorId": "2292217282",
+          "name": "Bo Xu"
+        },
+        {
+          "authorId": "2379474437",
+          "name": "Peng Zou"
+        },
+        {
+          "authorId": "2376377366",
+          "name": "Fangchen Hu"
+        },
+        {
+          "authorId": "2281685138",
+          "name": "Wei Chu"
+        }
+      ]
+    },
+    {
+      "paperId": "b76c641f86b77081a4dbdccc17004cb2749efc44",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2309-13132",
+        "ArXiv": "2309.13132",
+        "DOI": "10.1016/j.cmpb.2023.107816",
+        "CorpusId": 262206946,
+        "PubMed": "37778139"
+      },
+      "url": "https://www.semanticscholar.org/paper/b76c641f86b77081a4dbdccc17004cb2749efc44",
+      "title": "Understanding Calibration of Deep Neural Networks for Medical Image Classification",
+      "venue": "Comput. Methods Programs Biomed.",
+      "year": 2023,
+      "referenceCount": 90,
+      "citationCount": 27,
+      "authors": [
+        {
+          "authorId": "71618319",
+          "name": "A. Sambyal"
+        },
+        {
+          "authorId": "148267816",
+          "name": "Usma Niyaz"
+        },
+        {
+          "authorId": "2503137",
+          "name": "N. C. Krishnan"
+        },
+        {
+          "authorId": "2133448954",
+          "name": "Deepti R. Bathula"
+        }
+      ]
+    },
+    {
+      "paperId": "e57a70e85d50eac16afc6b659ce08f68e2e209f0",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2303-10761",
+        "ArXiv": "2303.10761",
+        "DOI": "10.48550/arXiv.2303.10761",
+        "CorpusId": 257632528
+      },
+      "url": "https://www.semanticscholar.org/paper/e57a70e85d50eac16afc6b659ce08f68e2e209f0",
+      "title": "Calibration of Neural Networks",
+      "venue": "arXiv.org",
+      "year": 2023,
+      "referenceCount": 26,
+      "citationCount": 12,
+      "authors": [
+        {
+          "authorId": "2146992841",
+          "name": "Ruslan Vasilev"
+        },
+        {
+          "authorId": "116997897",
+          "name": "A. D'yakonov"
+        }
+      ]
+    }
+  ]
+}

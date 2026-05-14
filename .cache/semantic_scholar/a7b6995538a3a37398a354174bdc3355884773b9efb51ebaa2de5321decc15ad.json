@@ -1,0 +1,270 @@
+{
+  "total": 10404,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "e2820bffe5b42cb7d88b7f65c12171c62ab4aae2",
+      "externalIds": {
+        "MAG": "1868018859",
+        "DBLP": "journals/corr/MaclaurinDA15",
+        "ArXiv": "1502.03492",
+        "CorpusId": 8540522
+      },
+      "url": "https://www.semanticscholar.org/paper/e2820bffe5b42cb7d88b7f65c12171c62ab4aae2",
+      "title": "Gradient-based Hyperparameter Optimization through Reversible Learning",
+      "venue": "International Conference on Machine Learning",
+      "year": 2015,
+      "referenceCount": 41,
+      "citationCount": 1025,
+      "authors": [
+        {
+          "authorId": "1683298",
+          "name": "D. Maclaurin"
+        },
+        {
+          "authorId": "1704657",
+          "name": "D. Duvenaud"
+        },
+        {
+          "authorId": "1722180",
+          "name": "Ryan P. Adams"
+        }
+      ]
+    },
+    {
+      "paperId": "ecc76c03d6a3ae4233097ef8bcc9d04d8b3c9bec",
+      "externalIds": {
+        "MAG": "2951505165",
+        "DBLP": "conf/icml/FranceschiDFP17",
+        "ArXiv": "1703.01785",
+        "CorpusId": 8026824
+      },
+      "url": "https://www.semanticscholar.org/paper/ecc76c03d6a3ae4233097ef8bcc9d04d8b3c9bec",
+      "title": "Forward and Reverse Gradient-Based Hyperparameter Optimization",
+      "venue": "International Conference on Machine Learning",
+      "year": 2017,
+      "referenceCount": 36,
+      "citationCount": 467,
+      "authors": [
+        {
+          "authorId": "39883180",
+          "name": "Luca Franceschi"
+        },
+        {
+          "authorId": "2192704",
+          "name": "Michele Donini"
+        },
+        {
+          "authorId": "1688235",
+          "name": "P. Frasconi"
+        },
+        {
+          "authorId": "1704699",
+          "name": "M. Pontil"
+        }
+      ]
+    },
+    {
+      "paperId": "6e563d4cbd028189f537c7a9dfd5c3c31b3d16a9",
+      "externalIds": {
+        "DBLP": "journals/soca/SinghSK24",
+        "DOI": "10.1007/s11761-023-00382-8",
+        "CorpusId": 267226589
+      },
+      "url": "https://www.semanticscholar.org/paper/6e563d4cbd028189f537c7a9dfd5c3c31b3d16a9",
+      "title": "Metaheuristic-based hyperparameter optimization for multi-disease detection and diagnosis in machine learning",
+      "venue": "Service Oriented Computing and Applications",
+      "year": 2024,
+      "referenceCount": 51,
+      "citationCount": 27,
+      "authors": [
+        {
+          "authorId": "2244001137",
+          "name": "Jagandeep Singh"
+        },
+        {
+          "authorId": "9257836",
+          "name": "Jasminder Kaur Sandhu"
+        },
+        {
+          "authorId": "2243987439",
+          "name": "Yogesh Kumar"
+        }
+      ]
+    },
+    {
+      "paperId": "6818c865ca9ce5d6fac09210f5ffe377e26bb294",
+      "externalIds": {
+        "DBLP": "phd/ethos/Franceschi21",
+        "CorpusId": 264556093
+      },
+      "url": "https://www.semanticscholar.org/paper/6818c865ca9ce5d6fac09210f5ffe377e26bb294",
+      "title": "A unified framework for gradient-based hyperparameter optimization and meta-learning",
+      "venue": "",
+      "year": 2021,
+      "referenceCount": 0,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "2044695499",
+          "name": "L. Franceschi"
+        }
+      ]
+    },
+    {
+      "paperId": "f4651ba7feaf5e275cfcf56e853b77e93844edee",
+      "externalIds": {
+        "MAG": "2921881408",
+        "DBLP": "journals/nn/ThiedeP19",
+        "DOI": "10.1016/j.neunet.2019.02.001",
+        "CorpusId": 85565501,
+        "PubMed": "30921562"
+      },
+      "url": "https://www.semanticscholar.org/paper/f4651ba7feaf5e275cfcf56e853b77e93844edee",
+      "title": "Gradient based hyperparameter optimization in Echo State Networks",
+      "venue": "Neural Networks",
+      "year": 2019,
+      "referenceCount": 25,
+      "citationCount": 68,
+      "authors": [
+        {
+          "authorId": "2379937101",
+          "name": "Luca Anthony Thiede"
+        },
+        {
+          "authorId": "3033469",
+          "name": "U. Parlitz"
+        }
+      ]
+    },
+    {
+      "paperId": "0e4887fe19ffefdb003a3250f8ea347ffd4e929d",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2409-09240",
+        "ArXiv": "2409.09240",
+        "DOI": "10.48550/arXiv.2409.09240",
+        "CorpusId": 272689349
+      },
+      "url": "https://www.semanticscholar.org/paper/0e4887fe19ffefdb003a3250f8ea347ffd4e929d",
+      "title": "Cross-Entropy Optimization for Hyperparameter Optimization in Stochastic Gradient-based Approaches to Train Deep Neural Networks",
+      "venue": "arXiv.org",
+      "year": 2024,
+      "referenceCount": 8,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "2322646919",
+          "name": "Kevin Li"
+        },
+        {
+          "authorId": "2321449546",
+          "name": "Fulu Li"
+        }
+      ]
+    },
+    {
+      "paperId": "2184a983c1fc67971de4a0de9202ef86919a09a7",
+      "externalIds": {
+        "DBLP": "conf/nips/MicaelliS21",
+        "ArXiv": "2007.07869",
+        "CorpusId": 238226541
+      },
+      "url": "https://www.semanticscholar.org/paper/2184a983c1fc67971de4a0de9202ef86919a09a7",
+      "title": "Gradient-based Hyperparameter Optimization Over Long Horizons",
+      "venue": "Neural Information Processing Systems",
+      "year": 2020,
+      "referenceCount": 62,
+      "citationCount": 21,
+      "authors": [
+        {
+          "authorId": "51028255",
+          "name": "P. Micaelli"
+        },
+        {
+          "authorId": "1728216",
+          "name": "A. Storkey"
+        }
+      ]
+    },
+    {
+      "paperId": "74b867fbd06ff4b0b6e9f59030b42d321feeb728",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2007-07869",
+        "MAG": "3043510298",
+        "CorpusId": 220525865
+      },
+      "url": "https://www.semanticscholar.org/paper/74b867fbd06ff4b0b6e9f59030b42d321feeb728",
+      "title": "Non-greedy Gradient-based Hyperparameter Optimization Over Long Horizons",
+      "venue": "arXiv.org",
+      "year": 2020,
+      "referenceCount": 56,
+      "citationCount": 15,
+      "authors": [
+        {
+          "authorId": "51028255",
+          "name": "P. Micaelli"
+        },
+        {
+          "authorId": "1728216",
+          "name": "A. Storkey"
+        }
+      ]
+    },
+    {
+      "paperId": "d6cbc823ab6d2b2ecf65d9253b93ee0bf1ded9cf",
+      "externalIds": {
+        "DBLP": "conf/nips/BohdalYH21",
+        "ArXiv": "2106.10575",
+        "CorpusId": 235490013
+      },
+      "url": "https://www.semanticscholar.org/paper/d6cbc823ab6d2b2ecf65d9253b93ee0bf1ded9cf",
+      "title": "EvoGrad: Efficient Gradient-Based Meta-Learning and Hyperparameter Optimization",
+      "venue": "Neural Information Processing Systems",
+      "year": 2021,
+      "referenceCount": 52,
+      "citationCount": 25,
+      "authors": [
+        {
+          "authorId": "1749549997",
+          "name": "Ondrej Bohdal"
+        },
+        {
+          "authorId": "2653152",
+          "name": "Yongxin Yang"
+        },
+        {
+          "authorId": "1697755",
+          "name": "Timothy M. Hospedales"
+        }
+      ]
+    },
+    {
+      "paperId": "836a842bad3bc3a20e8c45895c81764023e2f217",
+      "externalIds": {
+        "DOI": "10.1109/ICHORA65333.2025.11017028",
+        "CorpusId": 279127586
+      },
+      "url": "https://www.semanticscholar.org/paper/836a842bad3bc3a20e8c45895c81764023e2f217",
+      "title": "Machine Learning-Based Orange Quality Classification: A Hyperparameter Optimization Approach Through Puma Optimizer",
+      "venue": "2025 7th International Congress on Human-Computer Interaction, Optimization and Robotic Applications (ICHORA)",
+      "year": 2025,
+      "referenceCount": 28,
+      "citationCount": 7,
+      "authors": [
+        {
+          "authorId": "9454900",
+          "name": "Harun Akbulut"
+        },
+        {
+          "authorId": "1450692639",
+          "name": "S. Atasever"
+        },
+        {
+          "authorId": "2352335819",
+          "name": "Eyüp Sıramkaya"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,312 @@
+{
+  "total": 5372,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "f5e3533011dd88516de4d6e012d22ccf7c58f1ad",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-1803-06058",
+        "MAG": "2962996090",
+        "ArXiv": "1803.06058",
+        "CorpusId": 3950440
+      },
+      "url": "https://www.semanticscholar.org/paper/f5e3533011dd88516de4d6e012d22ccf7c58f1ad",
+      "title": "Constant-Time Predictive Distributions for Gaussian Processes",
+      "venue": "International Conference on Machine Learning",
+      "year": 2018,
+      "referenceCount": 44,
+      "citationCount": 107,
+      "authors": [
+        {
+          "authorId": "10804137",
+          "name": "Geoff Pleiss"
+        },
+        {
+          "authorId": "31693738",
+          "name": "J. Gardner"
+        },
+        {
+          "authorId": "7446832",
+          "name": "Kilian Q. Weinberger"
+        },
+        {
+          "authorId": "145771261",
+          "name": "A. Wilson"
+        }
+      ]
+    },
+    {
+      "paperId": "980e9cd0b072600e9f018cd7b40f04bd9a9f8b60",
+      "externalIds": {
+        "ArXiv": "2406.00570",
+        "DBLP": "journals/corr/abs-2406-00570",
+        "DOI": "10.23919/FUSION59988.2024.10706404",
+        "CorpusId": 270210300
+      },
+      "url": "https://www.semanticscholar.org/paper/980e9cd0b072600e9f018cd7b40f04bd9a9f8b60",
+      "title": "A Gaussian Process-based Streaming Algorithm for Prediction of Time Series With Regimes and Outliers",
+      "venue": "Fusion",
+      "year": 2024,
+      "referenceCount": 25,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "2299326346",
+          "name": "Daniel Waxman"
+        },
+        {
+          "authorId": "2299330237",
+          "name": "Petar M. Djuri'c"
+        }
+      ]
+    },
+    {
+      "paperId": "17b8b1970cea3e43072694dce5d6b13aecadf675",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2502-05448",
+        "ArXiv": "2502.05448",
+        "DOI": "10.1109/IAI68403.2025.11277212",
+        "CorpusId": 276250418
+      },
+      "url": "https://www.semanticscholar.org/paper/17b8b1970cea3e43072694dce5d6b13aecadf675",
+      "title": "Distributionally Robust Model Predictive Control with Mixture of Gaussian Processes",
+      "venue": "2025 7th International Conference on Industrial Artificial Intelligence (IAI)",
+      "year": 2025,
+      "referenceCount": 25,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2345481528",
+          "name": "Jingyi Wu"
+        },
+        {
+          "authorId": "2344751183",
+          "name": "Chao Ning"
+        }
+      ]
+    },
+    {
+      "paperId": "005f47ba7a92e8c8111c59079484d93741f77722",
+      "externalIds": {
+        "MAG": "2258115701",
+        "PubMedCentral": "5034408",
+        "DOI": "10.1049/htl.2015.0023",
+        "CorpusId": 14683322,
+        "PubMed": "27695626"
+      },
+      "url": "https://www.semanticscholar.org/paper/005f47ba7a92e8c8111c59079484d93741f77722",
+      "title": "Thermal time constant: optimising the skin temperature predictive modelling in lower limb prostheses using Gaussian processes",
+      "venue": "Healthcare technology letters",
+      "year": 2016,
+      "referenceCount": 16,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "2144108899",
+          "name": "N. Mathur"
+        },
+        {
+          "authorId": "1734534",
+          "name": "I. Glesk"
+        },
+        {
+          "authorId": "2599159",
+          "name": "A. Buis"
+        }
+      ]
+    },
+    {
+      "paperId": "a3735a179159be47e9069df030b38401bf066206",
+      "externalIds": {
+        "DBLP": "conf/fusion/ReithBraunPTH23",
+        "DOI": "10.23919/FUSION52260.2023.10224164",
+        "CorpusId": 261126623
+      },
+      "url": "https://www.semanticscholar.org/paper/a3735a179159be47e9069df030b38401bf066206",
+      "title": "Approximate First-Passage Time Distributions for Gaussian Motion and Transportation Models",
+      "venue": "Fusion",
+      "year": 2023,
+      "referenceCount": 25,
+      "citationCount": 5,
+      "authors": [
+        {
+          "authorId": "1416908442",
+          "name": "Marcel Reith-Braun"
+        },
+        {
+          "authorId": "2912400",
+          "name": "F. Pfaff"
+        },
+        {
+          "authorId": "72437243",
+          "name": "Jakob Thumm"
+        },
+        {
+          "authorId": "1800053",
+          "name": "U. Hanebeck"
+        }
+      ]
+    },
+    {
+      "paperId": "f17d2718d57269c2efebab26c45e90885b34462a",
+      "externalIds": {
+        "CorpusId": 54669637
+      },
+      "url": "https://www.semanticscholar.org/paper/f17d2718d57269c2efebab26c45e90885b34462a",
+      "title": "Mathur, Neha and Glesk, Ivan and Buis, Adrianus (2016) Thermal time constant : optimizing the skin temperature predictive modelling in lower limb prostheses using Gaussian processes. IET Healthcare Technology",
+      "venue": "",
+      "year": 2018,
+      "referenceCount": 15,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2144108899",
+          "name": "N. Mathur"
+        },
+        {
+          "authorId": "1734534",
+          "name": "I. Glesk"
+        },
+        {
+          "authorId": "2599159",
+          "name": "A. Buis"
+        }
+      ]
+    },
+    {
+      "paperId": "253e138090e8f85303fae5c36d9dbeded1599075",
+      "externalIds": {
+        "ArXiv": "2412.04502",
+        "DBLP": "journals/corr/abs-2412-04502",
+        "DOI": "10.48550/arXiv.2412.04502",
+        "CorpusId": 274581567
+      },
+      "url": "https://www.semanticscholar.org/paper/253e138090e8f85303fae5c36d9dbeded1599075",
+      "title": "Physics-informed Gaussian Processes as Linear Model Predictive Controller",
+      "venue": "arXiv.org",
+      "year": 2024,
+      "referenceCount": 36,
+      "citationCount": 4,
+      "authors": [
+        {
+          "authorId": "2233331960",
+          "name": "Jörn Tebbe"
+        },
+        {
+          "authorId": "1393002992",
+          "name": "Andreas Besginow"
+        },
+        {
+          "authorId": "1404841364",
+          "name": "Markus Lange-Hegermann"
+        }
+      ]
+    },
+    {
+      "paperId": "e1380f2e78bc4185b341856a705dfb15972ef218",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2408-06069",
+        "ArXiv": "2408.06069",
+        "DOI": "10.48550/arXiv.2408.06069",
+        "CorpusId": 271855821
+      },
+      "url": "https://www.semanticscholar.org/paper/e1380f2e78bc4185b341856a705dfb15972ef218",
+      "title": "Fully Bayesian Differential Gaussian Processes through Stochastic Differential Equations",
+      "venue": "Knowledge-Based Systems",
+      "year": 2024,
+      "referenceCount": 78,
+      "citationCount": 4,
+      "authors": [
+        {
+          "authorId": "2244162557",
+          "name": "Jian Xu"
+        },
+        {
+          "authorId": "2315123395",
+          "name": "Zhiqi Lin"
+        },
+        {
+          "authorId": "2315316251",
+          "name": "Min Chen"
+        },
+        {
+          "authorId": "2243330371",
+          "name": "Junmei Yang"
+        },
+        {
+          "authorId": "2244622763",
+          "name": "Delu Zeng"
+        },
+        {
+          "authorId": "2310341385",
+          "name": "John W. Paisley"
+        }
+      ]
+    },
+    {
+      "paperId": "62381969039f6c744e8b7694da1e2ca5745199c6",
+      "externalIds": {
+        "ArXiv": "2503.08795",
+        "DBLP": "journals/corr/abs-2503-08795",
+        "DOI": "10.48550/arXiv.2503.08795",
+        "CorpusId": 276938378
+      },
+      "url": "https://www.semanticscholar.org/paper/62381969039f6c744e8b7694da1e2ca5745199c6",
+      "title": "Stochastic Model Predictive Control for Sub-Gaussian Noise",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "referenceCount": 40,
+      "citationCount": 9,
+      "authors": [
+        {
+          "authorId": "2100461922",
+          "name": "Yu Ao"
+        },
+        {
+          "authorId": "2241522504",
+          "name": "Johannes Köhler"
+        },
+        {
+          "authorId": "80722683",
+          "name": "Manish Prajapat"
+        },
+        {
+          "authorId": "2151001957",
+          "name": "Yarden As"
+        },
+        {
+          "authorId": "2176899",
+          "name": "M. Zeilinger"
+        },
+        {
+          "authorId": "2355090391",
+          "name": "Philipp Fürnstahl"
+        },
+        {
+          "authorId": "2311403384",
+          "name": "Andreas Krause"
+        }
+      ]
+    },
+    {
+      "paperId": "3aa9c206708f41245574dfd7fac8c79fc4449f26",
+      "externalIds": {
+        "DOI": "10.66573/001c.136861",
+        "CorpusId": 287548056
+      },
+      "url": "https://www.semanticscholar.org/paper/3aa9c206708f41245574dfd7fac8c79fc4449f26",
+      "title": "Multioutput Gaussian Processes for Loss Ratio Development",
+      "venue": "Variance",
+      "year": 2025,
+      "referenceCount": 16,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2430092451",
+          "name": "Devan Griffith"
+        }
+      ]
+    }
+  ]
+}

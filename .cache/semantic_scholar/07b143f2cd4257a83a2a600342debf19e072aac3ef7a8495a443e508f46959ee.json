@@ -1,0 +1,352 @@
+{
+  "total": 52,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "7f2406aba47ac90dcc92f890dca3d9b647d11894",
+      "externalIds": {
+        "MAG": "2799069271",
+        "DBLP": "journals/corr/abs-1804-10574",
+        "ArXiv": "1804.10574",
+        "CorpusId": 13756598
+      },
+      "url": "https://www.semanticscholar.org/paper/7f2406aba47ac90dcc92f890dca3d9b647d11894",
+      "title": "Decoupled Parallel Backpropagation with Convergence Guarantee",
+      "venue": "International Conference on Machine Learning",
+      "year": 2018,
+      "referenceCount": 25,
+      "citationCount": 99,
+      "authors": [
+        {
+          "authorId": "3382735",
+          "name": "Zhouyuan Huo"
+        },
+        {
+          "authorId": "1491240128",
+          "name": "Bin Gu"
+        },
+        {
+          "authorId": "144286907",
+          "name": "Qian Yang"
+        },
+        {
+          "authorId": "145114933",
+          "name": "Heng Huang"
+        }
+      ]
+    },
+    {
+      "paperId": "339f9a2cd6cc1b3471ea24df5e71b48beebde37a",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2410-05985",
+        "ArXiv": "2410.05985",
+        "DOI": "10.48550/arXiv.2410.05985",
+        "CorpusId": 273229510
+      },
+      "url": "https://www.semanticscholar.org/paper/339f9a2cd6cc1b3471ea24df5e71b48beebde37a",
+      "title": "Asynchronous Stochastic Gradient Descent with Decoupled Backpropagation and Layer-Wise Updates",
+      "venue": "arXiv.org",
+      "year": 2024,
+      "referenceCount": 26,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2218880185",
+          "name": "Cabrel Teguemne Fokam"
+        },
+        {
+          "authorId": "2170076779",
+          "name": "Khaleelulla Khan Nazeer"
+        },
+        {
+          "authorId": "72464185",
+          "name": "L. Konig"
+        },
+        {
+          "authorId": "2274101818",
+          "name": "David Kappel"
+        },
+        {
+          "authorId": "2259829",
+          "name": "Anand Subramoney"
+        }
+      ]
+    },
+    {
+      "paperId": "7b62b891900de3da65a5ded40ef6cadd37526cb6",
+      "externalIds": {
+        "ArXiv": "2604.00855",
+        "CorpusId": 287023413
+      },
+      "url": "https://www.semanticscholar.org/paper/7b62b891900de3da65a5ded40ef6cadd37526cb6",
+      "title": "Finite-Time Convergence Guarantees for Time-Parallel Methods",
+      "venue": "",
+      "year": 2026,
+      "referenceCount": 20,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "49911987",
+          "name": "G. Antonucci"
+        },
+        {
+          "authorId": "2169369",
+          "name": "R. Hauser"
+        },
+        {
+          "authorId": "144873023",
+          "name": "D. Samaddar"
+        },
+        {
+          "authorId": "2351601859",
+          "name": "James Buchanan"
+        }
+      ]
+    },
+    {
+      "paperId": "98de85f9926759c5e1ca7a857f3a31313d4b8d8b",
+      "externalIds": {
+        "DOI": "10.1109/JMMCT.2023.3236645",
+        "CorpusId": 255915620
+      },
+      "url": "https://www.semanticscholar.org/paper/98de85f9926759c5e1ca7a857f3a31313d4b8d8b",
+      "title": "Split-Field Domain Decomposition Parallel Algorithm With Fast Convergence for Electromagnetic Analysis",
+      "venue": "IEEE Journal on Multiscale and Multiphysics Computational Techniques",
+      "year": 2023,
+      "referenceCount": 22,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "66927751",
+          "name": "Shuzhan Sun"
+        },
+        {
+          "authorId": "144198829",
+          "name": "D. Jiao"
+        }
+      ]
+    },
+    {
+      "paperId": "1b1a4ee0a086640811926810bf1619fb0db87a91",
+      "externalIds": {
+        "DBLP": "journals/tinstmc/ZhengX25",
+        "DOI": "10.1177/01423312241257024",
+        "CorpusId": 271811009
+      },
+      "url": "https://www.semanticscholar.org/paper/1b1a4ee0a086640811926810bf1619fb0db87a91",
+      "title": "Robust adaptive decoupled-like sliding mode controller design based on iterative learning for overhead cranes",
+      "venue": "Transactions of the Institute of Measurement and Control",
+      "year": 2024,
+      "referenceCount": 35,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "2149094858",
+          "name": "Zhiteng Zheng"
+        },
+        {
+          "authorId": "2110577337",
+          "name": "Weimin Xu"
+        }
+      ]
+    },
+    {
+      "paperId": "a70f042707d1ce201c28995cbe0b84652d1fb89a",
+      "externalIds": {
+        "DBLP": "journals/tmi/CuiJCZLZKHWZYL23",
+        "DOI": "10.1109/TMI.2023.3293826",
+        "CorpusId": 259657523,
+        "PubMed": "37428656"
+      },
+      "url": "https://www.semanticscholar.org/paper/a70f042707d1ce201c28995cbe0b84652d1fb89a",
+      "title": "Equilibrated Zeroth-Order Unrolled Deep Network for Parallel MR Imaging",
+      "venue": "IEEE Transactions on Medical Imaging",
+      "year": 2023,
+      "referenceCount": 56,
+      "citationCount": 13,
+      "authors": [
+        {
+          "authorId": "9018214",
+          "name": "Zhuoxu Cui"
+        },
+        {
+          "authorId": "114215813",
+          "name": "Seng Jia"
+        },
+        {
+          "authorId": "2112805715",
+          "name": "Jing Cheng"
+        },
+        {
+          "authorId": "145165483",
+          "name": "Qingyong Zhu"
+        },
+        {
+          "authorId": "2143860379",
+          "name": "Yuanyuan Liu"
+        },
+        {
+          "authorId": "2074107582",
+          "name": "Kankan Zhao"
+        },
+        {
+          "authorId": "51484250",
+          "name": "Ziwen Ke"
+        },
+        {
+          "authorId": "1628915100",
+          "name": "Wenqi Huang"
+        },
+        {
+          "authorId": "2108969013",
+          "name": "Haifeng Wang"
+        },
+        {
+          "authorId": "145350977",
+          "name": "Yanjie Zhu"
+        },
+        {
+          "authorId": "5527319",
+          "name": "L. Ying"
+        },
+        {
+          "authorId": "2113984841",
+          "name": "Dong Liang"
+        }
+      ]
+    },
+    {
+      "paperId": "032a22930d8b176c5d09c9c84617e57efd794718",
+      "externalIds": {
+        "DBLP": "journals/computing/XiaoYW22",
+        "DOI": "10.1007/s00607-022-01094-1",
+        "CorpusId": 249834730
+      },
+      "url": "https://www.semanticscholar.org/paper/032a22930d8b176c5d09c9c84617e57efd794718",
+      "title": "Efficient DNN training based on backpropagation parallelization",
+      "venue": "Computing",
+      "year": 2022,
+      "referenceCount": 49,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2055391444",
+          "name": "Danyang Xiao"
+        },
+        {
+          "authorId": "2154170750",
+          "name": "Chengang Yang"
+        },
+        {
+          "authorId": "2110007290",
+          "name": "Weigang Wu"
+        }
+      ]
+    },
+    {
+      "paperId": "1cd60f9775a7533ac83cc644a121177359077fad",
+      "externalIds": {
+        "ArXiv": "2604.16324",
+        "CorpusId": 287617873
+      },
+      "url": "https://www.semanticscholar.org/paper/1cd60f9775a7533ac83cc644a121177359077fad",
+      "title": "BASIS: Balanced Activation Sketching with Invariant Scalars for\"Ghost Backpropagation\"",
+      "venue": "",
+      "year": 2026,
+      "referenceCount": 10,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2394304399",
+          "name": "Vladimer Khasia"
+        }
+      ]
+    },
+    {
+      "paperId": "f540fa6fcc4f2bd80ac267b0f6f32d0e579dca5f",
+      "externalIds": {
+        "PubMedCentral": "9949630",
+        "DOI": "10.1371/journal.pone.0276427",
+        "CorpusId": 257099041,
+        "PubMed": "36821537"
+      },
+      "url": "https://www.semanticscholar.org/paper/f540fa6fcc4f2bd80ac267b0f6f32d0e579dca5f",
+      "title": "Decoupled neural network training with re-computation and weight prediction",
+      "venue": "PLoS ONE",
+      "year": 2023,
+      "referenceCount": 12,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2122807570",
+          "name": "Jiawei Peng"
+        },
+        {
+          "authorId": "2185138102",
+          "name": "Yicheng Xu"
+        },
+        {
+          "authorId": "2112412848",
+          "name": "Zhiping Lin"
+        },
+        {
+          "authorId": "151270908",
+          "name": "Zhenyu Weng"
+        },
+        {
+          "authorId": "2209328008",
+          "name": "Zishuo Yang"
+        },
+        {
+          "authorId": "8841273",
+          "name": "Huiping Zhuang"
+        }
+      ]
+    },
+    {
+      "paperId": "48833a304d06806bc69eaf3f39d64f1a29b87408",
+      "externalIds": {
+        "DBLP": "journals/tase/FengDZMJDZ24",
+        "DOI": "10.1109/TASE.2023.3275808",
+        "CorpusId": 258872196
+      },
+      "url": "https://www.semanticscholar.org/paper/48833a304d06806bc69eaf3f39d64f1a29b87408",
+      "title": "Parallel Dual-DQAM for Multi-Scenario Stochastic Economic Dispatch Model by Temporal and Scenario Decompositions",
+      "venue": "IEEE Transactions on Automation Science and Engineering",
+      "year": 2024,
+      "referenceCount": 46,
+      "citationCount": 4,
+      "authors": [
+        {
+          "authorId": "2153566233",
+          "name": "Songjie Feng"
+        },
+        {
+          "authorId": "2066754486",
+          "name": "Tao Ding"
+        },
+        {
+          "authorId": "2116461455",
+          "name": "Ziyu Zhang"
+        },
+        {
+          "authorId": "2065355328",
+          "name": "Chenggang Mu"
+        },
+        {
+          "authorId": "2000968240",
+          "name": "Wenhao Jia"
+        },
+        {
+          "authorId": "48470605",
+          "name": "Hui Deng"
+        },
+        {
+          "authorId": "2112253544",
+          "name": "Ziqing Zhou"
+        }
+      ]
+    }
+  ]
+}

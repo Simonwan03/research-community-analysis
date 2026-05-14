@@ -1,0 +1,1017 @@
+{
+  "offset": 0,
+  "citingPaperInfo": {
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/1505.06813, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "title": "Surrogate Functions for Maximizing Precision at the Top",
+    "authors": [
+      {
+        "authorId": "39746893",
+        "name": "Purushottam Kar"
+      },
+      {
+        "authorId": "1727387",
+        "name": "H. Narasimhan"
+      },
+      {
+        "authorId": "48964143",
+        "name": "Prateek Jain"
+      }
+    ]
+  },
+  "data": [
+    {
+      "citedPaper": {
+        "paperId": "0c28ee59e308593ce461175fd7464cd66bf48497",
+        "externalIds": {
+          "ArXiv": "1505.06812",
+          "MAG": "2951054453",
+          "DBLP": "conf/icml/NarasimhanK015",
+          "CorpusId": 1424505
+        },
+        "url": "https://www.semanticscholar.org/paper/0c28ee59e308593ce461175fd7464cd66bf48497",
+        "title": "Optimizing Non-decomposable Performance Measures: A Tale of Two Classes",
+        "venue": "International Conference on Machine Learning",
+        "year": 2015,
+        "referenceCount": 29,
+        "citationCount": 50,
+        "authors": [
+          {
+            "authorId": "1727387",
+            "name": "H. Narasimhan"
+          },
+          {
+            "authorId": "39746893",
+            "name": "Purushottam Kar"
+          },
+          {
+            "authorId": "48964143",
+            "name": "Prateek Jain"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "f45a55b688d2cb7587132b4ce71bf220e8a43896",
+        "externalIds": {
+          "DBLP": "conf/nips/KarN014",
+          "MAG": "2167505604",
+          "ArXiv": "1410.6776",
+          "CorpusId": 98812
+        },
+        "url": "https://www.semanticscholar.org/paper/f45a55b688d2cb7587132b4ce71bf220e8a43896",
+        "title": "Online and Stochastic Gradient Methods for Non-decomposable Loss Functions",
+        "venue": "Neural Information Processing Systems",
+        "year": 2014,
+        "referenceCount": 28,
+        "citationCount": 77,
+        "authors": [
+          {
+            "authorId": "39746893",
+            "name": "Purushottam Kar"
+          },
+          {
+            "authorId": "1727387",
+            "name": "H. Narasimhan"
+          },
+          {
+            "authorId": "48964143",
+            "name": "Prateek Jain"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "b71786c6dd858d8d5ee7ef657c0f3732473aee10",
+        "externalIds": {
+          "DBLP": "conf/nips/LiJZ14",
+          "MAG": "2953147515",
+          "ArXiv": "1410.1462",
+          "CorpusId": 139858
+        },
+        "url": "https://www.semanticscholar.org/paper/b71786c6dd858d8d5ee7ef657c0f3732473aee10",
+        "title": "Top Rank Optimization in Linear Time",
+        "venue": "Neural Information Processing Systems",
+        "year": 2014,
+        "referenceCount": 46,
+        "citationCount": 72,
+        "authors": [
+          {
+            "authorId": "2157949803",
+            "name": "Nan Li"
+          },
+          {
+            "authorId": "144723884",
+            "name": "Rong Jin"
+          },
+          {
+            "authorId": "145624000",
+            "name": "Zhi-Hua Zhou"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "cae60b482e585c59f3c659cba92450e1ef5aabed",
+        "externalIds": {
+          "MAG": "1793705354",
+          "ArXiv": "1410.1103",
+          "DBLP": "journals/corr/ChaudhuriT14a",
+          "CorpusId": 314373
+        },
+        "url": "https://www.semanticscholar.org/paper/cae60b482e585c59f3c659cba92450e1ef5aabed",
+        "title": "Online Ranking with Top-1 Feedback",
+        "venue": "International Conference on Artificial Intelligence and Statistics",
+        "year": 2014,
+        "referenceCount": 22,
+        "citationCount": 17,
+        "authors": [
+          {
+            "authorId": "2460488",
+            "name": "Sougata Chaudhuri"
+          },
+          {
+            "authorId": "3064914",
+            "name": "Ambuj Tewari"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "7e014608812b784208c3be030025ad6f3bb9b81c",
+        "externalIds": {
+          "DBLP": "conf/kdd/PrabhuV14",
+          "MAG": "2068074736",
+          "DOI": "10.1145/2623330.2623651",
+          "CorpusId": 387208
+        },
+        "url": "https://www.semanticscholar.org/paper/7e014608812b784208c3be030025ad6f3bb9b81c",
+        "title": "FastXML: a fast, accurate and stable tree-classifier for extreme multi-label learning",
+        "venue": "Knowledge Discovery and Data Mining",
+        "year": 2014,
+        "referenceCount": 40,
+        "citationCount": 422,
+        "authors": [
+          {
+            "authorId": "40252215",
+            "name": "Yashoteja Prabhu"
+          },
+          {
+            "authorId": "145859952",
+            "name": "M. Varma"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "b0475a85188c2057950a422f320fc723584d631c",
+        "externalIds": {
+          "ArXiv": "1405.0591",
+          "DBLP": "journals/corr/ChaudhuriT14",
+          "MAG": "1951330496",
+          "CorpusId": 17965252
+        },
+        "url": "https://www.semanticscholar.org/paper/b0475a85188c2057950a422f320fc723584d631c",
+        "title": "Perceptron-like Algorithms and Generalization Bounds for Learning to Rank",
+        "venue": "arXiv.org",
+        "year": 2014,
+        "referenceCount": 25,
+        "citationCount": 2,
+        "authors": [
+          {
+            "authorId": "2460488",
+            "name": "Sougata Chaudhuri"
+          },
+          {
+            "authorId": "3064914",
+            "name": "Ambuj Tewari"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "2edfb6f7e5cbe75c76e24becf42a5c2f5e8b655f",
+        "externalIds": {
+          "MAG": "1882112236",
+          "ArXiv": "1402.2676",
+          "DBLP": "conf/nips/YunRV14",
+          "CorpusId": 6491650
+        },
+        "url": "https://www.semanticscholar.org/paper/2edfb6f7e5cbe75c76e24becf42a5c2f5e8b655f",
+        "title": "Ranking via Robust Binary Classification",
+        "venue": "Neural Information Processing Systems",
+        "year": 2014,
+        "referenceCount": 26,
+        "citationCount": 28,
+        "authors": [
+          {
+            "authorId": "36364434",
+            "name": "Hyokun Yun"
+          },
+          {
+            "authorId": "2750806",
+            "name": "Parameswaran Raman"
+          },
+          {
+            "authorId": "145713876",
+            "name": "S. Vishwanathan"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "da7735e2c91fed47881b305653f388c18aad0918",
+        "externalIds": {
+          "MAG": "2028034626",
+          "DBLP": "conf/kdd/NarasimhanA13",
+          "DOI": "10.1145/2487575.2487674",
+          "CorpusId": 14749459
+        },
+        "url": "https://www.semanticscholar.org/paper/da7735e2c91fed47881b305653f388c18aad0918",
+        "title": "SVMpAUCtight: a new support vector method for optimizing partial AUC based on a tight convex upper bound",
+        "venue": "Knowledge Discovery and Data Mining",
+        "year": 2013,
+        "referenceCount": 34,
+        "citationCount": 50,
+        "authors": [
+          {
+            "authorId": "1727387",
+            "name": "H. Narasimhan"
+          },
+          {
+            "authorId": "2797063",
+            "name": "S. Agarwal"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "51a7ba70af53bdc54146747b4ce3dc1c2f45191c",
+        "externalIds": {
+          "MAG": "8545729",
+          "DBLP": "conf/icml/NarasimhanA13",
+          "CorpusId": 338001
+        },
+        "url": "https://www.semanticscholar.org/paper/51a7ba70af53bdc54146747b4ce3dc1c2f45191c",
+        "title": "A Structural SVM Based Approach for Optimizing Partial AUC",
+        "venue": "International Conference on Machine Learning",
+        "year": 2013,
+        "referenceCount": 30,
+        "citationCount": 71,
+        "authors": [
+          {
+            "authorId": "1727387",
+            "name": "H. Narasimhan"
+          },
+          {
+            "authorId": "2797063",
+            "name": "S. Agarwal"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "610cac16d2b04247131da7c8f43cbcc57dc82804",
+        "externalIds": {
+          "DBLP": "conf/nips/CalauzenesUG12",
+          "MAG": "2167247347",
+          "CorpusId": 11035438
+        },
+        "url": "https://www.semanticscholar.org/paper/610cac16d2b04247131da7c8f43cbcc57dc82804",
+        "title": "\"On the (Non-)existence of Convex, Calibrated Surrogate Losses for Ranking\"",
+        "venue": "Neural Information Processing Systems",
+        "year": 2012,
+        "referenceCount": 28,
+        "citationCount": 52,
+        "authors": [
+          {
+            "authorId": "2891754",
+            "name": "Clément Calauzènes"
+          },
+          {
+            "authorId": "1746841",
+            "name": "Nicolas Usunier"
+          },
+          {
+            "authorId": "1741426",
+            "name": "P. Gallinari"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "2ff8bf47930edbbba1189b107c093919472a8ab2",
+        "externalIds": {
+          "DBLP": "conf/nips/BoydCMR12",
+          "MAG": "2117202609",
+          "CorpusId": 9061266
+        },
+        "url": "https://www.semanticscholar.org/paper/2ff8bf47930edbbba1189b107c093919472a8ab2",
+        "title": "Accuracy at the Top",
+        "venue": "Neural Information Processing Systems",
+        "year": 2012,
+        "referenceCount": 21,
+        "citationCount": 92,
+        "authors": [
+          {
+            "authorId": "1843103",
+            "name": "Stephen P. Boyd"
+          },
+          {
+            "authorId": "145115014",
+            "name": "Corinna Cortes"
+          },
+          {
+            "authorId": "81080659",
+            "name": "M. Mohri"
+          },
+          {
+            "authorId": "50557675",
+            "name": "A. Radovanovic"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "833269598fc05a02f760ebf44e402340948022b6",
+        "externalIds": {
+          "DBLP": "conf/nips/ValizadeganJZM09",
+          "MAG": "2155211665",
+          "CorpusId": 9513131
+        },
+        "url": "https://www.semanticscholar.org/paper/833269598fc05a02f760ebf44e402340948022b6",
+        "title": "Learning to Rank by Optimizing NDCG Measure",
+        "venue": "Neural Information Processing Systems",
+        "year": 2009,
+        "referenceCount": 24,
+        "citationCount": 223,
+        "authors": [
+          {
+            "authorId": "2909923",
+            "name": "Hamed Valizadegan"
+          },
+          {
+            "authorId": "144723884",
+            "name": "Rong Jin"
+          },
+          {
+            "authorId": "2110064127",
+            "name": "Ruofei Zhang"
+          },
+          {
+            "authorId": "2069541724",
+            "name": "Jianchang Mao"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "77bdf7ffc8fcaae3e30d6381b423df161454cf10",
+        "externalIds": {
+          "DBLP": "journals/jmlr/Rudin09",
+          "MAG": "2121824931",
+          "DOI": "10.5555/1577069.1755861",
+          "CorpusId": 15457495
+        },
+        "url": "https://www.semanticscholar.org/paper/77bdf7ffc8fcaae3e30d6381b423df161454cf10",
+        "title": "The P-Norm Push: A Simple Convex Ranking Algorithm that Concentrates at the Top of the List",
+        "venue": "Journal of machine learning research",
+        "year": 2009,
+        "referenceCount": 43,
+        "citationCount": 171,
+        "authors": [
+          {
+            "authorId": "48395540",
+            "name": "C. Rudin"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "6df0fd29ab42bff1f0239510237b413d296c3390",
+        "externalIds": {
+          "MAG": "2158460069",
+          "DBLP": "conf/nips/ChapelleDLST08",
+          "CorpusId": 5810122
+        },
+        "url": "https://www.semanticscholar.org/paper/6df0fd29ab42bff1f0239510237b413d296c3390",
+        "title": "Tighter Bounds for Structured Estimation",
+        "venue": "Neural Information Processing Systems",
+        "year": 2008,
+        "referenceCount": 25,
+        "citationCount": 73,
+        "authors": [
+          {
+            "authorId": "1730609",
+            "name": "O. Chapelle"
+          },
+          {
+            "authorId": "2042259",
+            "name": "Chuong B. Do"
+          },
+          {
+            "authorId": "2827616",
+            "name": "Quoc V. Le"
+          },
+          {
+            "authorId": "46234526",
+            "name": "Alex Smola"
+          },
+          {
+            "authorId": "37077406",
+            "name": "C. Teo"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "254687c358aff2c633e3007e8fe70f0fa0b163ee",
+        "externalIds": {
+          "DBLP": "conf/kdd/ChakrabartiKSB08",
+          "MAG": "2140634465",
+          "DOI": "10.1145/1401890.1401906",
+          "CorpusId": 7291453
+        },
+        "url": "https://www.semanticscholar.org/paper/254687c358aff2c633e3007e8fe70f0fa0b163ee",
+        "title": "Structured learning for non-smooth ranking losses",
+        "venue": "Knowledge Discovery and Data Mining",
+        "year": 2008,
+        "referenceCount": 23,
+        "citationCount": 129,
+        "authors": [
+          {
+            "authorId": "40941894",
+            "name": "Soumen Chakrabarti"
+          },
+          {
+            "authorId": "6812421",
+            "name": "Rajiv Khanna"
+          },
+          {
+            "authorId": "3214158",
+            "name": "Uma Sawant"
+          },
+          {
+            "authorId": "145880755",
+            "name": "C. Bhattacharyya"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "094ce8379a16030a7a993b2f70af46916f7ea99b",
+        "externalIds": {
+          "MAG": "2127176025",
+          "DBLP": "conf/sigir/YueFRJ07",
+          "DOI": "10.1145/1277741.1277790",
+          "CorpusId": 7423459
+        },
+        "url": "https://www.semanticscholar.org/paper/094ce8379a16030a7a993b2f70af46916f7ea99b",
+        "title": "A support vector method for optimizing average precision",
+        "venue": "Annual International ACM SIGIR Conference on Research and Development in Information Retrieval",
+        "year": 2007,
+        "referenceCount": 21,
+        "citationCount": 775,
+        "authors": [
+          {
+            "authorId": "1740159",
+            "name": "Yisong Yue"
+          },
+          {
+            "authorId": "50256971",
+            "name": "Thomas Finley"
+          },
+          {
+            "authorId": "1803571",
+            "name": "Filip Radlinski"
+          },
+          {
+            "authorId": "1680188",
+            "name": "T. Joachims"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "a6ccfe1ac31444fb5a0d32b58182e0fb1b17c0e4",
+        "externalIds": {
+          "MAG": "2146241755",
+          "DBLP": "journals/jdwm/TsoumakasK07",
+          "DOI": "10.4018/jdwm.2007070101",
+          "CorpusId": 11608263
+        },
+        "url": "https://www.semanticscholar.org/paper/a6ccfe1ac31444fb5a0d32b58182e0fb1b17c0e4",
+        "title": "Multi-Label Classification: An Overview",
+        "venue": "International Journal of Data Warehousing and Mining",
+        "year": 2007,
+        "referenceCount": 57,
+        "citationCount": 2943,
+        "authors": [
+          {
+            "authorId": "2502501",
+            "name": "Grigorios Tsoumakas"
+          },
+          {
+            "authorId": "1749884",
+            "name": "I. Katakis"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "db196fd70f0b54d72aedc75bd74c9b2f826925d7",
+        "externalIds": {
+          "DBLP": "conf/icml/CaoQLTL07",
+          "MAG": "2108862644",
+          "DOI": "10.1145/1273496.1273513",
+          "CorpusId": 207163577
+        },
+        "url": "https://www.semanticscholar.org/paper/db196fd70f0b54d72aedc75bd74c9b2f826925d7",
+        "title": "Learning to rank: from pairwise approach to listwise approach",
+        "venue": "International Conference on Machine Learning",
+        "year": 2007,
+        "referenceCount": 27,
+        "citationCount": 2363,
+        "authors": [
+          {
+            "authorId": "2113999576",
+            "name": "Zhe Cao"
+          },
+          {
+            "authorId": "2265984980",
+            "name": "Tao Qin"
+          },
+          {
+            "authorId": "2256760771",
+            "name": "Tie-Yan Liu"
+          },
+          {
+            "authorId": "2257249370",
+            "name": "Ming-Feng Tsai"
+          },
+          {
+            "authorId": "2265994866",
+            "name": "Hang Li"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "5c63065770a03ebaf37385586579402343408f0a",
+        "externalIds": {
+          "ArXiv": "0704.3359",
+          "MAG": "1555168537",
+          "DBLP": "journals/corr/abs-0704-3359",
+          "CorpusId": 5830412
+        },
+        "url": "https://www.semanticscholar.org/paper/5c63065770a03ebaf37385586579402343408f0a",
+        "title": "Direct Optimization of Ranking Measures",
+        "venue": "arXiv.org",
+        "year": 2007,
+        "referenceCount": 46,
+        "citationCount": 116,
+        "authors": [
+          {
+            "authorId": "2827616",
+            "name": "Quoc V. Le"
+          },
+          {
+            "authorId": "46234526",
+            "name": "Alex Smola"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "8a428ffb89f628d76c7fb145f7edc0e20362c587",
+        "externalIds": {
+          "MAG": "1581941705",
+          "DBLP": "journals/jmlr/ClemenconV07",
+          "DOI": "10.5555/1314498.1390330",
+          "CorpusId": 9698374
+        },
+        "url": "https://www.semanticscholar.org/paper/8a428ffb89f628d76c7fb145f7edc0e20362c587",
+        "title": "Ranking the Best Instances",
+        "venue": "Journal of machine learning research",
+        "year": 2006,
+        "referenceCount": 46,
+        "citationCount": 104,
+        "authors": [
+          {
+            "authorId": "1696620",
+            "name": "S. Clémençon"
+          },
+          {
+            "authorId": "1715204",
+            "name": "N. Vayatis"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "28b69b2fb4af6c648ae39377058002c1b79d53d2",
+        "externalIds": {
+          "MAG": "2401151838",
+          "DBLP": "journals/siamcomp/GuruswamiR09",
+          "DOI": "10.1137/070685798",
+          "CorpusId": 2379642
+        },
+        "url": "https://www.semanticscholar.org/paper/28b69b2fb4af6c648ae39377058002c1b79d53d2",
+        "title": "Hardness of Learning Halfspaces with Noise",
+        "venue": "IEEE Annual Symposium on Foundations of Computer Science",
+        "year": 2006,
+        "referenceCount": 32,
+        "citationCount": 195,
+        "authors": [
+          {
+            "authorId": "1721077",
+            "name": "V. Guruswami"
+          },
+          {
+            "authorId": "144662871",
+            "name": "P. Raghavendra"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "175c1bb60ee46dac56d942ef8c7339977b4ebb0e",
+        "externalIds": {
+          "MAG": "2070771761",
+          "DBLP": "conf/icml/Joachims05",
+          "DOI": "10.1145/1102351.1102399",
+          "CorpusId": 1115550
+        },
+        "url": "https://www.semanticscholar.org/paper/175c1bb60ee46dac56d942ef8c7339977b4ebb0e",
+        "title": "A support vector method for multivariate performance measures",
+        "venue": "International Conference on Machine Learning",
+        "year": 2005,
+        "referenceCount": 24,
+        "citationCount": 925,
+        "authors": [
+          {
+            "authorId": "1680188",
+            "name": "T. Joachims"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "63aaf12163fe9735dfe9a69114937c4fa34f303a",
+        "externalIds": {
+          "MAG": "2143331230",
+          "DBLP": "conf/icml/BurgesSRLDHH05",
+          "DOI": "10.1145/1102351.1102363",
+          "CorpusId": 11168734
+        },
+        "url": "https://www.semanticscholar.org/paper/63aaf12163fe9735dfe9a69114937c4fa34f303a",
+        "title": "Learning to rank using gradient descent",
+        "venue": "International Conference on Machine Learning",
+        "year": 2005,
+        "referenceCount": 20,
+        "citationCount": 3156,
+        "authors": [
+          {
+            "authorId": "2676309",
+            "name": "C. Burges"
+          },
+          {
+            "authorId": "3296031",
+            "name": "T. Shaked"
+          },
+          {
+            "authorId": "1859813",
+            "name": "Erin Renshaw"
+          },
+          {
+            "authorId": "2078999999",
+            "name": "Ari Lazier"
+          },
+          {
+            "authorId": "1398663319",
+            "name": "Matt Deeds"
+          },
+          {
+            "authorId": "2281701583",
+            "name": "Nicole Hamilton"
+          },
+          {
+            "authorId": "2095493",
+            "name": "Gregory N. Hullender"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "cfd4259d305a00f13d5f08841230389f61322422",
+        "externalIds": {
+          "MAG": "2047221353",
+          "DBLP": "conf/kdd/Joachims02",
+          "DOI": "10.1145/775047.775067",
+          "CorpusId": 207605508
+        },
+        "url": "https://www.semanticscholar.org/paper/cfd4259d305a00f13d5f08841230389f61322422",
+        "title": "Optimizing search engines using clickthrough data",
+        "venue": "Knowledge Discovery and Data Mining",
+        "year": 2002,
+        "referenceCount": 30,
+        "citationCount": 4634,
+        "authors": [
+          {
+            "authorId": "1680188",
+            "name": "T. Joachims"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "199e0d4acc5eb49b72eebc124cc6a9c8ddd980d5",
+        "externalIds": {
+          "MAG": "2111377143",
+          "DOI": "10.1162/153244302760200713",
+          "CorpusId": 272554808
+        },
+        "url": "https://www.semanticscholar.org/paper/199e0d4acc5eb49b72eebc124cc6a9c8ddd980d5",
+        "title": "Covering number bounds of certain regularized linear function classes",
+        "venue": "",
+        "year": 2002,
+        "referenceCount": 38,
+        "citationCount": 11,
+        "authors": [
+          {
+            "authorId": "2320521734",
+            "name": "Tong Zhang"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "e478fe3666e7cd630a40c81776fc2b55db61e085",
+        "externalIds": {
+          "MAG": "1552767446",
+          "DBLP": "journals/jmlr/FreundISS03",
+          "CorpusId": 16692650
+        },
+        "url": "https://www.semanticscholar.org/paper/e478fe3666e7cd630a40c81776fc2b55db61e085",
+        "title": "An Efficient Boosting Algorithm for Combining Preferences",
+        "venue": "Journal of machine learning research",
+        "year": 1998,
+        "referenceCount": 26,
+        "citationCount": 2236,
+        "authors": [
+          {
+            "authorId": "1703537",
+            "name": "Y. Freund"
+          },
+          {
+            "authorId": "2068005320",
+            "name": "Raj D. Iyer"
+          },
+          {
+            "authorId": "1716301",
+            "name": "R. Schapire"
+          },
+          {
+            "authorId": "1740765",
+            "name": "Y. Singer"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "5d11aad09f65431b5d3cb1d85328743c9e53ba96",
+        "externalIds": {
+          "MAG": "2040870580",
+          "DOI": "10.1037/H0042519",
+          "CorpusId": 12781225,
+          "PubMed": "13602029"
+        },
+        "url": "https://www.semanticscholar.org/paper/5d11aad09f65431b5d3cb1d85328743c9e53ba96",
+        "title": "The perceptron: a probabilistic model for information storage and organization in the brain.",
+        "venue": "Psychology Review",
+        "year": 1958,
+        "referenceCount": 15,
+        "citationCount": 12037,
+        "authors": [
+          {
+            "authorId": "51083130",
+            "name": "F. Rosenblatt"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "5e04a2340ca11d23aeb8a8e7d8972c961731d0da",
+        "externalIds": {
+          "CorpusId": 265096490
+        },
+        "url": "https://www.semanticscholar.org/paper/5e04a2340ca11d23aeb8a8e7d8972c961731d0da",
+        "title": "Surrogate Functions for Maximizing Precision at the Top",
+        "venue": "",
+        "year": 2015,
+        "referenceCount": 0,
+        "citationCount": 1,
+        "authors": []
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "5838046a9c9cd719f2aa29dbf57b78a6730c66c6",
+        "externalIds": {
+          "MAG": "2395021187",
+          "DBLP": "conf/sdm/Agarwal11",
+          "DOI": "10.1137/1.9781611972818.72",
+          "CorpusId": 16495258
+        },
+        "url": "https://www.semanticscholar.org/paper/5838046a9c9cd719f2aa29dbf57b78a6730c66c6",
+        "title": "The Infinite Push: A New Support Vector Ranking Algorithm that Directly Optimizes Accuracy at the Absolute Top of the List",
+        "venue": "SDM",
+        "year": 2011,
+        "referenceCount": 33,
+        "citationCount": 70,
+        "authors": [
+          {
+            "authorId": "2797063",
+            "name": "S. Agarwal"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "fe6f73c286b81db7c36598285995a9ee34c1a2c9",
+        "externalIds": {
+          "DBLP": "conf/colt/Lugosi08",
+          "DOI": "10.1007/978-3-540-48503-2_5",
+          "CorpusId": 5506243
+        },
+        "url": "https://www.semanticscholar.org/paper/fe6f73c286b81db7c36598285995a9ee34c1a2c9",
+        "title": "Concentration Inequalities",
+        "venue": "Annual Conference Computational Learning Theory",
+        "year": 2008,
+        "referenceCount": 69,
+        "citationCount": 999,
+        "authors": [
+          {
+            "authorId": "1755694",
+            "name": "G. Lugosi"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "23afab3f249477d086819e890ac4aa417998568c",
+        "externalIds": {
+          "DBLP": "journals/jmlr/Zhang02",
+          "CorpusId": 10983659
+        },
+        "url": "https://www.semanticscholar.org/paper/23afab3f249477d086819e890ac4aa417998568c",
+        "title": "Covering Number Bounds of Certain Regularized Linear Function Classes",
+        "venue": "Journal of machine learning research",
+        "year": 2002,
+        "referenceCount": 40,
+        "citationCount": 302,
+        "authors": [
+          {
+            "authorId": "2117881943",
+            "name": "Tong Zhang"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "c878cd7d2c68905e37c64a385479d6805c70dc44",
+        "externalIds": {
+          "CorpusId": 258302365
+        },
+        "url": "https://www.semanticscholar.org/paper/c878cd7d2c68905e37c64a385479d6805c70dc44",
+        "title": "An EÆcient Boosting Algorithm for Combining Preferences",
+        "venue": "",
+        "year": 2001,
+        "referenceCount": 59,
+        "citationCount": 414,
+        "authors": [
+          {
+            "authorId": "6908633",
+            "name": "R. Dharmarajan"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "958f001b6f348f7c353260b289bed185fffac847",
+        "externalIds": {
+          "MAG": "1508409909",
+          "DOI": "10.7551/mitpress/1113.003.0010",
+          "CorpusId": 60533697
+        },
+        "url": "https://www.semanticscholar.org/paper/958f001b6f348f7c353260b289bed185fffac847",
+        "title": "Large Margin Rank Boundaries for Ordinal Regression",
+        "venue": "",
+        "year": 2000,
+        "referenceCount": 0,
+        "citationCount": 1028,
+        "authors": [
+          {
+            "authorId": "39962304",
+            "name": "Darren Gehring"
+          },
+          {
+            "authorId": "1686971",
+            "name": "T. Graepel"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "f74ded11f72099d16591a1191d72262ae6b5f14a",
+        "externalIds": {
+          "CorpusId": 5400596
+        },
+        "url": "https://www.semanticscholar.org/paper/f74ded11f72099d16591a1191d72262ae6b5f14a",
+        "title": "Perceptrons: An Introduction to Computational Geometry",
+        "venue": "",
+        "year": 1969,
+        "referenceCount": 0,
+        "citationCount": 2062,
+        "authors": [
+          {
+            "authorId": "2363747838",
+            "name": "Marvin MinskySeymour"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "eba6b55f7d3302471579eedd5c1558b38f4ea8da",
+        "externalIds": {
+          "MAG": "2147366477",
+          "CorpusId": 122810543
+        },
+        "url": "https://www.semanticscholar.org/paper/eba6b55f7d3302471579eedd5c1558b38f4ea8da",
+        "title": "ON CONVERGENCE PROOFS FOR PERCEPTRONS",
+        "venue": "",
+        "year": 1963,
+        "referenceCount": 2,
+        "citationCount": 493,
+        "authors": [
+          {
+            "authorId": "102790204",
+            "name": "A. Novikoff"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "86b7edea21cb82af9c0c04e53c66d7ad55e419b4",
+        "externalIds": {
+          "CorpusId": 53306004
+        },
+        "url": "https://www.semanticscholar.org/paper/86b7edea21cb82af9c0c04e53c66d7ad55e419b4",
+        "title": "Mathematical Programming manuscript No. (will be inserted by the editor) Pegasos: Primal Estimated sub-GrAdient SOlver for SVM",
+        "venue": "",
+        "year": null,
+        "referenceCount": 0,
+        "citationCount": 2340,
+        "authors": []
+      }
+    }
+  ]
+}

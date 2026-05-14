@@ -1,0 +1,336 @@
+{
+  "total": 22,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "de3b9eb697feed3d097e3f671afe395f48c1ab76",
+      "externalIds": {
+        "MAG": "2952558689",
+        "ArXiv": "1802.07687",
+        "DBLP": "journals/corr/abs-1802-07687",
+        "CorpusId": 3663219
+      },
+      "url": "https://www.semanticscholar.org/paper/de3b9eb697feed3d097e3f671afe395f48c1ab76",
+      "title": "Stochastic Video Generation with a Learned Prior",
+      "venue": "International Conference on Machine Learning",
+      "year": 2018,
+      "referenceCount": 43,
+      "citationCount": 571,
+      "authors": [
+        {
+          "authorId": "40081727",
+          "name": "Emily L. Denton"
+        },
+        {
+          "authorId": "2276554",
+          "name": "R. Fergus"
+        }
+      ]
+    },
+    {
+      "paperId": "894a50424c616c8af6014961fdb8d6bfb8153876",
+      "externalIds": {
+        "ArXiv": "2406.14436",
+        "DBLP": "journals/corr/abs-2406-14436",
+        "DOI": "10.48550/arXiv.2406.14436",
+        "CorpusId": 270620905
+      },
+      "url": "https://www.semanticscholar.org/paper/894a50424c616c8af6014961fdb8d6bfb8153876",
+      "title": "Video Generation with Learned Action Prior",
+      "venue": "arXiv.org",
+      "year": 2024,
+      "referenceCount": 45,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2295666623",
+          "name": "Meenakshi Sarkar"
+        },
+        {
+          "authorId": "2275353865",
+          "name": "Devansh Bhardwaj"
+        },
+        {
+          "authorId": "2295669812",
+          "name": "Debasish Ghose"
+        }
+      ]
+    },
+    {
+      "paperId": "86e17b0103ef33e730a2fb61d8f171520f6ea028",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2508-00144",
+        "ArXiv": "2508.00144",
+        "DOI": "10.48550/arXiv.2508.00144",
+        "CorpusId": 280417376
+      },
+      "url": "https://www.semanticscholar.org/paper/86e17b0103ef33e730a2fb61d8f171520f6ea028",
+      "title": "World Consistency Score: A Unified Metric for Video Generation Quality",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "referenceCount": 0,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "2374410517",
+          "name": "Akshat Rakheja"
+        },
+        {
+          "authorId": "2374411342",
+          "name": "Aarsh Ashdhir"
+        },
+        {
+          "authorId": "2246927034",
+          "name": "A. Bhattacharjee"
+        },
+        {
+          "authorId": "2299747523",
+          "name": "Vanshika Sharma"
+        }
+      ]
+    },
+    {
+      "paperId": "670b4da9e69c7690df06f19ccd18a12f13ee23b4",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2201-06888",
+        "ArXiv": "2201.06888",
+        "CorpusId": 246035779
+      },
+      "url": "https://www.semanticscholar.org/paper/670b4da9e69c7690df06f19ccd18a12f13ee23b4",
+      "title": "Autoencoding Video Latents for Adversarial Video Generation",
+      "venue": "arXiv.org",
+      "year": 2022,
+      "referenceCount": 66,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "1736716397",
+          "name": "Sai Hemanth Kasaraneni"
+        }
+      ]
+    },
+    {
+      "paperId": "841172750e8111b8ee1bd9ccf74176329edb2b44",
+      "externalIds": {
+        "DBLP": "conf/icdm/MalashinMMGBNT25",
+        "DOI": "10.1109/ICDMW69685.2025.00271",
+        "CorpusId": 286464839
+      },
+      "url": "https://www.semanticscholar.org/paper/841172750e8111b8ee1bd9ccf74176329edb2b44",
+      "title": "A Stochastic Diffusion Framework for Tabular Data Synthesis and Completion",
+      "venue": "2025 IEEE International Conference on Data Mining Workshops (ICDMW)",
+      "year": 2025,
+      "referenceCount": 47,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2277070408",
+          "name": "I. Malashin"
+        },
+        {
+          "authorId": "2299662696",
+          "name": "I. Masich"
+        },
+        {
+          "authorId": "2304672450",
+          "name": "Dmitry Martysyuk"
+        },
+        {
+          "authorId": "2258475619",
+          "name": "Andrei P. Gantimurov"
+        },
+        {
+          "authorId": "2280719605",
+          "name": "Aleksey S. Borodulin"
+        },
+        {
+          "authorId": "2284907687",
+          "name": "V. Nelyub"
+        },
+        {
+          "authorId": "2221900951",
+          "name": "V. Tynchenko"
+        }
+      ]
+    },
+    {
+      "paperId": "1d94c5bac2b6e13087564fc4b8f2cd52566a1b25",
+      "externalIds": {
+        "ArXiv": "2604.01997",
+        "CorpusId": 287074035
+      },
+      "url": "https://www.semanticscholar.org/paper/1d94c5bac2b6e13087564fc4b8f2cd52566a1b25",
+      "title": "GenGait: A Transformer-Based Model for Human Gait Anomaly Detection and Normative Twin Generation",
+      "venue": "",
+      "year": 2026,
+      "referenceCount": 24,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2356855105",
+          "name": "Elisa Motta"
+        },
+        {
+          "authorId": "31153432",
+          "name": "M. Lorenzini"
+        },
+        {
+          "authorId": "2427459489",
+          "name": "Clara Mouawad"
+        },
+        {
+          "authorId": "2800071",
+          "name": "A. Ranavolo"
+        },
+        {
+          "authorId": "2287733651",
+          "name": "Mariano Serrao"
+        },
+        {
+          "authorId": "2389742672",
+          "name": "Arash Ajoudani"
+        }
+      ]
+    },
+    {
+      "paperId": "da567029cf318751f0e095b1782a94084b84d0f1",
+      "externalIds": {
+        "MAG": "3113233363",
+        "ArXiv": "2012.03924",
+        "DOI": "10.1103/physrevx.12.031010",
+        "CorpusId": 227342386
+      },
+      "url": "https://www.semanticscholar.org/paper/da567029cf318751f0e095b1782a94084b84d0f1",
+      "title": "Generation of High-Resolution Handwritten Digits with an Ion-Trap Quantum Computer",
+      "venue": "Physical Review X",
+      "year": 2020,
+      "referenceCount": 63,
+      "citationCount": 123,
+      "authors": [
+        {
+          "authorId": "2066721157",
+          "name": "Manuel S. Rudolph"
+        },
+        {
+          "authorId": "2041346633",
+          "name": "N. Toussaint"
+        },
+        {
+          "authorId": "6377145",
+          "name": "Amara Katabarwa"
+        },
+        {
+          "authorId": "12511250",
+          "name": "S. Johri"
+        },
+        {
+          "authorId": "3670995",
+          "name": "B. Peropadre"
+        },
+        {
+          "authorId": "1402938096",
+          "name": "A. Perdomo-Ortiz"
+        }
+      ]
+    },
+    {
+      "paperId": "fea116aecc9324ac9fa204322dfa27c9781bc914",
+      "externalIds": {
+        "DBLP": "conf/wsc/CenHH20",
+        "MAG": "3146879076",
+        "DOI": "10.1109/WSC48552.2020.9383966",
+        "CorpusId": 221506211
+      },
+      "url": "https://www.semanticscholar.org/paper/fea116aecc9324ac9fa204322dfa27c9781bc914",
+      "title": "NIM: Modeling and Generation of Simulation Inputs Via Generative Neural Networks",
+      "venue": "Online World Conference on Soft Computing in Industrial Applications",
+      "year": 2020,
+      "referenceCount": 15,
+      "citationCount": 15,
+      "authors": [
+        {
+          "authorId": "88227917",
+          "name": "Wang Cen"
+        },
+        {
+          "authorId": "1443756568",
+          "name": "Emily A. Herbert"
+        },
+        {
+          "authorId": "2281984411",
+          "name": "Peter J. Haas"
+        }
+      ]
+    },
+    {
+      "paperId": "198fe6e2076fcc485bc2edf6b6c60f3eb7356913",
+      "externalIds": {
+        "MAG": "2998080493",
+        "DBLP": "conf/scsc/HerbertCH19",
+        "CorpusId": 199373696
+      },
+      "url": "https://www.semanticscholar.org/paper/198fe6e2076fcc485bc2edf6b6c60f3eb7356913",
+      "title": "NIM: generative neural networks for modeling and generation of simulation inputs",
+      "venue": "Summer Simulation Multiconference",
+      "year": 2019,
+      "referenceCount": 12,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "1443756568",
+          "name": "Emily A. Herbert"
+        },
+        {
+          "authorId": "88227917",
+          "name": "Wang Cen"
+        },
+        {
+          "authorId": "37810307",
+          "name": "P. Haas"
+        }
+      ]
+    },
+    {
+      "paperId": "7d9c23f842697e313ba176dd1fb0cf74a96ffc7b",
+      "externalIds": {
+        "ArXiv": "2405.14664",
+        "DBLP": "conf/nips/DavisKPCBB24",
+        "DOI": "10.48550/arXiv.2405.14664",
+        "CorpusId": 269982972
+      },
+      "url": "https://www.semanticscholar.org/paper/7d9c23f842697e313ba176dd1fb0cf74a96ffc7b",
+      "title": "Fisher Flow Matching for Generative Modeling over Discrete Data",
+      "venue": "Neural Information Processing Systems",
+      "year": 2024,
+      "referenceCount": 80,
+      "citationCount": 49,
+      "authors": [
+        {
+          "authorId": "2302802969",
+          "name": "Oscar Davis"
+        },
+        {
+          "authorId": "2066244799",
+          "name": "Samuel Kessler"
+        },
+        {
+          "authorId": "2299941247",
+          "name": "Mircea Petrache"
+        },
+        {
+          "authorId": "49633004",
+          "name": "I. Ceylan"
+        },
+        {
+          "authorId": "2253393509",
+          "name": "Michael M. Bronstein"
+        },
+        {
+          "authorId": "2249757968",
+          "name": "A. Bose"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,328 @@
+{
+  "total": 16,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "0c90acbe5114ded9fa3c5978fab5de9dc0b0e523",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-1712-09765",
+        "MAG": "2950508799",
+        "ArXiv": "1712.09765",
+        "CorpusId": 26242162
+      },
+      "url": "https://www.semanticscholar.org/paper/0c90acbe5114ded9fa3c5978fab5de9dc0b0e523",
+      "title": "Differentially Private Matrix Completion, Revisited",
+      "venue": "International Conference on Machine Learning",
+      "year": 2017,
+      "referenceCount": 52,
+      "citationCount": 34,
+      "authors": [
+        {
+          "authorId": "48964143",
+          "name": "Prateek Jain"
+        },
+        {
+          "authorId": "145812109",
+          "name": "Om Thakkar"
+        },
+        {
+          "authorId": "2623159",
+          "name": "Abhradeep Thakurta"
+        }
+      ]
+    },
+    {
+      "paperId": "37a367fa28061ab73f83da0478e35ebe839693d9",
+      "externalIds": {
+        "DBLP": "conf/aistats/WangZK23",
+        "CorpusId": 259107068
+      },
+      "url": "https://www.semanticscholar.org/paper/37a367fa28061ab73f83da0478e35ebe839693d9",
+      "title": "Differentially Private Matrix Completion through Low-rank Matrix Factorization",
+      "venue": "International Conference on Artificial Intelligence and Statistics",
+      "year": 2023,
+      "referenceCount": 37,
+      "citationCount": 4,
+      "authors": [
+        {
+          "authorId": "2151976110",
+          "name": "Lingxiao Wang"
+        },
+        {
+          "authorId": "2112525618",
+          "name": "Boxin Zhao"
+        },
+        {
+          "authorId": "1682383",
+          "name": "M. Kolar"
+        }
+      ]
+    },
+    {
+      "paperId": "adb06656a3cdbb5b06b6ca9665667994ec66b2a3",
+      "externalIds": {
+        "MAG": "2890933397",
+        "DBLP": "conf/trustcom/ZhouLFSC18",
+        "DOI": "10.1109/TrustCom/BigDataSE.2018.00239",
+        "CorpusId": 52161789
+      },
+      "url": "https://www.semanticscholar.org/paper/adb06656a3cdbb5b06b6ca9665667994ec66b2a3",
+      "title": "Differentially Private Matrix Completion via Distributed Matrix Factorization",
+      "venue": "2018 17th IEEE International Conference On Trust, Security And Privacy In Computing And Communications/ 12th IEEE International Conference On Big Data Science And Engineering (TrustCom/BigDataSE)",
+      "year": 2018,
+      "referenceCount": 12,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2111827043",
+          "name": "Hao Zhou"
+        },
+        {
+          "authorId": "4029028",
+          "name": "Xiao-Yang Liu"
+        },
+        {
+          "authorId": "143801466",
+          "name": "Cai Fu"
+        },
+        {
+          "authorId": "2062998026",
+          "name": "Chen Shang"
+        },
+        {
+          "authorId": "2072562519",
+          "name": "Xinyi Chang"
+        }
+      ]
+    },
+    {
+      "paperId": "28359e14be56811fb865a4fcc5a6b917c94be68d",
+      "externalIds": {
+        "ArXiv": "2206.07910",
+        "DBLP": "journals/corr/abs-2206-07910",
+        "DOI": "10.48550/arXiv.2206.07910",
+        "CorpusId": 249712033
+      },
+      "url": "https://www.semanticscholar.org/paper/28359e14be56811fb865a4fcc5a6b917c94be68d",
+      "title": "Introducing the Huber mechanism for differentially private low-rank matrix completion",
+      "venue": "arXiv.org",
+      "year": 2022,
+      "referenceCount": 26,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "145127347",
+          "name": "R. Gowtham"
+        },
+        {
+          "authorId": "1990441659",
+          "name": "Gokularam Muthukrishnan"
+        },
+        {
+          "authorId": "9397143",
+          "name": "Thulasi Tholeti"
+        },
+        {
+          "authorId": "143968719",
+          "name": "S. Kalyani"
+        }
+      ]
+    },
+    {
+      "paperId": "98f280d6f511faa62dbd42ca43b99f4fd83d7e43",
+      "externalIds": {
+        "ArXiv": "2107.09802",
+        "DBLP": "conf/icml/Chien0KR0T021",
+        "CorpusId": 235826282
+      },
+      "url": "https://www.semanticscholar.org/paper/98f280d6f511faa62dbd42ca43b99f4fd83d7e43",
+      "title": "Private Alternating Least Squares: Practical Private Matrix Completion with Tighter Rates",
+      "venue": "International Conference on Machine Learning",
+      "year": 2021,
+      "referenceCount": 57,
+      "citationCount": 19,
+      "authors": [
+        {
+          "authorId": "2059189068",
+          "name": "Steve Chien"
+        },
+        {
+          "authorId": "48964143",
+          "name": "Prateek Jain"
+        },
+        {
+          "authorId": "3035222",
+          "name": "Walid Krichene"
+        },
+        {
+          "authorId": "2843982",
+          "name": "Steffen Rendle"
+        },
+        {
+          "authorId": "144206374",
+          "name": "Shuang Song"
+        },
+        {
+          "authorId": "2623159",
+          "name": "Abhradeep Thakurta"
+        },
+        {
+          "authorId": "2152831594",
+          "name": "Li Zhang"
+        }
+      ]
+    },
+    {
+      "paperId": "fa82cf27a689ff2dc9c6c5498b7074538772a825",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2512-18932",
+        "ArXiv": "2512.18932",
+        "DOI": "10.48550/arXiv.2512.18932",
+        "CorpusId": 284078738
+      },
+      "url": "https://www.semanticscholar.org/paper/fa82cf27a689ff2dc9c6c5498b7074538772a825",
+      "title": "DPSR: Differentially Private Sparse Reconstruction via Multi-Stage Denoising for Recommender Systems",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "referenceCount": 26,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "150290745",
+          "name": "Sarwan Ali"
+        }
+      ]
+    },
+    {
+      "paperId": "d5f0cd47ab804c5426b6aef5c7e0c206909da471",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2205-14324",
+        "ArXiv": "2205.14324",
+        "DOI": "10.48550/arXiv.2205.14324",
+        "CorpusId": 249191345
+      },
+      "url": "https://www.semanticscholar.org/paper/d5f0cd47ab804c5426b6aef5c7e0c206909da471",
+      "title": "Differentially Private Covariance Revisited",
+      "venue": "Neural Information Processing Systems",
+      "year": 2022,
+      "referenceCount": 40,
+      "citationCount": 20,
+      "authors": [
+        {
+          "authorId": "2087097622",
+          "name": "Wei Dong"
+        },
+        {
+          "authorId": "2117875364",
+          "name": "Yuting Liang"
+        },
+        {
+          "authorId": "144744111",
+          "name": "K. Yi"
+        }
+      ]
+    },
+    {
+      "paperId": "7c8634be409d59c15b717cc1dc8f696289617e89",
+      "externalIds": {
+        "DBLP": "conf/nips/AroraBGMU22",
+        "ArXiv": "2205.03014",
+        "DOI": "10.48550/arXiv.2205.03014",
+        "CorpusId": 248562546
+      },
+      "url": "https://www.semanticscholar.org/paper/7c8634be409d59c15b717cc1dc8f696289617e89",
+      "title": "Differentially Private Generalized Linear Models Revisited",
+      "venue": "Neural Information Processing Systems",
+      "year": 2022,
+      "referenceCount": 37,
+      "citationCount": 23,
+      "authors": [
+        {
+          "authorId": "144365054",
+          "name": "R. Arora"
+        },
+        {
+          "authorId": "1679638",
+          "name": "Raef Bassily"
+        },
+        {
+          "authorId": "2055080602",
+          "name": "Crist'obal Guzm'an"
+        },
+        {
+          "authorId": "2119036618",
+          "name": "Michael Menart"
+        },
+        {
+          "authorId": "51095694",
+          "name": "Enayat Ullah"
+        }
+      ]
+    },
+    {
+      "paperId": "70f5dc1422b161563f8a3e1f916a5f745bd28239",
+      "externalIds": {
+        "DBLP": "conf/isit/Xu0ZY21",
+        "DOI": "10.1109/ISIT45174.2021.9517847",
+        "CorpusId": 237376572
+      },
+      "url": "https://www.semanticscholar.org/paper/70f5dc1422b161563f8a3e1f916a5f745bd28239",
+      "title": "Joint Differentially Private Channel Estimation in Cell-free Hybrid Massive MIMO",
+      "venue": "International Symposium on Information Theory",
+      "year": 2021,
+      "referenceCount": 0,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2150636260",
+          "name": "Jun Xu"
+        },
+        {
+          "authorId": "47119575",
+          "name": "Xiaodong Wang"
+        },
+        {
+          "authorId": "145417170",
+          "name": "Pengcheng Zhu"
+        },
+        {
+          "authorId": "1696345",
+          "name": "X. You"
+        }
+      ]
+    },
+    {
+      "paperId": "5d1bfb3a792948fdd62975c2fdcb9ccba58d8aae",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2110-00719",
+        "ArXiv": "2110.00719",
+        "CorpusId": 238259779
+      },
+      "url": "https://www.semanticscholar.org/paper/5d1bfb3a792948fdd62975c2fdcb9ccba58d8aae",
+      "title": "One-Bit Matrix Completion with Differential Privacy",
+      "venue": "arXiv.org",
+      "year": 2021,
+      "referenceCount": 61,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2145370533",
+          "name": "Zhengpin Li"
+        },
+        {
+          "authorId": "2115508584",
+          "name": "Zheng Wei"
+        },
+        {
+          "authorId": "48212029",
+          "name": "Xiaojun Mao"
+        },
+        {
+          "authorId": "120465654",
+          "name": "Jian Wang"
+        }
+      ]
+    }
+  ]
+}

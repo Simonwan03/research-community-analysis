@@ -1,0 +1,878 @@
+{
+  "offset": 0,
+  "citingPaperInfo": {
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/1503.02424, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "title": "Improving the Gaussian Process Sparse Spectrum Approximation by Representing Uncertainty in Frequency Inputs",
+    "authors": [
+      {
+        "authorId": "2681954",
+        "name": "Y. Gal"
+      },
+      {
+        "authorId": "145369890",
+        "name": "Richard E. Turner"
+      }
+    ]
+  },
+  "data": [
+    {
+      "citedPaper": {
+        "paperId": "c8595c0e291a214264363cdd96eaf64321762cbc",
+        "externalIds": {
+          "MAG": "2148007822",
+          "DBLP": "conf/nips/WilsonGCN14",
+          "CorpusId": 11334211
+        },
+        "url": "https://www.semanticscholar.org/paper/c8595c0e291a214264363cdd96eaf64321762cbc",
+        "title": "Fast Kernel Learning for Multidimensional Pattern Extrapolation",
+        "venue": "Neural Information Processing Systems",
+        "year": 2014,
+        "referenceCount": 32,
+        "citationCount": 152,
+        "authors": [
+          {
+            "authorId": "145771261",
+            "name": "A. Wilson"
+          },
+          {
+            "authorId": "35158761",
+            "name": "Elad Gilboa"
+          },
+          {
+            "authorId": "2575774",
+            "name": "J. Cunningham"
+          },
+          {
+            "authorId": "1678349",
+            "name": "A. Nehorai"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "6a00d1c642853f20c8c5e7b4d96619c419bc711c",
+        "externalIds": {
+          "DBLP": "journals/corr/GalWR14",
+          "MAG": "2949971467",
+          "ArXiv": "1402.1389",
+          "CorpusId": 1399138
+        },
+        "url": "https://www.semanticscholar.org/paper/6a00d1c642853f20c8c5e7b4d96619c419bc711c",
+        "title": "Distributed Variational Inference in Sparse Gaussian Process Regression and Latent Variable Models",
+        "venue": "Neural Information Processing Systems",
+        "year": 2014,
+        "referenceCount": 19,
+        "citationCount": 153,
+        "authors": [
+          {
+            "authorId": "2681954",
+            "name": "Y. Gal"
+          },
+          {
+            "authorId": "33567216",
+            "name": "Mark van der Wilk"
+          },
+          {
+            "authorId": "3472959",
+            "name": "C. Rasmussen"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "e301beb0e17805dbabf5add06d99c53e8703ea34",
+        "externalIds": {
+          "MAG": "1777124189",
+          "DBLP": "journals/corr/HensmanFL13",
+          "ArXiv": "1309.6835",
+          "CorpusId": 10741325
+        },
+        "url": "https://www.semanticscholar.org/paper/e301beb0e17805dbabf5add06d99c53e8703ea34",
+        "title": "Gaussian Processes for Big Data",
+        "venue": "Conference on Uncertainty in Artificial Intelligence",
+        "year": 2013,
+        "referenceCount": 17,
+        "citationCount": 1339,
+        "authors": [
+          {
+            "authorId": "3166500",
+            "name": "J. Hensman"
+          },
+          {
+            "authorId": "2723245",
+            "name": "Nicoló Fusi"
+          },
+          {
+            "authorId": "145306271",
+            "name": "Neil D. Lawrence"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "de0baabf8da21e0830459c8fd23b55103adbe5c9",
+        "externalIds": {
+          "MAG": "1762233554",
+          "DBLP": "journals/sac/TanONJ16",
+          "ArXiv": "1306.1999",
+          "DOI": "10.1007/s11222-015-9600-7",
+          "CorpusId": 15228998
+        },
+        "url": "https://www.semanticscholar.org/paper/de0baabf8da21e0830459c8fd23b55103adbe5c9",
+        "title": "Variational inference for sparse spectrum Gaussian process regression",
+        "venue": "Statistics and computing",
+        "year": 2013,
+        "referenceCount": 50,
+        "citationCount": 17,
+        "authors": [
+          {
+            "authorId": "152962272",
+            "name": "Linda S. L. Tan"
+          },
+          {
+            "authorId": "3447364",
+            "name": "V. M. Ong"
+          },
+          {
+            "authorId": "34750239",
+            "name": "D. Nott"
+          },
+          {
+            "authorId": "3011741",
+            "name": "A. Jasra"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "d00247f9892bdd58ac36a11df9acbc32d56e185a",
+        "externalIds": {
+          "DBLP": "conf/icml/DuvenaudLGTG13",
+          "MAG": "2951308445",
+          "ArXiv": "1302.4922",
+          "CorpusId": 7341531
+        },
+        "url": "https://www.semanticscholar.org/paper/d00247f9892bdd58ac36a11df9acbc32d56e185a",
+        "title": "Structure Discovery in Nonparametric Regression through Compositional Kernel Search",
+        "venue": "International Conference on Machine Learning",
+        "year": 2013,
+        "referenceCount": 28,
+        "citationCount": 543,
+        "authors": [
+          {
+            "authorId": "1704657",
+            "name": "D. Duvenaud"
+          },
+          {
+            "authorId": "11383109",
+            "name": "J. Lloyd"
+          },
+          {
+            "authorId": "1785346",
+            "name": "R. Grosse"
+          },
+          {
+            "authorId": "1763295",
+            "name": "J. Tenenbaum"
+          },
+          {
+            "authorId": "1744700",
+            "name": "Zoubin Ghahramani"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "71ec2c3f28e5833fbf2b29967982969ac4ddc24e",
+        "externalIds": {
+          "DBLP": "conf/icml/WilsonA13",
+          "ArXiv": "1302.4245",
+          "MAG": "2891531300",
+          "CorpusId": 279814
+        },
+        "url": "https://www.semanticscholar.org/paper/71ec2c3f28e5833fbf2b29967982969ac4ddc24e",
+        "title": "Gaussian Process Kernels for Pattern Discovery and Extrapolation",
+        "venue": "International Conference on Machine Learning",
+        "year": 2013,
+        "referenceCount": 32,
+        "citationCount": 659,
+        "authors": [
+          {
+            "authorId": "145771261",
+            "name": "A. Wilson"
+          },
+          {
+            "authorId": "1722180",
+            "name": "Ryan P. Adams"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "b5f5ed292ce93404a0985754b2b531eca4e6cf50",
+        "externalIds": {
+          "MAG": "2963711523",
+          "DBLP": "journals/corr/abs-1211-0358",
+          "ArXiv": "1211.0358",
+          "CorpusId": 5945613
+        },
+        "url": "https://www.semanticscholar.org/paper/b5f5ed292ce93404a0985754b2b531eca4e6cf50",
+        "title": "Deep Gaussian Processes",
+        "venue": "International Conference on Artificial Intelligence and Statistics",
+        "year": 2012,
+        "referenceCount": 47,
+        "citationCount": 1296,
+        "authors": [
+          {
+            "authorId": "3106771",
+            "name": "Andreas C. Damianou"
+          },
+          {
+            "authorId": "145306271",
+            "name": "Neil D. Lawrence"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "4805ebf88928605fce88804a8f3cab552a800c90",
+        "externalIds": {
+          "MAG": "1776998237",
+          "DOI": "10.1201/b12171",
+          "CorpusId": 119365909
+        },
+        "url": "https://www.semanticscholar.org/paper/4805ebf88928605fce88804a8f3cab552a800c90",
+        "title": "Stationary Stochastic Processes: Theory and Applications",
+        "venue": "",
+        "year": 2012,
+        "referenceCount": 0,
+        "citationCount": 119,
+        "authors": [
+          {
+            "authorId": "25268956",
+            "name": "G. Lindgren"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "bccb2f99a9d1c105699f5d88c479569085e2c7ba",
+        "externalIds": {
+          "DBLP": "journals/corr/HoffmanBWP12",
+          "MAG": "2952905572",
+          "ArXiv": "1206.7051",
+          "DOI": "10.5555/2567709.2502622",
+          "CorpusId": 5652538
+        },
+        "url": "https://www.semanticscholar.org/paper/bccb2f99a9d1c105699f5d88c479569085e2c7ba",
+        "title": "Stochastic variational inference",
+        "venue": "Journal of machine learning research",
+        "year": 2012,
+        "referenceCount": 128,
+        "citationCount": 2805,
+        "authors": [
+          {
+            "authorId": "28552618",
+            "name": "M. Hoffman"
+          },
+          {
+            "authorId": "1796335",
+            "name": "D. Blei"
+          },
+          {
+            "authorId": "2108881999",
+            "name": "Chong Wang"
+          },
+          {
+            "authorId": "143855009",
+            "name": "J. Paisley"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "cd5a26b89f0799db1cbc1dff5607cb6815739fe7",
+        "externalIds": {
+          "MAG": "2950338507",
+          "DBLP": "journals/corr/abs-1012-2599",
+          "ArXiv": "1012.2599",
+          "CorpusId": 1640103
+        },
+        "url": "https://www.semanticscholar.org/paper/cd5a26b89f0799db1cbc1dff5607cb6815739fe7",
+        "title": "A Tutorial on Bayesian Optimization of Expensive Cost Functions, with Application to Active User Modeling and Hierarchical Reinforcement Learning",
+        "venue": "arXiv.org",
+        "year": 2010,
+        "referenceCount": 109,
+        "citationCount": 2633,
+        "authors": [
+          {
+            "authorId": "144180357",
+            "name": "E. Brochu"
+          },
+          {
+            "authorId": "2221163",
+            "name": "Vlad M. Cora"
+          },
+          {
+            "authorId": "1737568",
+            "name": "Nando de Freitas"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "94b2d70bb7661c7f891c5b6ef5c99d72dfa82d8d",
+        "externalIds": {
+          "DBLP": "journals/jmlr/TitsiasL10",
+          "MAG": "2606518536",
+          "CorpusId": 15356207
+        },
+        "url": "https://www.semanticscholar.org/paper/94b2d70bb7661c7f891c5b6ef5c99d72dfa82d8d",
+        "title": "Bayesian Gaussian Process Latent Variable Model",
+        "venue": "International Conference on Artificial Intelligence and Statistics",
+        "year": 2010,
+        "referenceCount": 22,
+        "citationCount": 515,
+        "authors": [
+          {
+            "authorId": "1722732",
+            "name": "Michalis K. Titsias"
+          },
+          {
+            "authorId": "145306271",
+            "name": "Neil D. Lawrence"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "f2b1b678ee6295136fdc25d04a804df95badd065",
+        "externalIds": {
+          "MAG": "2170912685",
+          "DBLP": "journals/jmlr/Lazaro-GredillaCRF10",
+          "DOI": "10.5555/1756006.1859914",
+          "CorpusId": 8501263
+        },
+        "url": "https://www.semanticscholar.org/paper/f2b1b678ee6295136fdc25d04a804df95badd065",
+        "title": "Sparse Spectrum Gaussian Process Regression",
+        "venue": "Journal of machine learning research",
+        "year": 2010,
+        "referenceCount": 22,
+        "citationCount": 536,
+        "authors": [
+          {
+            "authorId": "1388666962",
+            "name": "M. Lázaro-Gredilla"
+          },
+          {
+            "authorId": "3177568",
+            "name": "J. Q. Candela"
+          },
+          {
+            "authorId": "3472959",
+            "name": "C. Rasmussen"
+          },
+          {
+            "authorId": "1398493114",
+            "name": "A. Figueiras-Vidal"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "f4de6082e2af026b5925810f7e7a1b04736496e2",
+        "externalIds": {
+          "MAG": "137285897",
+          "DBLP": "journals/jmlr/Titsias09",
+          "CorpusId": 7811257
+        },
+        "url": "https://www.semanticscholar.org/paper/f4de6082e2af026b5925810f7e7a1b04736496e2",
+        "title": "Variational Learning of Inducing Variables in Sparse Gaussian Processes",
+        "venue": "International Conference on Artificial Intelligence and Statistics",
+        "year": 2009,
+        "referenceCount": 12,
+        "citationCount": 1879,
+        "authors": [
+          {
+            "authorId": "1722732",
+            "name": "Michalis K. Titsias"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "7a59fde27461a3ef4a21a249cc403d0d96e4a0d7",
+        "externalIds": {
+          "MAG": "2144902422",
+          "DBLP": "conf/nips/RahimiR07",
+          "CorpusId": 877929
+        },
+        "url": "https://www.semanticscholar.org/paper/7a59fde27461a3ef4a21a249cc403d0d96e4a0d7",
+        "title": "Random Features for Large-Scale Kernel Machines",
+        "venue": "Neural Information Processing Systems",
+        "year": 2007,
+        "referenceCount": 17,
+        "citationCount": 4809,
+        "authors": [
+          {
+            "authorId": "31558848",
+            "name": "A. Rahimi"
+          },
+          {
+            "authorId": "9229182",
+            "name": "B. Recht"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "668b1277fbece28c4841eeab1c97e4ebd0079700",
+        "externalIds": {
+          "MAG": "2009086942",
+          "DBLP": "journals/technometrics/Neal07",
+          "DOI": "10.1007/978-0-387-45528-0",
+          "CorpusId": 31993898
+        },
+        "url": "https://www.semanticscholar.org/paper/668b1277fbece28c4841eeab1c97e4ebd0079700",
+        "title": "Pattern Recognition and Machine Learning",
+        "venue": "Technometrics",
+        "year": 2006,
+        "referenceCount": 361,
+        "citationCount": 39236,
+        "authors": [
+          {
+            "authorId": "1764325",
+            "name": "Radford M. Neal"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "713fb831bf324690aa7a7e07ace3443770046007",
+        "externalIds": {
+          "MAG": "1571870753",
+          "DBLP": "journals/jmlr/CandelaR05",
+          "CorpusId": 16005390
+        },
+        "url": "https://www.semanticscholar.org/paper/713fb831bf324690aa7a7e07ace3443770046007",
+        "title": "A Unifying View of Sparse Approximate Gaussian Process Regression",
+        "venue": "Journal of machine learning research",
+        "year": 2005,
+        "referenceCount": 22,
+        "citationCount": 2173,
+        "authors": [
+          {
+            "authorId": "3177568",
+            "name": "J. Q. Candela"
+          },
+          {
+            "authorId": "3472959",
+            "name": "C. Rasmussen"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "8ca86e941da7254613a5d03dd7a6c36886fadc1d",
+        "externalIds": {
+          "MAG": "164706946",
+          "CorpusId": 262910797
+        },
+        "url": "https://www.semanticscholar.org/paper/8ca86e941da7254613a5d03dd7a6c36886fadc1d",
+        "title": "Gaussian Processes for Machine Learning (Adaptive Computation and Machine Learning)",
+        "venue": "",
+        "year": 2005,
+        "referenceCount": 0,
+        "citationCount": 4322,
+        "authors": [
+          {
+            "authorId": "2247411478",
+            "name": "Carl E. Rasmussen"
+          },
+          {
+            "authorId": "2248834664",
+            "name": "Christopher K. I. Williams"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "ba4bcd8c4ebb1427d335c23d50249d370778ae49",
+        "externalIds": {
+          "MAG": "2156974606",
+          "DBLP": "conf/icml/EngelMM05",
+          "DOI": "10.1145/1102351.1102377",
+          "CorpusId": 363516
+        },
+        "url": "https://www.semanticscholar.org/paper/ba4bcd8c4ebb1427d335c23d50249d370778ae49",
+        "title": "Reinforcement learning with Gaussian processes",
+        "venue": "International Conference on Machine Learning",
+        "year": 2005,
+        "referenceCount": 13,
+        "citationCount": 426,
+        "authors": [
+          {
+            "authorId": "2057050",
+            "name": "Y. Engel"
+          },
+          {
+            "authorId": "1712535",
+            "name": "Shie Mannor"
+          },
+          {
+            "authorId": "1766683",
+            "name": "R. Meir"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "3cc0095b47615c2f47beaca9bd8f675811fb118a",
+        "externalIds": {
+          "MAG": "2151268438",
+          "DBLP": "conf/nips/RasmussenK03",
+          "CorpusId": 13417437
+        },
+        "url": "https://www.semanticscholar.org/paper/3cc0095b47615c2f47beaca9bd8f675811fb118a",
+        "title": "Gaussian Processes in Reinforcement Learning",
+        "venue": "Neural Information Processing Systems",
+        "year": 2003,
+        "referenceCount": 9,
+        "citationCount": 300,
+        "authors": [
+          {
+            "authorId": "3472959",
+            "name": "C. Rasmussen"
+          },
+          {
+            "authorId": "8231010",
+            "name": "M. Kuss"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "1076a9b8181a7f9eb069d38ca10876a3202d2e89",
+        "externalIds": {
+          "MAG": "2005126631",
+          "DBLP": "journals/toms/ZhuBLN97",
+          "DOI": "10.1145/279232.279236",
+          "CorpusId": 207228122
+        },
+        "url": "https://www.semanticscholar.org/paper/1076a9b8181a7f9eb069d38ca10876a3202d2e89",
+        "title": "Algorithm 778: L-BFGS-B: Fortran subroutines for large-scale bound-constrained optimization",
+        "venue": "TOMS",
+        "year": 1997,
+        "referenceCount": 25,
+        "citationCount": 3625,
+        "authors": [
+          {
+            "authorId": "34728746",
+            "name": "C. Zhu"
+          },
+          {
+            "authorId": "144448267",
+            "name": "R. Byrd"
+          },
+          {
+            "authorId": "2337678",
+            "name": "P. Lu"
+          },
+          {
+            "authorId": "2784955",
+            "name": "J. Nocedal"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "47128bb3ce4ed00691c0d7d58c02791c3e963ab7",
+        "externalIds": {
+          "MAG": "2619993508",
+          "CorpusId": 65148724
+        },
+        "url": "https://www.semanticscholar.org/paper/47128bb3ce4ed00691c0d7d58c02791c3e963ab7",
+        "title": "Darpa Timit Acoustic-Phonetic Continuous Speech Corpus CD-ROM {TIMIT} | NIST",
+        "venue": "",
+        "year": 1993,
+        "referenceCount": 0,
+        "citationCount": 2236,
+        "authors": [
+          {
+            "authorId": "2467151",
+            "name": "John S. Garofolo"
+          },
+          {
+            "authorId": "145204681",
+            "name": "L. Lamel"
+          },
+          {
+            "authorId": "144982775",
+            "name": "W. Fisher"
+          },
+          {
+            "authorId": "3241934",
+            "name": "Jonathan G. Fiscus"
+          },
+          {
+            "authorId": "1786370",
+            "name": "D. Pallett"
+          },
+          {
+            "authorId": "35669756",
+            "name": "Nancy L. Dahlgren"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "7abda1941534d3bb558dd959025d67f1df526303",
+        "externalIds": {
+          "DBLP": "journals/neco/MacKay92c",
+          "MAG": "2088538739",
+          "DOI": "10.1162/neco.1992.4.5.720",
+          "CorpusId": 6530745
+        },
+        "url": "https://www.semanticscholar.org/paper/7abda1941534d3bb558dd959025d67f1df526303",
+        "title": "The Evidence Framework Applied to Classification Networks",
+        "venue": "Neural Computation",
+        "year": 1992,
+        "referenceCount": 17,
+        "citationCount": 879,
+        "authors": [
+          {
+            "authorId": "145852650",
+            "name": "D. MacKay"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "b959164d1efca4b73986ba5d21e664aadbbc0457",
+        "externalIds": {
+          "MAG": "2111051539",
+          "DBLP": "journals/neco/MacKay92a",
+          "DOI": "10.1162/neco.1992.4.3.448",
+          "CorpusId": 16543854
+        },
+        "url": "https://www.semanticscholar.org/paper/b959164d1efca4b73986ba5d21e664aadbbc0457",
+        "title": "A Practical Bayesian Framework for Backpropagation Networks",
+        "venue": "Neural Computation",
+        "year": 1992,
+        "referenceCount": 25,
+        "citationCount": 3446,
+        "authors": [
+          {
+            "authorId": "145852650",
+            "name": "D. MacKay"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "df0eb0bee6fb77b53fb20c622a0994f7ba75ab44",
+        "externalIds": {
+          "MAG": "2319026302",
+          "DOI": "10.2307/2308692",
+          "CorpusId": 124432796
+        },
+        "url": "https://www.semanticscholar.org/paper/df0eb0bee6fb77b53fb20c622a0994f7ba75ab44",
+        "title": "Lectures on Fourier Integrals",
+        "venue": "",
+        "year": 1959,
+        "referenceCount": 0,
+        "citationCount": 429,
+        "authors": [
+          {
+            "authorId": "69498854",
+            "name": "R. V. Churchill"
+          },
+          {
+            "authorId": "12873112",
+            "name": "S. Bochner"
+          },
+          {
+            "authorId": "2577510",
+            "name": "Morris Tenenbaum"
+          },
+          {
+            "authorId": "49849336",
+            "name": "H. Pollard"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "8e3c872076750bcce868808f9d4d7a038f950040",
+        "externalIds": {
+          "MAG": "2512499575",
+          "CorpusId": 268095720
+        },
+        "url": "https://www.semanticscholar.org/paper/8e3c872076750bcce868808f9d4d7a038f950040",
+        "title": "Pattern Recognition And Machine Learning",
+        "venue": "",
+        "year": 2016,
+        "referenceCount": 1,
+        "citationCount": 6508,
+        "authors": [
+          {
+            "authorId": "2334288972",
+            "name": "L. Strauss"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "ffc8c09a4cb5a174166ac16d19e646bc150c2c31",
+        "externalIds": {
+          "CorpusId": 12206522
+        },
+        "url": "https://www.semanticscholar.org/paper/ffc8c09a4cb5a174166ac16d19e646bc150c2c31",
+        "title": "Phone Recognition on the TIMIT Database",
+        "venue": "",
+        "year": 2012,
+        "referenceCount": 45,
+        "citationCount": 980,
+        "authors": [
+          {
+            "authorId": "144550593",
+            "name": "C. Lopes"
+          },
+          {
+            "authorId": "2242660",
+            "name": "F. Perdigão"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "Lecture 6.5 - rmsprop, COURSERA: Neural networks for machine",
+        "venue": "",
+        "year": 2012,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "e008ec108171c4eb88c65edf589ebee31e4359c8",
+        "externalIds": {
+          "MAG": "2108853809",
+          "CorpusId": 3904513
+        },
+        "url": "https://www.semanticscholar.org/paper/e008ec108171c4eb88c65edf589ebee31e4359c8",
+        "title": "Statistical models for natural sounds",
+        "venue": "",
+        "year": 2010,
+        "referenceCount": 180,
+        "citationCount": 62,
+        "authors": [
+          {
+            "authorId": "145369890",
+            "name": "Richard E. Turner"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "Solar irradiance reconstruction",
+        "venue": "",
+        "year": 2004,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "IGBP PAGES / World Data Center for Paleoclimatology",
+        "venue": "",
+        "year": null,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "and the Carbon Dioxide Research Group",
+        "venue": "Atmospheric CO2 concentrations (ppmv",
+        "year": null,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "GPy: A Gaussian process framework in python. http://github.com/SheffieldML/ GPy",
+        "venue": "GPy: A Gaussian process framework in python. http://github.com/SheffieldML/ GPy",
+        "year": null,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "Atmospheric CO 2 concentrations ( ppmv ) derived from in situ air samples collected at Mauna Loa Observatory , Hawaii",
+        "venue": "",
+        "year": null,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    }
+  ]
+}

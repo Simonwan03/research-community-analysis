@@ -1,0 +1,859 @@
+{
+  "offset": 0,
+  "citingPaperInfo": {
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/1503.01057, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "title": "Kernel Interpolation for Scalable Structured Gaussian Processes (KISS-GP)",
+    "authors": [
+      {
+        "authorId": "145771261",
+        "name": "A. Wilson"
+      },
+      {
+        "authorId": "1748758",
+        "name": "H. Nickisch"
+      }
+    ]
+  },
+  "data": [
+    {
+      "citedPaper": {
+        "paperId": "08d8758581af226e678a6b0dd9d4646d129f205d",
+        "externalIds": {
+          "MAG": "2953019287",
+          "DBLP": "journals/corr/YangSSW14",
+          "ArXiv": "1412.6493",
+          "CorpusId": 8977578
+        },
+        "url": "https://www.semanticscholar.org/paper/08d8758581af226e678a6b0dd9d4646d129f205d",
+        "title": "A la Carte - Learning Fast Kernels",
+        "venue": "International Conference on Artificial Intelligence and Statistics",
+        "year": 2014,
+        "referenceCount": 31,
+        "citationCount": 138,
+        "authors": [
+          {
+            "authorId": "8387085",
+            "name": "Zichao Yang"
+          },
+          {
+            "authorId": "145771261",
+            "name": "A. Wilson"
+          },
+          {
+            "authorId": "46234526",
+            "name": "Alex Smola"
+          },
+          {
+            "authorId": "1779453",
+            "name": "Le Song"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "c8595c0e291a214264363cdd96eaf64321762cbc",
+        "externalIds": {
+          "MAG": "2148007822",
+          "DBLP": "conf/nips/WilsonGCN14",
+          "CorpusId": 11334211
+        },
+        "url": "https://www.semanticscholar.org/paper/c8595c0e291a214264363cdd96eaf64321762cbc",
+        "title": "Fast Kernel Learning for Multidimensional Pattern Extrapolation",
+        "venue": "Neural Information Processing Systems",
+        "year": 2014,
+        "referenceCount": 32,
+        "citationCount": 152,
+        "authors": [
+          {
+            "authorId": "145771261",
+            "name": "A. Wilson"
+          },
+          {
+            "authorId": "35158761",
+            "name": "Elad Gilboa"
+          },
+          {
+            "authorId": "2575774",
+            "name": "J. Cunningham"
+          },
+          {
+            "authorId": "1678349",
+            "name": "A. Nehorai"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "bd47e101c7f869fffc57f529e532a0b9cf275a26",
+        "externalIds": {
+          "DBLP": "journals/corr/LuMLGGBFCKPS14",
+          "ArXiv": "1411.4000",
+          "MAG": "1879682036",
+          "CorpusId": 10019590
+        },
+        "url": "https://www.semanticscholar.org/paper/bd47e101c7f869fffc57f529e532a0b9cf275a26",
+        "title": "How to Scale Up Kernel Methods to Be As Good As Deep Neural Nets",
+        "venue": "arXiv.org",
+        "year": 2014,
+        "referenceCount": 57,
+        "citationCount": 66,
+        "authors": [
+          {
+            "authorId": "2095379",
+            "name": "Zhiyun Lu"
+          },
+          {
+            "authorId": "40353015",
+            "name": "Avner May"
+          },
+          {
+            "authorId": "2118800090",
+            "name": "Kuan Liu"
+          },
+          {
+            "authorId": "2691103",
+            "name": "A. Garakani"
+          },
+          {
+            "authorId": "2068108348",
+            "name": "Dong Guo"
+          },
+          {
+            "authorId": "1702915",
+            "name": "A. Bellet"
+          },
+          {
+            "authorId": "3275727",
+            "name": "Linxi (Jim) Fan"
+          },
+          {
+            "authorId": "144426392",
+            "name": "Michael Collins"
+          },
+          {
+            "authorId": "144707379",
+            "name": "Brian Kingsbury"
+          },
+          {
+            "authorId": "1774515",
+            "name": "M. Picheny"
+          },
+          {
+            "authorId": "145757665",
+            "name": "Fei Sha"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "e301beb0e17805dbabf5add06d99c53e8703ea34",
+        "externalIds": {
+          "MAG": "1777124189",
+          "DBLP": "journals/corr/HensmanFL13",
+          "ArXiv": "1309.6835",
+          "CorpusId": 10741325
+        },
+        "url": "https://www.semanticscholar.org/paper/e301beb0e17805dbabf5add06d99c53e8703ea34",
+        "title": "Gaussian Processes for Big Data",
+        "venue": "Conference on Uncertainty in Artificial Intelligence",
+        "year": 2013,
+        "referenceCount": 17,
+        "citationCount": 1339,
+        "authors": [
+          {
+            "authorId": "3166500",
+            "name": "J. Hensman"
+          },
+          {
+            "authorId": "2723245",
+            "name": "Nicoló Fusi"
+          },
+          {
+            "authorId": "145306271",
+            "name": "Neil D. Lawrence"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "8ce9de8009d7186a16804e55ad7d2d8ce595d350",
+        "externalIds": {
+          "MAG": "175700287",
+          "DBLP": "conf/icml/LeSS13",
+          "CorpusId": 30379501
+        },
+        "url": "https://www.semanticscholar.org/paper/8ce9de8009d7186a16804e55ad7d2d8ce595d350",
+        "title": "Fastfood - Computing Hilbert Space Expansions in loglinear time",
+        "venue": "International Conference on Machine Learning",
+        "year": 2013,
+        "referenceCount": 0,
+        "citationCount": 163,
+        "authors": [
+          {
+            "authorId": "2827616",
+            "name": "Quoc V. Le"
+          },
+          {
+            "authorId": "2227764",
+            "name": "Tamás Sarlós"
+          },
+          {
+            "authorId": "46234526",
+            "name": "Alex Smola"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "813a5dff6e9224f43af291d28edaaeabd170ec0b",
+        "externalIds": {
+          "MAG": "172594198",
+          "DBLP": "conf/aistats/LuoD13",
+          "CorpusId": 697039
+        },
+        "url": "https://www.semanticscholar.org/paper/813a5dff6e9224f43af291d28edaaeabd170ec0b",
+        "title": "Fast Near-GRID Gaussian Process Regression",
+        "venue": "International Conference on Artificial Intelligence and Statistics",
+        "year": 2013,
+        "referenceCount": 23,
+        "citationCount": 11,
+        "authors": [
+          {
+            "authorId": "2908285",
+            "name": "Yuancheng Luo"
+          },
+          {
+            "authorId": "1719541",
+            "name": "R. Duraiswami"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "71ec2c3f28e5833fbf2b29967982969ac4ddc24e",
+        "externalIds": {
+          "DBLP": "conf/icml/WilsonA13",
+          "ArXiv": "1302.4245",
+          "MAG": "2891531300",
+          "CorpusId": 279814
+        },
+        "url": "https://www.semanticscholar.org/paper/71ec2c3f28e5833fbf2b29967982969ac4ddc24e",
+        "title": "Gaussian Process Kernels for Pattern Discovery and Extrapolation",
+        "venue": "International Conference on Machine Learning",
+        "year": 2013,
+        "referenceCount": 32,
+        "citationCount": 659,
+        "authors": [
+          {
+            "authorId": "145771261",
+            "name": "A. Wilson"
+          },
+          {
+            "authorId": "1722180",
+            "name": "Ryan P. Adams"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "7a92e48d4ab63d982b6e5c70538bfd8a0d50c30e",
+        "externalIds": {
+          "DBLP": "journals/jmlr/ChalupkaWM13",
+          "MAG": "2952795334",
+          "ArXiv": "1205.6326",
+          "DOI": "10.5555/2567709.2502592",
+          "CorpusId": 15567320
+        },
+        "url": "https://www.semanticscholar.org/paper/7a92e48d4ab63d982b6e5c70538bfd8a0d50c30e",
+        "title": "A framework for evaluating approximation methods for Gaussian process regression",
+        "venue": "Journal of machine learning research",
+        "year": 2012,
+        "referenceCount": 34,
+        "citationCount": 184,
+        "authors": [
+          {
+            "authorId": "3180200",
+            "name": "Krzysztof Chalupka"
+          },
+          {
+            "authorId": "145715698",
+            "name": "Christopher K. I. Williams"
+          },
+          {
+            "authorId": "145797336",
+            "name": "Iain Murray"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "e7e25fd534e9e024da329aea546484938df305a5",
+        "externalIds": {
+          "DBLP": "journals/jmlr/RasmussenN10",
+          "MAG": "2107386393",
+          "DOI": "10.5555/1756006.1953029",
+          "CorpusId": 11921023
+        },
+        "url": "https://www.semanticscholar.org/paper/e7e25fd534e9e024da329aea546484938df305a5",
+        "title": "Gaussian Processes for Machine Learning (GPML) Toolbox",
+        "venue": "Journal of machine learning research",
+        "year": 2010,
+        "referenceCount": 7,
+        "citationCount": 1080,
+        "authors": [
+          {
+            "authorId": "3472959",
+            "name": "C. Rasmussen"
+          },
+          {
+            "authorId": "1748758",
+            "name": "H. Nickisch"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "f2b1b678ee6295136fdc25d04a804df95badd065",
+        "externalIds": {
+          "MAG": "2170912685",
+          "DBLP": "journals/jmlr/Lazaro-GredillaCRF10",
+          "DOI": "10.5555/1756006.1859914",
+          "CorpusId": 8501263
+        },
+        "url": "https://www.semanticscholar.org/paper/f2b1b678ee6295136fdc25d04a804df95badd065",
+        "title": "Sparse Spectrum Gaussian Process Regression",
+        "venue": "Journal of machine learning research",
+        "year": 2010,
+        "referenceCount": 22,
+        "citationCount": 536,
+        "authors": [
+          {
+            "authorId": "1388666962",
+            "name": "M. Lázaro-Gredilla"
+          },
+          {
+            "authorId": "3177568",
+            "name": "J. Q. Candela"
+          },
+          {
+            "authorId": "3472959",
+            "name": "C. Rasmussen"
+          },
+          {
+            "authorId": "1398493114",
+            "name": "A. Figueiras-Vidal"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "47da6ef58153b058e2eaef08125dae5fc1d2e382",
+        "externalIds": {
+          "DBLP": "conf/icml/CunninghamSS08",
+          "MAG": "2170952786",
+          "DOI": "10.1145/1390156.1390181",
+          "CorpusId": 8604590
+        },
+        "url": "https://www.semanticscholar.org/paper/47da6ef58153b058e2eaef08125dae5fc1d2e382",
+        "title": "Fast Gaussian process methods for point process intensity estimation",
+        "venue": "International Conference on Machine Learning",
+        "year": 2008,
+        "referenceCount": 20,
+        "citationCount": 127,
+        "authors": [
+          {
+            "authorId": "2575774",
+            "name": "J. Cunningham"
+          },
+          {
+            "authorId": "2234656",
+            "name": "K. Shenoy"
+          },
+          {
+            "authorId": "2283363",
+            "name": "M. Sahani"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "8cbf2ec7905e675211acc5810f7b872ee00cdf79",
+        "externalIds": {
+          "MAG": "2148006136",
+          "DBLP": "conf/nips/Naish-GuzmanH07a",
+          "CorpusId": 14678467
+        },
+        "url": "https://www.semanticscholar.org/paper/8cbf2ec7905e675211acc5810f7b872ee00cdf79",
+        "title": "The Generalized FITC Approximation",
+        "venue": "Neural Information Processing Systems",
+        "year": 2007,
+        "referenceCount": 18,
+        "citationCount": 99,
+        "authors": [
+          {
+            "authorId": "2168698",
+            "name": "Andrew Naish"
+          },
+          {
+            "authorId": "2732041",
+            "name": "S. Holden"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "7a59fde27461a3ef4a21a249cc403d0d96e4a0d7",
+        "externalIds": {
+          "MAG": "2144902422",
+          "DBLP": "conf/nips/RahimiR07",
+          "CorpusId": 877929
+        },
+        "url": "https://www.semanticscholar.org/paper/7a59fde27461a3ef4a21a249cc403d0d96e4a0d7",
+        "title": "Random Features for Large-Scale Kernel Machines",
+        "venue": "Neural Information Processing Systems",
+        "year": 2007,
+        "referenceCount": 17,
+        "citationCount": 4809,
+        "authors": [
+          {
+            "authorId": "31558848",
+            "name": "A. Rahimi"
+          },
+          {
+            "authorId": "9229182",
+            "name": "B. Recht"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "e1c73641c28cfe17a277227ce450d557ea04845a",
+        "externalIds": {
+          "MAG": "2130819374",
+          "DOI": "10.7551/mitpress/7496.003.0011",
+          "CorpusId": 13071261
+        },
+        "url": "https://www.semanticscholar.org/paper/e1c73641c28cfe17a277227ce450d557ea04845a",
+        "title": "Approximation Methods for Gaussian Process Regression",
+        "venue": "",
+        "year": 2007,
+        "referenceCount": 36,
+        "citationCount": 200,
+        "authors": [
+          {
+            "authorId": "1401755685",
+            "name": "Joaquin Quiñonero-Candela"
+          },
+          {
+            "authorId": "3472959",
+            "name": "C. Rasmussen"
+          },
+          {
+            "authorId": "152746370",
+            "name": "Cki Williams"
+          },
+          {
+            "authorId": "17132092",
+            "name": "Bottou"
+          },
+          {
+            "authorId": "1730609",
+            "name": "O. Chapelle"
+          },
+          {
+            "authorId": "1703049",
+            "name": "D. DeCoste"
+          },
+          {
+            "authorId": "145183709",
+            "name": "J. Weston"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "b6a2d80854651a56e0f023543131744f14f20ab4",
+        "externalIds": {
+          "DBLP": "conf/nips/SnelsonG05",
+          "MAG": "2099768828",
+          "CorpusId": 394337
+        },
+        "url": "https://www.semanticscholar.org/paper/b6a2d80854651a56e0f023543131744f14f20ab4",
+        "title": "Sparse Gaussian Processes using Pseudo-inputs",
+        "venue": "Neural Information Processing Systems",
+        "year": 2005,
+        "referenceCount": 15,
+        "citationCount": 2008,
+        "authors": [
+          {
+            "authorId": "2081889",
+            "name": "Edward Snelson"
+          },
+          {
+            "authorId": "1744700",
+            "name": "Zoubin Ghahramani"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "713fb831bf324690aa7a7e07ace3443770046007",
+        "externalIds": {
+          "MAG": "1571870753",
+          "DBLP": "journals/jmlr/CandelaR05",
+          "CorpusId": 16005390
+        },
+        "url": "https://www.semanticscholar.org/paper/713fb831bf324690aa7a7e07ace3443770046007",
+        "title": "A Unifying View of Sparse Approximate Gaussian Process Regression",
+        "venue": "Journal of machine learning research",
+        "year": 2005,
+        "referenceCount": 22,
+        "citationCount": 2173,
+        "authors": [
+          {
+            "authorId": "3177568",
+            "name": "J. Q. Candela"
+          },
+          {
+            "authorId": "3472959",
+            "name": "C. Rasmussen"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "60388818aa7faf07945d53292a21d3efa2ea841e",
+        "externalIds": {
+          "MAG": "2100136038",
+          "DBLP": "phd/ethos/Seeger03",
+          "CorpusId": 12672378
+        },
+        "url": "https://www.semanticscholar.org/paper/60388818aa7faf07945d53292a21d3efa2ea841e",
+        "title": "Bayesian Gaussian process models : PAC-Bayesian generalisation error bounds and sparse approximations",
+        "venue": "",
+        "year": 2003,
+        "referenceCount": 191,
+        "citationCount": 217,
+        "authors": [
+          {
+            "authorId": "1680574",
+            "name": "M. Seeger"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "1486de62910bfc6eac13b14e7a76c9024003d6bc",
+        "externalIds": {
+          "MAG": "1510444525",
+          "DOI": "10.1111/J.2517-6161.1985.TB01327.X",
+          "CorpusId": 14999264
+        },
+        "url": "https://www.semanticscholar.org/paper/1486de62910bfc6eac13b14e7a76c9024003d6bc",
+        "title": "Some Aspects of the Spline Smoothing Approach to Non‐Parametric Regression Curve Fitting",
+        "venue": "",
+        "year": 1985,
+        "referenceCount": 110,
+        "citationCount": 1129,
+        "authors": [
+          {
+            "authorId": "2056371619",
+            "name": "Bernard Walter Silverman"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "de5ca64429d18710232ecc0da54998e1a401fcbe",
+        "externalIds": {
+          "MAG": "2157494358",
+          "DOI": "10.1109/TASSP.1981.1163711",
+          "CorpusId": 15863986
+        },
+        "url": "https://www.semanticscholar.org/paper/de5ca64429d18710232ecc0da54998e1a401fcbe",
+        "title": "Cubic convolution interpolation for digital image processing",
+        "venue": "",
+        "year": 1981,
+        "referenceCount": 4,
+        "citationCount": 3813,
+        "authors": [
+          {
+            "authorId": "83279180",
+            "name": "R. Keys"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "0b4d43ef0051a225e07af8194e81007ebba8d787",
+        "externalIds": {
+          "MAG": "2033979425",
+          "DOI": "10.1038/285620A0",
+          "CorpusId": 4276691,
+          "PubMed": "6248788"
+        },
+        "url": "https://www.semanticscholar.org/paper/0b4d43ef0051a225e07af8194e81007ebba8d787",
+        "title": "Occam's razor",
+        "venue": "Nature",
+        "year": 1980,
+        "referenceCount": 0,
+        "citationCount": 1104,
+        "authors": [
+          {
+            "authorId": "2109503620",
+            "name": "Temple F. Smith"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "dd03f2ba2e166143a173aa4dba432df302ae898f",
+        "externalIds": {
+          "DBLP": "conf/acm/Shepard68",
+          "MAG": "2967467761",
+          "DOI": "10.1145/800186.810616",
+          "CorpusId": 42723195
+        },
+        "url": "https://www.semanticscholar.org/paper/dd03f2ba2e166143a173aa4dba432df302ae898f",
+        "title": "A two-dimensional interpolation function for irregularly-spaced data",
+        "venue": "ACM National Conference",
+        "year": 1968,
+        "referenceCount": 7,
+        "citationCount": 5551,
+        "authors": [
+          {
+            "authorId": "2105387808",
+            "name": "D. Shepard"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "Covariance kernels for fast automatic pattern discovery and extrapolation with Gaussian processes",
+        "venue": "PhD thesis, University of Cambridge,",
+        "year": 2014,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "A process over all stationary kernels",
+        "venue": "A process over all stationary kernels",
+        "year": 2012,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "Scalable Inference for Structured Gaussian Process Models",
+        "venue": "PhD thesis, University of Cambridge,",
+        "year": 2011,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "e008ec108171c4eb88c65edf589ebee31e4359c8",
+        "externalIds": {
+          "MAG": "2108853809",
+          "CorpusId": 3904513
+        },
+        "url": "https://www.semanticscholar.org/paper/e008ec108171c4eb88c65edf589ebee31e4359c8",
+        "title": "Statistical models for natural sounds",
+        "venue": "",
+        "year": 2010,
+        "referenceCount": 180,
+        "citationCount": 62,
+        "authors": [
+          {
+            "authorId": "145369890",
+            "name": "Richard E. Turner"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "e3b4a4f0e0fc777fcb419a262092275c273ce73f",
+        "externalIds": {
+          "MAG": "2691456052",
+          "CorpusId": 65547625
+        },
+        "url": "https://www.semanticscholar.org/paper/e3b4a4f0e0fc777fcb419a262092275c273ce73f",
+        "title": "Large-Scale Kernel Machines",
+        "venue": "",
+        "year": 2007,
+        "referenceCount": 0,
+        "citationCount": 6,
+        "authors": [
+          {
+            "authorId": "1401755685",
+            "name": "Joaquin Quiñonero-Candela"
+          },
+          {
+            "authorId": "3472959",
+            "name": "C. Rasmussen"
+          },
+          {
+            "authorId": "145715698",
+            "name": "Christopher K. I. Williams"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "33f1522d3cae6f41a0af5247fd7a18755d0b19b0",
+        "externalIds": {
+          "DBLP": "conf/nips/Shawe-TaylorW02",
+          "MAG": "2111176881",
+          "CorpusId": 16910350
+        },
+        "url": "https://www.semanticscholar.org/paper/33f1522d3cae6f41a0af5247fd7a18755d0b19b0",
+        "title": "The Stability of Kernel Principal Components Analysis and its Relation to the Process Eigenspectrum",
+        "venue": "Neural Information Processing Systems",
+        "year": 2002,
+        "referenceCount": 7,
+        "citationCount": 44,
+        "authors": [
+          {
+            "authorId": "1404459229",
+            "name": "J. Shawe-Taylor"
+          },
+          {
+            "authorId": "145715698",
+            "name": "Christopher K. I. Williams"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "8e597460557d44de07ec570738cd2b42cdcc2580",
+        "externalIds": {
+          "DBLP": "conf/nips/SmolaB00",
+          "MAG": "2123687908",
+          "CorpusId": 8981636
+        },
+        "url": "https://www.semanticscholar.org/paper/8e597460557d44de07ec570738cd2b42cdcc2580",
+        "title": "Sparse Greedy Gaussian Process Regression",
+        "venue": "Neural Information Processing Systems",
+        "year": 2000,
+        "referenceCount": 8,
+        "citationCount": 440,
+        "authors": [
+          {
+            "authorId": "46234526",
+            "name": "Alex Smola"
+          },
+          {
+            "authorId": "1745169",
+            "name": "P. Bartlett"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "9cb3c51796384c30e8bb3862c7c861cab769e438",
+        "externalIds": {
+          "MAG": "145504188",
+          "DOI": "10.1007/978-94-011-5338-6_4",
+          "CorpusId": 118641060
+        },
+        "url": "https://www.semanticscholar.org/paper/9cb3c51796384c30e8bb3862c7c861cab769e438",
+        "title": "Numerical Treatment of the Integral Equations",
+        "venue": "",
+        "year": 1999,
+        "referenceCount": 0,
+        "citationCount": 384,
+        "authors": [
+          {
+            "authorId": "101165650",
+            "name": "G. Micula"
+          },
+          {
+            "authorId": "2505029",
+            "name": "Sanda Micula"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "5f49a73c42be6dbd851af4599d9911ea1d6ac7f4",
+        "externalIds": {
+          "MAG": "1550570395",
+          "DBLP": "phd/ca/Rasmussen97",
+          "CorpusId": 16685561
+        },
+        "url": "https://www.semanticscholar.org/paper/5f49a73c42be6dbd851af4599d9911ea1d6ac7f4",
+        "title": "Evaluation of Gaussian processes and other methods for non-linear regression",
+        "venue": "",
+        "year": 1997,
+        "referenceCount": 116,
+        "citationCount": 528,
+        "authors": [
+          {
+            "authorId": "3472959",
+            "name": "C. Rasmussen"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "Structured Kernel Interpolation",
+        "venue": "Structured Kernel Interpolation",
+        "year": null,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,1299 @@
+{
+  "offset": 0,
+  "citingPaperInfo": {
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/1502.02158, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "title": "Learning Parametric-Output HMMs with Two Aliased States",
+    "authors": [
+      {
+        "authorId": "27755643",
+        "name": "Roi Weiss"
+      },
+      {
+        "authorId": "1786884",
+        "name": "B. Nadler"
+      }
+    ]
+  },
+  "data": [
+    {
+      "citedPaper": {
+        "paperId": "2265b6d9fb32bec0fc17bbd756eb9f667dcacc63",
+        "externalIds": {
+          "MAG": "2904621345",
+          "DOI": "10.1201/9781315120355-9",
+          "CorpusId": 104301366
+        },
+        "url": "https://www.semanticscholar.org/paper/2265b6d9fb32bec0fc17bbd756eb9f667dcacc63",
+        "title": "Single-Molecule Kinetics",
+        "venue": "",
+        "year": 2017,
+        "referenceCount": 1,
+        "citationCount": 7,
+        "authors": [
+          {
+            "authorId": "6314146",
+            "name": "Clive R. Bagshaw"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "6c1b2d5ecdde0fd4fa23646e0ebba6a5e5cdbad5",
+        "externalIds": {
+          "DBLP": "journals/tsp/HuangGKD16",
+          "MAG": "232548544",
+          "ArXiv": "1411.3698",
+          "DOI": "10.1109/TSP.2015.2510969",
+          "CorpusId": 9250897
+        },
+        "url": "https://www.semanticscholar.org/paper/6c1b2d5ecdde0fd4fa23646e0ebba6a5e5cdbad5",
+        "title": "Minimal Realization Problems for Hidden Markov Models",
+        "venue": "IEEE Transactions on Signal Processing",
+        "year": 2014,
+        "referenceCount": 39,
+        "citationCount": 21,
+        "authors": [
+          {
+            "authorId": "2111525642",
+            "name": "Qingqing Huang"
+          },
+          {
+            "authorId": "144804200",
+            "name": "Rong Ge"
+          },
+          {
+            "authorId": "144695232",
+            "name": "S. Kakade"
+          },
+          {
+            "authorId": "1729606",
+            "name": "M. Dahleh"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "82f81b1927b63ab405f9277b5b421999dd190c1e",
+        "externalIds": {
+          "DBLP": "conf/allerton/HuangGKD14",
+          "MAG": "2094554732",
+          "DOI": "10.1109/ALLERTON.2014.7028428",
+          "CorpusId": 18714958
+        },
+        "url": "https://www.semanticscholar.org/paper/82f81b1927b63ab405f9277b5b421999dd190c1e",
+        "title": "Minimal realization problem for Hidden Markov Models",
+        "venue": "Allerton Conference on Communication, Control, and Computing",
+        "year": 2014,
+        "referenceCount": 19,
+        "citationCount": 8,
+        "authors": [
+          {
+            "authorId": "2111525642",
+            "name": "Qingqing Huang"
+          },
+          {
+            "authorId": "144804200",
+            "name": "Rong Ge"
+          },
+          {
+            "authorId": "144695232",
+            "name": "S. Kakade"
+          },
+          {
+            "authorId": "1729606",
+            "name": "M. Dahleh"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "034068edbe30849e03da09ca40a08f21d24aab39",
+        "externalIds": {
+          "MAG": "2159321228",
+          "DBLP": "conf/icml/KontorovichNW13",
+          "ArXiv": "1302.6009",
+          "CorpusId": 6985907
+        },
+        "url": "https://www.semanticscholar.org/paper/034068edbe30849e03da09ca40a08f21d24aab39",
+        "title": "On learning parametric-output HMMs",
+        "venue": "International Conference on Machine Learning",
+        "year": 2013,
+        "referenceCount": 32,
+        "citationCount": 40,
+        "authors": [
+          {
+            "authorId": "5333251",
+            "name": "A. Kontorovich"
+          },
+          {
+            "authorId": "1786884",
+            "name": "B. Nadler"
+          },
+          {
+            "authorId": "27755643",
+            "name": "Roi Weiss"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "9db88ccc60b485dbf864316d03e9df73f706a920",
+        "externalIds": {
+          "MAG": "2098650530",
+          "ArXiv": "1207.4678",
+          "DBLP": "journals/jap/KontorovichW14",
+          "DOI": "10.1239/jap/1421763330",
+          "CorpusId": 21374550
+        },
+        "url": "https://www.semanticscholar.org/paper/9db88ccc60b485dbf864316d03e9df73f706a920",
+        "title": "Uniform Chernoff and Dvoretzky-Kiefer-Wolfowitz-Type Inequalities for Markov Chains and Related Processes",
+        "venue": "Journal of Applied Probability",
+        "year": 2012,
+        "referenceCount": 39,
+        "citationCount": 37,
+        "authors": [
+          {
+            "authorId": "5333251",
+            "name": "A. Kontorovich"
+          },
+          {
+            "authorId": "27755643",
+            "name": "Roi Weiss"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "d2aa99aec727af4779c7b805fca06db56faf40fc",
+        "externalIds": {
+          "DBLP": "journals/jmlr/AnandkumarHK12",
+          "MAG": "2951664043",
+          "ArXiv": "1203.0683",
+          "CorpusId": 7150984
+        },
+        "url": "https://www.semanticscholar.org/paper/d2aa99aec727af4779c7b805fca06db56faf40fc",
+        "title": "A Method of Moments for Mixture Models and Hidden Markov Models",
+        "venue": "Annual Conference Computational Learning Theory",
+        "year": 2012,
+        "referenceCount": 46,
+        "citationCount": 348,
+        "authors": [
+          {
+            "authorId": "2047844",
+            "name": "Anima Anandkumar"
+          },
+          {
+            "authorId": "143724861",
+            "name": "Daniel J. Hsu"
+          },
+          {
+            "authorId": "144695232",
+            "name": "S. Kakade"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "4a079ecce40977b75232c85c75909d1c47a87a87",
+        "externalIds": {
+          "MAG": "2137989587",
+          "DBLP": "series/star/JefferiesY08",
+          "DOI": "10.1007/978-3-540-75388-9_1",
+          "CorpusId": 35534123
+        },
+        "url": "https://www.semanticscholar.org/paper/4a079ecce40977b75232c85c75909d1c47a87a87",
+        "title": "Robotics and Cognitive Approaches to Spatial Mapping",
+        "venue": "Springer Tracts in Advanced Robotics",
+        "year": 2010,
+        "referenceCount": 11,
+        "citationCount": 116,
+        "authors": [
+          {
+            "authorId": "3264315",
+            "name": "M. Jefferies"
+          },
+          {
+            "authorId": "145268835",
+            "name": "W. Yeap"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "27056831c0551630a750f849ebcc00fb1fb549ad",
+        "externalIds": {
+          "MAG": "81502470",
+          "DBLP": "books/daglib/0018553",
+          "DOI": "10.1007/0-387-28982-8",
+          "CorpusId": 120064925
+        },
+        "url": "https://www.semanticscholar.org/paper/27056831c0551630a750f849ebcc00fb1fb549ad",
+        "title": "Inference in hidden Markov models",
+        "venue": "Springer Series in Statistics",
+        "year": 2010,
+        "referenceCount": 154,
+        "citationCount": 1340,
+        "authors": [
+          {
+            "authorId": "1769551",
+            "name": "O. Cappé"
+          },
+          {
+            "authorId": "2313661",
+            "name": "É. Moulines"
+          },
+          {
+            "authorId": "30762848",
+            "name": "T. Rydén"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "ef791874e92a1c44d4251c9bd9f31cebc42b47c7",
+        "externalIds": {
+          "DBLP": "journals/corr/abs-1004-4864",
+          "MAG": "2951177125",
+          "ArXiv": "1004.4864",
+          "DOI": "10.1137/13090818X",
+          "CorpusId": 3089712
+        },
+        "url": "https://www.semanticscholar.org/paper/ef791874e92a1c44d4251c9bd9f31cebc42b47c7",
+        "title": "Polynomial Learning of Distribution Families",
+        "venue": "IEEE Annual Symposium on Foundations of Computer Science",
+        "year": 2010,
+        "referenceCount": 27,
+        "citationCount": 228,
+        "authors": [
+          {
+            "authorId": "145520115",
+            "name": "Mikhail Belkin"
+          },
+          {
+            "authorId": "40523939",
+            "name": "Kaushik Sinha"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "68969e3f24853d97dc4c59837e009a16f6f279d3",
+        "externalIds": {
+          "MAG": "2949313516",
+          "DBLP": "journals/jmlr/SiddiqiBG10",
+          "ArXiv": "0910.0902",
+          "CorpusId": 6709619
+        },
+        "url": "https://www.semanticscholar.org/paper/68969e3f24853d97dc4c59837e009a16f6f279d3",
+        "title": "Reduced-Rank Hidden Markov Models",
+        "venue": "International Conference on Artificial Intelligence and Statistics",
+        "year": 2009,
+        "referenceCount": 46,
+        "citationCount": 137,
+        "authors": [
+          {
+            "authorId": "2286485",
+            "name": "S. Siddiqi"
+          },
+          {
+            "authorId": "3288815",
+            "name": "Byron Boots"
+          },
+          {
+            "authorId": "21889436",
+            "name": "Geoffrey J. Gordon"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "e24ef4ab9110206e0a3ef3bbb715ff3216a5673d",
+        "externalIds": {
+          "MAG": "2123226256",
+          "DBLP": "journals/tsp/KritchmanN09",
+          "DOI": "10.1109/TSP.2009.2022897",
+          "CorpusId": 12140347
+        },
+        "url": "https://www.semanticscholar.org/paper/e24ef4ab9110206e0a3ef3bbb715ff3216a5673d",
+        "title": "Non-Parametric Detection of the Number of Signals: Hypothesis Testing and Random Matrix Theory",
+        "venue": "IEEE Transactions on Signal Processing",
+        "year": 2009,
+        "referenceCount": 43,
+        "citationCount": 312,
+        "authors": [
+          {
+            "authorId": "2629128",
+            "name": "S. Kritchman"
+          },
+          {
+            "authorId": "1786884",
+            "name": "B. Nadler"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "0837518723a072d8398414fa79754127eddcae3a",
+        "externalIds": {
+          "DBLP": "journals/adb/ZatuchnaB09",
+          "MAG": "1966012748",
+          "DOI": "10.1177/1059712308099230",
+          "CorpusId": 10634665
+        },
+        "url": "https://www.semanticscholar.org/paper/0837518723a072d8398414fa79754127eddcae3a",
+        "title": "Learning Mazes with Aliasing States: An LCS Algorithm with Associative Perception",
+        "venue": "Adaptive Behavior",
+        "year": 2009,
+        "referenceCount": 61,
+        "citationCount": 26,
+        "authors": [
+          {
+            "authorId": "2473552",
+            "name": "Zhanna V. Zatuchna"
+          },
+          {
+            "authorId": "35095340",
+            "name": "A. Bagnall"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "cd9a8897e842a22f647a10f49c3b39c1631772b3",
+        "externalIds": {
+          "ArXiv": "0809.5032",
+          "MAG": "1970935148",
+          "DOI": "10.1214/09-AOS689",
+          "CorpusId": 16738108
+        },
+        "url": "https://www.semanticscholar.org/paper/cd9a8897e842a22f647a10f49c3b39c1631772b3",
+        "title": "Identifiability of parameters in latent structure models with many observed variables",
+        "venue": "",
+        "year": 2008,
+        "referenceCount": 49,
+        "citationCount": 575,
+        "authors": [
+          {
+            "authorId": "34355217",
+            "name": "E. Allman"
+          },
+          {
+            "authorId": "3222913",
+            "name": "C. Matias"
+          },
+          {
+            "authorId": "2724036",
+            "name": "J. Rhodes"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "fe792831aa57167a77263147825ef3c62c9c9e0e",
+        "externalIds": {
+          "MAG": "2165819499",
+          "DBLP": "journals/jcss/BrejovaBV07",
+          "DOI": "10.1016/J.JCSS.2007.03.011",
+          "CorpusId": 1014071
+        },
+        "url": "https://www.semanticscholar.org/paper/fe792831aa57167a77263147825ef3c62c9c9e0e",
+        "title": "The most probable annotation problem in HMMs and its application to bioinformatics",
+        "venue": "Journal of computer and system sciences (Print)",
+        "year": 2007,
+        "referenceCount": 23,
+        "citationCount": 24,
+        "authors": [
+          {
+            "authorId": "1735003",
+            "name": "Broňa Brejová"
+          },
+          {
+            "authorId": "2115444244",
+            "name": "Daniel G. Brown"
+          },
+          {
+            "authorId": "1746295",
+            "name": "T. Vinař"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "753c7db040ed47df71cc18201922dcd66052bb6b",
+        "externalIds": {
+          "MAG": "1494830552",
+          "DBLP": "journals/scl/VanluytenWM08",
+          "DOI": "10.1016/j.sysconle.2007.10.004",
+          "CorpusId": 15918629
+        },
+        "url": "https://www.semanticscholar.org/paper/753c7db040ed47df71cc18201922dcd66052bb6b",
+        "title": "Equivalence of state representations for hidden Markov models",
+        "venue": "European Control Conference",
+        "year": 2007,
+        "referenceCount": 19,
+        "citationCount": 24,
+        "authors": [
+          {
+            "authorId": "2154598",
+            "name": "Bart Vanluyten"
+          },
+          {
+            "authorId": "1806485",
+            "name": "J. Willems"
+          },
+          {
+            "authorId": "143750713",
+            "name": "B. Moor"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "7799293a1560ce8143fa2a3d9ffbaac6cd359242",
+        "externalIds": {
+          "DBLP": "journals/technometrics/Nagaraja06",
+          "MAG": "1999428284",
+          "DOI": "10.1198/tech.2006.s440",
+          "CorpusId": 30946335
+        },
+        "url": "https://www.semanticscholar.org/paper/7799293a1560ce8143fa2a3d9ffbaac6cd359242",
+        "title": "Inference in Hidden Markov Models",
+        "venue": "Technometrics",
+        "year": 2006,
+        "referenceCount": 97,
+        "citationCount": 1453,
+        "authors": [
+          {
+            "authorId": "3099610",
+            "name": "H. Nagaraja"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "f876249f7cba71f0601651f2e62d06e66d3226ac",
+        "externalIds": {
+          "MAG": "1985792472",
+          "DBLP": "conf/focs/SandlerOS05",
+          "DOI": "10.1137/060670705",
+          "CorpusId": 14040010
+        },
+        "url": "https://www.semanticscholar.org/paper/f876249f7cba71f0601651f2e62d06e66d3226ac",
+        "title": "Learning mixtures of product distributions over discrete domains",
+        "venue": "IEEE Annual Symposium on Foundations of Computer Science",
+        "year": 2005,
+        "referenceCount": 25,
+        "citationCount": 125,
+        "authors": [
+          {
+            "authorId": "38838239",
+            "name": "J. Feldman"
+          },
+          {
+            "authorId": "1410077373",
+            "name": "R. O'Donnell"
+          },
+          {
+            "authorId": "1729835",
+            "name": "R. Servedio"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "f06bbe14d083e366512f4759b447e30d79da8eca",
+        "externalIds": {
+          "MAG": "1580557482",
+          "DBLP": "conf/ecml/ShaniBS05",
+          "DOI": "10.1007/11564096_35",
+          "CorpusId": 8056847
+        },
+        "url": "https://www.semanticscholar.org/paper/f06bbe14d083e366512f4759b447e30d79da8eca",
+        "title": "Model-Based Online Learning of POMDPs",
+        "venue": "European Conference on Machine Learning",
+        "year": 2005,
+        "referenceCount": 14,
+        "citationCount": 66,
+        "authors": [
+          {
+            "authorId": "1719532",
+            "name": "Guy Shani"
+          },
+          {
+            "authorId": "1680506",
+            "name": "R. Brafman"
+          },
+          {
+            "authorId": "1719613",
+            "name": "S. E. Shimony"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "ba7598cff4ce3da4be12434451ef891ece61e77a",
+        "externalIds": {
+          "MAG": "31653604",
+          "CorpusId": 116827728
+        },
+        "url": "https://www.semanticscholar.org/paper/ba7598cff4ce3da4be12434451ef891ece61e77a",
+        "title": "Inference in Hidden Markov Models (Springer Series in Statistics)",
+        "venue": "",
+        "year": 2005,
+        "referenceCount": 0,
+        "citationCount": 407,
+        "authors": [
+          {
+            "authorId": "1769551",
+            "name": "O. Cappé"
+          },
+          {
+            "authorId": "2313661",
+            "name": "É. Moulines"
+          },
+          {
+            "authorId": "30762848",
+            "name": "T. Rydén"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "0efe7ae6fe5a4ce30b69fd2fdcde8bcb3715929b",
+        "externalIds": {
+          "MAG": "2805714915",
+          "DBLP": "conf/colt/AchlioptasM05",
+          "DOI": "10.1007/11503415_31",
+          "CorpusId": 13180676
+        },
+        "url": "https://www.semanticscholar.org/paper/0efe7ae6fe5a4ce30b69fd2fdcde8bcb3715929b",
+        "title": "On Spectral Learning of Mixtures of Distributions",
+        "venue": "Annual Conference Computational Learning Theory",
+        "year": 2005,
+        "referenceCount": 8,
+        "citationCount": 293,
+        "authors": [
+          {
+            "authorId": "1705268",
+            "name": "D. Achlioptas"
+          },
+          {
+            "authorId": "3137076",
+            "name": "Frank McSherry"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "ae3b05bd3185c72c2dd0517dd44bdb47d1a8b590",
+        "externalIds": {
+          "MAG": "2100967164",
+          "ArXiv": "math/0511078",
+          "DOI": "10.1214/154957805100000104",
+          "CorpusId": 8395267
+        },
+        "url": "https://www.semanticscholar.org/paper/ae3b05bd3185c72c2dd0517dd44bdb47d1a8b590",
+        "title": "Basic properties of strong mixing conditions. A survey and some open questions",
+        "venue": "",
+        "year": 2005,
+        "referenceCount": 169,
+        "citationCount": 1022,
+        "authors": [
+          {
+            "authorId": "34715294",
+            "name": "R. C. Bradley"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "8a8a389b292ca78b8e44cdf69c09cbddd5ae27c4",
+        "externalIds": {
+          "DBLP": "conf/nips/ShaniB04",
+          "MAG": "2159498728",
+          "CorpusId": 14285413
+        },
+        "url": "https://www.semanticscholar.org/paper/8a8a389b292ca78b8e44cdf69c09cbddd5ae27c4",
+        "title": "Resolving Perceptual Aliasing In The Presence Of Noisy Sensors",
+        "venue": "Neural Information Processing Systems",
+        "year": 2004,
+        "referenceCount": 15,
+        "citationCount": 26,
+        "authors": [
+          {
+            "authorId": "1719532",
+            "name": "Guy Shani"
+          },
+          {
+            "authorId": "1680506",
+            "name": "R. Brafman"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "1e811df9348d9ebafaa312f977aa86c1cfe70159",
+        "externalIds": {
+          "MAG": "2076289581",
+          "DOI": "10.1063/1.1785783",
+          "CorpusId": 11372046,
+          "PubMed": "15446933"
+        },
+        "url": "https://www.semanticscholar.org/paper/1e811df9348d9ebafaa312f977aa86c1cfe70159",
+        "title": "Single molecule kinetics. I. Theoretical analysis of indicators.",
+        "venue": "Journal of Chemical Physics",
+        "year": 2004,
+        "referenceCount": 45,
+        "citationCount": 53,
+        "authors": [
+          {
+            "authorId": "2861905",
+            "name": "James Witkoskie"
+          },
+          {
+            "authorId": "2779958",
+            "name": "Jianshu Cao"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "69e71e169299f8e1b44ec665ba0311ae84081073",
+        "externalIds": {
+          "MAG": "2141572089",
+          "DBLP": "conf/eccb/StankeW03",
+          "DOI": "10.1093/bioinformatics/btg1080",
+          "CorpusId": 16011809,
+          "PubMed": "14534192"
+        },
+        "url": "https://www.semanticscholar.org/paper/69e71e169299f8e1b44ec665ba0311ae84081073",
+        "title": "Gene prediction with a hidden Markov model and a new intron submodel",
+        "venue": "European Conference on Computational Biology",
+        "year": 2003,
+        "referenceCount": 27,
+        "citationCount": 1578,
+        "authors": [
+          {
+            "authorId": "1724225",
+            "name": "M. Stanke"
+          },
+          {
+            "authorId": "1742534",
+            "name": "S. Waack"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "3872db327a551712e5dd83db6b211a6e4b1e3b2f",
+        "externalIds": {
+          "MAG": "1972548292",
+          "DOI": "10.1016/S0006-3495(01)76087-0",
+          "CorpusId": 16110049,
+          "PubMed": "11222275"
+        },
+        "url": "https://www.semanticscholar.org/paper/3872db327a551712e5dd83db6b211a6e4b1e3b2f",
+        "title": "Bayesian restoration of ion channel records using hidden Markov models.",
+        "venue": "Biophysical Journal",
+        "year": 2001,
+        "referenceCount": 42,
+        "citationCount": 30,
+        "authors": [
+          {
+            "authorId": "32098041",
+            "name": "Rafael A. Rosales"
+          },
+          {
+            "authorId": "70995592",
+            "name": "J. Stark"
+          },
+          {
+            "authorId": "2271636376",
+            "name": "William J. Fitzgerald"
+          },
+          {
+            "authorId": "2896913",
+            "name": "S. Hladky"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "714d5711b4e0926c1e60e54c73315de3c118c5ab",
+        "externalIds": {
+          "MAG": "2168334427",
+          "DBLP": "journals/tac/WhiteMB00",
+          "DOI": "10.1109/9.895565",
+          "CorpusId": 16493124
+        },
+        "url": "https://www.semanticscholar.org/paper/714d5711b4e0926c1e60e54c73315de3c118c5ab",
+        "title": "Lumpable hidden Markov models-model reduction and reduced complexity filtering",
+        "venue": "IEEE Transactions on Automatic Control",
+        "year": 2000,
+        "referenceCount": 14,
+        "citationCount": 57,
+        "authors": [
+          {
+            "authorId": "2887308",
+            "name": "L. White"
+          },
+          {
+            "authorId": "144814747",
+            "name": "R. Mahony"
+          },
+          {
+            "authorId": "1733111",
+            "name": "G. D. Brushe"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "6fc241221e6d2b92f752d7d88d2d2313f9c643f3",
+        "externalIds": {
+          "DBLP": "journals/neco/Jaeger00",
+          "MAG": "2149960632",
+          "DOI": "10.1162/089976600300015411",
+          "CorpusId": 993440,
+          "PubMed": "10935718"
+        },
+        "url": "https://www.semanticscholar.org/paper/6fc241221e6d2b92f752d7d88d2d2313f9c643f3",
+        "title": "Observable Operator Models for Discrete Stochastic Time Series",
+        "venue": "Neural Computation",
+        "year": 2000,
+        "referenceCount": 18,
+        "citationCount": 245,
+        "authors": [
+          {
+            "authorId": "5631525",
+            "name": "Herbert Jaeger"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "97da69876da58c096580c641ba772b84932844b1",
+        "externalIds": {
+          "MAG": "1956647075",
+          "DBLP": "conf/focs/Dasgupta99",
+          "DOI": "10.1109/SFFCS.1999.814639",
+          "CorpusId": 8338511
+        },
+        "url": "https://www.semanticscholar.org/paper/97da69876da58c096580c641ba772b84932844b1",
+        "title": "Learning mixtures of Gaussians",
+        "venue": "40th Annual Symposium on Foundations of Computer Science (Cat. No.99CB37039)",
+        "year": 1999,
+        "referenceCount": 16,
+        "citationCount": 761,
+        "authors": [
+          {
+            "authorId": "1880237",
+            "name": "S. Dasgupta"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "f555d8cd2cb4643f7367b3beecc9a1a0f82b41d3",
+        "externalIds": {
+          "MAG": "1570690983",
+          "DBLP": "conf/icml/McCallum95",
+          "DOI": "10.1016/b978-1-55860-377-6.50055-4",
+          "CorpusId": 5484591
+        },
+        "url": "https://www.semanticscholar.org/paper/f555d8cd2cb4643f7367b3beecc9a1a0f82b41d3",
+        "title": "Instance-Based Utile Distinctions for Reinforcement Learning with Hidden State",
+        "venue": "International Conference on Machine Learning",
+        "year": 1995,
+        "referenceCount": 31,
+        "citationCount": 251,
+        "authors": [
+          {
+            "authorId": "143753639",
+            "name": "A. McCallum"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "e1adca110b5387b3db3735b3012f0165551fe384",
+        "externalIds": {
+          "MAG": "1608451537",
+          "DBLP": "conf/interspeech/LeggetterW94",
+          "DOI": "10.21437/ICSLP.1994-127",
+          "CorpusId": 42464701
+        },
+        "url": "https://www.semanticscholar.org/paper/e1adca110b5387b3db3735b3012f0165551fe384",
+        "title": "Speaker adaptation of continuous density HMMs using multivariate linear regression",
+        "venue": "ICSLP",
+        "year": 1994,
+        "referenceCount": 0,
+        "citationCount": 127,
+        "authors": [
+          {
+            "authorId": "1905330",
+            "name": "C. Leggetter"
+          },
+          {
+            "authorId": "1716393",
+            "name": "P. Woodland"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "c61cf3d6961dd8902202bcbba3e9b62ac72efffe",
+        "externalIds": {
+          "MAG": "2035374803",
+          "DOI": "10.1098/rspb.1992.0094",
+          "CorpusId": 1742412,
+          "PubMed": "1280834"
+        },
+        "url": "https://www.semanticscholar.org/paper/c61cf3d6961dd8902202bcbba3e9b62ac72efffe",
+        "title": "Maximum likelihood estimation and identification directly from single-channel recordings",
+        "venue": "Proceedings of the Royal Society of London. Series B: Biological Sciences",
+        "year": 1992,
+        "referenceCount": 15,
+        "citationCount": 139,
+        "authors": [
+          {
+            "authorId": "2144591",
+            "name": "D. Fredkin"
+          },
+          {
+            "authorId": "143862305",
+            "name": "J. Rice"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "a1b055577a86141df13f13a3203c76a32bffdc3a",
+        "externalIds": {
+          "DBLP": "conf/aaai/Chrisman92",
+          "MAG": "1657674574",
+          "CorpusId": 1963904
+        },
+        "url": "https://www.semanticscholar.org/paper/a1b055577a86141df13f13a3203c76a32bffdc3a",
+        "title": "Reinforcement Learning with Perceptual Aliasing: The Perceptual Distinctions Approach",
+        "venue": "AAAI Conference on Artificial Intelligence",
+        "year": 1992,
+        "referenceCount": 19,
+        "citationCount": 415,
+        "authors": [
+          {
+            "authorId": "2624386",
+            "name": "L. Chrisman"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "41f3904a23223622080f404302acaa5482bcb9b4",
+        "externalIds": {
+          "MAG": "2164018763",
+          "DBLP": "journals/tit/ItoAK92",
+          "DOI": "10.1109/18.119690",
+          "CorpusId": 22241353
+        },
+        "url": "https://www.semanticscholar.org/paper/41f3904a23223622080f404302acaa5482bcb9b4",
+        "title": "Identifiability of hidden Markov information sources and their minimum degrees of freedom",
+        "venue": "IEEE Transactions on Information Theory",
+        "year": 1992,
+        "referenceCount": 22,
+        "citationCount": 163,
+        "authors": [
+          {
+            "authorId": "2110351972",
+            "name": "Hisashi Ito"
+          },
+          {
+            "authorId": "144362425",
+            "name": "S. Amari"
+          },
+          {
+            "authorId": "39690383",
+            "name": "Kingo Kobayashi"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "a50c1209f42bccb8908157ef7d3cab3f5b2370ba",
+        "externalIds": {
+          "MAG": "1972679863",
+          "DOI": "10.1016/0304-4149(92)90141-C",
+          "CorpusId": 16066832
+        },
+        "url": "https://www.semanticscholar.org/paper/a50c1209f42bccb8908157ef7d3cab3f5b2370ba",
+        "title": "Maximum-likelihood estimation for hidden Markov models",
+        "venue": "",
+        "year": 1992,
+        "referenceCount": 20,
+        "citationCount": 463,
+        "authors": [
+          {
+            "authorId": "1912126",
+            "name": "B. Leroux"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "203278c58c76e2b5afda2bfe807e620158850489",
+        "externalIds": {
+          "MAG": "2057701372",
+          "DOI": "10.2307/2938179",
+          "CorpusId": 122193277
+        },
+        "url": "https://www.semanticscholar.org/paper/203278c58c76e2b5afda2bfe807e620158850489",
+        "title": "Uniform Convergence in Probability and Stochastic Equicontinuity",
+        "venue": "",
+        "year": 1991,
+        "referenceCount": 9,
+        "citationCount": 386,
+        "authors": [
+          {
+            "authorId": "3646527",
+            "name": "W. Newey"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "0cf6f710cb72825314c06800106aa65947d20973",
+        "externalIds": {
+          "MAG": "2094917636",
+          "DOI": "10.1016/S0006-3495(90)82416-4",
+          "CorpusId": 24162015,
+          "PubMed": "1698473"
+        },
+        "url": "https://www.semanticscholar.org/paper/0cf6f710cb72825314c06800106aa65947d20973",
+        "title": "Yet another approach to the dwell-time omission problem of single-channel analysis.",
+        "venue": "Biophysical Journal",
+        "year": 1990,
+        "referenceCount": 18,
+        "citationCount": 81,
+        "authors": [
+          {
+            "authorId": "2253172246",
+            "name": "Serge C. Crouzy"
+          },
+          {
+            "authorId": "2411311004",
+            "name": "F. Sigworth"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "54a1f6ab4cc6cb749c2b8d15c1dd3449e072362f",
+        "externalIds": {
+          "MAG": "3016023956",
+          "DOI": "10.2307/2531224",
+          "CorpusId": 124992180
+        },
+        "url": "https://www.semanticscholar.org/paper/54a1f6ab4cc6cb749c2b8d15c1dd3449e072362f",
+        "title": "Statistical analysis of finite mixture distributions",
+        "venue": "",
+        "year": 1986,
+        "referenceCount": 0,
+        "citationCount": 3804,
+        "authors": [
+          {
+            "authorId": "152591573",
+            "name": "D. Titterington"
+          },
+          {
+            "authorId": "15974963",
+            "name": "A. F. Smith"
+          },
+          {
+            "authorId": "2580190",
+            "name": "U. Makov"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "3e3a2b758b1a505ceaf11b75709dd5c0d4a0d80e",
+        "externalIds": {
+          "MAG": "2324040359",
+          "DOI": "10.2307/3214130",
+          "CorpusId": 123503233
+        },
+        "url": "https://www.semanticscholar.org/paper/3e3a2b758b1a505ceaf11b75709dd5c0d4a0d80e",
+        "title": "On aggregated Markov processes",
+        "venue": "Journal of Applied Probability",
+        "year": 1986,
+        "referenceCount": 6,
+        "citationCount": 111,
+        "authors": [
+          {
+            "authorId": "2144591",
+            "name": "D. Fredkin"
+          },
+          {
+            "authorId": "143862305",
+            "name": "J. Rice"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "3092a4929bdb3d6a8fe53f162586b7431b5ff8a4",
+        "externalIds": {
+          "MAG": "2086699924",
+          "DOI": "10.1214/AOMS/1177697196",
+          "CorpusId": 122568650
+        },
+        "url": "https://www.semanticscholar.org/paper/3092a4929bdb3d6a8fe53f162586b7431b5ff8a4",
+        "title": "A Maximization Technique Occurring in the Statistical Analysis of Probabilistic Functions of Markov Chains",
+        "venue": "",
+        "year": 1970,
+        "referenceCount": 4,
+        "citationCount": 4916,
+        "authors": [
+          {
+            "authorId": "39361090",
+            "name": "L. Baum"
+          },
+          {
+            "authorId": "101775270",
+            "name": "T. Petrie"
+          },
+          {
+            "authorId": "102329511",
+            "name": "George W. Soules"
+          },
+          {
+            "authorId": "2063108982",
+            "name": "Norman Weiss"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "afb8908aff1d2c5917a40bd3d6d4c6f4f2f401bf",
+        "externalIds": {
+          "MAG": "2020585827",
+          "DOI": "10.1073/PNAS.57.3.580",
+          "CorpusId": 43148643,
+          "PubMed": "16591502"
+        },
+        "url": "https://www.semanticscholar.org/paper/afb8908aff1d2c5917a40bd3d6d4c6f4f2f401bf",
+        "title": "Probabilistic functions of finite-state markov chains.",
+        "venue": "Proceedings of the National Academy of Sciences of the United States of America",
+        "year": 1967,
+        "referenceCount": 4,
+        "citationCount": 204,
+        "authors": [
+          {
+            "authorId": "101775270",
+            "name": "T. Petrie"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "7681d53f86cbfbd3508cb747af7d2a096b6c60c5",
+        "externalIds": {
+          "MAG": "1990693325",
+          "DOI": "10.1214/AOMS/1177706802",
+          "CorpusId": 120753926
+        },
+        "url": "https://www.semanticscholar.org/paper/7681d53f86cbfbd3508cb747af7d2a096b6c60c5",
+        "title": "On the Identifiability Problem for Functions of Finite Markov Chains",
+        "venue": "",
+        "year": 1957,
+        "referenceCount": 0,
+        "citationCount": 145,
+        "authors": [
+          {
+            "authorId": "143700529",
+            "name": "D. Blackwell"
+          },
+          {
+            "authorId": "47685813",
+            "name": "L. H. Koopmans"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "2dfdbe969789b20a8a430e4b0939bff676c42b74",
+        "externalIds": {
+          "CorpusId": 264588084
+        },
+        "url": "https://www.semanticscholar.org/paper/2dfdbe969789b20a8a430e4b0939bff676c42b74",
+        "title": "Learning Parametric-Output HMMs with Two Aliased States",
+        "venue": "",
+        "year": 2015,
+        "referenceCount": 0,
+        "citationCount": 1,
+        "authors": []
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "(iii) In case of a non-aliased HMM, estimate the ( n − 1) × ( n − 1) transition matrix ¯ A , as for example in Kontorovich et al.",
+        "venue": "Anandkumar et",
+        "year": 2013,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "cfb02724d178876e44c386802d8f0aefa61d36a1",
+        "externalIds": {
+          "DBLP": "conf/colt/HsuKZ09",
+          "CorpusId": 118948294
+        },
+        "url": "https://www.semanticscholar.org/paper/cfb02724d178876e44c386802d8f0aefa61d36a1",
+        "title": "A Spectral Algorithm for Learning Hidden Markov Models",
+        "venue": "Annual Conference Computational Learning Theory",
+        "year": 2009,
+        "referenceCount": 28,
+        "citationCount": 241,
+        "authors": [
+          {
+            "authorId": "2256675688",
+            "name": "Daniel J. Hsu"
+          },
+          {
+            "authorId": "144695232",
+            "name": "S. Kakade"
+          },
+          {
+            "authorId": "2257135699",
+            "name": "Tong Zhang"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "c8e56ab8d832946322c1249990d99cd7bcc8137d",
+        "externalIds": {
+          "MAG": "1558734078",
+          "CorpusId": 118568585
+        },
+        "url": "https://www.semanticscholar.org/paper/c8e56ab8d832946322c1249990d99cd7bcc8137d",
+        "title": "Consistent estimation of the order for Markov and hidden Markov chains",
+        "venue": "",
+        "year": 1992,
+        "referenceCount": 0,
+        "citationCount": 66,
+        "authors": [
+          {
+            "authorId": "2064093",
+            "name": "L. Finesso"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "6c09c25131ac2e7f01fd14ce2a576c209f8ad23e",
+        "externalIds": {
+          "MAG": "83404773",
+          "DOI": "10.1007/978-1-4612-4438-7_1",
+          "CorpusId": 115761153
+        },
+        "url": "https://www.semanticscholar.org/paper/6c09c25131ac2e7f01fd14ce2a576c209f8ad23e",
+        "title": "Matrix Perturbation Theory",
+        "venue": "",
+        "year": 1991,
+        "referenceCount": 0,
+        "citationCount": 2513,
+        "authors": [
+          {
+            "authorId": "100769860",
+            "name": "V. N. Bogaevski"
+          },
+          {
+            "authorId": "102602535",
+            "name": "A. Povzner"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "A similar argument yields the claim for F",
+        "venue": "respectively. Combining Weyl’s Theorem [Stewart & Sun,",
+        "year": 1990,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "(iv) In case of a 2-aliased HMM, identify the component θ n − 1 corresponding to the two aliased states, and estimate the n × n transition matrix A",
+        "venue": "",
+        "year": null,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    }
+  ]
+}

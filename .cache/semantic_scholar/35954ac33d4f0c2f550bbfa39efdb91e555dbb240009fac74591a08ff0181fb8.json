@@ -1,0 +1,231 @@
+{
+  "total": 7,
+  "offset": 0,
+  "data": [
+    {
+      "paperId": "096c508cf73d9a53f30b4c1bd7a2c46d533affd0",
+      "externalIds": {
+        "DBLP": "conf/icml/Norouzi-FardTMZ18",
+        "MAG": "2804373447",
+        "ArXiv": "1808.01842",
+        "CorpusId": 51875129
+      },
+      "url": "https://www.semanticscholar.org/paper/096c508cf73d9a53f30b4c1bd7a2c46d533affd0",
+      "title": "Beyond 1/2-Approximation for Submodular Maximization on Massive Data Streams",
+      "venue": "International Conference on Machine Learning",
+      "year": 2018,
+      "referenceCount": 46,
+      "citationCount": 87,
+      "authors": [
+        {
+          "authorId": "1398893199",
+          "name": "A. Norouzi-Fard"
+        },
+        {
+          "authorId": "2220760",
+          "name": "Jakub Tarnawski"
+        },
+        {
+          "authorId": "47619126",
+          "name": "Slobodan Mitrovic"
+        },
+        {
+          "authorId": "2872461",
+          "name": "A. Zandieh"
+        },
+        {
+          "authorId": "51214609",
+          "name": "A. Mousavifar"
+        },
+        {
+          "authorId": "13450499",
+          "name": "O. Svensson"
+        }
+      ]
+    },
+    {
+      "paperId": "4a1d92b4ae4542c2aca59a3091193e5f3252e22a",
+      "externalIds": {
+        "DBLP": "conf/kdd/BadanidiyuruMKK14",
+        "MAG": "1997959284",
+        "DOI": "10.1145/2623330.2623637",
+        "CorpusId": 14732321
+      },
+      "url": "https://www.semanticscholar.org/paper/4a1d92b4ae4542c2aca59a3091193e5f3252e22a",
+      "title": "Streaming submodular maximization: massive data summarization on the fly",
+      "venue": "Knowledge Discovery and Data Mining",
+      "year": 2014,
+      "referenceCount": 40,
+      "citationCount": 375,
+      "authors": [
+        {
+          "authorId": "1797240",
+          "name": "Ashwinkumar Badanidiyuru"
+        },
+        {
+          "authorId": "2389094",
+          "name": "Baharan Mirzasoleiman"
+        },
+        {
+          "authorId": "1697131",
+          "name": "Amin Karbasi"
+        },
+        {
+          "authorId": "145343838",
+          "name": "Andreas Krause"
+        }
+      ]
+    },
+    {
+      "paperId": "1c59fec57564a36685a755aa10e1910edbedc4a2",
+      "externalIds": {
+        "MAG": "2952656810",
+        "ArXiv": "1706.03583",
+        "DBLP": "conf/aaai/MirzasoleimanJ018",
+        "DOI": "10.1609/aaai.v32i1.11529",
+        "CorpusId": 10832073
+      },
+      "url": "https://www.semanticscholar.org/paper/1c59fec57564a36685a755aa10e1910edbedc4a2",
+      "title": "Streaming Non-monotone Submodular Maximization: Personalized Video Summarization on the Fly",
+      "venue": "AAAI Conference on Artificial Intelligence",
+      "year": 2017,
+      "referenceCount": 34,
+      "citationCount": 89,
+      "authors": [
+        {
+          "authorId": "2389094",
+          "name": "Baharan Mirzasoleiman"
+        },
+        {
+          "authorId": "2594093",
+          "name": "S. Jegelka"
+        },
+        {
+          "authorId": "145343838",
+          "name": "Andreas Krause"
+        }
+      ]
+    },
+    {
+      "paperId": "c02b7311c3dda7107d3c01001db8c85979d51a20",
+      "externalIds": {
+        "DBLP": "journals/jacm/FeldmanNSZ23",
+        "DOI": "10.1145/3588564",
+        "CorpusId": 258292646
+      },
+      "url": "https://www.semanticscholar.org/paper/c02b7311c3dda7107d3c01001db8c85979d51a20",
+      "title": "The One-Way Communication Complexity of Submodular Maximization with Applications to Streaming and Robustness",
+      "venue": "Journal of the ACM",
+      "year": 2023,
+      "referenceCount": 46,
+      "citationCount": 5,
+      "authors": [
+        {
+          "authorId": "40546894",
+          "name": "Moran Feldman"
+        },
+        {
+          "authorId": "1398893199",
+          "name": "A. Norouzi-Fard"
+        },
+        {
+          "authorId": "13450499",
+          "name": "O. Svensson"
+        },
+        {
+          "authorId": "1746159",
+          "name": "R. Zenklusen"
+        }
+      ]
+    },
+    {
+      "paperId": "7d95e660c61f2f413b83bde8929a5bb6557a61b0",
+      "externalIds": {
+        "MAG": "3013599369",
+        "DBLP": "journals/corr/abs-2003-13459",
+        "ArXiv": "2003.13459",
+        "DOI": "10.1145/3357713.3384286",
+        "CorpusId": 214713492
+      },
+      "url": "https://www.semanticscholar.org/paper/7d95e660c61f2f413b83bde8929a5bb6557a61b0",
+      "title": "The one-way communication complexity of submodular maximization with applications to streaming and robustness",
+      "venue": "Symposium on the Theory of Computing",
+      "year": 2020,
+      "referenceCount": 47,
+      "citationCount": 60,
+      "authors": [
+        {
+          "authorId": "40546894",
+          "name": "Moran Feldman"
+        },
+        {
+          "authorId": "1398893199",
+          "name": "A. Norouzi-Fard"
+        },
+        {
+          "authorId": "13450499",
+          "name": "O. Svensson"
+        },
+        {
+          "authorId": "1746159",
+          "name": "R. Zenklusen"
+        }
+      ]
+    },
+    {
+      "paperId": "d29866a5c60a596101fed2fd34895924b7385456",
+      "externalIds": {
+        "MAG": "2951237714",
+        "ArXiv": "1802.07098",
+        "DBLP": "journals/corr/abs-1802-07098",
+        "CorpusId": 3444158
+      },
+      "url": "https://www.semanticscholar.org/paper/d29866a5c60a596101fed2fd34895924b7385456",
+      "title": "Do Less, Get More: Streaming Submodular Maximization with Subsampling",
+      "venue": "Neural Information Processing Systems",
+      "year": 2018,
+      "referenceCount": 44,
+      "citationCount": 92,
+      "authors": [
+        {
+          "authorId": "40546894",
+          "name": "Moran Feldman"
+        },
+        {
+          "authorId": "1697131",
+          "name": "Amin Karbasi"
+        },
+        {
+          "authorId": "145735687",
+          "name": "Ehsan Kazemi"
+        }
+      ]
+    },
+    {
+      "paperId": "b7ba74ef8d119c23f94a20e35d4f1695cd62e2d8",
+      "externalIds": {
+        "MAG": "2037568170",
+        "DBLP": "journals/corr/MirrokniZ15",
+        "ArXiv": "1506.06715",
+        "DOI": "10.1145/2746539.2746624",
+        "CorpusId": 14456574
+      },
+      "url": "https://www.semanticscholar.org/paper/b7ba74ef8d119c23f94a20e35d4f1695cd62e2d8",
+      "title": "Randomized Composable Core-sets for Distributed Submodular Maximization",
+      "venue": "Symposium on the Theory of Computing",
+      "year": 2015,
+      "referenceCount": 33,
+      "citationCount": 126,
+      "authors": [
+        {
+          "authorId": "1728881",
+          "name": "V. Mirrokni"
+        },
+        {
+          "authorId": "1724391",
+          "name": "Morteza Zadimoghaddam"
+        }
+      ]
+    }
+  ]
+}

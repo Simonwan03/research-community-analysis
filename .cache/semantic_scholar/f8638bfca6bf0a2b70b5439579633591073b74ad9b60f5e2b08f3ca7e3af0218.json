@@ -1,0 +1,303 @@
+{
+  "total": 111,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "6d8984600e3cd9ae9d6b803f43f2410fa5c0ad0b",
+      "externalIds": {
+        "DBLP": "conf/icml/MenonROW15",
+        "MAG": "1866935739",
+        "CorpusId": 10708717
+      },
+      "url": "https://www.semanticscholar.org/paper/6d8984600e3cd9ae9d6b803f43f2410fa5c0ad0b",
+      "title": "Learning from Corrupted Binary Labels via Class-Probability Estimation",
+      "venue": "International Conference on Machine Learning",
+      "year": 2015,
+      "referenceCount": 38,
+      "citationCount": 254,
+      "authors": [
+        {
+          "authorId": "2844480",
+          "name": "A. Menon"
+        },
+        {
+          "authorId": "2719890",
+          "name": "Brendan van Rooyen"
+        },
+        {
+          "authorId": "1706780",
+          "name": "Cheng Soon Ong"
+        },
+        {
+          "authorId": "41188617",
+          "name": "Bob Williamson"
+        }
+      ]
+    },
+    {
+      "paperId": "7b20488a6bdd918bb2bd8493a04d1423eccaa0e4",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2508-08673",
+        "ArXiv": "2508.08673",
+        "DOI": "10.48550/arXiv.2508.08673",
+        "CorpusId": 280635422
+      },
+      "url": "https://www.semanticscholar.org/paper/7b20488a6bdd918bb2bd8493a04d1423eccaa0e4",
+      "title": "In-Context Learning as Nonparametric Conditional Probability Estimation: Risk Bounds and Optimality",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "referenceCount": 0,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2144891483",
+          "name": "Chenru Liu"
+        },
+        {
+          "authorId": "90646293",
+          "name": "Falong Tan"
+        },
+        {
+          "authorId": "2292121733",
+          "name": "Chuanlong Xie"
+        },
+        {
+          "authorId": "2292126348",
+          "name": "Yicheng Zeng"
+        },
+        {
+          "authorId": "2280044933",
+          "name": "Lixing Zhu"
+        }
+      ]
+    },
+    {
+      "paperId": "aa274ab62bfefa8cd5b463cbc3706f783ee0055c",
+      "externalIds": {
+        "MAG": "2953342883",
+        "DBLP": "journals/corr/MenonRN16",
+        "ArXiv": "1605.00751",
+        "CorpusId": 13255328
+      },
+      "url": "https://www.semanticscholar.org/paper/aa274ab62bfefa8cd5b463cbc3706f783ee0055c",
+      "title": "Learning from Binary Labels with Instance-Dependent Corruption",
+      "venue": "arXiv.org",
+      "year": 2016,
+      "referenceCount": 43,
+      "citationCount": 44,
+      "authors": [
+        {
+          "authorId": "2844480",
+          "name": "A. Menon"
+        },
+        {
+          "authorId": "2719890",
+          "name": "Brendan van Rooyen"
+        },
+        {
+          "authorId": "145328735",
+          "name": "Nagarajan Natarajan"
+        }
+      ]
+    },
+    {
+      "paperId": "408e16a8ac70d5b8e6f68d6bad24280acfc763a7",
+      "externalIds": {
+        "MAG": "2279786479",
+        "CorpusId": 14110961
+      },
+      "url": "https://www.semanticscholar.org/paper/408e16a8ac70d5b8e6f68d6bad24280acfc763a7",
+      "title": "Class Probability Estimation via Differential Geometric Regularization",
+      "venue": "",
+      "year": 2015,
+      "referenceCount": 20,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2132890",
+          "name": "Qinxun Bai"
+        },
+        {
+          "authorId": "144243543",
+          "name": "S. Rosenberg"
+        },
+        {
+          "authorId": "2146268771",
+          "name": "Zheng Wu"
+        },
+        {
+          "authorId": "1749590",
+          "name": "S. Sclaroff"
+        }
+      ]
+    },
+    {
+      "paperId": "fe4823c4262d714194d18e22e7d97441bff45ecc",
+      "externalIds": {
+        "DOI": "10.3390/math13223615",
+        "CorpusId": 282981633
+      },
+      "url": "https://www.semanticscholar.org/paper/fe4823c4262d714194d18e22e7d97441bff45ecc",
+      "title": "Training-Free Few-Shot Image Classification via Kernel Density Estimation with CLIP Embeddings",
+      "venue": "Mathematics",
+      "year": 2025,
+      "referenceCount": 54,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2388564947",
+          "name": "Marcos Sergio Pacheco dos Santos Lima Junior"
+        },
+        {
+          "authorId": "1397865721",
+          "name": "J. M. Ortiz-de-Lazcano-Lobato"
+        },
+        {
+          "authorId": "123170618",
+          "name": "Ezequiel López-Rubio"
+        }
+      ]
+    },
+    {
+      "paperId": "09903d10c025ecebc0238e8f6ec91245255b40c3",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2102-02414",
+        "ArXiv": "2102.02414",
+        "CorpusId": 231802334
+      },
+      "url": "https://www.semanticscholar.org/paper/09903d10c025ecebc0238e8f6ec91245255b40c3",
+      "title": "Learning Noise Transition Matrix from Only Noisy Labels via Total Variation Regularization",
+      "venue": "International Conference on Machine Learning",
+      "year": 2021,
+      "referenceCount": 76,
+      "citationCount": 107,
+      "authors": [
+        {
+          "authorId": "2108288126",
+          "name": "Yivan Zhang"
+        },
+        {
+          "authorId": "47537639",
+          "name": "Gang Niu"
+        },
+        {
+          "authorId": "67154907",
+          "name": "Masashi Sugiyama"
+        }
+      ]
+    },
+    {
+      "paperId": "cd13b97cace11eb6798e8f496a6fbb84c96522ad",
+      "externalIds": {
+        "DBLP": "journals/peerj-cs/KumarL24",
+        "PubMedCentral": "11622864",
+        "DOI": "10.7717/peerj-cs.2451",
+        "CorpusId": 273855564,
+        "PubMed": "39650456"
+      },
+      "url": "https://www.semanticscholar.org/paper/cd13b97cace11eb6798e8f496a6fbb84c96522ad",
+      "title": "Positive Unlabeled Learning Selected Not At Random (PULSNAR): class proportion estimation without the selected completely at random assumption",
+      "venue": "PeerJ Computer Science",
+      "year": 2024,
+      "referenceCount": 46,
+      "citationCount": 9,
+      "authors": [
+        {
+          "authorId": "2286498361",
+          "name": "Praveen Kumar"
+        },
+        {
+          "authorId": "2308388835",
+          "name": "Christophe G. Lambert"
+        }
+      ]
+    },
+    {
+      "paperId": "195d68700067566f4a7d31d5c516e861b5f3bdcf",
+      "externalIds": {
+        "DBLP": "conf/cvpr/ZengXL023",
+        "DOI": "10.1109/CVPR52729.2023.01504",
+        "CorpusId": 260810696
+      },
+      "url": "https://www.semanticscholar.org/paper/195d68700067566f4a7d31d5c516e861b5f3bdcf",
+      "title": "PEFAT: Boosting Semi-Supervised Medical Image Classification via Pseudo-Loss Estimation and Feature Adversarial Training",
+      "venue": "Computer Vision and Pattern Recognition",
+      "year": 2023,
+      "referenceCount": 46,
+      "citationCount": 55,
+      "authors": [
+        {
+          "authorId": "2114309011",
+          "name": "Qingjie Zeng"
+        },
+        {
+          "authorId": "2154709897",
+          "name": "Yutong Xie"
+        },
+        {
+          "authorId": "2165651627",
+          "name": "Zi-Ning Lu"
+        },
+        {
+          "authorId": "2190919982",
+          "name": "Yong Xia"
+        }
+      ]
+    },
+    {
+      "paperId": "13898dcd6f12c4a7331d641f63cee8012349efba",
+      "externalIds": {
+        "DBLP": "conf/icml/ZhangL021",
+        "CorpusId": 235826311
+      },
+      "url": "https://www.semanticscholar.org/paper/13898dcd6f12c4a7331d641f63cee8012349efba",
+      "title": "Learning from Noisy Labels with No Change to the Training Process",
+      "venue": "International Conference on Machine Learning",
+      "year": 2021,
+      "referenceCount": 28,
+      "citationCount": 38,
+      "authors": [
+        {
+          "authorId": "48984942",
+          "name": "Mingyuan Zhang"
+        },
+        {
+          "authorId": "2108620354",
+          "name": "Jane Lee"
+        },
+        {
+          "authorId": "2797063",
+          "name": "S. Agarwal"
+        }
+      ]
+    },
+    {
+      "paperId": "d4f61b5444d79ebc8a1adf9bf5bf58610ce3419f",
+      "externalIds": {
+        "ArXiv": "2511.23433",
+        "CorpusId": 283439597
+      },
+      "url": "https://www.semanticscholar.org/paper/d4f61b5444d79ebc8a1adf9bf5bf58610ce3419f",
+      "title": "Consensus Tree Estimation with False Discovery Rate Control via Partially Ordered Sets",
+      "venue": "",
+      "year": 2025,
+      "referenceCount": 58,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2395544461",
+          "name": "Maria Cabrera"
+        },
+        {
+          "authorId": "2312294486",
+          "name": "Amy D. Willis"
+        },
+        {
+          "authorId": "2106880",
+          "name": "Armeen Taeb"
+        }
+      ]
+    }
+  ]
+}

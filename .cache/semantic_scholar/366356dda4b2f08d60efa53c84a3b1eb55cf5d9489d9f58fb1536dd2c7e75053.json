@@ -1,0 +1,275 @@
+{
+  "total": 9986,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "e994a15a9476ca92c4bf9c12ad89625401939d57",
+      "externalIds": {
+        "MAG": "602128623",
+        "DBLP": "conf/icml/Osogami15",
+        "CorpusId": 16785975
+      },
+      "url": "https://www.semanticscholar.org/paper/e994a15a9476ca92c4bf9c12ad89625401939d57",
+      "title": "Robust partially observable Markov decision process",
+      "venue": "International Conference on Machine Learning",
+      "year": 2015,
+      "referenceCount": 29,
+      "citationCount": 46,
+      "authors": [
+        {
+          "authorId": "1708769",
+          "name": "T. Osogami"
+        }
+      ]
+    },
+    {
+      "paperId": "d7dfcd950bdc130ba319732f37be3c5fdba0b742",
+      "externalIds": {
+        "MAG": "2952988177",
+        "DBLP": "journals/siamjo/NakaoJS21",
+        "ArXiv": "1906.05988",
+        "DOI": "10.1137/19M1268410",
+        "CorpusId": 189897931
+      },
+      "url": "https://www.semanticscholar.org/paper/d7dfcd950bdc130ba319732f37be3c5fdba0b742",
+      "title": "Distributionally Robust Partially Observable Markov Decision Process with Moment-Based Ambiguity",
+      "venue": "SIAM Journal on Optimization",
+      "year": 2019,
+      "referenceCount": 42,
+      "citationCount": 30,
+      "authors": [
+        {
+          "authorId": "10760163",
+          "name": "Hideaki Nakao"
+        },
+        {
+          "authorId": "1795039",
+          "name": "Ruiwei Jiang"
+        },
+        {
+          "authorId": "3011718",
+          "name": "Siqian Shen"
+        }
+      ]
+    },
+    {
+      "paperId": "63bbc2aaa7145b0e45333b1e07540a48ef89a0c6",
+      "externalIds": {
+        "DOI": "10.1080/24725854.2025.2505980",
+        "CorpusId": 278792006
+      },
+      "url": "https://www.semanticscholar.org/paper/63bbc2aaa7145b0e45333b1e07540a48ef89a0c6",
+      "title": "Distributionally Robust Partially Observable Markov Decision Process with Distance-Based Ambiguity Sets",
+      "venue": "IISE Transactions",
+      "year": 2025,
+      "referenceCount": 36,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2381860318",
+          "name": "Tongqing Li"
+        },
+        {
+          "authorId": "2278781059",
+          "name": "Yisha Xiang"
+        }
+      ]
+    },
+    {
+      "paperId": "1a7c2922fce0a695546e6025e3f8bf67a8c2564b",
+      "externalIds": {
+        "MAG": "2941944797",
+        "DBLP": "journals/msom/BolooriSCC20",
+        "DOI": "10.1287/MSOM.2019.0797",
+        "CorpusId": 272752719
+      },
+      "url": "https://www.semanticscholar.org/paper/1a7c2922fce0a695546e6025e3f8bf67a8c2564b",
+      "title": "Data-Driven Management of Post-transplant Medications: An Ambiguous Partially Observable Markov Decision Process Approach",
+      "venue": "Manufacturing & Service Operations Management",
+      "year": 2020,
+      "referenceCount": 60,
+      "citationCount": 7,
+      "authors": [
+        {
+          "authorId": "48471766",
+          "name": "Alireza Boloori"
+        },
+        {
+          "authorId": "2096503",
+          "name": "S. Saghafian"
+        },
+        {
+          "authorId": "4570677",
+          "name": "H. Chakkera"
+        },
+        {
+          "authorId": "2253140230",
+          "name": "Curtiss B. Cook"
+        }
+      ]
+    },
+    {
+      "paperId": "46ed733fa5e639abf9325539235b5e5d17b061dd",
+      "externalIds": {
+        "MAG": "2174317745",
+        "CorpusId": 12815335
+      },
+      "url": "https://www.semanticscholar.org/paper/46ed733fa5e639abf9325539235b5e5d17b061dd",
+      "title": "Xavier: A Robot Navigation Architecture Based on Partially Observable Markov Decision Process Models",
+      "venue": "",
+      "year": 1998,
+      "referenceCount": 37,
+      "citationCount": 226,
+      "authors": [
+        {
+          "authorId": "145314818",
+          "name": "Sven Koenig"
+        },
+        {
+          "authorId": "1719955",
+          "name": "R. Simmons"
+        }
+      ]
+    },
+    {
+      "paperId": "eb41715377a246423ac35fad88a7c7268fa218ff",
+      "externalIds": {
+        "DBLP": "conf/icra/TheocharousM02",
+        "MAG": "2119757950",
+        "DOI": "10.1109/ROBOT.2002.1014730",
+        "CorpusId": 11425354
+      },
+      "url": "https://www.semanticscholar.org/paper/eb41715377a246423ac35fad88a7c7268fa218ff",
+      "title": "Approximate planning with hierarchical partially observable Markov decision process models for robot navigation",
+      "venue": "Proceedings 2002 IEEE International Conference on Robotics and Automation (Cat. No.02CH37292)",
+      "year": 2002,
+      "referenceCount": 15,
+      "citationCount": 67,
+      "authors": [
+        {
+          "authorId": "1709005",
+          "name": "Georgios Theocharous"
+        },
+        {
+          "authorId": "1850503",
+          "name": "S. Mahadevan"
+        }
+      ]
+    },
+    {
+      "paperId": "3679f16006231b7c6242be0dc20d79729dcad04d",
+      "externalIds": {
+        "MAG": "2912085563",
+        "DBLP": "conf/cdc/ChamieM18",
+        "DOI": "10.1109/CDC.2018.8619468",
+        "CorpusId": 58672452
+      },
+      "url": "https://www.semanticscholar.org/paper/3679f16006231b7c6242be0dc20d79729dcad04d",
+      "title": "Robust Action Selection in Partially Observable Markov Decision Processes with Model Uncertainty",
+      "venue": "IEEE Conference on Decision and Control",
+      "year": 2018,
+      "referenceCount": 16,
+      "citationCount": 8,
+      "authors": [
+        {
+          "authorId": "2389729",
+          "name": "Mahmoud El Chamie"
+        },
+        {
+          "authorId": "1889251",
+          "name": "Hala Mostafa"
+        }
+      ]
+    },
+    {
+      "paperId": "6d5bfd7ed0313296fbd1888b83fbaac7a162ad37",
+      "externalIds": {
+        "ArXiv": "1502.06030",
+        "DBLP": "conf/cdc/AmatoCGUK13",
+        "MAG": "1976195538",
+        "DOI": "10.1109/CDC.2013.6760239",
+        "CorpusId": 6962558
+      },
+      "url": "https://www.semanticscholar.org/paper/6d5bfd7ed0313296fbd1888b83fbaac7a162ad37",
+      "title": "Decentralized control of Partially Observable Markov Decision Processes using belief space macro-actions",
+      "venue": "IEEE International Conference on Robotics and Automation",
+      "year": 2015,
+      "referenceCount": 105,
+      "citationCount": 98,
+      "authors": [
+        {
+          "authorId": "34903901",
+          "name": "Chris Amato"
+        },
+        {
+          "authorId": "1733356",
+          "name": "Girish V. Chowdhary"
+        },
+        {
+          "authorId": "1979505",
+          "name": "A. Geramifard"
+        },
+        {
+          "authorId": "2877453",
+          "name": "N. K. Ure"
+        },
+        {
+          "authorId": "2275756",
+          "name": "Mykel J. Kochenderfer"
+        }
+      ]
+    },
+    {
+      "paperId": "7e79af25c3401c5798857d9d773b155975bcb140",
+      "externalIds": {
+        "DBLP": "conf/etfa/KattepurNSD22",
+        "DOI": "10.1109/ETFA52439.2022.9921685",
+        "CorpusId": 253123587
+      },
+      "url": "https://www.semanticscholar.org/paper/7e79af25c3401c5798857d9d773b155975bcb140",
+      "title": "Industrial 5G Service Quality Assurance via Markov Decision Process Mapping",
+      "venue": "IEEE International Conference on Emerging Technologies and Factory Automation",
+      "year": 2022,
+      "referenceCount": 23,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "1793631",
+          "name": "A. Kattepur"
+        },
+        {
+          "authorId": "3233673",
+          "name": "A. Nair"
+        },
+        {
+          "authorId": "2265670615",
+          "name": "Merve Saimler"
+        },
+        {
+          "authorId": "8853390",
+          "name": "Y. Donmez"
+        }
+      ]
+    },
+    {
+      "paperId": "1a18617444b88fad06b1fd9b53c031f20fcbd2a9",
+      "externalIds": {
+        "MAG": "36942980",
+        "CorpusId": 263673385
+      },
+      "url": "https://www.semanticscholar.org/paper/1a18617444b88fad06b1fd9b53c031f20fcbd2a9",
+      "title": "Partially Observable Markov Decision Processes for Spoken Dialogue Management",
+      "venue": "",
+      "year": 2006,
+      "referenceCount": 134,
+      "citationCount": 41,
+      "authors": [
+        {
+          "authorId": "2254275055",
+          "name": "Jason D. Williams"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,348 @@
+{
+  "total": 27,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "16f0c508aa54e26aa18e3b0f3c91b0c143c6a605",
+      "externalIds": {
+        "MAG": "2804815760",
+        "ArXiv": "1806.08010",
+        "DBLP": "conf/icml/HashimotoSNL18",
+        "CorpusId": 49343170
+      },
+      "url": "https://www.semanticscholar.org/paper/16f0c508aa54e26aa18e3b0f3c91b0c143c6a605",
+      "title": "Fairness Without Demographics in Repeated Loss Minimization",
+      "venue": "International Conference on Machine Learning",
+      "year": 2018,
+      "referenceCount": 33,
+      "citationCount": 644,
+      "authors": [
+        {
+          "authorId": "3056528",
+          "name": "Tatsunori B. Hashimoto"
+        },
+        {
+          "authorId": "31620766",
+          "name": "Megha Srivastava"
+        },
+        {
+          "authorId": "40281109",
+          "name": "Hongseok Namkoong"
+        },
+        {
+          "authorId": "145419642",
+          "name": "Percy Liang"
+        }
+      ]
+    },
+    {
+      "paperId": "0c799e9999c8de278d12b0c96d5d2f7fc544d5c8",
+      "externalIds": {
+        "ArXiv": "2211.10508",
+        "DBLP": "journals/corr/abs-2211-10508",
+        "DOI": "10.48550/arXiv.2211.10508",
+        "CorpusId": 252530164
+      },
+      "url": "https://www.semanticscholar.org/paper/0c799e9999c8de278d12b0c96d5d2f7fc544d5c8",
+      "title": "Distributionally Robust Survival Analysis: A Novel Fairness Loss Without Demographics",
+      "venue": "ML4H@NeurIPS",
+      "year": 2022,
+      "referenceCount": 43,
+      "citationCount": 19,
+      "authors": [
+        {
+          "authorId": "2122826299",
+          "name": "Shu Hu"
+        },
+        {
+          "authorId": "27694416",
+          "name": "George H. Chen"
+        },
+        {
+          "authorId": "51928199",
+          "name": "Shahriar Noroozizadeh"
+        },
+        {
+          "authorId": "1898068",
+          "name": "Jeremy C. Weiss"
+        },
+        {
+          "authorId": "2107917677",
+          "name": "Linhong Li"
+        },
+        {
+          "authorId": "2059428269",
+          "name": "Ren Zuo"
+        },
+        {
+          "authorId": "48577290",
+          "name": "Amanda Coston"
+        },
+        {
+          "authorId": "11486955",
+          "name": "Helen Zhou"
+        },
+        {
+          "authorId": "2027359212",
+          "name": "Cheng Cheng"
+        }
+      ]
+    },
+    {
+      "paperId": "eec9ef3f713a90898eaa60acea50b206f21b616c",
+      "externalIds": {
+        "DBLP": "conf/nips/ChaiW22",
+        "DOI": "10.52202/068431-1965",
+        "CorpusId": 258509143
+      },
+      "url": "https://www.semanticscholar.org/paper/eec9ef3f713a90898eaa60acea50b206f21b616c",
+      "title": "Self-Supervised Fair Representation Learning without Demographics",
+      "venue": "Neural Information Processing Systems",
+      "year": 2022,
+      "referenceCount": 52,
+      "citationCount": 32,
+      "authors": [
+        {
+          "authorId": null,
+          "name": "Junyi Chai"
+        },
+        {
+          "authorId": "2108158629",
+          "name": "Xiaoqian Wang"
+        }
+      ]
+    },
+    {
+      "paperId": "c2a4111bbcfb1aebe77681e902df3343363a0230",
+      "externalIds": {
+        "DBLP": "conf/nips/Wang0TO24",
+        "ArXiv": "2411.02467",
+        "DOI": "10.48550/arXiv.2411.02467",
+        "CorpusId": 273821951
+      },
+      "url": "https://www.semanticscholar.org/paper/c2a4111bbcfb1aebe77681e902df3343363a0230",
+      "title": "Towards Harmless Rawlsian Fairness Regardless of Demographic Prior",
+      "venue": "Neural Information Processing Systems",
+      "year": 2024,
+      "referenceCount": 39,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "2329307019",
+          "name": "Xuanqian Wang"
+        },
+        {
+          "authorId": "2152911809",
+          "name": "Jing Li"
+        },
+        {
+          "authorId": "2183033383",
+          "name": "Ivor W. Tsang"
+        },
+        {
+          "authorId": "2293400825",
+          "name": "Y. Ong"
+        }
+      ]
+    },
+    {
+      "paperId": "9ba23aa6076847bff2c01cdf7bb031d1cf199afc",
+      "externalIds": {
+        "DBLP": "conf/iccv/Zhang0DFPZ023",
+        "DOI": "10.1109/ICCV51070.2023.00477",
+        "CorpusId": 267027004
+      },
+      "url": "https://www.semanticscholar.org/paper/9ba23aa6076847bff2c01cdf7bb031d1cf199afc",
+      "title": "Towards Fairness-aware Adversarial Network Pruning",
+      "venue": "IEEE International Conference on Computer Vision",
+      "year": 2023,
+      "referenceCount": 43,
+      "citationCount": 8,
+      "authors": [
+        {
+          "authorId": "2279806204",
+          "name": "Lei Zhang"
+        },
+        {
+          "authorId": "2279564240",
+          "name": "Zhibo Wang"
+        },
+        {
+          "authorId": "2157160816",
+          "name": "Xiaowei Dong"
+        },
+        {
+          "authorId": "2264095066",
+          "name": "Yunhe Feng"
+        },
+        {
+          "authorId": "81238297",
+          "name": "Xiaoyi Pang"
+        },
+        {
+          "authorId": "2264297647",
+          "name": "Zhifei Zhang"
+        },
+        {
+          "authorId": "2072596898",
+          "name": "Kui Ren"
+        }
+      ]
+    },
+    {
+      "paperId": "f0ee9fa66d5e231c80f05267e9cb64ad0aab16c6",
+      "externalIds": {
+        "DOI": "10.1093/qjmed/hcad069.626",
+        "CorpusId": 261147947
+      },
+      "url": "https://www.semanticscholar.org/paper/f0ee9fa66d5e231c80f05267e9cb64ad0aab16c6",
+      "title": "Mono-Focal Distraction Osteogenesis in Management of Traumatic Bone Loss (Systematic Review of Literature)",
+      "venue": "The Quarterly journal of medicine",
+      "year": 2023,
+      "referenceCount": 0,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "1403006549",
+          "name": "Salah Abdelgawad Abou-Seif"
+        },
+        {
+          "authorId": "2005824077",
+          "name": "M. Kotb"
+        },
+        {
+          "authorId": "2159125701",
+          "name": "Mahmoud M Abdelwahab"
+        },
+        {
+          "authorId": "2233637322",
+          "name": "Shady Ahmed Abd El Rahman"
+        }
+      ]
+    },
+    {
+      "paperId": "fe726f33d02225ddeb4671f52f03ad687d3cc5ba",
+      "externalIds": {
+        "DOI": "10.1109/ICONSTEM65670.2025.11374899",
+        "CorpusId": 285731266
+      },
+      "url": "https://www.semanticscholar.org/paper/fe726f33d02225ddeb4671f52f03ad687d3cc5ba",
+      "title": "Machine Learning Models for Analyzing Ethnic Influence on Bone Component Changes in Women's Aging Process",
+      "venue": "2025 Tenth International Conference on Science Technology Engineering and Mathematics (ICONSTEM)",
+      "year": 2025,
+      "referenceCount": 15,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2375683960",
+          "name": "A. Argynbaeva"
+        },
+        {
+          "authorId": "82274646",
+          "name": "K. Sakibaev"
+        },
+        {
+          "authorId": "2268158641",
+          "name": "Abdyrakman Eshiev"
+        },
+        {
+          "authorId": "2202601575",
+          "name": "A. Ismailov"
+        },
+        {
+          "authorId": "2375681575",
+          "name": "N. Tashmatova"
+        },
+        {
+          "authorId": "2412151658",
+          "name": "Aimeerim Zhoroeva"
+        }
+      ]
+    },
+    {
+      "paperId": "3d154da63ac5800cfbb777b0fc33229bd47157c3",
+      "externalIds": {
+        "ArXiv": "2011.00379",
+        "MAG": "3095542981",
+        "DBLP": "conf/fat/WangLL21",
+        "DOI": "10.1145/3442188.3445915",
+        "CorpusId": 226227049
+      },
+      "url": "https://www.semanticscholar.org/paper/3d154da63ac5800cfbb777b0fc33229bd47157c3",
+      "title": "Fair Classification with Group-Dependent Label Noise",
+      "venue": "Conference on Fairness, Accountability and Transparency",
+      "year": 2020,
+      "referenceCount": 49,
+      "citationCount": 110,
+      "authors": [
+        {
+          "authorId": "46583583",
+          "name": "Jialu Wang"
+        },
+        {
+          "authorId": "40013516",
+          "name": "Yang Liu"
+        },
+        {
+          "authorId": "35667043",
+          "name": "Caleb C. Levy"
+        }
+      ]
+    },
+    {
+      "paperId": "43238d6f4da1318fa8f7d2dcd27fe13abafe9556",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-1906-03518",
+        "MAG": "2948692674",
+        "ArXiv": "1906.03518",
+        "CorpusId": 150377383
+      },
+      "url": "https://www.semanticscholar.org/paper/43238d6f4da1318fa8f7d2dcd27fe13abafe9556",
+      "title": "Maximum Weighted Loss Discrepancy",
+      "venue": "arXiv.org",
+      "year": 2019,
+      "referenceCount": 33,
+      "citationCount": 16,
+      "authors": [
+        {
+          "authorId": "3218675",
+          "name": "Fereshte Khani"
+        },
+        {
+          "authorId": "2655157",
+          "name": "Aditi Raghunathan"
+        },
+        {
+          "authorId": "145419642",
+          "name": "Percy Liang"
+        }
+      ]
+    },
+    {
+      "paperId": "3e9be44b38126b858f818870a7c3cc48aa144826",
+      "externalIds": {
+        "ArXiv": "2602.05162",
+        "DBLP": "journals/corr/abs-2602-05162",
+        "DOI": "10.48550/arXiv.2602.05162",
+        "CorpusId": 285303703
+      },
+      "url": "https://www.semanticscholar.org/paper/3e9be44b38126b858f818870a7c3cc48aa144826",
+      "title": "SHaSaM: Submodular Hard Sample Mining for Fair Facial Attribute Recognition",
+      "venue": "arXiv.org",
+      "year": 2026,
+      "referenceCount": 68,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "26935955",
+          "name": "A. Majee"
+        },
+        {
+          "authorId": "2284862279",
+          "name": "Rishabh Iyer"
+        }
+      ]
+    }
+  ]
+}

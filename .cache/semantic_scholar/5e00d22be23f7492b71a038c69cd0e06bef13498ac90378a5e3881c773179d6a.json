@@ -1,0 +1,167 @@
+{
+  "total": 6,
+  "offset": 0,
+  "data": [
+    {
+      "paperId": "dcbf134deb9cc31781726ffbabd5685d6f6dfe24",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-1712-08642",
+        "MAG": "2776811469",
+        "ArXiv": "1712.08642",
+        "CorpusId": 11519203
+      },
+      "url": "https://www.semanticscholar.org/paper/dcbf134deb9cc31781726ffbabd5685d6f6dfe24",
+      "title": "Least-Squares Temporal Difference Learning for the Linear Quadratic Regulator",
+      "venue": "International Conference on Machine Learning",
+      "year": 2017,
+      "referenceCount": 55,
+      "citationCount": 138,
+      "authors": [
+        {
+          "authorId": "1985955",
+          "name": "Stephen Tu"
+        },
+        {
+          "authorId": "9229182",
+          "name": "B. Recht"
+        }
+      ]
+    },
+    {
+      "paperId": "22944f88cccbc26b31b87f52d3a375f397e61dca",
+      "externalIds": {
+        "ArXiv": "2401.16183",
+        "DBLP": "conf/amcc/OlssonZTL24",
+        "DOI": "10.23919/ACC60939.2024.10644413",
+        "CorpusId": 267312171
+      },
+      "url": "https://www.semanticscholar.org/paper/22944f88cccbc26b31b87f52d3a375f397e61dca",
+      "title": "Scalable Reinforcement Learning for Linear-Quadratic Control of Networks",
+      "venue": "American Control Conference",
+      "year": 2024,
+      "referenceCount": 22,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2065438563",
+          "name": "J. Olsson"
+        },
+        {
+          "authorId": "2190082448",
+          "name": "Runyu Zhang"
+        },
+        {
+          "authorId": "3313001",
+          "name": "E. Tegling"
+        },
+        {
+          "authorId": "2280369824",
+          "name": "Na Li"
+        }
+      ]
+    },
+    {
+      "paperId": "cb7a7810ff1da5e628537eb2f75089351c31551a",
+      "externalIds": {
+        "MAG": "2964990165",
+        "DBLP": "conf/colt/TuR19",
+        "ArXiv": "1812.03565",
+        "CorpusId": 54462753
+      },
+      "url": "https://www.semanticscholar.org/paper/cb7a7810ff1da5e628537eb2f75089351c31551a",
+      "title": "The Gap Between Model-Based and Model-Free Methods on the Linear Quadratic Regulator: An Asymptotic Viewpoint",
+      "venue": "Annual Conference Computational Learning Theory",
+      "year": 2018,
+      "referenceCount": 55,
+      "citationCount": 157,
+      "authors": [
+        {
+          "authorId": "1985955",
+          "name": "Stephen Tu"
+        },
+        {
+          "authorId": "9229182",
+          "name": "B. Recht"
+        }
+      ]
+    },
+    {
+      "paperId": "32701996569b5c85f08f83c219285237938a1740",
+      "externalIds": {
+        "DBLP": "journals/siamsc/ZhouHL21",
+        "ArXiv": "2102.11379",
+        "DOI": "10.1137/21M1402303",
+        "CorpusId": 232014099
+      },
+      "url": "https://www.semanticscholar.org/paper/32701996569b5c85f08f83c219285237938a1740",
+      "title": "Actor-Critic Method for High Dimensional Static Hamilton-Jacobi-Bellman Partial Differential Equations based on Neural Networks",
+      "venue": "SIAM Journal on Scientific Computing",
+      "year": 2021,
+      "referenceCount": 72,
+      "citationCount": 71,
+      "authors": [
+        {
+          "authorId": null,
+          "name": "Mo Zhou"
+        },
+        {
+          "authorId": "7181694",
+          "name": "Jiequn Han"
+        },
+        {
+          "authorId": "34254827",
+          "name": "Jianfeng Lu"
+        }
+      ]
+    },
+    {
+      "paperId": "576bbaed8c85214e7413cbd777a996bc91fd8408",
+      "externalIds": {
+        "MAG": "3099804692",
+        "DOI": "10.3390/app10228060",
+        "CorpusId": 228898311
+      },
+      "url": "https://www.semanticscholar.org/paper/576bbaed8c85214e7413cbd777a996bc91fd8408",
+      "title": "Online Reinforcement Learning-Based Control of an Active Suspension System Using the Actor Critic Approach",
+      "venue": "Applied Sciences",
+      "year": 2020,
+      "referenceCount": 23,
+      "citationCount": 22,
+      "authors": [
+        {
+          "authorId": "2057908075",
+          "name": "Ahmad Fares"
+        },
+        {
+          "authorId": "146017408",
+          "name": "Ahmad Bani Younes"
+        }
+      ]
+    },
+    {
+      "paperId": "3931ddea77b1640795a20836b7a07b9a428ed46b",
+      "externalIds": {
+        "DBLP": "journals/tnn/SinghB23",
+        "DOI": "10.1109/TNNLS.2021.3137548",
+        "CorpusId": 245879678,
+        "PubMed": "35015649"
+      },
+      "url": "https://www.semanticscholar.org/paper/3931ddea77b1640795a20836b7a07b9a428ed46b",
+      "title": "Reinforcement Learning-Based Model-Free Controller for Feedback Stabilization of Robotic Systems",
+      "venue": "IEEE Transactions on Neural Networks and Learning Systems",
+      "year": 2022,
+      "referenceCount": 72,
+      "citationCount": 12,
+      "authors": [
+        {
+          "authorId": "2115507295",
+          "name": "Rupam Singh"
+        },
+        {
+          "authorId": "48246248",
+          "name": "B. Bhushan"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,306 @@
+{
+  "total": 443,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "181350e78a5c9e1f44e9cc2ace2137b7180856ba",
+      "externalIds": {
+        "ArXiv": "1802.02547",
+        "MAG": "2963672337",
+        "DBLP": "conf/icml/GoelKM18",
+        "CorpusId": 3647043
+      },
+      "url": "https://www.semanticscholar.org/paper/181350e78a5c9e1f44e9cc2ace2137b7180856ba",
+      "title": "Learning One Convolutional Layer with Overlapping Patches",
+      "venue": "International Conference on Machine Learning",
+      "year": 2018,
+      "referenceCount": 18,
+      "citationCount": 81,
+      "authors": [
+        {
+          "authorId": "9935792",
+          "name": "Surbhi Goel"
+        },
+        {
+          "authorId": "1682471",
+          "name": "Adam R. Klivans"
+        },
+        {
+          "authorId": "1751621",
+          "name": "Raghu Meka"
+        }
+      ]
+    },
+    {
+      "paperId": "6740d75624789cfc9a8cb654664ed66c977205cc",
+      "externalIds": {
+        "MAG": "2803834332",
+        "DBLP": "journals/corr/abs-1805-07798",
+        "ArXiv": "1805.07798",
+        "CorpusId": 29163480
+      },
+      "url": "https://www.semanticscholar.org/paper/6740d75624789cfc9a8cb654664ed66c977205cc",
+      "title": "Improved Learning of One-hidden-layer Convolutional Neural Networks with Overlaps",
+      "venue": "arXiv.org",
+      "year": 2018,
+      "referenceCount": 45,
+      "citationCount": 17,
+      "authors": [
+        {
+          "authorId": "145697585",
+          "name": "S. Du"
+        },
+        {
+          "authorId": "9935792",
+          "name": "Surbhi Goel"
+        }
+      ]
+    },
+    {
+      "paperId": "dece97b469ebcb3b17466ecd85b5129193f9821e",
+      "externalIds": {
+        "MAG": "2970862128",
+        "ArXiv": "1911.05059",
+        "DBLP": "journals/corr/abs-1911-05059",
+        "CorpusId": 202788530
+      },
+      "url": "https://www.semanticscholar.org/paper/dece97b469ebcb3b17466ecd85b5129193f9821e",
+      "title": "Tight Sample Complexity of Learning One-hidden-layer Convolutional Neural Networks",
+      "venue": "Neural Information Processing Systems",
+      "year": 2019,
+      "referenceCount": 48,
+      "citationCount": 19,
+      "authors": [
+        {
+          "authorId": "145144023",
+          "name": "Yuan Cao"
+        },
+        {
+          "authorId": "9937103",
+          "name": "Quanquan Gu"
+        }
+      ]
+    },
+    {
+      "paperId": "4574d38c6962ed92cc2d3945f420d67296c6c295",
+      "externalIds": {
+        "DBLP": "journals/jstsp/LuHW25",
+        "ArXiv": "2407.11031",
+        "DOI": "10.1109/JSTSP.2025.3549950",
+        "CorpusId": 271218480
+      },
+      "url": "https://www.semanticscholar.org/paper/4574d38c6962ed92cc2d3945f420d67296c6c295",
+      "title": "Purification of Contaminated Convolutional Neural Networks via Robust Recovery: An Approach With Theoretical Guarantee in One-Hidden-Layer Case",
+      "venue": "IEEE Journal on Selected Topics in Signal Processing",
+      "year": 2024,
+      "referenceCount": 36,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2367245178",
+          "name": "Hanxiao Lu"
+        },
+        {
+          "authorId": "2135725616",
+          "name": "Zeyu Huang"
+        },
+        {
+          "authorId": "2267864838",
+          "name": "Ren Wang"
+        }
+      ]
+    },
+    {
+      "paperId": "466a533ad3abb6bdaa3e8201944af10e877c0c46",
+      "externalIds": {
+        "MAG": "3021659040",
+        "DBLP": "journals/mia/NaceurASK20",
+        "DOI": "10.1016/j.media.2020.101692",
+        "CorpusId": 218677779,
+        "PubMed": "32417714"
+      },
+      "url": "https://www.semanticscholar.org/paper/466a533ad3abb6bdaa3e8201944af10e877c0c46",
+      "title": "Fully automatic brain tumor segmentation with deep learning-based selective attention using overlapping patches and multi-class weighted cross-entropy",
+      "venue": "Medical Image Anal.",
+      "year": 2020,
+      "referenceCount": 86,
+      "citationCount": 176,
+      "authors": [
+        {
+          "authorId": "2191947",
+          "name": "M. B. Naceur"
+        },
+        {
+          "authorId": "1928777",
+          "name": "M. Akil"
+        },
+        {
+          "authorId": "3380090",
+          "name": "R. Saouli"
+        },
+        {
+          "authorId": "3043743",
+          "name": "R. Kachouri"
+        }
+      ]
+    },
+    {
+      "paperId": "89058c78189f7745c755d9769c47f0c16b42d396",
+      "externalIds": {
+        "MAG": "2975491454",
+        "DBLP": "conf/isit/FuCL19",
+        "DOI": "10.1109/ISIT.2019.8849289",
+        "CorpusId": 203567195
+      },
+      "url": "https://www.semanticscholar.org/paper/89058c78189f7745c755d9769c47f0c16b42d396",
+      "title": "Local Geometry of Cross Entropy Loss in Learning One-Hidden-Layer Neural Networks",
+      "venue": "International Symposium on Information Theory",
+      "year": 2019,
+      "referenceCount": 22,
+      "citationCount": 4,
+      "authors": [
+        {
+          "authorId": "46340163",
+          "name": "H. Fu"
+        },
+        {
+          "authorId": "1784472",
+          "name": "Yuejie Chi"
+        },
+        {
+          "authorId": "50014661",
+          "name": "Yingbin Liang"
+        }
+      ]
+    },
+    {
+      "paperId": "f9237890c5464cc3a6dd532d15222fcbf9072084",
+      "externalIds": {
+        "DBLP": "journals/access/CuiZSC24",
+        "DOI": "10.1109/ACCESS.2024.3439620",
+        "CorpusId": 271759209
+      },
+      "url": "https://www.semanticscholar.org/paper/f9237890c5464cc3a6dd532d15222fcbf9072084",
+      "title": "Fault Diagnosis for Inverter-Fed Motor Drives Using One Dimensional Complex-Valued Convolutional Neural Network",
+      "venue": "IEEE Access",
+      "year": 2024,
+      "referenceCount": 43,
+      "citationCount": 12,
+      "authors": [
+        {
+          "authorId": "2163208733",
+          "name": "Bowen Cui"
+        },
+        {
+          "authorId": "2346129688",
+          "name": "Siyuan Zhang"
+        },
+        {
+          "authorId": "2293668898",
+          "name": "Jiayi Su"
+        },
+        {
+          "authorId": "2315447874",
+          "name": "Huamin Cui"
+        }
+      ]
+    },
+    {
+      "paperId": "0c9404faffeb9d32dc21a0cbefee2a1bb74ddbdc",
+      "externalIds": {
+        "DBLP": "journals/tmm/0023T19",
+        "MAG": "2807832475",
+        "DOI": "10.1109/TMM.2018.2846405",
+        "CorpusId": 56596450
+      },
+      "url": "https://www.semanticscholar.org/paper/0c9404faffeb9d32dc21a0cbefee2a1bb74ddbdc",
+      "title": "Learning Linear Regression via Single-Convolutional Layer for Visual Object Tracking",
+      "venue": "IEEE transactions on multimedia",
+      "year": 2019,
+      "referenceCount": 46,
+      "citationCount": 33,
+      "authors": [
+        {
+          "authorId": "153819461",
+          "name": "Kai Chen"
+        },
+        {
+          "authorId": "50020973",
+          "name": "Wenbing Tao"
+        }
+      ]
+    },
+    {
+      "paperId": "d6cd672bd7c186b6bb74b9f0ca29d877902bbf32",
+      "externalIds": {
+        "DBLP": "conf/iclr/ThiryABO21",
+        "ArXiv": "2101.07528",
+        "CorpusId": 231639283
+      },
+      "url": "https://www.semanticscholar.org/paper/d6cd672bd7c186b6bb74b9f0ca29d877902bbf32",
+      "title": "The Unreasonable Effectiveness of Patches in Deep Convolutional Kernels Methods",
+      "venue": "International Conference on Learning Representations",
+      "year": 2021,
+      "referenceCount": 43,
+      "citationCount": 16,
+      "authors": [
+        {
+          "authorId": "46199268",
+          "name": "L. Thiry"
+        },
+        {
+          "authorId": "1975860",
+          "name": "M. Arbel"
+        },
+        {
+          "authorId": "1829344",
+          "name": "Eugene Belilovsky"
+        },
+        {
+          "authorId": "3306593",
+          "name": "Edouard Oyallon"
+        }
+      ]
+    },
+    {
+      "paperId": "ff7578f50131c4f7600dbac677d2678414fcfe7f",
+      "externalIds": {
+        "DOI": "10.1007/s10712-023-09779-8",
+        "CorpusId": 257610265
+      },
+      "url": "https://www.semanticscholar.org/paper/ff7578f50131c4f7600dbac677d2678414fcfe7f",
+      "title": "Deep Learning with Fully Convolutional and Dense Connection Framework for Ground Roll Attenuation",
+      "venue": "Surveys in geophysics",
+      "year": 2023,
+      "referenceCount": 71,
+      "citationCount": 9,
+      "authors": [
+        {
+          "authorId": "2108753849",
+          "name": "Liuqing Yang"
+        },
+        {
+          "authorId": "103307763",
+          "name": "Shoudong Wang"
+        },
+        {
+          "authorId": "2109197732",
+          "name": "Xiaohong Chen"
+        },
+        {
+          "authorId": "2166401894",
+          "name": "O.M. Saad"
+        },
+        {
+          "authorId": "2152125997",
+          "name": "W. Cheng"
+        },
+        {
+          "authorId": "47558612",
+          "name": "Y. Chen"
+        }
+      ]
+    }
+  ]
+}

@@ -227,6 +227,42 @@ Each `<inproceedings>` record usually contains:
 | url | DBLP page anchor |
 | pages | Page numbers, missing for some conferences |
 
+## Internal Paper Citation Graph
+
+If you want to build a citation graph only among the papers already listed in `papers.csv`,
+you can run:
+
+```bash
+python paper_citation_graph/paper_graph_builder.py \
+  --input data/dblp_ai_authors_2015_2025/papers.csv \
+  --output-dir paper_citation_graph/outputs
+```
+
+This pipeline works in three stages:
+
+1. Resolve each local DBLP paper to a Semantic Scholar `paperId` using DOI first, then title/year/author matching.
+2. Fetch the outgoing references for each matched paper from Semantic Scholar.
+3. Keep only edges where both source and target papers are already present in your local `papers.csv`.
+
+Main outputs:
+
+- `paper_citation_graph/outputs/resolved_papers.jsonl`
+- `paper_citation_graph/outputs/unmatched_papers.jsonl`
+- `paper_citation_graph/outputs/paper_references.jsonl`
+- `paper_citation_graph/outputs/internal_citation_edges.csv`
+- `paper_citation_graph/outputs/paper_graph.graphml`
+- `paper_citation_graph/outputs/summary.json`
+
+Useful options:
+
+- `--max-papers 200`: test on a smaller subset first
+- `--resume`: continue from existing resolution/reference artifacts
+- `--skip-resolution`: reuse `resolved_papers.jsonl` and fetch references only
+- `--request-interval 1.5`: slow requests down if you see throttling
+- `--no-cache`: disable local API response cache
+
+If you have a Semantic Scholar API key, set `S2_API_KEY` first for more stable throughput.
+
 ## Current Pipeline
 
 ### 1. DBLP Data Collection Pipeline

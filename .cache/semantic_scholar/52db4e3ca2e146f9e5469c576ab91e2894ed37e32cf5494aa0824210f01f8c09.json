@@ -1,0 +1,295 @@
+{
+  "total": 76420,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "127cf09abf45c9d3cb4d859a72e6cc67acc2b57b",
+      "externalIds": {
+        "MAG": "1931027396",
+        "DBLP": "conf/icml/ThomasTG15",
+        "CorpusId": 17076881
+      },
+      "url": "https://www.semanticscholar.org/paper/127cf09abf45c9d3cb4d859a72e6cc67acc2b57b",
+      "title": "High Confidence Policy Improvement",
+      "venue": "International Conference on Machine Learning",
+      "year": 2015,
+      "referenceCount": 22,
+      "citationCount": 197,
+      "authors": [
+        {
+          "authorId": "143640165",
+          "name": "P. Thomas"
+        },
+        {
+          "authorId": "1709005",
+          "name": "Georgios Theocharous"
+        },
+        {
+          "authorId": "1678622",
+          "name": "M. Ghavamzadeh"
+        }
+      ]
+    },
+    {
+      "paperId": "ff437eb6108d35b1b70ebb98f5085a5c0154086b",
+      "externalIds": {
+        "ArXiv": "2310.13230",
+        "DBLP": "conf/icml/ZhaoLS0WL24",
+        "CorpusId": 264406025
+      },
+      "url": "https://www.semanticscholar.org/paper/ff437eb6108d35b1b70ebb98f5085a5c0154086b",
+      "title": "Absolute Policy Optimization: Enhancing Lower Probability Bound of Performance with High Confidence",
+      "venue": "International Conference on Machine Learning",
+      "year": 2023,
+      "referenceCount": 76,
+      "citationCount": 5,
+      "authors": [
+        {
+          "authorId": "123903496",
+          "name": "Weiye Zhao"
+        },
+        {
+          "authorId": "2261358544",
+          "name": "Feihan Li"
+        },
+        {
+          "authorId": "2108935699",
+          "name": "Yifan Sun"
+        },
+        {
+          "authorId": "2118230590",
+          "name": "Rui Chen"
+        },
+        {
+          "authorId": "51045762",
+          "name": "Tianhao Wei"
+        },
+        {
+          "authorId": "2238180276",
+          "name": "Changliu Liu"
+        }
+      ]
+    },
+    {
+      "paperId": "e22f3a5312891e702246507c216d9487600c61b3",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2507-15532",
+        "ArXiv": "2507.15532",
+        "DOI": "10.48550/arXiv.2507.15532",
+        "CorpusId": 280276826
+      },
+      "url": "https://www.semanticscholar.org/paper/e22f3a5312891e702246507c216d9487600c61b3",
+      "title": "Data-Efficient Safe Policy Improvement Using Parametric Structure",
+      "venue": "European Conference on Artificial Intelligence",
+      "year": 2025,
+      "referenceCount": 50,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2216720089",
+          "name": "Kasper Engelen"
+        },
+        {
+          "authorId": "2372542918",
+          "name": "Guillermo A. P'erez"
+        },
+        {
+          "authorId": "1490632472",
+          "name": "Marnix Suilen"
+        }
+      ]
+    },
+    {
+      "paperId": "97845ab403375173ab7e533153679f3cf39aeafb",
+      "externalIds": {
+        "ArXiv": "2410.09361",
+        "DBLP": "journals/corr/abs-2410-09361",
+        "DOI": "10.48550/arXiv.2410.09361",
+        "CorpusId": 273345740
+      },
+      "url": "https://www.semanticscholar.org/paper/97845ab403375173ab7e533153679f3cf39aeafb",
+      "title": "Decision-Point Guided Safe Policy Improvement",
+      "venue": "International Conference on Artificial Intelligence and Statistics",
+      "year": 2024,
+      "referenceCount": 40,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2294681232",
+          "name": "Abhishek Sharma"
+        },
+        {
+          "authorId": "2130142762",
+          "name": "Leo Benac"
+        },
+        {
+          "authorId": "47612580",
+          "name": "S. Parbhoo"
+        },
+        {
+          "authorId": "1388372395",
+          "name": "F. Doshi-Velez"
+        }
+      ]
+    },
+    {
+      "paperId": "4d157fda990f939e7e7df8334b692b4bcf8195c6",
+      "externalIds": {
+        "ArXiv": "2210.11259",
+        "DBLP": "journals/corr/abs-2210-11259",
+        "DOI": "10.1007/978-3-031-19849-6_21",
+        "CorpusId": 253018947
+      },
+      "url": "https://www.semanticscholar.org/paper/4d157fda990f939e7e7df8334b692b4bcf8195c6",
+      "title": "Safe Policy Improvement in Constrained Markov Decision Processes",
+      "venue": "Leveraging Applications of Formal Methods",
+      "year": 2022,
+      "referenceCount": 66,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "2052104408",
+          "name": "Luigi Berducci"
+        },
+        {
+          "authorId": "1787208",
+          "name": "R. Grosu"
+        }
+      ]
+    },
+    {
+      "paperId": "4a2b2d6bfac7109b60e1d9b9ffcb5e2b1647592b",
+      "externalIds": {
+        "DOI": "10.1117/12.2641811",
+        "CorpusId": 253495031
+      },
+      "url": "https://www.semanticscholar.org/paper/4a2b2d6bfac7109b60e1d9b9ffcb5e2b1647592b",
+      "title": "Policy improvement in dynamic programming",
+      "venue": "Other Conferences",
+      "year": 2022,
+      "referenceCount": 8,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2340467337",
+          "name": "Zhewen Zhang"
+        }
+      ]
+    },
+    {
+      "paperId": "919bb7e60833cc845e236f575f9b4c82ce569c81",
+      "externalIds": {
+        "ArXiv": "2010.12645",
+        "DBLP": "conf/nips/ChandakJTWT20",
+        "MAG": "3094117125",
+        "CorpusId": 225067218
+      },
+      "url": "https://www.semanticscholar.org/paper/919bb7e60833cc845e236f575f9b4c82ce569c81",
+      "title": "Towards Safe Policy Improvement for Non-Stationary MDPs",
+      "venue": "Neural Information Processing Systems",
+      "year": 2020,
+      "referenceCount": 70,
+      "citationCount": 41,
+      "authors": [
+        {
+          "authorId": "2232505",
+          "name": "Yash Chandak"
+        },
+        {
+          "authorId": "143900003",
+          "name": "Emma Jordan"
+        },
+        {
+          "authorId": "1709005",
+          "name": "Georgios Theocharous"
+        },
+        {
+          "authorId": "144542337",
+          "name": "Martha White"
+        },
+        {
+          "authorId": "143640165",
+          "name": "P. Thomas"
+        }
+      ]
+    },
+    {
+      "paperId": "ec95e665bfb3b73144ce8717e1e033fee167fddb",
+      "externalIds": {
+        "DBLP": "conf/atal/KhannaTMMT23",
+        "ArXiv": "1910.01062",
+        "DOI": "10.5555/3545946.3598957",
+        "CorpusId": 251643886
+      },
+      "url": "https://www.semanticscholar.org/paper/ec95e665bfb3b73144ce8717e1e033fee167fddb",
+      "title": "Never Worse, Mostly Better: Stable Policy Improvement in Deep Reinforcement Learning",
+      "venue": "Adaptive Agents and Multi-Agent Systems",
+      "year": 2019,
+      "referenceCount": 26,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "50022230",
+          "name": "P. Khanna"
+        },
+        {
+          "authorId": "29978064",
+          "name": "Guy Tennenholtz"
+        },
+        {
+          "authorId": "81589010",
+          "name": "Nadav Merlis"
+        },
+        {
+          "authorId": "1712535",
+          "name": "Shie Mannor"
+        },
+        {
+          "authorId": "3393407",
+          "name": "Chen Tessler"
+        }
+      ]
+    },
+    {
+      "paperId": "eab1ac84c06d96a4a08a926a723dfe05aae25e8e",
+      "externalIds": {
+        "DOI": "10.1109/WAIE67422.2025.11381072",
+        "CorpusId": 285732451
+      },
+      "url": "https://www.semanticscholar.org/paper/eab1ac84c06d96a4a08a926a723dfe05aae25e8e",
+      "title": "Public Policy generation: Enhancing AI Literacy in High School students",
+      "venue": "2025 International Workshop on Artificial Intelligence and Education (WAIE)",
+      "year": 2025,
+      "referenceCount": 22,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "152655365",
+          "name": "J. Segura"
+        }
+      ]
+    },
+    {
+      "paperId": "474c32ce103d501f45faeb675f4cafa5c1f0f5da",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2511-12867",
+        "ArXiv": "2511.12867",
+        "DOI": "10.48550/arXiv.2511.12867",
+        "CorpusId": 283073086
+      },
+      "url": "https://www.semanticscholar.org/paper/474c32ce103d501f45faeb675f4cafa5c1f0f5da",
+      "title": "Bootstrapping LLMs via Preference-Based Policy Optimization",
+      "venue": "AAAI Conference on Artificial Intelligence",
+      "year": 2025,
+      "referenceCount": 53,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2365321932",
+          "name": "Chen Jia"
+        }
+      ]
+    }
+  ]
+}

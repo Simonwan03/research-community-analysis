@@ -1,0 +1,290 @@
+{
+  "total": 887,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "399c70ae8224f0485a07c8174c0e9b32f144b632",
+      "externalIds": {
+        "MAG": "2951532958",
+        "DBLP": "conf/icml/BubeckL16",
+        "ArXiv": "1602.04847",
+        "CorpusId": 10711793
+      },
+      "url": "https://www.semanticscholar.org/paper/399c70ae8224f0485a07c8174c0e9b32f144b632",
+      "title": "Black-box Optimization with a Politician",
+      "venue": "International Conference on Machine Learning",
+      "year": 2016,
+      "referenceCount": 18,
+      "citationCount": 8,
+      "authors": [
+        {
+          "authorId": "1815542",
+          "name": "Sébastien Bubeck"
+        },
+        {
+          "authorId": "2109308930",
+          "name": "Y. Lee"
+        }
+      ]
+    },
+    {
+      "paperId": "ec9670482bd585b411ae0b49cd05bb7fa1d1942f",
+      "externalIds": {
+        "ArXiv": "2406.05830",
+        "DBLP": "journals/corr/abs-2406-05830",
+        "DOI": "10.48550/arXiv.2406.05830",
+        "CorpusId": 270370828
+      },
+      "url": "https://www.semanticscholar.org/paper/ec9670482bd585b411ae0b49cd05bb7fa1d1942f",
+      "title": "Probabilistic Approach to Black-Box Binary Optimization with Budget Constraints: Application to Sensor Placement",
+      "venue": "arXiv.org",
+      "year": 2024,
+      "referenceCount": 0,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "2301798156",
+          "name": "A. Attia"
+        }
+      ]
+    },
+    {
+      "paperId": "c964ee6fd2cd01403641ea98476decd359fcf1e2",
+      "externalIds": {
+        "PubMedCentral": "11812349",
+        "DOI": "10.1021/acs.iecr.4c03584",
+        "CorpusId": 275873991,
+        "PubMed": "39935943"
+      },
+      "url": "https://www.semanticscholar.org/paper/c964ee6fd2cd01403641ea98476decd359fcf1e2",
+      "title": "Gradient-Based Framework for Bilevel Optimization of Black-Box Functions: Synergizing Model-Free Reinforcement Learning and Implicit Function Differentiation",
+      "venue": "Industrial & Engineering Chemistry Research",
+      "year": 2025,
+      "referenceCount": 31,
+      "citationCount": 9,
+      "authors": [
+        {
+          "authorId": "2342036445",
+          "name": "Thomas Banker"
+        },
+        {
+          "authorId": "2274969452",
+          "name": "A. Mesbah"
+        }
+      ]
+    },
+    {
+      "paperId": "53deef2f8d04764bf530eca2d323c307de28d528",
+      "externalIds": {
+        "DBLP": "conf/gecco/BouterB23",
+        "ArXiv": "2305.06246",
+        "DOI": "10.1145/3583133.3596361",
+        "CorpusId": 258588354
+      },
+      "url": "https://www.semanticscholar.org/paper/53deef2f8d04764bf530eca2d323c307de28d528",
+      "title": "A Joint Python/C++ Library for Efficient yet Accessible Black-Box and Gray-Box Optimization with GOMEA",
+      "venue": "GECCO Companion",
+      "year": 2023,
+      "referenceCount": 31,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "50613514",
+          "name": "A. Bouter"
+        },
+        {
+          "authorId": "1704785",
+          "name": "P. Bosman"
+        }
+      ]
+    },
+    {
+      "paperId": "0e9a76839394344a1716d93ca3135a8237e00d2e",
+      "externalIds": {
+        "DOI": "10.1007/s44163-026-01186-3",
+        "CorpusId": 287294416
+      },
+      "url": "https://www.semanticscholar.org/paper/0e9a76839394344a1716d93ca3135a8237e00d2e",
+      "title": "Adaptive search space scaling in self-adaptive genetic algorithms for high-dimensional global black-box optimization problems",
+      "venue": "Discover Artificial Intelligence",
+      "year": 2026,
+      "referenceCount": 35,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2277070408",
+          "name": "I. Malashin"
+        },
+        {
+          "authorId": "2249324100",
+          "name": "Evgenii Sopov"
+        },
+        {
+          "authorId": "2284907687",
+          "name": "V. Nelyub"
+        },
+        {
+          "authorId": "2277068250",
+          "name": "A. Borodulin"
+        },
+        {
+          "authorId": "2258475619",
+          "name": "Andrei P. Gantimurov"
+        },
+        {
+          "authorId": "2221900951",
+          "name": "V. Tynchenko"
+        }
+      ]
+    },
+    {
+      "paperId": "d726df7415ac241ec8b6edc05b9c99a27a1bab24",
+      "externalIds": {
+        "ArXiv": "2302.03410",
+        "CorpusId": 256627577
+      },
+      "url": "https://www.semanticscholar.org/paper/d726df7415ac241ec8b6edc05b9c99a27a1bab24",
+      "title": "Protein-protein docking using a tensor train black-box optimization method",
+      "venue": "",
+      "year": 2023,
+      "referenceCount": 25,
+      "citationCount": 10,
+      "authors": [
+        {
+          "authorId": "152168549",
+          "name": "D. Morozov"
+        },
+        {
+          "authorId": "2050228932",
+          "name": "A. Melnikov"
+        },
+        {
+          "authorId": "2557591",
+          "name": "Vishal Shete"
+        },
+        {
+          "authorId": "31347453",
+          "name": "M. Perelshtein"
+        }
+      ]
+    },
+    {
+      "paperId": "ba38b4472d0cd9c25a99f7a370005614bc734bc6",
+      "externalIds": {
+        "ArXiv": "2508.01834",
+        "CorpusId": 280421518
+      },
+      "url": "https://www.semanticscholar.org/paper/ba38b4472d0cd9c25a99f7a370005614bc734bc6",
+      "title": "Efficient optimization of expensive black-box simulators via marginal means, with application to neutrino detector design",
+      "venue": "",
+      "year": 2025,
+      "referenceCount": 76,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2359100965",
+          "name": "Hwanwoo Kim"
+        },
+        {
+          "authorId": "2261287752",
+          "name": "Simon Mak"
+        },
+        {
+          "authorId": "2324788987",
+          "name": "Ann-Kathrin Schuetz"
+        },
+        {
+          "authorId": "2360327679",
+          "name": "A. Poon"
+        }
+      ]
+    },
+    {
+      "paperId": "06d58b9546afb98aeb86e0a0077158903a9f0144",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2502-14121",
+        "ArXiv": "2502.14121",
+        "DOI": "10.48550/arXiv.2502.14121",
+        "CorpusId": 276482985
+      },
+      "url": "https://www.semanticscholar.org/paper/06d58b9546afb98aeb86e0a0077158903a9f0144",
+      "title": "Multi-Objective Bayesian Optimization for Networked Black-Box Systems: A Path to Greener Profits and Smarter Designs",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "referenceCount": 56,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "146108246",
+          "name": "Akshay Kudva"
+        },
+        {
+          "authorId": "2269784284",
+          "name": "Wei-Ting Tang"
+        },
+        {
+          "authorId": "145991520",
+          "name": "J. Paulson"
+        }
+      ]
+    },
+    {
+      "paperId": "a6f59e96f3abcd8352018dcd8eae121cc5414e52",
+      "externalIds": {
+        "DBLP": "journals/qre/SunderAN22",
+        "DOI": "10.1002/qre.3181",
+        "CorpusId": 251892258
+      },
+      "url": "https://www.semanticscholar.org/paper/a6f59e96f3abcd8352018dcd8eae121cc5414e52",
+      "title": "Robust sequential experimental strategy for black‐box optimization with application to hyperparameter tuning",
+      "venue": "Quality and Reliability Engineering International",
+      "year": 2022,
+      "referenceCount": 42,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2183149835",
+          "name": "Gautham Sunder"
+        },
+        {
+          "authorId": "2059310259",
+          "name": "Thomas A. Albrecht"
+        },
+        {
+          "authorId": "2204820",
+          "name": "C. Nachtsheim"
+        }
+      ]
+    },
+    {
+      "paperId": "77f759be34469df970684023890f4d6553aa4b33",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2401-01398",
+        "ArXiv": "2401.01398",
+        "DOI": "10.48550/arXiv.2401.01398",
+        "CorpusId": 266741877
+      },
+      "url": "https://www.semanticscholar.org/paper/77f759be34469df970684023890f4d6553aa4b33",
+      "title": "Accelerating Black-Box Molecular Property Optimization by Adaptively Learning Sparse Subspaces",
+      "venue": "arXiv.org",
+      "year": 2024,
+      "referenceCount": 17,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "100697131",
+          "name": "Farshud Sorourifar"
+        },
+        {
+          "authorId": "2342036445",
+          "name": "Thomas Banker"
+        },
+        {
+          "authorId": "145991520",
+          "name": "J. Paulson"
+        }
+      ]
+    }
+  ]
+}

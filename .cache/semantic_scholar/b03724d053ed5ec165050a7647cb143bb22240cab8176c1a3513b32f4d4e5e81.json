@@ -1,0 +1,84 @@
+{
+  "total": 3,
+  "offset": 0,
+  "data": [
+    {
+      "paperId": "ca1993d19e2ae51f3486a318451fe3009cf2754f",
+      "externalIds": {
+        "DBLP": "conf/icml/ChowdhuryYD18",
+        "MAG": "2803258749",
+        "CorpusId": 51871276
+      },
+      "url": "https://www.semanticscholar.org/paper/ca1993d19e2ae51f3486a318451fe3009cf2754f",
+      "title": "An Iterative, Sketching-based Framework for Ridge Regression",
+      "venue": "International Conference on Machine Learning",
+      "year": 2018,
+      "referenceCount": 40,
+      "citationCount": 45,
+      "authors": [
+        {
+          "authorId": "15302761",
+          "name": "Agniva Chowdhury"
+        },
+        {
+          "authorId": "10666999",
+          "name": "Jiasen Yang"
+        },
+        {
+          "authorId": "1738441",
+          "name": "P. Drineas"
+        }
+      ]
+    },
+    {
+      "paperId": "8e7a78bee6509d336f710c23209a8bee4d669827",
+      "externalIds": {
+        "DBLP": "conf/icml/KachamW22",
+        "ArXiv": "2204.06653",
+        "DOI": "10.48550/arXiv.2204.06653",
+        "CorpusId": 248178214
+      },
+      "url": "https://www.semanticscholar.org/paper/8e7a78bee6509d336f710c23209a8bee4d669827",
+      "title": "Sketching Algorithms and Lower Bounds for Ridge Regression",
+      "venue": "International Conference on Machine Learning",
+      "year": 2022,
+      "referenceCount": 22,
+      "citationCount": 6,
+      "authors": [
+        {
+          "authorId": "1471876925",
+          "name": "Praneeth Kacham"
+        },
+        {
+          "authorId": "143982862",
+          "name": "David P. Woodruff"
+        }
+      ]
+    },
+    {
+      "paperId": "5e5ff2e5b35c26127b40bb2b4c35848421109e51",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2506-09394",
+        "ArXiv": "2506.09394",
+        "DOI": "10.48550/arXiv.2506.09394",
+        "CorpusId": 279305655
+      },
+      "url": "https://www.semanticscholar.org/paper/5e5ff2e5b35c26127b40bb2b4c35848421109e51",
+      "title": "Subspace-constrained randomized coordinate descent for linear systems with good low-rank matrix approximations",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "referenceCount": 65,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "2238954007",
+          "name": "Jackie Lok"
+        },
+        {
+          "authorId": "12890978",
+          "name": "E. Rebrova"
+        }
+      ]
+    }
+  ]
+}

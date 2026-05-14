@@ -1,0 +1,303 @@
+{
+  "total": 54,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "3160ff56c062e77e28aa8bdc812c0ac4f2fa3676",
+      "externalIds": {
+        "MAG": "2951124606",
+        "DBLP": "conf/icml/SunVBB16",
+        "ArXiv": "1512.08836",
+        "CorpusId": 6462660
+      },
+      "url": "https://www.semanticscholar.org/paper/3160ff56c062e77e28aa8bdc812c0ac4f2fa3676",
+      "title": "Learning to Filter with Predictive State Inference Machines",
+      "venue": "International Conference on Machine Learning",
+      "year": 2015,
+      "referenceCount": 43,
+      "citationCount": 52,
+      "authors": [
+        {
+          "authorId": "144426657",
+          "name": "Wen Sun"
+        },
+        {
+          "authorId": "1978198",
+          "name": "Arun Venkatraman"
+        },
+        {
+          "authorId": "3288815",
+          "name": "Byron Boots"
+        },
+        {
+          "authorId": "1756566",
+          "name": "J. Bagnell"
+        }
+      ]
+    },
+    {
+      "paperId": "8ba7c96c930c35bd50b6673b5842f96301e20474",
+      "externalIds": {
+        "DBLP": "conf/ijcai/VenkatramanSHBB16",
+        "MAG": "2346439381",
+        "CorpusId": 13880702
+      },
+      "url": "https://www.semanticscholar.org/paper/8ba7c96c930c35bd50b6673b5842f96301e20474",
+      "title": "Inference Machines for Nonparametric Filter Learning",
+      "venue": "International Joint Conference on Artificial Intelligence",
+      "year": 2016,
+      "referenceCount": 37,
+      "citationCount": 8,
+      "authors": [
+        {
+          "authorId": "1978198",
+          "name": "Arun Venkatraman"
+        },
+        {
+          "authorId": "144426657",
+          "name": "Wen Sun"
+        },
+        {
+          "authorId": "145670946",
+          "name": "M. Hebert"
+        },
+        {
+          "authorId": "3288815",
+          "name": "Byron Boots"
+        },
+        {
+          "authorId": "1756566",
+          "name": "J. Bagnell"
+        }
+      ]
+    },
+    {
+      "paperId": "b60502bcc3cdf821f757402e11578dec2d7bbee9",
+      "externalIds": {
+        "DBLP": "journals/corr/DowneyHG17",
+        "ArXiv": "1702.04121",
+        "MAG": "2587899849",
+        "CorpusId": 18194160
+      },
+      "url": "https://www.semanticscholar.org/paper/b60502bcc3cdf821f757402e11578dec2d7bbee9",
+      "title": "Practical Learning of Predictive State Representations",
+      "venue": "arXiv.org",
+      "year": 2017,
+      "referenceCount": 13,
+      "citationCount": 11,
+      "authors": [
+        {
+          "authorId": "35526495",
+          "name": "Carlton Downey"
+        },
+        {
+          "authorId": "145253835",
+          "name": "Ahmed S. Hefny"
+        },
+        {
+          "authorId": "21889436",
+          "name": "Geoffrey J. Gordon"
+        }
+      ]
+    },
+    {
+      "paperId": "c0169bb2050f641a0cdee86f6f3ba72363353216",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2506-11530",
+        "ArXiv": "2506.11530",
+        "DOI": "10.48550/arXiv.2506.11530",
+        "CorpusId": 279391630
+      },
+      "url": "https://www.semanticscholar.org/paper/c0169bb2050f641a0cdee86f6f3ba72363353216",
+      "title": "Robust Filtering - Novel Statistical Learning and Inference Algorithms with Applications",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "referenceCount": 0,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "51290880",
+          "name": "Aamir Hussain Chughtai"
+        }
+      ]
+    },
+    {
+      "paperId": "52cec024a437d3d87d2200b286b7cab643d6c6ee",
+      "externalIds": {
+        "DBLP": "journals/tccn/LiangKWC24",
+        "DOI": "10.1109/TCCN.2023.3334206",
+        "CorpusId": 265284846
+      },
+      "url": "https://www.semanticscholar.org/paper/52cec024a437d3d87d2200b286b7cab643d6c6ee",
+      "title": "Millimetre-Wave Beam Tracking: An Intelligent Machine Learning and Kalman Filter Fusion Technology",
+      "venue": "IEEE Transactions on Cognitive Communications and Networking",
+      "year": 2024,
+      "referenceCount": 35,
+      "citationCount": 4,
+      "authors": [
+        {
+          "authorId": "2286659423",
+          "name": "Chentao Liang"
+        },
+        {
+          "authorId": "2202361552",
+          "name": "Jinsheng Kuang"
+        },
+        {
+          "authorId": "2267297759",
+          "name": "Fan Wu"
+        },
+        {
+          "authorId": "3098431",
+          "name": "Jienan Chen"
+        }
+      ]
+    },
+    {
+      "paperId": "c79b3a0b78833ddcb2a741a2f5fb20bffea32f7b",
+      "externalIds": {
+        "DBLP": "journals/iotj/IndrasiriNKPE24",
+        "DOI": "10.1109/JIOT.2023.3334298",
+        "CorpusId": 265319322
+      },
+      "url": "https://www.semanticscholar.org/paper/c79b3a0b78833ddcb2a741a2f5fb20bffea32f7b",
+      "title": "FedXPro: Bayesian Inference for Mitigating Poisoning Attacks in IoT Federated Learning",
+      "venue": "IEEE Internet of Things Journal",
+      "year": 2024,
+      "referenceCount": 43,
+      "citationCount": 4,
+      "authors": [
+        {
+          "authorId": "2140197205",
+          "name": "Pubudu L. Indrasiri"
+        },
+        {
+          "authorId": "123547055",
+          "name": "Dinh C. Nguyen"
+        },
+        {
+          "authorId": "40628149",
+          "name": "Bipasha Kashyap"
+        },
+        {
+          "authorId": "2301180",
+          "name": "P. Pathirana"
+        },
+        {
+          "authorId": "152959240",
+          "name": "Y. Eldar"
+        }
+      ]
+    },
+    {
+      "paperId": "3a7052df146c435fbd765efdc51133b771e7f3a1",
+      "externalIds": {
+        "DBLP": "conf/icbk/FernandoACZ25",
+        "DOI": "10.1109/ICKG66886.2025.00018",
+        "CorpusId": 286134485
+      },
+      "url": "https://www.semanticscholar.org/paper/3a7052df146c435fbd765efdc51133b771e7f3a1",
+      "title": "Memory-Efficient Information Filtering in Contrastive Learning for Temporal Knowledge Graph Reasoning",
+      "venue": "2025 IEEE International Conference on Knowledge Graph (ICKG)",
+      "year": 2025,
+      "referenceCount": 30,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2420736591",
+          "name": "Eshani K. Fernando"
+        },
+        {
+          "authorId": "2818440",
+          "name": "Michael Adjeisah"
+        },
+        {
+          "authorId": "2265725187",
+          "name": "Jian Chang"
+        },
+        {
+          "authorId": "2237165243",
+          "name": "J. J. Zhang"
+        }
+      ]
+    },
+    {
+      "paperId": "d96c0b5d337cf9e3cbc2b355af9251a3fc1b2d70",
+      "externalIds": {
+        "DOI": "10.1109/ICETEMS64039.2024.10965059",
+        "CorpusId": 278000314
+      },
+      "url": "https://www.semanticscholar.org/paper/d96c0b5d337cf9e3cbc2b355af9251a3fc1b2d70",
+      "title": "Design of an Improved Model for Soil Parameter Monitoring and Health Prediction Using Machine Learning and Data Fusion Techniques",
+      "venue": "2024 2nd International Conference on Emerging Trends in Engineering and Medical Sciences (ICETEMS)",
+      "year": 2024,
+      "referenceCount": 4,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2277667739",
+          "name": "Anagha Choudhari"
+        },
+        {
+          "authorId": "1694547",
+          "name": "D. Bhoyar"
+        },
+        {
+          "authorId": "2277669829",
+          "name": "W. Badole"
+        }
+      ]
+    },
+    {
+      "paperId": "58bf1248647f3ff20ad881137fcc3b45883d7bfc",
+      "externalIds": {
+        "ArXiv": "2509.21660",
+        "DBLP": "journals/corr/abs-2509-21660",
+        "DOI": "10.48550/arXiv.2509.21660",
+        "CorpusId": 281659051
+      },
+      "url": "https://www.semanticscholar.org/paper/58bf1248647f3ff20ad881137fcc3b45883d7bfc",
+      "title": "A Systematic Review of Conformal Inference Procedures for Treatment Effect Estimation: Methods and Challenges",
+      "venue": "IEEE Access",
+      "year": 2025,
+      "referenceCount": 34,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2304768010",
+          "name": "Pascal Memmesheimer"
+        },
+        {
+          "authorId": "2199854322",
+          "name": "Vincent Heuveline"
+        },
+        {
+          "authorId": "2341585662",
+          "name": "Jürgen Hesser"
+        }
+      ]
+    },
+    {
+      "paperId": "b347ab6a9d4d5ddde07f3e05793fd225266cd2b2",
+      "externalIds": {
+        "PubMedCentral": "12025756",
+        "DOI": "10.3390/brainsci15040396",
+        "CorpusId": 277833638,
+        "PubMed": "40309878"
+      },
+      "url": "https://www.semanticscholar.org/paper/b347ab6a9d4d5ddde07f3e05793fd225266cd2b2",
+      "title": "Neurocomputational Mechanisms of Sense of Agency: Literature Review for Integrating Predictive Coding and Adaptive Control in Human–Machine Interfaces",
+      "venue": "Brain Science",
+      "year": 2025,
+      "referenceCount": 153,
+      "citationCount": 7,
+      "authors": [
+        {
+          "authorId": "2269277665",
+          "name": "Anirban Dutta"
+        }
+      ]
+    }
+  ]
+}

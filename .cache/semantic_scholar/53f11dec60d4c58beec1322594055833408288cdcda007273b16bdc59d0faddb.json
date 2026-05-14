@@ -1,0 +1,285 @@
+{
+  "total": 40,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "4efbfaf15f2151a462660f236de891bfd987561c",
+      "externalIds": {
+        "MAG": "2740323002",
+        "DBLP": "conf/icml/StanZ0K17",
+        "CorpusId": 2529786
+      },
+      "url": "https://www.semanticscholar.org/paper/4efbfaf15f2151a462660f236de891bfd987561c",
+      "title": "Probabilistic Submodular Maximization in Sub-Linear Time",
+      "venue": "International Conference on Machine Learning",
+      "year": 2017,
+      "referenceCount": 36,
+      "citationCount": 36,
+      "authors": [
+        {
+          "authorId": "40121462",
+          "name": "Serban Stan"
+        },
+        {
+          "authorId": "1724391",
+          "name": "Morteza Zadimoghaddam"
+        },
+        {
+          "authorId": "145343838",
+          "name": "Andreas Krause"
+        },
+        {
+          "authorId": "1697131",
+          "name": "Amin Karbasi"
+        }
+      ]
+    },
+    {
+      "paperId": "618c0b502b3628897c2c4c8ad3661fc19798f35a",
+      "externalIds": {
+        "ArXiv": "2006.09327",
+        "DBLP": "conf/nips/LiF0K22",
+        "DOI": "10.52202/068431-1270",
+        "CorpusId": 247084420
+      },
+      "url": "https://www.semanticscholar.org/paper/618c0b502b3628897c2c4c8ad3661fc19798f35a",
+      "title": "Submodular Maximization in Clean Linear Time",
+      "venue": "Neural Information Processing Systems",
+      "year": 2020,
+      "referenceCount": 91,
+      "citationCount": 26,
+      "authors": [
+        {
+          "authorId": "2108651594",
+          "name": "Wenxin Li"
+        },
+        {
+          "authorId": "40546894",
+          "name": "Moran Feldman"
+        },
+        {
+          "authorId": "145735687",
+          "name": "Ehsan Kazemi"
+        },
+        {
+          "authorId": "1697131",
+          "name": "Amin Karbasi"
+        }
+      ]
+    },
+    {
+      "paperId": "030686e9926e2947ae9ce7906e6b25c9d6998d11",
+      "externalIds": {
+        "DBLP": "conf/aaai/RautSF21",
+        "DOI": "10.1609/aaai.v35i11.17132",
+        "CorpusId": 233322499
+      },
+      "url": "https://www.semanticscholar.org/paper/030686e9926e2947ae9ce7906e6b25c9d6998d11",
+      "title": "Online DR-Submodular Maximization: Minimizing Regret and Constraint Violation",
+      "venue": "AAAI Conference on Artificial Intelligence",
+      "year": 2021,
+      "referenceCount": 30,
+      "citationCount": 5,
+      "authors": [
+        {
+          "authorId": "41051225",
+          "name": "P. Raut"
+        },
+        {
+          "authorId": "48604295",
+          "name": "Omid Sadeghi"
+        },
+        {
+          "authorId": "144651919",
+          "name": "Maryam Fazel"
+        }
+      ]
+    },
+    {
+      "paperId": "b2cb4c11239674e6a10f6fba7b8fc05fbe875e7f",
+      "externalIds": {
+        "MAG": "2956151243",
+        "DBLP": "journals/corr/abs-1907-00316",
+        "ArXiv": "1907.00316",
+        "CorpusId": 195766859
+      },
+      "url": "https://www.semanticscholar.org/paper/b2cb4c11239674e6a10f6fba7b8fc05fbe875e7f",
+      "title": "Online Continuous DR-Submodular Maximization with Long-Term Budget Constraints",
+      "venue": "International Conference on Artificial Intelligence and Statistics",
+      "year": 2019,
+      "referenceCount": 24,
+      "citationCount": 27,
+      "authors": [
+        {
+          "authorId": "48604295",
+          "name": "Omid Sadeghi"
+        },
+        {
+          "authorId": "144651919",
+          "name": "Maryam Fazel"
+        }
+      ]
+    },
+    {
+      "paperId": "c67a132102f0a17886ade2046be02daed9da3d24",
+      "externalIds": {
+        "MAG": "3099661469",
+        "DBLP": "conf/nips/SadeghiRF20",
+        "CorpusId": 227276397
+      },
+      "url": "https://www.semanticscholar.org/paper/c67a132102f0a17886ade2046be02daed9da3d24",
+      "title": "A Single Recipe for Online Submodular Maximization with Adversarial or Stochastic Constraints",
+      "venue": "Neural Information Processing Systems",
+      "year": 2020,
+      "referenceCount": 43,
+      "citationCount": 11,
+      "authors": [
+        {
+          "authorId": "48604295",
+          "name": "Omid Sadeghi"
+        },
+        {
+          "authorId": "41051225",
+          "name": "P. Raut"
+        },
+        {
+          "authorId": "144651919",
+          "name": "Maryam Fazel"
+        }
+      ]
+    },
+    {
+      "paperId": "35706c877f6202622fa1c10974c131f95cc1f0b8",
+      "externalIds": {
+        "MAG": "2952959747",
+        "DBLP": "journals/corr/abs-1805-07482",
+        "ArXiv": "1805.07482",
+        "CorpusId": 29150058
+      },
+      "url": "https://www.semanticscholar.org/paper/35706c877f6202622fa1c10974c131f95cc1f0b8",
+      "title": "Optimal DR-Submodular Maximization and Applications to Provable Mean Field Inference",
+      "venue": "International Conference on Machine Learning",
+      "year": 2018,
+      "referenceCount": 40,
+      "citationCount": 15,
+      "authors": [
+        {
+          "authorId": "41129308",
+          "name": "An Bian"
+        },
+        {
+          "authorId": "1682548",
+          "name": "J. Buhmann"
+        },
+        {
+          "authorId": "145343838",
+          "name": "Andreas Krause"
+        }
+      ]
+    },
+    {
+      "paperId": "485fab5085e689f3301935a4e57dfa4762bbdad0",
+      "externalIds": {
+        "DBLP": "conf/icml/SchlegelPCW17",
+        "MAG": "2740764198",
+        "CorpusId": 716475
+      },
+      "url": "https://www.semanticscholar.org/paper/485fab5085e689f3301935a4e57dfa4762bbdad0",
+      "title": "Adapting Kernel Representations Online Using Submodular Maximization",
+      "venue": "International Conference on Machine Learning",
+      "year": 2017,
+      "referenceCount": 38,
+      "citationCount": 12,
+      "authors": [
+        {
+          "authorId": "145304454",
+          "name": "M. Schlegel"
+        },
+        {
+          "authorId": "7303313",
+          "name": "Yangchen Pan"
+        },
+        {
+          "authorId": "2809410",
+          "name": "Jiecao Chen"
+        },
+        {
+          "authorId": "144542337",
+          "name": "Martha White"
+        }
+      ]
+    },
+    {
+      "paperId": "9c54f10db062d610789f59967591735e76171268",
+      "externalIds": {
+        "MAG": "3031635149",
+        "ArXiv": "2005.14708",
+        "DBLP": "journals/corr/abs-2005-14708",
+        "CorpusId": 219124010
+      },
+      "url": "https://www.semanticscholar.org/paper/9c54f10db062d610789f59967591735e76171268",
+      "title": "Online DR-Submodular Maximization with Stochastic Cumulative Constraints",
+      "venue": "arXiv.org",
+      "year": 2020,
+      "referenceCount": 29,
+      "citationCount": 8,
+      "authors": [
+        {
+          "authorId": "41051225",
+          "name": "P. Raut"
+        },
+        {
+          "authorId": "48604295",
+          "name": "Omid Sadeghi"
+        },
+        {
+          "authorId": "144651919",
+          "name": "Maryam Fazel"
+        }
+      ]
+    },
+    {
+      "paperId": "c3d57916924cf3fe7ec5ae25068b27f9558643cd",
+      "externalIds": {
+        "MAG": "3046513761",
+        "DBLP": "conf/colt/000220",
+        "CorpusId": 220872916
+      },
+      "url": "https://www.semanticscholar.org/paper/c3d57916924cf3fe7ec5ae25068b27f9558643cd",
+      "title": "Adaptive Submodular Maximization under Stochastic Item Costs",
+      "venue": "Annual Conference Computational Learning Theory",
+      "year": 2020,
+      "referenceCount": 45,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "145022640",
+          "name": "S. Parthasarathy"
+        }
+      ]
+    },
+    {
+      "paperId": "32c3197f6796cf3daf541207a6a665f8f267d448",
+      "externalIds": {
+        "CorpusId": 13485325
+      },
+      "url": "https://www.semanticscholar.org/paper/32c3197f6796cf3daf541207a6a665f8f267d448",
+      "title": "Submodular Maximization and Diversity in Structured Output Spaces",
+      "venue": "",
+      "year": 2013,
+      "referenceCount": 14,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "2285806268",
+          "name": "Virginia Tech"
+        },
+        {
+          "authorId": "52014393",
+          "name": "U. Austin"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,341 @@
+{
+  "total": 3703,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "fe9b8aac9fa3bfd9724db5a881a578e471e612d7",
+      "externalIds": {
+        "ArXiv": "1802.03268",
+        "DBLP": "conf/icml/PhamGZLD18",
+        "MAG": "2953209204",
+        "CorpusId": 3638969
+      },
+      "url": "https://www.semanticscholar.org/paper/fe9b8aac9fa3bfd9724db5a881a578e471e612d7",
+      "title": "Efficient Neural Architecture Search via Parameter Sharing",
+      "venue": "International Conference on Machine Learning",
+      "year": 2018,
+      "referenceCount": 54,
+      "citationCount": 2987,
+      "authors": [
+        {
+          "authorId": "143950636",
+          "name": "Hieu Pham"
+        },
+        {
+          "authorId": "152565355",
+          "name": "M. Guan"
+        },
+        {
+          "authorId": "2368067",
+          "name": "Barret Zoph"
+        },
+        {
+          "authorId": "2827616",
+          "name": "Quoc V. Le"
+        },
+        {
+          "authorId": "48448318",
+          "name": "J. Dean"
+        }
+      ]
+    },
+    {
+      "paperId": "fa5d44db9143980bf34805378e72f0e6b1c2405c",
+      "externalIds": {
+        "CorpusId": 197467284
+      },
+      "url": "https://www.semanticscholar.org/paper/fa5d44db9143980bf34805378e72f0e6b1c2405c",
+      "title": "Analysis of Efficient Neural Architecture Search via Parameter Sharing",
+      "venue": "",
+      "year": 2019,
+      "referenceCount": 23,
+      "citationCount": 10,
+      "authors": [
+        {
+          "authorId": "143864146",
+          "name": "Prabhant Singh"
+        }
+      ]
+    },
+    {
+      "paperId": "e7d8e1d664644c53865478fddf10b1d5727ab379",
+      "externalIds": {
+        "MAG": "2904571693",
+        "CorpusId": 56174537
+      },
+      "url": "https://www.semanticscholar.org/paper/e7d8e1d664644c53865478fddf10b1d5727ab379",
+      "title": "Finding a High Accuracy Neural Network for the Welding Defects Classification Using Efficient Neural Architecture Search via Parameter Sharing",
+      "venue": "International Conference on Control, Automation and Systems",
+      "year": 2018,
+      "referenceCount": 0,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "2111623083",
+          "name": "Min-Guk Kang"
+        },
+        {
+          "authorId": "2110136917",
+          "name": "Hong-Hyun Kim"
+        },
+        {
+          "authorId": "39732859",
+          "name": "D. Kang"
+        }
+      ]
+    },
+    {
+      "paperId": "0b23836b827fdb849b1eb08a3800c4ca5de91e16",
+      "externalIds": {
+        "DOI": "10.3390/electronics13224547",
+        "CorpusId": 274239562
+      },
+      "url": "https://www.semanticscholar.org/paper/0b23836b827fdb849b1eb08a3800c4ca5de91e16",
+      "title": "Neural Architecture Search via Trainless Pruning Algorithm: A Bayesian Evaluation of a Network with Multiple Indicators",
+      "venue": "Electronics",
+      "year": 2024,
+      "referenceCount": 6,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2296439519",
+          "name": "Yiqi Lin"
+        },
+        {
+          "authorId": "2055840920",
+          "name": "Yuki Endo"
+        },
+        {
+          "authorId": "2230616151",
+          "name": "Jinho Lee"
+        },
+        {
+          "authorId": "2242689800",
+          "name": "Shunsuke Kamijo"
+        }
+      ]
+    },
+    {
+      "paperId": "9b3caaebd64a29ea068df9923603c30d6cdec85d",
+      "externalIds": {
+        "DBLP": "journals/tnn/DingCLZSC22",
+        "DOI": "10.1109/TNNLS.2021.3067028",
+        "CorpusId": 220280983,
+        "PubMed": "33788694"
+      },
+      "url": "https://www.semanticscholar.org/paper/9b3caaebd64a29ea068df9923603c30d6cdec85d",
+      "title": "BNAS: Efficient Neural Architecture Search Using Broad Scalable Architecture",
+      "venue": "IEEE Transactions on Neural Networks and Learning Systems",
+      "year": 2021,
+      "referenceCount": 50,
+      "citationCount": 61,
+      "authors": [
+        {
+          "authorId": "3465740",
+          "name": "Zixiang Ding"
+        },
+        {
+          "authorId": "47557528",
+          "name": "Yaran Chen"
+        },
+        {
+          "authorId": "2149457233",
+          "name": "Nannan Li"
+        },
+        {
+          "authorId": "9441292",
+          "name": "Dongbin Sun"
+        },
+        {
+          "authorId": "2152860238",
+          "name": "C. L. P. Chen"
+        }
+      ]
+    },
+    {
+      "paperId": "fe1f560ee52123012a4d731d5e8d7c95c60e55b9",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2001-06679",
+        "ArXiv": "2001.06679",
+        "MAG": "3001568422",
+        "CorpusId": 210839376
+      },
+      "url": "https://www.semanticscholar.org/paper/fe1f560ee52123012a4d731d5e8d7c95c60e55b9",
+      "title": "Efficient Neural Architecture Search: A Broad Version",
+      "venue": "arXiv.org",
+      "year": 2020,
+      "referenceCount": 25,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "3465740",
+          "name": "Zixiang Ding"
+        },
+        {
+          "authorId": "47557528",
+          "name": "Yaran Chen"
+        },
+        {
+          "authorId": "145099446",
+          "name": "Nannan Li"
+        },
+        {
+          "authorId": "1699234",
+          "name": "Dongbin Zhao"
+        },
+        {
+          "authorId": "2152860238",
+          "name": "C. L. P. Chen"
+        }
+      ]
+    },
+    {
+      "paperId": "056a2f6b106d01aa8549e773bb4f77d7a007185a",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2110-06751",
+        "ArXiv": "2110.06751",
+        "CorpusId": 234490186
+      },
+      "url": "https://www.semanticscholar.org/paper/056a2f6b106d01aa8549e773bb4f77d7a007185a",
+      "title": "Improving the sample-efficiency of neural architecture search with reinforcement learning",
+      "venue": "arXiv.org",
+      "year": 2021,
+      "referenceCount": 35,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "2064046911",
+          "name": "A. Nagy"
+        },
+        {
+          "authorId": "2392976665",
+          "name": "Ábel Boros"
+        }
+      ]
+    },
+    {
+      "paperId": "0600718aa242699eaf3dd2386ebf15c6426fc73f",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2501-08504",
+        "ArXiv": "2501.08504",
+        "DOI": "10.48550/arXiv.2501.08504",
+        "CorpusId": 275544634
+      },
+      "url": "https://www.semanticscholar.org/paper/0600718aa242699eaf3dd2386ebf15c6426fc73f",
+      "title": "SuperSAM: Crafting a SAM Supernetwork via Structured Pruning and Unstructured Parameter Prioritization",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "referenceCount": 0,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "2142452508",
+          "name": "Waqwoya Abebe"
+        },
+        {
+          "authorId": "2322938102",
+          "name": "Sadegh Jafari"
+        },
+        {
+          "authorId": "2028798613",
+          "name": "Sixing Yu"
+        },
+        {
+          "authorId": "2100306",
+          "name": "Akashnil Dutta"
+        },
+        {
+          "authorId": "2295883799",
+          "name": "Jan Strube"
+        },
+        {
+          "authorId": "3247453",
+          "name": "Nathan R. Tallent"
+        },
+        {
+          "authorId": "2316519249",
+          "name": "Luanzheng Guo"
+        },
+        {
+          "authorId": "2317098957",
+          "name": "Pablo Munoz"
+        },
+        {
+          "authorId": "2266204425",
+          "name": "Ali Jannesari"
+        }
+      ]
+    },
+    {
+      "paperId": "af6f8906cc3dc73fe8eab5a06eab5ac70798e06f",
+      "externalIds": {
+        "MAG": "2968864666",
+        "DBLP": "conf/mlsys/GuanMSLP20",
+        "CorpusId": 201888496
+      },
+      "url": "https://www.semanticscholar.org/paper/af6f8906cc3dc73fe8eab5a06eab5ac70798e06f",
+      "title": "FLEET: Flexible Efficient Ensemble Training for Heterogeneous Deep Neural Networks",
+      "venue": "Conference on Machine Learning and Systems",
+      "year": 2020,
+      "referenceCount": 42,
+      "citationCount": 13,
+      "authors": [
+        {
+          "authorId": "2055337890",
+          "name": "Hui Guan"
+        },
+        {
+          "authorId": "1395922839",
+          "name": "Laxmikant Kishor Mokadam"
+        },
+        {
+          "authorId": "37914192",
+          "name": "Xipeng Shen"
+        },
+        {
+          "authorId": "8600116",
+          "name": "Seung-Hwan Lim"
+        },
+        {
+          "authorId": "36395353",
+          "name": "R. Patton"
+        }
+      ]
+    },
+    {
+      "paperId": "21600bf1e54d13a8df323a0ae1ae287920e30f05",
+      "externalIds": {
+        "MAG": "3013950509",
+        "DBLP": "journals/corr/abs-2003-12238",
+        "ArXiv": "2003.12238",
+        "DOI": "10.1109/cvpr42600.2020.01201",
+        "CorpusId": 214693000
+      },
+      "url": "https://www.semanticscholar.org/paper/21600bf1e54d13a8df323a0ae1ae287920e30f05",
+      "title": "MiLeNAS: Efficient Neural Architecture Search via Mixed-Level Reformulation",
+      "venue": "Computer Vision and Pattern Recognition",
+      "year": 2020,
+      "referenceCount": 34,
+      "citationCount": 143,
+      "authors": [
+        {
+          "authorId": "31927890",
+          "name": "Chaoyang He"
+        },
+        {
+          "authorId": "2729522",
+          "name": "Haishan Ye"
+        },
+        {
+          "authorId": "152148573",
+          "name": "Li Shen"
+        },
+        {
+          "authorId": "50728655",
+          "name": "Tong Zhang"
+        }
+      ]
+    }
+  ]
+}

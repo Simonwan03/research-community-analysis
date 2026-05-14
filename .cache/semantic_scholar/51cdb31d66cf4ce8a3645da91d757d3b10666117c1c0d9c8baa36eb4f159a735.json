@@ -1,0 +1,413 @@
+{
+  "total": 9930,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "c888022dec626171d243d2a056709b9b053a0ed9",
+      "externalIds": {
+        "MAG": "2600628583",
+        "DBLP": "conf/icml/OchiaiWHH17",
+        "ArXiv": "1703.04783",
+        "CorpusId": 14796367
+      },
+      "url": "https://www.semanticscholar.org/paper/c888022dec626171d243d2a056709b9b053a0ed9",
+      "title": "Multichannel End-to-end Speech Recognition",
+      "venue": "International Conference on Machine Learning",
+      "year": 2017,
+      "referenceCount": 37,
+      "citationCount": 94,
+      "authors": [
+        {
+          "authorId": "3038673",
+          "name": "Tsubasa Ochiai"
+        },
+        {
+          "authorId": "1746678",
+          "name": "Shinji Watanabe"
+        },
+        {
+          "authorId": "145443186",
+          "name": "Takaaki Hori"
+        },
+        {
+          "authorId": "2387467",
+          "name": "J. Hershey"
+        }
+      ]
+    },
+    {
+      "paperId": "7d9863258ef44ca8a6b87b68be738f7a83ac849a",
+      "externalIds": {
+        "DBLP": "journals/jstsp/OchiaiWHHX17",
+        "MAG": "2767071179",
+        "DOI": "10.1109/JSTSP.2017.2764276",
+        "CorpusId": 13073881
+      },
+      "url": "https://www.semanticscholar.org/paper/7d9863258ef44ca8a6b87b68be738f7a83ac849a",
+      "title": "Unified Architecture for Multichannel End-to-End Speech Recognition With Neural Beamforming",
+      "venue": "IEEE Journal on Selected Topics in Signal Processing",
+      "year": 2017,
+      "referenceCount": 47,
+      "citationCount": 95,
+      "authors": [
+        {
+          "authorId": "3038673",
+          "name": "Tsubasa Ochiai"
+        },
+        {
+          "authorId": "1746678",
+          "name": "Shinji Watanabe"
+        },
+        {
+          "authorId": "145443186",
+          "name": "Takaaki Hori"
+        },
+        {
+          "authorId": "2387467",
+          "name": "J. Hershey"
+        },
+        {
+          "authorId": "144828090",
+          "name": "Xiong Xiao"
+        }
+      ]
+    },
+    {
+      "paperId": "52ec4713343083e69b87e36a7a12c7b5898e2780",
+      "externalIds": {
+        "MAG": "2891980359",
+        "DBLP": "conf/icassp/OchiaiWKHH18",
+        "DOI": "10.1109/ICASSP.2018.8462161",
+        "CorpusId": 4892333
+      },
+      "url": "https://www.semanticscholar.org/paper/52ec4713343083e69b87e36a7a12c7b5898e2780",
+      "title": "Speaker Adaptation for Multichannel End-to-End Speech Recognition",
+      "venue": "IEEE International Conference on Acoustics, Speech, and Signal Processing",
+      "year": 2018,
+      "referenceCount": 25,
+      "citationCount": 35,
+      "authors": [
+        {
+          "authorId": "3038673",
+          "name": "Tsubasa Ochiai"
+        },
+        {
+          "authorId": "1746678",
+          "name": "Shinji Watanabe"
+        },
+        {
+          "authorId": "1715709",
+          "name": "S. Katagiri"
+        },
+        {
+          "authorId": "145443186",
+          "name": "Takaaki Hori"
+        },
+        {
+          "authorId": "2387467",
+          "name": "J. Hershey"
+        }
+      ]
+    },
+    {
+      "paperId": "3d3f01feee0dd3eea22e390c80deaadc6f11eb9a",
+      "externalIds": {
+        "MAG": "2900018170",
+        "DBLP": "conf/eusipco/YaltaWHNO19",
+        "ArXiv": "1811.02735",
+        "DOI": "10.23919/EUSIPCO.2019.8902524",
+        "CorpusId": 53227873
+      },
+      "url": "https://www.semanticscholar.org/paper/3d3f01feee0dd3eea22e390c80deaadc6f11eb9a",
+      "title": "CNN-based Multichannel End-to-End Speech Recognition for Everyday Home Environments*",
+      "venue": "European Signal Processing Conference",
+      "year": 2018,
+      "referenceCount": 37,
+      "citationCount": 12,
+      "authors": [
+        {
+          "authorId": "9694913",
+          "name": "Nelson Yalta"
+        },
+        {
+          "authorId": "1746678",
+          "name": "Shinji Watanabe"
+        },
+        {
+          "authorId": "145443186",
+          "name": "Takaaki Hori"
+        },
+        {
+          "authorId": "1764429",
+          "name": "K. Nakadai"
+        },
+        {
+          "authorId": "50527812",
+          "name": "T. Ogata"
+        }
+      ]
+    },
+    {
+      "paperId": "65a6c9a62bb8df3e49b32ce4325deda97cbe8dfe",
+      "externalIds": {
+        "ArXiv": "2401.02673",
+        "DBLP": "journals/corr/abs-2401-02673",
+        "DOI": "10.48550/arXiv.2401.02673",
+        "CorpusId": 266818085
+      },
+      "url": "https://www.semanticscholar.org/paper/65a6c9a62bb8df3e49b32ce4325deda97cbe8dfe",
+      "title": "A unified multichannel far-field speech recognition system: combining neural beamforming with attention based end-to-end model",
+      "venue": "arXiv.org",
+      "year": 2024,
+      "referenceCount": 29,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2153425929",
+          "name": "Dongdi Zhao"
+        },
+        {
+          "authorId": "2321230410",
+          "name": "Jianbo Ma"
+        },
+        {
+          "authorId": "2149373971",
+          "name": "Lu Lu"
+        },
+        {
+          "authorId": "2154549864",
+          "name": "Jinke Li"
+        },
+        {
+          "authorId": "2117709309",
+          "name": "Xuan Ji"
+        },
+        {
+          "authorId": "2155728096",
+          "name": "Lei Zhu"
+        },
+        {
+          "authorId": "2363498873",
+          "name": "Fuming Fang"
+        },
+        {
+          "authorId": "2323571364",
+          "name": "Ming Liu"
+        },
+        {
+          "authorId": "2152644463",
+          "name": "Feijun Jiang"
+        }
+      ]
+    },
+    {
+      "paperId": "948b68677c4f3bcbb1bae7f1d4e1fd5a103f03d4",
+      "externalIds": {
+        "MAG": "2998616931",
+        "DBLP": "conf/waspaa/SubramanianWBWT19",
+        "DOI": "10.1109/WASPAA.2019.8937250",
+        "CorpusId": 209460469
+      },
+      "url": "https://www.semanticscholar.org/paper/948b68677c4f3bcbb1bae7f1d4e1fd5a103f03d4",
+      "title": "Speech Enhancement Using End-to-End Speech Recognition Objectives",
+      "venue": "IEEE Workshop on Applications of Signal Processing to Audio and Acoustics",
+      "year": 2019,
+      "referenceCount": 33,
+      "citationCount": 59,
+      "authors": [
+        {
+          "authorId": "40902044",
+          "name": "A. Subramanian"
+        },
+        {
+          "authorId": "2108503143",
+          "name": "Xiaofei Wang"
+        },
+        {
+          "authorId": "8785834",
+          "name": "Murali Karthick Baskar"
+        },
+        {
+          "authorId": "1746678",
+          "name": "Shinji Watanabe"
+        },
+        {
+          "authorId": "66297907",
+          "name": "T. Taniguchi"
+        },
+        {
+          "authorId": "47497305",
+          "name": "Dung T. Tran"
+        },
+        {
+          "authorId": "1471364901",
+          "name": "Yuya Fujita"
+        }
+      ]
+    },
+    {
+      "paperId": "96a478f43968eac770a220c1c10473f528a448d9",
+      "externalIds": {
+        "ArXiv": "2203.16757",
+        "DBLP": "journals/corr/abs-2203-16757",
+        "DOI": "10.1109/ISCSLP57327.2022.10038153",
+        "CorpusId": 235742669
+      },
+      "url": "https://www.semanticscholar.org/paper/96a478f43968eac770a220c1c10473f528a448d9",
+      "title": "Exploiting Single-Channel Speech for Multi-Channel End-to-End Speech Recognition: A Comparative Study",
+      "venue": "International Symposium on Chinese Spoken Language Processing",
+      "year": 2022,
+      "referenceCount": 28,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "1419602858",
+          "name": "Keyu An"
+        },
+        {
+          "authorId": "1717830",
+          "name": "Zhijian Ou"
+        }
+      ]
+    },
+    {
+      "paperId": "4e452d0ae1f030954b577cfa7007f894d22ae48d",
+      "externalIds": {
+        "ArXiv": "2109.04783",
+        "DBLP": "conf/interspeech/GongQSGLM21",
+        "DOI": "10.21437/interspeech.2021-1190",
+        "CorpusId": 237485409
+      },
+      "url": "https://www.semanticscholar.org/paper/4e452d0ae1f030954b577cfa7007f894d22ae48d",
+      "title": "Self-Attention Channel Combinator Frontend for End-to-End Multichannel Far-field Speech Recognition",
+      "venue": "Interspeech",
+      "year": 2021,
+      "referenceCount": 25,
+      "citationCount": 15,
+      "authors": [
+        {
+          "authorId": "145882280",
+          "name": "Rong Gong"
+        },
+        {
+          "authorId": "145066887",
+          "name": "Carl Quillen"
+        },
+        {
+          "authorId": "144155628",
+          "name": "D. Sharma"
+        },
+        {
+          "authorId": "2126415912",
+          "name": "Andrew Goderre"
+        },
+        {
+          "authorId": "2126415644",
+          "name": "Jos'e La'inez"
+        },
+        {
+          "authorId": "2126415876",
+          "name": "Ljubomir Milanovi'c"
+        }
+      ]
+    },
+    {
+      "paperId": "74c881830a9cd7ea49795faa5c582b7ec56bd0bf",
+      "externalIds": {
+        "MAG": "2940526039",
+        "ArXiv": "1904.09049",
+        "CorpusId": 139105396
+      },
+      "url": "https://www.semanticscholar.org/paper/74c881830a9cd7ea49795faa5c582b7ec56bd0bf",
+      "title": "An Investigation of End-to-End Multichannel Speech Recognition for Reverberant and Mismatch Conditions",
+      "venue": "",
+      "year": 2019,
+      "referenceCount": 40,
+      "citationCount": 20,
+      "authors": [
+        {
+          "authorId": "40902044",
+          "name": "A. Subramanian"
+        },
+        {
+          "authorId": "2108503143",
+          "name": "Xiaofei Wang"
+        },
+        {
+          "authorId": "1746678",
+          "name": "Shinji Watanabe"
+        },
+        {
+          "authorId": "66297907",
+          "name": "T. Taniguchi"
+        },
+        {
+          "authorId": "47497305",
+          "name": "Dung T. Tran"
+        },
+        {
+          "authorId": "1471364901",
+          "name": "Yuya Fujita"
+        }
+      ]
+    },
+    {
+      "paperId": "e5acad5bba23a8c3a9f7cd24f7694ab10357ebc7",
+      "externalIds": {
+        "ArXiv": "2102.11525",
+        "DBLP": "journals/corr/abs-2102-11525",
+        "DOI": "10.1109/ICASSP39728.2021.9414464",
+        "CorpusId": 232013840
+      },
+      "url": "https://www.semanticscholar.org/paper/e5acad5bba23a8c3a9f7cd24f7694ab10357ebc7",
+      "title": "End-to-End Dereverberation, Beamforming, and Speech Recognition with Improved Numerical Stability and Advanced Frontend",
+      "venue": "IEEE International Conference on Acoustics, Speech, and Signal Processing",
+      "year": 2021,
+      "referenceCount": 42,
+      "citationCount": 37,
+      "authors": [
+        {
+          "authorId": "1390725481",
+          "name": "Wangyou Zhang"
+        },
+        {
+          "authorId": "2210858613",
+          "name": "Christoph Boeddeker"
+        },
+        {
+          "authorId": "1746678",
+          "name": "Shinji Watanabe"
+        },
+        {
+          "authorId": "144805536",
+          "name": "T. Nakatani"
+        },
+        {
+          "authorId": "1690812",
+          "name": "Marc Delcroix"
+        },
+        {
+          "authorId": "1899649",
+          "name": "K. Kinoshita"
+        },
+        {
+          "authorId": "3038673",
+          "name": "Tsubasa Ochiai"
+        },
+        {
+          "authorId": "2003740453",
+          "name": "Naoyuki Kamo"
+        },
+        {
+          "authorId": "1405500402",
+          "name": "R. Haeb-Umbach"
+        },
+        {
+          "authorId": "2480051",
+          "name": "Y. Qian"
+        }
+      ]
+    }
+  ]
+}

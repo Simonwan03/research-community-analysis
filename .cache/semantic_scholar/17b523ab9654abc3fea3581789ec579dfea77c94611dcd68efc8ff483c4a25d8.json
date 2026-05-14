@@ -1,0 +1,375 @@
+{
+  "total": 6527,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "f2c882fd290d616ff96c1c5d6af4578682e26556",
+      "externalIds": {
+        "ArXiv": "1802.08435",
+        "MAG": "2788851830",
+        "DBLP": "conf/icml/KalchbrennerESN18",
+        "CorpusId": 3524525
+      },
+      "url": "https://www.semanticscholar.org/paper/f2c882fd290d616ff96c1c5d6af4578682e26556",
+      "title": "Efficient Neural Audio Synthesis",
+      "venue": "International Conference on Machine Learning",
+      "year": 2018,
+      "referenceCount": 25,
+      "citationCount": 928,
+      "authors": [
+        {
+          "authorId": "2583391",
+          "name": "Nal Kalchbrenner"
+        },
+        {
+          "authorId": "152585800",
+          "name": "Erich Elsen"
+        },
+        {
+          "authorId": "34838386",
+          "name": "K. Simonyan"
+        },
+        {
+          "authorId": "30155667",
+          "name": "Seb Noury"
+        },
+        {
+          "authorId": "2670752",
+          "name": "Norman Casagrande"
+        },
+        {
+          "authorId": "49860549",
+          "name": "Edward Lockhart"
+        },
+        {
+          "authorId": "3205302",
+          "name": "Florian Stimberg"
+        },
+        {
+          "authorId": "3422336",
+          "name": "Aäron van den Oord"
+        },
+        {
+          "authorId": "48373216",
+          "name": "S. Dieleman"
+        },
+        {
+          "authorId": "2645384",
+          "name": "K. Kavukcuoglu"
+        }
+      ]
+    },
+    {
+      "paperId": "725c650ae8db8d9a57e4a7b15a555dbe69b67054",
+      "externalIds": {
+        "DBLP": "conf/iclr/EngelACGDR19",
+        "ArXiv": "1902.08710",
+        "MAG": "2910577860",
+        "CorpusId": 67856213
+      },
+      "url": "https://www.semanticscholar.org/paper/725c650ae8db8d9a57e4a7b15a555dbe69b67054",
+      "title": "GANSynth: Adversarial Neural Audio Synthesis",
+      "venue": "International Conference on Learning Representations",
+      "year": 2019,
+      "referenceCount": 40,
+      "citationCount": 418,
+      "authors": [
+        {
+          "authorId": "9695761",
+          "name": "Jesse Engel"
+        },
+        {
+          "authorId": "6565766",
+          "name": "Kumar Krishna Agrawal"
+        },
+        {
+          "authorId": "2116572341",
+          "name": "Shuo Chen"
+        },
+        {
+          "authorId": "2708454",
+          "name": "Ishaan Gulrajani"
+        },
+        {
+          "authorId": "1872307",
+          "name": "Chris Donahue"
+        },
+        {
+          "authorId": "145625142",
+          "name": "Adam Roberts"
+        }
+      ]
+    },
+    {
+      "paperId": "7fcf8752cf5233eb94bfd09ae753150a3e1b6c34",
+      "externalIds": {
+        "DBLP": "conf/iui/CarneyLTZYE21",
+        "CorpusId": 235828673
+      },
+      "url": "https://www.semanticscholar.org/paper/7fcf8752cf5233eb94bfd09ae753150a3e1b6c34",
+      "title": "Tone Transfer: In-Browser Interactive Neural Audio Synthesis",
+      "venue": "IUI Workshops",
+      "year": 2021,
+      "referenceCount": 16,
+      "citationCount": 9,
+      "authors": [
+        {
+          "authorId": "46254255",
+          "name": "Michelle D. Carney"
+        },
+        {
+          "authorId": "2293774452",
+          "name": "Chong Li"
+        },
+        {
+          "authorId": "2120316292",
+          "name": "Edwin Toh"
+        },
+        {
+          "authorId": "2089410511",
+          "name": "Nida Zada"
+        },
+        {
+          "authorId": "2114104704",
+          "name": "Ping Yu"
+        },
+        {
+          "authorId": "9695761",
+          "name": "Jesse Engel"
+        }
+      ]
+    },
+    {
+      "paperId": "9a4e4c1f64ce55410a349b0866cebec2416e4a52",
+      "externalIds": {
+        "MAG": "2989708046",
+        "DBLP": "conf/ismir/HantrakulERGH19",
+        "CorpusId": 208334304
+      },
+      "url": "https://www.semanticscholar.org/paper/9a4e4c1f64ce55410a349b0866cebec2416e4a52",
+      "title": "Fast and Flexible Neural Audio Synthesis",
+      "venue": "International Society for Music Information Retrieval Conference",
+      "year": 2019,
+      "referenceCount": 19,
+      "citationCount": 35,
+      "authors": [
+        {
+          "authorId": "3122832",
+          "name": "Lamtharn Hantrakul"
+        },
+        {
+          "authorId": "9695761",
+          "name": "Jesse Engel"
+        },
+        {
+          "authorId": "2070857331",
+          "name": "Adam Roberts"
+        },
+        {
+          "authorId": "2053399490",
+          "name": "Chenjie Gu"
+        }
+      ]
+    },
+    {
+      "paperId": "376faedf99bc0b6da8f4daf46eff6d35dbb9124f",
+      "externalIds": {
+        "DOI": "10.1109/IAECST68792.2025.11415168",
+        "CorpusId": 286444892
+      },
+      "url": "https://www.semanticscholar.org/paper/376faedf99bc0b6da8f4daf46eff6d35dbb9124f",
+      "title": "Efficient Audio-Driven Portrait Animation via Decoder-Based Deformation Synthesis",
+      "venue": "2025 7th International Academic Exchange Conference on Science and Technology Innovation (IAECST)",
+      "year": 2025,
+      "referenceCount": 14,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2255014607",
+          "name": "Xiangyu Li"
+        }
+      ]
+    },
+    {
+      "paperId": "39c25a2b5c54bbf5cd7e0882437fa35cb81a3b29",
+      "externalIds": {
+        "DBLP": "conf/iccv/LiZ00023",
+        "ArXiv": "2307.09323",
+        "DOI": "10.1109/ICCV51070.2023.00696",
+        "CorpusId": 259950721
+      },
+      "url": "https://www.semanticscholar.org/paper/39c25a2b5c54bbf5cd7e0882437fa35cb81a3b29",
+      "title": "Efficient Region-Aware Neural Radiance Fields for High-Fidelity Talking Portrait Synthesis",
+      "venue": "IEEE International Conference on Computer Vision",
+      "year": 2023,
+      "referenceCount": 58,
+      "citationCount": 126,
+      "authors": [
+        {
+          "authorId": "2201819805",
+          "name": "Jiahe Li"
+        },
+        {
+          "authorId": "1519062623",
+          "name": "Jiawei Zhang"
+        },
+        {
+          "authorId": "145425648",
+          "name": "Xiao Bai"
+        },
+        {
+          "authorId": "46618464",
+          "name": "Jun Zhou"
+        },
+        {
+          "authorId": "2069591009",
+          "name": "L. Gu"
+        }
+      ]
+    },
+    {
+      "paperId": "9b7259d560db315d39e52825b862050317a506cc",
+      "externalIds": {
+        "DBLP": "conf/eusipco/YangNDB25",
+        "DOI": "10.23919/eusipco63237.2025.11226465",
+        "CorpusId": 283098053
+      },
+      "url": "https://www.semanticscholar.org/paper/9b7259d560db315d39e52825b862050317a506cc",
+      "title": "Neural Drone Localization Exploiting Signal Synthesis of Real-World Audio Data",
+      "venue": "European Signal Processing Conference",
+      "year": 2025,
+      "referenceCount": 21,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2266359284",
+          "name": "Ximei Yang"
+        },
+        {
+          "authorId": "2285656292",
+          "name": "Patrick A. Naylor"
+        },
+        {
+          "authorId": "2243010018",
+          "name": "Simon Doclo"
+        },
+        {
+          "authorId": "30042631",
+          "name": "Jörg Bitzer"
+        }
+      ]
+    },
+    {
+      "paperId": "b1ecd654a4da62e17eb69bd268855d134e5db04b",
+      "externalIds": {
+        "DBLP": "conf/icassp/LeeKLL22",
+        "DOI": "10.1109/icassp43922.2022.9746675",
+        "CorpusId": 249437555
+      },
+      "url": "https://www.semanticscholar.org/paper/b1ecd654a4da62e17eb69bd268855d134e5db04b",
+      "title": "FRE-GAN 2: Fast and Efficient Frequency-Consistent Audio Synthesis",
+      "venue": "IEEE International Conference on Acoustics, Speech, and Signal Processing",
+      "year": 2022,
+      "referenceCount": 0,
+      "citationCount": 17,
+      "authors": [
+        {
+          "authorId": "2144573208",
+          "name": "Sang-Hoon Lee"
+        },
+        {
+          "authorId": "2680879",
+          "name": "Ji-Hoon Kim"
+        },
+        {
+          "authorId": "1865110",
+          "name": "Kangeun Lee"
+        },
+        {
+          "authorId": "2155886654",
+          "name": "Seong-Whan Lee"
+        }
+      ]
+    },
+    {
+      "paperId": "1869af93364552a9e5b5e9dc55c6e305d3fbb6c7",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2211-12368",
+        "ArXiv": "2211.12368",
+        "DOI": "10.1007/s11263-025-02481-9",
+        "CorpusId": 253761098
+      },
+      "url": "https://www.semanticscholar.org/paper/1869af93364552a9e5b5e9dc55c6e305d3fbb6c7",
+      "title": "Real-Time Neural Radiance Talking Portrait Synthesis via Audio-Spatial Decomposition",
+      "venue": "International Journal of Computer Vision",
+      "year": 2022,
+      "referenceCount": 83,
+      "citationCount": 124,
+      "authors": [
+        {
+          "authorId": "1397711601",
+          "name": "Jiaxiang Tang"
+        },
+        {
+          "authorId": "2009454032",
+          "name": "Kaisiyuan Wang"
+        },
+        {
+          "authorId": "145798292",
+          "name": "Hang Zhou"
+        },
+        {
+          "authorId": "2679938",
+          "name": "Xiaokang Chen"
+        },
+        {
+          "authorId": "2192303",
+          "name": "Dongliang He"
+        },
+        {
+          "authorId": "93901895",
+          "name": "Tianshu Hu"
+        },
+        {
+          "authorId": "2272123",
+          "name": "Jingtuo Liu"
+        },
+        {
+          "authorId": "1471609826",
+          "name": "Gang Zeng"
+        },
+        {
+          "authorId": "2109534192",
+          "name": "Jingdong Wang"
+        }
+      ]
+    },
+    {
+      "paperId": "8195ac1b85f0a496176bf691431cd6c49a894bd6",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2008-03802",
+        "ArXiv": "2008.03802",
+        "MAG": "3095883095",
+        "DOI": "10.21437/interspeech.2020-2867",
+        "CorpusId": 221090033
+      },
+      "url": "https://www.semanticscholar.org/paper/8195ac1b85f0a496176bf691431cd6c49a894bd6",
+      "title": "SpeedySpeech: Efficient Neural Speech Synthesis",
+      "venue": "Interspeech",
+      "year": 2020,
+      "referenceCount": 24,
+      "citationCount": 51,
+      "authors": [
+        {
+          "authorId": "1741930135",
+          "name": "Jan Vainer"
+        },
+        {
+          "authorId": "2544049",
+          "name": "Ondrej Dusek"
+        }
+      ]
+    }
+  ]
+}

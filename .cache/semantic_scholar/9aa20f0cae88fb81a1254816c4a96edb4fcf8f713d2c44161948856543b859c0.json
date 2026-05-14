@@ -1,0 +1,340 @@
+{
+  "total": 1063,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "077bcf0f4ebe04f7e6dc8465b427201d9c0650f6",
+      "externalIds": {
+        "DBLP": "conf/icml/HeinonenYMIL18",
+        "MAG": "2793462440",
+        "ArXiv": "1803.04303",
+        "CorpusId": 51875354
+      },
+      "url": "https://www.semanticscholar.org/paper/077bcf0f4ebe04f7e6dc8465b427201d9c0650f6",
+      "title": "Learning unknown ODE models with Gaussian processes",
+      "venue": "International Conference on Machine Learning",
+      "year": 2018,
+      "referenceCount": 48,
+      "citationCount": 114,
+      "authors": [
+        {
+          "authorId": "34066178",
+          "name": "M. Heinonen"
+        },
+        {
+          "authorId": "9112269",
+          "name": "Çağatay Yıldız"
+        },
+        {
+          "authorId": "3254071",
+          "name": "Henrik Mannerström"
+        },
+        {
+          "authorId": "3329124",
+          "name": "Jukka Intosalmi"
+        },
+        {
+          "authorId": "49121467",
+          "name": "H. Lähdesmäki"
+        }
+      ]
+    },
+    {
+      "paperId": "f24feb39df4cace4679f1bec95c465ced5d41b7e",
+      "externalIds": {
+        "DBLP": "conf/aistats/XuDYDZP25",
+        "ArXiv": "2309.09222",
+        "CorpusId": 262045109
+      },
+      "url": "https://www.semanticscholar.org/paper/f24feb39df4cace4679f1bec95c465ced5d41b7e",
+      "title": "Bayesian Gaussian Process ODEs via Double Normalizing Flows",
+      "venue": "International Conference on Artificial Intelligence and Statistics",
+      "year": 2023,
+      "referenceCount": 44,
+      "citationCount": 6,
+      "authors": [
+        {
+          "authorId": "2244162557",
+          "name": "Jian Xu"
+        },
+        {
+          "authorId": "2159539023",
+          "name": "Shian Du"
+        },
+        {
+          "authorId": "2243330371",
+          "name": "Junmei Yang"
+        },
+        {
+          "authorId": "2243923572",
+          "name": "Xinghao Ding"
+        },
+        {
+          "authorId": "2667724",
+          "name": "Delu Zeng"
+        },
+        {
+          "authorId": "143855009",
+          "name": "J. Paisley"
+        }
+      ]
+    },
+    {
+      "paperId": "a4ac9d299c6d644c888a2c2c58686b8b0d707c06",
+      "externalIds": {
+        "ArXiv": "2510.24482",
+        "DBLP": "journals/corr/abs-2510-24482",
+        "DOI": "10.48550/arXiv.2510.24482",
+        "CorpusId": 282400701
+      },
+      "url": "https://www.semanticscholar.org/paper/a4ac9d299c6d644c888a2c2c58686b8b0d707c06",
+      "title": "Sample-efficient and Scalable Exploration in Continuous-Time RL",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "referenceCount": 65,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "2387970956",
+          "name": "Klemens Iten"
+        },
+        {
+          "authorId": "1753424594",
+          "name": "Lenart Treven"
+        },
+        {
+          "authorId": "2151000167",
+          "name": "Bhavya Sukhija"
+        },
+        {
+          "authorId": "2371136245",
+          "name": "Florian Dörfler"
+        },
+        {
+          "authorId": "2257180836",
+          "name": "Andreas Krause"
+        }
+      ]
+    },
+    {
+      "paperId": "3e3af34cde0a105ba235b75a7b2f435b874c6579",
+      "externalIds": {
+        "MAG": "2904064075",
+        "DOI": "10.1007/978-1-4939-8882-2_11",
+        "CorpusId": 261760345,
+        "PubMed": "30547404"
+      },
+      "url": "https://www.semanticscholar.org/paper/3e3af34cde0a105ba235b75a7b2f435b874c6579",
+      "title": "Inferring Gene Regulatory Networks from Multiple Datasets.",
+      "venue": "Methods in molecular biology",
+      "year": 2018,
+      "referenceCount": 63,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "32303326",
+          "name": "Christopher A. Penfold"
+        },
+        {
+          "authorId": "41073351",
+          "name": "Iulia Gherman"
+        },
+        {
+          "authorId": "17308571",
+          "name": "Anastasiya Sybirna"
+        },
+        {
+          "authorId": "2239881734",
+          "name": "David L. Wild"
+        }
+      ]
+    },
+    {
+      "paperId": "3e123947b8e23b6cc4b502583e7f89fdaf91fd0c",
+      "externalIds": {
+        "ArXiv": "2011.05364",
+        "DBLP": "journals/corr/abs-2011-05364",
+        "MAG": "3100848641",
+        "DOI": "10.1109/CDC45484.2021.9683426",
+        "CorpusId": 226300116
+      },
+      "url": "https://www.semanticscholar.org/paper/3e123947b8e23b6cc4b502583e7f89fdaf91fd0c",
+      "title": "Learning ODE Models with Qualitative Structure Using Gaussian Processes",
+      "venue": "IEEE Conference on Decision and Control",
+      "year": 2020,
+      "referenceCount": 34,
+      "citationCount": 17,
+      "authors": [
+        {
+          "authorId": "2008686725",
+          "name": "Steffen Ridderbusch"
+        },
+        {
+          "authorId": "1800877",
+          "name": "P. Goulart"
+        },
+        {
+          "authorId": "1403344802",
+          "name": "S. Ober-Blöbaum"
+        }
+      ]
+    },
+    {
+      "paperId": "e321b9210f9a76328f1c053e0c78e640f81eb3da",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2511-02053",
+        "ArXiv": "2511.02053",
+        "DOI": "10.48550/arXiv.2511.02053",
+        "CorpusId": 282748607
+      },
+      "url": "https://www.semanticscholar.org/paper/e321b9210f9a76328f1c053e0c78e640f81eb3da",
+      "title": "Data-driven Learning of Interaction Laws in Multispecies Particle Systems with Gaussian Processes: Convergence Theory and Applications",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "referenceCount": 64,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2196596927",
+          "name": "Jinchao Feng"
+        },
+        {
+          "authorId": "2115471583",
+          "name": "Charles Kulick"
+        },
+        {
+          "authorId": "2264097703",
+          "name": "Sui Tang"
+        }
+      ]
+    },
+    {
+      "paperId": "97bccc3994cbf94ef60eeab1a102f638adef68d0",
+      "externalIds": {
+        "DBLP": "conf/smc/FangZPY25",
+        "DOI": "10.1109/SMC58881.2025.11342826",
+        "CorpusId": 285110783
+      },
+      "url": "https://www.semanticscholar.org/paper/97bccc3994cbf94ef60eeab1a102f638adef68d0",
+      "title": "Adaptive Impedance Learning for Robots Interacting With Unknown Environments via Streaming Sparse Gaussian Processes",
+      "venue": "IEEE International Conference on Systems, Man and Cybernetics",
+      "year": 2025,
+      "referenceCount": 19,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2072875913",
+          "name": "Zheng Fang"
+        },
+        {
+          "authorId": "2408489963",
+          "name": "Yanzhi Zhong"
+        },
+        {
+          "authorId": "34947510",
+          "name": "Guangzhu Peng"
+        },
+        {
+          "authorId": "2353035420",
+          "name": "Chenguang Yang"
+        }
+      ]
+    },
+    {
+      "paperId": "04e0f94cfc0c6816b4f293c396b7149fc90513de",
+      "externalIds": {
+        "ArXiv": "2401.16419",
+        "DBLP": "journals/corr/abs-2401-16419",
+        "DOI": "10.48550/arXiv.2401.16419",
+        "CorpusId": 267312151
+      },
+      "url": "https://www.semanticscholar.org/paper/04e0f94cfc0c6816b4f293c396b7149fc90513de",
+      "title": "Semi-parametric Expert Bayesian Network Learning with Gaussian Processes and Horseshoe Priors",
+      "venue": "arXiv.org",
+      "year": 2024,
+      "referenceCount": 17,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2328057721",
+          "name": "Y. Weng"
+        },
+        {
+          "authorId": "1388372395",
+          "name": "F. Doshi-Velez"
+        }
+      ]
+    },
+    {
+      "paperId": "a18cd635a418a601149eaf04742f92a01cbf77e4",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2511-05330",
+        "ArXiv": "2511.05330",
+        "DOI": "10.48550/arXiv.2511.05330",
+        "CorpusId": 282889795
+      },
+      "url": "https://www.semanticscholar.org/paper/a18cd635a418a601149eaf04742f92a01cbf77e4",
+      "title": "Learning Dynamics from Input-Output Data with Hamiltonian Gaussian Processes",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "referenceCount": 41,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2243181940",
+          "name": "Jan-Hendrik Ewering"
+        },
+        {
+          "authorId": "2391519096",
+          "name": "Robin E. Herrmann"
+        },
+        {
+          "authorId": "2335868",
+          "name": "Niklas Wahlstrom"
+        },
+        {
+          "authorId": "2250964741",
+          "name": "T. Schön"
+        },
+        {
+          "authorId": "2265419902",
+          "name": "Thomas Seel"
+        }
+      ]
+    },
+    {
+      "paperId": "bedc04c8b25d937445a8e125a91ca1ea29691b1c",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2511-05990",
+        "ArXiv": "2511.05990",
+        "DOI": "10.48550/arXiv.2511.05990",
+        "CorpusId": 282912401
+      },
+      "url": "https://www.semanticscholar.org/paper/bedc04c8b25d937445a8e125a91ca1ea29691b1c",
+      "title": "Learning solutions of parameterized stiff ODEs using Gaussian processes",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "referenceCount": 35,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "47004896",
+          "name": "I. C. Garcia"
+        },
+        {
+          "authorId": "2092056512",
+          "name": "Peter Förster"
+        },
+        {
+          "authorId": "29853914",
+          "name": "W. Schilders"
+        },
+        {
+          "authorId": "2238960336",
+          "name": "Sebastian Schöps"
+        }
+      ]
+    }
+  ]
+}

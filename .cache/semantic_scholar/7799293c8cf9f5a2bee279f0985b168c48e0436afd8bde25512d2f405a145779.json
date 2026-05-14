@@ -1,0 +1,98 @@
+{
+  "total": 3,
+  "offset": 0,
+  "data": [
+    {
+      "paperId": "4aad752c985f305c94e4cd9d6072ec691cf44a56",
+      "externalIds": {
+        "MAG": "1885448067",
+        "ArXiv": "1506.04573",
+        "DBLP": "journals/corr/GermainHLM15b",
+        "CorpusId": 217484652
+      },
+      "url": "https://www.semanticscholar.org/paper/4aad752c985f305c94e4cd9d6072ec691cf44a56",
+      "title": "A New PAC-Bayesian Perspective on Domain Adaptation",
+      "venue": "International Conference on Machine Learning",
+      "year": 2015,
+      "referenceCount": 51,
+      "citationCount": 68,
+      "authors": [
+        {
+          "authorId": "31580144",
+          "name": "Pascal Germain"
+        },
+        {
+          "authorId": "1749327",
+          "name": "Amaury Habrard"
+        },
+        {
+          "authorId": "2482151",
+          "name": "François Laviolette"
+        },
+        {
+          "authorId": "1890744",
+          "name": "Emilie Morvant"
+        }
+      ]
+    },
+    {
+      "paperId": "0a20a4c24ae2a7572bad9caf16a8a7c02957e68f",
+      "externalIds": {
+        "ArXiv": "1707.05712",
+        "MAG": "2739150435",
+        "DBLP": "journals/ijon/GermainHLM20",
+        "DOI": "10.1016/j.neucom.2019.10.105",
+        "CorpusId": 53493590
+      },
+      "url": "https://www.semanticscholar.org/paper/0a20a4c24ae2a7572bad9caf16a8a7c02957e68f",
+      "title": "PAC-Bayes and domain adaptation",
+      "venue": "Neurocomputing",
+      "year": 2017,
+      "referenceCount": 81,
+      "citationCount": 26,
+      "authors": [
+        {
+          "authorId": "31580144",
+          "name": "Pascal Germain"
+        },
+        {
+          "authorId": "1749327",
+          "name": "Amaury Habrard"
+        },
+        {
+          "authorId": "32626425",
+          "name": "Franccois Laviolette"
+        },
+        {
+          "authorId": "1890744",
+          "name": "Emilie Morvant"
+        }
+      ]
+    },
+    {
+      "paperId": "38a176440b71faf55a1780335b6667baa66fbdc1",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2208-14092",
+        "ArXiv": "2208.14092",
+        "DOI": "10.48550/arXiv.2208.14092",
+        "CorpusId": 251929160
+      },
+      "url": "https://www.semanticscholar.org/paper/38a176440b71faf55a1780335b6667baa66fbdc1",
+      "title": "Super-model ecosystem: A domain-adaptation perspective",
+      "venue": "arXiv.org",
+      "year": 2022,
+      "referenceCount": 71,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "51209425",
+          "name": "Fengxiang He"
+        },
+        {
+          "authorId": "2135519749",
+          "name": "Dacheng Tao"
+        }
+      ]
+    }
+  ]
+}

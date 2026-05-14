@@ -1,0 +1,352 @@
+{
+  "total": 49,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "2d1b8f60f2724efd6c9344870fb60e8525157d70",
+      "externalIds": {
+        "MAG": "2594961016",
+        "DBLP": "journals/corr/ReedOKCWBF17",
+        "ArXiv": "1703.03664",
+        "CorpusId": 8525940
+      },
+      "url": "https://www.semanticscholar.org/paper/2d1b8f60f2724efd6c9344870fb60e8525157d70",
+      "title": "Parallel Multiscale Autoregressive Density Estimation",
+      "venue": "International Conference on Machine Learning",
+      "year": 2017,
+      "referenceCount": 34,
+      "citationCount": 217,
+      "authors": [
+        {
+          "authorId": "144828948",
+          "name": "Scott E. Reed"
+        },
+        {
+          "authorId": "3422336",
+          "name": "Aäron van den Oord"
+        },
+        {
+          "authorId": "2583391",
+          "name": "Nal Kalchbrenner"
+        },
+        {
+          "authorId": "2016840",
+          "name": "Sergio Gomez Colmenarejo"
+        },
+        {
+          "authorId": "2117966548",
+          "name": "Ziyun Wang"
+        },
+        {
+          "authorId": "2275897",
+          "name": "Yutian Chen"
+        },
+        {
+          "authorId": "143813532",
+          "name": "Dan Belov"
+        },
+        {
+          "authorId": "1737568",
+          "name": "Nando de Freitas"
+        }
+      ]
+    },
+    {
+      "paperId": "a3f9d5704a3c5cb559f5222d2fb05ef0c5150a0f",
+      "externalIds": {
+        "ArXiv": "2602.01135",
+        "CorpusId": 285271327
+      },
+      "url": "https://www.semanticscholar.org/paper/a3f9d5704a3c5cb559f5222d2fb05ef0c5150a0f",
+      "title": "Scalable Sample-Level Causal Discovery in Event Sequences via Autoregressive Density Estimation",
+      "venue": "",
+      "year": 2026,
+      "referenceCount": 53,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2335672365",
+          "name": "Hugo Math"
+        },
+        {
+          "authorId": "2237989405",
+          "name": "Rainer Lienhart"
+        }
+      ]
+    },
+    {
+      "paperId": "545820cd0233f1a5c5cfed30e935497ec9b07818",
+      "externalIds": {
+        "ArXiv": "2504.20456",
+        "DBLP": "journals/corr/abs-2504-20456",
+        "DOI": "10.48550/arXiv.2504.20456",
+        "CorpusId": 278171243
+      },
+      "url": "https://www.semanticscholar.org/paper/545820cd0233f1a5c5cfed30e935497ec9b07818",
+      "title": "Reviving Any-Subset Autoregressive Models with Principled Parallel Sampling and Speculative Decoding",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "referenceCount": 46,
+      "citationCount": 11,
+      "authors": [
+        {
+          "authorId": "2218431084",
+          "name": "Gabriel Guo"
+        },
+        {
+          "authorId": "2248119118",
+          "name": "Stefano Ermon"
+        }
+      ]
+    },
+    {
+      "paperId": "412e266cddfd87c79087a88ba1e4d11b89a45a13",
+      "externalIds": {
+        "DBLP": "conf/nips/YuSFAZL23",
+        "ArXiv": "2305.07185",
+        "DOI": "10.48550/arXiv.2305.07185",
+        "CorpusId": 258676582
+      },
+      "url": "https://www.semanticscholar.org/paper/412e266cddfd87c79087a88ba1e4d11b89a45a13",
+      "title": "MEGABYTE: Predicting Million-byte Sequences with Multiscale Transformers",
+      "venue": "Neural Information Processing Systems",
+      "year": 2023,
+      "referenceCount": 47,
+      "citationCount": 160,
+      "authors": [
+        {
+          "authorId": "49297123",
+          "name": "L. Yu"
+        },
+        {
+          "authorId": "2082239112",
+          "name": "Daniel Simig"
+        },
+        {
+          "authorId": "2191722001",
+          "name": "Colin Flaherty"
+        },
+        {
+          "authorId": "2201435",
+          "name": "Armen Aghajanyan"
+        },
+        {
+          "authorId": "1982950",
+          "name": "Luke Zettlemoyer"
+        },
+        {
+          "authorId": "35084211",
+          "name": "M. Lewis"
+        }
+      ]
+    },
+    {
+      "paperId": "c55d146a763692a62f5c1bc226305a1914e9a6a6",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2508-03926",
+        "ArXiv": "2508.03926",
+        "DOI": "10.48550/arXiv.2508.03926",
+        "CorpusId": 280536209
+      },
+      "url": "https://www.semanticscholar.org/paper/c55d146a763692a62f5c1bc226305a1914e9a6a6",
+      "title": "Next Generation Equation-Free Multiscale Modelling of Crowd Dynamics via Machine Learning",
+      "venue": "Journal of Computational Physics",
+      "year": 2025,
+      "referenceCount": 118,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "2211732996",
+          "name": "Hector Vargas Alvarez"
+        },
+        {
+          "authorId": "93818578",
+          "name": "Dimitrios G. Patsatzis"
+        },
+        {
+          "authorId": "2243016648",
+          "name": "Lucia Russo"
+        },
+        {
+          "authorId": "2309826785",
+          "name": "I. Kevrekidis"
+        },
+        {
+          "authorId": "2281820084",
+          "name": "Constantinos I. Siettos"
+        }
+      ]
+    },
+    {
+      "paperId": "036d743c7ca1e513adf0a91594fc8111e03dc30c",
+      "externalIds": {
+        "DBLP": "conf/iclr/ShiXZZZT20",
+        "ArXiv": "2001.09382",
+        "MAG": "3001935646",
+        "CorpusId": 210920362
+      },
+      "url": "https://www.semanticscholar.org/paper/036d743c7ca1e513adf0a91594fc8111e03dc30c",
+      "title": "GraphAF: a Flow-based Autoregressive Model for Molecular Graph Generation",
+      "venue": "International Conference on Learning Representations",
+      "year": 2020,
+      "referenceCount": 51,
+      "citationCount": 526,
+      "authors": [
+        {
+          "authorId": "50727524",
+          "name": "Chence Shi"
+        },
+        {
+          "authorId": "1490886784",
+          "name": "Minkai Xu"
+        },
+        {
+          "authorId": "9031926",
+          "name": "Zhaocheng Zhu"
+        },
+        {
+          "authorId": "2108309275",
+          "name": "Weinan Zhang"
+        },
+        {
+          "authorId": "47474380",
+          "name": "Ming Zhang"
+        },
+        {
+          "authorId": "152226504",
+          "name": "Jian Tang"
+        }
+      ]
+    },
+    {
+      "paperId": "f192db465b54b2cb4f652d34e6ca85762f6647d7",
+      "externalIds": {
+        "DBLP": "journals/jcam/ZulawinskiGZW23",
+        "ArXiv": "2308.11265",
+        "DOI": "10.1016/j.cam.2023.115131",
+        "CorpusId": 257015777
+      },
+      "url": "https://www.semanticscholar.org/paper/f192db465b54b2cb4f652d34e6ca85762f6647d7",
+      "title": "Identification and validation of periodic autoregressive model with additive noise: finite-variance case",
+      "venue": "Journal of Computational and Applied Mathematics",
+      "year": 2023,
+      "referenceCount": 37,
+      "citationCount": 7,
+      "authors": [
+        {
+          "authorId": "1572093162",
+          "name": "Wojciech Żuławiński"
+        },
+        {
+          "authorId": "102857848",
+          "name": "Aleksandra Grzesiek"
+        },
+        {
+          "authorId": "51990970",
+          "name": "R. Zimroz"
+        },
+        {
+          "authorId": "2468112",
+          "name": "A. Wyłomańska"
+        }
+      ]
+    },
+    {
+      "paperId": "85e61731c80519da4a8fbd239dfd875a4cca2a8f",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2601-20758",
+        "ArXiv": "2601.20758",
+        "DOI": "10.1109/VR67842.2026.00057",
+        "CorpusId": 285102214
+      },
+      "url": "https://www.semanticscholar.org/paper/85e61731c80519da4a8fbd239dfd875a4cca2a8f",
+      "title": "ScaleFree: Dynamic KDE for Multiscale Point Cloud Exploration in VR",
+      "venue": "IEEE Conference on Virtual Reality and 3D User Interfaces",
+      "year": 2026,
+      "referenceCount": 86,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2109048676",
+          "name": "Lixiang Zhao"
+        },
+        {
+          "authorId": "2312328908",
+          "name": "Fuqi Xie"
+        },
+        {
+          "authorId": "2286905098",
+          "name": "Tobias Isenberg"
+        },
+        {
+          "authorId": "2312343341",
+          "name": "Hai-Ning Liang"
+        },
+        {
+          "authorId": "2278580212",
+          "name": "Lingyun Yu"
+        }
+      ]
+    },
+    {
+      "paperId": "9ef189516e7b132f591f997047ecf3435cd88042",
+      "externalIds": {
+        "DBLP": "journals/sp/TangZLZJ21",
+        "DOI": "10.1155/2021/8831458",
+        "CorpusId": 231876909
+      },
+      "url": "https://www.semanticscholar.org/paper/9ef189516e7b132f591f997047ecf3435cd88042",
+      "title": "Crowd Counting Based on Multiresolution Density Map and Parallel Dilated Convolution",
+      "venue": "Scientific Programming",
+      "year": 2021,
+      "referenceCount": 22,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "37539548",
+          "name": "Jingfan Tang"
+        },
+        {
+          "authorId": "50504749",
+          "name": "Meijia Zhou"
+        },
+        {
+          "authorId": "2421777245",
+          "name": "Pengfei Li"
+        },
+        {
+          "authorId": "2156053270",
+          "name": "Min Zhang"
+        },
+        {
+          "authorId": "2040863712",
+          "name": "Ming Jiang"
+        }
+      ]
+    },
+    {
+      "paperId": "41f09506a63e3f9e9cb55fc4fefa07a68d22450f",
+      "externalIds": {
+        "DOI": "10.1007/s00158-023-03675-w",
+        "CorpusId": 263761427
+      },
+      "url": "https://www.semanticscholar.org/paper/41f09506a63e3f9e9cb55fc4fefa07a68d22450f",
+      "title": "A parallel geometric multigrid method for adaptive topology optimization",
+      "venue": "Structural And Multidisciplinary Optimization",
+      "year": 2023,
+      "referenceCount": 68,
+      "citationCount": 9,
+      "authors": [
+        {
+          "authorId": "2256355319",
+          "name": "D. Herrero-Pérez"
+        },
+        {
+          "authorId": "2157659324",
+          "name": "S. G. Picó-Vicente"
+        }
+      ]
+    }
+  ]
+}

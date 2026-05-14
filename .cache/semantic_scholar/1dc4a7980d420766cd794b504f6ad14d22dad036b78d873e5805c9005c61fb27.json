@@ -1,0 +1,301 @@
+{
+  "total": 4151,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "51d49e4bf3c5a8acb81f648c2a811744a0f1f52b",
+      "externalIds": {
+        "MAG": "2963887620",
+        "DBLP": "journals/corr/ChoB17",
+        "ArXiv": "1706.06873",
+        "CorpusId": 21168523
+      },
+      "url": "https://www.semanticscholar.org/paper/51d49e4bf3c5a8acb81f648c2a811744a0f1f52b",
+      "title": "MEC: Memory-efficient Convolution for Deep Neural Network",
+      "venue": "International Conference on Machine Learning",
+      "year": 2017,
+      "referenceCount": 39,
+      "citationCount": 92,
+      "authors": [
+        {
+          "authorId": "1801812",
+          "name": "Minsik Cho"
+        },
+        {
+          "authorId": "143915650",
+          "name": "D. Brand"
+        }
+      ]
+    },
+    {
+      "paperId": "3d8a621ea1b73240e56f0cdf5ac48bdea5107fec",
+      "externalIds": {
+        "DBLP": "conf/aspdac/AngiziHPF18",
+        "MAG": "2793867693",
+        "DOI": "10.1109/ASPDAC.2018.8297291",
+        "CorpusId": 3458313
+      },
+      "url": "https://www.semanticscholar.org/paper/3d8a621ea1b73240e56f0cdf5ac48bdea5107fec",
+      "title": "IMCE: Energy-efficient bit-wise in-memory convolution engine for deep neural network",
+      "venue": "Asia and South Pacific Design Automation Conference",
+      "year": 2018,
+      "referenceCount": 20,
+      "citationCount": 63,
+      "authors": [
+        {
+          "authorId": "1824271",
+          "name": "Shaahin Angizi"
+        },
+        {
+          "authorId": "3441899",
+          "name": "Zhezhi He"
+        },
+        {
+          "authorId": "145748590",
+          "name": "Farhana Parveen"
+        },
+        {
+          "authorId": "37587676",
+          "name": "Deliang Fan"
+        }
+      ]
+    },
+    {
+      "paperId": "c604237d952a7015c4078db00c5b3c1f8c7f5fb2",
+      "externalIds": {
+        "PubMedCentral": "10763955",
+        "DOI": "10.1371/journal.pone.0291240",
+        "CorpusId": 266750965,
+        "PubMed": "38170703"
+      },
+      "url": "https://www.semanticscholar.org/paper/c604237d952a7015c4078db00c5b3c1f8c7f5fb2",
+      "title": "Deep causal speech enhancement and recognition using efficient long-short term memory Recurrent Neural Network",
+      "venue": "PLoS ONE",
+      "year": 2024,
+      "referenceCount": 49,
+      "citationCount": 21,
+      "authors": [
+        {
+          "authorId": "2370269646",
+          "name": "Zhenqing Li"
+        },
+        {
+          "authorId": "2201150446",
+          "name": "Abdul Basit"
+        },
+        {
+          "authorId": "9364576",
+          "name": "Amil Daraz"
+        },
+        {
+          "authorId": "3002104",
+          "name": "Atif Jan"
+        }
+      ]
+    },
+    {
+      "paperId": "eed67bd1e60708fa862340a7000560e656e9c5da",
+      "externalIds": {
+        "DBLP": "conf/icce-tw/HsiaoT21",
+        "DOI": "10.1109/ICCE-TW52618.2021.9602973",
+        "CorpusId": 244405524
+      },
+      "url": "https://www.semanticscholar.org/paper/eed67bd1e60708fa862340a7000560e656e9c5da",
+      "title": "Efficient Computation of Depthwise Separable Convolution in MoblieNet Deep Neural Network Models",
+      "venue": "International Conference on Consumer Electronics-Taiwan",
+      "year": 2021,
+      "referenceCount": 0,
+      "citationCount": 12,
+      "authors": [
+        {
+          "authorId": "144313871",
+          "name": "Shen-Fu Hsiao"
+        },
+        {
+          "authorId": "1965935173",
+          "name": "Bo-Ching Tsai"
+        }
+      ]
+    },
+    {
+      "paperId": "2a05ec36d8f9657abdf62693ccaa995769fe4f1d",
+      "externalIds": {
+        "DBLP": "journals/tcasI/KimJP21",
+        "DOI": "10.1109/TCSI.2021.3059882",
+        "CorpusId": 233331601
+      },
+      "url": "https://www.semanticscholar.org/paper/2a05ec36d8f9657abdf62693ccaa995769fe4f1d",
+      "title": "Hybrid Convolution Architecture for Energy-Efficient Deep Neural Network Processing",
+      "venue": "IEEE Transactions on Circuits and Systems Part 1: Regular Papers",
+      "year": 2021,
+      "referenceCount": 30,
+      "citationCount": 6,
+      "authors": [
+        {
+          "authorId": "80278593",
+          "name": "Suchang Kim"
+        },
+        {
+          "authorId": "1779145",
+          "name": "Jihyuck Jo"
+        },
+        {
+          "authorId": "144164721",
+          "name": "I. Park"
+        }
+      ]
+    },
+    {
+      "paperId": "22a624cf8709f969bf7b3b0f56191282010fc206",
+      "externalIds": {
+        "DBLP": "conf/ises/SwatiSNE23",
+        "DOI": "10.1109/iSES58672.2023.00091",
+        "CorpusId": 268611200
+      },
+      "url": "https://www.semanticscholar.org/paper/22a624cf8709f969bf7b3b0f56191282010fc206",
+      "title": "A Memory Efficient Run-time Re-configurable Convolution IP Core for Deep Neural Networks Inference on FPGA Devices",
+      "venue": "International Symposium on Smart Electronic Systems",
+      "year": 2023,
+      "referenceCount": 14,
+      "citationCount": 4,
+      "authors": [
+        {
+          "authorId": "2287972346",
+          "name": "Swati"
+        },
+        {
+          "authorId": "2003376054",
+          "name": "Ranajoy Sadhukhan"
+        },
+        {
+          "authorId": "1920056165",
+          "name": "M. Nagar"
+        },
+        {
+          "authorId": "2545076",
+          "name": "Pinalkumar J. Engineer"
+        }
+      ]
+    },
+    {
+      "paperId": "8de631b5a085cc00c89c30073a83635a60e6dbf6",
+      "externalIds": {
+        "DBLP": "journals/jssc/KimKHKHCY24",
+        "DOI": "10.1109/JSSC.2023.3330483",
+        "CorpusId": 265246990
+      },
+      "url": "https://www.semanticscholar.org/paper/8de631b5a085cc00c89c30073a83635a60e6dbf6",
+      "title": "C-DNN: An Energy-Efficient Complementary Deep-Neural-Network Processor With Heterogeneous CNN/SNN Core Architecture",
+      "venue": "IEEE Journal of Solid-State Circuits",
+      "year": 2024,
+      "referenceCount": 29,
+      "citationCount": 27,
+      "authors": [
+        {
+          "authorId": "2116191427",
+          "name": "Sangyeob Kim"
+        },
+        {
+          "authorId": "2109610060",
+          "name": "Soyeon Kim"
+        },
+        {
+          "authorId": "2212752126",
+          "name": "Seongyon Hong"
+        },
+        {
+          "authorId": "2109629817",
+          "name": "Sangjin Kim"
+        },
+        {
+          "authorId": "32565327",
+          "name": "Donghyeon Han"
+        },
+        {
+          "authorId": "2179418223",
+          "name": "Jiwon Choi"
+        },
+        {
+          "authorId": "2068863958",
+          "name": "H.-J. Yoo"
+        }
+      ]
+    },
+    {
+      "paperId": "ea8e48cdf1a9b91e4b474882e7fb738915aa1a47",
+      "externalIds": {
+        "MAG": "3094014938",
+        "DBLP": "journals/jssc/KimS21",
+        "DOI": "10.1109/JSSC.2020.3029235",
+        "CorpusId": 226531110
+      },
+      "url": "https://www.semanticscholar.org/paper/ea8e48cdf1a9b91e4b474882e7fb738915aa1a47",
+      "title": "An Energy-Efficient Deep Convolutional Neural Network Accelerator Featuring Conditional Computing and Low External Memory Access",
+      "venue": "IEEE Journal of Solid-State Circuits",
+      "year": 2020,
+      "referenceCount": 42,
+      "citationCount": 15,
+      "authors": [
+        {
+          "authorId": "144821988",
+          "name": "Minkyu Kim"
+        },
+        {
+          "authorId": "1706798",
+          "name": "Jae-sun Seo"
+        }
+      ]
+    },
+    {
+      "paperId": "f9c81f141fab9e8e0c26809e23a3f98b037315ee",
+      "externalIds": {
+        "MAG": "2768900401",
+        "DBLP": "conf/iccd/FanA17",
+        "DOI": "10.1109/ICCD.2017.107",
+        "CorpusId": 20678576
+      },
+      "url": "https://www.semanticscholar.org/paper/f9c81f141fab9e8e0c26809e23a3f98b037315ee",
+      "title": "Energy Efficient In-Memory Binary Deep Neural Network Accelerator with Dual-Mode SOT-MRAM",
+      "venue": "ICCD",
+      "year": 2017,
+      "referenceCount": 16,
+      "citationCount": 49,
+      "authors": [
+        {
+          "authorId": "37587676",
+          "name": "Deliang Fan"
+        },
+        {
+          "authorId": "1824271",
+          "name": "Shaahin Angizi"
+        }
+      ]
+    },
+    {
+      "paperId": "c831914b4dcaa9f3af2ac2e7a759ce8b9c076b8f",
+      "externalIds": {
+        "MAG": "2802142613",
+        "DBLP": "conf/ncs2/AngiziF17",
+        "DOI": "10.1145/3183584.3183613",
+        "CorpusId": 13982764
+      },
+      "url": "https://www.semanticscholar.org/paper/c831914b4dcaa9f3af2ac2e7a759ce8b9c076b8f",
+      "title": "IMC: energy-efficient in-memory convolver for accelerating binarized deep neural network",
+      "venue": "Neuromorphic Computing Symposium",
+      "year": 2017,
+      "referenceCount": 29,
+      "citationCount": 15,
+      "authors": [
+        {
+          "authorId": "1824271",
+          "name": "Shaahin Angizi"
+        },
+        {
+          "authorId": "37587676",
+          "name": "Deliang Fan"
+        }
+      ]
+    }
+  ]
+}

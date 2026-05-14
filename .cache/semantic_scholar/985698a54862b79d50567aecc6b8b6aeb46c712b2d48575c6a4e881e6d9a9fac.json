@@ -1,0 +1,70 @@
+{
+  "total": 2,
+  "offset": 0,
+  "data": [
+    {
+      "paperId": "e1fa336096c1504e86845d2f30a1f6cb8b2bcca8",
+      "externalIds": {
+        "DBLP": "conf/icml/MeiCGH17",
+        "MAG": "2740917292",
+        "CorpusId": 33715047
+      },
+      "url": "https://www.semanticscholar.org/paper/e1fa336096c1504e86845d2f30a1f6cb8b2bcca8",
+      "title": "Nonnegative Matrix Factorization for Time Series Recovery From a Few Temporal Aggregates",
+      "venue": "International Conference on Machine Learning",
+      "year": 2017,
+      "referenceCount": 28,
+      "citationCount": 39,
+      "authors": [
+        {
+          "authorId": "20837947",
+          "name": "Jiali Mei"
+        },
+        {
+          "authorId": "2697332",
+          "name": "Y. D. Castro"
+        },
+        {
+          "authorId": "2717189",
+          "name": "Y. Goude"
+        },
+        {
+          "authorId": "2569397",
+          "name": "G. Hébrail"
+        }
+      ]
+    },
+    {
+      "paperId": "52308ae42dbca869c063a3aa9072fb452fa7aeeb",
+      "externalIds": {
+        "MAG": "2962982781",
+        "ArXiv": "1610.01492",
+        "CorpusId": 16920540
+      },
+      "url": "https://www.semanticscholar.org/paper/52308ae42dbca869c063a3aa9072fb452fa7aeeb",
+      "title": "Recovering Multiple Nonnegative Time Series From a Few Temporal Aggregates",
+      "venue": "International Conference on Machine Learning",
+      "year": 2016,
+      "referenceCount": 25,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "20837947",
+          "name": "Jiali Mei"
+        },
+        {
+          "authorId": "2697332",
+          "name": "Y. D. Castro"
+        },
+        {
+          "authorId": "2717189",
+          "name": "Y. Goude"
+        },
+        {
+          "authorId": "2065757448",
+          "name": "Georges H'ebrail"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,859 @@
+{
+  "total": 55,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "8ac7b00f5add45b460f6a801faca4a84221b1014",
+      "externalIds": {
+        "MAG": "2780951787",
+        "ArXiv": "1712.10132",
+        "DBLP": "journals/corr/abs-1712-10132",
+        "CorpusId": 19436876
+      },
+      "url": "https://www.semanticscholar.org/paper/8ac7b00f5add45b460f6a801faca4a84221b1014",
+      "title": "The Multilinear Structure of ReLU Networks",
+      "venue": "International Conference on Machine Learning",
+      "year": 2017,
+      "referenceCount": 28,
+      "citationCount": 53,
+      "authors": [
+        {
+          "authorId": "81634721",
+          "name": "T. Laurent"
+        },
+        {
+          "authorId": "144952860",
+          "name": "J. V. Brecht"
+        }
+      ]
+    },
+    {
+      "paperId": "c5170bff841adf1b71fca0411223d29aeb5c9d81",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2508-03867",
+        "ArXiv": "2508.03867",
+        "DOI": "10.48550/arXiv.2508.03867",
+        "CorpusId": 280536393
+      },
+      "url": "https://www.semanticscholar.org/paper/c5170bff841adf1b71fca0411223d29aeb5c9d81",
+      "title": "Constraining the outputs of ReLU neural networks",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "referenceCount": 41,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "2375046324",
+          "name": "Yulia Alexandr"
+        },
+        {
+          "authorId": "2290913410",
+          "name": "Guido Mont'ufar"
+        }
+      ]
+    },
+    {
+      "paperId": "4d649d2782624353e178057b659e11bd218b136f",
+      "externalIds": {
+        "MAG": "2787132992",
+        "DBLP": "journals/corr/abs-1802-03487",
+        "CorpusId": 125214941
+      },
+      "url": "https://www.semanticscholar.org/paper/4d649d2782624353e178057b659e11bd218b136f",
+      "title": "A Critical View of Global Optimality in Deep Learning",
+      "venue": "arXiv.org",
+      "year": 2018,
+      "referenceCount": 22,
+      "citationCount": 33,
+      "authors": [
+        {
+          "authorId": "2674870",
+          "name": "Chulhee Yun"
+        },
+        {
+          "authorId": "3072326",
+          "name": "S. Sra"
+        },
+        {
+          "authorId": "1688304",
+          "name": "A. Jadbabaie"
+        }
+      ]
+    },
+    {
+      "paperId": "97dacc5b6232e6c0820a1c1e3156c3d1b782af32",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2011-03155",
+        "MAG": "3131477807",
+        "ArXiv": "2011.03155",
+        "DOI": "10.32890/jict.20.1.2021.9267.",
+        "CorpusId": 226278053
+      },
+      "url": "https://www.semanticscholar.org/paper/97dacc5b6232e6c0820a1c1e3156c3d1b782af32",
+      "title": "Parametric Flatten-T Swish: An Adaptive Non-linear Activation Function For Deep Learning",
+      "venue": "Journal of Information and Communication Technologies",
+      "year": 2020,
+      "referenceCount": 31,
+      "citationCount": 6,
+      "authors": [
+        {
+          "authorId": "2437300",
+          "name": "Hock Hung Chieng"
+        },
+        {
+          "authorId": "40189979",
+          "name": "Noorhaniza Wahid"
+        },
+        {
+          "authorId": "1811895",
+          "name": "P. Ong"
+        }
+      ]
+    },
+    {
+      "paperId": "d7b4fdcc1f4a30e1eaead03e94d36e7ccebde2a9",
+      "externalIds": {
+        "CorpusId": 260514953
+      },
+      "url": "https://www.semanticscholar.org/paper/d7b4fdcc1f4a30e1eaead03e94d36e7ccebde2a9",
+      "title": "Sample Complexity of Ofﬂine Reinforcement Learning with Deep ReLU Networks",
+      "venue": "",
+      "year": 2021,
+      "referenceCount": 88,
+      "citationCount": 18,
+      "authors": [
+        {
+          "authorId": "2052547769",
+          "name": "Thanh Nguyen-Tang"
+        },
+        {
+          "authorId": "46415033",
+          "name": "Sunil Gupta"
+        },
+        {
+          "authorId": "1401969371",
+          "name": "Hung The Tran"
+        },
+        {
+          "authorId": "2068804643",
+          "name": "S. Venkatesh"
+        }
+      ]
+    },
+    {
+      "paperId": "038623fe378ad7f94e6e81887a57c5b25e095640",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2103-06671",
+        "CorpusId": 232185595
+      },
+      "url": "https://www.semanticscholar.org/paper/038623fe378ad7f94e6e81887a57c5b25e095640",
+      "title": "On Finite-Sample Analysis of Offline Reinforcement Learning with Deep ReLU Networks",
+      "venue": "arXiv.org",
+      "year": 2021,
+      "referenceCount": 49,
+      "citationCount": 4,
+      "authors": [
+        {
+          "authorId": "1490490191",
+          "name": "Thanh Nguyen-Tang"
+        },
+        {
+          "authorId": "119971153",
+          "name": "Sunil Gupta"
+        },
+        {
+          "authorId": "1401969371",
+          "name": "Hung The Tran"
+        },
+        {
+          "authorId": "143761093",
+          "name": "S. Venkatesh"
+        }
+      ]
+    },
+    {
+      "paperId": "f8d5ca8f8140a7475dacdc3ba0c27c4fa2c7c1de",
+      "externalIds": {
+        "DBLP": "journals/tmlr/NguyenTangGTV22",
+        "ArXiv": "2103.06671",
+        "CorpusId": 235593415
+      },
+      "url": "https://www.semanticscholar.org/paper/f8d5ca8f8140a7475dacdc3ba0c27c4fa2c7c1de",
+      "title": "On Sample Complexity of Offline Reinforcement Learning with Deep ReLU Networks in Besov Spaces",
+      "venue": "Trans. Mach. Learn. Res.",
+      "year": 2021,
+      "referenceCount": 90,
+      "citationCount": 7,
+      "authors": [
+        {
+          "authorId": "1490490191",
+          "name": "Thanh Nguyen-Tang"
+        },
+        {
+          "authorId": "119971153",
+          "name": "Sunil Gupta"
+        },
+        {
+          "authorId": "1401969371",
+          "name": "Hung The Tran"
+        },
+        {
+          "authorId": "143761093",
+          "name": "S. Venkatesh"
+        }
+      ]
+    },
+    {
+      "paperId": "822b8c0e0b0460c794c10acb4f85841fd9683ad4",
+      "externalIds": {
+        "DBLP": "journals/access/NhuDHVB24",
+        "DOI": "10.1109/ACCESS.2024.3360337",
+        "CorpusId": 267475383
+      },
+      "url": "https://www.semanticscholar.org/paper/822b8c0e0b0460c794c10acb4f85841fd9683ad4",
+      "title": "A New Approach Based on Deep Neural Networks and Multisource Geospatial Data for Spatial Prediction of Groundwater Spring Potential",
+      "venue": "IEEE Access",
+      "year": 2024,
+      "referenceCount": 102,
+      "citationCount": 6,
+      "authors": [
+        {
+          "authorId": "51304265",
+          "name": "Viet-Ha Nhu"
+        },
+        {
+          "authorId": "2049055693",
+          "name": "Duong Cao Phan"
+        },
+        {
+          "authorId": "69887371",
+          "name": "Pham Viet Hoa"
+        },
+        {
+          "authorId": "11058089",
+          "name": "Pham The Vinh"
+        },
+        {
+          "authorId": "2382463",
+          "name": "D. Bui"
+        }
+      ]
+    },
+    {
+      "paperId": "1c632bfb3ea4c45cc2e0303653e58797474cebd0",
+      "externalIds": {
+        "ArXiv": "2112.04929",
+        "DOI": "10.3847/1538-4357/ac4165",
+        "CorpusId": 245006074
+      },
+      "url": "https://www.semanticscholar.org/paper/1c632bfb3ea4c45cc2e0303653e58797474cebd0",
+      "title": "The Intrinsic Structure of Sagittarius A* at 1.3 cm and 7 mm",
+      "venue": "Astrophysical Journal",
+      "year": 2021,
+      "referenceCount": 95,
+      "citationCount": 19,
+      "authors": [
+        {
+          "authorId": "30014057",
+          "name": "I. Cho"
+        },
+        {
+          "authorId": "18138988",
+          "name": "Guangyao Zhao"
+        },
+        {
+          "authorId": "102857020",
+          "name": "T. Kawashima"
+        },
+        {
+          "authorId": "8305959",
+          "name": "M. Kino"
+        },
+        {
+          "authorId": "46462891",
+          "name": "K. Akiyama"
+        },
+        {
+          "authorId": "2109889884",
+          "name": "Michael D. Johnson"
+        },
+        {
+          "authorId": "88648241",
+          "name": "S. Issaoun"
+        },
+        {
+          "authorId": "103147798",
+          "name": "K. Moriyama"
+        },
+        {
+          "authorId": "10280617",
+          "name": "Xiaopeng Cheng"
+        },
+        {
+          "authorId": "90721657",
+          "name": "J. Algaba"
+        },
+        {
+          "authorId": "145356770",
+          "name": "T. Jung"
+        },
+        {
+          "authorId": "13514948",
+          "name": "B. Sohn"
+        },
+        {
+          "authorId": "5516840",
+          "name": "T. Krichbaum"
+        },
+        {
+          "authorId": "12122428",
+          "name": "M. Wielgus"
+        },
+        {
+          "authorId": "48085695",
+          "name": "K. Hada"
+        },
+        {
+          "authorId": "34288851",
+          "name": "R. Lu"
+        },
+        {
+          "authorId": "1998017713",
+          "name": "Yuzhu Cui"
+        },
+        {
+          "authorId": "1389935264",
+          "name": "S. Sawada-Satoh"
+        },
+        {
+          "authorId": "2111639472",
+          "name": "Zhiqiang Shen"
+        },
+        {
+          "authorId": "2149422026",
+          "name": "Jongho Park"
+        },
+        {
+          "authorId": "2116856527",
+          "name": "Wu Jiang"
+        },
+        {
+          "authorId": "39801027",
+          "name": "H. Ro"
+        },
+        {
+          "authorId": "152323766",
+          "name": "K. -H. Yi"
+        },
+        {
+          "authorId": "5378355",
+          "name": "K. Wajima"
+        },
+        {
+          "authorId": "2108569308",
+          "name": "J. Lee"
+        },
+        {
+          "authorId": "47405278",
+          "name": "J. Hodgson"
+        },
+        {
+          "authorId": "26416801",
+          "name": "F. Tazaki"
+        },
+        {
+          "authorId": "86945511",
+          "name": "M. Honma"
+        },
+        {
+          "authorId": "47086281",
+          "name": "K. Niinuma"
+        },
+        {
+          "authorId": "90442540",
+          "name": "S. Trippe"
+        },
+        {
+          "authorId": "50210509",
+          "name": "T. An"
+        },
+        {
+          "authorId": "2108245960",
+          "name": "Yingkang Zhang"
+        },
+        {
+          "authorId": "66728394",
+          "name": "J. Lee"
+        },
+        {
+          "authorId": "50364264",
+          "name": "Se-jin Oh"
+        },
+        {
+          "authorId": "31016109",
+          "name": "D. Byun"
+        },
+        {
+          "authorId": "2108041626",
+          "name": "Sang-Sung Lee"
+        },
+        {
+          "authorId": "144833697",
+          "name": "Jae-Young Kim"
+        },
+        {
+          "authorId": "145978005",
+          "name": "J. Oh"
+        },
+        {
+          "authorId": "102556560",
+          "name": "S. Koyama"
+        },
+        {
+          "authorId": "7978937",
+          "name": "K. Asada"
+        },
+        {
+          "authorId": "2135491119",
+          "name": "Xuezheng Wang"
+        },
+        {
+          "authorId": "11070515",
+          "name": "L. Cui"
+        },
+        {
+          "authorId": "46310376",
+          "name": "Y. Hagiwara"
+        },
+        {
+          "authorId": "49314437",
+          "name": "M. Nakamura"
+        },
+        {
+          "authorId": "83452235",
+          "name": "M. Takamura"
+        },
+        {
+          "authorId": "1695924",
+          "name": "T. Hirota"
+        },
+        {
+          "authorId": "92255953",
+          "name": "K. Sugiyama"
+        },
+        {
+          "authorId": "2014089",
+          "name": "N. Kawaguchi"
+        },
+        {
+          "authorId": "47584816",
+          "name": "H. Kobayashi"
+        },
+        {
+          "authorId": "6561758",
+          "name": "T. Oyama"
+        },
+        {
+          "authorId": "48322596",
+          "name": "Y. Yonekura"
+        },
+        {
+          "authorId": "47964929",
+          "name": "Jongsoo Kim"
+        },
+        {
+          "authorId": "94096101",
+          "name": "Ju-Yeon Hwang"
+        },
+        {
+          "authorId": "31322559",
+          "name": "Dong-Kyu Jung"
+        },
+        {
+          "authorId": "2108990234",
+          "name": "Hyo-Ryoung Kim"
+        },
+        {
+          "authorId": "2109216746",
+          "name": "Jeong-Sook Kim"
+        },
+        {
+          "authorId": "3594263",
+          "name": "C. Oh"
+        },
+        {
+          "authorId": "48912147",
+          "name": "D. Roh"
+        },
+        {
+          "authorId": "31343194",
+          "name": "J. Yeom"
+        },
+        {
+          "authorId": "144118858",
+          "name": "B. Xia"
+        },
+        {
+          "authorId": "49408241",
+          "name": "Weiye Zhong"
+        },
+        {
+          "authorId": "2156072950",
+          "name": "Bin Li"
+        },
+        {
+          "authorId": "145638772",
+          "name": "Rongbin Zhao"
+        },
+        {
+          "authorId": "2109492764",
+          "name": "Jinqing Wang"
+        },
+        {
+          "authorId": "2295728843",
+          "name": "Qing-Hui Liu"
+        },
+        {
+          "authorId": "2143993259",
+          "name": "Zhong Chen Korea Astronomy"
+        },
+        {
+          "authorId": "144175662",
+          "name": "Space Telescope Science Institute"
+        },
+        {
+          "authorId": "102771447",
+          "name": "University of Electronic Science"
+        },
+        {
+          "authorId": "6290560",
+          "name": "Technology"
+        },
+        {
+          "authorId": "1405262109",
+          "name": "Instituto de Astrofisica de Andalucia-CSIC"
+        },
+        {
+          "authorId": "103146251",
+          "name": "Inst. for Nucl. Research"
+        },
+        {
+          "authorId": "103290535",
+          "name": "T. U. O. Tokyo"
+        },
+        {
+          "authorId": "103314641",
+          "name": "National Space Development Agency of Japan"
+        },
+        {
+          "authorId": "2144045767",
+          "name": "Kogakuin University of Technology"
+        },
+        {
+          "authorId": "3836035",
+          "name": "Engineering"
+        },
+        {
+          "authorId": "1720696614",
+          "name": "Massachusetts Institute of TechnologyHaystack Observatory"
+        },
+        {
+          "authorId": "1490645028",
+          "name": "Black Hole Initiative at Harvard University"
+        },
+        {
+          "authorId": "88726436",
+          "name": "Center for Computational Astrophysics"
+        },
+        {
+          "authorId": "2257479637",
+          "name": "Harvard"
+        },
+        {
+          "authorId": "103240753",
+          "name": "Smithsonian"
+        },
+        {
+          "authorId": "89376702",
+          "name": "D. O. Astrophysics"
+        },
+        {
+          "authorId": "119578013",
+          "name": "Institute for Mathematics"
+        },
+        {
+          "authorId": "103092648",
+          "name": "Astrophysics"
+        },
+        {
+          "authorId": "103364732",
+          "name": "P. Physics"
+        },
+        {
+          "authorId": "2143993044",
+          "name": "R. University"
+        },
+        {
+          "authorId": "103076176",
+          "name": "Mizusawa Vlbi Observatory"
+        },
+        {
+          "authorId": "88739531",
+          "name": "Department of Materials Science"
+        },
+        {
+          "authorId": "2088595198",
+          "name": "U. Malaya"
+        },
+        {
+          "authorId": "102339916",
+          "name": "D. O. Astronomy"
+        },
+        {
+          "authorId": "119899729",
+          "name": "Yonsei University"
+        },
+        {
+          "authorId": "103331098",
+          "name": "M. F. Radioastronomie"
+        },
+        {
+          "authorId": "88739531",
+          "name": "Department of Materials Science"
+        },
+        {
+          "authorId": "7442481",
+          "name": "The Graduate University for Advanced Studies"
+        },
+        {
+          "authorId": "90115144",
+          "name": "S. Observatory"
+        },
+        {
+          "authorId": "102802497",
+          "name": "Key Laboratory of Optical Astronomy"
+        },
+        {
+          "authorId": "7442481",
+          "name": "The Graduate University for Advanced Studies"
+        },
+        {
+          "authorId": "71208709",
+          "name": "Y. University"
+        },
+        {
+          "authorId": "88727293",
+          "name": "I. O. Astronomy"
+        },
+        {
+          "authorId": "88741706",
+          "name": "A. Sinica"
+        },
+        {
+          "authorId": "2165661022",
+          "name": "D. Physics"
+        },
+        {
+          "authorId": "101726791",
+          "name": "Astronomy"
+        },
+        {
+          "authorId": "102223147",
+          "name": "Seoul National University"
+        },
+        {
+          "authorId": "95575753",
+          "name": "Sejong University"
+        },
+        {
+          "authorId": "102253540",
+          "name": "G. S. O. Sciences"
+        },
+        {
+          "authorId": "1469071668",
+          "name": "Technology for Innovation"
+        },
+        {
+          "authorId": "2134900771",
+          "name": "Snu Astronomy Research Center"
+        },
+        {
+          "authorId": "2345692914",
+          "name": "Niigata University"
+        },
+        {
+          "authorId": "102340341",
+          "name": "Xinjiang Astronomical Observatory"
+        },
+        {
+          "authorId": "2144016729",
+          "name": "Toyo University"
+        },
+        {
+          "authorId": "1900418106",
+          "name": "National Institute of Technology"
+        },
+        {
+          "authorId": "2143992640",
+          "name": "Hachinohe College"
+        },
+        {
+          "authorId": "102749703",
+          "name": "National Astronomical Research Institute of Thailand"
+        },
+        {
+          "authorId": "102352426",
+          "name": "C. F. Astronomy"
+        },
+        {
+          "authorId": "102798900",
+          "name": "I. University"
+        },
+        {
+          "authorId": "2388563604",
+          "name": "B. S. R. Institute"
+        },
+        {
+          "authorId": "145231467",
+          "name": "Chungbuk National University"
+        }
+      ]
+    },
+    {
+      "paperId": "26252bddd354ff4e6bfe0969b27c4eff3c3a8d4b",
+      "externalIds": {
+        "ArXiv": "2604.04477",
+        "CorpusId": 287201228
+      },
+      "url": "https://www.semanticscholar.org/paper/26252bddd354ff4e6bfe0969b27c4eff3c3a8d4b",
+      "title": "MVis-Fold: A Three-Dimensional Microvascular Structure Inference Model for Super-Resolution Ultrasound",
+      "venue": "",
+      "year": 2026,
+      "referenceCount": 12,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2152270517",
+          "name": "J. Yao"
+        },
+        {
+          "authorId": "2380861967",
+          "name": "Ke Zhang"
+        },
+        {
+          "authorId": "2282973733",
+          "name": "Yahan Zhou"
+        },
+        {
+          "authorId": "2254608148",
+          "name": "Jiafei Shen"
+        },
+        {
+          "authorId": "2338760868",
+          "name": "Jie Liu"
+        },
+        {
+          "authorId": "2323762021",
+          "name": "Mudassar Ali"
+        },
+        {
+          "authorId": "2181355613",
+          "name": "B. Feng"
+        },
+        {
+          "authorId": "2283977160",
+          "name": "Jiye Chen"
+        },
+        {
+          "authorId": "2311417899",
+          "name": "Jinlong Fan"
+        },
+        {
+          "authorId": "2282532958",
+          "name": "Ping Liang"
+        },
+        {
+          "authorId": "2428280195",
+          "name": "Dong Xu Department of Diagnostic Ultrasound ImagingInte Therapy"
+        },
+        {
+          "authorId": "2428280073",
+          "name": "Zhejiang Cancer Hospital"
+        },
+        {
+          "authorId": "2428280203",
+          "name": "Hangzhou Institute of Medicine"
+        },
+        {
+          "authorId": "145387991",
+          "name": "Chinese Academy of Sciences"
+        },
+        {
+          "authorId": "152257790",
+          "name": "Hangzhou"
+        },
+        {
+          "authorId": "2374051442",
+          "name": "China"
+        },
+        {
+          "authorId": "2254113622",
+          "name": "Researchers of the Nonavasc Study Cardiovascular Risk Group of Medicine"
+        },
+        {
+          "authorId": "2285034440",
+          "name": "Engineering"
+        },
+        {
+          "authorId": "2428280334",
+          "name": "Wenling Institute of Big Data"
+        },
+        {
+          "authorId": "1975851785",
+          "name": "A. L. Cunningham Lecturer in Medicine"
+        },
+        {
+          "authorId": "94482098",
+          "name": "Taizhou"
+        },
+        {
+          "authorId": "2428280209",
+          "name": "Zhejiang Provincial Research Center for Innovative Technology"
+        },
+        {
+          "authorId": "2428280199",
+          "name": "Equipment in Interventional Oncology"
+        },
+        {
+          "authorId": "103153660",
+          "name": "College of Materials Science"
+        },
+        {
+          "authorId": "92772024",
+          "name": "Electronic Engineering"
+        },
+        {
+          "authorId": "2372527079",
+          "name": "Zhejiang University"
+        },
+        {
+          "authorId": "2428280355",
+          "name": "Department of Ultrasound"
+        },
+        {
+          "authorId": "2166311826",
+          "name": "Chinese Pla General Hospital"
+        },
+        {
+          "authorId": "2428280057",
+          "name": "Chinese Pla Medical School"
+        },
+        {
+          "authorId": "2256059499",
+          "name": "Beijing"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,242 @@
+{
+  "total": 7,
+  "offset": 0,
+  "data": [
+    {
+      "paperId": "e82b0b0a06a10318682b272a77b1250c89a1798e",
+      "externalIds": {
+        "MAG": "2951455820",
+        "DBLP": "conf/icml/ZoghiTGKSW17",
+        "ArXiv": "1703.02527",
+        "CorpusId": 119908
+      },
+      "url": "https://www.semanticscholar.org/paper/e82b0b0a06a10318682b272a77b1250c89a1798e",
+      "title": "Online Learning to Rank in Stochastic Click Models",
+      "venue": "International Conference on Machine Learning",
+      "year": 2017,
+      "referenceCount": 36,
+      "citationCount": 112,
+      "authors": [
+        {
+          "authorId": "36572609",
+          "name": "M. Zoghi"
+        },
+        {
+          "authorId": "3256755",
+          "name": "Tomás Tunys"
+        },
+        {
+          "authorId": "1678622",
+          "name": "M. Ghavamzadeh"
+        },
+        {
+          "authorId": "1681967",
+          "name": "B. Kveton"
+        },
+        {
+          "authorId": "40868287",
+          "name": "Csaba Szepesvari"
+        },
+        {
+          "authorId": "39761651",
+          "name": "Zheng Wen"
+        }
+      ]
+    },
+    {
+      "paperId": "9a10a8fc9f02a4580832f15a801bb840f8b0b6d6",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2305-19218",
+        "ArXiv": "2305.19218",
+        "DOI": "10.48550/arXiv.2305.19218",
+        "CorpusId": 258968036
+      },
+      "url": "https://www.semanticscholar.org/paper/9a10a8fc9f02a4580832f15a801bb840f8b0b6d6",
+      "title": "Adversarial Attacks on Online Learning to Rank with Stochastic Click Models",
+      "venue": "Trans. Mach. Learn. Res.",
+      "year": 2023,
+      "referenceCount": 48,
+      "citationCount": 5,
+      "authors": [
+        {
+          "authorId": null,
+          "name": "Zichen Wang"
+        },
+        {
+          "authorId": "2007658180",
+          "name": "R. Balasubramanian"
+        },
+        {
+          "authorId": "2114127372",
+          "name": "Hui Yuan"
+        },
+        {
+          "authorId": "2184332396",
+          "name": "Chenyu Song"
+        },
+        {
+          "authorId": "2345404242",
+          "name": "Mengdi Wang"
+        },
+        {
+          "authorId": "3249827",
+          "name": "Huazheng Wang"
+        }
+      ]
+    },
+    {
+      "paperId": "e40274d8da40b1220f005d2542b879f02648bc1b",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2305-17071",
+        "ArXiv": "2305.17071",
+        "DOI": "10.48550/arXiv.2305.17071",
+        "CorpusId": 258947139
+      },
+      "url": "https://www.semanticscholar.org/paper/e40274d8da40b1220f005d2542b879f02648bc1b",
+      "title": "Adversarial Attacks on Online Learning to Rank with Click Feedback",
+      "venue": "Neural Information Processing Systems",
+      "year": 2023,
+      "referenceCount": 26,
+      "citationCount": 7,
+      "authors": [
+        {
+          "authorId": "3399139",
+          "name": "Jinhang Zuo"
+        },
+        {
+          "authorId": "2189812995",
+          "name": "Zhiyao Zhang"
+        },
+        {
+          "authorId": "2210259302",
+          "name": "Zhiyong Wang"
+        },
+        {
+          "authorId": "1491648207",
+          "name": "Shuai Li"
+        },
+        {
+          "authorId": "2284772322",
+          "name": "M. Hajiesmaili"
+        },
+        {
+          "authorId": "1706859",
+          "name": "A. Wierman"
+        }
+      ]
+    },
+    {
+      "paperId": "de16e94def5424ac99218b526db2d533c2947137",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2207-05437",
+        "ArXiv": "2207.05437",
+        "DOI": "10.1609/aaai.v36i6.20569",
+        "CorpusId": 250296504
+      },
+      "url": "https://www.semanticscholar.org/paper/de16e94def5424ac99218b526db2d533c2947137",
+      "title": "Simultaneously Learning Stochastic and Adversarial Bandits under the Position-Based Model",
+      "venue": "AAAI Conference on Artificial Intelligence",
+      "year": 2022,
+      "referenceCount": 53,
+      "citationCount": 5,
+      "authors": [
+        {
+          "authorId": "2145777025",
+          "name": "Chengju Chen"
+        },
+        {
+          "authorId": "2145204134",
+          "name": "Canzhe Zhao"
+        },
+        {
+          "authorId": "1491648207",
+          "name": "Shuai Li"
+        }
+      ]
+    },
+    {
+      "paperId": "02f09989359a0447591d9cc71c768c89b5dfd475",
+      "externalIds": {
+        "MAG": "2949689156",
+        "DBLP": "journals/corr/abs-1806-02248",
+        "ArXiv": "1806.02248",
+        "CorpusId": 46946360
+      },
+      "url": "https://www.semanticscholar.org/paper/02f09989359a0447591d9cc71c768c89b5dfd475",
+      "title": "TopRank: A practical algorithm for online stochastic ranking",
+      "venue": "Neural Information Processing Systems",
+      "year": 2018,
+      "referenceCount": 21,
+      "citationCount": 75,
+      "authors": [
+        {
+          "authorId": "2989692",
+          "name": "Tor Lattimore"
+        },
+        {
+          "authorId": "1681967",
+          "name": "B. Kveton"
+        },
+        {
+          "authorId": "1491648207",
+          "name": "Shuai Li"
+        },
+        {
+          "authorId": "40868287",
+          "name": "Csaba Szepesvari"
+        }
+      ]
+    },
+    {
+      "paperId": "25cb497533b0edd045a3eef3947075932074787b",
+      "externalIds": {
+        "MAG": "3021683593",
+        "DBLP": "conf/www/OosterhuisJR20",
+        "DOI": "10.1145/3366424.3383107",
+        "CorpusId": 197430888
+      },
+      "url": "https://www.semanticscholar.org/paper/25cb497533b0edd045a3eef3947075932074787b",
+      "title": "Unbiased Learning to Rank: Counterfactual and Online Approaches",
+      "venue": "The Web Conference",
+      "year": 2020,
+      "referenceCount": 27,
+      "citationCount": 20,
+      "authors": [
+        {
+          "authorId": "143624743",
+          "name": "Harrie Oosterhuis"
+        },
+        {
+          "authorId": "1886219",
+          "name": "R. Jagerman"
+        },
+        {
+          "authorId": "1696030",
+          "name": "M. de Rijke"
+        }
+      ]
+    },
+    {
+      "paperId": "a13310e2d5748f07504d0dda33225cb70866f5d6",
+      "externalIds": {
+        "CorpusId": 253481545
+      },
+      "url": "https://www.semanticscholar.org/paper/a13310e2d5748f07504d0dda33225cb70866f5d6",
+      "title": "Assessing risk of disruption of supply chains due to Covid-19 with Fuzzy VIKORSort",
+      "venue": "",
+      "year": null,
+      "referenceCount": 20,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "90276651",
+          "name": "J. Khan"
+        },
+        {
+          "authorId": "34667207",
+          "name": "A. Ishizaka"
+        }
+      ]
+    }
+  ]
+}

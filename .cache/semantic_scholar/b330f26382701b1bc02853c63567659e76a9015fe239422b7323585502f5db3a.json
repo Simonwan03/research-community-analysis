@@ -1,0 +1,276 @@
+{
+  "total": 33,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "1f5b7f69ce9a299293eb37c05de4277b171f88a7",
+      "externalIds": {
+        "MAG": "2346878437",
+        "DBLP": "journals/corr/KomiyamaHN16",
+        "ArXiv": "1605.01677",
+        "CorpusId": 7375303
+      },
+      "url": "https://www.semanticscholar.org/paper/1f5b7f69ce9a299293eb37c05de4277b171f88a7",
+      "title": "Copeland Dueling Bandit Problem: Regret Lower Bound, Optimal Algorithm, and Computationally Efficient Algorithm",
+      "venue": "International Conference on Machine Learning",
+      "year": 2016,
+      "referenceCount": 29,
+      "citationCount": 41,
+      "authors": [
+        {
+          "authorId": "2762536",
+          "name": "Junpei Komiyama"
+        },
+        {
+          "authorId": "2367521",
+          "name": "J. Honda"
+        },
+        {
+          "authorId": "153510134",
+          "name": "H. Nakagawa"
+        }
+      ]
+    },
+    {
+      "paperId": "09ad4587ad94c3fff8f003d587a16bf16a95c054",
+      "externalIds": {
+        "ArXiv": "2109.11612",
+        "DBLP": "journals/corr/abs-2109-11612",
+        "DOI": "10.1214/21-ejs1909",
+        "CorpusId": 237635332
+      },
+      "url": "https://www.semanticscholar.org/paper/09ad4587ad94c3fff8f003d587a16bf16a95c054",
+      "title": "Regret Lower Bound and Optimal Algorithm for High-Dimensional Contextual Linear Bandit",
+      "venue": "Electronic Journal of Statistics",
+      "year": 2021,
+      "referenceCount": 28,
+      "citationCount": 10,
+      "authors": [
+        {
+          "authorId": "2149140038",
+          "name": "Ke Li"
+        },
+        {
+          "authorId": "2116588224",
+          "name": "Yun Yang"
+        },
+        {
+          "authorId": "152966960",
+          "name": "N. Narisetty"
+        }
+      ]
+    },
+    {
+      "paperId": "e4b5acee0298db7af2de913cea55411b2395395e",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2602-10971",
+        "ArXiv": "2602.10971",
+        "DOI": "10.48550/arXiv.2602.10971",
+        "CorpusId": 285470480
+      },
+      "url": "https://www.semanticscholar.org/paper/e4b5acee0298db7af2de913cea55411b2395395e",
+      "title": "A Jointly Efficient and Optimal Algorithm for Heteroskedastic Generalized Linear Bandits with Adversarial Corruptions",
+      "venue": "arXiv.org",
+      "year": 2026,
+      "referenceCount": 84,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2268852258",
+          "name": "Sanghwan Kim"
+        },
+        {
+          "authorId": "2327037089",
+          "name": "Jung-Hyun Lee"
+        },
+        {
+          "authorId": "2262444370",
+          "name": "Se-Young Yun"
+        }
+      ]
+    },
+    {
+      "paperId": "03015ee9762881cfed0f01330b3511e3bca1b291",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2405-09831",
+        "ArXiv": "2405.09831",
+        "DOI": "10.48550/arXiv.2405.09831",
+        "CorpusId": 269790878
+      },
+      "url": "https://www.semanticscholar.org/paper/03015ee9762881cfed0f01330b3511e3bca1b291",
+      "title": "Nearly Minimax Optimal Regret for Multinomial Logistic Bandit",
+      "venue": "Neural Information Processing Systems",
+      "year": 2024,
+      "referenceCount": 49,
+      "citationCount": 13,
+      "authors": [
+        {
+          "authorId": "2283316911",
+          "name": "Joongkyu Lee"
+        },
+        {
+          "authorId": "2283306827",
+          "name": "Min-hwan Oh"
+        }
+      ]
+    },
+    {
+      "paperId": "9caaac7761cf09bf1c6054a4affcbf1b98612d8e",
+      "externalIds": {
+        "DBLP": "conf/icml/KomiyamaHN15",
+        "ArXiv": "1506.00779",
+        "MAG": "2949329826",
+        "CorpusId": 982995
+      },
+      "url": "https://www.semanticscholar.org/paper/9caaac7761cf09bf1c6054a4affcbf1b98612d8e",
+      "title": "Optimal Regret Analysis of Thompson Sampling in Stochastic Multi-armed Bandit Problem with Multiple Plays",
+      "venue": "International Conference on Machine Learning",
+      "year": 2015,
+      "referenceCount": 36,
+      "citationCount": 141,
+      "authors": [
+        {
+          "authorId": "2762536",
+          "name": "Junpei Komiyama"
+        },
+        {
+          "authorId": "2367521",
+          "name": "J. Honda"
+        },
+        {
+          "authorId": "153510134",
+          "name": "H. Nakagawa"
+        }
+      ]
+    },
+    {
+      "paperId": "78095f5e02bf88e196375317e0d64b2f9013d0ab",
+      "externalIds": {
+        "ArXiv": "2111.03917",
+        "DBLP": "conf/icml/SahaG22a",
+        "CorpusId": 243848209
+      },
+      "url": "https://www.semanticscholar.org/paper/78095f5e02bf88e196375317e0d64b2f9013d0ab",
+      "title": "Optimal and Efficient Dynamic Regret Algorithms for Non-Stationary Dueling Bandits",
+      "venue": "International Conference on Machine Learning",
+      "year": 2021,
+      "referenceCount": 37,
+      "citationCount": 12,
+      "authors": [
+        {
+          "authorId": "2118928343",
+          "name": "Shubham Gupta"
+        },
+        {
+          "authorId": "2892691",
+          "name": "Aadirupa Saha"
+        }
+      ]
+    },
+    {
+      "paperId": "446388ded4ae4b3c7512c26b95384350c6408e29",
+      "externalIds": {
+        "ArXiv": "2403.15045",
+        "DBLP": "journals/corr/abs-2403-15045",
+        "DOI": "10.48550/arXiv.2403.15045",
+        "CorpusId": 268667288
+      },
+      "url": "https://www.semanticscholar.org/paper/446388ded4ae4b3c7512c26b95384350c6408e29",
+      "title": "DP-Dueling: Learning from Preference Feedback without Compromising User Privacy",
+      "venue": "arXiv.org",
+      "year": 2024,
+      "referenceCount": 76,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2892691",
+          "name": "Aadirupa Saha"
+        },
+        {
+          "authorId": "50392836",
+          "name": "Hilal Asi"
+        }
+      ]
+    },
+    {
+      "paperId": "6f5fb0e9271949010001db7264ad0967f3666a42",
+      "externalIds": {
+        "MAG": "2532813632",
+        "DBLP": "conf/atal/TalebiP16",
+        "DOI": "10.65109/dqki7896",
+        "CorpusId": 11275584
+      },
+      "url": "https://www.semanticscholar.org/paper/6f5fb0e9271949010001db7264ad0967f3666a42",
+      "title": "An Optimal Algorithm for Stochastic Matroid Bandit Optimization",
+      "venue": "Adaptive Agents and Multi-Agent Systems",
+      "year": 2016,
+      "referenceCount": 30,
+      "citationCount": 20,
+      "authors": [
+        {
+          "authorId": "47181013",
+          "name": "M. S. Talebi"
+        },
+        {
+          "authorId": "1745481",
+          "name": "A. Proutière"
+        }
+      ]
+    },
+    {
+      "paperId": "94c1ce7c77f5cda8cd3db2b5c09feae73901c4bd",
+      "externalIds": {
+        "ArXiv": "2411.12154",
+        "DBLP": "journals/corr/abs-2411-12154",
+        "DOI": "10.48550/arXiv.2411.12154",
+        "CorpusId": 274141354
+      },
+      "url": "https://www.semanticscholar.org/paper/94c1ce7c77f5cda8cd3db2b5c09feae73901c4bd",
+      "title": "Tangential Randomization in Linear Bandits (TRAiL): Guaranteed Inference and Regret Bounds",
+      "venue": "arXiv.org",
+      "year": 2024,
+      "referenceCount": 40,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2338274883",
+          "name": "Arda Güçlü"
+        },
+        {
+          "authorId": "50693937",
+          "name": "S. Bose"
+        }
+      ]
+    },
+    {
+      "paperId": "aa474e508d62d15505df1d9aec1af7d03af17a39",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2502-17175",
+        "ArXiv": "2502.17175",
+        "DOI": "10.48550/arXiv.2502.17175",
+        "CorpusId": 276575585
+      },
+      "url": "https://www.semanticscholar.org/paper/aa474e508d62d15505df1d9aec1af7d03af17a39",
+      "title": "Linear Bandits on Ellipsoids: Minimax Optimal Algorithms",
+      "venue": "Annual Conference Computational Learning Theory",
+      "year": 2025,
+      "referenceCount": 15,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "2266803998",
+          "name": "Raymond Zhang"
+        },
+        {
+          "authorId": "46178857",
+          "name": "Hédi Hadiji"
+        },
+        {
+          "authorId": "2295003538",
+          "name": "Richard Combes"
+        }
+      ]
+    }
+  ]
+}

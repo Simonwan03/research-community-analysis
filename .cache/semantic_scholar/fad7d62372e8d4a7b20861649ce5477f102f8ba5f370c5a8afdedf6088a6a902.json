@@ -1,0 +1,1346 @@
+{
+  "offset": 0,
+  "citingPaperInfo": {
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/1504.07468, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "title": "Non-Gaussian Discriminative Factor Models via the Max-Margin Rank-Likelihood",
+    "authors": [
+      {
+        "authorId": "2115844400",
+        "name": "Xin Yuan"
+      },
+      {
+        "authorId": "145153424",
+        "name": "Ricardo Henao"
+      },
+      {
+        "authorId": "1990472",
+        "name": "E. Tsalik"
+      },
+      {
+        "authorId": "2325111",
+        "name": "R. Langley"
+      },
+      {
+        "authorId": "145006560",
+        "name": "L. Carin"
+      }
+    ]
+  },
+  "data": [
+    {
+      "citedPaper": {
+        "paperId": "7246757d78e41f077d08da94acedcb4c39084b7b",
+        "externalIds": {
+          "DBLP": "conf/nips/HenaoYC14",
+          "MAG": "2130139955",
+          "CorpusId": 7416691
+        },
+        "url": "https://www.semanticscholar.org/paper/7246757d78e41f077d08da94acedcb4c39084b7b",
+        "title": "Bayesian Nonlinear Support Vector Machines and Discriminative Factor Modeling",
+        "venue": "Neural Information Processing Systems",
+        "year": 2014,
+        "referenceCount": 28,
+        "citationCount": 33,
+        "authors": [
+          {
+            "authorId": "145153424",
+            "name": "Ricardo Henao"
+          },
+          {
+            "authorId": "2115844400",
+            "name": "Xin Yuan"
+          },
+          {
+            "authorId": "145006560",
+            "name": "L. Carin"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "0d371f8f35043be479bd2691e32580196c1d85ea",
+        "externalIds": {
+          "MAG": "2039251546",
+          "DOI": "10.1001/JAMA.2014.5804",
+          "CorpusId": 5496223,
+          "PubMed": "24838355"
+        },
+        "url": "https://www.semanticscholar.org/paper/0d371f8f35043be479bd2691e32580196c1d85ea",
+        "title": "Hospital deaths in patients with sepsis from 2 independent cohorts.",
+        "venue": "Journal of the American Medical Association (JAMA)",
+        "year": 2014,
+        "referenceCount": 9,
+        "citationCount": 907,
+        "authors": [
+          {
+            "authorId": "39717165",
+            "name": "V. Liu"
+          },
+          {
+            "authorId": "144176604",
+            "name": "G. Escobar"
+          },
+          {
+            "authorId": "2151133930",
+            "name": "J. Greene"
+          },
+          {
+            "authorId": "39504608",
+            "name": "J. Soule"
+          },
+          {
+            "authorId": "1953822",
+            "name": "Alan Whippy"
+          },
+          {
+            "authorId": "1834539",
+            "name": "D. Angus"
+          },
+          {
+            "authorId": "2919975",
+            "name": "T. Iwashyna"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "71b8d298cfd6889a22ebe3bf4759c54a64c19087",
+        "externalIds": {
+          "MAG": "2145559868",
+          "DOI": "10.1056/NEJMoa1303657",
+          "CorpusId": 1927789,
+          "PubMed": "24785206"
+        },
+        "url": "https://www.semanticscholar.org/paper/71b8d298cfd6889a22ebe3bf4759c54a64c19087",
+        "title": "Diagnosis of childhood tuberculosis and host RNA expression in Africa.",
+        "venue": "New England Journal of Medicine",
+        "year": 2014,
+        "referenceCount": 41,
+        "citationCount": 356,
+        "authors": [
+          {
+            "authorId": "35092977",
+            "name": "S. Anderson"
+          },
+          {
+            "authorId": "6495071",
+            "name": "M. Kaforou"
+          },
+          {
+            "authorId": "4722235",
+            "name": "A. Brent"
+          },
+          {
+            "authorId": "35861554",
+            "name": "V. Wright"
+          },
+          {
+            "authorId": "35238255",
+            "name": "C. Banwell"
+          },
+          {
+            "authorId": "6081126",
+            "name": "G. Chagaluka"
+          },
+          {
+            "authorId": "5416381",
+            "name": "A. Crampin"
+          },
+          {
+            "authorId": "5677617",
+            "name": "H. Dockrell"
+          },
+          {
+            "authorId": "49238461",
+            "name": "N. French"
+          },
+          {
+            "authorId": "48870951",
+            "name": "M. S. Hamilton"
+          },
+          {
+            "authorId": "23569424",
+            "name": "M. Hibberd"
+          },
+          {
+            "authorId": "152215589",
+            "name": "F. Kern"
+          },
+          {
+            "authorId": "3670026",
+            "name": "P. Langford"
+          },
+          {
+            "authorId": "2068040281",
+            "name": "Ling Ling"
+          },
+          {
+            "authorId": "5261011",
+            "name": "R. Mlotha"
+          },
+          {
+            "authorId": "144974806",
+            "name": "T. Ottenhoff"
+          },
+          {
+            "authorId": "3034856",
+            "name": "S. Pienaar"
+          },
+          {
+            "authorId": "40097022",
+            "name": "V. Pillay"
+          },
+          {
+            "authorId": "2235503737",
+            "name": "J. Scott"
+          },
+          {
+            "authorId": "8115070",
+            "name": "Hemed Twahir"
+          },
+          {
+            "authorId": "145721207",
+            "name": "R. Wilkinson"
+          },
+          {
+            "authorId": "1850377",
+            "name": "L. Coin"
+          },
+          {
+            "authorId": "5777984",
+            "name": "R. Heyderman"
+          },
+          {
+            "authorId": "145616960",
+            "name": "M. Levin"
+          },
+          {
+            "authorId": "48309557",
+            "name": "B. Eley"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "b695cb5a9718ca530aba8b2a2174657d4996d4e8",
+        "externalIds": {
+          "DBLP": "journals/bib/DilliesRAHJSKMCEGJJLGSCGJ13",
+          "MAG": "2165909549",
+          "DOI": "10.1093/bib/bbs046",
+          "CorpusId": 3425545,
+          "PubMed": "22988256"
+        },
+        "url": "https://www.semanticscholar.org/paper/b695cb5a9718ca530aba8b2a2174657d4996d4e8",
+        "title": "A comprehensive evaluation of normalization methods for Illumina high-throughput RNA sequencing data analysis",
+        "venue": "Briefings Bioinform.",
+        "year": 2013,
+        "referenceCount": 50,
+        "citationCount": 1232,
+        "authors": [
+          {
+            "authorId": "2652370",
+            "name": "M. Dillies"
+          },
+          {
+            "authorId": "47654597",
+            "name": "A. Rau"
+          },
+          {
+            "authorId": "34685809",
+            "name": "J. Aubert"
+          },
+          {
+            "authorId": "1387137992",
+            "name": "C. Hennequet-Antier"
+          },
+          {
+            "authorId": "12240807",
+            "name": "M. Jeanmougin"
+          },
+          {
+            "authorId": "1761236",
+            "name": "N. Servant"
+          },
+          {
+            "authorId": "3300142",
+            "name": "C. Keime"
+          },
+          {
+            "authorId": "2504600",
+            "name": "G. Marot"
+          },
+          {
+            "authorId": "2838140",
+            "name": "D. Castel"
+          },
+          {
+            "authorId": "2601538",
+            "name": "J. Estellé"
+          },
+          {
+            "authorId": "2791029",
+            "name": "G. Guernec"
+          },
+          {
+            "authorId": "3022025",
+            "name": "B. Jagla"
+          },
+          {
+            "authorId": "1853742",
+            "name": "L. Jouneau"
+          },
+          {
+            "authorId": "8558580",
+            "name": "D. Laloë"
+          },
+          {
+            "authorId": "2057683121",
+            "name": "C. L. Gall"
+          },
+          {
+            "authorId": "36045467",
+            "name": "B. Schaeffer"
+          },
+          {
+            "authorId": "8122546",
+            "name": "S. Crom"
+          },
+          {
+            "authorId": "48464887",
+            "name": "M. Guedj"
+          },
+          {
+            "authorId": "1924766",
+            "name": "F. Jaffrézic"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "e4a1b4d5211f05bd1dd0d9fc51cd3f9e639855ab",
+        "externalIds": {
+          "DBLP": "journals/corr/QuadriantoSKG13",
+          "ArXiv": "1309.6858",
+          "MAG": "2951183560",
+          "CorpusId": 13639480
+        },
+        "url": "https://www.semanticscholar.org/paper/e4a1b4d5211f05bd1dd0d9fc51cd3f9e639855ab",
+        "title": "The Supervised IBP: Neighbourhood Preserving Infinite Latent Feature Models",
+        "venue": "Conference on Uncertainty in Artificial Intelligence",
+        "year": 2013,
+        "referenceCount": 35,
+        "citationCount": 12,
+        "authors": [
+          {
+            "authorId": "1704531",
+            "name": "Novi Quadrianto"
+          },
+          {
+            "authorId": "1790503",
+            "name": "V. Sharmanska"
+          },
+          {
+            "authorId": "3250170",
+            "name": "David A. Knowles"
+          },
+          {
+            "authorId": "1744700",
+            "name": "Zoubin Ghahramani"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "9440f6a9eeb6b5ae252296a1b5d2bcc6f7d7411c",
+        "externalIds": {
+          "MAG": "2141151213",
+          "DOI": "10.1126/scitranslmed.3005893",
+          "CorpusId": 5367848,
+          "PubMed": "23884467"
+        },
+        "url": "https://www.semanticscholar.org/paper/9440f6a9eeb6b5ae252296a1b5d2bcc6f7d7411c",
+        "title": "An Integrated Clinico-Metabolomic Model Improves Prediction of Death in Sepsis",
+        "venue": "Science Translational Medicine",
+        "year": 2013,
+        "referenceCount": 109,
+        "citationCount": 458,
+        "authors": [
+          {
+            "authorId": "2325111",
+            "name": "R. Langley"
+          },
+          {
+            "authorId": "1990472",
+            "name": "E. Tsalik"
+          },
+          {
+            "authorId": "119653745",
+            "name": "J. C. Velkinburgh"
+          },
+          {
+            "authorId": "34632872",
+            "name": "Seth W. Glickman"
+          },
+          {
+            "authorId": "30645390",
+            "name": "B. J. Rice"
+          },
+          {
+            "authorId": "2108714551",
+            "name": "Chunping Wang"
+          },
+          {
+            "authorId": "2248955071",
+            "name": "Bo Chen"
+          },
+          {
+            "authorId": "145006560",
+            "name": "L. Carin"
+          },
+          {
+            "authorId": "152788467",
+            "name": "A. Suarez"
+          },
+          {
+            "authorId": "4349734",
+            "name": "R. Mohney"
+          },
+          {
+            "authorId": "38744489",
+            "name": "D. Freeman"
+          },
+          {
+            "authorId": "2108593211",
+            "name": "Mu Wang"
+          },
+          {
+            "authorId": "40491141",
+            "name": "Jinsam You"
+          },
+          {
+            "authorId": "40486188",
+            "name": "Jacob E. Wulff"
+          },
+          {
+            "authorId": "2396543486",
+            "name": "J. Thompson"
+          },
+          {
+            "authorId": "121800901",
+            "name": "M. Moseley"
+          },
+          {
+            "authorId": "31434566",
+            "name": "Stephanie J. Reisinger"
+          },
+          {
+            "authorId": "2058309061",
+            "name": "Brian Edmonds"
+          },
+          {
+            "authorId": "6981352",
+            "name": "B. Grinnell"
+          },
+          {
+            "authorId": "145355315",
+            "name": "D. Nelson"
+          },
+          {
+            "authorId": "6672960",
+            "name": "D. Dinwiddie"
+          },
+          {
+            "authorId": "144518476",
+            "name": "Neil A. Miller"
+          },
+          {
+            "authorId": "119341988",
+            "name": "Carol J. Saunders"
+          },
+          {
+            "authorId": "1403141668",
+            "name": "Sarah Soden"
+          },
+          {
+            "authorId": "35113854",
+            "name": "A. Rogers"
+          },
+          {
+            "authorId": "3752951",
+            "name": "L. Gazourian"
+          },
+          {
+            "authorId": "3629749",
+            "name": "L. Fredenburgh"
+          },
+          {
+            "authorId": "36133744",
+            "name": "A. Massaro"
+          },
+          {
+            "authorId": "35151361",
+            "name": "R. Baron"
+          },
+          {
+            "authorId": "2143788273",
+            "name": "Augustine M. K. Choi"
+          },
+          {
+            "authorId": "5176584",
+            "name": "G. Corey"
+          },
+          {
+            "authorId": "3013441",
+            "name": "G. Ginsburg"
+          },
+          {
+            "authorId": "5050905",
+            "name": "C. Cairns"
+          },
+          {
+            "authorId": "35049271",
+            "name": "R. Otero"
+          },
+          {
+            "authorId": "3076402",
+            "name": "V. Fowler"
+          },
+          {
+            "authorId": "4677246",
+            "name": "E. Rivers"
+          },
+          {
+            "authorId": "35240159",
+            "name": "C. Woods"
+          },
+          {
+            "authorId": "144707473",
+            "name": "S. Kingsmore"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "fe112700f1680b6ac9afb1e6aedd5c9e88a622f5",
+        "externalIds": {
+          "DBLP": "conf/icml/XuZZ13",
+          "MAG": "102036530",
+          "CorpusId": 7350151
+        },
+        "url": "https://www.semanticscholar.org/paper/fe112700f1680b6ac9afb1e6aedd5c9e88a622f5",
+        "title": "Fast Max-Margin Matrix Factorization with Data Augmentation",
+        "venue": "International Conference on Machine Learning",
+        "year": 2013,
+        "referenceCount": 17,
+        "citationCount": 40,
+        "authors": [
+          {
+            "authorId": "2153556464",
+            "name": "Minjie Xu"
+          },
+          {
+            "authorId": "145254043",
+            "name": "Jun Zhu"
+          },
+          {
+            "authorId": null,
+            "name": "Bo Zhang"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "0b7d8baa633736050b74a827928274099513948a",
+        "externalIds": {
+          "DBLP": "conf/icml/SalazarC12",
+          "MAG": "2952012965",
+          "ArXiv": "1206.6469",
+          "CorpusId": 9516667
+        },
+        "url": "https://www.semanticscholar.org/paper/0b7d8baa633736050b74a827928274099513948a",
+        "title": "Inferring Latent Structure From Mixed Real and Categorical Relational Data",
+        "venue": "International Conference on Machine Learning",
+        "year": 2012,
+        "referenceCount": 31,
+        "citationCount": 11,
+        "authors": [
+          {
+            "authorId": "144985624",
+            "name": "E. Salazar"
+          },
+          {
+            "authorId": "145006560",
+            "name": "L. Carin"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "4e56ab1afd8a515a0a0b351fbf1b1d08624d0cc2",
+        "externalIds": {
+          "MAG": "2497431972",
+          "DOI": "10.1093/ACPROF:OSO/9780199694587.003.0017",
+          "CorpusId": 10933571
+        },
+        "url": "https://www.semanticscholar.org/paper/4e56ab1afd8a515a0a0b351fbf1b1d08624d0cc2",
+        "title": "Shrink Globally, Act Locally: Sparse Bayesian Regularization and Prediction",
+        "venue": "",
+        "year": 2012,
+        "referenceCount": 50,
+        "citationCount": 529,
+        "authors": [
+          {
+            "authorId": "2085638",
+            "name": "Nicholas G. Polson"
+          },
+          {
+            "authorId": "145516664",
+            "name": "James G. Scott"
+          },
+          {
+            "authorId": "2285693236",
+            "name": "B. Clarke"
+          },
+          {
+            "authorId": "2313244898",
+            "name": "C. Severinski"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "d3a8ca7216f42e9835671cdd561784edcbbc70f3",
+        "externalIds": {
+          "MAG": "2949623225",
+          "DBLP": "journals/jmlr/ZhouHDC12",
+          "ArXiv": "1112.3605",
+          "CorpusId": 9347251
+        },
+        "url": "https://www.semanticscholar.org/paper/d3a8ca7216f42e9835671cdd561784edcbbc70f3",
+        "title": "Beta-Negative Binomial Process and Poisson Factor Analysis",
+        "venue": "International Conference on Artificial Intelligence and Statistics",
+        "year": 2011,
+        "referenceCount": 45,
+        "citationCount": 256,
+        "authors": [
+          {
+            "authorId": "38026572",
+            "name": "Mingyuan Zhou"
+          },
+          {
+            "authorId": "48019890",
+            "name": "Lauren Hannah"
+          },
+          {
+            "authorId": "39775017",
+            "name": "D. Dunson"
+          },
+          {
+            "authorId": "145006560",
+            "name": "L. Carin"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "58d41d11aa4203ad4123d228ebd962dd82fa04cc",
+        "externalIds": {
+          "MAG": "2019935777",
+          "ArXiv": "1111.0317",
+          "DOI": "10.1080/01621459.2012.762328",
+          "CorpusId": 16070945,
+          "PubMed": "23990691"
+        },
+        "url": "https://www.semanticscholar.org/paper/58d41d11aa4203ad4123d228ebd962dd82fa04cc",
+        "title": "Bayesian Gaussian Copula Factor Models for Mixed Data",
+        "venue": "Journal of the American Statistical Association",
+        "year": 2011,
+        "referenceCount": 33,
+        "citationCount": 146,
+        "authors": [
+          {
+            "authorId": "144206082",
+            "name": "Jared S. Murray"
+          },
+          {
+            "authorId": "39775017",
+            "name": "D. Dunson"
+          },
+          {
+            "authorId": "145006560",
+            "name": "L. Carin"
+          },
+          {
+            "authorId": "1816731",
+            "name": "J. Lucas"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "3ce198258ab41443afde141d49b0fbd292a5a923",
+        "externalIds": {
+          "MAG": "2952132522",
+          "ArXiv": "1107.4976",
+          "DBLP": "conf/nips/ArmaganDC11",
+          "CorpusId": 6607844,
+          "PubMed": "25364213"
+        },
+        "url": "https://www.semanticscholar.org/paper/3ce198258ab41443afde141d49b0fbd292a5a923",
+        "title": "Generalized Beta Mixtures of Gaussians",
+        "venue": "Neural Information Processing Systems",
+        "year": 2011,
+        "referenceCount": 25,
+        "citationCount": 163,
+        "authors": [
+          {
+            "authorId": "34869871",
+            "name": "Artin Armagan"
+          },
+          {
+            "authorId": "39775017",
+            "name": "D. Dunson"
+          },
+          {
+            "authorId": "3028496",
+            "name": "M. Clyde"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "822391a297b7baeb3aa5e194e1daaff93899f553",
+        "externalIds": {
+          "MAG": "2029721016",
+          "DOI": "10.1093/BIOMET/ASR013",
+          "CorpusId": 676055,
+          "PubMed": "23049129"
+        },
+        "url": "https://www.semanticscholar.org/paper/822391a297b7baeb3aa5e194e1daaff93899f553",
+        "title": "Sparse Bayesian infinite factor models.",
+        "venue": "Biometrika",
+        "year": 2011,
+        "referenceCount": 36,
+        "citationCount": 507,
+        "authors": [
+          {
+            "authorId": "152939360",
+            "name": "A. Bhattacharya"
+          },
+          {
+            "authorId": "39775017",
+            "name": "D. Dunson"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "566fbaf5dda324f3507262d76079e90e3f04dbfd",
+        "externalIds": {
+          "MAG": "2059503458",
+          "DOI": "10.1214/11-BA601",
+          "CorpusId": 16001780
+        },
+        "url": "https://www.semanticscholar.org/paper/566fbaf5dda324f3507262d76079e90e3f04dbfd",
+        "title": "Data augmentation for support vector machines",
+        "venue": "",
+        "year": 2011,
+        "referenceCount": 47,
+        "citationCount": 209,
+        "authors": [
+          {
+            "authorId": "2085638",
+            "name": "Nicholas G. Polson"
+          },
+          {
+            "authorId": "3124107",
+            "name": "S. L. Scott"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "daa3840717ae71a3a0f4a54bf5446203e627562f",
+        "externalIds": {
+          "MAG": "2064885694",
+          "DOI": "10.1214/11-BA601REJ",
+          "CorpusId": 121957178
+        },
+        "url": "https://www.semanticscholar.org/paper/daa3840717ae71a3a0f4a54bf5446203e627562f",
+        "title": "Rejoinder: \"Data augmentation for support vector machines\"",
+        "venue": "",
+        "year": 2011,
+        "referenceCount": 0,
+        "citationCount": 4,
+        "authors": [
+          {
+            "authorId": "2085638",
+            "name": "Nicholas G. Polson"
+          },
+          {
+            "authorId": "3124107",
+            "name": "S. L. Scott"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "bc1f68c43fbdc70f0214cc0de9f5b0adaefd46cc",
+        "externalIds": {
+          "MAG": "2125394697",
+          "DBLP": "journals/tnn/FuRZ10",
+          "DOI": "10.1109/TNN.2010.2080319",
+          "CorpusId": 5811408,
+          "PubMed": "21075726"
+        },
+        "url": "https://www.semanticscholar.org/paper/bc1f68c43fbdc70f0214cc0de9f5b0adaefd46cc",
+        "title": "Mixing Linear SVMs for Nonlinear Classification",
+        "venue": "IEEE Transactions on Neural Networks",
+        "year": 2010,
+        "referenceCount": 38,
+        "citationCount": 94,
+        "authors": [
+          {
+            "authorId": "3081391",
+            "name": "Zhouyu Fu"
+          },
+          {
+            "authorId": "1398981145",
+            "name": "A. Robles-Kelly"
+          },
+          {
+            "authorId": "38291411",
+            "name": "J. Zhou"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "51d88925443329a35e9afe25a4b9cdbc4fd8e04d",
+        "externalIds": {
+          "MAG": "2114169935",
+          "DOI": "10.1093/BIOMET/ASQ017",
+          "CorpusId": 378688
+        },
+        "url": "https://www.semanticscholar.org/paper/51d88925443329a35e9afe25a4b9cdbc4fd8e04d",
+        "title": "The horseshoe estimator for sparse signals",
+        "venue": "",
+        "year": 2010,
+        "referenceCount": 54,
+        "citationCount": 1529,
+        "authors": [
+          {
+            "authorId": "122657211",
+            "name": "C. Carvalho"
+          },
+          {
+            "authorId": "2085638",
+            "name": "Nicholas G. Polson"
+          },
+          {
+            "authorId": "145516664",
+            "name": "James G. Scott"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "4f22137d5c1c168108b50e3c0a9bf2022989bc45",
+        "externalIds": {
+          "MAG": "1579303078",
+          "DOI": "10.1007/978-0-387-92407-6",
+          "CorpusId": 60995805
+        },
+        "url": "https://www.semanticscholar.org/paper/4f22137d5c1c168108b50e3c0a9bf2022989bc45",
+        "title": "A First Course in Bayesian Statistical Methods",
+        "venue": "",
+        "year": 2009,
+        "referenceCount": 103,
+        "citationCount": 853,
+        "authors": [
+          {
+            "authorId": "33836881",
+            "name": "P. Hoff"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "9d65ba8bb20ae6dd001b9833c525c279dfe18916",
+        "externalIds": {
+          "MAG": "2953139536",
+          "ArXiv": "0809.3083",
+          "DBLP": "conf/nips/MairalBPSZ08",
+          "CorpusId": 682971
+        },
+        "url": "https://www.semanticscholar.org/paper/9d65ba8bb20ae6dd001b9833c525c279dfe18916",
+        "title": "Supervised Dictionary Learning",
+        "venue": "Neural Information Processing Systems",
+        "year": 2008,
+        "referenceCount": 27,
+        "citationCount": 1200,
+        "authors": [
+          {
+            "authorId": "2599292",
+            "name": "J. Mairal"
+          },
+          {
+            "authorId": "144570279",
+            "name": "F. Bach"
+          },
+          {
+            "authorId": "144189388",
+            "name": "J. Ponce"
+          },
+          {
+            "authorId": "1699339",
+            "name": "G. Sapiro"
+          },
+          {
+            "authorId": "1688869",
+            "name": "Andrew Zisserman"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "cd2d28b4ff8c274418a21c90a6ee838bb46fc14a",
+        "externalIds": {
+          "DBLP": "conf/nips/WipfN07",
+          "MAG": "2171980229",
+          "CorpusId": 9583791
+        },
+        "url": "https://www.semanticscholar.org/paper/cd2d28b4ff8c274418a21c90a6ee838bb46fc14a",
+        "title": "A New View of Automatic Relevance Determination",
+        "venue": "Neural Information Processing Systems",
+        "year": 2007,
+        "referenceCount": 17,
+        "citationCount": 394,
+        "authors": [
+          {
+            "authorId": "2242717",
+            "name": "D. Wipf"
+          },
+          {
+            "authorId": "1758601",
+            "name": "S. Nagarajan"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "81c9cb2c3c08070a80c7b26c288789084f70b43b",
+        "externalIds": {
+          "MAG": "2952505044",
+          "ArXiv": "math/0703292",
+          "DBLP": "journals/jmlr/ShahbabaN09",
+          "DOI": "10.5555/1577069.1755846",
+          "CorpusId": 2044597
+        },
+        "url": "https://www.semanticscholar.org/paper/81c9cb2c3c08070a80c7b26c288789084f70b43b",
+        "title": "Nonlinear Models Using Dirichlet Process Mixtures",
+        "venue": "Journal of machine learning research",
+        "year": 2007,
+        "referenceCount": 51,
+        "citationCount": 296,
+        "authors": [
+          {
+            "authorId": "2642138",
+            "name": "B. Shahbaba"
+          },
+          {
+            "authorId": "1764325",
+            "name": "Radford M. Neal"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "cea883ac7f1ef38c5b414f4f24b38507e96ac9b8",
+        "externalIds": {
+          "ArXiv": "math/0610413",
+          "MAG": "2953073631",
+          "DOI": "10.1214/07-AOAS107",
+          "CorpusId": 17972570
+        },
+        "url": "https://www.semanticscholar.org/paper/cea883ac7f1ef38c5b414f4f24b38507e96ac9b8",
+        "title": "Extending the rank likelihood for semiparametric copula estimation",
+        "venue": "",
+        "year": 2006,
+        "referenceCount": 40,
+        "citationCount": 311,
+        "authors": [
+          {
+            "authorId": "33836881",
+            "name": "P. Hoff"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "e996344199af190bdd47ee31a652e76811a5487b",
+        "externalIds": {
+          "MAG": "2127498532",
+          "DOI": "10.1214/06-BA104",
+          "CorpusId": 7327180
+        },
+        "url": "https://www.semanticscholar.org/paper/e996344199af190bdd47ee31a652e76811a5487b",
+        "title": "Variational inference for Dirichlet process mixtures",
+        "venue": "",
+        "year": 2006,
+        "referenceCount": 36,
+        "citationCount": 1596,
+        "authors": [
+          {
+            "authorId": "1694621",
+            "name": "Michael I. Jordan"
+          },
+          {
+            "authorId": "123333909",
+            "name": "Michael I. Jordan"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "fc8cda36a0972e7de1ac3a7bcb81dc32da79bee4",
+        "externalIds": {
+          "MAG": "2419658023",
+          "DOI": "10.1198/jasa.2003.s270",
+          "CorpusId": 7406938
+        },
+        "url": "https://www.semanticscholar.org/paper/fc8cda36a0972e7de1ac3a7bcb81dc32da79bee4",
+        "title": "Learning with Kernels: Support Vector Machines, Regularization, Optimization, and Beyond",
+        "venue": "IEEE Transactions on Neural Networks",
+        "year": 2003,
+        "referenceCount": 7,
+        "citationCount": 9645,
+        "authors": [
+          {
+            "authorId": "2285968829",
+            "name": "Christopher K. I. Williams"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "45db16309fbf7e9fc8907047e7e1a9933c4e1b85",
+        "externalIds": {
+          "MAG": "2072169887",
+          "DOI": "10.1198/016214501750332758",
+          "CorpusId": 12391796
+        },
+        "url": "https://www.semanticscholar.org/paper/45db16309fbf7e9fc8907047e7e1a9933c4e1b85",
+        "title": "Gibbs Sampling Methods for Stick-Breaking Priors",
+        "venue": "",
+        "year": 2001,
+        "referenceCount": 52,
+        "citationCount": 1791,
+        "authors": [
+          {
+            "authorId": "2741460",
+            "name": "Hemant Ishwaran"
+          },
+          {
+            "authorId": "40439165",
+            "name": "Lancelot F. James"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "91e62d27c08db29cf011a0326a61509e574cf772",
+        "externalIds": {
+          "MAG": "2080972498",
+          "DOI": "10.1080/10618600.2000.10474879",
+          "CorpusId": 12129013
+        },
+        "url": "https://www.semanticscholar.org/paper/91e62d27c08db29cf011a0326a61509e574cf772",
+        "title": "Markov Chain Sampling Methods for Dirichlet Process Mixture Models",
+        "venue": "",
+        "year": 2000,
+        "referenceCount": 22,
+        "citationCount": 2661,
+        "authors": [
+          {
+            "authorId": "1764325",
+            "name": "Radford M. Neal"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "da980c3511dabb8eaa39e3a53ff72dbd1adaeacc",
+        "externalIds": {
+          "MAG": "1485064981",
+          "DOI": "10.1016/S0304-4076(97)00108-5",
+          "CorpusId": 10969840
+        },
+        "url": "https://www.semanticscholar.org/paper/da980c3511dabb8eaa39e3a53ff72dbd1adaeacc",
+        "title": "Posterior Simulation and Bayes Factors in Panel Count Data Models",
+        "venue": "",
+        "year": 1998,
+        "referenceCount": 26,
+        "citationCount": 155,
+        "authors": [
+          {
+            "authorId": "3089732",
+            "name": "S. Chib"
+          },
+          {
+            "authorId": "119102140",
+            "name": "E. Greenberg"
+          },
+          {
+            "authorId": "36912821",
+            "name": "R. Winkelmann"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "23f5b46d40d95f42127db345e67a806fd7e36be5",
+        "externalIds": {
+          "MAG": "2086683118",
+          "DOI": "10.1093/BIOMET/79.2.271",
+          "CorpusId": 122388756
+        },
+        "url": "https://www.semanticscholar.org/paper/23f5b46d40d95f42127db345e67a806fd7e36be5",
+        "title": "Proper likelihoods for Bayesian analysis",
+        "venue": "",
+        "year": 1992,
+        "referenceCount": 10,
+        "citationCount": 125,
+        "authors": [
+          {
+            "authorId": "49059589",
+            "name": "J. Monahan"
+          },
+          {
+            "authorId": "1683677",
+            "name": "D. Boos"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "5575138cb089c441a55f07c4c5471216a8e19559",
+        "externalIds": {
+          "MAG": "2513199785",
+          "CorpusId": 58162990
+        },
+        "url": "https://www.semanticscholar.org/paper/5575138cb089c441a55f07c4c5471216a8e19559",
+        "title": "Nonparametrics Statistical Methods Based On Ranks",
+        "venue": "",
+        "year": 2016,
+        "referenceCount": 0,
+        "citationCount": 723,
+        "authors": [
+          {
+            "authorId": "144314172",
+            "name": "Marie Schmidt"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "57e7a7323f58a35f5e2cc33bf17d4ac9cdcafdd4",
+        "externalIds": {
+          "MAG": "2755095224",
+          "DOI": "10.1038/nprot.2008.211",
+          "CorpusId": 10418677,
+          "PubMed": "19131956"
+        },
+        "url": "https://www.semanticscholar.org/paper/57e7a7323f58a35f5e2cc33bf17d4ac9cdcafdd4",
+        "title": "Systematic and integrative analysis of large gene lists using DAVID bioinformatics resources",
+        "venue": "Nature Protocols",
+        "year": 2008,
+        "referenceCount": 16,
+        "citationCount": 34801,
+        "authors": [
+          {
+            "authorId": "31121189",
+            "name": "D. Huang"
+          },
+          {
+            "authorId": "3295650",
+            "name": "Brad T. Sherman"
+          },
+          {
+            "authorId": "3047801",
+            "name": "R. Lempicki"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "3ce9da2d2182a2fbc4b460bdb56d3c34110b3e39",
+        "externalIds": {
+          "MAG": "2139701068",
+          "DOI": "10.1088/0954-898X_6_3_011",
+          "CorpusId": 14332165
+        },
+        "url": "https://www.semanticscholar.org/paper/3ce9da2d2182a2fbc4b460bdb56d3c34110b3e39",
+        "title": "Probable networks and plausible predictions - a review of practical Bayesian methods for supervised neural networks",
+        "venue": "",
+        "year": 1995,
+        "referenceCount": 54,
+        "citationCount": 1036,
+        "authors": [
+          {
+            "authorId": "145852650",
+            "name": "D. MacKay"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "a60205c82d5f6cf6897edabce94f707c9e3ea185",
+        "externalIds": {
+          "MAG": "2905400547",
+          "DOI": "10.1111/J.2517-6161.1982.TB01204.X",
+          "CorpusId": 126045873
+        },
+        "url": "https://www.semanticscholar.org/paper/a60205c82d5f6cf6897edabce94f707c9e3ea185",
+        "title": "Inference for the Linear Model Using a Likelihood Based on Ranks",
+        "venue": "",
+        "year": 1982,
+        "referenceCount": 4,
+        "citationCount": 133,
+        "authors": [
+          {
+            "authorId": "1783985",
+            "name": "A. Pettitt"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "We extend the discriminative factor model to nonlinear decision functions, through a mixture of local linear classifiers",
+        "venue": "We extend the discriminative factor model to nonlinear decision functions, through a mixture of local linear classifiers",
+        "year": null,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "Table : AUC, accuracy and runtime(s) for RNAseq data",
+        "venue": "Table : AUC, accuracy and runtime(s) for RNAseq data",
+        "year": null,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "SeD vs. SeS 0.76±0.05, 0.70 0.76±0.01, 0.75 0.82±0.02, 0.78 SIRS vs. SeS 0.75±0.02, 0.71 0.87±0.01, 0.71 0.91±0.01, 0.87 One fold time 179 175",
+        "venue": "SeD vs. SeS 0.76±0.05, 0.70 0.76±0.01, 0.75 0.82±0.02, 0.78 SIRS vs. SeS 0.75±0.02, 0.71 0.87±0.01, 0.71 0.91±0.01, 0.87 One fold time 179 175",
+        "year": null,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "We propose a discriminative factor model by integrating max-margin rank-likelihood",
+        "venue": "We propose a discriminative factor model by integrating max-margin rank-likelihood",
+        "year": null,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "Non-Gaussian Discriminative Factor Models via the Max-Margin Rank-Likelihood",
+        "venue": "Non-Gaussian Discriminative Factor Models via the Max-Margin Rank-Likelihood",
+        "year": 2015,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "Max-Margin Rank-Likelihood",
+        "venue": "Max-Margin Rank-Likelihood",
+        "year": null,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "A constructive definition of the Dirichlet prior",
+        "venue": "Statistica Sinica,",
+        "year": 2001,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    }
+  ]
+}

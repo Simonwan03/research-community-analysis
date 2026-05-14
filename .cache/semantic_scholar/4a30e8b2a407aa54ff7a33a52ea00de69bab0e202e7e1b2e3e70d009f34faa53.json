@@ -1,0 +1,281 @@
+{
+  "total": 1270,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "f20c4f7373199d5c911dadae00235259ee18bbff",
+      "externalIds": {
+        "DBLP": "journals/corr/LanPZZ17",
+        "MAG": "2602842841",
+        "ArXiv": "1703.05840",
+        "CorpusId": 5185483
+      },
+      "url": "https://www.semanticscholar.org/paper/f20c4f7373199d5c911dadae00235259ee18bbff",
+      "title": "Conditional Accelerated Lazy Stochastic Gradient Descent",
+      "venue": "International Conference on Machine Learning",
+      "year": 2017,
+      "referenceCount": 33,
+      "citationCount": 29,
+      "authors": [
+        {
+          "authorId": "2070945",
+          "name": "Guanghui Lan"
+        },
+        {
+          "authorId": "145729210",
+          "name": "S. Pokutta"
+        },
+        {
+          "authorId": "2118764630",
+          "name": "Yi Zhou"
+        },
+        {
+          "authorId": "143825751",
+          "name": "Daniel Zink"
+        }
+      ]
+    },
+    {
+      "paperId": "9115cd190c2a83672a77c3660f7e6d660eea3c82",
+      "externalIds": {
+        "DBLP": "journals/tbd/QinLZ24",
+        "DOI": "10.1109/TBDATA.2023.3326304",
+        "CorpusId": 264456469
+      },
+      "url": "https://www.semanticscholar.org/paper/9115cd190c2a83672a77c3660f7e6d660eea3c82",
+      "title": "Adaptively-Accelerated Parallel Stochastic Gradient Descent for High-Dimensional and Incomplete Data Representation Learning",
+      "venue": "IEEE Transactions on Big Data",
+      "year": 2024,
+      "referenceCount": 66,
+      "citationCount": 63,
+      "authors": [
+        {
+          "authorId": "2056208877",
+          "name": "Wen Qin"
+        },
+        {
+          "authorId": "2115605992",
+          "name": "Xin Luo"
+        },
+        {
+          "authorId": "2152967237",
+          "name": "Mengchu Zhou"
+        }
+      ]
+    },
+    {
+      "paperId": "66d6d84f3c2e8d555edfa7f0453c58a38a023451",
+      "externalIds": {
+        "DBLP": "journals/tsp/ZhangJG25",
+        "DOI": "10.1109/TSP.2025.3528217",
+        "CorpusId": 275448563
+      },
+      "url": "https://www.semanticscholar.org/paper/66d6d84f3c2e8d555edfa7f0453c58a38a023451",
+      "title": "Adaptive Polyak Step-Size for Momentum Accelerated Stochastic Gradient Descent With General Convergence Guarantee",
+      "venue": "IEEE Transactions on Signal Processing",
+      "year": 2025,
+      "referenceCount": 43,
+      "citationCount": 4,
+      "authors": [
+        {
+          "authorId": "2277687098",
+          "name": "Jiawei Zhang"
+        },
+        {
+          "authorId": "2239069850",
+          "name": "Cheng Jin"
+        },
+        {
+          "authorId": "2277904763",
+          "name": "Yuantao Gu"
+        }
+      ]
+    },
+    {
+      "paperId": "7c5d8e3c155953c9ef6be140dc6d88f4bde91eb0",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2505-07046",
+        "ArXiv": "2505.07046",
+        "DOI": "10.48550/arXiv.2505.07046",
+        "CorpusId": 278501826
+      },
+      "url": "https://www.semanticscholar.org/paper/7c5d8e3c155953c9ef6be140dc6d88f4bde91eb0",
+      "title": "Streaming Krylov-Accelerated Stochastic Gradient Descent",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "referenceCount": 11,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2312001221",
+          "name": "Stephen J. Thomas"
+        }
+      ]
+    },
+    {
+      "paperId": "6632a9f96f8074743985b9c99bbb26ad922ad327",
+      "externalIds": {
+        "DBLP": "conf/icnsc/HuW24a",
+        "DOI": "10.1109/ICNSC62968.2024.10759927",
+        "CorpusId": 274374261
+      },
+      "url": "https://www.semanticscholar.org/paper/6632a9f96f8074743985b9c99bbb26ad922ad327",
+      "title": "Accelerated Asynchronous Parallel Stochastic Gradient Descent Algorithm for High-Dimensional and Sparse Data Low-rank Representation",
+      "venue": "International Conference on Networking, Sensing and Control",
+      "year": 2024,
+      "referenceCount": 37,
+      "citationCount": 4,
+      "authors": [
+        {
+          "authorId": "2313970117",
+          "name": "Qicong Hu"
+        },
+        {
+          "authorId": "2318470537",
+          "name": "Hao Wu"
+        }
+      ]
+    },
+    {
+      "paperId": "351adc559af8c8ecfe361606c708adc9a6bb9683",
+      "externalIds": {
+        "ArXiv": "2408.16592",
+        "DBLP": "journals/corr/abs-2408-16592",
+        "DOI": "10.48550/arXiv.2408.16592",
+        "CorpusId": 272146332
+      },
+      "url": "https://www.semanticscholar.org/paper/351adc559af8c8ecfe361606c708adc9a6bb9683",
+      "title": "High-Dimensional Sparse Data Low-rank Representation via Accelerated Asynchronous Parallel Stochastic Gradient Descent",
+      "venue": "arXiv.org",
+      "year": 2024,
+      "referenceCount": 92,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2313970117",
+          "name": "Qicong Hu"
+        },
+        {
+          "authorId": "2318470537",
+          "name": "Hao Wu"
+        }
+      ]
+    },
+    {
+      "paperId": "b022f2a277a4bf5f42382e86e4380b96340b9e86",
+      "externalIds": {
+        "MAG": "2963263347",
+        "ArXiv": "1608.03983",
+        "DBLP": "conf/iclr/LoshchilovH17",
+        "CorpusId": 14337532
+      },
+      "url": "https://www.semanticscholar.org/paper/b022f2a277a4bf5f42382e86e4380b96340b9e86",
+      "title": "SGDR: Stochastic Gradient Descent with Warm Restarts",
+      "venue": "International Conference on Learning Representations",
+      "year": 2016,
+      "referenceCount": 42,
+      "citationCount": 10267,
+      "authors": [
+        {
+          "authorId": "1678656",
+          "name": "I. Loshchilov"
+        },
+        {
+          "authorId": "144661829",
+          "name": "F. Hutter"
+        }
+      ]
+    },
+    {
+      "paperId": "bed75393db4c3216470f93d7ec21803ec40b3c72",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2302-00849",
+        "ArXiv": "2302.00849",
+        "DOI": "10.48550/arXiv.2302.00849",
+        "CorpusId": 256503815
+      },
+      "url": "https://www.semanticscholar.org/paper/bed75393db4c3216470f93d7ec21803ec40b3c72",
+      "title": "Implicit regularization in Heavy-ball momentum accelerated stochastic gradient descent",
+      "venue": "International Conference on Learning Representations",
+      "year": 2023,
+      "referenceCount": 33,
+      "citationCount": 29,
+      "authors": [
+        {
+          "authorId": "150013952",
+          "name": "Avrajit Ghosh"
+        },
+        {
+          "authorId": "47066925",
+          "name": "He Lyu"
+        },
+        {
+          "authorId": "1601013874",
+          "name": "Xitong Zhang"
+        },
+        {
+          "authorId": "2155888078",
+          "name": "Rongrong Wang"
+        }
+      ]
+    },
+    {
+      "paperId": "e794035a363220b31f462c2fedea8ac6b131e8b8",
+      "externalIds": {
+        "DBLP": "journals/jota/WangCH23",
+        "DOI": "10.1007/s10957-023-02193-5",
+        "CorpusId": 257636291
+      },
+      "url": "https://www.semanticscholar.org/paper/e794035a363220b31f462c2fedea8ac6b131e8b8",
+      "title": "Accelerated Doubly Stochastic Gradient Descent for Tensor CP Decomposition",
+      "venue": "Journal of Optimization Theory and Applications",
+      "year": 2023,
+      "referenceCount": 49,
+      "citationCount": 6,
+      "authors": [
+        {
+          "authorId": "2109085747",
+          "name": "Qingsong Wang"
+        },
+        {
+          "authorId": "2086739465",
+          "name": "Chunfeng Cui"
+        },
+        {
+          "authorId": "1752228",
+          "name": "Deren Han"
+        }
+      ]
+    },
+    {
+      "paperId": "04ba9ecf7795ccfd81b92a6612e4be2cfed38d91",
+      "externalIds": {
+        "ArXiv": "2503.01660",
+        "DBLP": "journals/corr/abs-2503-01660",
+        "DOI": "10.48550/arXiv.2503.01660",
+        "CorpusId": 276776833
+      },
+      "url": "https://www.semanticscholar.org/paper/04ba9ecf7795ccfd81b92a6612e4be2cfed38d91",
+      "title": "Non-convergence to the optimal risk for Adam and stochastic gradient descent optimization in the training of deep neural networks",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "referenceCount": 40,
+      "citationCount": 4,
+      "authors": [
+        {
+          "authorId": "2342408976",
+          "name": "Thang Do"
+        },
+        {
+          "authorId": "3151729",
+          "name": "Arnulf Jentzen"
+        },
+        {
+          "authorId": "2037487509",
+          "name": "Adrian Riekert"
+        }
+      ]
+    }
+  ]
+}

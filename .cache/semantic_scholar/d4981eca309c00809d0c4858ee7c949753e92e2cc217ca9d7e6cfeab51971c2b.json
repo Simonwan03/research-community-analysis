@@ -1,0 +1,296 @@
+{
+  "total": 169,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "133c1f5ebc8a9baf716383771d15b32378539cc2",
+      "externalIds": {
+        "ArXiv": "1511.05467",
+        "MAG": "2221104225",
+        "DBLP": "conf/icml/Hernandez-Lobato16",
+        "CorpusId": 260551432
+      },
+      "url": "https://www.semanticscholar.org/paper/133c1f5ebc8a9baf716383771d15b32378539cc2",
+      "title": "Predictive Entropy Search for Multi-objective Bayesian Optimization",
+      "venue": "International Conference on Machine Learning",
+      "year": 2015,
+      "referenceCount": 40,
+      "citationCount": 225,
+      "authors": [
+        {
+          "authorId": "1388574404",
+          "name": "D. Hernández-Lobato"
+        },
+        {
+          "authorId": "1388574431",
+          "name": "José Miguel Hernández-Lobato"
+        },
+        {
+          "authorId": "2244796",
+          "name": "Amar Shah"
+        },
+        {
+          "authorId": "1722180",
+          "name": "Ryan P. Adams"
+        }
+      ]
+    },
+    {
+      "paperId": "00c9a40b17bdadb5b29de663ef5dd0b5cae32a94",
+      "externalIds": {
+        "MAG": "2507981315",
+        "ArXiv": "1609.01051",
+        "DBLP": "journals/ijon/Garrido-Merchan19",
+        "DOI": "10.1016/J.NEUCOM.2019.06.025",
+        "CorpusId": 6653028
+      },
+      "url": "https://www.semanticscholar.org/paper/00c9a40b17bdadb5b29de663ef5dd0b5cae32a94",
+      "title": "Predictive Entropy Search for Multi-objective Bayesian Optimization with Constraints",
+      "venue": "Neurocomputing",
+      "year": 2016,
+      "referenceCount": 44,
+      "citationCount": 115,
+      "authors": [
+        {
+          "authorId": "2064184537",
+          "name": "Daniel Hern'andez-Lobato"
+        },
+        {
+          "authorId": "1388574431",
+          "name": "José Miguel Hernández-Lobato"
+        },
+        {
+          "authorId": "2244796",
+          "name": "Amar Shah"
+        },
+        {
+          "authorId": "1722180",
+          "name": "Ryan P. Adams"
+        }
+      ]
+    },
+    {
+      "paperId": "9f5d0f77e9384062c5ce21c9b862649551b12944",
+      "externalIds": {
+        "ArXiv": "2004.00601",
+        "DBLP": "journals/corr/abs-2004-00601",
+        "MAG": "3082770863",
+        "CorpusId": 214743051
+      },
+      "url": "https://www.semanticscholar.org/paper/9f5d0f77e9384062c5ce21c9b862649551b12944",
+      "title": "Parallel Predictive Entropy Search for Multi-objective Bayesian Optimization with Constraints",
+      "venue": "arXiv.org",
+      "year": 2020,
+      "referenceCount": 40,
+      "citationCount": 17,
+      "authors": [
+        {
+          "authorId": "1398645148",
+          "name": "E.C. Garrido-Merchán"
+        },
+        {
+          "authorId": "2064184537",
+          "name": "Daniel Hern'andez-Lobato"
+        }
+      ]
+    },
+    {
+      "paperId": "f9a7adc75ffe698688c3ee14e5196c57d69b1648",
+      "externalIds": {
+        "DBLP": "journals/eswa/GarridoMerchanFH23",
+        "DOI": "10.1016/j.eswa.2022.119328",
+        "CorpusId": 260536266
+      },
+      "url": "https://www.semanticscholar.org/paper/f9a7adc75ffe698688c3ee14e5196c57d69b1648",
+      "title": "Parallel predictive entropy search for multi-objective Bayesian optimization with constraints applied to the tuning of machine learning algorithms",
+      "venue": "Expert systems with applications",
+      "year": 2022,
+      "referenceCount": 16,
+      "citationCount": 20,
+      "authors": [
+        {
+          "authorId": "1398645148",
+          "name": "E.C. Garrido-Merchán"
+        },
+        {
+          "authorId": "2228332500",
+          "name": "Daniel Fernández-Sánchez"
+        },
+        {
+          "authorId": "1388574404",
+          "name": "D. Hernández-Lobato"
+        }
+      ]
+    },
+    {
+      "paperId": "b31eb6a39ef0f63f2d28f37a81b99c0946f81d3f",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2501-19073",
+        "ArXiv": "2501.19073",
+        "DOI": "10.48550/arXiv.2501.19073",
+        "CorpusId": 276079750
+      },
+      "url": "https://www.semanticscholar.org/paper/b31eb6a39ef0f63f2d28f37a81b99c0946f81d3f",
+      "title": "Pareto-frontier Entropy Search with Variational Lower Bound Maximization",
+      "venue": "International Conference on Machine Learning",
+      "year": 2025,
+      "referenceCount": 42,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "2343505399",
+          "name": "Masanori Ishikura"
+        },
+        {
+          "authorId": "2343504268",
+          "name": "Masayuki Karasuyama"
+        }
+      ]
+    },
+    {
+      "paperId": "09d50d969baa82bd51cac02339eb55830287f475",
+      "externalIds": {
+        "MAG": "3156382156",
+        "DOI": "10.3390/ELECTRONICS10080963",
+        "CorpusId": 234816376
+      },
+      "url": "https://www.semanticscholar.org/paper/09d50d969baa82bd51cac02339eb55830287f475",
+      "title": "A Bayesian Optimization Approach for Multi-Function Estimation for Environmental Monitoring Using an Autonomous Surface Vehicle: Ypacarai Lake Case Study",
+      "venue": "Electronics",
+      "year": 2021,
+      "referenceCount": 28,
+      "citationCount": 15,
+      "authors": [
+        {
+          "authorId": "1569757922",
+          "name": "Federico Peralta"
+        },
+        {
+          "authorId": "65836546",
+          "name": "D. Reina"
+        },
+        {
+          "authorId": "3513416",
+          "name": "S. Toral"
+        },
+        {
+          "authorId": "3162679",
+          "name": "M. Arzamendia"
+        },
+        {
+          "authorId": "40348023",
+          "name": "D. Gregor"
+        }
+      ]
+    },
+    {
+      "paperId": "73a8deacb1af478ed2a0515d6575c5b28fea5cc2",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-1906-07277",
+        "MAG": "2965973836",
+        "ArXiv": "1906.07277",
+        "CorpusId": 189998885
+      },
+      "url": "https://www.semanticscholar.org/paper/73a8deacb1af478ed2a0515d6575c5b28fea5cc2",
+      "title": "Bayesian Optimization with Binary Auxiliary Information",
+      "venue": "Conference on Uncertainty in Artificial Intelligence",
+      "year": 2019,
+      "referenceCount": 42,
+      "citationCount": 27,
+      "authors": [
+        {
+          "authorId": "72095066",
+          "name": "Yehong Zhang"
+        },
+        {
+          "authorId": "3042111",
+          "name": "Zhongxiang Dai"
+        },
+        {
+          "authorId": "145454065",
+          "name": "K. H. Low"
+        }
+      ]
+    },
+    {
+      "paperId": "4d720afc8af72f3cd49d24f812f378d8aa13a2c4",
+      "externalIds": {
+        "DBLP": "conf/iccns/ZhangZM023",
+        "DOI": "10.1145/3638782.3638821",
+        "CorpusId": 269272357
+      },
+      "url": "https://www.semanticscholar.org/paper/4d720afc8af72f3cd49d24f812f378d8aa13a2c4",
+      "title": "Multi-UAVs Cooperative Target Search with Communication Constraint",
+      "venue": "International Conference on Communication and Network Security",
+      "year": 2023,
+      "referenceCount": 16,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2321801977",
+          "name": "Yang Zhang"
+        },
+        {
+          "authorId": "2297511465",
+          "name": "Bo Zhang"
+        },
+        {
+          "authorId": "2114188366",
+          "name": "Te Ma"
+        },
+        {
+          "authorId": "2261358962",
+          "name": "Jie Hu"
+        }
+      ]
+    },
+    {
+      "paperId": "fba34dd362e432e141c46288f4870741773da1a6",
+      "externalIds": {
+        "CorpusId": 212412105
+      },
+      "url": "https://www.semanticscholar.org/paper/fba34dd362e432e141c46288f4870741773da1a6",
+      "title": "Automatic Parameter Tuning of Algorithms using Optimization",
+      "venue": "",
+      "year": 2017,
+      "referenceCount": 25,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "2302881184",
+          "name": "J. Azevedo"
+        }
+      ]
+    },
+    {
+      "paperId": "c92baf094a118f0d8f953c150f6f23f693d9c05e",
+      "externalIds": {
+        "MAG": "3082081175",
+        "ArXiv": "2009.01721",
+        "DBLP": "journals/corr/abs-2009-01721",
+        "CorpusId": 202763409
+      },
+      "url": "https://www.semanticscholar.org/paper/c92baf094a118f0d8f953c150f6f23f693d9c05e",
+      "title": "Max-value Entropy Search for Multi-Objective Bayesian Optimization",
+      "venue": "Neural Information Processing Systems",
+      "year": 2020,
+      "referenceCount": 42,
+      "citationCount": 159,
+      "authors": [
+        {
+          "authorId": "11631312",
+          "name": "Syrine Belakaria"
+        },
+        {
+          "authorId": "151474453",
+          "name": "Aryan Deshwal"
+        },
+        {
+          "authorId": "2089333",
+          "name": "J. Doppa"
+        }
+      ]
+    }
+  ]
+}

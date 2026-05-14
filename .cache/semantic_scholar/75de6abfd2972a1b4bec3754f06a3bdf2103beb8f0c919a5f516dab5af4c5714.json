@@ -1,0 +1,300 @@
+{
+  "total": 83,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "ec3df5c05d0538de7f2d025428afe1fe4ab9e9b3",
+      "externalIds": {
+        "ArXiv": "1702.07958",
+        "MAG": "2739520872",
+        "DBLP": "conf/icml/BeygelzimerOZ17",
+        "CorpusId": 2331954
+      },
+      "url": "https://www.semanticscholar.org/paper/ec3df5c05d0538de7f2d025428afe1fe4ab9e9b3",
+      "title": "Efficient Online Bandit Multiclass Learning with Õ(√T) Regret",
+      "venue": "International Conference on Machine Learning",
+      "year": 2017,
+      "referenceCount": 35,
+      "citationCount": 21,
+      "authors": [
+        {
+          "authorId": "2624289",
+          "name": "A. Beygelzimer"
+        },
+        {
+          "authorId": "1721068",
+          "name": "Francesco Orabona"
+        },
+        {
+          "authorId": "40201729",
+          "name": "Chicheng Zhang"
+        }
+      ]
+    },
+    {
+      "paperId": "1af77b24c57ba3340b97be74fb15d97c03116af3",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2205-08234",
+        "ArXiv": "2205.08234",
+        "DOI": "10.1109/IJCNN54540.2023.10191245",
+        "CorpusId": 248834638
+      },
+      "url": "https://www.semanticscholar.org/paper/1af77b24c57ba3340b97be74fb15d97c03116af3",
+      "title": "Delaytron: Efficient Learning of Multiclass Classifiers with Delayed Bandit Feedbacks",
+      "venue": "IEEE International Joint Conference on Neural Network",
+      "year": 2022,
+      "referenceCount": 22,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "3222980",
+          "name": "Naresh Manwani"
+        },
+        {
+          "authorId": "2054506421",
+          "name": "Mudit Agarwal"
+        }
+      ]
+    },
+    {
+      "paperId": "0d63b11f9e0bd05a24da299f921fe37fb08f1b59",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2311-13180",
+        "ArXiv": "2311.13180",
+        "DOI": "10.48550/arXiv.2311.13180",
+        "CorpusId": 265352141
+      },
+      "url": "https://www.semanticscholar.org/paper/0d63b11f9e0bd05a24da299f921fe37fb08f1b59",
+      "title": "Provably Efficient High-Dimensional Bandit Learning with Batched Feedbacks",
+      "venue": "arXiv.org",
+      "year": 2023,
+      "referenceCount": 0,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "2266124380",
+          "name": "Jianqing Fan"
+        },
+        {
+          "authorId": "50218397",
+          "name": "Zhaoran Wang"
+        },
+        {
+          "authorId": "150358650",
+          "name": "Zhuoran Yang"
+        },
+        {
+          "authorId": "2105550407",
+          "name": "Chen Ye"
+        }
+      ]
+    },
+    {
+      "paperId": "870e33b76184453cdfb451f24af3d21625fabec0",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2512-00605",
+        "ArXiv": "2512.00605",
+        "DOI": "10.48550/arXiv.2512.00605",
+        "CorpusId": 283449773
+      },
+      "url": "https://www.semanticscholar.org/paper/870e33b76184453cdfb451f24af3d21625fabec0",
+      "title": "Efficient Matroid Bandit Linear Optimization Leveraging Unimodality",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "referenceCount": 22,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "1782163481",
+          "name": "Aurélien Delage"
+        },
+        {
+          "authorId": "2257303280",
+          "name": "Romaric Gaudel"
+        }
+      ]
+    },
+    {
+      "paperId": "a32589dee0893588d2b60f1ed7bd98089a97eeaf",
+      "externalIds": {
+        "ArXiv": "2301.10500",
+        "DBLP": "journals/corr/abs-2301-10500",
+        "DOI": "10.48550/arXiv.2301.10500",
+        "CorpusId": 256231088
+      },
+      "url": "https://www.semanticscholar.org/paper/a32589dee0893588d2b60f1ed7bd98089a97eeaf",
+      "title": "Banker Online Mirror Descent: A Universal Approach for Delayed Online Bandit Learning",
+      "venue": "International Conference on Machine Learning",
+      "year": 2023,
+      "referenceCount": 60,
+      "citationCount": 7,
+      "authors": [
+        {
+          "authorId": "2115784127",
+          "name": "Jiatai Huang"
+        },
+        {
+          "authorId": "2141764038",
+          "name": "Yan Dai"
+        },
+        {
+          "authorId": "2181791414",
+          "name": "Longbo Huang"
+        }
+      ]
+    },
+    {
+      "paperId": "1f0e250c93694faf84019f763f59e2b33a488efa",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2401-15520",
+        "ArXiv": "2401.15520",
+        "DOI": "10.48550/arXiv.2401.15520",
+        "CorpusId": 267312056
+      },
+      "url": "https://www.semanticscholar.org/paper/1f0e250c93694faf84019f763f59e2b33a488efa",
+      "title": "Oracle-Efficient Hybrid Online Learning with Unknown Distribution",
+      "venue": "Annual Conference Computational Learning Theory",
+      "year": 2024,
+      "referenceCount": 25,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "1387840957",
+          "name": "Changlong Wu"
+        },
+        {
+          "authorId": "2281746406",
+          "name": "Jin Sima"
+        },
+        {
+          "authorId": "1846657636",
+          "name": "Wojtek Szpankowski"
+        }
+      ]
+    },
+    {
+      "paperId": "742c7efbb398440000218efaa5963a1f183bcd42",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2503-19856",
+        "ArXiv": "2503.19856",
+        "DOI": "10.48550/arXiv.2503.19856",
+        "CorpusId": 277314050
+      },
+      "url": "https://www.semanticscholar.org/paper/742c7efbb398440000218efaa5963a1f183bcd42",
+      "title": "Capacity-Constrained Online Learning with Delays: Scheduling Frameworks and Regret Trade-offs",
+      "venue": "Annual Conference Computational Learning Theory",
+      "year": 2025,
+      "referenceCount": 49,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "2352018945",
+          "name": "Alexander Ryabchenko"
+        },
+        {
+          "authorId": "83703007",
+          "name": "Idan Attias"
+        },
+        {
+          "authorId": "2257304927",
+          "name": "Daniel M. Roy"
+        }
+      ]
+    },
+    {
+      "paperId": "4f6113d97949efdd94593652e44dd792046a8f73",
+      "externalIds": {
+        "DBLP": "journals/ton/LiLZW26",
+        "DOI": "10.1109/TON.2026.3669909",
+        "CorpusId": 286249344
+      },
+      "url": "https://www.semanticscholar.org/paper/4f6113d97949efdd94593652e44dd792046a8f73",
+      "title": "Communication-Efficient Decentralized Contextual $\\mathcal{X}$ -Armed Bandit Learning in Multi-Agent Stochastic Networks",
+      "venue": "IEEE Transactions on Networking",
+      "year": 2026,
+      "referenceCount": 60,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2300331832",
+          "name": "Youqi Li"
+        },
+        {
+          "authorId": "2278973056",
+          "name": "Fan Li"
+        },
+        {
+          "authorId": "2113326933",
+          "name": "Pan Zhou"
+        },
+        {
+          "authorId": "2153607095",
+          "name": "Yu Wang"
+        }
+      ]
+    },
+    {
+      "paperId": "1fc965cb10c5d976e66da4fe54da57413e77ba7e",
+      "externalIds": {
+        "MAG": "3039913305",
+        "DBLP": "conf/nips/NeuO21",
+        "ArXiv": "2007.01612",
+        "CorpusId": 220347620
+      },
+      "url": "https://www.semanticscholar.org/paper/1fc965cb10c5d976e66da4fe54da57413e77ba7e",
+      "title": "Online learning in MDPs with linear function approximation and bandit feedback",
+      "venue": "Neural Information Processing Systems",
+      "year": 2020,
+      "referenceCount": 59,
+      "citationCount": 39,
+      "authors": [
+        {
+          "authorId": "1741549",
+          "name": "Gergely Neu"
+        },
+        {
+          "authorId": "1388784175",
+          "name": "Julia Olkhovskaya"
+        }
+      ]
+    },
+    {
+      "paperId": "d4622d1c7f0b27d65da9e0001bfe1b576d1156f1",
+      "externalIds": {
+        "ArXiv": "2406.07992",
+        "DBLP": "journals/corr/abs-2406-07992",
+        "DOI": "10.1109/TMC.2024.3453250",
+        "CorpusId": 270391290
+      },
+      "url": "https://www.semanticscholar.org/paper/d4622d1c7f0b27d65da9e0001bfe1b576d1156f1",
+      "title": "A Federated Online Restless Bandit Framework for Cooperative Resource Allocation",
+      "venue": "IEEE Transactions on Mobile Computing",
+      "year": 2024,
+      "referenceCount": 44,
+      "citationCount": 4,
+      "authors": [
+        {
+          "authorId": "3257888",
+          "name": "Jingwen Tong"
+        },
+        {
+          "authorId": "2276448213",
+          "name": "Xinran Li"
+        },
+        {
+          "authorId": "2306750426",
+          "name": "Liqun Fu"
+        },
+        {
+          "authorId": "2294227891",
+          "name": "Jun Zhang"
+        },
+        {
+          "authorId": "145142172",
+          "name": "K. Letaief"
+        }
+      ]
+    }
+  ]
+}

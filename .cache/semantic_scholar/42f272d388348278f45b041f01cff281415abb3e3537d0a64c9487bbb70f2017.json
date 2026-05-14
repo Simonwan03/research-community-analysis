@@ -1,0 +1,313 @@
+{
+  "total": 25,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "ed4be864e9ee26e80736d30e526d519619bce893",
+      "externalIds": {
+        "DBLP": "journals/corr/BernsteinMSSHM17",
+        "MAG": "2951861365",
+        "ArXiv": "1706.04646",
+        "CorpusId": 2334513
+      },
+      "url": "https://www.semanticscholar.org/paper/ed4be864e9ee26e80736d30e526d519619bce893",
+      "title": "Differentially Private Learning of Undirected Graphical Models Using Collective Graphical Models",
+      "venue": "International Conference on Machine Learning",
+      "year": 2017,
+      "referenceCount": 39,
+      "citationCount": 27,
+      "authors": [
+        {
+          "authorId": "3151924",
+          "name": "G. Bernstein"
+        },
+        {
+          "authorId": "35836504",
+          "name": "Ryan McKenna"
+        },
+        {
+          "authorId": "2088150138",
+          "name": "Tao Sun"
+        },
+        {
+          "authorId": "144799908",
+          "name": "D. Sheldon"
+        },
+        {
+          "authorId": "145256244",
+          "name": "Michael Hay"
+        },
+        {
+          "authorId": "1729605",
+          "name": "G. Miklau"
+        }
+      ]
+    },
+    {
+      "paperId": "43ed5f1cd4f42d0470eedb507875a40092bb93f6",
+      "externalIds": {
+        "DBLP": "conf/icml/0001RJ20",
+        "MAG": "2947743330",
+        "ArXiv": "1905.12813",
+        "CorpusId": 170078702
+      },
+      "url": "https://www.semanticscholar.org/paper/43ed5f1cd4f42d0470eedb507875a40092bb93f6",
+      "title": "Data-Dependent Differentially Private Parameter Learning for Directed Graphical Models",
+      "venue": "International Conference on Machine Learning",
+      "year": 2019,
+      "referenceCount": 56,
+      "citationCount": 11,
+      "authors": [
+        {
+          "authorId": "118088889",
+          "name": "Amrita Roy Chowdhury"
+        },
+        {
+          "authorId": "145071799",
+          "name": "Theodoros Rekatsinas"
+        },
+        {
+          "authorId": "1680133",
+          "name": "S. Jha"
+        }
+      ]
+    },
+    {
+      "paperId": "cf2b2edd8cbd1015b43f38c10aee6cd6db39e312",
+      "externalIds": {
+        "MAG": "2191146066",
+        "DBLP": "conf/psd/KarwaS12",
+        "ArXiv": "1205.4697",
+        "DOI": "10.1214/15-AOS1358",
+        "CorpusId": 18181308
+      },
+      "url": "https://www.semanticscholar.org/paper/cf2b2edd8cbd1015b43f38c10aee6cd6db39e312",
+      "title": "Differentially Private Graphical Degree Sequences and Synthetic Graphs",
+      "venue": "Privacy in Statistical Databases",
+      "year": 2012,
+      "referenceCount": 60,
+      "citationCount": 115,
+      "authors": [
+        {
+          "authorId": "3220046",
+          "name": "Vishesh Karwa"
+        },
+        {
+          "authorId": "40038267",
+          "name": "A. Slavkovic"
+        }
+      ]
+    },
+    {
+      "paperId": "8462c294e3eb07dfc64889e15d0352c39c2e02c7",
+      "externalIds": {
+        "CorpusId": 221507418
+      },
+      "url": "https://www.semanticscholar.org/paper/8462c294e3eb07dfc64889e15d0352c39c2e02c7",
+      "title": "Collective Bio-Entity Recognition in Scientific Documents using Hinge-Loss Markov Random Fields",
+      "venue": "",
+      "year": 2020,
+      "referenceCount": 24,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2107270671",
+          "name": "A. Miller"
+        }
+      ]
+    },
+    {
+      "paperId": "6a9f3b8701f2b45a8b7c936a8ac3de7f43920dac",
+      "externalIds": {
+        "ArXiv": "2504.00758",
+        "DBLP": "conf/pkdd/AndreyBT25",
+        "DOI": "10.1007/978-3-032-06096-9_12",
+        "CorpusId": 277468566
+      },
+      "url": "https://www.semanticscholar.org/paper/6a9f3b8701f2b45a8b7c936a8ac3de7f43920dac",
+      "title": "TAMIS: Tailored Membership Inference Attacks on Synthetic Data",
+      "venue": "ECML/PKDD",
+      "year": 2025,
+      "referenceCount": 24,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2353080944",
+          "name": "Paul Andrey"
+        },
+        {
+          "authorId": "70034191",
+          "name": "B. L. Bars"
+        },
+        {
+          "authorId": "2275611700",
+          "name": "M. Tommasi"
+        }
+      ]
+    },
+    {
+      "paperId": "91f1a95d0c1f1c9d7fc1b8d4b8d622ab3fdb9b70",
+      "externalIds": {
+        "PubMedCentral": "12795151",
+        "DOI": "10.1093/ehjdh/ztaf143.026",
+        "CorpusId": 284701389
+      },
+      "url": "https://www.semanticscholar.org/paper/91f1a95d0c1f1c9d7fc1b8d4b8d622ab3fdb9b70",
+      "title": "CardioSynth: privacy-preserving generation and evaluation of multimodal synthetic data for cardiovascular research",
+      "venue": "European Heart Journal - Digital Health",
+      "year": 2026,
+      "referenceCount": 1,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2404275181",
+          "name": "K. Kechagias"
+        },
+        {
+          "authorId": "2316064097",
+          "name": "M. Miranda"
+        },
+        {
+          "authorId": "2380373790",
+          "name": "M. Garofalakis"
+        },
+        {
+          "authorId": "2404269764",
+          "name": "E. Morley-Fletcher"
+        },
+        {
+          "authorId": "2156374043",
+          "name": "Y. Ioannidis"
+        },
+        {
+          "authorId": "2287842842",
+          "name": "S. Bratieres"
+        },
+        {
+          "authorId": "2404267370",
+          "name": "M. Boonstra"
+        },
+        {
+          "authorId": "2255083627",
+          "name": "C. Capelli"
+        }
+      ]
+    },
+    {
+      "paperId": "fc1e4e79739a3a930083a777268c03b06b5bda77",
+      "externalIds": {
+        "MAG": "2121551152",
+        "DBLP": "journals/bioinformatics/GaoC15",
+        "DOI": "10.1093/bioinformatics/btv513",
+        "CorpusId": 30275373,
+        "PubMed": "26338766"
+      },
+      "url": "https://www.semanticscholar.org/paper/fc1e4e79739a3a930083a777268c03b06b5bda77",
+      "title": "Learning directed acyclic graphical structures with genetical genomics data",
+      "venue": "Bioinform.",
+      "year": 2015,
+      "referenceCount": 24,
+      "citationCount": 22,
+      "authors": [
+        {
+          "authorId": "143701478",
+          "name": "Bin Gao"
+        },
+        {
+          "authorId": "1808011",
+          "name": "Yuehua Cui"
+        }
+      ]
+    },
+    {
+      "paperId": "d719805ce98004ef2d8de0840f65546646c6e225",
+      "externalIds": {
+        "ArXiv": "2507.19116",
+        "DBLP": "journals/corr/abs-2507-19116",
+        "DOI": "10.48550/arXiv.2507.19116",
+        "CorpusId": 280045521
+      },
+      "url": "https://www.semanticscholar.org/paper/d719805ce98004ef2d8de0840f65546646c6e225",
+      "title": "Graph Structure Learning with Privacy Guarantees for Open Graph Data",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "referenceCount": 66,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2154681014",
+          "name": "Muhao Guo"
+        },
+        {
+          "authorId": "2247758086",
+          "name": "Jiaqi Wu"
+        },
+        {
+          "authorId": "2265967730",
+          "name": "Yang Weng"
+        },
+        {
+          "authorId": "4686487",
+          "name": "Y. Liao"
+        },
+        {
+          "authorId": "2374338980",
+          "name": "Shengzhe Chen"
+        }
+      ]
+    },
+    {
+      "paperId": "b71096b873ea5f64c5ad544dc1aece947376ccda",
+      "externalIds": {
+        "DBLP": "journals/entropy/BejosMSC25",
+        "DOI": "10.3390/e28010004",
+        "CorpusId": 284100659,
+        "PubMed": "41593911"
+      },
+      "url": "https://www.semanticscholar.org/paper/b71096b873ea5f64c5ad544dc1aece947376ccda",
+      "title": "Single-Stage Causal Incentive Design via Optimal Interventions",
+      "venue": "Entropy",
+      "year": 2025,
+      "referenceCount": 0,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2376335833",
+          "name": "Sebastián Bejos"
+        },
+        {
+          "authorId": "2336746721",
+          "name": "Eduardo F. Morales"
+        },
+        {
+          "authorId": "2273665031",
+          "name": "L. Sucar"
+        },
+        {
+          "authorId": "2643564",
+          "name": "E. M. D. Cote"
+        }
+      ]
+    },
+    {
+      "paperId": "504636881e8521ce0c79a9049974939356379a09",
+      "externalIds": {
+        "MAG": "2133138256",
+        "CorpusId": 16032523
+      },
+      "url": "https://www.semanticscholar.org/paper/504636881e8521ce0c79a9049974939356379a09",
+      "title": "Learning for Collective Information Extraction",
+      "venue": "",
+      "year": 2005,
+      "referenceCount": 61,
+      "citationCount": 5,
+      "authors": [
+        {
+          "authorId": "3139133",
+          "name": "Razvan C. Bunescu"
+        }
+      ]
+    }
+  ]
+}

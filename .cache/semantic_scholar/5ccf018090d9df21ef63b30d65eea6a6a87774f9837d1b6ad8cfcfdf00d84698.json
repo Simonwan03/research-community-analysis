@@ -1,0 +1,319 @@
+{
+  "total": 678,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "67d10cea808937089d6492acff14ad9ef156e3c5",
+      "externalIds": {
+        "MAG": "2964054583",
+        "DBLP": "journals/corr/AzarOM17",
+        "ArXiv": "1703.05449",
+        "CorpusId": 7559418
+      },
+      "url": "https://www.semanticscholar.org/paper/67d10cea808937089d6492acff14ad9ef156e3c5",
+      "title": "Minimax Regret Bounds for Reinforcement Learning",
+      "venue": "International Conference on Machine Learning",
+      "year": 2017,
+      "referenceCount": 39,
+      "citationCount": 852,
+      "authors": [
+        {
+          "authorId": "37666967",
+          "name": "M. G. Azar"
+        },
+        {
+          "authorId": "2561924",
+          "name": "Ian Osband"
+        },
+        {
+          "authorId": "1708654",
+          "name": "R. Munos"
+        }
+      ]
+    },
+    {
+      "paperId": "17f5ee68a402b3f331f9004f11c4e94bbc5bb682",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2410-16013",
+        "ArXiv": "2410.16013",
+        "DOI": "10.1109/ICASSP49660.2025.10889842",
+        "CorpusId": 273502243
+      },
+      "url": "https://www.semanticscholar.org/paper/17f5ee68a402b3f331f9004f11c4e94bbc5bb682",
+      "title": "Information-Theoretic Minimax Regret Bounds for Reinforcement Learning based on Duality",
+      "venue": "IEEE International Conference on Acoustics, Speech, and Signal Processing",
+      "year": 2024,
+      "referenceCount": 24,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "2326990327",
+          "name": "Raghav Bongole"
+        },
+        {
+          "authorId": "1703121122",
+          "name": "Amaury Gouverneur"
+        },
+        {
+          "authorId": "2295894823",
+          "name": "Borja Rodríguez Gálvez"
+        },
+        {
+          "authorId": "1724937",
+          "name": "T. Oechtering"
+        },
+        {
+          "authorId": "2241468577",
+          "name": "Mikael Skoglund"
+        }
+      ]
+    },
+    {
+      "paperId": "5097640b8aac09e07a57885ec6cd65b71a94c497",
+      "externalIds": {
+        "DBLP": "conf/itw/BongoleGOS25",
+        "DOI": "10.1109/ITW62417.2025.11240440",
+        "CorpusId": 283145326
+      },
+      "url": "https://www.semanticscholar.org/paper/5097640b8aac09e07a57885ec6cd65b71a94c497",
+      "title": "Information-Theoretic Minimax Regret Upper Bounds for Reinforcement Learning Problems",
+      "venue": "Information Theory Workshop",
+      "year": 2025,
+      "referenceCount": 20,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2326990327",
+          "name": "Raghav Bongole"
+        },
+        {
+          "authorId": "1703121122",
+          "name": "Amaury Gouverneur"
+        },
+        {
+          "authorId": "1724937",
+          "name": "T. Oechtering"
+        },
+        {
+          "authorId": "2241468577",
+          "name": "Mikael Skoglund"
+        }
+      ]
+    },
+    {
+      "paperId": "507272fb207f627244c98d0a1bfa54235898da5b",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2312-04464",
+        "ArXiv": "2312.04464",
+        "DOI": "10.48550/arXiv.2312.04464",
+        "CorpusId": 266053631
+      },
+      "url": "https://www.semanticscholar.org/paper/507272fb207f627244c98d0a1bfa54235898da5b",
+      "title": "Horizon-Free and Instance-Dependent Regret Bounds for Reinforcement Learning with General Function Approximation",
+      "venue": "International Conference on Artificial Intelligence and Statistics",
+      "year": 2023,
+      "referenceCount": 42,
+      "citationCount": 4,
+      "authors": [
+        {
+          "authorId": "1630366448",
+          "name": "Jiayi Huang"
+        },
+        {
+          "authorId": "2064919742",
+          "name": "Han Zhong"
+        },
+        {
+          "authorId": "2271493139",
+          "name": "Liwei Wang"
+        },
+        {
+          "authorId": "2308300665",
+          "name": "Lin F. Yang"
+        }
+      ]
+    },
+    {
+      "paperId": "64a1c75ee91a46ce317a5a4428412f7120a666ee",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2306-06836",
+        "ArXiv": "2306.06836",
+        "DOI": "10.48550/arXiv.2306.06836",
+        "CorpusId": 259137658
+      },
+      "url": "https://www.semanticscholar.org/paper/64a1c75ee91a46ce317a5a4428412f7120a666ee",
+      "title": "Tackling Heavy-Tailed Rewards in Reinforcement Learning with Function Approximation: Minimax Optimal and Instance-Dependent Regret Bounds",
+      "venue": "Neural Information Processing Systems",
+      "year": 2023,
+      "referenceCount": 53,
+      "citationCount": 14,
+      "authors": [
+        {
+          "authorId": "1630366448",
+          "name": "Jiayi Huang"
+        },
+        {
+          "authorId": "2064919742",
+          "name": "Han Zhong"
+        },
+        {
+          "authorId": "2143440685",
+          "name": "Liwei Wang"
+        },
+        {
+          "authorId": "2155556894",
+          "name": "Lin F. Yang"
+        }
+      ]
+    },
+    {
+      "paperId": "9cb5825b1c1897c0e5ead2182a09b4f5ecd9280b",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2602-20297",
+        "ArXiv": "2602.20297",
+        "DOI": "10.48550/arXiv.2602.20297",
+        "CorpusId": 286000794
+      },
+      "url": "https://www.semanticscholar.org/paper/9cb5825b1c1897c0e5ead2182a09b4f5ecd9280b",
+      "title": "Gap-Dependent Bounds for Nearly Minimax Optimal Reinforcement Learning with Linear Function Approximation",
+      "venue": "arXiv.org",
+      "year": 2026,
+      "referenceCount": 59,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2303699315",
+          "name": "Haochen Zhang"
+        },
+        {
+          "authorId": "2276487589",
+          "name": "Zhong Zheng"
+        },
+        {
+          "authorId": "2276432901",
+          "name": "Lingzhou Xue"
+        }
+      ]
+    },
+    {
+      "paperId": "ca3d2c27dac69b2ba372d41e35b8c2d94f724a13",
+      "externalIds": {
+        "ArXiv": "2106.11612",
+        "DBLP": "journals/corr/abs-2106-11612",
+        "CorpusId": 235593146
+      },
+      "url": "https://www.semanticscholar.org/paper/ca3d2c27dac69b2ba372d41e35b8c2d94f724a13",
+      "title": "Uniform-PAC Bounds for Reinforcement Learning with Linear Function Approximation",
+      "venue": "Neural Information Processing Systems",
+      "year": 2021,
+      "referenceCount": 35,
+      "citationCount": 17,
+      "authors": [
+        {
+          "authorId": "35420640",
+          "name": "Jiafan He"
+        },
+        {
+          "authorId": "2116323342",
+          "name": "Dongruo Zhou"
+        },
+        {
+          "authorId": "9937103",
+          "name": "Quanquan Gu"
+        }
+      ]
+    },
+    {
+      "paperId": "6246b3d27f6a9f211126cafe39d8c8a7f6ed06f4",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-1905-11527",
+        "MAG": "2970870329",
+        "ArXiv": "1905.11527",
+        "CorpusId": 167217530
+      },
+      "url": "https://www.semanticscholar.org/paper/6246b3d27f6a9f211126cafe39d8c8a7f6ed06f4",
+      "title": "Tight Regret Bounds for Model-Based Reinforcement Learning with Greedy Policies",
+      "venue": "Neural Information Processing Systems",
+      "year": 2019,
+      "referenceCount": 48,
+      "citationCount": 73,
+      "authors": [
+        {
+          "authorId": "27098848",
+          "name": "Yonathan Efroni"
+        },
+        {
+          "authorId": "81589010",
+          "name": "Nadav Merlis"
+        },
+        {
+          "authorId": "1678622",
+          "name": "M. Ghavamzadeh"
+        },
+        {
+          "authorId": "1712535",
+          "name": "Shie Mannor"
+        }
+      ]
+    },
+    {
+      "paperId": "4bcfc5a34a22363881b54a906a1dd5040cf0a22e",
+      "externalIds": {
+        "MAG": "2798353754",
+        "DBLP": "conf/alt/TalebiM18",
+        "ArXiv": "1803.01626",
+        "CorpusId": 3701414
+      },
+      "url": "https://www.semanticscholar.org/paper/4bcfc5a34a22363881b54a906a1dd5040cf0a22e",
+      "title": "Variance-Aware Regret Bounds for Undiscounted Reinforcement Learning in MDPs",
+      "venue": "International Conference on Algorithmic Learning Theory",
+      "year": 2018,
+      "referenceCount": 21,
+      "citationCount": 77,
+      "authors": [
+        {
+          "authorId": "47181013",
+          "name": "M. S. Talebi"
+        },
+        {
+          "authorId": "1794867",
+          "name": "Odalric-Ambrym Maillard"
+        }
+      ]
+    },
+    {
+      "paperId": "0b0c82e33d3328246b6adc3ef2b55be9b606a0cd",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2010-03531",
+        "ArXiv": "2010.03531",
+        "MAG": "3092133906",
+        "CorpusId": 222178221
+      },
+      "url": "https://www.semanticscholar.org/paper/0b0c82e33d3328246b6adc3ef2b55be9b606a0cd",
+      "title": "Episodic Reinforcement Learning in Finite MDPs: Minimax Lower Bounds Revisited",
+      "venue": "International Conference on Algorithmic Learning Theory",
+      "year": 2020,
+      "referenceCount": 20,
+      "citationCount": 113,
+      "authors": [
+        {
+          "authorId": "31109333",
+          "name": "O. D. Domingues"
+        },
+        {
+          "authorId": "2067015662",
+          "name": "Pierre M'enard"
+        },
+        {
+          "authorId": "2578263",
+          "name": "E. Kaufmann"
+        },
+        {
+          "authorId": "1806291",
+          "name": "Michal Valko"
+        }
+      ]
+    }
+  ]
+}

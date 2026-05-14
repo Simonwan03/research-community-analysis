@@ -1,0 +1,323 @@
+{
+  "total": 12,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "1bd66197d692581f4ac507107184ca9110b61d7d",
+      "externalIds": {
+        "MAG": "2806985155",
+        "DBLP": "conf/icml/DaiS0XHLCS18",
+        "CorpusId": 44179095
+      },
+      "url": "https://www.semanticscholar.org/paper/1bd66197d692581f4ac507107184ca9110b61d7d",
+      "title": "SBEED: Convergent Reinforcement Learning with Nonlinear Function Approximation",
+      "venue": "International Conference on Machine Learning",
+      "year": 2017,
+      "referenceCount": 71,
+      "citationCount": 298,
+      "authors": [
+        {
+          "authorId": "144445933",
+          "name": "Bo Dai"
+        },
+        {
+          "authorId": "47291134",
+          "name": "Albert Eaton Shaw"
+        },
+        {
+          "authorId": "47681372",
+          "name": "Lihong Li"
+        },
+        {
+          "authorId": "145942106",
+          "name": "Lin Xiao"
+        },
+        {
+          "authorId": "2903347",
+          "name": "Niao He"
+        },
+        {
+          "authorId": "46270580",
+          "name": "Z. Liu"
+        },
+        {
+          "authorId": "1720246",
+          "name": "Jianshu Chen"
+        },
+        {
+          "authorId": "1779453",
+          "name": "Le Song"
+        }
+      ]
+    },
+    {
+      "paperId": "f9d6467cc9b593ffac367c2d4d6caec130a25f3b",
+      "externalIds": {
+        "MAG": "3040829104",
+        "DBLP": "journals/corr/abs-2007-03749",
+        "ArXiv": "2007.03749",
+        "CorpusId": 220403338
+      },
+      "url": "https://www.semanticscholar.org/paper/f9d6467cc9b593ffac367c2d4d6caec130a25f3b",
+      "title": "Sharp Analysis of Smoothed Bellman Error Embedding",
+      "venue": "arXiv.org",
+      "year": 2020,
+      "referenceCount": 18,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "145046554",
+          "name": "Ahmed Touati"
+        },
+        {
+          "authorId": "120247189",
+          "name": "Pascal Vincent"
+        }
+      ]
+    },
+    {
+      "paperId": "6527bc9ed568e5a6647241be61d54eaa691a09b4",
+      "externalIds": {
+        "MAG": "2920961312",
+        "CorpusId": 53343119
+      },
+      "url": "https://www.semanticscholar.org/paper/6527bc9ed568e5a6647241be61d54eaa691a09b4",
+      "title": "Convergent Reinforcement Learning with Function Approximation: A Bilevel Optimization Perspective",
+      "venue": "",
+      "year": 2018,
+      "referenceCount": 46,
+      "citationCount": 16,
+      "authors": [
+        {
+          "authorId": "150358650",
+          "name": "Zhuoran Yang"
+        },
+        {
+          "authorId": "89704452",
+          "name": "Zuyue Fu"
+        },
+        {
+          "authorId": "1776230",
+          "name": "K. Zhang"
+        },
+        {
+          "authorId": "50218397",
+          "name": "Zhaoran Wang"
+        }
+      ]
+    },
+    {
+      "paperId": "67265ac9848d7269443c012b143cf283e14dd20c",
+      "externalIds": {
+        "DBLP": "journals/access/WatabeS25",
+        "DOI": "10.1109/ACCESS.2025.3540900",
+        "CorpusId": 276304312
+      },
+      "url": "https://www.semanticscholar.org/paper/67265ac9848d7269443c012b143cf283e14dd20c",
+      "title": "Nonlinear Value Function Approximation Method With Easy Hyperparameter Tuning and Convergence Guarantee",
+      "venue": "IEEE Access",
+      "year": 2025,
+      "referenceCount": 15,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2141819908",
+          "name": "Yuuya Watabe"
+        },
+        {
+          "authorId": "2341344316",
+          "name": "Takeshi Shibuya"
+        }
+      ]
+    },
+    {
+      "paperId": "fd56ed3742dbfcc8b067eadf11bd71d30d8ce34e",
+      "externalIds": {
+        "DBLP": "conf/eucc/SalajeCL25",
+        "ArXiv": "2502.04925",
+        "DOI": "10.23919/ECC65951.2025.11187042",
+        "CorpusId": 276236054
+      },
+      "url": "https://www.semanticscholar.org/paper/fd56ed3742dbfcc8b067eadf11bd71d30d8ce34e",
+      "title": "Convergent NMPC-based Reinforcement Learning Using Deep Expected Sarsa and Nonlinear Temporal Difference Learning",
+      "venue": "European Control Conference",
+      "year": 2025,
+      "referenceCount": 20,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2339475968",
+          "name": "Amine Salaje"
+        },
+        {
+          "authorId": "2306254827",
+          "name": "Thomas Chevet"
+        },
+        {
+          "authorId": "2306254589",
+          "name": "Nicolas Langlois"
+        }
+      ]
+    },
+    {
+      "paperId": "878743bbef2d4a50815f87a1334b474f21cbddf8",
+      "externalIds": {
+        "DBLP": "conf/adprl/LeeA14",
+        "MAG": "1980633046",
+        "DOI": "10.1109/ADPRL.2014.7010612",
+        "CorpusId": 26800351
+      },
+      "url": "https://www.semanticscholar.org/paper/878743bbef2d4a50815f87a1334b474f21cbddf8",
+      "title": "Convergent reinforcement learning control with neural networks and continuous action search",
+      "venue": "IEEE Symposium on Adaptive Dynamic Programming and Reinforcement Learning",
+      "year": 2014,
+      "referenceCount": 18,
+      "citationCount": 9,
+      "authors": [
+        {
+          "authorId": "65756109",
+          "name": "Minwoo Lee"
+        },
+        {
+          "authorId": "144826602",
+          "name": "C. Anderson"
+        }
+      ]
+    },
+    {
+      "paperId": "bdf18bbec0980448b879df417e3141dc901f2e68",
+      "externalIds": {
+        "MAG": "2970927156",
+        "ArXiv": "1910.12156",
+        "DBLP": "conf/nips/YuYKW19",
+        "CorpusId": 202767470
+      },
+      "url": "https://www.semanticscholar.org/paper/bdf18bbec0980448b879df417e3141dc901f2e68",
+      "title": "Convergent Policy Optimization for Safe Reinforcement Learning",
+      "venue": "Neural Information Processing Systems",
+      "year": 2019,
+      "referenceCount": 69,
+      "citationCount": 105,
+      "authors": [
+        {
+          "authorId": "2152596718",
+          "name": "Ming Yu"
+        },
+        {
+          "authorId": "150358650",
+          "name": "Zhuoran Yang"
+        },
+        {
+          "authorId": "1682383",
+          "name": "M. Kolar"
+        },
+        {
+          "authorId": "50218397",
+          "name": "Zhaoran Wang"
+        }
+      ]
+    },
+    {
+      "paperId": "dc4ec37102afb166b96abc268ae3dc15e230d776",
+      "externalIds": {
+        "MAG": "2904789544",
+        "DBLP": "conf/aaai/GeladaB19",
+        "ArXiv": "1901.09455",
+        "DOI": "10.1609/AAAI.V33I01.33013647",
+        "CorpusId": 58993601
+      },
+      "url": "https://www.semanticscholar.org/paper/dc4ec37102afb166b96abc268ae3dc15e230d776",
+      "title": "Off-Policy Deep Reinforcement Learning by Bootstrapping the Covariate Shift",
+      "venue": "AAAI Conference on Artificial Intelligence",
+      "year": 2019,
+      "referenceCount": 26,
+      "citationCount": 102,
+      "authors": [
+        {
+          "authorId": "52382152",
+          "name": "Carles Gelada"
+        },
+        {
+          "authorId": "1792298",
+          "name": "Marc G. Bellemare"
+        }
+      ]
+    },
+    {
+      "paperId": "ee5212ffa1c7aababb908c33cd146a3635e677a1",
+      "externalIds": {
+        "ArXiv": "2407.04811",
+        "DBLP": "journals/corr/abs-2407-04811",
+        "DOI": "10.48550/arXiv.2407.04811",
+        "CorpusId": 271050911
+      },
+      "url": "https://www.semanticscholar.org/paper/ee5212ffa1c7aababb908c33cd146a3635e677a1",
+      "title": "Simplifying Deep Temporal Difference Learning",
+      "venue": "International Conference on Learning Representations",
+      "year": 2024,
+      "referenceCount": 94,
+      "citationCount": 66,
+      "authors": [
+        {
+          "authorId": "2266839315",
+          "name": "Matteo Gallici"
+        },
+        {
+          "authorId": "2310338658",
+          "name": "Mattie Fellows"
+        },
+        {
+          "authorId": "2151859995",
+          "name": "Benjamin Ellis"
+        },
+        {
+          "authorId": "2114965804",
+          "name": "B. Pou"
+        },
+        {
+          "authorId": "2310339679",
+          "name": "Ivan Masmitja"
+        },
+        {
+          "authorId": "2310327116",
+          "name": "J. Foerster"
+        },
+        {
+          "authorId": "2149180904",
+          "name": "Mario Martín"
+        }
+      ]
+    },
+    {
+      "paperId": "ed25c39b46ad4250535357e3bbe28324b3d58bf3",
+      "externalIds": {
+        "MAG": "2592507398",
+        "DBLP": "journals/tnn/WeiLS18",
+        "DOI": "10.1109/TNNLS.2017.2661865",
+        "CorpusId": 3958037,
+        "PubMed": "28362617"
+      },
+      "url": "https://www.semanticscholar.org/paper/ed25c39b46ad4250535357e3bbe28324b3d58bf3",
+      "title": "Discrete-Time Stable Generalized Self-Learning Optimal Control With Approximation Errors",
+      "venue": "IEEE Transactions on Neural Networks and Learning Systems",
+      "year": 2018,
+      "referenceCount": 53,
+      "citationCount": 45,
+      "authors": [
+        {
+          "authorId": "1717781",
+          "name": "Qinglai Wei"
+        },
+        {
+          "authorId": "2112237949",
+          "name": "Benkai Li"
+        },
+        {
+          "authorId": "7282558",
+          "name": "Ruizhuo Song"
+        }
+      ]
+    }
+  ]
+}

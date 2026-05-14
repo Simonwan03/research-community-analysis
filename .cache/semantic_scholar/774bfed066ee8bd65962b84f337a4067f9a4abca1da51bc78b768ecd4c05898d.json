@@ -1,0 +1,331 @@
+{
+  "total": 676,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "3d846cb01f6a975554035d2210b578ca61344b22",
+      "externalIds": {
+        "MAG": "2315403234",
+        "ArXiv": "1603.08861",
+        "DBLP": "journals/corr/YangCS16",
+        "CorpusId": 7008752
+      },
+      "url": "https://www.semanticscholar.org/paper/3d846cb01f6a975554035d2210b578ca61344b22",
+      "title": "Revisiting Semi-Supervised Learning with Graph Embeddings",
+      "venue": "International Conference on Machine Learning",
+      "year": 2016,
+      "referenceCount": 28,
+      "citationCount": 2457,
+      "authors": [
+        {
+          "authorId": "2109512754",
+          "name": "Zhilin Yang"
+        },
+        {
+          "authorId": "50056360",
+          "name": "William W. Cohen"
+        },
+        {
+          "authorId": "145124475",
+          "name": "R. Salakhutdinov"
+        }
+      ]
+    },
+    {
+      "paperId": "e7874aa89b1acaf839237181b5fdf7b15e69010e",
+      "externalIds": {
+        "DOI": "10.1016/j.neunet.2026.108801",
+        "CorpusId": 286290534,
+        "PubMed": "41812362"
+      },
+      "url": "https://www.semanticscholar.org/paper/e7874aa89b1acaf839237181b5fdf7b15e69010e",
+      "title": "Dual generative adversarial graph networks: Unsupervised and semi-supervised learning with spherical graph embeddings.",
+      "venue": "Neural Networks",
+      "year": 2026,
+      "referenceCount": 62,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2349943965",
+          "name": "Wenchuan Zhang"
+        },
+        {
+          "authorId": "2341880230",
+          "name": "Wentao Fan"
+        },
+        {
+          "authorId": "2260947350",
+          "name": "Yewang Chen"
+        }
+      ]
+    },
+    {
+      "paperId": "4fdfa7cfd1a36766cdf397d11b6816676f77db98",
+      "externalIds": {
+        "DBLP": "journals/access/GeorgoulasPMSDD23",
+        "DOI": "10.1109/ACCESS.2023.3328388",
+        "CorpusId": 264812361
+      },
+      "url": "https://www.semanticscholar.org/paper/4fdfa7cfd1a36766cdf397d11b6816676f77db98",
+      "title": "Graph-Based Semi-Supervised Learning With Tensor Embeddings for Hyperspectral Data Classification",
+      "venue": "IEEE Access",
+      "year": 2023,
+      "referenceCount": 37,
+      "citationCount": 4,
+      "authors": [
+        {
+          "authorId": "2085676613",
+          "name": "Ioannis Georgoulas"
+        },
+        {
+          "authorId": "1806369",
+          "name": "Eftychios E. Protopapadakis"
+        },
+        {
+          "authorId": "2879272",
+          "name": "Konstantinos Makantasis"
+        },
+        {
+          "authorId": "1793044",
+          "name": "D. Seychell"
+        },
+        {
+          "authorId": "1746705",
+          "name": "A. Doulamis"
+        },
+        {
+          "authorId": "120205775",
+          "name": "N. Doulamis"
+        }
+      ]
+    },
+    {
+      "paperId": "769642256e3a972ec2df621b35c7e4a32c5b1852",
+      "externalIds": {
+        "DBLP": "conf/icmla/ChandaliyaTBS23",
+        "DOI": "10.1109/ICMLA58977.2023.00209",
+        "CorpusId": 268541259
+      },
+      "url": "https://www.semanticscholar.org/paper/769642256e3a972ec2df621b35c7e4a32c5b1852",
+      "title": "Towards Graph-Based Semi-Supervised Learning on Audio Embeddings for Label Classification",
+      "venue": "International Conference on Machine Learning and Applications",
+      "year": 2023,
+      "referenceCount": 38,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "2051251861",
+          "name": "Rishabh Chandaliya"
+        },
+        {
+          "authorId": "2353849465",
+          "name": "Mohan Timilsina"
+        },
+        {
+          "authorId": "2292308192",
+          "name": "John G. Breslin"
+        },
+        {
+          "authorId": "2221052276",
+          "name": "M. Serrano"
+        }
+      ]
+    },
+    {
+      "paperId": "30e70241e6789c82fcbf7173b04dc0b35a976ba1",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2506-12197",
+        "ArXiv": "2506.12197",
+        "DOI": "10.48550/arXiv.2506.12197",
+        "CorpusId": 279403042
+      },
+      "url": "https://www.semanticscholar.org/paper/30e70241e6789c82fcbf7173b04dc0b35a976ba1",
+      "title": "Graph Semi-Supervised Learning for Point Classification on Data Manifolds",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "referenceCount": 74,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2322097883",
+          "name": "Caio F. Deberaldini Netto"
+        },
+        {
+          "authorId": "2322256985",
+          "name": "Zhiyang Wang"
+        },
+        {
+          "authorId": "2322099040",
+          "name": "Luana Ruiz"
+        }
+      ]
+    },
+    {
+      "paperId": "92e7c0db1dd5175014b5cf1a701e9e11bf0e2445",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2510-16601",
+        "ArXiv": "2510.16601",
+        "DOI": "10.48550/arXiv.2510.16601",
+        "CorpusId": 282209471
+      },
+      "url": "https://www.semanticscholar.org/paper/92e7c0db1dd5175014b5cf1a701e9e11bf0e2445",
+      "title": "Uncertain Knowledge Graph Completion via Semi-Supervised Confidence Distribution Learning",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "referenceCount": 27,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2384708910",
+          "name": "Tianxing Wu"
+        },
+        {
+          "authorId": "2186811733",
+          "name": "Shutong Zhu"
+        },
+        {
+          "authorId": "2193708388",
+          "name": "Jingting Wang"
+        },
+        {
+          "authorId": "2354127508",
+          "name": "Ning Xu"
+        },
+        {
+          "authorId": "2261812515",
+          "name": "Guilin Qi"
+        },
+        {
+          "authorId": "2309198652",
+          "name": "Haofen Wang"
+        }
+      ]
+    },
+    {
+      "paperId": "cf0d994ff4ac4608783e65691155eb62d3f21fa1",
+      "externalIds": {
+        "MAG": "3139223331",
+        "DBLP": "journals/npl/LiWL22",
+        "DOI": "10.1007/s11063-021-10487-w",
+        "CorpusId": 233651895
+      },
+      "url": "https://www.semanticscholar.org/paper/cf0d994ff4ac4608783e65691155eb62d3f21fa1",
+      "title": "Semi-supervised Learning with Graph Convolutional Networks Based on Hypergraph",
+      "venue": "Neural Processing Letters",
+      "year": 2021,
+      "referenceCount": 44,
+      "citationCount": 6,
+      "authors": [
+        {
+          "authorId": "6221797",
+          "name": "Yangding Li"
+        },
+        {
+          "authorId": "14285004",
+          "name": "Y. Wan"
+        },
+        {
+          "authorId": "2146035487",
+          "name": "Xingyi Liu"
+        }
+      ]
+    },
+    {
+      "paperId": "0f7e9c843a20f6f43d4a18ddb6e918e248e144bd",
+      "externalIds": {
+        "DBLP": "journals/www/YinCHCWM24",
+        "DOI": "10.1007/s11280-024-01275-2",
+        "CorpusId": 270029867
+      },
+      "url": "https://www.semanticscholar.org/paper/0f7e9c843a20f6f43d4a18ddb6e918e248e144bd",
+      "title": "A heterogeneous graph-based semi-supervised learning framework for access control decision-making",
+      "venue": "World wide web (Bussum)",
+      "year": 2024,
+      "referenceCount": 46,
+      "citationCount": 12,
+      "authors": [
+        {
+          "authorId": "2111610828",
+          "name": "Jiao Yin"
+        },
+        {
+          "authorId": "2261682738",
+          "name": "Guihong Chen"
+        },
+        {
+          "authorId": "2258949071",
+          "name": "Wei Hong"
+        },
+        {
+          "authorId": "2261615302",
+          "name": "Jinli Cao"
+        },
+        {
+          "authorId": "2143975951",
+          "name": "Hua Wang"
+        },
+        {
+          "authorId": "2261409020",
+          "name": "Yuan Miao"
+        }
+      ]
+    },
+    {
+      "paperId": "3f0c264ffa01b642240de0107c6dde8d20848e7a",
+      "externalIds": {
+        "DBLP": "journals/es/WuXZ25",
+        "DOI": "10.1111/exsy.13744",
+        "CorpusId": 273271118
+      },
+      "url": "https://www.semanticscholar.org/paper/3f0c264ffa01b642240de0107c6dde8d20848e7a",
+      "title": "Heterogeneous graph contrastive learning with adaptive data augmentation for semi‐supervised short text classification",
+      "venue": "Expert Syst. J. Knowl. Eng.",
+      "year": 2024,
+      "referenceCount": 68,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "2325453079",
+          "name": "Mingqiang Wu"
+        },
+        {
+          "authorId": "2325263526",
+          "name": "Zhuoming Xu"
+        },
+        {
+          "authorId": "2357131579",
+          "name": "Lei Zheng"
+        }
+      ]
+    },
+    {
+      "paperId": "df3844cde85414c134fe832e69e286887720bd6e",
+      "externalIds": {
+        "DBLP": "journals/tkdd/TanQG24",
+        "DOI": "10.1145/3689428",
+        "CorpusId": 272024283
+      },
+      "url": "https://www.semanticscholar.org/paper/df3844cde85414c134fe832e69e286887720bd6e",
+      "title": "Graph Representation Learning Enhanced Semi-Supervised Feature Selection",
+      "venue": "ACM Transactions on Knowledge Discovery from Data",
+      "year": 2024,
+      "referenceCount": 53,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2286700579",
+          "name": "Jun Tan"
+        },
+        {
+          "authorId": "2284240657",
+          "name": "Zhifeng Qiu"
+        },
+        {
+          "authorId": "2143051930",
+          "name": "Ning Gui"
+        }
+      ]
+    }
+  ]
+}

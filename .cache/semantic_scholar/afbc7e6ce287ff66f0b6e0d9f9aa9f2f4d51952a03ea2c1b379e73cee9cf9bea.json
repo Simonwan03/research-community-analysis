@@ -1,0 +1,294 @@
+{
+  "total": 76,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "747747ebf996af6a72640a4b06a30e8b0e2d28d6",
+      "externalIds": {
+        "MAG": "2963568464",
+        "ArXiv": "1712.10158",
+        "DBLP": "journals/corr/abs-1712-10158",
+        "CorpusId": 21780442
+      },
+      "url": "https://www.semanticscholar.org/paper/747747ebf996af6a72640a4b06a30e8b0e2d28d6",
+      "title": "Non-linear motor control by local learning in spiking neural networks",
+      "venue": "International Conference on Machine Learning",
+      "year": 2017,
+      "referenceCount": 69,
+      "citationCount": 13,
+      "authors": [
+        {
+          "authorId": "2391545812",
+          "name": "Aditya Gilra"
+        },
+        {
+          "authorId": "1708945",
+          "name": "W. Gerstner"
+        }
+      ]
+    },
+    {
+      "paperId": "ad12a307daa78dbcef036ba1ced099e685a48502",
+      "externalIds": {
+        "DBLP": "conf/ssci/GillespieRSSK19",
+        "MAG": "3009018467",
+        "DOI": "10.1109/SSCI44817.2019.9002834",
+        "CorpusId": 211243941
+      },
+      "url": "https://www.semanticscholar.org/paper/ad12a307daa78dbcef036ba1ced099e685a48502",
+      "title": "Using Reinforcement Learning to Attenuate for Stochasticity in Robot Navigation Controllers",
+      "venue": "IEEE Symposium Series on Computational Intelligence",
+      "year": 2019,
+      "referenceCount": 26,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2056005190",
+          "name": "James Gillespie"
+        },
+        {
+          "authorId": "143959807",
+          "name": "I. Rañó"
+        },
+        {
+          "authorId": "1787110",
+          "name": "N. Siddique"
+        },
+        {
+          "authorId": "2115681356",
+          "name": "Jose A. Santos"
+        },
+        {
+          "authorId": "2238042",
+          "name": "M. Khamassi"
+        }
+      ]
+    },
+    {
+      "paperId": "b1a7464c8bc6a190bc7804e876a9085c55a658f5",
+      "externalIds": {
+        "MAG": "2590763083",
+        "CorpusId": 209855155
+      },
+      "url": "https://www.semanticscholar.org/paper/b1a7464c8bc6a190bc7804e876a9085c55a658f5",
+      "title": "Predicting non-linear dynamics: a stable local learning scheme for recurrent spiking neural networks.",
+      "venue": "",
+      "year": 2017,
+      "referenceCount": 79,
+      "citationCount": 11,
+      "authors": [
+        {
+          "authorId": "2391545812",
+          "name": "Aditya Gilra"
+        },
+        {
+          "authorId": "1708945",
+          "name": "W. Gerstner"
+        }
+      ]
+    },
+    {
+      "paperId": "07e221eb987fbe3fdfc547d01200a8fd0e63682f",
+      "externalIds": {
+        "ArXiv": "2405.02316",
+        "DBLP": "journals/neuromorphic/AhmadvandSB24",
+        "DOI": "10.1088/2634-4386/ad8c79",
+        "CorpusId": 269605309
+      },
+      "url": "https://www.semanticscholar.org/paper/07e221eb987fbe3fdfc547d01200a8fd0e63682f",
+      "title": "A cloud-edge framework for energy-efficient event-driven control: an integration of online supervised learning, spiking neural networks and local plasticity rules",
+      "venue": "Neuromorph. Comput. Eng.",
+      "year": 2024,
+      "referenceCount": 28,
+      "citationCount": 10,
+      "authors": [
+        {
+          "authorId": "1393746798",
+          "name": "R. Ahmadvand"
+        },
+        {
+          "authorId": "2223595676",
+          "name": "S. Sharif"
+        },
+        {
+          "authorId": "2223595637",
+          "name": "Y. Banad"
+        }
+      ]
+    },
+    {
+      "paperId": "2a311700b13c43d1f2850cc78ccca8b435717123",
+      "externalIds": {
+        "PubMedCentral": "5730383",
+        "ArXiv": "1702.06463",
+        "MAG": "2611608598",
+        "DBLP": "journals/corr/GilraG17",
+        "DOI": "10.7554/eLife.28295",
+        "CorpusId": 3578150,
+        "PubMed": "29173280"
+      },
+      "url": "https://www.semanticscholar.org/paper/2a311700b13c43d1f2850cc78ccca8b435717123",
+      "title": "Predicting non-linear dynamics by stable local learning in a recurrent spiking neural network",
+      "venue": "eLife",
+      "year": 2017,
+      "referenceCount": 116,
+      "citationCount": 92,
+      "authors": [
+        {
+          "authorId": "2391545812",
+          "name": "Aditya Gilra"
+        },
+        {
+          "authorId": "1708945",
+          "name": "W. Gerstner"
+        }
+      ]
+    },
+    {
+      "paperId": "69ae41c4c36881b4a02e57d075a4973cb9d9307a",
+      "externalIds": {
+        "ArXiv": "2204.05682",
+        "DBLP": "journals/corr/abs-2204-05682",
+        "DOI": "10.48550/arXiv.2204.05682",
+        "CorpusId": 248119111
+      },
+      "url": "https://www.semanticscholar.org/paper/69ae41c4c36881b4a02e57d075a4973cb9d9307a",
+      "title": "A Robust Learning Rule for Soft-Bounded Memristive Synapses Competitive with Supervised Learning in Standard Spiking Neural Networks",
+      "venue": "arXiv.org",
+      "year": 2022,
+      "referenceCount": 21,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "1491910837",
+          "name": "T. F. Tiotto"
+        },
+        {
+          "authorId": "33081809",
+          "name": "J. Borst"
+        },
+        {
+          "authorId": "47676895",
+          "name": "N. Taatgen"
+        }
+      ]
+    },
+    {
+      "paperId": "2b24380818338fdc7c96cc1d5db1cd0dace7dd41",
+      "externalIds": {
+        "DBLP": "journals/tmlr/KumarTYM22",
+        "CorpusId": 250164443
+      },
+      "url": "https://www.semanticscholar.org/paper/2b24380818338fdc7c96cc1d5db1cd0dace7dd41",
+      "title": "Decoding EEG With Spiking Neural Networks on Neuromorphic Hardware",
+      "venue": "Trans. Mach. Learn. Res.",
+      "year": 2022,
+      "referenceCount": 90,
+      "citationCount": 19,
+      "authors": [
+        {
+          "authorId": "40413798",
+          "name": "Neelesh Kumar"
+        },
+        {
+          "authorId": "51050036",
+          "name": "Guangzhi Tang"
+        },
+        {
+          "authorId": "1999198911",
+          "name": "Raymond Yoo"
+        },
+        {
+          "authorId": "2235492",
+          "name": "K. Michmizos"
+        }
+      ]
+    },
+    {
+      "paperId": "31f2335edec5767f411b83447cb1966f7e9c762d",
+      "externalIds": {
+        "MAG": "2181328046",
+        "DBLP": "conf/nips/BourdoukanD15",
+        "CorpusId": 1554759
+      },
+      "url": "https://www.semanticscholar.org/paper/31f2335edec5767f411b83447cb1966f7e9c762d",
+      "title": "Enforcing balance allows local supervised learning in spiking recurrent networks",
+      "venue": "Neural Information Processing Systems",
+      "year": 2015,
+      "referenceCount": 23,
+      "citationCount": 36,
+      "authors": [
+        {
+          "authorId": "2498756",
+          "name": "Ralph Bourdoukan"
+        },
+        {
+          "authorId": "2049281",
+          "name": "S. Denéve"
+        }
+      ]
+    },
+    {
+      "paperId": "622d60558bd8a3d9de8cd19d482d2bb46b0b418e",
+      "externalIds": {
+        "DOI": "10.1142/s0218488526500091",
+        "CorpusId": 285187907
+      },
+      "url": "https://www.semanticscholar.org/paper/622d60558bd8a3d9de8cd19d482d2bb46b0b418e",
+      "title": "Actor-Critic Learning based Type-2 Fuzzy Controller for Non-Linear and Uncertainty Systems",
+      "venue": "International Journal of Uncertainty Fuzziness and Knowledge-Based Systems",
+      "year": 2026,
+      "referenceCount": 26,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2334192128",
+          "name": "Geetha T S"
+        },
+        {
+          "authorId": "2279567690",
+          "name": "Chellaswamy C"
+        },
+        {
+          "authorId": "31208668",
+          "name": "K. T."
+        },
+        {
+          "authorId": "2309402277",
+          "name": "Gandhimathi G"
+        }
+      ]
+    },
+    {
+      "paperId": "a7a0bd25fc7320e28bcf5da6af753713a4158df9",
+      "externalIds": {
+        "ArXiv": "2004.09416",
+        "DBLP": "conf/icpr/JangSS20",
+        "MAG": "3016414872",
+        "DOI": "10.1109/ICPR48806.2021.9413206",
+        "CorpusId": 215828214
+      },
+      "url": "https://www.semanticscholar.org/paper/a7a0bd25fc7320e28bcf5da6af753713a4158df9",
+      "title": "VOWEL: A Local Online Learning Rule for Recurrent Networks of Probabilistic Spiking Winner- Take-All Circuits",
+      "venue": "International Conference on Pattern Recognition",
+      "year": 2020,
+      "referenceCount": 52,
+      "citationCount": 14,
+      "authors": [
+        {
+          "authorId": "2239503",
+          "name": "Hyeryung Jang"
+        },
+        {
+          "authorId": "147710847",
+          "name": "N. Skatchkovsky"
+        },
+        {
+          "authorId": "1705869",
+          "name": "O. Simeone"
+        }
+      ]
+    }
+  ]
+}

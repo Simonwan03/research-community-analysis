@@ -1,0 +1,1128 @@
+{
+  "offset": 0,
+  "citingPaperInfo": {
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/1502.02009, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "title": "A General Analysis of the Convergence of ADMM",
+    "authors": [
+      {
+        "authorId": "34994156",
+        "name": "Robert Nishihara"
+      },
+      {
+        "authorId": "1723445",
+        "name": "Laurent Lessard"
+      },
+      {
+        "authorId": "9229182",
+        "name": "B. Recht"
+      },
+      {
+        "authorId": "144607008",
+        "name": "A. Packard"
+      },
+      {
+        "authorId": "1694621",
+        "name": "Michael I. Jordan"
+      }
+    ]
+  },
+  "data": [
+    {
+      "citedPaper": {
+        "paperId": "174839db62a0322cbabbd2e9b7e1e6df7af0b00e",
+        "externalIds": {
+          "DBLP": "journals/jscic/DengY16",
+          "MAG": "1549918636",
+          "DOI": "10.1007/s10915-015-0048-x",
+          "CorpusId": 352281
+        },
+        "url": "https://www.semanticscholar.org/paper/174839db62a0322cbabbd2e9b7e1e6df7af0b00e",
+        "title": "On the Global and Linear Convergence of the Generalized Alternating Direction Method of Multipliers",
+        "venue": "Journal of Scientific Computing",
+        "year": 2016,
+        "referenceCount": 40,
+        "citationCount": 718,
+        "authors": [
+          {
+            "authorId": "2066619342",
+            "name": "W. Deng"
+          },
+          {
+            "authorId": "6833606",
+            "name": "W. Yin"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "04ca5de59edbdd49a9c0502c58331524d220bc8c",
+        "externalIds": {
+          "MAG": "2127941149",
+          "DBLP": "conf/nips/LiASY14",
+          "CorpusId": 2235165
+        },
+        "url": "https://www.semanticscholar.org/paper/04ca5de59edbdd49a9c0502c58331524d220bc8c",
+        "title": "Communication Efficient Distributed Machine Learning with the Parameter Server",
+        "venue": "Neural Information Processing Systems",
+        "year": 2014,
+        "referenceCount": 39,
+        "citationCount": 698,
+        "authors": [
+          {
+            "authorId": "2124778071",
+            "name": "Mu Li"
+          },
+          {
+            "authorId": "34752743",
+            "name": "D. Andersen"
+          },
+          {
+            "authorId": "46234526",
+            "name": "Alex Smola"
+          },
+          {
+            "authorId": "144782042",
+            "name": "Kai Yu"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "50bd34e773f2f9dd76f0d4d4b839965c491cd59e",
+        "externalIds": {
+          "DBLP": "conf/cdc/GiselssonB14",
+          "MAG": "1966333543",
+          "DOI": "10.1109/CDC.2014.7040175",
+          "CorpusId": 1254090
+        },
+        "url": "https://www.semanticscholar.org/paper/50bd34e773f2f9dd76f0d4d4b839965c491cd59e",
+        "title": "Diagonal scaling in Douglas-Rachford splitting and ADMM",
+        "venue": "IEEE Conference on Decision and Control",
+        "year": 2014,
+        "referenceCount": 27,
+        "citationCount": 89,
+        "authors": [
+          {
+            "authorId": "2047706",
+            "name": "Pontus Giselsson"
+          },
+          {
+            "authorId": "1843103",
+            "name": "Stephen P. Boyd"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "779f4de3de3da1ba2c67cbebe2d1b0413746558b",
+        "externalIds": {
+          "MAG": "2089969453",
+          "DBLP": "conf/cdc/IutzelerBCH14",
+          "DOI": "10.1109/CDC.2014.7040177",
+          "CorpusId": 772616
+        },
+        "url": "https://www.semanticscholar.org/paper/779f4de3de3da1ba2c67cbebe2d1b0413746558b",
+        "title": "Linear convergence rate for distributed optimization with the alternating direction method of multipliers",
+        "venue": "IEEE Conference on Decision and Control",
+        "year": 2014,
+        "referenceCount": 24,
+        "citationCount": 12,
+        "authors": [
+          {
+            "authorId": "3060709",
+            "name": "F. Iutzeler"
+          },
+          {
+            "authorId": "48362308",
+            "name": "P. Bianchi"
+          },
+          {
+            "authorId": "1719017",
+            "name": "P. Ciblat"
+          },
+          {
+            "authorId": "1742654",
+            "name": "W. Hachem"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "27b69b314bc1eaf7224db680e68ed83dec5952ba",
+        "externalIds": {
+          "DBLP": "journals/corr/LessardRP14",
+          "MAG": "2953094203",
+          "ArXiv": "1408.3595",
+          "DOI": "10.1137/15M1009597",
+          "CorpusId": 643019
+        },
+        "url": "https://www.semanticscholar.org/paper/27b69b314bc1eaf7224db680e68ed83dec5952ba",
+        "title": "Analysis and Design of Optimization Algorithms via Integral Quadratic Constraints",
+        "venue": "SIAM Journal on Optimization",
+        "year": 2014,
+        "referenceCount": 55,
+        "citationCount": 688,
+        "authors": [
+          {
+            "authorId": "1723445",
+            "name": "Laurent Lessard"
+          },
+          {
+            "authorId": "9229182",
+            "name": "B. Recht"
+          },
+          {
+            "authorId": "144607008",
+            "name": "A. Packard"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "b1dc0fa0edd9ccf77f6a3df48833f6e48fc40068",
+        "externalIds": {
+          "MAG": "2076261573",
+          "DBLP": "journals/siamis/GoldsteinOSB14",
+          "DOI": "10.1137/120896219",
+          "CorpusId": 7389881
+        },
+        "url": "https://www.semanticscholar.org/paper/b1dc0fa0edd9ccf77f6a3df48833f6e48fc40068",
+        "title": "Fast Alternating Direction Optimization Methods",
+        "venue": "SIAM Journal of Imaging Sciences",
+        "year": 2014,
+        "referenceCount": 55,
+        "citationCount": 819,
+        "authors": [
+          {
+            "authorId": "1962083",
+            "name": "T. Goldstein"
+          },
+          {
+            "authorId": "1389654226",
+            "name": "Brendan O'Donoghue"
+          },
+          {
+            "authorId": "1743254",
+            "name": "S. Setzer"
+          },
+          {
+            "authorId": "144908066",
+            "name": "Richard Baraniuk"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "177767336b0a2a6bf635bb52a8ae0ea87d479de0",
+        "externalIds": {
+          "MAG": "2951090613",
+          "DBLP": "conf/cdc/PatrinosSB14",
+          "ArXiv": "1407.6723",
+          "DOI": "10.1109/CDC.2014.7040049",
+          "CorpusId": 7950161
+        },
+        "url": "https://www.semanticscholar.org/paper/177767336b0a2a6bf635bb52a8ae0ea87d479de0",
+        "title": "Douglas-rachford splitting: Complexity estimates and accelerated variants",
+        "venue": "IEEE Conference on Decision and Control",
+        "year": 2014,
+        "referenceCount": 27,
+        "citationCount": 87,
+        "authors": [
+          {
+            "authorId": "1772856",
+            "name": "Panagiotis Patrinos"
+          },
+          {
+            "authorId": "2066263139",
+            "name": "L. Stella"
+          },
+          {
+            "authorId": "1759256",
+            "name": "A. Bemporad"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "833b96f9baf2b54a07e592623b3533d3d12d30b3",
+        "externalIds": {
+          "MAG": "2951264764",
+          "DBLP": "journals/mor/DavisY17",
+          "ArXiv": "1407.5210",
+          "DOI": "10.1287/moor.2016.0827",
+          "CorpusId": 12509562
+        },
+        "url": "https://www.semanticscholar.org/paper/833b96f9baf2b54a07e592623b3533d3d12d30b3",
+        "title": "Faster Convergence Rates of Relaxed Peaceman-Rachford and ADMM Under Regularity Assumptions",
+        "venue": "Mathematics of Operations Research",
+        "year": 2014,
+        "referenceCount": 38,
+        "citationCount": 154,
+        "authors": [
+          {
+            "authorId": "40047103",
+            "name": "Damek Davis"
+          },
+          {
+            "authorId": "6833606",
+            "name": "W. Yin"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "990a17a9f9d02bf489a25e2e2980fab4e6f52642",
+        "externalIds": {
+          "MAG": "130696423",
+          "DBLP": "conf/icml/ZhangK14",
+          "CorpusId": 14678299
+        },
+        "url": "https://www.semanticscholar.org/paper/990a17a9f9d02bf489a25e2e2980fab4e6f52642",
+        "title": "Asynchronous Distributed ADMM for Consensus Optimization",
+        "venue": "International Conference on Machine Learning",
+        "year": 2014,
+        "referenceCount": 23,
+        "citationCount": 404,
+        "authors": [
+          {
+            "authorId": "2109972030",
+            "name": "Ruiliang Zhang"
+          },
+          {
+            "authorId": "145193332",
+            "name": "J. Kwok"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "aa97d4e589190a107d63e50d611715fe8e7f0486",
+        "externalIds": {
+          "ArXiv": "1406.4834",
+          "MAG": "2216134724",
+          "DOI": "10.1007/978-3-319-41589-5_4",
+          "CorpusId": 10925523
+        },
+        "url": "https://www.semanticscholar.org/paper/aa97d4e589190a107d63e50d611715fe8e7f0486",
+        "title": "Convergence Rate Analysis of Several Splitting Schemes",
+        "venue": "",
+        "year": 2014,
+        "referenceCount": 66,
+        "citationCount": 286,
+        "authors": [
+          {
+            "authorId": "40047103",
+            "name": "Damek Davis"
+          },
+          {
+            "authorId": "6833606",
+            "name": "W. Yin"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "70ab915d22f8e7fb08f4442e900fc56044d82ed2",
+        "externalIds": {
+          "ArXiv": "1404.6163",
+          "DBLP": "journals/corr/BehmardiAB14",
+          "CorpusId": 7144534
+        },
+        "url": "https://www.semanticscholar.org/paper/70ab915d22f8e7fb08f4442e900fc56044d82ed2",
+        "title": "Overlapping Trace Norms in Multi-View Learning",
+        "venue": "arXiv.org",
+        "year": 2014,
+        "referenceCount": 33,
+        "citationCount": 2,
+        "authors": [
+          {
+            "authorId": "2476091",
+            "name": "Behrouz Behmardi"
+          },
+          {
+            "authorId": "2824663",
+            "name": "C. Archambeau"
+          },
+          {
+            "authorId": "1684865",
+            "name": "Guillaume Bouchard"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "041a8d1ac6b9b1a19b29f0d0b8e4a7bd6ab37875",
+        "externalIds": {
+          "MAG": "1532777473",
+          "ArXiv": "1402.6655",
+          "CorpusId": 49915283
+        },
+        "url": "https://www.semanticscholar.org/paper/041a8d1ac6b9b1a19b29f0d0b8e4a7bd6ab37875",
+        "title": "Forward-backward truncated Newton methods for convex composite optimization",
+        "venue": "",
+        "year": 2014,
+        "referenceCount": 75,
+        "citationCount": 60,
+        "authors": [
+          {
+            "authorId": "1772856",
+            "name": "Panagiotis Patrinos"
+          },
+          {
+            "authorId": "2066263139",
+            "name": "L. Stella"
+          },
+          {
+            "authorId": "1759256",
+            "name": "A. Bemporad"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "7bdc0143e92813ea69e61252b4335526bee820ec",
+        "externalIds": {
+          "ArXiv": "1402.5131",
+          "MAG": "2170299295",
+          "DBLP": "conf/nips/SedghiAJ14",
+          "CorpusId": 8387891
+        },
+        "url": "https://www.semanticscholar.org/paper/7bdc0143e92813ea69e61252b4335526bee820ec",
+        "title": "Multi-Step Stochastic ADMM in High Dimensions: Applications to Sparse Optimization and Matrix Decomposition",
+        "venue": "Neural Information Processing Systems",
+        "year": 2014,
+        "referenceCount": 45,
+        "citationCount": 13,
+        "authors": [
+          {
+            "authorId": "2812848",
+            "name": "Hanie Sedghi"
+          },
+          {
+            "authorId": "2047844",
+            "name": "Anima Anandkumar"
+          },
+          {
+            "authorId": "2121224952",
+            "name": "E. Jonckheere"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "341a9e4848d7743c93dd7fa170d724a732ddff49",
+        "externalIds": {
+          "MAG": "2519209343",
+          "CorpusId": 125752751
+        },
+        "url": "https://www.semanticscholar.org/paper/341a9e4848d7743c93dd7fa170d724a732ddff49",
+        "title": "Forward-backward truncated Newton methods for large-scale convex composite optimization",
+        "venue": "",
+        "year": 2014,
+        "referenceCount": 0,
+        "citationCount": 11,
+        "authors": [
+          {
+            "authorId": "72479926",
+            "name": "P. Patrinos"
+          },
+          {
+            "authorId": "2066263139",
+            "name": "L. Stella"
+          },
+          {
+            "authorId": "1759256",
+            "name": "A. Bemporad"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "75dff341de9f9da19b32392253bda2ca770d6a0e",
+        "externalIds": {
+          "MAG": "2095938605",
+          "DBLP": "conf/nips/WangBHRD13",
+          "CorpusId": 6302442
+        },
+        "url": "https://www.semanticscholar.org/paper/75dff341de9f9da19b32392253bda2ca770d6a0e",
+        "title": "Large Scale Distributed Sparse Precision Estimation",
+        "venue": "Neural Information Processing Systems",
+        "year": 2013,
+        "referenceCount": 30,
+        "citationCount": 39,
+        "authors": [
+          {
+            "authorId": "3909454",
+            "name": "Huahua Wang"
+          },
+          {
+            "authorId": "144205696",
+            "name": "A. Banerjee"
+          },
+          {
+            "authorId": "1793529",
+            "name": "Cho-Jui Hsieh"
+          },
+          {
+            "authorId": "145969795",
+            "name": "Pradeep Ravikumar"
+          },
+          {
+            "authorId": "1783667",
+            "name": "I. Dhillon"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "447d6bc9600f8be29d1a29f3d3011cb4d159ec47",
+        "externalIds": {
+          "DBLP": "conf/nips/AslanCZS13",
+          "MAG": "2625024868",
+          "CorpusId": 2632960
+        },
+        "url": "https://www.semanticscholar.org/paper/447d6bc9600f8be29d1a29f3d3011cb4d159ec47",
+        "title": "Convex Two-Layer Modeling",
+        "venue": "Neural Information Processing Systems",
+        "year": 2013,
+        "referenceCount": 38,
+        "citationCount": 12,
+        "authors": [
+          {
+            "authorId": "2166611",
+            "name": "Özlem Aslan"
+          },
+          {
+            "authorId": "47413820",
+            "name": "Hao Cheng"
+          },
+          {
+            "authorId": "2108029096",
+            "name": "Xinhua Zhang"
+          },
+          {
+            "authorId": "1714772",
+            "name": "Dale Schuurmans"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "a31608d69dc87b399589ef3be4143a85e45eac98",
+        "externalIds": {
+          "DBLP": "conf/acml/ForouzanI13",
+          "MAG": "2130300788",
+          "CorpusId": 1698805
+        },
+        "url": "https://www.semanticscholar.org/paper/a31608d69dc87b399589ef3be4143a85e45eac98",
+        "title": "Linear Approximation to ADMM for MAP inference",
+        "venue": "Asian Conference on Machine Learning",
+        "year": 2013,
+        "referenceCount": 17,
+        "citationCount": 5,
+        "authors": [
+          {
+            "authorId": "1880110",
+            "name": "Sholeh Forouzan"
+          },
+          {
+            "authorId": "1740137",
+            "name": "A. Ihler"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "03f56ade9538f02afed27affd8e7101879d32328",
+        "externalIds": {
+          "DBLP": "conf/nips/Romera-ParedesP13",
+          "ArXiv": "1307.4653",
+          "MAG": "2963980562",
+          "CorpusId": 208427
+        },
+        "url": "https://www.semanticscholar.org/paper/03f56ade9538f02afed27affd8e7101879d32328",
+        "title": "A New Convex Relaxation for Tensor Completion",
+        "venue": "Neural Information Processing Systems",
+        "year": 2013,
+        "referenceCount": 31,
+        "citationCount": 192,
+        "authors": [
+          {
+            "authorId": "1403031665",
+            "name": "Bernardino Romera-Paredes"
+          },
+          {
+            "authorId": "1704699",
+            "name": "M. Pontil"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "14c0cd1288ecc2f8e388cf3fc105034fd6e651ef",
+        "externalIds": {
+          "MAG": "2037603831",
+          "DBLP": "journals/tac/GhadimiTSJ15",
+          "ArXiv": "1306.2454",
+          "DOI": "10.1109/TAC.2014.2354892",
+          "CorpusId": 12490183
+        },
+        "url": "https://www.semanticscholar.org/paper/14c0cd1288ecc2f8e388cf3fc105034fd6e651ef",
+        "title": "Optimal Parameter Selection for the Alternating Direction Method of Multipliers (ADMM): Quadratic Problems",
+        "venue": "IEEE Transactions on Automatic Control",
+        "year": 2013,
+        "referenceCount": 37,
+        "citationCount": 562,
+        "authors": [
+          {
+            "authorId": "3036345",
+            "name": "E. Ghadimi"
+          },
+          {
+            "authorId": "2052782219",
+            "name": "André Teixeira"
+          },
+          {
+            "authorId": "2426480",
+            "name": "I. Shames"
+          },
+          {
+            "authorId": "145850658",
+            "name": "M. Johansson"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "86a8925bce624b8abdab2380e7c22292ed978d13",
+        "externalIds": {
+          "MAG": "2951002577",
+          "ArXiv": "1208.3922",
+          "DBLP": "journals/mp/HongL17",
+          "DOI": "10.1007/s10107-016-1034-2",
+          "CorpusId": 6416654
+        },
+        "url": "https://www.semanticscholar.org/paper/86a8925bce624b8abdab2380e7c22292ed978d13",
+        "title": "On the linear convergence of the alternating direction method of multipliers",
+        "venue": "Mathematical programming",
+        "year": 2012,
+        "referenceCount": 68,
+        "citationCount": 762,
+        "authors": [
+          {
+            "authorId": "1793717",
+            "name": "Mingyi Hong"
+          },
+          {
+            "authorId": "144657347",
+            "name": "Z. Luo"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "79aad1639407a1b5abaf77d4e8ceb426fd2dc90c",
+        "externalIds": {
+          "MAG": "2952276033",
+          "DBLP": "conf/icml/WangB12",
+          "ArXiv": "1206.6448",
+          "CorpusId": 8114473
+        },
+        "url": "https://www.semanticscholar.org/paper/79aad1639407a1b5abaf77d4e8ceb426fd2dc90c",
+        "title": "Online Alternating Direction Method",
+        "venue": "International Conference on Machine Learning",
+        "year": 2012,
+        "referenceCount": 0,
+        "citationCount": 168,
+        "authors": []
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "fdc9b0fafc95c404314a7e63720f7c90fa0ae2a0",
+        "externalIds": {
+          "DBLP": "journals/jmlr/ZhangLS12",
+          "MAG": "2607355476",
+          "CorpusId": 9790337
+        },
+        "url": "https://www.semanticscholar.org/paper/fdc9b0fafc95c404314a7e63720f7c90fa0ae2a0",
+        "title": "Efficient Distributed Linear Classification Algorithms via the Alternating Direction Method of Multipliers",
+        "venue": "International Conference on Artificial Intelligence and Statistics",
+        "year": 2012,
+        "referenceCount": 20,
+        "citationCount": 69,
+        "authors": [
+          {
+            "authorId": "1801994",
+            "name": "Caoxie Zhang"
+          },
+          {
+            "authorId": "1697141",
+            "name": "Honglak Lee"
+          },
+          {
+            "authorId": "144276974",
+            "name": "K. Shin"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "bc4169bf60eb5a0e4cd0b377ef8762dbeb2ab13e",
+        "externalIds": {
+          "MAG": "2029460515",
+          "ArXiv": "1203.1828",
+          "DOI": "10.3182/20120711-3-BE-2027.00310",
+          "CorpusId": 3164571
+        },
+        "url": "https://www.semanticscholar.org/paper/bc4169bf60eb5a0e4cd0b377ef8762dbeb2ab13e",
+        "title": "An ADMM Algorithm for a Class of Total Variation Regularized Estimation Problems",
+        "venue": "",
+        "year": 2012,
+        "referenceCount": 15,
+        "citationCount": 277,
+        "authors": [
+          {
+            "authorId": "1738269",
+            "name": "B. Wahlberg"
+          },
+          {
+            "authorId": "1843103",
+            "name": "Stephen P. Boyd"
+          },
+          {
+            "authorId": "2952272",
+            "name": "Mariette Annergren"
+          },
+          {
+            "authorId": "2155655280",
+            "name": "Yang Wang"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "fb50f2b26844a926ec57f1445d8ffd4079d2ec7a",
+        "externalIds": {
+          "DBLP": "conf/pkdd/MeshiG11",
+          "MAG": "2229674747",
+          "DOI": "10.1007/978-3-642-23783-6_30",
+          "CorpusId": 6026646
+        },
+        "url": "https://www.semanticscholar.org/paper/fb50f2b26844a926ec57f1445d8ffd4079d2ec7a",
+        "title": "An Alternating Direction Method for Dual MAP LP Relaxation",
+        "venue": "ECML/PKDD",
+        "year": 2011,
+        "referenceCount": 31,
+        "citationCount": 82,
+        "authors": [
+          {
+            "authorId": "3174612",
+            "name": "Ofer Meshi"
+          },
+          {
+            "authorId": "1786843",
+            "name": "A. Globerson"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "85e4dbcff0b63773db298562ae3fff258eea195f",
+        "externalIds": {
+          "DBLP": "journals/ftml/BoydPCPE11",
+          "MAG": "2164278908",
+          "CorpusId": 51789432
+        },
+        "url": "https://www.semanticscholar.org/paper/85e4dbcff0b63773db298562ae3fff258eea195f",
+        "title": "Distributed Optimization and Statistical Learning via the Alternating Direction Method of Multipliers",
+        "venue": "Found. Trends Mach. Learn.",
+        "year": 2011,
+        "referenceCount": 181,
+        "citationCount": 6383,
+        "authors": [
+          {
+            "authorId": "2265550017",
+            "name": "Stephen P. Boyd"
+          },
+          {
+            "authorId": "46822591",
+            "name": "Neal Parikh"
+          },
+          {
+            "authorId": "2277280019",
+            "name": "Eric Chu"
+          },
+          {
+            "authorId": "2277389952",
+            "name": "Borja Peleato"
+          },
+          {
+            "authorId": "3809476",
+            "name": "Jonathan Eckstein"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "e4163a51f0abf89852d3698add9e79da3b402211",
+        "externalIds": {
+          "MAG": "2132291180",
+          "DBLP": "journals/jmlr/ForeroCG10",
+          "DOI": "10.5555/1756006.1859906",
+          "CorpusId": 16514400
+        },
+        "url": "https://www.semanticscholar.org/paper/e4163a51f0abf89852d3698add9e79da3b402211",
+        "title": "Consensus-Based Distributed Support Vector Machines",
+        "venue": "Journal of machine learning research",
+        "year": 2010,
+        "referenceCount": 36,
+        "citationCount": 424,
+        "authors": [
+          {
+            "authorId": "145448164",
+            "name": "Pedro A. Forero"
+          },
+          {
+            "authorId": "145278313",
+            "name": "A. Cano"
+          },
+          {
+            "authorId": "144321300",
+            "name": "G. Giannakis"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "6ffc3965342faf3be2cd73e1ea15ca2569a7dd92",
+        "externalIds": {
+          "ArXiv": "1002.4527",
+          "MAG": "2084252873",
+          "DBLP": "conf/whispers/Bioucas-DiasF10",
+          "DOI": "10.1109/WHISPERS.2010.5594963",
+          "CorpusId": 11927662
+        },
+        "url": "https://www.semanticscholar.org/paper/6ffc3965342faf3be2cd73e1ea15ca2569a7dd92",
+        "title": "Alternating direction algorithms for constrained sparse regression: Application to hyperspectral unmixing",
+        "venue": "Workshop on Hyperspectral Image and Signal Processing",
+        "year": 2010,
+        "referenceCount": 25,
+        "citationCount": 665,
+        "authors": [
+          {
+            "authorId": "1399086996",
+            "name": "J. Bioucas-Dias"
+          },
+          {
+            "authorId": "34659351",
+            "name": "Mário A. T. Figueiredo"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "a3da92a715b95ee2aae0fafab4becc4a678284f3",
+        "externalIds": {
+          "MAG": "2143552821",
+          "DBLP": "journals/informs/EcksteinF98",
+          "DOI": "10.1287/ijoc.10.2.218",
+          "CorpusId": 10703534
+        },
+        "url": "https://www.semanticscholar.org/paper/a3da92a715b95ee2aae0fafab4becc4a678284f3",
+        "title": "Operator-Splitting Methods for Monotone Affine Variational Inequalities, with a Parallel Application to Optimal Control",
+        "venue": "INFORMS journal on computing",
+        "year": 1998,
+        "referenceCount": 47,
+        "citationCount": 114,
+        "authors": [
+          {
+            "authorId": "3809476",
+            "name": "Jonathan Eckstein"
+          },
+          {
+            "authorId": "5106399",
+            "name": "M. Ferris"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "ddb25ab79cee85194c2183e731075288f7276295",
+        "externalIds": {
+          "MAG": "2058532290",
+          "DBLP": "journals/mp/EcksteinB92",
+          "DOI": "10.1007/BF01581204",
+          "CorpusId": 15551627
+        },
+        "url": "https://www.semanticscholar.org/paper/ddb25ab79cee85194c2183e731075288f7276295",
+        "title": "On the Douglas—Rachford splitting method and the proximal point algorithm for maximal monotone operators",
+        "venue": "Mathematical programming",
+        "year": 1992,
+        "referenceCount": 57,
+        "citationCount": 3005,
+        "authors": [
+          {
+            "authorId": "3809476",
+            "name": "Jonathan Eckstein"
+          },
+          {
+            "authorId": "1786249",
+            "name": "D. Bertsekas"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "1409fd9b10f54267f1e952813ce1bc715b582ec9",
+        "externalIds": {
+          "MAG": "1583117945",
+          "DOI": "10.1007/BF00939420",
+          "CorpusId": 117638333
+        },
+        "url": "https://www.semanticscholar.org/paper/1409fd9b10f54267f1e952813ce1bc715b582ec9",
+        "title": "Guaranteed rates of exponential convergence for uncertain systems",
+        "venue": "",
+        "year": 1990,
+        "referenceCount": 4,
+        "citationCount": 107,
+        "authors": [
+          {
+            "authorId": "102947208",
+            "name": "M. Corelss"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "72d8e4028d4fa1ac85869c43baa6e2781c61f906",
+        "externalIds": {
+          "MAG": "2019569173",
+          "DOI": "10.1137/0716071",
+          "CorpusId": 120554278
+        },
+        "url": "https://www.semanticscholar.org/paper/72d8e4028d4fa1ac85869c43baa6e2781c61f906",
+        "title": "Splitting Algorithms for the Sum of Two Nonlinear Operators",
+        "venue": "",
+        "year": 1979,
+        "referenceCount": 0,
+        "citationCount": 2226,
+        "authors": [
+          {
+            "authorId": "3296093",
+            "name": "P. Lions"
+          },
+          {
+            "authorId": "143915530",
+            "name": "B. Mercier"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "2c170cbb98542a7e6ac209d45222b3f67274e6d0",
+        "externalIds": {
+          "DBLP": "phd/basesearch/Bird14",
+          "MAG": "2209976336",
+          "CorpusId": 8032767
+        },
+        "url": "https://www.semanticscholar.org/paper/2c170cbb98542a7e6ac209d45222b3f67274e6d0",
+        "title": "Optimizing Resource Allocations for Dynamic Interactive Applications",
+        "venue": "",
+        "year": 2014,
+        "referenceCount": 162,
+        "citationCount": 5,
+        "authors": [
+          {
+            "authorId": "145583374",
+            "name": "Sarah Bird"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "bd4e61bc436d09d43704526570dde9d63c94e89c",
+        "externalIds": {
+          "MAG": "2328736443",
+          "DOI": "10.3934/NACO.2013.3.175",
+          "CorpusId": 124642915
+        },
+        "url": "https://www.semanticscholar.org/paper/bd4e61bc436d09d43704526570dde9d63c94e89c",
+        "title": "Incremental quadratic stability",
+        "venue": "",
+        "year": 2013,
+        "referenceCount": 27,
+        "citationCount": 68,
+        "authors": [
+          {
+            "authorId": "1450791598",
+            "name": "L. D'Alto"
+          },
+          {
+            "authorId": "145958653",
+            "name": "M. Corless"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "be6b24892c848726f1c089eee6131a626bb234de",
+        "externalIds": {
+          "MAG": "1980693794",
+          "DOI": "10.1007/BF02196592",
+          "CorpusId": 120193595
+        },
+        "url": "https://www.semanticscholar.org/paper/be6b24892c848726f1c089eee6131a626bb234de",
+        "title": "Parallel alternating direction multiplier decomposition of convex programs",
+        "venue": "",
+        "year": 1994,
+        "referenceCount": 20,
+        "citationCount": 165,
+        "authors": [
+          {
+            "authorId": "3809476",
+            "name": "Jonathan Eckstein"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "f3729fc42271194db67ad119c62388abef3b1d92",
+        "externalIds": {
+          "CorpusId": 269615291
+        },
+        "url": "https://www.semanticscholar.org/paper/f3729fc42271194db67ad119c62388abef3b1d92",
+        "title": "Operator Splitting Methods for Monotone Aane Variational Inequalities, with a Parallel Application to Optimal Control",
+        "venue": "",
+        "year": 1994,
+        "referenceCount": 47,
+        "citationCount": 6,
+        "authors": [
+          {
+            "authorId": "2300185022",
+            "name": "Jonathan Ecksteiny"
+          },
+          {
+            "authorId": "2105773724",
+            "name": "Michael C. Ferrisz"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "02e4f29e52de53b3b07137c84b73d79e6d221c7f",
+        "externalIds": {
+          "MAG": "2320049997",
+          "CorpusId": 124447905
+        },
+        "url": "https://www.semanticscholar.org/paper/02e4f29e52de53b3b07137c84b73d79e6d221c7f",
+        "title": "Mathematical modelling and numerical analysis : Modélisation mathématique et analyse numérique.",
+        "venue": "",
+        "year": 1985,
+        "referenceCount": 0,
+        "citationCount": 121,
+        "authors": [
+          {
+            "authorId": "102846724",
+            "name": "Société de mathématiques appliquées et industrielles"
+          },
+          {
+            "authorId": "70184938",
+            "name": "Numérisation de documents anciens mathématiques"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "590a9861295cc29cf54e80c6e3adde2ca26ef9af",
+        "externalIds": {
+          "MAG": "2045079045",
+          "DOI": "10.1016/0898-1221(76)90003-1",
+          "CorpusId": 174707
+        },
+        "url": "https://www.semanticscholar.org/paper/590a9861295cc29cf54e80c6e3adde2ca26ef9af",
+        "title": "A dual algorithm for the solution of nonlinear variational problems via finite element approximation",
+        "venue": "",
+        "year": 1976,
+        "referenceCount": 30,
+        "citationCount": 2799,
+        "authors": [
+          {
+            "authorId": "10419577",
+            "name": "D. Gabay"
+          },
+          {
+            "authorId": "143915530",
+            "name": "B. Mercier"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "1b5cc57e138cf29eae8c771007bd00cd5aefad7a",
+        "externalIds": {
+          "MAG": "2244987555",
+          "DOI": "10.1051/M2AN/197509R200411",
+          "CorpusId": 124034911
+        },
+        "url": "https://www.semanticscholar.org/paper/1b5cc57e138cf29eae8c771007bd00cd5aefad7a",
+        "title": "Sur l'approximation, par éléments finis d'ordre un, et la résolution, par pénalisation-dualité d'une classe de problèmes de Dirichlet non linéaires",
+        "venue": "",
+        "year": 1975,
+        "referenceCount": 11,
+        "citationCount": 1549,
+        "authors": [
+          {
+            "authorId": "2065960850",
+            "name": "R. Glowinski"
+          },
+          {
+            "authorId": "103111255",
+            "name": "A. Marroco"
+          }
+        ]
+      }
+    }
+  ]
+}

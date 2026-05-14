@@ -1,0 +1,951 @@
+{
+  "offset": 0,
+  "citingPaperInfo": {
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/1502.01403, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "title": "Distributed Estimation of Generalized Matrix Rank: Efficient Algorithms and Lower Bounds",
+    "authors": [
+      {
+        "authorId": "2108471978",
+        "name": "Yuchen Zhang"
+      },
+      {
+        "authorId": "1721860",
+        "name": "M. Wainwright"
+      },
+      {
+        "authorId": "1694621",
+        "name": "Michael I. Jordan"
+      }
+    ]
+  },
+  "data": [
+    {
+      "citedPaper": {
+        "paperId": "356413dedfdc41a61aa9a581ff92fee26b2bab9c",
+        "externalIds": {
+          "MAG": "2970035538",
+          "DBLP": "reference/algo/Chakrabarti16",
+          "DOI": "10.1007/978-1-4939-2864-4_799",
+          "CorpusId": 938310
+        },
+        "url": "https://www.semanticscholar.org/paper/356413dedfdc41a61aa9a581ff92fee26b2bab9c",
+        "title": "Communication Complexity",
+        "venue": "Encyclopedia of Algorithms",
+        "year": 2016,
+        "referenceCount": 50,
+        "citationCount": 1365,
+        "authors": [
+          {
+            "authorId": "28116339",
+            "name": "Amit Chakrabarti"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "ee4324d66cfd6e70d2b1033580a6e15dbe3827a3",
+        "externalIds": {
+          "DBLP": "journals/corr/LiSWW14",
+          "MAG": "2952813774",
+          "ArXiv": "1407.4755",
+          "DOI": "10.1007/978-3-662-45174-8_34",
+          "CorpusId": 16843295
+        },
+        "url": "https://www.semanticscholar.org/paper/ee4324d66cfd6e70d2b1033580a6e15dbe3827a3",
+        "title": "On the Communication Complexity of Linear Algebraic Problems in the Message Passing Model",
+        "venue": "International Symposium on Distributed Computing",
+        "year": 2014,
+        "referenceCount": 37,
+        "citationCount": 17,
+        "authors": [
+          {
+            "authorId": "39734316",
+            "name": "Yi Li"
+          },
+          {
+            "authorId": "9433084",
+            "name": "Xiaoming Sun"
+          },
+          {
+            "authorId": "2108755748",
+            "name": "Chenguang Wang"
+          },
+          {
+            "authorId": "143982862",
+            "name": "David P. Woodruff"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "b144b8ed1fe17bc5bbd659b6b885e7c991ab7b06",
+        "externalIds": {
+          "DBLP": "conf/soda/WoodruffZ14",
+          "MAG": "2402267017",
+          "DOI": "10.1137/1.9781611973402.54",
+          "CorpusId": 17643308
+        },
+        "url": "https://www.semanticscholar.org/paper/b144b8ed1fe17bc5bbd659b6b885e7c991ab7b06",
+        "title": "An Optimal Lower Bound for Distinct Elements in the Message Passing Model",
+        "venue": "ACM-SIAM Symposium on Discrete Algorithms",
+        "year": 2014,
+        "referenceCount": 26,
+        "citationCount": 43,
+        "authors": [
+          {
+            "authorId": "143982862",
+            "name": "David P. Woodruff"
+          },
+          {
+            "authorId": "1833768674",
+            "name": "Qin Zhang"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "acb7d1dcee4dc3421115df0dcb54e976049809bc",
+        "externalIds": {
+          "DBLP": "journals/nla/NapoliPS16",
+          "ArXiv": "1308.4275",
+          "MAG": "2952283347",
+          "DOI": "10.1002/nla.2048",
+          "CorpusId": 9735962
+        },
+        "url": "https://www.semanticscholar.org/paper/acb7d1dcee4dc3421115df0dcb54e976049809bc",
+        "title": "Efficient estimation of eigenvalue counts in an interval",
+        "venue": "Numerical Linear Algebra with Applications",
+        "year": 2013,
+        "referenceCount": 41,
+        "citationCount": 165,
+        "authors": [
+          {
+            "authorId": "31644398",
+            "name": "E. D. Napoli"
+          },
+          {
+            "authorId": "3337342",
+            "name": "E. Polizzi"
+          },
+          {
+            "authorId": "1765199",
+            "name": "Y. Saad"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "bf31569c8f8a88ac92cd724c804ca82faa28793a",
+        "externalIds": {
+          "MAG": "2163706185",
+          "ArXiv": "1304.3162",
+          "DBLP": "conf/colt/KannanVW14",
+          "CorpusId": 5601097
+        },
+        "url": "https://www.semanticscholar.org/paper/bf31569c8f8a88ac92cd724c804ca82faa28793a",
+        "title": "Principal Component Analysis and Higher Correlations for Distributed Data",
+        "venue": "Annual Conference Computational Learning Theory",
+        "year": 2013,
+        "referenceCount": 45,
+        "citationCount": 89,
+        "authors": [
+          {
+            "authorId": "144632403",
+            "name": "R. Kannan"
+          },
+          {
+            "authorId": "1737804",
+            "name": "S. Vempala"
+          },
+          {
+            "authorId": "143982862",
+            "name": "David P. Woodruff"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "26052e1abb03c42012694debf72425ea3c328ae2",
+        "externalIds": {
+          "MAG": "1985217790",
+          "DBLP": "journals/cphysics/SchofieldCS12",
+          "DOI": "10.1016/J.CPC.2011.11.005",
+          "CorpusId": 16279092
+        },
+        "url": "https://www.semanticscholar.org/paper/26052e1abb03c42012694debf72425ea3c328ae2",
+        "title": "A spectrum slicing method for the Kohn-Sham problem",
+        "venue": "Computer Physics Communications",
+        "year": 2012,
+        "referenceCount": 20,
+        "citationCount": 123,
+        "authors": [
+          {
+            "authorId": "46328692",
+            "name": "G. Schofield"
+          },
+          {
+            "authorId": "2004186",
+            "name": "J. Chelikowsky"
+          },
+          {
+            "authorId": "1765199",
+            "name": "Y. Saad"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "d07e8dc8e377858496fe3413ab2b6b2d189c3359",
+        "externalIds": {
+          "DBLP": "conf/stacs/SunW12",
+          "MAG": "2119024683",
+          "DOI": "10.4230/LIPIcs.STACS.2012.477",
+          "CorpusId": 9525677
+        },
+        "url": "https://www.semanticscholar.org/paper/d07e8dc8e377858496fe3413ab2b6b2d189c3359",
+        "title": "Randomized Communication Complexity for Linear Algebra Problems over Finite Fields",
+        "venue": "Symposium on Theoretical Aspects of Computer Science",
+        "year": 2012,
+        "referenceCount": 17,
+        "citationCount": 23,
+        "authors": [
+          {
+            "authorId": "9433084",
+            "name": "Xiaoming Sun"
+          },
+          {
+            "authorId": "2108755748",
+            "name": "Chenguang Wang"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "c8831d7d318b8d59f9b958d250a58f253f08bd8a",
+        "externalIds": {
+          "MAG": "2951443864",
+          "DBLP": "journals/jacm/CandesLMW11",
+          "ArXiv": "0912.3599",
+          "DOI": "10.1145/1970392.1970395",
+          "CorpusId": 7128002
+        },
+        "url": "https://www.semanticscholar.org/paper/c8831d7d318b8d59f9b958d250a58f253f08bd8a",
+        "title": "Robust principal component analysis?",
+        "venue": "JACM",
+        "year": 2009,
+        "referenceCount": 66,
+        "citationCount": 7365,
+        "authors": [
+          {
+            "authorId": "2006869",
+            "name": "E. Candès"
+          },
+          {
+            "authorId": "2118899110",
+            "name": "Xiaodong Li"
+          },
+          {
+            "authorId": "50032052",
+            "name": "Yi Ma"
+          },
+          {
+            "authorId": "143607492",
+            "name": "John Wright"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "df7e1cfa5999c3746a3bbc9817d924677ac8b8f0",
+        "externalIds": {
+          "MAG": "2950256799",
+          "DBLP": "journals/siamrev/HalkoMT11",
+          "DOI": "10.1137/090771806",
+          "CorpusId": 262495129
+        },
+        "url": "https://www.semanticscholar.org/paper/df7e1cfa5999c3746a3bbc9817d924677ac8b8f0",
+        "title": "Finding Structure with Randomness: Probabilistic Algorithms for Constructing Approximate Matrix Decompositions",
+        "venue": "SIAM Review",
+        "year": 2009,
+        "referenceCount": 156,
+        "citationCount": 2842,
+        "authors": [
+          {
+            "authorId": "40285154",
+            "name": "N. Halko"
+          },
+          {
+            "authorId": "145821418",
+            "name": "P. Martinsson"
+          },
+          {
+            "authorId": "1788107",
+            "name": "J. Tropp"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "db16e908246f32b60a6e0a8e27093aa145fbb1ed",
+        "externalIds": {
+          "MAG": "2140310134",
+          "DBLP": "journals/corr/abs-1205-2618",
+          "ArXiv": "1205.2618",
+          "CorpusId": 10795036
+        },
+        "url": "https://www.semanticscholar.org/paper/db16e908246f32b60a6e0a8e27093aa145fbb1ed",
+        "title": "BPR: Bayesian Personalized Ranking from Implicit Feedback",
+        "venue": "Conference on Uncertainty in Artificial Intelligence",
+        "year": 2009,
+        "referenceCount": 18,
+        "citationCount": 6531,
+        "authors": [
+          {
+            "authorId": "2843982",
+            "name": "Steffen Rendle"
+          },
+          {
+            "authorId": "1825333",
+            "name": "Christoph Freudenthaler"
+          },
+          {
+            "authorId": "2382247",
+            "name": "Zeno Gantner"
+          },
+          {
+            "authorId": "1388781075",
+            "name": "L. Schmidt-Thieme"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "6d8d4423d990d9398fcec42f0811bf8d81528592",
+        "externalIds": {
+          "DBLP": "conf/stoc/ClarksonW09",
+          "MAG": "2059867647",
+          "DOI": "10.1145/1536414.1536445",
+          "CorpusId": 13988984
+        },
+        "url": "https://www.semanticscholar.org/paper/6d8d4423d990d9398fcec42f0811bf8d81528592",
+        "title": "Numerical linear algebra in the streaming model",
+        "venue": "Symposium on the Theory of Computing",
+        "year": 2009,
+        "referenceCount": 25,
+        "citationCount": 394,
+        "authors": [
+          {
+            "authorId": "2055593",
+            "name": "K. Clarkson"
+          },
+          {
+            "authorId": "143982862",
+            "name": "David P. Woodruff"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "c4bde15f96fba8c20117695dc96062b2271795e5",
+        "externalIds": {
+          "MAG": "1998906317",
+          "ArXiv": "0901.2665",
+          "DBLP": "journals/corr/abs-0901-2665",
+          "DOI": "10.1103/PhysRevB.79.115112",
+          "CorpusId": 5847576
+        },
+        "url": "https://www.semanticscholar.org/paper/c4bde15f96fba8c20117695dc96062b2271795e5",
+        "title": "A Density Matrix-based Algorithm for Solving Eigenvalue Problems",
+        "venue": "arXiv.org",
+        "year": 2009,
+        "referenceCount": 27,
+        "citationCount": 377,
+        "authors": [
+          {
+            "authorId": "3337342",
+            "name": "E. Polizzi"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "b53387b47a1adb3ec59def75c4b20c5aeb764422",
+        "externalIds": {
+          "MAG": "2031968565",
+          "DOI": "10.1016/S0377-0427(03)00565-X",
+          "CorpusId": 121617566
+        },
+        "url": "https://www.semanticscholar.org/paper/b53387b47a1adb3ec59def75c4b20c5aeb764422",
+        "title": "A projection method for generalized eigenvalue problems using numerical integration",
+        "venue": "",
+        "year": 2003,
+        "referenceCount": 25,
+        "citationCount": 330,
+        "authors": [
+          {
+            "authorId": "143981780",
+            "name": "T. Sakurai"
+          },
+          {
+            "authorId": "145164168",
+            "name": "H. Sugiura"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "e11b2403a0b8ad3b4a747ce6fc915a8aee04eb6b",
+        "externalIds": {
+          "MAG": "2478431269",
+          "DBLP": "reference/stat/Jolliffe11",
+          "DOI": "10.1007/978-0-387-30164-8_665",
+          "CorpusId": 2534141
+        },
+        "url": "https://www.semanticscholar.org/paper/e11b2403a0b8ad3b4a747ce6fc915a8aee04eb6b",
+        "title": "Principal Component Analysis",
+        "venue": "Encyclopedia of Machine Learning",
+        "year": 2003,
+        "referenceCount": 126,
+        "citationCount": 28830,
+        "authors": [
+          {
+            "authorId": "1723515",
+            "name": "I. Jolliffe"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "f55238913918c61b0dad87974699d05a5d71e709",
+        "externalIds": {
+          "DBLP": "journals/rsa/DasguptaG03",
+          "MAG": "2088658556",
+          "DOI": "10.1002/RSA.10073",
+          "CorpusId": 10327785
+        },
+        "url": "https://www.semanticscholar.org/paper/f55238913918c61b0dad87974699d05a5d71e709",
+        "title": "An elementary proof of a theorem of Johnson and Lindenstrauss",
+        "venue": "Random Struct. Algorithms",
+        "year": 2003,
+        "referenceCount": 12,
+        "citationCount": 1134,
+        "authors": [
+          {
+            "authorId": "1880237",
+            "name": "S. Dasgupta"
+          },
+          {
+            "authorId": "2110759547",
+            "name": "Anupam Gupta"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "f82c52452c7de8cd6472202c1be2cce9fbcb8dda",
+        "externalIds": {
+          "DBLP": "conf/www/SarwarKKR01",
+          "MAG": "2042281163",
+          "DOI": "10.1145/371920.372071",
+          "CorpusId": 8047550
+        },
+        "url": "https://www.semanticscholar.org/paper/f82c52452c7de8cd6472202c1be2cce9fbcb8dda",
+        "title": "Item-based collaborative filtering recommendation algorithms",
+        "venue": "The Web Conference",
+        "year": 2001,
+        "referenceCount": 31,
+        "citationCount": 10055,
+        "authors": [
+          {
+            "authorId": "32646084",
+            "name": "B. Sarwar"
+          },
+          {
+            "authorId": "50877490",
+            "name": "G. Karypis"
+          },
+          {
+            "authorId": "2478310",
+            "name": "J. Konstan"
+          },
+          {
+            "authorId": "2579342",
+            "name": "J. Riedl"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "ffdeb722527ee5c244c74befa9a977650b6c7541",
+        "externalIds": {
+          "MAG": "2798707604",
+          "DOI": "10.1007/978-1-4612-0653-8",
+          "CorpusId": 125916114
+        },
+        "url": "https://www.semanticscholar.org/paper/ffdeb722527ee5c244c74befa9a977650b6c7541",
+        "title": "Matrix Analysis",
+        "venue": "",
+        "year": 1996,
+        "referenceCount": 0,
+        "citationCount": 1975,
+        "authors": [
+          {
+            "authorId": "145964449",
+            "name": "R. Bhatia"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "23bb94af4561fd2b8ed2217a09e225357d716d80",
+        "externalIds": {
+          "DBLP": "journals/mst/ChuS95",
+          "MAG": "2050080326",
+          "DOI": "10.1007/BF01303056",
+          "CorpusId": 36038077
+        },
+        "url": "https://www.semanticscholar.org/paper/23bb94af4561fd2b8ed2217a09e225357d716d80",
+        "title": "Communication complexity of matrix computation over finite fields",
+        "venue": "Mathematical Systems Theory",
+        "year": 1995,
+        "referenceCount": 15,
+        "citationCount": 8,
+        "authors": [
+          {
+            "authorId": "2514250",
+            "name": "Jeff I. Chu"
+          },
+          {
+            "authorId": "1809682",
+            "name": "G. Schnitger"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "a8d818ad565c44943fa7a49f4f08d6f548a4edc4",
+        "externalIds": {
+          "DBLP": "journals/jc/ChuS91",
+          "MAG": "2086459568",
+          "DOI": "10.1145/72935.72938",
+          "CorpusId": 14107499
+        },
+        "url": "https://www.semanticscholar.org/paper/a8d818ad565c44943fa7a49f4f08d6f548a4edc4",
+        "title": "The communication complexity of several problems in matrix computation",
+        "venue": "ACM Symposium on Parallelism in Algorithms and Architectures",
+        "year": 1989,
+        "referenceCount": 12,
+        "citationCount": 12,
+        "authors": [
+          {
+            "authorId": "2514250",
+            "name": "Jeff I. Chu"
+          },
+          {
+            "authorId": "1809682",
+            "name": "G. Schnitger"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "721f54f6fa32f5f02c5124a2b73ce5f4280b4eaf",
+        "externalIds": {
+          "MAG": "1428247533",
+          "DBLP": "books/daglib/0019187",
+          "DOI": "10.1017/CBO9780511810817.014",
+          "CorpusId": 43188859
+        },
+        "url": "https://www.semanticscholar.org/paper/721f54f6fa32f5f02c5124a2b73ce5f4280b4eaf",
+        "title": "Matrix analysis",
+        "venue": "",
+        "year": 1985,
+        "referenceCount": 0,
+        "citationCount": 27144,
+        "authors": [
+          {
+            "authorId": "2889875",
+            "name": "R. Horn"
+          },
+          {
+            "authorId": "144610701",
+            "name": "Charles R. Johnson"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "6aa050db40ccc02da84f8ea911e04b5611288d46",
+        "externalIds": {
+          "DBLP": "conf/stoc/DurisGS84",
+          "MAG": "2093303125",
+          "DOI": "10.1145/800057.808668",
+          "CorpusId": 271479
+        },
+        "url": "https://www.semanticscholar.org/paper/6aa050db40ccc02da84f8ea911e04b5611288d46",
+        "title": "Lower bounds on communication complexity",
+        "venue": "Symposium on the Theory of Computing",
+        "year": 1984,
+        "referenceCount": 17,
+        "citationCount": 214,
+        "authors": [
+          {
+            "authorId": "1680259",
+            "name": "P. Duris"
+          },
+          {
+            "authorId": "1694216",
+            "name": "Z. Galil"
+          },
+          {
+            "authorId": "1809682",
+            "name": "G. Schnitger"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "7bafdec9b8a08a7ce59067eb86068ca1f64c21cf",
+        "externalIds": {
+          "DBLP": "conf/stoc/Yao79",
+          "MAG": "2002501531",
+          "DOI": "10.1145/800135.804414",
+          "CorpusId": 999287
+        },
+        "url": "https://www.semanticscholar.org/paper/7bafdec9b8a08a7ce59067eb86068ca1f64c21cf",
+        "title": "Some complexity questions related to distributive computing(Preliminary Report)",
+        "venue": "Symposium on the Theory of Computing",
+        "year": 1979,
+        "referenceCount": 2,
+        "citationCount": 1323,
+        "authors": [
+          {
+            "authorId": "1770729",
+            "name": "A. Yao"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "bd8e32390368294d2c43182e7164a439806caa5c",
+        "externalIds": {
+          "MAG": "2035484943",
+          "DBLP": "journals/jacm/Abelson80",
+          "DOI": "10.1145/322186.322200",
+          "CorpusId": 6128245
+        },
+        "url": "https://www.semanticscholar.org/paper/bd8e32390368294d2c43182e7164a439806caa5c",
+        "title": "Lower bounds on information transfer in distributed computations",
+        "venue": "19th Annual Symposium on Foundations of Computer Science (sfcs 1978)",
+        "year": 1978,
+        "referenceCount": 6,
+        "citationCount": 128,
+        "authors": [
+          {
+            "authorId": "144027554",
+            "name": "H. Abelson"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "c0cc5393e102b9c4dcb36717ad1b429de94565f5",
+        "externalIds": {
+          "MAG": "2013943932",
+          "DOI": "10.1090/S0025-5718-1955-0071856-0",
+          "CorpusId": 121250561
+        },
+        "url": "https://www.semanticscholar.org/paper/c0cc5393e102b9c4dcb36717ad1b429de94565f5",
+        "title": "A note on the summation of Chebyshev series",
+        "venue": "",
+        "year": 1955,
+        "referenceCount": 1,
+        "citationCount": 292,
+        "authors": [
+          {
+            "authorId": "70406277",
+            "name": "C. W. Clenshaw"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "8112c4305b88d85199267e9e03d3a0aca4432059",
+        "externalIds": {
+          "MAG": "2004026774",
+          "DOI": "10.1007/BF02288367",
+          "CorpusId": 10163399
+        },
+        "url": "https://www.semanticscholar.org/paper/8112c4305b88d85199267e9e03d3a0aca4432059",
+        "title": "The approximation of one matrix by another of lower rank",
+        "venue": "",
+        "year": 1936,
+        "referenceCount": 0,
+        "citationCount": 4185,
+        "authors": [
+          {
+            "authorId": "37566996",
+            "name": "C. Eckart"
+          },
+          {
+            "authorId": "86970661",
+            "name": "Gale Young"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "Distributed Estimation of Generalized Matrix Rank: Efficient Algorithms and Lower Bounds",
+        "venue": "",
+        "year": 2015,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "Generalized Matrix Rank Estimation",
+        "venue": "Generalized Matrix Rank Estimation",
+        "year": 2015,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "444d70e3331b5083b40ef32e49390ef683a65e67",
+        "externalIds": {
+          "DBLP": "reference/parallel/X11ja",
+          "DOI": "10.1007/978-0-387-09766-4_2219",
+          "CorpusId": 291377
+        },
+        "url": "https://www.semanticscholar.org/paper/444d70e3331b5083b40ef32e49390ef683a65e67",
+        "title": "Matrix Computations",
+        "venue": "Encyclopedia of Parallel Computing",
+        "year": 2011,
+        "referenceCount": 5,
+        "citationCount": 13899,
+        "authors": [
+          {
+            "authorId": "2262191825",
+            "name": "Andrzej Chrzeszczyk"
+          },
+          {
+            "authorId": "1920259",
+            "name": "J. Kochanowski"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "78e36cfa36220038ea3d79d3b0cc689238074e51",
+        "externalIds": {
+          "MAG": "1482235099",
+          "DOI": "10.1090/mmono/188",
+          "CorpusId": 118023635
+        },
+        "url": "https://www.semanticscholar.org/paper/78e36cfa36220038ea3d79d3b0cc689238074e51",
+        "title": "Metric characterization of random variables and random processes",
+        "venue": "",
+        "year": 2000,
+        "referenceCount": 0,
+        "citationCount": 492,
+        "authors": [
+          {
+            "authorId": "100674584",
+            "name": "V. Buldygin"
+          },
+          {
+            "authorId": "102861456",
+            "name": "I. V. Kozachenko"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "7ba5078a4f81c74deb4c5e10fcb4aceb6eb635ef",
+        "externalIds": {
+          "CorpusId": 116694817
+        },
+        "url": "https://www.semanticscholar.org/paper/7ba5078a4f81c74deb4c5e10fcb4aceb6eb635ef",
+        "title": "Graduate Texts in Mathematics",
+        "venue": "",
+        "year": 1982,
+        "referenceCount": 0,
+        "citationCount": 8344,
+        "authors": [
+          {
+            "authorId": "16076634",
+            "name": "K. Ribet"
+          },
+          {
+            "authorId": "2319872361",
+            "name": "David Eisenbud"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "79f850a464fea866621ac45f2aab1bcb86165f15",
+        "externalIds": {
+          "MAG": "2059998776",
+          "DOI": "10.2307/2005983",
+          "CorpusId": 121126784
+        },
+        "url": "https://www.semanticscholar.org/paper/79f850a464fea866621ac45f2aab1bcb86165f15",
+        "title": "The Chebyshev polynomials",
+        "venue": "",
+        "year": 1974,
+        "referenceCount": 0,
+        "citationCount": 2910,
+        "authors": [
+          {
+            "authorId": "3254211",
+            "name": "T. J. Rivlin"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "396bbef2971a33a289958b3d030902d6233c739d",
+        "externalIds": {
+          "CorpusId": 7810814
+        },
+        "url": "https://www.semanticscholar.org/paper/396bbef2971a33a289958b3d030902d6233c739d",
+        "title": "Categories and Subject Descriptors: F. 1.2 [Analysis of Algorithms and Problem Complexity]: Numerical Algorithms",
+        "venue": "",
+        "year": null,
+        "referenceCount": 0,
+        "citationCount": 11,
+        "authors": []
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "Summary Estimate generalized matrix rank: the number of eigenvalues that are greater than a threshold",
+        "venue": "Summary Estimate generalized matrix rank: the number of eigenvalues that are greater than a threshold",
+        "year": null,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "Allow the algorithm making mistake on ambiguous cases; allow approximation errors",
+        "venue": "Allow the algorithm making mistake on ambiguous cases; allow approximation errors",
+        "year": null,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "Deterministic algorithm suffers Ω(n 2 ) communication complexity. Randomized algorithm enjoys O(n) communication cost. There is Ω(n) lower bound",
+        "venue": "Deterministic algorithm suffers Ω(n 2 ) communication complexity. Randomized algorithm enjoys O(n) communication cost. There is Ω(n) lower bound",
+        "year": null,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "Approximation Construct a polynomial function f of order p ∼ log(n) and satisfies: I(x > c + ) f (x) I(x > c − ) for all x ∈",
+        "venue": "Approximation Construct a polynomial function f of order p ∼ log(n) and satisfies: I(x > c + ) f (x) I(x > c − ) for all x ∈",
+        "year": null,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "Theorem (lower bound for randomized algorithm) For = δ = 0.2, any randomized (, δ)-approximate algorithm must communicate Ω(n) bits",
+        "venue": "Theorem (lower bound for randomized algorithm) For = δ = 0.2, any randomized (, δ)-approximate algorithm must communicate Ω(n) bits",
+        "year": null,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "a26eb90a8766449b942547b02b4f82ecfab0875c",
+        "externalIds": {
+          "CorpusId": 47503887
+        },
+        "url": "https://www.semanticscholar.org/paper/a26eb90a8766449b942547b02b4f82ecfab0875c",
+        "title": "Stat260/cs294: Randomized Algorithms for Matrices and Data",
+        "venue": "",
+        "year": null,
+        "referenceCount": 19,
+        "citationCount": 1054,
+        "authors": [
+          {
+            "authorId": "143884206",
+            "name": "Michael W. Mahoney"
+          }
+        ]
+      }
+    }
+  ]
+}

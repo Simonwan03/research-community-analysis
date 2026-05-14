@@ -1,0 +1,275 @@
+{
+  "total": 2080,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "725201a3cb3cf910fb208844b17f86770cf04d7e",
+      "externalIds": {
+        "MAG": "2394967154",
+        "DBLP": "conf/icml/SimsekliBCR16",
+        "ArXiv": "1602.03442",
+        "CorpusId": 10057634
+      },
+      "url": "https://www.semanticscholar.org/paper/725201a3cb3cf910fb208844b17f86770cf04d7e",
+      "title": "Stochastic Quasi-Newton Langevin Monte Carlo",
+      "venue": "International Conference on Machine Learning",
+      "year": 2016,
+      "referenceCount": 47,
+      "citationCount": 64,
+      "authors": [
+        {
+          "authorId": "1808437",
+          "name": "Umut Simsekli"
+        },
+        {
+          "authorId": "1724908",
+          "name": "R. Badeau"
+        },
+        {
+          "authorId": "9235290",
+          "name": "Ali Taylan Cemgil"
+        },
+        {
+          "authorId": "145793390",
+          "name": "G. Richard"
+        }
+      ]
+    },
+    {
+      "paperId": "8d381d3cde758f5a72d752c9dbc9c94c106dd505",
+      "externalIds": {
+        "CorpusId": 15260000
+      },
+      "url": "https://www.semanticscholar.org/paper/8d381d3cde758f5a72d752c9dbc9c94c106dd505",
+      "title": "Stochastic Quasi-Newton Langevin Monte Carlo SUPPLEMENTARY DOCUMENT",
+      "venue": "",
+      "year": 2016,
+      "referenceCount": 6,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "1808437",
+          "name": "Umut Simsekli"
+        },
+        {
+          "authorId": "1724908",
+          "name": "R. Badeau"
+        },
+        {
+          "authorId": "122347685",
+          "name": "taylan. cemgil"
+        }
+      ]
+    },
+    {
+      "paperId": "c943df9d5d4900341b9f909efd35c3c69db649de",
+      "externalIds": {
+        "CorpusId": 244305982
+      },
+      "url": "https://www.semanticscholar.org/paper/c943df9d5d4900341b9f909efd35c3c69db649de",
+      "title": "Posterior sampling strategies based on discretized stochastic differential equations for machine learning applications",
+      "venue": "",
+      "year": 2020,
+      "referenceCount": 75,
+      "citationCount": 4,
+      "authors": [
+        {
+          "authorId": "5089281",
+          "name": "Frederik Heber"
+        },
+        {
+          "authorId": "9564665",
+          "name": "Zofia Trstanova"
+        },
+        {
+          "authorId": "2563294",
+          "name": "B. Leimkuhler"
+        }
+      ]
+    },
+    {
+      "paperId": "151a54b0c8711eb3f9dde1f40d3003f067b0f5a8",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-1903-08640",
+        "ArXiv": "1903.08640",
+        "MAG": "2922737435",
+        "CorpusId": 84186487
+      },
+      "url": "https://www.semanticscholar.org/paper/151a54b0c8711eb3f9dde1f40d3003f067b0f5a8",
+      "title": "TATi-Thermodynamic Analytics ToolkIt: TensorFlow-based software for posterior sampling in machine learning applications",
+      "venue": "arXiv.org",
+      "year": 2019,
+      "referenceCount": 81,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "5089281",
+          "name": "Frederik Heber"
+        },
+        {
+          "authorId": "9564665",
+          "name": "Zofia Trstanova"
+        },
+        {
+          "authorId": "2563294",
+          "name": "B. Leimkuhler"
+        }
+      ]
+    },
+    {
+      "paperId": "401001e2aa89d23fb9ae8b6e6eb1f42c8f3315f3",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2510-03949",
+        "ArXiv": "2510.03949",
+        "DOI": "10.48550/arXiv.2510.03949",
+        "CorpusId": 281842556
+      },
+      "url": "https://www.semanticscholar.org/paper/401001e2aa89d23fb9ae8b6e6eb1f42c8f3315f3",
+      "title": "Analysis of kinetic Langevin Monte Carlo under the stochastic exponential Euler discretization from underdamped all the way to overdamped",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "referenceCount": 7,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "1390743752",
+          "name": "Kyurae Kim"
+        },
+        {
+          "authorId": "31234484",
+          "name": "S. Gruffaz"
+        },
+        {
+          "authorId": "2387206911",
+          "name": "Ji Won Park"
+        },
+        {
+          "authorId": "2269142986",
+          "name": "A. Durmus"
+        }
+      ]
+    },
+    {
+      "paperId": "eec9ca9b4f4cbd24ba34f1ec70b9bf7a98fce304",
+      "externalIds": {
+        "ArXiv": "2511.13085",
+        "CorpusId": 283072363
+      },
+      "url": "https://www.semanticscholar.org/paper/eec9ca9b4f4cbd24ba34f1ec70b9bf7a98fce304",
+      "title": "Non-asymptotic Analysis of Poisson randomized midpoint Langevin Monte Carlo",
+      "venue": "",
+      "year": 2025,
+      "referenceCount": 34,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2057974112",
+          "name": "Tian Shen"
+        },
+        {
+          "authorId": "2328027919",
+          "name": "Zhonggen Su"
+        }
+      ]
+    },
+    {
+      "paperId": "0f6ebde645feb3dec9a2fa8df8493a1556574fd2",
+      "externalIds": {
+        "ArXiv": "2507.10320",
+        "CorpusId": 280233919
+      },
+      "url": "https://www.semanticscholar.org/paper/0f6ebde645feb3dec9a2fa8df8493a1556574fd2",
+      "title": "L\\'evy Langevin Monte Carlo for sampling from heavy-tailed target distributions",
+      "venue": "",
+      "year": 2025,
+      "referenceCount": 29,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2373277862",
+          "name": "Anita Behme"
+        },
+        {
+          "authorId": "2373287344",
+          "name": "Claudius Lutke Schwienhorst"
+        }
+      ]
+    },
+    {
+      "paperId": "0c5d77d0c0693b34e3a3a57c9848d38bf4af9e8d",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2509-00941",
+        "ArXiv": "2509.00941",
+        "DOI": "10.48550/arXiv.2509.00941",
+        "CorpusId": 281079915
+      },
+      "url": "https://www.semanticscholar.org/paper/0c5d77d0c0693b34e3a3a57c9848d38bf4af9e8d",
+      "title": "Regime-Switching Langevin Monte Carlo Algorithms",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "referenceCount": 52,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2312804830",
+          "name": "Xiaoyu Wang"
+        },
+        {
+          "authorId": "2366171539",
+          "name": "Yingli Wang"
+        },
+        {
+          "authorId": "2188773426",
+          "name": "Lin Zhu"
+        }
+      ]
+    },
+    {
+      "paperId": "ec7d8a46f20cfff043b07822ad957cffa2f8a459",
+      "externalIds": {
+        "DOI": "10.3390/en17235941",
+        "CorpusId": 274317899
+      },
+      "url": "https://www.semanticscholar.org/paper/ec7d8a46f20cfff043b07822ad957cffa2f8a459",
+      "title": "Grey-Box Energy Modelling of Energy-Efficient House Using Hybrid Optimization Technique of Genetic Algorithms (GA) and Quasi-Newton Algorithms with Markov Chain Monte Carlo Uncertainty Distribution",
+      "venue": "Energies",
+      "year": 2024,
+      "referenceCount": 0,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "102132519",
+          "name": "G. Demirezen"
+        },
+        {
+          "authorId": "2295408030",
+          "name": "Alan S. Fung"
+        },
+        {
+          "authorId": "116983958",
+          "name": "Aidan Brookson"
+        }
+      ]
+    },
+    {
+      "paperId": "14321c30879c6424ac933e51baf42f33f6c48ce3",
+      "externalIds": {
+        "ArXiv": "2604.20052",
+        "CorpusId": 287668967
+      },
+      "url": "https://www.semanticscholar.org/paper/14321c30879c6424ac933e51baf42f33f6c48ce3",
+      "title": "Annealed Langevin Monte Carlo for Flow ODE Sampling",
+      "venue": "",
+      "year": 2026,
+      "referenceCount": 48,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2302536053",
+          "name": "Hanwen Huang"
+        }
+      ]
+    }
+  ]
+}

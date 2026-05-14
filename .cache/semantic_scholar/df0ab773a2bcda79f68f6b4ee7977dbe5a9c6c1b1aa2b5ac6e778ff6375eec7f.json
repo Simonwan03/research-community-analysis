@@ -1,0 +1,388 @@
+{
+  "total": 24,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "002cd03320631c0f96ccc7b727d972c08ced7e3a",
+      "externalIds": {
+        "MAG": "2337541833",
+        "DBLP": "journals/corr/GeJKNS16",
+        "ArXiv": "1604.03930",
+        "CorpusId": 12667000
+      },
+      "url": "https://www.semanticscholar.org/paper/002cd03320631c0f96ccc7b727d972c08ced7e3a",
+      "title": "Efficient Algorithms for Large-scale Generalized Eigenvector Computation and Canonical Correlation Analysis",
+      "venue": "International Conference on Machine Learning",
+      "year": 2016,
+      "referenceCount": 40,
+      "citationCount": 82,
+      "authors": [
+        {
+          "authorId": "144804200",
+          "name": "Rong Ge"
+        },
+        {
+          "authorId": "3335298",
+          "name": "Chi Jin"
+        },
+        {
+          "authorId": "144695232",
+          "name": "S. Kakade"
+        },
+        {
+          "authorId": "1751626",
+          "name": "Praneeth Netrapalli"
+        },
+        {
+          "authorId": "2357926",
+          "name": "Aaron Sidford"
+        }
+      ]
+    },
+    {
+      "paperId": "ddb1e16271b8b282c60aeb2cc13b3c2375f2e910",
+      "externalIds": {
+        "DBLP": "journals/tnn/ShenXWLLFZ24",
+        "DOI": "10.1109/TNNLS.2023.3282785",
+        "CorpusId": 260375959,
+        "PubMed": "37527324"
+      },
+      "url": "https://www.semanticscholar.org/paper/ddb1e16271b8b282c60aeb2cc13b3c2375f2e910",
+      "title": "Extraordinarily Time- and Memory-Efficient Large-Scale Canonical Correlation Analysis in Fourier Domain: From Shallow to Deep",
+      "venue": "IEEE Transactions on Neural Networks and Learning Systems",
+      "year": 2023,
+      "referenceCount": 49,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "1435353298",
+          "name": "Xiang-Jun Shen"
+        },
+        {
+          "authorId": "2187426781",
+          "name": "Zhaorui Xu"
+        },
+        {
+          "authorId": "2054737",
+          "name": "Liangjun Wang"
+        },
+        {
+          "authorId": "3233021",
+          "name": "Zechao Li"
+        },
+        {
+          "authorId": "1990768",
+          "name": "Guangcan Liu"
+        },
+        {
+          "authorId": "2152732685",
+          "name": "Jianping Fan"
+        },
+        {
+          "authorId": "2209472848",
+          "name": "Zheng-Jun Zha"
+        }
+      ]
+    },
+    {
+      "paperId": "ca94344df8b80fe5725956ab4b9b2b431c33dc01",
+      "externalIds": {
+        "DBLP": "conf/mm/ShenXWL22",
+        "DOI": "10.1145/3503161.3547988",
+        "CorpusId": 252783014
+      },
+      "url": "https://www.semanticscholar.org/paper/ca94344df8b80fe5725956ab4b9b2b431c33dc01",
+      "title": "Time and Memory Efficient Large-Scale Canonical Correlation Analysis in Fourier Domain",
+      "venue": "ACM Multimedia",
+      "year": 2022,
+      "referenceCount": 41,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "1435353298",
+          "name": "Xiang-Jun Shen"
+        },
+        {
+          "authorId": "2187426781",
+          "name": "Zhaorui Xu"
+        },
+        {
+          "authorId": "2054737",
+          "name": "Liangjun Wang"
+        },
+        {
+          "authorId": "3233021",
+          "name": "Zechao Li"
+        }
+      ]
+    },
+    {
+      "paperId": "6f8223ff88a8fccb63104cf1b90acb63e31a4e9f",
+      "externalIds": {
+        "MAG": "2583191533",
+        "DBLP": "conf/icdm/FuHPSTSFM16",
+        "DOI": "10.1109/ICDM.2016.0105",
+        "CorpusId": 9254411
+      },
+      "url": "https://www.semanticscholar.org/paper/6f8223ff88a8fccb63104cf1b90acb63e31a4e9f",
+      "title": "Efficient and Distributed Algorithms for Large-Scale Generalized Canonical Correlations Analysis",
+      "venue": "Industrial Conference on Data Mining",
+      "year": 2016,
+      "referenceCount": 18,
+      "citationCount": 25,
+      "authors": [
+        {
+          "authorId": "144406546",
+          "name": "Xiao Fu"
+        },
+        {
+          "authorId": "2349460",
+          "name": "Kejun Huang"
+        },
+        {
+          "authorId": "3000659",
+          "name": "E. Papalexakis"
+        },
+        {
+          "authorId": "2044451",
+          "name": "H. Song"
+        },
+        {
+          "authorId": "2408872",
+          "name": "P. Talukdar"
+        },
+        {
+          "authorId": "73776482",
+          "name": "N. Sidiropoulos"
+        },
+        {
+          "authorId": "1702392",
+          "name": "C. Faloutsos"
+        },
+        {
+          "authorId": "40975594",
+          "name": "Tom Michael Mitchell"
+        }
+      ]
+    },
+    {
+      "paperId": "eff4934f09cae340815339b7225e0f5f52354020",
+      "externalIds": {
+        "DBLP": "conf/nips/BhatiaPFBJ18",
+        "MAG": "2963951770",
+        "CorpusId": 55701761
+      },
+      "url": "https://www.semanticscholar.org/paper/eff4934f09cae340815339b7225e0f5f52354020",
+      "title": "Gen-Oja: Simple & Efficient Algorithm for Streaming Generalized Eigenvector Computation",
+      "venue": "Neural Information Processing Systems",
+      "year": 2018,
+      "referenceCount": 0,
+      "citationCount": 17,
+      "authors": [
+        {
+          "authorId": "144383716",
+          "name": "K. Bhatia"
+        },
+        {
+          "authorId": "3124110",
+          "name": "Aldo Pacchiano"
+        },
+        {
+          "authorId": "2288272039",
+          "name": "Nicolas Flammarion"
+        },
+        {
+          "authorId": "1745169",
+          "name": "P. Bartlett"
+        },
+        {
+          "authorId": "1694621",
+          "name": "Michael I. Jordan"
+        }
+      ]
+    },
+    {
+      "paperId": "d7b1db2bd43e2bbbc7184ad89bdac5b4460b35eb",
+      "externalIds": {
+        "MAG": "2952721800",
+        "DBLP": "journals/corr/abs-1811-08393",
+        "CorpusId": 53747341
+      },
+      "url": "https://www.semanticscholar.org/paper/d7b1db2bd43e2bbbc7184ad89bdac5b4460b35eb",
+      "title": "Gen-Oja: A Simple and Efficient Algorithm for Streaming Generalized Eigenvector Computation",
+      "venue": "arXiv.org",
+      "year": 2018,
+      "referenceCount": 31,
+      "citationCount": 5,
+      "authors": [
+        {
+          "authorId": "144383716",
+          "name": "K. Bhatia"
+        },
+        {
+          "authorId": "3124110",
+          "name": "Aldo Pacchiano"
+        },
+        {
+          "authorId": "2288272039",
+          "name": "Nicolas Flammarion"
+        },
+        {
+          "authorId": "1745169",
+          "name": "P. Bartlett"
+        },
+        {
+          "authorId": "1694621",
+          "name": "Michael I. Jordan"
+        }
+      ]
+    },
+    {
+      "paperId": "922dbed92ed1160eafbe5a96ab56800acd8e7353",
+      "externalIds": {
+        "MAG": "2896005837",
+        "DBLP": "journals/tkde/FuHPSTSFM19",
+        "DOI": "10.1109/TKDE.2018.2875908",
+        "CorpusId": 69776166
+      },
+      "url": "https://www.semanticscholar.org/paper/922dbed92ed1160eafbe5a96ab56800acd8e7353",
+      "title": "Efficient and Distributed Generalized Canonical Correlation Analysis for Big Multiview Data",
+      "venue": "IEEE Transactions on Knowledge and Data Engineering",
+      "year": 2019,
+      "referenceCount": 50,
+      "citationCount": 23,
+      "authors": [
+        {
+          "authorId": "144406546",
+          "name": "Xiao Fu"
+        },
+        {
+          "authorId": "2349460",
+          "name": "Kejun Huang"
+        },
+        {
+          "authorId": "3000659",
+          "name": "E. Papalexakis"
+        },
+        {
+          "authorId": "2044451",
+          "name": "H. Song"
+        },
+        {
+          "authorId": "2408872",
+          "name": "P. Talukdar"
+        },
+        {
+          "authorId": "21568414",
+          "name": "N. Sidiropoulos"
+        },
+        {
+          "authorId": "1702392",
+          "name": "C. Faloutsos"
+        },
+        {
+          "authorId": "144135485",
+          "name": "Tom M. Mitchell"
+        }
+      ]
+    },
+    {
+      "paperId": "78b79f5b90dc03cf1b10ef9efffda6fecebc833b",
+      "externalIds": {
+        "MAG": "2409604717",
+        "CorpusId": 124691633
+      },
+      "url": "https://www.semanticscholar.org/paper/78b79f5b90dc03cf1b10ef9efffda6fecebc833b",
+      "title": "Scalable and Optimal Generalized Canonical Correlation Analysis via Alternating Optimization",
+      "venue": "",
+      "year": 2016,
+      "referenceCount": 0,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "2119032355",
+          "name": "Xiao Fu"
+        },
+        {
+          "authorId": "2349460",
+          "name": "Kejun Huang"
+        },
+        {
+          "authorId": "1793717",
+          "name": "Mingyi Hong"
+        },
+        {
+          "authorId": "21568414",
+          "name": "N. Sidiropoulos"
+        },
+        {
+          "authorId": "1734000",
+          "name": "A. M. So"
+        }
+      ]
+    },
+    {
+      "paperId": "a35be901e0bf9dd8adfcdaae400f1458eb2c8f3d",
+      "externalIds": {
+        "MAG": "1853881680",
+        "ArXiv": "1506.08170",
+        "DBLP": "conf/icml/MaLF15",
+        "CorpusId": 8725374
+      },
+      "url": "https://www.semanticscholar.org/paper/a35be901e0bf9dd8adfcdaae400f1458eb2c8f3d",
+      "title": "Finding Linear Structure in Large Datasets with Scalable Canonical Correlation Analysis",
+      "venue": "International Conference on Machine Learning",
+      "year": 2015,
+      "referenceCount": 30,
+      "citationCount": 83,
+      "authors": [
+        {
+          "authorId": "48464836",
+          "name": "Zhuang Ma"
+        },
+        {
+          "authorId": "2505474",
+          "name": "Y. Lu"
+        },
+        {
+          "authorId": "145346319",
+          "name": "Dean Phillips Foster"
+        }
+      ]
+    },
+    {
+      "paperId": "0bdf8b432aa372526e4ffd22762340adb8272770",
+      "externalIds": {
+        "ArXiv": "1908.04741",
+        "MAG": "3013432311",
+        "DOI": "10.1016/j.physd.2021.133018",
+        "CorpusId": 214693437
+      },
+      "url": "https://www.semanticscholar.org/paper/0bdf8b432aa372526e4ffd22762340adb8272770",
+      "title": "Tensor-based computation of metastable and coherent sets",
+      "venue": "Physica A: Statistical Mechanics and its Applications",
+      "year": 2019,
+      "referenceCount": 69,
+      "citationCount": 15,
+      "authors": [
+        {
+          "authorId": "2436644",
+          "name": "F. Nüske"
+        },
+        {
+          "authorId": "3394107",
+          "name": "Patrick Gelß"
+        },
+        {
+          "authorId": "2090812",
+          "name": "Stefan Klus"
+        },
+        {
+          "authorId": "2839696",
+          "name": "C. Clementi"
+        }
+      ]
+    }
+  ]
+}

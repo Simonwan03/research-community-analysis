@@ -1,0 +1,309 @@
+{
+  "total": 41,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "614b197a11eba3f25337b0c9b9cb409ae6230238",
+      "externalIds": {
+        "ArXiv": "1806.05631",
+        "MAG": "2741438342",
+        "DBLP": "journals/corr/abs-1806-05631",
+        "CorpusId": 19988345
+      },
+      "url": "https://www.semanticscholar.org/paper/614b197a11eba3f25337b0c9b9cb409ae6230238",
+      "title": "Learning in POMDPs with Monte Carlo Tree Search",
+      "venue": "International Conference on Machine Learning",
+      "year": 2017,
+      "referenceCount": 20,
+      "citationCount": 69,
+      "authors": [
+        {
+          "authorId": "3442798",
+          "name": "S. Katt"
+        },
+        {
+          "authorId": "1799949",
+          "name": "F. Oliehoek"
+        },
+        {
+          "authorId": "34903901",
+          "name": "Chris Amato"
+        }
+      ]
+    },
+    {
+      "paperId": "55ddc6112bffa87d8e873aeec8a9732b87534f67",
+      "externalIds": {
+        "CorpusId": 3172537
+      },
+      "url": "https://www.semanticscholar.org/paper/55ddc6112bffa87d8e873aeec8a9732b87534f67",
+      "title": "Long Version of Proof of Theorem 3 Supplement to ICML submission “ Learning in POMDPs with Monte Carlo Tree Search ”",
+      "venue": "",
+      "year": null,
+      "referenceCount": 0,
+      "citationCount": 0,
+      "authors": []
+    },
+    {
+      "paperId": "9db758ce8a3a1c28281860c746d024ae01c313c1",
+      "externalIds": {
+        "MAG": "3034650914",
+        "DBLP": "journals/corr/abs-1911-00384",
+        "ArXiv": "1911.00384",
+        "DOI": "10.24963/ijcai.2020/332",
+        "CorpusId": 207789226
+      },
+      "url": "https://www.semanticscholar.org/paper/9db758ce8a3a1c28281860c746d024ae01c313c1",
+      "title": "Generalized Mean Estimation in Monte-Carlo Tree Search",
+      "venue": "International Joint Conference on Artificial Intelligence",
+      "year": 2019,
+      "referenceCount": 48,
+      "citationCount": 8,
+      "authors": [
+        {
+          "authorId": "152120449",
+          "name": "Tuan Dam"
+        },
+        {
+          "authorId": "1389560206",
+          "name": "P. Klink"
+        },
+        {
+          "authorId": "1399348619",
+          "name": "Carlo D'Eramo"
+        },
+        {
+          "authorId": "145197867",
+          "name": "Jan Peters"
+        },
+        {
+          "authorId": "34906504",
+          "name": "J. Pajarinen"
+        }
+      ]
+    },
+    {
+      "paperId": "271447a2fc6b763f5458cbcca3f1547f3e81681b",
+      "externalIds": {
+        "MAG": "2132854830",
+        "DBLP": "journals/apin/VienEDC13",
+        "DOI": "10.1007/s10489-012-0416-2",
+        "CorpusId": 15214755
+      },
+      "url": "https://www.semanticscholar.org/paper/271447a2fc6b763f5458cbcca3f1547f3e81681b",
+      "title": "Monte-Carlo tree search for Bayesian reinforcement learning",
+      "venue": "Applied intelligence (Boston)",
+      "year": 2012,
+      "referenceCount": 44,
+      "citationCount": 28,
+      "authors": [
+        {
+          "authorId": "2452570",
+          "name": "Ngo Anh Vien"
+        },
+        {
+          "authorId": "1710696",
+          "name": "W. Ertel"
+        },
+        {
+          "authorId": "145652299",
+          "name": "Viet-Hung Dang"
+        },
+        {
+          "authorId": "1996474",
+          "name": "TaeChoong Chung"
+        }
+      ]
+    },
+    {
+      "paperId": "809a31eac1641002a626e1ce03c4be0f5e8d7079",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2307-11954",
+        "ArXiv": "2307.11954",
+        "DOI": "10.1109/IROS55552.2023.10342114",
+        "CorpusId": 260125782
+      },
+      "url": "https://www.semanticscholar.org/paper/809a31eac1641002a626e1ce03c4be0f5e8d7079",
+      "title": "On-Robot Bayesian Reinforcement Learning for POMDPs",
+      "venue": "IEEE/RJS International Conference on Intelligent RObots and Systems",
+      "year": 2023,
+      "referenceCount": 33,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "2110522917",
+          "name": "Hai V. Nguyen"
+        },
+        {
+          "authorId": "3442798",
+          "name": "S. Katt"
+        },
+        {
+          "authorId": "152130115",
+          "name": "Yuchen Xiao"
+        },
+        {
+          "authorId": "34903901",
+          "name": "Chris Amato"
+        }
+      ]
+    },
+    {
+      "paperId": "b181f14f9ede86166d503b5885ddda26750b0136",
+      "externalIds": {
+        "ArXiv": "2510.14035",
+        "DBLP": "journals/corr/abs-2510-14035",
+        "DOI": "10.48550/arXiv.2510.14035",
+        "CorpusId": 282139604
+      },
+      "url": "https://www.semanticscholar.org/paper/b181f14f9ede86166d503b5885ddda26750b0136",
+      "title": "GammaZero: Learning To Guide POMDP Belief Space Search With Graph Representations",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "referenceCount": 33,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2333363922",
+          "name": "Rajesh Mangannavar"
+        },
+        {
+          "authorId": "2288508565",
+          "name": "Prasad Tadepalli"
+        }
+      ]
+    },
+    {
+      "paperId": "eab64202a5536f491e1b206d29d3f9c7346c91b0",
+      "externalIds": {
+        "MAG": "2950276012",
+        "ArXiv": "1811.05612",
+        "DBLP": "conf/atal/KattOA19",
+        "DOI": "10.65109/msbg2685",
+        "CorpusId": 53305664
+      },
+      "url": "https://www.semanticscholar.org/paper/eab64202a5536f491e1b206d29d3f9c7346c91b0",
+      "title": "Bayesian Reinforcement Learning in Factored POMDPs",
+      "venue": "Adaptive Agents and Multi-Agent Systems",
+      "year": 2018,
+      "referenceCount": 56,
+      "citationCount": 43,
+      "authors": [
+        {
+          "authorId": "3442798",
+          "name": "S. Katt"
+        },
+        {
+          "authorId": "1799949",
+          "name": "F. Oliehoek"
+        },
+        {
+          "authorId": "34903901",
+          "name": "Chris Amato"
+        }
+      ]
+    },
+    {
+      "paperId": "c349293eff9f4f82733a2c65f9438fce0dc8421d",
+      "externalIds": {
+        "DBLP": "conf/l4dc/DeglurkarLTSFT23",
+        "ArXiv": "2112.09456",
+        "CorpusId": 254247358
+      },
+      "url": "https://www.semanticscholar.org/paper/c349293eff9f4f82733a2c65f9438fce0dc8421d",
+      "title": "Compositional Learning-based Planning for Vision POMDPs",
+      "venue": "Conference on Learning for Dynamics & Control",
+      "year": 2021,
+      "referenceCount": 52,
+      "citationCount": 6,
+      "authors": [
+        {
+          "authorId": "27603994",
+          "name": "Sampada Deglurkar"
+        },
+        {
+          "authorId": "2067659261",
+          "name": "M. H. Lim"
+        },
+        {
+          "authorId": "2052859972",
+          "name": "J. Tucker"
+        },
+        {
+          "authorId": "2184314",
+          "name": "Zachary Sunberg"
+        },
+        {
+          "authorId": "145520045",
+          "name": "Aleksandra Faust"
+        },
+        {
+          "authorId": "1693894",
+          "name": "C. Tomlin"
+        }
+      ]
+    },
+    {
+      "paperId": "e01749e7c353be23ffe1be949215b0a5d88c7b44",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2112-09456",
+        "CorpusId": 245329785
+      },
+      "url": "https://www.semanticscholar.org/paper/e01749e7c353be23ffe1be949215b0a5d88c7b44",
+      "title": "Visual Learning-based Planning for Continuous High-Dimensional POMDPs",
+      "venue": "arXiv.org",
+      "year": 2021,
+      "referenceCount": 40,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "27603994",
+          "name": "Sampada Deglurkar"
+        },
+        {
+          "authorId": "2067659261",
+          "name": "M. H. Lim"
+        },
+        {
+          "authorId": "2036215370",
+          "name": "Johnathan Tucker"
+        },
+        {
+          "authorId": "2184314",
+          "name": "Zachary Sunberg"
+        },
+        {
+          "authorId": "145520045",
+          "name": "Aleksandra Faust"
+        },
+        {
+          "authorId": "1693894",
+          "name": "C. Tomlin"
+        }
+      ]
+    },
+    {
+      "paperId": "fd94e91f673656ba52cdba13491191b95e1a9d52",
+      "externalIds": {
+        "CorpusId": 53998656
+      },
+      "url": "https://www.semanticscholar.org/paper/fd94e91f673656ba52cdba13491191b95e1a9d52",
+      "title": "Active Tree Search",
+      "venue": "",
+      "year": 2017,
+      "referenceCount": 13,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "2156998",
+          "name": "Robert Lieck"
+        },
+        {
+          "authorId": "144918851",
+          "name": "Marc Toussaint"
+        }
+      ]
+    }
+  ]
+}

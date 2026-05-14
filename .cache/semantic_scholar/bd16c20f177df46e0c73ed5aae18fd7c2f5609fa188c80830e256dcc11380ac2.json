@@ -1,0 +1,304 @@
+{
+  "total": 12,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "29215cde9c1645f1823d50cc6314bf3c2a1c37f9",
+      "externalIds": {
+        "ArXiv": "1406.1901",
+        "DBLP": "journals/corr/ChazalFLMRW14",
+        "MAG": "1842708415",
+        "CorpusId": 13937507
+      },
+      "url": "https://www.semanticscholar.org/paper/29215cde9c1645f1823d50cc6314bf3c2a1c37f9",
+      "title": "Subsampling Methods for Persistent Homology",
+      "venue": "International Conference on Machine Learning",
+      "year": 2014,
+      "referenceCount": 27,
+      "citationCount": 119,
+      "authors": [
+        {
+          "authorId": "51927244",
+          "name": "F. Chazal"
+        },
+        {
+          "authorId": "2860295",
+          "name": "Brittany Terese Fasy"
+        },
+        {
+          "authorId": "2962773",
+          "name": "F. Lecci"
+        },
+        {
+          "authorId": "38291080",
+          "name": "B. Michel"
+        },
+        {
+          "authorId": "1730560",
+          "name": "A. Rinaldo"
+        },
+        {
+          "authorId": "1733999",
+          "name": "L. Wasserman"
+        }
+      ]
+    },
+    {
+      "paperId": "ea3e9ab93ee665a119ff4b56af7a33a583c493ef",
+      "externalIds": {
+        "CorpusId": 260503362
+      },
+      "url": "https://www.semanticscholar.org/paper/ea3e9ab93ee665a119ff4b56af7a33a583c493ef",
+      "title": "Subsampling Methods for Persistent Homology",
+      "venue": "",
+      "year": 2015,
+      "referenceCount": 0,
+      "citationCount": 0,
+      "authors": []
+    },
+    {
+      "paperId": "30b7365795c1d14a3f96c22697f6d4c358493427",
+      "externalIds": {
+        "DBLP": "conf/aaai/ChenJL26",
+        "DOI": "10.1609/aaai.v40i17.38478",
+        "CorpusId": 286696093
+      },
+      "url": "https://www.semanticscholar.org/paper/30b7365795c1d14a3f96c22697f6d4c358493427",
+      "title": "TOPOGRAPH: Topology-Preserving Graph Reduction with Adaptive Structure for Persistent Homology",
+      "venue": "AAAI Conference on Artificial Intelligence",
+      "year": 2026,
+      "referenceCount": 0,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2308048208",
+          "name": "Zonghao Chen"
+        },
+        {
+          "authorId": "2384717859",
+          "name": "Yuncheng Jiang"
+        },
+        {
+          "authorId": "2281605264",
+          "name": "Gang Li"
+        }
+      ]
+    },
+    {
+      "paperId": "b9cd5d9c6a936f02c70d005b7f1c8403a565ac29",
+      "externalIds": {
+        "DBLP": "conf/alcob/MandalGHBP20",
+        "MAG": "3013230449",
+        "PubMedCentral": "7197058",
+        "DOI": "10.1007/978-3-030-42266-0_14",
+        "CorpusId": 214642104
+      },
+      "url": "https://www.semanticscholar.org/paper/b9cd5d9c6a936f02c70d005b7f1c8403a565ac29",
+      "title": "A Topological Data Analysis Approach on Predicting Phenotypes from Gene Expression Data",
+      "venue": "International Conference on Algorithms for Computational Biology",
+      "year": 2020,
+      "referenceCount": 34,
+      "citationCount": 20,
+      "authors": [
+        {
+          "authorId": "151478776",
+          "name": "S. Mandal"
+        },
+        {
+          "authorId": "1414225261",
+          "name": "A. Guzmán-Sáenz"
+        },
+        {
+          "authorId": "2078670",
+          "name": "N. Haiminen"
+        },
+        {
+          "authorId": "47316594",
+          "name": "S. Basu"
+        },
+        {
+          "authorId": "1718465",
+          "name": "L. Parida"
+        }
+      ]
+    },
+    {
+      "paperId": "017bb5d199c26b0965f7f966e7a0734017150501",
+      "externalIds": {
+        "DBLP": "conf/vissym/RosenSSH20",
+        "MAG": "2952986348",
+        "ArXiv": "1906.09457",
+        "DOI": "10.2312/evs.20201053",
+        "CorpusId": 195345309
+      },
+      "url": "https://www.semanticscholar.org/paper/017bb5d199c26b0965f7f966e7a0734017150501",
+      "title": "TopoLines: Topological Smoothing for Line Charts",
+      "venue": "Eurographics Conference on Visualization",
+      "year": 2019,
+      "referenceCount": 35,
+      "citationCount": 4,
+      "authors": [
+        {
+          "authorId": "32267745",
+          "name": "Ashley Suh"
+        },
+        {
+          "authorId": "2301921052",
+          "name": "Christopher Salgado"
+        },
+        {
+          "authorId": "3451420",
+          "name": "Mustafa Hajij"
+        },
+        {
+          "authorId": "3747630",
+          "name": "P. Rosen"
+        }
+      ]
+    },
+    {
+      "paperId": "487b535016c49a83d2a8e7a395ef0cb83441a128",
+      "externalIds": {
+        "ArXiv": "2103.14743",
+        "DBLP": "journals/jmlr/Stolz23",
+        "CorpusId": 232404478
+      },
+      "url": "https://www.semanticscholar.org/paper/487b535016c49a83d2a8e7a395ef0cb83441a128",
+      "title": "Outlier-Robust Subsampling Techniques for Persistent Homology",
+      "venue": "Journal of machine learning research",
+      "year": 2021,
+      "referenceCount": 31,
+      "citationCount": 13,
+      "authors": [
+        {
+          "authorId": "6635091",
+          "name": "Bernadette J. Stolz"
+        }
+      ]
+    },
+    {
+      "paperId": "8ee889c72b90e753befef26615fe1afd7e4a4071",
+      "externalIds": {
+        "ArXiv": "2512.06324",
+        "CorpusId": 283693673
+      },
+      "url": "https://www.semanticscholar.org/paper/8ee889c72b90e753befef26615fe1afd7e4a4071",
+      "title": "Subsampling Confidence Bound for Persistent Diagram via Time-delay Embedding",
+      "venue": "",
+      "year": 2025,
+      "referenceCount": 33,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2238103862",
+          "name": "Donghyun Park"
+        },
+        {
+          "authorId": "2399927066",
+          "name": "Jun-Beom An"
+        },
+        {
+          "authorId": "2286921023",
+          "name": "Taehyoung Kim"
+        },
+        {
+          "authorId": "49475883",
+          "name": "Jisu Kim"
+        }
+      ]
+    },
+    {
+      "paperId": "69bec3d83a10593c08496bc68264469bc5cbb728",
+      "externalIds": {
+        "ArXiv": "2511.20954",
+        "DBLP": "journals/corr/abs-2511-20954",
+        "DOI": "10.48550/arXiv.2511.20954",
+        "CorpusId": 283262009
+      },
+      "url": "https://www.semanticscholar.org/paper/69bec3d83a10593c08496bc68264469bc5cbb728",
+      "title": "δ-core subsampling, strong collapses and TDA",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "referenceCount": 23,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2575047",
+          "name": "E. Minian"
+        }
+      ]
+    },
+    {
+      "paperId": "635dabeae4aaf5f280e3dfc13c614aea1322bb05",
+      "externalIds": {
+        "ArXiv": "2507.11151",
+        "CorpusId": 280223445
+      },
+      "url": "https://www.semanticscholar.org/paper/635dabeae4aaf5f280e3dfc13c614aea1322bb05",
+      "title": "Doughnut or Mickey Mouse? Detecting Toroidal Structure in Data through Persistent Cup-Length",
+      "venue": "",
+      "year": 2025,
+      "referenceCount": 35,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2104475831",
+          "name": "Ekaterina S. Ivshina"
+        },
+        {
+          "authorId": "103106763",
+          "name": "Galit Anikeeva"
+        },
+        {
+          "authorId": "2257134586",
+          "name": "Ling Zhou"
+        }
+      ]
+    },
+    {
+      "paperId": "b5a86fadc6ff34ed4479975a197c8c423ef6995d",
+      "externalIds": {
+        "ArXiv": "2404.18194",
+        "DOI": "10.3934/fods.2025008",
+        "CorpusId": 269448986
+      },
+      "url": "https://www.semanticscholar.org/paper/b5a86fadc6ff34ed4479975a197c8c423ef6995d",
+      "title": "Curse of dimensionality on persistence diagrams",
+      "venue": "Foundations of Data Science",
+      "year": 2024,
+      "referenceCount": 23,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "2243008001",
+          "name": "Yasuaki Hiraoka"
+        },
+        {
+          "authorId": "2060821279",
+          "name": "Yusuke Imoto"
+        },
+        {
+          "authorId": "94667508",
+          "name": "Shusuke Kanazawa"
+        },
+        {
+          "authorId": "2291069944",
+          "name": "Enhao Liu Department of Mathematics"
+        },
+        {
+          "authorId": "102299311",
+          "name": "Kyoto University"
+        },
+        {
+          "authorId": "2262443374",
+          "name": "Institute of Computational Biology."
+        },
+        {
+          "authorId": "2298897852",
+          "name": "Kyoto University Institute for Advanced Study"
+        }
+      ]
+    }
+  ]
+}

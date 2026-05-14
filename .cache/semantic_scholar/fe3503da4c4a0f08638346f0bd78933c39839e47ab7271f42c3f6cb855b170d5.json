@@ -1,0 +1,343 @@
+{
+  "total": 39951,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "73d3049bdea29e312a39e01e2e90add853b05fbd",
+      "externalIds": {
+        "ArXiv": "1702.07811",
+        "MAG": "2953187876",
+        "DBLP": "conf/icml/BolukbasiWDS17",
+        "CorpusId": 6750751
+      },
+      "url": "https://www.semanticscholar.org/paper/73d3049bdea29e312a39e01e2e90add853b05fbd",
+      "title": "Adaptive Neural Networks for Efficient Inference",
+      "venue": "International Conference on Machine Learning",
+      "year": 2017,
+      "referenceCount": 32,
+      "citationCount": 407,
+      "authors": [
+        {
+          "authorId": "2843215",
+          "name": "Tolga Bolukbasi"
+        },
+        {
+          "authorId": "2110240143",
+          "name": "Joseph Wang"
+        },
+        {
+          "authorId": "1716876",
+          "name": "O. Dekel"
+        },
+        {
+          "authorId": "1699322",
+          "name": "Venkatesh Saligrama"
+        }
+      ]
+    },
+    {
+      "paperId": "31a140c60bd3150f93a4e7c1a69589e1d1614f12",
+      "externalIds": {
+        "DBLP": "journals/tc/ChengXLZGZS23",
+        "DOI": "10.1109/TC.2023.3305754",
+        "CorpusId": 261021304
+      },
+      "url": "https://www.semanticscholar.org/paper/31a140c60bd3150f93a4e7c1a69589e1d1614f12",
+      "title": "Private Inference for Deep Neural Networks: A Secure, Adaptive, and Efficient Realization",
+      "venue": "IEEE transactions on computers",
+      "year": 2023,
+      "referenceCount": 48,
+      "citationCount": 15,
+      "authors": [
+        {
+          "authorId": "2087269731",
+          "name": "Ke Cheng"
+        },
+        {
+          "authorId": "2066152271",
+          "name": "Ning Xi"
+        },
+        {
+          "authorId": "2154487593",
+          "name": "Ximeng Liu"
+        },
+        {
+          "authorId": "152558572",
+          "name": "Xinghui Zhu"
+        },
+        {
+          "authorId": "1863170",
+          "name": "Haichang Gao"
+        },
+        {
+          "authorId": "2144443142",
+          "name": "Zhiwei Zhang"
+        },
+        {
+          "authorId": "2152571532",
+          "name": "Yulong Shen"
+        }
+      ]
+    },
+    {
+      "paperId": "05ff1b0bb5286f5a35f426221a9867013b99196c",
+      "externalIds": {
+        "DBLP": "journals/tsusc/LiuLSD24",
+        "DOI": "10.1109/TSUSC.2024.3351282",
+        "CorpusId": 266925558
+      },
+      "url": "https://www.semanticscholar.org/paper/05ff1b0bb5286f5a35f426221a9867013b99196c",
+      "title": "Efficient Inference of Graph Neural Networks Using Local Sensitive Hash",
+      "venue": "IEEE Transactions on Sustainable Computing",
+      "year": 2024,
+      "referenceCount": 41,
+      "citationCount": 4,
+      "authors": [
+        {
+          "authorId": "2149916967",
+          "name": "Tao Liu"
+        },
+        {
+          "authorId": "2261754754",
+          "name": "Peng Li"
+        },
+        {
+          "authorId": "2099817925",
+          "name": "Z. Su"
+        },
+        {
+          "authorId": "1714082",
+          "name": "M. Dong"
+        }
+      ]
+    },
+    {
+      "paperId": "1092b8cdc48b4c015bbf4c3e2eaa0ff4577ea753",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2210-00993",
+        "ArXiv": "2210.00993",
+        "DOI": "10.48550/arXiv.2210.00993",
+        "CorpusId": 252683753
+      },
+      "url": "https://www.semanticscholar.org/paper/1092b8cdc48b4c015bbf4c3e2eaa0ff4577ea753",
+      "title": "Efficient Bayes Inference in Neural Networks through Adaptive Importance Sampling",
+      "venue": "Journal of the Franklin Institute",
+      "year": 2022,
+      "referenceCount": 46,
+      "citationCount": 6,
+      "authors": [
+        {
+          "authorId": "1557395679",
+          "name": "Yunshi Huang"
+        },
+        {
+          "authorId": "102425592",
+          "name": "É. Chouzenoux"
+        },
+        {
+          "authorId": "145303926",
+          "name": "V. Elvira"
+        },
+        {
+          "authorId": "1737505",
+          "name": "J. Pesquet"
+        }
+      ]
+    },
+    {
+      "paperId": "cc93a14d98c7252b87552dc6fbf1b90c5c396d1f",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-1811-08589",
+        "MAG": "2901523331",
+        "ArXiv": "1811.08589",
+        "CorpusId": 53739477
+      },
+      "url": "https://www.semanticscholar.org/paper/cc93a14d98c7252b87552dc6fbf1b90c5c396d1f",
+      "title": "Graph-Adaptive Pruning for Efficient Inference of Convolutional Neural Networks",
+      "venue": "arXiv.org",
+      "year": 2018,
+      "referenceCount": 29,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "2381580274",
+          "name": "Mengdi Wang"
+        },
+        {
+          "authorId": "2108056226",
+          "name": "Qing Zhang"
+        },
+        {
+          "authorId": "2146156715",
+          "name": "Jun Yang"
+        },
+        {
+          "authorId": "2114346285",
+          "name": "Xiaoyuan Cui"
+        },
+        {
+          "authorId": "71666838",
+          "name": "Wei Lin"
+        }
+      ]
+    },
+    {
+      "paperId": "3c031c914241fc5f2fffd16c10569f55dec5912e",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2410-21262",
+        "ArXiv": "2410.21262",
+        "DOI": "10.48550/arXiv.2410.21262",
+        "CorpusId": 273654640
+      },
+      "url": "https://www.semanticscholar.org/paper/3c031c914241fc5f2fffd16c10569f55dec5912e",
+      "title": "BLAST: Block-Level Adaptive Structured Matrices for Efficient Deep Neural Network Inference",
+      "venue": "Neural Information Processing Systems",
+      "year": 2024,
+      "referenceCount": 68,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "2109447106",
+          "name": "Changwoo Lee"
+        },
+        {
+          "authorId": "2265896839",
+          "name": "Soo Min Kwon"
+        },
+        {
+          "authorId": "2328009446",
+          "name": "Qing Qu"
+        },
+        {
+          "authorId": "2262448316",
+          "name": "Hun-Seok Kim"
+        }
+      ]
+    },
+    {
+      "paperId": "0dd00d27e8988ed4bc747a5ba109dba610a96df9",
+      "externalIds": {
+        "DBLP": "journals/ton/ZhangZZHC24",
+        "DOI": "10.1109/TNET.2023.3293152",
+        "CorpusId": 251496099
+      },
+      "url": "https://www.semanticscholar.org/paper/0dd00d27e8988ed4bc747a5ba109dba610a96df9",
+      "title": "LiteFlow: Toward High-Performance Adaptive Neural Networks for Kernel Datapath",
+      "venue": "IEEE/ACM Transactions on Networking",
+      "year": 2024,
+      "referenceCount": 64,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "1908497",
+          "name": "Junxue Zhang"
+        },
+        {
+          "authorId": "1491239993",
+          "name": "Chaoliang Zeng"
+        },
+        {
+          "authorId": "2146242690",
+          "name": "Hong Zhang"
+        },
+        {
+          "authorId": "2814902",
+          "name": "Shuihai Hu"
+        },
+        {
+          "authorId": "40611817",
+          "name": "Kai Chen"
+        }
+      ]
+    },
+    {
+      "paperId": "bb103ff105ee1c8a2b35a2ff41e35a388fe9f11c",
+      "externalIds": {
+        "MAG": "3024979215",
+        "DBLP": "journals/pr/PassalisRTG20",
+        "DOI": "10.1016/j.patcog.2020.107346",
+        "CorpusId": 219453873
+      },
+      "url": "https://www.semanticscholar.org/paper/bb103ff105ee1c8a2b35a2ff41e35a388fe9f11c",
+      "title": "Efficient adaptive inference for deep convolutional neural networks using hierarchical early exits",
+      "venue": "Pattern Recognition",
+      "year": 2020,
+      "referenceCount": 36,
+      "citationCount": 40,
+      "authors": [
+        {
+          "authorId": "3200630",
+          "name": "Nikolaos Passalis"
+        },
+        {
+          "authorId": "2495016",
+          "name": "Jenni Raitoharju"
+        },
+        {
+          "authorId": "1737071",
+          "name": "A. Tefas"
+        },
+        {
+          "authorId": "9219875",
+          "name": "M. Gabbouj"
+        }
+      ]
+    },
+    {
+      "paperId": "fe75f1ee850c579ff25cfc6b115ee91a24abac8b",
+      "externalIds": {
+        "DOI": "10.1109/ICMLC66258.2025.11280108",
+        "CorpusId": 283922137
+      },
+      "url": "https://www.semanticscholar.org/paper/fe75f1ee850c579ff25cfc6b115ee91a24abac8b",
+      "title": "Mutual Information and Latency-Aware Adaptive Control for Resource-Efficient Graph Neural Networks",
+      "venue": "International Conference on Machine Learning and Computing",
+      "year": 2025,
+      "referenceCount": 15,
+      "citationCount": 5,
+      "authors": [
+        {
+          "authorId": "2399157825",
+          "name": "Yan-Fei Ma"
+        },
+        {
+          "authorId": "2377861376",
+          "name": "Daozheng Qu"
+        }
+      ]
+    },
+    {
+      "paperId": "a96b8f4d7e01d1df49fb90fa5cb982a2cf2564b7",
+      "externalIds": {
+        "DBLP": "journals/nca/LerouxVSD22",
+        "DOI": "10.1007/s00521-022-06910-5",
+        "CorpusId": 246181742
+      },
+      "url": "https://www.semanticscholar.org/paper/a96b8f4d7e01d1df49fb90fa5cb982a2cf2564b7",
+      "title": "Iterative neural networks for adaptive inference on resource-constrained devices",
+      "venue": "Neural computing & applications (Print)",
+      "year": 2022,
+      "referenceCount": 28,
+      "citationCount": 9,
+      "authors": [
+        {
+          "authorId": "3162144",
+          "name": "Sam Leroux"
+        },
+        {
+          "authorId": "2413244",
+          "name": "Tim Verbelen"
+        },
+        {
+          "authorId": "34209448",
+          "name": "P. Simoens"
+        },
+        {
+          "authorId": "1733741",
+          "name": "B. Dhoedt"
+        }
+      ]
+    }
+  ]
+}

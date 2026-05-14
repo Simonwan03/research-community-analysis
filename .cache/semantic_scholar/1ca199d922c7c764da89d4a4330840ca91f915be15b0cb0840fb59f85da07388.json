@@ -1,0 +1,1508 @@
+{
+  "offset": 0,
+  "citingPaperInfo": {
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/1502.06796, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "title": "Online Tracking by Learning Discriminative Saliency Map with Convolutional Neural Network",
+    "authors": [
+      {
+        "authorId": "2241528",
+        "name": "Seunghoon Hong"
+      },
+      {
+        "authorId": "2205770",
+        "name": "Tackgeun You"
+      },
+      {
+        "authorId": "2483916",
+        "name": "Suha Kwak"
+      },
+      {
+        "authorId": "40030651",
+        "name": "Bohyung Han"
+      }
+    ]
+  },
+  "data": [
+    {
+      "citedPaper": {
+        "paperId": "d7c87b925e12b134344a4ca9bd37992083328a2d",
+        "externalIds": {
+          "MAG": "1956687234",
+          "DBLP": "conf/accv/LiLP14",
+          "DOI": "10.1007/978-3-319-16814-2_13",
+          "CorpusId": 7427973
+        },
+        "url": "https://www.semanticscholar.org/paper/d7c87b925e12b134344a4ca9bd37992083328a2d",
+        "title": "Robust Online Visual Tracking with a Single Convolutional Neural Network",
+        "venue": "Asian Conference on Computer Vision",
+        "year": 2014,
+        "referenceCount": 27,
+        "citationCount": 94,
+        "authors": [
+          {
+            "authorId": "1711119",
+            "name": "Hanxi Li"
+          },
+          {
+            "authorId": "2153682157",
+            "name": "Yi Li"
+          },
+          {
+            "authorId": "29905643",
+            "name": "F. Porikli"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "1b3a107739e7f7e05c50999a3d79b8225746f662",
+        "externalIds": {
+          "MAG": "2069332137",
+          "DBLP": "conf/bmvc/LiLP14",
+          "DOI": "10.5244/C.28.56",
+          "CorpusId": 18194897
+        },
+        "url": "https://www.semanticscholar.org/paper/1b3a107739e7f7e05c50999a3d79b8225746f662",
+        "title": "DeepTrack: Learning Discriminative Feature Representations by Convolutional Neural Networks for Visual Tracking",
+        "venue": "British Machine Vision Conference",
+        "year": 2014,
+        "referenceCount": 21,
+        "citationCount": 153,
+        "authors": [
+          {
+            "authorId": "1711119",
+            "name": "Hanxi Li"
+          },
+          {
+            "authorId": "2153682157",
+            "name": "Yi Li"
+          },
+          {
+            "authorId": "29905643",
+            "name": "F. Porikli"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "98bb60748eb8ef7a671cdd22faa87e377fd13060",
+        "externalIds": {
+          "MAG": "2949286765",
+          "DBLP": "conf/eccv/ZhangDGD14",
+          "ArXiv": "1407.3867",
+          "DOI": "10.1007/978-3-319-10590-1_54",
+          "CorpusId": 11710343
+        },
+        "url": "https://www.semanticscholar.org/paper/98bb60748eb8ef7a671cdd22faa87e377fd13060",
+        "title": "Part-Based R-CNNs for Fine-Grained Category Detection",
+        "venue": "European Conference on Computer Vision",
+        "year": 2014,
+        "referenceCount": 50,
+        "citationCount": 1301,
+        "authors": [
+          {
+            "authorId": "2152329702",
+            "name": "Ning Zhang"
+          },
+          {
+            "authorId": "7408951",
+            "name": "Jeff Donahue"
+          },
+          {
+            "authorId": "2983898",
+            "name": "Ross B. Girshick"
+          },
+          {
+            "authorId": "1753210",
+            "name": "Trevor Darrell"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "342786659379879f58bf5c4ff43c84c83a6a7389",
+        "externalIds": {
+          "ArXiv": "1407.1808",
+          "DBLP": "conf/eccv/HariharanAGM14",
+          "MAG": "2950612966",
+          "DOI": "10.1007/978-3-319-10584-0_20",
+          "CorpusId": 9272368
+        },
+        "url": "https://www.semanticscholar.org/paper/342786659379879f58bf5c4ff43c84c83a6a7389",
+        "title": "Simultaneous Detection and Segmentation",
+        "venue": "European Conference on Computer Vision",
+        "year": 2014,
+        "referenceCount": 36,
+        "citationCount": 1334,
+        "authors": [
+          {
+            "authorId": "1790580",
+            "name": "Bharath Hariharan"
+          },
+          {
+            "authorId": "1778133",
+            "name": "Pablo Arbeláez"
+          },
+          {
+            "authorId": "2983898",
+            "name": "Ross B. Girshick"
+          },
+          {
+            "authorId": "143751119",
+            "name": "Jitendra Malik"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "c08f5fa876181fc040d76c75fe2433eee3c9b001",
+        "externalIds": {
+          "MAG": "2161381512",
+          "DBLP": "conf/cvpr/OquabBLS14",
+          "DOI": "10.1109/CVPR.2014.222",
+          "CorpusId": 206592191
+        },
+        "url": "https://www.semanticscholar.org/paper/c08f5fa876181fc040d76c75fe2433eee3c9b001",
+        "title": "Learning and Transferring Mid-level Image Representations Using Convolutional Neural Networks",
+        "venue": "2014 IEEE Conference on Computer Vision and Pattern Recognition",
+        "year": 2014,
+        "referenceCount": 65,
+        "citationCount": 3285,
+        "authors": [
+          {
+            "authorId": "2093491",
+            "name": "M. Oquab"
+          },
+          {
+            "authorId": "52184096",
+            "name": "L. Bottou"
+          },
+          {
+            "authorId": "143991676",
+            "name": "I. Laptev"
+          },
+          {
+            "authorId": "1782755",
+            "name": "Josef Sivic"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "6bdb186ec4726e00a8051119636d4df3b94043b5",
+        "externalIds": {
+          "MAG": "2950094539",
+          "DBLP": "journals/corr/JiaSDKLGGD14",
+          "ArXiv": "1408.5093",
+          "DOI": "10.1145/2647868.2654889",
+          "CorpusId": 1799558
+        },
+        "url": "https://www.semanticscholar.org/paper/6bdb186ec4726e00a8051119636d4df3b94043b5",
+        "title": "Caffe: Convolutional Architecture for Fast Feature Embedding",
+        "venue": "ACM Multimedia",
+        "year": 2014,
+        "referenceCount": 12,
+        "citationCount": 14840,
+        "authors": [
+          {
+            "authorId": "39978391",
+            "name": "Yangqing Jia"
+          },
+          {
+            "authorId": "1782282",
+            "name": "Evan Shelhamer"
+          },
+          {
+            "authorId": "7408951",
+            "name": "Jeff Donahue"
+          },
+          {
+            "authorId": "3049736",
+            "name": "Sergey Karayev"
+          },
+          {
+            "authorId": "2117314646",
+            "name": "Jonathan Long"
+          },
+          {
+            "authorId": "2983898",
+            "name": "Ross B. Girshick"
+          },
+          {
+            "authorId": "1687120",
+            "name": "S. Guadarrama"
+          },
+          {
+            "authorId": "1753210",
+            "name": "Trevor Darrell"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "cbb19236820a96038d000dc629225d36e0b6294a",
+        "externalIds": {
+          "MAG": "2179352600",
+          "DBLP": "journals/pami/HeZR015",
+          "ArXiv": "1406.4729",
+          "DOI": "10.1007/978-3-319-10578-9_23",
+          "CorpusId": 436933,
+          "PubMed": "26353135"
+        },
+        "url": "https://www.semanticscholar.org/paper/cbb19236820a96038d000dc629225d36e0b6294a",
+        "title": "Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition",
+        "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+        "year": 2014,
+        "referenceCount": 46,
+        "citationCount": 12459,
+        "authors": [
+          {
+            "authorId": "39353098",
+            "name": "Kaiming He"
+          },
+          {
+            "authorId": "1771551",
+            "name": "X. Zhang"
+          },
+          {
+            "authorId": "3080683",
+            "name": "Shaoqing Ren"
+          },
+          {
+            "authorId": null,
+            "name": "Jian Sun"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "1109b663453e78a59e4f66446d71720ac58cec25",
+        "externalIds": {
+          "MAG": "1487583988",
+          "DBLP": "journals/corr/SermanetEZMFL13",
+          "ArXiv": "1312.6229",
+          "CorpusId": 4071727
+        },
+        "url": "https://www.semanticscholar.org/paper/1109b663453e78a59e4f66446d71720ac58cec25",
+        "title": "OverFeat: Integrated Recognition, Localization and Detection using Convolutional Networks",
+        "venue": "International Conference on Learning Representations",
+        "year": 2013,
+        "referenceCount": 37,
+        "citationCount": 5113,
+        "authors": [
+          {
+            "authorId": "3142556",
+            "name": "P. Sermanet"
+          },
+          {
+            "authorId": "2060028",
+            "name": "D. Eigen"
+          },
+          {
+            "authorId": null,
+            "name": "Xiang Zhang"
+          },
+          {
+            "authorId": "143949035",
+            "name": "Michaël Mathieu"
+          },
+          {
+            "authorId": "2276554",
+            "name": "R. Fergus"
+          },
+          {
+            "authorId": "1688882",
+            "name": "Yann LeCun"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "dc6ac3437f0a6e64e4404b1b9d188394f8a3bf71",
+        "externalIds": {
+          "MAG": "2962851944",
+          "ArXiv": "1312.6034",
+          "DBLP": "journals/corr/SimonyanVZ13",
+          "CorpusId": 1450294
+        },
+        "url": "https://www.semanticscholar.org/paper/dc6ac3437f0a6e64e4404b1b9d188394f8a3bf71",
+        "title": "Deep Inside Convolutional Networks: Visualising Image Classification Models and Saliency Maps",
+        "venue": "International Conference on Learning Representations",
+        "year": 2013,
+        "referenceCount": 13,
+        "citationCount": 8155,
+        "authors": [
+          {
+            "authorId": "34838386",
+            "name": "K. Simonyan"
+          },
+          {
+            "authorId": "1687524",
+            "name": "A. Vedaldi"
+          },
+          {
+            "authorId": "1688869",
+            "name": "Andrew Zisserman"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "2a002ce457f7ab3088fbd2691734f1ce79f750c4",
+        "externalIds": {
+          "DBLP": "conf/cvpr/ToshevS14",
+          "MAG": "2113325037",
+          "ArXiv": "1312.4659",
+          "DOI": "10.1109/CVPR.2014.214",
+          "CorpusId": 206592152
+        },
+        "url": "https://www.semanticscholar.org/paper/2a002ce457f7ab3088fbd2691734f1ce79f750c4",
+        "title": "DeepPose: Human Pose Estimation via Deep Neural Networks",
+        "venue": "2014 IEEE Conference on Computer Vision and Pattern Recognition",
+        "year": 2013,
+        "referenceCount": 28,
+        "citationCount": 3038,
+        "authors": [
+          {
+            "authorId": "1726415",
+            "name": "Alexander Toshev"
+          },
+          {
+            "authorId": "2574060",
+            "name": "Christian Szegedy"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "b2180fc4f5cb46b5b5394487842399c501381d67",
+        "externalIds": {
+          "DBLP": "conf/nips/WangY13",
+          "MAG": "2118097920",
+          "CorpusId": 1622067
+        },
+        "url": "https://www.semanticscholar.org/paper/b2180fc4f5cb46b5b5394487842399c501381d67",
+        "title": "Learning a Deep Compact Image Representation for Visual Tracking",
+        "venue": "Neural Information Processing Systems",
+        "year": 2013,
+        "referenceCount": 26,
+        "citationCount": 971,
+        "authors": [
+          {
+            "authorId": "48246959",
+            "name": "Naiyan Wang"
+          },
+          {
+            "authorId": "1739816",
+            "name": "D. Yeung"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "c62a99e6491e14c32aac6bfea01ef3f943ce9129",
+        "externalIds": {
+          "MAG": "2962883796",
+          "ArXiv": "1311.3715",
+          "DBLP": "journals/corr/KarayevHWAD13",
+          "DOI": "10.5244/C.28.122",
+          "CorpusId": 7453329
+        },
+        "url": "https://www.semanticscholar.org/paper/c62a99e6491e14c32aac6bfea01ef3f943ce9129",
+        "title": "Recognizing Image Style",
+        "venue": "British Machine Vision Conference",
+        "year": 2013,
+        "referenceCount": 25,
+        "citationCount": 488,
+        "authors": [
+          {
+            "authorId": "3049736",
+            "name": "Sergey Karayev"
+          },
+          {
+            "authorId": "1736851",
+            "name": "Matthew Trentacoste"
+          },
+          {
+            "authorId": "47412543",
+            "name": "Helen Han"
+          },
+          {
+            "authorId": "1696487",
+            "name": "A. Agarwala"
+          },
+          {
+            "authorId": "1753210",
+            "name": "Trevor Darrell"
+          },
+          {
+            "authorId": "1747779",
+            "name": "Aaron Hertzmann"
+          },
+          {
+            "authorId": "2064523036",
+            "name": "Holger Winnemoeller"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "2f4df08d9072fc2ac181b7fced6a245315ce05c8",
+        "externalIds": {
+          "DBLP": "journals/corr/GirshickDDM13",
+          "MAG": "2951638509",
+          "ArXiv": "1311.2524",
+          "DOI": "10.1109/CVPR.2014.81",
+          "CorpusId": 215827080
+        },
+        "url": "https://www.semanticscholar.org/paper/2f4df08d9072fc2ac181b7fced6a245315ce05c8",
+        "title": "Rich Feature Hierarchies for Accurate Object Detection and Semantic Segmentation",
+        "venue": "2014 IEEE Conference on Computer Vision and Pattern Recognition",
+        "year": 2013,
+        "referenceCount": 55,
+        "citationCount": 28772,
+        "authors": [
+          {
+            "authorId": "2983898",
+            "name": "Ross B. Girshick"
+          },
+          {
+            "authorId": "7408951",
+            "name": "Jeff Donahue"
+          },
+          {
+            "authorId": "1753210",
+            "name": "Trevor Darrell"
+          },
+          {
+            "authorId": "153652147",
+            "name": "J. Malik"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "b8de958fead0d8a9619b55c7299df3257c624a96",
+        "externalIds": {
+          "DBLP": "journals/corr/DonahueJVHZTD13",
+          "MAG": "2155541015",
+          "ArXiv": "1310.1531",
+          "CorpusId": 6161478
+        },
+        "url": "https://www.semanticscholar.org/paper/b8de958fead0d8a9619b55c7299df3257c624a96",
+        "title": "DeCAF: A Deep Convolutional Activation Feature for Generic Visual Recognition",
+        "venue": "International Conference on Machine Learning",
+        "year": 2013,
+        "referenceCount": 51,
+        "citationCount": 5075,
+        "authors": [
+          {
+            "authorId": "7408951",
+            "name": "Jeff Donahue"
+          },
+          {
+            "authorId": "39978391",
+            "name": "Yangqing Jia"
+          },
+          {
+            "authorId": "1689108",
+            "name": "O. Vinyals"
+          },
+          {
+            "authorId": "50196944",
+            "name": "Judy Hoffman"
+          },
+          {
+            "authorId": "2152329702",
+            "name": "Ning Zhang"
+          },
+          {
+            "authorId": "2368132",
+            "name": "E. Tzeng"
+          },
+          {
+            "authorId": "1753210",
+            "name": "Trevor Darrell"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "bfba194dfd9c7c27683082aa8331adc4c5963a0d",
+        "externalIds": {
+          "MAG": "2089961441",
+          "DBLP": "conf/cvpr/WuLY13",
+          "DOI": "10.1109/CVPR.2013.312",
+          "CorpusId": 1660289
+        },
+        "url": "https://www.semanticscholar.org/paper/bfba194dfd9c7c27683082aa8331adc4c5963a0d",
+        "title": "Online Object Tracking: A Benchmark",
+        "venue": "2013 IEEE Conference on Computer Vision and Pattern Recognition",
+        "year": 2013,
+        "referenceCount": 66,
+        "citationCount": 3962,
+        "authors": [
+          {
+            "authorId": "2108052385",
+            "name": "Yi Wu"
+          },
+          {
+            "authorId": "153239384",
+            "name": "Jongwoo Lim"
+          },
+          {
+            "authorId": "37144787",
+            "name": "Ming-Hsuan Yang"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "abd1c342495432171beb7ca8fd9551ef13cbd0ff",
+        "externalIds": {
+          "DBLP": "conf/nips/KrizhevskySH12",
+          "MAG": "2618530766",
+          "DOI": "10.1145/3065386",
+          "CorpusId": 195908774
+        },
+        "url": "https://www.semanticscholar.org/paper/abd1c342495432171beb7ca8fd9551ef13cbd0ff",
+        "title": "ImageNet classification with deep convolutional neural networks",
+        "venue": "Communications of the ACM",
+        "year": 2012,
+        "referenceCount": 71,
+        "citationCount": 128331,
+        "authors": [
+          {
+            "authorId": "2064160",
+            "name": "A. Krizhevsky"
+          },
+          {
+            "authorId": "1701686",
+            "name": "I. Sutskever"
+          },
+          {
+            "authorId": "1695689",
+            "name": "Geoffrey E. Hinton"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "5b4e50860d61095bb5fb65eaa367b131923917be",
+        "externalIds": {
+          "DBLP": "conf/eccv/HenriquesCMB12",
+          "MAG": "161114242",
+          "DOI": "10.1007/978-3-642-33765-9_50",
+          "CorpusId": 14017201
+        },
+        "url": "https://www.semanticscholar.org/paper/5b4e50860d61095bb5fb65eaa367b131923917be",
+        "title": "Exploiting the Circulant Structure of Tracking-by-Detection with Kernels",
+        "venue": "European Conference on Computer Vision",
+        "year": 2012,
+        "referenceCount": 26,
+        "citationCount": 2347,
+        "authors": [
+          {
+            "authorId": "143848064",
+            "name": "João F. Henriques"
+          },
+          {
+            "authorId": "144489408",
+            "name": "Rui Caseiro"
+          },
+          {
+            "authorId": "145784436",
+            "name": "P. Martins"
+          },
+          {
+            "authorId": "2182210",
+            "name": "Jorge P. Batista"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "c63a34ac6a4e049118070e707ca7679fbb132d33",
+        "externalIds": {
+          "MAG": "2124211486",
+          "DBLP": "phd/ethos/Kalal11",
+          "DOI": "10.1109/TPAMI.2011.239",
+          "CorpusId": 208933582,
+          "PubMed": "22156098"
+        },
+        "url": "https://www.semanticscholar.org/paper/c63a34ac6a4e049118070e707ca7679fbb132d33",
+        "title": "Tracking-Learning-Detection",
+        "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+        "year": 2012,
+        "referenceCount": 148,
+        "citationCount": 3263,
+        "authors": [
+          {
+            "authorId": "2791125",
+            "name": "Zdenek Kalal"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "d8398d4fa0c4722bd6f0eb0d374178c5a35cd3f3",
+        "externalIds": {
+          "MAG": "2162383208",
+          "DBLP": "conf/cvpr/JiaLY12",
+          "DOI": "10.1109/CVPR.2012.6247880",
+          "CorpusId": 1315786
+        },
+        "url": "https://www.semanticscholar.org/paper/d8398d4fa0c4722bd6f0eb0d374178c5a35cd3f3",
+        "title": "Visual tracking via adaptive structural local sparse appearance model",
+        "venue": "2012 IEEE Conference on Computer Vision and Pattern Recognition",
+        "year": 2012,
+        "referenceCount": 23,
+        "citationCount": 1324,
+        "authors": [
+          {
+            "authorId": "1641711590",
+            "name": "Xu Jia"
+          },
+          {
+            "authorId": "153176123",
+            "name": "Huchuan Lu"
+          },
+          {
+            "authorId": "1715634",
+            "name": "Ming-Hsuan Yang"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "fe2aaad872a2cf08c09dd52ca972f323666306db",
+        "externalIds": {
+          "DBLP": "conf/cvpr/ZhongLY12",
+          "MAG": "2016075127",
+          "DOI": "10.1109/CVPR.2012.6247882",
+          "CorpusId": 15725489
+        },
+        "url": "https://www.semanticscholar.org/paper/fe2aaad872a2cf08c09dd52ca972f323666306db",
+        "title": "Robust object tracking via sparsity-based collaborative model",
+        "venue": "2012 IEEE Conference on Computer Vision and Pattern Recognition",
+        "year": 2012,
+        "referenceCount": 36,
+        "citationCount": 1032,
+        "authors": [
+          {
+            "authorId": "144296206",
+            "name": "Wei Zhong"
+          },
+          {
+            "authorId": "153176123",
+            "name": "Huchuan Lu"
+          },
+          {
+            "authorId": "1715634",
+            "name": "Ming-Hsuan Yang"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "8f96aeeeb897367d82146739b4656328c273ab05",
+        "externalIds": {
+          "DBLP": "conf/cvpr/BaoWLJ12",
+          "MAG": "2060814785",
+          "DOI": "10.1109/CVPR.2012.6247881",
+          "CorpusId": 15859987
+        },
+        "url": "https://www.semanticscholar.org/paper/8f96aeeeb897367d82146739b4656328c273ab05",
+        "title": "Real time robust L1 tracker using accelerated proximal gradient approach",
+        "venue": "2012 IEEE Conference on Computer Vision and Pattern Recognition",
+        "year": 2012,
+        "referenceCount": 28,
+        "citationCount": 950,
+        "authors": [
+          {
+            "authorId": "3183763",
+            "name": "Chenglong Bao"
+          },
+          {
+            "authorId": "2108052385",
+            "name": "Yi Wu"
+          },
+          {
+            "authorId": "1805398",
+            "name": "Haibin Ling"
+          },
+          {
+            "authorId": "144562060",
+            "name": "Hui Ji"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "0de0b2e2aa139b894423ceadbad8a2a6b080d630",
+        "externalIds": {
+          "DBLP": "conf/cvpr/ZhangGLA12",
+          "MAG": "2158917775",
+          "DOI": "10.1109/CVPR.2012.6247908",
+          "CorpusId": 17100949
+        },
+        "url": "https://www.semanticscholar.org/paper/0de0b2e2aa139b894423ceadbad8a2a6b080d630",
+        "title": "Robust visual tracking via multi-task sparse learning",
+        "venue": "2012 IEEE Conference on Computer Vision and Pattern Recognition",
+        "year": 2012,
+        "referenceCount": 23,
+        "citationCount": 724,
+        "authors": [
+          {
+            "authorId": "1907582",
+            "name": "Tianzhu Zhang"
+          },
+          {
+            "authorId": "2931652",
+            "name": "Bernard Ghanem"
+          },
+          {
+            "authorId": "2705801",
+            "name": "Si Liu"
+          },
+          {
+            "authorId": "145237406",
+            "name": "N. Ahuja"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "2e42be2f7da0432450416311f49e24643fbf4567",
+        "externalIds": {
+          "MAG": "2001785244",
+          "DBLP": "conf/cvpr/Sevilla-LaraL12",
+          "DOI": "10.1109/CVPR.2012.6247891",
+          "CorpusId": 1735328
+        },
+        "url": "https://www.semanticscholar.org/paper/2e42be2f7da0432450416311f49e24643fbf4567",
+        "title": "Distribution fields for tracking",
+        "venue": "2012 IEEE Conference on Computer Vision and Pattern Recognition",
+        "year": 2012,
+        "referenceCount": 26,
+        "citationCount": 583,
+        "authors": [
+          {
+            "authorId": "1403581832",
+            "name": "Laura Sevilla-Lara"
+          },
+          {
+            "authorId": "1389846455",
+            "name": "E. Learned-Miller"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "546d6c4b46708374e7bb90d8d32e4cefa18f83b8",
+        "externalIds": {
+          "DBLP": "conf/iccv/HareST11",
+          "MAG": "2098941887",
+          "DOI": "10.1109/ICCV.2011.6126251",
+          "CorpusId": 484894
+        },
+        "url": "https://www.semanticscholar.org/paper/546d6c4b46708374e7bb90d8d32e4cefa18f83b8",
+        "title": "Struck: Structured output tracking with kernels",
+        "venue": "Vision",
+        "year": 2011,
+        "referenceCount": 25,
+        "citationCount": 1795,
+        "authors": [
+          {
+            "authorId": "1837057",
+            "name": "Sam Hare"
+          },
+          {
+            "authorId": "143777501",
+            "name": "S. Golodetz"
+          },
+          {
+            "authorId": "1741702",
+            "name": "Amir Saffari"
+          },
+          {
+            "authorId": "143729959",
+            "name": "Vibhav Vineet"
+          },
+          {
+            "authorId": "37535930",
+            "name": "Ming-Ming Cheng"
+          },
+          {
+            "authorId": "2445538",
+            "name": "S. Hicks"
+          },
+          {
+            "authorId": "143635540",
+            "name": "Philip H. S. Torr"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "68cc57640bfd04f697048534f82d16bf10a002ec",
+        "externalIds": {
+          "MAG": "2105403175",
+          "DBLP": "conf/iccv/KwonL11",
+          "DOI": "10.1109/ICCV.2011.6126369",
+          "CorpusId": 14476542
+        },
+        "url": "https://www.semanticscholar.org/paper/68cc57640bfd04f697048534f82d16bf10a002ec",
+        "title": "Tracking by Sampling Trackers",
+        "venue": "Vision",
+        "year": 2011,
+        "referenceCount": 28,
+        "citationCount": 443,
+        "authors": [
+          {
+            "authorId": "2110140",
+            "name": "Junseok Kwon"
+          },
+          {
+            "authorId": "2135837",
+            "name": "Kyoung Mu Lee"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "e8e82ae774e08eeebefc0cda1a64b66bf6884130",
+        "externalIds": {
+          "MAG": "2125337786",
+          "DBLP": "journals/pami/GallYRGL11",
+          "DOI": "10.1109/TPAMI.2011.70",
+          "CorpusId": 7286062,
+          "PubMed": "21464503"
+        },
+        "url": "https://www.semanticscholar.org/paper/e8e82ae774e08eeebefc0cda1a64b66bf6884130",
+        "title": "Hough Forests for Object Detection, Tracking, and Action Recognition",
+        "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+        "year": 2011,
+        "referenceCount": 92,
+        "citationCount": 650,
+        "authors": [
+          {
+            "authorId": "145689714",
+            "name": "Juergen Gall"
+          },
+          {
+            "authorId": "144031869",
+            "name": "Angela Yao"
+          },
+          {
+            "authorId": "1760861",
+            "name": "Nima Razavi"
+          },
+          {
+            "authorId": "1681236",
+            "name": "L. Gool"
+          },
+          {
+            "authorId": "1740145",
+            "name": "V. Lempitsky"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "0b104e517e0440e3bdace01b5f6706c5fa944149",
+        "externalIds": {
+          "MAG": "2109579504",
+          "DBLP": "journals/pami/BabenkoYB11",
+          "DOI": "10.1109/TPAMI.2010.226",
+          "CorpusId": 12424827,
+          "PubMed": "21173445"
+        },
+        "url": "https://www.semanticscholar.org/paper/0b104e517e0440e3bdace01b5f6706c5fa944149",
+        "title": "Robust Object Tracking with Online Multiple Instance Learning",
+        "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+        "year": 2011,
+        "referenceCount": 50,
+        "citationCount": 2095,
+        "authors": [
+          {
+            "authorId": "2490700",
+            "name": "B. Babenko"
+          },
+          {
+            "authorId": "1715634",
+            "name": "Ming-Hsuan Yang"
+          },
+          {
+            "authorId": "50172592",
+            "name": "Serge J. Belongie"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "a1edc13e5c2517b57d432f4a6c6b693152e8c4bb",
+        "externalIds": {
+          "DBLP": "conf/cvpr/DinhVM11",
+          "MAG": "2023640470",
+          "DOI": "10.1109/CVPR.2011.5995733",
+          "CorpusId": 6848992
+        },
+        "url": "https://www.semanticscholar.org/paper/a1edc13e5c2517b57d432f4a6c6b693152e8c4bb",
+        "title": "Context tracker: Exploring supporters and distracters in unconstrained environments",
+        "venue": "Computer Vision and Pattern Recognition",
+        "year": 2011,
+        "referenceCount": 32,
+        "citationCount": 559,
+        "authors": [
+          {
+            "authorId": "145039642",
+            "name": "T. Dinh"
+          },
+          {
+            "authorId": "2065730254",
+            "name": "Nam S. Vo"
+          },
+          {
+            "authorId": "3463966",
+            "name": "G. Medioni"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "625e4ee7dce9e6e4183bfebfd8be532172697142",
+        "externalIds": {
+          "DBLP": "conf/cvpr/LiuHYK11",
+          "MAG": "2066513304",
+          "DOI": "10.1109/CVPR.2011.5995730",
+          "CorpusId": 5674143
+        },
+        "url": "https://www.semanticscholar.org/paper/625e4ee7dce9e6e4183bfebfd8be532172697142",
+        "title": "Robust tracking using local sparse appearance model and K-selection",
+        "venue": "Computer Vision and Pattern Recognition",
+        "year": 2011,
+        "referenceCount": 30,
+        "citationCount": 531,
+        "authors": [
+          {
+            "authorId": "2116440675",
+            "name": "Baiyang Liu"
+          },
+          {
+            "authorId": "1768190",
+            "name": "Junzhou Huang"
+          },
+          {
+            "authorId": "2155557329",
+            "name": "Lin Yang"
+          },
+          {
+            "authorId": "3285789",
+            "name": "C. Kulikowski"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "5677e80cd3f3924ff4bbade111d012c313b15d86",
+        "externalIds": {
+          "MAG": "2168117308",
+          "DBLP": "journals/tnn/FanXWG10",
+          "DOI": "10.1109/TNN.2010.2066286",
+          "CorpusId": 10112350,
+          "PubMed": "20805052"
+        },
+        "url": "https://www.semanticscholar.org/paper/5677e80cd3f3924ff4bbade111d012c313b15d86",
+        "title": "Human Tracking Using Convolutional Neural Networks",
+        "venue": "IEEE Transactions on Neural Networks",
+        "year": 2010,
+        "referenceCount": 34,
+        "citationCount": 350,
+        "authors": [
+          {
+            "authorId": "2209503",
+            "name": "Jialue Fan"
+          },
+          {
+            "authorId": "143836295",
+            "name": "W. Xu"
+          },
+          {
+            "authorId": "50118130",
+            "name": "Ying Wu"
+          },
+          {
+            "authorId": "144768792",
+            "name": "Yihong Gong"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "e79272fe3d65197100eae8be9fec6469107969ae",
+        "externalIds": {
+          "DBLP": "journals/pami/FelzenszwalbGMR10",
+          "MAG": "2168356304",
+          "DOI": "10.1109/TPAMI.2009.167",
+          "CorpusId": 3198903,
+          "PubMed": "20634557"
+        },
+        "url": "https://www.semanticscholar.org/paper/e79272fe3d65197100eae8be9fec6469107969ae",
+        "title": "Object Detection with Discriminatively Trained Part Based Models",
+        "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+        "year": 2010,
+        "referenceCount": 56,
+        "citationCount": 10691,
+        "authors": [
+          {
+            "authorId": "1685089",
+            "name": "Pedro F. Felzenszwalb"
+          },
+          {
+            "authorId": "2983898",
+            "name": "Ross B. Girshick"
+          },
+          {
+            "authorId": "145689002",
+            "name": "David A. McAllester"
+          },
+          {
+            "authorId": "1770537",
+            "name": "Deva Ramanan"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "29e1e20323f7cb6c15c6acf5cc6573a2f84e6478",
+        "externalIds": {
+          "DBLP": "conf/cvpr/KwonL10",
+          "MAG": "2098854771",
+          "DOI": "10.1109/CVPR.2010.5539821",
+          "CorpusId": 2164761
+        },
+        "url": "https://www.semanticscholar.org/paper/29e1e20323f7cb6c15c6acf5cc6573a2f84e6478",
+        "title": "Visual tracking decomposition",
+        "venue": "2010 IEEE Computer Society Conference on Computer Vision and Pattern Recognition",
+        "year": 2010,
+        "referenceCount": 21,
+        "citationCount": 1264,
+        "authors": [
+          {
+            "authorId": "2110140",
+            "name": "Junseok Kwon"
+          },
+          {
+            "authorId": "2135837",
+            "name": "Kyoung Mu Lee"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "1ab6598b00b123e0746728149e0e6c0c80131ff8",
+        "externalIds": {
+          "DBLP": "conf/cvpr/SaffariGPLB10",
+          "MAG": "1999689402",
+          "DOI": "10.1109/CVPR.2010.5539937",
+          "CorpusId": 11216218
+        },
+        "url": "https://www.semanticscholar.org/paper/1ab6598b00b123e0746728149e0e6c0c80131ff8",
+        "title": "Online multi-class LPBoost",
+        "venue": "2010 IEEE Computer Society Conference on Computer Vision and Pattern Recognition",
+        "year": 2010,
+        "referenceCount": 35,
+        "citationCount": 107,
+        "authors": [
+          {
+            "authorId": "1741702",
+            "name": "Amir Saffari"
+          },
+          {
+            "authorId": "3152684",
+            "name": "Martin Godec"
+          },
+          {
+            "authorId": "1730097",
+            "name": "T. Pock"
+          },
+          {
+            "authorId": "1695579",
+            "name": "C. Leistner"
+          },
+          {
+            "authorId": "144746444",
+            "name": "H. Bischof"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "b5e17a0ed14349d6c4066d2408409751f9595e04",
+        "externalIds": {
+          "MAG": "2986028972",
+          "DBLP": "conf/iccv/MeiL09",
+          "DOI": "10.1109/ICCV.2009.5459292",
+          "CorpusId": 206769637
+        },
+        "url": "https://www.semanticscholar.org/paper/b5e17a0ed14349d6c4066d2408409751f9595e04",
+        "title": "Robust visual tracking using &#x2113;1 minimization",
+        "venue": "IEEE International Conference on Computer Vision",
+        "year": 2009,
+        "referenceCount": 32,
+        "citationCount": 716,
+        "authors": [
+          {
+            "authorId": "50994312",
+            "name": "Xue Mei"
+          },
+          {
+            "authorId": "1805398",
+            "name": "Haibin Ling"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "2e925378a88a900c33a1468a9d84aec24e2d4b12",
+        "externalIds": {
+          "MAG": "2115609520",
+          "DBLP": "journals/pami/HanCZD08",
+          "DOI": "10.1109/TPAMI.2007.70771",
+          "CorpusId": 1494031,
+          "PubMed": "18550902"
+        },
+        "url": "https://www.semanticscholar.org/paper/2e925378a88a900c33a1468a9d84aec24e2d4b12",
+        "title": "Sequential Kernel Density Approximation and Its Application to Real-Time Visual Tracking",
+        "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+        "year": 2008,
+        "referenceCount": 36,
+        "citationCount": 189,
+        "authors": [
+          {
+            "authorId": "40030651",
+            "name": "Bohyung Han"
+          },
+          {
+            "authorId": "1685020",
+            "name": "D. Comaniciu"
+          },
+          {
+            "authorId": "2117826429",
+            "name": "Ying Zhu"
+          },
+          {
+            "authorId": "1693428",
+            "name": "L. Davis"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "14ef554c0a428abe027819f0f31463d7428d1235",
+        "externalIds": {
+          "MAG": "2009593947",
+          "DBLP": "conf/icml/BordesBGW07",
+          "DOI": "10.1145/1273496.1273508",
+          "CorpusId": 3263491
+        },
+        "url": "https://www.semanticscholar.org/paper/14ef554c0a428abe027819f0f31463d7428d1235",
+        "title": "Solving multiclass support vector machines with LaRank",
+        "venue": "International Conference on Machine Learning",
+        "year": 2007,
+        "referenceCount": 20,
+        "citationCount": 183,
+        "authors": [
+          {
+            "authorId": "1713934",
+            "name": "Antoine Bordes"
+          },
+          {
+            "authorId": "52184096",
+            "name": "L. Bottou"
+          },
+          {
+            "authorId": "1741426",
+            "name": "P. Gallinari"
+          },
+          {
+            "authorId": "145183709",
+            "name": "J. Weston"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "fba3e77d5e0a097e23ce1ee3197c676e6db4b6d5",
+        "externalIds": {
+          "MAG": "2135106139",
+          "DBLP": "journals/jmlr/BordesEWB05",
+          "CorpusId": 14227081
+        },
+        "url": "https://www.semanticscholar.org/paper/fba3e77d5e0a097e23ce1ee3197c676e6db4b6d5",
+        "title": "Fast Kernel Classifiers with Online and Active Learning",
+        "venue": "Journal of machine learning research",
+        "year": 2005,
+        "referenceCount": 51,
+        "citationCount": 721,
+        "authors": [
+          {
+            "authorId": "1713934",
+            "name": "Antoine Bordes"
+          },
+          {
+            "authorId": "1769472",
+            "name": "S. Ertekin"
+          },
+          {
+            "authorId": "145183709",
+            "name": "J. Weston"
+          },
+          {
+            "authorId": "52184096",
+            "name": "L. Bottou"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "f26d35d2e32934150cd27b030d4d769942126184",
+        "externalIds": {
+          "DBLP": "journals/tog/RotherKB04",
+          "MAG": "2124351162",
+          "DOI": "10.1145/1186562.1015720",
+          "CorpusId": 6202829
+        },
+        "url": "https://www.semanticscholar.org/paper/f26d35d2e32934150cd27b030d4d769942126184",
+        "title": "\"GrabCut\": interactive foreground extraction using iterated graph cuts",
+        "venue": "ACM Transactions on Graphics",
+        "year": 2004,
+        "referenceCount": 17,
+        "citationCount": 6709,
+        "authors": [
+          {
+            "authorId": "1756036",
+            "name": "C. Rother"
+          },
+          {
+            "authorId": "144653004",
+            "name": "V. Kolmogorov"
+          },
+          {
+            "authorId": "145162067",
+            "name": "A. Blake"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "26d93995cadcee9af33c14528c2d843888b14bc3",
+        "externalIds": {
+          "MAG": "1549707591",
+          "DBLP": "conf/ijcnn/DiehlC03",
+          "DOI": "10.1109/IJCNN.2003.1223991",
+          "CorpusId": 18228763
+        },
+        "url": "https://www.semanticscholar.org/paper/26d93995cadcee9af33c14528c2d843888b14bc3",
+        "title": "SVM incremental learning, adaptation and optimization",
+        "venue": "Proceedings of ... International Joint Conference on Neural Networks",
+        "year": 2003,
+        "referenceCount": 16,
+        "citationCount": 281,
+        "authors": [
+          {
+            "authorId": "18555072",
+            "name": "C. Diehl"
+          },
+          {
+            "authorId": "2702388",
+            "name": "G. Cauwenberghs"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "Large scale visual recognition challenge (ILSVRC). http://www. image-net.org/challenges/LSVRC",
+        "venue": "Large scale visual recognition challenge (ILSVRC). http://www. image-net.org/challenges/LSVRC",
+        "year": 2012,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "b321626fb582012d0e5d102ef5eba4db5a151363",
+        "externalIds": {
+          "MAG": "2082434130",
+          "DBLP": "conf/bmvc/SchulterLRBG11",
+          "DOI": "10.5244/C.25.128",
+          "CorpusId": 1625714
+        },
+        "url": "https://www.semanticscholar.org/paper/b321626fb582012d0e5d102ef5eba4db5a151363",
+        "title": "On-line Hough Forests",
+        "venue": "British Machine Vision Conference",
+        "year": 2011,
+        "referenceCount": 26,
+        "citationCount": 35,
+        "authors": [
+          {
+            "authorId": "1790643",
+            "name": "S. Schulter"
+          },
+          {
+            "authorId": "1695579",
+            "name": "C. Leistner"
+          },
+          {
+            "authorId": "1791182",
+            "name": "P. Roth"
+          },
+          {
+            "authorId": "144746444",
+            "name": "H. Bischof"
+          },
+          {
+            "authorId": "1681236",
+            "name": "L. Gool"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "460a435a492107e9c8ec23ae8e79b0420de619e9",
+        "externalIds": {
+          "DBLP": "conf/bmvc/GrabnerGB06",
+          "MAG": "2000326692",
+          "DOI": "10.5244/C.20.6",
+          "CorpusId": 12129298
+        },
+        "url": "https://www.semanticscholar.org/paper/460a435a492107e9c8ec23ae8e79b0420de619e9",
+        "title": "Real-Time Tracking via On-line Boosting",
+        "venue": "British Machine Vision Conference",
+        "year": 2006,
+        "referenceCount": 29,
+        "citationCount": 1314,
+        "authors": [
+          {
+            "authorId": "145551629",
+            "name": "H. Grabner"
+          },
+          {
+            "authorId": "2070531225",
+            "name": "Michael Grabner"
+          },
+          {
+            "authorId": "144746444",
+            "name": "H. Bischof"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "fbd1a9f177eabe9817610d6dbbeec368611d89bb",
+        "externalIds": {
+          "DBLP": "conf/eccv/RossLY04",
+          "DOI": "10.1007/978-3-540-24671-8_37",
+          "CorpusId": 2338431
+        },
+        "url": "https://www.semanticscholar.org/paper/fbd1a9f177eabe9817610d6dbbeec368611d89bb",
+        "title": "Adaptive Probabilistic Visual Tracking with Incremental Subspace Update",
+        "venue": "European Conference on Computer Vision",
+        "year": 2004,
+        "referenceCount": 35,
+        "citationCount": 140,
+        "authors": [
+          {
+            "authorId": "144711958",
+            "name": "David A. Ross"
+          },
+          {
+            "authorId": "153239384",
+            "name": "Jongwoo Lim"
+          },
+          {
+            "authorId": "1715634",
+            "name": "Ming-Hsuan Yang"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "e3948c28d605e0d90e88e160556cfc14fbba57c8",
+        "externalIds": {
+          "MAG": "2108807072",
+          "DBLP": "conf/nips/CauwenberghsP00",
+          "CorpusId": 2235233
+        },
+        "url": "https://www.semanticscholar.org/paper/e3948c28d605e0d90e88e160556cfc14fbba57c8",
+        "title": "Incremental and Decremental Support Vector Machine Learning",
+        "venue": "Neural Information Processing Systems",
+        "year": 2000,
+        "referenceCount": 16,
+        "citationCount": 1418,
+        "authors": [
+          {
+            "authorId": "2702388",
+            "name": "G. Cauwenberghs"
+          },
+          {
+            "authorId": "1685292",
+            "name": "T. Poggio"
+          }
+        ]
+      }
+    }
+  ]
+}

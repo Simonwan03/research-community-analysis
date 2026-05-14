@@ -1,0 +1,312 @@
+{
+  "total": 25,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "c48b003e71c02cf610c02ee97460cc2e188ea4fe",
+      "externalIds": {
+        "MAG": "2468613975",
+        "DBLP": "conf/icml/MedinaY16",
+        "CorpusId": 5664831
+      },
+      "url": "https://www.semanticscholar.org/paper/c48b003e71c02cf610c02ee97460cc2e188ea4fe",
+      "title": "No-Regret Algorithms for Heavy-Tailed Linear Bandits",
+      "venue": "International Conference on Machine Learning",
+      "year": 2016,
+      "referenceCount": 21,
+      "citationCount": 46,
+      "authors": [
+        {
+          "authorId": "145508741",
+          "name": "Andrés Muñoz Medina"
+        },
+        {
+          "authorId": "2108926107",
+          "name": "Scott Yang"
+        }
+      ]
+    },
+    {
+      "paperId": "0dcf4dbb946c134e5f88ff3ba00db1b785dba72b",
+      "externalIds": {
+        "DBLP": "conf/uai/YuBLS25",
+        "CorpusId": 280675961
+      },
+      "url": "https://www.semanticscholar.org/paper/0dcf4dbb946c134e5f88ff3ba00db1b785dba72b",
+      "title": "Corruption-Robust Variance-aware Algorithms for Generalized Linear Bandits under Heavy-tailed Rewards",
+      "venue": "Conference on Uncertainty in Artificial Intelligence",
+      "year": 2025,
+      "referenceCount": 33,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "2309200008",
+          "name": "Qingyuan Yu"
+        },
+        {
+          "authorId": "2376188811",
+          "name": "Euijin Baek"
+        },
+        {
+          "authorId": "2315793403",
+          "name": "Xiang Li"
+        },
+        {
+          "authorId": "2316010167",
+          "name": "Qiang Sun"
+        }
+      ]
+    },
+    {
+      "paperId": "8492de78440f0f5440521f5027fe0ce9465c040d",
+      "externalIds": {
+        "ArXiv": "2310.18701",
+        "DBLP": "conf/nips/0004WWY023",
+        "DOI": "10.48550/arXiv.2310.18701",
+        "CorpusId": 264590542
+      },
+      "url": "https://www.semanticscholar.org/paper/8492de78440f0f5440521f5027fe0ce9465c040d",
+      "title": "Efficient Algorithms for Generalized Linear Bandits with Heavy-tailed Rewards",
+      "venue": "Neural Information Processing Systems",
+      "year": 2023,
+      "referenceCount": 44,
+      "citationCount": 12,
+      "authors": [
+        {
+          "authorId": "2054526085",
+          "name": "Bo Xue"
+        },
+        {
+          "authorId": "2259866135",
+          "name": "Yimu Wang"
+        },
+        {
+          "authorId": "50826651",
+          "name": "Yuanyu Wan"
+        },
+        {
+          "authorId": "2263191647",
+          "name": "Jinfeng Yi"
+        },
+        {
+          "authorId": "2228393430",
+          "name": "Lijun Zhang"
+        }
+      ]
+    },
+    {
+      "paperId": "b46a6e707315b8f34c3656e6e2e3cbe513f01c47",
+      "externalIds": {
+        "DBLP": "conf/ijcai/XueWWZ20",
+        "MAG": "3022228582",
+        "ArXiv": "2004.13465",
+        "DOI": "10.24963/ijcai.2020/406",
+        "CorpusId": 220483075
+      },
+      "url": "https://www.semanticscholar.org/paper/b46a6e707315b8f34c3656e6e2e3cbe513f01c47",
+      "title": "Nearly Optimal Regret for Stochastic Linear Bandits with Heavy-Tailed Payoffs",
+      "venue": "International Joint Conference on Artificial Intelligence",
+      "year": 2020,
+      "referenceCount": 51,
+      "citationCount": 48,
+      "authors": [
+        {
+          "authorId": "2054526085",
+          "name": "Bo Xue"
+        },
+        {
+          "authorId": "2265595201",
+          "name": "Guanghui Wang"
+        },
+        {
+          "authorId": "2259866135",
+          "name": "Yimu Wang"
+        },
+        {
+          "authorId": "2228393430",
+          "name": "Lijun Zhang"
+        }
+      ]
+    },
+    {
+      "paperId": "92ca008eec4ac1883a29a033e256552718d9f99d",
+      "externalIds": {
+        "MAG": "2949902368",
+        "DBLP": "journals/corr/abs-1810-10895",
+        "ArXiv": "1810.10895",
+        "CorpusId": 53022421
+      },
+      "url": "https://www.semanticscholar.org/paper/92ca008eec4ac1883a29a033e256552718d9f99d",
+      "title": "Almost Optimal Algorithms for Linear Stochastic Bandits with Heavy-Tailed Payoffs",
+      "venue": "Neural Information Processing Systems",
+      "year": 2018,
+      "referenceCount": 34,
+      "citationCount": 53,
+      "authors": [
+        {
+          "authorId": "153778552",
+          "name": "Han Shao"
+        },
+        {
+          "authorId": "1805134",
+          "name": "Xiaotian Yu"
+        },
+        {
+          "authorId": "145310663",
+          "name": "Irwin King"
+        },
+        {
+          "authorId": "1785083",
+          "name": "Michael R. Lyu"
+        }
+      ]
+    },
+    {
+      "paperId": "64a1c75ee91a46ce317a5a4428412f7120a666ee",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2306-06836",
+        "ArXiv": "2306.06836",
+        "DOI": "10.48550/arXiv.2306.06836",
+        "CorpusId": 259137658
+      },
+      "url": "https://www.semanticscholar.org/paper/64a1c75ee91a46ce317a5a4428412f7120a666ee",
+      "title": "Tackling Heavy-Tailed Rewards in Reinforcement Learning with Function Approximation: Minimax Optimal and Instance-Dependent Regret Bounds",
+      "venue": "Neural Information Processing Systems",
+      "year": 2023,
+      "referenceCount": 53,
+      "citationCount": 14,
+      "authors": [
+        {
+          "authorId": "1630366448",
+          "name": "Jiayi Huang"
+        },
+        {
+          "authorId": "2064919742",
+          "name": "Han Zhong"
+        },
+        {
+          "authorId": "2143440685",
+          "name": "Liwei Wang"
+        },
+        {
+          "authorId": "2155556894",
+          "name": "Lin F. Yang"
+        }
+      ]
+    },
+    {
+      "paperId": "d680fc0ea2eaa94239993f4328468703ac92eff7",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2303-05606",
+        "ArXiv": "2303.05606",
+        "DOI": "10.48550/arXiv.2303.05606",
+        "CorpusId": 257482729
+      },
+      "url": "https://www.semanticscholar.org/paper/d680fc0ea2eaa94239993f4328468703ac92eff7",
+      "title": "Variance-aware robust reinforcement learning with linear function approximation under heavy-tailed rewards",
+      "venue": "arXiv.org",
+      "year": 2023,
+      "referenceCount": 72,
+      "citationCount": 10,
+      "authors": [
+        {
+          "authorId": "2144441175",
+          "name": "Xiang Li"
+        },
+        {
+          "authorId": "145268319",
+          "name": "Qiang Sun"
+        }
+      ]
+    },
+    {
+      "paperId": "f1ae00fb2866f9132f0ece6ada972ce9864a17e1",
+      "externalIds": {
+        "ArXiv": "2301.09680",
+        "DBLP": "journals/corr/abs-2301-09680",
+        "DOI": "10.48550/arXiv.2301.09680",
+        "CorpusId": 256194472
+      },
+      "url": "https://www.semanticscholar.org/paper/f1ae00fb2866f9132f0ece6ada972ce9864a17e1",
+      "title": "Quantum Heavy-tailed Bandits",
+      "venue": "arXiv.org",
+      "year": 2023,
+      "referenceCount": 35,
+      "citationCount": 6,
+      "authors": [
+        {
+          "authorId": "121962023",
+          "name": "Yulian Wu"
+        },
+        {
+          "authorId": "10770425",
+          "name": "C. Guan"
+        },
+        {
+          "authorId": "1732805",
+          "name": "V. Aggarwal"
+        },
+        {
+          "authorId": "2145385367",
+          "name": "Di Wang"
+        }
+      ]
+    },
+    {
+      "paperId": "1b1b420216a859f3e274678e8552630771cdcbe1",
+      "externalIds": {
+        "CorpusId": 250264117
+      },
+      "url": "https://www.semanticscholar.org/paper/1b1b420216a859f3e274678e8552630771cdcbe1",
+      "title": "A Simple and Optimal Policy Design with Safety against Heavy-tailed Risk for Multi-armed Bandits",
+      "venue": "",
+      "year": 2022,
+      "referenceCount": 26,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "1397221034",
+          "name": "D. Simchi-Levi"
+        },
+        {
+          "authorId": "2286777927",
+          "name": "Zeyu Zheng"
+        },
+        {
+          "authorId": "2075371392",
+          "name": "Feng Zhu"
+        }
+      ]
+    },
+    {
+      "paperId": "b56b624f0f52b7ca5d678122ced2fe9d1dd9ce83",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2003-00365",
+        "MAG": "3008900438",
+        "ArXiv": "2003.00365",
+        "CorpusId": 211677262
+      },
+      "url": "https://www.semanticscholar.org/paper/b56b624f0f52b7ca5d678122ced2fe9d1dd9ce83",
+      "title": "Budget-Constrained Bandits over General Cost and Reward Distributions",
+      "venue": "International Conference on Artificial Intelligence and Statistics",
+      "year": 2020,
+      "referenceCount": 37,
+      "citationCount": 37,
+      "authors": [
+        {
+          "authorId": "9254774",
+          "name": "Semih Cayci"
+        },
+        {
+          "authorId": "1688915",
+          "name": "A. Eryilmaz"
+        },
+        {
+          "authorId": "143808204",
+          "name": "R. Srikant"
+        }
+      ]
+    }
+  ]
+}

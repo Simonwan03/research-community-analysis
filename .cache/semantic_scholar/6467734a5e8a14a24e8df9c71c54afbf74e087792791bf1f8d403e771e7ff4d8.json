@@ -1,0 +1,496 @@
+{
+  "total": 16,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "75339d34bdac0d21a41461228ec6088eecdf857a",
+      "externalIds": {
+        "DBLP": "conf/icml/MirmanGV18",
+        "MAG": "2803850896",
+        "CorpusId": 51872670
+      },
+      "url": "https://www.semanticscholar.org/paper/75339d34bdac0d21a41461228ec6088eecdf857a",
+      "title": "Differentiable Abstract Interpretation for Provably Robust Neural Networks",
+      "venue": "International Conference on Machine Learning",
+      "year": 2018,
+      "referenceCount": 28,
+      "citationCount": 575,
+      "authors": [
+        {
+          "authorId": "51120402",
+          "name": "M. Mirman"
+        },
+        {
+          "authorId": "2959734",
+          "name": "T. Gehr"
+        },
+        {
+          "authorId": "1736447",
+          "name": "Martin T. Vechev"
+        }
+      ]
+    },
+    {
+      "paperId": "194f667b64edd3c0164de289bdef5770d9877ff8",
+      "externalIds": {
+        "ArXiv": "2506.16065",
+        "DBLP": "conf/cav/HwangLPPS25",
+        "DOI": "10.1007/978-3-031-98679-6_14",
+        "CorpusId": 279464108
+      },
+      "url": "https://www.semanticscholar.org/paper/194f667b64edd3c0164de289bdef5770d9877ff8",
+      "title": "Floating-Point Neural Networks Are Provably Robust Universal Approximators",
+      "venue": "International Conference on Computer Aided Verification",
+      "year": 2025,
+      "referenceCount": 0,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "2281745355",
+          "name": "Geonho Hwang"
+        },
+        {
+          "authorId": "2282088441",
+          "name": "Wonyeol Lee"
+        },
+        {
+          "authorId": "2281797013",
+          "name": "Yeachan Park"
+        },
+        {
+          "authorId": "2281784752",
+          "name": "Sejun Park"
+        },
+        {
+          "authorId": "2325366276",
+          "name": "Feras A. Saad"
+        }
+      ]
+    },
+    {
+      "paperId": "3dae2d7dbf6b9e59fd86a6e5d621e75219a6f4da",
+      "externalIds": {
+        "PubMedCentral": "11602161",
+        "DOI": "10.1093/nar/gkae915",
+        "CorpusId": 274341671,
+        "PubMed": "39445795"
+      },
+      "url": "https://www.semanticscholar.org/paper/3dae2d7dbf6b9e59fd86a6e5d621e75219a6f4da",
+      "title": "OmicsFootPrint: a framework to integrate and interpret multi-omics data using circular images and deep neural networks",
+      "venue": "Nucleic Acids Research",
+      "year": 2024,
+      "referenceCount": 47,
+      "citationCount": 7,
+      "authors": [
+        {
+          "authorId": "2004146",
+          "name": "Xiaojia Tang"
+        },
+        {
+          "authorId": "2440336",
+          "name": "N. Prodduturi"
+        },
+        {
+          "authorId": "39573477",
+          "name": "Kevin J. Thompson"
+        },
+        {
+          "authorId": "2204099897",
+          "name": "Richard Weinshilboum"
+        },
+        {
+          "authorId": "1397910141",
+          "name": "C. O'Sullivan"
+        },
+        {
+          "authorId": "6877441",
+          "name": "J. Boughey"
+        },
+        {
+          "authorId": "2267733600",
+          "name": "H. Tizhoosh"
+        },
+        {
+          "authorId": "2246737385",
+          "name": "Eric W. Klee"
+        },
+        {
+          "authorId": "2279787784",
+          "name": "Liewei Wang"
+        },
+        {
+          "authorId": "2270092853",
+          "name": "Matthew P. Goetz"
+        },
+        {
+          "authorId": "2293816692",
+          "name": "Vera J. Suman"
+        },
+        {
+          "authorId": "2090320",
+          "name": "K. Kalari"
+        }
+      ]
+    },
+    {
+      "paperId": "493152ae263d92de457b4be7745c20bf475eb4ea",
+      "externalIds": {
+        "DBLP": "journals/pacmpl/WangAPJ22",
+        "ArXiv": "2007.06093",
+        "DOI": "10.1145/3498675",
+        "CorpusId": 235830005
+      },
+      "url": "https://www.semanticscholar.org/paper/493152ae263d92de457b4be7745c20bf475eb4ea",
+      "title": "Interval universal approximation for neural networks",
+      "venue": "Proc. ACM Program. Lang.",
+      "year": 2020,
+      "referenceCount": 51,
+      "citationCount": 28,
+      "authors": [
+        {
+          "authorId": "2117421590",
+          "name": "Zi Wang"
+        },
+        {
+          "authorId": "1893193",
+          "name": "Aws Albarghouthi"
+        },
+        {
+          "authorId": "2194955",
+          "name": "Gautam Prakriya"
+        },
+        {
+          "authorId": "1680133",
+          "name": "S. Jha"
+        }
+      ]
+    },
+    {
+      "paperId": "357b8189ab248ae37a91fd991ff8fb9c59031a3b",
+      "externalIds": {
+        "MAG": "3041921867",
+        "DBLP": "journals/corr/abs-2007-06093",
+        "CorpusId": 220496615
+      },
+      "url": "https://www.semanticscholar.org/paper/357b8189ab248ae37a91fd991ff8fb9c59031a3b",
+      "title": "Abstract Universal Approximation for Neural Networks",
+      "venue": "arXiv.org",
+      "year": 2020,
+      "referenceCount": 39,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "2117421590",
+          "name": "Zi Wang"
+        },
+        {
+          "authorId": "1893193",
+          "name": "Aws Albarghouthi"
+        },
+        {
+          "authorId": "1680133",
+          "name": "S. Jha"
+        }
+      ]
+    },
+    {
+      "paperId": "b310c520a7c1357587a671bc4f424d23b3534b31",
+      "externalIds": {
+        "DBLP": "journals/pacmpl/LaurelYUNSM22",
+        "DOI": "10.1145/3563324",
+        "CorpusId": 252442757
+      },
+      "url": "https://www.semanticscholar.org/paper/b310c520a7c1357587a671bc4f424d23b3534b31",
+      "title": "A general construction for abstract interpretation of higher-order automatic differentiation",
+      "venue": "Proc. ACM Program. Lang.",
+      "year": 2022,
+      "referenceCount": 53,
+      "citationCount": 15,
+      "authors": [
+        {
+          "authorId": "20947424",
+          "name": "Jacob S. Laurel"
+        },
+        {
+          "authorId": "2148359850",
+          "name": "Rem Yang"
+        },
+        {
+          "authorId": "1413931779",
+          "name": "Shubham Ugare"
+        },
+        {
+          "authorId": "145595213",
+          "name": "R. Nagel"
+        },
+        {
+          "authorId": "122085719",
+          "name": "Gagandeep Singh"
+        },
+        {
+          "authorId": "1704478",
+          "name": "Sasa Misailovic"
+        }
+      ]
+    },
+    {
+      "paperId": "471ca03559337321e6a7ea006c5fc0f8e9b0e24e",
+      "externalIds": {
+        "ArXiv": "2008.03920",
+        "DOI": "10.1016/j.physd.2022.133592",
+        "CorpusId": 253224423
+      },
+      "url": "https://www.semanticscholar.org/paper/471ca03559337321e6a7ea006c5fc0f8e9b0e24e",
+      "title": "Do ideas have shape? Idea registration as the continuous limit of artificial neural networks",
+      "venue": "Physica A: Statistical Mechanics and its Applications",
+      "year": 2020,
+      "referenceCount": 129,
+      "citationCount": 18,
+      "authors": [
+        {
+          "authorId": "1760230",
+          "name": "H. Owhadi"
+        }
+      ]
+    },
+    {
+      "paperId": "5677b0ca32651b80aa3a210d691bfc93bf9fcc82",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-1903-12519",
+        "MAG": "2931831036",
+        "ArXiv": "1903.12519",
+        "CorpusId": 88525007
+      },
+      "url": "https://www.semanticscholar.org/paper/5677b0ca32651b80aa3a210d691bfc93bf9fcc82",
+      "title": "A Provable Defense for Deep Residual Networks",
+      "venue": "arXiv.org",
+      "year": 2019,
+      "referenceCount": 51,
+      "citationCount": 29,
+      "authors": [
+        {
+          "authorId": "51120402",
+          "name": "M. Mirman"
+        },
+        {
+          "authorId": "122085719",
+          "name": "Gagandeep Singh"
+        },
+        {
+          "authorId": "1736447",
+          "name": "Martin T. Vechev"
+        }
+      ]
+    },
+    {
+      "paperId": "a159d4696746e59a7af8341de1d01a89378f1ac1",
+      "externalIds": {
+        "MAG": "2768412660",
+        "DOI": "10.1128/JCM.01521-17",
+        "CorpusId": 3476094,
+        "PubMed": "29187563"
+      },
+      "url": "https://www.semanticscholar.org/paper/a159d4696746e59a7af8341de1d01a89378f1ac1",
+      "title": "Automated Interpretation of Blood Culture Gram Stains by Use of a Deep Convolutional Neural Network",
+      "venue": "Journal of Clinical Microbiology",
+      "year": 2017,
+      "referenceCount": 30,
+      "citationCount": 129,
+      "authors": [
+        {
+          "authorId": "50524594",
+          "name": "K. P. Smith"
+        },
+        {
+          "authorId": "6859572",
+          "name": "A. Kang"
+        },
+        {
+          "authorId": "11070082",
+          "name": "J. Kirby"
+        }
+      ]
+    },
+    {
+      "paperId": "1ab9ce98f7ca955753e87c3b10c00050f63becfc",
+      "externalIds": {
+        "DOI": "10.1016/s2589-7500(23)00091-2",
+        "CorpusId": 260271636,
+        "PubMed": "37507196"
+      },
+      "url": "https://www.semanticscholar.org/paper/1ab9ce98f7ca955753e87c3b10c00050f63becfc",
+      "title": "Ultrasound identification of hepatic echinococcosis using a deep convolutional neural network model in China: a retrospective, large-scale, multicentre, diagnostic accuracy study.",
+      "venue": "The Lancet Digital Health",
+      "year": 2023,
+      "referenceCount": 28,
+      "citationCount": 23,
+      "authors": [
+        {
+          "authorId": "2143039590",
+          "name": "Yongfeng Yang"
+        },
+        {
+          "authorId": "1399017601",
+          "name": "Y. Cairang"
+        },
+        {
+          "authorId": "29559105",
+          "name": "T. Jiang"
+        },
+        {
+          "authorId": "49640045",
+          "name": "Jianhua Zhou"
+        },
+        {
+          "authorId": "2152827634",
+          "name": "Li Zhang"
+        },
+        {
+          "authorId": "2064310653",
+          "name": "B. Qi"
+        },
+        {
+          "authorId": "2225906168",
+          "name": "Shumei Ma"
+        },
+        {
+          "authorId": "2144568948",
+          "name": "L. Tang"
+        },
+        {
+          "authorId": "2181383365",
+          "name": "Dong Xu"
+        },
+        {
+          "authorId": "2225929495",
+          "name": "Lingdai Bu"
+        },
+        {
+          "authorId": "2066165705",
+          "name": "Rui Bu"
+        },
+        {
+          "authorId": "2142577014",
+          "name": "Xiang Jing"
+        },
+        {
+          "authorId": "46507139",
+          "name": "Haibo Wang"
+        },
+        {
+          "authorId": "13992931",
+          "name": "Zubang Zhou"
+        },
+        {
+          "authorId": "2115460345",
+          "name": "Cheng Zhao"
+        },
+        {
+          "authorId": "152863528",
+          "name": "B. Luo"
+        },
+        {
+          "authorId": "2145592370",
+          "name": "Liwen Liu"
+        },
+        {
+          "authorId": "2218313339",
+          "name": "Jianqin Guo"
+        },
+        {
+          "authorId": "2023765062",
+          "name": "Yuzhen Nima"
+        },
+        {
+          "authorId": "2015235208",
+          "name": "Guo-an Hua"
+        },
+        {
+          "authorId": "2225929147",
+          "name": "Zengcheng Wa"
+        },
+        {
+          "authorId": "2108307861",
+          "name": "Yuying Zhang"
+        },
+        {
+          "authorId": "1892738278",
+          "name": "Guoyi Zhou"
+        },
+        {
+          "authorId": "81970762",
+          "name": "W. Jiang"
+        },
+        {
+          "authorId": "2225142087",
+          "name": "Chang-Yi Wang"
+        },
+        {
+          "authorId": "2225932227",
+          "name": "Yang De"
+        },
+        {
+          "authorId": "51012717",
+          "name": "Xiaoling Yu"
+        },
+        {
+          "authorId": "145072177",
+          "name": "Zhigang Cheng"
+        },
+        {
+          "authorId": "46758324",
+          "name": "Z. Han"
+        },
+        {
+          "authorId": "5910480",
+          "name": "Fangyi Liu"
+        },
+        {
+          "authorId": "11018903",
+          "name": "Jianping Dou"
+        },
+        {
+          "authorId": "2113275233",
+          "name": "Hui Feng"
+        },
+        {
+          "authorId": "2212051286",
+          "name": "Chong Wu"
+        },
+        {
+          "authorId": "2226085603",
+          "name": "Ruifang Wang"
+        },
+        {
+          "authorId": "2143911089",
+          "name": "Jie Hu"
+        },
+        {
+          "authorId": "2143515580",
+          "name": "Qi Yang"
+        },
+        {
+          "authorId": "11427659",
+          "name": "Yan-chun Luo"
+        },
+        {
+          "authorId": "2157828283",
+          "name": "Jia-peng Wu"
+        },
+        {
+          "authorId": "48440041",
+          "name": "H. Fan"
+        },
+        {
+          "authorId": "2326133491",
+          "name": "P. Liang"
+        },
+        {
+          "authorId": "145276074",
+          "name": "Jie Yu"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,314 @@
+{
+  "total": 842,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "3f4c70c93c30352ed2b0259307ac51b5b6ffd478",
+      "externalIds": {
+        "DBLP": "conf/icml/AbelALL18",
+        "MAG": "2803178532",
+        "CorpusId": 46995658
+      },
+      "url": "https://www.semanticscholar.org/paper/3f4c70c93c30352ed2b0259307ac51b5b6ffd478",
+      "title": "State Abstractions for Lifelong Reinforcement Learning",
+      "venue": "International Conference on Machine Learning",
+      "year": 2018,
+      "referenceCount": 43,
+      "citationCount": 133,
+      "authors": [
+        {
+          "authorId": "152422014",
+          "name": "David Abel"
+        },
+        {
+          "authorId": "34544888",
+          "name": "Dilip Arumugam"
+        },
+        {
+          "authorId": "39251318",
+          "name": "Lucas Lehnert"
+        },
+        {
+          "authorId": "144885169",
+          "name": "M. Littman"
+        }
+      ]
+    },
+    {
+      "paperId": "4cb9f63549b91354219ec2efe5edc12db7323ec2",
+      "externalIds": {
+        "CorpusId": 1894297
+      },
+      "url": "https://www.semanticscholar.org/paper/4cb9f63549b91354219ec2efe5edc12db7323ec2",
+      "title": "Toward Good Abstractions for Lifelong Learning",
+      "venue": "",
+      "year": 2017,
+      "referenceCount": 23,
+      "citationCount": 10,
+      "authors": [
+        {
+          "authorId": "152422014",
+          "name": "David Abel"
+        },
+        {
+          "authorId": "34544888",
+          "name": "Dilip Arumugam"
+        },
+        {
+          "authorId": "39251318",
+          "name": "Lucas Lehnert"
+        },
+        {
+          "authorId": "144885169",
+          "name": "M. Littman"
+        }
+      ]
+    },
+    {
+      "paperId": "1aa4d9eb8aa15b22a8d75b0bfa569c09b0c73443",
+      "externalIds": {
+        "ArXiv": "2401.12497",
+        "DBLP": "conf/aaai/WangWXZS24",
+        "DOI": "10.1609/aaai.v38i14.29507",
+        "CorpusId": 267094717
+      },
+      "url": "https://www.semanticscholar.org/paper/1aa4d9eb8aa15b22a8d75b0bfa569c09b0c73443",
+      "title": "Building Minimal and Reusable Causal State Abstractions for Reinforcement Learning",
+      "venue": "AAAI Conference on Artificial Intelligence",
+      "year": 2024,
+      "referenceCount": 36,
+      "citationCount": 9,
+      "authors": [
+        {
+          "authorId": "2881858",
+          "name": "Zizhao Wang"
+        },
+        {
+          "authorId": "2160103649",
+          "name": "Caroline Wang"
+        },
+        {
+          "authorId": "2118724825",
+          "name": "Xuesu Xiao"
+        },
+        {
+          "authorId": "2322736301",
+          "name": "Yuke Zhu"
+        },
+        {
+          "authorId": "2261286584",
+          "name": "Peter Stone"
+        }
+      ]
+    },
+    {
+      "paperId": "d0528ebfc69bd99f98d0f965913b7c16ae5f4f71",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2106-04379",
+        "ArXiv": "2106.04379",
+        "CorpusId": 227520288
+      },
+      "url": "https://www.semanticscholar.org/paper/d0528ebfc69bd99f98d0f965913b7c16ae5f4f71",
+      "title": "Learning Markov State Abstractions for Deep Reinforcement Learning",
+      "venue": "Neural Information Processing Systems",
+      "year": 2021,
+      "referenceCount": 64,
+      "citationCount": 57,
+      "authors": [
+        {
+          "authorId": "46781095",
+          "name": "Cameron S. Allen"
+        },
+        {
+          "authorId": "1380182284",
+          "name": "Neev Parikh"
+        }
+      ]
+    },
+    {
+      "paperId": "ee171a4f024595e5725a86f41dfa7589c3b3205a",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2512-20831",
+        "ArXiv": "2512.20831",
+        "DOI": "10.48550/arXiv.2512.20831",
+        "CorpusId": 284154124
+      },
+      "url": "https://www.semanticscholar.org/paper/ee171a4f024595e5725a86f41dfa7589c3b3205a",
+      "title": "Context-Sensitive Abstractions for Reinforcement Learning with Parameterized Actions",
+      "venue": "AAAI Conference on Artificial Intelligence",
+      "year": 2025,
+      "referenceCount": 29,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "40908958",
+          "name": "Rashmeet Kaur Nayyar"
+        },
+        {
+          "authorId": "2114061918",
+          "name": "Naman Shah"
+        },
+        {
+          "authorId": "2283933883",
+          "name": "Siddharth Srivastava"
+        }
+      ]
+    },
+    {
+      "paperId": "1d425c6c40ea348c593b36b6895b56bfb261599b",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2505-11061",
+        "ArXiv": "2505.11061",
+        "DOI": "10.1109/TTE.2025.3625421",
+        "CorpusId": 278715390
+      },
+      "url": "https://www.semanticscholar.org/paper/1d425c6c40ea348c593b36b6895b56bfb261599b",
+      "title": "Lifelong Reinforcement Learning for Health-Aware Fast Charging of Lithium-Ion Batteries",
+      "venue": "IEEE Transactions on Transportation Electrification",
+      "year": 2025,
+      "referenceCount": 48,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2350528453",
+          "name": "Meng Yuan"
+        },
+        {
+          "authorId": "2350513056",
+          "name": "Changfu Zou"
+        }
+      ]
+    },
+    {
+      "paperId": "d0f1750e3a77e51b6159b8d99b2d2de7039de124",
+      "externalIds": {
+        "ArXiv": "2102.09850",
+        "DBLP": "journals/corr/abs-2102-09850",
+        "CorpusId": 231979321
+      },
+      "url": "https://www.semanticscholar.org/paper/d0f1750e3a77e51b6159b8d99b2d2de7039de124",
+      "title": "Model-Invariant State Abstractions for Model-Based Reinforcement Learning",
+      "venue": "arXiv.org",
+      "year": 2021,
+      "referenceCount": 48,
+      "citationCount": 33,
+      "authors": [
+        {
+          "authorId": "119439163",
+          "name": "Manan Tomar"
+        },
+        {
+          "authorId": "2111672235",
+          "name": "Amy Zhang"
+        },
+        {
+          "authorId": "35159852",
+          "name": "R. Calandra"
+        },
+        {
+          "authorId": "39286677",
+          "name": "Matthew E. Taylor"
+        },
+        {
+          "authorId": "145134886",
+          "name": "Joelle Pineau"
+        }
+      ]
+    },
+    {
+      "paperId": "e6e0de0b46578081ffdc63496e387ffd1f323565",
+      "externalIds": {
+        "DBLP": "conf/iros/NashedSB0Z22",
+        "DOI": "10.1109/IROS47612.2022.9981612",
+        "CorpusId": 252570863
+      },
+      "url": "https://www.semanticscholar.org/paper/e6e0de0b46578081ffdc63496e387ffd1f323565",
+      "title": "Selecting the Partial State Abstractions of MDPs: A Metareasoning Approach with Deep Reinforcement Learning",
+      "venue": "IEEE/RJS International Conference on Intelligent RObots and Systems",
+      "year": 2022,
+      "referenceCount": 26,
+      "citationCount": 5,
+      "authors": [
+        {
+          "authorId": "5604387",
+          "name": "Samer B. Nashed"
+        },
+        {
+          "authorId": "2389770",
+          "name": "Justin Svegliato"
+        },
+        {
+          "authorId": "50841820",
+          "name": "Abhinav Bhatia"
+        },
+        {
+          "authorId": "145107462",
+          "name": "Stuart J. Russell"
+        },
+        {
+          "authorId": "1707550",
+          "name": "S. Zilberstein"
+        }
+      ]
+    },
+    {
+      "paperId": "3bf488d3129140dea64fe8f0e3339632fab4ebea",
+      "externalIds": {
+        "DBLP": "journals/pami/GomezQG23",
+        "DOI": "10.1109/TPAMI.2022.3200726",
+        "CorpusId": 251742128,
+        "PubMed": "35994548"
+      },
+      "url": "https://www.semanticscholar.org/paper/3bf488d3129140dea64fe8f0e3339632fab4ebea",
+      "title": "Information Optimization and Transferable State Abstractions in Deep Reinforcement Learning",
+      "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+      "year": 2022,
+      "referenceCount": 75,
+      "citationCount": 9,
+      "authors": [
+        {
+          "authorId": "2056499504",
+          "name": "Diego Gomez"
+        },
+        {
+          "authorId": "2410760",
+          "name": "N. Quijano"
+        },
+        {
+          "authorId": "27224158",
+          "name": "L. F. Giraldo"
+        }
+      ]
+    },
+    {
+      "paperId": "c62a72bc975fdc0e465dcc28d3e8979e9441d4df",
+      "externalIds": {
+        "DBLP": "journals/tnn/XuCW25",
+        "DOI": "10.1109/TNNLS.2024.3385570",
+        "CorpusId": 269482785,
+        "PubMed": "38687668"
+      },
+      "url": "https://www.semanticscholar.org/paper/c62a72bc975fdc0e465dcc28d3e8979e9441d4df",
+      "title": "Policy Correction and State-Conditioned Action Evaluation for Few-Shot Lifelong Deep Reinforcement Learning",
+      "venue": "IEEE Transactions on Neural Networks and Learning Systems",
+      "year": 2024,
+      "referenceCount": 57,
+      "citationCount": 9,
+      "authors": [
+        {
+          "authorId": "2200077525",
+          "name": "Meng Xu"
+        },
+        {
+          "authorId": "2116057955",
+          "name": "Xinhong Chen"
+        },
+        {
+          "authorId": "2237387829",
+          "name": "Jianping Wang"
+        }
+      ]
+    }
+  ]
+}

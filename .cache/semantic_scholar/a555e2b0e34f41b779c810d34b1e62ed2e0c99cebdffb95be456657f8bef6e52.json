@@ -1,0 +1,228 @@
+{
+  "total": 7,
+  "offset": 0,
+  "data": [
+    {
+      "paperId": "3a13f7c43b767b1fb72ef107ef62a4ddd48dd2a7",
+      "externalIds": {
+        "MAG": "2553882142",
+        "DBLP": "conf/icml/AndreasKL17",
+        "ArXiv": "1611.01796",
+        "CorpusId": 14711954
+      },
+      "url": "https://www.semanticscholar.org/paper/3a13f7c43b767b1fb72ef107ef62a4ddd48dd2a7",
+      "title": "Modular Multitask Reinforcement Learning with Policy Sketches",
+      "venue": "International Conference on Machine Learning",
+      "year": 2016,
+      "referenceCount": 41,
+      "citationCount": 496,
+      "authors": [
+        {
+          "authorId": "2112400",
+          "name": "Jacob Andreas"
+        },
+        {
+          "authorId": "38666915",
+          "name": "D. Klein"
+        },
+        {
+          "authorId": "1736651",
+          "name": "S. Levine"
+        }
+      ]
+    },
+    {
+      "paperId": "2ca53cbb1473d7b3e1f0230a234be72c54b94b77",
+      "externalIds": {
+        "CorpusId": 39614562
+      },
+      "url": "https://www.semanticscholar.org/paper/2ca53cbb1473d7b3e1f0230a234be72c54b94b77",
+      "title": "EARNING WITH P OLICY S KETCHES",
+      "venue": "",
+      "year": 2016,
+      "referenceCount": 34,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2065201987",
+          "name": "Jacob Andreas"
+        },
+        {
+          "authorId": "38666915",
+          "name": "D. Klein"
+        },
+        {
+          "authorId": "1736651",
+          "name": "S. Levine"
+        }
+      ]
+    },
+    {
+      "paperId": "0d3669a26601f31412b31ec38e3fdc4f17cec059",
+      "externalIds": {
+        "ArXiv": "2412.07507",
+        "DBLP": "conf/aaai/GuoMC0CZG25",
+        "DOI": "10.48550/arXiv.2412.07507",
+        "CorpusId": 274610199
+      },
+      "url": "https://www.semanticscholar.org/paper/0d3669a26601f31412b31ec38e3fdc4f17cec059",
+      "title": "ConfigX: Modular Configuration for Evolutionary Algorithms via Multitask Reinforcement Learning",
+      "venue": "AAAI Conference on Artificial Intelligence",
+      "year": 2024,
+      "referenceCount": 88,
+      "citationCount": 13,
+      "authors": [
+        {
+          "authorId": "2152574829",
+          "name": "Hongshu Guo"
+        },
+        {
+          "authorId": "2257372380",
+          "name": "Zeyuan Ma"
+        },
+        {
+          "authorId": "2257434380",
+          "name": "Jiacheng Chen"
+        },
+        {
+          "authorId": "2257443640",
+          "name": "Yining Ma"
+        },
+        {
+          "authorId": "2258331238",
+          "name": "Zhiguang Cao"
+        },
+        {
+          "authorId": "2335191735",
+          "name": "Xinglin Zhang"
+        },
+        {
+          "authorId": "2283096236",
+          "name": "Yue-jiao Gong"
+        }
+      ]
+    },
+    {
+      "paperId": "efbba49eb8faa538d7ddfce93680379e20861b2f",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2406-10667",
+        "ArXiv": "2406.10667",
+        "DOI": "10.48550/arXiv.2406.10667",
+        "CorpusId": 270559382
+      },
+      "url": "https://www.semanticscholar.org/paper/efbba49eb8faa538d7ddfce93680379e20861b2f",
+      "title": "UniZero: Generalized and Efficient Planning with Scalable Latent World Models",
+      "venue": "Trans. Mach. Learn. Res.",
+      "year": 2024,
+      "referenceCount": 82,
+      "citationCount": 12,
+      "authors": [
+        {
+          "authorId": "2257348455",
+          "name": "Yuan Pu"
+        },
+        {
+          "authorId": "2192706854",
+          "name": "Yazhe Niu"
+        },
+        {
+          "authorId": "2258296010",
+          "name": "Jiyuan Ren"
+        },
+        {
+          "authorId": "2257389790",
+          "name": "Zhenjie Yang"
+        },
+        {
+          "authorId": "2261394248",
+          "name": "Hongsheng Li"
+        },
+        {
+          "authorId": "2299045852",
+          "name": "Yu Liu"
+        }
+      ]
+    },
+    {
+      "paperId": "26ab00e1ca3f06d8b59c192d7c33cf2b3fb23a77",
+      "externalIds": {
+        "DBLP": "journals/ral/LinCL24",
+        "DOI": "10.1109/LRA.2023.3339400",
+        "CorpusId": 265696054
+      },
+      "url": "https://www.semanticscholar.org/paper/26ab00e1ca3f06d8b59c192d7c33cf2b3fb23a77",
+      "title": "Sketch RL: Interactive Sketch Generation for Long-Horizon Tasks via Vision-Based Skill Predictor",
+      "venue": "IEEE Robotics and Automation Letters",
+      "year": 2024,
+      "referenceCount": 36,
+      "citationCount": 5,
+      "authors": [
+        {
+          "authorId": "2220659389",
+          "name": "Zhenyang Lin"
+        },
+        {
+          "authorId": "2130049377",
+          "name": "Yurou Chen"
+        },
+        {
+          "authorId": "145778352",
+          "name": "Zhiyong Liu"
+        }
+      ]
+    },
+    {
+      "paperId": "83d755ae8882c2eefe06c7e0c903ad656faf97ab",
+      "externalIds": {
+        "DBLP": "journals/ral/SchneiderHWV25",
+        "ArXiv": "2412.16635",
+        "DOI": "10.1109/LRA.2025.3573622",
+        "CorpusId": 274981668
+      },
+      "url": "https://www.semanticscholar.org/paper/83d755ae8882c2eefe06c7e0c903ad656faf97ab",
+      "title": "Task-Driven Co-Design of Mobile Manipulators",
+      "venue": "IEEE Robotics and Automation Letters",
+      "year": 2024,
+      "referenceCount": 54,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "2257164088",
+          "name": "Raphaël Schneider"
+        },
+        {
+          "authorId": "2304438189",
+          "name": "Daniel Honerkamp"
+        },
+        {
+          "authorId": "8277326",
+          "name": "T. Welschehold"
+        },
+        {
+          "authorId": "2131132945",
+          "name": "A. Valada"
+        }
+      ]
+    },
+    {
+      "paperId": "44c0f72c0d6604482d9bd9607b30d831c7cde82c",
+      "externalIds": {
+        "MAG": "2943363059",
+        "DBLP": "phd/basesearch/Andreas18",
+        "CorpusId": 155928848
+      },
+      "url": "https://www.semanticscholar.org/paper/44c0f72c0d6604482d9bd9607b30d831c7cde82c",
+      "title": "Learning from Language",
+      "venue": "",
+      "year": 2018,
+      "referenceCount": 157,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2112400",
+          "name": "Jacob Andreas"
+        }
+      ]
+    }
+  ]
+}

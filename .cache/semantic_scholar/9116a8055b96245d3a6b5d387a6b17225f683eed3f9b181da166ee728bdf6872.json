@@ -1,0 +1,1328 @@
+{
+  "offset": 0,
+  "citingPaperInfo": {
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/1502.04081, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "title": "A Linear Dynamical System Model for Text",
+    "authors": [
+      {
+        "authorId": "2636941",
+        "name": "David Belanger"
+      },
+      {
+        "authorId": "144695232",
+        "name": "S. Kakade"
+      }
+    ]
+  },
+  "data": [
+    {
+      "citedPaper": {
+        "paperId": "47570e7f63e296f224a0e7f9a0d08b0de3cbaf40",
+        "externalIds": {
+          "DBLP": "conf/nips/VinyalsKKPSH15",
+          "MAG": "2951648188",
+          "ArXiv": "1412.7449",
+          "CorpusId": 14223
+        },
+        "url": "https://www.semanticscholar.org/paper/47570e7f63e296f224a0e7f9a0d08b0de3cbaf40",
+        "title": "Grammar as a Foreign Language",
+        "venue": "Neural Information Processing Systems",
+        "year": 2014,
+        "referenceCount": 36,
+        "citationCount": 939,
+        "authors": [
+          {
+            "authorId": "1689108",
+            "name": "O. Vinyals"
+          },
+          {
+            "authorId": "40527594",
+            "name": "Lukasz Kaiser"
+          },
+          {
+            "authorId": "2060101052",
+            "name": "Terry Koo"
+          },
+          {
+            "authorId": "1754497",
+            "name": "Slav Petrov"
+          },
+          {
+            "authorId": "1701686",
+            "name": "I. Sutskever"
+          },
+          {
+            "authorId": "1695689",
+            "name": "Geoffrey E. Hinton"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "f4c018bcc8ea707b83247866bdc8ccb87cd9f5da",
+        "externalIds": {
+          "MAG": "2125031621",
+          "DBLP": "conf/nips/LevyG14",
+          "CorpusId": 1190093
+        },
+        "url": "https://www.semanticscholar.org/paper/f4c018bcc8ea707b83247866bdc8ccb87cd9f5da",
+        "title": "Neural Word Embedding as Implicit Matrix Factorization",
+        "venue": "Neural Information Processing Systems",
+        "year": 2014,
+        "referenceCount": 30,
+        "citationCount": 2011,
+        "authors": [
+          {
+            "authorId": "39455775",
+            "name": "Omer Levy"
+          },
+          {
+            "authorId": "2089067",
+            "name": "Yoav Goldberg"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "49b19f7884f625a0ff0f59deb7d11635481da6e0",
+        "externalIds": {
+          "DBLP": "conf/nips/PasaS14",
+          "MAG": "2105482846",
+          "CorpusId": 8100061
+        },
+        "url": "https://www.semanticscholar.org/paper/49b19f7884f625a0ff0f59deb7d11635481da6e0",
+        "title": "Pre-training of Recurrent Neural Networks via Linear Autoencoders",
+        "venue": "Neural Information Processing Systems",
+        "year": 2014,
+        "referenceCount": 24,
+        "citationCount": 41,
+        "authors": [
+          {
+            "authorId": "32246134",
+            "name": "Luca Pasa"
+          },
+          {
+            "authorId": "1749815",
+            "name": "A. Sperduti"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "f37e1b62a767a307c046404ca96bc140b3e68cb5",
+        "externalIds": {
+          "DBLP": "conf/emnlp/PenningtonSM14",
+          "ACL": "D14-1162",
+          "MAG": "2250539671",
+          "DOI": "10.3115/v1/D14-1162",
+          "CorpusId": 1957433
+        },
+        "url": "https://www.semanticscholar.org/paper/f37e1b62a767a307c046404ca96bc140b3e68cb5",
+        "title": "GloVe: Global Vectors for Word Representation",
+        "venue": "Conference on Empirical Methods in Natural Language Processing",
+        "year": 2014,
+        "referenceCount": 32,
+        "citationCount": 34321,
+        "authors": [
+          {
+            "authorId": "143845796",
+            "name": "Jeffrey Pennington"
+          },
+          {
+            "authorId": "2166511",
+            "name": "R. Socher"
+          },
+          {
+            "authorId": "144783904",
+            "name": "Christopher D. Manning"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "1a08e135ac11db0249c6afb4540672c5a349495e",
+        "externalIds": {
+          "ACL": "D14-1113",
+          "DBLP": "journals/corr/NeelakantanSPM15",
+          "ArXiv": "1504.06654",
+          "MAG": "2162456950",
+          "DOI": "10.3115/v1/D14-1113",
+          "CorpusId": 15251438
+        },
+        "url": "https://www.semanticscholar.org/paper/1a08e135ac11db0249c6afb4540672c5a349495e",
+        "title": "Efficient Non-parametric Estimation of Multiple Embeddings per Word in Vector Space",
+        "venue": "Conference on Empirical Methods in Natural Language Processing",
+        "year": 2014,
+        "referenceCount": 30,
+        "citationCount": 472,
+        "authors": [
+          {
+            "authorId": "2072676",
+            "name": "Arvind Neelakantan"
+          },
+          {
+            "authorId": "2064977892",
+            "name": "Jeevan Shankar"
+          },
+          {
+            "authorId": "144720379",
+            "name": "Alexandre Passos"
+          },
+          {
+            "authorId": "143753639",
+            "name": "A. McCallum"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "cea967b59209c6be22829699f05b8b1ac4dc092d",
+        "externalIds": {
+          "MAG": "2130942839",
+          "DBLP": "conf/nips/SutskeverVL14",
+          "ArXiv": "1409.3215",
+          "CorpusId": 7961699
+        },
+        "url": "https://www.semanticscholar.org/paper/cea967b59209c6be22829699f05b8b1ac4dc092d",
+        "title": "Sequence to Sequence Learning with Neural Networks",
+        "venue": "Neural Information Processing Systems",
+        "year": 2014,
+        "referenceCount": 41,
+        "citationCount": 21934,
+        "authors": [
+          {
+            "authorId": "1701686",
+            "name": "I. Sutskever"
+          },
+          {
+            "authorId": "1689108",
+            "name": "O. Vinyals"
+          },
+          {
+            "authorId": "2827616",
+            "name": "Quoc V. Le"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "1bdf8961c427a77662b457b38f2057b12d9e4d07",
+        "externalIds": {
+          "MAG": "2396314717",
+          "DBLP": "conf/uai/StratosKCH14",
+          "CorpusId": 2463648
+        },
+        "url": "https://www.semanticscholar.org/paper/1bdf8961c427a77662b457b38f2057b12d9e4d07",
+        "title": "A Spectral Algorithm for Learning Class-Based n-gram Models of Natural Language",
+        "venue": "Conference on Uncertainty in Artificial Intelligence",
+        "year": 2014,
+        "referenceCount": 25,
+        "citationCount": 35,
+        "authors": [
+          {
+            "authorId": "1714215",
+            "name": "K. Stratos"
+          },
+          {
+            "authorId": "39098113",
+            "name": "Do-kyum Kim"
+          },
+          {
+            "authorId": "144426392",
+            "name": "Michael Collins"
+          },
+          {
+            "authorId": "143724861",
+            "name": "Daniel J. Hsu"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "f9f91e7bac46b13444eddeb2438b01089e73b786",
+        "externalIds": {
+          "DBLP": "conf/acl/BansalGL14",
+          "ACL": "P14-2131",
+          "MAG": "2251874715",
+          "DOI": "10.3115/v1/P14-2131",
+          "CorpusId": 7803700
+        },
+        "url": "https://www.semanticscholar.org/paper/f9f91e7bac46b13444eddeb2438b01089e73b786",
+        "title": "Tailoring Continuous Word Representations for Dependency Parsing",
+        "venue": "Annual Meeting of the Association for Computational Linguistics",
+        "year": 2014,
+        "referenceCount": 43,
+        "citationCount": 313,
+        "authors": [
+          {
+            "authorId": "143977268",
+            "name": "Mohit Bansal"
+          },
+          {
+            "authorId": "1700980",
+            "name": "Kevin Gimpel"
+          },
+          {
+            "authorId": "2924113",
+            "name": "Karen Livescu"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "d53d878cf1a3f0bed5d9c68c925994cb72f47304",
+        "externalIds": {
+          "DBLP": "journals/corr/PassosKM14",
+          "ArXiv": "1404.5367",
+          "ACL": "W14-1609",
+          "MAG": "2950338250",
+          "DOI": "10.3115/v1/W14-1609",
+          "CorpusId": 9345583
+        },
+        "url": "https://www.semanticscholar.org/paper/d53d878cf1a3f0bed5d9c68c925994cb72f47304",
+        "title": "Lexicon Infused Phrase Embeddings for Named Entity Resolution",
+        "venue": "Conference on Computational Natural Language Learning",
+        "year": 2014,
+        "referenceCount": 26,
+        "citationCount": 315,
+        "authors": [
+          {
+            "authorId": "144720379",
+            "name": "Alexandre Passos"
+          },
+          {
+            "authorId": "2112232561",
+            "name": "Vineet Kumar"
+          },
+          {
+            "authorId": "143753639",
+            "name": "A. McCallum"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "99c970348b8f70ce23d6641e201904ea49266b6e",
+        "externalIds": {
+          "ArXiv": "1312.6120",
+          "MAG": "2953334419",
+          "DBLP": "journals/corr/SaxeMG13",
+          "CorpusId": 17272965
+        },
+        "url": "https://www.semanticscholar.org/paper/99c970348b8f70ce23d6641e201904ea49266b6e",
+        "title": "Exact solutions to the nonlinear dynamics of learning in deep linear neural networks",
+        "venue": "International Conference on Learning Representations",
+        "year": 2013,
+        "referenceCount": 26,
+        "citationCount": 2045,
+        "authors": [
+          {
+            "authorId": "34927843",
+            "name": "Andrew M. Saxe"
+          },
+          {
+            "authorId": "1701656",
+            "name": "James L. McClelland"
+          },
+          {
+            "authorId": "25769960",
+            "name": "S. Ganguli"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "50d53cc562225549457cbc782546bfbe1ac6f0cf",
+        "externalIds": {
+          "MAG": "2127426251",
+          "DBLP": "conf/nips/SocherCMN13",
+          "CorpusId": 8429835
+        },
+        "url": "https://www.semanticscholar.org/paper/50d53cc562225549457cbc782546bfbe1ac6f0cf",
+        "title": "Reasoning With Neural Tensor Networks for Knowledge Base Completion",
+        "venue": "Neural Information Processing Systems",
+        "year": 2013,
+        "referenceCount": 24,
+        "citationCount": 2088,
+        "authors": [
+          {
+            "authorId": "2166511",
+            "name": "R. Socher"
+          },
+          {
+            "authorId": "50536468",
+            "name": "Danqi Chen"
+          },
+          {
+            "authorId": "144783904",
+            "name": "Christopher D. Manning"
+          },
+          {
+            "authorId": "34699434",
+            "name": "A. Ng"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "87f40e6f3022adbc1f1905e3e506abad05a9964f",
+        "externalIds": {
+          "ArXiv": "1310.4546",
+          "MAG": "2950133940",
+          "DBLP": "conf/nips/MikolovSCCD13",
+          "CorpusId": 16447573
+        },
+        "url": "https://www.semanticscholar.org/paper/87f40e6f3022adbc1f1905e3e506abad05a9964f",
+        "title": "Distributed Representations of Words and Phrases and their Compositionality",
+        "venue": "Neural Information Processing Systems",
+        "year": 2013,
+        "referenceCount": 24,
+        "citationCount": 35081,
+        "authors": [
+          {
+            "authorId": "2047446108",
+            "name": "Tomas Mikolov"
+          },
+          {
+            "authorId": "1701686",
+            "name": "I. Sutskever"
+          },
+          {
+            "authorId": "2118440152",
+            "name": "Kai Chen"
+          },
+          {
+            "authorId": "32131713",
+            "name": "G. Corrado"
+          },
+          {
+            "authorId": "49959210",
+            "name": "J. Dean"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "4ef03716945bd3907458efbe1bbf8928dafc1efc",
+        "externalIds": {
+          "MAG": "2963611099",
+          "ArXiv": "1301.5650",
+          "DBLP": "journals/corr/abs-1301-5650",
+          "CorpusId": 14444765
+        },
+        "url": "https://www.semanticscholar.org/paper/4ef03716945bd3907458efbe1bbf8928dafc1efc",
+        "title": "Regularization and nonlinearities for neural language models: when are they needed?",
+        "venue": "arXiv.org",
+        "year": 2013,
+        "referenceCount": 17,
+        "citationCount": 47,
+        "authors": [
+          {
+            "authorId": "3090784",
+            "name": "Marius Pachitariu"
+          },
+          {
+            "authorId": "2283363",
+            "name": "M. Sahani"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "a6ce434896d238e1b200a617815ea3e5141dfeeb",
+        "externalIds": {
+          "DBLP": "journals/corr/abs-1210-7559",
+          "MAG": "2105724942",
+          "ArXiv": "1210.7559",
+          "DOI": "10.5555/2627435.2697055",
+          "CorpusId": 14587260
+        },
+        "url": "https://www.semanticscholar.org/paper/a6ce434896d238e1b200a617815ea3e5141dfeeb",
+        "title": "Tensor decompositions for learning latent variable models",
+        "venue": "Journal of machine learning research",
+        "year": 2012,
+        "referenceCount": 96,
+        "citationCount": 1204,
+        "authors": [
+          {
+            "authorId": "2047844",
+            "name": "Anima Anandkumar"
+          },
+          {
+            "authorId": "144804200",
+            "name": "Rong Ge"
+          },
+          {
+            "authorId": "143724861",
+            "name": "Daniel J. Hsu"
+          },
+          {
+            "authorId": "144695232",
+            "name": "S. Kakade"
+          },
+          {
+            "authorId": "1750943",
+            "name": "Matus Telgarsky"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "2b669398c4cf2ebe04375c8b1beae20f4ac802fa",
+        "externalIds": {
+          "MAG": "2164019165",
+          "DBLP": "conf/acl/HuangSMN12",
+          "ACL": "P12-1092",
+          "CorpusId": 372093
+        },
+        "url": "https://www.semanticscholar.org/paper/2b669398c4cf2ebe04375c8b1beae20f4ac802fa",
+        "title": "Improving Word Representations via Global Context and Multiple Word Prototypes",
+        "venue": "Annual Meeting of the Association for Computational Linguistics",
+        "year": 2012,
+        "referenceCount": 39,
+        "citationCount": 1277,
+        "authors": [
+          {
+            "authorId": "40150953",
+            "name": "E. Huang"
+          },
+          {
+            "authorId": "2166511",
+            "name": "R. Socher"
+          },
+          {
+            "authorId": "144783904",
+            "name": "Christopher D. Manning"
+          },
+          {
+            "authorId": "34699434",
+            "name": "A. Ng"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "0e2b47a8ad69f4aa7dc9747a014e9dbb4874fe2d",
+        "externalIds": {
+          "MAG": "2130451992",
+          "CorpusId": 16064265
+        },
+        "url": "https://www.semanticscholar.org/paper/0e2b47a8ad69f4aa7dc9747a014e9dbb4874fe2d",
+        "title": "Two Step CCA: A new spectral method for estimating vector models of words",
+        "venue": "International Conference on Machine Learning",
+        "year": 2012,
+        "referenceCount": 28,
+        "citationCount": 67,
+        "authors": [
+          {
+            "authorId": "1939367",
+            "name": "Paramveer S. Dhillon"
+          },
+          {
+            "authorId": "2574090",
+            "name": "J. Rodu"
+          },
+          {
+            "authorId": "145346319",
+            "name": "Dean Phillips Foster"
+          },
+          {
+            "authorId": "1412391493",
+            "name": "L. Ungar"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "7a5b624ebbd7f4a6bd643daf15bf7dc763dc53ad",
+        "externalIds": {
+          "MAG": "588139629",
+          "CorpusId": 60130877
+        },
+        "url": "https://www.semanticscholar.org/paper/7a5b624ebbd7f4a6bd643daf15bf7dc763dc53ad",
+        "title": "Subspace Identification for Linear Systems: Theory ― Implementation ― Applications",
+        "venue": "",
+        "year": 2011,
+        "referenceCount": 0,
+        "citationCount": 2333,
+        "authors": [
+          {
+            "authorId": "2653987",
+            "name": "P. Overschee"
+          },
+          {
+            "authorId": "143750713",
+            "name": "B. Moor"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "d9674edc47fd41c27c0c6497c0e7d6bf1910d84e",
+        "externalIds": {
+          "MAG": "2949259776",
+          "DBLP": "conf/lrec/PetrovDM12",
+          "ACL": "L12-1115",
+          "ArXiv": "1104.2086",
+          "CorpusId": 5851561
+        },
+        "url": "https://www.semanticscholar.org/paper/d9674edc47fd41c27c0c6497c0e7d6bf1910d84e",
+        "title": "A Universal Part-of-Speech Tagset",
+        "venue": "International Conference on Language Resources and Evaluation",
+        "year": 2011,
+        "referenceCount": 61,
+        "citationCount": 1062,
+        "authors": [
+          {
+            "authorId": "1754497",
+            "name": "Slav Petrov"
+          },
+          {
+            "authorId": "143790066",
+            "name": "Dipanjan Das"
+          },
+          {
+            "authorId": "143957226",
+            "name": "Ryan T. McDonald"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "bc1022b031dc6c7019696492e8116598097a8c12",
+        "externalIds": {
+          "MAG": "2158899491",
+          "DBLP": "journals/jmlr/CollobertWBKKK11",
+          "ArXiv": "1103.0398",
+          "DOI": "10.5555/1953048.2078186",
+          "CorpusId": 351666
+        },
+        "url": "https://www.semanticscholar.org/paper/bc1022b031dc6c7019696492e8116598097a8c12",
+        "title": "Natural Language Processing (Almost) from Scratch",
+        "venue": "Journal of machine learning research",
+        "year": 2011,
+        "referenceCount": 101,
+        "citationCount": 7890,
+        "authors": [
+          {
+            "authorId": "2939803",
+            "name": "R. Collobert"
+          },
+          {
+            "authorId": "145183709",
+            "name": "J. Weston"
+          },
+          {
+            "authorId": "52184096",
+            "name": "L. Bottou"
+          },
+          {
+            "authorId": "21432929",
+            "name": "Michael Karlen"
+          },
+          {
+            "authorId": "2645384",
+            "name": "K. Kavukcuoglu"
+          },
+          {
+            "authorId": "46283650",
+            "name": "Pavel P. Kuksa"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "c3e550e24e4a465386dd32d26388fc4c984258be",
+        "externalIds": {
+          "MAG": "2023631554",
+          "DBLP": "journals/sigsoft/Tribbey10a",
+          "DOI": "10.1145/1874391.187410",
+          "CorpusId": 61629172
+        },
+        "url": "https://www.semanticscholar.org/paper/c3e550e24e4a465386dd32d26388fc4c984258be",
+        "title": "Numerical Recipes: The Art of Scientific Computing (3rd Edition) is written by William H. Press, Saul A. Teukolsky, William T. Vetterling, and Brian P. Flannery, and published by Cambridge University Press, © 2007, hardback, ISBN 978-0-521-88068-8, 1235 pp.",
+        "venue": "SOEN",
+        "year": 2010,
+        "referenceCount": 0,
+        "citationCount": 5495,
+        "authors": [
+          {
+            "authorId": "2898250",
+            "name": "Will Tribbey"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "48d704f56d074a72f23d4dea85c8202337d20a13",
+        "externalIds": {
+          "DBLP": "conf/emnlp/ChristodoulopoulosGS10",
+          "ACL": "D10-1056",
+          "MAG": "2108622839",
+          "CorpusId": 7784215
+        },
+        "url": "https://www.semanticscholar.org/paper/48d704f56d074a72f23d4dea85c8202337d20a13",
+        "title": "Two Decades of Unsupervised POS Induction: How Far Have We Come?",
+        "venue": "Conference on Empirical Methods in Natural Language Processing",
+        "year": 2010,
+        "referenceCount": 22,
+        "citationCount": 160,
+        "authors": [
+          {
+            "authorId": "2718039",
+            "name": "Christos Christodoulopoulos"
+          },
+          {
+            "authorId": "1991315",
+            "name": "Sharon Goldwater"
+          },
+          {
+            "authorId": "145332819",
+            "name": "Mark Steedman"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "8492070dc4031ed825e95e4803781752bb5e909f",
+        "externalIds": {
+          "ACL": "P10-1040",
+          "MAG": "2158139315",
+          "DBLP": "conf/acl/TurianRB10",
+          "CorpusId": 629094
+        },
+        "url": "https://www.semanticscholar.org/paper/8492070dc4031ed825e95e4803781752bb5e909f",
+        "title": "Word Representations: A Simple and General Method for Semi-Supervised Learning",
+        "venue": "Annual Meeting of the Association for Computational Linguistics",
+        "year": 2010,
+        "referenceCount": 52,
+        "citationCount": 2342,
+        "authors": [
+          {
+            "authorId": "153160559",
+            "name": "Joseph P. Turian"
+          },
+          {
+            "authorId": "2335225",
+            "name": "Lev-Arie Ratinov"
+          },
+          {
+            "authorId": "1751762",
+            "name": "Yoshua Bengio"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "5290251021888c7ceb1dfa9b5ad5e696a9f290f0",
+        "externalIds": {
+          "MAG": "101391057",
+          "DBLP": "conf/icml/Martens10a",
+          "CorpusId": 16445575
+        },
+        "url": "https://www.semanticscholar.org/paper/5290251021888c7ceb1dfa9b5ad5e696a9f290f0",
+        "title": "Learning the Linear Dynamical System with ASOS",
+        "venue": "International Conference on Machine Learning",
+        "year": 2010,
+        "referenceCount": 10,
+        "citationCount": 17,
+        "authors": [
+          {
+            "authorId": "145704247",
+            "name": "James Martens"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "aa9efc8b2737eac0675ba5abb5feab8305482c12",
+        "externalIds": {
+          "ACL": "W09-1119",
+          "DBLP": "conf/conll/RatinovR09",
+          "MAG": "2004763266",
+          "DOI": "10.3115/1596374.1596399",
+          "CorpusId": 1859014
+        },
+        "url": "https://www.semanticscholar.org/paper/aa9efc8b2737eac0675ba5abb5feab8305482c12",
+        "title": "Design Challenges and Misconceptions in Named Entity Recognition",
+        "venue": "Conference on Computational Natural Language Learning",
+        "year": 2009,
+        "referenceCount": 33,
+        "citationCount": 1622,
+        "authors": [
+          {
+            "authorId": "2335225",
+            "name": "Lev-Arie Ratinov"
+          },
+          {
+            "authorId": "144590225",
+            "name": "Dan Roth"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "a9fc84f8abe740cdc7ee82e69444d1d00dbe0ceb",
+        "externalIds": {
+          "DBLP": "conf/nips/MnihH08",
+          "MAG": "2131462252",
+          "CorpusId": 10097073
+        },
+        "url": "https://www.semanticscholar.org/paper/a9fc84f8abe740cdc7ee82e69444d1d00dbe0ceb",
+        "title": "A Scalable Hierarchical Distributed Language Model",
+        "venue": "Neural Information Processing Systems",
+        "year": 2008,
+        "referenceCount": 13,
+        "citationCount": 1023,
+        "authors": [
+          {
+            "authorId": "1714004",
+            "name": "A. Mnih"
+          },
+          {
+            "authorId": "1695689",
+            "name": "Geoffrey E. Hinton"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "a1c3748820d6b5ab4e7334524815df9bb6d20aed",
+        "externalIds": {
+          "MAG": "1989705153",
+          "DBLP": "journals/csl/ChelbaJ00",
+          "DOI": "10.1006/csla.2000.0147",
+          "CorpusId": 14339957
+        },
+        "url": "https://www.semanticscholar.org/paper/a1c3748820d6b5ab4e7334524815df9bb6d20aed",
+        "title": "Structured language modeling",
+        "venue": "Computer Speech and Language",
+        "year": 2000,
+        "referenceCount": 34,
+        "citationCount": 318,
+        "authors": [
+          {
+            "authorId": "1802969",
+            "name": "Ciprian Chelba"
+          },
+          {
+            "authorId": "2472759",
+            "name": "F. Jelinek"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "08b24791da8bc4a7dba16662f2dc03ec59f88987",
+        "externalIds": {
+          "DBLP": "conf/nips/SmithFRN99",
+          "MAG": "2155797931",
+          "CorpusId": 8050978
+        },
+        "url": "https://www.semanticscholar.org/paper/08b24791da8bc4a7dba16662f2dc03ec59f88987",
+        "title": "Speech Modelling Using Subspace and EM Techniques",
+        "venue": "Neural Information Processing Systems",
+        "year": 1999,
+        "referenceCount": 14,
+        "citationCount": 11,
+        "authors": [
+          {
+            "authorId": "2107976664",
+            "name": "Gavin Smith"
+          },
+          {
+            "authorId": "145417505",
+            "name": "J. F. G. D. Freitas"
+          },
+          {
+            "authorId": "144711425",
+            "name": "T. Robinson"
+          },
+          {
+            "authorId": "145387873",
+            "name": "M. Niranjan"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "30755a7614148f1acf5edca72385832410c7c33a",
+        "externalIds": {
+          "DBLP": "journals/neco/TRG99",
+          "MAG": "2103139809",
+          "DOI": "10.1162/089976699300016674",
+          "CorpusId": 2590898,
+          "PubMed": "9950734"
+        },
+        "url": "https://www.semanticscholar.org/paper/30755a7614148f1acf5edca72385832410c7c33a",
+        "title": "A Unifying Review of Linear Gaussian Models",
+        "venue": "Neural Computation",
+        "year": 1999,
+        "referenceCount": 79,
+        "citationCount": 1070,
+        "authors": [
+          {
+            "authorId": "9330607",
+            "name": "S. Roweis"
+          },
+          {
+            "authorId": "1744700",
+            "name": "Zoubin Ghahramani"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "f9d832f26883ef55433fc72c48f105b3de77e242",
+        "externalIds": {
+          "MAG": "2118760499",
+          "DBLP": "conf/nips/GhahramaniR98",
+          "CorpusId": 2824759
+        },
+        "url": "https://www.semanticscholar.org/paper/f9d832f26883ef55433fc72c48f105b3de77e242",
+        "title": "Learning Nonlinear Dynamical Systems Using an EM Algorithm",
+        "venue": "Neural Information Processing Systems",
+        "year": 1998,
+        "referenceCount": 8,
+        "citationCount": 299,
+        "authors": [
+          {
+            "authorId": "1744700",
+            "name": "Zoubin Ghahramani"
+          },
+          {
+            "authorId": "9330607",
+            "name": "S. Roweis"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "e23c34414e66118ecd9b08cf0cd4d016f59b0b85",
+        "externalIds": {
+          "DBLP": "journals/tsp/SchusterP97",
+          "MAG": "2131774270",
+          "DOI": "10.1109/78.650093",
+          "CorpusId": 18375389
+        },
+        "url": "https://www.semanticscholar.org/paper/e23c34414e66118ecd9b08cf0cd4d016f59b0b85",
+        "title": "Bidirectional recurrent neural networks",
+        "venue": "IEEE Transactions on Signal Processing",
+        "year": 1997,
+        "referenceCount": 18,
+        "citationCount": 9595,
+        "authors": [
+          {
+            "authorId": "144927151",
+            "name": "M. Schuster"
+          },
+          {
+            "authorId": "48099761",
+            "name": "K. Paliwal"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "2e3170f91e1d8037f8ba03286fa5ddd347a0b88e",
+        "externalIds": {
+          "MAG": "1626341607",
+          "CorpusId": 12534912
+        },
+        "url": "https://www.semanticscholar.org/paper/2e3170f91e1d8037f8ba03286fa5ddd347a0b88e",
+        "title": "Parameter estimation for linear dynamical systems",
+        "venue": "",
+        "year": 1996,
+        "referenceCount": 10,
+        "citationCount": 652,
+        "authors": [
+          {
+            "authorId": "1744700",
+            "name": "Zoubin Ghahramani"
+          },
+          {
+            "authorId": "1695689",
+            "name": "Geoffrey E. Hinton"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "7dd4988825be031c2bec973a81ee7b714228af28",
+        "externalIds": {
+          "MAG": "2130212796",
+          "DBLP": "journals/automatica/OverscheeM94",
+          "DOI": "10.1016/0005-1098(94)90230-5",
+          "CorpusId": 28586805
+        },
+        "url": "https://www.semanticscholar.org/paper/7dd4988825be031c2bec973a81ee7b714228af28",
+        "title": "N4SID: Subspace algorithms for the identification of combined deterministic-stochastic systems",
+        "venue": "at - Automatisierungstechnik",
+        "year": 1994,
+        "referenceCount": 20,
+        "citationCount": 2128,
+        "authors": [
+          {
+            "authorId": "2653987",
+            "name": "P. Overschee"
+          },
+          {
+            "authorId": "143750713",
+            "name": "B. Moor"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "3de5d40b60742e3dfa86b19e7f660962298492af",
+        "externalIds": {
+          "MAG": "2121227244",
+          "DBLP": "journals/coling/BrownPdLM92",
+          "ACL": "J92-4003",
+          "CorpusId": 10986188
+        },
+        "url": "https://www.semanticscholar.org/paper/3de5d40b60742e3dfa86b19e7f660962298492af",
+        "title": "Class-Based n-gram Models of Natural Language",
+        "venue": "International Conference on Computational Logic",
+        "year": 1992,
+        "referenceCount": 14,
+        "citationCount": 3658,
+        "authors": [
+          {
+            "authorId": "32538203",
+            "name": "P. Brown"
+          },
+          {
+            "authorId": "39944066",
+            "name": "V. D. Pietra"
+          },
+          {
+            "authorId": "144856857",
+            "name": "P. D. Souza"
+          },
+          {
+            "authorId": "3853032",
+            "name": "J. Lai"
+          },
+          {
+            "authorId": "2474650",
+            "name": "R. Mercer"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "f04fdd5da07b0950692cf8982bef844702286f4a",
+        "externalIds": {
+          "MAG": "1522547150",
+          "DOI": "10.1007/BF00048682",
+          "CorpusId": 118639142
+        },
+        "url": "https://www.semanticscholar.org/paper/f04fdd5da07b0950692cf8982bef844702286f4a",
+        "title": "Multinomial logistic regression algorithm",
+        "venue": "",
+        "year": 1992,
+        "referenceCount": 3,
+        "citationCount": 571,
+        "authors": [
+          {
+            "authorId": "1782937",
+            "name": "D. Böhning"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "6d73c9947d840cd84a8eee79c224add5fbbb929e",
+        "externalIds": {
+          "CorpusId": 38474786
+        },
+        "url": "https://www.semanticscholar.org/paper/6d73c9947d840cd84a8eee79c224add5fbbb929e",
+        "title": "FINDING STRUCTURE WITH RANDOMNESS : PROBABILISTIC ALGORITHMS FOR CONSTRUCTING",
+        "venue": "",
+        "year": 2016,
+        "referenceCount": 5,
+        "citationCount": 1707,
+        "authors": [
+          {
+            "authorId": "2387721600",
+            "name": "Long Chen"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "9665247ea3421929f9b6ad721f139f11edb1dbb8",
+        "externalIds": {
+          "CorpusId": 14715110
+        },
+        "url": "https://www.semanticscholar.org/paper/9665247ea3421929f9b6ad721f139f11edb1dbb8",
+        "title": "RECURRENT NEURAL NETWORKS",
+        "venue": "",
+        "year": 2014,
+        "referenceCount": 31,
+        "citationCount": 264,
+        "authors": [
+          {
+            "authorId": "2047446108",
+            "name": "Tomas Mikolov"
+          },
+          {
+            "authorId": "2319608",
+            "name": "Armand Joulin"
+          },
+          {
+            "authorId": "3295092",
+            "name": "S. Chopra"
+          },
+          {
+            "authorId": "143949035",
+            "name": "Michaël Mathieu"
+          },
+          {
+            "authorId": "1706809",
+            "name": "Marc'Aurelio Ranzato"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "f9a1b3850dfd837793743565a8af95973d395a4e",
+        "externalIds": {
+          "DBLP": "conf/interspeech/SundermeyerSN12",
+          "MAG": "2402268235",
+          "DOI": "10.21437/Interspeech.2012-65",
+          "CorpusId": 18939716
+        },
+        "url": "https://www.semanticscholar.org/paper/f9a1b3850dfd837793743565a8af95973d395a4e",
+        "title": "LSTM Neural Networks for Language Modeling",
+        "venue": "Interspeech",
+        "year": 2012,
+        "referenceCount": 19,
+        "citationCount": 2008,
+        "authors": [
+          {
+            "authorId": "2748591",
+            "name": "M. Sundermeyer"
+          },
+          {
+            "authorId": "144490010",
+            "name": "Ralf Schlüter"
+          },
+          {
+            "authorId": "145322333",
+            "name": "H. Ney"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "96364af2d208ea75ca3aeb71892d2f7ce7326b55",
+        "externalIds": {
+          "MAG": "2908906764",
+          "CorpusId": 68116583
+        },
+        "url": "https://www.semanticscholar.org/paper/96364af2d208ea75ca3aeb71892d2f7ce7326b55",
+        "title": "Statistical Language Models Based on Neural Networks",
+        "venue": "",
+        "year": 2012,
+        "referenceCount": 80,
+        "citationCount": 656,
+        "authors": [
+          {
+            "authorId": "70910366",
+            "name": "Vysoké Učení"
+          },
+          {
+            "authorId": "70952562",
+            "name": "Technické V Brně"
+          },
+          {
+            "authorId": "74555031",
+            "name": "Grafiky A Multimédií"
+          },
+          {
+            "authorId": "74393604",
+            "name": "Disertační Práce"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "4fdb1a4512a1de9716328c4d624e5d52ee93af09",
+        "externalIds": {
+          "CorpusId": 267789156
+        },
+        "url": "https://www.semanticscholar.org/paper/4fdb1a4512a1de9716328c4d624e5d52ee93af09",
+        "title": "Learning Nonlinear Dynamical Systems Using an Em Algorithm",
+        "venue": "",
+        "year": 2006,
+        "referenceCount": 9,
+        "citationCount": 18,
+        "authors": [
+          {
+            "authorId": "2285163475",
+            "name": "Sam T. RoweisGatsby"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "5eb1a272f9933a11d113cf63fe659e073942bce5",
+        "externalIds": {
+          "MAG": "100623710",
+          "DOI": "10.1007/3-540-33486-6_6",
+          "CorpusId": 53821397
+        },
+        "url": "https://www.semanticscholar.org/paper/5eb1a272f9933a11d113cf63fe659e073942bce5",
+        "title": "Neural Probabilistic Language Models",
+        "venue": "",
+        "year": 2006,
+        "referenceCount": 50,
+        "citationCount": 595,
+        "authors": [
+          {
+            "authorId": "1751762",
+            "name": "Yoshua Bengio"
+          },
+          {
+            "authorId": "144518416",
+            "name": "Holger Schwenk"
+          },
+          {
+            "authorId": "30345804",
+            "name": "J. Senecal"
+          },
+          {
+            "authorId": "2057272295",
+            "name": "Frederic Morin"
+          },
+          {
+            "authorId": "1685010",
+            "name": "J. Gauvain"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "255a77422b1da74da05d1714b7875356187385bd",
+        "externalIds": {
+          "CorpusId": 1242324
+        },
+        "url": "https://www.semanticscholar.org/paper/255a77422b1da74da05d1714b7875356187385bd",
+        "title": "A New Approach to Linear Filtering and Prediction Problems",
+        "venue": "",
+        "year": 2002,
+        "referenceCount": 25,
+        "citationCount": 27419,
+        "authors": []
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "16b4fd36ff5ca603fed13a326054cd0373ea442c",
+        "externalIds": {
+          "MAG": "2314609102",
+          "DOI": "10.1016/0098-3004(89)90134-9",
+          "CorpusId": 61275972
+        },
+        "url": "https://www.semanticscholar.org/paper/16b4fd36ff5ca603fed13a326054cd0373ea442c",
+        "title": "Numerical Recipes: The Art of Scientific Computing",
+        "venue": "",
+        "year": 1989,
+        "referenceCount": 0,
+        "citationCount": 10577,
+        "authors": [
+          {
+            "authorId": "2059901706",
+            "name": "J. Glynn"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "Notes on asymptotic methods in statistical decision theory",
+        "venue": "Centre de Recherches Mathématiques",
+        "year": 1974,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "4350959a8ac4d4243603113cb7052dfa20c30637",
+        "externalIds": {
+          "MAG": "4193965",
+          "DOI": "10.1007/978-1-4612-0957-7",
+          "CorpusId": 106831919
+        },
+        "url": "https://www.semanticscholar.org/paper/4350959a8ac4d4243603113cb7052dfa20c30637",
+        "title": "Linear System Theory",
+        "venue": "",
+        "year": 1963,
+        "referenceCount": 0,
+        "citationCount": 2060,
+        "authors": [
+          {
+            "authorId": "1682720",
+            "name": "F. Callier"
+          },
+          {
+            "authorId": "70066278",
+            "name": "C. Desoer"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,299 @@
+{
+  "total": 200983,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "bc82b4f9f202062857958f0336fc28327a75563b",
+      "externalIds": {
+        "MAG": "2950835520",
+        "DBLP": "journals/corr/BelangerM15",
+        "ArXiv": "1511.06350",
+        "CorpusId": 6366436
+      },
+      "url": "https://www.semanticscholar.org/paper/bc82b4f9f202062857958f0336fc28327a75563b",
+      "title": "Structured Prediction Energy Networks",
+      "venue": "International Conference on Machine Learning",
+      "year": 2015,
+      "referenceCount": 66,
+      "citationCount": 228,
+      "authors": [
+        {
+          "authorId": "2636941",
+          "name": "David Belanger"
+        },
+        {
+          "authorId": "143753639",
+          "name": "A. McCallum"
+        }
+      ]
+    },
+    {
+      "paperId": "5d10cf2382aaa86dd64fb3accb33b971e8346443",
+      "externalIds": {
+        "MAG": "2950099928",
+        "ArXiv": "1703.05667",
+        "DBLP": "journals/corr/BelangerYM17",
+        "CorpusId": 6331639
+      },
+      "url": "https://www.semanticscholar.org/paper/5d10cf2382aaa86dd64fb3accb33b971e8346443",
+      "title": "End-to-End Learning for Structured Prediction Energy Networks",
+      "venue": "International Conference on Machine Learning",
+      "year": 2017,
+      "referenceCount": 70,
+      "citationCount": 136,
+      "authors": [
+        {
+          "authorId": "2636941",
+          "name": "David Belanger"
+        },
+        {
+          "authorId": "7324641",
+          "name": "Bishan Yang"
+        },
+        {
+          "authorId": "143753639",
+          "name": "A. McCallum"
+        }
+      ]
+    },
+    {
+      "paperId": "b3eebeced34146949128b50249c7ac07d6829c71",
+      "externalIds": {
+        "DBLP": "conf/nips/GraberS19",
+        "MAG": "2982486925",
+        "ArXiv": "1910.14670",
+        "CorpusId": 202767015
+      },
+      "url": "https://www.semanticscholar.org/paper/b3eebeced34146949128b50249c7ac07d6829c71",
+      "title": "Graph Structured Prediction Energy Networks",
+      "venue": "Neural Information Processing Systems",
+      "year": 2019,
+      "referenceCount": 82,
+      "citationCount": 19,
+      "authors": [
+        {
+          "authorId": "38467018",
+          "name": "Colin Graber"
+        },
+        {
+          "authorId": "2068227",
+          "name": "A. Schwing"
+        }
+      ]
+    },
+    {
+      "paperId": "56dd494d692f21081a01428aba170f5665780e37",
+      "externalIds": {
+        "ArXiv": "1812.09603",
+        "DBLP": "journals/corr/abs-1812-09603",
+        "MAG": "2970125116",
+        "CorpusId": 56895257
+      },
+      "url": "https://www.semanticscholar.org/paper/56dd494d692f21081a01428aba170f5665780e37",
+      "title": "Search-Guided, Lightly-supervised Training of Structured Prediction Energy Networks",
+      "venue": "Neural Information Processing Systems",
+      "year": 2018,
+      "referenceCount": 33,
+      "citationCount": 10,
+      "authors": [
+        {
+          "authorId": "2844347",
+          "name": "Pedram Rooshenas"
+        },
+        {
+          "authorId": "49356872",
+          "name": "Dongxu Zhang"
+        },
+        {
+          "authorId": "144224362",
+          "name": "Gopal Sharma"
+        },
+        {
+          "authorId": "143753639",
+          "name": "A. McCallum"
+        }
+      ]
+    },
+    {
+      "paperId": "4df543d7bc5dc9ec87057857266760f0c9ebd809",
+      "externalIds": {
+        "DBLP": "conf/acl-spnlp/TuPG20",
+        "MAG": "2987799900",
+        "ArXiv": "1911.02891",
+        "ACL": "2020.spnlp-1.8",
+        "DOI": "10.18653/v1/2020.spnlp-1.8",
+        "CorpusId": 207847493
+      },
+      "url": "https://www.semanticscholar.org/paper/4df543d7bc5dc9ec87057857266760f0c9ebd809",
+      "title": "Improving Joint Training of Inference Networks and Structured Prediction Energy Networks",
+      "venue": "SPNLP",
+      "year": 2019,
+      "referenceCount": 38,
+      "citationCount": 12,
+      "authors": [
+        {
+          "authorId": "3376969",
+          "name": "Lifu Tu"
+        },
+        {
+          "authorId": "46230016",
+          "name": "Richard Yuanzhe Pang"
+        },
+        {
+          "authorId": "1700980",
+          "name": "Kevin Gimpel"
+        }
+      ]
+    },
+    {
+      "paperId": "9fbe09f0d7fa95a7c8cd8ddca51a3bf32ee859f8",
+      "externalIds": {
+        "ACL": "N18-2021",
+        "DBLP": "conf/naacl/RooshenasKM18",
+        "MAG": "2804946931",
+        "DOI": "10.18653/v1/N18-2021",
+        "CorpusId": 4899814
+      },
+      "url": "https://www.semanticscholar.org/paper/9fbe09f0d7fa95a7c8cd8ddca51a3bf32ee859f8",
+      "title": "Training Structured Prediction Energy Networks with Indirect Supervision",
+      "venue": "North American Chapter of the Association for Computational Linguistics",
+      "year": 2018,
+      "referenceCount": 17,
+      "citationCount": 6,
+      "authors": [
+        {
+          "authorId": "2844347",
+          "name": "Pedram Rooshenas"
+        },
+        {
+          "authorId": "46174952",
+          "name": "Aishwarya Kamath"
+        },
+        {
+          "authorId": "143753639",
+          "name": "A. McCallum"
+        }
+      ]
+    },
+    {
+      "paperId": "5e779f9ed7f75b1891ee6f1a30b985d155b96002",
+      "externalIds": {
+        "DBLP": "conf/mobisys/GullapalliAGR21",
+        "DOI": "10.1145/3469266.3469881",
+        "CorpusId": 236203035
+      },
+      "url": "https://www.semanticscholar.org/paper/5e779f9ed7f75b1891ee6f1a30b985d155b96002",
+      "title": "Joint prediction of cocaine craving and euphoria using structured prediction energy networks",
+      "venue": "DigiBiom@MobiSys",
+      "year": 2021,
+      "referenceCount": 26,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2731006",
+          "name": "Bhanuteja Gullapalli"
+        },
+        {
+          "authorId": "3050449",
+          "name": "Gustavo A. Angarita"
+        },
+        {
+          "authorId": "1742299",
+          "name": "Deepak Ganesan"
+        },
+        {
+          "authorId": "1491471239",
+          "name": "Tauhidur Rahman"
+        }
+      ]
+    },
+    {
+      "paperId": "b34e44d48c35750456d50d225c026536596b83fa",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-1803-03376",
+        "MAG": "2950885890",
+        "ArXiv": "1803.03376",
+        "CorpusId": 3790787
+      },
+      "url": "https://www.semanticscholar.org/paper/b34e44d48c35750456d50d225c026536596b83fa",
+      "title": "Learning Approximate Inference Networks for Structured Prediction",
+      "venue": "International Conference on Learning Representations",
+      "year": 2018,
+      "referenceCount": 46,
+      "citationCount": 54,
+      "authors": [
+        {
+          "authorId": "3376969",
+          "name": "Lifu Tu"
+        },
+        {
+          "authorId": "1700980",
+          "name": "Kevin Gimpel"
+        }
+      ]
+    },
+    {
+      "paperId": "1a8149e5fc4f1499a6936e57807ec22af0661416",
+      "externalIds": {
+        "DBLP": "conf/nips/GraberMS18",
+        "MAG": "2949154790",
+        "ArXiv": "1811.00539",
+        "CorpusId": 53166818
+      },
+      "url": "https://www.semanticscholar.org/paper/1a8149e5fc4f1499a6936e57807ec22af0661416",
+      "title": "Deep Structured Prediction with Nonlinear Output Transformations",
+      "venue": "Neural Information Processing Systems",
+      "year": 2018,
+      "referenceCount": 60,
+      "citationCount": 26,
+      "authors": [
+        {
+          "authorId": "38467018",
+          "name": "Colin Graber"
+        },
+        {
+          "authorId": "3174612",
+          "name": "Ofer Meshi"
+        },
+        {
+          "authorId": "2068227",
+          "name": "A. Schwing"
+        }
+      ]
+    },
+    {
+      "paperId": "0dcf24bb23ce5bc17aab8138903af5f049a4db91",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2302-02914",
+        "ArXiv": "2302.02914",
+        "DOI": "10.48550/arXiv.2302.02914",
+        "CorpusId": 256615740
+      },
+      "url": "https://www.semanticscholar.org/paper/0dcf24bb23ce5bc17aab8138903af5f049a4db91",
+      "title": "Energy-based Out-of-Distribution Detection for Graph Neural Networks",
+      "venue": "International Conference on Learning Representations",
+      "year": 2023,
+      "referenceCount": 52,
+      "citationCount": 101,
+      "authors": [
+        {
+          "authorId": "51171144",
+          "name": "Qitian Wu"
+        },
+        {
+          "authorId": "2109060480",
+          "name": "Yiting Chen"
+        },
+        {
+          "authorId": null,
+          "name": "Chenxiao Yang"
+        },
+        {
+          "authorId": "3063894",
+          "name": "Junchi Yan"
+        }
+      ]
+    }
+  ]
+}

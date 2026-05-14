@@ -1,0 +1,303 @@
+{
+  "total": 179,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "37ae35efd37be2dbdd26b48d2d14f9304e7e3188",
+      "externalIds": {
+        "MAG": "2139800297",
+        "DBLP": "journals/corr/HazanLM15",
+        "ArXiv": "1501.03273",
+        "CorpusId": 6005875
+      },
+      "url": "https://www.semanticscholar.org/paper/37ae35efd37be2dbdd26b48d2d14f9304e7e3188",
+      "title": "Classification with Low Rank and Missing Data",
+      "venue": "International Conference on Machine Learning",
+      "year": 2015,
+      "referenceCount": 29,
+      "citationCount": 40,
+      "authors": [
+        {
+          "authorId": "34840427",
+          "name": "Elad Hazan"
+        },
+        {
+          "authorId": "2679024",
+          "name": "Roi Livni"
+        },
+        {
+          "authorId": "144830983",
+          "name": "Y. Mansour"
+        }
+      ]
+    },
+    {
+      "paperId": "f556db844061752a187fa520cb396ce7aa839a27",
+      "externalIds": {
+        "MAG": "3097165403",
+        "DOI": "10.1101/2020.11.04.368894",
+        "CorpusId": 226959725
+      },
+      "url": "https://www.semanticscholar.org/paper/f556db844061752a187fa520cb396ce7aa839a27",
+      "title": "Bioarchaeological sex prediction from central Italy using generalized low rank imputation for cross-validated metric craniodental supervised ensemble machine learning with missing data",
+      "venue": "",
+      "year": 2020,
+      "referenceCount": 76,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "52401892",
+          "name": "Evan Muzzall"
+        }
+      ]
+    },
+    {
+      "paperId": "742592703459bdf35f1c05889233beff0b49932f",
+      "externalIds": {
+        "DBLP": "conf/icpr/GuoHSY18",
+        "MAG": "2903488339",
+        "DOI": "10.1109/ICPR.2018.8545526",
+        "CorpusId": 54440734
+      },
+      "url": "https://www.semanticscholar.org/paper/742592703459bdf35f1c05889233beff0b49932f",
+      "title": "Low Rank Multi-Label Classification with Missing Labels",
+      "venue": "International Conference on Pattern Recognition",
+      "year": 2018,
+      "referenceCount": 21,
+      "citationCount": 11,
+      "authors": [
+        {
+          "authorId": "1384486119",
+          "name": "Baolin Guo"
+        },
+        {
+          "authorId": "2705884",
+          "name": "Chenping Hou"
+        },
+        {
+          "authorId": "51061404",
+          "name": "Jincheng Shan"
+        },
+        {
+          "authorId": "34187920",
+          "name": "Dong-yun Yi"
+        }
+      ]
+    },
+    {
+      "paperId": "3c75f54c2ff675aeb207a93e4d1e1555758c8150",
+      "externalIds": {
+        "DBLP": "conf/icdm/XuWSWC14",
+        "MAG": "1969954882",
+        "DOI": "10.1109/ICDM.2014.125",
+        "CorpusId": 10708529
+      },
+      "url": "https://www.semanticscholar.org/paper/3c75f54c2ff675aeb207a93e4d1e1555758c8150",
+      "title": "Learning Low-Rank Label Correlations for Multi-label Classification with Missing Labels",
+      "venue": "2014 IEEE International Conference on Data Mining",
+      "year": 2014,
+      "referenceCount": 25,
+      "citationCount": 109,
+      "authors": [
+        {
+          "authorId": "2230211",
+          "name": "Linli Xu"
+        },
+        {
+          "authorId": "2118453796",
+          "name": "Zhen Wang"
+        },
+        {
+          "authorId": "2969940",
+          "name": "Zefan Shen"
+        },
+        {
+          "authorId": "2115721713",
+          "name": "Yubo Wang"
+        },
+        {
+          "authorId": "2227868312",
+          "name": "Enhong Chen"
+        }
+      ]
+    },
+    {
+      "paperId": "6ff2f8fb38651cf45f18cfac7a38c2b5356f3e5f",
+      "externalIds": {
+        "DBLP": "conf/icmlc/WuTZY24",
+        "DOI": "10.1109/ICMLC63072.2024.10935186",
+        "CorpusId": 277383088
+      },
+      "url": "https://www.semanticscholar.org/paper/6ff2f8fb38651cf45f18cfac7a38c2b5356f3e5f",
+      "title": "Multi-Label Classification with Weakly Labeled Data Based on Concept-Cognitive Learning",
+      "venue": "International Conference on Machine Learning and Computing",
+      "year": 2024,
+      "referenceCount": 9,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2238393601",
+          "name": "Jiaming Wu"
+        },
+        {
+          "authorId": "2264141561",
+          "name": "Eric C. C. Tsang"
+        },
+        {
+          "authorId": "2155989163",
+          "name": "Chengling Zhang"
+        },
+        {
+          "authorId": "2118370833",
+          "name": "Lanzhen Yang"
+        }
+      ]
+    },
+    {
+      "paperId": "cc71a2303ec33a365374eb2da3136d44805c8e27",
+      "externalIds": {
+        "ArXiv": "2107.10505",
+        "DBLP": "journals/sigpro/Hippert-FerrerK22",
+        "DOI": "10.1016/j.sigpro.2022.108460",
+        "CorpusId": 236171161
+      },
+      "url": "https://www.semanticscholar.org/paper/cc71a2303ec33a365374eb2da3136d44805c8e27",
+      "title": "Robust low-rank covariance matrix estimation with a general pattern of missing values",
+      "venue": "Signal Processing",
+      "year": 2021,
+      "referenceCount": 65,
+      "citationCount": 18,
+      "authors": [
+        {
+          "authorId": "1410864049",
+          "name": "Alexandre Hippert-Ferrer"
+        },
+        {
+          "authorId": "1754058",
+          "name": "M. Korso"
+        },
+        {
+          "authorId": "1902732",
+          "name": "A. Breloy"
+        },
+        {
+          "authorId": "1708366",
+          "name": "G. Ginolhac"
+        }
+      ]
+    },
+    {
+      "paperId": "e6c749aa0bba4db762f4d02af181978496ecd960",
+      "externalIds": {
+        "DBLP": "journals/access/ZhangLLFZ20",
+        "MAG": "3101886856",
+        "DOI": "10.1109/ACCESS.2020.3037490",
+        "CorpusId": 227064281
+      },
+      "url": "https://www.semanticscholar.org/paper/e6c749aa0bba4db762f4d02af181978496ecd960",
+      "title": "A Combined Low-Rank Matrix Completion and CDBN-LSTM Based Classification Model for Lower Limb Motion Function",
+      "venue": "IEEE Access",
+      "year": 2020,
+      "referenceCount": 28,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "2152823305",
+          "name": "Yan Zhang"
+        },
+        {
+          "authorId": "1883713328",
+          "name": "Sining Li"
+        },
+        {
+          "authorId": "2150170169",
+          "name": "Jian Liu"
+        },
+        {
+          "authorId": "2075309452",
+          "name": "Qi Fan"
+        },
+        {
+          "authorId": "2118861115",
+          "name": "Yinghui Zhou"
+        }
+      ]
+    },
+    {
+      "paperId": "7d8af488b527b566fe2be2d5e8293d363bc149e1",
+      "externalIds": {
+        "DOI": "10.1109/WCONF64849.2025.11233823",
+        "CorpusId": 283098558
+      },
+      "url": "https://www.semanticscholar.org/paper/7d8af488b527b566fe2be2d5e8293d363bc149e1",
+      "title": "Multi Graph Convolutional Recurrent Neural Network with Low Depth Paring Encryption Algorithm and Attribute Based Controlled Collaborative Access Control Scheme for Enhancing Cyber Security In IoT*",
+      "venue": "2025 3rd World Conference on Communication & Computing (WCONF)",
+      "year": 2025,
+      "referenceCount": 22,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2353270537",
+          "name": "S. Sathyakala"
+        },
+        {
+          "authorId": "2324602313",
+          "name": "Dr. E. Anbalagan"
+        }
+      ]
+    },
+    {
+      "paperId": "2c8efd131e001d2ee28bf707570889f3b35efe12",
+      "externalIds": {
+        "MAG": "2808671102",
+        "CorpusId": 125506519
+      },
+      "url": "https://www.semanticscholar.org/paper/2c8efd131e001d2ee28bf707570889f3b35efe12",
+      "title": "Data Driven Algorithms for the Estimation of Low Rank Signals in Structured Subspaces",
+      "venue": "",
+      "year": 2017,
+      "referenceCount": 105,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2455387",
+          "name": "R. Suryaprakash"
+        }
+      ]
+    },
+    {
+      "paperId": "9287ec8448db6e27b08f3bd8ebfc8ce193ecd951",
+      "externalIds": {
+        "DBLP": "conf/cvpr/JingYYN15",
+        "MAG": "1892074770",
+        "DOI": "10.1109/CVPR.2015.7298755",
+        "CorpusId": 14922382
+      },
+      "url": "https://www.semanticscholar.org/paper/9287ec8448db6e27b08f3bd8ebfc8ce193ecd951",
+      "title": "Semi-supervised low-rank mapping learning for multi-label classification",
+      "venue": "Computer Vision and Pattern Recognition",
+      "year": 2015,
+      "referenceCount": 37,
+      "citationCount": 75,
+      "authors": [
+        {
+          "authorId": "144889532",
+          "name": "L. Jing"
+        },
+        {
+          "authorId": "2288488984",
+          "name": "Liu Yang"
+        },
+        {
+          "authorId": "1740321",
+          "name": "Jian Yu"
+        },
+        {
+          "authorId": "2391161804",
+          "name": "M. Ng"
+        }
+      ]
+    }
+  ]
+}

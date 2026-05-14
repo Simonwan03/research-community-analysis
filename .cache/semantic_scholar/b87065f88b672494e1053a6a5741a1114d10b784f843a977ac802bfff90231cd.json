@@ -1,0 +1,668 @@
+{
+  "offset": 0,
+  "citingPaperInfo": {
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/1505.04627, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "title": "Simple regret for infinitely many armed bandits",
+    "authors": [
+      {
+        "authorId": "37178915",
+        "name": "A. Carpentier"
+      },
+      {
+        "authorId": "1806291",
+        "name": "Michal Valko"
+      }
+    ]
+  },
+  "data": [
+    {
+      "citedPaper": {
+        "paperId": "b882185e72d77bad1a996ae294c03ed7a9fc3bbc",
+        "externalIds": {
+          "ArXiv": "1402.0562",
+          "MAG": "2151544200",
+          "DBLP": "conf/icml/AzarLB14",
+          "CorpusId": 5178705
+        },
+        "url": "https://www.semanticscholar.org/paper/b882185e72d77bad1a996ae294c03ed7a9fc3bbc",
+        "title": "Online Stochastic Optimization under Correlated Bandit Feedback",
+        "venue": "International Conference on Machine Learning",
+        "year": 2014,
+        "referenceCount": 28,
+        "citationCount": 54,
+        "authors": [
+          {
+            "authorId": "37666967",
+            "name": "M. G. Azar"
+          },
+          {
+            "authorId": "3254390",
+            "name": "A. Lazaric"
+          },
+          {
+            "authorId": "2563117",
+            "name": "E. Brunskill"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "541571ba3ca170e5429454d9ad190a867263effd",
+        "externalIds": {
+          "MAG": "2073107347",
+          "DBLP": "journals/ftml/Munos14",
+          "DOI": "10.1561/2200000038",
+          "CorpusId": 51740855
+        },
+        "url": "https://www.semanticscholar.org/paper/541571ba3ca170e5429454d9ad190a867263effd",
+        "title": "From Bandits to Monte-Carlo Tree Search: The Optimistic Principle Applied to Optimization and Planning",
+        "venue": "Found. Trends Mach. Learn.",
+        "year": 2014,
+        "referenceCount": 126,
+        "citationCount": 292,
+        "authors": [
+          {
+            "authorId": "1708654",
+            "name": "R. Munos"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "53b967ac34b5a422f81fb6947da0ba148ba90221",
+        "externalIds": {
+          "MAG": "2951259917",
+          "ArXiv": "1312.7308",
+          "DBLP": "journals/corr/JamiesonMNB13a",
+          "CorpusId": 2606438
+        },
+        "url": "https://www.semanticscholar.org/paper/53b967ac34b5a422f81fb6947da0ba148ba90221",
+        "title": "lil' UCB : An Optimal Exploration Algorithm for Multi-Armed Bandits",
+        "venue": "Annual Conference Computational Learning Theory",
+        "year": 2013,
+        "referenceCount": 17,
+        "citationCount": 439,
+        "authors": [
+          {
+            "authorId": "40566417",
+            "name": "Kevin G. Jamieson"
+          },
+          {
+            "authorId": "7447690",
+            "name": "Matthew Malloy"
+          },
+          {
+            "authorId": "50033772",
+            "name": "R. Nowak"
+          },
+          {
+            "authorId": "1815542",
+            "name": "Sébastien Bubeck"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "6641789a915fddd7a3908c842394c7fcb0d033b4",
+        "externalIds": {
+          "DBLP": "conf/nips/BonaldP13",
+          "MAG": "2101398190",
+          "CorpusId": 10184209
+        },
+        "url": "https://www.semanticscholar.org/paper/6641789a915fddd7a3908c842394c7fcb0d033b4",
+        "title": "Two-Target Algorithms for Infinite-Armed Bandits with Bernoulli Rewards",
+        "venue": "Neural Information Processing Systems",
+        "year": 2013,
+        "referenceCount": 16,
+        "citationCount": 65,
+        "authors": [
+          {
+            "authorId": "1774132",
+            "name": "T. Bonald"
+          },
+          {
+            "authorId": "1745481",
+            "name": "A. Proutière"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "1430768ccec9db916ae976a1d06611921c3cd457",
+        "externalIds": {
+          "ArXiv": "1309.2585",
+          "MAG": "2964001076",
+          "DOI": "10.5705/SS.2013.272",
+          "CorpusId": 88513395
+        },
+        "url": "https://www.semanticscholar.org/paper/1430768ccec9db916ae976a1d06611921c3cd457",
+        "title": "Adaptive and minimax optimal estimation of the tail coefficient",
+        "venue": "",
+        "year": 2013,
+        "referenceCount": 19,
+        "citationCount": 17,
+        "authors": [
+          {
+            "authorId": "37178915",
+            "name": "A. Carpentier"
+          },
+          {
+            "authorId": "47531692",
+            "name": "Arlene K. H. Kim"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "43e0414b3cb52369c0ffece6eb043d0717776e92",
+        "externalIds": {
+          "DBLP": "conf/icml/KarninKS13",
+          "MAG": "2126559945",
+          "CorpusId": 14309288
+        },
+        "url": "https://www.semanticscholar.org/paper/43e0414b3cb52369c0ffece6eb043d0717776e92",
+        "title": "Almost Optimal Exploration in Multi-Armed Bandits",
+        "venue": "International Conference on Machine Learning",
+        "year": 2013,
+        "referenceCount": 19,
+        "citationCount": 537,
+        "authors": [
+          {
+            "authorId": "3386660",
+            "name": "Zohar S. Karnin"
+          },
+          {
+            "authorId": "1711492",
+            "name": "Tomer Koren"
+          },
+          {
+            "authorId": "1765862",
+            "name": "O. Somekh"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "d85b83a351a8b5db766d354016517c9ebf5831c4",
+        "externalIds": {
+          "MAG": "8700100",
+          "DBLP": "conf/colt/KaufmannK13",
+          "CorpusId": 6635277
+        },
+        "url": "https://www.semanticscholar.org/paper/d85b83a351a8b5db766d354016517c9ebf5831c4",
+        "title": "Information Complexity in Bandit Subset Selection",
+        "venue": "Annual Conference Computational Learning Theory",
+        "year": 2013,
+        "referenceCount": 25,
+        "citationCount": 193,
+        "authors": [
+          {
+            "authorId": "2578263",
+            "name": "E. Kaufmann"
+          },
+          {
+            "authorId": "3027736",
+            "name": "Shivaram Kalyanakrishnan"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "d4a145888d2724843213b818367138dee5465df0",
+        "externalIds": {
+          "MAG": "2103405567",
+          "DBLP": "conf/nips/GabillonGL12",
+          "CorpusId": 1168777
+        },
+        "url": "https://www.semanticscholar.org/paper/d4a145888d2724843213b818367138dee5465df0",
+        "title": "Best Arm Identification: A Unified Approach to Fixed Budget and Fixed Confidence",
+        "venue": "Neural Information Processing Systems",
+        "year": 2012,
+        "referenceCount": 16,
+        "citationCount": 327,
+        "authors": [
+          {
+            "authorId": "3038127",
+            "name": "Victor Gabillon"
+          },
+          {
+            "authorId": "1678622",
+            "name": "M. Ghavamzadeh"
+          },
+          {
+            "authorId": "3254390",
+            "name": "A. Lazaric"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "bda27e969e43a1e93026981afff57b8d46be008e",
+        "externalIds": {
+          "DBLP": "conf/icml/KalyanakrishnanTAS12",
+          "MAG": "2168810201",
+          "CorpusId": 1635758
+        },
+        "url": "https://www.semanticscholar.org/paper/bda27e969e43a1e93026981afff57b8d46be008e",
+        "title": "PAC Subset Selection in Stochastic Multi-armed Bandits",
+        "venue": "International Conference on Machine Learning",
+        "year": 2012,
+        "referenceCount": 19,
+        "citationCount": 408,
+        "authors": [
+          {
+            "authorId": "3027736",
+            "name": "Shivaram Kalyanakrishnan"
+          },
+          {
+            "authorId": "3064914",
+            "name": "Ambuj Tewari"
+          },
+          {
+            "authorId": "144543541",
+            "name": "P. Auer"
+          },
+          {
+            "authorId": "144848112",
+            "name": "P. Stone"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "f27768c792607e6187f1667f44551a0e98b79594",
+        "externalIds": {
+          "MAG": "2950932169",
+          "ArXiv": "1009.2048",
+          "DOI": "10.1214/11-AIHP454",
+          "CorpusId": 88518363
+        },
+        "url": "https://www.semanticscholar.org/paper/f27768c792607e6187f1667f44551a0e98b79594",
+        "title": "Challenging the empirical mean and empirical variance: a deviation study",
+        "venue": "",
+        "year": 2010,
+        "referenceCount": 16,
+        "citationCount": 507,
+        "authors": [
+          {
+            "authorId": "2322407",
+            "name": "O. Catoni"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "6ad22c089bf49bbe1c9996a72bcf5909645254cb",
+        "externalIds": {
+          "MAG": "1553290137",
+          "CorpusId": 8195078
+        },
+        "url": "https://www.semanticscholar.org/paper/6ad22c089bf49bbe1c9996a72bcf5909645254cb",
+        "title": "Best Arm Identification in Multi-Armed Bandits",
+        "venue": "Annual Conference Computational Learning Theory",
+        "year": 2010,
+        "referenceCount": 8,
+        "citationCount": 1642,
+        "authors": [
+          {
+            "authorId": "3015507",
+            "name": "Jean-Yves Audibert"
+          },
+          {
+            "authorId": "2249682472",
+            "name": "Sébastien Bubeck"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "87a2b6a28eefdf9c606eb63071bdfaef5c074f6a",
+        "externalIds": {
+          "DBLP": "conf/colt/AudibertB09",
+          "MAG": "1510812122",
+          "CorpusId": 216051277
+        },
+        "url": "https://www.semanticscholar.org/paper/87a2b6a28eefdf9c606eb63071bdfaef5c074f6a",
+        "title": "Minimax Policies for Adversarial and Stochastic Bandits",
+        "venue": "Annual Conference Computational Learning Theory",
+        "year": 2009,
+        "referenceCount": 7,
+        "citationCount": 477,
+        "authors": [
+          {
+            "authorId": "3015507",
+            "name": "Jean-Yves Audibert"
+          },
+          {
+            "authorId": "121645690",
+            "name": "Sébastien Bubeck"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "c8f5f4da7f46c1f26b9aa802fdb00b7e23c67ab4",
+        "externalIds": {
+          "MAG": "2158858912",
+          "DBLP": "conf/nips/WangAM08",
+          "CorpusId": 11166721
+        },
+        "url": "https://www.semanticscholar.org/paper/c8f5f4da7f46c1f26b9aa802fdb00b7e23c67ab4",
+        "title": "Algorithms for Infinitely Many-Armed Bandits",
+        "venue": "Neural Information Processing Systems",
+        "year": 2008,
+        "referenceCount": 12,
+        "citationCount": 209,
+        "authors": [
+          {
+            "authorId": "2267939",
+            "name": "Yizao Wang"
+          },
+          {
+            "authorId": "3015507",
+            "name": "Jean-Yves Audibert"
+          },
+          {
+            "authorId": "1708654",
+            "name": "R. Munos"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "202fc649b2c7a5fa08519debd0aef07d2e2ef8c0",
+        "externalIds": {
+          "MAG": "2115519224",
+          "ArXiv": "0809.4882",
+          "DBLP": "journals/corr/abs-0809-4882",
+          "DOI": "10.1145/1374376.1374475",
+          "CorpusId": 260480544
+        },
+        "url": "https://www.semanticscholar.org/paper/202fc649b2c7a5fa08519debd0aef07d2e2ef8c0",
+        "title": "Multi-armed bandits in metric spaces",
+        "venue": "Symposium on the Theory of Computing",
+        "year": 2008,
+        "referenceCount": 24,
+        "citationCount": 503,
+        "authors": [
+          {
+            "authorId": "2633757",
+            "name": "Robert D. Kleinberg"
+          },
+          {
+            "authorId": "2158559",
+            "name": "Aleksandrs Slivkins"
+          },
+          {
+            "authorId": "1735099",
+            "name": "E. Upfal"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "84b5fbbc99ba52e3fa2989d1c09fa6e41979a56c",
+        "externalIds": {
+          "MAG": "1583155004",
+          "DBLP": "conf/alt/AudibertMS07",
+          "DOI": "10.1007/978-3-540-75225-7_15",
+          "CorpusId": 1154064
+        },
+        "url": "https://www.semanticscholar.org/paper/84b5fbbc99ba52e3fa2989d1c09fa6e41979a56c",
+        "title": "Tuning Bandit Algorithms in Stochastic Environments",
+        "venue": "International Conference on Algorithmic Learning Theory",
+        "year": 2007,
+        "referenceCount": 11,
+        "citationCount": 225,
+        "authors": [
+          {
+            "authorId": "3015507",
+            "name": "Jean-Yves Audibert"
+          },
+          {
+            "authorId": "1708654",
+            "name": "R. Munos"
+          },
+          {
+            "authorId": "40868287",
+            "name": "Csaba Szepesvari"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "dba141eddbbaa86f86a9831c83641ff5a7a28861",
+        "externalIds": {
+          "MAG": "3008801451",
+          "DBLP": "journals/jmlr/Even-DarMM06",
+          "CorpusId": 9715887
+        },
+        "url": "https://www.semanticscholar.org/paper/dba141eddbbaa86f86a9831c83641ff5a7a28861",
+        "title": "Action Elimination and Stopping Conditions for the Multi-Armed Bandit and Reinforcement Learning Problems",
+        "venue": "Journal of machine learning research",
+        "year": 2006,
+        "referenceCount": 28,
+        "citationCount": 792,
+        "authors": [
+          {
+            "authorId": "1388396612",
+            "name": "Eyal Even-Dar"
+          },
+          {
+            "authorId": "1712535",
+            "name": "Shie Mannor"
+          },
+          {
+            "authorId": "144830983",
+            "name": "Y. Mansour"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "5d7416ab7eaeaadfdf6ff4dbdf981420ad8fca5d",
+        "externalIds": {
+          "MAG": "2048649579",
+          "DOI": "10.1214/AOS/1176343247",
+          "CorpusId": 121963978
+        },
+        "url": "https://www.semanticscholar.org/paper/5d7416ab7eaeaadfdf6ff4dbdf981420ad8fca5d",
+        "title": "A Simple General Approach to Inference About the Tail of a Distribution",
+        "venue": "",
+        "year": 1975,
+        "referenceCount": 0,
+        "citationCount": 3363,
+        "authors": [
+          {
+            "authorId": "52024479",
+            "name": "B. Hill"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "Simple regret for infinitely many armed bandits. arXiv:1505.04627, http://arxiv.org/abs/1505.04627",
+        "venue": "ArXiv e-prints,,",
+        "year": 2015,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "551e19e5113cdff60a3c545d684fc4b9eb9a7306",
+        "externalIds": {
+          "MAG": "50486269",
+          "DBLP": "conf/colt/DaniHK08",
+          "CorpusId": 9134969
+        },
+        "url": "https://www.semanticscholar.org/paper/551e19e5113cdff60a3c545d684fc4b9eb9a7306",
+        "title": "Stochastic Linear Optimization under Bandit Feedback",
+        "venue": "Annual Conference Computational Learning Theory",
+        "year": 2008,
+        "referenceCount": 16,
+        "citationCount": 946,
+        "authors": [
+          {
+            "authorId": "2714811",
+            "name": "Varsha Dani"
+          },
+          {
+            "authorId": "1806117",
+            "name": "T. Hayes"
+          },
+          {
+            "authorId": "144695232",
+            "name": "S. Kakade"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "ced2bbe56e6259540a748b19e5aa6e52e5316986",
+        "externalIds": {
+          "MAG": "1513066584",
+          "DOI": "10.1007/978-0-387-47509-7_7",
+          "CorpusId": 82679166
+        },
+        "url": "https://www.semanticscholar.org/paper/ced2bbe56e6259540a748b19e5aa6e52e5316986",
+        "title": "Feature Selection and Dimensionality Reduction in Genomics and Proteomics",
+        "venue": "",
+        "year": 2007,
+        "referenceCount": 52,
+        "citationCount": 40,
+        "authors": [
+          {
+            "authorId": "1731761",
+            "name": "M. Hauskrecht"
+          },
+          {
+            "authorId": "1791236",
+            "name": "Richard C. Pelikan"
+          },
+          {
+            "authorId": "1806291",
+            "name": "Michal Valko"
+          },
+          {
+            "authorId": "1401172014",
+            "name": "James Lyons-Weiler"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "3cf479f9dbfb7ed40b3e06b741197041a1965eec",
+        "externalIds": {
+          "MAG": "411746464",
+          "DOI": "10.1007/0-387-34471-3",
+          "CorpusId": 117887126
+        },
+        "url": "https://www.semanticscholar.org/paper/3cf479f9dbfb7ed40b3e06b741197041a1965eec",
+        "title": "Extreme value theory : an introduction",
+        "venue": "",
+        "year": 2006,
+        "referenceCount": 1,
+        "citationCount": 2864,
+        "authors": [
+          {
+            "authorId": "144394828",
+            "name": "L. Haan"
+          },
+          {
+            "authorId": "145454191",
+            "name": "Ana Ferreira"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "146b2413f49a33dc61d9a66248fcc6a8a5b57376",
+        "externalIds": {
+          "MAG": "1973712811",
+          "DOI": "10.1214/AOS/1069362389",
+          "CorpusId": 52240544
+        },
+        "url": "https://www.semanticscholar.org/paper/146b2413f49a33dc61d9a66248fcc6a8a5b57376",
+        "title": "Bandit problems with infinitely many arms",
+        "venue": "",
+        "year": 1997,
+        "referenceCount": 12,
+        "citationCount": 176,
+        "authors": [
+          {
+            "authorId": "144543493",
+            "name": "D. Berry"
+          },
+          {
+            "authorId": "46544710",
+            "name": "Robert W. Chen"
+          },
+          {
+            "authorId": "2507164",
+            "name": "A. Zame"
+          },
+          {
+            "authorId": "2059696687",
+            "name": "David Heath"
+          },
+          {
+            "authorId": "2108020",
+            "name": "L. Shepp"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "13f759a3a456941fe78442a258e635a2b544aee2",
+        "externalIds": {
+          "MAG": "2036983007",
+          "DOI": "10.1214/AOS/1176343003",
+          "CorpusId": 121269906
+        },
+        "url": "https://www.semanticscholar.org/paper/13f759a3a456941fe78442a258e635a2b544aee2",
+        "title": "Statistical Inference Using Extreme Order Statistics",
+        "venue": "",
+        "year": 1975,
+        "referenceCount": 0,
+        "citationCount": 4056,
+        "authors": [
+          {
+            "authorId": "11814819",
+            "name": "J. Pickands"
+          }
+        ]
+      }
+    }
+  ]
+}

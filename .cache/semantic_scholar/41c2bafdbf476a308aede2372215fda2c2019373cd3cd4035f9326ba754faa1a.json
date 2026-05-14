@@ -1,0 +1,298 @@
+{
+  "total": 82,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "6b4ca249b3b28d3fee65f69714440c08d42cee64",
+      "externalIds": {
+        "ArXiv": "1801.04406",
+        "DBLP": "conf/icml/MeschederGN18",
+        "MAG": "2953030256",
+        "CorpusId": 3345317
+      },
+      "url": "https://www.semanticscholar.org/paper/6b4ca249b3b28d3fee65f69714440c08d42cee64",
+      "title": "Which Training Methods for GANs do actually Converge?",
+      "venue": "International Conference on Machine Learning",
+      "year": 2018,
+      "referenceCount": 45,
+      "citationCount": 1643,
+      "authors": [
+        {
+          "authorId": "8226549",
+          "name": "L. Mescheder"
+        },
+        {
+          "authorId": "47237027",
+          "name": "Andreas Geiger"
+        },
+        {
+          "authorId": "2388416",
+          "name": "Sebastian Nowozin"
+        }
+      ]
+    },
+    {
+      "paperId": "e7a0612d5b2f98cc3bf5dbc73139cb43c6b9ddbd",
+      "externalIds": {
+        "CorpusId": 51913009
+      },
+      "url": "https://www.semanticscholar.org/paper/e7a0612d5b2f98cc3bf5dbc73139cb43c6b9ddbd",
+      "title": "Training Methods for GANs do actually Converge ?",
+      "venue": "",
+      "year": 2018,
+      "referenceCount": 0,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2079349174",
+          "name": "A. Preliminaries"
+        }
+      ]
+    },
+    {
+      "paperId": "60b0551e6337760f176dbd57157df4cd0ffc9f59",
+      "externalIds": {
+        "DBLP": "journals/tnse/SharminXUCZT25",
+        "DOI": "10.1109/TNSE.2025.3576322",
+        "CorpusId": 279141754
+      },
+      "url": "https://www.semanticscholar.org/paper/60b0551e6337760f176dbd57157df4cd0ffc9f59",
+      "title": "Federated TSRN-Enabled GANs for Effective Cyber Attack Detection in Edge Computing",
+      "venue": "IEEE Transactions on Network Science and Engineering",
+      "year": 2025,
+      "referenceCount": 38,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "84320256",
+          "name": "Zeseya Sharmin"
+        },
+        {
+          "authorId": "2147246486",
+          "name": "Yong Xiang"
+        },
+        {
+          "authorId": "3487385",
+          "name": "Md. Palash Uddin"
+        },
+        {
+          "authorId": "2237427635",
+          "name": "Feifei Chen"
+        },
+        {
+          "authorId": "2145039781",
+          "name": "Yushu Zhang"
+        },
+        {
+          "authorId": "2348154375",
+          "name": "Jine Tang"
+        }
+      ]
+    },
+    {
+      "paperId": "65b6effca2b865adb06cb49f07919852be2d38ab",
+      "externalIds": {
+        "ArXiv": "2104.03535",
+        "DBLP": "journals/corr/abs-2104-03535",
+        "DOI": "10.1109/MIPR51284.2021.00015",
+        "CorpusId": 233181629
+      },
+      "url": "https://www.semanticscholar.org/paper/65b6effca2b865adb06cb49f07919852be2d38ab",
+      "title": "An Empirical Study of the Effects of Sample-Mixing Methods for Efficient Training of Generative Adversarial Networks",
+      "venue": "Conference on Multimedia Information Processing and Retrieval",
+      "year": 2021,
+      "referenceCount": 37,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "19909384",
+          "name": "M. Takamoto"
+        },
+        {
+          "authorId": "2057453971",
+          "name": "Yusuke Morishita"
+        }
+      ]
+    },
+    {
+      "paperId": "be803f7ab7ff7cc8767e10e18d52f636e15d82d1",
+      "externalIds": {
+        "DBLP": "conf/icml/FarniaO20",
+        "CorpusId": 221087958
+      },
+      "url": "https://www.semanticscholar.org/paper/be803f7ab7ff7cc8767e10e18d52f636e15d82d1",
+      "title": "Do GANs always have Nash equilibria?",
+      "venue": "International Conference on Machine Learning",
+      "year": 2020,
+      "referenceCount": 53,
+      "citationCount": 93,
+      "authors": [
+        {
+          "authorId": "2614803",
+          "name": "Farzan Farnia"
+        },
+        {
+          "authorId": "145744184",
+          "name": "A. Ozdaglar"
+        }
+      ]
+    },
+    {
+      "paperId": "c837f6bb76af151145df50207992ed3848489bdb",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-1802-01765",
+        "ArXiv": "1802.01765",
+        "MAG": "2949247779",
+        "CorpusId": 3602416
+      },
+      "url": "https://www.semanticscholar.org/paper/c837f6bb76af151145df50207992ed3848489bdb",
+      "title": "Training Generative Adversarial Networks via Primal-Dual Subgradient Methods: A Lagrangian Perspective on GAN",
+      "venue": "International Conference on Learning Representations",
+      "year": 2018,
+      "referenceCount": 37,
+      "citationCount": 14,
+      "authors": [
+        {
+          "authorId": null,
+          "name": "Xu Chen"
+        },
+        {
+          "authorId": "152924487",
+          "name": "Jiang Wang"
+        },
+        {
+          "authorId": "2054901297",
+          "name": "Hao Ge"
+        }
+      ]
+    },
+    {
+      "paperId": "d5de420983dfa5262bf1f2d815420d44d5f4a2ff",
+      "externalIds": {
+        "PubMedCentral": "4376199",
+        "MAG": "2129085628",
+        "DOI": "10.2196/jmir.3497",
+        "CorpusId": 6175626,
+        "PubMed": "25689716"
+      },
+      "url": "https://www.semanticscholar.org/paper/d5de420983dfa5262bf1f2d815420d44d5f4a2ff",
+      "title": "Training With Virtual Patients in Transcultural Psychiatry: Do the Learners Actually Learn?",
+      "venue": "Journal of Medical Internet Research",
+      "year": 2015,
+      "referenceCount": 26,
+      "citationCount": 42,
+      "authors": [
+        {
+          "authorId": "4033431",
+          "name": "Ioannis Pantziaras"
+        },
+        {
+          "authorId": "49044873",
+          "name": "U. Fors"
+        },
+        {
+          "authorId": "7389653",
+          "name": "S. Ekblad"
+        }
+      ]
+    },
+    {
+      "paperId": "b0494d7e8759990dae712bf5a9b44950e6b480c1",
+      "externalIds": {
+        "DBLP": "conf/aaai/Xu21",
+        "DOI": "10.1609/aaai.v35i12.17258",
+        "CorpusId": 235349267
+      },
+      "url": "https://www.semanticscholar.org/paper/b0494d7e8759990dae712bf5a9b44950e6b480c1",
+      "title": "Towards Generalized Implementation of Wasserstein Distance in GANs",
+      "venue": "AAAI Conference on Artificial Intelligence",
+      "year": 2021,
+      "referenceCount": 42,
+      "citationCount": 15,
+      "authors": [
+        {
+          "authorId": "1490886784",
+          "name": "Minkai Xu"
+        }
+      ]
+    },
+    {
+      "paperId": "6cf10ee8ece73228c7769d9d85507c9ad48d6b38",
+      "externalIds": {
+        "ArXiv": "2604.17140",
+        "CorpusId": 287634655
+      },
+      "url": "https://www.semanticscholar.org/paper/6cf10ee8ece73228c7769d9d85507c9ad48d6b38",
+      "title": "Local Inconsistency Resolution: The Interplay between Attention and Control in Probabilistic Models",
+      "venue": "",
+      "year": 2026,
+      "referenceCount": 38,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2346834095",
+          "name": "O. Richardson"
+        },
+        {
+          "authorId": "1379976263",
+          "name": "Mandana Samiei"
+        },
+        {
+          "authorId": "2362305319",
+          "name": "Mehran Shakerinava"
+        },
+        {
+          "authorId": "2238038175",
+          "name": "Joseph D. Viviano"
+        },
+        {
+          "authorId": "2430638062",
+          "name": "Abdessamad El Kabid"
+        },
+        {
+          "authorId": "84094194",
+          "name": "Alipanah Parviz"
+        },
+        {
+          "authorId": "1865800402",
+          "name": "Y. Bengio"
+        }
+      ]
+    },
+    {
+      "paperId": "b546069dd05504c739164286951fb1f311ef8b7e",
+      "externalIds": {
+        "MAG": "3035573799",
+        "DBLP": "journals/simods/BohmSCB22",
+        "ArXiv": "2006.09033",
+        "DOI": "10.1137/21m1420939",
+        "CorpusId": 219708432
+      },
+      "url": "https://www.semanticscholar.org/paper/b546069dd05504c739164286951fb1f311ef8b7e",
+      "title": "Two Steps at a Time - Taking GAN Training in Stride with Tseng's Method",
+      "venue": "SIAM Journal on Mathematics of Data Science",
+      "year": 2020,
+      "referenceCount": 46,
+      "citationCount": 28,
+      "authors": [
+        {
+          "authorId": "30928523",
+          "name": "A. Böhm"
+        },
+        {
+          "authorId": "1568958625",
+          "name": "Michael Sedlmayer"
+        },
+        {
+          "authorId": "2558891",
+          "name": "E. R. Csetnek"
+        },
+        {
+          "authorId": "1753157",
+          "name": "R. Boț"
+        }
+      ]
+    }
+  ]
+}

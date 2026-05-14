@@ -1,0 +1,338 @@
+{
+  "total": 88,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "759b00cf35b397eab468935b5d90d04e9ed25549",
+      "externalIds": {
+        "MAG": "2389937032",
+        "DBLP": "conf/icml/JohanssonSS16",
+        "ArXiv": "1605.03661",
+        "CorpusId": 8558103
+      },
+      "url": "https://www.semanticscholar.org/paper/759b00cf35b397eab468935b5d90d04e9ed25549",
+      "title": "Learning Representations for Counterfactual Inference",
+      "venue": "International Conference on Machine Learning",
+      "year": 2016,
+      "referenceCount": 49,
+      "citationCount": 816,
+      "authors": [
+        {
+          "authorId": "144602383",
+          "name": "Fredrik D. Johansson"
+        },
+        {
+          "authorId": "2304764",
+          "name": "Uri Shalit"
+        },
+        {
+          "authorId": "1746662",
+          "name": "D. Sontag"
+        }
+      ]
+    },
+    {
+      "paperId": "ecd994f268783c2eac87b722022bd3c10bf77c20",
+      "externalIds": {
+        "ArXiv": "1810.00656",
+        "MAG": "2894488843",
+        "DBLP": "journals/corr/abs-1810-00656",
+        "CorpusId": 52902685
+      },
+      "url": "https://www.semanticscholar.org/paper/ecd994f268783c2eac87b722022bd3c10bf77c20",
+      "title": "Perfect Match: A Simple Method for Learning Representations For Counterfactual Inference With Neural Networks",
+      "venue": "arXiv.org",
+      "year": 2018,
+      "referenceCount": 44,
+      "citationCount": 120,
+      "authors": [
+        {
+          "authorId": "144861285",
+          "name": "P. Schwab"
+        },
+        {
+          "authorId": "4271465",
+          "name": "L. Linhardt"
+        },
+        {
+          "authorId": "144660470",
+          "name": "W. Karlen"
+        }
+      ]
+    },
+    {
+      "paperId": "c75b7e20e71d3b5aa7104d6b83289854c2e94c77",
+      "externalIds": {
+        "ArXiv": "2206.01022",
+        "DBLP": "conf/sigir/ChengLLMXZ22",
+        "DOI": "10.1145/3477495.3532011",
+        "CorpusId": 249282212
+      },
+      "url": "https://www.semanticscholar.org/paper/c75b7e20e71d3b5aa7104d6b83289854c2e94c77",
+      "title": "Learning Disentangled Representations for Counterfactual Regression via Mutual Information Minimization",
+      "venue": "Annual International ACM SIGIR Conference on Research and Development in Information Retrieval",
+      "year": 2022,
+      "referenceCount": 29,
+      "citationCount": 36,
+      "authors": [
+        {
+          "authorId": "2072996228",
+          "name": "Min Cheng"
+        },
+        {
+          "authorId": "2152086169",
+          "name": "Xinru Liao"
+        },
+        {
+          "authorId": "1390542627",
+          "name": "Quanlian Liu"
+        },
+        {
+          "authorId": "2084599687",
+          "name": "Bin Ma"
+        },
+        {
+          "authorId": "2110980278",
+          "name": "Jian Xu"
+        },
+        {
+          "authorId": "2093245720",
+          "name": "Bo Zheng"
+        }
+      ]
+    },
+    {
+      "paperId": "d4594ef5625d99519972f48787a3178d524c81e4",
+      "externalIds": {
+        "ArXiv": "2307.12625",
+        "DBLP": "journals/datamine/ZhaoHZPS24",
+        "DOI": "10.1007/s10618-024-01058-3",
+        "CorpusId": 260125374
+      },
+      "url": "https://www.semanticscholar.org/paper/d4594ef5625d99519972f48787a3178d524c81e4",
+      "title": "De-confounding representation learning for counterfactual inference on continuous treatment via generative adversarial network",
+      "venue": "Data mining and knowledge discovery",
+      "year": 2023,
+      "referenceCount": 50,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "2224675995",
+          "name": "Yonghe Zhao"
+        },
+        {
+          "authorId": "144938775",
+          "name": "Q. Huang"
+        },
+        {
+          "authorId": "2087158117",
+          "name": "Haolong Zeng"
+        },
+        {
+          "authorId": "36486497",
+          "name": "Yun-Wen Pen"
+        },
+        {
+          "authorId": "2177028855",
+          "name": "H. Sun"
+        }
+      ]
+    },
+    {
+      "paperId": "2133fbe6529bf6f8750ff38a6b04839230057f5f",
+      "externalIds": {
+        "ArXiv": "2501.15852",
+        "DBLP": "journals/ijon/LuLW25",
+        "DOI": "10.48550/arXiv.2501.15852",
+        "CorpusId": 275921167
+      },
+      "url": "https://www.semanticscholar.org/paper/2133fbe6529bf6f8750ff38a6b04839230057f5f",
+      "title": "CausalSR: Structural Causal Model-Driven Super-Resolution with Counterfactual Inference",
+      "venue": "Neurocomputing",
+      "year": 2025,
+      "referenceCount": 32,
+      "citationCount": 28,
+      "authors": [
+        {
+          "authorId": "1862580260",
+          "name": "Zhengyang Lu"
+        },
+        {
+          "authorId": "2343284312",
+          "name": "Bingjie Lu"
+        },
+        {
+          "authorId": "2279712499",
+          "name": "Feng Wang"
+        }
+      ]
+    },
+    {
+      "paperId": "38d3dd1a41191f9587ca808d3bdf3ca13becf840",
+      "externalIds": {
+        "ArXiv": "2403.09605",
+        "DBLP": "conf/miccai/RoschewitzRXKG24",
+        "DOI": "10.1007/978-3-031-73748-0_3",
+        "CorpusId": 268385524
+      },
+      "url": "https://www.semanticscholar.org/paper/38d3dd1a41191f9587ca808d3bdf3ca13becf840",
+      "title": "Counterfactual contrastive learning: robust representations via causal image synthesis",
+      "venue": "DEMI@MICCAI",
+      "year": 2024,
+      "referenceCount": 29,
+      "citationCount": 12,
+      "authors": [
+        {
+          "authorId": "2221228186",
+          "name": "Mélanie Roschewitz"
+        },
+        {
+          "authorId": "2291143736",
+          "name": "Fabio De Sousa Ribeiro"
+        },
+        {
+          "authorId": "2291140533",
+          "name": "Tian Xia"
+        },
+        {
+          "authorId": "102476661",
+          "name": "G. Khara"
+        },
+        {
+          "authorId": "2260627290",
+          "name": "Ben Glocker"
+        }
+      ]
+    },
+    {
+      "paperId": "d08c2a5cec5d7a1cdf6bcc69dad6c6f5a3784a77",
+      "externalIds": {
+        "DBLP": "conf/icassp/GuptaKPG23",
+        "DOI": "10.1109/ICASSP49357.2023.10095273",
+        "CorpusId": 258539442
+      },
+      "url": "https://www.semanticscholar.org/paper/d08c2a5cec5d7a1cdf6bcc69dad6c6f5a3784a77",
+      "title": "Deep Survival Analysis and Counterfactual Inference Using Balanced Representations",
+      "venue": "IEEE International Conference on Acoustics, Speech, and Signal Processing",
+      "year": 2023,
+      "referenceCount": 15,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2115249115",
+          "name": "Muskan Gupta"
+        },
+        {
+          "authorId": "2214813455",
+          "name": "Gokul Kannan"
+        },
+        {
+          "authorId": "144990181",
+          "name": "Ranjitha Prasad"
+        },
+        {
+          "authorId": "153561223",
+          "name": "Garima Gupta"
+        }
+      ]
+    },
+    {
+      "paperId": "f543589a29a11aab66528be60259a25f9aeb3d29",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2201-08137",
+        "ArXiv": "2201.08137",
+        "CorpusId": 246063752
+      },
+      "url": "https://www.semanticscholar.org/paper/f543589a29a11aab66528be60259a25f9aeb3d29",
+      "title": "DRTCI: Learning Disentangled Representations for Temporal Causal Inference",
+      "venue": "arXiv.org",
+      "year": 2022,
+      "referenceCount": 21,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "153561223",
+          "name": "Garima Gupta"
+        },
+        {
+          "authorId": "3213990",
+          "name": "L. Vig"
+        },
+        {
+          "authorId": "143725466",
+          "name": "Gautam M. Shroff"
+        }
+      ]
+    },
+    {
+      "paperId": "447193b9974a0a5522e2d31e15f6b9c8154cab9b",
+      "externalIds": {
+        "DBLP": "conf/kdd/LiGY24",
+        "ArXiv": "2406.05855",
+        "DOI": "10.1145/3637528.3671782",
+        "CorpusId": 270371728
+      },
+      "url": "https://www.semanticscholar.org/paper/447193b9974a0a5522e2d31e15f6b9c8154cab9b",
+      "title": "Self-Distilled Disentangled Learning for Counterfactual Prediction",
+      "venue": "Knowledge Discovery and Data Mining",
+      "year": 2024,
+      "referenceCount": 50,
+      "citationCount": 4,
+      "authors": [
+        {
+          "authorId": "2293567808",
+          "name": "Xinshu Li"
+        },
+        {
+          "authorId": "2052304322",
+          "name": "Mingming Gong"
+        },
+        {
+          "authorId": "2294149076",
+          "name": "Lina Yao"
+        }
+      ]
+    },
+    {
+      "paperId": "b7ca541ca696bdff0aa88232ecf8ed6de18e15e6",
+      "externalIds": {
+        "DBLP": "conf/icml/FosterVGCAS22",
+        "ArXiv": "2106.08161",
+        "CorpusId": 235436050
+      },
+      "url": "https://www.semanticscholar.org/paper/b7ca541ca696bdff0aa88232ecf8ed6de18e15e6",
+      "title": "Contrastive Mixture of Posteriors for Counterfactual Inference, Data Integration and Fairness",
+      "venue": "International Conference on Machine Learning",
+      "year": 2021,
+      "referenceCount": 79,
+      "citationCount": 7,
+      "authors": [
+        {
+          "authorId": "144616065",
+          "name": "Adam Foster"
+        },
+        {
+          "authorId": "2112209065",
+          "name": "'Arpi Vez'er"
+        },
+        {
+          "authorId": "6258291",
+          "name": "C. A. Glastonbury"
+        },
+        {
+          "authorId": "145356627",
+          "name": "Páidí Creed"
+        },
+        {
+          "authorId": "3252464",
+          "name": "Sam Abujudeh"
+        },
+        {
+          "authorId": "2064224921",
+          "name": "Aaron Sim"
+        }
+      ]
+    }
+  ]
+}

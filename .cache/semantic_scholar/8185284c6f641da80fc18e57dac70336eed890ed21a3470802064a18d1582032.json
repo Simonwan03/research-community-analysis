@@ -1,0 +1,262 @@
+{
+  "total": 114,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "88dda59076c3b96a6f8866d8da395165b65955c6",
+      "externalIds": {
+        "DBLP": "journals/corr/OhV13",
+        "MAG": "1880309113",
+        "ArXiv": "1311.0776",
+        "DOI": "10.1109/TIT.2017.2685505",
+        "CorpusId": 1721827
+      },
+      "url": "https://www.semanticscholar.org/paper/88dda59076c3b96a6f8866d8da395165b65955c6",
+      "title": "The Composition Theorem for Differential Privacy",
+      "venue": "IEEE Transactions on Information Theory",
+      "year": 2013,
+      "referenceCount": 49,
+      "citationCount": 790,
+      "authors": [
+        {
+          "authorId": "3115341",
+          "name": "P. Kairouz"
+        },
+        {
+          "authorId": "34184418",
+          "name": "Sewoong Oh"
+        },
+        {
+          "authorId": "144768649",
+          "name": "P. Viswanath"
+        }
+      ]
+    },
+    {
+      "paperId": "efb9041e6fad1bcaf5b4bf02aa1141f193d7b935",
+      "externalIds": {
+        "DBLP": "journals/ieiceta/SaitoCT25",
+        "DOI": "10.1587/transfun.2024eap1123",
+        "CorpusId": 276600740
+      },
+      "url": "https://www.semanticscholar.org/paper/efb9041e6fad1bcaf5b4bf02aa1141f193d7b935",
+      "title": "A Composition Theorem via f-Divergence Differential Privacy",
+      "venue": "IEICE Transactions on Fundamentals of Electronics Communications and Computer Sciences",
+      "year": 2025,
+      "referenceCount": 0,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2672380",
+          "name": "Shota Saito"
+        },
+        {
+          "authorId": "2267747374",
+          "name": "Koji Chida"
+        },
+        {
+          "authorId": "2347138747",
+          "name": "Osamu Takaki"
+        }
+      ]
+    },
+    {
+      "paperId": "b6ea5a00efb255c23519f1f4f6d045993e8b9af9",
+      "externalIds": {
+        "MAG": "3046695172",
+        "DOI": "10.1109/ICEIEC49280.2020.9152303",
+        "CorpusId": 220938600
+      },
+      "url": "https://www.semanticscholar.org/paper/b6ea5a00efb255c23519f1f4f6d045993e8b9af9",
+      "title": "Differential Privacy Online Learning Based on the Composition Theorem",
+      "venue": "IEEE International Conference on Electronics Information and Emergency Communication",
+      "year": 2020,
+      "referenceCount": 16,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2061283177",
+          "name": "Pinru Jiang"
+        },
+        {
+          "authorId": "8376033",
+          "name": "Shizhong Liao"
+        }
+      ]
+    },
+    {
+      "paperId": "55be39c086494abe083ae05aa22d2fde3b81cefb",
+      "externalIds": {
+        "DBLP": "conf/stoc/Vadhan023",
+        "ArXiv": "2207.08335",
+        "DOI": "10.1145/3564246.3585241",
+        "CorpusId": 252090434
+      },
+      "url": "https://www.semanticscholar.org/paper/55be39c086494abe083ae05aa22d2fde3b81cefb",
+      "title": "Concurrent Composition Theorems for Differential Privacy",
+      "venue": "Symposium on the Theory of Computing",
+      "year": 2022,
+      "referenceCount": 23,
+      "citationCount": 28,
+      "authors": [
+        {
+          "authorId": "1723744",
+          "name": "S. Vadhan"
+        },
+        {
+          "authorId": "2108277232",
+          "name": "Wanrong Zhang"
+        }
+      ]
+    },
+    {
+      "paperId": "134f971e73228445d58a1850ea3cd7ee140c357f",
+      "externalIds": {
+        "CorpusId": 276743147
+      },
+      "url": "https://www.semanticscholar.org/paper/134f971e73228445d58a1850ea3cd7ee140c357f",
+      "title": "A Composition Theorem via 𝒇 -Divergence Differential Privacy",
+      "venue": "",
+      "year": null,
+      "referenceCount": 25,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2348272825",
+          "name": "†. ShotaSAITO"
+        },
+        {
+          "authorId": "2348272504",
+          "name": "†. KojiCHIDA"
+        },
+        {
+          "authorId": "1476802983",
+          "name": "M. C"
+        }
+      ]
+    },
+    {
+      "paperId": "40604f31d939e8b71b276a194b5e5703b94bcafa",
+      "externalIds": {
+        "DBLP": "conf/csfw/GuerraBalboaMPS24",
+        "ArXiv": "2308.14649",
+        "DOI": "10.1109/CSF61375.2024.00004",
+        "CorpusId": 261244022
+      },
+      "url": "https://www.semanticscholar.org/paper/40604f31d939e8b71b276a194b5e5703b94bcafa",
+      "title": "Composition in Differential Privacy for General Granularity Notions",
+      "venue": "IEEE Computer Security Foundations Symposium",
+      "year": 2023,
+      "referenceCount": 35,
+      "citationCount": 4,
+      "authors": [
+        {
+          "authorId": "2188157905",
+          "name": "Patricia Guerra-Balboa"
+        },
+        {
+          "authorId": "2211030782",
+          "name": "Àlex Miranda-Pascual"
+        },
+        {
+          "authorId": "1403182749",
+          "name": "Javier Parra-Arnau"
+        },
+        {
+          "authorId": "143850196",
+          "name": "T. Strufe"
+        }
+      ]
+    },
+    {
+      "paperId": "f3c23a93acbb7eedb94a6181299438b162bb9cbd",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2207-09397",
+        "ArXiv": "2207.09397",
+        "DOI": "10.48550/arXiv.2207.09397",
+        "CorpusId": 250644214
+      },
+      "url": "https://www.semanticscholar.org/paper/f3c23a93acbb7eedb94a6181299438b162bb9cbd",
+      "title": "Composition Theorems for Interactive Differential Privacy",
+      "venue": "Neural Information Processing Systems",
+      "year": 2022,
+      "referenceCount": 33,
+      "citationCount": 25,
+      "authors": [
+        {
+          "authorId": "2142657061",
+          "name": "Xin Lyu"
+        }
+      ]
+    },
+    {
+      "paperId": "7a7ab0a6d0a5105150ddc03c14a60d07de936df0",
+      "externalIds": {
+        "ArXiv": "2506.18405",
+        "CorpusId": 280297891
+      },
+      "url": "https://www.semanticscholar.org/paper/7a7ab0a6d0a5105150ddc03c14a60d07de936df0",
+      "title": "$(\\ell,\\delta)$-Diversity: Linkage-Robustness via a Composition Theorem",
+      "venue": "",
+      "year": 2025,
+      "referenceCount": 21,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "32674217",
+          "name": "V. A. Rameshwar"
+        },
+        {
+          "authorId": "3173243",
+          "name": "Anshoo Tandon"
+        }
+      ]
+    },
+    {
+      "paperId": "881475dfe452e4968f8fb7cfc8218835f9944b3b",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2506-18405",
+        "DOI": "10.1145/3799830.3799831",
+        "CorpusId": 280000296
+      },
+      "url": "https://www.semanticscholar.org/paper/881475dfe452e4968f8fb7cfc8218835f9944b3b",
+      "title": "(ℓ, δ)-Diversity: Linkage-Robustness via a Composition Theorem",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "referenceCount": 23,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "32674217",
+          "name": "V. A. Rameshwar"
+        },
+        {
+          "authorId": "3173243",
+          "name": "Anshoo Tandon"
+        }
+      ]
+    },
+    {
+      "paperId": "29a84c32da25edc25b814f72a24f87b7593e2196",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2511-04261",
+        "ArXiv": "2511.04261",
+        "DOI": "10.48550/arXiv.2511.04261",
+        "CorpusId": 282812578
+      },
+      "url": "https://www.semanticscholar.org/paper/29a84c32da25edc25b814f72a24f87b7593e2196",
+      "title": "A Parallel Region-Adaptive Differential Privacy Framework for Image Pixelization",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "referenceCount": 41,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2387356357",
+          "name": "Ming Liu"
+        }
+      ]
+    }
+  ]
+}

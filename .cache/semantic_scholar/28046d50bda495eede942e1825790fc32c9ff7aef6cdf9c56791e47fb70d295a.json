@@ -1,0 +1,62 @@
+{
+  "total": 2,
+  "offset": 0,
+  "data": [
+    {
+      "paperId": "fe5363c4d446ea010e9cb8f1e1e2352d8c736f52",
+      "externalIds": {
+        "MAG": "2952682778",
+        "ArXiv": "1605.08671",
+        "DBLP": "journals/corr/LocatelliGC16",
+        "CorpusId": 10435331
+      },
+      "url": "https://www.semanticscholar.org/paper/fe5363c4d446ea010e9cb8f1e1e2352d8c736f52",
+      "title": "An optimal algorithm for the Thresholding Bandit Problem",
+      "venue": "International Conference on Machine Learning",
+      "year": 2016,
+      "referenceCount": 23,
+      "citationCount": 144,
+      "authors": [
+        {
+          "authorId": "2061475542",
+          "name": "A. Locatelli"
+        },
+        {
+          "authorId": "31675073",
+          "name": "Maurilio Gutzeit"
+        },
+        {
+          "authorId": "37178915",
+          "name": "A. Carpentier"
+        }
+      ]
+    },
+    {
+      "paperId": "3a1e391ae452e85a526f30bb88fd5ce5d65aae21",
+      "externalIds": {
+        "DBLP": "conf/nips/WangTP21",
+        "CorpusId": 247496602
+      },
+      "url": "https://www.semanticscholar.org/paper/3a1e391ae452e85a526f30bb88fd5ce5d65aae21",
+      "title": "Fast Pure Exploration via Frank-Wolfe",
+      "venue": "Neural Information Processing Systems",
+      "year": 2021,
+      "referenceCount": 53,
+      "citationCount": 49,
+      "authors": [
+        {
+          "authorId": "20514676",
+          "name": "Po-An Wang"
+        },
+        {
+          "authorId": "134683759",
+          "name": "Ruo-Chun Tzeng"
+        },
+        {
+          "authorId": "1745481",
+          "name": "A. Proutière"
+        }
+      ]
+    }
+  ]
+}

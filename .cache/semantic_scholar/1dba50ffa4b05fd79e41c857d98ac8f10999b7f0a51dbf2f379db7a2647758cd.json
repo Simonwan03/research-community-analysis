@@ -1,0 +1,63 @@
+{
+  "total": 2,
+  "offset": 0,
+  "data": [
+    {
+      "paperId": "a54043238b3930735ff585619d1716ba0210658c",
+      "externalIds": {
+        "DBLP": "conf/icml/MitrovicB0K17",
+        "MAG": "2741249511",
+        "CorpusId": 27986334
+      },
+      "url": "https://www.semanticscholar.org/paper/a54043238b3930735ff585619d1716ba0210658c",
+      "title": "Differentially Private Submodular Maximization: Data Summarization in Disguise",
+      "venue": "International Conference on Machine Learning",
+      "year": 2017,
+      "referenceCount": 34,
+      "citationCount": 40,
+      "authors": [
+        {
+          "authorId": "153274052",
+          "name": "Marko Mitrovic"
+        },
+        {
+          "authorId": "2385267",
+          "name": "Mark Bun"
+        },
+        {
+          "authorId": "145343838",
+          "name": "Andreas Krause"
+        },
+        {
+          "authorId": "1697131",
+          "name": "Amin Karbasi"
+        }
+      ]
+    },
+    {
+      "paperId": "8d15019134966cd69c04500cad7aa0edb7e46f10",
+      "externalIds": {
+        "MAG": "3035535704",
+        "DBLP": "conf/icml/RafieyY20",
+        "ArXiv": "2006.15744",
+        "CorpusId": 220249670
+      },
+      "url": "https://www.semanticscholar.org/paper/8d15019134966cd69c04500cad7aa0edb7e46f10",
+      "title": "Fast and Private Submodular and k-Submodular Functions Maximization with Matroid Constraints",
+      "venue": "International Conference on Machine Learning",
+      "year": 2020,
+      "referenceCount": 38,
+      "citationCount": 38,
+      "authors": [
+        {
+          "authorId": "23731362",
+          "name": "Akbar Rafiey"
+        },
+        {
+          "authorId": "51462146",
+          "name": "Yuichi Yoshida"
+        }
+      ]
+    }
+  ]
+}

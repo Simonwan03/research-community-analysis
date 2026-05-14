@@ -1,0 +1,211 @@
+{
+  "total": 7,
+  "offset": 0,
+  "data": [
+    {
+      "paperId": "c95909a36d79dd27170dccccd7f9eaf47d40920c",
+      "externalIds": {
+        "DBLP": "conf/icml/GuHDH18",
+        "MAG": "2804045096",
+        "CorpusId": 51879444
+      },
+      "url": "https://www.semanticscholar.org/paper/c95909a36d79dd27170dccccd7f9eaf47d40920c",
+      "title": "Faster Derivative-Free Stochastic Algorithm for Shared Memory Machines",
+      "venue": "International Conference on Machine Learning",
+      "year": 2018,
+      "referenceCount": 25,
+      "citationCount": 24,
+      "authors": [
+        {
+          "authorId": "1491240128",
+          "name": "Bin Gu"
+        },
+        {
+          "authorId": "3382735",
+          "name": "Zhouyuan Huo"
+        },
+        {
+          "authorId": "145102437",
+          "name": "Cheng Deng"
+        },
+        {
+          "authorId": "145114933",
+          "name": "Heng Huang"
+        }
+      ]
+    },
+    {
+      "paperId": "f806980eb6658ce7a7fba99dabebeb2d43c6dc6b",
+      "externalIds": {
+        "MAG": "2963408258",
+        "DBLP": "conf/podc/AlistarhSK18",
+        "ArXiv": "1803.08841",
+        "DOI": "10.1145/3212734.3212763",
+        "CorpusId": 4370446
+      },
+      "url": "https://www.semanticscholar.org/paper/f806980eb6658ce7a7fba99dabebeb2d43c6dc6b",
+      "title": "The Convergence of Stochastic Gradient Descent in Asynchronous Shared Memory",
+      "venue": "ACM SIGACT-SIGOPS Symposium on Principles of Distributed Computing",
+      "year": 2018,
+      "referenceCount": 38,
+      "citationCount": 42,
+      "authors": [
+        {
+          "authorId": "3311387",
+          "name": "Dan Alistarh"
+        },
+        {
+          "authorId": "1801197",
+          "name": "Christopher De Sa"
+        },
+        {
+          "authorId": "145292827",
+          "name": "Nikola Konstantinov"
+        }
+      ]
+    },
+    {
+      "paperId": "58e0ea96ba1392fc32d84c20c97bf926cedefc27",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2102-09032",
+        "ArXiv": "2102.09032",
+        "DOI": "10.1109/IPDPS49936.2021.00051",
+        "CorpusId": 231951266
+      },
+      "url": "https://www.semanticscholar.org/paper/58e0ea96ba1392fc32d84c20c97bf926cedefc27",
+      "title": "Consistent Lock-free Parallel Stochastic Gradient Descent for Fast and Stable Convergence",
+      "venue": "IEEE International Parallel and Distributed Processing Symposium",
+      "year": 2021,
+      "referenceCount": 43,
+      "citationCount": 5,
+      "authors": [
+        {
+          "authorId": "72573425",
+          "name": "Karl Bäckström"
+        },
+        {
+          "authorId": "2607427",
+          "name": "Ivan Walulya"
+        },
+        {
+          "authorId": "1752071",
+          "name": "M. Papatriantafilou"
+        },
+        {
+          "authorId": "1701362",
+          "name": "P. Tsigas"
+        }
+      ]
+    },
+    {
+      "paperId": "c85ddcb4ae8aa2db87abf8c7bbc8170bdbe30c1f",
+      "externalIds": {
+        "DBLP": "conf/ijcai/GuXH19",
+        "MAG": "2964607944",
+        "DOI": "10.24963/ijcai.2019/104",
+        "CorpusId": 199466142
+      },
+      "url": "https://www.semanticscholar.org/paper/c85ddcb4ae8aa2db87abf8c7bbc8170bdbe30c1f",
+      "title": "Asynchronous Stochastic Frank-Wolfe Algorithms for Non-Convex Optimization",
+      "venue": "International Joint Conference on Artificial Intelligence",
+      "year": 2019,
+      "referenceCount": 33,
+      "citationCount": 7,
+      "authors": [
+        {
+          "authorId": "1491240128",
+          "name": "Bin Gu"
+        },
+        {
+          "authorId": "151487059",
+          "name": "Wenhan Xian"
+        },
+        {
+          "authorId": "145114933",
+          "name": "Heng Huang"
+        }
+      ]
+    },
+    {
+      "paperId": "8f130e59f4e5d870c06ed09890058939ce9a6417",
+      "externalIds": {
+        "MAG": "1559073581",
+        "CorpusId": 109227657
+      },
+      "url": "https://www.semanticscholar.org/paper/8f130e59f4e5d870c06ed09890058939ce9a6417",
+      "title": "Systems analysis and simulation 1988 : proceedings of the International Symposium, held in Berlin(GDR), September 12-16, 1988",
+      "venue": "",
+      "year": 1988,
+      "referenceCount": 0,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "2834036",
+          "name": "A. Sydow"
+        },
+        {
+          "authorId": "1705303",
+          "name": "S. Tzafestas"
+        },
+        {
+          "authorId": "66256395",
+          "name": "R. Vichnevetsky"
+        }
+      ]
+    },
+    {
+      "paperId": "a775b6eed282c51b1e69d255ea25dd1f23dc1226",
+      "externalIds": {
+        "MAG": "2898443242",
+        "CorpusId": 262639235
+      },
+      "url": "https://www.semanticscholar.org/paper/a775b6eed282c51b1e69d255ea25dd1f23dc1226",
+      "title": "Computational Science - ICCS 2002 : International Conference, Amsterdam, The Netherlands, April 21-24, 2002 : proceedings",
+      "venue": "",
+      "year": 2002,
+      "referenceCount": 0,
+      "citationCount": 6,
+      "authors": [
+        {
+          "authorId": "102583371",
+          "name": "P. Sloot"
+        },
+        {
+          "authorId": "1683503",
+          "name": "Chih Jeng Kenneth Tan"
+        },
+        {
+          "authorId": "1708869",
+          "name": "J. Dongarra"
+        },
+        {
+          "authorId": "145345845",
+          "name": "A. Hoekstra"
+        }
+      ]
+    },
+    {
+      "paperId": "5c820f8f88b4c251df313460b73339df27b51721",
+      "externalIds": {
+        "MAG": "1593699653",
+        "CorpusId": 56535551
+      },
+      "url": "https://www.semanticscholar.org/paper/5c820f8f88b4c251df313460b73339df27b51721",
+      "title": "Euro-Par 2002 parallel processing : 8th International Euro-Par Conference, Paderborn, Germany, August 27-30, 2002 : proceedings",
+      "venue": "",
+      "year": 2002,
+      "referenceCount": 0,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "1707353",
+          "name": "B. Monien"
+        },
+        {
+          "authorId": "145747526",
+          "name": "Rainer Feldmann"
+        }
+      ]
+    }
+  ]
+}

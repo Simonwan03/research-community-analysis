@@ -1,0 +1,618 @@
+{
+  "offset": 0,
+  "citingPaperInfo": {
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/1504.05665, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "title": "Rebuilding Factorized Information Criterion: Asymptotically Accurate Marginal Likelihood",
+    "authors": [
+      {
+        "authorId": "2730698",
+        "name": "K. Hayashi"
+      },
+      {
+        "authorId": "35647224",
+        "name": "S. Maeda"
+      },
+      {
+        "authorId": "1767586",
+        "name": "R. Fujimaki"
+      }
+    ]
+  },
+  "data": [
+    {
+      "citedPaper": {
+        "paperId": "243c7f09bd5567682f67034c3e7c18597f3ce535",
+        "externalIds": {
+          "DBLP": "conf/icml/LiuFFM15",
+          "MAG": "1821618570",
+          "CorpusId": 5386264
+        },
+        "url": "https://www.semanticscholar.org/paper/243c7f09bd5567682f67034c3e7c18597f3ce535",
+        "title": "Scalable Model Selection for Large-Scale Factorial Relational Models",
+        "venue": "International Conference on Machine Learning",
+        "year": 2015,
+        "referenceCount": 43,
+        "citationCount": 8,
+        "authors": [
+          {
+            "authorId": "39879047",
+            "name": "Chunchen Liu"
+          },
+          {
+            "authorId": "2117842090",
+            "name": "Lu Feng"
+          },
+          {
+            "authorId": "1767586",
+            "name": "R. Fujimaki"
+          },
+          {
+            "authorId": "3247408",
+            "name": "Yusuke Muraoka"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "a94e006ce3050e28e2ba3c5fdc8cfc18c06e916a",
+        "externalIds": {
+          "MAG": "2127922630",
+          "DBLP": "conf/nips/NakajimaSSWK14",
+          "CorpusId": 14000461
+        },
+        "url": "https://www.semanticscholar.org/paper/a94e006ce3050e28e2ba3c5fdc8cfc18c06e916a",
+        "title": "Analysis of Variational Bayesian Latent Dirichlet Allocation: Weaker Sparsity Than MAP",
+        "venue": "Neural Information Processing Systems",
+        "year": 2014,
+        "referenceCount": 25,
+        "citationCount": 7,
+        "authors": [
+          {
+            "authorId": "3187484",
+            "name": "Shinichi Nakajima"
+          },
+          {
+            "authorId": "73355331",
+            "name": "Issei Sato"
+          },
+          {
+            "authorId": "67154907",
+            "name": "Masashi Sugiyama"
+          },
+          {
+            "authorId": "1915369783",
+            "name": "Kazuho Watanabe"
+          },
+          {
+            "authorId": "2115790679",
+            "name": "Hiroko Kobayashi"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "acb043fb3e03a7a77b5952be72eab5e58bb93cc1",
+        "externalIds": {
+          "DBLP": "conf/aistats/EtoFMT14",
+          "MAG": "74601627",
+          "CorpusId": 15247381
+        },
+        "url": "https://www.semanticscholar.org/paper/acb043fb3e03a7a77b5952be72eab5e58bb93cc1",
+        "title": "Fully-Automatic Bayesian Piecewise Sparse Linear Models",
+        "venue": "International Conference on Artificial Intelligence and Statistics",
+        "year": 2014,
+        "referenceCount": 26,
+        "citationCount": 24,
+        "authors": [
+          {
+            "authorId": "15625230",
+            "name": "Riki Eto"
+          },
+          {
+            "authorId": "1767586",
+            "name": "R. Fujimaki"
+          },
+          {
+            "authorId": "34854767",
+            "name": "Satoshi Morinaga"
+          },
+          {
+            "authorId": "39228559",
+            "name": "Hiroshi Tamano"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "5f5dc5b9a2ba710937e2c413b37b053cd673df02",
+        "externalIds": {
+          "DBLP": "journals/corr/KingmaW13",
+          "MAG": "2951004968",
+          "ArXiv": "1312.6114",
+          "CorpusId": 216078090
+        },
+        "url": "https://www.semanticscholar.org/paper/5f5dc5b9a2ba710937e2c413b37b053cd673df02",
+        "title": "Auto-Encoding Variational Bayes",
+        "venue": "International Conference on Learning Representations",
+        "year": 2013,
+        "referenceCount": 26,
+        "citationCount": 17030,
+        "authors": [
+          {
+            "authorId": "1726807",
+            "name": "Diederik P. Kingma"
+          },
+          {
+            "authorId": "1678311",
+            "name": "M. Welling"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "a16629decef9302a67ea73ca26bf55eb7c2facf7",
+        "externalIds": {
+          "DBLP": "conf/nips/HayashiF13",
+          "MAG": "2170139541",
+          "CorpusId": 12848983
+        },
+        "url": "https://www.semanticscholar.org/paper/a16629decef9302a67ea73ca26bf55eb7c2facf7",
+        "title": "Factorized Asymptotic Bayesian Inference for Latent Feature Models",
+        "venue": "Neural Information Processing Systems",
+        "year": 2013,
+        "referenceCount": 32,
+        "citationCount": 18,
+        "authors": [
+          {
+            "authorId": "2730698",
+            "name": "K. Hayashi"
+          },
+          {
+            "authorId": "1767586",
+            "name": "R. Fujimaki"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "d9c9b74c8cbfa5475c8e91312efac956bf0518ab",
+        "externalIds": {
+          "MAG": "2950482235",
+          "ArXiv": "1208.6338",
+          "DBLP": "journals/jmlr/Watanabe13",
+          "DOI": "10.5555/2567709.2502609",
+          "CorpusId": 595637
+        },
+        "url": "https://www.semanticscholar.org/paper/d9c9b74c8cbfa5475c8e91312efac956bf0518ab",
+        "title": "A widely applicable Bayesian information criterion",
+        "venue": "Journal of machine learning research",
+        "year": 2012,
+        "referenceCount": 32,
+        "citationCount": 896,
+        "authors": [
+          {
+            "authorId": "2041910832",
+            "name": "Sumio Watanabe"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "14dcc596655ee63cee5cb826f0fec89bb299550d",
+        "externalIds": {
+          "DBLP": "journals/corr/abs-1206-4679",
+          "MAG": "2952875007",
+          "ArXiv": "1206.4679",
+          "CorpusId": 2376674
+        },
+        "url": "https://www.semanticscholar.org/paper/14dcc596655ee63cee5cb826f0fec89bb299550d",
+        "title": "Factorized Asymptotic Bayesian Hidden Markov Models",
+        "venue": "International Conference on Machine Learning",
+        "year": 2012,
+        "referenceCount": 18,
+        "citationCount": 24,
+        "authors": [
+          {
+            "authorId": "1767586",
+            "name": "R. Fujimaki"
+          },
+          {
+            "authorId": "2730698",
+            "name": "K. Hayashi"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "bd3292c7f5b9d8a2412d1717ec324a4202f6bf47",
+        "externalIds": {
+          "DBLP": "journals/jmlr/FujimakiM12",
+          "MAG": "2188385979",
+          "CorpusId": 964610
+        },
+        "url": "https://www.semanticscholar.org/paper/bd3292c7f5b9d8a2412d1717ec324a4202f6bf47",
+        "title": "Factorized Asymptotic Bayesian Inference for Mixture Modeling",
+        "venue": "International Conference on Artificial Intelligence and Statistics",
+        "year": 2012,
+        "referenceCount": 23,
+        "citationCount": 47,
+        "authors": [
+          {
+            "authorId": "1767586",
+            "name": "R. Fujimaki"
+          },
+          {
+            "authorId": "34854767",
+            "name": "Satoshi Morinaga"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "239243dfa44e14b4fca15675d25cb655fb91a7b7",
+        "externalIds": {
+          "MAG": "2161353674",
+          "DBLP": "journals/corr/abs-1205-2662",
+          "ArXiv": "1205.2662",
+          "CorpusId": 14158514
+        },
+        "url": "https://www.semanticscholar.org/paper/239243dfa44e14b4fca15675d25cb655fb91a7b7",
+        "title": "On Smoothing and Inference for Topic Models",
+        "venue": "Conference on Uncertainty in Artificial Intelligence",
+        "year": 2009,
+        "referenceCount": 23,
+        "citationCount": 612,
+        "authors": [
+          {
+            "authorId": "2767462",
+            "name": "A. Asuncion"
+          },
+          {
+            "authorId": "1678311",
+            "name": "M. Welling"
+          },
+          {
+            "authorId": "50860274",
+            "name": "Padhraic Smyth"
+          },
+          {
+            "authorId": "1725303",
+            "name": "Y. Teh"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "7142185fd2e86e922f609562f30820cd7c5af7f4",
+        "externalIds": {
+          "MAG": "2738393601",
+          "CorpusId": 57110463
+        },
+        "url": "https://www.semanticscholar.org/paper/7142185fd2e86e922f609562f30820cd7c5af7f4",
+        "title": "Advances in Neural Information Processing Systems (NIPS)",
+        "venue": "",
+        "year": 2007,
+        "referenceCount": 0,
+        "citationCount": 702,
+        "authors": [
+          {
+            "authorId": "143865718",
+            "name": "V. Ferrari"
+          },
+          {
+            "authorId": "1688869",
+            "name": "Andrew Zisserman"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "5a4d1638bb09bb66058852f30d386e816c2bdb47",
+        "externalIds": {
+          "DBLP": "journals/jmlr/WatanabeW06",
+          "MAG": "2107455764",
+          "CorpusId": 1640754
+        },
+        "url": "https://www.semanticscholar.org/paper/5a4d1638bb09bb66058852f30d386e816c2bdb47",
+        "title": "Stochastic Complexities of Gaussian Mixtures in Variational Bayesian Approximation",
+        "venue": "Journal of machine learning research",
+        "year": 2006,
+        "referenceCount": 18,
+        "citationCount": 82,
+        "authors": [
+          {
+            "authorId": "1915369783",
+            "name": "Kazuho Watanabe"
+          },
+          {
+            "authorId": "2041910832",
+            "name": "Sumio Watanabe"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "43a2fc0bbc566ea1e50bc173a62456c0b900c98b",
+        "externalIds": {
+          "MAG": "2137056819",
+          "DBLP": "journals/npl/WangT04",
+          "DOI": "10.1007/s11063-004-2024-6",
+          "CorpusId": 9300457
+        },
+        "url": "https://www.semanticscholar.org/paper/43a2fc0bbc566ea1e50bc173a62456c0b900c98b",
+        "title": "Lack of Consistency of Mean Field and Variational Bayes Approximations for State Space Models",
+        "venue": "Neural Processing Letters",
+        "year": 2004,
+        "referenceCount": 19,
+        "citationCount": 59,
+        "authors": [
+          {
+            "authorId": null,
+            "name": "Bo Wang"
+          },
+          {
+            "authorId": "1742419",
+            "name": "D. Titterington"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "9b4f8e1b4d781e3b47b72724d2e0c50fad87e464",
+        "externalIds": {
+          "DBLP": "conf/uai/Attias99",
+          "MAG": "2950467202",
+          "ArXiv": "1301.6676",
+          "CorpusId": 13371224
+        },
+        "url": "https://www.semanticscholar.org/paper/9b4f8e1b4d781e3b47b72724d2e0c50fad87e464",
+        "title": "Inferring Parameters and Structure of Latent Variable Models by Variational Bayes",
+        "venue": "Conference on Uncertainty in Artificial Intelligence",
+        "year": 1999,
+        "referenceCount": 25,
+        "citationCount": 676,
+        "authors": [
+          {
+            "authorId": "1786990",
+            "name": "H. Attias"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "6120cc252bc74239012f11b8b075cb7cb16bee26",
+        "externalIds": {
+          "MAG": "1516111018",
+          "DBLP": "journals/ml/JordanGJS99",
+          "DOI": "10.1023/A:1007665907178",
+          "CorpusId": 2073260
+        },
+        "url": "https://www.semanticscholar.org/paper/6120cc252bc74239012f11b8b075cb7cb16bee26",
+        "title": "An Introduction to Variational Methods for Graphical Models",
+        "venue": "Machine-mediated learning",
+        "year": 1999,
+        "referenceCount": 74,
+        "citationCount": 4654,
+        "authors": [
+          {
+            "authorId": "1694621",
+            "name": "Michael I. Jordan"
+          },
+          {
+            "authorId": "1744700",
+            "name": "Zoubin Ghahramani"
+          },
+          {
+            "authorId": "35132120",
+            "name": "T. Jaakkola"
+          },
+          {
+            "authorId": "1796044",
+            "name": "L. Saul"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "a9f7e6743220a3d3f1a86921cc61bceb4ece0918",
+        "externalIds": {
+          "MAG": "2294460823",
+          "DBLP": "conf/nips/Bishop98",
+          "CorpusId": 43329106
+        },
+        "url": "https://www.semanticscholar.org/paper/a9f7e6743220a3d3f1a86921cc61bceb4ece0918",
+        "title": "Bayesian PCA",
+        "venue": "Neural Information Processing Systems",
+        "year": 1998,
+        "referenceCount": 2,
+        "citationCount": 381,
+        "authors": [
+          {
+            "authorId": "1792884",
+            "name": "Charles M. Bishop"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "62f50ddebe9db1f12851e5cf56960c3fec46cb2f",
+        "externalIds": {
+          "MAG": "2017696952",
+          "DOI": "10.1080/01621459.1986.10478240",
+          "CorpusId": 275679150
+        },
+        "url": "https://www.semanticscholar.org/paper/62f50ddebe9db1f12851e5cf56960c3fec46cb2f",
+        "title": "Accurate Approximations for Posterior Moments and Marginal Densities",
+        "venue": "",
+        "year": 1986,
+        "referenceCount": 19,
+        "citationCount": 2250,
+        "authors": [
+          {
+            "authorId": "2340902299",
+            "name": "Luke Tierney"
+          },
+          {
+            "authorId": "1741375972",
+            "name": "J. Kadane"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "37e44d1de8003d8394d158ec6afd1ff0e87e595b",
+        "externalIds": {
+          "MAG": "2146855196",
+          "DOI": "10.1214/AOS/1176344136",
+          "CorpusId": 123722079
+        },
+        "url": "https://www.semanticscholar.org/paper/37e44d1de8003d8394d158ec6afd1ff0e87e595b",
+        "title": "Estimating the Dimension of a Model",
+        "venue": "",
+        "year": 1978,
+        "referenceCount": 4,
+        "citationCount": 47971,
+        "authors": [
+          {
+            "authorId": "2052516042",
+            "name": "G. Schwarz"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "143d2e02ab91ae6259576ac50b664b8647af8988",
+        "externalIds": {
+          "MAG": "2138309709",
+          "DOI": "10.1093/BIOMET/57.1.97",
+          "CorpusId": 21204149
+        },
+        "url": "https://www.semanticscholar.org/paper/143d2e02ab91ae6259576ac50b664b8647af8988",
+        "title": "Monte Carlo Sampling Methods Using Markov Chains and Their Applications",
+        "venue": "",
+        "year": 1970,
+        "referenceCount": 17,
+        "citationCount": 16591,
+        "authors": [
+          {
+            "authorId": "48491978",
+            "name": "W. Hastings"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "4574d77fff19e093782178595a8988a7f3aa1969",
+        "externalIds": {
+          "CorpusId": 3177797
+        },
+        "url": "https://www.semanticscholar.org/paper/4574d77fff19e093782178595a8988a7f3aa1969",
+        "title": "Latent Dirichlet Allocation",
+        "venue": "",
+        "year": 2009,
+        "referenceCount": 5,
+        "citationCount": 39269,
+        "authors": [
+          {
+            "authorId": "1796335",
+            "name": "D. Blei"
+          },
+          {
+            "authorId": "34699434",
+            "name": "A. Ng"
+          },
+          {
+            "authorId": "1694621",
+            "name": "Michael I. Jordan"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "Algebraic geometry and statistical learning theory",
+        "venue": "",
+        "year": 2009,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "a1fba67f147b16e3c4bffdab3cc6f17520c74547",
+        "externalIds": {
+          "MAG": "2091571775",
+          "DOI": "10.1049/CP:19991160",
+          "CorpusId": 13110506
+        },
+        "url": "https://www.semanticscholar.org/paper/a1fba67f147b16e3c4bffdab3cc6f17520c74547",
+        "title": "Variational principal components",
+        "venue": "",
+        "year": 1999,
+        "referenceCount": 7,
+        "citationCount": 326,
+        "authors": [
+          {
+            "authorId": "1792884",
+            "name": "Charles M. Bishop"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "Asymptotic statistics",
+        "venue": "Asymptotic statistics",
+        "year": 1998,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "965acb2c6b79a6ae607da8e7a7e8ab6f0fe63822",
+        "externalIds": {
+          "CorpusId": 851882
+        },
+        "url": "https://www.semanticscholar.org/paper/965acb2c6b79a6ae607da8e7a7e8ab6f0fe63822",
+        "title": "THIS IS A DRAFT VERSION. FINAL VERSION TO BE PUBLISHED AT NIPS ’06 A Collapsed Variational Bayesian Inference Algorithm for Latent Dirichlet Allocation",
+        "venue": "",
+        "year": null,
+        "referenceCount": 0,
+        "citationCount": 455,
+        "authors": []
+      }
+    }
+  ]
+}

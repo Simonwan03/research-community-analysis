@@ -1,0 +1,294 @@
+{
+  "total": 165,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "53d566fab75b01b0e44b3ccd7added16d520f89d",
+      "externalIds": {
+        "MAG": "2741753991",
+        "DBLP": "conf/icml/ZhuWZG17",
+        "CorpusId": 34945506
+      },
+      "url": "https://www.semanticscholar.org/paper/53d566fab75b01b0e44b3ccd7added16d520f89d",
+      "title": "High-Dimensional Variance-Reduced Stochastic Gradient Expectation-Maximization Algorithm",
+      "venue": "International Conference on Machine Learning",
+      "year": 2017,
+      "referenceCount": 25,
+      "citationCount": 26,
+      "authors": [
+        {
+          "authorId": "3039403",
+          "name": "Rongda Zhu"
+        },
+        {
+          "authorId": "2151976110",
+          "name": "Lingxiao Wang"
+        },
+        {
+          "authorId": "1736467",
+          "name": "ChengXiang Zhai"
+        },
+        {
+          "authorId": "9937103",
+          "name": "Quanquan Gu"
+        }
+      ]
+    },
+    {
+      "paperId": "7a6ef455683eaefd8ca1355db0f614292edc5757",
+      "externalIds": {
+        "CorpusId": 267861560
+      },
+      "url": "https://www.semanticscholar.org/paper/7a6ef455683eaefd8ca1355db0f614292edc5757",
+      "title": "OPT2020: 12th Annual Workshop on Optimization for Machine Learning Variance Reduced Stochastic Proximal Algorithm for AUC Maximization",
+      "venue": "",
+      "year": 2020,
+      "referenceCount": 18,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2281637777",
+          "name": "S. Dan"
+        },
+        {
+          "authorId": "3016352",
+          "name": "Dushyant Sahoo"
+        }
+      ]
+    },
+    {
+      "paperId": "ff871d53d2598602d99c75a89a757f4ffe9fb74d",
+      "externalIds": {
+        "ArXiv": "2501.04833",
+        "CorpusId": 275405749
+      },
+      "url": "https://www.semanticscholar.org/paper/ff871d53d2598602d99c75a89a757f4ffe9fb74d",
+      "title": "Multi-step Inertial Accelerated Doubly Stochastic Gradient Methods for Block Term Tensor Decomposition",
+      "venue": "",
+      "year": 2025,
+      "referenceCount": 0,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2277811047",
+          "name": "Zehui Liu"
+        },
+        {
+          "authorId": "2277782495",
+          "name": "Qingsong Wang"
+        },
+        {
+          "authorId": "2277742803",
+          "name": "Chunfeng Cui"
+        }
+      ]
+    },
+    {
+      "paperId": "17b7bbe1975d4797c787de1ea27100abd9ccb0b5",
+      "externalIds": {
+        "ArXiv": "1911.03548",
+        "DBLP": "journals/corr/abs-1911-03548",
+        "MAG": "2984946518",
+        "DOI": "10.1007/978-3-030-86523-8_12",
+        "CorpusId": 207852750
+      },
+      "url": "https://www.semanticscholar.org/paper/17b7bbe1975d4797c787de1ea27100abd9ccb0b5",
+      "title": "Variance Reduced Stochastic Proximal Algorithm for AUC Maximization",
+      "venue": "ECML/PKDD",
+      "year": 2019,
+      "referenceCount": 40,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "3420683",
+          "name": "Soham Dan"
+        },
+        {
+          "authorId": "3016352",
+          "name": "Dushyant Sahoo"
+        }
+      ]
+    },
+    {
+      "paperId": "67f4d4b2002ae5ee0c16b49344b62c97f671e2c4",
+      "externalIds": {
+        "PubMedCentral": "10705587",
+        "ArXiv": "2311.16100",
+        "DBLP": "journals/corr/abs-2311-16100",
+        "DOI": "10.1107/S205979832500511X",
+        "CorpusId": 265456155,
+        "PubMed": "40548951"
+      },
+      "url": "https://www.semanticscholar.org/paper/67f4d4b2002ae5ee0c16b49344b62c97f671e2c4",
+      "title": "Efficient high-resolution refinement in cryo-EM with stochastic gradient descent",
+      "venue": "Acta Crystallographica Section D: Structural Biology",
+      "year": 2023,
+      "referenceCount": 69,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "10443163",
+          "name": "B. Toader"
+        },
+        {
+          "authorId": "2575536",
+          "name": "Marcus A. Brubaker"
+        },
+        {
+          "authorId": "1798974",
+          "name": "Roy R. Lederman"
+        }
+      ]
+    },
+    {
+      "paperId": "05337cb49c3324000ea8dda96abdbbb029ff95d1",
+      "externalIds": {
+        "DBLP": "conf/icml/HuQG0Y23",
+        "ArXiv": "2305.18730",
+        "DOI": "10.48550/arXiv.2305.18730",
+        "CorpusId": 258967647
+      },
+      "url": "https://www.semanticscholar.org/paper/05337cb49c3324000ea8dda96abdbbb029ff95d1",
+      "title": "Blockwise Stochastic Variance-Reduced Methods with Parallel Speedup for Multi-Block Bilevel Optimization",
+      "venue": "International Conference on Machine Learning",
+      "year": 2023,
+      "referenceCount": 34,
+      "citationCount": 9,
+      "authors": [
+        {
+          "authorId": "2156351438",
+          "name": "Quanqi Hu"
+        },
+        {
+          "authorId": "1453536125",
+          "name": "Zimeng Qiu"
+        },
+        {
+          "authorId": "50815914",
+          "name": "Zhishuai Guo"
+        },
+        {
+          "authorId": "2143381978",
+          "name": "Lijun Zhang"
+        },
+        {
+          "authorId": "40381920",
+          "name": "Tianbao Yang"
+        }
+      ]
+    },
+    {
+      "paperId": "f927ac995b0173ac1485d67643d89dfe131535a7",
+      "externalIds": {
+        "DOI": "10.1121/10.0017164",
+        "CorpusId": 256749291,
+        "PubMed": "36859145"
+      },
+      "url": "https://www.semanticscholar.org/paper/f927ac995b0173ac1485d67643d89dfe131535a7",
+      "title": "Snapshot-deficient active target localization in beam-time domain using multi-frequency expectation-maximization algorithm.",
+      "venue": "Journal of the Acoustical Society of America",
+      "year": 2023,
+      "referenceCount": 19,
+      "citationCount": 7,
+      "authors": [
+        {
+          "authorId": "2149698933",
+          "name": "He Wang"
+        },
+        {
+          "authorId": "2146320301",
+          "name": "Ting Zhang"
+        },
+        {
+          "authorId": "2145342172",
+          "name": "Lei Cheng"
+        },
+        {
+          "authorId": "3390132",
+          "name": "Hangfang Zhao"
+        }
+      ]
+    },
+    {
+      "paperId": "d6164586056cfce941408829f25b62a854f55d3e",
+      "externalIds": {
+        "PubMedCentral": "8739528",
+        "DBLP": "journals/cin/Wu21e",
+        "DOI": "10.1155/2021/7962489",
+        "CorpusId": 245627028,
+        "PubMed": "35003248"
+      },
+      "url": "https://www.semanticscholar.org/paper/d6164586056cfce941408829f25b62a854f55d3e",
+      "title": "The Discrete Gaussian Expectation Maximization (Gradient) Algorithm for Differential Privacy",
+      "venue": "Computational Intelligence and Neuroscience",
+      "year": 2021,
+      "referenceCount": 19,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "2116300507",
+          "name": "Weisan Wu"
+        }
+      ]
+    },
+    {
+      "paperId": "1655c08453452b21a922e493ecc1aff38a679cd8",
+      "externalIds": {
+        "ArXiv": "2512.13017",
+        "CorpusId": 283896688
+      },
+      "url": "https://www.semanticscholar.org/paper/1655c08453452b21a922e493ecc1aff38a679cd8",
+      "title": "Hinge-Proximal Stochastic Gradient Methods for Convex Optimization with Functional Constraints",
+      "venue": "",
+      "year": 2025,
+      "referenceCount": 33,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "15886720",
+          "name": "Vaibhav Rajoriya"
+        },
+        {
+          "authorId": "121770523",
+          "name": "P. Pradhan"
+        },
+        {
+          "authorId": "2576161",
+          "name": "K. Rajawat"
+        }
+      ]
+    },
+    {
+      "paperId": "d83ecce02e1e2e1123bcdeea4980f91959bcf1fa",
+      "externalIds": {
+        "ArXiv": "2512.09055",
+        "CorpusId": 283721947
+      },
+      "url": "https://www.semanticscholar.org/paper/d83ecce02e1e2e1123bcdeea4980f91959bcf1fa",
+      "title": "BISTRO -- A Bi-Fidelity Stochastic Gradient Framework using Trust-Regions for Optimization Under Uncertainty",
+      "venue": "",
+      "year": 2025,
+      "referenceCount": 72,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2249763651",
+          "name": "Thomas O. Dixon"
+        },
+        {
+          "authorId": "29979092",
+          "name": "G. F. Bomarito"
+        },
+        {
+          "authorId": "2348386682",
+          "name": "James E. Warner"
+        },
+        {
+          "authorId": "2439226",
+          "name": "A. Gorodetsky"
+        }
+      ]
+    }
+  ]
+}

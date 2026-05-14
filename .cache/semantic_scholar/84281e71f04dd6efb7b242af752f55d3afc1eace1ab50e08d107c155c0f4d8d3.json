@@ -1,0 +1,317 @@
+{
+  "total": 1780,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "ccf8dd6f5602d0c2be46eab1bd0d04424aa060ef",
+      "externalIds": {
+        "MAG": "2963722050",
+        "ArXiv": "1804.02808",
+        "DBLP": "conf/icml/HaarnojaHAL18",
+        "CorpusId": 4718601
+      },
+      "url": "https://www.semanticscholar.org/paper/ccf8dd6f5602d0c2be46eab1bd0d04424aa060ef",
+      "title": "Latent Space Policies for Hierarchical Reinforcement Learning",
+      "venue": "International Conference on Machine Learning",
+      "year": 2018,
+      "referenceCount": 40,
+      "citationCount": 205,
+      "authors": [
+        {
+          "authorId": "2587648",
+          "name": "Tuomas Haarnoja"
+        },
+        {
+          "authorId": "41016704",
+          "name": "Kristian Hartikainen"
+        },
+        {
+          "authorId": "1689992",
+          "name": "P. Abbeel"
+        },
+        {
+          "authorId": "1736651",
+          "name": "S. Levine"
+        }
+      ]
+    },
+    {
+      "paperId": "e7069f324d16847e9939bded648032e54c8c9331",
+      "externalIds": {
+        "CorpusId": 203616404
+      },
+      "url": "https://www.semanticscholar.org/paper/e7069f324d16847e9939bded648032e54c8c9331",
+      "title": "10-708 Final Report:Investigating Max-Entropy Latent-Space Policiesfor Hierarchical Reinforcement Learning",
+      "venue": "",
+      "year": 2019,
+      "referenceCount": 17,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2103526858",
+          "name": "Siddharth Ancha sancha"
+        },
+        {
+          "authorId": "2102692337",
+          "name": "Mengxiong Liu mengxiol"
+        },
+        {
+          "authorId": "2101560593",
+          "name": "Xingyu Lin xlin"
+        }
+      ]
+    },
+    {
+      "paperId": "284dc52d96fcc9fccedc7867fd9e71468f904914",
+      "externalIds": {
+        "ArXiv": "2306.08388",
+        "DBLP": "journals/ral/HaoWTKTZ24",
+        "DOI": "10.1109/LRA.2024.3368231",
+        "CorpusId": 259165614
+      },
+      "url": "https://www.semanticscholar.org/paper/284dc52d96fcc9fccedc7867fd9e71468f904914",
+      "title": "Skill-Critic: Refining Learned Skills for Hierarchical Reinforcement Learning",
+      "venue": "IEEE Robotics and Automation Letters",
+      "year": 2023,
+      "referenceCount": 37,
+      "citationCount": 12,
+      "authors": [
+        {
+          "authorId": "1410290215",
+          "name": "Ce Hao"
+        },
+        {
+          "authorId": "2191077325",
+          "name": "Catherine Weaver"
+        },
+        {
+          "authorId": "1491105028",
+          "name": "Chen Tang"
+        },
+        {
+          "authorId": "3042725",
+          "name": "Kenta Kawamoto"
+        },
+        {
+          "authorId": "1680165",
+          "name": "M. Tomizuka"
+        },
+        {
+          "authorId": "144267500",
+          "name": "Wei Zhan"
+        }
+      ]
+    },
+    {
+      "paperId": "58750c7e5856c2f95f1f61b853c3d31768e7bc7e",
+      "externalIds": {
+        "DBLP": "journals/apin/ZhouCTZ22",
+        "DOI": "10.1007/s10489-021-03093-9",
+        "CorpusId": 248006710
+      },
+      "url": "https://www.semanticscholar.org/paper/58750c7e5856c2f95f1f61b853c3d31768e7bc7e",
+      "title": "Screening goals and selecting policies in hierarchical reinforcement learning",
+      "venue": "Applied intelligence (Boston)",
+      "year": 2022,
+      "referenceCount": 33,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2151553866",
+          "name": "Junyan Zhou"
+        },
+        {
+          "authorId": "2155658396",
+          "name": "Jing Chen"
+        },
+        {
+          "authorId": "48428848",
+          "name": "Yanfeng Tong"
+        },
+        {
+          "authorId": "2297733291",
+          "name": "Junrui Zhang"
+        }
+      ]
+    },
+    {
+      "paperId": "c9a1683036449708ec32d574ef151c7e2e2e604b",
+      "externalIds": {
+        "ArXiv": "2504.06983",
+        "DBLP": "journals/corr/abs-2504-06983",
+        "DOI": "10.48550/arXiv.2504.06983",
+        "CorpusId": 277634329
+      },
+      "url": "https://www.semanticscholar.org/paper/c9a1683036449708ec32d574ef151c7e2e2e604b",
+      "title": "Free Random Projection for In-Context Reinforcement Learning",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "referenceCount": 81,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "41017338",
+          "name": "Tomohiro Hayase"
+        },
+        {
+          "authorId": "2354337546",
+          "name": "Benoit Collins"
+        },
+        {
+          "authorId": "2262445410",
+          "name": "Nakamasa Inoue"
+        }
+      ]
+    },
+    {
+      "paperId": "0d6c52ac0424321e08cee82dd2ccb1fe0e826c01",
+      "externalIds": {
+        "MAG": "3003817470",
+        "ArXiv": "1905.08926",
+        "DBLP": "journals/corr/abs-1905-08926",
+        "DOI": "10.1109/IROS40897.2019.8967913",
+        "CorpusId": 162168723
+      },
+      "url": "https://www.semanticscholar.org/paper/0d6c52ac0424321e08cee82dd2ccb1fe0e826c01",
+      "title": "Hierarchical Reinforcement Learning for Quadruped Locomotion",
+      "venue": "IEEE/RJS International Conference on Intelligent RObots and Systems",
+      "year": 2019,
+      "referenceCount": 19,
+      "citationCount": 68,
+      "authors": [
+        {
+          "authorId": "2058985645",
+          "name": "Deepali Jain"
+        },
+        {
+          "authorId": "2106754",
+          "name": "Atil Iscen"
+        },
+        {
+          "authorId": "2758571",
+          "name": "Ken Caluwaerts"
+        }
+      ]
+    },
+    {
+      "paperId": "1447cb195033be291674a44a07eb18ee894c23eb",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-1901-01365",
+        "MAG": "2907385442",
+        "ArXiv": "1901.01365",
+        "CorpusId": 57573766
+      },
+      "url": "https://www.semanticscholar.org/paper/1447cb195033be291674a44a07eb18ee894c23eb",
+      "title": "Hierarchical Reinforcement Learning via Advantage-Weighted Information Maximization",
+      "venue": "International Conference on Learning Representations",
+      "year": 2019,
+      "referenceCount": 41,
+      "citationCount": 32,
+      "authors": [
+        {
+          "authorId": "40229316",
+          "name": "Takayuki Osa"
+        },
+        {
+          "authorId": "1801873",
+          "name": "Voot Tangkaratt"
+        },
+        {
+          "authorId": "67154907",
+          "name": "Masashi Sugiyama"
+        }
+      ]
+    },
+    {
+      "paperId": "45afe2d85f2896ce569be0d27678edcff68017e2",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2107-01518",
+        "ArXiv": "2107.01518",
+        "DOI": "10.1109/LRA.2022.3143198",
+        "CorpusId": 235731737
+      },
+      "url": "https://www.semanticscholar.org/paper/45afe2d85f2896ce569be0d27678edcff68017e2",
+      "title": "Hierarchical Policies for Cluttered-Scene Grasping with Latent Plans",
+      "venue": "IEEE Robotics and Automation Letters",
+      "year": 2021,
+      "referenceCount": 57,
+      "citationCount": 29,
+      "authors": [
+        {
+          "authorId": "2108537099",
+          "name": "Lirui Wang"
+        },
+        {
+          "authorId": "144863550",
+          "name": "Yu Xiang"
+        },
+        {
+          "authorId": "145197953",
+          "name": "D. Fox"
+        }
+      ]
+    },
+    {
+      "paperId": "80c30e8d65e2d8e371752443453130656451ec34",
+      "externalIds": {
+        "PubMedCentral": "12819167",
+        "DOI": "10.3389/frobt.2025.1737238",
+        "CorpusId": 284612198,
+        "PubMed": "41574201"
+      },
+      "url": "https://www.semanticscholar.org/paper/80c30e8d65e2d8e371752443453130656451ec34",
+      "title": "LG-H-PPO: offline hierarchical PPO for robot path planning on a latent graph",
+      "venue": "Frontiers in Robotics and AI",
+      "year": 2026,
+      "referenceCount": 17,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "2404523759",
+          "name": "Xiang Han"
+        }
+      ]
+    },
+    {
+      "paperId": "a396c6d86efa55c91894fdd3b700142142f9efdb",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2306-08388",
+        "DOI": "10.48550/arXiv.2306.08388",
+        "CorpusId": 271515727
+      },
+      "url": "https://www.semanticscholar.org/paper/a396c6d86efa55c91894fdd3b700142142f9efdb",
+      "title": "Skill-Critic: Refining Learned Skills for Reinforcement Learning",
+      "venue": "arXiv.org",
+      "year": 2023,
+      "referenceCount": 40,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "2284988306",
+          "name": "Ce Hao"
+        },
+        {
+          "authorId": "2191077325",
+          "name": "Catherine Weaver"
+        },
+        {
+          "authorId": "1491105028",
+          "name": "Chen Tang"
+        },
+        {
+          "authorId": "2284991199",
+          "name": "Kenta Kawamoto"
+        },
+        {
+          "authorId": "2245825283",
+          "name": "Masayoshi Tomizuka"
+        },
+        {
+          "authorId": "144267500",
+          "name": "Wei Zhan"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,278 @@
+{
+  "total": 26,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "ffd32c9768f98a00ec4808c95aeda4394c5001cb",
+      "externalIds": {
+        "MAG": "2963738422",
+        "ArXiv": "1606.00906",
+        "DBLP": "conf/icml/SuLCC16",
+        "CorpusId": 10033699
+      },
+      "url": "https://www.semanticscholar.org/paper/ffd32c9768f98a00ec4808c95aeda4394c5001cb",
+      "title": "Nonlinear Statistical Learning with Truncated Gaussian Graphical Models",
+      "venue": "International Conference on Machine Learning",
+      "year": 2016,
+      "referenceCount": 36,
+      "citationCount": 12,
+      "authors": [
+        {
+          "authorId": "2482836",
+          "name": "Qinliang Su"
+        },
+        {
+          "authorId": "2585822",
+          "name": "X. Liao"
+        },
+        {
+          "authorId": "1752041",
+          "name": "Changyou Chen"
+        },
+        {
+          "authorId": "145006560",
+          "name": "L. Carin"
+        }
+      ]
+    },
+    {
+      "paperId": "779fe7962d5076b8ac21d0e363b0921edbdca832",
+      "externalIds": {
+        "CorpusId": 13075627
+      },
+      "url": "https://www.semanticscholar.org/paper/779fe7962d5076b8ac21d0e363b0921edbdca832",
+      "title": "Supplementary of \" Nonlinear Statistical Learning with Truncated Gaussian Graphical Models \" 1. Training Tggm for Classification",
+      "venue": "",
+      "year": null,
+      "referenceCount": 2,
+      "citationCount": 0,
+      "authors": []
+    },
+    {
+      "paperId": "b3c3647d272872c09da2db1aae70b9e101e11111",
+      "externalIds": {
+        "MAG": "2963442159",
+        "DBLP": "journals/corr/SuLLGC16",
+        "ArXiv": "1611.04920",
+        "DOI": "10.1609/aaai.v31i1.10815",
+        "CorpusId": 17090536
+      },
+      "url": "https://www.semanticscholar.org/paper/b3c3647d272872c09da2db1aae70b9e101e11111",
+      "title": "Unsupervised Learning with Truncated Gaussian Graphical Models",
+      "venue": "AAAI Conference on Artificial Intelligence",
+      "year": 2016,
+      "referenceCount": 37,
+      "citationCount": 8,
+      "authors": [
+        {
+          "authorId": "2482836",
+          "name": "Qinliang Su"
+        },
+        {
+          "authorId": "2585822",
+          "name": "X. Liao"
+        },
+        {
+          "authorId": "2109737569",
+          "name": "Chunyuan Li"
+        },
+        {
+          "authorId": "144702900",
+          "name": "Zhe Gan"
+        },
+        {
+          "authorId": "145006560",
+          "name": "L. Carin"
+        }
+      ]
+    },
+    {
+      "paperId": "35637f07f0b0b55624bd1e56eda8bc42cd8d63c3",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2307-09366",
+        "ArXiv": "2307.09366",
+        "DOI": "10.48550/arXiv.2307.09366",
+        "CorpusId": 259950793
+      },
+      "url": "https://www.semanticscholar.org/paper/35637f07f0b0b55624bd1e56eda8bc42cd8d63c3",
+      "title": "Sparse Gaussian Graphical Models with Discrete Optimization: Computational and Statistical Perspectives",
+      "venue": "Operational Research",
+      "year": 2023,
+      "referenceCount": 48,
+      "citationCount": 5,
+      "authors": [
+        {
+          "authorId": "10706882",
+          "name": "Kayhan Behdin"
+        },
+        {
+          "authorId": "2144302707",
+          "name": "Wenyu Chen"
+        },
+        {
+          "authorId": "48912652",
+          "name": "R. Mazumder"
+        }
+      ]
+    },
+    {
+      "paperId": "5992ae5c11f8e600c974d1ce596162b97b514429",
+      "externalIds": {
+        "ArXiv": "2510.04276",
+        "DBLP": "journals/corr/abs-2510-04276",
+        "DOI": "10.48550/arXiv.2510.04276",
+        "CorpusId": 281843205
+      },
+      "url": "https://www.semanticscholar.org/paper/5992ae5c11f8e600c974d1ce596162b97b514429",
+      "title": "Scalable Causal Discovery from Recursive Nonlinear Data via Truncated Basis Function Scores and Tests",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "referenceCount": 32,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2262218356",
+          "name": "Joseph Ramsey"
+        },
+        {
+          "authorId": "2323510096",
+          "name": "Bryan Andrews"
+        }
+      ]
+    },
+    {
+      "paperId": "9297c2e29d900e285d8f55e8a130039f5a7e3a4e",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2307-03210",
+        "ArXiv": "2307.03210",
+        "DOI": "10.48550/arXiv.2307.03210",
+        "CorpusId": 259375462
+      },
+      "url": "https://www.semanticscholar.org/paper/9297c2e29d900e285d8f55e8a130039f5a7e3a4e",
+      "title": "Sparse Graphical Linear Dynamical Systems",
+      "venue": "Journal of machine learning research",
+      "year": 2023,
+      "referenceCount": 85,
+      "citationCount": 12,
+      "authors": [
+        {
+          "authorId": "102425592",
+          "name": "É. Chouzenoux"
+        },
+        {
+          "authorId": "145303926",
+          "name": "V. Elvira"
+        }
+      ]
+    },
+    {
+      "paperId": "114918314254d9e1d357fe51a30de1ca75f6a598",
+      "externalIds": {
+        "PubMedCentral": "12676262",
+        "ArXiv": "2208.06528",
+        "DBLP": "journals/jmlr/Banerjee0FZ25",
+        "CorpusId": 251564023,
+        "PubMed": "41355847"
+      },
+      "url": "https://www.semanticscholar.org/paper/114918314254d9e1d357fe51a30de1ca75f6a598",
+      "title": "Dynamic Bayesian Learning for Spatiotemporal Mechanistic Models",
+      "venue": "Journal of machine learning research",
+      "year": 2022,
+      "referenceCount": 99,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "153564613",
+          "name": "S. Banerjee"
+        },
+        {
+          "authorId": "2143736467",
+          "name": "Xiang Chen"
+        },
+        {
+          "authorId": "2047714083",
+          "name": "Ian Frankenburg"
+        },
+        {
+          "authorId": "2116949622",
+          "name": "Daniel Zhou"
+        }
+      ]
+    },
+    {
+      "paperId": "bebc254c4df111027d49a00bf2cf2c71a86edec2",
+      "externalIds": {
+        "MAG": "2983186485",
+        "DBLP": "phd/es/Fernandez-Gonzalez19",
+        "DOI": "10.20868/upm.thesis.56990",
+        "CorpusId": 209950586
+      },
+      "url": "https://www.semanticscholar.org/paper/bebc254c4df111027d49a00bf2cf2c71a86edec2",
+      "title": "Developments in probabilistic graphical models, circular distributions and theory of random forests with applications in neuroscience",
+      "venue": "",
+      "year": 2019,
+      "referenceCount": 0,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "1435053896",
+          "name": "P. Fernández-González"
+        }
+      ]
+    },
+    {
+      "paperId": "dd813e5262cd2971ae78ea35a87b37e3a2021daf",
+      "externalIds": {
+        "MAG": "3100015806",
+        "DBLP": "journals/spm/MateosSMR19",
+        "ArXiv": "1810.13066",
+        "DOI": "10.1109/MSP.2018.2890143",
+        "CorpusId": 70257385
+      },
+      "url": "https://www.semanticscholar.org/paper/dd813e5262cd2971ae78ea35a87b37e3a2021daf",
+      "title": "Connecting the Dots: Identifying Network Structure via Graph Signal Processing",
+      "venue": "IEEE Signal Processing Magazine",
+      "year": 2018,
+      "referenceCount": 62,
+      "citationCount": 383,
+      "authors": [
+        {
+          "authorId": "144328356",
+          "name": "G. Mateos"
+        },
+        {
+          "authorId": "2262891",
+          "name": "Santiago Segarra"
+        },
+        {
+          "authorId": "145135725",
+          "name": "A. Marques"
+        },
+        {
+          "authorId": "144461639",
+          "name": "Alejandro Ribeiro"
+        }
+      ]
+    },
+    {
+      "paperId": "48a6705ab9a5dabe37c67fe0ed9b826ee8b15439",
+      "externalIds": {
+        "DOI": "10.1007/s11600-022-00963-9",
+        "CorpusId": 254218721
+      },
+      "url": "https://www.semanticscholar.org/paper/48a6705ab9a5dabe37c67fe0ed9b826ee8b15439",
+      "title": "Evaluation of the performance of data-driven approaches for filling monthly precipitation gaps in a semi-arid climate conditions",
+      "venue": "Acta Geophysica",
+      "year": 2022,
+      "referenceCount": 85,
+      "citationCount": 11,
+      "authors": [
+        {
+          "authorId": "94985814",
+          "name": "O. Katipoğlu"
+        }
+      ]
+    }
+  ]
+}

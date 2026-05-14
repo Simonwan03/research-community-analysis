@@ -1,0 +1,313 @@
+{
+  "total": 977,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "854d382e5a1e9a691b026d29331c6a19f854a488",
+      "externalIds": {
+        "ArXiv": "1605.07991",
+        "MAG": "2949974810",
+        "DBLP": "conf/icml/WangKS017",
+        "CorpusId": 1729999
+      },
+      "url": "https://www.semanticscholar.org/paper/854d382e5a1e9a691b026d29331c6a19f854a488",
+      "title": "Efficient Distributed Learning with Sparsity",
+      "venue": "International Conference on Machine Learning",
+      "year": 2016,
+      "referenceCount": 53,
+      "citationCount": 171,
+      "authors": [
+        {
+          "authorId": "1809306",
+          "name": "Jialei Wang"
+        },
+        {
+          "authorId": "1682383",
+          "name": "M. Kolar"
+        },
+        {
+          "authorId": "1706280",
+          "name": "N. Srebro"
+        },
+        {
+          "authorId": "2146324552",
+          "name": "Tong Zhang"
+        }
+      ]
+    },
+    {
+      "paperId": "001288472fc275eeb035da4ba9bd9ec97ec6e9f7",
+      "externalIds": {
+        "DBLP": "journals/access/PanL21",
+        "DOI": "10.1109/ACCESS.2021.3075686",
+        "CorpusId": 233877224
+      },
+      "url": "https://www.semanticscholar.org/paper/001288472fc275eeb035da4ba9bd9ec97ec6e9f7",
+      "title": "Efficient Distributed Learning for Large-Scale Expectile Regression With Sparsity",
+      "venue": "IEEE Access",
+      "year": 2021,
+      "referenceCount": 32,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "152270990",
+          "name": "Yingli Pan"
+        },
+        {
+          "authorId": "1453924341",
+          "name": "Zhanxu Liu"
+        }
+      ]
+    },
+    {
+      "paperId": "9155e55042ae469c60a485b014c656feb1116739",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2510-26709",
+        "ArXiv": "2510.26709",
+        "DOI": "10.1109/CloudCom67567.2025.11331331",
+        "CorpusId": 282592844
+      },
+      "url": "https://www.semanticscholar.org/paper/9155e55042ae469c60a485b014c656feb1116739",
+      "title": "An All-Reduce Compatible Top-$K$ Compressor for Communication-Efficient Distributed Learning",
+      "venue": "International Conference on Cloud Computing",
+      "year": 2025,
+      "referenceCount": 38,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2326066641",
+          "name": "Chuyan Chen"
+        },
+        {
+          "authorId": "2373586751",
+          "name": "Chenyang Ma"
+        },
+        {
+          "authorId": "2245921927",
+          "name": "Zhangxin Li"
+        },
+        {
+          "authorId": "2382027883",
+          "name": "Yutong He"
+        },
+        {
+          "authorId": "2389233503",
+          "name": "Yanjie Dong"
+        },
+        {
+          "authorId": "2325956526",
+          "name": "Kun Yuan"
+        }
+      ]
+    },
+    {
+      "paperId": "cc42bee1c22757691df80d478c7e99709e2fb390",
+      "externalIds": {
+        "DBLP": "journals/sac/ChenZ24",
+        "DOI": "10.1007/s11222-024-10470-0",
+        "CorpusId": 271344913
+      },
+      "url": "https://www.semanticscholar.org/paper/cc42bee1c22757691df80d478c7e99709e2fb390",
+      "title": "Byzantine-robust and efficient distributed sparsity learning: a surrogate composite quantile regression approach",
+      "venue": "Statistics and computing",
+      "year": 2024,
+      "referenceCount": 21,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2312403239",
+          "name": "Canyi Chen"
+        },
+        {
+          "authorId": "2312825190",
+          "name": "Zhengtian Zhu"
+        }
+      ]
+    },
+    {
+      "paperId": "2f0f056d2b49b864f63df87e55c80d3fb0c9caab",
+      "externalIds": {
+        "DBLP": "journals/tccn/TianZLB26",
+        "ArXiv": "2504.17520",
+        "DOI": "10.1109/TCCN.2025.3564354",
+        "CorpusId": 278032891
+      },
+      "url": "https://www.semanticscholar.org/paper/2f0f056d2b49b864f63df87e55c80d3fb0c9caab",
+      "title": "Communication-Efficient Personalized Distributed Learning With Data and Node Heterogeneity",
+      "venue": "IEEE Transactions on Cognitive Communications and Networking",
+      "year": 2025,
+      "referenceCount": 43,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "2259525",
+          "name": "Zhuojun Tian"
+        },
+        {
+          "authorId": "2156120439",
+          "name": "Zhaoyang Zhang"
+        },
+        {
+          "authorId": "2111161416",
+          "name": "Yiwei Li"
+        },
+        {
+          "authorId": "2288551462",
+          "name": "Mehdi Bennis"
+        }
+      ]
+    },
+    {
+      "paperId": "a48bb57151c529ac61344a60887ef6e1c12610b3",
+      "externalIds": {
+        "DBLP": "conf/cpal/KariotakisTTK24",
+        "CorpusId": 270280391
+      },
+      "url": "https://www.semanticscholar.org/paper/a48bb57151c529ac61344a60887ef6e1c12610b3",
+      "title": "Leveraging Sparse Input and Sparse Models: Efficient Distributed Learning in Resource-Constrained Environments",
+      "venue": "CPAL",
+      "year": 2024,
+      "referenceCount": 98,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2264623518",
+          "name": "E. Kariotakis"
+        },
+        {
+          "authorId": "47952527",
+          "name": "G. Tsagkatakis"
+        },
+        {
+          "authorId": "1694755",
+          "name": "P. Tsakalides"
+        },
+        {
+          "authorId": "2126894228",
+          "name": "Anastasios Kyrillidis"
+        }
+      ]
+    },
+    {
+      "paperId": "e18d5f485493ba6f4720adb07a117fda4fb683a7",
+      "externalIds": {
+        "MAG": "2979489348",
+        "DBLP": "journals/ml/ZhouCP20",
+        "DOI": "10.1007/s10994-019-05847-6",
+        "CorpusId": 203852614
+      },
+      "url": "https://www.semanticscholar.org/paper/e18d5f485493ba6f4720adb07a117fda4fb683a7",
+      "title": "Communication-efficient distributed multi-task learning with matrix sparsity regularization",
+      "venue": "Machine-mediated learning",
+      "year": 2019,
+      "referenceCount": 42,
+      "citationCount": 4,
+      "authors": [
+        {
+          "authorId": "2118355549",
+          "name": "Qiang Zhou"
+        },
+        {
+          "authorId": "2144838980",
+          "name": "Yu Chen"
+        },
+        {
+          "authorId": "1746914",
+          "name": "Sinno Jialin Pan"
+        }
+      ]
+    },
+    {
+      "paperId": "f9aeb85783ba26b67cb2a70ad7231e93b960b5f5",
+      "externalIds": {
+        "DBLP": "journals/jcgs/WangWGW25",
+        "DOI": "10.1080/10618600.2024.2406301",
+        "CorpusId": 272899145,
+        "PubMed": "40496250"
+      },
+      "url": "https://www.semanticscholar.org/paper/f9aeb85783ba26b67cb2a70ad7231e93b960b5f5",
+      "title": "Efficient Nonparametric Estimation of 3D Point Cloud Signals through Distributed Learning",
+      "venue": "Journal of Computational And Graphical Statistics",
+      "year": 2024,
+      "referenceCount": 53,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "2298546312",
+          "name": "Guannan Wang"
+        },
+        {
+          "authorId": "2118453000",
+          "name": "Yuchun Wang"
+        },
+        {
+          "authorId": "2298520101",
+          "name": "Annie S. Gao"
+        },
+        {
+          "authorId": "2272458316",
+          "name": "Li Wang"
+        }
+      ]
+    },
+    {
+      "paperId": "4552886e4e1073760e2e273ffa72246b83d8c7b3",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2602-03839",
+        "ArXiv": "2602.03839",
+        "DOI": "10.48550/arXiv.2602.03839",
+        "CorpusId": 285275603
+      },
+      "url": "https://www.semanticscholar.org/paper/4552886e4e1073760e2e273ffa72246b83d8c7b3",
+      "title": "Understanding and Exploiting Weight Update Sparsity for Communication-Efficient Distributed RL",
+      "venue": "arXiv.org",
+      "year": 2026,
+      "referenceCount": 39,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2408532859",
+          "name": "Erfan Miahi"
+        },
+        {
+          "authorId": "2064781956",
+          "name": "Eugene Belilovsky"
+        }
+      ]
+    },
+    {
+      "paperId": "0d5aa9734c218f8e69aec923da17541036251b99",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2505-18563",
+        "ArXiv": "2505.18563",
+        "DOI": "10.1109/DAC63849.2025.11133419",
+        "CorpusId": 278904456
+      },
+      "url": "https://www.semanticscholar.org/paper/0d5aa9734c218f8e69aec923da17541036251b99",
+      "title": "PacTrain: Pruning and Adaptive Sparse Gradient Compression for Efficient Collective Communication in Distributed Deep Learning",
+      "venue": "Design Automation Conference",
+      "year": 2025,
+      "referenceCount": 47,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2317116613",
+          "name": "Yisu Wang"
+        },
+        {
+          "authorId": "2318257137",
+          "name": "Ruilong Wu"
+        },
+        {
+          "authorId": "2363506343",
+          "name": "Xinjiao Li"
+        },
+        {
+          "authorId": "2317117820",
+          "name": "Dirk Kutscher"
+        }
+      ]
+    }
+  ]
+}

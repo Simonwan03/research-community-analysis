@@ -1,0 +1,313 @@
+{
+  "total": 232,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "089eb7d7e6524ed3038ee8287670c0ee88bb80d7",
+      "externalIds": {
+        "MAG": "2803106361",
+        "DBLP": "conf/icml/ArenzZN18",
+        "CorpusId": 51868658
+      },
+      "url": "https://www.semanticscholar.org/paper/089eb7d7e6524ed3038ee8287670c0ee88bb80d7",
+      "title": "Efficient Gradient-Free Variational Inference using Policy Search",
+      "venue": "International Conference on Machine Learning",
+      "year": 2018,
+      "referenceCount": 32,
+      "citationCount": 50,
+      "authors": [
+        {
+          "authorId": "7931507",
+          "name": "O. Arenz"
+        },
+        {
+          "authorId": "40452788",
+          "name": "Mingjun Zhong"
+        },
+        {
+          "authorId": "26599977",
+          "name": "G. Neumann"
+        }
+      ]
+    },
+    {
+      "paperId": "080c0901528609b3bb44155bc146deb2d2f8311c",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2509-24716",
+        "ArXiv": "2509.24716",
+        "DOI": "10.48550/arXiv.2509.24716",
+        "CorpusId": 281675717
+      },
+      "url": "https://www.semanticscholar.org/paper/080c0901528609b3bb44155bc146deb2d2f8311c",
+      "title": "Discrete Variational Autoencoding via Policy Search",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "referenceCount": 38,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2315985086",
+          "name": "Michael Drolet"
+        },
+        {
+          "authorId": "2150500936",
+          "name": "Firas Al-Hafez"
+        },
+        {
+          "authorId": "2314117578",
+          "name": "Aditya Bhatt"
+        },
+        {
+          "authorId": "2367652242",
+          "name": "Jan Peters"
+        },
+        {
+          "authorId": "7931507",
+          "name": "O. Arenz"
+        }
+      ]
+    },
+    {
+      "paperId": "d1f2cdb9522ad3da101e8a14e4c291a74768e367",
+      "externalIds": {
+        "DOI": "10.1007/s44430-025-00004-2",
+        "CorpusId": 279510250
+      },
+      "url": "https://www.semanticscholar.org/paper/d1f2cdb9522ad3da101e8a14e4c291a74768e367",
+      "title": "Model-free trajectory tracking control of a 5-DOF mitsubishi robotic arm using deep deterministic policy gradient algorithm",
+      "venue": "Discover Robotics",
+      "year": 2025,
+      "referenceCount": 36,
+      "citationCount": 11,
+      "authors": [
+        {
+          "authorId": "2295460601",
+          "name": "Zied Ben Hazem"
+        },
+        {
+          "authorId": "2275414446",
+          "name": "Nivine Guler"
+        },
+        {
+          "authorId": "2347480097",
+          "name": "Ali Husain Altaif"
+        }
+      ]
+    },
+    {
+      "paperId": "70f136afc8b409406001dea7cf49224f378edb83",
+      "externalIds": {
+        "ArXiv": "2408.16429",
+        "DBLP": "journals/corr/abs-2408-16429",
+        "DOI": "10.48550/arXiv.2408.16429",
+        "CorpusId": 272146276
+      },
+      "url": "https://www.semanticscholar.org/paper/70f136afc8b409406001dea7cf49224f378edb83",
+      "title": "Gradient-free variational learning with conditional mixture networks",
+      "venue": "arXiv.org",
+      "year": 2024,
+      "referenceCount": 50,
+      "citationCount": 4,
+      "authors": [
+        {
+          "authorId": "2075155698",
+          "name": "Conor Heins"
+        },
+        {
+          "authorId": "2303839221",
+          "name": "Hao Wu"
+        },
+        {
+          "authorId": "2267240546",
+          "name": "Dimitrije Markovic"
+        },
+        {
+          "authorId": "1391776846",
+          "name": "Alexander Tschantz"
+        },
+        {
+          "authorId": "2317984433",
+          "name": "Jeff Beck"
+        },
+        {
+          "authorId": "2267243501",
+          "name": "Christopher L. Buckley"
+        }
+      ]
+    },
+    {
+      "paperId": "2bcd5c38a7c77985b08dae221fbd6265c2a66688",
+      "externalIds": {
+        "ArXiv": "2602.23561",
+        "DBLP": "journals/corr/abs-2602-23561",
+        "DOI": "10.48550/arXiv.2602.23561",
+        "CorpusId": 286171618
+      },
+      "url": "https://www.semanticscholar.org/paper/2bcd5c38a7c77985b08dae221fbd6265c2a66688",
+      "title": "VaSST: Variational Inference for Symbolic Regression using Soft Symbolic Trees",
+      "venue": "arXiv.org",
+      "year": 2026,
+      "referenceCount": 44,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2354291201",
+          "name": "Somjit Roy"
+        },
+        {
+          "authorId": "2354251932",
+          "name": "Pritam Dey"
+        },
+        {
+          "authorId": "2267220300",
+          "name": "B. K. Mallick"
+        }
+      ]
+    },
+    {
+      "paperId": "6ae07a3da5cd613cf008b9edb0de2219b1327115",
+      "externalIds": {
+        "DBLP": "journals/pami/YangGFYL25",
+        "DOI": "10.1109/TPAMI.2024.3511936",
+        "CorpusId": 274624061,
+        "PubMed": "40030447"
+      },
+      "url": "https://www.semanticscholar.org/paper/6ae07a3da5cd613cf008b9edb0de2219b1327115",
+      "title": "Spiking Variational Policy Gradient for Brain Inspired Reinforcement Learning",
+      "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+      "year": 2024,
+      "referenceCount": 0,
+      "citationCount": 8,
+      "authors": [
+        {
+          "authorId": "2136405836",
+          "name": "Zhile Yang"
+        },
+        {
+          "authorId": "2237598383",
+          "name": "Shangqi Guo"
+        },
+        {
+          "authorId": "2278207585",
+          "name": "Ying Fang"
+        },
+        {
+          "authorId": "2268182133",
+          "name": "Zhaofei Yu"
+        },
+        {
+          "authorId": "2267233479",
+          "name": "Jian K. Liu"
+        }
+      ]
+    },
+    {
+      "paperId": "589047ec02f30a81c5057de30ef9a84a92fe0928",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2209-02550",
+        "ArXiv": "2209.02550",
+        "DOI": "10.48550/arXiv.2209.02550",
+        "CorpusId": 252089882
+      },
+      "url": "https://www.semanticscholar.org/paper/589047ec02f30a81c5057de30ef9a84a92fe0928",
+      "title": "Efficient search of active inference policy spaces using k-means",
+      "venue": "International Workshop on Affective Interactions",
+      "year": 2022,
+      "referenceCount": 24,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "40160956",
+          "name": "Alex B. Kiefer"
+        },
+        {
+          "authorId": "2120063574",
+          "name": "Mahault Albarracin"
+        }
+      ]
+    },
+    {
+      "paperId": "86bf612f7547c709a56fa736a465f47e61ed6f2f",
+      "externalIds": {
+        "CorpusId": 35764850
+      },
+      "url": "https://www.semanticscholar.org/paper/86bf612f7547c709a56fa736a465f47e61ed6f2f",
+      "title": "Combine Monte Carlo with Exhaustive Search : Effective Variational Inference and Policy Gradient Reinforcement Learning",
+      "venue": "",
+      "year": 2016,
+      "referenceCount": 10,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "1722732",
+          "name": "Michalis K. Titsias"
+        }
+      ]
+    },
+    {
+      "paperId": "6f728db2b5541fca5ebc61fcd258a331698b4d37",
+      "externalIds": {
+        "DBLP": "journals/technometrics/HuangLWO26",
+        "DOI": "10.1080/00401706.2025.2560344",
+        "CorpusId": 281272215
+      },
+      "url": "https://www.semanticscholar.org/paper/6f728db2b5541fca5ebc61fcd258a331698b4d37",
+      "title": "A Local Variational Inference Framework for the Orthogonal Gaussian Process Calibration",
+      "venue": "Technometrics",
+      "year": 2025,
+      "referenceCount": 33,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2154906551",
+          "name": "Jingru Huang"
+        },
+        {
+          "authorId": "2175782350",
+          "name": "Hui Lan"
+        },
+        {
+          "authorId": "2152551217",
+          "name": "Yan Wang"
+        },
+        {
+          "authorId": "3057454",
+          "name": "Linhan Ouyang"
+        }
+      ]
+    },
+    {
+      "paperId": "f8fad4ffa635dbdc8c719f38c000bc1ab7edcea2",
+      "externalIds": {
+        "DBLP": "journals/ijcv/MaZXT24",
+        "DOI": "10.1007/s11263-024-02014-w",
+        "CorpusId": 269356100
+      },
+      "url": "https://www.semanticscholar.org/paper/f8fad4ffa635dbdc8c719f38c000bc1ab7edcea2",
+      "title": "VNAS: Variational Neural Architecture Search",
+      "venue": "International Journal of Computer Vision",
+      "year": 2024,
+      "referenceCount": 91,
+      "citationCount": 13,
+      "authors": [
+        {
+          "authorId": "2290065527",
+          "name": "Benteng Ma"
+        },
+        {
+          "authorId": "1519066969",
+          "name": "Jing Zhang"
+        },
+        {
+          "authorId": "2269766119",
+          "name": "Yong Xia"
+        },
+        {
+          "authorId": "2265778066",
+          "name": "Dacheng Tao"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "total": 2,
+  "offset": 0,
+  "data": [
+    {
+      "paperId": "d17a3e9f34125ba6454e365ffe403ce8a91f2632",
+      "externalIds": {
+        "MAG": "2785791552",
+        "DBLP": "journals/corr/abs-1802-03801",
+        "ArXiv": "1802.03801",
+        "CorpusId": 3614471
+      },
+      "url": "https://www.semanticscholar.org/paper/d17a3e9f34125ba6454e365ffe403ce8a91f2632",
+      "title": "SGD and Hogwild! Convergence Without the Bounded Gradients Assumption",
+      "venue": "International Conference on Machine Learning",
+      "year": 2018,
+      "referenceCount": 24,
+      "citationCount": 246,
+      "authors": [
+        {
+          "authorId": "144274166",
+          "name": "Lam M. Nguyen"
+        },
+        {
+          "authorId": "143671628",
+          "name": "Phuong Ha Nguyen"
+        },
+        {
+          "authorId": "144534186",
+          "name": "Marten van Dijk"
+        },
+        {
+          "authorId": "2662221",
+          "name": "Peter Richtárik"
+        },
+        {
+          "authorId": "2005127",
+          "name": "K. Scheinberg"
+        },
+        {
+          "authorId": "144696183",
+          "name": "Martin Takác"
+        }
+      ]
+    },
+    {
+      "paperId": "3a4644eb61011591af72bf80e8320b65c28c6874",
+      "externalIds": {
+        "MAG": "2902905070",
+        "ArXiv": "1811.12403",
+        "DBLP": "journals/corr/abs-1811-12403",
+        "CorpusId": 53988046
+      },
+      "url": "https://www.semanticscholar.org/paper/3a4644eb61011591af72bf80e8320b65c28c6874",
+      "title": "New Convergence Aspects of Stochastic Gradient Algorithms",
+      "venue": "Journal of machine learning research",
+      "year": 2018,
+      "referenceCount": 24,
+      "citationCount": 75,
+      "authors": [
+        {
+          "authorId": "144274166",
+          "name": "Lam M. Nguyen"
+        },
+        {
+          "authorId": "143671628",
+          "name": "Phuong Ha Nguyen"
+        },
+        {
+          "authorId": "2662221",
+          "name": "Peter Richtárik"
+        },
+        {
+          "authorId": "2005127",
+          "name": "K. Scheinberg"
+        },
+        {
+          "authorId": "144696183",
+          "name": "Martin Takác"
+        },
+        {
+          "authorId": "144534186",
+          "name": "Marten van Dijk"
+        }
+      ]
+    }
+  ]
+}

@@ -1,4 +1,4 @@
-"""Configuration for the Semantic Scholar paper citation graph pipeline."""
+"""Configuration for building an internal citation graph from DBLP papers."""
 
 from __future__ import annotations
 
@@ -18,13 +18,11 @@ class ApiConfig:
     backoff_base_seconds: float = 2.0
     search_limit: int = 10
     reference_page_size: int = 1000
-    batch_size: int = 100
-    max_workers: int = 4
 
 
 @dataclass(frozen=True)
 class MatchConfig:
-    """Paper matching thresholds and feature weights."""
+    """Thresholds and weights used during DBLP -> Semantic Scholar matching."""
 
     title_weight: float = 0.72
     year_weight: float = 0.18
@@ -38,36 +36,24 @@ class MatchConfig:
 
 @dataclass(frozen=True)
 class PathConfig:
-    """Default input, output, and cache paths."""
+    """Default input, output, and cache locations."""
 
-    default_input_path: Path = Path("data/dblp_papers.jsonl")
-    output_dir: Path = Path("outputs")
+    default_input_path: Path = Path("data/dblp_ai_authors_2015_2025/papers.csv")
+    output_dir: Path = Path("paper_citation_graph/outputs")
     cache_dir: Path = Path(".cache/semantic_scholar")
 
     resolved_papers_name: str = "resolved_papers.jsonl"
     unmatched_papers_name: str = "unmatched_papers.jsonl"
-    paper_metadata_name: str = "paper_metadata.jsonl"
     paper_references_name: str = "paper_references.jsonl"
+    internal_edges_name: str = "internal_citation_edges.csv"
     graphml_name: str = "paper_graph.graphml"
-    gpickle_name: str = "paper_graph.gpickle"
     summary_name: str = "summary.json"
 
 
 @dataclass(frozen=True)
 class FieldConfig:
-    """Semantic Scholar fields requested by the pipeline."""
+    """Fields requested from Semantic Scholar."""
 
-    search_fields: tuple[str, ...] = (
-        "paperId",
-        "title",
-        "year",
-        "authors",
-        "externalIds",
-        "venue",
-        "url",
-        "citationCount",
-        "referenceCount",
-    )
     paper_fields: tuple[str, ...] = (
         "paperId",
         "title",
@@ -94,7 +80,7 @@ class FieldConfig:
 
 @dataclass(frozen=True)
 class PipelineConfig:
-    """All configuration used by the pipeline."""
+    """Top-level pipeline configuration."""
 
     api: ApiConfig = field(default_factory=ApiConfig)
     match: MatchConfig = field(default_factory=MatchConfig)

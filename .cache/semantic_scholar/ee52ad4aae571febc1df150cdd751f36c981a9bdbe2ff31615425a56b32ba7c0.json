@@ -1,0 +1,345 @@
+{
+  "total": 10,
+  "offset": 0,
+  "data": [
+    {
+      "paperId": "0d7ac81195dbf23ac46f57512f8532705f91fe83",
+      "externalIds": {
+        "DBLP": "conf/icml/0001JCCJ18",
+        "MAG": "2953000172",
+        "ArXiv": "1711.08001",
+        "CorpusId": 47004899
+      },
+      "url": "https://www.semanticscholar.org/paper/0d7ac81195dbf23ac46f57512f8532705f91fe83",
+      "title": "Reinforcing Adversarial Robustness using Model Confidence Induced by Adversarial Training",
+      "venue": "International Conference on Machine Learning",
+      "year": 2017,
+      "referenceCount": 16,
+      "citationCount": 22,
+      "authors": [
+        {
+          "authorId": "37785191",
+          "name": "Xi Wu"
+        },
+        {
+          "authorId": "29901423",
+          "name": "Uyeong Jang"
+        },
+        {
+          "authorId": "152425941",
+          "name": "Jiefeng Chen"
+        },
+        {
+          "authorId": "2119322954",
+          "name": "Lingjiao Chen"
+        },
+        {
+          "authorId": "1680133",
+          "name": "S. Jha"
+        }
+      ]
+    },
+    {
+      "paperId": "27b1ef0f02788d0927eba39c45bb66f59b2b4d3d",
+      "externalIds": {
+        "ArXiv": "2510.13643",
+        "DBLP": "journals/corr/abs-2510-13643",
+        "DOI": "10.48550/arXiv.2510.13643",
+        "CorpusId": 282102581
+      },
+      "url": "https://www.semanticscholar.org/paper/27b1ef0f02788d0927eba39c45bb66f59b2b4d3d",
+      "title": "Towards Adversarial Robustness and Uncertainty Quantification in DINOv2-based Few-Shot Anomaly Detection",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "referenceCount": 38,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2281695128",
+          "name": "Akib Khan"
+        },
+        {
+          "authorId": "2385787907",
+          "name": "Bartosz Krawczyk"
+        }
+      ]
+    },
+    {
+      "paperId": "76f7c502d89eaa9892f03f118ce0687258c7767d",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2512-20865",
+        "ArXiv": "2512.20865",
+        "DOI": "10.48550/arXiv.2512.20865",
+        "CorpusId": 284153713
+      },
+      "url": "https://www.semanticscholar.org/paper/76f7c502d89eaa9892f03f118ce0687258c7767d",
+      "title": "Robustness Certificates for Neural Networks against Adversarial Attacks",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "referenceCount": 36,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2400547824",
+          "name": "Sara Taheri"
+        },
+        {
+          "authorId": "2131039173",
+          "name": "Mahalakshmi Sabanayagam"
+        },
+        {
+          "authorId": "2261310",
+          "name": "D. Ghoshdastidar"
+        },
+        {
+          "authorId": "2299383723",
+          "name": "Majid Zamani"
+        }
+      ]
+    },
+    {
+      "paperId": "812013492d86adaa5e6043e9ef30a7123f25ead8",
+      "externalIds": {
+        "MAG": "3066878117",
+        "ArXiv": "2008.07838",
+        "DBLP": "journals/kbs/WangCTYZZW21",
+        "DOI": "10.1016/j.knosys.2021.107141",
+        "CorpusId": 221150610
+      },
+      "url": "https://www.semanticscholar.org/paper/812013492d86adaa5e6043e9ef30a7123f25ead8",
+      "title": "Improving adversarial robustness of deep neural networks by using semantic information",
+      "venue": "Knowledge-Based Systems",
+      "year": 2020,
+      "referenceCount": 72,
+      "citationCount": 18,
+      "authors": [
+        {
+          "authorId": "2143383338",
+          "name": "Lina Wang"
+        },
+        {
+          "authorId": "47043933",
+          "name": "Rui Tang"
+        },
+        {
+          "authorId": "2105584305",
+          "name": "Yawei Yue"
+        },
+        {
+          "authorId": "1859168",
+          "name": "Xingshu Chen"
+        },
+        {
+          "authorId": "2158505663",
+          "name": "Wei Wang"
+        },
+        {
+          "authorId": "2377268077",
+          "name": "Yi Zhu"
+        },
+        {
+          "authorId": "145656493",
+          "name": "Xuemei Zeng"
+        }
+      ]
+    },
+    {
+      "paperId": "3777510f23315849c9a7fb5badba32b6cf7cb516",
+      "externalIds": {
+        "ArXiv": "2209.14053",
+        "DBLP": "conf/wacv/LeeL23",
+        "DOI": "10.1109/WACV56688.2023.00453",
+        "CorpusId": 252567954
+      },
+      "url": "https://www.semanticscholar.org/paper/3777510f23315849c9a7fb5badba32b6cf7cb516",
+      "title": "Inducing Data Amplification Using Auxiliary Datasets in Adversarial Training",
+      "venue": "IEEE Workshop/Winter Conference on Applications of Computer Vision",
+      "year": 2022,
+      "referenceCount": 44,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "6732273",
+          "name": "Saehyung Lee"
+        },
+        {
+          "authorId": "2203023269",
+          "name": "Hyungyu Lee"
+        }
+      ]
+    },
+    {
+      "paperId": "75fefc519b932d839d9780790370c5b06e0380aa",
+      "externalIds": {
+        "DBLP": "conf/ijcnn/LiuJYLMLW24",
+        "DOI": "10.1109/IJCNN60899.2024.10650921",
+        "CorpusId": 272537062
+      },
+      "url": "https://www.semanticscholar.org/paper/75fefc519b932d839d9780790370c5b06e0380aa",
+      "title": "Offline Textual Adversarial Attacks against Large Language Models",
+      "venue": "IEEE International Joint Conference on Neural Network",
+      "year": 2024,
+      "referenceCount": 32,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2110169274",
+          "name": "Huijun Liu"
+        },
+        {
+          "authorId": "1511715446",
+          "name": "Bin Ji"
+        },
+        {
+          "authorId": "2116457427",
+          "name": "Jie Yu"
+        },
+        {
+          "authorId": "1484986130",
+          "name": "Shasha Li"
+        },
+        {
+          "authorId": "2152610427",
+          "name": "Jun Ma"
+        },
+        {
+          "authorId": "2185825081",
+          "name": "Miaomiao Li"
+        },
+        {
+          "authorId": "2282003266",
+          "name": "Xi Wang"
+        }
+      ]
+    },
+    {
+      "paperId": "8ecf4044ffff157673f929b891076c3fb905b6ce",
+      "externalIds": {
+        "ArXiv": "2508.10908",
+        "DBLP": "journals/corr/abs-2508-10908",
+        "DOI": "10.48550/arXiv.2508.10908",
+        "CorpusId": 280671442
+      },
+      "url": "https://www.semanticscholar.org/paper/8ecf4044ffff157673f929b891076c3fb905b6ce",
+      "title": "Data-driven global ocean model resolving ocean-atmosphere coupling dynamics",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "referenceCount": 53,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2116929825",
+          "name": "Jeong-Hwan Kim"
+        },
+        {
+          "authorId": "2284032538",
+          "name": "Daehyun Kang"
+        },
+        {
+          "authorId": "2257253653",
+          "name": "Young-Min Yang"
+        },
+        {
+          "authorId": "2347040418",
+          "name": "Jae-Heung Park"
+        },
+        {
+          "authorId": "2296646129",
+          "name": "Yoo-Geun Ham"
+        }
+      ]
+    },
+    {
+      "paperId": "97eddf3ef938d22684016f8fa8ec14c944be4972",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2107-03315",
+        "ArXiv": "2107.03315",
+        "DOI": "10.1109/ICCV48922.2021.00117",
+        "CorpusId": 235755343
+      },
+      "url": "https://www.semanticscholar.org/paper/97eddf3ef938d22684016f8fa8ec14c944be4972",
+      "title": "Predicting with Confidence on Unseen Distributions",
+      "venue": "IEEE International Conference on Computer Vision",
+      "year": 2021,
+      "referenceCount": 65,
+      "citationCount": 141,
+      "authors": [
+        {
+          "authorId": "3493957",
+          "name": "Devin Guillory"
+        },
+        {
+          "authorId": "34961417",
+          "name": "Vaishaal Shankar"
+        },
+        {
+          "authorId": "27556211",
+          "name": "Sayna Ebrahimi"
+        },
+        {
+          "authorId": "1753210",
+          "name": "Trevor Darrell"
+        },
+        {
+          "authorId": "152772922",
+          "name": "Ludwig Schmidt"
+        }
+      ]
+    },
+    {
+      "paperId": "9e9ed5b08218f24ca6e11afaf9a1dce823eba163",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2302-03294",
+        "DOI": "10.48550/arXiv.2302.03294",
+        "CorpusId": 256627276
+      },
+      "url": "https://www.semanticscholar.org/paper/9e9ed5b08218f24ca6e11afaf9a1dce823eba163",
+      "title": "Scalable Gaussian process regression enables accurate prediction of protein and small molecule properties with uncertainty quantitation",
+      "venue": "arXiv.org",
+      "year": 2023,
+      "referenceCount": 84,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "2069052400",
+          "name": "J. Parkinson"
+        },
+        {
+          "authorId": "47825073",
+          "name": "Wen Wang"
+        }
+      ]
+    },
+    {
+      "paperId": "2a750eb3c92205e98d46d8da38611ef3c168df3b",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2202-13610",
+        "CorpusId": 247158388
+      },
+      "url": "https://www.semanticscholar.org/paper/2a750eb3c92205e98d46d8da38611ef3c168df3b",
+      "title": "Detecting Stance in Scientific Papers: Did we get more Negative Recently?",
+      "venue": "arXiv.org",
+      "year": 2022,
+      "referenceCount": 74,
+      "citationCount": 4,
+      "authors": [
+        {
+          "authorId": "2156584008",
+          "name": "Dominik Beese"
+        },
+        {
+          "authorId": "2156583561",
+          "name": "Begum Altunbacs"
+        },
+        {
+          "authorId": "2156583505",
+          "name": "Gorkem Guzeler"
+        },
+        {
+          "authorId": "2620186",
+          "name": "Steffen Eger"
+        }
+      ]
+    }
+  ]
+}

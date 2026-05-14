@@ -1,0 +1,213 @@
+{
+  "total": 7,
+  "offset": 0,
+  "data": [
+    {
+      "paperId": "8423bffcadb398119aad7987fbb92096362ec297",
+      "externalIds": {
+        "MAG": "2803953503",
+        "DBLP": "conf/icml/KleindessnerA18",
+        "CorpusId": 49187071
+      },
+      "url": "https://www.semanticscholar.org/paper/8423bffcadb398119aad7987fbb92096362ec297",
+      "title": "Crowdsourcing with Arbitrary Adversaries",
+      "venue": "International Conference on Machine Learning",
+      "year": 2018,
+      "referenceCount": 28,
+      "citationCount": 25,
+      "authors": [
+        {
+          "authorId": "2871632",
+          "name": "Matthäus Kleindessner"
+        },
+        {
+          "authorId": "144030228",
+          "name": "Pranjal Awasthi"
+        }
+      ]
+    },
+    {
+      "paperId": "fe86cedfcb4bf90a52c66789b0521cee26e94a64",
+      "externalIds": {
+        "ArXiv": "2110.04117",
+        "DBLP": "conf/icdm/TraganitisG21",
+        "DOI": "10.1109/ICDM51629.2021.00174",
+        "CorpusId": 238531407
+      },
+      "url": "https://www.semanticscholar.org/paper/fe86cedfcb4bf90a52c66789b0521cee26e94a64",
+      "title": "Detecting adversaries in Crowdsourcing",
+      "venue": "Industrial Conference on Data Mining",
+      "year": 2021,
+      "referenceCount": 42,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "2025955",
+          "name": "Panagiotis A. Traganitis"
+        },
+        {
+          "authorId": "144321300",
+          "name": "G. Giannakis"
+        }
+      ]
+    },
+    {
+      "paperId": "2ac11a0b84580e88bb8c6e5edb38c92fe1456864",
+      "externalIds": {
+        "MAG": "2623427976",
+        "DOI": "10.1109/THS.2017.7943475",
+        "CorpusId": 43625028
+      },
+      "url": "https://www.semanticscholar.org/paper/2ac11a0b84580e88bb8c6e5edb38c92fe1456864",
+      "title": "How to steal a machine learning classifier with deep learning",
+      "venue": "IEEE International Conference on Technologies for Homeland Security",
+      "year": 2017,
+      "referenceCount": 15,
+      "citationCount": 97,
+      "authors": [
+        {
+          "authorId": "2118897349",
+          "name": "Yi Shi"
+        },
+        {
+          "authorId": "3099456",
+          "name": "Y. Sagduyu"
+        },
+        {
+          "authorId": "143960345",
+          "name": "Alexander Grushin"
+        }
+      ]
+    },
+    {
+      "paperId": "3233a971dc5fee45568f63f6b6a1cac1d1ada66f",
+      "externalIds": {
+        "MAG": "2761817502",
+        "DBLP": "journals/jmlr/JagabathulaSV17",
+        "CorpusId": 1101958
+      },
+      "url": "https://www.semanticscholar.org/paper/3233a971dc5fee45568f63f6b6a1cac1d1ada66f",
+      "title": "Identifying Unreliable and Adversarial Workers in Crowdsourced Labeling Tasks",
+      "venue": "Journal of machine learning research",
+      "year": 2017,
+      "referenceCount": 58,
+      "citationCount": 43,
+      "authors": [
+        {
+          "authorId": "1890199",
+          "name": "Srikanth Jagabathula"
+        },
+        {
+          "authorId": "1710917",
+          "name": "L. Subramanian"
+        },
+        {
+          "authorId": "2064029849",
+          "name": "Ashwin Venkataraman"
+        }
+      ]
+    },
+    {
+      "paperId": "11fe33206746251656698bf5188fc622aea7fc21",
+      "externalIds": {
+        "ArXiv": "2008.00312",
+        "MAG": "3046664463",
+        "DBLP": "journals/corr/abs-2008-00312",
+        "DOI": "10.1109/EuroSP51992.2021.00022",
+        "CorpusId": 220936152
+      },
+      "url": "https://www.semanticscholar.org/paper/11fe33206746251656698bf5188fc622aea7fc21",
+      "title": "Trojaning Language Models for Fun and Profit",
+      "venue": "European Symposium on Security and Privacy",
+      "year": 2020,
+      "referenceCount": 78,
+      "citationCount": 164,
+      "authors": [
+        {
+          "authorId": null,
+          "name": "Xinyang Zhang"
+        },
+        {
+          "authorId": "1852415",
+          "name": "Zheng Zhang"
+        },
+        {
+          "authorId": "2155389584",
+          "name": "Ting Wang"
+        }
+      ]
+    },
+    {
+      "paperId": "97b3d9aff4d6d7bc318241c4ee53b051a0d8566f",
+      "externalIds": {
+        "MAG": "3035217427",
+        "DBLP": "conf/icml/KonstantinovFAL20",
+        "ArXiv": "2002.10384",
+        "CorpusId": 211259266
+      },
+      "url": "https://www.semanticscholar.org/paper/97b3d9aff4d6d7bc318241c4ee53b051a0d8566f",
+      "title": "On the Sample Complexity of Adversarial Multi-Source PAC Learning",
+      "venue": "International Conference on Machine Learning",
+      "year": 2020,
+      "referenceCount": 35,
+      "citationCount": 18,
+      "authors": [
+        {
+          "authorId": "145292827",
+          "name": "Nikola Konstantinov"
+        },
+        {
+          "authorId": "1502248377",
+          "name": "Elias Frantar"
+        },
+        {
+          "authorId": "3311387",
+          "name": "Dan Alistarh"
+        },
+        {
+          "authorId": "1787591",
+          "name": "Christoph H. Lampert"
+        }
+      ]
+    },
+    {
+      "paperId": "d616e02a9082444baa5000c3634e669ea6b8c7cb",
+      "externalIds": {
+        "DOI": "10.1109/ICCC51575.2020.9344933",
+        "CorpusId": 231920750
+      },
+      "url": "https://www.semanticscholar.org/paper/d616e02a9082444baa5000c3634e669ea6b8c7cb",
+      "title": "On the Security of a Proxy-free Privacy-preserving Task Matching with Efficient Revocation",
+      "venue": "2020 IEEE 6th International Conference on Computer and Communications (ICCC)",
+      "year": 2020,
+      "referenceCount": 26,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "1684276",
+          "name": "Jianhong Zhang"
+        },
+        {
+          "authorId": "2193464272",
+          "name": "Zian Yan"
+        },
+        {
+          "authorId": "2049403715",
+          "name": "Zhaorui Deng"
+        },
+        {
+          "authorId": "2049497725",
+          "name": "Haoting Han"
+        },
+        {
+          "authorId": "2109910654",
+          "name": "Jing Cao"
+        },
+        {
+          "authorId": "145328763",
+          "name": "Zhengtao Jiang"
+        }
+      ]
+    }
+  ]
+}

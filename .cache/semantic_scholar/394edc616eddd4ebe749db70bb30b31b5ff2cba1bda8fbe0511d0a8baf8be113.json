@@ -1,0 +1,273 @@
+{
+  "total": 352,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "e4f416308aaf660723765105d04996716f50da0e",
+      "externalIds": {
+        "DBLP": "conf/icml/WinnerSS17",
+        "MAG": "2739643589",
+        "CorpusId": 8726564
+      },
+      "url": "https://www.semanticscholar.org/paper/e4f416308aaf660723765105d04996716f50da0e",
+      "title": "Exact Inference for Integer Latent-Variable Models",
+      "venue": "International Conference on Machine Learning",
+      "year": 2017,
+      "referenceCount": 29,
+      "citationCount": 5,
+      "authors": [
+        {
+          "authorId": "2118209",
+          "name": "Kevin Winner"
+        },
+        {
+          "authorId": "20479351",
+          "name": "D. Sujono"
+        },
+        {
+          "authorId": "144799908",
+          "name": "D. Sheldon"
+        }
+      ]
+    },
+    {
+      "paperId": "e223e4cb30da9cb360089227a13350a6778ec3ea",
+      "externalIds": {
+        "ArXiv": "1806.03207",
+        "DBLP": "conf/icml/SheldonWS18",
+        "MAG": "2964235583",
+        "CorpusId": 47013498
+      },
+      "url": "https://www.semanticscholar.org/paper/e223e4cb30da9cb360089227a13350a6778ec3ea",
+      "title": "Learning in Integer Latent Variable Models with Nested Automatic Differentiation",
+      "venue": "International Conference on Machine Learning",
+      "year": 2018,
+      "referenceCount": 19,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "144799908",
+          "name": "D. Sheldon"
+        },
+        {
+          "authorId": "2118209",
+          "name": "Kevin Winner"
+        },
+        {
+          "authorId": "20479351",
+          "name": "D. Sujono"
+        }
+      ]
+    },
+    {
+      "paperId": "7ea215302304bb9a73b7f3dc4b4c684be82d8070",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2404-19501",
+        "ArXiv": "2404.19501",
+        "DOI": "10.48550/arXiv.2404.19501",
+        "CorpusId": 269456973
+      },
+      "url": "https://www.semanticscholar.org/paper/7ea215302304bb9a73b7f3dc4b4c684be82d8070",
+      "title": "A Unified Theory of Exact Inference and Learning in Exponential Family Latent Variable Models",
+      "venue": "arXiv.org",
+      "year": 2024,
+      "referenceCount": 71,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "3228409",
+          "name": "Sacha Sokoloski"
+        }
+      ]
+    },
+    {
+      "paperId": "6adc89d759f89b47beda575e107f7073a6ac7b23",
+      "externalIds": {
+        "ArXiv": "2506.01893",
+        "CorpusId": 279119971
+      },
+      "url": "https://www.semanticscholar.org/paper/6adc89d759f89b47beda575e107f7073a6ac7b23",
+      "title": "Variational Inference for Latent Variable Models in High Dimensions",
+      "venue": "",
+      "year": 2025,
+      "referenceCount": 0,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "11185074",
+          "name": "Chenyang Zhong"
+        },
+        {
+          "authorId": "4435021",
+          "name": "S. Mukherjee"
+        },
+        {
+          "authorId": "2249529876",
+          "name": "Bodhisattva Sen"
+        }
+      ]
+    },
+    {
+      "paperId": "3a33ec6fb1d946c2c916e9076025b73bfefc2d34",
+      "externalIds": {
+        "ArXiv": "2502.19839",
+        "CorpusId": 276647587
+      },
+      "url": "https://www.semanticscholar.org/paper/3a33ec6fb1d946c2c916e9076025b73bfefc2d34",
+      "title": "Fast Variational Boosting for Latent Variable Models",
+      "venue": "",
+      "year": 2025,
+      "referenceCount": 38,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "144861521",
+          "name": "D. Gunawan"
+        },
+        {
+          "authorId": "34750239",
+          "name": "D. Nott"
+        },
+        {
+          "authorId": "2286918619",
+          "name": "Robert Kohn"
+        }
+      ]
+    },
+    {
+      "paperId": "1986daa831dd3d31707e327db8303c32d0687f05",
+      "externalIds": {
+        "ArXiv": "2404.04074",
+        "DBLP": "journals/sac/MukherjeeCB25",
+        "DOI": "10.1007/s11222-025-10644-4",
+        "CorpusId": 268987498
+      },
+      "url": "https://www.semanticscholar.org/paper/1986daa831dd3d31707e327db8303c32d0687f05",
+      "title": "DGP-LVM: Derivative Gaussian process latent variable models",
+      "venue": "Statistics and computing",
+      "year": 2024,
+      "referenceCount": 40,
+      "citationCount": 4,
+      "authors": [
+        {
+          "authorId": "2295793260",
+          "name": "Soham Mukherjee"
+        },
+        {
+          "authorId": "2295510979",
+          "name": "M. Claassen"
+        },
+        {
+          "authorId": "7414550",
+          "name": "P. Bürkner"
+        }
+      ]
+    },
+    {
+      "paperId": "51da8db95e11f8a7c6704028d4bfad239a28e468",
+      "externalIds": {
+        "DBLP": "journals/spl/SagheerLB24",
+        "DOI": "10.1109/LSP.2024.3425280",
+        "CorpusId": 271124635
+      },
+      "url": "https://www.semanticscholar.org/paper/51da8db95e11f8a7c6704028d4bfad239a28e468",
+      "title": "Wirtinger Calculus-Based Expectation Propagation in Latent Variable Models Applied to Grant-Free NOMA",
+      "venue": "IEEE Signal Processing Letters",
+      "year": 2024,
+      "referenceCount": 18,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2182912532",
+          "name": "Fakher Sagheer"
+        },
+        {
+          "authorId": "2184810925",
+          "name": "Frédéric Lehmann"
+        },
+        {
+          "authorId": "2279913201",
+          "name": "Antoine O. Berthet"
+        }
+      ]
+    },
+    {
+      "paperId": "2a5759bbf098aca4504d7907cca33645e30a8665",
+      "externalIds": {
+        "MAG": "3156383708",
+        "DBLP": "journals/ml/GaddWS21",
+        "DOI": "10.1007/s10994-021-05971-2",
+        "CorpusId": 234835180
+      },
+      "url": "https://www.semanticscholar.org/paper/2a5759bbf098aca4504d7907cca33645e30a8665",
+      "title": "Pseudo-marginal Bayesian inference for Gaussian process latent variable models",
+      "venue": "Machine-mediated learning",
+      "year": 2021,
+      "referenceCount": 31,
+      "citationCount": 4,
+      "authors": [
+        {
+          "authorId": "40892942",
+          "name": "C. Gadd"
+        },
+        {
+          "authorId": "2331321098",
+          "name": "Sara Wade"
+        },
+        {
+          "authorId": "2260146918",
+          "name": "Akeel A. Shah"
+        }
+      ]
+    },
+    {
+      "paperId": "587de91a2c5e37b2b9453081d9daa9ebe5a1db96",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-1802-04826",
+        "MAG": "2963209089",
+        "ArXiv": "1802.04826",
+        "CorpusId": 3668446
+      },
+      "url": "https://www.semanticscholar.org/paper/587de91a2c5e37b2b9453081d9daa9ebe5a1db96",
+      "title": "Leveraging the Exact Likelihood of Deep Latent Variable Models",
+      "venue": "Neural Information Processing Systems",
+      "year": 2018,
+      "referenceCount": 76,
+      "citationCount": 70,
+      "authors": [
+        {
+          "authorId": "32768756",
+          "name": "Pierre-Alexandre Mattei"
+        },
+        {
+          "authorId": "3010230",
+          "name": "J. Frellsen"
+        }
+      ]
+    },
+    {
+      "paperId": "992922b4d1ec5da08107932d550077cdb42566c7",
+      "externalIds": {
+        "DOI": "10.1111/jtsa.12812",
+        "CorpusId": 275521849
+      },
+      "url": "https://www.semanticscholar.org/paper/992922b4d1ec5da08107932d550077cdb42566c7",
+      "title": "High‐Frequency Instruments and Identification‐Robust Inference for Stochastic Volatility Models",
+      "venue": "Journal of Time Series Analysis",
+      "year": 2025,
+      "referenceCount": 142,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2285832423",
+          "name": "Md. Nazmul Ahsan"
+        },
+        {
+          "authorId": "2340061633",
+          "name": "Jean‐Marie Dufour"
+        }
+      ]
+    }
+  ]
+}

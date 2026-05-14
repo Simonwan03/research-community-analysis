@@ -1,0 +1,327 @@
+{
+  "total": 1193,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "acffbcb997ce73bf63e2b5a8d928b287357d4f4f",
+      "externalIds": {
+        "MAG": "2950331142",
+        "ArXiv": "1603.06160",
+        "DBLP": "journals/corr/ReddiHSPS16",
+        "CorpusId": 5230337
+      },
+      "url": "https://www.semanticscholar.org/paper/acffbcb997ce73bf63e2b5a8d928b287357d4f4f",
+      "title": "Stochastic Variance Reduction for Nonconvex Optimization",
+      "venue": "International Conference on Machine Learning",
+      "year": 2016,
+      "referenceCount": 42,
+      "citationCount": 649,
+      "authors": [
+        {
+          "authorId": "1981186",
+          "name": "Sashank J. Reddi"
+        },
+        {
+          "authorId": "145253835",
+          "name": "Ahmed S. Hefny"
+        },
+        {
+          "authorId": "3072326",
+          "name": "S. Sra"
+        },
+        {
+          "authorId": "1719347",
+          "name": "B. Póczos"
+        },
+        {
+          "authorId": "46234526",
+          "name": "Alex Smola"
+        }
+      ]
+    },
+    {
+      "paperId": "65f0e9db55f498bb196de3950393f5ded14bcc72",
+      "externalIds": {
+        "MAG": "2950947614",
+        "DBLP": "journals/corr/abs-1805-10367",
+        "ArXiv": "1805.10367",
+        "CorpusId": 44080680
+      },
+      "url": "https://www.semanticscholar.org/paper/65f0e9db55f498bb196de3950393f5ded14bcc72",
+      "title": "Zeroth-Order Stochastic Variance Reduction for Nonconvex Optimization",
+      "venue": "Neural Information Processing Systems",
+      "year": 2018,
+      "referenceCount": 39,
+      "citationCount": 225,
+      "authors": [
+        {
+          "authorId": "48641828",
+          "name": "Sijia Liu"
+        },
+        {
+          "authorId": "1749353",
+          "name": "B. Kailkhura"
+        },
+        {
+          "authorId": "153191489",
+          "name": "Pin-Yu Chen"
+        },
+        {
+          "authorId": "122829443",
+          "name": "Pai-Shun Ting"
+        },
+        {
+          "authorId": "3307026",
+          "name": "Shiyu Chang"
+        },
+        {
+          "authorId": "2004600",
+          "name": "Lisa Amini"
+        }
+      ]
+    },
+    {
+      "paperId": "8a8f790d3b463ca9e9bd9bccce65acefd04ae467",
+      "externalIds": {
+        "DBLP": "conf/aaai/FangL17",
+        "MAG": "2604421180",
+        "DOI": "10.1609/aaai.v31i1.10651",
+        "CorpusId": 29169224
+      },
+      "url": "https://www.semanticscholar.org/paper/8a8f790d3b463ca9e9bd9bccce65acefd04ae467",
+      "title": "Parallel Asynchronous Stochastic Variance Reduction for Nonconvex Optimization",
+      "venue": "AAAI Conference on Artificial Intelligence",
+      "year": 2017,
+      "referenceCount": 22,
+      "citationCount": 13,
+      "authors": [
+        {
+          "authorId": "47967033",
+          "name": "Cong Fang"
+        },
+        {
+          "authorId": "33383055",
+          "name": "Zhouchen Lin"
+        }
+      ]
+    },
+    {
+      "paperId": "2abacaad34a880919ca6144cf77e962edb7625a6",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-1806-07811",
+        "MAG": "3024230214",
+        "ArXiv": "1806.07811",
+        "CorpusId": 49324056
+      },
+      "url": "https://www.semanticscholar.org/paper/2abacaad34a880919ca6144cf77e962edb7625a6",
+      "title": "Stochastic Nested Variance Reduction for Nonconvex Optimization",
+      "venue": "Journal of machine learning research",
+      "year": 2018,
+      "referenceCount": 91,
+      "citationCount": 161,
+      "authors": [
+        {
+          "authorId": "35972566",
+          "name": "Dongruo Zhou"
+        },
+        {
+          "authorId": "47568847",
+          "name": "Pan Xu"
+        },
+        {
+          "authorId": "9937103",
+          "name": "Quanquan Gu"
+        }
+      ]
+    },
+    {
+      "paperId": "c410522a8ab9ecdaf6be44d30acfe0bd10f26cb4",
+      "externalIds": {
+        "MAG": "2912488710",
+        "DBLP": "journals/corr/abs-1902-02715",
+        "ArXiv": "1902.02715",
+        "CorpusId": 59608776
+      },
+      "url": "https://www.semanticscholar.org/paper/c410522a8ab9ecdaf6be44d30acfe0bd10f26cb4",
+      "title": "Momentum Schemes with Stochastic Variance Reduction for Nonconvex Composite Optimization",
+      "venue": "arXiv.org",
+      "year": 2019,
+      "referenceCount": 28,
+      "citationCount": 14,
+      "authors": [
+        {
+          "authorId": "2118764630",
+          "name": "Yi Zhou"
+        },
+        {
+          "authorId": "2108194537",
+          "name": "Zhe Wang"
+        },
+        {
+          "authorId": "24006255",
+          "name": "Kaiyi Ji"
+        },
+        {
+          "authorId": "50014661",
+          "name": "Yingbin Liang"
+        },
+        {
+          "authorId": "1780864",
+          "name": "V. Tarokh"
+        }
+      ]
+    },
+    {
+      "paperId": "b8a07524b0474a24bfe25bc60ed938431b8f666a",
+      "externalIds": {
+        "DBLP": "journals/moc/JiaZCH24",
+        "DOI": "10.1090/mcom/3867",
+        "CorpusId": 269627376
+      },
+      "url": "https://www.semanticscholar.org/paper/b8a07524b0474a24bfe25bc60ed938431b8f666a",
+      "title": "Stochastic alternating structure-adapted proximal gradient descent method with variance reduction for nonconvex nonsmooth optimization",
+      "venue": "Mathematics of Computation",
+      "year": 2024,
+      "referenceCount": 0,
+      "citationCount": 4,
+      "authors": [
+        {
+          "authorId": "48812997",
+          "name": "Zehui Jia"
+        },
+        {
+          "authorId": "2300334890",
+          "name": "Wenxing Zhang"
+        },
+        {
+          "authorId": "2556079",
+          "name": "Xingju Cai"
+        },
+        {
+          "authorId": "2277759681",
+          "name": "Deren Han"
+        }
+      ]
+    },
+    {
+      "paperId": "493164e7a4e89e4f8710e6ae34feaaf1fb7d6999",
+      "externalIds": {
+        "ArXiv": "1905.00529",
+        "DBLP": "journals/corr/abs-1905-00529",
+        "MAG": "2943091211",
+        "CorpusId": 143422013
+      },
+      "url": "https://www.semanticscholar.org/paper/493164e7a4e89e4f8710e6ae34feaaf1fb7d6999",
+      "title": "Stabilized SVRG: Simple Variance Reduction for Nonconvex Optimization",
+      "venue": "Annual Conference Computational Learning Theory",
+      "year": 2019,
+      "referenceCount": 34,
+      "citationCount": 38,
+      "authors": [
+        {
+          "authorId": "144804200",
+          "name": "Rong Ge"
+        },
+        {
+          "authorId": "2109714604",
+          "name": "Zhize Li"
+        },
+        {
+          "authorId": "7634810",
+          "name": "Weiyao Wang"
+        },
+        {
+          "authorId": "2144796430",
+          "name": "Xiang Wang"
+        }
+      ]
+    },
+    {
+      "paperId": "411cddb56762c1e6818bc91a4805deb180cc29bc",
+      "externalIds": {
+        "ArXiv": "2509.13992",
+        "CorpusId": 281332612
+      },
+      "url": "https://www.semanticscholar.org/paper/411cddb56762c1e6818bc91a4805deb180cc29bc",
+      "title": "On Tackling High-Dimensional Nonconvex Stochastic Optimization via Stochastic First-Order Methods with Non-smooth Proximal Terms and Variance Reduction",
+      "venue": "",
+      "year": 2025,
+      "referenceCount": 45,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2309082767",
+          "name": "Yue Xie"
+        },
+        {
+          "authorId": "2309006621",
+          "name": "Jiawen Bi"
+        },
+        {
+          "authorId": "2309076414",
+          "name": "Hongcheng Liu"
+        }
+      ]
+    },
+    {
+      "paperId": "fbc3aba0c00e516089936d1687dd92a65e07cd22",
+      "externalIds": {
+        "DOI": "10.3934/math.2026194",
+        "CorpusId": 286186718
+      },
+      "url": "https://www.semanticscholar.org/paper/fbc3aba0c00e516089936d1687dd92a65e07cd22",
+      "title": "A new mini-batch negative momentum proximal stochastic variance reduction method for nonconvex optimization",
+      "venue": "AIMS Mathematics",
+      "year": 2026,
+      "referenceCount": 19,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2293263863",
+          "name": "Weihao Cui"
+        },
+        {
+          "authorId": "2256951928",
+          "name": "Chongyang He"
+        },
+        {
+          "authorId": "9294214",
+          "name": "Mingyuan Cao"
+        },
+        {
+          "authorId": "2257096472",
+          "name": "Yueting Yang"
+        }
+      ]
+    },
+    {
+      "paperId": "d582239146b269d584d12b4a5def44c657dd5148",
+      "externalIds": {
+        "MAG": "2531036984",
+        "ArXiv": "1610.02758",
+        "CorpusId": 67781928
+      },
+      "url": "https://www.semanticscholar.org/paper/d582239146b269d584d12b4a5def44c657dd5148",
+      "title": "Stochastic Alternating Direction Method of Multipliers with Variance Reduction for Nonconvex Optimization",
+      "venue": "",
+      "year": 2016,
+      "referenceCount": 47,
+      "citationCount": 16,
+      "authors": [
+        {
+          "authorId": "3057688",
+          "name": "Feihu Huang"
+        },
+        {
+          "authorId": "48848338",
+          "name": "Songcan Chen"
+        },
+        {
+          "authorId": "6201715",
+          "name": "Zhaosong Lu"
+        }
+      ]
+    }
+  ]
+}

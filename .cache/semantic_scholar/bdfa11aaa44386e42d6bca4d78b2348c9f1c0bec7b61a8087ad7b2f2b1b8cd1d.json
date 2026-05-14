@@ -1,0 +1,322 @@
+{
+  "total": 115,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "09b9b2f1b98e5028c4c52dfe703e8f3d9d1007a6",
+      "externalIds": {
+        "MAG": "2741736887",
+        "DBLP": "conf/icml/TandonLDK17",
+        "CorpusId": 33632433
+      },
+      "url": "https://www.semanticscholar.org/paper/09b9b2f1b98e5028c4c52dfe703e8f3d9d1007a6",
+      "title": "Gradient Coding: Avoiding Stragglers in Distributed Learning",
+      "venue": "International Conference on Machine Learning",
+      "year": 2017,
+      "referenceCount": 13,
+      "citationCount": 530,
+      "authors": [
+        {
+          "authorId": "2632574",
+          "name": "Rashish Tandon"
+        },
+        {
+          "authorId": "144438755",
+          "name": "Qi Lei"
+        },
+        {
+          "authorId": "1718469",
+          "name": "A. Dimakis"
+        },
+        {
+          "authorId": "1830939",
+          "name": "Nikos Karampatziakis"
+        }
+      ]
+    },
+    {
+      "paperId": "ffa712fcde7b4eee676708ebdbc5ad2cfbae79e3",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2510-22539",
+        "ArXiv": "2510.22539",
+        "DOI": "10.48550/arXiv.2510.22539",
+        "CorpusId": 282389971
+      },
+      "url": "https://www.semanticscholar.org/paper/ffa712fcde7b4eee676708ebdbc5ad2cfbae79e3",
+      "title": "Approximate Gradient Coding for Distributed Learning with Heterogeneous Stragglers",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "referenceCount": 24,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2157781180",
+          "name": "Hee-Ok Song"
+        },
+        {
+          "authorId": "2340552438",
+          "name": "Wan Choi"
+        }
+      ]
+    },
+    {
+      "paperId": "1400df74196780cc47e2a282b04147d94b759355",
+      "externalIds": {
+        "DBLP": "conf/globecom/WangNHZY24",
+        "DOI": "10.1109/GCWkshp64532.2024.11101104",
+        "CorpusId": 280651132
+      },
+      "url": "https://www.semanticscholar.org/paper/1400df74196780cc47e2a282b04147d94b759355",
+      "title": "Mitigating Stragglers in Distributed Learning: A Novel Framework with Gradient Coding",
+      "venue": "2024 IEEE Globecom Workshops (GC Wkshps)",
+      "year": 2024,
+      "referenceCount": 15,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2264032145",
+          "name": "Jiale Wang"
+        },
+        {
+          "authorId": "2247973244",
+          "name": "Jiahong Ning"
+        },
+        {
+          "authorId": "2322799337",
+          "name": "Zechen He"
+        },
+        {
+          "authorId": "2244615501",
+          "name": "Jian Zhao"
+        },
+        {
+          "authorId": "2257051641",
+          "name": "Tingting Yang"
+        }
+      ]
+    },
+    {
+      "paperId": "4f531f0805843ca87700dfe97faca7f9412d8d8e",
+      "externalIds": {
+        "ArXiv": "2403.14716",
+        "DBLP": "journals/corr/abs-2403-14716",
+        "DOI": "10.1109/TCOMM.2024.3377715",
+        "CorpusId": 268567602
+      },
+      "url": "https://www.semanticscholar.org/paper/4f531f0805843ca87700dfe97faca7f9412d8d8e",
+      "title": "Distributed Learning Based on 1-Bit Gradient Coding in the Presence of Stragglers",
+      "venue": "IEEE Transactions on Communications",
+      "year": 2024,
+      "referenceCount": 53,
+      "citationCount": 9,
+      "authors": [
+        {
+          "authorId": "1557014864",
+          "name": "Chengxi Li"
+        },
+        {
+          "authorId": "2283602539",
+          "name": "Mikael Skoglund"
+        }
+      ]
+    },
+    {
+      "paperId": "2232cabf7f28cd6d18df5eea1d095e8242577005",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2206-02450",
+        "ArXiv": "2206.02450",
+        "DOI": "10.1109/TSP.2023.3244084",
+        "CorpusId": 249394698
+      },
+      "url": "https://www.semanticscholar.org/paper/2232cabf7f28cd6d18df5eea1d095e8242577005",
+      "title": "Optimization-Based Block Coordinate Gradient Coding for Mitigating Partial Stragglers in Distributed Learning",
+      "venue": "IEEE Transactions on Signal Processing",
+      "year": 2022,
+      "referenceCount": 52,
+      "citationCount": 4,
+      "authors": [
+        {
+          "authorId": "2151572605",
+          "name": "Qi Wang"
+        },
+        {
+          "authorId": "2115349720",
+          "name": "Ying Cui"
+        },
+        {
+          "authorId": "144535686",
+          "name": "Chenglin Li"
+        },
+        {
+          "authorId": "38871632",
+          "name": "Junni Zou"
+        },
+        {
+          "authorId": "144045763",
+          "name": "H. Xiong"
+        }
+      ]
+    },
+    {
+      "paperId": "a7b8b45573bef3a2526370beed75368ad57b1099",
+      "externalIds": {
+        "ArXiv": "2406.10831",
+        "DBLP": "journals/corr/abs-2406-10831",
+        "DOI": "10.1109/TCOMM.2024.3418901",
+        "CorpusId": 270560420
+      },
+      "url": "https://www.semanticscholar.org/paper/a7b8b45573bef3a2526370beed75368ad57b1099",
+      "title": "Design and Optimization of Hierarchical Gradient Coding for Distributed Learning at Edge Devices",
+      "venue": "IEEE Transactions on Communications",
+      "year": 2024,
+      "referenceCount": 40,
+      "citationCount": 6,
+      "authors": [
+        {
+          "authorId": "2308631113",
+          "name": "Weiheng Tang"
+        },
+        {
+          "authorId": "2225558123",
+          "name": "Jingyi Li"
+        },
+        {
+          "authorId": "2238036628",
+          "name": "Lin Chen"
+        },
+        {
+          "authorId": "2237942139",
+          "name": "Xu Chen"
+        }
+      ]
+    },
+    {
+      "paperId": "4ec416c481e3ceafefd17ff54aa867ee0354464f",
+      "externalIds": {
+        "ArXiv": "2402.04193",
+        "DBLP": "conf/eusipco/0015S24",
+        "DOI": "10.48550/arXiv.2402.04193",
+        "CorpusId": 267499805
+      },
+      "url": "https://www.semanticscholar.org/paper/4ec416c481e3ceafefd17ff54aa867ee0354464f",
+      "title": "Gradient Coding in Decentralized Learning for Evading Stragglers",
+      "venue": "European Signal Processing Conference",
+      "year": 2024,
+      "referenceCount": 19,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "2283508196",
+          "name": "Chengxi Li"
+        },
+        {
+          "authorId": "2283602539",
+          "name": "Mikael Skoglund"
+        }
+      ]
+    },
+    {
+      "paperId": "d778577ec8fe5d6f72383277a051701b43e34f60",
+      "externalIds": {
+        "DBLP": "journals/tsp/LiXS26",
+        "ArXiv": "2603.16353",
+        "DOI": "10.1109/TSP.2026.3656662",
+        "CorpusId": 285039988
+      },
+      "url": "https://www.semanticscholar.org/paper/d778577ec8fe5d6f72383277a051701b43e34f60",
+      "title": "Biased Compression in Gradient Coding for Distributed Learning",
+      "venue": "IEEE Transactions on Signal Processing",
+      "year": 2026,
+      "referenceCount": 47,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2283508196",
+          "name": "Chengxi Li"
+        },
+        {
+          "authorId": "2257180478",
+          "name": "Ming Xiao"
+        },
+        {
+          "authorId": "2257214232",
+          "name": "Mikael Skoglund"
+        }
+      ]
+    },
+    {
+      "paperId": "a19ccf3c679fcd76b666cadd7cf029d1250b5df7",
+      "externalIds": {
+        "DBLP": "conf/icdcs/WangZNYYTL23",
+        "DOI": "10.1109/ICDCS57875.2023.00020",
+        "CorpusId": 263837794
+      },
+      "url": "https://www.semanticscholar.org/paper/a19ccf3c679fcd76b666cadd7cf029d1250b5df7",
+      "title": "Two-Stage Coded Distributed Learning: A Dynamic Partial Gradient Coding Perspective",
+      "venue": "IEEE International Conference on Distributed Computing Systems",
+      "year": 2023,
+      "referenceCount": 25,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "93768847",
+          "name": "Xinghan Wang"
+        },
+        {
+          "authorId": "2257984130",
+          "name": "Xiaoxiong Zhong"
+        },
+        {
+          "authorId": "2247973244",
+          "name": "Jiahong Ning"
+        },
+        {
+          "authorId": "2257051641",
+          "name": "Tingting Yang"
+        },
+        {
+          "authorId": "2143532883",
+          "name": "Yuanyuan Yang"
+        },
+        {
+          "authorId": "2257039675",
+          "name": "Guoming Tang"
+        },
+        {
+          "authorId": "2257326061",
+          "name": "Fangming Liu"
+        }
+      ]
+    },
+    {
+      "paperId": "6f52a71218dec95f012ee8527f4979f46e945564",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2405-19509",
+        "ArXiv": "2405.19509",
+        "DOI": "10.48550/arXiv.2405.19509",
+        "CorpusId": 270123697
+      },
+      "url": "https://www.semanticscholar.org/paper/6f52a71218dec95f012ee8527f4979f46e945564",
+      "title": "Leveraging partial stragglers within gradient coding",
+      "venue": "Neural Information Processing Systems",
+      "year": 2024,
+      "referenceCount": 44,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "2282469038",
+          "name": "Aditya Ramamoorthy"
+        },
+        {
+          "authorId": "2282469208",
+          "name": "Ruoyu Meng"
+        },
+        {
+          "authorId": "2303848866",
+          "name": "Vrinda Girimaji"
+        }
+      ]
+    }
+  ]
+}

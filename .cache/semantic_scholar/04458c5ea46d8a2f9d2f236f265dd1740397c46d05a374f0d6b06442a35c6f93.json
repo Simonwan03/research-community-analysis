@@ -1,0 +1,887 @@
+{
+  "offset": 0,
+  "citingPaperInfo": {
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/1502.03255, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "title": "Off-policy Model-based Learning under Unknown Factored Dynamics",
+    "authors": [
+      {
+        "authorId": "21062872",
+        "name": "Assaf Hallak"
+      },
+      {
+        "authorId": "2244097655",
+        "name": "François Schnitzler"
+      },
+      {
+        "authorId": "2554720",
+        "name": "Timothy A. Mann"
+      },
+      {
+        "authorId": "49185899",
+        "name": "Shie Mannor"
+      }
+    ]
+  },
+  "data": [
+    {
+      "citedPaper": {
+        "paperId": "a8bbcf5ea723b1f9b7d2257dd6fd492cd280f0af",
+        "externalIds": {
+          "MAG": "2273088453",
+          "DBLP": "conf/aaai/ThomasTG15",
+          "DOI": "10.1609/aaai.v29i1.9541",
+          "CorpusId": 380221
+        },
+        "url": "https://www.semanticscholar.org/paper/a8bbcf5ea723b1f9b7d2257dd6fd492cd280f0af",
+        "title": "High-Confidence Off-Policy Evaluation",
+        "venue": "AAAI Conference on Artificial Intelligence",
+        "year": 2015,
+        "referenceCount": 20,
+        "citationCount": 304,
+        "authors": [
+          {
+            "authorId": "143640165",
+            "name": "P. Thomas"
+          },
+          {
+            "authorId": "1709005",
+            "name": "Georgios Theocharous"
+          },
+          {
+            "authorId": "1678622",
+            "name": "M. Ghavamzadeh"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "1a1905bade3d0f34f26e906f13a14869eaba2210",
+        "externalIds": {
+          "MAG": "277306631",
+          "DBLP": "journals/corr/LiMS14",
+          "ArXiv": "1409.3653",
+          "CorpusId": 12222973
+        },
+        "url": "https://www.semanticscholar.org/paper/1a1905bade3d0f34f26e906f13a14869eaba2210",
+        "title": "On Minimax Optimal Offline Policy Evaluation",
+        "venue": "arXiv.org",
+        "year": 2014,
+        "referenceCount": 20,
+        "citationCount": 16,
+        "authors": [
+          {
+            "authorId": "47681372",
+            "name": "Lihong Li"
+          },
+          {
+            "authorId": "1708654",
+            "name": "R. Munos"
+          },
+          {
+            "authorId": "40868287",
+            "name": "Csaba Szepesvari"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "0fda3565c03956c4a7a9d3e0febb57aea73940a5",
+        "externalIds": {
+          "DBLP": "conf/nips/OsbandR14",
+          "MAG": "2406016125",
+          "ArXiv": "1403.3741",
+          "CorpusId": 7233001
+        },
+        "url": "https://www.semanticscholar.org/paper/0fda3565c03956c4a7a9d3e0febb57aea73940a5",
+        "title": "Near-optimal Reinforcement Learning in Factored MDPs",
+        "venue": "Neural Information Processing Systems",
+        "year": 2014,
+        "referenceCount": 29,
+        "citationCount": 135,
+        "authors": [
+          {
+            "authorId": "2561924",
+            "name": "Ian Osband"
+          },
+          {
+            "authorId": "1731282",
+            "name": "Benjamin Van Roy"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "4ddd6811012d0c4976927cf47eca4a03f241e47e",
+        "externalIds": {
+          "DBLP": "conf/ida/TrabelsiLAA13",
+          "MAG": "2132974071",
+          "DOI": "10.1007/978-3-642-41398-8_34",
+          "CorpusId": 16775094
+        },
+        "url": "https://www.semanticscholar.org/paper/4ddd6811012d0c4976927cf47eca4a03f241e47e",
+        "title": "Dynamic MMHC: A Local Search Algorithm for Dynamic Bayesian Network Structure Learning",
+        "venue": "International Symposium on Intelligent Data Analysis",
+        "year": 2013,
+        "referenceCount": 28,
+        "citationCount": 21,
+        "authors": [
+          {
+            "authorId": "1723781",
+            "name": "Ghada Trabelsi"
+          },
+          {
+            "authorId": "1679817",
+            "name": "Philippe Leray"
+          },
+          {
+            "authorId": "38519683",
+            "name": "Mounir Ben Ayed"
+          },
+          {
+            "authorId": "144000830",
+            "name": "A. Alimi"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "b006aefa9c8be8c33138c4c5352f4d2d44378be9",
+        "externalIds": {
+          "DBLP": "journals/jmlr/BottouPCCCPRSS13",
+          "MAG": "2122124659",
+          "ArXiv": "1209.2355",
+          "DOI": "10.5555/2567709.2567766",
+          "CorpusId": 1726300
+        },
+        "url": "https://www.semanticscholar.org/paper/b006aefa9c8be8c33138c4c5352f4d2d44378be9",
+        "title": "Counterfactual reasoning and learning systems: the example of computational advertising",
+        "venue": "Journal of machine learning research",
+        "year": 2012,
+        "referenceCount": 79,
+        "citationCount": 839,
+        "authors": [
+          {
+            "authorId": "52184096",
+            "name": "L. Bottou"
+          },
+          {
+            "authorId": "31443876",
+            "name": "J. Peters"
+          },
+          {
+            "authorId": "3177568",
+            "name": "J. Q. Candela"
+          },
+          {
+            "authorId": "36730993",
+            "name": "Denis Xavier Charles"
+          },
+          {
+            "authorId": "1724065",
+            "name": "D. M. Chickering"
+          },
+          {
+            "authorId": "2185730",
+            "name": "Elon Portugaly"
+          },
+          {
+            "authorId": "2054540338",
+            "name": "Dipankar Ray"
+          },
+          {
+            "authorId": "2812486",
+            "name": "P. Simard"
+          },
+          {
+            "authorId": "2081889",
+            "name": "Edward Snelson"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "f82e4ff4f003581330338aaae71f60316e58dd26",
+        "externalIds": {
+          "ArXiv": "1207.4708",
+          "DBLP": "journals/jair/BellemareNVB13",
+          "MAG": "2150468603",
+          "DOI": "10.1613/jair.3912",
+          "CorpusId": 1552061
+        },
+        "url": "https://www.semanticscholar.org/paper/f82e4ff4f003581330338aaae71f60316e58dd26",
+        "title": "The Arcade Learning Environment: An Evaluation Platform for General Agents",
+        "venue": "Journal of Artificial Intelligence Research",
+        "year": 2012,
+        "referenceCount": 36,
+        "citationCount": 3282,
+        "authors": [
+          {
+            "authorId": "1792298",
+            "name": "Marc G. Bellemare"
+          },
+          {
+            "authorId": "2294249",
+            "name": "Yavar Naddaf"
+          },
+          {
+            "authorId": "144056327",
+            "name": "J. Veness"
+          },
+          {
+            "authorId": "1687780",
+            "name": "Michael Bowling"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "44838ae25d2ebe836d38cc94a81a9fe3c6fe443b",
+        "externalIds": {
+          "MAG": "2127323769",
+          "DBLP": "conf/icml/ChakrabortyS11",
+          "CorpusId": 9657063
+        },
+        "url": "https://www.semanticscholar.org/paper/44838ae25d2ebe836d38cc94a81a9fe3c6fe443b",
+        "title": "Structure Learning in Ergodic Factored MDPs without Knowledge of the Transition Function's In-Degree",
+        "venue": "International Conference on Machine Learning",
+        "year": 2011,
+        "referenceCount": 11,
+        "citationCount": 41,
+        "authors": [
+          {
+            "authorId": "1770217",
+            "name": "D. Chakraborty"
+          },
+          {
+            "authorId": "144848112",
+            "name": "P. Stone"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "30597ba724dba36cf51b97adcb0b35700d514cf5",
+        "externalIds": {
+          "MAG": "1936364850",
+          "DBLP": "journals/jmlr/FonteneauMWE10",
+          "CorpusId": 9027300
+        },
+        "url": "https://www.semanticscholar.org/paper/30597ba724dba36cf51b97adcb0b35700d514cf5",
+        "title": "Model-Free Monte Carlo-like Policy Evaluation",
+        "venue": "International Conference on Artificial Intelligence and Statistics",
+        "year": 2010,
+        "referenceCount": 20,
+        "citationCount": 25,
+        "authors": [
+          {
+            "authorId": "101889151",
+            "name": "R. Fonteneau"
+          },
+          {
+            "authorId": "144180010",
+            "name": "S. Murphy"
+          },
+          {
+            "authorId": "1695713",
+            "name": "L. Wehenkel"
+          },
+          {
+            "authorId": "1751167",
+            "name": "D. Ernst"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "6316daea76f71804a0f3cd1e150d4df77a1bf517",
+        "externalIds": {
+          "MAG": "2112899086",
+          "DBLP": "conf/icml/DiukLL09",
+          "DOI": "10.1145/1553374.1553406",
+          "CorpusId": 3042664
+        },
+        "url": "https://www.semanticscholar.org/paper/6316daea76f71804a0f3cd1e150d4df77a1bf517",
+        "title": "The adaptive k-meteorologists problem and its application to structure learning and feature selection in reinforcement learning",
+        "venue": "International Conference on Machine Learning",
+        "year": 2009,
+        "referenceCount": 23,
+        "citationCount": 94,
+        "authors": [
+          {
+            "authorId": "1681946",
+            "name": "Carlos Diuk"
+          },
+          {
+            "authorId": "47681372",
+            "name": "Lihong Li"
+          },
+          {
+            "authorId": "1700606",
+            "name": "Bethany R. Leffler"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "2ee52c73cb9b5371dc5837da420002f9b1028a5b",
+        "externalIds": {
+          "DBLP": "conf/atal/HesterS09",
+          "MAG": "2166265228",
+          "DOI": "10.65109/smeh3695",
+          "CorpusId": 8410565
+        },
+        "url": "https://www.semanticscholar.org/paper/2ee52c73cb9b5371dc5837da420002f9b1028a5b",
+        "title": "Generalized model learning for reinforcement learning in factored domains",
+        "venue": "Adaptive Agents and Multi-Agent Systems",
+        "year": 2009,
+        "referenceCount": 16,
+        "citationCount": 45,
+        "authors": [
+          {
+            "authorId": "143772943",
+            "name": "Todd Hester"
+          },
+          {
+            "authorId": "144848112",
+            "name": "P. Stone"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "15ba832dbb1882b2c516e06cb0f8f002d16bc4cf",
+        "externalIds": {
+          "MAG": "1537180453",
+          "DBLP": "conf/aaai/StrehlDL07",
+          "CorpusId": 1425
+        },
+        "url": "https://www.semanticscholar.org/paper/15ba832dbb1882b2c516e06cb0f8f002d16bc4cf",
+        "title": "Efficient Structure Learning in Factored-State MDPs",
+        "venue": "AAAI Conference on Artificial Intelligence",
+        "year": 2007,
+        "referenceCount": 12,
+        "citationCount": 144,
+        "authors": [
+          {
+            "authorId": "1990806",
+            "name": "Alexander L. Strehl"
+          },
+          {
+            "authorId": "1681946",
+            "name": "Carlos Diuk"
+          },
+          {
+            "authorId": "144885169",
+            "name": "M. Littman"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "ac3a76815a809ab844f34e90c4667488b89fbacd",
+        "externalIds": {
+          "MAG": "2131831090",
+          "DBLP": "conf/atal/JongS07",
+          "DOI": "10.1145/1329125.1329242",
+          "CorpusId": 5859495
+        },
+        "url": "https://www.semanticscholar.org/paper/ac3a76815a809ab844f34e90c4667488b89fbacd",
+        "title": "Model-based function approximation in reinforcement learning",
+        "venue": "Adaptive Agents and Multi-Agent Systems",
+        "year": 2007,
+        "referenceCount": 20,
+        "citationCount": 74,
+        "authors": [
+          {
+            "authorId": "1745716",
+            "name": "Nicholas K. Jong"
+          },
+          {
+            "authorId": "144848112",
+            "name": "P. Stone"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "505253630ab7e8f35e26e27904bd3c8faea3c5ce",
+        "externalIds": {
+          "MAG": "2090883204",
+          "DBLP": "conf/www/RichardsonDR07",
+          "DOI": "10.1145/1242572.1242643",
+          "CorpusId": 14669618
+        },
+        "url": "https://www.semanticscholar.org/paper/505253630ab7e8f35e26e27904bd3c8faea3c5ce",
+        "title": "Predicting clicks: estimating the click-through rate for new ads",
+        "venue": "The Web Conference",
+        "year": 2007,
+        "referenceCount": 19,
+        "citationCount": 1237,
+        "authors": [
+          {
+            "authorId": "2241949324",
+            "name": "Matthew Richardson"
+          },
+          {
+            "authorId": "2339400632",
+            "name": "Ewa Dominowska"
+          },
+          {
+            "authorId": "2421152",
+            "name": "R. Ragno"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "4dfa8530ca5c8152af5de6cc091052acb24d8b28",
+        "externalIds": {
+          "MAG": "2131660762",
+          "DBLP": "conf/icml/DegrisSW06",
+          "DOI": "10.1145/1143844.1143877",
+          "CorpusId": 9792692
+        },
+        "url": "https://www.semanticscholar.org/paper/4dfa8530ca5c8152af5de6cc091052acb24d8b28",
+        "title": "Learning the structure of Factored Markov Decision Processes in reinforcement learning problems",
+        "venue": "International Conference on Machine Learning",
+        "year": 2006,
+        "referenceCount": 18,
+        "citationCount": 128,
+        "authors": [
+          {
+            "authorId": "1804488",
+            "name": "T. Degris"
+          },
+          {
+            "authorId": "3211142",
+            "name": "Olivier Sigaud"
+          },
+          {
+            "authorId": "1686119",
+            "name": "Pierre-Henri Wuillemin"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "2430b4748c4ffe8782ae4763d327ce48f3655639",
+        "externalIds": {
+          "ArXiv": "1106.1822",
+          "DBLP": "journals/jair/GuestrinKPV03",
+          "MAG": "2170400507",
+          "DOI": "10.1613/jair.1000",
+          "CorpusId": 1598016
+        },
+        "url": "https://www.semanticscholar.org/paper/2430b4748c4ffe8782ae4763d327ce48f3655639",
+        "title": "Efficient Solution Algorithms for Factored MDPs",
+        "venue": "Journal of Artificial Intelligence Research",
+        "year": 2003,
+        "referenceCount": 51,
+        "citationCount": 562,
+        "authors": [
+          {
+            "authorId": "1730156",
+            "name": "Carlos Guestrin"
+          },
+          {
+            "authorId": "1736370",
+            "name": "D. Koller"
+          },
+          {
+            "authorId": "145726861",
+            "name": "Ronald E. Parr"
+          },
+          {
+            "authorId": "2262405",
+            "name": "Shobha Venkataraman"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "dc649486b881e672eea6546da48c46e1f98daf32",
+        "externalIds": {
+          "MAG": "2489939061",
+          "DBLP": "journals/ml/KearnsS02",
+          "DOI": "10.1023/A:1017984413808",
+          "CorpusId": 2695116
+        },
+        "url": "https://www.semanticscholar.org/paper/dc649486b881e672eea6546da48c46e1f98daf32",
+        "title": "Near-Optimal Reinforcement Learning in Polynomial Time",
+        "venue": "Machine-mediated learning",
+        "year": 2002,
+        "referenceCount": 36,
+        "citationCount": 1205,
+        "authors": [
+          {
+            "authorId": "81338045",
+            "name": "Michael Kearns"
+          },
+          {
+            "authorId": "1699868",
+            "name": "Satinder Singh"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "8678d49a82020773dfe1e8b5fa789aa927ffcdcb",
+        "externalIds": {
+          "MAG": "18175453",
+          "DBLP": "conf/icml/GuestrinPS02",
+          "CorpusId": 774422
+        },
+        "url": "https://www.semanticscholar.org/paper/8678d49a82020773dfe1e8b5fa789aa927ffcdcb",
+        "title": "Algorithm-Directed Exploration for Model-Based Reinforcement Learning in Factored MDPs",
+        "venue": "International Conference on Machine Learning",
+        "year": 2002,
+        "referenceCount": 27,
+        "citationCount": 67,
+        "authors": [
+          {
+            "authorId": "1730156",
+            "name": "Carlos Guestrin"
+          },
+          {
+            "authorId": "2228643",
+            "name": "Relu Patrascu"
+          },
+          {
+            "authorId": "1714772",
+            "name": "Dale Schuurmans"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "78020db7e3d968f6e6cc26d18e31e5b668ca7fee",
+        "externalIds": {
+          "DBLP": "conf/icml/PrecupSS00",
+          "MAG": "1514587017",
+          "CorpusId": 1153355
+        },
+        "url": "https://www.semanticscholar.org/paper/78020db7e3d968f6e6cc26d18e31e5b668ca7fee",
+        "title": "Eligibility Traces for Off-Policy Policy Evaluation",
+        "venue": "International Conference on Machine Learning",
+        "year": 2000,
+        "referenceCount": 13,
+        "citationCount": 897,
+        "authors": [
+          {
+            "authorId": "144368601",
+            "name": "Doina Precup"
+          },
+          {
+            "authorId": "1699645",
+            "name": "R. Sutton"
+          },
+          {
+            "authorId": "1699868",
+            "name": "Satinder Singh"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "e3678df4a8c183fc50d59e6277284078785600e6",
+        "externalIds": {
+          "DBLP": "conf/ijcai/KearnsK99",
+          "MAG": "1554015367",
+          "CorpusId": 7620621
+        },
+        "url": "https://www.semanticscholar.org/paper/e3678df4a8c183fc50d59e6277284078785600e6",
+        "title": "Efficient Reinforcement Learning in Factored MDPs",
+        "venue": "International Joint Conference on Artificial Intelligence",
+        "year": 1999,
+        "referenceCount": 12,
+        "citationCount": 242,
+        "authors": [
+          {
+            "authorId": "2056642528",
+            "name": "M. Kearns"
+          },
+          {
+            "authorId": "1736370",
+            "name": "D. Koller"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "9aa1d909544fd9ffe061b84a90eb344ac303e6d9",
+        "externalIds": {
+          "MAG": "1488730473",
+          "DBLP": "conf/icml/Dietterich98",
+          "CorpusId": 10568560
+        },
+        "url": "https://www.semanticscholar.org/paper/9aa1d909544fd9ffe061b84a90eb344ac303e6d9",
+        "title": "The MAXQ Method for Hierarchical Reinforcement Learning",
+        "venue": "International Conference on Machine Learning",
+        "year": 1998,
+        "referenceCount": 9,
+        "citationCount": 391,
+        "authors": [
+          {
+            "authorId": "144299726",
+            "name": "Thomas G. Dietterich"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "ca4b34750bef230cabf0b7a96f7a8089c0fde633",
+        "externalIds": {
+          "MAG": "1896341954",
+          "DBLP": "conf/uai/FriedmanMR98",
+          "ArXiv": "1301.7374",
+          "CorpusId": 247120
+        },
+        "url": "https://www.semanticscholar.org/paper/ca4b34750bef230cabf0b7a96f7a8089c0fde633",
+        "title": "Learning the Structure of Dynamic Probabilistic Networks",
+        "venue": "Conference on Uncertainty in Artificial Intelligence",
+        "year": 1998,
+        "referenceCount": 29,
+        "citationCount": 710,
+        "authors": [
+          {
+            "authorId": "50785579",
+            "name": "N. Friedman"
+          },
+          {
+            "authorId": "2056417995",
+            "name": "Kevin P. Murphy"
+          },
+          {
+            "authorId": "145107462",
+            "name": "Stuart J. Russell"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "382f2d3c7e318c3ad2de028c6598a9700899ce80",
+        "externalIds": {
+          "MAG": "1515851193",
+          "CorpusId": 261579713
+        },
+        "url": "https://www.semanticscholar.org/paper/382f2d3c7e318c3ad2de028c6598a9700899ce80",
+        "title": "Introduction to Reinforcement Learning",
+        "venue": "",
+        "year": 1998,
+        "referenceCount": 0,
+        "citationCount": 3281,
+        "authors": [
+          {
+            "authorId": "2238176724",
+            "name": "R. S. Sutton"
+          },
+          {
+            "authorId": "1730590",
+            "name": "A. Barto"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "7fcc643342520991951407a356dcc0376a955f92",
+        "externalIds": {
+          "MAG": "2159810454",
+          "DOI": "10.7282/T3S46S46",
+          "CorpusId": 316036
+        },
+        "url": "https://www.semanticscholar.org/paper/7fcc643342520991951407a356dcc0376a955f92",
+        "title": "A unifying framework for computational reinforcement learning theory",
+        "venue": "",
+        "year": 2009,
+        "referenceCount": 272,
+        "citationCount": 85,
+        "authors": [
+          {
+            "authorId": "144885169",
+            "name": "M. Littman"
+          },
+          {
+            "authorId": "47681372",
+            "name": "Lihong Li"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "Markov decision processes: discrete stochastic dynamic programming, volume 414",
+        "venue": "Markov decision processes: discrete stochastic dynamic programming, volume 414",
+        "year": 2009,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "a9e5a40b0ff5c40d2db7b73490922e115576adb5",
+        "externalIds": {
+          "MAG": "107583932",
+          "CorpusId": 260534783
+        },
+        "url": "https://www.semanticscholar.org/paper/a9e5a40b0ff5c40d2db7b73490922e115576adb5",
+        "title": "On the sample complexity of reinforcement learning.",
+        "venue": "",
+        "year": 2003,
+        "referenceCount": 65,
+        "citationCount": 746,
+        "authors": [
+          {
+            "authorId": "144695232",
+            "name": "S. Kakade"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "5cc7c3ebcf5d36fcf826a925333a39caaad3405a",
+        "externalIds": {
+          "MAG": "21934178",
+          "CorpusId": 12164823
+        },
+        "url": "https://www.semanticscholar.org/paper/5cc7c3ebcf5d36fcf826a925333a39caaad3405a",
+        "title": "Inequalities for the L1 Deviation of the Empirical Distribution",
+        "venue": "",
+        "year": 2003,
+        "referenceCount": 4,
+        "citationCount": 331,
+        "authors": [
+          {
+            "authorId": "4820756",
+            "name": "T. Weissman"
+          },
+          {
+            "authorId": "1699656",
+            "name": "E. Ordentlich"
+          },
+          {
+            "authorId": "1729539",
+            "name": "G. Seroussi"
+          },
+          {
+            "authorId": "145980949",
+            "name": "S. Verdú"
+          },
+          {
+            "authorId": "9434892",
+            "name": "M. Weinberger"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "c7dbf5ed7e9b63e104adb4e18bfbc98f5d6afdae",
+        "externalIds": {
+          "DBLP": "journals/jmlr/BrafmanT02",
+          "CorpusId": 175713
+        },
+        "url": "https://www.semanticscholar.org/paper/c7dbf5ed7e9b63e104adb4e18bfbc98f5d6afdae",
+        "title": "R-MAX - A General Polynomial Time Algorithm for Near-Optimal Reinforcement Learning",
+        "venue": "Journal of machine learning research",
+        "year": 2001,
+        "referenceCount": 18,
+        "citationCount": 1381,
+        "authors": [
+          {
+            "authorId": "1680506",
+            "name": "R. Brafman"
+          },
+          {
+            "authorId": "1708847",
+            "name": "Moshe Tennenholtz"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "97efafdb4a3942ab3efba53ded7413199f79c054",
+        "externalIds": {
+          "MAG": "2121863487",
+          "DBLP": "journals/tnn/SuttonB98",
+          "DOI": "10.1109/TNN.1998.712192",
+          "CorpusId": 60035920
+        },
+        "url": "https://www.semanticscholar.org/paper/97efafdb4a3942ab3efba53ded7413199f79c054",
+        "title": "Reinforcement Learning: An Introduction",
+        "venue": "IEEE Trans. Neural Networks",
+        "year": 1998,
+        "referenceCount": 456,
+        "citationCount": 42376,
+        "authors": [
+          {
+            "authorId": "2238176724",
+            "name": "R. S. Sutton"
+          },
+          {
+            "authorId": "1730590",
+            "name": "A. Barto"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "Matrix analysis , volume 169",
+        "venue": "",
+        "year": 1997,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "Finally, decision tree regression was used to learn the rewards in the Atari domain. This may also account for some of the error",
+        "venue": "Finally, decision tree regression was used to learn the rewards in the Atari domain. This may also account for some of the error",
+        "year": null,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    }
+  ]
+}

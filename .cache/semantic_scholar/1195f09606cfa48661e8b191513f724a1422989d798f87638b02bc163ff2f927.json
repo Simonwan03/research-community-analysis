@@ -1,0 +1,58 @@
+{
+  "total": 2,
+  "offset": 0,
+  "data": [
+    {
+      "paperId": "1b3a820fc666d74c9b0a44429d5b1e7c3372e005",
+      "externalIds": {
+        "MAG": "653865906",
+        "DBLP": "conf/icml/DasBB15",
+        "CorpusId": 1454990
+      },
+      "url": "https://www.semanticscholar.org/paper/1b3a820fc666d74c9b0a44429d5b1e7c3372e005",
+      "title": "Ordered Stick-Breaking Prior for Sequential MCMC Inference of Bayesian Nonparametric Models",
+      "venue": "International Conference on Machine Learning",
+      "year": 2015,
+      "referenceCount": 39,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "12417163",
+          "name": "M. Das"
+        },
+        {
+          "authorId": "1858169",
+          "name": "Trapit Bansal"
+        },
+        {
+          "authorId": "145880755",
+          "name": "C. Bhattacharyya"
+        }
+      ]
+    },
+    {
+      "paperId": "2eafa63525da9bcd010c205950b151ea2a7e666f",
+      "externalIds": {
+        "MAG": "187140040",
+        "DBLP": "conf/icml/BartunovV14",
+        "CorpusId": 7410762
+      },
+      "url": "https://www.semanticscholar.org/paper/2eafa63525da9bcd010c205950b151ea2a7e666f",
+      "title": "Variational Inference for Sequential Distance Dependent Chinese Restaurant Process",
+      "venue": "International Conference on Machine Learning",
+      "year": 2014,
+      "referenceCount": 14,
+      "citationCount": 4,
+      "authors": [
+        {
+          "authorId": "2258504",
+          "name": "Sergey Bartunov"
+        },
+        {
+          "authorId": "2492721",
+          "name": "D. Vetrov"
+        }
+      ]
+    }
+  ]
+}

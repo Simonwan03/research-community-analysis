@@ -1,0 +1,294 @@
+{
+  "total": 495,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "1fc787a2b8d7605aca7f1c182cd92043cfeed369",
+      "externalIds": {
+        "MAG": "2950519572",
+        "ArXiv": "1502.01176",
+        "DBLP": "journals/corr/FetayaU15",
+        "CorpusId": 11856316
+      },
+      "url": "https://www.semanticscholar.org/paper/1fc787a2b8d7605aca7f1c182cd92043cfeed369",
+      "title": "Learning Local Invariant Mahalanobis Distances",
+      "venue": "International Conference on Machine Learning",
+      "year": 2015,
+      "referenceCount": 23,
+      "citationCount": 16,
+      "authors": [
+        {
+          "authorId": "2645055",
+          "name": "Ethan Fetaya"
+        },
+        {
+          "authorId": "1743045",
+          "name": "S. Ullman"
+        }
+      ]
+    },
+    {
+      "paperId": "320fb0e20d5de8a87bda33dd942fa2ed2d568d33",
+      "externalIds": {
+        "MAG": "55343211",
+        "DBLP": "conf/eccv/PerrotHMS14",
+        "DOI": "10.1007/978-3-319-10602-1_7",
+        "CorpusId": 9644710
+      },
+      "url": "https://www.semanticscholar.org/paper/320fb0e20d5de8a87bda33dd942fa2ed2d568d33",
+      "title": "Modeling Perceptual Color Differences by Local Metric Learning",
+      "venue": "European Conference on Computer Vision",
+      "year": 2014,
+      "referenceCount": 40,
+      "citationCount": 18,
+      "authors": [
+        {
+          "authorId": "32361369",
+          "name": "Michaël Perrot"
+        },
+        {
+          "authorId": "1749327",
+          "name": "Amaury Habrard"
+        },
+        {
+          "authorId": "1706185",
+          "name": "Damien Muselet"
+        },
+        {
+          "authorId": "1738336",
+          "name": "M. Sebban"
+        }
+      ]
+    },
+    {
+      "paperId": "b63914ca499b41c672a81e3550732cef514e868f",
+      "externalIds": {
+        "DBLP": "journals/ijon/Aly14",
+        "MAG": "2010886966",
+        "DOI": "10.1016/j.neucom.2014.03.060",
+        "CorpusId": 858724
+      },
+      "url": "https://www.semanticscholar.org/paper/b63914ca499b41c672a81e3550732cef514e868f",
+      "title": "Learning invariant local image descriptor using convolutional Mahalanobis self-organising map",
+      "venue": "Neurocomputing",
+      "year": 2014,
+      "referenceCount": 36,
+      "citationCount": 9,
+      "authors": [
+        {
+          "authorId": "1704207",
+          "name": "S. Aly"
+        }
+      ]
+    },
+    {
+      "paperId": "4f5f2f80215b5df14e6e5ab7431a0dc7d97a30dd",
+      "externalIds": {
+        "DOI": "10.4218/etrij.2024-0253",
+        "CorpusId": 281654600
+      },
+      "url": "https://www.semanticscholar.org/paper/4f5f2f80215b5df14e6e5ab7431a0dc7d97a30dd",
+      "title": "Robust Mahalanobis distance‐based lazy learning method for fault detection in high‐dimensional processes",
+      "venue": "ETRI Journal",
+      "year": 2025,
+      "referenceCount": 42,
+      "citationCount": 4,
+      "authors": [
+        {
+          "authorId": "2268728634",
+          "name": "Jungwon Yu"
+        },
+        {
+          "authorId": "2330146668",
+          "name": "Kwangju Kim"
+        },
+        {
+          "authorId": "2247611450",
+          "name": "In-Su Jang"
+        }
+      ]
+    },
+    {
+      "paperId": "3b4e649288441122eec7a0f136ee7429cb47082e",
+      "externalIds": {
+        "DBLP": "journals/access/LinO24",
+        "DOI": "10.1109/ACCESS.2024.3406911",
+        "CorpusId": 270128720
+      },
+      "url": "https://www.semanticscholar.org/paper/3b4e649288441122eec7a0f136ee7429cb47082e",
+      "title": "LS-SIFT: Enhancing the Robustness of SIFT During Pose-Invariant Face Recognition by Learning Facial Landmark Specific Mappings",
+      "venue": "IEEE Access",
+      "year": 2024,
+      "referenceCount": 37,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "2108831737",
+          "name": "Shinfeng D. Lin"
+        },
+        {
+          "authorId": "2216151671",
+          "name": "Paulo E. Linares Otoya"
+        }
+      ]
+    },
+    {
+      "paperId": "72e42406de22c9b02898caee683d40ed636ffcc6",
+      "externalIds": {
+        "DBLP": "journals/tim/VuNTPL24",
+        "DOI": "10.1109/TIM.2024.3381270",
+        "CorpusId": 268711230
+      },
+      "url": "https://www.semanticscholar.org/paper/72e42406de22c9b02898caee683d40ed636ffcc6",
+      "title": "Few-Shot Bearing Fault Diagnosis Via Ensembling Transformer-Based Model With Mahalanobis Distance Metric Learning From Multiscale Features",
+      "venue": "IEEE Transactions on Instrumentation and Measurement",
+      "year": 2024,
+      "referenceCount": 89,
+      "citationCount": 45,
+      "authors": [
+        {
+          "authorId": "2236564368",
+          "name": "Manh-Hung Vu"
+        },
+        {
+          "authorId": "2236716953",
+          "name": "Van-Quang Nguyen"
+        },
+        {
+          "authorId": "2464386",
+          "name": "Thi-Thao Tran"
+        },
+        {
+          "authorId": "38461717",
+          "name": "Van-Truong Pham"
+        },
+        {
+          "authorId": "2280058352",
+          "name": "M. Lo"
+        }
+      ]
+    },
+    {
+      "paperId": "15d0c5f5973d7f29b982e2afd927ed1d21dedfce",
+      "externalIds": {
+        "MAG": "3010993975",
+        "DBLP": "journals/sncs/SiddappaK20",
+        "DOI": "10.1007/s42979-020-0085-x",
+        "CorpusId": 212749627
+      },
+      "url": "https://www.semanticscholar.org/paper/15d0c5f5973d7f29b982e2afd927ed1d21dedfce",
+      "title": "Imbalance Data Classification Using Local Mahalanobis Distance Learning Based on Nearest Neighbor",
+      "venue": "SN Computer Science",
+      "year": 2020,
+      "referenceCount": 25,
+      "citationCount": 13,
+      "authors": [
+        {
+          "authorId": "89008104",
+          "name": "N. Siddappa"
+        },
+        {
+          "authorId": "90264170",
+          "name": "Thippeswamy Kampalappa"
+        }
+      ]
+    },
+    {
+      "paperId": "0c82bd1a320c7256e72318b1abb73336d2d76f7e",
+      "externalIds": {
+        "DBLP": "journals/apin/LuCZD25",
+        "DOI": "10.1007/s10489-025-06278-8",
+        "CorpusId": 275972363
+      },
+      "url": "https://www.semanticscholar.org/paper/0c82bd1a320c7256e72318b1abb73336d2d76f7e",
+      "title": "Unsupervised feature learning using locality-preserved auto-encoder with complexity-invariant distance for intelligent fault diagnosis of machinery",
+      "venue": "Applied intelligence (Boston)",
+      "year": 2025,
+      "referenceCount": 42,
+      "citationCount": 4,
+      "authors": [
+        {
+          "authorId": "2286171364",
+          "name": "Zheng-ding Lu"
+        },
+        {
+          "authorId": "144231841",
+          "name": "Zhaobi Chu"
+        },
+        {
+          "authorId": "2342889334",
+          "name": "Min Zhu"
+        },
+        {
+          "authorId": "2342892251",
+          "name": "Xueping Dong"
+        }
+      ]
+    },
+    {
+      "paperId": "6298d5ab901992a3bdb55b6dfc3c1a2d396fcc55",
+      "externalIds": {
+        "DBLP": "journals/es/MittalP23",
+        "DOI": "10.1111/exsy.13278",
+        "CorpusId": 257676488
+      },
+      "url": "https://www.semanticscholar.org/paper/6298d5ab901992a3bdb55b6dfc3c1a2d396fcc55",
+      "title": "Age invariant face recognition using discriminative tensor subspace learning with fuzzy based classification",
+      "venue": "Expert Syst. J. Knowl. Eng.",
+      "year": 2023,
+      "referenceCount": 44,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "41053565",
+          "name": "Sonia Mittal"
+        },
+        {
+          "authorId": "50555927",
+          "name": "Mukesh T. Patel"
+        }
+      ]
+    },
+    {
+      "paperId": "df73a09cff0139f4bd5cef05694a52876737bada",
+      "externalIds": {
+        "DBLP": "journals/ieeemm/GuWLKNW22",
+        "DOI": "10.1109/MMUL.2022.3151906",
+        "CorpusId": 246920166
+      },
+      "url": "https://www.semanticscholar.org/paper/df73a09cff0139f4bd5cef05694a52876737bada",
+      "title": "Enhanced Local and Global Learning for Rotation-Invariant Point Cloud Representation",
+      "venue": "IEEE Multimedia",
+      "year": 2022,
+      "referenceCount": 23,
+      "citationCount": 11,
+      "authors": [
+        {
+          "authorId": "2120589701",
+          "name": "Ruibin Gu"
+        },
+        {
+          "authorId": "2204938",
+          "name": "Qiuxia Wu"
+        },
+        {
+          "authorId": "2116198941",
+          "name": "Yuqiong Li"
+        },
+        {
+          "authorId": "40497356",
+          "name": "Wenxiong Kang"
+        },
+        {
+          "authorId": "2061154698",
+          "name": "Wing W. Y. Ng"
+        },
+        {
+          "authorId": "2108503703",
+          "name": "Zhiyong Wang"
+        }
+      ]
+    }
+  ]
+}

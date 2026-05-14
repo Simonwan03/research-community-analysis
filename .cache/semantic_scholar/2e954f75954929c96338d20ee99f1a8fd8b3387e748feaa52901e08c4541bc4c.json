@@ -1,0 +1,1271 @@
+{
+  "offset": 0,
+  "citingPaperInfo": {
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/1505.03410, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "title": "Mind the duality gap: safer rules for the Lasso",
+    "authors": [
+      {
+        "authorId": "2442024",
+        "name": "Olivier Fercoq"
+      },
+      {
+        "authorId": "1797840",
+        "name": "Alexandre Gramfort"
+      },
+      {
+        "authorId": "143627573",
+        "name": "J. Salmon"
+      }
+    ]
+  },
+  "data": [
+    {
+      "citedPaper": {
+        "paperId": "5a393d58f1ef9ec5bededa3a7da151c64ffec88d",
+        "externalIds": {
+          "DBLP": "journals/corr/BonnefoyERG14",
+          "MAG": "1757098471",
+          "ArXiv": "1412.4080",
+          "DOI": "10.1109/TSP.2015.2447503",
+          "CorpusId": 16363646
+        },
+        "url": "https://www.semanticscholar.org/paper/5a393d58f1ef9ec5bededa3a7da151c64ffec88d",
+        "title": "Dynamic Screening: Accelerating First-Order Algorithms for the Lasso and Group-Lasso",
+        "venue": "IEEE Transactions on Signal Processing",
+        "year": 2014,
+        "referenceCount": 33,
+        "citationCount": 95,
+        "authors": [
+          {
+            "authorId": "35662436",
+            "name": "Antoine Bonnefoy"
+          },
+          {
+            "authorId": "1729059",
+            "name": "Valentin Emiya"
+          },
+          {
+            "authorId": "1741364",
+            "name": "L. Ralaivola"
+          },
+          {
+            "authorId": "1731535",
+            "name": "R. Gribonval"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "44770745eee905c576822c34b7a598af98898247",
+        "externalIds": {
+          "DBLP": "conf/eusipco/BonnefoyERG14",
+          "MAG": "2231059058",
+          "CorpusId": 14138139
+        },
+        "url": "https://www.semanticscholar.org/paper/44770745eee905c576822c34b7a598af98898247",
+        "title": "A dynamic screening principle for the Lasso",
+        "venue": "European Signal Processing Conference",
+        "year": 2014,
+        "referenceCount": 17,
+        "citationCount": 58,
+        "authors": [
+          {
+            "authorId": "35662436",
+            "name": "Antoine Bonnefoy"
+          },
+          {
+            "authorId": "1729059",
+            "name": "Valentin Emiya"
+          },
+          {
+            "authorId": "1741364",
+            "name": "L. Ralaivola"
+          },
+          {
+            "authorId": "1731535",
+            "name": "R. Gribonval"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "62596e437fa469fadefde34a47b2933cc92402d0",
+        "externalIds": {
+          "MAG": "414151235",
+          "DOI": "10.11329/jjssj.44.247",
+          "CorpusId": 125408638
+        },
+        "url": "https://www.semanticscholar.org/paper/62596e437fa469fadefde34a47b2933cc92402d0",
+        "title": "Statistics for High-Dimensional Data: Methods, Theory and Applications, Peter Buhlman and Sara van de Geer著, Springer, 2011年6月, 558pp., 価格 114,99〓, ISBN 978-3642201912",
+        "venue": "",
+        "year": 2014,
+        "referenceCount": 0,
+        "citationCount": 723,
+        "authors": [
+          {
+            "authorId": "2348482718",
+            "name": "松井 秀俊"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "9e91b52f68dccc5509668f204813d3441fe3f7f6",
+        "externalIds": {
+          "MAG": "2951931886",
+          "DBLP": "conf/nips/LiangFP14",
+          "ArXiv": "1407.5611",
+          "CorpusId": 506267
+        },
+        "url": "https://www.semanticscholar.org/paper/9e91b52f68dccc5509668f204813d3441fe3f7f6",
+        "title": "Local Linear Convergence of Forward-Backward under Partial Smoothness",
+        "venue": "Neural Information Processing Systems",
+        "year": 2014,
+        "referenceCount": 36,
+        "citationCount": 101,
+        "authors": [
+          {
+            "authorId": "40657911",
+            "name": "Jingwei Liang"
+          },
+          {
+            "authorId": "144812306",
+            "name": "M. Fadili"
+          },
+          {
+            "authorId": "145481009",
+            "name": "G. Peyré"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "fb7f7351f6568f6dcb4e3711624cae57bf3a3deb",
+        "externalIds": {
+          "DBLP": "journals/pami/XiangWR17",
+          "ArXiv": "1405.4897",
+          "MAG": "1498372169",
+          "DOI": "10.1109/TPAMI.2016.2568185",
+          "CorpusId": 2238775,
+          "PubMed": "27187950"
+        },
+        "url": "https://www.semanticscholar.org/paper/fb7f7351f6568f6dcb4e3711624cae57bf3a3deb",
+        "title": "Screening Tests for Lasso Problems",
+        "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+        "year": 2014,
+        "referenceCount": 61,
+        "citationCount": 118,
+        "authors": [
+          {
+            "authorId": "1730249",
+            "name": "Z. Xiang"
+          },
+          {
+            "authorId": "2118376175",
+            "name": "Yun Wang"
+          },
+          {
+            "authorId": "1693135",
+            "name": "P. Ramadge"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "73068d3d5dacf987848eadd9af5b5fad8f7cf9c6",
+        "externalIds": {
+          "DBLP": "journals/mp/SchmidtRB17",
+          "MAG": "2963156201",
+          "ArXiv": "1309.2388",
+          "DOI": "10.1007/s10107-016-1030-6",
+          "CorpusId": 5095654
+        },
+        "url": "https://www.semanticscholar.org/paper/73068d3d5dacf987848eadd9af5b5fad8f7cf9c6",
+        "title": "Minimizing finite sums with the stochastic average gradient",
+        "venue": "Mathematical programming",
+        "year": 2013,
+        "referenceCount": 99,
+        "citationCount": 1323,
+        "authors": [
+          {
+            "authorId": "145610994",
+            "name": "Mark W. Schmidt"
+          },
+          {
+            "authorId": "7245737",
+            "name": "Nicolas Le Roux"
+          },
+          {
+            "authorId": "144570279",
+            "name": "F. Bach"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "57dd998735322b2523fcf501aa4931a7811aa5f8",
+        "externalIds": {
+          "MAG": "2144827097",
+          "DBLP": "conf/icassp/XuR13",
+          "DOI": "10.1109/ICASSP.2013.6638287",
+          "CorpusId": 8443479
+        },
+        "url": "https://www.semanticscholar.org/paper/57dd998735322b2523fcf501aa4931a7811aa5f8",
+        "title": "Three structural results on the lasso problem",
+        "venue": "IEEE International Conference on Acoustics, Speech, and Signal Processing",
+        "year": 2013,
+        "referenceCount": 11,
+        "citationCount": 6,
+        "authors": [
+          {
+            "authorId": "2366042",
+            "name": "Pingmei Xu"
+          },
+          {
+            "authorId": "1693135",
+            "name": "P. Ramadge"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "714cb770ac83f42fc41a16cc846e31da817678b0",
+        "externalIds": {
+          "MAG": "2097620183",
+          "ArXiv": "1211.3966",
+          "DBLP": "journals/corr/abs-1211-3966",
+          "DOI": "10.5555/2789272.2886785",
+          "CorpusId": 14292927
+        },
+        "url": "https://www.semanticscholar.org/paper/714cb770ac83f42fc41a16cc846e31da817678b0",
+        "title": "Lasso screening rules via dual polytope projection",
+        "venue": "Journal of machine learning research",
+        "year": 2012,
+        "referenceCount": 46,
+        "citationCount": 251,
+        "authors": [
+          {
+            "authorId": "2146041866",
+            "name": "Jie Wang"
+          },
+          {
+            "authorId": "1798011",
+            "name": "Peter Wonka"
+          },
+          {
+            "authorId": "2778556",
+            "name": "Jieping Ye"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "e6676264d3af3604ee25f931aae78448b924fcf2",
+        "externalIds": {
+          "MAG": "2950064881",
+          "ArXiv": "1206.0313",
+          "DOI": "10.1214/13-EJS815",
+          "CorpusId": 5849668
+        },
+        "url": "https://www.semanticscholar.org/paper/e6676264d3af3604ee25f931aae78448b924fcf2",
+        "title": "The Lasso Problem and Uniqueness",
+        "venue": "",
+        "year": 2012,
+        "referenceCount": 31,
+        "citationCount": 583,
+        "authors": [
+          {
+            "authorId": "7135376",
+            "name": "R. Tibshirani"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "6c32dc9d86a744b320dae77fb38364a03cd3d5f9",
+        "externalIds": {
+          "MAG": "2106555403",
+          "DBLP": "journals/bmcsb/HauryMVV12",
+          "PubMedCentral": "3598250",
+          "ArXiv": "1205.1181",
+          "DOI": "10.1186/1752-0509-6-145",
+          "CorpusId": 10228943,
+          "PubMed": "23173819"
+        },
+        "url": "https://www.semanticscholar.org/paper/6c32dc9d86a744b320dae77fb38364a03cd3d5f9",
+        "title": "TIGRESS: Trustful Inference of Gene REgulation using Stability Selection",
+        "venue": "BMC Systems Biology",
+        "year": 2012,
+        "referenceCount": 41,
+        "citationCount": 420,
+        "authors": [
+          {
+            "authorId": "1905491",
+            "name": "Anne-Claire Haury"
+          },
+          {
+            "authorId": "2638781",
+            "name": "F. Mordelet"
+          },
+          {
+            "authorId": "1402120569",
+            "name": "Paola Vera-Licona"
+          },
+          {
+            "authorId": "152303545",
+            "name": "Jean-Philippe Vert"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "402447672f12ec30e5b79d41abf9ab41bc8f549e",
+        "externalIds": {
+          "DBLP": "journals/corr/abs-1205-0079",
+          "ArXiv": "1205.0079",
+          "MAG": "2129697675",
+          "CorpusId": 347495
+        },
+        "url": "https://www.semanticscholar.org/paper/402447672f12ec30e5b79d41abf9ab41bc8f549e",
+        "title": "Complexity Analysis of the Lasso Regularization Path",
+        "venue": "International Conference on Machine Learning",
+        "year": 2012,
+        "referenceCount": 22,
+        "citationCount": 138,
+        "authors": [
+          {
+            "authorId": "2599292",
+            "name": "J. Mairal"
+          },
+          {
+            "authorId": "144923779",
+            "name": "Bin Yu"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "c08abc465e2c3867484360e72ebf52454c2b51a5",
+        "externalIds": {
+          "MAG": "2155136387",
+          "DOI": "10.1088/0031-9155/57/7/1937",
+          "CorpusId": 881299,
+          "PubMed": "22421459"
+        },
+        "url": "https://www.semanticscholar.org/paper/c08abc465e2c3867484360e72ebf52454c2b51a5",
+        "title": "Mixed-norm estimates for the M/EEG inverse problem using accelerated gradient methods",
+        "venue": "Physics in Medicine and Biology",
+        "year": 2012,
+        "referenceCount": 76,
+        "citationCount": 243,
+        "authors": [
+          {
+            "authorId": "1797840",
+            "name": "Alexandre Gramfort"
+          },
+          {
+            "authorId": "29292560",
+            "name": "M. Kowalski"
+          },
+          {
+            "authorId": "32405184",
+            "name": "M. Hämäläinen"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "b2f787600a6c5d6d100ccdd17d6c1028a64439aa",
+        "externalIds": {
+          "MAG": "2169301591",
+          "DBLP": "conf/icassp/XiangR12",
+          "DOI": "10.1109/ICASSP.2012.6288334",
+          "CorpusId": 7865451
+        },
+        "url": "https://www.semanticscholar.org/paper/b2f787600a6c5d6d100ccdd17d6c1028a64439aa",
+        "title": "Fast lasso screening tests based on correlations",
+        "venue": "IEEE International Conference on Acoustics, Speech, and Signal Processing",
+        "year": 2012,
+        "referenceCount": 8,
+        "citationCount": 94,
+        "authors": [
+          {
+            "authorId": "1730249",
+            "name": "Z. Xiang"
+          },
+          {
+            "authorId": "1693135",
+            "name": "P. Ramadge"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "34b42bcf84d79e30e26413f1589a9cf4b37076f9",
+        "externalIds": {
+          "MAG": "2112495313",
+          "DBLP": "conf/nips/XiangXR11",
+          "CorpusId": 14156675
+        },
+        "url": "https://www.semanticscholar.org/paper/34b42bcf84d79e30e26413f1589a9cf4b37076f9",
+        "title": "Learning Sparse Representations of High Dimensional Data on Large Scale Dictionaries",
+        "venue": "Neural Information Processing Systems",
+        "year": 2011,
+        "referenceCount": 28,
+        "citationCount": 152,
+        "authors": [
+          {
+            "authorId": "1730249",
+            "name": "Z. Xiang"
+          },
+          {
+            "authorId": "2108834982",
+            "name": "Hao Xu"
+          },
+          {
+            "authorId": "1693135",
+            "name": "P. Ramadge"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "4153e5f488acde91d694f6b99b04e49650827eb2",
+        "externalIds": {
+          "MAG": "2950077180",
+          "ArXiv": "1108.4988",
+          "DOI": "10.1214/12-STS399",
+          "CorpusId": 88518719
+        },
+        "url": "https://www.semanticscholar.org/paper/4153e5f488acde91d694f6b99b04e49650827eb2",
+        "title": "A General Theory of Concave Regularization for High-Dimensional Sparse Estimation Problems",
+        "venue": "",
+        "year": 2011,
+        "referenceCount": 57,
+        "citationCount": 347,
+        "authors": [
+          {
+            "authorId": "153884534",
+            "name": "Cun-Hui Zhang"
+          },
+          {
+            "authorId": "49104973",
+            "name": "Tong Zhang"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "68b38f057e593f02fa4c64c4cbf481d34c09cb7b",
+        "externalIds": {
+          "MAG": "2506186271",
+          "DOI": "10.1007/978-3-642-20192-9",
+          "CorpusId": 63629019
+        },
+        "url": "https://www.semanticscholar.org/paper/68b38f057e593f02fa4c64c4cbf481d34c09cb7b",
+        "title": "Statistics for High-Dimensional Data: Methods, Theory and Applications",
+        "venue": "",
+        "year": 2011,
+        "referenceCount": 0,
+        "citationCount": 1689,
+        "authors": [
+          {
+            "authorId": "117019660",
+            "name": "Peter Bhlmann"
+          },
+          {
+            "authorId": "88941006",
+            "name": "S. Geer"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "472e8257dca67af31539bc2bdc1479a4c43bca2f",
+        "externalIds": {
+          "MAG": "2092663520",
+          "DBLP": "journals/jmiv/ChambolleP11",
+          "DOI": "10.1007/s10851-010-0251-1",
+          "CorpusId": 261281173
+        },
+        "url": "https://www.semanticscholar.org/paper/472e8257dca67af31539bc2bdc1479a4c43bca2f",
+        "title": "A First-Order Primal-Dual Algorithm for Convex Problems with Applications to Imaging",
+        "venue": "Journal of Mathematical Imaging and Vision",
+        "year": 2011,
+        "referenceCount": 40,
+        "citationCount": 2554,
+        "authors": [
+          {
+            "authorId": "1683740",
+            "name": "A. Chambolle"
+          },
+          {
+            "authorId": "1730097",
+            "name": "T. Pock"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "ad4fd2c149f220a62441576af92a8a669fe81246",
+        "externalIds": {
+          "DBLP": "journals/jmlr/PedregosaVGMTGBPWDVPCBPD11",
+          "ArXiv": "1201.0490",
+          "MAG": "2101234009",
+          "DOI": "10.5555/1953048.2078195",
+          "CorpusId": 10659969
+        },
+        "url": "https://www.semanticscholar.org/paper/ad4fd2c149f220a62441576af92a8a669fe81246",
+        "title": "Scikit-learn: Machine Learning in Python",
+        "venue": "Journal of machine learning research",
+        "year": 2011,
+        "referenceCount": 17,
+        "citationCount": 88066,
+        "authors": [
+          {
+            "authorId": "2570016",
+            "name": "Fabian Pedregosa"
+          },
+          {
+            "authorId": "3025780",
+            "name": "G. Varoquaux"
+          },
+          {
+            "authorId": "1797840",
+            "name": "Alexandre Gramfort"
+          },
+          {
+            "authorId": "52200573",
+            "name": "V. Michel"
+          },
+          {
+            "authorId": "8493461",
+            "name": "B. Thirion"
+          },
+          {
+            "authorId": "2958756",
+            "name": "O. Grisel"
+          },
+          {
+            "authorId": "27257992",
+            "name": "Mathieu Blondel"
+          },
+          {
+            "authorId": "1881041",
+            "name": "Gilles Louppe"
+          },
+          {
+            "authorId": "2780213",
+            "name": "P. Prettenhofer"
+          },
+          {
+            "authorId": "2067827437",
+            "name": "Ron Weiss"
+          },
+          {
+            "authorId": "39571582",
+            "name": "Ron J. Weiss"
+          },
+          {
+            "authorId": "2081469",
+            "name": "J. Vanderplas"
+          },
+          {
+            "authorId": "144720379",
+            "name": "Alexandre Passos"
+          },
+          {
+            "authorId": "3084321",
+            "name": "D. Cournapeau"
+          },
+          {
+            "authorId": "2423884",
+            "name": "M. Brucher"
+          },
+          {
+            "authorId": "35243423",
+            "name": "M. Perrot"
+          },
+          {
+            "authorId": "1710398",
+            "name": "E. Duchesnay"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "5de3aa56d958f96794045fa05d0b626f36c5ae0c",
+        "externalIds": {
+          "MAG": "40786246",
+          "DOI": "10.70675/72faf70fze619z44adzb071z7e7ca54a5a67",
+          "CorpusId": 186325451
+        },
+        "url": "https://www.semanticscholar.org/paper/5de3aa56d958f96794045fa05d0b626f36c5ae0c",
+        "title": "Sparse coding for machine learning, image processing and computer vision",
+        "venue": "",
+        "year": 2010,
+        "referenceCount": 247,
+        "citationCount": 57,
+        "authors": [
+          {
+            "authorId": "2599292",
+            "name": "J. Mairal"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "ae811bbbd75b62017f1117d0ea8a04835fcb06e3",
+        "externalIds": {
+          "ArXiv": "1011.2234",
+          "MAG": "2953131454",
+          "DOI": "10.1111/j.1467-9868.2011.01004.x",
+          "CorpusId": 9356733,
+          "PubMed": "25506256"
+        },
+        "url": "https://www.semanticscholar.org/paper/ae811bbbd75b62017f1117d0ea8a04835fcb06e3",
+        "title": "Strong rules for discarding predictors in lasso‐type problems",
+        "venue": "Journal of The Royal Statistical Society Series B-statistical Methodology",
+        "year": 2010,
+        "referenceCount": 33,
+        "citationCount": 680,
+        "authors": [
+          {
+            "authorId": "2355335849",
+            "name": "Robert J. Tibshirani"
+          },
+          {
+            "authorId": "2154667",
+            "name": "J. Bien"
+          },
+          {
+            "authorId": "3056361",
+            "name": "J. Friedman"
+          },
+          {
+            "authorId": "1784682",
+            "name": "T. Hastie"
+          },
+          {
+            "authorId": "2799698",
+            "name": "N. Simon"
+          },
+          {
+            "authorId": "2110315433",
+            "name": "Jonathan E. Taylor"
+          },
+          {
+            "authorId": "7135376",
+            "name": "R. Tibshirani"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "edf70c9e29eafef810c8f0668f012dcabcab2e0f",
+        "externalIds": {
+          "DBLP": "journals/corr/abs-1009-4219",
+          "MAG": "1543911290",
+          "ArXiv": "1009.3515",
+          "CorpusId": 13218688
+        },
+        "url": "https://www.semanticscholar.org/paper/edf70c9e29eafef810c8f0668f012dcabcab2e0f",
+        "title": "Safe Feature Elimination in Sparse Supervised Learning",
+        "venue": "arXiv.org",
+        "year": 2010,
+        "referenceCount": 21,
+        "citationCount": 233,
+        "authors": [
+          {
+            "authorId": "1701847",
+            "name": "L. Ghaoui"
+          },
+          {
+            "authorId": "48070979",
+            "name": "V. Viallon"
+          },
+          {
+            "authorId": "2043962",
+            "name": "T. Rabbani"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "112e2d4f6ffbfba004576a159ffdf60f5dad8d3a",
+        "externalIds": {
+          "ArXiv": "1002.4734",
+          "MAG": "1965125844",
+          "DOI": "10.1214/09-AOS729",
+          "CorpusId": 88519565
+        },
+        "url": "https://www.semanticscholar.org/paper/112e2d4f6ffbfba004576a159ffdf60f5dad8d3a",
+        "title": "Nearly unbiased variable selection under minimax concave penalty",
+        "venue": "",
+        "year": 2010,
+        "referenceCount": 56,
+        "citationCount": 3920,
+        "authors": [
+          {
+            "authorId": "153884534",
+            "name": "Cun-Hui Zhang"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "73a8a205a37f0169e89d3f0819a8ec36b39d3d2a",
+        "externalIds": {
+          "MAG": "2562162676",
+          "ArXiv": "0809.2932",
+          "DOI": "10.1111/j.1467-9868.2010.00740.x",
+          "CorpusId": 1231300
+        },
+        "url": "https://www.semanticscholar.org/paper/73a8a205a37f0169e89d3f0819a8ec36b39d3d2a",
+        "title": "Stability selection",
+        "venue": "",
+        "year": 2008,
+        "referenceCount": 105,
+        "citationCount": 2573,
+        "authors": [
+          {
+            "authorId": "1941834",
+            "name": "N. Meinshausen"
+          },
+          {
+            "authorId": "49886429",
+            "name": "P. Buehlmann"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "c74cb2dc88baec89af714577ddafa454ab785135",
+        "externalIds": {
+          "MAG": "2160222246",
+          "DBLP": "conf/icml/Bach08a",
+          "ArXiv": "0804.1302",
+          "DOI": "10.1145/1390156.1390161",
+          "CorpusId": 609778
+        },
+        "url": "https://www.semanticscholar.org/paper/c74cb2dc88baec89af714577ddafa454ab785135",
+        "title": "Bolasso: model consistent Lasso estimation through the bootstrap",
+        "venue": "International Conference on Machine Learning",
+        "year": 2008,
+        "referenceCount": 22,
+        "citationCount": 467,
+        "authors": [
+          {
+            "authorId": "144570279",
+            "name": "F. Bach"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "bb92178d5133f9165b704500cbe2e5a1b2dab01d",
+        "externalIds": {
+          "MAG": "2116581043",
+          "ArXiv": "0801.1095",
+          "DOI": "10.1214/08-AOS620",
+          "CorpusId": 7048603
+        },
+        "url": "https://www.semanticscholar.org/paper/bb92178d5133f9165b704500cbe2e5a1b2dab01d",
+        "title": "SIMULTANEOUS ANALYSIS OF LASSO AND DANTZIG SELECTOR",
+        "venue": "",
+        "year": 2008,
+        "referenceCount": 37,
+        "citationCount": 2618,
+        "authors": [
+          {
+            "authorId": "1678771",
+            "name": "P. Bickel"
+          },
+          {
+            "authorId": "100532061",
+            "name": "Y. Ritov"
+          },
+          {
+            "authorId": "2667773",
+            "name": "A. Tsybakov"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "ec6271dd0df8e9d22aaa96a0f6ec7482836786f2",
+        "externalIds": {
+          "MAG": "2101675075",
+          "DOI": "10.1002/mrm.21391",
+          "CorpusId": 15370510,
+          "PubMed": "17969013"
+        },
+        "url": "https://www.semanticscholar.org/paper/ec6271dd0df8e9d22aaa96a0f6ec7482836786f2",
+        "title": "Sparse MRI: The application of compressed sensing for rapid MR imaging",
+        "venue": "Magnetic Resonance in Medicine",
+        "year": 2007,
+        "referenceCount": 41,
+        "citationCount": 7334,
+        "authors": [
+          {
+            "authorId": "2050014",
+            "name": "M. Lustig"
+          },
+          {
+            "authorId": "1709392",
+            "name": "D. Donoho"
+          },
+          {
+            "authorId": "145854819",
+            "name": "J. Pauly"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "5acfb2abca580a40f2f6890371c2387527dfefc0",
+        "externalIds": {
+          "DBLP": "journals/jstsp/KimKLBG07",
+          "MAG": "2055277132",
+          "DOI": "10.1109/JSTSP.2007.910971",
+          "CorpusId": 675041
+        },
+        "url": "https://www.semanticscholar.org/paper/5acfb2abca580a40f2f6890371c2387527dfefc0",
+        "title": "An Interior-Point Method for Large-Scale  $\\ell_1$-Regularized Least Squares",
+        "venue": "IEEE Journal on Selected Topics in Signal Processing",
+        "year": 2007,
+        "referenceCount": 62,
+        "citationCount": 1883,
+        "authors": [
+          {
+            "authorId": "2695019",
+            "name": "Seung-Jean Kim"
+          },
+          {
+            "authorId": "6190636",
+            "name": "Kwangmoo Koh"
+          },
+          {
+            "authorId": "2050014",
+            "name": "M. Lustig"
+          },
+          {
+            "authorId": "1843103",
+            "name": "Stephen P. Boyd"
+          },
+          {
+            "authorId": "2543708",
+            "name": "D. Gorinevsky"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "6218522eab6014559540fb9b5eba858c84a25fe0",
+        "externalIds": {
+          "MAG": "2107861471",
+          "ArXiv": "0711.1612",
+          "DOI": "10.1007/S00041-008-9045-X",
+          "CorpusId": 5879257
+        },
+        "url": "https://www.semanticscholar.org/paper/6218522eab6014559540fb9b5eba858c84a25fe0",
+        "title": "Enhancing Sparsity by Reweighted ℓ1 Minimization",
+        "venue": "",
+        "year": 2007,
+        "referenceCount": 66,
+        "citationCount": 5218,
+        "authors": [
+          {
+            "authorId": "2006869",
+            "name": "E. Candès"
+          },
+          {
+            "authorId": "1686007",
+            "name": "M. Wakin"
+          },
+          {
+            "authorId": "1843103",
+            "name": "Stephen P. Boyd"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "d50b597c475e87e03e8630e381011cb46e460ad8",
+        "externalIds": {
+          "ArXiv": "0708.1485",
+          "MAG": "2056636001",
+          "DOI": "10.1214/07-AOAS131",
+          "CorpusId": 15413966
+        },
+        "url": "https://www.semanticscholar.org/paper/d50b597c475e87e03e8630e381011cb46e460ad8",
+        "title": "PATHWISE COORDINATE OPTIMIZATION",
+        "venue": "",
+        "year": 2007,
+        "referenceCount": 32,
+        "citationCount": 2102,
+        "authors": [
+          {
+            "authorId": "3056361",
+            "name": "J. Friedman"
+          },
+          {
+            "authorId": "1784682",
+            "name": "T. Hastie"
+          },
+          {
+            "authorId": "66739595",
+            "name": "Holger Hofling"
+          },
+          {
+            "authorId": "1761784",
+            "name": "R. Tibshirani"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "7ad83e8836ee73533985701869d9cb1149e04cbd",
+        "externalIds": {
+          "ArXiv": "math/0612857",
+          "MAG": "2949078246",
+          "DOI": "10.1111/j.1467-9868.2008.00674.x",
+          "CorpusId": 5001358
+        },
+        "url": "https://www.semanticscholar.org/paper/7ad83e8836ee73533985701869d9cb1149e04cbd",
+        "title": "Sure independence screening for ultrahigh dimensional feature space",
+        "venue": "",
+        "year": 2006,
+        "referenceCount": 150,
+        "citationCount": 2763,
+        "authors": [
+          {
+            "authorId": "144958605",
+            "name": "Jianqing Fan"
+          },
+          {
+            "authorId": "35118626",
+            "name": "Jinchi Lv"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "99dc70afc02f49f56c0c511a578c10bc60c10c84",
+        "externalIds": {
+          "MAG": "2020925091",
+          "DOI": "10.1198/016214506000000735",
+          "CorpusId": 13998761
+        },
+        "url": "https://www.semanticscholar.org/paper/99dc70afc02f49f56c0c511a578c10bc60c10c84",
+        "title": "The Adaptive Lasso and Its Oracle Properties",
+        "venue": "",
+        "year": 2006,
+        "referenceCount": 30,
+        "citationCount": 7667,
+        "authors": [
+          {
+            "authorId": "48861660",
+            "name": "H. Zou"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "e9fde5617b15623d1151d152671626df06aa5c2a",
+        "externalIds": {
+          "MAG": "1993273815",
+          "DOI": "10.1111/j.1467-9868.2005.00527.x",
+          "CorpusId": 14134075
+        },
+        "url": "https://www.semanticscholar.org/paper/e9fde5617b15623d1151d152671626df06aa5c2a",
+        "title": "Addendum: Regularization and variable selection via the elastic net",
+        "venue": "",
+        "year": 2005,
+        "referenceCount": 2,
+        "citationCount": 9655,
+        "authors": [
+          {
+            "authorId": "48861660",
+            "name": "H. Zou"
+          },
+          {
+            "authorId": "1784682",
+            "name": "T. Hastie"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "58db9852fedd50a4732e3c174383710422c32ecc",
+        "externalIds": {
+          "MAG": "2074682976",
+          "DOI": "10.1198/016214501753382273",
+          "CorpusId": 14116328
+        },
+        "url": "https://www.semanticscholar.org/paper/58db9852fedd50a4732e3c174383710422c32ecc",
+        "title": "Variable Selection via Nonconcave Penalized Likelihood and its Oracle Properties",
+        "venue": "",
+        "year": 2001,
+        "referenceCount": 27,
+        "citationCount": 9554,
+        "authors": [
+          {
+            "authorId": "144958605",
+            "name": "Jianqing Fan"
+          },
+          {
+            "authorId": "1812881",
+            "name": "Runze Li"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "3d95ae9504cfb904216be4f2bfda9315d0476986",
+        "externalIds": {
+          "MAG": "1540764732",
+          "DOI": "10.1023/A:1017501703105",
+          "CorpusId": 18740145
+        },
+        "url": "https://www.semanticscholar.org/paper/3d95ae9504cfb904216be4f2bfda9315d0476986",
+        "title": "Convergence of a Block Coordinate Descent Method for Nondifferentiable Minimization",
+        "venue": "",
+        "year": 2001,
+        "referenceCount": 38,
+        "citationCount": 2219,
+        "authors": [
+          {
+            "authorId": "1682823",
+            "name": "P. Tseng"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "db31973871f5648cffb02e7590582376e16ad0bb",
+        "externalIds": {
+          "MAG": "2062102668",
+          "DOI": "10.1093/IMANUM/20.3.389",
+          "CorpusId": 14553495
+        },
+        "url": "https://www.semanticscholar.org/paper/db31973871f5648cffb02e7590582376e16ad0bb",
+        "title": "A new approach to variable selection in least squares problems",
+        "venue": "",
+        "year": 2000,
+        "referenceCount": 7,
+        "citationCount": 961,
+        "authors": [
+          {
+            "authorId": "34913208",
+            "name": "M. R. Osborne"
+          },
+          {
+            "authorId": "3447771",
+            "name": "Brett Presnell"
+          },
+          {
+            "authorId": "2638770",
+            "name": "B. Turlach"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "9af121fbed84c3484ab86df8f17f1f198ed790a0",
+        "externalIds": {
+          "MAG": "2078204800",
+          "DBLP": "journals/siamrev/ChenDS01",
+          "DOI": "10.1137/S1064827596304010",
+          "CorpusId": 2429822
+        },
+        "url": "https://www.semanticscholar.org/paper/9af121fbed84c3484ab86df8f17f1f198ed790a0",
+        "title": "Atomic Decomposition by Basis Pursuit",
+        "venue": "SIAM Journal on Scientific Computing",
+        "year": 1998,
+        "referenceCount": 51,
+        "citationCount": 11856,
+        "authors": [
+          {
+            "authorId": "1727797",
+            "name": "S. Chen"
+          },
+          {
+            "authorId": "1709392",
+            "name": "D. Donoho"
+          },
+          {
+            "authorId": "145621255",
+            "name": "M. Saunders"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "065c019bb27e23ed10492ca61b186eb9375dd5de",
+        "externalIds": {
+          "MAG": "1553702074",
+          "DOI": "10.1007/978-3-662-02796-7",
+          "CorpusId": 118755909
+        },
+        "url": "https://www.semanticscholar.org/paper/065c019bb27e23ed10492ca61b186eb9375dd5de",
+        "title": "Convex analysis and minimization algorithms",
+        "venue": "",
+        "year": 1993,
+        "referenceCount": 0,
+        "citationCount": 3145,
+        "authors": [
+          {
+            "authorId": "102835246",
+            "name": "J. Hiriart-Urruty"
+          },
+          {
+            "authorId": "8773884",
+            "name": "C. Lemaréchal"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "54e95370ca644f0753c4f4f8deb585980cbaf56b",
+        "externalIds": {
+          "DBLP": "reference/vision/Goldluecke14a",
+          "DOI": "10.1007/978-0-387-31439-6_683",
+          "CorpusId": 6223674
+        },
+        "url": "https://www.semanticscholar.org/paper/54e95370ca644f0753c4f4f8deb585980cbaf56b",
+        "title": "Variational Analysis",
+        "venue": "Computer Vision, A Reference Guide",
+        "year": 2014,
+        "referenceCount": 0,
+        "citationCount": 4428,
+        "authors": [
+          {
+            "authorId": "2065814",
+            "name": "Bastian Goldlücke"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "866e9d77bf58a945591c1eabe5c2c0396242e5f3",
+        "externalIds": {
+          "CorpusId": 15672669
+        },
+        "url": "https://www.semanticscholar.org/paper/866e9d77bf58a945591c1eabe5c2c0396242e5f3",
+        "title": "Author manuscript, published in \"International Conference on Machine Learning (2012)\" Small-sample brain mapping: sparse recovery on spatially correlated designs with randomization and clustering",
+        "venue": "",
+        "year": 2012,
+        "referenceCount": 0,
+        "citationCount": 75,
+        "authors": []
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "A rst-order primal-dual algorithm for convex problems with applications to imaging",
+        "venue": "",
+        "year": 2010,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "b365b8e45b7d81f081de44ac8f9eadf9144f3ca5",
+        "externalIds": {
+          "MAG": "2135046866",
+          "DOI": "10.1111/J.2517-6161.1996.TB02080.X",
+          "CorpusId": 16162039
+        },
+        "url": "https://www.semanticscholar.org/paper/b365b8e45b7d81f081de44ac8f9eadf9144f3ca5",
+        "title": "Regression Shrinkage and Selection via the Lasso",
+        "venue": "",
+        "year": 1996,
+        "referenceCount": 25,
+        "citationCount": 51233,
+        "authors": [
+          {
+            "authorId": "1761784",
+            "name": "R. Tibshirani"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "78a9b31d5c2544c5d3d519e4df0f938ed53196f8",
+        "externalIds": {
+          "CorpusId": 121570279
+        },
+        "url": "https://www.semanticscholar.org/paper/78a9b31d5c2544c5d3d519e4df0f938ed53196f8",
+        "title": "© Institute of Mathematical Statistics, 2004 LEAST ANGLE REGRESSION",
+        "venue": "",
+        "year": null,
+        "referenceCount": 0,
+        "citationCount": 6682,
+        "authors": []
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "Mind the duality gap: safer rules for the Lasso",
+        "venue": "",
+        "year": null,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    }
+  ]
+}

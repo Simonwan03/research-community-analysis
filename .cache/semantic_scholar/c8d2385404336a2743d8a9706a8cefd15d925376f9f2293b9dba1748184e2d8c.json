@@ -1,0 +1,362 @@
+{
+  "total": 3059136,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "cd0b2c5fd81c535fa5c93e3d43658db84105ecfa",
+      "externalIds": {
+        "DBLP": "conf/icml/ChenMGBO18",
+        "MAG": "2795842208",
+        "ArXiv": "1803.10161",
+        "CorpusId": 4445161
+      },
+      "url": "https://www.semanticscholar.org/paper/cd0b2c5fd81c535fa5c93e3d43658db84105ecfa",
+      "title": "Stein Points",
+      "venue": "International Conference on Machine Learning",
+      "year": 2018,
+      "referenceCount": 50,
+      "citationCount": 113,
+      "authors": [
+        {
+          "authorId": "21697622",
+          "name": "W. Y. Chen"
+        },
+        {
+          "authorId": "143722101",
+          "name": "Lester W. Mackey"
+        },
+        {
+          "authorId": "39522717",
+          "name": "Jackson Gorham"
+        },
+        {
+          "authorId": "3236600",
+          "name": "François‐Xavier Briol"
+        },
+        {
+          "authorId": "3353497",
+          "name": "C. Oates"
+        }
+      ]
+    },
+    {
+      "paperId": "24e010956dbd6fb49332748dcba0ce78b36153a6",
+      "externalIds": {
+        "ArXiv": "2205.08044",
+        "CorpusId": 266767354
+      },
+      "url": "https://www.semanticscholar.org/paper/24e010956dbd6fb49332748dcba0ce78b36153a6",
+      "title": "Modules at boundary points, fiberwise Bergman kernels, and log-subharmonicity II -- on Stein manifolds",
+      "venue": "",
+      "year": 2022,
+      "referenceCount": 50,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "2157045412",
+          "name": "Shijie Bao"
+        },
+        {
+          "authorId": "2193227199",
+          "name": "Qi’an Guan"
+        }
+      ]
+    },
+    {
+      "paperId": "bd3bd11032b9b03d23a43498335c98d9f84a2a3c",
+      "externalIds": {
+        "ArXiv": "2503.21103",
+        "DBLP": "journals/corr/abs-2503-21103",
+        "DOI": "10.48550/arXiv.2503.21103",
+        "CorpusId": 277349748
+      },
+      "url": "https://www.semanticscholar.org/paper/bd3bd11032b9b03d23a43498335c98d9f84a2a3c",
+      "title": "Low Stein Discrepancy via Message-Passing Monte Carlo",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "referenceCount": 28,
+      "citationCount": 4,
+      "authors": [
+        {
+          "authorId": "2275186954",
+          "name": "Nathan Kirk"
+        },
+        {
+          "authorId": "67164720",
+          "name": "T. Konstantin Rusch"
+        },
+        {
+          "authorId": "2237811728",
+          "name": "Jakob Zech"
+        },
+        {
+          "authorId": "2303255708",
+          "name": "Daniela Rus"
+        }
+      ]
+    },
+    {
+      "paperId": "99fa953c1dec21872ed3a775cb098103c096e51b",
+      "externalIds": {
+        "ArXiv": "2312.07001",
+        "DBLP": "journals/corr/abs-2312-07001",
+        "DOI": "10.1109/LRA.2024.3390541",
+        "CorpusId": 266174278
+      },
+      "url": "https://www.semanticscholar.org/paper/99fa953c1dec21872ed3a775cb098103c096e51b",
+      "title": "Stein Coverage: A Variational Inference Approach to Distribution-Matching Multisensor Deployment",
+      "venue": "IEEE Robotics and Automation Letters",
+      "year": 2023,
+      "referenceCount": 26,
+      "citationCount": 6,
+      "authors": [
+        {
+          "authorId": "1729253665",
+          "name": "Donipolo Ghimire"
+        },
+        {
+          "authorId": "2881262",
+          "name": "Solmaz S. Kia"
+        }
+      ]
+    },
+    {
+      "paperId": "e9c29d8437f378d1c79b5b0f92ee1f43a3e4d69c",
+      "externalIds": {
+        "DBLP": "conf/nips/LiuTL21",
+        "CorpusId": 245123409
+      },
+      "url": "https://www.semanticscholar.org/paper/e9c29d8437f378d1c79b5b0f92ee1f43a3e4d69c",
+      "title": "Profiling Pareto Front With Multi-Objective Stein Variational Gradient Descent",
+      "venue": "Neural Information Processing Systems",
+      "year": 2021,
+      "referenceCount": 41,
+      "citationCount": 58,
+      "authors": [
+        {
+          "authorId": "46521757",
+          "name": "Xingchao Liu"
+        },
+        {
+          "authorId": "2068201498",
+          "name": "Xin Tong"
+        },
+        {
+          "authorId": "47362268",
+          "name": "Qiang Liu"
+        }
+      ]
+    },
+    {
+      "paperId": "acfbee8ee9344de3dfef8274e8bd023b831952d6",
+      "externalIds": {
+        "ArXiv": "2002.03469",
+        "MAG": "3102473177",
+        "DBLP": "conf/nips/0024G20",
+        "CorpusId": 211069161
+      },
+      "url": "https://www.semanticscholar.org/paper/acfbee8ee9344de3dfef8274e8bd023b831952d6",
+      "title": "Projected Stein Variational Gradient Descent",
+      "venue": "Neural Information Processing Systems",
+      "year": 2020,
+      "referenceCount": 38,
+      "citationCount": 80,
+      "authors": [
+        {
+          "authorId": "2149069664",
+          "name": "Peng Chen"
+        },
+        {
+          "authorId": "1750853",
+          "name": "O. Ghattas"
+        }
+      ]
+    },
+    {
+      "paperId": "bb2ea4b7a5ebf479a2eb84d1a7b0475c05f5d482",
+      "externalIds": {
+        "DBLP": "conf/icml/ChenBBGGMO19",
+        "MAG": "2951238542",
+        "ArXiv": "1905.03673",
+        "CorpusId": 148573093
+      },
+      "url": "https://www.semanticscholar.org/paper/bb2ea4b7a5ebf479a2eb84d1a7b0475c05f5d482",
+      "title": "Stein Point Markov Chain Monte Carlo",
+      "venue": "International Conference on Machine Learning",
+      "year": 2019,
+      "referenceCount": 62,
+      "citationCount": 62,
+      "authors": [
+        {
+          "authorId": "21697622",
+          "name": "W. Y. Chen"
+        },
+        {
+          "authorId": "30407889",
+          "name": "A. Barp"
+        },
+        {
+          "authorId": "3236600",
+          "name": "François‐Xavier Briol"
+        },
+        {
+          "authorId": "39522717",
+          "name": "Jackson Gorham"
+        },
+        {
+          "authorId": "50859190",
+          "name": "M. Girolami"
+        },
+        {
+          "authorId": "143722101",
+          "name": "Lester W. Mackey"
+        },
+        {
+          "authorId": "3353497",
+          "name": "C. Oates"
+        }
+      ]
+    },
+    {
+      "paperId": "86228ac59171104da8ecfc7590425c7527698b63",
+      "externalIds": {
+        "DOI": "10.1109/JPHOTOV.2020.3043104",
+        "CorpusId": 232042995
+      },
+      "url": "https://www.semanticscholar.org/paper/86228ac59171104da8ecfc7590425c7527698b63",
+      "title": "Improved PV Soiling Extraction Through the Detection of Cleanings and Change Points",
+      "venue": "IEEE Journal of Photovoltaics",
+      "year": 2021,
+      "referenceCount": 39,
+      "citationCount": 40,
+      "authors": [
+        {
+          "authorId": "47726564",
+          "name": "L. Micheli"
+        },
+        {
+          "authorId": "31300911",
+          "name": "M. Theristis"
+        },
+        {
+          "authorId": "46193101",
+          "name": "Andreas Livera"
+        },
+        {
+          "authorId": "2365471",
+          "name": "J. Stein"
+        },
+        {
+          "authorId": "12612576",
+          "name": "G. Georghiou"
+        },
+        {
+          "authorId": "145945025",
+          "name": "M. Muller"
+        },
+        {
+          "authorId": "3311884",
+          "name": "F. Almonacid"
+        },
+        {
+          "authorId": "143639728",
+          "name": "E. Fernández"
+        }
+      ]
+    },
+    {
+      "paperId": "1d3d0aceb0019b8473ef13c66d71d771655c2922",
+      "externalIds": {
+        "ArXiv": "1707.00364",
+        "DOI": "10.2140/ant.2023.17.267",
+        "CorpusId": 119305215
+      },
+      "url": "https://www.semanticscholar.org/paper/1d3d0aceb0019b8473ef13c66d71d771655c2922",
+      "title": "Torsion points on elliptic curves over number fields of small degree",
+      "venue": "Algebra &amp; Number Theory",
+      "year": 2017,
+      "referenceCount": 52,
+      "citationCount": 36,
+      "authors": [
+        {
+          "authorId": "102252956",
+          "name": "M. Derickx"
+        },
+        {
+          "authorId": "101352972",
+          "name": "S. Kamienny"
+        },
+        {
+          "authorId": "145075582",
+          "name": "W. Stein"
+        },
+        {
+          "authorId": "143929208",
+          "name": "M. Stoll"
+        }
+      ]
+    },
+    {
+      "paperId": "eddfaa47b3e73d98e04c134fc177f3ec2a403bb6",
+      "externalIds": {
+        "MAG": "2119071853",
+        "DOI": "10.1007/s00122-006-0480-2",
+        "CorpusId": 362340,
+        "PubMed": "17219208"
+      },
+      "url": "https://www.semanticscholar.org/paper/eddfaa47b3e73d98e04c134fc177f3ec2a403bb6",
+      "title": "A 1,000-loci transcript map of the barley genome: new anchoring points for integrative grass genomics",
+      "venue": "Theoretical and Applied Genetics",
+      "year": 2007,
+      "referenceCount": 66,
+      "citationCount": 253,
+      "authors": [
+        {
+          "authorId": "145778478",
+          "name": "N. Stein"
+        },
+        {
+          "authorId": "145994576",
+          "name": "M. Prasad"
+        },
+        {
+          "authorId": "145685293",
+          "name": "U. Scholz"
+        },
+        {
+          "authorId": "145813246",
+          "name": "T. Thiel"
+        },
+        {
+          "authorId": "2119077907",
+          "name": "Hangning Zhang"
+        },
+        {
+          "authorId": "46284756",
+          "name": "M. Wolf"
+        },
+        {
+          "authorId": "38931976",
+          "name": "R. Kota"
+        },
+        {
+          "authorId": "1814043",
+          "name": "R. Varshney"
+        },
+        {
+          "authorId": "3231950",
+          "name": "D. Perović"
+        },
+        {
+          "authorId": "2360326",
+          "name": "I. Grosse"
+        },
+        {
+          "authorId": "145452378",
+          "name": "A. Graner"
+        }
+      ]
+    }
+  ]
+}

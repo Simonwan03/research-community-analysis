@@ -1,0 +1,375 @@
+{
+  "total": 50026,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "c1d42f4faf1f1dd5ed4d0e274f529a3667d382ff",
+      "externalIds": {
+        "ArXiv": "2505.10954",
+        "DBLP": "conf/ijcai/IwaiK0HG25",
+        "DOI": "10.48550/arXiv.2505.10954",
+        "CorpusId": 278714756
+      },
+      "url": "https://www.semanticscholar.org/paper/c1d42f4faf1f1dd5ed4d0e274f529a3667d382ff",
+      "title": "Constrained Preferential Bayesian Optimization and Its Application in Banner Ad Design",
+      "venue": "International Joint Conference on Artificial Intelligence",
+      "year": 2025,
+      "referenceCount": 0,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "2362088155",
+          "name": "Koki Iwai"
+        },
+        {
+          "authorId": "2007396183",
+          "name": "Y. Kumagae"
+        },
+        {
+          "authorId": "2290805884",
+          "name": "Yuki Koyama"
+        },
+        {
+          "authorId": "1783855",
+          "name": "Masahiro Hamasaki"
+        },
+        {
+          "authorId": "2263838010",
+          "name": "Masataka Goto"
+        }
+      ]
+    },
+    {
+      "paperId": "5fbbacd98613c917920a10d0626391b513673e80",
+      "externalIds": {
+        "ArXiv": "2402.05367",
+        "DBLP": "journals/corr/abs-2402-05367",
+        "DOI": "10.48550/arXiv.2402.05367",
+        "CorpusId": 267547787
+      },
+      "url": "https://www.semanticscholar.org/paper/5fbbacd98613c917920a10d0626391b513673e80",
+      "title": "Principled Preferential Bayesian Optimization",
+      "venue": "International Conference on Machine Learning",
+      "year": 2024,
+      "referenceCount": 65,
+      "citationCount": 14,
+      "authors": [
+        {
+          "authorId": "2256693968",
+          "name": "Wenjie Xu"
+        },
+        {
+          "authorId": "2283412636",
+          "name": "Wenbin Wang"
+        },
+        {
+          "authorId": "2282522371",
+          "name": "Yuning Jiang"
+        },
+        {
+          "authorId": "2378010",
+          "name": "B. Svetozarevic"
+        },
+        {
+          "authorId": "2250728552",
+          "name": "Colin N. Jones"
+        }
+      ]
+    },
+    {
+      "paperId": "4cd1178ec1048bf3dd86cb5001148a278d5930a1",
+      "externalIds": {
+        "DBLP": "conf/amcc/CoutinhoPRRMCCR25",
+        "DOI": "10.23919/ACC63710.2025.11107886",
+        "CorpusId": 280704883
+      },
+      "url": "https://www.semanticscholar.org/paper/4cd1178ec1048bf3dd86cb5001148a278d5930a1",
+      "title": "Accelerated controller tuning using human feedback and Multi-Task Preferential Bayesian Optimization",
+      "venue": "American Control Conference",
+      "year": 2025,
+      "referenceCount": 24,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2195284006",
+          "name": "J. P. Coutinho"
+        },
+        {
+          "authorId": "2110679904",
+          "name": "You Peng"
+        },
+        {
+          "authorId": "33130702",
+          "name": "Ricardo R. Rendall"
+        },
+        {
+          "authorId": "2376447356",
+          "name": "Caterina Rizzo"
+        },
+        {
+          "authorId": "2371152500",
+          "name": "Kaiwen Ma"
+        },
+        {
+          "authorId": "98527827",
+          "name": "S. Chin"
+        },
+        {
+          "authorId": "2240924606",
+          "name": "Ivan Castillo"
+        },
+        {
+          "authorId": "2244008043",
+          "name": "Marco S. Reis"
+        }
+      ]
+    },
+    {
+      "paperId": "70009bd42c858e058b85b38823b68fd3e25b6204",
+      "externalIds": {
+        "DBLP": "conf/aistats/AstudilloLBF23",
+        "ArXiv": "2303.15746",
+        "DOI": "10.48550/arXiv.2303.15746",
+        "CorpusId": 257771647
+      },
+      "url": "https://www.semanticscholar.org/paper/70009bd42c858e058b85b38823b68fd3e25b6204",
+      "title": "qEUBO: A Decision-Theoretic Acquisition Function for Preferential Bayesian Optimization",
+      "venue": "International Conference on Artificial Intelligence and Statistics",
+      "year": 2023,
+      "referenceCount": 35,
+      "citationCount": 31,
+      "authors": [
+        {
+          "authorId": "11234441",
+          "name": "Raul Astudillo"
+        },
+        {
+          "authorId": "12905003",
+          "name": "Zhiyuan Jerry Lin"
+        },
+        {
+          "authorId": "3071703",
+          "name": "E. Bakshy"
+        },
+        {
+          "authorId": "1922747",
+          "name": "P. Frazier"
+        }
+      ]
+    },
+    {
+      "paperId": "57795a4ca07e0286a0251638a4e5b4d3cae00700",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2302-01513",
+        "ArXiv": "2302.01513",
+        "DOI": "10.48550/arXiv.2302.01513",
+        "CorpusId": 256598041
+      },
+      "url": "https://www.semanticscholar.org/paper/57795a4ca07e0286a0251638a4e5b4d3cae00700",
+      "title": "Towards Practical Preferential Bayesian Optimization with Skew Gaussian Processes",
+      "venue": "International Conference on Machine Learning",
+      "year": 2023,
+      "referenceCount": 42,
+      "citationCount": 25,
+      "authors": [
+        {
+          "authorId": "66166455",
+          "name": "Shion Takeno"
+        },
+        {
+          "authorId": "49195489",
+          "name": "M. Nomura"
+        },
+        {
+          "authorId": "1949261",
+          "name": "Masayuki Karasuyama"
+        }
+      ]
+    },
+    {
+      "paperId": "caaba96ed80dd0e510145badb0129763b993f4de",
+      "externalIds": {
+        "ArXiv": "1704.03651",
+        "MAG": "2606602301",
+        "DBLP": "conf/icml/GonzalezDDL17",
+        "CorpusId": 31688835
+      },
+      "url": "https://www.semanticscholar.org/paper/caaba96ed80dd0e510145badb0129763b993f4de",
+      "title": "Preferential Bayesian Optimization",
+      "venue": "International Conference on Machine Learning",
+      "year": 2017,
+      "referenceCount": 27,
+      "citationCount": 143,
+      "authors": [
+        {
+          "authorId": "1390665327",
+          "name": "Javier I. González"
+        },
+        {
+          "authorId": "2024189708",
+          "name": "Zhenwen Dai"
+        },
+        {
+          "authorId": "3106771",
+          "name": "Andreas C. Damianou"
+        },
+        {
+          "authorId": "145306271",
+          "name": "Neil D. Lawrence"
+        }
+      ]
+    },
+    {
+      "paperId": "f9a20c1769f76e7ef0be7c70404d25484eee1668",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2512-09481",
+        "ArXiv": "2512.09481",
+        "DOI": "10.48550/arXiv.2512.09481",
+        "CorpusId": 283721603
+      },
+      "url": "https://www.semanticscholar.org/paper/f9a20c1769f76e7ef0be7c70404d25484eee1668",
+      "title": "Personalized Building Climate Control with Contextual Preferential Bayesian Optimization",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "referenceCount": 20,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2283412636",
+          "name": "Wenbin Wang"
+        },
+        {
+          "authorId": "2112256941",
+          "name": "Jicheng Shi"
+        },
+        {
+          "authorId": "2246331130",
+          "name": "Colin N. Jones"
+        }
+      ]
+    },
+    {
+      "paperId": "b7092ce644b200d806b4e01e871778d535d2d252",
+      "externalIds": {
+        "ArXiv": "2511.05163",
+        "DBLP": "journals/corr/abs-2511-05163",
+        "DOI": "10.48550/arXiv.2511.05163",
+        "CorpusId": 282890056
+      },
+      "url": "https://www.semanticscholar.org/paper/b7092ce644b200d806b4e01e871778d535d2d252",
+      "title": "Consecutive Preferential Bayesian Optimization",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "referenceCount": 46,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2198960748",
+          "name": "A. Erarslan"
+        },
+        {
+          "authorId": "2391516717",
+          "name": "Carlos Sevilla Salcedo"
+        },
+        {
+          "authorId": "108595877",
+          "name": "Ville Tanskanen"
+        },
+        {
+          "authorId": "118004306",
+          "name": "A. Nisov"
+        },
+        {
+          "authorId": "2391518072",
+          "name": "Eero Paivakumpu"
+        },
+        {
+          "authorId": "12641105",
+          "name": "Heikki Aisala"
+        },
+        {
+          "authorId": "2391516697",
+          "name": "Kaisu Honkapaa"
+        },
+        {
+          "authorId": "1718725",
+          "name": "Arto Klami"
+        },
+        {
+          "authorId": "123748098",
+          "name": "P. Mikkola"
+        }
+      ]
+    },
+    {
+      "paperId": "cd71ee009294cb190258d054b76418f244f6334e",
+      "externalIds": {
+        "ArXiv": "2512.14263",
+        "DBLP": "journals/corr/abs-2512-14263",
+        "DOI": "10.48550/arXiv.2512.14263",
+        "CorpusId": 283909382
+      },
+      "url": "https://www.semanticscholar.org/paper/cd71ee009294cb190258d054b76418f244f6334e",
+      "title": "Explainable Preference Learning: a Decision Tree-based Surrogate Model for Preferential Bayesian Optimization",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "referenceCount": 36,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2167715775",
+          "name": "Nick Leenders"
+        },
+        {
+          "authorId": "2336442733",
+          "name": "Thomas Quadt"
+        },
+        {
+          "authorId": "2392078359",
+          "name": "Boris Cule"
+        },
+        {
+          "authorId": "2304671850",
+          "name": "Roy Lindelauf"
+        },
+        {
+          "authorId": "2523973",
+          "name": "H. Monsuur"
+        },
+        {
+          "authorId": "1758865",
+          "name": "J. V. Oijen"
+        },
+        {
+          "authorId": "2481506",
+          "name": "M. Voskuijl"
+        }
+      ]
+    },
+    {
+      "paperId": "49b0669c7970b3404cb328dba03d879a3b1b206d",
+      "externalIds": {
+        "DBLP": "journals/access/KoideO24",
+        "DOI": "10.1109/ACCESS.2024.3421290",
+        "CorpusId": 270905764
+      },
+      "url": "https://www.semanticscholar.org/paper/49b0669c7970b3404cb328dba03d879a3b1b206d",
+      "title": "High-Dimensional Slider-Based Preferential Bayesian Optimization With Mixed Local and Global Acquisition Strategies",
+      "venue": "IEEE Access",
+      "year": 2024,
+      "referenceCount": 28,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "3459463",
+          "name": "Satoshi Koide"
+        },
+        {
+          "authorId": "2665703",
+          "name": "Ayano Okoso"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,329 @@
+{
+  "total": 62,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "32932f6dfef6204d5dbf9759d4e62fdb8554ebaa",
+      "externalIds": {
+        "ArXiv": "1706.01604",
+        "MAG": "2964336772",
+        "DBLP": "journals/corr/TsakirisV17",
+        "CorpusId": 7706651
+      },
+      "url": "https://www.semanticscholar.org/paper/32932f6dfef6204d5dbf9759d4e62fdb8554ebaa",
+      "title": "Hyperplane Clustering via Dual Principal Component Pursuit",
+      "venue": "International Conference on Machine Learning",
+      "year": 2017,
+      "referenceCount": 69,
+      "citationCount": 34,
+      "authors": [
+        {
+          "authorId": "2900173",
+          "name": "M. Tsakiris"
+        },
+        {
+          "authorId": "144020730",
+          "name": "R. Vidal"
+        }
+      ]
+    },
+    {
+      "paperId": "c3cd00cb1983d601b2654660b5ec4cdfb47a8b48",
+      "externalIds": {
+        "DBLP": "conf/cvpr/DingYZRVKT20",
+        "MAG": "3035085125",
+        "DOI": "10.1109/cvpr42600.2020.00612",
+        "CorpusId": 219629766
+      },
+      "url": "https://www.semanticscholar.org/paper/c3cd00cb1983d601b2654660b5ec4cdfb47a8b48",
+      "title": "Robust Homography Estimation via Dual Principal Component Pursuit",
+      "venue": "Computer Vision and Pattern Recognition",
+      "year": 2020,
+      "referenceCount": 60,
+      "citationCount": 18,
+      "authors": [
+        {
+          "authorId": "4607942",
+          "name": "Tianjiao Ding"
+        },
+        {
+          "authorId": "2116590959",
+          "name": "Yunchen Yang"
+        },
+        {
+          "authorId": "145687539",
+          "name": "Zhihui Zhu"
+        },
+        {
+          "authorId": "1780452",
+          "name": "Daniel P. Robinson"
+        },
+        {
+          "authorId": "144020730",
+          "name": "R. Vidal"
+        },
+        {
+          "authorId": "1727013",
+          "name": "L. Kneip"
+        },
+        {
+          "authorId": "2900173",
+          "name": "M. Tsakiris"
+        }
+      ]
+    },
+    {
+      "paperId": "2bb82fb8dbcee8fb06c5bb6c8dcd783e51d3e27f",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2110-02918",
+        "ArXiv": "2110.02918",
+        "CorpusId": 238407738
+      },
+      "url": "https://www.semanticscholar.org/paper/2bb82fb8dbcee8fb06c5bb6c8dcd783e51d3e27f",
+      "title": "Boosting RANSAC via Dual Principal Component Pursuit",
+      "venue": "arXiv.org",
+      "year": 2021,
+      "referenceCount": 28,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2116590959",
+          "name": "Yunchen Yang"
+        },
+        {
+          "authorId": "2108266228",
+          "name": "Xinyue Zhang"
+        },
+        {
+          "authorId": "4607942",
+          "name": "Tianjiao Ding"
+        },
+        {
+          "authorId": "1780452",
+          "name": "Daniel P. Robinson"
+        },
+        {
+          "authorId": "144020730",
+          "name": "R. Vidal"
+        },
+        {
+          "authorId": "2900173",
+          "name": "M. Tsakiris"
+        }
+      ]
+    },
+    {
+      "paperId": "37612068fa07e3712e76c2d3064e225f1dc22901",
+      "externalIds": {
+        "DBLP": "conf/aistats/DingZTVR21",
+        "CorpusId": 233237372
+      },
+      "url": "https://www.semanticscholar.org/paper/37612068fa07e3712e76c2d3064e225f1dc22901",
+      "title": "Dual Principal Component Pursuit for Learning a Union of Hyperplanes: Theory and Algorithms",
+      "venue": "International Conference on Artificial Intelligence and Statistics",
+      "year": 2021,
+      "referenceCount": 48,
+      "citationCount": 9,
+      "authors": [
+        {
+          "authorId": "1937503",
+          "name": "Tianyu Ding"
+        },
+        {
+          "authorId": "145687539",
+          "name": "Zhihui Zhu"
+        },
+        {
+          "authorId": "2900173",
+          "name": "M. Tsakiris"
+        },
+        {
+          "authorId": "144020730",
+          "name": "R. Vidal"
+        },
+        {
+          "authorId": "1780452",
+          "name": "Daniel P. Robinson"
+        }
+      ]
+    },
+    {
+      "paperId": "c0962af9155f6cd146e6566d3b8f7f7c04df9d98",
+      "externalIds": {
+        "DBLP": "conf/icml/DingZVR21",
+        "CorpusId": 235825887
+      },
+      "url": "https://www.semanticscholar.org/paper/c0962af9155f6cd146e6566d3b8f7f7c04df9d98",
+      "title": "Dual Principal Component Pursuit for Robust Subspace Learning: Theory and Algorithms for a Holistic Approach",
+      "venue": "International Conference on Machine Learning",
+      "year": 2021,
+      "referenceCount": 30,
+      "citationCount": 6,
+      "authors": [
+        {
+          "authorId": "1937503",
+          "name": "Tianyu Ding"
+        },
+        {
+          "authorId": "145687539",
+          "name": "Zhihui Zhu"
+        },
+        {
+          "authorId": "2060927891",
+          "name": "R. Vidal"
+        },
+        {
+          "authorId": "1780452",
+          "name": "Daniel P. Robinson"
+        }
+      ]
+    },
+    {
+      "paperId": "695c4202d0972457066579f4dee13020403018e9",
+      "externalIds": {
+        "MAG": "2757292061",
+        "CorpusId": 125663112
+      },
+      "url": "https://www.semanticscholar.org/paper/695c4202d0972457066579f4dee13020403018e9",
+      "title": "Dual Principal Component Pursuit and Filtrated Algebraic Subspace Clustering",
+      "venue": "",
+      "year": 2017,
+      "referenceCount": 115,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "2900173",
+          "name": "M. Tsakiris"
+        }
+      ]
+    },
+    {
+      "paperId": "0d9c8281a7132a400141eaf4830b9bed49672b2a",
+      "externalIds": {
+        "DBLP": "conf/trustcom/GeZS25",
+        "DOI": "10.1109/Trustcom66490.2025.00363",
+        "CorpusId": 285290896
+      },
+      "url": "https://www.semanticscholar.org/paper/0d9c8281a7132a400141eaf4830b9bed49672b2a",
+      "title": "A Robust Federated Learning Framework Integrating Principal Component Analysis and Dual Detection Mechanisms",
+      "venue": "International Conference on Trust, Security and Privacy in Computing and Communications",
+      "year": 2025,
+      "referenceCount": 26,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2408680378",
+          "name": "Lina Ge"
+        },
+        {
+          "authorId": "2055271835",
+          "name": "Jianwei Zhai"
+        },
+        {
+          "authorId": "2374265032",
+          "name": "Qinchun Su"
+        }
+      ]
+    },
+    {
+      "paperId": "8caa7b5169fd5b4a89324c24254d0fc66bdeb2eb",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2207-11559",
+        "ArXiv": "2207.11559",
+        "DOI": "10.48550/arXiv.2207.11559",
+        "CorpusId": 251040898
+      },
+      "url": "https://www.semanticscholar.org/paper/8caa7b5169fd5b4a89324c24254d0fc66bdeb2eb",
+      "title": "Tensor-based Multi-view Spectral Clustering via Shared Latent Space",
+      "venue": "Information Fusion",
+      "year": 2022,
+      "referenceCount": 76,
+      "citationCount": 16,
+      "authors": [
+        {
+          "authorId": "2035647651",
+          "name": "Qinghua Tao"
+        },
+        {
+          "authorId": "103266941",
+          "name": "F. Tonin"
+        },
+        {
+          "authorId": "1772856",
+          "name": "Panagiotis Patrinos"
+        },
+        {
+          "authorId": "1744439",
+          "name": "J. Suykens"
+        }
+      ]
+    },
+    {
+      "paperId": "37d42e6acfcd1d88912cc435ca7830a9b5cf52cb",
+      "externalIds": {
+        "DOI": "10.3390/min15111185",
+        "CorpusId": 282985665
+      },
+      "url": "https://www.semanticscholar.org/paper/37d42e6acfcd1d88912cc435ca7830a9b5cf52cb",
+      "title": "Benchmarking Hierarchical and Spectral Clustering for Geochemical Baseline and Anomaly Detection in Hyper-Arid Soils of Northern Chile",
+      "venue": "Minerals",
+      "year": 2025,
+      "referenceCount": 54,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2366313350",
+          "name": "Georginio Ananganó-Alvarado"
+        },
+        {
+          "authorId": "2351059117",
+          "name": "Brian Felipe Keith-Norambuena"
+        },
+        {
+          "authorId": "153337498",
+          "name": "Elizabeth J. Lam"
+        },
+        {
+          "authorId": "115669851",
+          "name": "Ítalo L. Montofré"
+        },
+        {
+          "authorId": "2392065887",
+          "name": "Angélica Flores"
+        },
+        {
+          "authorId": "2401844882",
+          "name": "C. Flores"
+        },
+        {
+          "authorId": "2310308424",
+          "name": "Jaume Bech"
+        }
+      ]
+    },
+    {
+      "paperId": "bc67bcef2928d5136c485291503407672841fec4",
+      "externalIds": {
+        "DOI": "10.1109/ACCESS.2026.3667339",
+        "CorpusId": 286056303
+      },
+      "url": "https://www.semanticscholar.org/paper/bc67bcef2928d5136c485291503407672841fec4",
+      "title": "GMNV: Dynamic Quantile-Augmented K-Means Clustering With Variance-Based Feature Selection",
+      "venue": "IEEE Access",
+      "year": 2026,
+      "referenceCount": 25,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2350010493",
+          "name": "Maradana Durga Venkata Prasad"
+        },
+        {
+          "authorId": "2363967512",
+          "name": "Srikanth Thota"
+        }
+      ]
+    }
+  ]
+}

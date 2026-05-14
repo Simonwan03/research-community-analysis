@@ -1,0 +1,441 @@
+{
+  "offset": 0,
+  "citingPaperInfo": {
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/1410.0723, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "title": "A Lower Bound for the Optimization of Finite Sums",
+    "authors": [
+      {
+        "authorId": "40333747",
+        "name": "Alekh Agarwal"
+      },
+      {
+        "authorId": "52184096",
+        "name": "L. Bottou"
+      }
+    ]
+  },
+  "data": [
+    {
+      "citedPaper": {
+        "paperId": "2615fe784137854810679a6deb0403a9009b26e7",
+        "externalIds": {
+          "MAG": "2134130436",
+          "ArXiv": "1507.01030",
+          "DBLP": "journals/corr/Bertsekas15c",
+          "DOI": "10.7551/mitpress/8996.003.0006",
+          "CorpusId": 7020971
+        },
+        "url": "https://www.semanticscholar.org/paper/2615fe784137854810679a6deb0403a9009b26e7",
+        "title": "Incremental Gradient, Subgradient, and Proximal Methods for Convex Optimization: A Survey",
+        "venue": "arXiv.org",
+        "year": 2015,
+        "referenceCount": 113,
+        "citationCount": 457,
+        "authors": [
+          {
+            "authorId": "1786249",
+            "name": "D. Bertsekas"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "19cac337f6cc0af0bb2f601f99bd944824a19521",
+        "externalIds": {
+          "MAG": "1493657099",
+          "DBLP": "journals/corr/Arjevani14",
+          "ArXiv": "1410.6387",
+          "CorpusId": 16871834
+        },
+        "url": "https://www.semanticscholar.org/paper/19cac337f6cc0af0bb2f601f99bd944824a19521",
+        "title": "On Lower and Upper Bounds in Smooth Strongly Convex Optimization - A Unified Approach via Linear Iterative Methods",
+        "venue": "arXiv.org",
+        "year": 2014,
+        "referenceCount": 29,
+        "citationCount": 2,
+        "authors": [
+          {
+            "authorId": "2864002",
+            "name": "Yossi Arjevani"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "75359c49a6abdd5fba642f46ec44812ed8e8a648",
+        "externalIds": {
+          "MAG": "1948582444",
+          "ArXiv": "1409.3257",
+          "DBLP": "journals/jmlr/ZhangX17",
+          "CorpusId": 13451663
+        },
+        "url": "https://www.semanticscholar.org/paper/75359c49a6abdd5fba642f46ec44812ed8e8a648",
+        "title": "Stochastic Primal-Dual Coordinate Method for Regularized Empirical Risk Minimization",
+        "venue": "International Conference on Machine Learning",
+        "year": 2014,
+        "referenceCount": 73,
+        "citationCount": 269,
+        "authors": [
+          {
+            "authorId": "2108471978",
+            "name": "Yuchen Zhang"
+          },
+          {
+            "authorId": "143724437",
+            "name": "Xiao Lin"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "4daec165c1f4aa1206b0d91c0b26f0287d1ef52d",
+        "externalIds": {
+          "MAG": "2135482703",
+          "DBLP": "journals/corr/DefazioBL14",
+          "ArXiv": "1407.0202",
+          "CorpusId": 218654665
+        },
+        "url": "https://www.semanticscholar.org/paper/4daec165c1f4aa1206b0d91c0b26f0287d1ef52d",
+        "title": "SAGA: A Fast Incremental Gradient Method With Support for Non-Strongly Convex Composite Objectives",
+        "venue": "Neural Information Processing Systems",
+        "year": 2014,
+        "referenceCount": 13,
+        "citationCount": 1975,
+        "authors": [
+          {
+            "authorId": "34597877",
+            "name": "Aaron Defazio"
+          },
+          {
+            "authorId": "144570279",
+            "name": "F. Bach"
+          },
+          {
+            "authorId": "1388317459",
+            "name": "Simon Lacoste-Julien"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "f244da7263ef3e5c25a7780c7c2f32ca07a25d12",
+        "externalIds": {
+          "DBLP": "books/sp/Nesterov04",
+          "MAG": "2124541940",
+          "CorpusId": 62288331
+        },
+        "url": "https://www.semanticscholar.org/paper/f244da7263ef3e5c25a7780c7c2f32ca07a25d12",
+        "title": "Introductory Lectures on Convex Optimization - A Basic Course",
+        "venue": "Applied Optimization",
+        "year": 2014,
+        "referenceCount": 0,
+        "citationCount": 6402,
+        "authors": [
+          {
+            "authorId": "143676697",
+            "name": "Y. Nesterov"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "43c05444fbc239321f6676f3cd539cac34fde7b8",
+        "externalIds": {
+          "MAG": "2107438106",
+          "DBLP": "conf/nips/Johnson013",
+          "CorpusId": 6587578
+        },
+        "url": "https://www.semanticscholar.org/paper/43c05444fbc239321f6676f3cd539cac34fde7b8",
+        "title": "Accelerating Stochastic Gradient Descent using Predictive Variance Reduction",
+        "venue": "Neural Information Processing Systems",
+        "year": 2013,
+        "referenceCount": 6,
+        "citationCount": 2961,
+        "authors": [
+          {
+            "authorId": "2108925678",
+            "name": "Rie Johnson"
+          },
+          {
+            "authorId": "50728655",
+            "name": "Tong Zhang"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "73068d3d5dacf987848eadd9af5b5fad8f7cf9c6",
+        "externalIds": {
+          "DBLP": "journals/mp/SchmidtRB17",
+          "MAG": "2963156201",
+          "ArXiv": "1309.2388",
+          "DOI": "10.1007/s10107-016-1030-6",
+          "CorpusId": 5095654
+        },
+        "url": "https://www.semanticscholar.org/paper/73068d3d5dacf987848eadd9af5b5fad8f7cf9c6",
+        "title": "Minimizing finite sums with the stochastic average gradient",
+        "venue": "Mathematical programming",
+        "year": 2013,
+        "referenceCount": 99,
+        "citationCount": 1323,
+        "authors": [
+          {
+            "authorId": "145610994",
+            "name": "Mark W. Schmidt"
+          },
+          {
+            "authorId": "7245737",
+            "name": "Nicolas Le Roux"
+          },
+          {
+            "authorId": "144570279",
+            "name": "F. Bach"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "d9bdff5eac0d0d1ebd8d09960f195b838ce16f4e",
+        "externalIds": {
+          "MAG": "2118545728",
+          "ArXiv": "1309.2375",
+          "DBLP": "journals/corr/Shalev-Shwartz013",
+          "DOI": "10.1007/s10107-014-0839-0",
+          "CorpusId": 6023169
+        },
+        "url": "https://www.semanticscholar.org/paper/d9bdff5eac0d0d1ebd8d09960f195b838ce16f4e",
+        "title": "Accelerated proximal stochastic dual coordinate ascent for regularized loss minimization",
+        "venue": "Mathematical programming",
+        "year": 2013,
+        "referenceCount": 34,
+        "citationCount": 472,
+        "authors": [
+          {
+            "authorId": "1389955537",
+            "name": "S. Shalev-Shwartz"
+          },
+          {
+            "authorId": "49104973",
+            "name": "Tong Zhang"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "0c3751db5a24c636c1aa8abfd9d63321b38cfce5",
+        "externalIds": {
+          "ArXiv": "1209.1873",
+          "MAG": "1939652453",
+          "DBLP": "journals/jmlr/Shalev-Shwartz013",
+          "DOI": "10.5555/2567709.2502598",
+          "CorpusId": 1517652
+        },
+        "url": "https://www.semanticscholar.org/paper/0c3751db5a24c636c1aa8abfd9d63321b38cfce5",
+        "title": "Stochastic dual coordinate ascent methods for regularized loss",
+        "venue": "Journal of machine learning research",
+        "year": 2012,
+        "referenceCount": 25,
+        "citationCount": 1072,
+        "authors": [
+          {
+            "authorId": "1389955537",
+            "name": "S. Shalev-Shwartz"
+          },
+          {
+            "authorId": "2280890494",
+            "name": "Tong Zhang"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "49ab3776d88ff76612a7738358912db834639177",
+        "externalIds": {
+          "MAG": "2950025208",
+          "DBLP": "conf/nips/RouxSB12",
+          "CorpusId": 1084204
+        },
+        "url": "https://www.semanticscholar.org/paper/49ab3776d88ff76612a7738358912db834639177",
+        "title": "A Stochastic Gradient Method with an Exponential Convergence Rate for Finite Training Sets",
+        "venue": "Neural Information Processing Systems",
+        "year": 2012,
+        "referenceCount": 43,
+        "citationCount": 871,
+        "authors": [
+          {
+            "authorId": "7245737",
+            "name": "Nicolas Le Roux"
+          },
+          {
+            "authorId": "145610994",
+            "name": "Mark W. Schmidt"
+          },
+          {
+            "authorId": "144570279",
+            "name": "F. Bach"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "1a3eef35df17306ec60180a7214567b3e4dc388e",
+        "externalIds": {
+          "MAG": "2566240941",
+          "DBLP": "journals/corr/abs-1104-4824",
+          "ArXiv": "1104.4824",
+          "DOI": "10.1214/12-AOS1032",
+          "CorpusId": 5742502
+        },
+        "url": "https://www.semanticscholar.org/paper/1a3eef35df17306ec60180a7214567b3e4dc388e",
+        "title": "Fast global convergence of gradient methods for high-dimensional statistical recovery",
+        "venue": "arXiv.org",
+        "year": 2011,
+        "referenceCount": 61,
+        "citationCount": 253,
+        "authors": [
+          {
+            "authorId": "40333747",
+            "name": "Alekh Agarwal"
+          },
+          {
+            "authorId": "145537739",
+            "name": "S. Negahban"
+          },
+          {
+            "authorId": "1721860",
+            "name": "M. Wainwright"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "4406c54f40e0f73db2180704d454951649df32f2",
+        "externalIds": {
+          "MAG": "2131172946",
+          "DBLP": "journals/corr/abs-1011-3027",
+          "ArXiv": "1011.3027",
+          "DOI": "10.1017/cbo9780511794308.006",
+          "CorpusId": 133440
+        },
+        "url": "https://www.semanticscholar.org/paper/4406c54f40e0f73db2180704d454951649df32f2",
+        "title": "Introduction to the non-asymptotic analysis of random matrices",
+        "venue": "Compressed Sensing",
+        "year": 2010,
+        "referenceCount": 105,
+        "citationCount": 3059,
+        "authors": [
+          {
+            "authorId": "1806615",
+            "name": "R. Vershynin"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "5936754b5762260bf102ac95d7b26cfc9d31956a",
+        "externalIds": {
+          "DBLP": "conf/nips/BottouB07",
+          "MAG": "2113651538",
+          "CorpusId": 7431525
+        },
+        "url": "https://www.semanticscholar.org/paper/5936754b5762260bf102ac95d7b26cfc9d31956a",
+        "title": "The Tradeoffs of Large Scale Learning",
+        "venue": "Neural Information Processing Systems",
+        "year": 2007,
+        "referenceCount": 37,
+        "citationCount": 1729,
+        "authors": [
+          {
+            "authorId": "52184096",
+            "name": "L. Bottou"
+          },
+          {
+            "authorId": "1698617",
+            "name": "O. Bousquet"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "2d9bb28841d2d5d83efdd1eae87809fe6375fec3",
+        "externalIds": {
+          "MAG": "2146482778",
+          "CorpusId": 14336572
+        },
+        "url": "https://www.semanticscholar.org/paper/2d9bb28841d2d5d83efdd1eae87809fe6375fec3",
+        "title": "Gradient methods for minimizing composite objective function",
+        "venue": "",
+        "year": 2007,
+        "referenceCount": 19,
+        "citationCount": 1293,
+        "authors": [
+          {
+            "authorId": "143676697",
+            "name": "Y. Nesterov"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "70000f7791ab8519429ce939bc897738a05939c3",
+        "externalIds": {
+          "MAG": "2098841537",
+          "CorpusId": 6491967
+        },
+        "url": "https://www.semanticscholar.org/paper/70000f7791ab8519429ce939bc897738a05939c3",
+        "title": "An Introduction to the Conjugate Gradient Method Without the Agonizing Pain",
+        "venue": "",
+        "year": 1994,
+        "referenceCount": 19,
+        "citationCount": 2910,
+        "authors": [
+          {
+            "authorId": "2096070",
+            "name": "J. Shewchuk"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "29f8b7112fb4660a64df8ac34a5d85c119019efe",
+        "externalIds": {
+          "MAG": "1505731132",
+          "DOI": "10.1057/jors.1984.92",
+          "CorpusId": 60609764
+        },
+        "url": "https://www.semanticscholar.org/paper/29f8b7112fb4660a64df8ac34a5d85c119019efe",
+        "title": "Problem Complexity and Method Efficiency in Optimization",
+        "venue": "",
+        "year": 1983,
+        "referenceCount": 0,
+        "citationCount": 2960,
+        "authors": [
+          {
+            "authorId": "98045118",
+            "name": "J. Darzentas"
+          }
+        ]
+      }
+    }
+  ]
+}

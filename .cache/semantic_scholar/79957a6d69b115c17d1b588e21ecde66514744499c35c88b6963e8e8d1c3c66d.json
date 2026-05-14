@@ -1,0 +1,94 @@
+{
+  "total": 4,
+  "offset": 0,
+  "data": [
+    {
+      "paperId": "7c72f04b5fc1dfe8d5eb647dd3dd77997f84d386",
+      "externalIds": {
+        "ArXiv": "1802.06310",
+        "DBLP": "conf/icml/YangKU18",
+        "MAG": "2788968049",
+        "CorpusId": 51882442
+      },
+      "url": "https://www.semanticscholar.org/paper/7c72f04b5fc1dfe8d5eb647dd3dd77997f84d386",
+      "title": "Characterizing and Learning Equivalence Classes of Causal DAGs under Interventions",
+      "venue": "International Conference on Machine Learning",
+      "year": 2018,
+      "referenceCount": 39,
+      "citationCount": 122,
+      "authors": [
+        {
+          "authorId": "2806097",
+          "name": "Karren D. Yang"
+        },
+        {
+          "authorId": "51138223",
+          "name": "Abigail Katoff"
+        },
+        {
+          "authorId": "3338091",
+          "name": "Caroline Uhler"
+        }
+      ]
+    },
+    {
+      "paperId": "77258ba9a85c013e052e4994599cb35350207e68",
+      "externalIds": {
+        "CorpusId": 265039797
+      },
+      "url": "https://www.semanticscholar.org/paper/77258ba9a85c013e052e4994599cb35350207e68",
+      "title": "Characterizing and Learning Equivalence Classes of Causal DAGs under Interventions",
+      "venue": "",
+      "year": null,
+      "referenceCount": 0,
+      "citationCount": 7,
+      "authors": []
+    },
+    {
+      "paperId": "2aa8d30fe7d6a2167c02e1e167d0e8792fe148c1",
+      "externalIds": {
+        "MAG": "1491379284",
+        "ArXiv": "1408.1809",
+        "DOI": "10.1111/sjos.12194",
+        "CorpusId": 88514041
+      },
+      "url": "https://www.semanticscholar.org/paper/2aa8d30fe7d6a2167c02e1e167d0e8792fe148c1",
+      "title": "Graphs for Margins of Bayesian Networks",
+      "venue": "",
+      "year": 2014,
+      "referenceCount": 67,
+      "citationCount": 107,
+      "authors": [
+        {
+          "authorId": "2156105",
+          "name": "R. Evans"
+        }
+      ]
+    },
+    {
+      "paperId": "bf43b2167060739c7a0af93a631e79f1feed3e8d",
+      "externalIds": {
+        "DBLP": "conf/nips/JiangA23",
+        "ArXiv": "2306.02899",
+        "DOI": "10.48550/arXiv.2306.02899",
+        "CorpusId": 259075973
+      },
+      "url": "https://www.semanticscholar.org/paper/bf43b2167060739c7a0af93a631e79f1feed3e8d",
+      "title": "Learning nonparametric latent causal graphs with unknown interventions",
+      "venue": "Neural Information Processing Systems",
+      "year": 2023,
+      "referenceCount": 113,
+      "citationCount": 33,
+      "authors": [
+        {
+          "authorId": "116503613",
+          "name": "Yibo Jiang"
+        },
+        {
+          "authorId": "2050920",
+          "name": "Bryon Aragam"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,306 @@
+{
+  "total": 99,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "f5e63fb54e1e338c246b20aacf1b3d629b8baf3d",
+      "externalIds": {
+        "ArXiv": "1605.09477",
+        "DBLP": "journals/corr/ZhengTDZ16",
+        "MAG": "2964273061",
+        "CorpusId": 15318202
+      },
+      "url": "https://www.semanticscholar.org/paper/f5e63fb54e1e338c246b20aacf1b3d629b8baf3d",
+      "title": "A Neural Autoregressive Approach to Collaborative Filtering",
+      "venue": "International Conference on Machine Learning",
+      "year": 2016,
+      "referenceCount": 36,
+      "citationCount": 226,
+      "authors": [
+        {
+          "authorId": "47833747",
+          "name": "Yin Zheng"
+        },
+        {
+          "authorId": "40016197",
+          "name": "Bangsheng Tang"
+        },
+        {
+          "authorId": "35038914",
+          "name": "Wenkui Ding"
+        },
+        {
+          "authorId": "28190232",
+          "name": "Hanning Zhou"
+        }
+      ]
+    },
+    {
+      "paperId": "410813846e037253c9a2c06733c801715f578277",
+      "externalIds": {
+        "DBLP": "conf/isnn/OuyangSL17",
+        "MAG": "2618132561",
+        "DOI": "10.1007/978-3-319-59081-3_33",
+        "CorpusId": 2005752
+      },
+      "url": "https://www.semanticscholar.org/paper/410813846e037253c9a2c06733c801715f578277",
+      "title": "A Neural Autoregressive Framework for Collaborative Filtering",
+      "venue": "International Symposium on Neural Networks",
+      "year": 2017,
+      "referenceCount": 23,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2391609913",
+          "name": "Ouyang Zhen"
+        },
+        {
+          "authorId": "2118830767",
+          "name": "Chen Sun"
+        },
+        {
+          "authorId": "2109333498",
+          "name": "Chunping Li"
+        }
+      ]
+    },
+    {
+      "paperId": "3d40382b4b1d9529d203661153ebb62ab18f7b55",
+      "externalIds": {
+        "DBLP": "conf/recsys/ZhengLTZ16",
+        "ArXiv": "1606.07674",
+        "MAG": "2472158773",
+        "DOI": "10.1145/2988450.2988453",
+        "CorpusId": 9470483
+      },
+      "url": "https://www.semanticscholar.org/paper/3d40382b4b1d9529d203661153ebb62ab18f7b55",
+      "title": "Neural Autoregressive Collaborative Filtering for Implicit Feedback",
+      "venue": "DLRS@RecSys",
+      "year": 2016,
+      "referenceCount": 26,
+      "citationCount": 64,
+      "authors": [
+        {
+          "authorId": "47833747",
+          "name": "Yin Zheng"
+        },
+        {
+          "authorId": "3254114",
+          "name": "Cailiang Liu"
+        },
+        {
+          "authorId": "40016197",
+          "name": "Bangsheng Tang"
+        },
+        {
+          "authorId": "28190232",
+          "name": "Hanning Zhou"
+        }
+      ]
+    },
+    {
+      "paperId": "9cfa34c0611c69586d35dc16138998928af59f7f",
+      "externalIds": {
+        "DOI": "10.23939/mmc2025.04.1221",
+        "CorpusId": 283582210
+      },
+      "url": "https://www.semanticscholar.org/paper/9cfa34c0611c69586d35dc16138998928af59f7f",
+      "title": "Exploring LSTM-CAMF: A New Approach for Context-Aware Collaborative Filtering",
+      "venue": "Mathematical Modeling and Computing",
+      "year": 2025,
+      "referenceCount": 12,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2396610032",
+          "name": "K. Errakha"
+        },
+        {
+          "authorId": "69524492",
+          "name": "A. Samih"
+        },
+        {
+          "authorId": "91516402",
+          "name": "A. Marzouk"
+        },
+        {
+          "authorId": "2396602901",
+          "name": "A. Krari"
+        },
+        {
+          "authorId": "2396606093",
+          "name": "S. Dfouf"
+        }
+      ]
+    },
+    {
+      "paperId": "6ce17cb46e18402e1eeb58a78da9cce78e7eefa4",
+      "externalIds": {
+        "DBLP": "conf/cikm/KrishnanSSS18",
+        "MAG": "2896537337",
+        "DOI": "10.1145/3269206.3269264",
+        "CorpusId": 53038057
+      },
+      "url": "https://www.semanticscholar.org/paper/6ce17cb46e18402e1eeb58a78da9cce78e7eefa4",
+      "title": "An Adversarial Approach to Improve Long-Tail Performance in Neural Collaborative Filtering",
+      "venue": "International Conference on Information and Knowledge Management",
+      "year": 2018,
+      "referenceCount": 17,
+      "citationCount": 85,
+      "authors": [
+        {
+          "authorId": "33842085",
+          "name": "A. Krishnan"
+        },
+        {
+          "authorId": "122990697",
+          "name": "Ashish Sharma"
+        },
+        {
+          "authorId": "1826045",
+          "name": "Aravind Sankar"
+        },
+        {
+          "authorId": "145372008",
+          "name": "Hari Sundaram"
+        }
+      ]
+    },
+    {
+      "paperId": "687a1c64e9ab6ee59881c348af63321051fb21d5",
+      "externalIds": {
+        "CorpusId": 18893538
+      },
+      "url": "https://www.semanticscholar.org/paper/687a1c64e9ab6ee59881c348af63321051fb21d5",
+      "title": "International Journal \"information Theories & Applications\" Vol.12 an Approach to Collaborative Filtering by Artmap Neural Networks",
+      "venue": "",
+      "year": null,
+      "referenceCount": 14,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2548956",
+          "name": "A. Nachev"
+        }
+      ]
+    },
+    {
+      "paperId": "30a35be3e4aa2d37a1d299f56f678bf2824d5a55",
+      "externalIds": {
+        "MAG": "3153314236",
+        "DBLP": "journals/eswa/NahtaMGC21",
+        "DOI": "10.1016/J.ESWA.2021.115047",
+        "CorpusId": 234869785
+      },
+      "url": "https://www.semanticscholar.org/paper/30a35be3e4aa2d37a1d299f56f678bf2824d5a55",
+      "title": "A hybrid neural variational CF-NADE for collaborative filtering using abstraction and generation",
+      "venue": "Expert systems with applications",
+      "year": 2021,
+      "referenceCount": 0,
+      "citationCount": 7,
+      "authors": [
+        {
+          "authorId": "1413124279",
+          "name": "Ravi Nahta"
+        },
+        {
+          "authorId": "2362647",
+          "name": "Y. Meena"
+        },
+        {
+          "authorId": "5889806",
+          "name": "Dinesh Gopalani"
+        },
+        {
+          "authorId": "9395440",
+          "name": "G. Chauhan"
+        }
+      ]
+    },
+    {
+      "paperId": "85c5f47e2fee0c1dba995072b107290c78caf38e",
+      "externalIds": {
+        "ArXiv": "2604.15573",
+        "DBLP": "conf/sac/PiresSA025",
+        "DOI": "10.1145/3672608.3707877",
+        "CorpusId": 278603338
+      },
+      "url": "https://www.semanticscholar.org/paper/85c5f47e2fee0c1dba995072b107290c78caf38e",
+      "title": "Collaborative filtering through weighted similarities of user and item embeddings",
+      "venue": "ACM Symposium on Applied Computing",
+      "year": 2025,
+      "referenceCount": 42,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2069785182",
+          "name": "Pedro R. Pires"
+        },
+        {
+          "authorId": "2361250327",
+          "name": "Rafael T. Sereicikas"
+        },
+        {
+          "authorId": "2303654159",
+          "name": "Gregorio F. Azevedo"
+        },
+        {
+          "authorId": "2326020413",
+          "name": "Tiago A. Almeida"
+        }
+      ]
+    },
+    {
+      "paperId": "7ef4f79860210f6723ce65a470bb3c855a170ee2",
+      "externalIds": {
+        "DOI": "10.47065/bits.v6i2.5772",
+        "CorpusId": 277964121
+      },
+      "url": "https://www.semanticscholar.org/paper/7ef4f79860210f6723ce65a470bb3c855a170ee2",
+      "title": "Item-Based Collaborative Filtering Bandung Café Recommender System Using Recurrent Neural Network",
+      "venue": "Building of Informatics, Technology and Science (BITS)",
+      "year": 2024,
+      "referenceCount": 0,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2404498062",
+          "name": "Z. Baizal"
+        },
+        {
+          "authorId": "2356634042",
+          "name": "Angela Tiara Maharani Sitorus"
+        }
+      ]
+    },
+    {
+      "paperId": "dd96be5fe1bde144ee9b124d3ba932792cb4b326",
+      "externalIds": {
+        "MAG": "168526634",
+        "DBLP": "conf/icai/NachevGR05",
+        "CorpusId": 45397730
+      },
+      "url": "https://www.semanticscholar.org/paper/dd96be5fe1bde144ee9b124d3ba932792cb4b326",
+      "title": "A Model-Based Approach to Collaborative Filtering by Neural Networks",
+      "venue": "International Conference on Artificial Intelligence",
+      "year": 2005,
+      "referenceCount": 0,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2548956",
+          "name": "A. Nachev"
+        },
+        {
+          "authorId": "2314943",
+          "name": "Ivan Ganchev"
+        },
+        {
+          "authorId": "2209505133",
+          "name": "J.J. Rowland"
+        }
+      ]
+    }
+  ]
+}

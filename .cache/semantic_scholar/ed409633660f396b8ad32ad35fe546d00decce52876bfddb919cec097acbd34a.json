@@ -1,0 +1,175 @@
+{
+  "total": 5,
+  "offset": 0,
+  "data": [
+    {
+      "paperId": "c588d0d985d095044f82f869341da90e4148525d",
+      "externalIds": {
+        "DBLP": "conf/icml/GarberHJKMNS16",
+        "MAG": "2951138316",
+        "ArXiv": "1605.08754",
+        "CorpusId": 161623
+      },
+      "url": "https://www.semanticscholar.org/paper/c588d0d985d095044f82f869341da90e4148525d",
+      "title": "Faster Eigenvector Computation via Shift-and-Invert Preconditioning",
+      "venue": "International Conference on Machine Learning",
+      "year": 2016,
+      "referenceCount": 35,
+      "citationCount": 80,
+      "authors": [
+        {
+          "authorId": "52292717",
+          "name": "D. Garber"
+        },
+        {
+          "authorId": "34840427",
+          "name": "Elad Hazan"
+        },
+        {
+          "authorId": "3335298",
+          "name": "Chi Jin"
+        },
+        {
+          "authorId": "144695232",
+          "name": "S. Kakade"
+        },
+        {
+          "authorId": "2032038",
+          "name": "Cameron Musco"
+        },
+        {
+          "authorId": "1751626",
+          "name": "Praneeth Netrapalli"
+        },
+        {
+          "authorId": "2357926",
+          "name": "Aaron Sidford"
+        }
+      ]
+    },
+    {
+      "paperId": "a4479a5ef5d4f0db5e53201ed00f5d42a6397064",
+      "externalIds": {
+        "DBLP": "journals/corr/JinKMNS15",
+        "ArXiv": "1510.08896",
+        "MAG": "1913791685",
+        "CorpusId": 14809220
+      },
+      "url": "https://www.semanticscholar.org/paper/a4479a5ef5d4f0db5e53201ed00f5d42a6397064",
+      "title": "Robust Shift-and-Invert Preconditioning: Faster and More Sample Efficient Algorithms for Eigenvector Computation",
+      "venue": "arXiv.org",
+      "year": 2015,
+      "referenceCount": 39,
+      "citationCount": 43,
+      "authors": [
+        {
+          "authorId": "3335298",
+          "name": "Chi Jin"
+        },
+        {
+          "authorId": "144695232",
+          "name": "S. Kakade"
+        },
+        {
+          "authorId": "2032038",
+          "name": "Cameron Musco"
+        },
+        {
+          "authorId": "1751626",
+          "name": "Praneeth Netrapalli"
+        },
+        {
+          "authorId": "2357926",
+          "name": "Aaron Sidford"
+        }
+      ]
+    },
+    {
+      "paperId": "89d06c30d03fc3c3aa014b5a5b9fef5713639ad7",
+      "externalIds": {
+        "MAG": "2891961001",
+        "DBLP": "conf/nips/Xu18a",
+        "CorpusId": 54029451
+      },
+      "url": "https://www.semanticscholar.org/paper/89d06c30d03fc3c3aa014b5a5b9fef5713639ad7",
+      "title": "Gradient Descent Meets Shift-and-Invert Preconditioning for Eigenvector Computation",
+      "venue": "Neural Information Processing Systems",
+      "year": 2018,
+      "referenceCount": 30,
+      "citationCount": 7,
+      "authors": [
+        {
+          "authorId": "2136355504",
+          "name": "Zhiqiang Xu"
+        }
+      ]
+    },
+    {
+      "paperId": "333e51413013cc47539132e3dcdd5e362a79f1b1",
+      "externalIds": {
+        "DBLP": "journals/nla/NgC0QLT12",
+        "MAG": "2095257034",
+        "DOI": "10.1002/nla.826",
+        "CorpusId": 206315676
+      },
+      "url": "https://www.semanticscholar.org/paper/333e51413013cc47539132e3dcdd5e362a79f1b1",
+      "title": "Structured matrices and tensors",
+      "venue": "Numerical Linear Algebra with Applications",
+      "year": 2012,
+      "referenceCount": 11,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2391161804",
+          "name": "M. Ng"
+        },
+        {
+          "authorId": "145977909",
+          "name": "R. Chan"
+        },
+        {
+          "authorId": "103101452",
+          "name": "Xiaojun Chen"
+        },
+        {
+          "authorId": "48213357",
+          "name": "L. Qi"
+        },
+        {
+          "authorId": "1930930",
+          "name": "F. Luk"
+        },
+        {
+          "authorId": "2207534",
+          "name": "E. Tyrtyshnikov"
+        }
+      ]
+    },
+    {
+      "paperId": "66bc45da0df1daf1e4dec6d311404cf7636d5bb3",
+      "externalIds": {
+        "CorpusId": 15750978
+      },
+      "url": "https://www.semanticscholar.org/paper/66bc45da0df1daf1e4dec6d311404cf7636d5bb3",
+      "title": "The Jacobi-Davidson Method for Eigenvalue andGeneralized Eigenvalue",
+      "venue": "",
+      "year": 1996,
+      "referenceCount": 20,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2100315064",
+          "name": "ProblemsGerard"
+        },
+        {
+          "authorId": "2098486439",
+          "name": "L. G. Sleijpen"
+        },
+        {
+          "authorId": "1786744",
+          "name": "H. A. Vorst"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,170 @@
+{
+  "total": 7,
+  "offset": 0,
+  "data": [
+    {
+      "paperId": "bb4725df543adbeee017293774f4354485485bae",
+      "externalIds": {
+        "DBLP": "conf/icml/Shalev-Shwartz16",
+        "ArXiv": "1602.01582",
+        "MAG": "2293647857",
+        "CorpusId": 274807
+      },
+      "url": "https://www.semanticscholar.org/paper/bb4725df543adbeee017293774f4354485485bae",
+      "title": "SDCA without Duality, Regularization, and Individual Convexity",
+      "venue": "International Conference on Machine Learning",
+      "year": 2016,
+      "referenceCount": 19,
+      "citationCount": 108,
+      "authors": [
+        {
+          "authorId": "1389955537",
+          "name": "S. Shalev-Shwartz"
+        }
+      ]
+    },
+    {
+      "paperId": "4d612e35116c040bb68540f8bcdf7ee962f12aa8",
+      "externalIds": {
+        "CorpusId": 198905570
+      },
+      "url": "https://www.semanticscholar.org/paper/4d612e35116c040bb68540f8bcdf7ee962f12aa8",
+      "title": "M ay 2 01 6 SDCA without Duality , Regularization , and Individual Conv exity",
+      "venue": "",
+      "year": 2018,
+      "referenceCount": 12,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "1389955537",
+          "name": "S. Shalev-Shwartz"
+        }
+      ]
+    },
+    {
+      "paperId": "70339328c7540908e6200b7c21eac519003e7d13",
+      "externalIds": {
+        "ArXiv": "1502.06177",
+        "DBLP": "journals/corr/Shalev-Shwartz15",
+        "MAG": "1813021177",
+        "CorpusId": 16996488
+      },
+      "url": "https://www.semanticscholar.org/paper/70339328c7540908e6200b7c21eac519003e7d13",
+      "title": "SDCA without Duality",
+      "venue": "arXiv.org",
+      "year": 2015,
+      "referenceCount": 8,
+      "citationCount": 49,
+      "authors": [
+        {
+          "authorId": "1389955537",
+          "name": "S. Shalev-Shwartz"
+        }
+      ]
+    },
+    {
+      "paperId": "f24e02f74125f1f5c2a1b5c14aa1660922810198",
+      "externalIds": {
+        "DBLP": "journals/corr/HuoH16a",
+        "ArXiv": "1605.09066",
+        "MAG": "2417287792",
+        "CorpusId": 16732388
+      },
+      "url": "https://www.semanticscholar.org/paper/f24e02f74125f1f5c2a1b5c14aa1660922810198",
+      "title": "Distributed Asynchronous Stochastic Dual Coordinate Ascent without Duality",
+      "venue": "arXiv.org",
+      "year": 2016,
+      "referenceCount": 22,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "3382735",
+          "name": "Zhouyuan Huo"
+        },
+        {
+          "authorId": "145114933",
+          "name": "Heng Huang"
+        }
+      ]
+    },
+    {
+      "paperId": "f0d545afaf8679691fddd421b5884f174586de0a",
+      "externalIds": {
+        "MAG": "2952357757",
+        "ArXiv": "1706.08141",
+        "DBLP": "conf/colt/HuSR17",
+        "CorpusId": 36020460
+      },
+      "url": "https://www.semanticscholar.org/paper/f0d545afaf8679691fddd421b5884f174586de0a",
+      "title": "A Unified Analysis of Stochastic Optimization Methods Using Jump System Theory and Quadratic Constraints",
+      "venue": "Annual Conference Computational Learning Theory",
+      "year": 2017,
+      "referenceCount": 47,
+      "citationCount": 38,
+      "authors": [
+        {
+          "authorId": "144010722",
+          "name": "Bin Hu"
+        },
+        {
+          "authorId": "2598387",
+          "name": "P. Seiler"
+        },
+        {
+          "authorId": "1777623",
+          "name": "A. Rantzer"
+        }
+      ]
+    },
+    {
+      "paperId": "8dcd49ea538473ca855403c01c9a688f2a2709aa",
+      "externalIds": {
+        "ArXiv": "1407.1296",
+        "MAG": "2950457428",
+        "CorpusId": 16255803
+      },
+      "url": "https://www.semanticscholar.org/paper/8dcd49ea538473ca855403c01c9a688f2a2709aa",
+      "title": "An Accelerated Proximal Coordinate Gradient Method and its Application to Regularized Empirical Risk Minimization",
+      "venue": "",
+      "year": 2014,
+      "referenceCount": 47,
+      "citationCount": 59,
+      "authors": [
+        {
+          "authorId": "39436683",
+          "name": "Qihang Lin"
+        },
+        {
+          "authorId": "6201715",
+          "name": "Zhaosong Lu"
+        },
+        {
+          "authorId": "2149551306",
+          "name": "Lin Xiao"
+        }
+      ]
+    },
+    {
+      "paperId": "caa7bab8204acc38075c2045e69d324adfbf08ed",
+      "externalIds": {
+        "CorpusId": 252048358
+      },
+      "url": "https://www.semanticscholar.org/paper/caa7bab8204acc38075c2045e69d324adfbf08ed",
+      "title": "2017 ICCM Best Paper Award",
+      "venue": "",
+      "year": 2018,
+      "referenceCount": 105,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "46924066",
+          "name": "Shun-Cheng Chang"
+        },
+        {
+          "authorId": "2108593187",
+          "name": "Mu-Tao Wang"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,291 @@
+{
+  "total": 16,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "ba519d7243d6b5d0329a64d85235acc54bc9c815",
+      "externalIds": {
+        "MAG": "2441221256",
+        "DBLP": "conf/icml/LiuLJ16",
+        "ArXiv": "1602.03253",
+        "CorpusId": 17339190
+      },
+      "url": "https://www.semanticscholar.org/paper/ba519d7243d6b5d0329a64d85235acc54bc9c815",
+      "title": "A Kernelized Stein Discrepancy for Goodness-of-fit Tests",
+      "venue": "International Conference on Machine Learning",
+      "year": 2016,
+      "referenceCount": 42,
+      "citationCount": 535,
+      "authors": [
+        {
+          "authorId": "47362268",
+          "name": "Qiang Liu"
+        },
+        {
+          "authorId": "2421201",
+          "name": "J. Lee"
+        },
+        {
+          "authorId": "1694621",
+          "name": "Michael I. Jordan"
+        }
+      ]
+    },
+    {
+      "paperId": "7fb508abc4271718040340f0c57f058af7b45606",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2304-14762",
+        "ArXiv": "2304.14762",
+        "DOI": "10.48550/arXiv.2304.14762",
+        "CorpusId": 258418306
+      },
+      "url": "https://www.semanticscholar.org/paper/7fb508abc4271718040340f0c57f058af7b45606",
+      "title": "Using Perturbation to Improve Goodness-of-Fit Tests based on Kernelized Stein Discrepancy",
+      "venue": "International Conference on Machine Learning",
+      "year": 2023,
+      "referenceCount": 63,
+      "citationCount": 8,
+      "authors": [
+        {
+          "authorId": "13186188",
+          "name": "Xingtu Liu"
+        },
+        {
+          "authorId": "2163521614",
+          "name": "A. Duncan"
+        },
+        {
+          "authorId": "2559159",
+          "name": "A. Gandy"
+        }
+      ]
+    },
+    {
+      "paperId": "c85abdb882a4ceb209fcd999e8f3d2164d77755b",
+      "externalIds": {
+        "MAG": "3034496166",
+        "ArXiv": "2008.08397",
+        "DBLP": "conf/icml/FernandezRXG20",
+        "CorpusId": 221172710
+      },
+      "url": "https://www.semanticscholar.org/paper/c85abdb882a4ceb209fcd999e8f3d2164d77755b",
+      "title": "Kernelized Stein Discrepancy Tests of Goodness-of-fit for Time-to-Event Data",
+      "venue": "International Conference on Machine Learning",
+      "year": 2020,
+      "referenceCount": 43,
+      "citationCount": 16,
+      "authors": [
+        {
+          "authorId": "145623626",
+          "name": "T. Fernandez"
+        },
+        {
+          "authorId": "145247520",
+          "name": "Nicolás Rivera"
+        },
+        {
+          "authorId": "2152923472",
+          "name": "Wenkai Xu"
+        },
+        {
+          "authorId": "1708497",
+          "name": "A. Gretton"
+        }
+      ]
+    },
+    {
+      "paperId": "1d68fc3f7a17a62d5bd2e92c45c2b9cff5e40a2a",
+      "externalIds": {
+        "ArXiv": "2404.08278",
+        "CorpusId": 269137332
+      },
+      "url": "https://www.semanticscholar.org/paper/1d68fc3f7a17a62d5bd2e92c45c2b9cff5e40a2a",
+      "title": "Minimax Optimal Goodness-of-Fit Testing with Kernel Stein Discrepancy",
+      "venue": "",
+      "year": 2024,
+      "referenceCount": 0,
+      "citationCount": 6,
+      "authors": [
+        {
+          "authorId": "2197476828",
+          "name": "Omar Hagrass"
+        },
+        {
+          "authorId": "3313411",
+          "name": "Bharath K. Sriperumbudur"
+        },
+        {
+          "authorId": "2296597897",
+          "name": "K. Balasubramanian"
+        }
+      ]
+    },
+    {
+      "paperId": "05b3def83fa1bd3b92fd2092a05a88be7a485349",
+      "externalIds": {
+        "DBLP": "conf/icml/YangLRN18",
+        "MAG": "2803927155",
+        "CorpusId": 49484071
+      },
+      "url": "https://www.semanticscholar.org/paper/05b3def83fa1bd3b92fd2092a05a88be7a485349",
+      "title": "Goodness-of-fit Testing for Discrete Distributions via Stein Discrepancy",
+      "venue": "International Conference on Machine Learning",
+      "year": 2018,
+      "referenceCount": 34,
+      "citationCount": 59,
+      "authors": [
+        {
+          "authorId": "10666999",
+          "name": "Jiasen Yang"
+        },
+        {
+          "authorId": "47362268",
+          "name": "Qiang Liu"
+        },
+        {
+          "authorId": "144208693",
+          "name": "Vinayak A. Rao"
+        },
+        {
+          "authorId": "144050371",
+          "name": "Jennifer Neville"
+        }
+      ]
+    },
+    {
+      "paperId": "f44d95e69552644c285e0dd8cf5ff62bcde462e9",
+      "externalIds": {
+        "ArXiv": "2510.22792",
+        "CorpusId": 282390170
+      },
+      "url": "https://www.semanticscholar.org/paper/f44d95e69552644c285e0dd8cf5ff62bcde462e9",
+      "title": "Composite goodness-of-fit test with the Kernel Stein Discrepancy and a bootstrap for degenerate U-statistics with estimated parameters",
+      "venue": "",
+      "year": 2025,
+      "referenceCount": 17,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2083453371",
+          "name": "F. Bruck"
+        },
+        {
+          "authorId": "2387869605",
+          "name": "Veronika Reimoser"
+        },
+        {
+          "authorId": "2372283988",
+          "name": "Fabian Baier"
+        }
+      ]
+    },
+    {
+      "paperId": "a5a06219b57e30c307917f461313f791d3c7ad01",
+      "externalIds": {
+        "ArXiv": "2206.04552",
+        "DOI": "10.3150/23-BEJ1662",
+        "CorpusId": 249538334
+      },
+      "url": "https://www.semanticscholar.org/paper/a5a06219b57e30c307917f461313f791d3c7ad01",
+      "title": "A Fourier representation of kernel Stein discrepancy with application to Goodness-of-Fit tests for measures on infinite dimensional Hilbert spaces",
+      "venue": "Bernoulli",
+      "year": 2022,
+      "referenceCount": 82,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "1491009743",
+          "name": "George Wynne"
+        },
+        {
+          "authorId": "151119660",
+          "name": "Mikolaj Kasprzak"
+        },
+        {
+          "authorId": "38584218",
+          "name": "A. Duncan"
+        }
+      ]
+    },
+    {
+      "paperId": "3357bae1298ff642fd6b511007d1d14ad40381c3",
+      "externalIds": {
+        "DBLP": "conf/aistats/Xu22",
+        "ArXiv": "2106.12105",
+        "CorpusId": 248923789
+      },
+      "url": "https://www.semanticscholar.org/paper/3357bae1298ff642fd6b511007d1d14ad40381c3",
+      "title": "Standardisation-function Kernel Stein Discrepancy: A Unifying View on Kernel Stein Discrepancy Tests for Goodness-of-fit",
+      "venue": "International Conference on Artificial Intelligence and Statistics",
+      "year": 2021,
+      "referenceCount": 84,
+      "citationCount": 4,
+      "authors": [
+        {
+          "authorId": "2152923472",
+          "name": "Wenkai Xu"
+        }
+      ]
+    },
+    {
+      "paperId": "928d92ecc6eca14cf9f90c9129d01c810bf87312",
+      "externalIds": {
+        "DOI": "10.3150/25-bej1859",
+        "CorpusId": 283797222
+      },
+      "url": "https://www.semanticscholar.org/paper/928d92ecc6eca14cf9f90c9129d01c810bf87312",
+      "title": "Minimax optimal goodness-of-fit testing with kernel Stein discrepancy",
+      "venue": "Bernoulli",
+      "year": 2026,
+      "referenceCount": 21,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2197476828",
+          "name": "Omar Hagrass"
+        },
+        {
+          "authorId": "3313411",
+          "name": "Bharath K. Sriperumbudur"
+        },
+        {
+          "authorId": "2296597897",
+          "name": "K. Balasubramanian"
+        }
+      ]
+    },
+    {
+      "paperId": "125eb18ff087868abda3a79a0bd994e4cf795faf",
+      "externalIds": {
+        "ArXiv": "2111.10275",
+        "DBLP": "journals/corr/abs-2111-10275",
+        "CorpusId": 244462976
+      },
+      "url": "https://www.semanticscholar.org/paper/125eb18ff087868abda3a79a0bd994e4cf795faf",
+      "title": "Composite Goodness-of-fit Tests with Kernels",
+      "venue": "Journal of machine learning research",
+      "year": 2021,
+      "referenceCount": 85,
+      "citationCount": 23,
+      "authors": [
+        {
+          "authorId": "12389060",
+          "name": "Oscar Key"
+        },
+        {
+          "authorId": "145623626",
+          "name": "T. Fernandez"
+        },
+        {
+          "authorId": "1708497",
+          "name": "A. Gretton"
+        },
+        {
+          "authorId": "121585633",
+          "name": "F. Briol"
+        }
+      ]
+    }
+  ]
+}

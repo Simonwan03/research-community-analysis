@@ -1,0 +1,82 @@
+{
+  "total": 2,
+  "offset": 0,
+  "data": [
+    {
+      "paperId": "01cd36f75e9f9390bd60f9c2a9bfc938e180c991",
+      "externalIds": {
+        "MAG": "2952298272",
+        "DBLP": "journals/corr/CongCLZ17",
+        "ArXiv": "1706.01724",
+        "CorpusId": 3999202
+      },
+      "url": "https://www.semanticscholar.org/paper/01cd36f75e9f9390bd60f9c2a9bfc938e180c991",
+      "title": "Deep Latent Dirichlet Allocation with Topic-Layer-Adaptive Stochastic Gradient Riemannian MCMC",
+      "venue": "International Conference on Machine Learning",
+      "year": 2017,
+      "referenceCount": 51,
+      "citationCount": 70,
+      "authors": [
+        {
+          "authorId": "2147914",
+          "name": "Yulai Cong"
+        },
+        {
+          "authorId": "1801915",
+          "name": "Bo Chen"
+        },
+        {
+          "authorId": "1725627",
+          "name": "Hongwei Liu"
+        },
+        {
+          "authorId": "38026572",
+          "name": "Mingyuan Zhou"
+        }
+      ]
+    },
+    {
+      "paperId": "4180014e898a3d2021e4b6af7bff4896e2c946df",
+      "externalIds": {
+        "MAG": "3035938556",
+        "DBLP": "journals/pami/ZhangCCGLZ21",
+        "ArXiv": "2006.08804",
+        "DOI": "10.1109/tpami.2020.3003660",
+        "CorpusId": 219708649,
+        "PubMed": "32750790"
+      },
+      "url": "https://www.semanticscholar.org/paper/4180014e898a3d2021e4b6af7bff4896e2c946df",
+      "title": "Deep Autoencoding Topic Model With Scalable Hybrid Bayesian Inference",
+      "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+      "year": 2020,
+      "referenceCount": 70,
+      "citationCount": 32,
+      "authors": [
+        {
+          "authorId": "2144612104",
+          "name": "Hao Zhang"
+        },
+        {
+          "authorId": "2152686890",
+          "name": "Bo Chen"
+        },
+        {
+          "authorId": "2147914",
+          "name": "Yulai Cong"
+        },
+        {
+          "authorId": "143860661",
+          "name": "D. Guo"
+        },
+        {
+          "authorId": "1725627",
+          "name": "Hongwei Liu"
+        },
+        {
+          "authorId": "38026572",
+          "name": "Mingyuan Zhou"
+        }
+      ]
+    }
+  ]
+}

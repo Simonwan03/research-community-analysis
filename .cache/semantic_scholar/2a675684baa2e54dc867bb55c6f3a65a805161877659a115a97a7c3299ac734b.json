@@ -1,0 +1,285 @@
+{
+  "total": 9,
+  "offset": 0,
+  "data": [
+    {
+      "paperId": "fd17bd9a5dc24a081ad9743570f50dd6750f54b2",
+      "externalIds": {
+        "MAG": "2963819570",
+        "DBLP": "conf/icml/JinBJ18",
+        "ArXiv": "1802.04364",
+        "CorpusId": 3364940
+      },
+      "url": "https://www.semanticscholar.org/paper/fd17bd9a5dc24a081ad9743570f50dd6750f54b2",
+      "title": "Junction Tree Variational Autoencoder for Molecular Graph Generation",
+      "venue": "International Conference on Machine Learning",
+      "year": 2018,
+      "referenceCount": 44,
+      "citationCount": 1599,
+      "authors": [
+        {
+          "authorId": "2400119",
+          "name": "Wengong Jin"
+        },
+        {
+          "authorId": "1741283",
+          "name": "R. Barzilay"
+        },
+        {
+          "authorId": "35132120",
+          "name": "T. Jaakkola"
+        }
+      ]
+    },
+    {
+      "paperId": "871479b17f779776b2a622c9686a741dcf330ebf",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2202-06794",
+        "ArXiv": "2202.06794",
+        "CorpusId": 246823591
+      },
+      "url": "https://www.semanticscholar.org/paper/871479b17f779776b2a622c9686a741dcf330ebf",
+      "title": "Disentangle VAE for Molecular Generation",
+      "venue": "arXiv.org",
+      "year": 2022,
+      "referenceCount": 17,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2155364481",
+          "name": "Yanbo Wang"
+        },
+        {
+          "authorId": "2112703513",
+          "name": "Qianqian Song"
+        }
+      ]
+    },
+    {
+      "paperId": "f525cdb9c10fc8e98ca5dccc7c0e0599f2fd1d8d",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2208-05119",
+        "DOI": "10.48550/arXiv.2208.05119",
+        "CorpusId": 251468287
+      },
+      "url": "https://www.semanticscholar.org/paper/f525cdb9c10fc8e98ca5dccc7c0e0599f2fd1d8d",
+      "title": "Semi-Supervised Junction Tree Variational Autoencoder for Molecular Property Prediction",
+      "venue": "arXiv.org",
+      "year": 2022,
+      "referenceCount": 9,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "2201328004",
+          "name": "Tony Shen"
+        }
+      ]
+    },
+    {
+      "paperId": "8daf41707ea912498991ff0da3046e6aba6fcb9f",
+      "externalIds": {
+        "ArXiv": "2208.05119",
+        "CorpusId": 265098161
+      },
+      "url": "https://www.semanticscholar.org/paper/8daf41707ea912498991ff0da3046e6aba6fcb9f",
+      "title": "Semi-Supervised Junction Tree Variational Autoencoder for Molecular Property Prediction",
+      "venue": "",
+      "year": 2022,
+      "referenceCount": 25,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2265974631",
+          "name": "Atia Hamidizadeh"
+        },
+        {
+          "authorId": "2201328004",
+          "name": "Tony Shen"
+        },
+        {
+          "authorId": "2254264846",
+          "name": "Martin Ester"
+        }
+      ]
+    },
+    {
+      "paperId": "7dcba6d2f79b54071a6bc140a8f8d9734c18aec8",
+      "externalIds": {
+        "DBLP": "journals/jcheminf/KondratyevDGS23",
+        "PubMedCentral": "9893566",
+        "DOI": "10.1186/s13321-023-00681-4",
+        "CorpusId": 256462281,
+        "PubMed": "36732800"
+      },
+      "url": "https://www.semanticscholar.org/paper/7dcba6d2f79b54071a6bc140a8f8d9734c18aec8",
+      "title": "Generative model based on junction tree variational autoencoder for HOMO value prediction and molecular optimization",
+      "venue": "Journal of Cheminformatics",
+      "year": 2023,
+      "referenceCount": 39,
+      "citationCount": 10,
+      "authors": [
+        {
+          "authorId": "71650234",
+          "name": "V. Kondratyev"
+        },
+        {
+          "authorId": "8379049",
+          "name": "Marian Dryzhakov"
+        },
+        {
+          "authorId": "2203802851",
+          "name": "Timur Gimadiev"
+        },
+        {
+          "authorId": "2203803196",
+          "name": "Dmitriy Slutskiy"
+        }
+      ]
+    },
+    {
+      "paperId": "7ef5bc1f9bace8e6604ccd5feb68111f2ac6e050",
+      "externalIds": {
+        "DOI": "10.1109/AGERS67633.2025.11446444",
+        "CorpusId": 286874734
+      },
+      "url": "https://www.semanticscholar.org/paper/7ef5bc1f9bace8e6604ccd5feb68111f2ac6e050",
+      "title": "De Novo Design of Gram-Negative Antibacterial Compounds Using Junction-Tree Variational Autoencoders and Computational Screening",
+      "venue": "2025 IEEE Asia-Pacific Conference on Geoscience, Electronics and Remote Sensing Technology (AGERS)",
+      "year": 2025,
+      "referenceCount": 29,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2426080013",
+          "name": "Alexandra R. Abainza"
+        },
+        {
+          "authorId": "2426080073",
+          "name": "Mark Allen P. Jugalbot"
+        },
+        {
+          "authorId": "2344254294",
+          "name": "Gerard D. Ompad"
+        }
+      ]
+    },
+    {
+      "paperId": "1790126510c4e82912aea3e93201508b6dd604fa",
+      "externalIds": {
+        "ArXiv": "2601.18716",
+        "DBLP": "journals/corr/abs-2601-18716",
+        "PubMedCentral": "12190558",
+        "DOI": "10.3390/biom15060849",
+        "CorpusId": 279289086,
+        "PubMed": "40563489"
+      },
+      "url": "https://www.semanticscholar.org/paper/1790126510c4e82912aea3e93201508b6dd604fa",
+      "title": "Conditioned Generative Modeling of Molecular Glues: A Realistic AI Approach for Synthesizable Drug-like Molecules",
+      "venue": "Biomolecules",
+      "year": 2025,
+      "referenceCount": 52,
+      "citationCount": 5,
+      "authors": [
+        {
+          "authorId": "2293619110",
+          "name": "Naeyma N. Islam"
+        },
+        {
+          "authorId": "2246163565",
+          "name": "Thomas R Caulfield"
+        }
+      ]
+    },
+    {
+      "paperId": "a4cd080134f2b96c072720c489f85f74e1fa253a",
+      "externalIds": {
+        "DOI": "10.1021/acs.jpca.1c04587",
+        "CorpusId": 236883702,
+        "PubMed": "34342466"
+      },
+      "url": "https://www.semanticscholar.org/paper/a4cd080134f2b96c072720c489f85f74e1fa253a",
+      "title": "De Novo Design of Molecules with Low Hole Reorganization Energy Based on a Quarter-Million Molecule DFT Screen.",
+      "venue": "Journal of Physical Chemistry A",
+      "year": 2021,
+      "referenceCount": 65,
+      "citationCount": 16,
+      "authors": [
+        {
+          "authorId": "145265367",
+          "name": "Gabriel Marques"
+        },
+        {
+          "authorId": "40867019",
+          "name": "K. Leswing"
+        },
+        {
+          "authorId": "2122448294",
+          "name": "Tim Robertson"
+        },
+        {
+          "authorId": "3252499",
+          "name": "D. Giesen"
+        },
+        {
+          "authorId": "3409134",
+          "name": "M. Halls"
+        },
+        {
+          "authorId": "144221327",
+          "name": "A. Goldberg"
+        },
+        {
+          "authorId": "144281679",
+          "name": "Kyle Marshall"
+        },
+        {
+          "authorId": "50072731",
+          "name": "Joshua Staker"
+        },
+        {
+          "authorId": "8539625",
+          "name": "T. Morisato"
+        },
+        {
+          "authorId": "72439187",
+          "name": "Hiroyuki Maeshima"
+        },
+        {
+          "authorId": "2061404533",
+          "name": "H. Arai"
+        },
+        {
+          "authorId": "3171815",
+          "name": "M. Sasago"
+        },
+        {
+          "authorId": "47603142",
+          "name": "E. Fujii"
+        },
+        {
+          "authorId": "2280066083",
+          "name": "Nobuyuki N. Matsuzawa"
+        }
+      ]
+    },
+    {
+      "paperId": "234c69b56f1b8241bf2547bce03fb43ddd2c8769",
+      "externalIds": {
+        "DOI": "10.26686/wgtn.24233635",
+        "CorpusId": 263652615
+      },
+      "url": "https://www.semanticscholar.org/paper/234c69b56f1b8241bf2547bce03fb43ddd2c8769",
+      "title": "Deep Learning Models for Generation of Novel Compounds",
+      "venue": "",
+      "year": null,
+      "referenceCount": 0,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2407423816",
+          "name": "Kang Wang"
+        }
+      ]
+    }
+  ]
+}

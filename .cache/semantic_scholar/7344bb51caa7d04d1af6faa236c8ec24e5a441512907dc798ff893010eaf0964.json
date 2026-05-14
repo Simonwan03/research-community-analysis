@@ -1,0 +1,297 @@
+{
+  "total": 131,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "ee9c6aeb6e29cf3c9081df2cc100b8203ebf5cff",
+      "externalIds": {
+        "DBLP": "conf/icml/LeiJBJ17",
+        "ArXiv": "1705.09037",
+        "MAG": "2618483264",
+        "CorpusId": 12975952
+      },
+      "url": "https://www.semanticscholar.org/paper/ee9c6aeb6e29cf3c9081df2cc100b8203ebf5cff",
+      "title": "Deriving Neural Architectures from Sequence and Graph Kernels",
+      "venue": "International Conference on Machine Learning",
+      "year": 2017,
+      "referenceCount": 51,
+      "citationCount": 145,
+      "authors": [
+        {
+          "authorId": "49986267",
+          "name": "Tao Lei"
+        },
+        {
+          "authorId": "2400119",
+          "name": "Wengong Jin"
+        },
+        {
+          "authorId": "1741283",
+          "name": "R. Barzilay"
+        },
+        {
+          "authorId": "35132120",
+          "name": "T. Jaakkola"
+        }
+      ]
+    },
+    {
+      "paperId": "3b83b35ad1ebdcd45a673afe52be15759cc7e611",
+      "externalIds": {
+        "DBLP": "journals/access/VigrahalaP26",
+        "DOI": "10.1109/ACCESS.2026.3651196",
+        "CorpusId": 284517016
+      },
+      "url": "https://www.semanticscholar.org/paper/3b83b35ad1ebdcd45a673afe52be15759cc7e611",
+      "title": "Integrating Item-Item Semantic Similarity With Item Sequence in Graph Neural Network for Collaborative Filtering",
+      "venue": "IEEE Access",
+      "year": 2026,
+      "referenceCount": 33,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2358251980",
+          "name": "Jhansi Lakshmi Vigrahala"
+        },
+        {
+          "authorId": "2484934",
+          "name": "Abinash Pujahari"
+        }
+      ]
+    },
+    {
+      "paperId": "5d401f1999ec0b1a4df0babcc6392a9338aceb5b",
+      "externalIds": {
+        "DOI": "10.1016/j.cma.2024.117536",
+        "CorpusId": 274271502
+      },
+      "url": "https://www.semanticscholar.org/paper/5d401f1999ec0b1a4df0babcc6392a9338aceb5b",
+      "title": "A physical-information-flow-constrained temporal graph neural network-based simulator for granular materials",
+      "venue": "Computer Methods in Applied Mechanics and Engineering",
+      "year": 2025,
+      "referenceCount": 43,
+      "citationCount": 15,
+      "authors": [
+        {
+          "authorId": "9418643",
+          "name": "Shiwei Zhao"
+        },
+        {
+          "authorId": "2242179153",
+          "name": "Hao Chen"
+        },
+        {
+          "authorId": "2258418582",
+          "name": "Jidong Zhao"
+        }
+      ]
+    },
+    {
+      "paperId": "716d877bd8c91cbdb07f14cac36b489a71426c6c",
+      "externalIds": {
+        "DOI": "10.36676/jmk.v5.i2.93",
+        "CorpusId": 283960378
+      },
+      "url": "https://www.semanticscholar.org/paper/716d877bd8c91cbdb07f14cac36b489a71426c6c",
+      "title": "Compiler-Assisted Optimization Using Neural Code Embeddings for Heterogeneous Architectures",
+      "venue": "Journal of Multidisciplinary Knowledge",
+      "year": 2025,
+      "referenceCount": 3,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2399355363",
+          "name": "Matteo R. Donelli"
+        }
+      ]
+    },
+    {
+      "paperId": "69599ca8b132821ed25ae14d2903cb75a9b0324b",
+      "externalIds": {
+        "DBLP": "conf/bibm/HuangXSYZCL25",
+        "DOI": "10.1109/BIBM66473.2025.11356791",
+        "CorpusId": 285178177
+      },
+      "url": "https://www.semanticscholar.org/paper/69599ca8b132821ed25ae14d2903cb75a9b0324b",
+      "title": "PepKA-GNN: End-to-End Kolmogorov-Arnold Graph Neural Networks for Peptide Prediction",
+      "venue": "IEEE International Conference on Bioinformatics and Biomedicine",
+      "year": 2025,
+      "referenceCount": 41,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2339546698",
+          "name": "Yixuan Huang"
+        },
+        {
+          "authorId": "2339582601",
+          "name": "Yang Xiao"
+        },
+        {
+          "authorId": "2408849835",
+          "name": "Muyuchen Shi"
+        },
+        {
+          "authorId": "2339476683",
+          "name": "Fei Ye"
+        },
+        {
+          "authorId": "2339545138",
+          "name": "Ruihao Zhang"
+        },
+        {
+          "authorId": "2364107598",
+          "name": "Mao Chen"
+        },
+        {
+          "authorId": "2364397581",
+          "name": "Xiao Liu"
+        }
+      ]
+    },
+    {
+      "paperId": "8db61f4f3baea81bd11592225411cd3f52f39363",
+      "externalIds": {
+        "ArXiv": "2312.17506",
+        "DBLP": "journals/corr/abs-2312-17506",
+        "DOI": "10.1016/j.compmedimag.2024.102484",
+        "CorpusId": 266690714,
+        "PubMed": "39808870"
+      },
+      "url": "https://www.semanticscholar.org/paper/8db61f4f3baea81bd11592225411cd3f52f39363",
+      "title": "A graph neural network-based model with Out-of-Distribution Robustness for enhancing Antiretroviral Therapy Outcome Prediction for HIV-1",
+      "venue": "Comput. Medical Imaging Graph.",
+      "year": 2023,
+      "referenceCount": 79,
+      "citationCount": 19,
+      "authors": [
+        {
+          "authorId": "2170075063",
+          "name": "Giulia Di Teodoro"
+        },
+        {
+          "authorId": "1752951302",
+          "name": "F. Siciliano"
+        },
+        {
+          "authorId": "2355301992",
+          "name": "Valerio Guarrasi"
+        },
+        {
+          "authorId": "143827413",
+          "name": "A. Vandamme"
+        },
+        {
+          "authorId": "2237177604",
+          "name": "Valeria Ghisetti"
+        },
+        {
+          "authorId": "2274322679",
+          "name": "A. Sonnerborg"
+        },
+        {
+          "authorId": "2240048454",
+          "name": "M. Zazzi"
+        },
+        {
+          "authorId": "2276426254",
+          "name": "Fabrizio Silvestri"
+        },
+        {
+          "authorId": "40762207",
+          "name": "L. Palagi"
+        }
+      ]
+    },
+    {
+      "paperId": "0a0c74ee3d442b8d7ad7d895c5a1b20cd8201800",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2512-13927",
+        "ArXiv": "2512.13927",
+        "DOI": "10.48550/arXiv.2512.13927",
+        "CorpusId": 283908920
+      },
+      "url": "https://www.semanticscholar.org/paper/0a0c74ee3d442b8d7ad7d895c5a1b20cd8201800",
+      "title": "A Complete Guide to Spherical Equivariant Graph Transformers",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "referenceCount": 0,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2337252091",
+          "name": "Sophia Tang"
+        }
+      ]
+    },
+    {
+      "paperId": "781ff631fd2d7d4f3d8a9a9bd0e55c9f98f7d6b2",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2511-05483",
+        "ArXiv": "2511.05483",
+        "DOI": "10.48550/arXiv.2511.05483",
+        "CorpusId": 282889752
+      },
+      "url": "https://www.semanticscholar.org/paper/781ff631fd2d7d4f3d8a9a9bd0e55c9f98f7d6b2",
+      "title": "DGTN: Graph-Enhanced Transformer with Diffusive Attention Gating Mechanism for Enzyme DDG Prediction",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "referenceCount": 27,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2392811737",
+          "name": "A. Lin"
+        }
+      ]
+    },
+    {
+      "paperId": "f56656344043b8969df56ecc52f32ee38e843341",
+      "externalIds": {
+        "DBLP": "conf/mapr/DoT23",
+        "DOI": "10.1109/MAPR59823.2023.10288714",
+        "CorpusId": 264520690
+      },
+      "url": "https://www.semanticscholar.org/paper/f56656344043b8969df56ecc52f32ee38e843341",
+      "title": "Attention Pooling for Beta Wavelet Filters in Anomaly Classification with Graph Neural Network",
+      "venue": "International Conference on Multimedia Analysis and Pattern Recognition",
+      "year": 2023,
+      "referenceCount": 22,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2221573242",
+          "name": "Thu Uyen Do"
+        },
+        {
+          "authorId": "3301579",
+          "name": "Viet-Cuong Ta"
+        }
+      ]
+    },
+    {
+      "paperId": "66dbe08ffd8a8cc1df49f5cdafb4f7e78c3d7afe",
+      "externalIds": {
+        "DOI": "10.1109/RAEEUCCI63961.2025.11048279",
+        "CorpusId": 279613406
+      },
+      "url": "https://www.semanticscholar.org/paper/66dbe08ffd8a8cc1df49f5cdafb4f7e78c3d7afe",
+      "title": "GAMSAP-DTA: Graph-Augmented Multi-View Substructure Attention for Drug-Target Affinity Prediction",
+      "venue": "2025 International Conference on Recent Advances in Electrical, Electronics, Ubiquitous Communication, and Computational Intelligence (RAEEUCCI)",
+      "year": 2025,
+      "referenceCount": 0,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2277035374",
+          "name": "U. E."
+        },
+        {
+          "authorId": "2124558065",
+          "name": "M. T."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1469 @@
+{
+  "offset": 0,
+  "citingPaperInfo": {
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/1501.04080, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "title": "Differentially Private Bayesian Optimization",
+    "authors": [
+      {
+        "authorId": "1940272",
+        "name": "Matt J. Kusner"
+      },
+      {
+        "authorId": "31693738",
+        "name": "J. Gardner"
+      },
+      {
+        "authorId": "145974030",
+        "name": "R. Garnett"
+      },
+      {
+        "authorId": "7446832",
+        "name": "Kilian Q. Weinberger"
+      }
+    ]
+  },
+  "data": [
+    {
+      "citedPaper": {
+        "paperId": "0023582fde36430c7e3ae81611a14e558c8f4bae",
+        "externalIds": {
+          "DBLP": "journals/fttcs/DworkR14",
+          "MAG": "2027595342",
+          "DOI": "10.1561/0400000042",
+          "CorpusId": 207178262
+        },
+        "url": "https://www.semanticscholar.org/paper/0023582fde36430c7e3ae81611a14e558c8f4bae",
+        "title": "The Algorithmic Foundations of Differential Privacy",
+        "venue": "Foundations and Trends® in Theoretical Computer Science",
+        "year": 2014,
+        "referenceCount": 96,
+        "citationCount": 9103,
+        "authors": [
+          {
+            "authorId": "1781565",
+            "name": "C. Dwork"
+          },
+          {
+            "authorId": "1682008",
+            "name": "Aaron Roth"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "5918ae75d71ff737ed002a0d2d4d720d8a94c6b6",
+        "externalIds": {
+          "DBLP": "conf/icml/GardnerKZWC14",
+          "MAG": "202805564",
+          "CorpusId": 17104903
+        },
+        "url": "https://www.semanticscholar.org/paper/5918ae75d71ff737ed002a0d2d4d720d8a94c6b6",
+        "title": "Bayesian Optimization with Inequality Constraints",
+        "venue": "International Conference on Machine Learning",
+        "year": 2014,
+        "referenceCount": 33,
+        "citationCount": 570,
+        "authors": [
+          {
+            "authorId": "31693738",
+            "name": "J. Gardner"
+          },
+          {
+            "authorId": "1940272",
+            "name": "Matt J. Kusner"
+          },
+          {
+            "authorId": "32622713",
+            "name": "Z. Xu"
+          },
+          {
+            "authorId": "7446832",
+            "name": "Kilian Q. Weinberger"
+          },
+          {
+            "authorId": "2575774",
+            "name": "J. Cunningham"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "8c7b17f5dc9d074178a2f2f16796ffa6daf89fb6",
+        "externalIds": {
+          "DBLP": "conf/icml/0002T14",
+          "MAG": "112690700",
+          "CorpusId": 16168158
+        },
+        "url": "https://www.semanticscholar.org/paper/8c7b17f5dc9d074178a2f2f16796ffa6daf89fb6",
+        "title": "(Near) Dimension Independent Risk Bounds for Differentially Private Learning",
+        "venue": "International Conference on Machine Learning",
+        "year": 2014,
+        "referenceCount": 24,
+        "citationCount": 144,
+        "authors": [
+          {
+            "authorId": "48964143",
+            "name": "Prateek Jain"
+          },
+          {
+            "authorId": "2623159",
+            "name": "Abhradeep Thakurta"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "cb6fbf87349fb6dbd49dffef9c2905bd4a20c207",
+        "externalIds": {
+          "MAG": "2399077675",
+          "DBLP": "journals/corr/BassilyST14",
+          "CorpusId": 8768977
+        },
+        "url": "https://www.semanticscholar.org/paper/cb6fbf87349fb6dbd49dffef9c2905bd4a20c207",
+        "title": "Private Empirical Risk Minimization, Revisited",
+        "venue": "arXiv.org",
+        "year": 2014,
+        "referenceCount": 47,
+        "citationCount": 50,
+        "authors": [
+          {
+            "authorId": "1679638",
+            "name": "Raef Bassily"
+          },
+          {
+            "authorId": "39765787",
+            "name": "Adam D. Smith"
+          },
+          {
+            "authorId": "2623159",
+            "name": "Abhradeep Thakurta"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "f5c66cb689aa9b4404c72afc263023c26433553a",
+        "externalIds": {
+          "MAG": "1937834619",
+          "ArXiv": "1405.7085",
+          "CorpusId": 206656426
+        },
+        "url": "https://www.semanticscholar.org/paper/f5c66cb689aa9b4404c72afc263023c26433553a",
+        "title": "Differentially Private Empirical Risk Minimization: Efficient Algorithms and Tight Error Bounds",
+        "venue": "",
+        "year": 2014,
+        "referenceCount": 52,
+        "citationCount": 362,
+        "authors": [
+          {
+            "authorId": "1679638",
+            "name": "Raef Bassily"
+          },
+          {
+            "authorId": "39765787",
+            "name": "Adam D. Smith"
+          },
+          {
+            "authorId": "2623159",
+            "name": "Abhradeep Thakurta"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "5f06a88d506b52c6106624f1e6c0ea7ced2fb5e1",
+        "externalIds": {
+          "MAG": "2170307371",
+          "DBLP": "conf/aistats/HoffmanSF14",
+          "CorpusId": 2482948
+        },
+        "url": "https://www.semanticscholar.org/paper/5f06a88d506b52c6106624f1e6c0ea7ced2fb5e1",
+        "title": "On correlation and budget constraints in model-based bandit optimization with application to automatic machine learning",
+        "venue": "International Conference on Artificial Intelligence and Statistics",
+        "year": 2014,
+        "referenceCount": 45,
+        "citationCount": 134,
+        "authors": [
+          {
+            "authorId": "28552618",
+            "name": "M. Hoffman"
+          },
+          {
+            "authorId": "2067577",
+            "name": "Bobak Shahriari"
+          },
+          {
+            "authorId": "1737568",
+            "name": "Nando de Freitas"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "ab6bcd19b7b411ddc3f247215b57e5db3ae67bbc",
+        "externalIds": {
+          "ArXiv": "1402.4306",
+          "MAG": "2963641874",
+          "DBLP": "conf/aistats/ShahWG14",
+          "CorpusId": 8194863
+        },
+        "url": "https://www.semanticscholar.org/paper/ab6bcd19b7b411ddc3f247215b57e5db3ae67bbc",
+        "title": "Student-t Processes as Alternatives to Gaussian Processes",
+        "venue": "International Conference on Artificial Intelligence and Statistics",
+        "year": 2014,
+        "referenceCount": 22,
+        "citationCount": 220,
+        "authors": [
+          {
+            "authorId": "2244796",
+            "name": "Amar Shah"
+          },
+          {
+            "authorId": "145771261",
+            "name": "A. Wilson"
+          },
+          {
+            "authorId": "1744700",
+            "name": "Zoubin Ghahramani"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "691d77596c24d1c100a958c444eeb0ce451c302b",
+        "externalIds": {
+          "DBLP": "conf/nips/ThakurtaS13",
+          "MAG": "2150230313",
+          "CorpusId": 15236510
+        },
+        "url": "https://www.semanticscholar.org/paper/691d77596c24d1c100a958c444eeb0ce451c302b",
+        "title": "(Nearly) Optimal Algorithms for Private Online Learning in Full-information and Bandit Settings",
+        "venue": "Neural Information Processing Systems",
+        "year": 2013,
+        "referenceCount": 27,
+        "citationCount": 169,
+        "authors": [
+          {
+            "authorId": "2623159",
+            "name": "Abhradeep Thakurta"
+          },
+          {
+            "authorId": "39765787",
+            "name": "Adam D. Smith"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "f4c7e853371bd539c5469244ddfdecb0f1f97fb6",
+        "externalIds": {
+          "DBLP": "conf/nips/ChaudhuriV13",
+          "MAG": "2104743167",
+          "CorpusId": 11862351
+        },
+        "url": "https://www.semanticscholar.org/paper/f4c7e853371bd539c5469244ddfdecb0f1f97fb6",
+        "title": "A Stability-based Validation Procedure for Differentially Private Machine Learning",
+        "venue": "Neural Information Processing Systems",
+        "year": 2013,
+        "referenceCount": 28,
+        "citationCount": 89,
+        "authors": [
+          {
+            "authorId": "38120884",
+            "name": "Kamalika Chaudhuri"
+          },
+          {
+            "authorId": "2711007",
+            "name": "S. Vinterbo"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "35e7925616123355a232231deb2182fb38663214",
+        "externalIds": {
+          "DBLP": "conf/nips/SwerskySA13",
+          "MAG": "2113145584",
+          "CorpusId": 1311677
+        },
+        "url": "https://www.semanticscholar.org/paper/35e7925616123355a232231deb2182fb38663214",
+        "title": "Multi-Task Bayesian Optimization",
+        "venue": "Neural Information Processing Systems",
+        "year": 2013,
+        "referenceCount": 30,
+        "citationCount": 826,
+        "authors": [
+          {
+            "authorId": "1754860",
+            "name": "Kevin Swersky"
+          },
+          {
+            "authorId": "144108062",
+            "name": "Jasper Snoek"
+          },
+          {
+            "authorId": "1722180",
+            "name": "Ryan P. Adams"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "fae3819ea63c7ae9eef2398fa938e84fe0c10317",
+        "externalIds": {
+          "MAG": "1985511977",
+          "DBLP": "conf/globalsip/SongCS13",
+          "DOI": "10.1109/GlobalSIP.2013.6736861",
+          "CorpusId": 8085841
+        },
+        "url": "https://www.semanticscholar.org/paper/fae3819ea63c7ae9eef2398fa938e84fe0c10317",
+        "title": "Stochastic gradient descent with differentially private updates",
+        "venue": "IEEE Global Conference on Signal and Information Processing",
+        "year": 2013,
+        "referenceCount": 27,
+        "citationCount": 743,
+        "authors": [
+          {
+            "authorId": "144206374",
+            "name": "Shuang Song"
+          },
+          {
+            "authorId": "38120884",
+            "name": "Kamalika Chaudhuri"
+          },
+          {
+            "authorId": "9208982",
+            "name": "A. Sarwate"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "a2febe19d2a1a70fafda677698c62448f5cc0d03",
+        "externalIds": {
+          "DBLP": "conf/focs/DuchiJW13",
+          "MAG": "2053801139",
+          "DOI": "10.1109/FOCS.2013.53",
+          "CorpusId": 1597053
+        },
+        "url": "https://www.semanticscholar.org/paper/a2febe19d2a1a70fafda677698c62448f5cc0d03",
+        "title": "Local Privacy and Statistical Minimax Rates",
+        "venue": "IEEE Annual Symposium on Foundations of Computer Science",
+        "year": 2013,
+        "referenceCount": 29,
+        "citationCount": 1267,
+        "authors": [
+          {
+            "authorId": "1734693",
+            "name": "John C. Duchi"
+          },
+          {
+            "authorId": "1694621",
+            "name": "Michael I. Jordan"
+          },
+          {
+            "authorId": "1721860",
+            "name": "M. Wainwright"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "20bc47b5717e8d8e3b064c2dacae30c489ef4f19",
+        "externalIds": {
+          "MAG": "2134326009",
+          "DBLP": "conf/ichi/YuEFFAK13",
+          "DOI": "10.1109/ICHI.2013.57",
+          "CorpusId": 7661794,
+          "PubMed": "26363683"
+        },
+        "url": "https://www.semanticscholar.org/paper/20bc47b5717e8d8e3b064c2dacae30c489ef4f19",
+        "title": "Predicting Readmission Risk with Institution Specific Prediction Models",
+        "venue": "IEEE International Conference on Healthcare Informatics",
+        "year": 2013,
+        "referenceCount": 18,
+        "citationCount": 125,
+        "authors": [
+          {
+            "authorId": "1911562",
+            "name": "Shipeng Yu"
+          },
+          {
+            "authorId": "2529823",
+            "name": "A. V. Esbroeck"
+          },
+          {
+            "authorId": "2065704699",
+            "name": "Faisal Farooq"
+          },
+          {
+            "authorId": "144848317",
+            "name": "Glenn Fung"
+          },
+          {
+            "authorId": "3265862",
+            "name": "V. Anand"
+          },
+          {
+            "authorId": "1765150",
+            "name": "Balaji Krishnapuram"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "ea57e9e2d557fa6e944b69bbe4420ef61c122e4c",
+        "externalIds": {
+          "MAG": "76331760",
+          "DBLP": "conf/icml/BardenetBKS13",
+          "CorpusId": 8791227
+        },
+        "url": "https://www.semanticscholar.org/paper/ea57e9e2d557fa6e944b69bbe4420ef61c122e4c",
+        "title": "Collaborative hyperparameter tuning",
+        "venue": "International Conference on Machine Learning",
+        "year": 2013,
+        "referenceCount": 23,
+        "citationCount": 384,
+        "authors": [
+          {
+            "authorId": "2103302",
+            "name": "R. Bardenet"
+          },
+          {
+            "authorId": "144184144",
+            "name": "M. Brendel"
+          },
+          {
+            "authorId": "143674326",
+            "name": "B. Kégl"
+          },
+          {
+            "authorId": "69343681",
+            "name": "M. Sebag"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "e9d61433f26d64bd21e62eae506a21c99893d053",
+        "externalIds": {
+          "DBLP": "conf/icml/0002T13",
+          "MAG": "168548896",
+          "CorpusId": 12354996
+        },
+        "url": "https://www.semanticscholar.org/paper/e9d61433f26d64bd21e62eae506a21c99893d053",
+        "title": "Differentially Private Learning with Kernels",
+        "venue": "International Conference on Machine Learning",
+        "year": 2013,
+        "referenceCount": 25,
+        "citationCount": 100,
+        "authors": [
+          {
+            "authorId": "48964143",
+            "name": "Prateek Jain"
+          },
+          {
+            "authorId": "2623159",
+            "name": "Abhradeep Thakurta"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "c2faa587bd3b7ebddbafdb310b201382d106f8ec",
+        "externalIds": {
+          "MAG": "92292672",
+          "DBLP": "conf/colt/ThakurtaS13",
+          "CorpusId": 18237183
+        },
+        "url": "https://www.semanticscholar.org/paper/c2faa587bd3b7ebddbafdb310b201382d106f8ec",
+        "title": "Differentially Private Feature Selection via Stability Arguments, and the Robustness of the Lasso",
+        "venue": "Annual Conference Computational Learning Theory",
+        "year": 2013,
+        "referenceCount": 37,
+        "citationCount": 179,
+        "authors": [
+          {
+            "authorId": "2623159",
+            "name": "Abhradeep Thakurta"
+          },
+          {
+            "authorId": "39765787",
+            "name": "Adam D. Smith"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "5cac07692791d5b75cc810050d5dad7070cfa926",
+        "externalIds": {
+          "MAG": "2952908320",
+          "DBLP": "conf/icml/FreitasSZ12",
+          "ArXiv": "1206.6457",
+          "CorpusId": 16212258
+        },
+        "url": "https://www.semanticscholar.org/paper/5cac07692791d5b75cc810050d5dad7070cfa926",
+        "title": "Exponential Regret Bounds for Gaussian Process Bandits with Deterministic Observations",
+        "venue": "International Conference on Machine Learning",
+        "year": 2012,
+        "referenceCount": 28,
+        "citationCount": 114,
+        "authors": [
+          {
+            "authorId": "1737568",
+            "name": "Nando de Freitas"
+          },
+          {
+            "authorId": "46234526",
+            "name": "Alex Smola"
+          },
+          {
+            "authorId": "36572609",
+            "name": "M. Zoghi"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "fdbd8d425f8487c16bf6ea4ca22ebbd9f28229e4",
+        "externalIds": {
+          "DBLP": "conf/icml/ChaudhuriH12",
+          "MAG": "2953239333",
+          "ArXiv": "1206.6395",
+          "CorpusId": 9525432,
+          "PubMed": "25302341"
+        },
+        "url": "https://www.semanticscholar.org/paper/fdbd8d425f8487c16bf6ea4ca22ebbd9f28229e4",
+        "title": "Convergence Rates for Differentially Private Statistical Estimation",
+        "venue": "International Conference on Machine Learning",
+        "year": 2012,
+        "referenceCount": 29,
+        "citationCount": 52,
+        "authors": [
+          {
+            "authorId": "38120884",
+            "name": "Kamalika Chaudhuri"
+          },
+          {
+            "authorId": "143724861",
+            "name": "Daniel J. Hsu"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "2e2089ae76fe914706e6fa90081a79c8fe01611e",
+        "externalIds": {
+          "ArXiv": "1206.2944",
+          "MAG": "2950182411",
+          "DBLP": "conf/nips/SnoekLA12",
+          "CorpusId": 632197
+        },
+        "url": "https://www.semanticscholar.org/paper/2e2089ae76fe914706e6fa90081a79c8fe01611e",
+        "title": "Practical Bayesian Optimization of Machine Learning Algorithms",
+        "venue": "Neural Information Processing Systems",
+        "year": 2012,
+        "referenceCount": 28,
+        "citationCount": 9211,
+        "authors": [
+          {
+            "authorId": "144108062",
+            "name": "Jasper Snoek"
+          },
+          {
+            "authorId": "1777528",
+            "name": "H. Larochelle"
+          },
+          {
+            "authorId": "1722180",
+            "name": "Ryan P. Adams"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "ea43add1837c0e074826ec8f18d0485e840639e7",
+        "externalIds": {
+          "DBLP": "conf/icml/AzimiJF12",
+          "MAG": "2951196146",
+          "ArXiv": "1202.5597",
+          "CorpusId": 10458049
+        },
+        "url": "https://www.semanticscholar.org/paper/ea43add1837c0e074826ec8f18d0485e840639e7",
+        "title": "Hybrid Batch Bayesian Optimization",
+        "venue": "International Conference on Machine Learning",
+        "year": 2012,
+        "referenceCount": 16,
+        "citationCount": 74,
+        "authors": [
+          {
+            "authorId": "2582186",
+            "name": "J. Azimi"
+          },
+          {
+            "authorId": "143602278",
+            "name": "A. Jalali"
+          },
+          {
+            "authorId": "1694273",
+            "name": "Xiaoli Z. Fern"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "188e247506ad992b8bc62d6c74789e89891a984f",
+        "externalIds": {
+          "MAG": "2097998348",
+          "DBLP": "journals/jmlr/BergstraB12",
+          "DOI": "10.5555/2503308.2188395",
+          "CorpusId": 15700257
+        },
+        "url": "https://www.semanticscholar.org/paper/188e247506ad992b8bc62d6c74789e89891a984f",
+        "title": "Random Search for Hyper-Parameter Optimization",
+        "venue": "Journal of machine learning research",
+        "year": 2012,
+        "referenceCount": 36,
+        "citationCount": 10838,
+        "authors": [
+          {
+            "authorId": "32837403",
+            "name": "J. Bergstra"
+          },
+          {
+            "authorId": "1751762",
+            "name": "Yoshua Bengio"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "81f9e2051a47ab85e90f5f19256d2b113aea4f9b",
+        "externalIds": {
+          "MAG": "2951852553",
+          "ArXiv": "1101.3501",
+          "DBLP": "journals/jmlr/Bull11",
+          "DOI": "10.5555/1953048.2078198",
+          "CorpusId": 6229688
+        },
+        "url": "https://www.semanticscholar.org/paper/81f9e2051a47ab85e90f5f19256d2b113aea4f9b",
+        "title": "Convergence Rates of Efficient Global Optimization Algorithms",
+        "venue": "Journal of machine learning research",
+        "year": 2011,
+        "referenceCount": 38,
+        "citationCount": 699,
+        "authors": [
+          {
+            "authorId": "38742457",
+            "name": "Adam D. Bull"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "728744423ff0fb7e327664ed4e6352a95bb6c893",
+        "externalIds": {
+          "MAG": "60686164",
+          "DBLP": "conf/lion/HutterHL11",
+          "DOI": "10.1007/978-3-642-25566-3_40",
+          "CorpusId": 6944647
+        },
+        "url": "https://www.semanticscholar.org/paper/728744423ff0fb7e327664ed4e6352a95bb6c893",
+        "title": "Sequential Model-Based Optimization for General Algorithm Configuration",
+        "venue": "Learning and Intelligent Optimization",
+        "year": 2011,
+        "referenceCount": 56,
+        "citationCount": 2884,
+        "authors": [
+          {
+            "authorId": "144661829",
+            "name": "F. Hutter"
+          },
+          {
+            "authorId": "2470869",
+            "name": "H. Hoos"
+          },
+          {
+            "authorId": "1388404060",
+            "name": "Kevin Leyton-Brown"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "cd5a26b89f0799db1cbc1dff5607cb6815739fe7",
+        "externalIds": {
+          "MAG": "2950338507",
+          "DBLP": "journals/corr/abs-1012-2599",
+          "ArXiv": "1012.2599",
+          "CorpusId": 1640103
+        },
+        "url": "https://www.semanticscholar.org/paper/cd5a26b89f0799db1cbc1dff5607cb6815739fe7",
+        "title": "A Tutorial on Bayesian Optimization of Expensive Cost Functions, with Application to Active User Modeling and Hierarchical Reinforcement Learning",
+        "venue": "arXiv.org",
+        "year": 2010,
+        "referenceCount": 109,
+        "citationCount": 2633,
+        "authors": [
+          {
+            "authorId": "144180357",
+            "name": "E. Brochu"
+          },
+          {
+            "authorId": "2221163",
+            "name": "Vlad M. Cora"
+          },
+          {
+            "authorId": "1737568",
+            "name": "Nando de Freitas"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "0c8413ab8de0c1b8f2e86402b8d737d94371610f",
+        "externalIds": {
+          "MAG": "2951665052",
+          "DBLP": "conf/icml/SrinivasKKS10",
+          "ArXiv": "0912.3995",
+          "DOI": "10.1109/TIT.2011.2182033",
+          "CorpusId": 59031327
+        },
+        "url": "https://www.semanticscholar.org/paper/0c8413ab8de0c1b8f2e86402b8d737d94371610f",
+        "title": "Information-Theoretic Regret Bounds for Gaussian Process Optimization in the Bandit Setting",
+        "venue": "IEEE Transactions on Information Theory",
+        "year": 2009,
+        "referenceCount": 50,
+        "citationCount": 1747,
+        "authors": [
+          {
+            "authorId": "2157110",
+            "name": "Niranjan Srinivas"
+          },
+          {
+            "authorId": "145343838",
+            "name": "Andreas Krause"
+          },
+          {
+            "authorId": "144695232",
+            "name": "S. Kakade"
+          },
+          {
+            "authorId": "1680574",
+            "name": "M. Seeger"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "b57c54350769ffa59ff57f79ee5aad918844d298",
+        "externalIds": {
+          "ArXiv": "0912.0071",
+          "MAG": "2119874464",
+          "DBLP": "journals/jmlr/ChaudhuriMS11",
+          "DOI": "10.5555/1953048.2021036",
+          "CorpusId": 1578541,
+          "PubMed": "21892342"
+        },
+        "url": "https://www.semanticscholar.org/paper/b57c54350769ffa59ff57f79ee5aad918844d298",
+        "title": "Differentially Private Empirical Risk Minimization",
+        "venue": "Journal of machine learning research",
+        "year": 2009,
+        "referenceCount": 61,
+        "citationCount": 1584,
+        "authors": [
+          {
+            "authorId": "38120884",
+            "name": "Kamalika Chaudhuri"
+          },
+          {
+            "authorId": "1806678",
+            "name": "C. Monteleoni"
+          },
+          {
+            "authorId": "9208982",
+            "name": "A. Sarwate"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "c91b19a556ce0d472cc08b3e06062b4c8220a277",
+        "externalIds": {
+          "DBLP": "conf/stoc/DworkL09",
+          "MAG": "2138865266",
+          "DOI": "10.1145/1536414.1536466",
+          "CorpusId": 16625547
+        },
+        "url": "https://www.semanticscholar.org/paper/c91b19a556ce0d472cc08b3e06062b4c8220a277",
+        "title": "Differential privacy and robust statistics",
+        "venue": "Symposium on the Theory of Computing",
+        "year": 2009,
+        "referenceCount": 20,
+        "citationCount": 815,
+        "authors": [
+          {
+            "authorId": "1781565",
+            "name": "C. Dwork"
+          },
+          {
+            "authorId": "145258822",
+            "name": "Jing Lei"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "00bbfde6af97ce5efcf86b3401d265d42a95603d",
+        "externalIds": {
+          "MAG": "2953133476",
+          "DBLP": "journals/corr/abs-0902-2206",
+          "ArXiv": "0902.2206",
+          "DOI": "10.1145/1553374.1553516",
+          "CorpusId": 291713
+        },
+        "url": "https://www.semanticscholar.org/paper/00bbfde6af97ce5efcf86b3401d265d42a95603d",
+        "title": "Feature hashing for large scale multitask learning",
+        "venue": "International Conference on Machine Learning",
+        "year": 2009,
+        "referenceCount": 32,
+        "citationCount": 1075,
+        "authors": [
+          {
+            "authorId": "7446832",
+            "name": "Kilian Q. Weinberger"
+          },
+          {
+            "authorId": "144029093",
+            "name": "A. Dasgupta"
+          },
+          {
+            "authorId": "1708597",
+            "name": "Josh Attenberg"
+          },
+          {
+            "authorId": "144162125",
+            "name": "J. Langford"
+          },
+          {
+            "authorId": "46234526",
+            "name": "Alex Smola"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "52d6c4a64bb9ffc8d8052413c3ad69df4c62481d",
+        "externalIds": {
+          "MAG": "2135930857",
+          "DBLP": "conf/sp/NarayananS08",
+          "DOI": "10.1109/SP.2008.33",
+          "CorpusId": 8843913
+        },
+        "url": "https://www.semanticscholar.org/paper/52d6c4a64bb9ffc8d8052413c3ad69df4c62481d",
+        "title": "Robust De-anonymization of Large Sparse Datasets",
+        "venue": "IEEE Symposium on Security and Privacy",
+        "year": 2008,
+        "referenceCount": 35,
+        "citationCount": 2626,
+        "authors": [
+          {
+            "authorId": "47735253",
+            "name": "Arvind Narayanan"
+          },
+          {
+            "authorId": "1723945",
+            "name": "Vitaly Shmatikov"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "8c23ea0ed7badd70a8e26dcea73f2d673cc0c74d",
+        "externalIds": {
+          "DBLP": "journals/corr/abs-0803-0924",
+          "MAG": "2949758198",
+          "ArXiv": "0803.0924",
+          "DOI": "10.1137/090756090",
+          "CorpusId": 1935
+        },
+        "url": "https://www.semanticscholar.org/paper/8c23ea0ed7badd70a8e26dcea73f2d673cc0c74d",
+        "title": "What Can We Learn Privately?",
+        "venue": "2008 49th Annual IEEE Symposium on Foundations of Computer Science",
+        "year": 2008,
+        "referenceCount": 68,
+        "citationCount": 1617,
+        "authors": [
+          {
+            "authorId": "7993151",
+            "name": "S. Kasiviswanathan"
+          },
+          {
+            "authorId": "2109158855",
+            "name": "Homin K. Lee"
+          },
+          {
+            "authorId": "145725600",
+            "name": "Kobbi Nissim"
+          },
+          {
+            "authorId": "1797575",
+            "name": "Sofya Raskhodnikova"
+          },
+          {
+            "authorId": "39765787",
+            "name": "Adam D. Smith"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "11a651253f8603c01ed29c00c76673a67bd291c7",
+        "externalIds": {
+          "ArXiv": "0803.0032",
+          "MAG": "2953209903",
+          "DBLP": "journals/corr/abs-0803-0032",
+          "DOI": "10.1145/1401890.1401926",
+          "CorpusId": 1090
+        },
+        "url": "https://www.semanticscholar.org/paper/11a651253f8603c01ed29c00c76673a67bd291c7",
+        "title": "Composition attacks and auxiliary information in data privacy",
+        "venue": "Knowledge Discovery and Data Mining",
+        "year": 2008,
+        "referenceCount": 44,
+        "citationCount": 437,
+        "authors": [
+          {
+            "authorId": "2554473",
+            "name": "S. R. Ganta"
+          },
+          {
+            "authorId": "7993151",
+            "name": "S. Kasiviswanathan"
+          },
+          {
+            "authorId": "39765787",
+            "name": "Adam D. Smith"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "3c5ddc50b656c923b8173c8fc40b6c36f5cd3dac",
+        "externalIds": {
+          "ArXiv": "0712.3744",
+          "MAG": "2078011655",
+          "DOI": "10.1016/J.JSPI.2010.04.018",
+          "CorpusId": 52065066
+        },
+        "url": "https://www.semanticscholar.org/paper/3c5ddc50b656c923b8173c8fc40b6c36f5cd3dac",
+        "title": "Convergence properties of the expected improvement algorithm with fixed mean and covariance functions",
+        "venue": "",
+        "year": 2007,
+        "referenceCount": 27,
+        "citationCount": 246,
+        "authors": [
+          {
+            "authorId": "144272396",
+            "name": "Emmanuel Vazquez"
+          },
+          {
+            "authorId": "1691181",
+            "name": "Julien Bect"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "10d10df314c1b58f5c83629e73a35185876cd4e2",
+        "externalIds": {
+          "MAG": "2119595900",
+          "DBLP": "conf/nips/BonillaCW07",
+          "CorpusId": 10790217
+        },
+        "url": "https://www.semanticscholar.org/paper/10d10df314c1b58f5c83629e73a35185876cd4e2",
+        "title": "Multi-task Gaussian Process Prediction",
+        "venue": "Neural Information Processing Systems",
+        "year": 2007,
+        "referenceCount": 20,
+        "citationCount": 1320,
+        "authors": [
+          {
+            "authorId": "30561807",
+            "name": "Edwin V. Bonilla"
+          },
+          {
+            "authorId": "1890071",
+            "name": "K. M. Chai"
+          },
+          {
+            "authorId": "145715698",
+            "name": "Christopher K. I. Williams"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "295ad29df1ff30052dbb22f9912b0370811b40c5",
+        "externalIds": {
+          "MAG": "3010399376",
+          "DBLP": "journals/siamcomp/BogdanovV10",
+          "DOI": "10.1137/070712109",
+          "CorpusId": 17809969
+        },
+        "url": "https://www.semanticscholar.org/paper/295ad29df1ff30052dbb22f9912b0370811b40c5",
+        "title": "Pseudorandom Bits for Polynomials",
+        "venue": "IEEE Annual Symposium on Foundations of Computer Science",
+        "year": 2007,
+        "referenceCount": 28,
+        "citationCount": 1951,
+        "authors": [
+          {
+            "authorId": "3137076",
+            "name": "Frank McSherry"
+          },
+          {
+            "authorId": "35210462",
+            "name": "Kunal Talwar"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "3f70dc09f979b102c010d4bb500ceb09f18e3b17",
+        "externalIds": {
+          "MAG": "1557833142",
+          "DBLP": "conf/eurocrypt/DworkKMMN06",
+          "DOI": "10.1007/11761679_29",
+          "CorpusId": 2495811
+        },
+        "url": "https://www.semanticscholar.org/paper/3f70dc09f979b102c010d4bb500ceb09f18e3b17",
+        "title": "Our Data, Ourselves: Privacy Via Distributed Noise Generation",
+        "venue": "International Conference on the Theory and Application of Cryptographic Techniques",
+        "year": 2006,
+        "referenceCount": 29,
+        "citationCount": 2400,
+        "authors": [
+          {
+            "authorId": "1781565",
+            "name": "C. Dwork"
+          },
+          {
+            "authorId": "1769861",
+            "name": "K. Kenthapadi"
+          },
+          {
+            "authorId": "3137076",
+            "name": "Frank McSherry"
+          },
+          {
+            "authorId": "145591745",
+            "name": "Ilya Mironov"
+          },
+          {
+            "authorId": "1693267",
+            "name": "M. Naor"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "e4ce10063cd25447dcde75c2d9ce327446ced952",
+        "externalIds": {
+          "MAG": "1873763122",
+          "DBLP": "conf/tcc/DworkMNS06",
+          "DOI": "10.29012/JPC.V7I3.405",
+          "CorpusId": 2468323
+        },
+        "url": "https://www.semanticscholar.org/paper/e4ce10063cd25447dcde75c2d9ce327446ced952",
+        "title": "Calibrating Noise to Sensitivity in Private Data Analysis",
+        "venue": "Theory of Cryptography Conference",
+        "year": 2006,
+        "referenceCount": 25,
+        "citationCount": 9254,
+        "authors": [
+          {
+            "authorId": "1781565",
+            "name": "C. Dwork"
+          },
+          {
+            "authorId": "3137076",
+            "name": "Frank McSherry"
+          },
+          {
+            "authorId": "145725600",
+            "name": "Kobbi Nissim"
+          },
+          {
+            "authorId": "39765787",
+            "name": "Adam D. Smith"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "39e1c9b8d38bfed261674e24e9ef6bd1695b4b77",
+        "externalIds": {
+          "DBLP": "conf/icml/GuestrinKS05",
+          "MAG": "1999824796",
+          "DOI": "10.1145/1102351.1102385",
+          "CorpusId": 333449
+        },
+        "url": "https://www.semanticscholar.org/paper/39e1c9b8d38bfed261674e24e9ef6bd1695b4b77",
+        "title": "Near-optimal sensor placements in Gaussian processes",
+        "venue": "International Conference on Machine Learning",
+        "year": 2005,
+        "referenceCount": 97,
+        "citationCount": 1925,
+        "authors": [
+          {
+            "authorId": "145343838",
+            "name": "Andreas Krause"
+          },
+          {
+            "authorId": "2117775861",
+            "name": "A. Singh"
+          },
+          {
+            "authorId": "1730156",
+            "name": "Carlos Guestrin"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "61b66a8324742a09d259a24f98effbb1fbfec9b2",
+        "externalIds": {
+          "MAG": "2110868467",
+          "DBLP": "conf/pods/DinurN03",
+          "DOI": "10.1145/773153.773173",
+          "CorpusId": 599605
+        },
+        "url": "https://www.semanticscholar.org/paper/61b66a8324742a09d259a24f98effbb1fbfec9b2",
+        "title": "Revealing information while preserving privacy",
+        "venue": "ACM SIGACT-SIGMOD-SIGART Symposium on Principles of Database Systems",
+        "year": 2003,
+        "referenceCount": 24,
+        "citationCount": 1243,
+        "authors": [
+          {
+            "authorId": "1699356",
+            "name": "Irit Dinur"
+          },
+          {
+            "authorId": "145725600",
+            "name": "Kobbi Nissim"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "fc8cda36a0972e7de1ac3a7bcb81dc32da79bee4",
+        "externalIds": {
+          "MAG": "2419658023",
+          "DOI": "10.1198/jasa.2003.s270",
+          "CorpusId": 7406938
+        },
+        "url": "https://www.semanticscholar.org/paper/fc8cda36a0972e7de1ac3a7bcb81dc32da79bee4",
+        "title": "Learning with Kernels: Support Vector Machines, Regularization, Optimization, and Beyond",
+        "venue": "IEEE Transactions on Neural Networks",
+        "year": 2003,
+        "referenceCount": 7,
+        "citationCount": 9645,
+        "authors": [
+          {
+            "authorId": "2285968829",
+            "name": "Christopher K. I. Williams"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "1e1d35136b1bf3b13ef6b53f6039f39d9ee820e3",
+        "externalIds": {
+          "MAG": "2168405694",
+          "DBLP": "journals/ml/AuerCF02",
+          "DOI": "10.1023/A:1013689704352",
+          "CorpusId": 207609497
+        },
+        "url": "https://www.semanticscholar.org/paper/1e1d35136b1bf3b13ef6b53f6039f39d9ee820e3",
+        "title": "Finite-time Analysis of the Multiarmed Bandit Problem",
+        "venue": "Machine-mediated learning",
+        "year": 2002,
+        "referenceCount": 17,
+        "citationCount": 7346,
+        "authors": [
+          {
+            "authorId": "144543541",
+            "name": "P. Auer"
+          },
+          {
+            "authorId": "1388387856",
+            "name": "N. Cesa-Bianchi"
+          },
+          {
+            "authorId": "152702481",
+            "name": "P. Fischer"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "187352fbcd30ea1fe2094f33e2d7100133964840",
+        "externalIds": {
+          "MAG": "1975937116",
+          "DOI": "10.1111/j.1748-720X.1997.tb01885.x",
+          "CorpusId": 46014405,
+          "PubMed": "11066504"
+        },
+        "url": "https://www.semanticscholar.org/paper/187352fbcd30ea1fe2094f33e2d7100133964840",
+        "title": "Weaving Technology and Policy Together to Maintain Confidentiality",
+        "venue": "Journal of Law, Medicine & Ethics",
+        "year": 1997,
+        "referenceCount": 22,
+        "citationCount": 430,
+        "authors": [
+          {
+            "authorId": "144851214",
+            "name": "L. Sweeney"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "52b7bf3ba59b31f362aa07f957f1543a29a4279e",
+        "externalIds": {
+          "MAG": "2119821739",
+          "DOI": "10.1023/A:1022627411411",
+          "CorpusId": 52874011
+        },
+        "url": "https://www.semanticscholar.org/paper/52b7bf3ba59b31f362aa07f957f1543a29a4279e",
+        "title": "Support-Vector Networks",
+        "venue": "Machine-mediated learning",
+        "year": 1995,
+        "referenceCount": 26,
+        "citationCount": 44483,
+        "authors": [
+          {
+            "authorId": "145115014",
+            "name": "Corinna Cortes"
+          },
+          {
+            "authorId": "50560492",
+            "name": "V. Vapnik"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "da5ea815d365d5c710fed58ff4834ad679a02e68",
+        "externalIds": {
+          "MAG": "2107976320",
+          "DBLP": "journals/jmlr/HuangSS14",
+          "DOI": "10.5555/2627435.2670321",
+          "CorpusId": 14424056
+        },
+        "url": "https://www.semanticscholar.org/paper/da5ea815d365d5c710fed58ff4834ad679a02e68",
+        "title": "Ramp loss linear programming support vector machine",
+        "venue": "Journal of machine learning research",
+        "year": 2014,
+        "referenceCount": 43,
+        "citationCount": 85,
+        "authors": [
+          {
+            "authorId": "144335593",
+            "name": "X. Huang"
+          },
+          {
+            "authorId": "2117205218",
+            "name": "Lei Shi"
+          },
+          {
+            "authorId": "1744439",
+            "name": "J. Suykens"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "7689b4c287925bac25a6513a6f960b1b6f7ee517",
+        "externalIds": {
+          "MAG": "2421405286",
+          "CorpusId": 11267721
+        },
+        "url": "https://www.semanticscholar.org/paper/7689b4c287925bac25a6513a6f960b1b6f7ee517",
+        "title": "Private Stochastic Multi-arm Bandits: From Theory to Practice",
+        "venue": "",
+        "year": 2014,
+        "referenceCount": 20,
+        "citationCount": 8,
+        "authors": [
+          {
+            "authorId": "36736387",
+            "name": "Nikita Mishra"
+          },
+          {
+            "authorId": "2623159",
+            "name": "Abhradeep Thakurta"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "8e19f59156276a825cc4368d74473a0d39247241",
+        "externalIds": {
+          "MAG": "2182267394",
+          "DBLP": "journals/jmlr/KiferST12",
+          "CorpusId": 14305556
+        },
+        "url": "https://www.semanticscholar.org/paper/8e19f59156276a825cc4368d74473a0d39247241",
+        "title": "Private Convex Optimization for Empirical Risk Minimization with Applications to High-dimensional Regression",
+        "venue": "Annual Conference Computational Learning Theory",
+        "year": 2012,
+        "referenceCount": 25,
+        "citationCount": 301,
+        "authors": [
+          {
+            "authorId": "1852261",
+            "name": "Daniel Kifer"
+          },
+          {
+            "authorId": "39765787",
+            "name": "Adam D. Smith"
+          },
+          {
+            "authorId": "2623159",
+            "name": "Abhradeep Thakurta"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "fb54e7be71c825295dd8489c0b47cd43932cb817",
+        "externalIds": {
+          "MAG": "2118075434",
+          "DBLP": "phd/il/Shalev-Shwartz07",
+          "CorpusId": 123001221
+        },
+        "url": "https://www.semanticscholar.org/paper/fb54e7be71c825295dd8489c0b47cd43932cb817",
+        "title": "Online learning: theory, algorithms and applications (למידה מקוונת.)",
+        "venue": "",
+        "year": 2007,
+        "referenceCount": 122,
+        "citationCount": 363,
+        "authors": [
+          {
+            "authorId": "2066127601",
+            "name": "Shai Shalev-Shwartz"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "e6ea09a42e99df7aaa0c62d98c049a02132b3105",
+        "externalIds": {
+          "DBLP": "journals/informaticaSI/ChongAP05",
+          "MAG": "2133654650",
+          "CorpusId": 6928397
+        },
+        "url": "https://www.semanticscholar.org/paper/e6ea09a42e99df7aaa0c62d98c049a02132b3105",
+        "title": "Traffic Accident Analysis Using Machine Learning Paradigms",
+        "venue": "Informatica",
+        "year": 2005,
+        "referenceCount": 36,
+        "citationCount": 181,
+        "authors": [
+          {
+            "authorId": "1986948",
+            "name": "Miao M. Chong"
+          },
+          {
+            "authorId": "145731499",
+            "name": "A. Abraham"
+          },
+          {
+            "authorId": "1702211",
+            "name": "M. Paprzycki"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "The application of bayesian methods for seeking the extremum",
+        "venue": "Towards Global Optimization,",
+        "year": 1978,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "25th Annual Conference on Learning Theory Differentially Private Online Learning",
+        "venue": "",
+        "year": null,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    }
+  ]
+}

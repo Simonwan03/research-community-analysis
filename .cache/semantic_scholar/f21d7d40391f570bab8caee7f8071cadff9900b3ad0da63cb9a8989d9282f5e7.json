@@ -1,0 +1,310 @@
+{
+  "total": 636917,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "e2e81c568ac0aa067e32fbc9ca9396824fa04d66",
+      "externalIds": {
+        "MAG": "1911299338",
+        "DBLP": "conf/icml/DeisenrothN15",
+        "ArXiv": "1502.02843",
+        "CorpusId": 17686175
+      },
+      "url": "https://www.semanticscholar.org/paper/e2e81c568ac0aa067e32fbc9ca9396824fa04d66",
+      "title": "Distributed Gaussian Processes",
+      "venue": "International Conference on Machine Learning",
+      "year": 2015,
+      "referenceCount": 33,
+      "citationCount": 379,
+      "authors": [
+        {
+          "authorId": "2261881",
+          "name": "M. Deisenroth"
+        },
+        {
+          "authorId": "2359200",
+          "name": "Jun Wei Ng"
+        }
+      ]
+    },
+    {
+      "paperId": "af881db80375c61d5d7186b06d71468f4a61bfaa",
+      "externalIds": {
+        "DBLP": "journals/tac/LedererYJH23",
+        "DOI": "10.1109/TAC.2022.3205424",
+        "CorpusId": 252260233
+      },
+      "url": "https://www.semanticscholar.org/paper/af881db80375c61d5d7186b06d71468f4a61bfaa",
+      "title": "Cooperative Control of Uncertain Multiagent Systems via Distributed Gaussian Processes",
+      "venue": "IEEE Transactions on Automatic Control",
+      "year": 2023,
+      "referenceCount": 24,
+      "citationCount": 44,
+      "authors": [
+        {
+          "authorId": "38992895",
+          "name": "Armin Lederer"
+        },
+        {
+          "authorId": "41066967",
+          "name": "Zewen Yang"
+        },
+        {
+          "authorId": "3624485",
+          "name": "Junjie Jiao"
+        },
+        {
+          "authorId": "8973704",
+          "name": "S. Hirche"
+        }
+      ]
+    },
+    {
+      "paperId": "bc054d57e9080586f1cb6cef0e240bcb22e196fe",
+      "externalIds": {
+        "DBLP": "journals/access/Green24",
+        "DOI": "10.1109/ACCESS.2024.3501409",
+        "CorpusId": 274156280
+      },
+      "url": "https://www.semanticscholar.org/paper/bc054d57e9080586f1cb6cef0e240bcb22e196fe",
+      "title": "Distributed Gaussian Processes With Uncertain Inputs",
+      "venue": "IEEE Access",
+      "year": 2024,
+      "referenceCount": 16,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "2256571574",
+          "name": "Peter L. Green"
+        }
+      ]
+    },
+    {
+      "paperId": "2cf484d86a4363495243b81034577c3cc5a2f0eb",
+      "externalIds": {
+        "DBLP": "conf/iecon/YinDYSHZ23",
+        "ArXiv": "2307.13945",
+        "DOI": "10.1109/IECON51785.2023.10312503",
+        "CorpusId": 260164745
+      },
+      "url": "https://www.semanticscholar.org/paper/2cf484d86a4363495243b81034577c3cc5a2f0eb",
+      "title": "Learning-based Control for PMSM Using Distributed Gaussian Processes with Optimal Aggregation Strategy",
+      "venue": "Annual Conference of the IEEE Industrial Electronics Society",
+      "year": 2023,
+      "referenceCount": 31,
+      "citationCount": 12,
+      "authors": [
+        {
+          "authorId": "2100413816",
+          "name": "Zhenxiao Yin"
+        },
+        {
+          "authorId": "88327054",
+          "name": "X. Dai"
+        },
+        {
+          "authorId": "41066967",
+          "name": "Zewen Yang"
+        },
+        {
+          "authorId": "2115435634",
+          "name": "Yang-Wu Shen"
+        },
+        {
+          "authorId": "5330495",
+          "name": "Georges Hattab"
+        },
+        {
+          "authorId": "51209090",
+          "name": "H. Zhao"
+        }
+      ]
+    },
+    {
+      "paperId": "e0eea8beed7e1cb27d55cfdc964f918121969727",
+      "externalIds": {
+        "ArXiv": "2312.14130",
+        "DOI": "10.1080/01621459.2025.2501717",
+        "CorpusId": 266435785
+      },
+      "url": "https://www.semanticscholar.org/paper/e0eea8beed7e1cb27d55cfdc964f918121969727",
+      "title": "Adaptation Using Spatially Distributed Gaussian Processes",
+      "venue": "Journal of the American Statistical Association",
+      "year": 2023,
+      "referenceCount": 50,
+      "citationCount": 4,
+      "authors": [
+        {
+          "authorId": "48140482",
+          "name": "Botond Szabó"
+        },
+        {
+          "authorId": "89266638",
+          "name": "Amine Hadji"
+        },
+        {
+          "authorId": "39264747",
+          "name": "A. van der Vaart"
+        }
+      ]
+    },
+    {
+      "paperId": "e104f9c7efb56997b48c69b06472867311506071",
+      "externalIds": {
+        "DOI": "10.1080/18824889.2022.2155454",
+        "CorpusId": 254669086
+      },
+      "url": "https://www.semanticscholar.org/paper/e104f9c7efb56997b48c69b06472867311506071",
+      "title": "Cooperative visual pursuit control with learning of target motion via distributed Gaussian processes under varying visibility",
+      "venue": "SICE Journal of Control Measurement and System Integration",
+      "year": 2022,
+      "referenceCount": 27,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "2152058886",
+          "name": "Junya Yamauchi"
+        },
+        {
+          "authorId": "2149880991",
+          "name": "Makoto Saito"
+        },
+        {
+          "authorId": "1431726282",
+          "name": "Marco Omainska"
+        },
+        {
+          "authorId": "2076968973",
+          "name": "Takeshi Hatanaka"
+        },
+        {
+          "authorId": "2069299050",
+          "name": "M. Fujita"
+        }
+      ]
+    },
+    {
+      "paperId": "bae36262a25dff896978588f0961a0e2a57fd00d",
+      "externalIds": {
+        "DBLP": "journals/sensors/XinS22",
+        "PubMedCentral": "9611662",
+        "DOI": "10.3390/s22207887",
+        "CorpusId": 253013233,
+        "PubMed": "36298236"
+      },
+      "url": "https://www.semanticscholar.org/paper/bae36262a25dff896978588f0961a0e2a57fd00d",
+      "title": "Trajectory Modeling by Distributed Gaussian Processes in Multiagent Systems",
+      "venue": "Italian National Conference on Sensors",
+      "year": 2022,
+      "referenceCount": 75,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "108424621",
+          "name": "Dong-Jin Xin"
+        },
+        {
+          "authorId": "2152998530",
+          "name": "Lingfeng Shi"
+        }
+      ]
+    },
+    {
+      "paperId": "0391327bd0a50b673a9918f834d23b232b03469f",
+      "externalIds": {
+        "MAG": "2953590039",
+        "DBLP": "journals/spl/XieYXACC19",
+        "DOI": "10.1109/LSP.2019.2925532",
+        "CorpusId": 195881194
+      },
+      "url": "https://www.semanticscholar.org/paper/0391327bd0a50b673a9918f834d23b232b03469f",
+      "title": "Distributed Gaussian Processes Hyperparameter Optimization for Big Data Using Proximal ADMM",
+      "venue": "IEEE Signal Processing Letters",
+      "year": 2019,
+      "referenceCount": 22,
+      "citationCount": 27,
+      "authors": [
+        {
+          "authorId": "88464718",
+          "name": "Ang Xie"
+        },
+        {
+          "authorId": "5951460",
+          "name": "F. Yin"
+        },
+        {
+          "authorId": "145110324",
+          "name": "Yue Xu"
+        },
+        {
+          "authorId": "144289805",
+          "name": "B. Ai"
+        },
+        {
+          "authorId": "7934735",
+          "name": "Tianshi Chen"
+        },
+        {
+          "authorId": "1745056",
+          "name": "Shuguang Cui"
+        }
+      ]
+    },
+    {
+      "paperId": "bc40f9c03704e61a5a69bcb73186f738e686bce7",
+      "externalIds": {
+        "DBLP": "phd/dnb/Jalali23",
+        "CorpusId": 259149966
+      },
+      "url": "https://www.semanticscholar.org/paper/bc40f9c03704e61a5a69bcb73186f738e686bce7",
+      "title": "Aggregation Strategies for Distributed Gaussian Processes",
+      "venue": "",
+      "year": 2023,
+      "referenceCount": 0,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2140454423",
+          "name": "Hamed Jalali"
+        }
+      ]
+    },
+    {
+      "paperId": "60666faa11153c3b83b460646c7b8013a95b1afe",
+      "externalIds": {
+        "MAG": "2581746390",
+        "DOI": "10.1109/ICCAS.2016.7832293",
+        "CorpusId": 17065792
+      },
+      "url": "https://www.semanticscholar.org/paper/60666faa11153c3b83b460646c7b8013a95b1afe",
+      "title": "Resource-constrained decentralized active sensing for multi-robot systems using distributed Gaussian processes",
+      "venue": "International Conference on Control, Automation and Systems",
+      "year": 2016,
+      "referenceCount": 22,
+      "citationCount": 16,
+      "authors": [
+        {
+          "authorId": "34193202",
+          "name": "Kshitij Tiwari"
+        },
+        {
+          "authorId": "9150013",
+          "name": "Valentin Honoré"
+        },
+        {
+          "authorId": "1756680",
+          "name": "Sungmoon Jeong"
+        },
+        {
+          "authorId": "1771640",
+          "name": "N. Chong"
+        },
+        {
+          "authorId": "2261881",
+          "name": "M. Deisenroth"
+        }
+      ]
+    }
+  ]
+}

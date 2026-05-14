@@ -1,0 +1,274 @@
+{
+  "total": 16,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "d770cb3a55e9f3c8d04cbcf58cc7c266f0352836",
+      "externalIds": {
+        "DBLP": "conf/icml/EneN15",
+        "ArXiv": "1502.02643",
+        "MAG": "2949557549",
+        "CorpusId": 1079747
+      },
+      "url": "https://www.semanticscholar.org/paper/d770cb3a55e9f3c8d04cbcf58cc7c266f0352836",
+      "title": "Random Coordinate Descent Methods for Minimizing Decomposable Submodular Functions",
+      "venue": "International Conference on Machine Learning",
+      "year": 2015,
+      "referenceCount": 18,
+      "citationCount": 44,
+      "authors": [
+        {
+          "authorId": "1725000",
+          "name": "Alina Ene"
+        },
+        {
+          "authorId": "47320986",
+          "name": "Huy L. Nguyen"
+        }
+      ]
+    },
+    {
+      "paperId": "30245218e7e3f22d32c73ee23e31bb3047ff8bba",
+      "externalIds": {
+        "ArXiv": "1902.10132",
+        "MAG": "3039339554",
+        "DBLP": "journals/jmlr/0005HM20",
+        "CorpusId": 67856382
+      },
+      "url": "https://www.semanticscholar.org/paper/30245218e7e3f22d32c73ee23e31bb3047ff8bba",
+      "title": "Quadratic Decomposable Submodular Function Minimization: Theory and Practice",
+      "venue": "Journal of machine learning research",
+      "year": 2019,
+      "referenceCount": 53,
+      "citationCount": 27,
+      "authors": [
+        {
+          "authorId": "1561672016",
+          "name": "Pan Li"
+        },
+        {
+          "authorId": "2903347",
+          "name": "Niao He"
+        },
+        {
+          "authorId": "1743831",
+          "name": "O. Milenkovic"
+        }
+      ]
+    },
+    {
+      "paperId": "a41574a0d3b03f4935474d4068a54b8f62ddfbd3",
+      "externalIds": {
+        "DBLP": "conf/nips/LiM18",
+        "MAG": "2963189394",
+        "ArXiv": "1803.03851",
+        "CorpusId": 3888264
+      },
+      "url": "https://www.semanticscholar.org/paper/a41574a0d3b03f4935474d4068a54b8f62ddfbd3",
+      "title": "Revisiting Decomposable Submodular Function Minimization with Incidence Relations",
+      "venue": "Neural Information Processing Systems",
+      "year": 2018,
+      "referenceCount": 40,
+      "citationCount": 19,
+      "authors": [
+        {
+          "authorId": "2112519883",
+          "name": "Pan Li"
+        },
+        {
+          "authorId": "1743831",
+          "name": "O. Milenkovic"
+        }
+      ]
+    },
+    {
+      "paperId": "41927efcfac9677b43e53b4496fc92df42da72ac",
+      "externalIds": {
+        "ArXiv": "1806.09842",
+        "MAG": "2950976749",
+        "DBLP": "journals/corr/abs-1806-09842",
+        "CorpusId": 49428501
+      },
+      "url": "https://www.semanticscholar.org/paper/41927efcfac9677b43e53b4496fc92df42da72ac",
+      "title": "Quadratic Decomposable Submodular Function Minimization",
+      "venue": "Neural Information Processing Systems",
+      "year": 2018,
+      "referenceCount": 34,
+      "citationCount": 14,
+      "authors": [
+        {
+          "authorId": "1561672016",
+          "name": "Pan Li"
+        },
+        {
+          "authorId": "2903347",
+          "name": "Niao He"
+        },
+        {
+          "authorId": "1743831",
+          "name": "O. Milenkovic"
+        }
+      ]
+    },
+    {
+      "paperId": "03ed6051f409a3e36ddeafe6aba1f21e9b181536",
+      "externalIds": {
+        "CorpusId": 64865916
+      },
+      "url": "https://www.semanticscholar.org/paper/03ed6051f409a3e36ddeafe6aba1f21e9b181536",
+      "title": "Revisiting Decomposable Submodular Function Minimization with Incidence Relations",
+      "venue": "",
+      "year": 2018,
+      "referenceCount": 31,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2112519883",
+          "name": "Pan Li"
+        }
+      ]
+    },
+    {
+      "paperId": "c4e2d42aaa3ceeca8eb7fe72b68ab5dbd268540b",
+      "externalIds": {
+        "ArXiv": "2411.00979",
+        "DOI": "10.1145/3728480",
+        "CorpusId": 273811590
+      },
+      "url": "https://www.semanticscholar.org/paper/c4e2d42aaa3ceeca8eb7fe72b68ab5dbd268540b",
+      "title": "A Block Coordinate and Variance-Reduced Method for Generalized Variational Inequalities of Minty Type",
+      "venue": "ACM / IMS Journal of Data Science",
+      "year": 2024,
+      "referenceCount": 75,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "2329100884",
+          "name": "Jelena Diakonikolas"
+        }
+      ]
+    },
+    {
+      "paperId": "1131e43fba88752ebbc9c83393fc45e8be5f58dd",
+      "externalIds": {
+        "DBLP": "journals/tnn/ShengWS25",
+        "DOI": "10.1109/TNNLS.2025.3571594",
+        "CorpusId": 279091596,
+        "PubMed": "40456089"
+      },
+      "url": "https://www.semanticscholar.org/paper/1131e43fba88752ebbc9c83393fc45e8be5f58dd",
+      "title": "Robust Rank-One Matrix Completion via Explicit Regularizer",
+      "venue": "IEEE Transactions on Neural Networks and Learning Systems",
+      "year": 2025,
+      "referenceCount": 60,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2329995345",
+          "name": "Hao Nan Sheng"
+        },
+        {
+          "authorId": "2188005787",
+          "name": "Zhi-yong Wang"
+        },
+        {
+          "authorId": "2237800245",
+          "name": "H. C. So"
+        }
+      ]
+    },
+    {
+      "paperId": "4cc67d3f6f5c0fc8875d553feba71160b3550229",
+      "externalIds": {
+        "MAG": "2149896468",
+        "DBLP": "phd/ndltd/Johnson08",
+        "CorpusId": 11271872
+      },
+      "url": "https://www.semanticscholar.org/paper/4cc67d3f6f5c0fc8875d553feba71160b3550229",
+      "title": "Convex relaxation methods for graphical models: Lagrangian and maximum entropy approaches",
+      "venue": "",
+      "year": 2008,
+      "referenceCount": 226,
+      "citationCount": 44,
+      "authors": [
+        {
+          "authorId": "39869361",
+          "name": "Jason K. Johnson"
+        }
+      ]
+    },
+    {
+      "paperId": "591cb58da354853992d89c86cd25dd0f6d9f2e4f",
+      "externalIds": {
+        "MAG": "593611996",
+        "DOI": "10.1201/b17895",
+        "CorpusId": 117886348
+      },
+      "url": "https://www.semanticscholar.org/paper/591cb58da354853992d89c86cd25dd0f6d9f2e4f",
+      "title": "Introduction to High-Dimensional Statistics",
+      "venue": "",
+      "year": 2014,
+      "referenceCount": 0,
+      "citationCount": 381,
+      "authors": [
+        {
+          "authorId": "2028809927",
+          "name": "C. Giraud"
+        }
+      ]
+    },
+    {
+      "paperId": "a4ca6241d8a40fa7ed652c2736400358cb6f1eaf",
+      "externalIds": {
+        "ArXiv": "2410.06310",
+        "DOI": "10.1051/0004-6361/202451242",
+        "CorpusId": 273229513
+      },
+      "url": "https://www.semanticscholar.org/paper/a4ca6241d8a40fa7ed652c2736400358cb6f1eaf",
+      "title": "An alternating minimization algorithm with trajectory for direct exoplanet detection. The AMAT algorithm",
+      "venue": "Astronomy &amp; Astrophysics",
+      "year": 2024,
+      "referenceCount": 7,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "101679575",
+          "name": "Hazan Daglayan"
+        },
+        {
+          "authorId": "36298628",
+          "name": "Simon Vary"
+        },
+        {
+          "authorId": "2237799498",
+          "name": "O. Absil"
+        },
+        {
+          "authorId": "72185347",
+          "name": "F. Cantalloube"
+        },
+        {
+          "authorId": "73035321",
+          "name": "V. Christiaens"
+        },
+        {
+          "authorId": "2242847603",
+          "name": "Nicolas Gillis"
+        },
+        {
+          "authorId": "2239035864",
+          "name": "L. Jacques"
+        },
+        {
+          "authorId": "67199335",
+          "name": "V. Leplat"
+        },
+        {
+          "authorId": "2293036568",
+          "name": "P.-A. Absil"
+        }
+      ]
+    }
+  ]
+}

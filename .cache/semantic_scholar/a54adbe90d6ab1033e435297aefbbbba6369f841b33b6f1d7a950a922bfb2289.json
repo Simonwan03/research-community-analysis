@@ -1,0 +1,813 @@
+{
+  "offset": 0,
+  "citingPaperInfo": {
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/1502.05312, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "title": "Predictive Entropy Search for Bayesian Optimization with Unknown Constraints",
+    "authors": [
+      {
+        "authorId": "1388574431",
+        "name": "José Miguel Hernández-Lobato"
+      },
+      {
+        "authorId": "33474456",
+        "name": "M. Gelbart"
+      },
+      {
+        "authorId": "3243579",
+        "name": "Matthew W. Hoffman"
+      },
+      {
+        "authorId": "1722180",
+        "name": "Ryan P. Adams"
+      },
+      {
+        "authorId": "1744700",
+        "name": "Zoubin Ghahramani"
+      }
+    ]
+  },
+  "data": [
+    {
+      "citedPaper": {
+        "paperId": "1f67e62968cb22d6a7dcab57da01aca684e871b5",
+        "externalIds": {
+          "MAG": "648263199",
+          "DOI": "10.1007/978-3-319-03425-6",
+          "CorpusId": 118101986
+        },
+        "url": "https://www.semanticscholar.org/paper/1f67e62968cb22d6a7dcab57da01aca684e871b5",
+        "title": "Introduction to Quasi-Monte Carlo Integration and Applications",
+        "venue": "Compact Textbooks in Mathematics",
+        "year": 2014,
+        "referenceCount": 0,
+        "citationCount": 166,
+        "authors": [
+          {
+            "authorId": "2384009",
+            "name": "G. Leobacher"
+          },
+          {
+            "authorId": "1703981",
+            "name": "F. Pillichshammer"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "5918ae75d71ff737ed002a0d2d4d720d8a94c6b6",
+        "externalIds": {
+          "DBLP": "conf/icml/GardnerKZWC14",
+          "MAG": "202805564",
+          "CorpusId": 17104903
+        },
+        "url": "https://www.semanticscholar.org/paper/5918ae75d71ff737ed002a0d2d4d720d8a94c6b6",
+        "title": "Bayesian Optimization with Inequality Constraints",
+        "venue": "International Conference on Machine Learning",
+        "year": 2014,
+        "referenceCount": 33,
+        "citationCount": 570,
+        "authors": [
+          {
+            "authorId": "31693738",
+            "name": "J. Gardner"
+          },
+          {
+            "authorId": "1940272",
+            "name": "Matt J. Kusner"
+          },
+          {
+            "authorId": "32622713",
+            "name": "Z. Xu"
+          },
+          {
+            "authorId": "7446832",
+            "name": "Kilian Q. Weinberger"
+          },
+          {
+            "authorId": "2575774",
+            "name": "J. Cunningham"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "19930c1c481daeba3118ac71aa52603472170024",
+        "externalIds": {
+          "DBLP": "journals/corr/Hernandez-LobatoHG14",
+          "ArXiv": "1406.2541",
+          "MAG": "2950141829",
+          "CorpusId": 1776111
+        },
+        "url": "https://www.semanticscholar.org/paper/19930c1c481daeba3118ac71aa52603472170024",
+        "title": "Predictive Entropy Search for Efficient Global Optimization of Black-box Functions",
+        "venue": "Neural Information Processing Systems",
+        "year": 2014,
+        "referenceCount": 29,
+        "citationCount": 706,
+        "authors": [
+          {
+            "authorId": "1388574431",
+            "name": "José Miguel Hernández-Lobato"
+          },
+          {
+            "authorId": "3243579",
+            "name": "Matthew W. Hoffman"
+          },
+          {
+            "authorId": "1744700",
+            "name": "Zoubin Ghahramani"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "90ab9846fe25cb1516681969b37e65f865fb3838",
+        "externalIds": {
+          "DBLP": "conf/aistats/Picheny14",
+          "MAG": "2139943902",
+          "CorpusId": 7670725
+        },
+        "url": "https://www.semanticscholar.org/paper/90ab9846fe25cb1516681969b37e65f865fb3838",
+        "title": "A Stepwise uncertainty reduction approach to constrained global optimization",
+        "venue": "International Conference on Artificial Intelligence and Statistics",
+        "year": 2014,
+        "referenceCount": 25,
+        "citationCount": 76,
+        "authors": [
+          {
+            "authorId": "3283191",
+            "name": "V. Picheny"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "050ee7cb77800f4d07b517d028d1da8c0c48345b",
+        "externalIds": {
+          "MAG": "2950550835",
+          "ArXiv": "1403.5607",
+          "DBLP": "journals/corr/GelbartSA14",
+          "CorpusId": 948625
+        },
+        "url": "https://www.semanticscholar.org/paper/050ee7cb77800f4d07b517d028d1da8c0c48345b",
+        "title": "Bayesian Optimization with Unknown Constraints",
+        "venue": "Conference on Uncertainty in Artificial Intelligence",
+        "year": 2014,
+        "referenceCount": 35,
+        "citationCount": 519,
+        "authors": [
+          {
+            "authorId": "33474456",
+            "name": "M. Gelbart"
+          },
+          {
+            "authorId": "144108062",
+            "name": "Jasper Snoek"
+          },
+          {
+            "authorId": "1722180",
+            "name": "Ryan P. Adams"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "50301d4cd82241c1845f034c87c6dda28139a9f7",
+        "externalIds": {
+          "MAG": "2615441104",
+          "ArXiv": "1403.4890",
+          "CorpusId": 17822854
+        },
+        "url": "https://www.semanticscholar.org/paper/50301d4cd82241c1845f034c87c6dda28139a9f7",
+        "title": "Modeling an augmented Lagrangian for improved blackbox constrained optimization",
+        "venue": "",
+        "year": 2014,
+        "referenceCount": 49,
+        "citationCount": 11,
+        "authors": [
+          {
+            "authorId": "1888911",
+            "name": "Sébastien Le Digabel"
+          },
+          {
+            "authorId": "2388276",
+            "name": "R. Gramacy"
+          },
+          {
+            "authorId": "2414557",
+            "name": "G. A. Gray"
+          },
+          {
+            "authorId": "48723705",
+            "name": "Herbert K. H. Lee"
+          },
+          {
+            "authorId": "2925446",
+            "name": "P. Ranjan"
+          },
+          {
+            "authorId": "1417669773",
+            "name": "Garth Weels"
+          },
+          {
+            "authorId": "4583616",
+            "name": "Stefan M. Wild"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "2e079604c7a00c43f06e214280cea18a89dcecef",
+        "externalIds": {
+          "DBLP": "phd/ca/Snoek14",
+          "MAG": "2728797307",
+          "CorpusId": 115316774
+        },
+        "url": "https://www.semanticscholar.org/paper/2e079604c7a00c43f06e214280cea18a89dcecef",
+        "title": "Bayesian Optimization and Semiparametric Models with Applications to Assistive Technology",
+        "venue": "",
+        "year": 2014,
+        "referenceCount": 155,
+        "citationCount": 55,
+        "authors": [
+          {
+            "authorId": "144108062",
+            "name": "Jasper Snoek"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "4b2e2f84dc768f6d16dfb54c5b03b6a58f80198b",
+        "externalIds": {
+          "DBLP": "conf/nips/HoulsbyHHG12",
+          "MAG": "2121499119",
+          "CorpusId": 262549
+        },
+        "url": "https://www.semanticscholar.org/paper/4b2e2f84dc768f6d16dfb54c5b03b6a58f80198b",
+        "title": "Collaborative Gaussian Processes for Preference Learning",
+        "venue": "Neural Information Processing Systems",
+        "year": 2012,
+        "referenceCount": 21,
+        "citationCount": 131,
+        "authors": [
+          {
+            "authorId": "2815290",
+            "name": "N. Houlsby"
+          },
+          {
+            "authorId": "1388574431",
+            "name": "José Miguel Hernández-Lobato"
+          },
+          {
+            "authorId": "3108066",
+            "name": "Ferenc Huszár"
+          },
+          {
+            "authorId": "1744700",
+            "name": "Zoubin Ghahramani"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "2e2089ae76fe914706e6fa90081a79c8fe01611e",
+        "externalIds": {
+          "ArXiv": "1206.2944",
+          "MAG": "2950182411",
+          "DBLP": "conf/nips/SnoekLA12",
+          "CorpusId": 632197
+        },
+        "url": "https://www.semanticscholar.org/paper/2e2089ae76fe914706e6fa90081a79c8fe01611e",
+        "title": "Practical Bayesian Optimization of Machine Learning Algorithms",
+        "venue": "Neural Information Processing Systems",
+        "year": 2012,
+        "referenceCount": 28,
+        "citationCount": 9211,
+        "authors": [
+          {
+            "authorId": "144108062",
+            "name": "Jasper Snoek"
+          },
+          {
+            "authorId": "1777528",
+            "name": "H. Larochelle"
+          },
+          {
+            "authorId": "1722180",
+            "name": "Ryan P. Adams"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "510ebe952f10eb5401f65fe5e31aee5bfa72322d",
+        "externalIds": {
+          "MAG": "2951302262",
+          "DBLP": "journals/jmlr/HennigS12",
+          "ArXiv": "1112.1217",
+          "DOI": "10.5555/2503308.2343701",
+          "CorpusId": 166832
+        },
+        "url": "https://www.semanticscholar.org/paper/510ebe952f10eb5401f65fe5e31aee5bfa72322d",
+        "title": "Entropy Search for Information-Efficient Global Optimization",
+        "venue": "Journal of machine learning research",
+        "year": 2011,
+        "referenceCount": 50,
+        "citationCount": 730,
+        "authors": [
+          {
+            "authorId": "2517795",
+            "name": "Philipp Hennig"
+          },
+          {
+            "authorId": "1814533",
+            "name": "Christian J. Schuler"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "b716f735fb9b229c8227495e596e2d52f2981c33",
+        "externalIds": {
+          "MAG": "2478027467",
+          "DOI": "10.1201/B10905-10",
+          "CorpusId": 123755879
+        },
+        "url": "https://www.semanticscholar.org/paper/b716f735fb9b229c8227495e596e2d52f2981c33",
+        "title": "MCMC Using Hamiltonian Dynamics",
+        "venue": "",
+        "year": 2011,
+        "referenceCount": 108,
+        "citationCount": 1389,
+        "authors": [
+          {
+            "authorId": "1764325",
+            "name": "Radford M. Neal"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "cd5a26b89f0799db1cbc1dff5607cb6815739fe7",
+        "externalIds": {
+          "MAG": "2950338507",
+          "DBLP": "journals/corr/abs-1012-2599",
+          "ArXiv": "1012.2599",
+          "CorpusId": 1640103
+        },
+        "url": "https://www.semanticscholar.org/paper/cd5a26b89f0799db1cbc1dff5607cb6815739fe7",
+        "title": "A Tutorial on Bayesian Optimization of Expensive Cost Functions, with Application to Active User Modeling and Hierarchical Reinforcement Learning",
+        "venue": "arXiv.org",
+        "year": 2010,
+        "referenceCount": 109,
+        "citationCount": 2633,
+        "authors": [
+          {
+            "authorId": "144180357",
+            "name": "E. Brochu"
+          },
+          {
+            "authorId": "2221163",
+            "name": "Vlad M. Cora"
+          },
+          {
+            "authorId": "1737568",
+            "name": "Nando de Freitas"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "9762b7357c0deb9208ace1f6951ab7fa2098535c",
+        "externalIds": {
+          "MAG": "3012901318",
+          "DOI": "10.18637/JSS.V035.I04",
+          "CorpusId": 14416411,
+          "PubMed": "21603108"
+        },
+        "url": "https://www.semanticscholar.org/paper/9762b7357c0deb9208ace1f6951ab7fa2098535c",
+        "title": "PyMC: Bayesian Stochastic Modelling in Python.",
+        "venue": "Journal of Statistical Software",
+        "year": 2010,
+        "referenceCount": 48,
+        "citationCount": 698,
+        "authors": [
+          {
+            "authorId": "2055277630",
+            "name": "Anand Patil"
+          },
+          {
+            "authorId": "2014219529",
+            "name": "David Huard"
+          },
+          {
+            "authorId": "50226839",
+            "name": "C. Fonnesbeck"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "d14c006bb1eccb2a543ebe339c7c9024a8018c0f",
+        "externalIds": {
+          "MAG": "1491420040",
+          "ArXiv": "1004.4027",
+          "DOI": "10.1093/acprof:oso/9780199694587.003.0008",
+          "CorpusId": 9957600
+        },
+        "url": "https://www.semanticscholar.org/paper/d14c006bb1eccb2a543ebe339c7c9024a8018c0f",
+        "title": "Optimization Under Unknown Constraints",
+        "venue": "",
+        "year": 2010,
+        "referenceCount": 19,
+        "citationCount": 166,
+        "authors": [
+          {
+            "authorId": "2388276",
+            "name": "R. Gramacy"
+          },
+          {
+            "authorId": "48723705",
+            "name": "Herbert K. H. Lee"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "d0a317492accfb400821d0706a3419e8324543a4",
+        "externalIds": {
+          "MAG": "2159375150",
+          "DBLP": "conf/nips/GervenCOH09",
+          "CorpusId": 215778041
+        },
+        "url": "https://www.semanticscholar.org/paper/d0a317492accfb400821d0706a3419e8324543a4",
+        "title": "Bayesian Source Localization with the Multivariate Laplace Prior",
+        "venue": "Neural Information Processing Systems",
+        "year": 2009,
+        "referenceCount": 20,
+        "citationCount": 48,
+        "authors": [
+          {
+            "authorId": "143799386",
+            "name": "M. Gerven"
+          },
+          {
+            "authorId": "2084925",
+            "name": "Botond Cseke"
+          },
+          {
+            "authorId": "1692399",
+            "name": "R. Oostenveld"
+          },
+          {
+            "authorId": "1790356",
+            "name": "T. Heskes"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "55290c9496fdf0df54dfdbb57117aa58386f98bc",
+        "externalIds": {
+          "ArXiv": "cs/0611143",
+          "DBLP": "journals/corr/abs-cs-0611143",
+          "MAG": "2020732830",
+          "DOI": "10.1007/s10898-008-9354-2",
+          "CorpusId": 3264979
+        },
+        "url": "https://www.semanticscholar.org/paper/55290c9496fdf0df54dfdbb57117aa58386f98bc",
+        "title": "An informational approach to the global optimization of expensive-to-evaluate functions",
+        "venue": "Journal of Global Optimization",
+        "year": 2006,
+        "referenceCount": 33,
+        "citationCount": 354,
+        "authors": [
+          {
+            "authorId": "2944518",
+            "name": "Julien Villemonteix"
+          },
+          {
+            "authorId": "144272396",
+            "name": "Emmanuel Vazquez"
+          },
+          {
+            "authorId": "144970108",
+            "name": "E. Walter"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "de68accd3a2e4411c0931ca14b7eb46b44bdc9ed",
+        "externalIds": {
+          "MAG": "1549853756",
+          "CorpusId": 117489917
+        },
+        "url": "https://www.semanticscholar.org/paper/de68accd3a2e4411c0931ca14b7eb46b44bdc9ed",
+        "title": "CODA: convergence diagnosis and output analysis for MCMC",
+        "venue": "",
+        "year": 2006,
+        "referenceCount": 10,
+        "citationCount": 3854,
+        "authors": [
+          {
+            "authorId": "2631410",
+            "name": "M. Plummer"
+          },
+          {
+            "authorId": "1917749",
+            "name": "N. Best"
+          },
+          {
+            "authorId": "2097026389",
+            "name": "K. Cowles"
+          },
+          {
+            "authorId": "145570314",
+            "name": "K. Vines"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "Gaussian Processes For Machine Learning",
+        "venue": "Int. J. Neural Syst.",
+        "year": 2004,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "45b4dde8e0945912a39666f2715cdf10a4445b1c",
+        "externalIds": {
+          "ArXiv": "1301.0588",
+          "MAG": "2104924585",
+          "DBLP": "journals/corr/abs-1301-0588",
+          "CorpusId": 1768942
+        },
+        "url": "https://www.semanticscholar.org/paper/45b4dde8e0945912a39666f2715cdf10a4445b1c",
+        "title": "Expectation-Propogation for the Generative Aspect Model",
+        "venue": "Conference on Uncertainty in Artificial Intelligence",
+        "year": 2002,
+        "referenceCount": 12,
+        "citationCount": 573,
+        "authors": [
+          {
+            "authorId": "52626911",
+            "name": "T. Minka"
+          },
+          {
+            "authorId": "1739581",
+            "name": "J. Lafferty"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "e9063ba74d9211d766432f21e185f2c85e9d4ef8",
+        "externalIds": {
+          "ArXiv": "physics/0009028",
+          "CorpusId": 2871126
+        },
+        "url": "https://www.semanticscholar.org/paper/e9063ba74d9211d766432f21e185f2c85e9d4ef8",
+        "title": "Slice Sampling",
+        "venue": "",
+        "year": 2000,
+        "referenceCount": 30,
+        "citationCount": 856,
+        "authors": [
+          {
+            "authorId": "1764325",
+            "name": "Radford M. Neal"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "daa63f57c3fbe994c4356f8d986a22e696e776d2",
+        "externalIds": {
+          "MAG": "1510052597",
+          "DBLP": "journals/jgo/JonesSW98",
+          "DOI": "10.1023/A:1008306431147",
+          "CorpusId": 263864014
+        },
+        "url": "https://www.semanticscholar.org/paper/daa63f57c3fbe994c4356f8d986a22e696e776d2",
+        "title": "Efficient Global Optimization of Expensive Black-Box Functions",
+        "venue": "Journal of Global Optimization",
+        "year": 1998,
+        "referenceCount": 37,
+        "citationCount": 5649,
+        "authors": [
+          {
+            "authorId": "2118096690",
+            "name": "Donald R. Jones"
+          },
+          {
+            "authorId": "2257210524",
+            "name": "Matthias Schonlau"
+          },
+          {
+            "authorId": "145228938",
+            "name": "W. Welch"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "2046412fecff64e095cc5190b69172055afd2094",
+        "externalIds": {
+          "DBLP": "journals/neco/MacKay92b",
+          "MAG": "2115305054",
+          "DOI": "10.1162/neco.1992.4.4.590",
+          "CorpusId": 15819455
+        },
+        "url": "https://www.semanticscholar.org/paper/2046412fecff64e095cc5190b69172055afd2094",
+        "title": "Information-Based Objective Functions for Active Data Selection",
+        "venue": "Neural Computation",
+        "year": 1992,
+        "referenceCount": 18,
+        "citationCount": 1494,
+        "authors": [
+          {
+            "authorId": "145852650",
+            "name": "D. MacKay"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "UCI machine learning repository",
+        "venue": "",
+        "year": 2010,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "069d284e2f00527f8921db640072c051e0ae6e9b",
+        "externalIds": {
+          "CorpusId": 208009687
+        },
+        "url": "https://www.semanticscholar.org/paper/069d284e2f00527f8921db640072c051e0ae6e9b",
+        "title": "A Single Series from the Gibbs Sampler Provides a False Sense of Security *",
+        "venue": "",
+        "year": 2008,
+        "referenceCount": 12,
+        "citationCount": 198,
+        "authors": [
+          {
+            "authorId": "144389145",
+            "name": "A. Gelman"
+          },
+          {
+            "authorId": "2235217",
+            "name": "D. Rubin"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "92ef5c77a438c7c920ee4fc068052d103815f6ff",
+        "externalIds": {
+          "CorpusId": 8632802
+        },
+        "url": "https://www.semanticscholar.org/paper/92ef5c77a438c7c920ee4fc068052d103815f6ff",
+        "title": "Thesis Supervisor Accepted by.......................................................................",
+        "venue": "",
+        "year": 2001,
+        "referenceCount": 0,
+        "citationCount": 728,
+        "authors": []
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "aa2555e746b4d157a52d9bc4c63c9b386a720016",
+        "externalIds": {
+          "MAG": "1588959569",
+          "DOI": "10.1214/LNMS/1215456182",
+          "CorpusId": 58806889
+        },
+        "url": "https://www.semanticscholar.org/paper/aa2555e746b4d157a52d9bc4c63c9b386a720016",
+        "title": "Global versus local search in constrained optimization of computer models",
+        "venue": "",
+        "year": 1998,
+        "referenceCount": 13,
+        "citationCount": 499,
+        "authors": [
+          {
+            "authorId": "1815604",
+            "name": "Matthias Schonlau"
+          },
+          {
+            "authorId": "145228938",
+            "name": "W. Welch"
+          },
+          {
+            "authorId": "2118096690",
+            "name": "Donald R. Jones"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "2e8650b01dd557ffb15113c795536ea7c6ab1088",
+        "externalIds": {
+          "MAG": "1628017834",
+          "DOI": "10.21034/sr.148",
+          "CorpusId": 6028466
+        },
+        "url": "https://www.semanticscholar.org/paper/2e8650b01dd557ffb15113c795536ea7c6ab1088",
+        "title": "Evaluating the accuracy of sampling-based approaches to the calculation of posterior moments",
+        "venue": "",
+        "year": 1991,
+        "referenceCount": 26,
+        "citationCount": 3694,
+        "authors": [
+          {
+            "authorId": "145161220",
+            "name": "John Geweke"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "The application of Bayesian methods for seeking the ex-tremum",
+        "venue": "Towards Global Optimization",
+        "year": 1978,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "Lectures on Fourier integrals. Number 42",
+        "venue": "Lectures on Fourier integrals. Number 42",
+        "year": 1959,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "References II",
+        "venue": "References II",
+        "year": null,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    }
+  ]
+}

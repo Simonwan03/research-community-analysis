@@ -1,0 +1,365 @@
+{
+  "total": 834,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "f85d423c88075c11e14634f6126df20737bb7c19",
+      "externalIds": {
+        "MAG": "2741469980",
+        "DBLP": "conf/icml/ImaizumiH17",
+        "CorpusId": 28222262
+      },
+      "url": "https://www.semanticscholar.org/paper/f85d423c88075c11e14634f6126df20737bb7c19",
+      "title": "Tensor Decomposition with Smoothness",
+      "venue": "International Conference on Machine Learning",
+      "year": 2016,
+      "referenceCount": 32,
+      "citationCount": 30,
+      "authors": [
+        {
+          "authorId": "3429139",
+          "name": "M. Imaizumi"
+        },
+        {
+          "authorId": "2730698",
+          "name": "K. Hayashi"
+        }
+      ]
+    },
+    {
+      "paperId": "5b2dfebc9f954d40db88a9add5517ab5e61ad964",
+      "externalIds": {
+        "DBLP": "journals/tci/LiuLHWQLZ24",
+        "DOI": "10.1109/TCI.2024.3384812",
+        "CorpusId": 269018409
+      },
+      "url": "https://www.semanticscholar.org/paper/5b2dfebc9f954d40db88a9add5517ab5e61ad964",
+      "title": "Nonlocal Tensor Decomposition With Joint Low Rankness and Smoothness for Spectral CT Image Reconstruction",
+      "venue": "IEEE Transactions on Computational Imaging",
+      "year": 2024,
+      "referenceCount": 65,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "2295930776",
+          "name": "Chunyan Liu"
+        },
+        {
+          "authorId": "2295845151",
+          "name": "Sui Li"
+        },
+        {
+          "authorId": "89197574",
+          "name": "Dianlin Hu"
+        },
+        {
+          "authorId": "2275543793",
+          "name": "Jianjun Wang"
+        },
+        {
+          "authorId": "2261749543",
+          "name": "Wenjin Qin"
+        },
+        {
+          "authorId": "41224300",
+          "name": "Chen Liu"
+        },
+        {
+          "authorId": "2295981644",
+          "name": "Peng Zhang"
+        }
+      ]
+    },
+    {
+      "paperId": "3ad1b89223bdb1de285e41f8476bff063c33f206",
+      "externalIds": {
+        "DBLP": "journals/access/AlSharoaAA25",
+        "DOI": "10.1109/ACCESS.2025.3567703",
+        "CorpusId": 278399835
+      },
+      "url": "https://www.semanticscholar.org/paper/3ad1b89223bdb1de285e41f8476bff063c33f206",
+      "title": "Community Detection in Multi-Aspect Functional Brain Networks: Robust Tensor Decomposition Approach",
+      "venue": "IEEE Access",
+      "year": 2025,
+      "referenceCount": 116,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "1384302700",
+          "name": "Esraa Al-sharoa"
+        },
+        {
+          "authorId": "2198433842",
+          "name": "Mohammad Al-wardat"
+        },
+        {
+          "authorId": "1735838",
+          "name": "Selin Aviyente"
+        }
+      ]
+    },
+    {
+      "paperId": "7845a9aab9e1b3664255d105cf04d4d1ed2b6298",
+      "externalIds": {
+        "DBLP": "journals/tim/FengYSS25",
+        "DOI": "10.1109/TIM.2025.3551470",
+        "CorpusId": 277037015
+      },
+      "url": "https://www.semanticscholar.org/paper/7845a9aab9e1b3664255d105cf04d4d1ed2b6298",
+      "title": "Hyperspectral Anomaly Detection Based on Multicomplementary Prior-Guided Tensor Decomposition",
+      "venue": "IEEE Transactions on Instrumentation and Measurement",
+      "year": 2025,
+      "referenceCount": 71,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "2075209892",
+          "name": "Maoyuan Feng"
+        },
+        {
+          "authorId": "2116587990",
+          "name": "Yun-xiu Yang"
+        },
+        {
+          "authorId": "2350267053",
+          "name": "Xiaoguang Shao"
+        },
+        {
+          "authorId": "2287845689",
+          "name": "Qin Shu"
+        }
+      ]
+    },
+    {
+      "paperId": "d2b8006b1592c83969c09e066cf14886ebabc75e",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2408-05677",
+        "ArXiv": "2408.05677",
+        "DOI": "10.48550/arXiv.2408.05677",
+        "CorpusId": 271855797
+      },
+      "url": "https://www.semanticscholar.org/paper/d2b8006b1592c83969c09e066cf14886ebabc75e",
+      "title": "Tensor Decomposition Meets RKHS: Efficient Algorithms for Smooth and Misaligned Data",
+      "venue": "arXiv.org",
+      "year": 2024,
+      "referenceCount": 26,
+      "citationCount": 6,
+      "authors": [
+        {
+          "authorId": "152574768",
+          "name": "Brett W. Larsen"
+        },
+        {
+          "authorId": "1744364",
+          "name": "T. Kolda"
+        },
+        {
+          "authorId": "2315925057",
+          "name": "Anru R. Zhang"
+        },
+        {
+          "authorId": "2257117450",
+          "name": "Alex H. Williams"
+        }
+      ]
+    },
+    {
+      "paperId": "cc4b3c43599c5478ca6fe4c4a8bec3ac26e8c011",
+      "externalIds": {
+        "DBLP": "journals/nn/HuangZQCZ25",
+        "DOI": "10.1016/j.neunet.2025.107500",
+        "CorpusId": 278488006,
+        "PubMed": "40367719"
+      },
+      "url": "https://www.semanticscholar.org/paper/cc4b3c43599c5478ca6fe4c4a8bec3ac26e8c011",
+      "title": "Kernel Bayesian tensor ring decomposition for multiway data recovery",
+      "venue": "Neural Networks",
+      "year": 2025,
+      "referenceCount": 50,
+      "citationCount": 6,
+      "authors": [
+        {
+          "authorId": "2151325640",
+          "name": "Zhenhao Huang"
+        },
+        {
+          "authorId": "1764724",
+          "name": "Guoxu Zhou"
+        },
+        {
+          "authorId": "30185240",
+          "name": "Yuning Qiu"
+        },
+        {
+          "authorId": "2109444435",
+          "name": "Xinqi Chen"
+        },
+        {
+          "authorId": "2304424670",
+          "name": "Qibin Zhao"
+        }
+      ]
+    },
+    {
+      "paperId": "40b2e3c56f6863e30f4ddb6b05839207d5b3bd46",
+      "externalIds": {
+        "DBLP": "journals/tgrs/FengCYSLH23",
+        "DOI": "10.1109/TGRS.2023.3274661",
+        "CorpusId": 258655321
+      },
+      "url": "https://www.semanticscholar.org/paper/40b2e3c56f6863e30f4ddb6b05839207d5b3bd46",
+      "title": "Hyperspectral Anomaly Detection Based on Tensor Ring Decomposition With Factors TV Regularization",
+      "venue": "IEEE Transactions on Geoscience and Remote Sensing",
+      "year": 2023,
+      "referenceCount": 57,
+      "citationCount": 39,
+      "authors": [
+        {
+          "authorId": "2075209892",
+          "name": "Maoyuan Feng"
+        },
+        {
+          "authorId": "2168994999",
+          "name": "Wendong Chen"
+        },
+        {
+          "authorId": "2116587990",
+          "name": "Yun-xiu Yang"
+        },
+        {
+          "authorId": "49043061",
+          "name": "Qin Shu"
+        },
+        {
+          "authorId": "2135759936",
+          "name": "Hongxin Li"
+        },
+        {
+          "authorId": "2342748861",
+          "name": "Yanqin Huang"
+        }
+      ]
+    },
+    {
+      "paperId": "917fc221093d9d6e3ccb31c9d4df32b9794a0b16",
+      "externalIds": {
+        "DBLP": "conf/icbea2/LiuWLL24",
+        "DOI": "10.1109/ICBEA62825.2024.00016",
+        "CorpusId": 273693308
+      },
+      "url": "https://www.semanticscholar.org/paper/917fc221093d9d6e3ccb31c9d4df32b9794a0b16",
+      "title": "Multiplex Transformed Tensor Decomposition Based Single Hyperspectral Image Super-resolution for IgA Diagnostic Applications",
+      "venue": "International Conference on Biometrics Engineering and Application",
+      "year": 2024,
+      "referenceCount": 25,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2328620990",
+          "name": "Shiyu Liu"
+        },
+        {
+          "authorId": "2165958018",
+          "name": "Yinjian Wang"
+        },
+        {
+          "authorId": "2316668444",
+          "name": "Wei Li"
+        },
+        {
+          "authorId": "2299598200",
+          "name": "Meng Lv"
+        }
+      ]
+    },
+    {
+      "paperId": "036bf20723ebf39d1b0346000294d158c4d49ffc",
+      "externalIds": {
+        "DOI": "10.1007/s00466-023-02333-8",
+        "CorpusId": 258503203
+      },
+      "url": "https://www.semanticscholar.org/paper/036bf20723ebf39d1b0346000294d158c4d49ffc",
+      "title": "Convolution Hierarchical Deep-Learning Neural Network Tensor Decomposition (C-HiDeNN-TD) for high-resolution topology optimization",
+      "venue": "Computational Mechanics",
+      "year": 2023,
+      "referenceCount": 52,
+      "citationCount": 47,
+      "authors": [
+        {
+          "authorId": "11306895",
+          "name": "Hengyang Li"
+        },
+        {
+          "authorId": "134728318",
+          "name": "S. Knapik"
+        },
+        {
+          "authorId": "2266490727",
+          "name": "Yangfan Li"
+        },
+        {
+          "authorId": "123057761",
+          "name": "Chanwook Park"
+        },
+        {
+          "authorId": "2148902727",
+          "name": "Jiachen Guo"
+        },
+        {
+          "authorId": "28311030",
+          "name": "S. Mojumder"
+        },
+        {
+          "authorId": "2115686170",
+          "name": "Ye Lu"
+        },
+        {
+          "authorId": "2283009",
+          "name": "Wei Chen"
+        },
+        {
+          "authorId": "2325468",
+          "name": "D. Apley"
+        },
+        {
+          "authorId": "2192585466",
+          "name": "Wing Kam Liu"
+        }
+      ]
+    },
+    {
+      "paperId": "f69a5e53f3a2fb73a1f7a5325d09986240bde86c",
+      "externalIds": {
+        "DBLP": "journals/nn/YuXML25",
+        "DOI": "10.1016/j.neunet.2025.107713",
+        "CorpusId": 280139917,
+        "PubMed": "40680520"
+      },
+      "url": "https://www.semanticscholar.org/paper/f69a5e53f3a2fb73a1f7a5325d09986240bde86c",
+      "title": "Tensor wheel completion for visual data with sparsity and smoothness on latent space",
+      "venue": "Neural Networks",
+      "year": 2025,
+      "referenceCount": 43,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2370144840",
+          "name": "Jinshi Yu"
+        },
+        {
+          "authorId": "2366642375",
+          "name": "Yuan Xie"
+        },
+        {
+          "authorId": "2321508003",
+          "name": "Ge Ma"
+        },
+        {
+          "authorId": "2392605205",
+          "name": "Xiaomeng Li"
+        }
+      ]
+    }
+  ]
+}

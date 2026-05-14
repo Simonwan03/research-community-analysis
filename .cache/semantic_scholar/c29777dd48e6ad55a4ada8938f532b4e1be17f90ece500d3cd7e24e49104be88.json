@@ -1,0 +1,81 @@
+{
+  "total": 3,
+  "offset": 0,
+  "data": [
+    {
+      "paperId": "53b2ed67bff74b8b9d825ebbe470740c81ebd0c3",
+      "externalIds": {
+        "DBLP": "journals/corr/ChenFK17",
+        "MAG": "2735578456",
+        "ArXiv": "1707.04347",
+        "CorpusId": 27327546
+      },
+      "url": "https://www.semanticscholar.org/paper/53b2ed67bff74b8b9d825ebbe470740c81ebd0c3",
+      "title": "Weakly Submodular Maximization Beyond Cardinality Constraints: Does Randomization Help Greedy?",
+      "venue": "International Conference on Machine Learning",
+      "year": 2017,
+      "referenceCount": 47,
+      "citationCount": 50,
+      "authors": [
+        {
+          "authorId": "2118536661",
+          "name": "Lin Chen"
+        },
+        {
+          "authorId": "40546894",
+          "name": "Moran Feldman"
+        },
+        {
+          "authorId": "1697131",
+          "name": "Amin Karbasi"
+        }
+      ]
+    },
+    {
+      "paperId": "1206869fd9e5edd923a920981e261e2a09316d36",
+      "externalIds": {
+        "CorpusId": 265097591
+      },
+      "url": "https://www.semanticscholar.org/paper/1206869fd9e5edd923a920981e261e2a09316d36",
+      "title": "Weakly Submodular Maximization Beyond Cardinality Constraints: Does Randomization Help Greedy?",
+      "venue": "",
+      "year": 2018,
+      "referenceCount": 0,
+      "citationCount": 0,
+      "authors": []
+    },
+    {
+      "paperId": "657714d6a4b7c6e0efd728faa861ced20e504ac4",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-1904-09354",
+        "ArXiv": "1904.09354",
+        "MAG": "2953226489",
+        "CorpusId": 128251657
+      },
+      "url": "https://www.semanticscholar.org/paper/657714d6a4b7c6e0efd728faa861ced20e504ac4",
+      "title": "Submodular Maximization Beyond Non-negativity: Guarantees, Fast Algorithms, and Applications",
+      "venue": "International Conference on Machine Learning",
+      "year": 2019,
+      "referenceCount": 35,
+      "citationCount": 116,
+      "authors": [
+        {
+          "authorId": "3359798",
+          "name": "Christopher Harshaw"
+        },
+        {
+          "authorId": "40546894",
+          "name": "Moran Feldman"
+        },
+        {
+          "authorId": "144131927",
+          "name": "Justin Ward"
+        },
+        {
+          "authorId": "1697131",
+          "name": "Amin Karbasi"
+        }
+      ]
+    }
+  ]
+}

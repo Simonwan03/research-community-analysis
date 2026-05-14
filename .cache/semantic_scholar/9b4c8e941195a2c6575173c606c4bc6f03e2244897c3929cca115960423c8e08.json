@@ -1,0 +1,282 @@
+{
+  "total": 523,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "93ea563fcc26069442ad3b71e1bc216fe5789d68",
+      "externalIds": {
+        "ArXiv": "1703.01678",
+        "DBLP": "journals/corr/KuzborskijL17",
+        "MAG": "2950291451",
+        "CorpusId": 3351158
+      },
+      "url": "https://www.semanticscholar.org/paper/93ea563fcc26069442ad3b71e1bc216fe5789d68",
+      "title": "Data-Dependent Stability of Stochastic Gradient Descent",
+      "venue": "International Conference on Machine Learning",
+      "year": 2017,
+      "referenceCount": 39,
+      "citationCount": 187,
+      "authors": [
+        {
+          "authorId": "3150458",
+          "name": "Ilja Kuzborskij"
+        },
+        {
+          "authorId": "1787591",
+          "name": "Christoph H. Lampert"
+        }
+      ]
+    },
+    {
+      "paperId": "b502c00917aa70f714d5a6a112e1fdcb2ac65e96",
+      "externalIds": {
+        "CorpusId": 53414297
+      },
+      "url": "https://www.semanticscholar.org/paper/b502c00917aa70f714d5a6a112e1fdcb2ac65e96",
+      "title": "Supplementary Material for Data-Dependent Stability of Stochastic Gradient Descent",
+      "venue": "",
+      "year": 2018,
+      "referenceCount": 6,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "3150458",
+          "name": "Ilja Kuzborskij"
+        },
+        {
+          "authorId": "1787591",
+          "name": "Christoph H. Lampert"
+        }
+      ]
+    },
+    {
+      "paperId": "2d0adcc16379d22943ba0e2fb55ea055592cf07d",
+      "externalIds": {
+        "DBLP": "journals/nn/PaquinCG23",
+        "DOI": "10.1016/j.neunet.2023.04.028",
+        "CorpusId": 258344000,
+        "PubMed": "37167751"
+      },
+      "url": "https://www.semanticscholar.org/paper/2d0adcc16379d22943ba0e2fb55ea055592cf07d",
+      "title": "Stability analysis of stochastic gradient descent for homogeneous neural networks and linear classifiers",
+      "venue": "Neural Networks",
+      "year": 2023,
+      "referenceCount": 21,
+      "citationCount": 8,
+      "authors": [
+        {
+          "authorId": "1644081443",
+          "name": "Alexandre Lemire Paquin"
+        },
+        {
+          "authorId": "1399443272",
+          "name": "B. Chaib-draa"
+        },
+        {
+          "authorId": "2310695",
+          "name": "P. Giguère"
+        }
+      ]
+    },
+    {
+      "paperId": "87d5ba667fd4c91d894e3d73b45978fd601dc4a1",
+      "externalIds": {
+        "DBLP": "journals/nn/WangLG25",
+        "ArXiv": "2401.03156",
+        "DOI": "10.48550/arXiv.2401.03156",
+        "CorpusId": 266843846,
+        "PubMed": "39644596"
+      },
+      "url": "https://www.semanticscholar.org/paper/87d5ba667fd4c91d894e3d73b45978fd601dc4a1",
+      "title": "Data-Dependent Stability Analysis of Adversarial Training",
+      "venue": "Neural Networks",
+      "year": 2024,
+      "referenceCount": 50,
+      "citationCount": 6,
+      "authors": [
+        {
+          "authorId": "2278617100",
+          "name": "Yihan Wang"
+        },
+        {
+          "authorId": "2278830866",
+          "name": "Shuang Liu"
+        },
+        {
+          "authorId": "2278595232",
+          "name": "Xiao-Shan Gao"
+        }
+      ]
+    },
+    {
+      "paperId": "26363cbad28c93b60485a21ee9cbf7da4c293ad3",
+      "externalIds": {
+        "DBLP": "journals/tmlr/PandeyBBB24",
+        "CorpusId": 268930639
+      },
+      "url": "https://www.semanticscholar.org/paper/26363cbad28c93b60485a21ee9cbf7da4c293ad3",
+      "title": "Data-Dependent Generalization Bounds for Neural Networks with ReLU",
+      "venue": "Trans. Mach. Learn. Res.",
+      "year": 2024,
+      "referenceCount": 33,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2259078794",
+          "name": "Harsh Pandey"
+        },
+        {
+          "authorId": "1799402",
+          "name": "A. Bagchi"
+        },
+        {
+          "authorId": "1751538",
+          "name": "Srikanta J. Bedathur"
+        },
+        {
+          "authorId": "2056696038",
+          "name": "Arindam Bhattacharya"
+        }
+      ]
+    },
+    {
+      "paperId": "6b6391eb7503a210616d029b7ec76166f64d89d4",
+      "externalIds": {
+        "CorpusId": 269033742
+      },
+      "url": "https://www.semanticscholar.org/paper/6b6391eb7503a210616d029b7ec76166f64d89d4",
+      "title": "Stochastic Gradient Descent - But Make it Parallel!",
+      "venue": "",
+      "year": null,
+      "referenceCount": 8,
+      "citationCount": 0,
+      "authors": []
+    },
+    {
+      "paperId": "9b9fff9d1ffab7fb5811b61caffe6842a1cd0aeb",
+      "externalIds": {
+        "DBLP": "conf/nips/0017W24",
+        "ArXiv": "2405.17922",
+        "DOI": "10.52202/079017-0277",
+        "CorpusId": 270067587
+      },
+      "url": "https://www.semanticscholar.org/paper/9b9fff9d1ffab7fb5811b61caffe6842a1cd0aeb",
+      "title": "Stochastic Optimization Schemes for Performative Prediction with Nonconvex Loss",
+      "venue": "Neural Information Processing Systems",
+      "year": 2024,
+      "referenceCount": 30,
+      "citationCount": 12,
+      "authors": [
+        {
+          "authorId": "2257657141",
+          "name": "Qiang Li"
+        },
+        {
+          "authorId": "2627442",
+          "name": "Hoi-To Wai"
+        }
+      ]
+    },
+    {
+      "paperId": "f3dd795747094c48db640df8f1fbe270c31b85b8",
+      "externalIds": {
+        "ArXiv": "2501.16228",
+        "DBLP": "journals/qmi/ZhuYLW25",
+        "DOI": "10.1007/s42484-025-00318-9",
+        "CorpusId": 275921376
+      },
+      "url": "https://www.semanticscholar.org/paper/f3dd795747094c48db640df8f1fbe270c31b85b8",
+      "title": "Optimizer-dependent generalization bound for quantum neural networks",
+      "venue": "Quantum Machine Intelligence",
+      "year": 2025,
+      "referenceCount": 95,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "103475755",
+          "name": "Chenghong Zhu"
+        },
+        {
+          "authorId": "2261367020",
+          "name": "Hongshun Yao"
+        },
+        {
+          "authorId": "2290136005",
+          "name": "Yingjian Liu"
+        },
+        {
+          "authorId": "2306964173",
+          "name": "Xin Wang"
+        }
+      ]
+    },
+    {
+      "paperId": "faafb495e4031c89de79040c873e89e455fe4752",
+      "externalIds": {
+        "DBLP": "conf/colt/SachsEHKS23",
+        "ArXiv": "2307.02501",
+        "DOI": "10.48550/arXiv.2307.02501",
+        "CorpusId": 259360606
+      },
+      "url": "https://www.semanticscholar.org/paper/faafb495e4031c89de79040c873e89e455fe4752",
+      "title": "Generalization Guarantees via Algorithm-dependent Rademacher Complexity",
+      "venue": "Annual Conference Computational Learning Theory",
+      "year": 2023,
+      "referenceCount": 31,
+      "citationCount": 9,
+      "authors": [
+        {
+          "authorId": "33385802",
+          "name": "S. Sachs"
+        },
+        {
+          "authorId": "1775951",
+          "name": "T. Erven"
+        },
+        {
+          "authorId": "2120830907",
+          "name": "Liam Hodgkinson"
+        },
+        {
+          "authorId": "2066032462",
+          "name": "Rajiv Khanna"
+        },
+        {
+          "authorId": "1808437",
+          "name": "Umut Simsekli"
+        }
+      ]
+    },
+    {
+      "paperId": "d88bf887f6c1ec76a7af533d2633daf8c8339b55",
+      "externalIds": {
+        "DBLP": "journals/entropy/ZhouLK25",
+        "PubMedCentral": "12385679",
+        "DOI": "10.3390/e27080845",
+        "CorpusId": 280946784,
+        "PubMed": "40870317"
+      },
+      "url": "https://www.semanticscholar.org/paper/d88bf887f6c1ec76a7af533d2633daf8c8339b55",
+      "title": "PAC–Bayes Guarantees for Data-Adaptive Pairwise Learning",
+      "venue": "Entropy",
+      "year": 2025,
+      "referenceCount": 56,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2288040318",
+          "name": "Sijia Zhou"
+        },
+        {
+          "authorId": "2331675812",
+          "name": "Yunwen Lei"
+        },
+        {
+          "authorId": "144191547",
+          "name": "A. Kabán"
+        }
+      ]
+    }
+  ]
+}

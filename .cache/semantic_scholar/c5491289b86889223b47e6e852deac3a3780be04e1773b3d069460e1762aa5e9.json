@@ -1,0 +1,85 @@
+{
+  "total": 3,
+  "offset": 0,
+  "data": [
+    {
+      "paperId": "6d658d1e0a5c80bd2a509ada4edda0817ae85386",
+      "externalIds": {
+        "MAG": "2804766086",
+        "DBLP": "conf/icml/JankowiakO18",
+        "ArXiv": "1806.01851",
+        "CorpusId": 46947163
+      },
+      "url": "https://www.semanticscholar.org/paper/6d658d1e0a5c80bd2a509ada4edda0817ae85386",
+      "title": "Pathwise Derivatives Beyond the Reparameterization Trick",
+      "venue": "International Conference on Machine Learning",
+      "year": 2018,
+      "referenceCount": 47,
+      "citationCount": 123,
+      "authors": [
+        {
+          "authorId": "2528953",
+          "name": "M. Jankowiak"
+        },
+        {
+          "authorId": "2155679",
+          "name": "F. Obermeyer"
+        }
+      ]
+    },
+    {
+      "paperId": "846ce86dd208ea3aa18ea39f8f2fed15887e048c",
+      "externalIds": {
+        "CorpusId": 53136882
+      },
+      "url": "https://www.semanticscholar.org/paper/846ce86dd208ea3aa18ea39f8f2fed15887e048c",
+      "title": "Supplementary Materials : Pathwise Derivatives Beyond the Reparameterization Trick",
+      "venue": "",
+      "year": 2018,
+      "referenceCount": 9,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2528953",
+          "name": "M. Jankowiak"
+        },
+        {
+          "authorId": "2155679",
+          "name": "F. Obermeyer"
+        }
+      ]
+    },
+    {
+      "paperId": "6d903cfb7865ec8ebfee6209a7fd2e896331912a",
+      "externalIds": {
+        "MAG": "3010148210",
+        "DBLP": "journals/corr/abs-2003-01847",
+        "CorpusId": 211990434
+      },
+      "url": "https://www.semanticscholar.org/paper/6d903cfb7865ec8ebfee6209a7fd2e896331912a",
+      "title": "Generalized Gumbel-Softmax Gradient Estimator for Various Discrete Random Variables",
+      "venue": "arXiv.org",
+      "year": 2020,
+      "referenceCount": 30,
+      "citationCount": 13,
+      "authors": [
+        {
+          "authorId": "67271599",
+          "name": "Weonyoung Joo"
+        },
+        {
+          "authorId": "51999226",
+          "name": "Dongjun Kim"
+        },
+        {
+          "authorId": "120296402",
+          "name": "Seung-Jae Shin"
+        },
+        {
+          "authorId": "1729306",
+          "name": "Il-Chul Moon"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,315 @@
+{
+  "total": 916,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "33da17e0070dfceed05aec1602a7d1e3284cf715",
+      "externalIds": {
+        "DBLP": "journals/corr/LinTA15",
+        "ArXiv": "1511.06393",
+        "MAG": "2952936791",
+        "CorpusId": 649645
+      },
+      "url": "https://www.semanticscholar.org/paper/33da17e0070dfceed05aec1602a7d1e3284cf715",
+      "title": "Fixed Point Quantization of Deep Convolutional Networks",
+      "venue": "International Conference on Machine Learning",
+      "year": 2015,
+      "referenceCount": 31,
+      "citationCount": 859,
+      "authors": [
+        {
+          "authorId": "1933900",
+          "name": "D. Lin"
+        },
+        {
+          "authorId": "2390504",
+          "name": "S. Talathi"
+        },
+        {
+          "authorId": "145712235",
+          "name": "V. Annapureddy"
+        }
+      ]
+    },
+    {
+      "paperId": "008781425db39531f11ebe766f9437c3e8a0b3c1",
+      "externalIds": {
+        "DOI": "10.1109/ICCMC65190.2025.11140619",
+        "CorpusId": 281150308
+      },
+      "url": "https://www.semanticscholar.org/paper/008781425db39531f11ebe766f9437c3e8a0b3c1",
+      "title": "Fixed-Point Quantization of Deep Convolutional Networks using Low-Precision Arithmetic for Efficient Computation",
+      "venue": "International Conference Computing Methodologies and Communication",
+      "year": 2025,
+      "referenceCount": 11,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2327222453",
+          "name": "Mythile C"
+        },
+        {
+          "authorId": "2282559707",
+          "name": "Jaisiva S"
+        },
+        {
+          "authorId": "2359981605",
+          "name": "Arunadevi A"
+        },
+        {
+          "authorId": "2355805608",
+          "name": "Sudhapriya K"
+        }
+      ]
+    },
+    {
+      "paperId": "a6373454105df0c5511ca5f6cae4d20c48214272",
+      "externalIds": {
+        "MAG": "1605005685",
+        "DBLP": "conf/icassp/AnwarHS15",
+        "DOI": "10.1109/ICASSP.2015.7178146",
+        "CorpusId": 15178138
+      },
+      "url": "https://www.semanticscholar.org/paper/a6373454105df0c5511ca5f6cae4d20c48214272",
+      "title": "Fixed point optimization of deep convolutional neural networks for object recognition",
+      "venue": "IEEE International Conference on Acoustics, Speech, and Signal Processing",
+      "year": 2015,
+      "referenceCount": 15,
+      "citationCount": 216,
+      "authors": [
+        {
+          "authorId": "144366108",
+          "name": "S. Anwar"
+        },
+        {
+          "authorId": "2549369",
+          "name": "Kyuyeon Hwang"
+        },
+        {
+          "authorId": "145057126",
+          "name": "Wonyong Sung"
+        }
+      ]
+    },
+    {
+      "paperId": "f441e85f9a1a26fcbb1543f79d7b7511a780c034",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2112-02834",
+        "ArXiv": "2112.02834",
+        "DOI": "10.1109/TMM.2021.3134158",
+        "CorpusId": 244908643
+      },
+      "url": "https://www.semanticscholar.org/paper/f441e85f9a1a26fcbb1543f79d7b7511a780c034",
+      "title": "A Generalized Zero-Shot Quantization of Deep Convolutional Neural Networks Via Learned Weights Statistics",
+      "venue": "IEEE transactions on multimedia",
+      "year": 2021,
+      "referenceCount": 94,
+      "citationCount": 12,
+      "authors": [
+        {
+          "authorId": "1384185872",
+          "name": "P. Sharma"
+        },
+        {
+          "authorId": "1500409256",
+          "name": "Arun Abraham"
+        },
+        {
+          "authorId": "2086794209",
+          "name": "V. Rajendiran"
+        }
+      ]
+    },
+    {
+      "paperId": "3d8b62c060f8444907e7c975c6ae590373b51ed4",
+      "externalIds": {
+        "MAG": "2809624076",
+        "DBLP": "journals/corr/abs-1806-08342",
+        "ArXiv": "1806.08342",
+        "CorpusId": 49356451
+      },
+      "url": "https://www.semanticscholar.org/paper/3d8b62c060f8444907e7c975c6ae590373b51ed4",
+      "title": "Quantizing deep convolutional networks for efficient inference: A whitepaper",
+      "venue": "arXiv.org",
+      "year": 2018,
+      "referenceCount": 42,
+      "citationCount": 1220,
+      "authors": [
+        {
+          "authorId": "2065915235",
+          "name": "Raghuraman Krishnamoorthi"
+        }
+      ]
+    },
+    {
+      "paperId": "5496ba58dd17d6aa5da434a7347bae671af7f31e",
+      "externalIds": {
+        "DBLP": "conf/icassp/AnwarHS16",
+        "MAG": "2395939376",
+        "DOI": "10.1109/ICASSP.2016.7471839",
+        "CorpusId": 20980540
+      },
+      "url": "https://www.semanticscholar.org/paper/5496ba58dd17d6aa5da434a7347bae671af7f31e",
+      "title": "Learning separable fixed-point kernels for deep convolutional neural networks",
+      "venue": "IEEE International Conference on Acoustics, Speech, and Signal Processing",
+      "year": 2016,
+      "referenceCount": 14,
+      "citationCount": 4,
+      "authors": [
+        {
+          "authorId": "144366108",
+          "name": "S. Anwar"
+        },
+        {
+          "authorId": "2549369",
+          "name": "Kyuyeon Hwang"
+        },
+        {
+          "authorId": "145057126",
+          "name": "Wonyong Sung"
+        }
+      ]
+    },
+    {
+      "paperId": "b1a1bf97a158a4518ae66f9c6c0ad29bf4298129",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2208-00331",
+        "ArXiv": "2208.00331",
+        "DOI": "10.1109/IJCNN55064.2022.9892902",
+        "CorpusId": 251223533
+      },
+      "url": "https://www.semanticscholar.org/paper/b1a1bf97a158a4518ae66f9c6c0ad29bf4298129",
+      "title": "CoNLoCNN: Exploiting Correlation and Non-Uniform Quantization for Energy-Efficient Low-precision Deep Convolutional Neural Networks",
+      "venue": "IEEE International Joint Conference on Neural Network",
+      "year": 2022,
+      "referenceCount": 22,
+      "citationCount": 5,
+      "authors": [
+        {
+          "authorId": "98254755",
+          "name": "M. Hanif"
+        },
+        {
+          "authorId": "2159242759",
+          "name": "G. M. Sarda"
+        },
+        {
+          "authorId": "51486203",
+          "name": "Alberto Marchisio"
+        },
+        {
+          "authorId": "1746211",
+          "name": "G. Masera"
+        },
+        {
+          "authorId": "2165803795",
+          "name": "Maurizio Martina"
+        },
+        {
+          "authorId": "2077523138",
+          "name": "Muhammad Shafique"
+        }
+      ]
+    },
+    {
+      "paperId": "7ef330d64a0c18a3bd3ee01deb864e9fe608bcf6",
+      "externalIds": {
+        "ArXiv": "2003.02628",
+        "MAG": "3009327594",
+        "CorpusId": 212415143
+      },
+      "url": "https://www.semanticscholar.org/paper/7ef330d64a0c18a3bd3ee01deb864e9fe608bcf6",
+      "title": "Phoenix: A Low-Precision Floating-Point Quantization Oriented Architecture for Convolutional Neural Networks",
+      "venue": "",
+      "year": 2020,
+      "referenceCount": 63,
+      "citationCount": 7,
+      "authors": [
+        {
+          "authorId": "2151101847",
+          "name": "Chen Wu"
+        },
+        {
+          "authorId": "2108554748",
+          "name": "Mingyu Wang"
+        },
+        {
+          "authorId": "2108571570",
+          "name": "Xiayu Li"
+        },
+        {
+          "authorId": "49302116",
+          "name": "Jicheng Lu"
+        },
+        {
+          "authorId": "2119044129",
+          "name": "Kun Wang"
+        },
+        {
+          "authorId": "153125682",
+          "name": "Lei He"
+        }
+      ]
+    },
+    {
+      "paperId": "138aafa5eb51249432c1a804868137f96b049c3a",
+      "externalIds": {
+        "DBLP": "journals/apin/HuangLF21",
+        "MAG": "3120427040",
+        "DOI": "10.1007/s10489-020-02109-0",
+        "CorpusId": 234125193
+      },
+      "url": "https://www.semanticscholar.org/paper/138aafa5eb51249432c1a804868137f96b049c3a",
+      "title": "MXQN:Mixed quantization for reducing bit-width of weights and activations in deep convolutional neural networks",
+      "venue": "Applied intelligence (Boston)",
+      "year": 2021,
+      "referenceCount": 57,
+      "citationCount": 26,
+      "authors": [
+        {
+          "authorId": "2150606922",
+          "name": "Chenglong Huang"
+        },
+        {
+          "authorId": "50500303",
+          "name": "Puguang Liu"
+        },
+        {
+          "authorId": "2090397096",
+          "name": "L. Fang"
+        }
+      ]
+    },
+    {
+      "paperId": "7bbf7ef2daef2c54ab8a61dcba969d6553869139",
+      "externalIds": {
+        "DBLP": "journals/corr/ShinBS17",
+        "MAG": "2593221942",
+        "ArXiv": "1702.08171",
+        "DOI": "10.1109/ICASSP.2017.7952347",
+        "CorpusId": 18063045
+      },
+      "url": "https://www.semanticscholar.org/paper/7bbf7ef2daef2c54ab8a61dcba969d6553869139",
+      "title": "Fixed-point optimization of deep neural networks with adaptive step size retraining",
+      "venue": "IEEE International Conference on Acoustics, Speech, and Signal Processing",
+      "year": 2017,
+      "referenceCount": 25,
+      "citationCount": 36,
+      "authors": [
+        {
+          "authorId": "1859825",
+          "name": "Sungho Shin"
+        },
+        {
+          "authorId": "3350090",
+          "name": "Yoonho Boo"
+        },
+        {
+          "authorId": "145057126",
+          "name": "Wonyong Sung"
+        }
+      ]
+    }
+  ]
+}

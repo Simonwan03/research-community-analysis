@@ -1,0 +1,241 @@
+{
+  "total": 8,
+  "offset": 0,
+  "data": [
+    {
+      "paperId": "20c57797acde7a78b1f6a44e289927d5d5965c26",
+      "externalIds": {
+        "ArXiv": "1805.06579",
+        "MAG": "2949315782",
+        "DBLP": "conf/icml/FrancaRV18",
+        "CorpusId": 51872580
+      },
+      "url": "https://www.semanticscholar.org/paper/20c57797acde7a78b1f6a44e289927d5d5965c26",
+      "title": "ADMM and Accelerated ADMM as Continuous Dynamical Systems",
+      "venue": "International Conference on Machine Learning",
+      "year": 2018,
+      "referenceCount": 25,
+      "citationCount": 88,
+      "authors": [
+        {
+          "authorId": "145512630",
+          "name": "G. França"
+        },
+        {
+          "authorId": "1780452",
+          "name": "Daniel P. Robinson"
+        },
+        {
+          "authorId": "144020730",
+          "name": "R. Vidal"
+        }
+      ]
+    },
+    {
+      "paperId": "6ddf2d3c15a21c5264f30206bf61d4cb4dc3ee49",
+      "externalIds": {
+        "ArXiv": "1808.04048",
+        "DBLP": "journals/tac/FrancaRV23",
+        "DOI": "10.1109/TAC.2023.3238857",
+        "CorpusId": 221738753
+      },
+      "url": "https://www.semanticscholar.org/paper/6ddf2d3c15a21c5264f30206bf61d4cb4dc3ee49",
+      "title": "A Nonsmooth Dynamical Systems Perspective on Accelerated Extensions of ADMM",
+      "venue": "IEEE Transactions on Automatic Control",
+      "year": 2018,
+      "referenceCount": 81,
+      "citationCount": 24,
+      "authors": [
+        {
+          "authorId": "145512630",
+          "name": "G. França"
+        },
+        {
+          "authorId": "2207502084",
+          "name": "Daniel P. Robinson"
+        },
+        {
+          "authorId": "2060928288",
+          "name": "René Vidal"
+        }
+      ]
+    },
+    {
+      "paperId": "7793498d2f7a416d00aaf8378a5ef2e60e8b794c",
+      "externalIds": {
+        "MAG": "2885153985",
+        "CorpusId": 88518393
+      },
+      "url": "https://www.semanticscholar.org/paper/7793498d2f7a416d00aaf8378a5ef2e60e8b794c",
+      "title": "A Dynamical Systems Perspective on Nonsmooth Constrained Optimization",
+      "venue": "",
+      "year": 2018,
+      "referenceCount": 52,
+      "citationCount": 31,
+      "authors": [
+        {
+          "authorId": "145512630",
+          "name": "G. França"
+        },
+        {
+          "authorId": "1780452",
+          "name": "Daniel P. Robinson"
+        },
+        {
+          "authorId": "144020730",
+          "name": "R. Vidal"
+        }
+      ]
+    },
+    {
+      "paperId": "355540a27915e2539f14b0462568720fd888d43a",
+      "externalIds": {
+        "MAG": "2913746610",
+        "CorpusId": 52554058
+      },
+      "url": "https://www.semanticscholar.org/paper/355540a27915e2539f14b0462568720fd888d43a",
+      "title": "Relax, and Accelerate: A Continuous Perspective on ADMM",
+      "venue": "",
+      "year": 2018,
+      "referenceCount": 44,
+      "citationCount": 4,
+      "authors": [
+        {
+          "authorId": "145512630",
+          "name": "G. França"
+        },
+        {
+          "authorId": "1780452",
+          "name": "Daniel P. Robinson"
+        },
+        {
+          "authorId": "144020730",
+          "name": "R. Vidal"
+        }
+      ]
+    },
+    {
+      "paperId": "17b077322f202f68cd877fe10ee3b07cfac15b4b",
+      "externalIds": {
+        "ArXiv": "2309.07008",
+        "CorpusId": 261705889
+      },
+      "url": "https://www.semanticscholar.org/paper/17b077322f202f68cd877fe10ee3b07cfac15b4b",
+      "title": "Dynamical convergence analysis for nonconvex linearized proximal ADMM algorithms",
+      "venue": "",
+      "year": 2023,
+      "referenceCount": 54,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2239677826",
+          "name": "Jiahong Guo"
+        },
+        {
+          "authorId": "50141741",
+          "name": "X. Wang"
+        },
+        {
+          "authorId": "144432144",
+          "name": "Xi Xiao"
+        }
+      ]
+    },
+    {
+      "paperId": "a6cecbb573c7f3c3734db029b3cf7b5236d799a8",
+      "externalIds": {
+        "ArXiv": "2103.12675",
+        "MAG": "3157095133",
+        "DBLP": "journals/jota/AttouchCFR22",
+        "DOI": "10.1007/s10957-021-01859-2",
+        "CorpusId": 232320300
+      },
+      "url": "https://www.semanticscholar.org/paper/a6cecbb573c7f3c3734db029b3cf7b5236d799a8",
+      "title": "Fast Convergence of Dynamical ADMM via Time Scaling of Damped Inertial Dynamics",
+      "venue": "Journal of Optimization Theory and Applications",
+      "year": 2021,
+      "referenceCount": 58,
+      "citationCount": 58,
+      "authors": [
+        {
+          "authorId": "3441778",
+          "name": "H. Attouch"
+        },
+        {
+          "authorId": "3039807",
+          "name": "Z. Chbani"
+        },
+        {
+          "authorId": "51026546",
+          "name": "J. Fadili"
+        },
+        {
+          "authorId": "2712748",
+          "name": "H. Riahi"
+        }
+      ]
+    },
+    {
+      "paperId": "c7723a363e65bdcac966abe0e99c7938f6491d75",
+      "externalIds": {
+        "MAG": "2993347272",
+        "ArXiv": "1912.02854",
+        "DBLP": "journals/corr/abs-1912-02854",
+        "DOI": "10.1016/j.patcog.2019.107172",
+        "CorpusId": 208857690
+      },
+      "url": "https://www.semanticscholar.org/paper/c7723a363e65bdcac966abe0e99c7938f6491d75",
+      "title": "An Accelerated Correlation Filter Tracker",
+      "venue": "Pattern Recognition",
+      "year": 2019,
+      "referenceCount": 55,
+      "citationCount": 32,
+      "authors": [
+        {
+          "authorId": null,
+          "name": "Tianyang Xu"
+        },
+        {
+          "authorId": "2976854",
+          "name": "Zhenhua Feng"
+        },
+        {
+          "authorId": "33270642",
+          "name": "Xiaojun Wu"
+        },
+        {
+          "authorId": "145801638",
+          "name": "J. Kittler"
+        }
+      ]
+    },
+    {
+      "paperId": "550b5409a6c4df0ffb4e0ccc7ed728bd8943c5ae",
+      "externalIds": {
+        "MAG": "2966852572",
+        "DBLP": "journals/corr/abs-1908-00865",
+        "CorpusId": 199405536
+      },
+      "url": "https://www.semanticscholar.org/paper/550b5409a6c4df0ffb4e0ccc7ed728bd8943c5ae",
+      "title": "Gradient Flows and Accelerated Proximal Splitting Methods",
+      "venue": "arXiv.org",
+      "year": 2019,
+      "referenceCount": 60,
+      "citationCount": 6,
+      "authors": [
+        {
+          "authorId": "145512630",
+          "name": "G. França"
+        },
+        {
+          "authorId": "1780452",
+          "name": "Daniel P. Robinson"
+        },
+        {
+          "authorId": "144020730",
+          "name": "R. Vidal"
+        }
+      ]
+    }
+  ]
+}

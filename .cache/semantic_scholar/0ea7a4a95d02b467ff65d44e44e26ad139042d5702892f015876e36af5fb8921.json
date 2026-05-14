@@ -1,0 +1,1023 @@
+{
+  "offset": 0,
+  "citingPaperInfo": {
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/1503.06394, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "title": "Large-scale log-determinant computation through stochastic Chebyshev expansions",
+    "authors": [
+      {
+        "authorId": "2237714",
+        "name": "Insu Han"
+      },
+      {
+        "authorId": "1688721",
+        "name": "D. Malioutov"
+      },
+      {
+        "authorId": "143720148",
+        "name": "Jinwoo Shin"
+      }
+    ]
+  },
+  "data": [
+    {
+      "citedPaper": {
+        "paperId": "515eb61aba2919ab4486058894cd2c58548c9361",
+        "externalIds": {
+          "ArXiv": "1504.02661",
+          "MAG": "1950325154",
+          "DOI": "10.1103/PhysRevE.92.013302",
+          "CorpusId": 22419492,
+          "PubMed": "26274302"
+        },
+        "url": "https://www.semanticscholar.org/paper/515eb61aba2919ab4486058894cd2c58548c9361",
+        "title": "Stochastic determination of matrix determinants.",
+        "venue": "Physical review. E, Statistical, nonlinear, and soft matter physics",
+        "year": 2015,
+        "referenceCount": 15,
+        "citationCount": 7,
+        "authors": [
+          {
+            "authorId": "39988695",
+            "name": "S. Dorn"
+          },
+          {
+            "authorId": "2459588",
+            "name": "T. Ensslin"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "8a94c5a1df01dfab015d46fc4699bf8b7ba95cf2",
+        "externalIds": {
+          "MAG": "2952250492",
+          "DBLP": "journals/corr/BoutsidisDKZ15",
+          "ArXiv": "1503.00374",
+          "DOI": "10.1016/J.LAA.2017.07.004",
+          "CorpusId": 14402488
+        },
+        "url": "https://www.semanticscholar.org/paper/8a94c5a1df01dfab015d46fc4699bf8b7ba95cf2",
+        "title": "A Randomized Algorithm for Approximating the Log Determinant of a Symmetric Positive Definite Matrix",
+        "venue": "arXiv.org",
+        "year": 2015,
+        "referenceCount": 35,
+        "citationCount": 81,
+        "authors": [
+          {
+            "authorId": "1704039",
+            "name": "Christos Boutsidis"
+          },
+          {
+            "authorId": "1738441",
+            "name": "P. Drineas"
+          },
+          {
+            "authorId": "2071549",
+            "name": "P. Kambadur"
+          },
+          {
+            "authorId": "1706552",
+            "name": "Anastasios Zouzias"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "40d650156b91420aa2aacd6fca0eaecf25f7f09f",
+        "externalIds": {
+          "DBLP": "conf/nips/HsiehSDRP13",
+          "MAG": "2133396774",
+          "CorpusId": 852024
+        },
+        "url": "https://www.semanticscholar.org/paper/40d650156b91420aa2aacd6fca0eaecf25f7f09f",
+        "title": "BIG & QUIC: Sparse Inverse Covariance Estimation for a Million Variables",
+        "venue": "Neural Information Processing Systems",
+        "year": 2013,
+        "referenceCount": 21,
+        "citationCount": 207,
+        "authors": [
+          {
+            "authorId": "1793529",
+            "name": "Cho-Jui Hsieh"
+          },
+          {
+            "authorId": "2190189",
+            "name": "Mátyás A. Sustik"
+          },
+          {
+            "authorId": "1783667",
+            "name": "I. Dhillon"
+          },
+          {
+            "authorId": "145969795",
+            "name": "Pradeep Ravikumar"
+          },
+          {
+            "authorId": "145625277",
+            "name": "R. Poldrack"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "acb7d1dcee4dc3421115df0dcb54e976049809bc",
+        "externalIds": {
+          "DBLP": "journals/nla/NapoliPS16",
+          "ArXiv": "1308.4275",
+          "MAG": "2952283347",
+          "DOI": "10.1002/nla.2048",
+          "CorpusId": 9735962
+        },
+        "url": "https://www.semanticscholar.org/paper/acb7d1dcee4dc3421115df0dcb54e976049809bc",
+        "title": "Efficient estimation of eigenvalue counts in an interval",
+        "venue": "Numerical Linear Algebra with Applications",
+        "year": 2013,
+        "referenceCount": 41,
+        "citationCount": 165,
+        "authors": [
+          {
+            "authorId": "31644398",
+            "name": "E. D. Napoli"
+          },
+          {
+            "authorId": "3337342",
+            "name": "E. Polizzi"
+          },
+          {
+            "authorId": "1765199",
+            "name": "Y. Saad"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "6daf97525dd40fa7f207d17bb1c48e5c59239c8d",
+        "externalIds": {
+          "ArXiv": "1308.2475",
+          "DBLP": "journals/focm/Roosta-Khorasani15",
+          "MAG": "2007755560",
+          "DOI": "10.1007/s10208-014-9220-1",
+          "CorpusId": 2094935
+        },
+        "url": "https://www.semanticscholar.org/paper/6daf97525dd40fa7f207d17bb1c48e5c59239c8d",
+        "title": "Improved Bounds on Sample Size for Implicit Matrix Trace Estimators",
+        "venue": "Foundations of Computational Mathematics",
+        "year": 2013,
+        "referenceCount": 21,
+        "citationCount": 151,
+        "authors": [
+          {
+            "authorId": "1404348727",
+            "name": "Farbod Roosta-Khorasani"
+          },
+          {
+            "authorId": "1966230",
+            "name": "U. Ascher"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "9ad3e15fe57bf9e04bc6edf79b09c23fb7d788bd",
+        "externalIds": {
+          "ArXiv": "1312.2687",
+          "MAG": "2033672086",
+          "DOI": "10.1214/13-AOAS627",
+          "CorpusId": 14094730
+        },
+        "url": "https://www.semanticscholar.org/paper/9ad3e15fe57bf9e04bc6edf79b09c23fb7d788bd",
+        "title": "STOCHASTIC APPROXIMATION OF SCORE FUNCTIONS FOR GAUSSIAN PROCESSES",
+        "venue": "",
+        "year": 2013,
+        "referenceCount": 59,
+        "citationCount": 82,
+        "authors": [
+          {
+            "authorId": "145605141",
+            "name": "M. Stein"
+          },
+          {
+            "authorId": "47740805",
+            "name": "Jie Chen"
+          },
+          {
+            "authorId": "1760979",
+            "name": "M. Anitescu"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "e290d38eca3620965a2257aa12606b4a954e90d6",
+        "externalIds": {
+          "DBLP": "conf/nips/AnandkumarHHK12",
+          "MAG": "2142496058",
+          "CorpusId": 11414558
+        },
+        "url": "https://www.semanticscholar.org/paper/e290d38eca3620965a2257aa12606b4a954e90d6",
+        "title": "Learning Mixtures of Tree Graphical Models",
+        "venue": "Neural Information Processing Systems",
+        "year": 2012,
+        "referenceCount": 18,
+        "citationCount": 51,
+        "authors": [
+          {
+            "authorId": "2047844",
+            "name": "Anima Anandkumar"
+          },
+          {
+            "authorId": "143724861",
+            "name": "Daniel J. Hsu"
+          },
+          {
+            "authorId": "2117426487",
+            "name": "Furong Huang"
+          },
+          {
+            "authorId": "144695232",
+            "name": "S. Kakade"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "a195eaf6804274b2fc164a16a350415a4f887f1b",
+        "externalIds": {
+          "MAG": "331738929",
+          "DOI": "10.2991/978-94-91216-50-3",
+          "CorpusId": 119060286
+        },
+        "url": "https://www.semanticscholar.org/paper/a195eaf6804274b2fc164a16a350415a4f887f1b",
+        "title": "Mathematics of Approximation",
+        "venue": "",
+        "year": 2012,
+        "referenceCount": 0,
+        "citationCount": 47,
+        "authors": [
+          {
+            "authorId": "144325715",
+            "name": "J. D. Villiers"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "03a017d321a53accf5f79b2f44e01c82598a80c5",
+        "externalIds": {
+          "MAG": "2762578791",
+          "DBLP": "journals/mp/AravkinFHL12",
+          "DOI": "10.1007/s10107-012-0571-6",
+          "CorpusId": 5789314
+        },
+        "url": "https://www.semanticscholar.org/paper/03a017d321a53accf5f79b2f44e01c82598a80c5",
+        "title": "Robust inversion, dimensionality reduction, and randomized sampling",
+        "venue": "Mathematical programming",
+        "year": 2012,
+        "referenceCount": 46,
+        "citationCount": 74,
+        "authors": [
+          {
+            "authorId": "3386308",
+            "name": "A. Aravkin"
+          },
+          {
+            "authorId": "143725917",
+            "name": "M. Friedlander"
+          },
+          {
+            "authorId": "3191410",
+            "name": "F. Herrmann"
+          },
+          {
+            "authorId": "144875773",
+            "name": "T. Leeuwen"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "de49c292a461f665ccec30e8157ba1c5e03b51a4",
+        "externalIds": {
+          "DBLP": "journals/jacm/AvronT11",
+          "MAG": "2057450058",
+          "DOI": "10.1145/1944345.1944349",
+          "CorpusId": 5827717
+        },
+        "url": "https://www.semanticscholar.org/paper/de49c292a461f665ccec30e8157ba1c5e03b51a4",
+        "title": "Randomized algorithms for estimating the trace of an implicit symmetric positive semi-definite matrix",
+        "venue": "JACM",
+        "year": 2011,
+        "referenceCount": 30,
+        "citationCount": 392,
+        "authors": [
+          {
+            "authorId": "1922753",
+            "name": "H. Avron"
+          },
+          {
+            "authorId": "145287613",
+            "name": "Sivan Toledo"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "c37f5565d174dc6d6cb6e4b14a2bc59284edf82b",
+        "externalIds": {
+          "DBLP": "journals/corr/abs-1011-3494",
+          "MAG": "2963743315",
+          "ArXiv": "1011.3494",
+          "CorpusId": 14125215
+        },
+        "url": "https://www.semanticscholar.org/paper/c37f5565d174dc6d6cb6e4b14a2bc59284edf82b",
+        "title": "Learning Planar Ising Models",
+        "venue": "Journal of machine learning research",
+        "year": 2010,
+        "referenceCount": 47,
+        "citationCount": 13,
+        "authors": [
+          {
+            "authorId": "39869361",
+            "name": "Jason K. Johnson"
+          },
+          {
+            "authorId": "2864621",
+            "name": "D. Oyen"
+          },
+          {
+            "authorId": "143930409",
+            "name": "M. Chertkov"
+          },
+          {
+            "authorId": "1751626",
+            "name": "Praneeth Netrapalli"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "bfb5c61f0f42a749464cba7f03595d1d55da4ca1",
+        "externalIds": {
+          "MAG": "1977463378",
+          "DBLP": "journals/nm/Xiang0W10",
+          "DOI": "10.1007/s00211-010-0309-4",
+          "CorpusId": 41225621
+        },
+        "url": "https://www.semanticscholar.org/paper/bfb5c61f0f42a749464cba7f03595d1d55da4ca1",
+        "title": "Error bounds for approximation in Chebyshev points",
+        "venue": "Numerische Mathematik",
+        "year": 2010,
+        "referenceCount": 35,
+        "citationCount": 88,
+        "authors": [
+          {
+            "authorId": "145165243",
+            "name": "S. Xiang"
+          },
+          {
+            "authorId": "103101452",
+            "name": "Xiaojun Chen"
+          },
+          {
+            "authorId": "49527809",
+            "name": "Haiyong Wang"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "fa4a69ed89f3cd27883f2616d233701494425c42",
+        "externalIds": {
+          "MAG": "2025970186",
+          "DOI": "10.1002/wics.19",
+          "CorpusId": 122106661
+        },
+        "url": "https://www.semanticscholar.org/paper/fa4a69ed89f3cd27883f2616d233701494425c42",
+        "title": "Minimum volume ellipsoid",
+        "venue": "",
+        "year": 2009,
+        "referenceCount": 93,
+        "citationCount": 184,
+        "authors": [
+          {
+            "authorId": "1864354",
+            "name": "S. Van Aelst"
+          },
+          {
+            "authorId": "2218687",
+            "name": "P. Rousseeuw"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "4345ac99fcc0d58eea2de480fc4d599126b2bf7d",
+        "externalIds": {
+          "ArXiv": "0903.0614",
+          "MAG": "2008697571",
+          "DOI": "10.1007/S00039-010-0057-8",
+          "CorpusId": 17083709
+        },
+        "url": "https://www.semanticscholar.org/paper/4345ac99fcc0d58eea2de480fc4d599126b2bf7d",
+        "title": "Random Matrices: the Distribution of the Smallest Singular Values",
+        "venue": "",
+        "year": 2009,
+        "referenceCount": 58,
+        "citationCount": 186,
+        "authors": [
+          {
+            "authorId": "50383069",
+            "name": "T. Tao"
+          },
+          {
+            "authorId": "1762760",
+            "name": "V. Vu"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "07b2bdf2f29ef8dc98d1ab9739c0f27a67fd8974",
+        "externalIds": {
+          "MAG": "2042782097",
+          "DOI": "10.1016/J.LAA.2007.12.026",
+          "CorpusId": 121520910
+        },
+        "url": "https://www.semanticscholar.org/paper/07b2bdf2f29ef8dc98d1ab9739c0f27a67fd8974",
+        "title": "Bounds for norms of the matrix inverse and the smallest singular value",
+        "venue": "",
+        "year": 2008,
+        "referenceCount": 10,
+        "citationCount": 44,
+        "authors": [
+          {
+            "authorId": "9998915",
+            "name": "Nenad Morača"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "f98587c9857c28326e718c8cec70963c2f2d64cb",
+        "externalIds": {
+          "MAG": "2168840938",
+          "DBLP": "journals/corr/abs-0810-4401",
+          "ArXiv": "0810.4401",
+          "CorpusId": 39177
+        },
+        "url": "https://www.semanticscholar.org/paper/f98587c9857c28326e718c8cec70963c2f2d64cb",
+        "title": "Efficient Exact Inference in Planar Ising Models",
+        "venue": "Neural Information Processing Systems",
+        "year": 2008,
+        "referenceCount": 53,
+        "citationCount": 85,
+        "authors": [
+          {
+            "authorId": "1739396",
+            "name": "N. Schraudolph"
+          },
+          {
+            "authorId": "3063671",
+            "name": "D. Kamenetsky"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "bfdbe36894d3d02f061adf0df3da62cc55bc5d3c",
+        "externalIds": {
+          "MAG": "2108214478",
+          "DOI": "10.1016/J.APNUM.2007.01.003",
+          "CorpusId": 9023598
+        },
+        "url": "https://www.semanticscholar.org/paper/bfdbe36894d3d02f061adf0df3da62cc55bc5d3c",
+        "title": "An estimator for the diagonal of a matrix",
+        "venue": "",
+        "year": 2007,
+        "referenceCount": 20,
+        "citationCount": 233,
+        "authors": [
+          {
+            "authorId": "48268669",
+            "name": "C. Bekas"
+          },
+          {
+            "authorId": "1788875",
+            "name": "E. Kokiopoulou"
+          },
+          {
+            "authorId": "1765199",
+            "name": "Y. Saad"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "cb30d3dd6521103af6ee3fcba7a8ab2892ab627c",
+        "externalIds": {
+          "MAG": "2008389020",
+          "DOI": "10.1080/10629360600569279",
+          "CorpusId": 120866713
+        },
+        "url": "https://www.semanticscholar.org/paper/cb30d3dd6521103af6ee3fcba7a8ab2892ab627c",
+        "title": "Approximate implementation of the logarithm of the matrix determinant in Gaussian process regression",
+        "venue": "",
+        "year": 2007,
+        "referenceCount": 34,
+        "citationCount": 41,
+        "authors": [
+          {
+            "authorId": "2507239",
+            "name": "Y. Zhang"
+          },
+          {
+            "authorId": "34711979",
+            "name": "W. Leithead"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "b81381d17baf6750c09bd58e96f4660d25be9225",
+        "externalIds": {
+          "MAG": "2169495281",
+          "DBLP": "conf/icml/DavisKJSD07",
+          "DOI": "10.1145/1273496.1273523",
+          "CorpusId": 2261947
+        },
+        "url": "https://www.semanticscholar.org/paper/b81381d17baf6750c09bd58e96f4660d25be9225",
+        "title": "Information-theoretic metric learning",
+        "venue": "International Conference on Machine Learning",
+        "year": 2006,
+        "referenceCount": 24,
+        "citationCount": 2120,
+        "authors": [
+          {
+            "authorId": "2111090524",
+            "name": "Jason V. Davis"
+          },
+          {
+            "authorId": "1692670",
+            "name": "Brian Kulis"
+          },
+          {
+            "authorId": "48964143",
+            "name": "Prateek Jain"
+          },
+          {
+            "authorId": "3072326",
+            "name": "S. Sra"
+          },
+          {
+            "authorId": "1783667",
+            "name": "I. Dhillon"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "d233ae0ab616b400612759fbe59c2b134ab2b334",
+        "externalIds": {
+          "DBLP": "journals/tsp/WainwrightJ06",
+          "MAG": "2135912864",
+          "DOI": "10.1109/TSP.2006.874409",
+          "CorpusId": 9920431
+        },
+        "url": "https://www.semanticscholar.org/paper/d233ae0ab616b400612759fbe59c2b134ab2b334",
+        "title": "Log-determinant relaxation for approximate inference in discrete Markov random fields",
+        "venue": "IEEE Transactions on Signal Processing",
+        "year": 2006,
+        "referenceCount": 30,
+        "citationCount": 104,
+        "authors": [
+          {
+            "authorId": "1721860",
+            "name": "M. Wainwright"
+          },
+          {
+            "authorId": "1694621",
+            "name": "Michael I. Jordan"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "a41db87976000c81240231c23c144601fb089af7",
+        "externalIds": {
+          "DBLP": "conf/icassp/MalioutovJW06",
+          "MAG": "2154812977",
+          "DOI": "10.1109/ICASSP.2006.1660744",
+          "CorpusId": 16942574
+        },
+        "url": "https://www.semanticscholar.org/paper/a41db87976000c81240231c23c144601fb089af7",
+        "title": "Low-Rank Variance Estimation in Large-Scale Gmrf Models",
+        "venue": "2006 IEEE International Conference on Acoustics Speech and Signal Processing Proceedings",
+        "year": 2006,
+        "referenceCount": 5,
+        "citationCount": 18,
+        "authors": [
+          {
+            "authorId": "1688721",
+            "name": "D. Malioutov"
+          },
+          {
+            "authorId": "39869361",
+            "name": "Jason K. Johnson"
+          },
+          {
+            "authorId": "1701607",
+            "name": "A. Willsky"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "7aaf1da7bcd026dfeab04e3fd54b5cf0c6eadcbe",
+        "externalIds": {
+          "ArXiv": "math/0511215",
+          "MAG": "2182529857",
+          "DOI": "10.4007/ANNALS.2009.169.595",
+          "CorpusId": 11577683
+        },
+        "url": "https://www.semanticscholar.org/paper/7aaf1da7bcd026dfeab04e3fd54b5cf0c6eadcbe",
+        "title": "Inverse Littlewood-Offord theorems and the condition number of random discrete matrices",
+        "venue": "",
+        "year": 2005,
+        "referenceCount": 34,
+        "citationCount": 219,
+        "authors": [
+          {
+            "authorId": "50383069",
+            "name": "T. Tao"
+          },
+          {
+            "authorId": "1762760",
+            "name": "V. Vu"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "f714b82aff5370bec8990671b30b9af743b147ba",
+        "externalIds": {
+          "MAG": "1520053542",
+          "DOI": "10.1201/9780203492024",
+          "CorpusId": 60632241
+        },
+        "url": "https://www.semanticscholar.org/paper/f714b82aff5370bec8990671b30b9af743b147ba",
+        "title": "Gaussian Markov Random Fields: Theory and Applications",
+        "venue": "",
+        "year": 2005,
+        "referenceCount": 1,
+        "citationCount": 2487,
+        "authors": [
+          {
+            "authorId": "2194841",
+            "name": "H. Rue"
+          },
+          {
+            "authorId": "144433364",
+            "name": "L. Held"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "b9ffc05bfa7e18829e74a981f792934b21ed8e2b",
+        "externalIds": {
+          "DBLP": "journals/csda/PaceL04",
+          "MAG": "1991085742",
+          "DOI": "10.1016/S0167-9473(02)00321-3",
+          "CorpusId": 43248381
+        },
+        "url": "https://www.semanticscholar.org/paper/b9ffc05bfa7e18829e74a981f792934b21ed8e2b",
+        "title": "Chebyshev approximation of log-determinants of spatial weight matrices",
+        "venue": "Computational Statistics & Data Analysis",
+        "year": 2004,
+        "referenceCount": 18,
+        "citationCount": 121,
+        "authors": [
+          {
+            "authorId": "145232843",
+            "name": "R. Pace"
+          },
+          {
+            "authorId": "2948124",
+            "name": "J. LeSage"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "90b4a195a468ddc934bdcc9bd1650ccbe6931c98",
+        "externalIds": {
+          "MAG": "2102802796",
+          "DOI": "10.1016/S0024-3795(97)10009-X",
+          "CorpusId": 2942278
+        },
+        "url": "https://www.semanticscholar.org/paper/90b4a195a468ddc934bdcc9bd1650ccbe6931c98",
+        "title": "Monte Carlo estimates of the log determinant of large sparse matrices",
+        "venue": "",
+        "year": 1999,
+        "referenceCount": 8,
+        "citationCount": 198,
+        "authors": [
+          {
+            "authorId": "2028942",
+            "name": "Ronald P. Barry"
+          },
+          {
+            "authorId": "145232843",
+            "name": "R. Pace"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "4d40c63bd815e4e70aa71655bcf7b43ca0d5d850",
+        "externalIds": {
+          "DBLP": "journals/siamrev/Ipsen97",
+          "MAG": "2043994139",
+          "DOI": "10.1137/S0036144596300773",
+          "CorpusId": 10368010
+        },
+        "url": "https://www.semanticscholar.org/paper/4d40c63bd815e4e70aa71655bcf7b43ca0d5d850",
+        "title": "Computing an Eigenvector with Inverse Iteration",
+        "venue": "SIAM Review",
+        "year": 1997,
+        "referenceCount": 68,
+        "citationCount": 174,
+        "authors": [
+          {
+            "authorId": "1782770",
+            "name": "Ilse C. F. Ipsen"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "60d9f8df13e9fa0aa0439473f435112525ae30b4",
+        "externalIds": {
+          "CorpusId": 32131964
+        },
+        "url": "https://www.semanticscholar.org/paper/60d9f8df13e9fa0aa0439473f435112525ae30b4",
+        "title": "NORGES TEKNISK-NATURVITENSKAPELIGE UNIVERSITET Parameter Estimation in High Dimensional Gaussian Distributions",
+        "venue": "",
+        "year": 2012,
+        "referenceCount": 40,
+        "citationCount": 61,
+        "authors": [
+          {
+            "authorId": "2150775",
+            "name": "Erlend Aune"
+          },
+          {
+            "authorId": "144418895",
+            "name": "Daniel P. Simpson"
+          },
+          {
+            "authorId": "2078925",
+            "name": "J. Eidsvik"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "24716ee2bf34934e8eb70a7aca4ffa38b544ca81",
+        "externalIds": {
+          "MAG": "2342372809",
+          "CorpusId": 3199817
+        },
+        "url": "https://www.semanticscholar.org/paper/24716ee2bf34934e8eb70a7aca4ffa38b544ca81",
+        "title": "Counting Triangles in Large Graphs using Randomized Matrix Trace Estimation",
+        "venue": "",
+        "year": 2010,
+        "referenceCount": 24,
+        "citationCount": 92,
+        "authors": [
+          {
+            "authorId": "1922753",
+            "name": "H. Avron"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "c4275a592a6ebcf9f667baced442c839644bbf5d",
+        "externalIds": {
+          "DBLP": "journals/siamrev/BerrutT04",
+          "MAG": "1981115560",
+          "DOI": "10.1137/S0036144502417715",
+          "CorpusId": 16245763
+        },
+        "url": "https://www.semanticscholar.org/paper/c4275a592a6ebcf9f667baced442c839644bbf5d",
+        "title": "Barycentric Lagrange Interpolation",
+        "venue": "SIAM Review",
+        "year": 2004,
+        "referenceCount": 70,
+        "citationCount": 1260,
+        "authors": [
+          {
+            "authorId": "2038125",
+            "name": "Jean-Paul Berrut"
+          },
+          {
+            "authorId": "1694904",
+            "name": "L. Trefethen"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "f7f15848cd0fbb3d08f351595da833b1627de9c3",
+        "externalIds": {
+          "MAG": "2604847669",
+          "DBLP": "books/daglib/0013517",
+          "DOI": "10.1109/tit.2004.834752",
+          "CorpusId": 5436619
+        },
+        "url": "https://www.semanticscholar.org/paper/f7f15848cd0fbb3d08f351595da833b1627de9c3",
+        "title": "Information Theory, Inference, and Learning Algorithms",
+        "venue": "IEEE Transactions on Information Theory",
+        "year": 2004,
+        "referenceCount": 231,
+        "citationCount": 10904,
+        "authors": [
+          {
+            "authorId": "145852650",
+            "name": "D. MacKay"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "f5e583952b7fbd0a54c7ac4e5649f83658897376",
+        "externalIds": {
+          "MAG": "1488721024",
+          "DBLP": "books/daglib/0014378",
+          "DOI": "10.1201/9781315272689",
+          "CorpusId": 22644040
+        },
+        "url": "https://www.semanticscholar.org/paper/f5e583952b7fbd0a54c7ac4e5649f83658897376",
+        "title": "Graphs, algorithms and optimization",
+        "venue": "",
+        "year": 2004,
+        "referenceCount": 0,
+        "citationCount": 115,
+        "authors": [
+          {
+            "authorId": "2234866",
+            "name": "W. Kocay"
+          },
+          {
+            "authorId": "2391043",
+            "name": "Donald L. Kreher"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "f5c6fb4aa053da7b394403f7f2d683e57de14bbd",
+        "externalIds": {
+          "DBLP": "journals/jmlr/MeilaJ00",
+          "CorpusId": 5947209
+        },
+        "url": "https://www.semanticscholar.org/paper/f5c6fb4aa053da7b394403f7f2d683e57de14bbd",
+        "title": "Learning with Mixtures of Trees",
+        "venue": "Journal of machine learning research",
+        "year": 2000,
+        "referenceCount": 48,
+        "citationCount": 714,
+        "authors": [
+          {
+            "authorId": "2316129",
+            "name": "M. Meilă"
+          },
+          {
+            "authorId": "1694621",
+            "name": "Michael I. Jordan"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "5537987153925c5968038dc3ed8e195a72c99d5f",
+        "externalIds": {
+          "MAG": "1990457366",
+          "DOI": "10.1080/03610919008812866",
+          "CorpusId": 120969358
+        },
+        "url": "https://www.semanticscholar.org/paper/5537987153925c5968038dc3ed8e195a72c99d5f",
+        "title": "A stochastic estimator of the trace of the influence matrix for laplacian smoothing splines",
+        "venue": "",
+        "year": 1989,
+        "referenceCount": 13,
+        "citationCount": 1150,
+        "authors": [
+          {
+            "authorId": "2928241",
+            "name": "M. Hutchinson"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": "79f850a464fea866621ac45f2aab1bcb86165f15",
+        "externalIds": {
+          "MAG": "2059998776",
+          "DOI": "10.2307/2005983",
+          "CorpusId": 121126784
+        },
+        "url": "https://www.semanticscholar.org/paper/79f850a464fea866621ac45f2aab1bcb86165f15",
+        "title": "The Chebyshev polynomials",
+        "venue": "",
+        "year": 1974,
+        "referenceCount": 0,
+        "citationCount": 2910,
+        "authors": [
+          {
+            "authorId": "3254211",
+            "name": "T. J. Rivlin"
+          }
+        ]
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "Covariance selection",
+        "venue": "Biometrics",
+        "year": 1972,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "Uber die abgrenzung der eigenwerte einer matrix",
+        "venue": "Izvestiya or Russian Academy of Sciences",
+        "year": 1931,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    },
+    {
+      "citedPaper": {
+        "paperId": null,
+        "externalIds": null,
+        "url": null,
+        "title": "URL https://books.google.co.kr/books? id=l5mIro_6RlUC",
+        "venue": "URL https://books.google.co.kr/books? id=l5mIro_6RlUC",
+        "year": null,
+        "referenceCount": null,
+        "citationCount": null,
+        "authors": []
+      }
+    }
+  ]
+}

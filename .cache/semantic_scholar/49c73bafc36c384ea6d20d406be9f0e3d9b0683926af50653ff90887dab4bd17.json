@@ -1,0 +1,296 @@
+{
+  "total": 1945,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "ec8a2f6cfe72309f5f1608d22ec28778d3ee976a",
+      "externalIds": {
+        "DBLP": "journals/corr/ThomasB16",
+        "MAG": "2950404003",
+        "ArXiv": "1604.00923",
+        "CorpusId": 9311215
+      },
+      "url": "https://www.semanticscholar.org/paper/ec8a2f6cfe72309f5f1608d22ec28778d3ee976a",
+      "title": "Data-Efficient Off-Policy Policy Evaluation for Reinforcement Learning",
+      "venue": "International Conference on Machine Learning",
+      "year": 2016,
+      "referenceCount": 42,
+      "citationCount": 626,
+      "authors": [
+        {
+          "authorId": "143640165",
+          "name": "P. Thomas"
+        },
+        {
+          "authorId": "2563117",
+          "name": "E. Brunskill"
+        }
+      ]
+    },
+    {
+      "paperId": "d8e4369d3eda5b010eb8c9da49305d2c087d3547",
+      "externalIds": {
+        "CorpusId": 51998601
+      },
+      "url": "https://www.semanticscholar.org/paper/d8e4369d3eda5b010eb8c9da49305d2c087d3547",
+      "title": "Data-Efficient Off-Policy Policy Evaluation for Reinforcement Learning",
+      "venue": "",
+      "year": 2016,
+      "referenceCount": 0,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "2079349174",
+          "name": "A. Preliminaries"
+        }
+      ]
+    },
+    {
+      "paperId": "956b91873de1d54b4be305b35a4ed00e08247046",
+      "externalIds": {
+        "DBLP": "conf/nips/ZhongZ0AH22",
+        "ArXiv": "2111.14552",
+        "DOI": "10.52202/068431-2709",
+        "CorpusId": 252815873
+      },
+      "url": "https://www.semanticscholar.org/paper/956b91873de1d54b4be305b35a4ed00e08247046",
+      "title": "Robust On-Policy Sampling for Data-Efficient Policy Evaluation in Reinforcement Learning",
+      "venue": "Neural Information Processing Systems",
+      "year": 2021,
+      "referenceCount": 46,
+      "citationCount": 16,
+      "authors": [
+        {
+          "authorId": "2090317112",
+          "name": "Rujie Zhong"
+        },
+        {
+          "authorId": "2109577836",
+          "name": "Duohan Zhang"
+        },
+        {
+          "authorId": "2111681830",
+          "name": "Lukas Schafer"
+        },
+        {
+          "authorId": "1961238",
+          "name": "Stefano V. Albrecht"
+        },
+        {
+          "authorId": "34719248",
+          "name": "Josiah P. Hanna"
+        }
+      ]
+    },
+    {
+      "paperId": "377e32b295b95e8d38976e4f78c953701dc3f1ce",
+      "externalIds": {
+        "MAG": "3037792667",
+        "DBLP": "journals/corr/abs-2001-10742",
+        "ArXiv": "2001.10742",
+        "CorpusId": 210942713
+      },
+      "url": "https://www.semanticscholar.org/paper/377e32b295b95e8d38976e4f78c953701dc3f1ce",
+      "title": "Asymptotically Efficient Off-Policy Evaluation for Tabular Reinforcement Learning",
+      "venue": "International Conference on Artificial Intelligence and Statistics",
+      "year": 2020,
+      "referenceCount": 43,
+      "citationCount": 84,
+      "authors": [
+        {
+          "authorId": "2053888252",
+          "name": "Ming Yin"
+        },
+        {
+          "authorId": "2040617",
+          "name": "Yu-Xiang Wang"
+        }
+      ]
+    },
+    {
+      "paperId": "9947e7632411188273c382897572be86cdb4fb1c",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2410-05655",
+        "ArXiv": "2410.05655",
+        "DOI": "10.48550/arXiv.2410.05655",
+        "CorpusId": 273228515
+      },
+      "url": "https://www.semanticscholar.org/paper/9947e7632411188273c382897572be86cdb4fb1c",
+      "title": "Efficient Policy Evaluation with Safety Constraint for Reinforcement Learning",
+      "venue": "arXiv.org",
+      "year": 2024,
+      "referenceCount": 57,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2324074342",
+          "name": "Claire Chen"
+        },
+        {
+          "authorId": "2135194248",
+          "name": "S. Liu"
+        },
+        {
+          "authorId": "2279599626",
+          "name": "Shangtong Zhang"
+        }
+      ]
+    },
+    {
+      "paperId": "c6ca9921fea66dff0ecde9ddb852d2ae589f6c9c",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2110-15332",
+        "ArXiv": "2110.15332",
+        "DOI": "10.1287/opre.2021.0781",
+        "CorpusId": 240070897
+      },
+      "url": "https://www.semanticscholar.org/paper/c6ca9921fea66dff0ecde9ddb852d2ae589f6c9c",
+      "title": "Proximal Reinforcement Learning: Efficient Off-Policy Evaluation in Partially Observed Markov Decision Processes",
+      "venue": "Operational Research",
+      "year": 2021,
+      "referenceCount": 48,
+      "citationCount": 59,
+      "authors": [
+        {
+          "authorId": "143885573",
+          "name": "Andrew Bennett"
+        },
+        {
+          "authorId": "3174388",
+          "name": "Nathan Kallus"
+        }
+      ]
+    },
+    {
+      "paperId": "4bd6c98a009f4826979bed5fbf40ff54926cad14",
+      "externalIds": {
+        "ArXiv": "2308.14897",
+        "DBLP": "journals/corr/abs-2308-14897",
+        "DOI": "10.48550/arXiv.2308.14897",
+        "CorpusId": 261276287
+      },
+      "url": "https://www.semanticscholar.org/paper/4bd6c98a009f4826979bed5fbf40ff54926cad14",
+      "title": "Statistically Efficient Variance Reduction with Double Policy Estimation for Off-Policy Evaluation in Sequence-Modeled Reinforcement Learning",
+      "venue": "arXiv.org",
+      "year": 2023,
+      "referenceCount": 66,
+      "citationCount": 4,
+      "authors": [
+        {
+          "authorId": "2007579020",
+          "name": "Hanhan Zhou"
+        },
+        {
+          "authorId": "48445858",
+          "name": "Tian Lan"
+        },
+        {
+          "authorId": "1732805",
+          "name": "V. Aggarwal"
+        }
+      ]
+    },
+    {
+      "paperId": "8608bc3e203a4d34cb495069cf0554eda01534d8",
+      "externalIds": {
+        "ArXiv": "2303.17819",
+        "DBLP": "conf/cdc/LopezM23",
+        "DOI": "10.1109/CDC49753.2023.10384256",
+        "CorpusId": 257901154
+      },
+      "url": "https://www.semanticscholar.org/paper/8608bc3e203a4d34cb495069cf0554eda01534d8",
+      "title": "An Efficient Off-Policy Reinforcement Learning Algorithm for the Continuous-Time LQR Problem",
+      "venue": "IEEE Conference on Decision and Control",
+      "year": 2023,
+      "referenceCount": 27,
+      "citationCount": 10,
+      "authors": [
+        {
+          "authorId": "104298187",
+          "name": "V. Lopez"
+        },
+        {
+          "authorId": "4066621",
+          "name": "M. Müller"
+        }
+      ]
+    },
+    {
+      "paperId": "5be486c78595807bd6ba65ab7b4682d6c176f47b",
+      "externalIds": {
+        "DOI": "10.1109/ICMLCN64995.2025.11140172",
+        "CorpusId": 281093592
+      },
+      "url": "https://www.semanticscholar.org/paper/5be486c78595807bd6ba65ab7b4682d6c176f47b",
+      "title": "2OffRAN: Offline Off-Policy Reinforcement Learning for Safe Handover in O-RAN",
+      "venue": "2025 IEEE International Conference on Machine Learning for Communication and Networking (ICMLCN)",
+      "year": 2025,
+      "referenceCount": 17,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2199254563",
+          "name": "Annalisa Navarro"
+        },
+        {
+          "authorId": "2319467187",
+          "name": "Alessio Botta"
+        },
+        {
+          "authorId": "2319476234",
+          "name": "Roberto Canonico"
+        },
+        {
+          "authorId": "2372338552",
+          "name": "Yizhou Wang"
+        },
+        {
+          "authorId": "2319306576",
+          "name": "F. Fitzek"
+        },
+        {
+          "authorId": "2298072178",
+          "name": "Giang T. Nguyen"
+        }
+      ]
+    },
+    {
+      "paperId": "c5a0512c9d2a54e08c93e629b223c99210426338",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2312-15458",
+        "ArXiv": "2312.15458",
+        "DOI": "10.48550/arXiv.2312.15458",
+        "CorpusId": 266551886
+      },
+      "url": "https://www.semanticscholar.org/paper/c5a0512c9d2a54e08c93e629b223c99210426338",
+      "title": "Conservative Exploration for Policy Optimization via Off-Policy Policy Evaluation",
+      "venue": "arXiv.org",
+      "year": 2023,
+      "referenceCount": 78,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2165870046",
+          "name": "Paul Daoudi"
+        },
+        {
+          "authorId": "2276435382",
+          "name": "Mathias Formoso"
+        },
+        {
+          "authorId": "2052020430",
+          "name": "Othman Gaizi"
+        },
+        {
+          "authorId": "2052020438",
+          "name": "Achraf Azize"
+        },
+        {
+          "authorId": "51122019",
+          "name": "Evrard Garcelon"
+        }
+      ]
+    }
+  ]
+}

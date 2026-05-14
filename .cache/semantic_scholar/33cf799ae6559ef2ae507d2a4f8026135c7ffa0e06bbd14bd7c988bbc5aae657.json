@@ -1,0 +1,288 @@
+{
+  "total": 13,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "d3aaa9dd1c1a3b07c613a69466c86e6443babac4",
+      "externalIds": {
+        "MAG": "1701974503",
+        "DBLP": "conf/icml/LakshmananOR15",
+        "CorpusId": 13900224
+      },
+      "url": "https://www.semanticscholar.org/paper/d3aaa9dd1c1a3b07c613a69466c86e6443babac4",
+      "title": "Improved Regret Bounds for Undiscounted Continuous Reinforcement Learning",
+      "venue": "International Conference on Machine Learning",
+      "year": 2015,
+      "referenceCount": 32,
+      "citationCount": 39,
+      "authors": [
+        {
+          "authorId": "33578174",
+          "name": "K. Lakshmanan"
+        },
+        {
+          "authorId": "1786887",
+          "name": "R. Ortner"
+        },
+        {
+          "authorId": "1757258",
+          "name": "D. Ryabko"
+        }
+      ]
+    },
+    {
+      "paperId": "91bd5deb13e9487a69b347c71788c3d60acd73cf",
+      "externalIds": {
+        "DBLP": "conf/nips/OrtnerR12",
+        "MAG": "2133419240",
+        "ArXiv": "1302.2550",
+        "CorpusId": 536728
+      },
+      "url": "https://www.semanticscholar.org/paper/91bd5deb13e9487a69b347c71788c3d60acd73cf",
+      "title": "Online Regret Bounds for Undiscounted Continuous Reinforcement Learning",
+      "venue": "Neural Information Processing Systems",
+      "year": 2012,
+      "referenceCount": 24,
+      "citationCount": 87,
+      "authors": [
+        {
+          "authorId": "1786887",
+          "name": "R. Ortner"
+        },
+        {
+          "authorId": "1757258",
+          "name": "D. Ryabko"
+        }
+      ]
+    },
+    {
+      "paperId": "4bcfc5a34a22363881b54a906a1dd5040cf0a22e",
+      "externalIds": {
+        "MAG": "2798353754",
+        "DBLP": "conf/alt/TalebiM18",
+        "ArXiv": "1803.01626",
+        "CorpusId": 3701414
+      },
+      "url": "https://www.semanticscholar.org/paper/4bcfc5a34a22363881b54a906a1dd5040cf0a22e",
+      "title": "Variance-Aware Regret Bounds for Undiscounted Reinforcement Learning in MDPs",
+      "venue": "International Conference on Algorithmic Learning Theory",
+      "year": 2018,
+      "referenceCount": 21,
+      "citationCount": 77,
+      "authors": [
+        {
+          "authorId": "47181013",
+          "name": "M. S. Talebi"
+        },
+        {
+          "authorId": "1794867",
+          "name": "Odalric-Ambrym Maillard"
+        }
+      ]
+    },
+    {
+      "paperId": "79d519d69ed9a3d4e06e9eab098c8f24eff25cf0",
+      "externalIds": {
+        "MAG": "2804569092",
+        "DBLP": "conf/icml/AbeilleL18",
+        "CorpusId": 51876206
+      },
+      "url": "https://www.semanticscholar.org/paper/79d519d69ed9a3d4e06e9eab098c8f24eff25cf0",
+      "title": "Improved Regret Bounds for Thompson Sampling in Linear Quadratic Control Problems",
+      "venue": "International Conference on Machine Learning",
+      "year": 2018,
+      "referenceCount": 26,
+      "citationCount": 100,
+      "authors": [
+        {
+          "authorId": "7265341",
+          "name": "Marc Abeille"
+        },
+        {
+          "authorId": "3254390",
+          "name": "A. Lazaric"
+        }
+      ]
+    },
+    {
+      "paperId": "05d4b8eb2a1875cf8570b0d00c372fcfd7d03bb3",
+      "externalIds": {
+        "ArXiv": "2510.12939",
+        "DBLP": "journals/corr/abs-2510-12939",
+        "DOI": "10.48550/arXiv.2510.12939",
+        "CorpusId": 282102623
+      },
+      "url": "https://www.semanticscholar.org/paper/05d4b8eb2a1875cf8570b0d00c372fcfd7d03bb3",
+      "title": "Pruning Cannot Hurt Robustness: Certified Trade-offs in Reinforcement Learning",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "referenceCount": 77,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2385787109",
+          "name": "James K. Pedley"
+        },
+        {
+          "authorId": "2308955887",
+          "name": "Ben Etheridge"
+        },
+        {
+          "authorId": "2336873249",
+          "name": "Stephen J. Roberts"
+        },
+        {
+          "authorId": "2354179582",
+          "name": "Francesco Quinzan"
+        }
+      ]
+    },
+    {
+      "paperId": "e8c26a2e4aac3b05781865add4450d67fbd0ba7b",
+      "externalIds": {
+        "ArXiv": "2603.09208",
+        "CorpusId": 286423993
+      },
+      "url": "https://www.semanticscholar.org/paper/e8c26a2e4aac3b05781865add4450d67fbd0ba7b",
+      "title": "Strategically Robust Multi-Agent Reinforcement Learning with Linear Function Approximation",
+      "venue": "",
+      "year": 2026,
+      "referenceCount": 63,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2265418502",
+          "name": "Jake Gonzales"
+        },
+        {
+          "authorId": "2395994922",
+          "name": "Maxim D. Horwitz"
+        },
+        {
+          "authorId": "3371636",
+          "name": "Eric V. Mazumdar"
+        },
+        {
+          "authorId": "2293615520",
+          "name": "Lillian J. Ratliff"
+        }
+      ]
+    },
+    {
+      "paperId": "bfc231c391024cd59311f6114d897d112bf6aa79",
+      "externalIds": {
+        "ArXiv": "2603.25138",
+        "CorpusId": 286789988
+      },
+      "url": "https://www.semanticscholar.org/paper/bfc231c391024cd59311f6114d897d112bf6aa79",
+      "title": "Reinforcement learning for quantum processes with memory",
+      "venue": "",
+      "year": 2026,
+      "referenceCount": 0,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2284690230",
+          "name": "Josep Lumbreras"
+        },
+        {
+          "authorId": "2175322470",
+          "name": "R. Huang"
+        },
+        {
+          "authorId": "2287015274",
+          "name": "Yanglin Hu"
+        },
+        {
+          "authorId": "90286913",
+          "name": "Marco Fanizza"
+        },
+        {
+          "authorId": "2258959097",
+          "name": "Mile Gu"
+        }
+      ]
+    },
+    {
+      "paperId": "3fae67e63e87ee78883f4345a9d687d07539c3e1",
+      "externalIds": {
+        "DBLP": "conf/nips/ChoJL024",
+        "ArXiv": "2408.04498",
+        "DOI": "10.48550/arXiv.2408.04498",
+        "CorpusId": 271769279
+      },
+      "url": "https://www.semanticscholar.org/paper/3fae67e63e87ee78883f4345a9d687d07539c3e1",
+      "title": "Model-Based Transfer Learning for Contextual Reinforcement Learning",
+      "venue": "Neural Information Processing Systems",
+      "year": 2024,
+      "referenceCount": 58,
+      "citationCount": 9,
+      "authors": [
+        {
+          "authorId": "2265666138",
+          "name": "Jung-Hoon Cho"
+        },
+        {
+          "authorId": "19217077",
+          "name": "V. Jayawardana"
+        },
+        {
+          "authorId": "2118156654",
+          "name": "Sirui Li"
+        },
+        {
+          "authorId": "2265931802",
+          "name": "Cathy Wu"
+        }
+      ]
+    },
+    {
+      "paperId": "b61c60d75f25c8b8cf23131f82d6efaced2ad3cc",
+      "externalIds": {
+        "ArXiv": "2210.02087",
+        "DBLP": "journals/corr/abs-2210-02087",
+        "DOI": "10.48550/arXiv.2210.02087",
+        "CorpusId": 252715956
+      },
+      "url": "https://www.semanticscholar.org/paper/b61c60d75f25c8b8cf23131f82d6efaced2ad3cc",
+      "title": "Bilinear Exponential Family of MDPs: Frequentist Regret Bound with Tractable Exploration and Planning",
+      "venue": "AAAI Conference on Artificial Intelligence",
+      "year": 2022,
+      "referenceCount": 48,
+      "citationCount": 14,
+      "authors": [
+        {
+          "authorId": "1993510428",
+          "name": "Reda Ouhamma"
+        },
+        {
+          "authorId": "3214072",
+          "name": "D. Basu"
+        },
+        {
+          "authorId": "1794867",
+          "name": "Odalric-Ambrym Maillard"
+        }
+      ]
+    },
+    {
+      "paperId": "a43a869dad3816cdaa046dcd079f9d57e0f5359f",
+      "externalIds": {
+        "CorpusId": 18196927
+      },
+      "url": "https://www.semanticscholar.org/paper/a43a869dad3816cdaa046dcd079f9d57e0f5359f",
+      "title": "Final Report: Structure in Reinforcement Learning",
+      "venue": "",
+      "year": 2013,
+      "referenceCount": 12,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "1786887",
+          "name": "R. Ortner"
+        }
+      ]
+    }
+  ]
+}

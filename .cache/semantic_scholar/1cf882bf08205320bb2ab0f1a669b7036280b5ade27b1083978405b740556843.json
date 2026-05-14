@@ -1,0 +1,307 @@
+{
+  "total": 65,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "bef149935f994883b6d27d34597424612f848e39",
+      "externalIds": {
+        "DBLP": "conf/icml/ParkNZSD15",
+        "ArXiv": "1507.04457",
+        "MAG": "643977996",
+        "CorpusId": 1172140
+      },
+      "url": "https://www.semanticscholar.org/paper/bef149935f994883b6d27d34597424612f848e39",
+      "title": "Preference Completion: Large-scale Collaborative Ranking from Pairwise Comparisons",
+      "venue": "International Conference on Machine Learning",
+      "year": 2015,
+      "referenceCount": 38,
+      "citationCount": 79,
+      "authors": [
+        {
+          "authorId": "13453640",
+          "name": "Dohyung Park"
+        },
+        {
+          "authorId": "1836319",
+          "name": "Joe Neeman"
+        },
+        {
+          "authorId": "2117170157",
+          "name": "Jin Zhang"
+        },
+        {
+          "authorId": "1701677",
+          "name": "S. Sanghavi"
+        },
+        {
+          "authorId": "1783667",
+          "name": "I. Dhillon"
+        }
+      ]
+    },
+    {
+      "paperId": "33a501f5c22d23fda42d3aff8ec164d61867a006",
+      "externalIds": {
+        "DOI": "10.31586/jaibd.2025.6036",
+        "CorpusId": 276889750
+      },
+      "url": "https://www.semanticscholar.org/paper/33a501f5c22d23fda42d3aff8ec164d61867a006",
+      "title": "Advancing Preference Learning in AI: Beyond Pairwise Comparisons",
+      "venue": "Universal Journal of Computer Sciences and Communications",
+      "year": 2025,
+      "referenceCount": 12,
+      "citationCount": 9,
+      "authors": [
+        {
+          "authorId": "2345573993",
+          "name": "Prudhvi Naayini"
+        },
+        {
+          "authorId": "2336805523",
+          "name": "Anil Kumar Jonnalagadda"
+        },
+        {
+          "authorId": "2345457632",
+          "name": "Srikanth Kamatala"
+        }
+      ]
+    },
+    {
+      "paperId": "3f07e3956a15a1a86a12ae2581b8d6d5f743ac77",
+      "externalIds": {
+        "DBLP": "journals/tfs/LiangLZC24",
+        "DOI": "10.1109/TFUZZ.2024.3375863",
+        "CorpusId": 268565364
+      },
+      "url": "https://www.semanticscholar.org/paper/3f07e3956a15a1a86a12ae2581b8d6d5f743ac77",
+      "title": "Mining Maximum Ordinal–Cardinal Consensus for Large-Scale Group Decision Making With Incomplete Fuzzy Preference Relations",
+      "venue": "IEEE transactions on fuzzy systems",
+      "year": 2024,
+      "referenceCount": 38,
+      "citationCount": 26,
+      "authors": [
+        {
+          "authorId": "2292458876",
+          "name": "Qian Liang"
+        },
+        {
+          "authorId": "2112755091",
+          "name": "Chenyu Luo"
+        },
+        {
+          "authorId": "2292657139",
+          "name": "Zhen Zhang"
+        },
+        {
+          "authorId": "2292508213",
+          "name": "Dong Cheng"
+        }
+      ]
+    },
+    {
+      "paperId": "d0ecb7cc98d3405406e2b5729c901e94ae16db92",
+      "externalIds": {
+        "DBLP": "conf/kdd/WuHS17",
+        "MAG": "2745068631",
+        "DOI": "10.1145/3097983.3098071",
+        "CorpusId": 20884826
+      },
+      "url": "https://www.semanticscholar.org/paper/d0ecb7cc98d3405406e2b5729c901e94ae16db92",
+      "title": "Large-scale Collaborative Ranking in Near-Linear Time",
+      "venue": "Knowledge Discovery and Data Mining",
+      "year": 2017,
+      "referenceCount": 27,
+      "citationCount": 20,
+      "authors": [
+        {
+          "authorId": "2326354223",
+          "name": "Liwei Wu"
+        },
+        {
+          "authorId": "1793529",
+          "name": "Cho-Jui Hsieh"
+        },
+        {
+          "authorId": "1745601",
+          "name": "J. Sharpnack"
+        }
+      ]
+    },
+    {
+      "paperId": "9a6f93492b0e9fd85280dddcb2c8f946975b3e4b",
+      "externalIds": {
+        "MAG": "2851004352",
+        "CorpusId": 13927470
+      },
+      "url": "https://www.semanticscholar.org/paper/9a6f93492b0e9fd85280dddcb2c8f946975b3e4b",
+      "title": "Ranking from Pairwise Comparisons : The Role of the Pairwise Preference Matrix",
+      "venue": "",
+      "year": 2016,
+      "referenceCount": 25,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "143952254",
+          "name": "A. Rajkumar"
+        }
+      ]
+    },
+    {
+      "paperId": "1f1afb65e95197e2efe0bacf21042ff7cc2b4f22",
+      "externalIds": {
+        "MAG": "3139463790",
+        "DOI": "10.1016/J.ACHA.2021.03.004",
+        "CorpusId": 233688604
+      },
+      "url": "https://www.semanticscholar.org/paper/1f1afb65e95197e2efe0bacf21042ff7cc2b4f22",
+      "title": "Ranking recovery from limited pairwise comparisons using low-rank matrix completion",
+      "venue": "",
+      "year": 2021,
+      "referenceCount": 14,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "145426519",
+          "name": "Tal Levy"
+        },
+        {
+          "authorId": "2079700290",
+          "name": "Alireza Vahid"
+        },
+        {
+          "authorId": "2711839",
+          "name": "R. Giryes"
+        }
+      ]
+    },
+    {
+      "paperId": "3a17045b6730cc2079b0f8f91e58e18de7c3fdc9",
+      "externalIds": {
+        "ArXiv": "2603.17588",
+        "CorpusId": 286643661
+      },
+      "url": "https://www.semanticscholar.org/paper/3a17045b6730cc2079b0f8f91e58e18de7c3fdc9",
+      "title": "From Isolated Scoring to Collaborative Ranking: A Comparison-Native Framework for LLM-Based Paper Evaluation",
+      "venue": "",
+      "year": 2026,
+      "referenceCount": 37,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2424473878",
+          "name": "P. Zheng"
+        },
+        {
+          "authorId": "2348073356",
+          "name": "Jiacheng Yao"
+        },
+        {
+          "authorId": "2424609965",
+          "name": "Jinquan Zheng"
+        },
+        {
+          "authorId": "2292393392",
+          "name": "Chenya Gu"
+        },
+        {
+          "authorId": "46180236",
+          "name": "Guoxiu He"
+        },
+        {
+          "authorId": "48210950",
+          "name": "Jiawei Liu"
+        },
+        {
+          "authorId": "2364679070",
+          "name": "Yong Huang"
+        },
+        {
+          "authorId": "2313101701",
+          "name": "Tian Guo"
+        },
+        {
+          "authorId": "2267203042",
+          "name": "Wei Lu"
+        }
+      ]
+    },
+    {
+      "paperId": "b53bfad3248f9ab522325d0c785454ba21dad75d",
+      "externalIds": {
+        "DOI": "10.21528/cbic2021-13",
+        "CorpusId": 243964294
+      },
+      "url": "https://www.semanticscholar.org/paper/b53bfad3248f9ab522325d0c785454ba21dad75d",
+      "title": "Learning Pairwise Comparisons with Machine Learning for Large-Scale Multi-Criteria Decision Making Problems",
+      "venue": "Anais do 15. Congresso Brasileiro de Inteligência Computacional",
+      "year": 2021,
+      "referenceCount": 0,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "2065914697",
+          "name": "M. A. Alves"
+        },
+        {
+          "authorId": "8445914",
+          "name": "Ivan Reinaldo Meneghini"
+        },
+        {
+          "authorId": "1717244",
+          "name": "F. Guimarães"
+        }
+      ]
+    },
+    {
+      "paperId": "f37ec2bdfd6b2afabd0a9e9c116575fd0dcccfa5",
+      "externalIds": {
+        "MAG": "2746896242",
+        "DBLP": "conf/interspeech/Baumann17",
+        "DOI": "10.21437/Interspeech.2017-1697",
+        "CorpusId": 42631326
+      },
+      "url": "https://www.semanticscholar.org/paper/f37ec2bdfd6b2afabd0a9e9c116575fd0dcccfa5",
+      "title": "Large-Scale Speaker Ranking from Crowdsourced Pairwise Listener Ratings",
+      "venue": "Interspeech",
+      "year": 2017,
+      "referenceCount": 14,
+      "citationCount": 11,
+      "authors": [
+        {
+          "authorId": "8800150",
+          "name": "Timo Baumann"
+        }
+      ]
+    },
+    {
+      "paperId": "47e0970d43c0c7733e929e2f5e5a83e210444e5d",
+      "externalIds": {
+        "MAG": "3027047177",
+        "DBLP": "journals/tkdd/DongYS20",
+        "DOI": "10.1145/3372407",
+        "CorpusId": 211104852
+      },
+      "url": "https://www.semanticscholar.org/paper/47e0970d43c0c7733e929e2f5e5a83e210444e5d",
+      "title": "Ranking from Crowdsourced Pairwise Comparisons via Smoothed Riemannian Optimization",
+      "venue": "ACM Transactions on Knowledge Discovery from Data",
+      "year": 2020,
+      "referenceCount": 56,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "49458505",
+          "name": "Jialin Dong"
+        },
+        {
+          "authorId": "27554019",
+          "name": "Kai-Ts'ung Yang"
+        },
+        {
+          "authorId": "1754997",
+          "name": "Yuanming Shi"
+        }
+      ]
+    }
+  ]
+}

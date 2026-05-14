@@ -1,0 +1,57 @@
+{
+  "total": 2,
+  "offset": 0,
+  "data": [
+    {
+      "paperId": "cb229b3fc95dba7e77fb9204dbf82afae376b3cf",
+      "externalIds": {
+        "MAG": "2788110787",
+        "ArXiv": "1802.07207",
+        "DBLP": "conf/icml/AlaaS18a",
+        "CorpusId": 137199
+      },
+      "url": "https://www.semanticscholar.org/paper/cb229b3fc95dba7e77fb9204dbf82afae376b3cf",
+      "title": "AutoPrognosis: Automated Clinical Prognostic Modeling via Bayesian Optimization with Structured Kernel Learning",
+      "venue": "International Conference on Machine Learning",
+      "year": 2018,
+      "referenceCount": 40,
+      "citationCount": 102,
+      "authors": [
+        {
+          "authorId": "145629795",
+          "name": "Ahmed M. Alaa"
+        },
+        {
+          "authorId": "1729969",
+          "name": "M. Schaar"
+        }
+      ]
+    },
+    {
+      "paperId": "95e3c857b99520147077173a13ac0941758b7478",
+      "externalIds": {
+        "MAG": "2883161521",
+        "PubMedCentral": "6062529",
+        "DOI": "10.1038/s41598-018-29523-2",
+        "CorpusId": 50783216,
+        "PubMed": "30050169"
+      },
+      "url": "https://www.semanticscholar.org/paper/95e3c857b99520147077173a13ac0941758b7478",
+      "title": "Prognostication and Risk Factors for Cystic Fibrosis via Automated Machine Learning",
+      "venue": "Scientific Reports",
+      "year": 2018,
+      "referenceCount": 64,
+      "citationCount": 61,
+      "authors": [
+        {
+          "authorId": "145629795",
+          "name": "Ahmed M. Alaa"
+        },
+        {
+          "authorId": "1753599243",
+          "name": "M. van der Schaar"
+        }
+      ]
+    }
+  ]
+}

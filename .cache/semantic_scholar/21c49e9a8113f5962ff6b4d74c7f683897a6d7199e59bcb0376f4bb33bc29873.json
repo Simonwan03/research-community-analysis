@@ -1,0 +1,349 @@
+{
+  "total": 19,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "5aea95e1ae78a66474051a330ded374e199b658c",
+      "externalIds": {
+        "MAG": "2804057010",
+        "ArXiv": "1806.03536",
+        "DBLP": "conf/icml/XuLTSKJ18",
+        "CorpusId": 47018956
+      },
+      "url": "https://www.semanticscholar.org/paper/5aea95e1ae78a66474051a330ded374e199b658c",
+      "title": "Representation Learning on Graphs with Jumping Knowledge Networks",
+      "venue": "International Conference on Machine Learning",
+      "year": 2018,
+      "referenceCount": 36,
+      "citationCount": 2328,
+      "authors": [
+        {
+          "authorId": "3360632",
+          "name": "Keyulu Xu"
+        },
+        {
+          "authorId": "2047150637",
+          "name": "Chengtao Li"
+        },
+        {
+          "authorId": "2476765",
+          "name": "Yonglong Tian"
+        },
+        {
+          "authorId": "2811963",
+          "name": "Tomohiro Sonobe"
+        },
+        {
+          "authorId": "1743527",
+          "name": "K. Kawarabayashi"
+        },
+        {
+          "authorId": "2594093",
+          "name": "S. Jegelka"
+        }
+      ]
+    },
+    {
+      "paperId": "65e6a0c317e29e8664a8cb6bcc66a3cc4d88ae1c",
+      "externalIds": {
+        "CorpusId": 260444783
+      },
+      "url": "https://www.semanticscholar.org/paper/65e6a0c317e29e8664a8cb6bcc66a3cc4d88ae1c",
+      "title": "Representation Learning on Graphs with Jumping Knowledge Networks",
+      "venue": "",
+      "year": 2018,
+      "referenceCount": 0,
+      "citationCount": 19,
+      "authors": []
+    },
+    {
+      "paperId": "ee43423eec716888aa86875f77366bdcbb4a16b7",
+      "externalIds": {
+        "DBLP": "journals/apin/YangZTH22",
+        "DOI": "10.1007/s10489-021-02889-z",
+        "CorpusId": 246311874
+      },
+      "url": "https://www.semanticscholar.org/paper/ee43423eec716888aa86875f77366bdcbb4a16b7",
+      "title": "Graph representation learning via simple jumping knowledge networks",
+      "venue": "Applied intelligence (Boston)",
+      "year": 2022,
+      "referenceCount": 68,
+      "citationCount": 8,
+      "authors": [
+        {
+          "authorId": "2156127930",
+          "name": "Fei Yang"
+        },
+        {
+          "authorId": "1931070",
+          "name": "Huyin Zhang"
+        },
+        {
+          "authorId": "2147350588",
+          "name": "Shiming Tao"
+        },
+        {
+          "authorId": "2057404396",
+          "name": "Sheng Hao"
+        }
+      ]
+    },
+    {
+      "paperId": "e0fec84c41ba7ac74b4008b87a1c93d671d2d106",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2501-18439",
+        "ArXiv": "2501.18439",
+        "DOI": "10.48550/arXiv.2501.18439",
+        "CorpusId": 275993724
+      },
+      "url": "https://www.semanticscholar.org/paper/e0fec84c41ba7ac74b4008b87a1c93d671d2d106",
+      "title": "MolGraph-xLSTM: A graph-based dual-level xLSTM framework with multi-head mixture-of-experts for enhanced molecular representation and interpretability",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "referenceCount": 0,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2196446380",
+          "name": "Y. Sun"
+        },
+        {
+          "authorId": "2342985659",
+          "name": "Yutong Lu"
+        },
+        {
+          "authorId": "2292974681",
+          "name": "Yan Yi Li"
+        },
+        {
+          "authorId": "2342913448",
+          "name": "Zihao Jing"
+        },
+        {
+          "authorId": "2252336309",
+          "name": "C. K. Leung"
+        },
+        {
+          "authorId": "2344046267",
+          "name": "Pingzhao Hu"
+        }
+      ]
+    },
+    {
+      "paperId": "6a571805216ef673ef8afb877bf58178f2f88cf9",
+      "externalIds": {
+        "PubMedCentral": "12480901",
+        "DOI": "10.1038/s42004-025-01683-z",
+        "CorpusId": 281677814,
+        "PubMed": "41023138"
+      },
+      "url": "https://www.semanticscholar.org/paper/6a571805216ef673ef8afb877bf58178f2f88cf9",
+      "title": "MolGraph-xLSTM as a graph-based dual-level xLSTM framework for enhanced molecular representation and interpretability",
+      "venue": "Communications Chemistry",
+      "year": 2025,
+      "referenceCount": 38,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2196446380",
+          "name": "Y. Sun"
+        },
+        {
+          "authorId": "2342985659",
+          "name": "Yutong Lu"
+        },
+        {
+          "authorId": "2292974681",
+          "name": "Yan Yi Li"
+        },
+        {
+          "authorId": "2342913448",
+          "name": "Zihao Jing"
+        },
+        {
+          "authorId": "2252336309",
+          "name": "C. K. Leung"
+        },
+        {
+          "authorId": "2344046267",
+          "name": "Pingzhao Hu"
+        }
+      ]
+    },
+    {
+      "paperId": "9f2aa043021589ba2219e9c25e7a47d0e25b4de8",
+      "externalIds": {
+        "DOI": "10.1038/s41598-026-43782-4",
+        "CorpusId": 286582559,
+        "PubMed": "41840095"
+      },
+      "url": "https://www.semanticscholar.org/paper/9f2aa043021589ba2219e9c25e7a47d0e25b4de8",
+      "title": "A dual-branch graph neural network architecture for drug-target binding affinity prediction.",
+      "venue": "Scientific Reports",
+      "year": 2026,
+      "referenceCount": 53,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "32499031",
+          "name": "Khushnood Abbas"
+        },
+        {
+          "authorId": "2376313943",
+          "name": "Chen Hao"
+        },
+        {
+          "authorId": "2064973015",
+          "name": "Dong Shi"
+        },
+        {
+          "authorId": "2118883230",
+          "name": "Wengang Zhou"
+        },
+        {
+          "authorId": "2303430600",
+          "name": "Yong Tang"
+        },
+        {
+          "authorId": "2341472647",
+          "name": "Shayla Islam"
+        },
+        {
+          "authorId": "2362529692",
+          "name": "M. Hasan"
+        },
+        {
+          "authorId": "1576494489",
+          "name": "S. N. H. S. Abdullah"
+        },
+        {
+          "authorId": "2321026791",
+          "name": "Ruizhe Hou"
+        }
+      ]
+    },
+    {
+      "paperId": "39b34cac3de9a08b3ac0e4f1ba84175537561b26",
+      "externalIds": {
+        "DBLP": "journals/tcbb/LiWYHYW23",
+        "DOI": "10.1109/TCBB.2022.3196394",
+        "CorpusId": 251316713,
+        "PubMed": "35925844"
+      },
+      "url": "https://www.semanticscholar.org/paper/39b34cac3de9a08b3ac0e4f1ba84175537561b26",
+      "title": "Predicting MiRNA-Disease Associations by Graph Representation Learning Based on Jumping Knowledge Networks",
+      "venue": "IEEE/ACM Transactions on Computational Biology & Bioinformatics",
+      "year": 2022,
+      "referenceCount": 40,
+      "citationCount": 4,
+      "authors": [
+        {
+          "authorId": "49969574",
+          "name": "Zhengwei Li"
+        },
+        {
+          "authorId": null,
+          "name": "Qian-Kun Wang"
+        },
+        {
+          "authorId": "2180388377",
+          "name": "Chang-An Yuan"
+        },
+        {
+          "authorId": "144433445",
+          "name": "Peng Han"
+        },
+        {
+          "authorId": "144640870",
+          "name": "Zhuhong You"
+        },
+        {
+          "authorId": "2152507110",
+          "name": "Lei Wang"
+        }
+      ]
+    },
+    {
+      "paperId": "d0bda451abf7a12459b59dcd5e046446f106fe42",
+      "externalIds": {
+        "PubMedCentral": "12092704",
+        "DOI": "10.1038/s41598-025-00603-4",
+        "CorpusId": 278771143,
+        "PubMed": "40394054"
+      },
+      "url": "https://www.semanticscholar.org/paper/d0bda451abf7a12459b59dcd5e046446f106fe42",
+      "title": "Jumping knowledge graph attention network for resource allocation in wireless cellular system",
+      "venue": "Scientific Reports",
+      "year": 2025,
+      "referenceCount": 31,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "2374017324",
+          "name": "Qiushi Sun"
+        },
+        {
+          "authorId": "2382858540",
+          "name": "Zhou Fang"
+        },
+        {
+          "authorId": "2331145103",
+          "name": "Yin Li"
+        },
+        {
+          "authorId": "50822588",
+          "name": "Ovanes L. Petrosian"
+        }
+      ]
+    },
+    {
+      "paperId": "2a82d51e83863fc197489492ec0dc4478d1454d8",
+      "externalIds": {
+        "DOI": "10.3389/fgene.2026.1803456",
+        "CorpusId": 287228894
+      },
+      "url": "https://www.semanticscholar.org/paper/2a82d51e83863fc197489492ec0dc4478d1454d8",
+      "title": "MoJKNet: a jumping knowledge graph framework for multi-omics cancer subtype prediction",
+      "venue": "Frontiers in Genetics",
+      "year": 2026,
+      "referenceCount": 25,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "150152392",
+          "name": "Jiangjie Lou"
+        },
+        {
+          "authorId": "2296706035",
+          "name": "Xiaoguang Pan"
+        },
+        {
+          "authorId": "2300427601",
+          "name": "Xuan Wang"
+        }
+      ]
+    },
+    {
+      "paperId": "d23eea93bfc7ec9ba7f9ab0ae4a476c408e08f03",
+      "externalIds": {
+        "ArXiv": "2211.03666",
+        "DBLP": "journals/corr/abs-2211-03666",
+        "DOI": "10.48550/arXiv.2211.03666",
+        "CorpusId": 253383852
+      },
+      "url": "https://www.semanticscholar.org/paper/d23eea93bfc7ec9ba7f9ab0ae4a476c408e08f03",
+      "title": "Application of Graph Neural Networks and graph descriptors for graph classification",
+      "venue": "arXiv.org",
+      "year": 2022,
+      "referenceCount": 110,
+      "citationCount": 6,
+      "authors": [
+        {
+          "authorId": "49200359",
+          "name": "J. Adamczyk"
+        }
+      ]
+    }
+  ]
+}

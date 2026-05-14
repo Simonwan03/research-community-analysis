@@ -1,0 +1,325 @@
+{
+  "total": 100,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "386e71eba94909962d6817a912814fe60d5cfdd0",
+      "externalIds": {
+        "MAG": "2952650019",
+        "ArXiv": "1708.00075",
+        "DBLP": "conf/icml/HazanSZ17",
+        "CorpusId": 9629367
+      },
+      "url": "https://www.semanticscholar.org/paper/386e71eba94909962d6817a912814fe60d5cfdd0",
+      "title": "Efficient Regret Minimization in Non-Convex Games",
+      "venue": "International Conference on Machine Learning",
+      "year": 2017,
+      "referenceCount": 23,
+      "citationCount": 112,
+      "authors": [
+        {
+          "authorId": "34840427",
+          "name": "Elad Hazan"
+        },
+        {
+          "authorId": "2109143637",
+          "name": "Karan Singh"
+        },
+        {
+          "authorId": "15943185",
+          "name": "Cyril Zhang"
+        }
+      ]
+    },
+    {
+      "paperId": "f50a4e47777250ed401f534788eeda1da2131be9",
+      "externalIds": {
+        "ArXiv": "2412.20291",
+        "DBLP": "conf/stoc/DaskalakisFFPS25",
+        "DOI": "10.1145/3717823.3718307",
+        "CorpusId": 275133327
+      },
+      "url": "https://www.semanticscholar.org/paper/f50a4e47777250ed401f534788eeda1da2131be9",
+      "title": "Efficient Learning and Computation of Linear Correlated Equilibrium in General Convex Games",
+      "venue": "Symposium on the Theory of Computing",
+      "year": 2024,
+      "referenceCount": 37,
+      "citationCount": 13,
+      "authors": [
+        {
+          "authorId": "2257292502",
+          "name": "Constantinos Daskalakis"
+        },
+        {
+          "authorId": "2264526252",
+          "name": "Gabriele Farina"
+        },
+        {
+          "authorId": "147465989",
+          "name": "Maxwell Fishelson"
+        },
+        {
+          "authorId": "2182292321",
+          "name": "Charilaos Pipis"
+        },
+        {
+          "authorId": "2337867359",
+          "name": "Jon Schneider"
+        }
+      ]
+    },
+    {
+      "paperId": "0df5c1037ab564835d1fba29682fed2af4418e37",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2602-06264",
+        "ArXiv": "2602.06264",
+        "DOI": "10.48550/arXiv.2602.06264",
+        "CorpusId": 285401317
+      },
+      "url": "https://www.semanticscholar.org/paper/0df5c1037ab564835d1fba29682fed2af4418e37",
+      "title": "Swap Regret Minimization Through Response-Based Approachability",
+      "venue": "arXiv.org",
+      "year": 2026,
+      "referenceCount": 62,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2219683434",
+          "name": "I. Anagnostides"
+        },
+        {
+          "authorId": "2264526252",
+          "name": "Gabriele Farina"
+        },
+        {
+          "authorId": "147465989",
+          "name": "Maxwell Fishelson"
+        },
+        {
+          "authorId": "2263917305",
+          "name": "Haipeng Luo"
+        },
+        {
+          "authorId": "2337867359",
+          "name": "Jon Schneider"
+        }
+      ]
+    },
+    {
+      "paperId": "e71022ef6537e0f4d762fe6d416438b0814af474",
+      "externalIds": {
+        "ArXiv": "2502.20229",
+        "DBLP": "conf/sigecom/Arunachaleswaran25",
+        "DOI": "10.1145/3736252.3742511",
+        "CorpusId": 276647858
+      },
+      "url": "https://www.semanticscholar.org/paper/e71022ef6537e0f4d762fe6d416438b0814af474",
+      "title": "Swap Regret and Correlated Equilibria Beyond Normal-Form Games",
+      "venue": "ACM Conference on Economics and Computation",
+      "year": 2025,
+      "referenceCount": 54,
+      "citationCount": 12,
+      "authors": [
+        {
+          "authorId": "35314016",
+          "name": "E. Arunachaleswaran"
+        },
+        {
+          "authorId": "1805946234",
+          "name": "Natalie Collina"
+        },
+        {
+          "authorId": "144830983",
+          "name": "Y. Mansour"
+        },
+        {
+          "authorId": "81080659",
+          "name": "M. Mohri"
+        },
+        {
+          "authorId": "2284335182",
+          "name": "Jon Schneider"
+        },
+        {
+          "authorId": "3181897",
+          "name": "Balasubramanian Sivan"
+        }
+      ]
+    },
+    {
+      "paperId": "afe6b57605af91525dad183171e3a850e599841f",
+      "externalIds": {
+        "MAG": "2951018912",
+        "DBLP": "journals/corr/abs-1804-06500",
+        "ArXiv": "1804.06500",
+        "CorpusId": 4943927
+      },
+      "url": "https://www.semanticscholar.org/paper/afe6b57605af91525dad183171e3a850e599841f",
+      "title": "Two-Player Games for Efficient Non-Convex Constrained Optimization",
+      "venue": "International Conference on Algorithmic Learning Theory",
+      "year": 2018,
+      "referenceCount": 40,
+      "citationCount": 128,
+      "authors": [
+        {
+          "authorId": "145658292",
+          "name": "Andrew Cotter"
+        },
+        {
+          "authorId": "34710991",
+          "name": "Heinrich Jiang"
+        },
+        {
+          "authorId": "37564609",
+          "name": "Karthik Sridharan"
+        }
+      ]
+    },
+    {
+      "paperId": "6beab262546529522cbdde6fb9df2267da404563",
+      "externalIds": {
+        "ArXiv": "2402.15188",
+        "DBLP": "journals/corr/abs-2402-15188",
+        "DOI": "10.48550/arXiv.2402.15188",
+        "CorpusId": 267897659
+      },
+      "url": "https://www.semanticscholar.org/paper/6beab262546529522cbdde6fb9df2267da404563",
+      "title": "Parameter-Free Algorithms for Performative Regret Minimization under Decision-Dependent Distributions",
+      "venue": "arXiv.org",
+      "year": 2024,
+      "referenceCount": 38,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2238921789",
+          "name": "Sungwoo Park"
+        },
+        {
+          "authorId": "2286966322",
+          "name": "Junyeop Kwon"
+        },
+        {
+          "authorId": "2286935780",
+          "name": "Byeongnoh Kim"
+        },
+        {
+          "authorId": "2197429731",
+          "name": "Suhyun Chae"
+        },
+        {
+          "authorId": "2144718921",
+          "name": "Jeeyong Lee"
+        },
+        {
+          "authorId": "2307666497",
+          "name": "Dabeen Lee"
+        }
+      ]
+    },
+    {
+      "paperId": "dd060b66c3a95571bd65b0b85058e70c3af5a436",
+      "externalIds": {
+        "ArXiv": "1910.12450",
+        "DBLP": "journals/corr/abs-1910-12450",
+        "MAG": "2971333304",
+        "CorpusId": 202776553
+      },
+      "url": "https://www.semanticscholar.org/paper/dd060b66c3a95571bd65b0b85058e70c3af5a436",
+      "title": "Efficient Regret Minimization Algorithm for Extensive-Form Correlated Equilibrium",
+      "venue": "Neural Information Processing Systems",
+      "year": 2019,
+      "referenceCount": 33,
+      "citationCount": 16,
+      "authors": [
+        {
+          "authorId": "81885589",
+          "name": "Gabriele Farina"
+        },
+        {
+          "authorId": "37087787",
+          "name": "Chun Kai Ling"
+        },
+        {
+          "authorId": "47324743",
+          "name": "Fei Fang"
+        },
+        {
+          "authorId": "145714168",
+          "name": "T. Sandholm"
+        }
+      ]
+    },
+    {
+      "paperId": "546b60226aba9a61a5fb0ae9afffe6796f5fb97d",
+      "externalIds": {
+        "ArXiv": "2108.06779",
+        "DBLP": "journals/tsp/WangL22a",
+        "DOI": "10.1109/TSP.2022.3182501",
+        "CorpusId": 246062389
+      },
+      "url": "https://www.semanticscholar.org/paper/546b60226aba9a61a5fb0ae9afffe6796f5fb97d",
+      "title": "Non-Convex Generalized Nash Games for Energy Efficient Power Allocation and Beamforming in mmWave Networks",
+      "venue": "IEEE Transactions on Signal Processing",
+      "year": 2021,
+      "referenceCount": 38,
+      "citationCount": 8,
+      "authors": [
+        {
+          "authorId": "40007645",
+          "name": "Wenbo Wang"
+        },
+        {
+          "authorId": "1735953",
+          "name": "Amir Leshem"
+        }
+      ]
+    },
+    {
+      "paperId": "8406d63693ecd3a72ca4817ed7086ac2c11a35e0",
+      "externalIds": {
+        "DBLP": "conf/icml/ZhangFS23",
+        "ArXiv": "2202.00789",
+        "CorpusId": 246473331
+      },
+      "url": "https://www.semanticscholar.org/paper/8406d63693ecd3a72ca4817ed7086ac2c11a35e0",
+      "title": "Team Belief DAG: Generalizing the Sequence Form to Team Games for Fast Computation of Correlated Team Max-Min Equilibria via Regret Minimization",
+      "venue": "International Conference on Machine Learning",
+      "year": 2022,
+      "referenceCount": 41,
+      "citationCount": 15,
+      "authors": [
+        {
+          "authorId": "11809518",
+          "name": "B. Zhang"
+        },
+        {
+          "authorId": "81885589",
+          "name": "Gabriele Farina"
+        },
+        {
+          "authorId": "145714168",
+          "name": "T. Sandholm"
+        }
+      ]
+    },
+    {
+      "paperId": "ae96e865ad0584bd51abdd9f4109bfae6ed71466",
+      "externalIds": {
+        "CorpusId": 202680568
+      },
+      "url": "https://www.semanticscholar.org/paper/ae96e865ad0584bd51abdd9f4109bfae6ed71466",
+      "title": "Project Proposal : Regret Minimization for Non-Cooperative Games",
+      "venue": "",
+      "year": 2018,
+      "referenceCount": 7,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "47040203",
+          "name": "Tommaso Bianchi"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,344 @@
+{
+  "total": 2870,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "1bf64f0961da08ea0f9941bd899e916a385e9540",
+      "externalIds": {
+        "MAG": "2774769176",
+        "ArXiv": "1712.00527",
+        "DBLP": "journals/corr/abs-1712-00527",
+        "CorpusId": 23278522
+      },
+      "url": "https://www.semanticscholar.org/paper/1bf64f0961da08ea0f9941bd899e916a385e9540",
+      "title": "Adaptive Sampled Softmax with Kernel Based Sampling",
+      "venue": "International Conference on Machine Learning",
+      "year": 2017,
+      "referenceCount": 27,
+      "citationCount": 81,
+      "authors": [
+        {
+          "authorId": "38023684",
+          "name": "Guy Blanc"
+        },
+        {
+          "authorId": "2843982",
+          "name": "Steffen Rendle"
+        }
+      ]
+    },
+    {
+      "paperId": "1884365f5aca303ad13d36b57f5788dd6612bf74",
+      "externalIds": {
+        "ArXiv": "2501.08563",
+        "DBLP": "journals/corr/abs-2501-08563",
+        "DOI": "10.48550/arXiv.2501.08563",
+        "CorpusId": 275544644
+      },
+      "url": "https://www.semanticscholar.org/paper/1884365f5aca303ad13d36b57f5788dd6612bf74",
+      "title": "Adaptive Sampled Softmax with Inverted Multi-Index: Methods, Theory and Applications",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "referenceCount": 0,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "2255727216",
+          "name": "Jin Chen"
+        },
+        {
+          "authorId": "2117170420",
+          "name": "Jin Zhang"
+        },
+        {
+          "authorId": "2319210315",
+          "name": "Xu Huang"
+        },
+        {
+          "authorId": "2275334006",
+          "name": "Yi Yang"
+        },
+        {
+          "authorId": "1862782",
+          "name": "Defu Lian"
+        },
+        {
+          "authorId": "2113754294",
+          "name": "Enhong Chen"
+        }
+      ]
+    },
+    {
+      "paperId": "40006021a64f4b8dd1d6831c6b4c005d17769a90",
+      "externalIds": {
+        "DBLP": "conf/nips/BaharavKSTLTP24",
+        "DOI": "10.52202/079017-3733",
+        "CorpusId": 276288326
+      },
+      "url": "https://www.semanticscholar.org/paper/40006021a64f4b8dd1d6831c6b4c005d17769a90",
+      "title": "Adaptive Sampling for Efficient Softmax Approximation",
+      "venue": "Neural Information Processing Systems",
+      "year": 2024,
+      "referenceCount": 45,
+      "citationCount": 5,
+      "authors": [
+        {
+          "authorId": "51167716",
+          "name": "Tavor Z. Baharav"
+        },
+        {
+          "authorId": "2195983839",
+          "name": "Ryan Kang"
+        },
+        {
+          "authorId": "2247816988",
+          "name": "Colin Sullivan"
+        },
+        {
+          "authorId": "2248217307",
+          "name": "Mo Tiwari"
+        },
+        {
+          "authorId": "2345011879",
+          "name": "Eric Luxenberg"
+        },
+        {
+          "authorId": "2294694392",
+          "name": "David Tse"
+        },
+        {
+          "authorId": "3173667",
+          "name": "Mert Pilanci"
+        }
+      ]
+    },
+    {
+      "paperId": "51d8cc7818c2c44b095b7dcd3986d3b53f4e585c",
+      "externalIds": {
+        "DOI": "10.11591/ijai.v14.i2.pp1484-1495",
+        "CorpusId": 276435810
+      },
+      "url": "https://www.semanticscholar.org/paper/51d8cc7818c2c44b095b7dcd3986d3b53f4e585c",
+      "title": "Adaptive kernel integration in visual geometry group 16 for enhanced classification of diabetic retinopathy stages in retinal images",
+      "venue": "IAES International Journal of Artificial Intelligence (IJ-AI)",
+      "year": 2025,
+      "referenceCount": 0,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2346000107",
+          "name": "Mustafa Hiri"
+        },
+        {
+          "authorId": "2474220",
+          "name": "Nabil Ourdani"
+        },
+        {
+          "authorId": "71187745",
+          "name": "Mohamed Chrayah"
+        },
+        {
+          "authorId": "2278325087",
+          "name": "Abeer Alsadoon"
+        },
+        {
+          "authorId": "2276467864",
+          "name": "N. Aknin"
+        }
+      ]
+    },
+    {
+      "paperId": "2a687609ac1cecb9b20ba52d4f5d72ba14e0eaf2",
+      "externalIds": {
+        "MAG": "2962998615",
+        "ArXiv": "1907.10747",
+        "DBLP": "conf/nips/RawatCYSK19",
+        "CorpusId": 198897717
+      },
+      "url": "https://www.semanticscholar.org/paper/2a687609ac1cecb9b20ba52d4f5d72ba14e0eaf2",
+      "title": "Sampled Softmax with Random Fourier Features",
+      "venue": "Neural Information Processing Systems",
+      "year": 2019,
+      "referenceCount": 37,
+      "citationCount": 61,
+      "authors": [
+        {
+          "authorId": "2241094",
+          "name": "A. Rawat"
+        },
+        {
+          "authorId": "2809410",
+          "name": "Jiecao Chen"
+        },
+        {
+          "authorId": "1815972",
+          "name": "Felix X. Yu"
+        },
+        {
+          "authorId": "9486035",
+          "name": "A. Suresh"
+        },
+        {
+          "authorId": "152663162",
+          "name": "Sanjiv Kumar"
+        }
+      ]
+    },
+    {
+      "paperId": "41d41517d51bcb709ee20fe677f318dcf50532cd",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2507-01564",
+        "ArXiv": "2507.01564",
+        "DOI": "10.48550/arXiv.2507.01564",
+        "CorpusId": 280148269
+      },
+      "url": "https://www.semanticscholar.org/paper/41d41517d51bcb709ee20fe677f318dcf50532cd",
+      "title": "Multi Source COVID-19 Detection via Kernel-Density-based Slice Sampling",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "referenceCount": 20,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "2211689302",
+          "name": "Chia-Ming Lee"
+        },
+        {
+          "authorId": "2319416645",
+          "name": "Bo-Cheng Qiu"
+        },
+        {
+          "authorId": "2373729460",
+          "name": "Ting-Yao Chen"
+        },
+        {
+          "authorId": "2374254723",
+          "name": "Ming-Han Sun"
+        },
+        {
+          "authorId": "2374306251",
+          "name": "Fang-Ying Lin"
+        },
+        {
+          "authorId": "2372589449",
+          "name": "Jung-Tse Tsai"
+        },
+        {
+          "authorId": "2372352516",
+          "name": "I-An Tsai"
+        },
+        {
+          "authorId": "2309218820",
+          "name": "Yu-Fan Lin"
+        },
+        {
+          "authorId": "2253855917",
+          "name": "Chih-Chung Hsu"
+        }
+      ]
+    },
+    {
+      "paperId": "98fc66c91c3deba99a1aba0d1348aa32b742d354",
+      "externalIds": {
+        "DOI": "10.1109/ISAS60782.2023.10391701",
+        "CorpusId": 267026957
+      },
+      "url": "https://www.semanticscholar.org/paper/98fc66c91c3deba99a1aba0d1348aa32b742d354",
+      "title": "Exploration Strategies in Adaptive Traffic Signal Control: A Comparative Analysis of Epsilon-Greedy, UCB, Softmax, and Thomson Sampling",
+      "venue": "International Service Availability Symposium",
+      "year": 2023,
+      "referenceCount": 31,
+      "citationCount": 8,
+      "authors": [
+        {
+          "authorId": "2279740570",
+          "name": "Saidulu Thadikamalla"
+        },
+        {
+          "authorId": "2279722760",
+          "name": "Piyush Joshi"
+        }
+      ]
+    },
+    {
+      "paperId": "8630f6018b5258d6f3105aa763cb9d4a2c8507d7",
+      "externalIds": {
+        "ArXiv": "2401.13125",
+        "DBLP": "journals/corr/abs-2401-13125",
+        "DOI": "10.48550/arXiv.2401.13125",
+        "CorpusId": 267199724
+      },
+      "url": "https://www.semanticscholar.org/paper/8630f6018b5258d6f3105aa763cb9d4a2c8507d7",
+      "title": "Tensor train based sampling algorithms for approximating regularized Wasserstein proximal operators",
+      "venue": "arXiv.org",
+      "year": 2024,
+      "referenceCount": 40,
+      "citationCount": 7,
+      "authors": [
+        {
+          "authorId": "2280918766",
+          "name": "Fuqun Han"
+        },
+        {
+          "authorId": "2277920903",
+          "name": "Stanley Osher"
+        },
+        {
+          "authorId": "2108767992",
+          "name": "Wuchen Li"
+        }
+      ]
+    },
+    {
+      "paperId": "5bdb38db45a1a38ed8718d4cf931721ce49149d1",
+      "externalIds": {
+        "DBLP": "journals/cad/CammarasanaP21",
+        "MAG": "3194068372",
+        "DOI": "10.1016/J.CAD.2021.103103",
+        "CorpusId": 238663888
+      },
+      "url": "https://www.semanticscholar.org/paper/5bdb38db45a1a38ed8718d4cf931721ce49149d1",
+      "title": "Kernel-Based Sampling of Arbitrary Signals",
+      "venue": "Comput. Aided Des.",
+      "year": 2021,
+      "referenceCount": 44,
+      "citationCount": 6,
+      "authors": [
+        {
+          "authorId": "2031456047",
+          "name": "Simone Cammarasana"
+        },
+        {
+          "authorId": "2415406",
+          "name": "G. Patané"
+        }
+      ]
+    },
+    {
+      "paperId": "146e370a4211665e901f21da82bbe041f2f5e9e2",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2203-14089",
+        "ArXiv": "2203.14089",
+        "DOI": "10.48550/arXiv.2203.14089",
+        "CorpusId": 247762974
+      },
+      "url": "https://www.semanticscholar.org/paper/146e370a4211665e901f21da82bbe041f2f5e9e2",
+      "title": "An adaptive residual sub-sampling algorithm for kernel interpolation based on maximum likelihood estimations",
+      "venue": "Journal of Computational and Applied Mathematics",
+      "year": 2022,
+      "referenceCount": 25,
+      "citationCount": 23,
+      "authors": [
+        {
+          "authorId": "1788084",
+          "name": "R. Cavoretto"
+        },
+        {
+          "authorId": "31436445",
+          "name": "A. Rossi"
+        }
+      ]
+    }
+  ]
+}

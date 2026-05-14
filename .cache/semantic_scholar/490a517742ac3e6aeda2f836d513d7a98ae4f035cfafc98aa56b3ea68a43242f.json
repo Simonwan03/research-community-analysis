@@ -1,0 +1,352 @@
+{
+  "total": 5209,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "6c7f040a150abf21dbcefe1f22e0f98fa184f41a",
+      "externalIds": {
+        "DBLP": "journals/corr/ReedAYLSL16",
+        "ArXiv": "1605.05396",
+        "MAG": "2949999304",
+        "CorpusId": 1563370
+      },
+      "url": "https://www.semanticscholar.org/paper/6c7f040a150abf21dbcefe1f22e0f98fa184f41a",
+      "title": "Generative Adversarial Text to Image Synthesis",
+      "venue": "International Conference on Machine Learning",
+      "year": 2016,
+      "referenceCount": 42,
+      "citationCount": 3382,
+      "authors": [
+        {
+          "authorId": "144828948",
+          "name": "Scott E. Reed"
+        },
+        {
+          "authorId": "2893664",
+          "name": "Zeynep Akata"
+        },
+        {
+          "authorId": "3084614",
+          "name": "Xinchen Yan"
+        },
+        {
+          "authorId": "2876316",
+          "name": "Lajanugen Logeswaran"
+        },
+        {
+          "authorId": "48920094",
+          "name": "B. Schiele"
+        },
+        {
+          "authorId": "1697141",
+          "name": "Honglak Lee"
+        }
+      ]
+    },
+    {
+      "paperId": "b0ee82c08fda544eb159eca43f7609990a75e052",
+      "externalIds": {
+        "CorpusId": 235802071
+      },
+      "url": "https://www.semanticscholar.org/paper/b0ee82c08fda544eb159eca43f7609990a75e052",
+      "title": "Generative Adversarial Text-to-Image Synthesis",
+      "venue": "",
+      "year": 2018,
+      "referenceCount": 11,
+      "citationCount": 37,
+      "authors": [
+        {
+          "authorId": "4499453",
+          "name": "F. Gabel"
+        }
+      ]
+    },
+    {
+      "paperId": "6ff5a118a076cb606b559ed935c809b35c8f19d5",
+      "externalIds": {
+        "DBLP": "conf/dsn/KasichainulaMS21",
+        "DOI": "10.1109/DSN-W52860.2021.00035",
+        "CorpusId": 236918864
+      },
+      "url": "https://www.semanticscholar.org/paper/6ff5a118a076cb606b559ed935c809b35c8f19d5",
+      "title": "Poisoning Attacks via Generative Adversarial Text to Image Synthesis",
+      "venue": "2021 51st Annual IEEE/IFIP International Conference on Dependable Systems and Networks Workshops (DSN-W)",
+      "year": 2021,
+      "referenceCount": 0,
+      "citationCount": 6,
+      "authors": [
+        {
+          "authorId": "1388013140",
+          "name": "Keshav Kasichainula"
+        },
+        {
+          "authorId": "3358806",
+          "name": "Hadi Mansourifar"
+        },
+        {
+          "authorId": "153780621",
+          "name": "W. Shi"
+        }
+      ]
+    },
+    {
+      "paperId": "ab995f96722969a0dfc6dc9139eef4c9b13c0524",
+      "externalIds": {
+        "MAG": "2931831966",
+        "ArXiv": "1904.01310",
+        "DBLP": "journals/corr/abs-1904-01310",
+        "DOI": "10.1109/CVPR.2019.00595",
+        "CorpusId": 91183909
+      },
+      "url": "https://www.semanticscholar.org/paper/ab995f96722969a0dfc6dc9139eef4c9b13c0524",
+      "title": "DM-GAN: Dynamic Memory Generative Adversarial Networks for Text-To-Image Synthesis",
+      "venue": "Computer Vision and Pattern Recognition",
+      "year": 2019,
+      "referenceCount": 33,
+      "citationCount": 655,
+      "authors": [
+        {
+          "authorId": "145314938",
+          "name": "Minfeng Zhu"
+        },
+        {
+          "authorId": "1991108",
+          "name": "Pingbo Pan"
+        },
+        {
+          "authorId": null,
+          "name": "Wei Chen"
+        },
+        {
+          "authorId": "2143686040",
+          "name": "Yi Yang"
+        }
+      ]
+    },
+    {
+      "paperId": "1c1ad994821f1fbdffdbd4e592bef8af8f740f01",
+      "externalIds": {
+        "DOI": "10.1109/ICECCME57830.2023.10253143",
+        "CorpusId": 262131575
+      },
+      "url": "https://www.semanticscholar.org/paper/1c1ad994821f1fbdffdbd4e592bef8af8f740f01",
+      "title": "A study on Generative Adversarial Text to Image Synthesis",
+      "venue": "2023 3rd International Conference on Electrical, Computer, Communications and Mechatronics Engineering (ICECCME)",
+      "year": 2023,
+      "referenceCount": 12,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2069492328",
+          "name": "Marjana Tahmid"
+        },
+        {
+          "authorId": "2069557287",
+          "name": "Samiul Alam"
+        },
+        {
+          "authorId": "2244014266",
+          "name": "Kalim Akram"
+        },
+        {
+          "authorId": "2244013876",
+          "name": "Kazi Muhammad Asif Ashrafi"
+        }
+      ]
+    },
+    {
+      "paperId": "efa82cc293ab3c700d86f987395d5c4f7479558f",
+      "externalIds": {
+        "MAG": "3048484056",
+        "DBLP": "journals/corr/abs-2008-05865",
+        "CorpusId": 221112715
+      },
+      "url": "https://www.semanticscholar.org/paper/efa82cc293ab3c700d86f987395d5c4f7479558f",
+      "title": "DF-GAN: Deep Fusion Generative Adversarial Networks for Text-to-Image Synthesis",
+      "venue": "arXiv.org",
+      "year": 2020,
+      "referenceCount": 57,
+      "citationCount": 224,
+      "authors": [
+        {
+          "authorId": "2053640948",
+          "name": "Ming Tao"
+        },
+        {
+          "authorId": "2112388851",
+          "name": "H. Tang"
+        },
+        {
+          "authorId": "2716810",
+          "name": "Songsong Wu"
+        },
+        {
+          "authorId": "1703601",
+          "name": "N. Sebe"
+        },
+        {
+          "authorId": "100739542",
+          "name": "Fei Wu"
+        },
+        {
+          "authorId": "15132338",
+          "name": "Xiaoyuan Jing"
+        }
+      ]
+    },
+    {
+      "paperId": "4e1e6e82c7c4c652a37e0d07d726178e56a87e54",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2301-12959",
+        "ArXiv": "2301.12959",
+        "DOI": "10.1109/CVPR52729.2023.01366",
+        "CorpusId": 256389964
+      },
+      "url": "https://www.semanticscholar.org/paper/4e1e6e82c7c4c652a37e0d07d726178e56a87e54",
+      "title": "GALIP: Generative Adversarial CLIPs for Text-to-Image Synthesis",
+      "venue": "Computer Vision and Pattern Recognition",
+      "year": 2023,
+      "referenceCount": 61,
+      "citationCount": 148,
+      "authors": [
+        {
+          "authorId": "2053640948",
+          "name": "Ming Tao"
+        },
+        {
+          "authorId": "2161005294",
+          "name": "Bingkun Bao"
+        },
+        {
+          "authorId": "145462888",
+          "name": "Hao Tang"
+        },
+        {
+          "authorId": "2155590336",
+          "name": "Changsheng Xu"
+        }
+      ]
+    },
+    {
+      "paperId": "ea67d2d5f2a7d5760ec6b67ea93d11dd5affa921",
+      "externalIds": {
+        "MAG": "2964024144",
+        "DBLP": "journals/corr/ZhangXLZHWM16",
+        "ArXiv": "1612.03242",
+        "DOI": "10.1109/ICCV.2017.629",
+        "CorpusId": 1277217
+      },
+      "url": "https://www.semanticscholar.org/paper/ea67d2d5f2a7d5760ec6b67ea93d11dd5affa921",
+      "title": "StackGAN: Text to Photo-Realistic Image Synthesis with Stacked Generative Adversarial Networks",
+      "venue": "IEEE International Conference on Computer Vision",
+      "year": 2016,
+      "referenceCount": 46,
+      "citationCount": 2915,
+      "authors": [
+        {
+          "authorId": null,
+          "name": "Han Zhang"
+        },
+        {
+          "authorId": "2118716442",
+          "name": "Tao Xu"
+        },
+        {
+          "authorId": "47893312",
+          "name": "Hongsheng Li"
+        },
+        {
+          "authorId": "1753384",
+          "name": "Shaoting Zhang"
+        },
+        {
+          "authorId": "31843833",
+          "name": "Xiaogang Wang"
+        },
+        {
+          "authorId": "143713756",
+          "name": "Xiaolei Huang"
+        },
+        {
+          "authorId": "1711560",
+          "name": "Dimitris N. Metaxas"
+        }
+      ]
+    },
+    {
+      "paperId": "429bb514e7a655238f9ed8f497f18bb88c2ba26a",
+      "externalIds": {
+        "DBLP": "journals/eswa/YangXKZY25",
+        "DOI": "10.1016/j.eswa.2024.125583",
+        "CorpusId": 273745827
+      },
+      "url": "https://www.semanticscholar.org/paper/429bb514e7a655238f9ed8f497f18bb88c2ba26a",
+      "title": "SF-GAN: Semantic fusion generative adversarial networks for text-to-image synthesis",
+      "venue": "Expert systems with applications",
+      "year": 2025,
+      "referenceCount": 33,
+      "citationCount": 13,
+      "authors": [
+        {
+          "authorId": "2281540776",
+          "name": "Bing Yang"
+        },
+        {
+          "authorId": "2281122954",
+          "name": "Xueqin Xiang"
+        },
+        {
+          "authorId": "2325267815",
+          "name": "Wanzeng Kong"
+        },
+        {
+          "authorId": "2276745667",
+          "name": "Jianhai Zhang"
+        },
+        {
+          "authorId": "2596864",
+          "name": "Jinliang Yao"
+        }
+      ]
+    },
+    {
+      "paperId": "abac50aa18e037f8149b2b212f1691d738f7b056",
+      "externalIds": {
+        "ArXiv": "2101.09983",
+        "DBLP": "journals/corr/abs-2101-09983",
+        "DOI": "10.1016/j.neunet.2021.07.019",
+        "CorpusId": 231698782,
+        "PubMed": "34500257"
+      },
+      "url": "https://www.semanticscholar.org/paper/abac50aa18e037f8149b2b212f1691d738f7b056",
+      "title": "Adversarial Text-to-Image Synthesis: A Review",
+      "venue": "Neural Networks",
+      "year": 2021,
+      "referenceCount": 187,
+      "citationCount": 205,
+      "authors": [
+        {
+          "authorId": "50120446",
+          "name": "Stanislav Frolov"
+        },
+        {
+          "authorId": "2067213988",
+          "name": "T. Hinz"
+        },
+        {
+          "authorId": "48258541",
+          "name": "Federico Raue"
+        },
+        {
+          "authorId": "33884920",
+          "name": "Jörn Hees"
+        },
+        {
+          "authorId": "145279674",
+          "name": "A. Dengel"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,296 @@
+{
+  "total": 61,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "48d8f84ca5b493dc7022b5ac22dc10701d9faa34",
+      "externalIds": {
+        "MAG": "1535019556",
+        "DBLP": "conf/icml/KusnerGGW15",
+        "ArXiv": "1501.04080",
+        "CorpusId": 5709962
+      },
+      "url": "https://www.semanticscholar.org/paper/48d8f84ca5b493dc7022b5ac22dc10701d9faa34",
+      "title": "Differentially Private Bayesian Optimization",
+      "venue": "International Conference on Machine Learning",
+      "year": 2015,
+      "referenceCount": 50,
+      "citationCount": 59,
+      "authors": [
+        {
+          "authorId": "1940272",
+          "name": "Matt J. Kusner"
+        },
+        {
+          "authorId": "31693738",
+          "name": "J. Gardner"
+        },
+        {
+          "authorId": "145974030",
+          "name": "R. Garnett"
+        },
+        {
+          "authorId": "7446832",
+          "name": "Kilian Q. Weinberger"
+        }
+      ]
+    },
+    {
+      "paperId": "ad235c8f031d708cafad6e92eae19e97d738539c",
+      "externalIds": {
+        "ArXiv": "1512.00369",
+        "MAG": "2527559122",
+        "DBLP": "journals/tcns/NozariTC18",
+        "DOI": "10.1109/TCNS.2016.2614100",
+        "CorpusId": 3984284
+      },
+      "url": "https://www.semanticscholar.org/paper/ad235c8f031d708cafad6e92eae19e97d738539c",
+      "title": "Differentially Private Distributed Convex Optimization via Functional Perturbation",
+      "venue": "IEEE Transactions on Control of Network Systems",
+      "year": 2015,
+      "referenceCount": 29,
+      "citationCount": 172,
+      "authors": [
+        {
+          "authorId": "8492883",
+          "name": "Erfan Nozari"
+        },
+        {
+          "authorId": "1924010",
+          "name": "Pavankumar Tallapragada"
+        },
+        {
+          "authorId": "145576411",
+          "name": "J. Cortés"
+        }
+      ]
+    },
+    {
+      "paperId": "2622a7dca5090a8c30e50611ac1a91b8e9934036",
+      "externalIds": {
+        "ArXiv": "1708.08422",
+        "DBLP": "conf/amcc/HaleE15",
+        "MAG": "1559266478",
+        "DOI": "10.1109/ACC.2015.7170902",
+        "CorpusId": 15334714
+      },
+      "url": "https://www.semanticscholar.org/paper/2622a7dca5090a8c30e50611ac1a91b8e9934036",
+      "title": "Differentially private cloud-based multi-agent optimization with constraints",
+      "venue": "American Control Conference",
+      "year": 2015,
+      "referenceCount": 22,
+      "citationCount": 65,
+      "authors": [
+        {
+          "authorId": "2119461",
+          "name": "M. Hale"
+        },
+        {
+          "authorId": "152599370",
+          "name": "M. Egerstedt"
+        }
+      ]
+    },
+    {
+      "paperId": "47639b2346c217732ffc50b159ae4509d4a2d66d",
+      "externalIds": {
+        "MAG": "2952624247",
+        "ArXiv": "1507.04371",
+        "DBLP": "journals/tcns/HaleE18",
+        "DOI": "10.1109/TCNS.2017.2751458",
+        "CorpusId": 56594714
+      },
+      "url": "https://www.semanticscholar.org/paper/47639b2346c217732ffc50b159ae4509d4a2d66d",
+      "title": "Cloud-Enabled Differentially Private Multiagent Optimization With Constraints",
+      "venue": "IEEE Transactions on Control of Network Systems",
+      "year": 2015,
+      "referenceCount": 46,
+      "citationCount": 63,
+      "authors": [
+        {
+          "authorId": "2119461",
+          "name": "M. Hale"
+        },
+        {
+          "authorId": "152599370",
+          "name": "M. Egerstedt"
+        }
+      ]
+    },
+    {
+      "paperId": "2c09a2e82d09e387a043fc5afb975f12f573e6fe",
+      "externalIds": {
+        "MAG": "2204584313",
+        "CorpusId": 123409224
+      },
+      "url": "https://www.semanticscholar.org/paper/2c09a2e82d09e387a043fc5afb975f12f573e6fe",
+      "title": "Cloud-Enabled Multi-Agent Optimization with Constraints and Differentially Private States",
+      "venue": "",
+      "year": 2015,
+      "referenceCount": 0,
+      "citationCount": 4,
+      "authors": [
+        {
+          "authorId": "2119461",
+          "name": "M. Hale"
+        },
+        {
+          "authorId": "152599370",
+          "name": "M. Egerstedt"
+        }
+      ]
+    },
+    {
+      "paperId": "44d314efa2640cc5daaa83bccf0be594c9452de6",
+      "externalIds": {
+        "MAG": "2272463747",
+        "CorpusId": 181090719
+      },
+      "url": "https://www.semanticscholar.org/paper/44d314efa2640cc5daaa83bccf0be594c9452de6",
+      "title": "Constrained Multi-Agent Optimization with Differentially Private States",
+      "venue": "",
+      "year": 2015,
+      "referenceCount": 0,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2119461",
+          "name": "M. Hale"
+        },
+        {
+          "authorId": "152599370",
+          "name": "M. Egerstedt"
+        }
+      ]
+    },
+    {
+      "paperId": "265b042f17ad9a34324347ccfc739e6fc4e7cae7",
+      "externalIds": {
+        "MAG": "2951949226",
+        "ArXiv": "1505.01419",
+        "DBLP": "journals/corr/LiuWS15",
+        "DOI": "10.1145/2792838.2800191",
+        "CorpusId": 14664381
+      },
+      "url": "https://www.semanticscholar.org/paper/265b042f17ad9a34324347ccfc739e6fc4e7cae7",
+      "title": "Fast Differentially Private Matrix Factorization",
+      "venue": "ACM Conference on Recommender Systems",
+      "year": 2015,
+      "referenceCount": 45,
+      "citationCount": 133,
+      "authors": [
+        {
+          "authorId": "2145253066",
+          "name": "Ziqi Liu"
+        },
+        {
+          "authorId": "2040617",
+          "name": "Yu-Xiang Wang"
+        },
+        {
+          "authorId": "46234526",
+          "name": "Alex Smola"
+        }
+      ]
+    },
+    {
+      "paperId": "f504311f0e02ddecc85d15cf8e79b031f5edff55",
+      "externalIds": {
+        "MAG": "2952181314",
+        "DBLP": "journals/corr/LiZ15a",
+        "ArXiv": "1505.06556",
+        "CorpusId": 5790335
+      },
+      "url": "https://www.semanticscholar.org/paper/f504311f0e02ddecc85d15cf8e79b031f5edff55",
+      "title": "Differentially Private Distributed Online Learning",
+      "venue": "arXiv.org",
+      "year": 2015,
+      "referenceCount": 22,
+      "citationCount": 81,
+      "authors": [
+        {
+          "authorId": "1847528",
+          "name": "Chencheng Li"
+        },
+        {
+          "authorId": "33481412",
+          "name": "Pan Zhou"
+        },
+        {
+          "authorId": "145719374",
+          "name": "Li Xiong"
+        },
+        {
+          "authorId": "2155616270",
+          "name": "Qian Wang"
+        },
+        {
+          "authorId": "2155391927",
+          "name": "Ting Wang"
+        }
+      ]
+    },
+    {
+      "paperId": "06243aef024721227e2a294579cec78fd5c2fea1",
+      "externalIds": {
+        "MAG": "2253465240",
+        "DOI": "10.1007/978-3-662-48683-2_14",
+        "CorpusId": 112882700
+      },
+      "url": "https://www.semanticscholar.org/paper/06243aef024721227e2a294579cec78fd5c2fea1",
+      "title": "A Differentially Private Method for Reward-Based Spatial Crowdsourcing",
+      "venue": "",
+      "year": 2015,
+      "referenceCount": 15,
+      "citationCount": 17,
+      "authors": [
+        {
+          "authorId": "48571174",
+          "name": "Lefeng Zhang"
+        },
+        {
+          "authorId": "2187183424",
+          "name": "Xiaodan Lu"
+        },
+        {
+          "authorId": "46277805",
+          "name": "P. Xiong"
+        },
+        {
+          "authorId": "2072835118",
+          "name": "T. Zhu"
+        }
+      ]
+    },
+    {
+      "paperId": "24cad249a0b77604842770f217e9a8c689e424c7",
+      "externalIds": {
+        "MAG": "2950280453",
+        "DBLP": "journals/tkde/KellarisPP19",
+        "DOI": "10.1109/TKDE.2018.2827378",
+        "CorpusId": 5000474
+      },
+      "url": "https://www.semanticscholar.org/paper/24cad249a0b77604842770f217e9a8c689e424c7",
+      "title": "Engineering Methods for Differentially Private Histograms: Efficiency Beyond Utility",
+      "venue": "IEEE Transactions on Knowledge and Data Engineering",
+      "year": 2015,
+      "referenceCount": 29,
+      "citationCount": 10,
+      "authors": [
+        {
+          "authorId": "145801946",
+          "name": "Georgios Kellaris"
+        },
+        {
+          "authorId": "144094043",
+          "name": "Stavros Papadopoulos"
+        },
+        {
+          "authorId": "1746338",
+          "name": "Dimitris Papadias"
+        }
+      ]
+    }
+  ]
+}

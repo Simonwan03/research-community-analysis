@@ -1,0 +1,355 @@
+{
+  "total": 72,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "b3159fd22e19e24d7cde9d37b3e482b832d4fa58",
+      "externalIds": {
+        "MAG": "2930206194",
+        "DBLP": "conf/icml/AchlioptasDMG18",
+        "CorpusId": 23102425
+      },
+      "url": "https://www.semanticscholar.org/paper/b3159fd22e19e24d7cde9d37b3e482b832d4fa58",
+      "title": "Learning Representations and Generative Models for 3D Point Clouds",
+      "venue": "International Conference on Machine Learning",
+      "year": 2017,
+      "referenceCount": 59,
+      "citationCount": 1640,
+      "authors": [
+        {
+          "authorId": "22199114",
+          "name": "Panos Achlioptas"
+        },
+        {
+          "authorId": "1868022",
+          "name": "Olga Diamanti"
+        },
+        {
+          "authorId": "3168518",
+          "name": "Ioannis Mitliagkas"
+        },
+        {
+          "authorId": "51352814",
+          "name": "L. Guibas"
+        }
+      ]
+    },
+    {
+      "paperId": "32b918246037976ba5f8363104ec042f56db42d6",
+      "externalIds": {
+        "MAG": "2910792243",
+        "DBLP": "conf/iclr/ValsesiaFM19",
+        "CorpusId": 62775631
+      },
+      "url": "https://www.semanticscholar.org/paper/32b918246037976ba5f8363104ec042f56db42d6",
+      "title": "Learning Localized Generative Models for 3D Point Clouds via Graph Convolution",
+      "venue": "International Conference on Learning Representations",
+      "year": 2018,
+      "referenceCount": 27,
+      "citationCount": 210,
+      "authors": [
+        {
+          "authorId": "2029288",
+          "name": "D. Valsesia"
+        },
+        {
+          "authorId": "3187585",
+          "name": "Giulia Fracastoro"
+        },
+        {
+          "authorId": "1702477",
+          "name": "E. Magli"
+        }
+      ]
+    },
+    {
+      "paperId": "fe3e55e6b6db8c127e5931e089b74982fd307964",
+      "externalIds": {
+        "DBLP": "conf/cvpr/EckartYLK21",
+        "DOI": "10.1109/CVPR46437.2021.00815",
+        "CorpusId": 235719240
+      },
+      "url": "https://www.semanticscholar.org/paper/fe3e55e6b6db8c127e5931e089b74982fd307964",
+      "title": "Self-Supervised Learning on 3D Point Clouds by Learning Discrete Generative Models",
+      "venue": "Computer Vision and Pattern Recognition",
+      "year": 2021,
+      "referenceCount": 54,
+      "citationCount": 70,
+      "authors": [
+        {
+          "authorId": "2875925",
+          "name": "Benjamin Eckart"
+        },
+        {
+          "authorId": "46421692",
+          "name": "Wentao Yuan"
+        },
+        {
+          "authorId": "2152503651",
+          "name": "Chao Liu"
+        },
+        {
+          "authorId": "2376331468",
+          "name": "Jan Kautz"
+        }
+      ]
+    },
+    {
+      "paperId": "587f088c19c48637e0ec2622f2ac40bd8e594923",
+      "externalIds": {
+        "PubMedCentral": "12240800",
+        "DOI": "10.1038/s41592-025-02729-9",
+        "CorpusId": 279896393,
+        "PubMed": "40610730"
+      },
+      "url": "https://www.semanticscholar.org/paper/587f088c19c48637e0ec2622f2ac40bd8e594923",
+      "title": "Interpretable representation learning for 3D multi-piece intracellular structures using point clouds",
+      "venue": "bioRxiv",
+      "year": 2024,
+      "referenceCount": 68,
+      "citationCount": 4,
+      "authors": [
+        {
+          "authorId": "144179076",
+          "name": "R. Vasan"
+        },
+        {
+          "authorId": "2199514269",
+          "name": "Alexandra J. Ferrante"
+        },
+        {
+          "authorId": "15930805",
+          "name": "A. Borensztejn"
+        },
+        {
+          "authorId": "2309251625",
+          "name": "Christopher L. Frick"
+        },
+        {
+          "authorId": "2151584504",
+          "name": "Nathalie Gaudreault"
+        },
+        {
+          "authorId": "48344943",
+          "name": "Saurabh S. Mogre"
+        },
+        {
+          "authorId": "2309251426",
+          "name": "Benjamin Morris"
+        },
+        {
+          "authorId": "2313485467",
+          "name": "Guilherme G. Pires"
+        },
+        {
+          "authorId": "2755216",
+          "name": "S. Rafelski"
+        },
+        {
+          "authorId": "2283618111",
+          "name": "J. Theriot"
+        },
+        {
+          "authorId": "1393880669",
+          "name": "Matheus P. Viana"
+        }
+      ]
+    },
+    {
+      "paperId": "23abafcf34d38c60cd38474470031561e2345ff8",
+      "externalIds": {
+        "DBLP": "journals/tmm/ValsesiaFM21",
+        "MAG": "3008681464",
+        "DOI": "10.1109/TMM.2020.2976627",
+        "CorpusId": 212812775
+      },
+      "url": "https://www.semanticscholar.org/paper/23abafcf34d38c60cd38474470031561e2345ff8",
+      "title": "Learning Localized Representations of Point Clouds With Graph-Convolutional Generative Adversarial Networks",
+      "venue": "IEEE transactions on multimedia",
+      "year": 2021,
+      "referenceCount": 51,
+      "citationCount": 33,
+      "authors": [
+        {
+          "authorId": "2029288",
+          "name": "D. Valsesia"
+        },
+        {
+          "authorId": "3187585",
+          "name": "Giulia Fracastoro"
+        },
+        {
+          "authorId": "1702477",
+          "name": "E. Magli"
+        }
+      ]
+    },
+    {
+      "paperId": "7b21f0e50448c90f26066a772d68aeef5f62b570",
+      "externalIds": {
+        "DBLP": "journals/algorithms/ZhuZC22",
+        "DOI": "10.3390/a15030089",
+        "CorpusId": 247341238
+      },
+      "url": "https://www.semanticscholar.org/paper/7b21f0e50448c90f26066a772d68aeef5f62b570",
+      "title": "A Contrastive Learning Method for the Visual Representation of 3D Point Clouds",
+      "venue": "Algorithms",
+      "year": 2022,
+      "referenceCount": 6,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "2075371713",
+          "name": "Feng Zhu"
+        },
+        {
+          "authorId": "2110117732",
+          "name": "Jieyu Zhao"
+        },
+        {
+          "authorId": "2113442286",
+          "name": "Zhengyi Cai"
+        }
+      ]
+    },
+    {
+      "paperId": "76636eec94a5405c4490fea2d028e474cbe0b386",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2210-15663",
+        "DOI": "10.48550/arXiv.2210.15663",
+        "CorpusId": 253157794
+      },
+      "url": "https://www.semanticscholar.org/paper/76636eec94a5405c4490fea2d028e474cbe0b386",
+      "title": "Deep Generative Models on 3D Representations: A Survey",
+      "venue": "arXiv.org",
+      "year": 2022,
+      "referenceCount": 254,
+      "citationCount": 69,
+      "authors": [
+        {
+          "authorId": "2125701522",
+          "name": "Zifan Shi"
+        },
+        {
+          "authorId": "2072712025",
+          "name": "Sida Peng"
+        },
+        {
+          "authorId": "121983635",
+          "name": "Yinghao Xu"
+        },
+        {
+          "authorId": "2699340",
+          "name": "Yiyi Liao"
+        },
+        {
+          "authorId": "2117687899",
+          "name": "Yujun Shen"
+        }
+      ]
+    },
+    {
+      "paperId": "314de57c64548c9ceae9e3aca383c306e838ca2b",
+      "externalIds": {
+        "MAG": "2943246668",
+        "DBLP": "journals/cviu/ZamorskiZKNKST20",
+        "DOI": "10.1016/j.cviu.2020.102921",
+        "CorpusId": 140222128
+      },
+      "url": "https://www.semanticscholar.org/paper/314de57c64548c9ceae9e3aca383c306e838ca2b",
+      "title": "Adversarial autoencoders for compact representations of 3D point clouds",
+      "venue": "Computer Vision and Image Understanding",
+      "year": 2018,
+      "referenceCount": 46,
+      "citationCount": 104,
+      "authors": [
+        {
+          "authorId": "41132665",
+          "name": "M. Zamorski"
+        },
+        {
+          "authorId": "3027512",
+          "name": "Maciej Ziȩba"
+        },
+        {
+          "authorId": "2629107",
+          "name": "Piotr Klukowski"
+        },
+        {
+          "authorId": "2053565348",
+          "name": "R. Nowak"
+        },
+        {
+          "authorId": "2006889",
+          "name": "Karol Kurach"
+        },
+        {
+          "authorId": "2355439143",
+          "name": "Wojciech Stokowiec"
+        },
+        {
+          "authorId": "2265880556",
+          "name": "Tomasz Trzciński"
+        }
+      ]
+    },
+    {
+      "paperId": "494dbfeb6de7f040d32ee7fc0446eac83bdb003c",
+      "externalIds": {
+        "DBLP": "conf/cvpr/WenYT21",
+        "DOI": "10.1109/CVPR46437.2021.01013",
+        "CorpusId": 235704220
+      },
+      "url": "https://www.semanticscholar.org/paper/494dbfeb6de7f040d32ee7fc0446eac83bdb003c",
+      "title": "Learning Progressive Point Embeddings for 3D Point Cloud Generation",
+      "venue": "Computer Vision and Pattern Recognition",
+      "year": 2021,
+      "referenceCount": 52,
+      "citationCount": 30,
+      "authors": [
+        {
+          "authorId": "2117360660",
+          "name": "Cheng Wen"
+        },
+        {
+          "authorId": "2110431812",
+          "name": "Baosheng Yu"
+        },
+        {
+          "authorId": "143719920",
+          "name": "D. Tao"
+        }
+      ]
+    },
+    {
+      "paperId": "8f5520d54e25b9cbbabcaa922124a23717417dab",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2512-08330",
+        "ArXiv": "2512.08330",
+        "DOI": "10.1109/IJCNN64981.2025.11227674",
+        "CorpusId": 283014281
+      },
+      "url": "https://www.semanticscholar.org/paper/8f5520d54e25b9cbbabcaa922124a23717417dab",
+      "title": "PointDico: Contrastive 3D Representation Learning Guided by Diffusion Models",
+      "venue": "IEEE International Joint Conference on Neural Network",
+      "year": 2025,
+      "referenceCount": 42,
+      "citationCount": 5,
+      "authors": [
+        {
+          "authorId": "2369988885",
+          "name": "Pengbo Li"
+        },
+        {
+          "authorId": "2418543389",
+          "name": "Yiding Sun"
+        },
+        {
+          "authorId": "152498619",
+          "name": "Haozhe Cheng"
+        }
+      ]
+    }
+  ]
+}

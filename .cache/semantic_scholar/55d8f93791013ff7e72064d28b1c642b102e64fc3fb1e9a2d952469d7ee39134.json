@@ -1,0 +1,354 @@
+{
+  "total": 53,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "a3ff8ae86262b51cd35da1ef1c87f13dee8991cb",
+      "externalIds": {
+        "MAG": "2462023919",
+        "DBLP": "conf/icml/PerolatPGSP16",
+        "CorpusId": 15143012
+      },
+      "url": "https://www.semanticscholar.org/paper/a3ff8ae86262b51cd35da1ef1c87f13dee8991cb",
+      "title": "Softened Approximate Policy Iteration for Markov Games",
+      "venue": "International Conference on Machine Learning",
+      "year": 2016,
+      "referenceCount": 22,
+      "citationCount": 43,
+      "authors": [
+        {
+          "authorId": "3422031",
+          "name": "J. Pérolat"
+        },
+        {
+          "authorId": "1808897",
+          "name": "Bilal Piot"
+        },
+        {
+          "authorId": "1737555",
+          "name": "M. Geist"
+        },
+        {
+          "authorId": "1689774",
+          "name": "B. Scherrer"
+        },
+        {
+          "authorId": "1721354",
+          "name": "O. Pietquin"
+        }
+      ]
+    },
+    {
+      "paperId": "42d280fb93952ccd4adcd078dbb64508d156b3ba",
+      "externalIds": {
+        "ArXiv": "2308.07873",
+        "DBLP": "journals/corr/abs-2308-07873",
+        "DOI": "10.48550/arXiv.2308.07873",
+        "CorpusId": 260900216
+      },
+      "url": "https://www.semanticscholar.org/paper/42d280fb93952ccd4adcd078dbb64508d156b3ba",
+      "title": "Near-Optimal Last-iterate Convergence of Policy Optimization in Zero-sum Polymatrix Markov games",
+      "venue": "arXiv.org",
+      "year": 2023,
+      "referenceCount": 0,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "2230401015",
+          "name": "Zailin Ma"
+        },
+        {
+          "authorId": "2144511359",
+          "name": "Jiansheng Yang"
+        },
+        {
+          "authorId": "2216025190",
+          "name": "Zhihua Zhang"
+        }
+      ]
+    },
+    {
+      "paperId": "ac737f8764ebc5e32eae76af4eaaa94bf455ab8a",
+      "externalIds": {
+        "DBLP": "conf/nips/ZhangLWX0022",
+        "ArXiv": "2206.02640",
+        "DOI": "10.48550/arXiv.2206.02640",
+        "CorpusId": 249395643
+      },
+      "url": "https://www.semanticscholar.org/paper/ac737f8764ebc5e32eae76af4eaaa94bf455ab8a",
+      "title": "Policy Optimization for Markov Games: Unified Framework and Faster Convergence",
+      "venue": "Neural Information Processing Systems",
+      "year": 2022,
+      "referenceCount": 67,
+      "citationCount": 31,
+      "authors": [
+        {
+          "authorId": "2190082448",
+          "name": "Runyu Zhang"
+        },
+        {
+          "authorId": "2116656839",
+          "name": "Qinghua Liu"
+        },
+        {
+          "authorId": "46507194",
+          "name": "Haiquan Wang"
+        },
+        {
+          "authorId": "2228109",
+          "name": "Caiming Xiong"
+        },
+        {
+          "authorId": "2157950714",
+          "name": "Na Li"
+        },
+        {
+          "authorId": "8681368",
+          "name": "Yu Bai"
+        }
+      ]
+    },
+    {
+      "paperId": "489331394a086c3c6942c4550eac7dfe586dad27",
+      "externalIds": {
+        "DBLP": "conf/cdc/BrahmaBDD22",
+        "DOI": "10.1109/CDC51059.2022.9993200",
+        "CorpusId": 255599263
+      },
+      "url": "https://www.semanticscholar.org/paper/489331394a086c3c6942c4550eac7dfe586dad27",
+      "title": "Convergence Rates of Asynchronous Policy Iteration for Zero-Sum Markov Games under Stochastic and Optimistic Settings",
+      "venue": "IEEE Conference on Decision and Control",
+      "year": 2022,
+      "referenceCount": 21,
+      "citationCount": 4,
+      "authors": [
+        {
+          "authorId": "79981412",
+          "name": "Sarnaduti Brahma"
+        },
+        {
+          "authorId": "2200100634",
+          "name": "Yitao Bai"
+        },
+        {
+          "authorId": "2199956664",
+          "name": "Duy Anh Do"
+        },
+        {
+          "authorId": "25579335",
+          "name": "Thinh T. Doan"
+        }
+      ]
+    },
+    {
+      "paperId": "43d20b615cd65229d467ecb24e3f1eaba561d04e",
+      "externalIds": {
+        "ArXiv": "2212.01623",
+        "DBLP": "journals/corr/abs-2212-01623",
+        "DOI": "10.48550/arXiv.2212.01623",
+        "CorpusId": 254246387
+      },
+      "url": "https://www.semanticscholar.org/paper/43d20b615cd65229d467ecb24e3f1eaba561d04e",
+      "title": "Smoothing Policy Iteration for Zero-sum Markov Games",
+      "venue": "arXiv.org",
+      "year": 2022,
+      "referenceCount": 31,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "3649406",
+          "name": "Yangang Ren"
+        },
+        {
+          "authorId": "2147116186",
+          "name": "Yao Lyu"
+        },
+        {
+          "authorId": "152201640",
+          "name": "Wenxuan Wang"
+        },
+        {
+          "authorId": "2153701830",
+          "name": "Sheng Li"
+        },
+        {
+          "authorId": "2109966305",
+          "name": "Zeyang Li"
+        },
+        {
+          "authorId": "23637596",
+          "name": "Jingliang Duan"
+        }
+      ]
+    },
+    {
+      "paperId": "e5b7d0203dcfb59f2a722c6fe27d054718e55146",
+      "externalIds": {
+        "ArXiv": "2403.07933",
+        "DBLP": "conf/aistats/NikaMSR24",
+        "DOI": "10.48550/arXiv.2403.07933",
+        "CorpusId": 268379006
+      },
+      "url": "https://www.semanticscholar.org/paper/e5b7d0203dcfb59f2a722c6fe27d054718e55146",
+      "title": "Corruption-Robust Offline Two-Player Zero-Sum Markov Games",
+      "venue": "International Conference on Artificial Intelligence and Statistics",
+      "year": 2024,
+      "referenceCount": 83,
+      "citationCount": 4,
+      "authors": [
+        {
+          "authorId": "2283843937",
+          "name": "Andi Nika"
+        },
+        {
+          "authorId": "2970095",
+          "name": "Debmalya Mandal"
+        },
+        {
+          "authorId": "1703727",
+          "name": "A. Singla"
+        },
+        {
+          "authorId": "2283843934",
+          "name": "Goran Radanovi'c"
+        }
+      ]
+    },
+    {
+      "paperId": "affaff1e8870baccb87e9a67b132ddf2c201a081",
+      "externalIds": {
+        "MAG": "3004970331",
+        "ArXiv": "2002.03069",
+        "DBLP": "journals/corr/abs-2002-03069",
+        "CorpusId": 211068936
+      },
+      "url": "https://www.semanticscholar.org/paper/affaff1e8870baccb87e9a67b132ddf2c201a081",
+      "title": "Provably Efficient Adaptive Approximate Policy Iteration",
+      "venue": "arXiv.org",
+      "year": 2020,
+      "referenceCount": 42,
+      "citationCount": 14,
+      "authors": [
+        {
+          "authorId": "30889699",
+          "name": "Botao Hao"
+        },
+        {
+          "authorId": "2849560",
+          "name": "N. Lazic"
+        },
+        {
+          "authorId": "1388837087",
+          "name": "Yasin Abbasi-Yadkori"
+        },
+        {
+          "authorId": "1699365",
+          "name": "Pooria Joulani"
+        },
+        {
+          "authorId": "40868287",
+          "name": "Csaba Szepesvari"
+        }
+      ]
+    },
+    {
+      "paperId": "7d642bd6dd8f3d49b7170ddbd38ffe572571da78",
+      "externalIds": {
+        "ArXiv": "2504.20593",
+        "DBLP": "journals/corr/abs-2504-20593",
+        "DOI": "10.48550/arXiv.2504.20593",
+        "CorpusId": 278171010
+      },
+      "url": "https://www.semanticscholar.org/paper/7d642bd6dd8f3d49b7170ddbd38ffe572571da78",
+      "title": "Independent Learning in Performative Markov Potential Games",
+      "venue": "International Conference on Artificial Intelligence and Statistics",
+      "year": 2025,
+      "referenceCount": 51,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "2358036602",
+          "name": "Rilind Sahitaj"
+        },
+        {
+          "authorId": "2274628332",
+          "name": "Paulius Sasnauskas"
+        },
+        {
+          "authorId": "2342275296",
+          "name": "Yiugit Yalin"
+        },
+        {
+          "authorId": "2970095",
+          "name": "Debmalya Mandal"
+        },
+        {
+          "authorId": "2283843934",
+          "name": "Goran Radanovi'c"
+        }
+      ]
+    },
+    {
+      "paperId": "924cad57c4f443f43ea0c51579a09e89606d546d",
+      "externalIds": {
+        "DBLP": "journals/tcyb/WuWSB25",
+        "DOI": "10.1109/TCYB.2025.3538787",
+        "CorpusId": 276585077,
+        "PubMed": "40031853"
+      },
+      "url": "https://www.semanticscholar.org/paper/924cad57c4f443f43ea0c51579a09e89606d546d",
+      "title": "Multiplayer Differential Games of Markov Jump Systems via Reinforcement Learning",
+      "venue": "IEEE Transactions on Cybernetics",
+      "year": 2025,
+      "referenceCount": 43,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "2187064336",
+          "name": "Jiacheng Wu"
+        },
+        {
+          "authorId": "2341701148",
+          "name": "Jing Wang"
+        },
+        {
+          "authorId": "2238540913",
+          "name": "Hao Shen"
+        },
+        {
+          "authorId": "2244373215",
+          "name": "Michael V. Basin"
+        }
+      ]
+    },
+    {
+      "paperId": "95e88d440a705dc5c04656e33715a960005a15f7",
+      "externalIds": {
+        "DBLP": "conf/aaai/FengDF25",
+        "DOI": "10.1609/aaai.v39i16.33821",
+        "CorpusId": 277761391
+      },
+      "url": "https://www.semanticscholar.org/paper/95e88d440a705dc5c04656e33715a960005a15f7",
+      "title": "Learning Nash Equilibrium of Markov Potential Games with a Shared Constraint via Primal-Dual Optimization",
+      "venue": "AAAI Conference on Artificial Intelligence",
+      "year": 2025,
+      "referenceCount": 0,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2356390723",
+          "name": "Songtao Feng"
+        },
+        {
+          "authorId": "2261493100",
+          "name": "Michael R. Dorothy"
+        },
+        {
+          "authorId": "2357488366",
+          "name": "Jie Fu"
+        }
+      ]
+    }
+  ]
+}

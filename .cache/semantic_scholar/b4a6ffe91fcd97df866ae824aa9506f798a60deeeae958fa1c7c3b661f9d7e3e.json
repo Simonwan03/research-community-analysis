@@ -1,0 +1,349 @@
+{
+  "total": 3483,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "941e4063b19bb314fee56639b5b2ff93caf1f166",
+      "externalIds": {
+        "DBLP": "conf/icml/MirmanDDGV18",
+        "MAG": "2803705533",
+        "CorpusId": 51867634
+      },
+      "url": "https://www.semanticscholar.org/paper/941e4063b19bb314fee56639b5b2ff93caf1f166",
+      "title": "Training Neural Machines with Trace-Based Supervision",
+      "venue": "International Conference on Machine Learning",
+      "year": 2018,
+      "referenceCount": 17,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "51120402",
+          "name": "M. Mirman"
+        },
+        {
+          "authorId": null,
+          "name": "Dimitar Dimitrov"
+        },
+        {
+          "authorId": "1686395612",
+          "name": "P. Djordjevic"
+        },
+        {
+          "authorId": "2959734",
+          "name": "T. Gehr"
+        },
+        {
+          "authorId": "1736447",
+          "name": "Martin T. Vechev"
+        }
+      ]
+    },
+    {
+      "paperId": "1009a59dbe292c397111f4109bebc50f81955b8d",
+      "externalIds": {
+        "MAG": "2786509175",
+        "CorpusId": 67424731
+      },
+      "url": "https://www.semanticscholar.org/paper/1009a59dbe292c397111f4109bebc50f81955b8d",
+      "title": "Training Neural Machines with Partial Traces",
+      "venue": "",
+      "year": 2018,
+      "referenceCount": 0,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "51120402",
+          "name": "M. Mirman"
+        },
+        {
+          "authorId": null,
+          "name": "Dimitar Dimitrov"
+        },
+        {
+          "authorId": "71075387",
+          "name": "Pavle Djordjevich"
+        },
+        {
+          "authorId": "2959734",
+          "name": "T. Gehr"
+        },
+        {
+          "authorId": "1736447",
+          "name": "Martin T. Vechev"
+        }
+      ]
+    },
+    {
+      "paperId": "6df3e69cd4cda0a48fa8819196fed9061855ce79",
+      "externalIds": {
+        "ACL": "2021.emnlp-main.130",
+        "DBLP": "conf/emnlp/AlinejadSS21",
+        "DOI": "10.18653/v1/2021.emnlp-main.130",
+        "CorpusId": 243865150
+      },
+      "url": "https://www.semanticscholar.org/paper/6df3e69cd4cda0a48fa8819196fed9061855ce79",
+      "title": "Translation-based Supervision for Policy Generation in Simultaneous Neural Machine Translation",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2021,
+      "referenceCount": 29,
+      "citationCount": 12,
+      "authors": [
+        {
+          "authorId": "26956998",
+          "name": "Ashkan Alinejad"
+        },
+        {
+          "authorId": "51121270",
+          "name": "Hassan S. Shavarani"
+        },
+        {
+          "authorId": "3028658",
+          "name": "Anoop Sarkar"
+        }
+      ]
+    },
+    {
+      "paperId": "c55de4ba126e2c8ec6be10b84ead54a0cd46e720",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2002-02193",
+        "MAG": "3004632877",
+        "ArXiv": "2002.02193",
+        "DOI": "10.3233/FAIA200237",
+        "CorpusId": 211043681
+      },
+      "url": "https://www.semanticscholar.org/paper/c55de4ba126e2c8ec6be10b84ead54a0cd46e720",
+      "title": "Relational Neural Machines",
+      "venue": "European Conference on Artificial Intelligence",
+      "year": 2020,
+      "referenceCount": 48,
+      "citationCount": 43,
+      "authors": [
+        {
+          "authorId": "2065039297",
+          "name": "G. Marra"
+        },
+        {
+          "authorId": "1767359",
+          "name": "Michelangelo Diligenti"
+        },
+        {
+          "authorId": "2259944783",
+          "name": "Francesco Giannini"
+        },
+        {
+          "authorId": "145467467",
+          "name": "M. Gori"
+        },
+        {
+          "authorId": "35251916",
+          "name": "Marco Maggini"
+        }
+      ]
+    },
+    {
+      "paperId": "4ca430d4640afa4a3838371a08f8f418284bdb7c",
+      "externalIds": {
+        "MAG": "2546950329",
+        "ArXiv": "1611.00020",
+        "DBLP": "journals/corr/LiangBLFL16",
+        "ACL": "P17-1003",
+        "DOI": "10.18653/v1/P17-1003",
+        "CorpusId": 2742513
+      },
+      "url": "https://www.semanticscholar.org/paper/4ca430d4640afa4a3838371a08f8f418284bdb7c",
+      "title": "Neural Symbolic Machines: Learning Semantic Parsers on Freebase with Weak Supervision",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": 2016,
+      "referenceCount": 49,
+      "citationCount": 427,
+      "authors": [
+        {
+          "authorId": "145246869",
+          "name": "Chen Liang"
+        },
+        {
+          "authorId": "1750652",
+          "name": "Jonathan Berant"
+        },
+        {
+          "authorId": "2827616",
+          "name": "Quoc V. Le"
+        },
+        {
+          "authorId": "1713121",
+          "name": "Kenneth D. Forbus"
+        },
+        {
+          "authorId": "1914797",
+          "name": "N. Lao"
+        }
+      ]
+    },
+    {
+      "paperId": "b35b0a19425129432eefc21c3a9a1825f328c4b1",
+      "externalIds": {
+        "MAG": "3049326502",
+        "DBLP": "conf/nips/ChenLYSZ20",
+        "ArXiv": "2008.06662",
+        "CorpusId": 221139844
+      },
+      "url": "https://www.semanticscholar.org/paper/b35b0a19425129432eefc21c3a9a1825f328c4b1",
+      "title": "Compositional Generalization via Neural-Symbolic Stack Machines",
+      "venue": "Neural Information Processing Systems",
+      "year": 2020,
+      "referenceCount": 53,
+      "citationCount": 107,
+      "authors": [
+        {
+          "authorId": "1425082935",
+          "name": "Xinyun Chen"
+        },
+        {
+          "authorId": "145246869",
+          "name": "Chen Liang"
+        },
+        {
+          "authorId": "40625240",
+          "name": "Adams Wei Yu"
+        },
+        {
+          "authorId": "143711382",
+          "name": "D. Song"
+        },
+        {
+          "authorId": "65855107",
+          "name": "Denny Zhou"
+        }
+      ]
+    },
+    {
+      "paperId": "ea4733a3fb86bba44137d58635a91cf0c8d8f300",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2209-11116",
+        "ArXiv": "2209.11116",
+        "DOI": "10.48550/arXiv.2209.11116",
+        "CorpusId": 252439155
+      },
+      "url": "https://www.semanticscholar.org/paper/ea4733a3fb86bba44137d58635a91cf0c8d8f300",
+      "title": "Training neural network ensembles via trajectory sampling",
+      "venue": "arXiv.org",
+      "year": 2022,
+      "referenceCount": 40,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "1720732860",
+          "name": "Jamie F. Mair"
+        },
+        {
+          "authorId": "39735569",
+          "name": "Dominic C. Rose"
+        },
+        {
+          "authorId": "4424096",
+          "name": "J. P. Garrahan"
+        }
+      ]
+    },
+    {
+      "paperId": "9c745c7162e26bf0a8005330918235656356bc73",
+      "externalIds": {
+        "PubMedCentral": "11294154",
+        "DOI": "10.3389/fcvm.2024.1341786",
+        "CorpusId": 271335747,
+        "PubMed": "39100388"
+      },
+      "url": "https://www.semanticscholar.org/paper/9c745c7162e26bf0a8005330918235656356bc73",
+      "title": "Generalising electrocardiogram detection and delineation: training convolutional neural networks with synthetic data augmentation",
+      "venue": "Frontiers in Cardiovascular Medicine",
+      "year": 2024,
+      "referenceCount": 59,
+      "citationCount": 10,
+      "authors": [
+        {
+          "authorId": "1505800495",
+          "name": "Guillermo Jiménez-Pérez"
+        },
+        {
+          "authorId": "2312437386",
+          "name": "Juan Acosta"
+        },
+        {
+          "authorId": "2113302",
+          "name": "A. Alcaine"
+        },
+        {
+          "authorId": "2300703889",
+          "name": "O. Camara"
+        }
+      ]
+    },
+    {
+      "paperId": "229ee685a5915897795b9f66fc7b2f884551dff6",
+      "externalIds": {
+        "DBLP": "conf/emnlp/RaganatoVCT21",
+        "ACL": "2021.emnlp-main.664",
+        "DOI": "10.18653/v1/2021.emnlp-main.664",
+        "CorpusId": 239993316
+      },
+      "url": "https://www.semanticscholar.org/paper/229ee685a5915897795b9f66fc7b2f884551dff6",
+      "title": "An Empirical Investigation of Word Alignment Supervision for Zero-Shot Multilingual Neural Machine Translation",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2021,
+      "referenceCount": 50,
+      "citationCount": 9,
+      "authors": [
+        {
+          "authorId": "3106437",
+          "name": "Alessandro Raganato"
+        },
+        {
+          "authorId": "119942558",
+          "name": "Raúl Vázquez"
+        },
+        {
+          "authorId": "2219854",
+          "name": "Mathias Creutz"
+        },
+        {
+          "authorId": "143675545",
+          "name": "J. Tiedemann"
+        }
+      ]
+    },
+    {
+      "paperId": "8c7cc730e5e7001a1812434869d6e53abce6aa3d",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2410-03085",
+        "ArXiv": "2410.03085",
+        "DOI": "10.48550/arXiv.2410.03085",
+        "CorpusId": 273163116
+      },
+      "url": "https://www.semanticscholar.org/paper/8c7cc730e5e7001a1812434869d6e53abce6aa3d",
+      "title": "Optimization Proxies using Limited Labeled Data and Training Time - A Semi-Supervised Bayesian Neural Network Approach",
+      "venue": "International Conference on Machine Learning",
+      "year": 2024,
+      "referenceCount": 30,
+      "citationCount": 4,
+      "authors": [
+        {
+          "authorId": "153584029",
+          "name": "Parikshit Pareek"
+        },
+        {
+          "authorId": "144126548",
+          "name": "K. Sundar"
+        },
+        {
+          "authorId": "40266420",
+          "name": "Deepjyoti Deka"
+        },
+        {
+          "authorId": "38429804",
+          "name": "Sidhant Misra"
+        }
+      ]
+    }
+  ]
+}

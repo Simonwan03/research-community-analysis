@@ -1,0 +1,307 @@
+{
+  "total": 1249,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "2a91c778288f67c856041447f350a1a022fc6554",
+      "externalIds": {
+        "DBLP": "conf/icml/MandtHB16",
+        "ArXiv": "1602.02666",
+        "MAG": "2259695933",
+        "CorpusId": 354863
+      },
+      "url": "https://www.semanticscholar.org/paper/2a91c778288f67c856041447f350a1a022fc6554",
+      "title": "A Variational Analysis of Stochastic Gradient Algorithms",
+      "venue": "International Conference on Machine Learning",
+      "year": 2016,
+      "referenceCount": 34,
+      "citationCount": 176,
+      "authors": [
+        {
+          "authorId": "2403511368",
+          "name": "Stephan Mandt"
+        },
+        {
+          "authorId": "28552618",
+          "name": "M. Hoffman"
+        },
+        {
+          "authorId": "1796335",
+          "name": "D. Blei"
+        }
+      ]
+    },
+    {
+      "paperId": "8873696fe4a165cb51e9254d8b16a6615b0649b7",
+      "externalIds": {
+        "ArXiv": "2502.19576",
+        "CorpusId": 276647486
+      },
+      "url": "https://www.semanticscholar.org/paper/8873696fe4a165cb51e9254d8b16a6615b0649b7",
+      "title": "An Analysis of First- and Quasi-Second-Order Optimization Algorithms in Variational Monte Carlo",
+      "venue": "",
+      "year": 2025,
+      "referenceCount": 99,
+      "citationCount": 3,
+      "authors": [
+        {
+          "authorId": "2256989300",
+          "name": "Ruojing Peng"
+        },
+        {
+          "authorId": "2251914376",
+          "name": "Garnet Kin-Lic Chan"
+        }
+      ]
+    },
+    {
+      "paperId": "f91ca1bfe2c3f857b018948bb152c1d9a74b4018",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2107-00052",
+        "ArXiv": "2107.00052",
+        "CorpusId": 235694268
+      },
+      "url": "https://www.semanticscholar.org/paper/f91ca1bfe2c3f857b018948bb152c1d9a74b4018",
+      "title": "Stochastic Gradient Descent-Ascent and Consensus Optimization for Smooth Games: Convergence Analysis under Expected Co-coercivity",
+      "venue": "Neural Information Processing Systems",
+      "year": 2021,
+      "referenceCount": 82,
+      "citationCount": 64,
+      "authors": [
+        {
+          "authorId": "1941365",
+          "name": "Nicolas Loizou"
+        },
+        {
+          "authorId": "40201329",
+          "name": "Hugo Berard"
+        },
+        {
+          "authorId": "8150760",
+          "name": "G. Gidel"
+        },
+        {
+          "authorId": "3168518",
+          "name": "Ioannis Mitliagkas"
+        },
+        {
+          "authorId": "1388317459",
+          "name": "Simon Lacoste-Julien"
+        }
+      ]
+    },
+    {
+      "paperId": "0baa8a43b6aa3b575dae240b505a8630935a7980",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2302-14043",
+        "ArXiv": "2302.14043",
+        "DOI": "10.48550/arXiv.2302.14043",
+        "CorpusId": 257220139
+      },
+      "url": "https://www.semanticscholar.org/paper/0baa8a43b6aa3b575dae240b505a8630935a7980",
+      "title": "Single-Call Stochastic Extragradient Methods for Structured Non-monotone Variational Inequalities: Improved Analysis under Weaker Conditions",
+      "venue": "Neural Information Processing Systems",
+      "year": 2023,
+      "referenceCount": 85,
+      "citationCount": 18,
+      "authors": [
+        {
+          "authorId": "143716644",
+          "name": "S. Choudhury"
+        },
+        {
+          "authorId": "144044688",
+          "name": "Eduard A. Gorbunov"
+        },
+        {
+          "authorId": "1941365",
+          "name": "Nicolas Loizou"
+        }
+      ]
+    },
+    {
+      "paperId": "58578d24c2f021fe719995a4eabdd7e5e52169c8",
+      "externalIds": {
+        "DBLP": "conf/scalespace/RenaudHP25",
+        "ArXiv": "2412.08262",
+        "DOI": "10.1007/978-3-031-92369-2_2",
+        "CorpusId": 274638813
+      },
+      "url": "https://www.semanticscholar.org/paper/58578d24c2f021fe719995a4eabdd7e5e52169c8",
+      "title": "Convergence Analysis of a Proximal Stochastic Denoising Regularization Algorithm",
+      "venue": "Scale Space and Variational Methods in Computer Vision",
+      "year": 2024,
+      "referenceCount": 36,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2282541656",
+          "name": "Marien Renaud"
+        },
+        {
+          "authorId": "2303847848",
+          "name": "Julien Hermant"
+        },
+        {
+          "authorId": "2242882182",
+          "name": "N. Papadakis"
+        }
+      ]
+    },
+    {
+      "paperId": "8799eff0796719d6d2eb055688a8162a1a54bc03",
+      "externalIds": {
+        "ArXiv": "2306.05100",
+        "DBLP": "conf/iclr/ZhangCSL24",
+        "DOI": "10.48550/arXiv.2306.05100",
+        "CorpusId": 259108957
+      },
+      "url": "https://www.semanticscholar.org/paper/8799eff0796719d6d2eb055688a8162a1a54bc03",
+      "title": "Communication-Efficient Gradient Descent-Accent Methods for Distributed Variational Inequalities: Unified Analysis and Local Updates",
+      "venue": "International Conference on Learning Representations",
+      "year": 2023,
+      "referenceCount": 96,
+      "citationCount": 9,
+      "authors": [
+        {
+          "authorId": "37570865",
+          "name": "Siqi Zhang"
+        },
+        {
+          "authorId": "2057603189",
+          "name": "S. Choudhury"
+        },
+        {
+          "authorId": "2127057",
+          "name": "Sebastian U. Stich"
+        },
+        {
+          "authorId": "1941365",
+          "name": "Nicolas Loizou"
+        }
+      ]
+    },
+    {
+      "paperId": "c4020d85eb25b3782c634cb36dd5d00c4300b43c",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2302-09029",
+        "ArXiv": "2302.09029",
+        "DOI": "10.48550/arXiv.2302.09029",
+        "CorpusId": 257019874
+      },
+      "url": "https://www.semanticscholar.org/paper/c4020d85eb25b3782c634cb36dd5d00c4300b43c",
+      "title": "Solving stochastic weak Minty variational inequalities without increasing batch size",
+      "venue": "International Conference on Learning Representations",
+      "year": 2023,
+      "referenceCount": 37,
+      "citationCount": 32,
+      "authors": [
+        {
+          "authorId": "148230492",
+          "name": "T. Pethick"
+        },
+        {
+          "authorId": "2442024",
+          "name": "Olivier Fercoq"
+        },
+        {
+          "authorId": "8018511",
+          "name": "Puya Latafat"
+        },
+        {
+          "authorId": "1772856",
+          "name": "Panagiotis Patrinos"
+        },
+        {
+          "authorId": "1678641",
+          "name": "V. Cevher"
+        }
+      ]
+    },
+    {
+      "paperId": "9d5289ba92e95b51431f93964329f9a046a9d266",
+      "externalIds": {
+        "DBLP": "conf/aistats/BeznosikovGBL23",
+        "ArXiv": "2202.07262",
+        "CorpusId": 246863710
+      },
+      "url": "https://www.semanticscholar.org/paper/9d5289ba92e95b51431f93964329f9a046a9d266",
+      "title": "Stochastic Gradient Descent-Ascent: Unified Theory and New Efficient Methods",
+      "venue": "International Conference on Artificial Intelligence and Statistics",
+      "year": 2022,
+      "referenceCount": 109,
+      "citationCount": 62,
+      "authors": [
+        {
+          "authorId": "1429835115",
+          "name": "A. Beznosikov"
+        },
+        {
+          "authorId": "144044688",
+          "name": "Eduard A. Gorbunov"
+        },
+        {
+          "authorId": "40201329",
+          "name": "Hugo Berard"
+        },
+        {
+          "authorId": "1941365",
+          "name": "Nicolas Loizou"
+        }
+      ]
+    },
+    {
+      "paperId": "1d0f0f6d32071ecffec8705f17b169458eae3dda",
+      "externalIds": {
+        "DBLP": "journals/apjor/BaiCCY25",
+        "DOI": "10.1142/s0217595925500101",
+        "CorpusId": 277980582
+      },
+      "url": "https://www.semanticscholar.org/paper/1d0f0f6d32071ecffec8705f17b169458eae3dda",
+      "title": "Convergence Analysis on A Data-Driven Inexact Proximal-Indefinite Stochastic ADMM",
+      "venue": "Asia Pac. J. Oper. Res.",
+      "year": 2025,
+      "referenceCount": 0,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2319766529",
+          "name": "Jianchao Bai"
+        },
+        {
+          "authorId": "2343514628",
+          "name": "Yang Chen"
+        },
+        {
+          "authorId": "2353207725",
+          "name": "Xingju Cai"
+        },
+        {
+          "authorId": "2343478174",
+          "name": "Xue Yu"
+        }
+      ]
+    },
+    {
+      "paperId": "087db3a5982b7b6a0d22e5bfa8692534446946fa",
+      "externalIds": {
+        "ArXiv": "1509.01631",
+        "MAG": "1919588359",
+        "CorpusId": 88515836
+      },
+      "url": "https://www.semanticscholar.org/paper/087db3a5982b7b6a0d22e5bfa8692534446946fa",
+      "title": "Stochastic gradient variational Bayes for gamma approximating distributions",
+      "venue": "",
+      "year": 2015,
+      "referenceCount": 31,
+      "citationCount": 53,
+      "authors": [
+        {
+          "authorId": "3250170",
+          "name": "David A. Knowles"
+        }
+      ]
+    }
+  ]
+}

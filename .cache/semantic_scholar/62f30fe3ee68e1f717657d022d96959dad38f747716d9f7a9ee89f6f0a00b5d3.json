@@ -1,0 +1,312 @@
+{
+  "total": 121,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "75bcac37b154eec4623c1423d7b330fc2055a67e",
+      "externalIds": {
+        "MAG": "2592914533",
+        "ArXiv": "1611.02109",
+        "DBLP": "conf/icml/GauntBKT17",
+        "CorpusId": 15016881
+      },
+      "url": "https://www.semanticscholar.org/paper/75bcac37b154eec4623c1423d7b330fc2055a67e",
+      "title": "Differentiable Programs with Neural Libraries",
+      "venue": "International Conference on Machine Learning",
+      "year": 2016,
+      "referenceCount": 41,
+      "citationCount": 77,
+      "authors": [
+        {
+          "authorId": "35058304",
+          "name": "Alexander L. Gaunt"
+        },
+        {
+          "authorId": "2107692",
+          "name": "Marc Brockschmidt"
+        },
+        {
+          "authorId": "1684887",
+          "name": "Nate Kushman"
+        },
+        {
+          "authorId": "1725299",
+          "name": "Daniel Tarlow"
+        }
+      ]
+    },
+    {
+      "paperId": "8e3bcf654e3e228428e72e069abe60be41116076",
+      "externalIds": {
+        "ArXiv": "2407.04899",
+        "CorpusId": 271050186
+      },
+      "url": "https://www.semanticscholar.org/paper/8e3bcf654e3e228428e72e069abe60be41116076",
+      "title": "Algorithmic Language Models with Neurally Compiled Libraries",
+      "venue": "",
+      "year": 2024,
+      "referenceCount": 51,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "2282541267",
+          "name": "Lucas Saldyt"
+        },
+        {
+          "authorId": "2047340230",
+          "name": "Subbarao Kambhampati"
+        }
+      ]
+    },
+    {
+      "paperId": "27aacde73634239bc1f920435a609078f0ce1583",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2407-04899",
+        "DOI": "10.48550/arXiv.2407.04899",
+        "CorpusId": 278966144
+      },
+      "url": "https://www.semanticscholar.org/paper/27aacde73634239bc1f920435a609078f0ce1583",
+      "title": "Algorithmic Language Models with Neurally Compiled Libraries",
+      "venue": "arXiv.org",
+      "year": 2024,
+      "referenceCount": 38,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2282541267",
+          "name": "Lucas Saldyt"
+        },
+        {
+          "authorId": "2047340230",
+          "name": "Subbarao Kambhampati"
+        }
+      ]
+    },
+    {
+      "paperId": "8f811dc35a13cadc387bdc23e6a7317ab564dc68",
+      "externalIds": {
+        "ArXiv": "2206.12675",
+        "DBLP": "journals/corr/abs-2206-12675",
+        "DOI": "10.48550/arXiv.2206.12675",
+        "CorpusId": 250072948
+      },
+      "url": "https://www.semanticscholar.org/paper/8f811dc35a13cadc387bdc23e6a7317ab564dc68",
+      "title": "Learning to Infer 3D Shape Programs with Differentiable Renderer",
+      "venue": "arXiv.org",
+      "year": 2022,
+      "referenceCount": 15,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "2028804717",
+          "name": "Yi-Chuan Liang"
+        }
+      ]
+    },
+    {
+      "paperId": "e99c82c05fc0e4cbd7892a544338cf0af96687fb",
+      "externalIds": {
+        "ArXiv": "2502.08932",
+        "DBLP": "journals/corr/abs-2502-08932",
+        "DOI": "10.48550/arXiv.2502.08932",
+        "CorpusId": 276317673
+      },
+      "url": "https://www.semanticscholar.org/paper/e99c82c05fc0e4cbd7892a544338cf0af96687fb",
+      "title": "On the Promise for Assurance of Differentiable Neurosymbolic Reasoning Paradigms",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "referenceCount": 42,
+      "citationCount": 4,
+      "authors": [
+        {
+          "authorId": "20566880",
+          "name": "Luke E. Richards"
+        },
+        {
+          "authorId": "2345188157",
+          "name": "Jessie Yaros"
+        },
+        {
+          "authorId": "2334029643",
+          "name": "Jasen Babcock"
+        },
+        {
+          "authorId": "2345188120",
+          "name": "Coung Ly"
+        },
+        {
+          "authorId": "2345189151",
+          "name": "Robin Cosbey"
+        },
+        {
+          "authorId": "2345189242",
+          "name": "Timothy Doster"
+        },
+        {
+          "authorId": "2127879703",
+          "name": "Cynthia Matuszek"
+        }
+      ]
+    },
+    {
+      "paperId": "3c789b933cee7a3891277f2dd84779900ed76794",
+      "externalIds": {
+        "DBLP": "conf/mlsp/AlkhouriAV22",
+        "DOI": "10.1109/MLSP55214.2022.9943476",
+        "CorpusId": 253630282
+      },
+      "url": "https://www.semanticscholar.org/paper/3c789b933cee7a3891277f2dd84779900ed76794",
+      "title": "A Differentiable Approach to the Maximum Independent Set Problem Using Graph-Based Neural Network Structures",
+      "venue": "International Workshop on Machine Learning for Signal Processing",
+      "year": 2022,
+      "referenceCount": 20,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "69339617",
+          "name": "Ismail R. Alkhouri"
+        },
+        {
+          "authorId": "46893530",
+          "name": "George K. Atia"
+        },
+        {
+          "authorId": "2152059311",
+          "name": "Alvaro Velasquez"
+        }
+      ]
+    },
+    {
+      "paperId": "8512a41e985ff056d8f80f2e5d73d76c6692c5a8",
+      "externalIds": {
+        "MAG": "2795447666",
+        "DBLP": "journals/corr/abs-1804-00218",
+        "CorpusId": 195346896
+      },
+      "url": "https://www.semanticscholar.org/paper/8512a41e985ff056d8f80f2e5d73d76c6692c5a8",
+      "title": "Synthesis of Differentiable Functional Programs for Lifelong Learning",
+      "venue": "Neural Information Processing Systems",
+      "year": 2018,
+      "referenceCount": 43,
+      "citationCount": 1,
+      "authors": [
+        {
+          "authorId": "41016771",
+          "name": "Lazar Valkov"
+        },
+        {
+          "authorId": "1843267",
+          "name": "Dipak Chaudhari"
+        },
+        {
+          "authorId": "2018087",
+          "name": "Akash Srivastava"
+        },
+        {
+          "authorId": "37210858",
+          "name": "Charles Sutton"
+        },
+        {
+          "authorId": "35865989",
+          "name": "Swarat Chaudhuri"
+        }
+      ]
+    },
+    {
+      "paperId": "f227d579bd48edf3c7d224d5b0625e3e0d3f4e78",
+      "externalIds": {
+        "ArXiv": "2310.02286",
+        "DBLP": "conf/sc/NgueguinBD23",
+        "DOI": "10.1145/3624062.3626078",
+        "CorpusId": 263622238
+      },
+      "url": "https://www.semanticscholar.org/paper/f227d579bd48edf3c7d224d5b0625e3e0d3f4e78",
+      "title": "A Comparison of Mesh-Free Differentiable Programming and Data-Driven Strategies for Optimal Control under PDE Constraints",
+      "venue": "SC Workshops",
+      "year": 2023,
+      "referenceCount": 55,
+      "citationCount": 8,
+      "authors": [
+        {
+          "authorId": "2268778706",
+          "name": "Roussel Desmond Nzoyem"
+        },
+        {
+          "authorId": "2253679153",
+          "name": "D. Barton"
+        },
+        {
+          "authorId": "2266399605",
+          "name": "Tom Deakin"
+        }
+      ]
+    },
+    {
+      "paperId": "d7658abb878b29f67499b416cf4b10177a7831fe",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2409-06085",
+        "ArXiv": "2409.06085",
+        "DOI": "10.48550/arXiv.2409.06085",
+        "CorpusId": 272550705
+      },
+      "url": "https://www.semanticscholar.org/paper/d7658abb878b29f67499b416cf4b10177a7831fe",
+      "title": "Differentiable programming across the PDE and Machine Learning barrier",
+      "venue": "arXiv.org",
+      "year": 2024,
+      "referenceCount": 58,
+      "citationCount": 8,
+      "authors": [
+        {
+          "authorId": "2284526250",
+          "name": "N. Bouziani"
+        },
+        {
+          "authorId": "2320467247",
+          "name": "David A. Ham"
+        },
+        {
+          "authorId": "2320466416",
+          "name": "Ado Farsi"
+        }
+      ]
+    },
+    {
+      "paperId": "15fe7116cedfc7f17f81d57df08a3a1877dbc54c",
+      "externalIds": {
+        "DBLP": "conf/itp/AffeldtBKSS24",
+        "ArXiv": "2403.13700",
+        "DOI": "10.48550/arXiv.2403.13700",
+        "CorpusId": 268536758
+      },
+      "url": "https://www.semanticscholar.org/paper/15fe7116cedfc7f17f81d57df08a3a1877dbc54c",
+      "title": "Taming Differentiable Logics with Coq Formalisation",
+      "venue": "International Conference on Interactive Theorem Proving",
+      "year": 2024,
+      "referenceCount": 27,
+      "citationCount": 4,
+      "authors": [
+        {
+          "authorId": "2820273",
+          "name": "Reynald Affeldt"
+        },
+        {
+          "authorId": "2299324798",
+          "name": "Alessandro Bruni"
+        },
+        {
+          "authorId": "2875686",
+          "name": "Ekaterina Komendantskaya"
+        },
+        {
+          "authorId": "2176183894",
+          "name": "Natalia Slusarz"
+        },
+        {
+          "authorId": "2285516466",
+          "name": "Kathrin Stark"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,355 @@
+{
+  "total": 63,
+  "offset": 0,
+  "next": 10,
+  "data": [
+    {
+      "paperId": "3e3a2e08095fd7402a97aaf6e73b6dbfdd58de79",
+      "externalIds": {
+        "MAG": "2167421362",
+        "DBLP": "conf/icml/XiaoBBFER15",
+        "ArXiv": "1804.07933",
+        "CorpusId": 5077922
+      },
+      "url": "https://www.semanticscholar.org/paper/3e3a2e08095fd7402a97aaf6e73b6dbfdd58de79",
+      "title": "Is Feature Selection Secure against Training Data Poisoning?",
+      "venue": "International Conference on Machine Learning",
+      "year": 2015,
+      "referenceCount": 43,
+      "citationCount": 443,
+      "authors": [
+        {
+          "authorId": "2114239129",
+          "name": "Huang Xiao"
+        },
+        {
+          "authorId": "1684175",
+          "name": "B. Biggio"
+        },
+        {
+          "authorId": "145485821",
+          "name": "Gavin Brown"
+        },
+        {
+          "authorId": "1716261",
+          "name": "G. Fumera"
+        },
+        {
+          "authorId": "49601001",
+          "name": "C. Eckert"
+        },
+        {
+          "authorId": "1710171",
+          "name": "F. Roli"
+        }
+      ]
+    },
+    {
+      "paperId": "395609306f606b63ce453d0d3fa653c5089f3ec1",
+      "externalIds": {
+        "DBLP": "conf/icassp/0004D19",
+        "MAG": "2936538270",
+        "DOI": "10.1109/ICASSP.2019.8683530",
+        "CorpusId": 145980524
+      },
+      "url": "https://www.semanticscholar.org/paper/395609306f606b63ce453d0d3fa653c5089f3ec1",
+      "title": "Data Poisoning Attacks against MRMR",
+      "venue": "IEEE International Conference on Acoustics, Speech, and Signal Processing",
+      "year": 2019,
+      "referenceCount": 19,
+      "citationCount": 6,
+      "authors": [
+        {
+          "authorId": "2109277336",
+          "name": "Heng Liu"
+        },
+        {
+          "authorId": "1764769",
+          "name": "G. Ditzler"
+        }
+      ]
+    },
+    {
+      "paperId": "0496f5dd34745f0f5107a37d5bd21a96631800fb",
+      "externalIds": {
+        "ArXiv": "2510.22274",
+        "DBLP": "journals/corr/abs-2510-22274",
+        "DOI": "10.48550/arXiv.2510.22274",
+        "CorpusId": 282389442
+      },
+      "url": "https://www.semanticscholar.org/paper/0496f5dd34745f0f5107a37d5bd21a96631800fb",
+      "title": "SecureLearn - An Attack-agnostic Defense for Multiclass Machine Learning Against Data Poisoning Attacks",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "referenceCount": 46,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2203148982",
+          "name": "Anum Paracha"
+        },
+        {
+          "authorId": "2310380171",
+          "name": "Junaid Arshad"
+        },
+        {
+          "authorId": "2298182297",
+          "name": "Mohamed Ben Farah"
+        },
+        {
+          "authorId": "2298182565",
+          "name": "Khalid Ismail"
+        }
+      ]
+    },
+    {
+      "paperId": "c410782000ca9b6306a5de1d120719c070e4f38d",
+      "externalIds": {
+        "DBLP": "journals/tnn/YuMZLNZZ25",
+        "DOI": "10.1109/TNNLS.2024.3486028",
+        "CorpusId": 273847930,
+        "PubMed": "39499608"
+      },
+      "url": "https://www.semanticscholar.org/paper/c410782000ca9b6306a5de1d120719c070e4f38d",
+      "title": "Secure and Efficient Federated Learning Against Model Poisoning Attacks in Horizontal and Vertical Data Partitioning",
+      "venue": "IEEE Transactions on Neural Networks and Learning Systems",
+      "year": 2024,
+      "referenceCount": 60,
+      "citationCount": 6,
+      "authors": [
+        {
+          "authorId": "2148259000",
+          "name": "Chong Yu"
+        },
+        {
+          "authorId": "2261557414",
+          "name": "Zhenyu Meng"
+        },
+        {
+          "authorId": "2316780551",
+          "name": "Wenmiao Zhang"
+        },
+        {
+          "authorId": "2329338480",
+          "name": "Lei Lei"
+        },
+        {
+          "authorId": "2261545381",
+          "name": "Jianbing Ni"
+        },
+        {
+          "authorId": "2156563615",
+          "name": "Kuan Zhang"
+        },
+        {
+          "authorId": "2155731406",
+          "name": "Hai Zhao"
+        }
+      ]
+    },
+    {
+      "paperId": "c9dd355e2af5b25b9a6ebe15de6fef6b30c8a523",
+      "externalIds": {
+        "DBLP": "journals/tnsm/NowrooziMRTC25",
+        "DOI": "10.1109/TNSM.2025.3594253",
+        "CorpusId": 280402653
+      },
+      "url": "https://www.semanticscholar.org/paper/c9dd355e2af5b25b9a6ebe15de6fef6b30c8a523",
+      "title": "A Random Deep Feature Selection Approach to Mitigate Transferable Adversarial Attacks",
+      "venue": "IEEE Transactions on Network and Service Management",
+      "year": 2025,
+      "referenceCount": 39,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "26973516",
+          "name": "Ehsan Nowroozi"
+        },
+        {
+          "authorId": "2235633920",
+          "name": "Mohammadreza Mohammadi"
+        },
+        {
+          "authorId": "2314619103",
+          "name": "Ahmad Rahdari"
+        },
+        {
+          "authorId": "2281953382",
+          "name": "Rahim Taheri"
+        },
+        {
+          "authorId": "2242476137",
+          "name": "Mauro Conti"
+        }
+      ]
+    },
+    {
+      "paperId": "f64b3106f72d9ecdaca924b3af9b9d85a779a553",
+      "externalIds": {
+        "DOI": "10.55041/ijsrem60198",
+        "CorpusId": 287487973
+      },
+      "url": "https://www.semanticscholar.org/paper/f64b3106f72d9ecdaca924b3af9b9d85a779a553",
+      "title": "DATA POISONING ATTACKS ON REGRESSION MODELS AND THEIR DEFENSES",
+      "venue": "INTERNATIONAL JOURNAL OF SCIENTIFIC RESEARCH IN ENGINEERING AND MANAGEMENT",
+      "year": 2026,
+      "referenceCount": 0,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2429717439",
+          "name": " Abhishek R Karanje"
+        },
+        {
+          "authorId": "2429718095",
+          "name": "Spoorti P Patgar"
+        },
+        {
+          "authorId": "2429718117",
+          "name": "Akshata Jawade"
+        }
+      ]
+    },
+    {
+      "paperId": "129a89b7645a81e7affe425c6d71443339d99b94",
+      "externalIds": {
+        "MAG": "2953313816",
+        "DBLP": "journals/tifs/ChenTLNZB19",
+        "ArXiv": "1802.00573",
+        "DOI": "10.1109/TIFS.2019.2901826",
+        "CorpusId": 3632913
+      },
+      "url": "https://www.semanticscholar.org/paper/129a89b7645a81e7affe425c6d71443339d99b94",
+      "title": "Secure Detection of Image Manipulation by Means of Random Feature Selection",
+      "venue": "IEEE Transactions on Information Forensics and Security",
+      "year": 2018,
+      "referenceCount": 51,
+      "citationCount": 36,
+      "authors": [
+        {
+          "authorId": "46842323",
+          "name": "Z. Chen"
+        },
+        {
+          "authorId": "2488892",
+          "name": "B. Tondi"
+        },
+        {
+          "authorId": "2108672658",
+          "name": "Xiaolong Li"
+        },
+        {
+          "authorId": "143767230",
+          "name": "R. Ni"
+        },
+        {
+          "authorId": "1517826311",
+          "name": "Yao Zhao"
+        },
+        {
+          "authorId": "144625576",
+          "name": "M. Barni"
+        }
+      ]
+    },
+    {
+      "paperId": "6e6c406381d44a21be8ba2fb5d73bcbf177e0629",
+      "externalIds": {
+        "DOI": "10.1109/R10-HTC59322.2024.10778860",
+        "CorpusId": 274640025
+      },
+      "url": "https://www.semanticscholar.org/paper/6e6c406381d44a21be8ba2fb5d73bcbf177e0629",
+      "title": "SeeD: AI-based Secure Data Exchange Framework for Connected Electric Vehicles",
+      "venue": "2024 IEEE 12th Region 10 Humanitarian Technology Conference (R10-HTC)",
+      "year": 2024,
+      "referenceCount": 2,
+      "citationCount": 0,
+      "authors": [
+        {
+          "authorId": "2334755001",
+          "name": "Karm Dave"
+        },
+        {
+          "authorId": "2334753119",
+          "name": "Jay Gor"
+        },
+        {
+          "authorId": "2335518603",
+          "name": "Neel Patel"
+        },
+        {
+          "authorId": "1739965103",
+          "name": "Rajesh K. Gupta"
+        },
+        {
+          "authorId": "49252696",
+          "name": "Sudeep Tanwar"
+        }
+      ]
+    },
+    {
+      "paperId": "a9b74a156e75d8528b7f7751d63a02738a26d097",
+      "externalIds": {
+        "DOI": "10.1109/ICoICC64033.2025.11052110",
+        "CorpusId": 279802541
+      },
+      "url": "https://www.semanticscholar.org/paper/a9b74a156e75d8528b7f7751d63a02738a26d097",
+      "title": "A Hybrid Approach for Blockchain DDoS Attack Detection: Stacked ELM Model with Lion Swarm Optimizer for Feature Selection",
+      "venue": "2025 International Conference on Intelligent and Cloud Computing (ICoICC)",
+      "year": 2025,
+      "referenceCount": 0,
+      "citationCount": 2,
+      "authors": [
+        {
+          "authorId": "2367332873",
+          "name": "Y. Ramaswamy"
+        },
+        {
+          "authorId": "2283495553",
+          "name": "Zabiha Khan"
+        },
+        {
+          "authorId": "2307701571",
+          "name": "Leeladhar Gudala"
+        },
+        {
+          "authorId": "2366834160",
+          "name": "Santosh Reddy Addula"
+        },
+        {
+          "authorId": "2369629600",
+          "name": "Praveen Veeramachaneni"
+        },
+        {
+          "authorId": "2369633105",
+          "name": "Deepa Dawadi"
+        }
+      ]
+    },
+    {
+      "paperId": "1d343340d582efac6d8cf47ee2c7bc3d204c35fb",
+      "externalIds": {
+        "DBLP": "journals/wpc/VermaJ21",
+        "MAG": "3194117616",
+        "DOI": "10.1007/s11277-021-08856-8",
+        "CorpusId": 238710594
+      },
+      "url": "https://www.semanticscholar.org/paper/1d343340d582efac6d8cf47ee2c7bc3d204c35fb",
+      "title": "An Efficient Wormhole Detection and Optimal Path Selection for Secure Data Transmission in WSN Environment",
+      "venue": "Wireless personal communications",
+      "year": 2021,
+      "referenceCount": 32,
+      "citationCount": 6,
+      "authors": [
+        {
+          "authorId": "2053687137",
+          "name": "Vanita Verma"
+        },
+        {
+          "authorId": "2132873979",
+          "name": "Vijay Kumar Jha"
+        }
+      ]
+    }
+  ]
+}
