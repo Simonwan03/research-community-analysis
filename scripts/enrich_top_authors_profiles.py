@@ -15,9 +15,11 @@ import argparse
 import csv
 import json
 import socket
+import sys
 import time
 import urllib.parse
 import urllib.request
+import xml.etree.ElementTree as ET
 from pathlib import Path
 from urllib.error import HTTPError, URLError
 
@@ -26,6 +28,11 @@ USER_AGENT = "research-community-analysis/1.0 (author profile enrichment)"
 OPENALEX_BASE = "https://api.openalex.org"
 WIKIDATA_SEARCH_URL = "https://www.wikidata.org/w/api.php"
 WIKIDATA_ENTITY_URL = "https://www.wikidata.org/wiki/Special:EntityData/{entity_id}.json"
+DBLP_PID_XML_URL = "https://dblp.org/pid/{pid}.xml"
+
+
+if hasattr(sys.stdout, "reconfigure"):
+    sys.stdout.reconfigure(encoding="utf-8", errors="replace")
 
 
 def parse_args() -> argparse.Namespace:
@@ -112,6 +119,41 @@ def fetch_json(
     raise RuntimeError(f"Failed to fetch JSON from {url}")
 
 
+def fetch_text(
+    url: str,
+    params: dict[str, str] | None = None,
+    timeout_seconds: float = 45.0,
+    max_retries: int = 4,
+) -> str:
+    if params:
+        query = urllib.parse.urlencode(params)
+        url = f"{url}?{query}"
+
+    last_error: Exception | None = None
+    for attempt in range(1, max_retries + 1):
+        request = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
+        try:
+            with urllib.request.urlopen(request, timeout=timeout_seconds) as response:
+                return response.read().decode("utf-8")
+        except HTTPError as exc:
+            if exc.code in {429, 500, 502, 503, 504} and attempt < max_retries:
+                time.sleep(min(8.0, 0.8 * (2 ** (attempt - 1))))
+                last_error = exc
+                continue
+            raise
+        except (URLError, TimeoutError, socket.timeout) as exc:
+            if attempt < max_retries:
+                time.sleep(min(8.0, 0.8 * (2 ** (attempt - 1))))
+                last_error = exc
+                continue
+            last_error = exc
+            break
+
+    if last_error is not None:
+        raise last_error
+    raise RuntimeError(f"Failed to fetch text from {url}")
+
+
 def normalize_name(name: str) -> str:
     return " ".join(name.casefold().replace("-", " ").split())
 
@@ -128,6 +170,21 @@ def normalize_orcid(orcid: str) -> str:
     value = value.removeprefix("https://orcid.org/")
     value = value.removeprefix("http://orcid.org/")
     return value
+
+
+def looks_like_orcid(value: str) -> bool:
+    parts = value.split("-")
+    if len(parts) != 4:
+        return False
+    return (
+        all(part.isdigit() and len(part) == 4 for part in parts[:3])
+        and len(parts[3]) == 4
+        and all(char.isdigit() or char == "X" for char in parts[3])
+    )
+
+
+def normalized_text(text: str | None) -> str:
+    return " ".join((text or "").split())
 
 
 def load_top_authors(input_dir: Path, metric: str, top_k: int) -> list[dict[str, str]]:
@@ -182,6 +239,76 @@ def choose_best_openalex_match(results: list[dict], target_name: str) -> dict | 
         return (exact, prefix, cited_by_count + works_count, display_name)
 
     return max(results, key=score)
+
+
+def lookup_dblp_person_orcid(
+    dblp_pid: str,
+    timeout_seconds: float,
+    max_retries: int,
+) -> str:
+    pid = dblp_pid.strip()
+    if not pid:
+        return ""
+
+    xml_text = fetch_text(
+        DBLP_PID_XML_URL.format(pid=pid),
+        timeout_seconds=timeout_seconds,
+        max_retries=max_retries,
+    )
+    root = ET.fromstring(xml_text)
+
+    for element in root.iter():
+        if element.tag not in {"url", "ee"}:
+            continue
+        candidate = normalize_orcid(normalized_text(element.text))
+        if looks_like_orcid(candidate):
+            return candidate
+    return ""
+
+
+def resolve_author_orcid(
+    dblp_pid: str,
+    paper_orcid: str,
+    timeout_seconds: float,
+    max_retries: int,
+) -> dict[str, str]:
+    normalized_paper_orcid = normalize_orcid(paper_orcid)
+    try:
+        person_orcid = lookup_dblp_person_orcid(
+            dblp_pid,
+            timeout_seconds=timeout_seconds,
+            max_retries=max_retries,
+        )
+    except Exception as exc:
+        return {
+            "resolved_orcid": normalized_paper_orcid,
+            "orcid_source": (
+                "paper_xml_aggregate_after_pid_error"
+                if normalized_paper_orcid
+                else "pid_lookup_error"
+            ),
+            "orcid_status": f"error:{type(exc).__name__}",
+        }
+
+    if person_orcid:
+        return {
+            "resolved_orcid": person_orcid,
+            "orcid_source": "dblp_person_record",
+            "orcid_status": "found",
+        }
+
+    if normalized_paper_orcid:
+        return {
+            "resolved_orcid": normalized_paper_orcid,
+            "orcid_source": "paper_xml_aggregate",
+            "orcid_status": "found",
+        }
+
+    return {
+        "resolved_orcid": "",
+        "orcid_source": "missing",
+        "orcid_status": "not_found",
+    }
 
 
 def lookup_openalex_author(
@@ -420,9 +547,17 @@ def enrich_author(
         "metric_value": row.get(metric, row.get("paper_count", "")),
     }
 
+    orcid_fields = resolve_author_orcid(
+        row.get("dblp_pid", ""),
+        row.get("orcid", ""),
+        timeout_seconds=timeout_seconds,
+        max_retries=max_retries,
+    )
+    record.update(orcid_fields)
+
     try:
         openalex_fields = lookup_openalex_author(
-            row.get("orcid", ""),
+            record.get("resolved_orcid", ""),
             query_name,
             timeout_seconds=timeout_seconds,
             max_retries=max_retries,
@@ -437,7 +572,7 @@ def enrich_author(
             "employer_count": "0",
             "openalex_affiliations_count": "0",
             "employer_source": "error",
-            "openalex_query_type": "orcid" if row.get("orcid", "") else "name",
+            "openalex_query_type": "orcid" if record.get("resolved_orcid", "") else "name",
             "employer_status": f"error:{type(exc).__name__}",
             "openalex_match_status": f"error:{type(exc).__name__}",
         }
@@ -484,7 +619,10 @@ def print_author_summary(record: dict[str, str]) -> None:
     employer_count = record.get("employer_count") or "0"
     affiliations_count = record.get("openalex_affiliations_count") or "0"
     print(
-        f"  employer={employer} | citizenship={citizenship} | "
+        f"  resolved_orcid={record.get('resolved_orcid') or '(none)'} | "
+        f"orcid_source={record.get('orcid_source') or '(unknown)'} | "
+        f"orcid_status={record.get('orcid_status') or '(unknown)'} | "
+        f"employer={employer} | citizenship={citizenship} | "
         f"openalex={openalex_status} | query_type={record.get('openalex_query_type') or '(unknown)'} | employer_status={employer_status} | "
         f"employer_source={employer_source} | "
         f"employer_count={employer_count} | affiliations_count={affiliations_count} | "

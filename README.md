@@ -114,18 +114,17 @@ For a given target author, the system aims to rank candidate collaborators based
 
 ## DBLP AI Author Graph
 
-If you want a coauthor graph under the definition:
+If you want to build the DBLP coauthor graph under the definition:
 
 `AI author = an author who published at least one paper in AAAI, IJCAI, ICML, NeurIPS, or ICLR during a chosen year range`
 
-you can run:
+the main entrypoint is:
 
 ```bash
-python scripts/fetch_dblp_ai_coauthor_graph.py
+python scripts/fetch_dblp_ai_coauthor_graph.py --start-year 2015 --end-year 2025
 ```
 
-By default, the script fetches `AAAI`, `IJCAI`, `ICML`, `NeurIPS`, and `ICLR`
-from `2015` to the current year. It writes:
+The script writes:
 
 - `data/dblp_ai_authors_<start>_<end>/authors.csv`
 - `data/dblp_ai_authors_<start>_<end>/edges.csv`
@@ -356,43 +355,39 @@ conda run -n modal python scripts/fetch_dblp_ai_coauthor_graph.py --start-year 2
 
 ### 2. Coauthor Graph Visualization Pipeline
 
-The coauthor graph visualization pipeline is implemented in:
+The current coauthor graph visualization pipeline is implemented in:
 
 ```bash
 scripts/visualize_coauthor_graph.py
 ```
 
-It visualizes a manageable subgraph from the exported DBLP coauthor data. It does not draw the full graph by default, because the full graph can contain tens of thousands of authors and hundreds of thousands of edges.
+It now visualizes the **current ORCID + affiliation subgraph**, not the original full `authors.csv / edges.csv` graph directly.
 
 The visualization pipeline uses:
 
 ```text
-authors.csv
-edges.csv
+authors_orcid_subgraph.csv
+edges_orcid_subgraph.csv
+community_assignments_orcid_subgraph.csv
 ```
 
-from an exported DBLP data directory.
-
-The default input directory is:
+from:
 
 ```text
-data/dblp_ai_authors_2025_2025
+data/dblp_ai_authors_2015_2025
 ```
 
 The pipeline works as follows:
 
-1. Read `authors.csv` and `edges.csv`.
+1. Read `authors_orcid_subgraph.csv` and `edges_orcid_subgraph.csv`.
 2. Build a NetworkX undirected weighted graph.
-3. Add one node for each author.
-4. Add one edge for each coauthor pair.
-5. Store the coauthorship count as the edge `weight`.
-6. Compute weighted degree for each author:
-
-```text
-weighted degree = total weighted collaboration strength of an author
-```
-
-7. Select the top-k authors by:
+3. Remove edges with weight lower than `--min-edge-weight`.
+4. Remove isolated nodes after edge filtering.
+5. Load precomputed Louvain communities from `community_assignments_orcid_subgraph.csv` when available; otherwise recompute them.
+6. Optionally remove communities whose size is smaller than `--min-community-count`.
+7. If `--plot-full-graph` is not set:
+   - compute weighted degree on the filtered graph
+   - select the top-k authors by:
 
 ```text
 weighted_degree descending
@@ -400,65 +395,56 @@ paper_count descending
 name ascending
 ```
 
-8. Build a subgraph induced by those top-k authors.
-9. Remove edges with weight lower than `--min-edge-weight`.
-10. Remove isolated nodes after edge filtering.
-11. Keep only the largest connected component.
-12. Detect communities using greedy modularity community detection.
-13. Compute a spring layout for the selected subgraph.
-14. Draw the graph:
+   - build the induced display subgraph on those top-k authors
+   - remove new isolates
+   - keep only the largest connected component for display
+8. If `--plot-full-graph` is set:
+   - visualize the full filtered ORCID + affiliation subgraph
+9. Draw the graph:
 
 ```text
 node = author
 node size = weighted degree
-node color = detected community
+node color = Louvain community
 edge width = coauthorship weight
-label = top authors by weighted degree
+label = top weighted-degree authors
 ```
 
-15. Save the final PNG image.
+10. Save the final PNG image.
 
-By default, the visualization keeps the top 120 authors:
+Default behavior:
 
 ```text
 --top-k 120
+--label-top-k 10
+--min-edge-weight 3
+--min-community-count 1
 ```
 
-and labels the top 20 authors:
+Default output paths:
 
 ```text
---label-top-k 20
+<input-dir>/orcid_subgraph_top120.png
+<input-dir>/orcid_subgraph_full.png   (when --plot-full-graph is used)
 ```
 
-The default output path is:
-
-```text
-<input-dir>/coauthor_top120.png
-```
-
-Example command for the 2015-2025 dataset:
+Example: top-k static visualization
 
 ```bash
 python scripts/visualize_coauthor_graph.py --input-dir data/dblp_ai_authors_2015_2025
 ```
 
-Using the `modal` conda environment:
-
-```bash
-conda run -n modal python scripts/visualize_coauthor_graph.py --input-dir data/dblp_ai_authors_2015_2025
-```
-
-Example with custom visualization parameters:
+Example: full-graph static visualization with small-community filtering
 
 ```bash
 python scripts/visualize_coauthor_graph.py \
   --input-dir data/dblp_ai_authors_2015_2025 \
-  --top-k 200 \
-  --label-top-k 40 \
-  --min-edge-weight 2
+  --plot-full-graph \
+  --min-edge-weight 3 \
+  --min-community-count 5
 ```
 
-This visualization is intended as a high-level overview of the most connected authors and their collaboration communities. It is not a full-network visualization and it is not the bridge-author visualization. Bridge-author analysis is handled separately by:
+This visualization is intended as a high-level overview of the ORCID + affiliation subgraph and its Louvain communities. Bridge-author analysis is handled separately by:
 
 ```bash
 scripts/visualize_bridge_authors.py
@@ -481,10 +467,10 @@ authors.csv
 edges.csv
 ```
 
-The default input directory is:
+The current default input directory is:
 
 ```text
-data/dblp_ai_authors_2025_2025
+data/dblp_ai_authors_2015_2025
 ```
 
 The pipeline works as follows:
@@ -613,3 +599,246 @@ Who connects otherwise separate collaboration communities?
 ```
 
 It complements `visualize_coauthor_graph.py`, which provides a high-level overview of the most connected part of the collaboration network.
+
+## Current Working Pipeline (May 2026)
+
+The current analysis workflow used in this repository is:
+
+### Step 1. Build the full DBLP coauthor graph
+
+Run:
+
+```bash
+python scripts/fetch_dblp_ai_coauthor_graph.py --start-year 2015 --end-year 2025
+```
+
+What this step does:
+
+1. Fetch DBLP proceedings and per-year TOC XML files.
+2. Extract paper metadata and coauthor lists.
+3. Build a full undirected weighted coauthor graph.
+4. Extract ORCID from paper-level DBLP author entries when available.
+5. If a paper-level ORCID is missing, try to recover it from the DBLP person record using the DBLP `pid`.
+6. Save checkpoint files after each venue-year pair.
+
+Main outputs:
+
+- `authors.csv`
+- `edges.csv`
+- `papers.csv`
+- `graph.graphml`
+- `summary.json`
+
+Notes:
+
+- `authors.csv` stores the final author-level `orcid` when available.
+- `papers.csv` stores both raw paper-level ORCID values and the resolved ORCID values after fallback.
+
+### Step 2. Backfill ORCID from the local DBLP dump
+
+We use the downloaded full DBLP dump under:
+
+```text
+dblp_data/dblp.xml.gz
+```
+
+Run:
+
+```bash
+python scripts/backfill_orcid_from_pid.py \
+  --input-csv data/dblp_ai_authors_2015_2025/authors_filtered_full_graph.csv \
+  --dblp-xml-gz dblp_data/dblp.xml.gz
+```
+
+What this step does:
+
+1. Scan local `<www key="homepages/<pid>"> ... </www>` blocks in the DBLP dump.
+2. Extract ORCID from homepage records when a URL of the form `https://orcid.org/...` exists.
+3. Backfill author ORCID values locally without relying on online API calls.
+
+Main output:
+
+- `authors_filtered_full_graph_orcid_backfilled.csv`
+
+### Step 3. Build the ORCID + affiliation subgraph
+
+Run:
+
+```bash
+python scripts/generate_orcid_subgraph_communities.py \
+  --input-dir data/dblp_ai_authors_2015_2025 \
+  --dblp-xml-gz dblp_data/dblp.xml.gz \
+  --min-edge-weight 3
+```
+
+What this step does:
+
+1. Start from the full author list.
+2. Load or build a local `pid -> ORCID` cache from `dblp.xml.gz`.
+3. Keep authors with resolved ORCID.
+4. Query OpenAlex by ORCID to obtain affiliation information.
+5. Keep only authors whose `affiliation` is non-empty.
+6. Build the induced coauthor subgraph on these authors.
+7. Remove all edges with `weight < 3`.
+8. Remove isolated nodes after edge filtering.
+9. Detect communities on the resulting subgraph using **Louvain**:
+
+```python
+nx.community.louvain_communities(graph, weight="weight", seed=42)
+```
+
+Main outputs:
+
+- `authors_orcid_backfilled.csv`
+- `authors_orcid_subgraph.csv`
+- `edges_orcid_subgraph.csv`
+- `community_assignments_orcid_subgraph.csv`
+- `local_pid_orcid_cache.csv`
+
+Important details:
+
+- `authors_orcid_subgraph.csv` contains:
+  - `affiliation`: one primary affiliation used as the single-label field
+  - `all_affiliations`: the full OpenAlex affiliation list separated by `|`
+- The current working subgraph therefore contains:
+  - authors with ORCID
+  - authors with non-empty affiliation
+  - only collaboration edges with weight at least `3`
+  - no isolates
+
+### Step 3b. Build an affiliation -> country lookup table
+
+After affiliation extraction, we build a separate institution-country lookup table.
+
+Run:
+
+```bash
+python scripts/build_affiliation_country_dict.py \
+  --authors-csv data/dblp_ai_authors_2015_2025/authors_orcid_subgraph.csv
+```
+
+What this step does:
+
+1. Read all ORCID authors from `authors_orcid_subgraph.csv`.
+2. Collect both:
+   - the primary `affiliation`
+   - every label appearing in `all_affiliations`
+3. Deduplicate these affiliation strings into a unique institution list.
+4. Query **ROR** for each unique affiliation string.
+5. Extract:
+   - organization ID
+   - organization name
+   - `country_code`
+   - `country_name`
+6. If ROR does not resolve a label reliably, use a small manual override table for known edge cases.
+7. Save the result as both a CSV table and a JSON dictionary.
+
+Main outputs:
+
+- `unique_affiliations.csv`
+- `affiliation_country_lookup.csv`
+- `affiliation_country_dict.json`
+
+Important details:
+
+- `affiliation_country_lookup.csv` is the flat table version.
+- `affiliation_country_dict.json` is the dict-style version that can be loaded directly in Python.
+- `match_status` may be:
+  - `matched`: resolved automatically by ROR
+  - `manual`: resolved through a manual override
+  - `not_found`: still unresolved
+  - `error:...`: lookup failed
+
+Example JSON structure:
+
+```json
+{
+  "Shanghai Jiao Tong University": {
+    "ror_id": "https://ror.org/...",
+    "ror_name": "Shanghai Jiao Tong University",
+    "country_code": "CN",
+    "country_name": "China",
+    "match_status": "matched"
+  }
+}
+```
+
+### Step 4. Compute community purity using `all_affiliations`
+
+Run:
+
+```bash
+python scripts/compute_affiliation_purity.py \
+  --community-csv data/dblp_ai_authors_2015_2025/community_assignments_orcid_subgraph.csv \
+  --authors-csv data/dblp_ai_authors_2015_2025/authors_orcid_subgraph.csv
+```
+
+What this step does:
+
+1. Use detected `community_id` as the predicted clustering.
+2. Use `all_affiliations` as the ground-truth label set.
+3. Split each `all_affiliations` field by `|`.
+4. For each community, count how many authors contain each affiliation label.
+5. Take the dominant affiliation count in each community.
+6. Compute purity as:
+
+```text
+Purity = (sum of dominant affiliation counts over all communities) / (number of evaluated authors)
+```
+
+Main outputs:
+
+- `community_affiliation_purity.csv`
+- `community_affiliation_purity_summary.json`
+
+Interpretation:
+
+- `affiliation` purity measures how strongly communities align with institutional structure.
+- `all_affiliations` purity is more permissive than single-label purity, because one author may contribute to multiple institution labels.
+
+### Summary of the current default analysis object
+
+The community analysis currently reported in this repository is performed on:
+
+- authors with ORCID
+- authors with non-empty OpenAlex affiliation
+- the induced coauthor subgraph after filtering to `weight >= 3`
+- isolates removed
+- Louvain communities on the resulting weighted graph
+- purity evaluated against `all_affiliations`
+
+## Data Directory Guide
+
+The main working directory is:
+
+```text
+data/dblp_ai_authors_2015_2025
+```
+
+The most important files currently used in the pipeline are:
+
+| File | Description |
+| --- | --- |
+| `authors.csv` | Full author table exported directly from DBLP graph construction |
+| `edges.csv` | Full weighted coauthor edge table exported directly from DBLP graph construction |
+| `papers.csv` | Full paper metadata table |
+| `graph.graphml` | Full graph in GraphML format |
+| `summary.json` | Summary statistics for the full DBLP-derived graph |
+| `authors_orcid_backfilled.csv` | Full author table after local DBLP ORCID backfill |
+| `authors_orcid_subgraph.csv` | Current analysis author table after ORCID filtering, affiliation filtering, edge filtering, and isolate removal |
+| `edges_orcid_subgraph.csv` | Current analysis edge table for the ORCID + affiliation subgraph |
+| `community_assignments_orcid_subgraph.csv` | Louvain community assignments for the current ORCID + affiliation subgraph |
+| `community_affiliation_purity.csv` | Per-community purity report using `all_affiliations` |
+| `community_affiliation_purity_summary.json` | Overall purity summary |
+| `local_pid_orcid_cache.csv` | Local cache of `dblp_pid -> ORCID` extracted from `dblp.xml.gz` |
+| `unique_affiliations.csv` | Deduplicated list of affiliation labels extracted from ORCID authors |
+| `affiliation_country_lookup.csv` | Affiliation-to-country lookup table built from ROR and manual overrides |
+| `affiliation_country_dict.json` | JSON dictionary version of the affiliation-country mapping |
+
+If you only need the current final analysis object, the most relevant files are:
+
+- `authors_orcid_subgraph.csv`
+- `edges_orcid_subgraph.csv`
+- `community_assignments_orcid_subgraph.csv`
+- `community_affiliation_purity_summary.json`
+- `affiliation_country_lookup.csv`
