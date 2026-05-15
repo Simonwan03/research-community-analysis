@@ -1,0 +1,111 @@
+{
+  "authors_csv": "data/dblp_ai_authors_2015_2025/authors.csv",
+  "edges_csv": "data/dblp_ai_authors_2015_2025/edges.csv",
+  "num_authors": 67224,
+  "num_connected_authors": 67106,
+  "num_isolates": 118,
+  "pagerank_parameters": {
+    "damping": 0.85,
+    "tolerance": 1e-10,
+    "max_iterations": 200,
+    "iterations_run": 97,
+    "final_l1_delta": 8.803568798950326e-11
+  },
+  "pagerank_distribution": {
+    "min": 2.234680150230098e-06,
+    "max": 0.000654533406440008,
+    "mean": 1.4875639652505058e-05
+  },
+  "top_authors": [
+    {
+      "rank": 1,
+      "author_id": "pid:56/953",
+      "name": "Yoshua Bengio",
+      "pagerank": 0.000654533406440008,
+      "degree": 535,
+      "weighted_degree": 1072,
+      "paper_count": 192
+    },
+    {
+      "rank": 2,
+      "author_id": "pid:80/7594",
+      "name": "Sergey Levine",
+      "pagerank": 0.000614715789935278,
+      "degree": 470,
+      "weighted_degree": 1100,
+      "paper_count": 248
+    },
+    {
+      "rank": 3,
+      "author_id": "pid:119/4026",
+      "name": "Zhangyang Wang",
+      "pagerank": 0.0004813288096668097,
+      "degree": 358,
+      "weighted_degree": 810,
+      "paper_count": 160
+    },
+    {
+      "rank": 4,
+      "author_id": "pid:47/8135",
+      "name": "Stefano Ermon",
+      "pagerank": 0.0004526104886134356,
+      "degree": 372,
+      "weighted_degree": 715,
+      "paper_count": 163
+    },
+    {
+      "rank": 5,
+      "author_id": "pid:97/119",
+      "name": "Bernhard Schölkopf",
+      "pagerank": 0.00044556624248814306,
+      "degree": 327,
+      "weighted_degree": 685,
+      "paper_count": 147
+    },
+    {
+      "rank": 6,
+      "author_id": "pid:t/JoshuaBTenenbaum",
+      "name": "Joshua B. Tenenbaum",
+      "pagerank": 0.0004403698847973304,
+      "degree": 350,
+      "weighted_degree": 697,
+      "paper_count": 137
+    },
+    {
+      "rank": 7,
+      "author_id": "pid:60/7949",
+      "name": "Junchi Yan",
+      "pagerank": 0.0004358802530072032,
+      "degree": 318,
+      "weighted_degree": 608,
+      "paper_count": 133
+    },
+    {
+      "rank": 8,
+      "author_id": "pid:241/0472-3",
+      "name": "Bo Han 0003",
+      "pagerank": 0.00043563939442463974,
+      "degree": 249,
+      "weighted_degree": 731,
+      "paper_count": 130
+    },
+    {
+      "rank": 9,
+      "author_id": "pid:150/6667",
+      "name": "Tongliang Liu",
+      "pagerank": 0.00042891283703118166,
+      "degree": 280,
+      "weighted_degree": 694,
+      "paper_count": 130
+    },
+    {
+      "rank": 10,
+      "author_id": "pid:a/PieterAbbeel",
+      "name": "Pieter Abbeel",
+      "pagerank": 0.00042016646258668887,
+      "degree": 324,
+      "weighted_degree": 667,
+      "paper_count": 157
+    }
+  ]
+}

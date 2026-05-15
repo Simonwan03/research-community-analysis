@@ -1,6 +1,28 @@
 # Bridging Research Communities: A Network Analysis of Scientific Collaboration
 This project explores community structure and bridge authors in scientific collaboration networks using graph analysis methods. More specificly, We construct a co-authorship network to study collaboration structure, and use paper abstracts and citation information as auxiliary signals to interpret community topics and measure cross-community influence.
 
+## Table of Contents
+
+- [Project Motivation](#project-motivation)
+- [Research Questions](#research-questions)
+- [Expected Findings](#expected-findings)
+- [Dataset](#dataset)
+  - [Primary Dataset Option: DBLP](#primary-dataset-option-dblp)
+  - [Why DBLP?](#why-dblp)
+  - [Possible Alternative Datasets](#possible-alternative-datasets)
+- [Network Construction](#network-construction)
+- [Next-step: Potential Collaborator Recommendation](#next-step-potential-collaborator-recommendation)
+- [DBLP AI Author Graph](#dblp-ai-author-graph)
+  - [The data we can fetch from dblp](#the-data-we-can-fetch-from-dblp)
+- [Internal Paper Citation Graph](#internal-paper-citation-graph)
+- [Current Pipeline](#current-pipeline)
+  - [1. DBLP Data Collection Pipeline](#1-dblp-data-collection-pipeline)
+  - [2. Author Affiliation Enrichment Pipelines](#2-author-affiliation-enrichment-pipelines)
+  - [3. Coauthor Graph Visualization Pipeline](#3-coauthor-graph-visualization-pipeline)
+  - [4. Affiliation Treemap Pipeline](#4-affiliation-treemap-pipeline)
+  - [5. Interactive Plotly Treemap Pipeline](#5-interactive-plotly-treemap-pipeline)
+  - [6. Bridge Author Visualization Pipeline](#6-bridge-author-visualization-pipeline)
+
 ## Project Motivation
 Scientific collaboration is not uniformly distributed across researchers. Instead, it tends to form communities of tightly connected authors, where most collaborations happen within the same group. At the same time, a small number of authors connect otherwise separated communities and play an important role in enabling cross-community knowledge exchange.
 
@@ -353,7 +375,53 @@ Using the `modal` conda environment:
 conda run -n modal python scripts/fetch_dblp_ai_coauthor_graph.py --start-year 2015 --end-year 2025
 ```
 
-### 2. Coauthor Graph Visualization Pipeline
+### 2. Author Affiliation Enrichment Pipelines
+
+The repository now maintains four related author tables for the DBLP AI dataset:
+
+| File | Description |
+| --- | --- |
+| `authors.csv` | Raw author table extracted directly from DBLP paper metadata |
+| `authors_orcid_backfilled.csv` | Full author table after backfilling ORCID from the local DBLP person dump |
+| `authors_orcid_subgraph.csv` | Filtered ORCID + affiliation subgraph author table used for community analysis |
+| `authors_orcid_fullgraph.csv` | Full author table with affiliation metadata for all authors that can be enriched |
+
+The ORCID + affiliation subgraph is produced by:
+
+```bash
+scripts/generate_orcid_subgraph_communities.py
+```
+
+This pipeline works as follows:
+
+1. Read `authors.csv` and `edges.csv`.
+2. Backfill ORCID identifiers from the local DBLP XML dump.
+3. Query OpenAlex for author-level affiliation metadata.
+4. Use the affiliation-country lookup table to fill missing country codes when possible.
+5. Keep only authors with ORCID and non-empty affiliation.
+6. Keep only edges among the retained authors.
+7. Remove isolates and detect Louvain communities on the resulting subgraph.
+
+Main outputs:
+
+- `data/dblp_ai_authors_<start>_<end>/authors_orcid_backfilled.csv`
+- `data/dblp_ai_authors_<start>_<end>/authors_orcid_subgraph.csv`
+- `data/dblp_ai_authors_<start>_<end>/edges_orcid_subgraph.csv`
+- `data/dblp_ai_authors_<start>_<end>/community_assignments_orcid_subgraph.csv`
+
+If you want affiliation metadata for the full author table instead of only the filtered subgraph, use:
+
+```bash
+python scripts/generate_authors_orcid_fullgraph.py \
+  --input-dir data/dblp_ai_authors_2015_2025
+```
+
+This script starts from `authors_orcid_backfilled.csv`, reuses `authors_orcid_subgraph.csv` as a warm-start cache, queries OpenAlex for remaining ORCID authors, computes `weighted_degree` from `edges.csv`, and writes:
+
+- `data/dblp_ai_authors_<start>_<end>/authors_orcid_fullgraph.csv`
+- `data/dblp_ai_authors_<start>_<end>/author_affiliation_cache_fullgraph.csv`
+
+### 3. Coauthor Graph Visualization Pipeline
 
 The current coauthor graph visualization pipeline is implemented in:
 
@@ -450,7 +518,94 @@ This visualization is intended as a high-level overview of the ORCID + affiliati
 scripts/visualize_bridge_authors.py
 ```
 
-### 3. Bridge Author Visualization Pipeline
+### 4. Affiliation Treemap Pipeline
+
+The repository also includes a country-grouped affiliation treemap generator:
+
+```bash
+scripts/generate_affiliation_treemap.py
+```
+
+This pipeline joins:
+
+- `papers.csv`
+- an author-affiliation table such as `authors_orcid_subgraph.csv` or `authors_orcid_fullgraph.csv`
+- `affiliation_country_lookup.csv`
+
+and produces a country-grouped treemap where each rectangle represents an affiliation and its counted paper volume.
+
+Important note: the current treemap pipeline uses author-level affiliation metadata projected onto papers, not paper-level affiliation metadata extracted from each paper record. In other words, it maps `author_id -> affiliation` from the enriched author table and then counts papers through those author affiliations. The resulting treemap should therefore be interpreted as an author-profile-affiliation view of the paper set, rather than a strict publication-time affiliation view.
+
+Key options:
+
+- `--authors-csv`: choose `authors_orcid_subgraph.csv` or `authors_orcid_fullgraph.csv`
+- `--author-scope all|first`: count all authors on a paper or only the first listed author
+- `--count-mode paper|authorship`: count each paper once per affiliation or count every author-paper affiliation incidence
+
+Default outputs are written to:
+
+```text
+data/dblp_ai_authors_<start>_<end>/results/
+```
+
+Typical commands:
+
+Subgraph, all authors:
+
+```bash
+python scripts/generate_affiliation_treemap.py
+```
+
+Fullgraph, all authors:
+
+```bash
+python scripts/generate_affiliation_treemap.py \
+  --authors-csv data/dblp_ai_authors_2015_2025/authors_orcid_fullgraph.csv
+```
+
+Fullgraph, first author only:
+
+```bash
+python scripts/generate_affiliation_treemap.py \
+  --authors-csv data/dblp_ai_authors_2015_2025/authors_orcid_fullgraph.csv \
+  --author-scope first
+```
+
+The standard output stems are:
+
+- `affiliation_paper_count_treemap.*`
+- `affiliation_paper_count_treemap_fullgraph.*`
+- `affiliation_paper_count_treemap_fullgraph_first_author.*`
+
+where each `*` is a `.csv` count table and a `.png` static treemap image.
+
+### 5. Interactive Plotly Treemap Pipeline
+
+For browser-based interactive treemaps, use:
+
+```bash
+python scripts/generate_affiliation_treemap_plotly.py
+```
+
+By default, this script reads the three standard treemap CSVs under `data/dblp_ai_authors_<start>_<end>/results/` and writes matching `.html` files in the same directory:
+
+- `affiliation_paper_count_treemap.html`
+- `affiliation_paper_count_treemap_fullgraph.html`
+- `affiliation_paper_count_treemap_fullgraph_first_author.html`
+
+The interactive view supports:
+
+- click-to-zoom treemap navigation by country and affiliation
+- larger centered labels with dynamic font sizing and line wrapping
+- a right-side details panel showing the clicked affiliation's top authors
+
+Useful options:
+
+- `--results-dir`: point to a different dataset result directory
+- `--height 920`: control page height
+- `--top-authors 12`: control how many top authors appear in the details panel
+
+### 6. Bridge Author Visualization Pipeline
 
 The bridge-author visualization pipeline is implemented in:
 
@@ -842,3 +997,51 @@ If you only need the current final analysis object, the most relevant files are:
 - `community_assignments_orcid_subgraph.csv`
 - `community_affiliation_purity_summary.json`
 - `affiliation_country_lookup.csv`
+
+## Basic statics
+### Graph Scale
+- Number of authors: 67,224
+- Number of papers: 44,123
+- Number of edges: 407,230
+- Network density: 1.8023e-4 $2E / (N(N-1))$
+
+### Collaboration Structure
+- Degree: 
+  - min: 1
+  - median: 7
+  - mean: 12.14
+  - max: 535
+- Weighted degree
+  - min: 1
+  - median: 7
+  - mean: 16.10
+  - max: 1100
+- Edge weight distribution
+  - min: 1
+  - median: 1
+  - mean: 16.10
+  - max: 1100
+  - weight=1: 338,151， 83.04%
+  - weight=2: 42,809， 10.51%
+  - weight=3: 12,960， 3.18%
+  - weight=4: 5,802， 1.42%
+  - weight=5: 2,815， 0.69%
+- Average clustering coefficient $C_{i} = \frac{2T_i}{k_i(k_i-1)}$ : 0.7476
+
+### Network Position
+- PageRank:
+  $PR(i) = \frac{1-d}{N} + d \sum_{j \in \mathcal{N}(i)} \frac{PR(j)}{k_j}$
+[PageRank](data/dblp_ai_authors_2015_2025/results/coauthor_pagerank_summary.json)
+- Betweenness centrality:
+[Betweenness](data/dblp_ai_authors_2015_2025/results/coauthor_betweenness_summary.json)
+- Eigenvector centrality:
+[Eigenvector](data/dblp_ai_authors_2015_2025/results/coauthor_eigenvector_summary.json)
+
+### Community and Evolution
+- Community size
+- Modularity
+- Internal / external edge ratio
+- Cross-community paper ratio
+- New authors per year
+- New collaboration edges per year
+- Average team size per year

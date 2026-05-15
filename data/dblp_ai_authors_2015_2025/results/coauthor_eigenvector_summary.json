@@ -1,0 +1,112 @@
+{
+  "authors_csv": "data/dblp_ai_authors_2015_2025/authors.csv",
+  "edges_csv": "data/dblp_ai_authors_2015_2025/edges.csv",
+  "num_authors": 67224,
+  "num_connected_authors": 67106,
+  "num_isolates": 118,
+  "eigenvector_parameters": {
+    "tolerance": 1e-10,
+    "max_iterations": 500,
+    "iterations_run": 80,
+    "final_max_delta": 9.766201302524591e-11,
+    "dominant_eigenvalue_estimate": 176.67032642789636
+  },
+  "eigenvector_distribution": {
+    "min": 9.757310660019778e-182,
+    "max": 0.5060598708796415,
+    "mean": 0.00016366412643981491,
+    "l2_norm": 0.9999999999999999
+  },
+  "top_authors": [
+    {
+      "rank": 1,
+      "author_id": "pid:241/0472-3",
+      "name": "Bo Han 0003",
+      "eigenvector_centrality": 0.5060598708796415,
+      "degree": 249,
+      "weighted_degree": 731,
+      "paper_count": 130
+    },
+    {
+      "rank": 2,
+      "author_id": "pid:150/6667",
+      "name": "Tongliang Liu",
+      "eigenvector_centrality": 0.4700236075611312,
+      "degree": 280,
+      "weighted_degree": 694,
+      "paper_count": 130
+    },
+    {
+      "rank": 3,
+      "author_id": "pid:26/3367-1",
+      "name": "Gang Niu 0001",
+      "eigenvector_centrality": 0.36599430518868564,
+      "degree": 169,
+      "weighted_degree": 432,
+      "paper_count": 81
+    },
+    {
+      "rank": 4,
+      "author_id": "pid:35/1228",
+      "name": "Masashi Sugiyama",
+      "eigenvector_centrality": 0.3346517611663526,
+      "degree": 202,
+      "weighted_degree": 511,
+      "paper_count": 119
+    },
+    {
+      "rank": 5,
+      "author_id": "pid:98/8479",
+      "name": "Mingming Gong",
+      "eigenvector_centrality": 0.19099177891386168,
+      "degree": 136,
+      "weighted_degree": 304,
+      "paper_count": 57
+    },
+    {
+      "rank": 6,
+      "author_id": "pid:77/1318-3",
+      "name": "Feng Liu 0003",
+      "eigenvector_centrality": 0.1533382019460385,
+      "degree": 100,
+      "weighted_degree": 216,
+      "paper_count": 41
+    },
+    {
+      "rank": 7,
+      "author_id": "pid:96/3115-1",
+      "name": "Kun Zhang 0001",
+      "eigenvector_centrality": 0.15160238240261933,
+      "degree": 206,
+      "weighted_degree": 560,
+      "paper_count": 114
+    },
+    {
+      "rank": 8,
+      "author_id": "pid:242/8072",
+      "name": "Xiaobo Xia",
+      "eigenvector_centrality": 0.11437653596523874,
+      "degree": 73,
+      "weighted_degree": 125,
+      "paper_count": 20
+    },
+    {
+      "rank": 9,
+      "author_id": "pid:166/5900",
+      "name": "Jiangchao Yao",
+      "eigenvector_centrality": 0.11150460925808639,
+      "degree": 73,
+      "weighted_degree": 171,
+      "paper_count": 31
+    },
+    {
+      "rank": 10,
+      "author_id": "pid:27/6859-3",
+      "name": "Yonggang Zhang 0003",
+      "eigenvector_centrality": 0.10621989339869335,
+      "degree": 82,
+      "weighted_degree": 167,
+      "paper_count": 29
+    }
+  ]
+}

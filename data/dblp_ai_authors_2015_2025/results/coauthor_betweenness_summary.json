@@ -1,0 +1,203 @@
+{
+  "authors_csv": "data/dblp_ai_authors_2015_2025/authors.csv",
+  "edges_csv": "data/dblp_ai_authors_2015_2025/edges.csv",
+  "num_authors": 67224,
+  "num_connected_authors": 67106,
+  "num_isolates": 118,
+  "betweenness_parameters": {
+    "mode": "approximate",
+    "sample_size": 512,
+    "sampled_sources": 512,
+    "normalized": true,
+    "distance_mode": "inverse_weight",
+    "scale_factor": 2.905528033108059e-08,
+    "seed": 42
+  },
+  "betweenness_distribution": {
+    "min": 0.0,
+    "max": 0.118848013715706,
+    "mean": 9.114952573896418e-05
+  },
+  "top_authors": [
+    {
+      "rank": 1,
+      "author_id": "pid:80/7594",
+      "name": "Sergey Levine",
+      "betweenness_centrality": 0.118848013715706,
+      "degree": 470,
+      "weighted_degree": 1100,
+      "paper_count": 248
+    },
+    {
+      "rank": 2,
+      "author_id": "pid:56/953",
+      "name": "Yoshua Bengio",
+      "betweenness_centrality": 0.10158023007513112,
+      "degree": 535,
+      "weighted_degree": 1072,
+      "paper_count": 192
+    },
+    {
+      "rank": 3,
+      "author_id": "pid:97/119",
+      "name": "Bernhard Schölkopf",
+      "betweenness_centrality": 0.08643153968530455,
+      "degree": 327,
+      "weighted_degree": 685,
+      "paper_count": 147
+    },
+    {
+      "rank": 4,
+      "author_id": "pid:96/3115-1",
+      "name": "Kun Zhang 0001",
+      "betweenness_centrality": 0.07607279182534914,
+      "degree": 206,
+      "weighted_degree": 560,
+      "paper_count": 114
+    },
+    {
+      "rank": 5,
+      "author_id": "pid:62/5884",
+      "name": "Ruslan Salakhutdinov",
+      "betweenness_centrality": 0.06020048246386548,
+      "degree": 237,
+      "weighted_degree": 445,
+      "paper_count": 110
+    },
+    {
+      "rank": 6,
+      "author_id": "pid:a/PieterAbbeel",
+      "name": "Pieter Abbeel",
+      "betweenness_centrality": 0.05976217445147136,
+      "degree": 324,
+      "weighted_degree": 667,
+      "paper_count": 157
+    },
+    {
+      "rank": 7,
+      "author_id": "pid:150/6667",
+      "name": "Tongliang Liu",
+      "betweenness_centrality": 0.056079243061107946,
+      "degree": 280,
+      "weighted_degree": 694,
+      "paper_count": 130
+    },
+    {
+      "rank": 8,
+      "author_id": "pid:241/0472-3",
+      "name": "Bo Han 0003",
+      "betweenness_centrality": 0.05605283606685836,
+      "degree": 249,
+      "weighted_degree": 731,
+      "paper_count": 130
+    },
+    {
+      "rank": 9,
+      "author_id": "pid:46/3391",
+      "name": "Dacheng Tao",
+      "betweenness_centrality": 0.055413795233307375,
+      "degree": 275,
+      "weighted_degree": 543,
+      "paper_count": 120
+    },
+    {
+      "rank": 10,
+      "author_id": "pid:131/1783",
+      "name": "Chelsea Finn",
+      "betweenness_centrality": 0.0546482930572341,
+      "degree": 292,
+      "weighted_degree": 584,
+      "paper_count": 113
+    },
+    {
+      "rank": 11,
+      "author_id": "pid:36/3855",
+      "name": "Eric P. Xing",
+      "betweenness_centrality": 0.05280515842444419,
+      "degree": 291,
+      "weighted_degree": 433,
+      "paper_count": 76
+    },
+    {
+      "rank": 12,
+      "author_id": "pid:119/4026",
+      "name": "Zhangyang Wang",
+      "betweenness_centrality": 0.04224308342439403,
+      "degree": 358,
+      "weighted_degree": 810,
+      "paper_count": 160
+    },
+    {
+      "rank": 13,
+      "author_id": "pid:128/6972-1",
+      "name": "Sijia Liu 0001",
+      "betweenness_centrality": 0.038859389875707834,
+      "degree": 135,
+      "weighted_degree": 347,
+      "paper_count": 59
+    },
+    {
+      "rank": 14,
+      "author_id": "pid:t/JoshuaBTenenbaum",
+      "name": "Joshua B. Tenenbaum",
+      "betweenness_centrality": 0.03739677566945648,
+      "degree": 350,
+      "weighted_degree": 697,
+      "paper_count": 137
+    },
+    {
+      "rank": 15,
+      "author_id": "pid:l/TieYanLiu",
+      "name": "Tie-Yan Liu",
+      "betweenness_centrality": 0.036271968409728746,
+      "degree": 198,
+      "weighted_degree": 530,
+      "paper_count": 90
+    },
+    {
+      "rank": 16,
+      "author_id": "pid:47/1798-1",
+      "name": "Liwei Wang 0001",
+      "betweenness_centrality": 0.03528151601453161,
+      "degree": 159,
+      "weighted_degree": 345,
+      "paper_count": 73
+    },
+    {
+      "rank": 17,
+      "author_id": "pid:47/8135",
+      "name": "Stefano Ermon",
+      "betweenness_centrality": 0.03440755025444416,
+      "degree": 372,
+      "weighted_degree": 715,
+      "paper_count": 163
+    },
+    {
+      "rank": 18,
+      "author_id": "pid:176/5602",
+      "name": "Simon S. Du",
+      "betweenness_centrality": 0.03049521886264182,
+      "degree": 155,
+      "weighted_degree": 322,
+      "paper_count": 91
+    },
+    {
+      "rank": 19,
+      "author_id": "pid:57/8053",
+      "name": "Mingyi Hong 0001",
+      "betweenness_centrality": 0.02985243270073545,
+      "degree": 141,
+      "weighted_degree": 290,
+      "paper_count": 61
+    },
+    {
+      "rank": 20,
+      "author_id": "pid:r/ChristopherRe",
+      "name": "Christopher Ré",
+      "betweenness_centrality": 0.029775121530367467,
+      "degree": 272,
+      "weighted_degree": 568,
+      "paper_count": 94
+    }
+  ]
+}
